@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1999-05-01
+Version Consolidée au 1999-06-01
 
 # Partie législative
 
@@ -56854,6 +56854,22 @@ La voix du président est prépondérante en cas de partage des voix.
 	  - Décret n°77-38 1977-01-03 JORF 18 janvier 1977
 
 
+###### Article A510-4
+
+Le président de la mission pour l'implantation territoriale des emplois publics assiste aux séances du comité avec voix
+consultative.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1999-05-25 art. 1 JORF 1er juin 1999
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 janvier 1977
+
+
 ###### Article A510-6
 
 Les moyens administratifs nécessaires au fonctionnement du secrétariat du comité de décentralisation sont mis à la
@@ -56877,6 +56893,10 @@ Les dossiers de demande d'agrément ou d'avis sont déposés auprès du secréta
 La délégation à l'aménagement du territoire et à l'action régionale et les départements ministériels intéressés sont chargés
 d'instruire les affaires soumises au comité.
 
+Les dossiers déposés par les services de l'Etat et par les personnes publiques ou privées soumises à son contrôle sont
+également transmis à la mission pour l'implantation territoriale des emplois publics. La mission procède à l'analyse de la
+compatibilité de ces dossiers avec la politique de l'Etat en matière de localisation des services publics.
+
 Chaque département ministériel non représenté au sein du comité de décentralisation peut nommer un rapporteur adjoint.
 
 Le rapporteur adjoint est destinataire des ordres du jour des réunions du comité de décentralisation. Il assiste les
@@ -56891,7 +56911,7 @@ aspect de la politique d'aménagement du territoire.
 
 	**Modifié par**:
 
-	  - Arrêté 1995-05-09 art. 3, art. 4 JORF 11 mai 1995
+	  - Arrêté 1999-05-25 art. 2 JORF 1er juin 1999
 
 	**Codifié par**:
 
