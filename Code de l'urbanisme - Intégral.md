@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2001-01-18
+Version Consolidée au 2001-03-23
 
 # Partie législative
 
@@ -45707,6 +45707,36 @@ par un arrêté du préfet pris après un avis de cette commission.
 	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
+##### E - Zones agricoles protégées
+
+###### Article R421-38-18
+
+Les avis de la chambre d'agriculture et de la commission départementale d'orientation agricole prévus au deuxième alinéa de
+l'article L. 112-2 du code rural sont émis dans le délai de deux mois à compter de la réception du dossier. Passé ce délai,
+les avis sont réputés favorables. En cas d'avis défavorable de l'une ou l'autre d'entre elles, le permis de construire ne
+peut être délivré que sur décision motivée du préfet. Celui-ci se prononce dans un délai d'un mois suivant la transmission de
+l'avis de la chambre d'agriculture et de la commission départementale d'orientation agricole par l'autorité chargée de
+l'instruction.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural L112-2
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°2001-244 du 20 mars 2001 - art. 3 () JORF 23 mars 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+
 #####    F - Zone de servitude à proximité d'un cimetière
 
 ###### Article R421-38-19
@@ -56300,6 +56330,10 @@ juillet 1983.
 
 Parcs nationaux créés en application de la loi n° 60-708 du 22 juillet 1960.
 
+e) Zones agricoles protégées.
+
+Zones agricoles protégées délimitées et classées en application de l'article L. 112-2 du code rural.
+
 B. - Patrimoine culturel.
 
 a) Monuments historiques.
@@ -56520,36 +56554,13 @@ installations classées pour la protection de l'environnement.
 
 	**Cite**:
 
+	  - Code des postes et télécommunications L54 à L56-1, R21 à R26-1, L57 à L62-1, R27 à R39, L45-1, L48
+	  - Code rural 100, 101, L112-2, 128-7, 128-9, 128-6, 138-1, 135 à 138, 424
+	  - Décret n°1935-10-30 art. 6, art. 3, art. 2
 	  - Décret n°58-1316 1958-12-23
 	  - Décret n°59-96 1959-01-07
 	  - Décret n°59-645 1959-05-16
 	  - Décret n°61-859 1961-08-01
-	  - Décret n°67-1093 1967-12-15
-	  - CODE DES COMMUNES. - art. L361-1 (M)
-	  - CODE DES COMMUNES. - art. L361-4 (M)
-	  - Code forestier - art. L421-1 (V)
-	  - Code forestier - art. L432-1 (M)
-	  - Code forestier - art. L432-2 (V)
-	  - Code forestier - art. L531-1 (Ab)
-	  - Code forestier - art. L541-2 (Ab)
-	  - Code forestier L151-1 à L151-6, L411-1 à L413-1, L421-1, L432-1, L432-2, L531-1, L541-2
-	  - Code minier 71 à 73, 94
-	  - Code de la santé publique - art. L20 (M)
-	  - Code de la santé publique - art. L736 (M)
-	  - Code de l'urbanisme - art. L160-6 (M)
-	  - Code de l'urbanisme - art. L160-6-1 (V)
-	  - Code de l'urbanisme 11
-	  - Code de l'aviation civile - art. L281-1 (M)
-	  - Code de l'aviation civile - art. R244-1 (M)
-	  - Code de l'aviation civile - art. R245-1 (M)
-	  - Code de l'aviation civile L281-1, R241-1 à R243-3, R245-1, R244-1, D244-1 à D244-4
-	  - Code des postes et télécommunications L54 à L56-1, R21 à R26-1, L57 à L62-1, R27 à R39, L45-1, L48
-	  - Code du domaine public fluvial et de la navigation - art. 15 (M)
-	  - Code du domaine public fluvial et de la navigation - art. 16 (M)
-	  - Code du domaine public fluvial et de la navigation - art. 28 (M)
-	  - Code du domaine public fluvial et de la navigation - art. 55 (Ab)
-	  - Code rural 100, 101, 128-7, 128-9, 128-6, 138-1, 135 à 138, 424
-	  - Décret n°1935-10-30 art. 6, art. 3, art. 2
 	  - Décret n°64-158 1964-02-15
 	  - Décret n°64-481 1964-01-23 art. 25
 	  - Loi n°1791-07-08
@@ -56577,6 +56588,7 @@ installations classées pour la protection de l'environnement.
 	  - Loi n°62-904 1962-08-04
 	  - Loi n°65-498 1965-06-29
 	  - Loi n°66-1066 1966-12-31
+	  - Décret n°67-1093 1967-12-15
 	  - Loi n°69-7 du 3 janvier 1969 - art. 4 (Ab)
 	  - Loi n°69-7 du 3 janvier 1969 - art. 5 (Ab)
 	  - Loi n°72-1147 1972-12-23 Finances rectificative pour 1972
@@ -56590,14 +56602,36 @@ installations classées pour la protection de l'environnement.
 	  - Loi n°87-565 du 22 juillet 1987 - art. 40-6 (Ab)
 	  - Loi n°87-954 1987-11-27
 	  - Loi n°91-1385 1991-12-31
-
-	**Modifié par**:
-
-	  - Décret n°2000-547 du 16 juin 2000 - art. 3 () JORF 22 juin 2000
+	  - CODE DES COMMUNES. - art. L361-1 (M)
+	  - CODE DES COMMUNES. - art. L361-4 (M)
+	  - Code forestier - art. L421-1 (V)
+	  - Code forestier - art. L432-1 (M)
+	  - Code forestier - art. L432-2 (V)
+	  - Code forestier - art. L531-1 (Ab)
+	  - Code forestier - art. L541-2 (Ab)
+	  - Code forestier L151-1 à L151-6, L411-1 à L413-1, L421-1, L432-1, L432-2, L531-1, L541-2
+	  - Code minier 71 à 73, 94
+	  - Code de la santé publique - art. L20 (M)
+	  - Code de la santé publique - art. L736 (M)
+	  - Code de l'urbanisme - art. L160-6 (M)
+	  - Code de l'urbanisme - art. L160-6-1 (V)
+	  - Code de l'urbanisme 11, L160-6, L160-6-1
+	  - Code de l'aviation civile - art. L281-1 (M)
+	  - Code de l'aviation civile - art. R244-1 (M)
+	  - Code de l'aviation civile - art. R245-1 (M)
+	  - Code de l'aviation civile L281-1, R241-1 à R243-3, R245-1, R244-1, D244-1 à D244-4
+	  - Code du domaine public fluvial et de la navigation - art. 15 (M)
+	  - Code du domaine public fluvial et de la navigation - art. 16 (M)
+	  - Code du domaine public fluvial et de la navigation - art. 28 (M)
+	  - Code du domaine public fluvial et de la navigation - art. 55 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°2001-244 du 20 mars 2001 - art. 2 () JORF 23 mars 2001
 
 
 ## Liste des communes comprises dans la zone 1
