@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1984-12-22
+Version Consolidée au 1985-01-10
 
 # Partie législative
 
@@ -121,40 +121,6 @@ directeur.
 	**Modifié par**:
 
 	  - Loi n°84-747 1984-08-02 ART. 8 JORF 3 AOUT 1984
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-
-###### Article L122-1-2
-
-Le projet de schéma directeur ou de schéma de secteur est arrêté par délibération de l'organe délibérant de l'établissement
-public de coopération intercommunale puis soumis pour avis aux conseils municipaux des communes intéressées ainsi qu'aux
-personnes publiques mentionnées au cinquième alinéa de l'article L. 122-1-1. Ces avis sont réputés favorables s'ils
-n'interviennent pas dans un délai de trois mois après transmission du projet de schéma. Le projet, auquel sont annexés les
-avis des personnes publiques consultées, est ensuite mis à la disposition du public pendant un mois [*publicité*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°83-8 1983-01-07 ART. 44
-	  - Loi n°83-663 1983-07-22
-	  - Code de l'urbanisme R122-12
-
-	**Cité par**:
-
-	  - Loi n°83-636 du 13 juillet 1983 - art. 17 (Ab)
-	  - Code de l'urbanisme - art. L122-1-3 (Ab)
-	  - Code de l'urbanisme - art. L124-3 (M)
-	  - Code de l'urbanisme - art. L145-5 (M)
-	  - Code de l'urbanisme - art. L600-1 (M)
-	  - Code général des collectivités territoriales - art. L5333-2 (M)
-
-	**Modifié par**:
-
-	  - Loi n°83-663 du 22 juillet 1983 - art. 94 () JORF 23 JUILLET 1983
 
 	**Codifié par**:
 
@@ -520,27 +486,13 @@ directives dans les conditions prévues à l'article L. 123-7-1.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°83-8 1983-01-07 ART. 36, ART. 53, ART. 73
-	  - Loi n°83-663 1983-07-22
-	  - Code de l'urbanisme - art. L111-1 (M)
-	  - Code de l'urbanisme - art. L111-1-1 (M)
-	  - Code de l'urbanisme - art. L123-1 (M)
-	  - Code de l'urbanisme - art. L123-7-1 (M)
-	  - Code de l'urbanisme - art. R111-15 (M)
-	  - Code de l'urbanisme R122-14
-	  - DIRECTIVE 1977-09-22
-	  - DIRECTIVE 1977-11-22
-	  - DIRECTIVE 1979-08-25
-
-	**Créé par**:
-
-	  - Loi n°83-8 du 7 janvier 1983 - art. 73 () JORF 9 JANVIER 1983
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+
+	**Modifié par**:
+
+	  - Loi n°85-30 du 9 janvier 1985 - art. 75 () JORF 10 janvier 1985
 
 	**Cité par**:
 
@@ -553,6 +505,12 @@ directives dans les conditions prévues à l'article L. 123-7-1.
 	  - Code de l'urbanisme - art. R*123-3 (M)
 	  - Code de l'urbanisme - art. R*124-1 (VT)
 	  - Code du patrimoine. - art. L630-1 (VT)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L111-1 (M)
+	  - Code de l'urbanisme - art. L111-1-1 (M)
+	  - Code de l'urbanisme - art. L123-7-1 (M)
 
 	**Codifié par**:
 
@@ -1747,6 +1705,38 @@ la liste des opérations d'intérêt national visées aux articles L. 111-1-2 et
 
 #### Chapitre II : Schémas directeurs.
 
+###### Article L122-1-2
+
+Le projet de schéma directeur ou de schéma de secteur est arrêté par délibération de l'organe délibérant de l'établissement
+public de coopération intercommunale puis soumis pour avis aux conseils municipaux des communes intéressées ainsi qu'aux
+personnes publiques mentionnées au cinquième alinéa de l'article L. 122-1-1. Ces avis sont réputés favorables s'ils
+n'interviennent pas dans un délai de trois mois après transmission du projet de schéma. Le projet, auquel sont annexés les
+avis des personnes publiques consultées, est ensuite mis à la disposition du public pendant un mois [*publicité*].
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°83-636 du 13 juillet 1983 - art. 17 (Ab)
+	  - Code de l'urbanisme - art. L122-1-3 (Ab)
+	  - Code de l'urbanisme - art. L124-3 (M)
+	  - Code de l'urbanisme - art. L145-5 (M)
+	  - Code de l'urbanisme - art. L600-1 (M)
+	  - Code général des collectivités territoriales - art. L5333-2 (M)
+
+	**Modifié par**:
+
+	  - Loi n°85-30 du 9 janvier 1985 - art. 73 () JORF 10 janvier 1985
+
+	**Cite**:
+
+	  - Code de l'urbanisme L122-1-1 AL. 5
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
 ###### Article L122-1-3
 
 A l'issue du délai de mise à disposition du public prévu à l'article L. 122-1-2 et après que la commission de conciliation a
@@ -2047,7 +2037,9 @@ existants pourra, pour des motifs d'urbanisme ou d'architecture, être imposé o
 celle qui était initialement bâtie, nonobstant les règles fixées au 4° ci-dessus ;
 
 6° préciser le tracé et les caractéristiques des voies de circulation à conserver, à modifier ou à créer, y compris les rues
-ou sentiers piétonniers et les pistes cyclables ; 
+ou sentiers piétonniers et les pistes cyclables et délimiter les zones qui sont ou peuvent être aménagées en vue de la
+pratique du ski et les secteurs réservés aux remontées mécaniques en indiquant, le cas échéant, les équipements et
+aménagements qui peuvent y être prévus ; 
 
 7° délimiter les quartiers, rues, monuments, sites et secteurs à protéger ou à mettre en valeur pour des motifs d'ordre
 esthétique, historique ou écologique ; 
@@ -2159,7 +2151,7 @@ orientations définies par les chartes intercommunales.
 
 	**Modifié par**:
 
-	  - Loi n°83-663 du 22 juillet 1983 - art. 96 () JORF 23 JUILLET 1983
+	  - Loi n°85-30 1985-01-09 art. 52-I JORF 10 janvier 1985
 
 	**Codifié par**:
 
@@ -2234,7 +2226,8 @@ Après délibération du conseil municipal, une commune peut confier l'élaborat
 Sont associés à cette élaboration l'Etat et, à leur demande et dans les formes que la commune ou l'établissement public
 détermine, la région, le département et les organismes mentionnés aux articles L. 121-6 et L. 121-7 ; le maire ou le
 président de l'établissement public peut recueillir l'avis de tout organisme ou association ayant compétence en matière de
-construction, d'aménagement ou d'urbanisme.
+construction, d'aménagement ou d'urbanisme. En zone de montagne, la commission communale d'aménagement foncier est consultée
+à l'initiative du maire dans toute commune où est décidée l'élaboration d'un plan d'occupation des sols.
 
 Au vu de la décision prescrivant l'élaboration d'un plan d'occupation des sols, le représentant de l'Etat porte à la
 connaissance de la commune ou de l'établissement public compétent les prescriptions, servitudes et dispositions mentionnées
@@ -2256,23 +2249,9 @@ avec en annexe les avis ou les accords des personnes publiques consultées.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°82-213 1982-03-02
-	  - Loi n°82-1169 du 31 décembre 1982 - art. 57, v. init.
-	  - Loi n°83-8 1983-01-07 ART. 38, ART. 50, ART. 52
-	  - Loi n°83-663 1983-07-22
-	  - Code de l'urbanisme - art. L121-6 (M)
-	  - Code de l'urbanisme - art. L121-7 (M)
-	  - Code de l'urbanisme - art. L121-8 (M)
-	  - Code de l'urbanisme - art. L123-1 (M)
-	  - Code de l'urbanisme - art. L123-3-2 (M)
-	  - Code de l'urbanisme - art. L123-5 (M)
-	  - Code de l'urbanisme R123-5 AL. 1
-
 	**Modifié par**:
 
-	  - Loi n°83-663 du 22 juillet 1983 - art. 98 () JORF 23 JUILLET 1983
+	  - Loi n°85-30 du 9 janvier 1985 - art. 71 () JORF 10 janvier 1985
 
 	**Cité par**:
 
@@ -2290,6 +2269,13 @@ avec en annexe les avis ou les accords des personnes publiques consultées.
 	  - Code de l'urbanisme - art. R*613-2 (Ab)
 	  - Code de l'urbanisme - art. R311-6 (VD)
 	  - Code rural - art. R244-15 (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L121-6 (M)
+	  - Code de l'urbanisme - art. L121-7 (M)
+	  - Code de l'urbanisme - art. L123-1 (M)
+	  - Code de l'urbanisme - art. L123-5 (M)
 
 	**Anciens textes**:
 
@@ -4242,6 +4228,359 @@ En cas d'urgence, constatée par décret en conseil des ministres, il y est proc
 	  - Code de l'urbanisme - art. L144-1 (M)
 
 
+#### CHAPITRE V : Dispositions particulières aux zones de montagne.
+
+###### Article L145-2
+
+Les conditions d'utilisation et de protection de l'espace montagnard sont fixées par le présent chapitre qui a le caractère
+de loi d'aménagement et d'urbanisme au sens de l'article L. 111-1-1.
+
+"Elles sont applicables à toute personne publique ou privée pour l'exécution de tous travaux, constructions, défrichements,
+plantations, installations et travaux divers, pour l'ouverture des carrières, la recherche et l'exploitation des minerais, la
+création de lotissements et l'ouverture de terrains de camping ou de stationnement de caravanes, la réalisation de remontées
+mécaniques et l'aménagement de pistes, l'établissement de clôtures et les installations classées pour la protection de
+l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°85-30 du 9 janvier 1985 - art. 72 () JORF 10 janvier 1985
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L111-1-1 (M)
+
+	**Cité par**:
+
+	  - Code du tourisme. - art. L331-1 (V)
+	  - Code général des collectivités territoriales - art. L4424-11 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+#####  Section 1 : Principes d'aménagement et de zone de montagne.
+
+###### Article L145-3
+
+I. - Les terres nécessaires au maintien et au développement des activités agricoles, pastorales et forestières sont
+préservées. La nécessité de préserver ces terres s'apprécie au regard de leur rôle et de leur place dans les systèmes
+d'exploitation locaux. Sont également pris en compte leur situation par rapport au siège de l'exploitation, leur relief, leur
+pente et leur exposition. Seules les constructions nécessaires à ces activités ainsi que les équipements sportifs liés
+notamment à la pratique du ski et de la randonnée peuvent y être autorisés.
+
+II. - Les documents et décisions relatifs à l'occupation des sols comportent les dispositions propres à préserver les
+espaces, paysages et milieux caractéristiques du patrimoine naturel et culturel montagnard.
+
+III. - L'urbanisation doit se réaliser en continuité avec les bourgs et villages existants, sauf si le respect des
+dispositions prévues aux I et II ci-dessus ou la protection contre les risques naturels imposent la délimitation de hameaux
+nouveaux intégrés à l'environnement.
+
+La capacité d'accueil des espaces destinés à l'urbanisation doit être compatible avec la préservation des espaces naturels et
+agricoles mentionnés aux I et II du présent article.
+
+IV. - Le développement touristique et, en particulier, la création d'une unité touristique nouvelle doivent prendre en compte
+les communautés d'intérêt des collectivités locales concernées et contribuer à l'équilibre des activités économiques et de
+loisirs, notamment en favorisant l'utilisation rationnelle du patrimoine bâti existant et des formules de gestion locative
+pour les constructions nouvelles.
+
+Leur localisation, leur conception et leur réalisation doivent respecter la qualité des sites et les grands équilibres
+naturels.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°85-30 du 9 janvier 1985 - art. 72 () JORF 10 janvier 1985
+
+	**Cité par**:
+
+	  - Décret n°2014-1300 du 23 octobre 2014 - art. (VD)
+	  - Code de l'environnement - art. L341-16 (V)
+	  - Code de l'urbanisme - art. L145-10 (VT)
+	  - Code de l'urbanisme - art. L145-5 (VT)
+	  - Code de l'urbanisme - art. L145-7 (VT)
+	  - Code de l'urbanisme - art. L480-13 (M)
+	  - Code de l'urbanisme - art. R*122-1 (VT)
+	  - Code de l'urbanisme - art. R*123-1 (VT)
+	  - Code du patrimoine. - art. L630-1 (VT)
+	  - Code général des impôts, CGI. - art. 1585 C (VT)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code du tourisme. - art. L342-6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L145-5
+
+" - Les parties naturelles des rives des plans d'eau naturels ou artificiels d'une superficie inférieure à mille hectares
+sont protégées sur une distance de trois cent mètres à compter de la rive ; y sont interdits toutes constructions,
+installations et routes nouvelles ainsi que toutes extractions et tous affouillements.
+
+" Peuvent être cependant autorisés les bâtiments à usage agricole, pastoral ou forestier, les refuges et gîtes d'étapes
+ouverts au public, les installations à caractère scientifique si aucune autre implantation n'est possible et les équipements
+d'accueil et de sécurité nécessaires à la pratique de la baignade ou des sports nautiques ainsi que les projets visés au 1°
+de l'article l. 111-1-2.
+
+" Lorsqu'un plan d'occupation des sols est établi, les dispositions du présent article peuvent être adaptées par ce document
+d'urbanisme pour permettre une extension mesurée des agglomérations ou l'ouverture d'un terrain de camping dans le respect du
+paysage et des caractéristiques propres à cet espace sensible.
+
+" Lorsqu'un schéma directeur ou un schéma de secteur est établi pour l'ensemble des communes riveraines, ou un plan
+d'occupation des sols si le plan d'eau est situé à l'intérieur du territoire administratif d'une seule commune, les
+dispositions du présent article peuvent également être adaptées pour permettre la délimitation, à titre exceptionnel, de
+hameaux nouveaux intégrés à l'environnement. En l'absence des prescriptions particulières visées à l'article L. 145-7, le
+schéma directeur ou le schéma de secteur est alors élaboré dans les conditions prévues au deuxième alinéa de l'article L.
+122-1-2.
+
+" Par exception au champ d'application du présent chapitre, les dispositions des alinéas précédents s'appliquent à l'ensemble
+des communes riveraines des plans d'eau situés partiellement ou totalement en zone de montagne.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°85-30 du 9 janvier 1985 - art. 72 () JORF 10 janvier 1985
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L341-16 (V)
+	  - Code de l'urbanisme - art. L480-13 (M)
+	  - Code de l'urbanisme - art. R*122-1 (VT)
+	  - Code de l'urbanisme - art. R*122-3 (VT)
+	  - Code de l'urbanisme - art. R*123-1 (VT)
+	  - Code de l'urbanisme - art. R*123-14 (VT)
+	  - Code de l'urbanisme - art. R*123-9 (VT)
+	  - Code de l'urbanisme - art. R*124-1 (VT)
+	  - Code de l'urbanisme - art. R*124-3 (VT)
+	  - Code de l'urbanisme - art. R145-15 (VT)
+	  - Code du patrimoine. - art. L630-1 (VT)
+	  - Code du tourisme. - art. L331-1 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L111-1-2 (M)
+	  - Code de l'urbanisme - art. L122-1-2 (M)
+	  - Code de l'urbanisme - art. L145-7 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L145-7
+
+" I. - Les prescriptions particulières prévues par l'article L. 111-1-1 prises en application du présent chapitre sont
+établies pour chacun des massifs définis à l'article 5 de la loi n° 85-30 du 9 janvier 1985 précitée et peuvent :
+
+" 1° Adapter en fonction de la sensibilité des milieux concernés les seuils et critères des études d'impact spécifiques aux
+zones de montagne fixés en application de l'article 2 de la loi n° 76-629 du 10 juillet 1976 relative à la protection de la
+nature ainsi que les seuils et critères d'enquête publique spécifiques aux zones de montagne fixés en application de
+l'article premier de la loi n° 83-630 du 12 juillet 1983 relative à la démocratisation des enquêtes publiques et à la
+protection de l'environnement ;
+
+" 2° Désigner les espaces, paysages et milieux  les plus remarquables du patrimoine naturel et culturel montagnard, notamment
+les gorges, grottes, glaciers, lacs, tourbières, marais, lieux de pratique de l'alpinisme, de l'escalade et du canoé-kayak,
+cours d'eau de première catégorie au sens du 10° de l'article 437 du code rural et leurs abords, et définir les modalités de
+leur préservation ;
+
+" 3° Préciser en fonction des particularités de chaque massif les conditions d'application du paragraphe III de l'article L.
+145-3 du présent code.
+
+" Ces prescriptions sont établies par décret en Conseil d'Etat après avis ou sur proposition des conseils régionaux
+intéressés et du comité de massif prévu à l'article 7 de la loi n° 85-30 du 9 janvier 1985 précitée.
+
+" II. - Les comités de massif peuvent élaborer des recommandations particulières à certaines zones sensibles et, notamment
+aux secteurs de haute montagne.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°76-629 du 10 juillet 1976 - art. 2 (M)
+	  - Loi n°83-630 du 12 juillet 1983 - art. 1, v. init.
+	  - Loi n°85-30 1985-01-09 art. 7, art. 5
+	  - Code de l'urbanisme - art. L145-3 (M)
+	  - Code rural 437 10°
+
+	**Créé par**:
+
+	  - Loi n°85-30 du 9 janvier 1985 - art. 72 () JORF 10 janvier 1985
+
+	**Cité par**:
+
+	  - Loi n°85-30 du 9 janvier 1985 - art. 94 (Ab)
+	  - Code de l'environnement - art. L333-2 (V)
+	  - Code de l'urbanisme - art. L111-1-1 (V)
+	  - Code de l'urbanisme - art. L121-10 (VT)
+	  - Code de l'urbanisme - art. L122-11-1 (VT)
+	  - Code de l'urbanisme - art. L123-12 (V)
+	  - Code de l'urbanisme - art. L145-5 (M)
+	  - Code de l'urbanisme - art. R*111-27 (VT)
+	  - Code de l'urbanisme - art. R*121-14 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+#####  Section 1 : Principes d'aménagement et de protection en zone de montagne.
+
+###### Article L145-4
+
+Le périmètre du schéma directeur ou du schéma de secteur tient compte de la communauté d'intérêts économiques et sociaux à
+l'échelle d'une vallée, d'un pays, d'un massif local ou d'une entité géographique constituant une unité d'aménagement
+cohérent.
+
+Le périmètre est arrêté par le représentant de l'Etat dans les conditions définies au troisième alinéa de l'article L.
+122-1-1 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°85-30 du 9 janvier 1985 - art. 72 () JORF 10 janvier 1985
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L122-1-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+#####  Section 2 : Unités touristiques nouvelles.
+
+###### Article L145-9
+
+- Les dispositions de la présente section s'appliquent exclusivement aux unités touristiques nouvelles.
+
+Est considérée comme unité touristique nouvelle toute opération de développement touristique en zone de montagne ayant pour
+objet ou pour effet :
+
+- soit de créer une urbanisation, un équipement ou un aménagement touristique dans un site encore vierge de tout équipement,
+aménagement ou construction ;
+
+- soit de créer une urbanisation, un équipement ou un aménagement touristique en discontinuité avec les urbanisations,
+aménagements ou équipements existants lorsque cela entraîne une modification substantielle de l'économie locale, des paysages
+ou des équilibres naturels montagnards ;
+
+- soit d'entraîner, en une ou plusieurs tranches, une augmentation de la capacité d'hébergement touristique de plus de 8000
+mètres carrés de surface de plancher hors oeuvre ou de réaliser, en une ou plusieurs tranches, une extension ou un
+renforcement significatif des remontées mécaniques.
+
+Un décret en Conseil d'Etat détermine notamment les seuils financiers périodiquement réévalués, à partir desquels, selon le
+cas, cette extension ou ce renforcement significatif est considéré comme unité touristique nouvelle. Il détermine également
+la procédure applicable en cas d'urgence au remplacement des remontées mécaniques devenues inutilisables.
+
+Une unité touristique nouvelle ne peut être réalisée que dans une commune disposant d'un plan d'occupation des sols [*POS*]
+opposable aux tiers.
+
+Le programme d'une unité touristique nouvelle doit, en tant que de besoin, contenir des dispositions pour le logement des
+salariés de la station et pour l'accueil et l'accès aux pistes des skieurs "à la journée" non résidents.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°85-30 du 9 janvier 1985 - art. 72 () JORF 10 janvier 1985
+
+	**Cité par**:
+
+	  - Loi n°85-30 du 9 janvier 1985 - art. 74 (V)
+	  - Code de l'urbanisme - art. L122-1-2 (Ab)
+	  - Code de l'urbanisme - art. L122-8 (VD)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code du tourisme. - art. L342-6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L145-11
+
+- En l'absence de schéma directeur ou de schéma de secteur approuvé, la création d'une unité touristique nouvelle est
+autorisée par le représentant de l'Etat mentionné à l'article 7 de la loi n° 85-30 du 9 janvier 1985 précitée. Le projet est,
+au préalable, mis à la disposition du public et soumis pour avis à la commission spécialisée prévue par l'article 7 de la loi
+n° 85-30 du 9 janvier 1985 précitée.
+
+L'autorisation devient caduque si, dans un délai de quatre ans à compter de la notification au bénéficiaire, les équipements
+et les constructions autorisés dans le projet n'ont pas été entrepris. Ce délai s'applique aux opérations autorisées
+antérieurement à la loi n° 85-30 du 9 janvier 1985 précitée au terme d'un délai d'un an à compter de sa publication.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°85-30 1985-01-09 art. 7
+
+	**Créé par**:
+
+	  - Loi n°85-30 du 9 janvier 1985 - art. 72 () JORF 10 janvier 1985
+
+	**Cité par**:
+
+	  - Loi n°85-30 du 9 janvier 1985 - art. 74 (V)
+	  - Loi n°85-30 du 9 janvier 1985 - art. 78 (Ab)
+	  - Décret n°2007-1091 du 13 juillet 2007 - art. 13 (V)
+	  - Code de l'environnement - art. L341-16 (V)
+	  - Code de l'environnement - art. L563-2 (V)
+	  - Code de l'urbanisme - art. L122-1 (Ab)
+	  - Code de l'urbanisme - art. L122-1-10 (VT)
+	  - Code de l'urbanisme - art. L122-1-2 (Ab)
+	  - Code de l'urbanisme - art. L122-8 (VT)
+	  - Code de l'urbanisme - art. L146-9 (VT)
+	  - Code de l'urbanisme - art. R*121-14 (VT)
+	  - Code de l'urbanisme - art. R145-1 (VT)
+	  - Code de l'urbanisme - art. R145-2 (VT)
+	  - Code de l'urbanisme - art. R145-3 (VT)
+	  - Code du patrimoine. - art. L630-1 (VT)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code du tourisme. - art. L342-6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L145-12
+
+- Lorsqu'un projet d'unité touristique nouvelle concerne un territoire couvert par un schéma directeur ou un schéma de
+secteur approuvé et que ce schéma n'en prévoit pas la création, le représentant de l'Etat dans le département peut, à la
+demande de la commune ou du groupement de communes concerné et après avis de la commission spécialisée du comité de massif,
+demander la modification du schéma en application des dispositions de l'article L. 122-1-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Créé par**:
+
+	  - Loi n°85-30 du 9 janvier 1985 - art. 72 () JORF 10 janvier 1985
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L122-1-4 (M)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code du tourisme. - art. L342-6 (V)
+
+
 ### Titre IV : Dispositions particulières à certaines parties du territoire
 
 #### Chapitre Ier : Dispositions particulières à Paris et à la région d'Ile-de-France
@@ -4311,6 +4650,151 @@ cesseront de produire effet le 1er janvier 1976.
 
 	  - Loi n°2007-254 du 27 février 2007 - art. 3 (V)
 	  - Code de l'urbanisme - art. L328-2 (V)
+
+
+#### Chapitre V : Dispositions particulières aux zones de montagne.
+
+###### Article L145-1
+
+Les dispositions du présent chapitre sont applicables dans les zones de montagne définies aux articles 3 et 4 de la loi n°
+85-30 du 9 janvier 1985.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Cite**:
+
+	  - Loi n°85-30 1985-01-09 art. 3, art. 4
+	  - Loi n°85-30 du 9 janvier 1985 - art. 4 (V)
+
+	**Créé par**:
+
+	  - Loi n°85-30 du 9 janvier 1985 - art. 72 () JORF 10 janvier 1985
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L111-1-1 (VT)
+	  - Code général des collectivités territoriales - art. L4424-11 (V)
+	  - Code général des collectivités territoriales - art. R1614-42 (M)
+
+
+#####  Section 1 : Principes d'aménagement et de protection en zone de montagne.
+
+###### Article L145-6
+
+La création de routes nouvelles de vision panoramique, de corniche ou de bouclage, est interdite dans la partie des zones de
+montagne située au-dessus de la limite forestière, sauf exception justifiée par le désenclavement d'agglomérations existantes
+ou de massifs forestiers ou par des considérations de défense nationale ou de liaison internationale.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 30 mai 1996 - art. 5 (VD)
+	  - Arrêté du 11 janvier 2016 - art. 2
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Créé par**:
+
+	  - Loi n°85-30 du 9 janvier 1985 - art. 72 () JORF 10 janvier 1985
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L122-4 (VD)
+
+
+###### Article L145-8
+
+Les installations et ouvrages nécessaires aux établissements scientifiques, à la défense nationale, aux recherches et à
+l'exploitation de ressources minérales d'intérêt national, à la protection contre les risques naturels et aux services
+publics autres que les remontées mécaniques ne sont pas soumis aux dispositions de la présente section si leur localisation
+dans ces espaces correspond à une nécessité technique impérative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Créé par**:
+
+	  - Loi n°85-30 du 9 janvier 1985 - art. 72 () JORF 10 janvier 1985
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L122-3 (VD)
+
+
+#####  Section 2 : Unités touristiques nouvelles.
+
+###### Article L145-10
+
+A l'exception du III de l'article L145-3, les dispositions de la section première du présent chapitre et les dispositions du
+chapitre II du titre III de la loi n° 85-30 du 9 janvier 1985 précitée sont applicables aux unités touristiques nouvelles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Cite**:
+
+	  - Loi n°85-30 1985-01-09 art. 42 à art. 49
+	  - Code de l'urbanisme L145-3 à L145-8
+
+	**Créé par**:
+
+	  - Loi n°85-30 du 9 janvier 1985 - art. 72 () JORF 10 janvier 1985
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code du tourisme. - art. L342-6 (V)
+
+
+###### Article L145-13
+
+Un décret en Conseil d'Etat précise les conditions d'application de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Créé par**:
+
+	  - Loi n°85-30 du 9 janvier 1985 - art. 72 () JORF 10 janvier 1985
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L145-11 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L171-1 (VD)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code du tourisme. - art. L342-6 (V)
 
 
 ### Titre V : Application aux départements d'outre-mer
@@ -13723,6 +14207,135 @@ b) Dans les autres communes, au nom de l'Etat.
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+#### Chapitre V : Remontées mécaniques et aménagements de domaine skiable.
+
+###### Article L445-1
+
+- Les remontées mécaniques visées à l'article 43 de la loi n° 85-30 du 9 janvier 1985 précitée sont soumises à autorisation,
+d'une part, avant l'exécution des travaux et, d'autre part, avant la mise en exploitation.
+
+L'autorisation d'exécution des travaux portant sur la réalisation des remontées mécaniques tient lieu du permis de construire
+prévu à l'article L. 421-1 en ce qui concerne les travaux soumis audit permis.
+
+Cette autorisation est délivrée, quelle que soit l'importance de l'équipement, par l'autorité compétente en matière de permis
+de construire.
+
+Elle est délivrée après avis conforme du représentant de l'Etat dans le département au titre de la sécurité des installations
+et des aménagements concernés par l'appareil. Le représentant de l'Etat dans le département arrête les réserves et les
+prescriptions auxquelles peut être subordonnée l'autorisation d'exécution des travaux.
+
+La mise en exploitation des remontées mécaniques est autorisée par l'autorité compétente en matière de permis de construire,
+après avis conforme du représentant de l'Etat dans le département au titre de la sécurité des installations et des
+aménagements concernés par l'appareil. Cette autorisation tient lieu du certificat de [* conformité *] prévu à l'article L.
+460-2.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°85-30 1985-01-09 art. 43
+	  - Code de l'urbanisme - art. L421-1 (M)
+	  - Code de l'urbanisme - art. L460-2 (M)
+
+	**Créé par**:
+
+	  - Loi n°85-30 du 9 janvier 1985 - art. 49 () JORF 10 janvier 1985
+
+	**Cité par**:
+
+	  - Loi n°85-30 du 9 janvier 1985 - art. 50 bis (Ab)
+	  - Décret n°95-260 du 8 mars 1995 - art. 2 (VD)
+	  - Décret n°2007-934 du 15 mai 2007 - art. 8 (V)
+	  - Code de l'environnement - art. L563-2 (M)
+	  - Code de l'urbanisme - art. R*446-2 (Ab)
+	  - Code de l'urbanisme - art. R445-3 (Ab)
+	  - Code de l'urbanisme - art. R445-5 (Ab)
+	  - Code du sport. - art. L312-11 (V)
+	  - Code du tourisme. - art. L342-16 (V)
+	  - Code du tourisme. - art. L342-17-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L445-2
+
+L'aménagement de pistes de ski alpin est soumis à l'autorisation délivrée par l'autorité compétente en matière de permis de
+construire.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°85-30 du 9 janvier 1985 - art. 49 () JORF 10 janvier 1985
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R445-14 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L445-4
+
+- Un décret en Conseil d'Etat détermine les règles générales auxquelles sont soumises les autorisations prévues par le
+présent chapitre ainsi que les formes, conditions et délais dans lesquels elles sont délivrées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Créé par**:
+
+	  - Loi n°85-30 du 9 janvier 1985 - art. 49 () JORF 10 janvier 1985
+
+
+###### Article l445-3
+
+- Dans les communes pourvues d'un plan d'occupation des sols opposable, les équipements et aménagements destinés à la
+pratique du ski alpin et les remontées mécaniques ne peuvent être respectivement réalisés qu'à l'intérieur des zones ou à
+l'intérieur des secteurs délimités en application du 6° de l'article L. 123-1.
+
+Dans les communes pourvues d'un plan d'occupation des sols opposable lors de la publication de la loi n° 85-30 du 9 janvier
+1985 précitée, cette disposition s'applique, le cas échéant, à partir de l'approbation de la première modification ou
+révision de ce plan.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme L123-1 6°
+	  - Loi n°85-30 1985-01-09
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Créé par**:
+
+	  - Loi n°85-30 du 9 janvier 1985 - art. 49 () JORF 10 janvier 1985
 
 
 ### TITRE V :Dispositions diverses
