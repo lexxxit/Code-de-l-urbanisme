@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1997-01-01
+Version Consolidée au 1997-01-25
 
 # Partie législative
 
@@ -27119,7 +27119,7 @@ pour assurer la coordination dans le massif.
 ###### Article R145-10
 
 Le renforcement des remontées mécaniques ou leur extension est considéré comme unité touristique nouvelle lorsque les
-dépenses de construction et d'installation correspondantes, effectuées en une ou plusieurs tranches, excèdent 16.000.000
+dépenses de construction et d'installation correspondantes, effectuées en une ou plusieurs tranches, excèdent 17 500 000
 francs. Toutefois, le remplacement d'une remontée mécanique ne constitue pas une unité touristique nouvelle lorsque, d'une
 part, les lieux de départ et d'arrivée sont inchangés et que, d'autre part, le débit horaire maximum de la nouvelle
 installation est inférieur au triple de celui de l'ancien équipement.
@@ -27136,7 +27136,7 @@ consommation.
 
 	**Modifié par**:
 
-	  - Arrêté 1990-05-10 art. 1 JORF 29 mai 1990
+	  - Arrêté 1997-01-16 art. 1 JORF 25 janvier 1997
 
 	**Liens**:
 
