@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1992-09-11
+Version Consolidée au 1992-09-20
 
 # Partie législative
 
@@ -29604,351 +29604,6 @@ Marseille et Lyon et des établissements publics de coopération intercommunale.
 	  - Décret n°73-1023 1973-11-08
 
 
-#### CHAPITRE V : Dispositions applicables aux zones à urbaniser en priorité
-
-#####  Section 1 : Supression d'une zone à urbaniser en priorité ou réduction de son périmètre.
-
-###### Article R*215-1
-
-Conformément aux dispositions de l'article 26-II de la loi n. 75-1328 du 31 décembre 1975, la suppression d'une zone à
-urbaniser en priorité ou la réduction de son périmètre est prononcée :
-
-a) Par arrêté du ministre chargé de l'urbanisme, sur avis favorable ou sur proposition de la commune ou, s'il en existe un,
-de l'établissement public groupant plusieurs communes et ayant compétence en matière d'urbanisme ;
-
-b) Par décret en Conseil d'Etat en cas d'avis défavorable ou faute d'avis de la commune ou, s'il en existe un, de
-l'établissement public intéressé, transmis à l'autorité de tutelle dans le délai de deux mois à compter du jour [*point de
-départ*] où le maire, ou le président de l'établissement public, a reçu communication du projet supprimant la zone ou en
-réduisant le périmètre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°92-966 1992-09-11 art. 6 JORF 11 septembre 1992
-
-	**Cite**:
-
-	  - Loi n°75-1328 1975-12-31 ART. 26-II
-
-	**Modifié par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 1 () JORF 16 mars 1986 en vigueur le 1er juin 1987
-
-
-###### Article R*215-2
-
-Lorsque la zone pour laquelle une mesure de réduction du périmètre ou de suppression est envisagée se trouve située en région
-parisienne et revêt un intérêt régional, le préfet de région est consulté préalablement à la décision de suppression de la
-zone ou de réduction de son périmètre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°92-966 1992-09-11 art. 6 JORF 11 septembre 1992
-
-	**Modifié par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 1 () JORF 16 mars 1986 en vigueur    le 1er juin 1987
-
-
-###### Article R*215-4
-
-La décision qui supprime la zone ou en réduit le périmètre entraîne notamment pour le territoire qu'elle concerne les effets
-[*juridiques*] ci-après :
-
-a) Les divisions parcellaires entrant dans le champ des prévisions de l'article R. 315-1 qui seront effectuées à l'intérieur
-du territoire qui était couvert par la zone ou la partie de zone, seront soumises à la réglementation applicable aux
-lotissements ;
-
-b) Il ne peut plus être fait application de mesures de sauvegarde prises sur le fondement de l'article 48 de la loi n. 57-908
-du 7 août 1957 ou de l'article R. 311-7 ;
-
-c) Il ne peut plus être fait application du droit de préemption institué par les articles L. 211-1 à L. 211-8 dans leur
-rédaction antérieure à l'intervention de la loi n. 75-1328 du 31 décembre 1975 ;
-
-d) La rétrocession à la demande d'une collectivité locale d'un immeuble acquis par l'Etat par exercice du droit de
-substitution demeure régie par les dispositions de l'article L. 211-3 dans leur rédaction antérieure à l'intervention de la
-loi n. 75-1328 du 31 décembre 1975 et par les dispositions qui ont été prises pour leur application ;
-
-e) Les dispositions relatives au plafond légal de densité deviennent applicables ;
-
-f) La zone ou la partie de zone est rayée de la liste des zones exclues du champ d'application de la taxe locale
-d'équipement.
-
-g) Les dispositions des cahiers des charges de cession des terrains approuvés ainsi que celles des cahiers des charges de
-concession, qui sont destinées à assurer l'unité d'urbanisme et d'architecture dans la zone, sont incorporées au plan
-d'occupation des sols comme il est dit à l'article L. 123-11 (alinéa 1).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°92-966 1992-09-11 art. 6 JORF 11 septembre 1992
-
-	**Cite**:
-
-	  - Loi n°57-908 1957-08-07 ART. 48
-	  - Loi n°75-1328 1975-12-31 MC3 MC4
-	  - Code de l'urbanisme - art. L211-3 (M)
-	  - Code de l'urbanisme L123-11 (AL. 1)
-
-	**Modifié par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 1 () JORF 16 mars 1986 en vigueur le   1er juin 1987
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
-
-
-###### Article R*215-5
-
-La décision qui supprime la zone ou en réduit le périmètre n'a pas d'incidence sur l'application des dispositions des
-articles R. 520-12 et R. 520-13 relatifs au montant de la redevance [*construction local à usage bureaux ou usage
-industriel*] instituée en région parisienne par l'article L. 520-1.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°92-966 1992-09-11 art. 6 JORF 11 septembre 1992
-
-	**Créé par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 1 () JORF 16 mars 1986 en vigueur le   1er juin 1987
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L520-1 (M)
-	  - Code de l'urbanisme R520-13
-
-
-###### Article R*215-6
-
-Lorsque l'établissement d'un plan d'occupation des sols n'a pas été prescrit ou si le plan d'occupation des sols n'a pas été
-rendu public ou approuvé au moment de la suppression d'une zone à urbaniser en priorité, le préfet peut décider de soumettre
-à une enquête publique effectuée dans les conditions définies aux articles R. 11-4 et suivants du code de l'expropriation
-pour cause d'utilité publique, un projet de modification de celles des dispositions des cahiers des charges qui sont
-destinées à assurer l'unité d'urbanisme et d'architecture dans la zone.
-
-Le projet de modification et les conclusions du commissaire enquêteur ou de la commission d'enquête sont soumis par le préfet
-à la délibération du conseil municipal de la commune intéressée ou de l'organe délibérant de l'établissement public groupant
-plusieurs communes et ayant compétence en matière d'urbanisme.
-
-La modification est approuvée :
-
-a) Par arrêté du préfet en l'absence d'opposition de la commune ou, s'il en existe un, de l'établissement public groupant
-plusieurs communes et ayant compétence en matière d'urbanisme ou faute d'avis émis par la commune ou l'établissement public
-intéressé dans le délai de deux mois à compter du jour où le maire ou le président de l'établissement public a reçu
-communication du projet :
-
-b) Par décret en Conseil d'Etat dans les autres cas.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R318-15 (V)
-
-	**Cite**:
-
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-4 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°92-966 1992-09-11 art. 6 JORF 11 septembre 1992
-
-	**Modifié par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 1 () JORF 16 mars 1986 en vigueur le   1er juin 1987
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
-
-
-#####  Section 2 : Achèvement d'une zone à urbaniser en priorité.
-
-###### Article R*215-7
-
-L'achèvement d'une zone à urbaniser en priorité doit être constaté lorsque les programmes régulièrement approuvés des travaux
-et des équipements publics ont été exécutés.
-
-En outre, si l'aménagement de la zone a été concédé, la constatation de l'achèvement ne peut intervenir avant la fin de la
-concession. Toutefois cette dernière condition ne s'applique pas aux concessions qui prendraient fin après le 31 décembre
-1980 [*date limite*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°92-966 1992-09-11 art. 6 JORF 11 septembre 1992
-
-	**Modifié par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 1 () JORF 16 mars 1986 entrée en   vigueur le 1er juin 1987
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
-
-
-###### Article R*215-8
-
-L'achèvement de la zone est constaté :
-
-a) Par arrêté du préfet sur avis favorable ou sur proposition de la commune ou, s'il en existe un, de l'établissement public
-groupant plusieurs communes et ayant compétence en matière d'urbanisme ;
-
-b) Par décret en Conseil d'Etat, en cas d'avis défavorable ou faute d'avis de la commune ou, s'il en existe un, de
-l'établissement intéressé, transmis à l'autorité de tutelle dans le délai de deux mois à compter du jour où le maire, ou le
-président de l'établissement public, a reçu communication du projet de décision constatant l'achèvement de la zone.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°92-966 1992-09-11 art. 6 JORF 11 septembre 1992
-
-	**Modifié par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 1 () JORF 16 mars 1986 en vigueur le   1er juin 1987
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
-
-
-###### Article R*215-9
-
-Le décret constatant l'achèvement d'une zone à urbaniser en priorité est publié au Journal officiel de la République
-française [*publicité*].
-
-L'arrêté du préfet qui constate l'achèvement d'une zone est publié au recueil des actes administratifs du département.
-
-Une copie de la décision est déposée à la mairie de chacune des communes intéressées. Avis de ce dépôt est donné par
-affichage à la mairie et par insertion en caractères apparents dans deux des journaux publiés dans le département.
-
-Les effets juridiques attachés à la constatation de l'achèvement de la zone ont pour point de départ la publication effectuée
-en application de l'alinéa 1 ou de l'alinéa 2 ci-dessus.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°92-966 1992-09-11 art. 6 JORF 11 septembre 1992
-
-	**Modifié par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 1 () JORF 16 mars 1986 en vigueur le   1er juin 1987
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R215-3 (V)
-
-
-###### Article R*215-10
-
-La constatation de l'achèvement d'une zone à urbaniser en priorité a les mêmes effets que la décision de suppression d'une
-zone.
-
-Lorsque l'établissement d'un plan d'occupation des sols n'a pas été prescrit ou si le plan d'occupation des sols n'a pas été
-rendu public ou approuvé au moment de l'achèvement d'une zone à urbaniser en priorité il peut être fait application des
-dispositions de l'article R. 215-6.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 1 () JORF 16 mars 1986 en vigueur le   1er juin 1987
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
-
-	**Cité par**:
-
-	  - Décret n°2016-1491 du 4 novembre 2016 - art. (V)
-	  - Code de l'urbanisme - art. R215-18 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R215-6
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°92-966 1992-09-11 art. 6 JORF 11 septembre 1992
-
-
-###### Article R*215-11
-
-Les dispositions du présent chapitre ne peuvent être modifiées que par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°92-966 1992-09-11 art. 6 JORF 11 septembre 1992
-
-	**Modifié par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 1 () JORF 16 mars 1986 en vigueur le   1er juin 1987
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
-
-
 #### CHAPITRE VI : Dispositions particulières aux jardins familiaux
 
 ###### Article R216-1
@@ -39539,6 +39194,408 @@ qu'elle a pour objet d'entreprendre. La convention prévoyant cette délégation
 	**Créé par**:
 
 	  - Décret n°86-517 du 14 mars 1986 - art. 44 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+
+#### Chapitre IV : Etablissements publics fonciers
+
+#####  Section 1 : Création et compétences de l'établissement public foncier
+
+###### Article R324-1
+
+Lorsque le préfet est saisi de délibérations concordantes émanant de conseils municipaux ou des organes délibérants des
+établissements publics intercommunaux, en vue de la création d'un établissement public foncier, il vérifie que toutes les
+conditions requises par l'article L. 324-2 du code de l'urbanisme sont satisfaites. Si tel est le cas il crée par arrêté
+l'établissement public foncier. L'arrêté précise la liste des communes limitrophes comprises dans le périmètre de
+l'établissement. Il est notifié à ces communes.
+
+Lorsque les communes ou établissement public de coopération intercommunale compétents en matière foncière appartiennent à
+plusieurs départements, cet arrêté est pris conjointement par les préfets des départements concernés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1000 du 17 septembre 1992 - art. 1 () JORF 20 septembre 1992
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L324-2 (M)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*730-1 (Ab)
+	  - Code de l'urbanisme - art. R324-13 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R324-2
+
+La décision institutive fixe le nombre de sièges du conseil d'administration ainsi que, le cas échéant, pour un quart au plus
+des sièges, le nombre de sièges réservés aux personnes qualifiées. Les modalités de désignation des représentants des
+communes ou établissements publics de coopération intercommunale au conseil d'administration ou à l'assemblée spéciale de
+l'établissement public foncier sont fixées par la décision institutive. Les dispositions du troisième alinéa de l'article L.
+163-5 et des articles L. 163-6 à L. 163-8 du code des communes sont applicables à la désignation des membres du conseil
+d'administration et à la durée de leurs pouvoirs.
+
+Le nombre des représentants d'un établissement public intercommunal ou de l'assemblée spéciale au conseil d'administration
+est fixé en tenant compte de l'importance de la population des communes regroupées dans cet établissement ou représentées par
+l'assemblée spéciale par rapport à la population totale des communes membres de l'établissement public foncier.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des communes L163-6 à L163-8
+	  - Code de l'urbanisme L163-5
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°92-1000 du 17 septembre 1992 - art. 1 () JORF 20 septembre 1992
+
+
+###### Article R324-3
+
+La décision institutive précise, outre les éléments mentionnés à l'avant-dernier alinéa de l'article L. 342-2, les actions et
+opérations d'aménagement au sens de l'article L. 300-1 du code de l'urbanisme, en prévision desquelles l'établissement public
+foncier est créé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-1000 du 17 septembre 1992 - art. 1 () JORF 20 septembre 1992
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L300-1 (M)
+	  - Code de l'urbanisme L300-1, L342-2
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R324-4
+
+Lorsque l'établissement public foncier intervient dans une commune membre dans le cadre d'une convention passée avec cette
+dernière, cette convention vaut avis au sens du dernier alinéa de l'article L. 324-1 pour les actions foncières prévues par
+ladite convention. En l'absence d'une telle convention, l'avis de la commune est réputé donné dans un délai de deux mois à
+compter de sa saisine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°92-1000 du 17 septembre 1992 - art. 1 () JORF 20 septembre 1992
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L324-1 (M)
+
+
+#####  Section 2 : Administration et fonctionnement de l'établissement public foncier
+
+###### Article R324-5
+
+Le conseil d'administration règle par ses délibérations les affaires de l'établissement. A cet effet notamment :
+
+1° Il délibère sur les orientations de l'établissement et sur le programme annuel d'acquisitions foncières ;
+
+2° Il arrête le montant de la taxe prévue à l'article 1607 bis du code général des impôts ;
+
+3° Il vote le budget, autorise les emprunts et approuve les comptes ;
+
+4° Il nomme le directeur sur proposition du président et met fin à ses fonctions dans les mêmes conditions ;
+
+5° Il propose le comptable de l'établissement au préfet du département du siège.
+
+Il élit en son sein un ou plusieurs vice-présidents.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1607 bis
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R324-6 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°92-1000 du 17 septembre 1992 - art. 1 () JORF 20 septembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2011-696 du 20 juin 2011 - art. 1
+
+
+###### Article R324-6
+
+Le conseil d'administration élit un bureau, auquel il peut déléguer tout ou partie de ses attributions, à l'exception de
+celles mentionnées aux 1°, 2°, 3° et 4° de l'article R. 324-5. Le président et les vice-présidents du conseil
+d'administration sont de droit membres du bureau.
+
+Le bureau est présidé et convoqué par le président du conseil d'administration, qui fixe l'ordre du jour des séances et
+dirige les débats. Il règle les affaires qui lui sont envoyées par le conseil d'administration et participe à la préparation
+et à la mise en oeuvre de l'ensemble des décisions du conseil d'administration. Il rend compte de son activité au conseil
+d'administration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°92-1000 du 17 septembre 1992 - art. 1 () JORF 20 septembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2011-696 du 20 juin 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R324-5
+
+
+###### Article R324-7
+
+Le conseil d'administration se réunit au moins deux fois par an. La convocation du conseil d'administration est de droit sur
+demande du tiers au moins de ses membres. L'ordre du jour doit être porté à la connaissance des membres au moins dix jours à
+l'avance.
+
+Les conditions de fonctionnement du conseil d'administration et les conditions d'exécution de ses délibérations et, le cas
+échéant, de celles du bureau procédant par délégation du conseil d'administration sont déterminées par les dispositions de la
+section II du chapitre 1er du titre II du code des communes qui ne sont pas contraires à celles du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°92-1000 du 17 septembre 1992 - art. 1 () JORF 20 septembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2011-696 du 20 juin 2011 - art. 1
+
+
+###### Article R324-8
+
+Les membres, titulaires ou suppléants, du conseil d'administration ne peuvent prendre ou conserver aucun intérêt, occuper
+aucune fonction dans les entreprises privées traitant avec l'établissement public foncier ou assurer des prestations pour ces
+entreprises. Ils ne peuvent, en aucun cas, prêter leur concours, à titre onéreux, à l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°92-1000 du 17 septembre 1992 - art. 1 () JORF 20 septembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2011-696 du 20 juin 2011 - art. 1
+
+
+###### Article R324-9
+
+Le président prépare et présente les orientations de l'établissement. Il présente le budget et le programme annuel
+d'intervention. Il est ordonnateur des dépenses et des recettes. Il représente l'établissement en justice, passe en son nom
+tous actes et contrats. Il convoque le conseil d'administration, fixe l'ordre du jour et dirige les débats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°92-1000 du 17 septembre 1992 - art. 1 () JORF 20 septembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2011-696 du 20 juin 2011 - art. 1
+
+
+###### Article R324-10
+
+Le directeur de l'établissement public foncier dirige l'établissement dans le cadre des orientations fixées par le conseil
+d'administration. Il prépare le programme annuel d'intervention et le budget. Il recrute le personnel et a autorité sur lui.
+Il peut, en outre, être chargé d'autres attributions par délégation du président.
+
+La fonction de directeur est incompatible avec celle de membre du conseil d'administration ou de délégué à l'assemblée
+spéciale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°92-1000 du 17 septembre 1992 - art. 1 () JORF 20 septembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2011-696 du 20 juin 2011 - art. 1
+
+
+###### Article R324-11
+
+Le budget de l'établissement public foncier est établi, voté, réglé et exécuté conformément aux dispositions des articles 7 à
+13 de la loi n° 82-213 du 2 mars 1982.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Loi n°82-213 du 2 mars 1982
+
+	**Créé par**:
+
+	  - Décret n°92-1000 du 17 septembre 1992 - art. 1 () JORF 20 septembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2011-696 du 20 juin 2011 - art. 1
+
+
+#####  Section 3 : Modification des conditions initiales de composition et de fonctionnement de l'établissement public foncier
+
+###### Article R324-12
+
+La décision institutive précise les conditions dans lesquelles l'admission de nouveaux membres modifie la composition de
+l'assemblée spéciale et celle du conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°92-1000 du 17 septembre 1992 - art. 1 () JORF 20 septembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2011-696 du 20 juin 2011 - art. 1
+
+
+###### Article R324-13
+
+Les modifications de la décision institutive autres que l'admission ou le retrait sont prises par le ou les préfets
+mentionnés à l'article R. 324-1, après avis du conseil d'administration et au vu des délibérations des conseils municipaux ou
+organes délibérants d'établissements publics de coopération intercommunale compétents en matière foncière dans les conditions
+de majorité prévues au premier alinéa de l'article L. 324-2.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L324-2
+	  - Code de l'urbanisme - art. R324-1
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°92-1000 du 17 septembre 1992 - art. 1 () JORF 20 septembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2011-696 du 20 juin 2011 - art. 1
+
+
+#####  Section 4 : Transformation d'un établissement public de coopération intercommunale à vocation unique foncière en établissement public foncier
+
+###### Article R324-14
+
+En cas de transformation d'un établissement public de coopération intercommunale à vocation unique foncière en établissement
+public foncier dans les conditions prévues à l'article L. 324-8, le préfet constate par arrêté que l'assemblée délibérante de
+l'établissement public et les organes délibérants des collectivités territoriales le constituant ont donné leur accord à
+cette transformation. La transformation prend effet à compter de la date à laquelle est pris l'arrêté préfectoral.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°92-1000 du 17 septembre 1992 - art. 1 () JORF 20 septembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2011-696 du 20 juin 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L324-8
+
+
+#####  Section 5 : Dissolution de l'établissement public foncier
+
+###### Article R324-15
+
+L'établissement public foncier est dissous :
+
+a) Soit de plein droit à l'expiration de la durée déterminée par la décision institutive ;
+
+b) Soit à la demande des deux tiers au moins des conseils municipaux ou des établissements publics intercommunaux
+représentant au moins la moitié de la population des communes intéressées, ou à la demande de la moitié des conseils
+municipaux ou organes délibérants des établissements publics de coopération intercommunale représentant au moins les deux
+tiers de la population des communes intéressées.
+
+L'arrêté de dissolution détermine, sous la réserve des droits des tiers, les conditions dans lesquelles l'établissement
+public foncier est liquidé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°92-1000 du 17 septembre 1992 - art. 1 () JORF 20 septembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2011-696 du 20 juin 2011 - art. 1
 
 
 ### Titre III : Dispositions financières
