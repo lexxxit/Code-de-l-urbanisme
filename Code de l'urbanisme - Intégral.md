@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2004-06-13
+Version Consolidée au 2004-07-02
 
 # Partie législative
 
@@ -13287,9 +13287,9 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 
 ###### Article L322-1
 
-Les associations foncières urbaines sont [*définition*] des associations syndicales régies par les dispositions de la loi du
-21 juin 1865 et des textes subséquents ainsi que par celles de la présente section, constituées entre propriétaires
-intéressés pour l'exécution des travaux et opérations énumérés à l'article L. 322-2.
+Les associations foncières urbaines sont des associations syndicales régies par les dispositions de l'ordonnance n° 2004-632
+du 1er juillet 2004 relative aux associations syndicales de propriétaires ainsi que par celles de la présente section,
+constituées entre propriétaires intéressés pour l'exécution des travaux et opérations énumérés à l'article L. 322-2.
 
 **Liens relatifs à cet article**
 
@@ -13305,14 +13305,14 @@ intéressés pour l'exécution des travaux et opérations énumérés à l'artic
 	  - Code de l'urbanisme - art. L730-1 (VT)
 	  - Livre des procédures fiscales - art. L135 B (VT)
 
-	**Modifié par**:
-
-	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985
-
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L322-2 (M)
-	  - Loi n°1865-06-21
+	  - Ordonnance n°2004-632 du 1 juillet 2004 (V)
+	  - Code de l'urbanisme - art. L322-2 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-632 du 1 juillet 2004 - art. 51 () JORF 2 juillet 2004
 
 	**Liens**:
 
@@ -13326,26 +13326,26 @@ intéressés pour l'exécution des travaux et opérations énumérés à l'artic
 
 ###### Article L322-2
 
-Peuvent faire l'objet d'une association foncière urbaine :
+Peuvent faire l'objet d'une association foncière urbaine : 
 
 1° Le remembrement de parcelles et la modification corrélative de l'assiette des droits de propriété, des charges et des
-servitudes y attachées ainsi que la réalisation des travaux d'équipement et d'aménagement nécessaires ;
+servitudes y attachées, ainsi que la réalisation des travaux d'équipement et d'aménagement nécessaires ; 
 
 2° Le groupement de parcelles en vue, soit d'en conférer l'usage à un tiers, notamment par bail à construction, soit d'en
-faire apport ou d'en faire la vente à un établissement public ou société de construction ou d'aménagement.
+faire apport ou d'en faire la vente à un établissement public ou société de construction ou d'aménagement. 
 
 Chacun des membres de l'association peut choisir d'être payé, en tout ou en partie, en espèces ou par remise d'un ou
 plusieurs immeubles ou fractions d'immeubles, lorsque les règles applicables à l'organisme constructeur ou aménageur ne s'y
-opposent pas ;
+opposent pas ; 
 
 3° La construction, l'entretien et la gestion d'ouvrages d'intérêt collectif tels que voirie, aires de stationnement, et
-garages enterrés ou non, chauffage collectif, espaces verts plantés ou non, installations de jeux, de repos ou d'agrément ;
+garages enterrés ou non, chauffage collectif, espaces verts plantés ou non, installations de jeux, de repos ou d'agrément ; 
 
 4° (Abrogé) ;
 
 5° La conservation, la restauration et la mise en valeur des secteurs sauvegardés ainsi que la restauration immobilière
 régies par les articles L. 313-1 à L. 313-15, les articles 3 et 12 de la loi n° 48-1360 du 1er septembre 1948 modifiée et les
-articles 10, 20, et 38-1 du décret n° 53-960 du 30 septembre 1953 modifié.
+articles L. 145-6, L. 145-18 et L. 145-28 du code de commerce ; 
 
 6° Le remembrement foncier ou le groupement de parcelles en vue de la restructuration urbaine des grands ensembles et
 quartiers d'habitat dégradé mentionnés au premier alinéa du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995
@@ -13357,11 +13357,14 @@ d'insertion professionnelle et sociale en faveur des habitants des grands ensemb
 
 	**Cite**:
 
-	  - Loi n°48-1360 du 1 septembre 1948 - art. 12 (V)
-	  - Loi n°48-1360 du 1 septembre 1948 - art. 3 (M)
-	  - Décret n°53-960 1953-09-30
-	  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
-	  - Code de l'urbanisme L313-1 à L313-15
+	  - Loi n°48-1360 du 1er septembre 1948 - art. 12 (V)
+	  - Loi n°48-1360 du 1er septembre 1948 - art. 3 (V)
+	  - Loi n°95-115 du 4 février 1995 - art. 42 (V)
+	  - Code de commerce - art. L145-18 (V)
+	  - Code de commerce - art. L145-28 (V)
+	  - Code de commerce - art. L145-6 (V)
+	  - Code de l'urbanisme - art. L313-1 (VT)
+	  - Code de l'urbanisme - art. L313-15 (V)
 
 	**Cité par**:
 
@@ -13388,7 +13391,7 @@ d'insertion professionnelle et sociale en faveur des habitants des grands ensemb
 
 	**Modifié par**:
 
-	  - Loi n°96-987 du 14 novembre 1996 - art. 20 () JORF 15 novembre 1996
+	  - Ordonnance n°2004-632 du 1 juillet 2004 - art. 51 () JORF 2 juillet 2004
 
 	**Liens**:
 
@@ -13403,22 +13406,22 @@ d'insertion professionnelle et sociale en faveur des habitants des grands ensemb
 
 ###### Article L322-3
 
-L'autorité administrative peut autoriser une association foncière urbaine sur la demande de propriétaires intéressés ou, le
-cas échéant, à l'initiative de la commune, si les conditions sont remplies [*Constitution*] :
+L'autorité administrative peut autoriser une association foncière urbaine si les conditions suivantes sont remplies : 
 
-1. Pour les travaux spécifiés au 1°, 2° et 5° de l'article L. 322-2 [*groupement, remembrement parcelles*], les deux tiers au
-moins des propriétaires détenant ensemble les deux tiers au moins de la superficie ont adhéré à l'association.
+1° Par dérogation aux dispositions prévues à l'article 14 de l'ordonnance du 1er juillet 2004 précitée : 
 
-Pour les travaux spécifiés au 3. [*ouvrages d'intérêt collectif*] de l'article L. 322-2, la majorité des propriétaires
-détenant ensemble la moitié au moins de la superficie ont adhéré à l'association.
+a) Pour les travaux spécifiés aux 1°, 2° et 5° de l'article L. 322-2, les deux tiers au moins des propriétaires détenant
+ensemble les deux tiers au moins de la superficie ont adhéré à l'association ; 
 
-Pour les opérations spécifiées au 6° de l'article L. 322-2, tous les propriétaires ont adhéré à l'association.
+b) Pour les travaux spécifiés au 3° de l'article L. 322-2, la majorité des propriétaires détenant ensemble la moitié au moins
+de la superficie ont adhéré à l'association ; 
 
-2. Une personne publique ou privée prend l'engagement d'acquérir les immeubles dont le propriétaire opterait pour le
+c) Pour les opérations spécifiées au 6° de l'article L. 322-2, tous les propriétaires ont adhéré à l'association. 
+
+2° Une personne publique ou privée prend l'engagement d'acquérir les immeubles dont le propriétaire opterait pour le
 délaissement dans les conditions prévues à l'article L. 322-5 ci-après. Cette condition peut être remplacée par le même
-engagement pris par l'association foncière urbaine et figurant dans ses statuts.
-
-Elle n'est pas applicable aux travaux spécifiés au 6° de l'article L. 322-2.
+engagement pris par l'association foncière urbaine et figurant dans ses statuts. Elle n'est pas applicable aux travaux
+spécifiés au 6° de l'article L. 322-2.
 
 **Liens relatifs à cet article**
 
@@ -13426,14 +13429,15 @@ Elle n'est pas applicable aux travaux spécifiés au 6° de l'article L. 322-2.
 
 	  - Loi n°67-1253 1967-12-30 art. 25 loi d'orientation foncière
 
-	**Modifié par**:
-
-	  - Loi n°96-987 du 14 novembre 1996 - art. 21 () JORF 15 novembre 1996
-
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L322-2 (M)
-	  - Code de l'urbanisme - art. L322-5 (M)
+	  - Ordonnance n°2004-632 du 1 juillet 2004 - art. 14 (V)
+	  - Code de l'urbanisme - art. L322-2 (V)
+	  - Code de l'urbanisme - art. L322-5 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-632 du 1 juillet 2004 - art. 51 () JORF 2 juillet 2004
 
 	**Liens**:
 
@@ -13567,46 +13571,39 @@ précitée.
 
 ###### Article L322-4-1
 
-Le président de l'association foncière urbaine exécute les décisions du conseil des syndics et de l'assemblée générale,
-prépare le budget et le compte administratif des opérations de l'association et assure le paiement des dépenses. Il peut se
-faire assister par une personne, physique ou morale, agissant en qualité de prestataire de services, à laquelle peuvent être
-confiées toutes autres missions concernant la réalisation de l'objet de l'association.
-
-Le contrat de droit privé passé à cet effet définit les missions et le mode de rémunération du prestataire de services ; le
-projet de contrat est joint au dossier de demande d'autorisation soumis à l'enquête publique prévue à l'article 6 du décret
-du 18 décembre 1927.
+Le président de l'association foncière urbaine exerce les compétences définies par l'article 23 de l'ordonnance du 1er
+juillet 2004 précitée. Il peut se faire assister par une personne physique ou morale, agissant en qualité de prestataire de
+services. Le contrat passé à cet effet définit les missions et le mode de rémunération du prestataire de services. Il est
+conclu dans les conditions définies par le décret pris pour l'application de l'article 26 de l'ordonnance du 1er juillet 2004
+précitée.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°1927-12-18 art. 6
 
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Loi n°85-729 1985-07-18 art. 21 V
+	  - Ordonnance n°2004-632 du 1 juillet 2004 - art. 23 (V)
+	  - Ordonnance n°2004-632 du 1 juillet 2004 - art. 26 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 21 (V) JORF 19 juillet 1985 en vigueur le 1er janvier 1986
-	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985 en vigueur le 1er janvier 1986
+	  - Ordonnance n°2004-632 du 1 juillet 2004 - art. 51 () JORF 2 juillet 2004
 
 
 ###### Article L322-5
 
 Les propriétaires d'immeubles compris dans le périmètre d'une association foncière urbaine autorisée et n'ayant pas adhéré à
-l'association peuvent, dans le délai d'un mois à partir de [*point de départ*] la publication de la décision administrative
-autorisant l'association, délaisser ces immeubles moyennant indemnité. A défaut d'accord amiable, l'indemnité est fixée comme
-en matière d'expropriation.
+l'association peuvent, dans le délai de trois mois à partir de la publication de la décision administrative autorisant
+l'association, délaisser ces immeubles moyennant indemnité. A défaut d'accord amiable, l'indemnité est fixée comme en matière
+d'expropriation.
 
 Lorsque l'association a pour objet le groupement de parcelles, il est en outre possible à tous les propriétaires d'immeubles
 compris dans le périmètre syndical de délaisser, moyennant indemnité, leurs propriétés ou leurs quote-parts de propriété sur
-les parcelles groupées, dans le délai d'un mois à partir de la publication de l'arrêté de l'autorité administrative visé à
-l'article L. 322-7 (troisième alinéa). A défaut d'accord amiable, l'indemnité est fixée comme en matière d'expropriation.
+les parcelles groupées, dans le délai de trois mois à partir de la publication de l'arrêté de l'autorité administrative visé
+à l'article L. 322-7 (troisième alinéa). A défaut d'accord amiable, l'indemnité est fixée comme en matière d'expropriation.
 
 Les droits des créanciers régulièrement inscrits sur l'immeuble délaissé, soit avant la publication au bureau des hypothèques
 de l'acte de délaissement, soit postérieurement à ladite publication en ce qui concerne les privilèges conservés suivant les
@@ -13627,14 +13624,13 @@ tribunal de grande instance donnée sur simple requête, le ministère public en
 
 	**Modifié par**:
 
-	  - Loi n°85-729 1985-07-18 art. 26 XXI, XXII JORF 19 juillet 1985
-	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985
+	  - Ordonnance n°2004-632 du 1 juillet 2004 - art. 51 () JORF 2 juillet 2004
 
 	**Cite**:
 
 	  - Code civil - art. 2108 (T)
 	  - Code civil - art. 2109 (T)
-	  - Code de l'urbanisme L322-7 al. 3
+	  - Code de l'urbanisme - art. L322-7 (M)
 
 	**Cité par**:
 
@@ -13660,16 +13656,15 @@ a) Détermine les bâtiments ou les ouvrages dont le remembrement nécessite soi
 L'acte amiable portant cession d'un bâtiment ou d'un ouvrage à l'association produit les mêmes effets que l'acte de cession
 amiable en matière d'expropriation en ce qui concerne l'extinction des droits réels et personnels ; à défaut d'accord amiable
 des propriétaires sur leur cession, ces bâtiments ou ouvrages font l'objet d'une expropriation dans les conditions fixées par
-l'ordonnance n. 58-997 du 23 octobre 1958 modifiée ;
+le code de l'expropriation pour cause d'utilité publique ;
 
 b) Etablit le projet de remembrement et en saisit l'autorité administrative qui, après avoir vérifié sa compatibilité avec la
 réglementation de l'urbanisme, le soumet à une enquête publique.
 
-Après enquête publique, et en cas d'observations formulées au cours de celle-ci, avis d'une commission présidée par le juge
-de l'expropriation, et dont la composition est fixée par décret, l'autorité administrative prononce les transferts et
-attributions de propriété. L'acte de l'autorité administrative impose, en tant que de besoin, des prescriptions propres à
-l'opération, en complément de la réglementation d'urbanisme applicable à la zone considérée. Ces prescriptions font partie du
-dossier soumis à l'enquête.
+Après enquête publique, et en cas d'observations formulées au cours de celle-ci, avis d'une commission, et dont la
+composition est fixée par décret, l'autorité administrative prononce les transferts et attributions de propriété. L'acte de
+l'autorité administrative impose, en tant que de besoin, des prescriptions propres à l'opération, en complément de la
+réglementation d'urbanisme applicable à la zone considérée. Ces prescriptions font partie du dossier soumis à l'enquête.
 
 L'arrêté de l'autorité administrative éteint par lui-même et à sa date, pour les immeubles qu'il concerne, les servitudes
 ainsi que les droits réels conférés aux preneurs par les baux à construction et les baux emphytéotiques, moyennant indemnité
@@ -13680,15 +13675,15 @@ antérieurement à condition que leur publicité soit renouvelée dans les forme
 s'exercent éventuellement sur les soultes.
 
 L'arrêté de l'autorité administratives met fin dans les mêmes conditions aux contrats de louage dont ces immeubles étaient
-l'objet. Si le bail éteint était soumis aux dispositions du décret n. 53-960 du 30 septembre 1953, l'association foncière
-urbaine devra au preneur une indemnité calculée selon les règles fixées par ce décret à moins qu'elle ne préfère lui offrir
-le bail d'un local équivalent à celui dont la jouissance lui a été retirée. En ce qui concerne les locaux d'habitation ou
-professionnels, quelle que soit la nature du titre d'occupation, le droit au relogement est exercé comme en matière
-d'expropriation.
+l'objet. Si le bail éteint était soumis aux dispositions du chapitre V du titre IV du livre Ier du code de commerce,
+l'association foncière urbaine devra au preneur une indemnité calculée selon les règles fixées par ces dispositions à moins
+qu'elle ne préfère lui offrir le bail d'un local équivalent à celui dont la jouissance lui a été retirée. En ce qui concerne
+les locaux d'habitation ou professionnels, quelle que soit la nature du titre d'occupation, le droit au relogement est exercé
+comme en matière d'expropriation.
 
-La juridiction instituée à l'article 12 de l'ordonnance n. 58-997 du 23 octobre 1958 est compétente pour statuer sur les
-contestations relatives à l'évaluation des parcelles remembrées. Elle statue aussi sur les contestations soulevées à
-l'occasion du remembrement et afférentes aux privilèges, hypothèques et autres droits réels.
+La juridiction prévue à l'article L. 13-1 du code de l'expropriation pour cause d'utilité publique est compétente pour
+statuer sur les contestations relatives à l'évaluation des parcelles remembrées. Elle statue aussi sur les contestations
+soulevées à l'occasion du remembrement et afférentes aux privilèges, hypothèques et autres droits réels.
 
 L'avis de la commission prévue ci-dessus et la décision motivée prise, consécutivement à cet avis, par l'organe compétent de
 l'association foncière urbaine sont notifiés aux intéressés qui disposent d'un délai de deux mois pour saisir la juridiction.
@@ -13704,19 +13699,14 @@ urbaines dont l'objet porte sur des travaux spécifiés au 6° de l'article L. 3
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°53-960 1953-09-30
-	  - Ordonnance 58-997 1958-10-23 art. 12
-	  - Code de l'urbanisme - art. L322-2 (M)
-
 	**Anciens textes**:
 
 	  - Loi n°67-1253 1967-12-30 art. 28 loi d'orientation foncière
 
 	**Modifié par**:
 
-	  - Loi n°96-987 du 14 novembre 1996 - art. 23 () JORF 15 novembre 1996
+	  - Ordonnance n°2004-632 du 1 juillet 2004 - art. 51 () JORF 2 juillet 2004
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 6 () JORF 2 juillet 2004
 
 	**Cité par**:
 
@@ -13733,6 +13723,11 @@ urbaines dont l'objet porte sur des travaux spécifiés au 6° de l'article L. 3
 	  - Code de l'urbanisme - art. R*322-30 (M)
 	  - Code de l'urbanisme - art. R*322-8-1 (V)
 	  - Code de l'urbanisme - art. R322-34 (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L322-2 (M)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L13-1 (V)
 
 	**Liens**:
 
@@ -13768,36 +13763,26 @@ d'intérêt national, l'autorité administrative recueille l'avis du conseil mun
 
 ###### Article L322-7
 
-Lorsque l'objet de l'association foncière urbaine autorisée porte sur des travaux spécifiés au 2. de l'article L. 322-2,
-l'association [*attributions*] :
+Lorsque l'objet de l'association foncière urbaine autorisée porte sur des travaux spécifiés au 2° de l'article L. 322-2,
+l'association : 
 
 a) Détermine les bâtiments ou les ouvrages dont le groupement de parcelles nécessite soit la destruction, soit le changement
 de l'usage, éventuellement après réparation, aménagement ou transformation. L'acte amiable portant cession d'un bâtiment ou
 d'un ouvrage à l'association foncière urbaine produit les mêmes effets que l'acte de cession amiable en matière
 d'expropriation en ce qui concerne l'extinction des droits réels et personnels ; à défaut d'accord amiable des propriétaires
-sur leur cession, ces bâtiments ou ouvrages font l'objet d'une expropriation dans les conditions fixées par l'ordonnance n.
-58-997 du 23 octobre 1958 modifiée ;
+sur leur cession, ces bâtiments ou ouvrages font l'objet d'une expropriation dans les conditions fixées par le code de
+l'expropriation pour cause d'utilité publique ;
 
 b) Etablit, selon le cas, le projet de contrat de bail à construction, le projet d'acte d'apport ou le projet d'acte de vente
-de parcelles groupées.
+de parcelles groupées. 
 
 Le contrat de bail, l'acte d'apport ou l'acte de vente ne peut être passé que si l'autorité administrative a constaté, par
 arrêté, que le projet est compatible avec la réglementation de l'urbanisme et que les formalités prévues par le présent code
-ont été régulièrement accomplies.
+ont été régulièrement accomplies. 
 
 Sont applicables en matière de groupement de parcelles les alinéas 5, 6, 7 et 8 de l'article L. 322-6.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-	**Cite**:
-
-	  - Ordonnance 58-997 1958-10-23
-	  - Loi n°71-579 1971-07-16
-	  - Code de l'urbanisme - art. L322-2 (M)
 
 	**Anciens textes**:
 
@@ -13805,7 +13790,11 @@ Sont applicables en matière de groupement de parcelles les alinéas 5, 6, 7 et 
 
 	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985
+	  - Ordonnance n°2004-632 du 1 juillet 2004 - art. 51 () JORF 2 juillet 2004
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L322-2 (V)
 
 	**Liens**:
 
@@ -13816,6 +13805,10 @@ Sont applicables en matière de groupement de parcelles les alinéas 5, 6, 7 et 
 	  - Code de l'urbanisme - art. L322-5 (VD)
 	  - Code de l'urbanisme - art. L322-6 (VD)
 	  - Code de l'urbanisme - art. R*322-25 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 ###### Article L322-8
@@ -13855,14 +13848,13 @@ ces constructions sont fixées comme en matière d'expropriation.
 
 ###### Article L322-9
 
-Les créances de toutes natures exigibles depuis moins de cinq ans d'une association foncière urbaine à l'encontre d'un
-associé, qu'il s'agisse de provisions ou de paiements définitifs, sont garanties par une hypothèque légale sur les immeubles
-de l'associé compris dans le périmètre de l'association. Les conditions d'inscription et de mainlevée de cette hypothèque
-sont celles qui sont prévues à l'article 19 de la loi n. 65-557 du 10 juillet 1965 fixant le statut de la copropriété des
-immeubles bâtis.
+Les créances de toutes natures exigibles d'une association foncière urbaine à l'encontre d'un associé, qu'il s'agisse de
+provisions ou de paiements définitifs, sont garanties par une hypothèque légale sur les immeubles de l'associé compris dans
+le périmètre de l'association. Les conditions d'inscription et de mainlevée de cette hypothèque sont celles qui sont prévues
+à l'article 19 de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis. 
 
 Lors de la mutation à titre onéreux d'un bien compris dans une association foncière urbaine, avis de la mutation doit être
-donné, dans les conditions prévues à l'article 20 de la loi précitée n. 65-557 du 10 juillet 1965, à l'association qui peut
+donné, dans les conditions prévues à l'article 20 de la loi précitée n° 65-557 du 10 juillet 1965, à l'association qui peut
 faire opposition dans les conditions prévues audit article pour obtenir le paiement des sommes restant dues par l'ancien
 propriétaire.
 
@@ -13874,8 +13866,8 @@ propriétaire.
 
 	**Cite**:
 
-	  - Loi n°65-557 du 10 juillet 1965 - art. 19 (M)
-	  - Loi n°65-557 du 10 juillet 1965 - art. 20 (M)
+	  - Loi n°65-557 du 10 juillet 1965 - art. 19 (V)
+	  - Loi n°65-557 du 10 juillet 1965 - art. 20 (V)
 
 	**Anciens textes**:
 
@@ -13884,6 +13876,10 @@ propriétaire.
 	**Cité par**:
 
 	  - Loi n°84-595 du 12 juillet 1984 - art. 34 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-632 du 1 juillet 2004 - art. 51 () JORF 2 juillet 2004
 
 
 ###### Article L322-9-1
@@ -13963,11 +13959,11 @@ créancier. Les modalités de règlement figurent au contrat créateur de la dé
 ###### Article L322-10
 
 Des décrets en Conseil d'Etat fixent, en tant que de besoin, les modalités d'application de la présente section, notamment
-les conditions dans lesquelles l'assistance technique de l'Etat, des collectivités locales, des établissements publics ou de
-personnes privées, physiques ou morales pourra être apportée aux associations foncières urbaines, les garanties auxquelles
-pourront être subordonnées les opérations prévues à l'article L. 322-2 (2.) [*groupement de parcelles*] ainsi que les
-formalités de publicité, en particulier au fichier immobilier, auxquelles seront soumis les actes concernant ces associations
-et les immeubles qui se trouvent inclus dans leur superficie.
+les conditions dans lesquelles l'assistance technique de l'Etat, des collectivités territoriales, des établissements publics
+ou de personnes privées, physiques ou morales pourra être apportée aux associations foncières urbaines, les garanties
+auxquelles pourront être subordonnées les opérations prévues à l'article L. 322-2 (2°) ainsi que les formalités de publicité,
+en particulier au fichier immobilier, auxquelles seront soumis les actes concernant ces associations et les immeubles qui se
+trouvent inclus dans leur superficie.
 
 **Liens relatifs à cet article**
 
@@ -13977,7 +13973,7 @@ et les immeubles qui se trouvent inclus dans leur superficie.
 
 	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985
+	  - Ordonnance n°2004-632 du 1 juillet 2004 - art. 51 () JORF 2 juillet 2004
 
 	**Cité par**:
 
@@ -13986,7 +13982,7 @@ et les immeubles qui se trouvent inclus dans leur superficie.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L322-2 (M)
+	  - Code de l'urbanisme - art. L322-2 (V)
 
 	**Codifié par**:
 
@@ -13995,25 +13991,14 @@ et les immeubles qui se trouvent inclus dans leur superficie.
 
 ###### Article L322-11
 
-Les associations syndicales créées en application de l'ordonnance n. 58-1445 du 31 décembre 1958 continuent à être régies par
+Les associations syndicales créées en application de l'ordonnance n° 58-1445 du 31 décembre 1958 continuent à être régies par
 les dispositions de ce texte jusqu'à l'achèvement des travaux pour l'exécution desquels elles ont été constituées. Toutefois,
-elles peuvent décider de se placer sous l'empire des dispositions des articles L. 322-1 à L. 322-10.
+elles peuvent décider de se placer sous l'empire des dispositions des articles L. 322-1 à L. 322-10. 
 
-La décision est prise dans les conditions prévues par le premier alinéa de l'article 12 de la loi du 21 juin 1865 sur les
-associations syndicales de propriétaires ; son entrée en vigueur est subordonnée à la modification des statuts.
+La décision est prise dans les conditions prévues par l'article 14 de l'ordonnance du 1er juillet 2004 précitée ; son entrée
+en vigueur est subordonnée à la modification des statuts.
 
 **Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. L340-1 (VD)
-	  - Code de l'urbanisme - art. R*312-1 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme L322-1 à L322-10
-	  - Loi n°1865-06-21 ART. 12
-	  - Ordonnance 58-1445 1958-12-31
 
 	**Codifié par**:
 
@@ -14025,7 +14010,17 @@ associations syndicales de propriétaires ; son entrée en vigueur est subordonn
 
 	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985
+	  - Ordonnance n°2004-632 du 1 juillet 2004 - art. 51 () JORF 2 juillet 2004
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L322-1 (V)
+	  - Code de l'urbanisme - art. L322-10 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L340-1 (VD)
+	  - Code de l'urbanisme - art. R*312-1 (Ab)
 
 
 #### Chapitre IV : Etablissements publics fonciers locaux
