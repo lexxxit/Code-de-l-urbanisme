@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1993-03-24
+Version Consolidée au 1993-03-26
 
 # Partie législative
 
@@ -53425,13 +53425,21 @@ b) Quelle que soit la superficie dans les autres cas ;
 technique, scientifique et notamment ceux affectés à la recherche au sens de l'article 520-1 du présent code et que ces
 locaux ou installations ont une superficie développée de plancher inférieure à 3000 m2 ou que l'extension envisagée ajoutée,
 le cas échéant, aux opérations réalisées, sans qu'un agrément fût nécessaire, au cours des douze mois précédents, n'excède
-pas cette superficie. 5° Lorsqu'elles portent sur des locaux d'enseignement supérieur et des bureaux à usage commercial,
-professionnel, administratif, technique ou scientifique et leurs annexes de toute nature, distincts de ceux visés au 4° ci-
-dessus, et que ces locaux ont une superficie de planchers inférieure à 2000 m2 ou que l'extension envisagée ajoutée, le cas
-échéant, aux opérations réalisées, sans qu'un agrément fût nécessaire, au cours des douze mois précédents, n'excède pas cette
-superficie ; 6° Lorsqu'elles ont trait à des installations à usage d'entrepôt, si elles portent sur une superficie développée
-de plancher inférieur à 5000 m2 et qu'elles ne conduisent pas l'exploitant ou l'utilisateur à disposer à l'intérieur de la
-zone définie à l'article R. 510-1 d'une superficie de plancher supérieure au total à 5000 m2.
+pas cette superficie.
+
+5° Lorsqu'elles portent sur des locaux d'enseignement supérieur et des bureaux à usage commercial, professionnel,
+administratif, technique ou scientifique et leurs annexes de toute nature, distincts de ceux visés au 4° ci-dessus, et que
+ces locaux ont une superficie de planchers inférieure à 2000 m2 ou que l'extension envisagée ajoutée, le cas échéant, aux
+opérations réalisées, sans qu'un agrément fût nécessaire, au cours des douze mois précédents, n'excède pas cette superficie ;
+
+6° Lorsqu'elles ont trait à des installations à usage d'entrepôt, si elles portent sur une superficie développée de plancher
+inférieur à 5000 m2 et qu'elles ne conduisent pas l'exploitant ou l'utilisateur à disposer à l'intérieur de la zone définie à
+l'article R. 510-1 d'une superficie de plancher supérieure au total à 5000 m2.
+
+" 7° Lorsqu'elles portent sur l'utilisation de bureaux et de leurs annexes de toute nature achevés à la date du 31 décembre
+1992 ou dont la déclaration d'ouverture de chantier prévue à l'article R. 421-40 a été déposée en mairie au plus tard à cette
+même date. La présente disposition n'est applicable qu'aux opérations d'utilisation pour lesquelles les actes juridiques dont
+l'utilisation dépend sont définitivement passés au plus tard le 31 décembre 1994. "
 
 **Liens relatifs à cet article**
 
@@ -53442,15 +53450,12 @@ zone définie à l'article R. 510-1 d'une superficie de plancher supérieure au 
 	**Cite**:
 
 	  - Loi n°83-636 du 13 juillet 1983 - art. 10 (Ab)
-	  - Code de l'urbanisme R510-1, R520-12
+	  - Code de l'urbanisme - art. R421-40 (Ab)
+	  - Code de l'urbanisme R510-1, 520-1, R421-40
 
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°92-1357 1992-12-28 art. 2
-
-	**Modifié par**:
-
-	  - Décret n°92-1357 du 28 décembre 1992 - art. 1 () JORF 29 décembre 1992
 
 	**Cité par**:
 
@@ -53461,6 +53466,10 @@ zone définie à l'article R. 510-1 d'une superficie de plancher supérieure au 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°93-477 1993-03-28 art. 1 JORF 26 mars 1993
 
 
 ###### Article R*510-7
