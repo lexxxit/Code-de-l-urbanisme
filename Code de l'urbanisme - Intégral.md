@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1990-06-02
+Version Consolidée au 1990-06-14
 
 # Partie législative
 
@@ -26230,17 +26230,22 @@ Les associations de protection et d'amélioration du cadre de vie et de l'enviro
 	  - Code de l'urbanisme - art. R620-2 (V)
 
 
-####  Section 4 : Servitude de passage sur le littoral
+####  Section 4 : Servitudes de passage sur le littoral
 
-#####    Sous-section 1 : Détermination du tracé et des caractéristiques de la servitude.
+##### Sous-section 1 : Détermination du tracé et des caractéristiques de la servitude de passage longitudinale mentionnée à l'article L. 160-6
 
 ###### Article R*160-8
 
 La servitude de passage des piétons instituée par l'article L. 160-6 a pour assiette une bande de 3 mètres de largeur
 calculée à compter de la limite du domaine public maritime, sous réserve de l'application des dispositions des articles R.
-160-11 à R. 160-22.
+160-11 à R. 160-15 et R. 160-17 à R. 160-22.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°90-481 du 12 juin 1990 - art. 1 () JORF 14 juin 1990
+	  - Décret n°90-481 du 12 juin 1990 - art. 2 () JORF 14 juin 1990
 
 	**Cité par**:
 
@@ -26251,7 +26256,7 @@ calculée à compter de la limite du domaine public maritime, sous réserve de l
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L160-6 (M)
-	  - Code de l'urbanisme L160-6, R160-11 à R160-22
+	  - Code de l'urbanisme L160-6, R160-11 à R160-15, R160-17 à R160-22
 
 	**Codifié par**:
 
@@ -26274,6 +26279,14 @@ d) Celle des terrains qui font partie du domaine public maritime artificiel.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°90-481 du 12 juin 1990 - art. 1 () JORF 14 juin 1990
+
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*160-8 (VT)
@@ -26282,10 +26295,6 @@ d) Celle des terrains qui font partie du domaine public maritime artificiel.
 
 	  - Code de l'urbanisme R160-8
 	  - Loi n°63-117 1963-11-28 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*160-10
@@ -26298,25 +26307,42 @@ météorologiques exceptionnelles ont eu pour effet de modifier le niveau des pl
 
 **Liens relatifs à cet article**
 
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R121-11 (V)
+
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°90-481 du 12 juin 1990 - art. 1 () JORF 14 juin 1990
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 
 ###### Article R*160-11
 
 Le tracé ainsi que les caractéristiques de la servitude de passage instituée par l'article L. 160-6 peuvent être modifiés
-dans les conditions définies aux articles R. 160-12 à R. 160-22.
+dans les conditions définies aux articles R. 160-12 à R. 160-15 et R. 160-17 à R. 160-22.
 
 Les dispositions des mêmes articles, à l'exception des articles R. 160-13 et R. 160-15, sont applicables au cas de
 suspension, à titre exceptionnel, de ladite servitude.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°90-481 du 12 juin 1990 - art. 1 () JORF 14 juin 1990
+	  - Décret n°90-481 du 12 juin 1990 - art. 2 () JORF 14 juin 1990
+
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L160-6 (M)
-	  - Code de l'urbanisme L160-6, R160-12 à R160-22, R160-13, R160-14, R160-15
+	  - Code de l'urbanisme L160-6, R160-12 à R160-15, R160-17 à R160-22, R160-13
 
 	**Cité par**:
 
@@ -26333,7 +26359,7 @@ suspension, à titre exceptionnel, de ladite servitude.
 
 En vue de la modification, par application des alinéas 2 et 3 de l'article L. 160-6, du tracé ainsi que, le cas échéant, des
 caractéristiques de la servitude, le chef du service maritime adresse au préfet, pour être soumis à enquête, un dossier qui
-comprend :
+comprend ;
 
 a) Une notice explicative exposant l'objet de l'opération prévue ;
 
@@ -26349,6 +26375,18 @@ cas visés à l'article R. 160-14.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°90-481 du 12 juin 1990 - art. 1 () JORF 14 juin 1990
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2010-1291 du 28 octobre 2010 - art. 6
+
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L160-6 (M)
@@ -26359,9 +26397,9 @@ cas visés à l'article R. 160-14.
 	  - Code de l'urbanisme - art. R*160-14 (VT)
 	  - Code de l'urbanisme - art. R*160-15 (V)
 
-	**Codifié par**:
+	**Nouveaux textes**:
 
-	  - Décret n°73-1023 1973-11-08
+	  - Code de l'urbanisme - art. R*160-14 (VT)
 
 
 ###### Article R*160-13
@@ -26375,6 +26413,10 @@ fondé du tracé retenu, au regard des dispositions des articles L. 160-6 et R. 
 Dans les cas prévus au présent article, la largeur du passage à établir ne peut en aucun cas excéder 3 mètres.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°90-481 du 12 juin 1990 - art. 1 () JORF 14 juin 1990
 
 	**Cite**:
 
@@ -26409,6 +26451,14 @@ raisons d'ordre écologique ou archéologique, soit la stabilité des sols.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°90-481 du 12 juin 1990 - art. 1 () JORF 14 juin 1990
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2010-1291 du 28 octobre 2010 - art. 6
+
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L160-6 (M)
@@ -26418,6 +26468,10 @@ raisons d'ordre écologique ou archéologique, soit la stabilité des sols.
 	  - Code de l'urbanisme - art. R*160-12 (VT)
 	  - Code de l'urbanisme - art. R*160-15 (VT)
 	  - Code de l'urbanisme - art. R*160-17 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R*160-12 (VT)
 
 	**Codifié par**:
 
@@ -26442,6 +26496,10 @@ groupement de collectivités publiques.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°90-481 du 12 juin 1990 - art. 1 () JORF 14 juin 1990
+
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L160-6 (M)
@@ -26452,39 +26510,102 @@ groupement de collectivités publiques.
 	  - Décret n°73-1023 1973-11-08
 
 
+##### Sous-section 2 : Détermination du tracé et des caractéristiques de la servitude de passage transversale mentionnée à l'article L. 160-6-1
+
 ###### Article R*160-16
 
-Avant de soumettre à enquête le projet de modification du tracé et des caractéristiques de la servitude, le préfet peut
-recueillir l'avis de la commission des rivages de la mer.
+La distance d'au moins cinq cents mètres mentionnée à l'article L. 160-6-1 se mesure en ligne droite entre le débouché sur le
+rivage de la mer de la voie ou chemin privé servant d'assise à la servitude ou, le cas échéant, des sentiers d'accès immédiat
+qui les prolongent, et tout accès au rivage par une voie publique ou un chemin rural.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°90-481 du 12 juin 1990 - art. 1 () JORF 14 juin 1990
+	  - Décret n°90-481 du 12 juin 1990 - art. 3 () JORF 14 juin 1990
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L160-6-1
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*160-16-1 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R121-42 (V)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R*160-16-1
+
+En vue de l'établissement du tracé et des caractéristiques de la servitude de passage transversale au rivage, le chef du
+service maritime adresse au préfet, pour être soumis à enquête, un dossier comprenant : 
+
+a) Une notice explicative exposant l'objet de l'opération et justifiant que le projet soumis à enquête respecte les
+conditions mentionnées aux articles L. 160-6-1 et R. 160-16 ; 
+
+b) Le plan de l'itinéraire permettant l'accès au rivage ; 
+
+c) Le plan parcellaire des terrains sur lesquels la servitude est envisagée ; 
+
+d) La liste par communes des propriétaires concernés par l'institution de la servitude, dressée à l'aide d'extraits de
+documents cadastraux délivrés par le service du cadastre ou à l'aide des renseignements délivrés par le conservateur des
+hypothèques au vu du fichier immobilier, ou par tous autres moyens.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°90-481 du 12 juin 1990 - art. 1 () JORF 14 juin 1990
+	  - Décret n°90-481 du 12 juin 1990 - art. 3 () JORF 14 juin 1990
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L160-6-1
+	  - Code de l'urbanisme - art. R*160-16 (VT)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*160-17 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R121-19 (V)
+	  - Code de l'urbanisme - art. R121-43 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+##### Sous-section 3 : Dispositions communes aux servitudes de passage sur le littoral
+
 ###### Article R*160-17
 
-L'enquête [*modification*] a lieu dans les formes prévues par les articles R. 11-4 et suivants du code de l'expropriation
-pour cause d'utilité publique, sous réserve des dispositions particulières édictées aux articles R. 160-18 et R. 160-19 ci-
-après.
-
-Dans les communes, parties de communes ou ensembles de communes dotés d'un plan d'occupation des sols rendu public, cette
-enquête peut avoir lieu en même temps que l'enquête publique sur le plan, visée à l'article R. 123-11.
-
-Dans le cas visé à l'alinéa précédent, le commissaire enquêteur ou la commission d'enquête est saisi de l'ensemble de la
-procédure.
+L'enquête mentionnée aux articles R. 160-12 et R. 160-16-1 a lieu dans les formes prévues par les articles R. 11-4 à R. 11-12
+et R. 11-14 du code de l'expropriation pour cause d'utilité publique, sous réserve des dispositions particulières édictées
+aux articles R. 160-18 et R. 160-19 du présent code.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°83-813 1983-09-09 ART. 8 JORF 11 SEPTEMBRE 1983 date d'entrée en vigueur 1 OCTOBRE 1983
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°83-851 du 23 septembre 1983 - art. 1 (V)
+	  - Décret n°90-481 du 12 juin 1990 - art. 1 () JORF 14 juin 1990
+	  - Décret n°90-481 du 12 juin 1990 - art. 4 () JORF 14 juin 1990
 
 	**Cité par**:
 
@@ -26493,8 +26614,9 @@ procédure.
 
 	**Cite**:
 
-	  - Code de l'urbanisme R160-18
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-4 (M)
+	  - Code de l'urbanisme R160-18, R160-19, R160-12, R160-16-1
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14 (V)
+	  - Code de l'expropriation pour cause d'utilité publique R11-4 à R11-12, R11-14
 
 	**Codifié par**:
 
@@ -26509,13 +26631,25 @@ ainsi que les représentants des administrations ; après les avoir entendus, il
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°90-481 du 12 juin 1990 - art. 1 () JORF 14 juin 1990
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*160-17 (VT)
 
-	**Codifié par**:
+	**Nouveaux textes**:
 
-	  - Décret n°73-1023 1973-11-08
+	  - Code de l'urbanisme - art. R121-21 (V)
 
 
 ###### Article R*160-19
@@ -26535,11 +26669,23 @@ avec ses conclusions au préfet.
 
 	  - Décret n°73-1023 1973-11-08
 
+	**Modifié par**:
+
+	  - Décret n°90-481 du 12 juin 1990 - art. 1 () JORF 14 juin 1990
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R121-22 (V)
+
 
 ###### Article R*160-20
 
-Le préfet soumet à la délibération des conseils municipaux des communes intéressées le projet de modification du tracé ou des
-caractéristiques de la servitude.
+Au cas où un projet a donné lieu à enquête en application des articles R. 160-12 ou R. 160-16-1, le préfet soumet à la
+délibération des conseils municipaux des communes intéressées le tracé et les caractéristiques du projet de servitude.
 
 Cette délibération est réputée favorable si elle n'est pas intervenue dans un délai de deux mois. Si le conseil municipal
 entend faire connaître son opposition, celle-ci doit être expressément formulée dans la délibération.
@@ -26550,16 +26696,46 @@ entend faire connaître son opposition, celle-ci doit être expressément formul
 
 	  - Décret n°73-1023 1973-11-08
 
+	**Modifié par**:
+
+	  - Décret n°90-481 du 12 juin 1990 - art. 1 () JORF 14 juin 1990
+	  - Décret n°90-481 du 12 juin 1990 - art. 4 () JORF 14 juin 1990
+
+	**Cite**:
+
+	  - Code de l'urbanisme R160-12, R160-16-1
+
 
 ###### Article R*160-21
 
-L'approbation de la modification du tracé ou des caractéristiques de la servitude résulte :
+Dans les cas prévus à l'article R. 160-20, l'approbation du tracé et des caractéristiques de la servitude résulte : 
 
-a) D'un arrêté du préfet, en l'absence d'opposition de la ou des communes intéressées ;
+a) d'un arrêté du préfet, en l'absence d'opposition de la ou des communes intéressées ; 
 
-b) D'un décret en Conseil d'Etat, en cas d'opposition d'une ou plusieurs communes.
+b) d'un décret en Conseil d'Etat, en cas d'opposition d'une ou plusieurs communes.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°90-481 du 12 juin 1990 - art. 1 () JORF 14 juin 1990
+	  - Décret n°90-481 du 12 juin 1990 - art. 4 () JORF 14 juin 1990
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*160-20 (VT)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*160-22 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R121-23 (V)
 
 	**Codifié par**:
 
@@ -26568,55 +26744,42 @@ b) D'un décret en Conseil d'Etat, en cas d'opposition d'une ou plusieurs commun
 
 ###### Article R*160-22
 
-L'acte approuvant la modification du tracé ou des caractéristiques de la servitude doit être motivé.
+L'acte d'approbation prévu à l'article R. 160-21 doit être motivé. Cet acte fait l'objet : 
 
-Cet acte fait l'objet des mesures de publicité et d'information du public mentionnées aux articles R. 123-10 et R. 123-14
-ainsi que de la publicité prévue à l'article 36 du décret n. 55-22 du 4 janvier 1955.
+a) d'une publication au Journal officiel de la République française, s'il s'agit d'un décret ; 
+
+b) d'une publication au recueil des actes administratifs de la ou des préfectures intéressées, s'il s'agit d'un arrêté
+préfectoral. 
+
+Une copie de cet acte est déposée à la mairie de chacune des communes concernées. Avis de ce dépôt est donné par affichage à
+la mairie pendant un mois. Mention de cet acte est insérée en caractères apparents dans deux journaux régionaux ou locaux
+diffusés dans le ou les départements concernés. 
+
+Cet acte fait en outre l'objet de la publicité prévue au 2° de l'article 36 du décret n° 55-22 du 4 janvier 1955.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*160-21 (VT)
+	  - Décret n°55-22 du 4 janvier 1955 - art. 36
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R121-24 (V)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Cite**:
-
-	  - Décret n°55-22 du 4 janvier 1955 - art. 36 (V)
-	  - Code de l'urbanisme R123-10
-
 	**Modifié par**:
 
-	  - Décret n°83-813 1983-09-09 ART. 8 JORF 11 SEPTEMBRE 1983 date d'entrée en vigueur 1 OCTOBRE 1983
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°83-851 du 23 septembre 1983 - art. 1 (V)
-
-
-###### Article R*160-23
-
-Sur le territoire des communes, parties de communes ou ensembles de communes dotés d'un plan d'occupation des sols rendu
-public ou approuvé, le tracé de la servitude établi en application, soit de l'article L. 160-6 (alinéa 1er), soit des alinéas
-2 et 3 du même article, est reporté à ce plan dans les conditions définies à l'article L. 126-1.
-
-**Liens relatifs à cet article**
+	  - Décret n°90-481 du 12 juin 1990 - art. 1 () JORF 14 juin 1990
+	  - Décret n°90-481 du 12 juin 1990 - art. 4 () JORF 14 juin 1990
 
 	**Abrogé par**:
 
-	  - Décret n°90-481 du 12 juin 1990 - art. 4 () JORF 14 juin 1990
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L126-1 (M)
-	  - Code de l'urbanisme - art. L160-6 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°83-813 1983-09-23 art. 8 JORF 11 septembre 1983 en vigueur le 1er octobre 1983
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 
 ###### Article R*160-24
@@ -26626,21 +26789,35 @@ servitude de passage.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°90-481 du 12 juin 1990 - art. 1 () JORF 14 juin 1990
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*160-25 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R121-25 (V)
+
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
 
-##### Sous-section 2 : Portée de la servitude.
-
 ###### Article R*160-25
 
-La servitude entraîne pour les propriétaires des terrains et leurs ayants-droit :
+La servitude entraîne pour les propriétaires des terrains et leurs ayants-droit : 
 
-a) L'obligation de laisser aux piétons le droit de passage ;
+a) L'obligation de laisser aux piétons le droit de passage ; 
 
 b) L'obligation de n'apporter à l'état des lieux aucune modification de nature à faire, même provisoirement, obstacle au
-libre passage des piétons, sauf autorisation préalable accordée par le préfet, pour une durée de six mois au maximum ;
+libre passage des piétons, sauf autorisation préalable accordée par le préfet, pour une durée de six mois au maximum ; 
 
 c) L'obligation de laisser l'administration compétente établir la signalisation prévue à l'article R. 160-24 et effectuer les
 travaux nécessaires pour assurer le libre passage et la sécurité des piétons, sous réserve d'un préavis de quinze jours sauf
@@ -26648,14 +26825,27 @@ cas d'urgence.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°90-481 du 12 juin 1990 - art. 1 () JORF 14 juin 1990
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*160-24 (VT)
+
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*160-27 (VT)
 	  - Code de l'urbanisme - art. R*160-32 (VT)
+	  - Code de l'urbanisme - art. R*160-33 (VT)
 
-	**Cite**:
+	**Nouveaux textes**:
 
-	  - Code de l'urbanisme R160-24
+	  - Code de l'urbanisme - art. R121-26 (V)
 
 	**Codifié par**:
 
@@ -26665,13 +26855,31 @@ cas d'urgence.
 ###### Article R*160-26
 
 La servitude entraîne, pour toute personne qui emprunte le passage, l'obligation de n'utiliser celui-ci que conformément aux
-fins définies par l'article L. 160-6.
+fins définies par l'article L. 160-6 ou L. 160-6-1.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°90-481 du 12 juin 1990 - art. 1 () JORF 14 juin 1990
+	  - Décret n°90-481 du 12 juin 1990 - art. 4 () JORF 14 juin 1990
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L160-6 (M)
+	  - Code de l'urbanisme - art. L160-6
+	  - Code de l'urbanisme - art. L160-6-1
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*160-33 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R121-27 (V)
 
 	**Liens**:
 
@@ -26684,48 +26892,30 @@ fins définies par l'article L. 160-6.
 
 ###### Article R*160-27
 
-Les dépenses nécessaires à l'exécution des travaux mentionnés à l'article R. 160-25 sont prises en charge par l'Etat. Les
+Les dépenses nécessaires à l'exécution des travaux mentionnés à l'article R. 160-25 c sont prises en charge par l'Etat. Les
 collectivités locales et tous organismes intéressés peuvent participer à ces dépenses.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code de l'urbanisme R160-25
-
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
+	**Modifié par**:
 
-#####    Sous-section 3 : Procédure d'indemnisation.
-
-###### Article R*160-28
-
-Le point de départ du délai de six mois dans lequel doit être présentée la demande tendant à l'indemnisation du dommage
-matériel direct et certain causé par l'institution de la servitude est suivant le cas :
-
-a) La date d'entrée en vigueur du décret n° 77-753 du 7 juillet 1977, lorsque le tracé de la servitude est fixé en
-application des articles R. 160-8 et R. 160-9 ;
-
-b) La date à laquelle est publié l'acte administratif procédant à une délimitation nouvelle du domaine public maritime ;
-
-c) La date de publication de l'acte administratif modifiant le tracé ou les caractéristiques de la servitude.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Cite**:
-
-	  - Décret n°77-753 1977-07-07
-	  - Code de l'urbanisme R160-8, R160-9
+	  - Décret n°90-481 du 12 juin 1990 - art. 1 () JORF 14 juin 1990
 
 	**Abrogé par**:
 
-	  - Décret n°90-481 du 12 juin 1990 - art. 4 () JORF 14 juin 1990
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*160-25
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R121-28 (V)
 
 
 ###### Article R*160-29
@@ -26735,17 +26925,29 @@ réception postal ou être déposée contre décharge à la préfecture.
 
 La demande doit comprendre :
 
-a) Tout document attestant que le demandeur est propriétaire du terrain grevé par la servitude ;
+a) tout document attestant que le demandeur est propriétaire du terrain grevé par la servitude ;
 
-b) Toutes précisions justifiant l'étendue du préjudice causé par la servitude ;
+b) toutes précisions justifiant l'étendue du préjudice causé par la servitude ;
 
-c) Le montant de l'indemnité sollicitée.
+c) le montant de l'indemnité sollicitée.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°90-481 du 12 juin 1990 - art. 1 () JORF 14 juin 1990
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R121-29 (V)
 
 
 ###### Article R*160-30
@@ -26759,6 +26961,10 @@ L'indemnité allouée est à la charge de l'Etat.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°90-481 du 12 juin 1990 - art. 1 () JORF 14 juin 1990
 
 
 ###### Article R*160-31
@@ -26774,37 +26980,53 @@ Les mémoires en défense de l'Etat devant le tribunal sont présentés par le p
 
 	  - Décret n°73-1023 1973-11-08
 
+	**Modifié par**:
+
+	  - Décret n°90-481 du 12 juin 1990 - art. 1 () JORF 14 juin 1990
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
 
 ###### Article R*160-32
 
 Ne donne pas lieu à indemnité la suppression des obstacles placés en violation des dispositions de l'article R. 160-25 ou
-édifiés en infraction aux règles d'urbanisme ou d'occupation du domaine public.
+édifiés en infraction aux règles d'urbanisme ou d'occupation du domaine public. 
 
 L'indemnité allouée est sujette à répétition partielle ou totale dans le cas où le préjudice se trouve atténué ou supprimé en
 raison de la suspension de la servitude ou de la modification de son tracé ou de ses caractéristiques.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°90-481 du 12 juin 1990 - art. 1 () JORF 14 juin 1990
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
 	**Cite**:
 
-	  - Code de l'urbanisme R160-25
+	  - Code de l'urbanisme - art. R*160-25
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R121-31 (V)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
 
-#####    Sous-section 4 : Sanctions.
+###### Article R160-33
 
-###### Article R*160-33
+Sera punie de l'amende prévue pour les contraventions de la 5e classe toute personne qui aura enfreint les dispositions de
+l'article R. 160-25 ou fait obstacle à leur application.
 
-Sera punie d'une amende de 3000 F à 6000 F et, le cas échéant, d'un emprisonnement de huit jours, toute personne qui
-méconnaît les prescriptions de l'alinéa premier de l'article R. 160-25 ou qui fait obstacle à leur application. En cas de
-récidive, la peine d'amende sera portée de 6000 F à 12000 F et celle d'emprisonnement à deux mois.
-
-Sera punie d'une amende de 3000 à 6000 F toute personne qui méconnaît les prescriptions de l'article R. 160-26. En cas de
-récidive, la peine d'amende pourra être portée de 6000 F à 12000 F et une peine d'emprisonnement de un mois à deux mois
-pourra , en outre, être prononcée.
+" Sera punie d'une amende prévue pour les contraventions de la 4e classe toute personne qui aura enfreint les dispositions de
+l'article R. 160-26. "
 
 **Liens relatifs à cet article**
 
@@ -26814,8 +27036,8 @@ pourra , en outre, être prononcée.
 
 	**Modifié par**:
 
-	  - Décret n°85-956 1985-09-11 art. 1, art. 2, art. 3 JORF 12 septembre 1985 en vigueur le 1er octobre 1985
-	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+	  - Décret n°90-481 du 12 juin 1990 - art. 1 () JORF 14 juin 1990
+	  - Décret n°90-481 du 12 juin 1990 - art. 4 () JORF 14 juin 1990
 
 	**Cite**:
 
