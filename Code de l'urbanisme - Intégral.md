@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1986-02-03
+Version Consolidée au 1986-02-11
 
 # Partie législative
 
@@ -22708,12 +22708,11 @@ c) Les zones de richesses naturelles, dites "Zones NC", à protéger en raison n
 la richesse du sol ou du sous-sol ;
 
 d) Les zones, dites "Zones ND", à protéger en raison, d'une part, de l'existence de risques ou de nuisances, d'autre part, de
-la qualité des sites, des milieux naturels, des paysages et de leur intérêt, notamment du point de vue esthétique ou
-écologique ; à l'intérieur des zones qui constituent un paysage de qualité et à l'exclusion des parties de territoire
+la qualité des sites, des milieux naturels, des paysages et de leur intérêt, notamment du point de vue esthétique, historique
+ou écologique ; à l'intérieur des zones qui constituent un paysage de qualité et à l'exclusion des parties de territoire
 présentant un intérêt pour le développement des exploitations agricoles ou forestières sont indiqués ceux des secteurs où est
-applicable le transfert des possibilités de construction prévu à l'article L. 123-2.
-
-3. Ces zones urbaines ou naturelles comprennent, le cas échéant :
+applicable le transfert des possibilités de construction prévu à l'article L. 123-2.    3. Ces zones urbaines ou naturelles
+comprennent, le cas échéant :
 
 a) Les espaces boisés classés à conserver ou à créer ;
 
@@ -22756,17 +22755,13 @@ pouvant figurer sur les documents graphiques du plan d'occupation des sols.
 
 	  - Décret n°70-1016 1970-10-28 ART. 18 I
 
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
 	**Liens**:
 
 	  - TXT_SOURCE: Loi n°83-8 1983-01-07 ART. 48 (Code de l'urbanisme L123-1)
 
 	**Modifié par**:
 
-	  - Décret n°86-52 1986-01-10 ART. 3 4° JORF 14 janvier 1986
+	  - Décret n°86-192 1986-02-05 ART. 2 JORF 11 février 1986
 
 	**Cité par**:
 
@@ -22776,7 +22771,11 @@ pouvant figurer sur les documents graphiques du plan d'occupation des sols.
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L123-2 (M)
-	  - Code de l'urbanisme L123-1 9
+	  - Code de l'urbanisme R123-22
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 #### Dispositions transitoires relatives aux projets d'aménagement et aux plans d'urbanisme
@@ -46549,7 +46548,8 @@ A la salubrité, à la sécurité ou à la tranquillité publique ;
 
 Au caractère ou à l'intérêt des lieux avoisinants ;
 
-Aux sites, aux paysages naturels ou urbains, à la conservation des perspectives monumentales ;
+Aux sites, aux paysages naturels ou urbains, à la conservation des perspectives monumentales ou aux vestiges ou sites
+archéologiques.
 
 A l'exercice des activités agricoles et forestières ou à la conservation des milieux naturels, de la faune ou de la flore.
 
@@ -46563,9 +46563,13 @@ l'engagement du pétitionnaire d'enlever à ses frais les installations autoris�
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
 	**Modifié par**:
 
-	  - Décret n°84-226 1984-03-29 ART. ART. 22 JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
+	  - Décret n°86-192 1986-02-05 art. 3 JORF 11 février 1986
 
 	**Cite**:
 
@@ -46574,10 +46578,6 @@ l'engagement du pétitionnaire d'enlever à ses frais les installations autoris�
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R445-13 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 ##### Formalités postérieures à la délivrance de l'autorisation.
