@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2004-08-11
+Version Consolidée au 2004-08-17
 
 # Partie législative
 
@@ -12694,8 +12694,8 @@ voies sont situées.
 La décision de l'autorité administrative portant transfert vaut classement dans le domaine public et éteint, par elle-même et
 à sa date, tous droits réels et personnels existant sur les biens transférés.
 
-Cette décision est prise par décret en Conseil d'Etat, sauf si la commune a formulé une demande pour le transfert des voies
-privées dans son domaine public et si aucun des propriétaires intéressés ne s'y est opposé.
+Cette décision est prise par délibération du conseil municipal. Si un propriétaire intéressé a fait connaître son opposition,
+cette décision est prise par arrêté du représentant de l'Etat dans le département, à la demande de la commune.
 
 L'acte portant classement d'office comporte également approbation d'un plan d'alignement dans lequel l'assiette des voies
 publiques est limitée aux emprises effectivement livrées à la circulation publique.
@@ -12710,9 +12710,17 @@ communale.
 
 	  - Code de l'administration communale 248
 
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
 	**Anciens textes**:
 
 	  - Loi n°65-503 1965-06-29 ART. 4
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 150 () JORF 17 août 2004
 
 	**Cité par**:
 
@@ -12721,10 +12729,6 @@ communale.
 	  - Code de l'urbanisme - art. R*318-12 (Ab)
 	  - Code de la voirie routière - art. L141-3 (V)
 	  - Code de la voirie routière - art. L162-5 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L318-4
@@ -18082,31 +18086,37 @@ En cas de carence de l'autorité compétente, le préfet de département peut se
 sans effet.
 
 Si l'une des zones visées au présent article est couverte par un plan de prévention des risques naturels prévisibles établi
-en application de la loi n° 87-565 du 22 juillet 1987 relative à l'organisation de la sécurité civile, à la protection de la
-forêt contre l'incendie et à la prévention des risques majeurs, les prescriptions fixées en application du présent article
-doivent être compatibles avec celles définies par ce plan.
+en application du chapitre II du titre VI du livre V du code de l'environnement, les prescriptions fixées en application du
+présent article doivent être compatibles avec celles définies par ce plan.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
 
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Cite**:
-
-	  - Loi n°87-565 1987-07-22
 
 	**Modifié par**:
 
-	  - Loi n°95-101 du 2 février 1995 - art. 22 () JORF 3 février 1995
+	  - Loi n°2004-811 du 13 août 2004 - art. 102 () JORF 17 août 2004
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*443-10 (V)
 	  - Code de l'urbanisme - art. R*443-8-3 (Ab)
 	  - Code de l'urbanisme - art. R443-9 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L443-3
