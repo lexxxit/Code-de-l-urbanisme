@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1989-01-01
+Version Consolidée au 1989-01-06
 
 # Partie législative
 
@@ -54631,6 +54631,44 @@ de l'urbanisme, et au constructeur concerné.
 
 ####  Section 1 : Régime général
 
+###### Article A430-1
+
+La demande de permis de démolir prévue à l'article R. 430-1 est établie conformément au modèle joint en annexe au présent
+article.
+
+**Nota:**
+
+Nota : Cet imprimé est enregistré au Cerfa sous le numéro 46-0405 (imprimé PC 020). Il peut être obtenu auprès des mairies ou
+des directions départementales de l'équipement.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1993-10-29 art. 1 JORF 19 novembre 1993
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1993-10-29 art. 2
+
+	**Abrogé par**:
+
+	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Cité par**:
+
+	  - Arrêté du 29 octobre 1993 - art. 1 (V)
+	  - Arrêté du 29 octobre 1993 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme R430-1
+
+
 ###### Article A430-2
 
 Toute demande de permis de démolir concernant un bâtiment comportant un ou plusieurs logements soumis à la loi n. 48-1360 du
@@ -54656,29 +54694,6 @@ habitabilité, montant du loyer, nature juridique de la location).
 	**Codifié par**:
 
 	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-
-#####    Sous-section 1 : Présentation de la demande.
-
-###### Article A430-1
-
-La demande de permis de démolir prévue à l'article R. 430-6, est établie conformément au modèle joint en annexe au présent
-code.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cité par**:
-
-	  - Arrêté du 29 octobre 1993 - art. 1 (V)
-	  - Arrêté du 29 octobre 1993 - art. 2 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R430-6
 
 
 ####  Section 4 : Formalités postérieures à la délivrance du permis de de démolir.
