@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1977-07-08
+Version Consolidée au 1977-07-10
 
 # Partie législative
 
@@ -13509,6 +13509,43 @@ l'amélioration de l'hygiène des locaux.
 
 ### Titre II : Prévisions et règles d'urbanisme
 
+#### Chapitre Ier : Dispositions générales communes aux schémas directeurs et aux plans d'occupation des sols
+
+#####  Section 1 : Associations locales d'usagers.
+
+###### Article R*121-1
+
+Les associations locales d'usagers visées à l'article L. 121-8 [*élaboration plan d'occupation des sols consultation*] sont
+agréées dans les conditions définies au titre 1er du décret n. 77-760 du 7 juillet 1977.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°77-760 1977-07-07 ART. 3 à 19
+	  - Code de l'urbanisme - art. L121-8 (M)
+
+	**Créé par**:
+
+	  - Décret n°77-760 du 7 juillet 1977, v. init.
+
+	**Cité par**:
+
+	  - Décret n°2014-1300 du 23 octobre 2014 - art. (VD)
+	  - Code de l'urbanisme - art. R*122-10 (VT)
+	  - Code de l'urbanisme - art. R*123-15 (VT)
+	  - Code de l'urbanisme - art. R*123-19 (VT)
+	  - Code de l'urbanisme - art. R*124-4 (VT)
+	  - Code de l'urbanisme - art. R*124-6 (VT)
+	  - Code de l'urbanisme - art. R*141-4 (VT)
+	  - Code de l'urbanisme - art. R*710-1 (Ab)
+	  - Code de la défense. - art. D5131-12 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 #### CHAPITRE II : Schémas directeurs d'aménagement et d'urbanisme
 
 #####  Section 1 : Etablissement des schémas directeurs et des schémas de secteurs.
@@ -14219,6 +14256,103 @@ La mention de la prestation de serment est apposée sur cette commission par le 
 	**Abrogé par**:
 
 	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+
+####  Section 3 : Agrément des associations de protection et d'amélioration du cadre de vie et de l'environnement
+
+###### Article R*160-7
+
+Les associations de protection et d'amélioration du cadre de vie et de l'environnement visées aux articles L. 160-1 et L.
+480-1 sont agréées dans les conditions définies au titre Ier du décret n° 77-760 du 7 juillet 1977.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Décret n°77-760 du 7 juillet 1977
+	  - Code de l'urbanisme - art. L160-1
+	  - Code de l'urbanisme - art. L480-1
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R620-2 (V)
+
+
+####  Section 4 : Servitude de passage sur le littoral
+
+#####    Sous-section 1 : Détermination du tracé et des caractéristiques de la servitude.
+
+###### Article R*160-12
+
+En vue de la modification, par application des alinéas 2 et 3 de l'article L. 160-6, du tracé ainsi que, le cas échéant, des
+caractéristiques de la servitude, le chef du service maritime adresse au préfet, pour être soumis à enquête, un dossier qui
+comprend :
+
+a) Une notice explicative exposant l'objet de l'opération prévue ;
+
+b) Le plan parcellaire des terrains sur lesquels le transfert de la servitude est envisagé, avec l'indication du tracé à
+établir et celle de la largeur du passage ;
+
+c) La liste par communes des propriétaires concernés par le transfert de la servitude, dressée à l'aide d'extraits des
+documents cadastraux délivrés par le service du cadastre ou à l'aide des renseignements délivrés par le conservateur des
+hypothèques au vu du fichier immobilier, ou par tous autres moyens ;
+
+d) L'indication des parties de territoire où il est envisagé de suspendre l'application de la servitude, notamment dans les
+cas visés à l'article R. 160-14.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L160-6 (M)
+	  - Code de l'urbanisme L160-6, R160-14
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*160-14 (VT)
+	  - Code de l'urbanisme - art. R*160-15 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+#####    Sous-section 3 : Procédure d'indemnisation.
+
+###### Article R*160-28
+
+Le point de départ du délai de six mois dans lequel doit être présentée la demande tendant à l'indemnisation du dommage
+matériel direct et certain causé par l'institution de la servitude est suivant le cas :
+
+a) La date d'entrée en vigueur du décret n° 77-753 du 7 juillet 1977, lorsque le tracé de la servitude est fixé en
+application des articles R. 160-8 et R. 160-9 ;
+
+b) La date à laquelle est publié l'acte administratif procédant à une délimitation nouvelle du domaine public maritime ;
+
+c) La date de publication de l'acte administratif modifiant le tracé ou les caractéristiques de la servitude.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Décret n°77-753 1977-07-07
+	  - Code de l'urbanisme R160-8, R160-9
+
+	**Abrogé par**:
+
+	  - Décret n°90-481 du 12 juin 1990 - art. 4 () JORF 14 juin 1990
 
 
 ## Règles générales d'aménagement et d'urbanisme
@@ -15877,10 +16011,24 @@ d'appel*]
 
 ###### Article R*130-2
 
-Le rejet de plein droit de la demande d'autorisation de défrichement prévu à l'alinéa 3 de l'article L. 130-1 du Code de
-l'urbanisme est constaté par arrêté préfectoral.
+Le propriétaire qui a fait agréer un plan simple de gestion dans les conditions prévues par la loi du 6 août 1963 et le
+décret du 13 avril 1966 peut effectuer sans formalité les coupes et abattages d'arbres prévus audit plan.
+
+S'il désire procéder soit à une coupe extraordinaire au sens de l'article 77 du décret du 13 avril 1966, soit à une
+exploitation soumise au régime spécial d'autorisation administrative institué par les articles 80 et 81 dudit décret,
+l'autorisation qu'il doit obtenir dans l'un et l'autre cas, tient lieu de l'autorisation préalable prévue au cinquième alinéa
+de l'article L. 130-1.
+
+Le propriétaire peut effectuer sans formalité les coupes qui entrent dans le cadre d'une autorisation par catégories définies
+par arrêté du préfet pris après avis du centre régional de la propriété forestière.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°63-810 1963-08-06
+	  - Code de l'urbanisme L130-1 AL. 5
+	  - Décret  1966-04-13 ART. 77 80 ET 81
 
 	**Cité par**:
 
@@ -15893,15 +16041,11 @@ l'urbanisme est constaté par arrêté préfectoral.
 	**Anciens textes**:
 
 	  - Code de l'urbanisme - art. R*130-3 (M)
+	  - Code de l'urbanisme - art. R130-3 (M)
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R130-3 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R142-3 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme L130-1 AL. 3
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R130-4 (M)
 
 	**Codifié par**:
 
@@ -15910,21 +16054,35 @@ l'urbanisme est constaté par arrêté préfectoral.
 
 ###### Article R*130-3
 
-Le propriétaire qui a fait agréer un plan simple de gestion dans les conditions prévues par la loi du 6 août 1963 et le
-décret du 13 avril 1966 peut effectuer sans formalité les coupes et abattages d'arbres prévus audit plan.
+Le rejet de plein droit de la demande d'autorisation de défrichement, prévu à l'article L. 130-1, est constaté par arrêté
+préfectoral.
 
-S'il désire procéder soit à une coupe extraordinaire au sens de l'article 77 du décret du 13 avril 1966, soit à une
-exploitation soumise au régime spécial d'autorisation administrative institué par les articles 80 et 81 dudit décret,
-l'autorisation qu'il doit obtenir dans l'un et l'autre cas tient lieu de l'autorisation préalable prévue au quatrième alinéa
-de l'article L. 130-1 du code de l'urbanisme.
+Dans le cas prévu au quatrième alinéa de l'article L. 130-1 [*exploitation produits minéraux*] la demande d'autorisation de
+défrichement est instruite dans les formes et délais prescrits par le code forestier sous réserve des dispositions
+complémentaires suivantes :
+
+a) La demande doit être accompagnée d'une étude d'impact établie conformément aux dispositions de l'article 2 de la loi n.
+76-629 du 10 juillet 1976 et des textes pris pour son application, ainsi que de l'engagement du pétitionnaire de réaménager
+le site selon les prescriptions dont l'autorisation d'exploitation de carrière sera assortie si elle est accordée ;
+
+b) La demande est soumise pour avis au chef du service interdépartemental de l'industrie et des mines en ce qui concerne
+l'intérêt de l'exploitation du gisement pour l'économie nationale ou régionale et au délégué régional à l'environnement, en
+ce qui concerne les conséquences de l'exploitation pour l'environnement. Ces avis sont réputés exprimés à l'expiration d'un
+délai de deux mois.
+
+Nonobstant toutes dispositions contraires, une autorisation de défrichement accordée dans un espace boisé classé en
+application du présent article vaut autorisation de coupe et abattage au sens de l'article L. 130-1.
+
+Si la mise en exploitation d'un gisement de produits minéraux dans un espace boisé classé ne nécessite pas l'autorisation de
+défrichement au titre de la législation forestière, mais est subordonné à une autorisation de coupe et abattage, cette
+autorisation ne peut être accordée que si la procédure définie au deuxième alinéa ci-dessus, a été respectée.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°63-810 1963-08-06
+	  - Loi n°76-629 du 10 juillet 1976 - art. 2 (M)
 	  - Code de l'urbanisme L130-1 AL. 4
-	  - Décret  1966-04-13 ART. 77, 80 ET 81
 
 	**Cité par**:
 
@@ -15935,14 +16093,11 @@ de l'article L. 130-1 du code de l'urbanisme.
 	**Nouveaux textes**:
 
 	  - Code de l'urbanisme - art. R*130-2 (M)
-	  - Code de l'urbanisme - art. R130-2 (M)
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*130-2 (M)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R130-1 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R130-4 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R142-3 (M)
 
 	**Codifié par**:
 
@@ -16451,18 +16606,40 @@ d'administration publique.
 
 ###### Article R142-2
 
-Dans les départements énumérés à l'article R. 142-1, des arrêtés du ministre chargé de l'urbanisme [*autorité compétente*],
-pris après accord du ministre chargé des affaires culturelles, du ministre de l'intérieur, du ministre de l'agriculture, du
-ministre chargé de la protection de la nature et de l'environnement et du ministre chargé du tourisme, peuvent, après
-consultation des conseils généraux intéressés, déterminer [*délimitation*] les périmètres à l'intérieur desquels les
-dispositions prévues aux articles ci-après seront applicables en vue de préserver le caractère de ces départements.
+Dans les départements énumérés à l'article R. 142-1 et en vue de préserver leur caractère, les périmètres à l'intérieur
+desquels sont applicables les dispositions prévues aux articles L. 142-1 à L. 142-3 ainsi qu'aux articles ci-après, sont
+délimités dans les conditions  définies au présent article.
+
+Dans le délai d'un mois qui suit la publication au Journal officiel du décret inscrivant un département sur la liste figurant
+à l'article R. 142-1, le préfet consulte le conseil général et les conseils municipaux des communes intéressées sur un projet
+de délimitation.
+
+Au vu des avis émis, il procède à la délimitation du ou des périmètres sensibles.
+
+Dans le cas où le conseil général ou les conseils municipaux consultés n'ont pas pris position [*silence*] dans le délai d'un
+an décompté comme il est dit soit à l'article L. 142-4, soit à l'article 34-II de la loi n. 76-1285 du 31 décembre 1976, le
+préfet procède à la délimitation.
+
+Lorsque tous les avis requis sont par la suite recueillis, le préfet peut modifier cette délimitation.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°76-1285 1976-12-31 ART. 34 II
+	  - Code de l'urbanisme - art. L142-1 (M)
+	  - Code de l'urbanisme - art. L142-2 (M)
+	  - Code de l'urbanisme - art. L142-3 (M)
+	  - Code de l'urbanisme - art. L142-4 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R142-4-1 (Ab)
 
 	**Cité par**:
 
 	  - Décret n°2015-1783 du 28 décembre 2015 - art. 12 (V)
-	  - Code de l'urbanisme - art. L142-1 (M)
 	  - Code de l'urbanisme - art. R142-1 (M)
 	  - Code de l'urbanisme - art. R142-4-1 (Ab)
 
@@ -16513,6 +16690,43 @@ classés comme espaces boisés par un plan d'urbanisme approuvé.
 	**Anciens textes**:
 
 	  - Décret n°59-768 1959-06-26 ART. 2
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R142-4-1
+
+Les arrêtés préfectoraux pris en application des articles R. 142-2, R. 142-3, R. 142-3-1, R. 142-4 (alinéa 2) font l'objet
+d'une publication au recueil des actes administratifs du département et d'une mention dans deux journaux régionaux ou locaux
+diffusés dans tout le département [*publicité*].
+
+Les effets juridiques attachés aux arrêtés préfectoraux ont pour point de départ l'exécution des formalités de publication
+prévues au présent article.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°86-516 du 14 mars 1986 - art. 7 () JORF 16 mars 1986 en vigueur le   1er juin 1987
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R142-2 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R142-3-1 (Ab)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R142-4 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R142-2 (M)
+	  - Code de l'urbanisme - art. R142-3-1 (Ab)
+	  - Code de l'urbanisme R142-4 AL. 2
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R142-3 (M)
 
 	**Codifié par**:
 
@@ -17049,145 +17263,14 @@ lacustres, qui peut exercer l'action en nullité de la vente intervenue et se fa
 	  - Décret n°73-1023 1973-11-08
 
 
-##### Redevance départementale d'espaces verts.
+##### Taxe départementale d'espaces verts.
 
-###### Article R142-18
+###### Article R*142-23
 
-A l'intérieur des périmètres sensibles mentionnés à l'article L. 142-1, l'arrêté d'autorisation de lotissement fixe le
-montant de la redevance due par le lotisseur ou constate qu'elle n'est pas due en application de l'article L. 142-3
-[*exonération*].
+La taxe est perçue au profit du département en tant que recette grevée d'affectation spéciale.
 
-Lorsque l'arrêté préfectoral autorise l'exécution par tranches des travaux à la charge du lotisseur, le paiement de la
-redevance peut également être autorisé par fractions échelonnées.
-
-Dans le cas où le lotissement a été autorisé entre le 25 décembre 1960 et le 11 août 1961 [*période*], le montant de la
-redevance due est fixé par arrêté préfectoral notifié au lotisseur.
-
-S'il y a lieu à paiement d'une redevance, le certificat administratif prévu à l'article R. 315-2 [*de conformité*] ne peut
-être délivré que sur justification du paiement de la redevance entre les mains du comptable départemental.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°61-910 du 5 août 1961 - art. 13, v. init.
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L142-1 (M)
-	  - Code de l'urbanisme - art. L142-3 (M)
-	  - Code de l'urbanisme L142-1, L142-3, R315-2
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R142-19 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R142-19
-
-Dans le cas de construction à usage d'habitation mentionnée à l'article /M/R. 110-14,/M/DECR.0276 : R. 111-14,// le permis de
-construire fixe l'assiette de la redevance à la charge de la personne physique ou morale qui a sollicité ce permis et liquide
-en conséquence son montant.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°61-910 1961-08-05 art. 14
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R142-21 (Ab)
-	  - Code de l'urbanisme - art. R142-22 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R142-20
-
-Dans le cas de constructions sur une parcelle comprise dans un lotissement approuvé entre le 1er janvier 1951 et le 25
-décembre 1960 [*période*], le directeur départemental saisit le préfet en vue de la fixation de la redevance.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°61-910 1961-08-05 art. 15
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R142-21 (Ab)
-	  - Code de l'urbanisme - art. R142-22 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R142-21
-
-Dans les cas prévus aux articles R. 142-19 et R. 142-20, le permis de construire est délivré sous la réserve que les travaux
-ne pourront être entrepris avant le paiement de la redevance entre les mains du comptable départemental.
-
-Quelle que soit la date du paiement de la redevance, le délai de validité du permis de construire court du jour [*point de
-départ*] de sa délivrance.
-
-Toutefois, dans le cas prévu à l'article R. 142-20, si l'arrêté fixant le montant de la redevance a été notifié
-postérieurement à la notification du permis de construire, le délai de validité de ce dernier ne court que du jour de la
-notification de l'arrêté susvisé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°61-910 1961-08-05 art. 16
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R142-19 (Ab)
-	  - Code de l'urbanisme - art. R142-20 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R142-22
-
-Lorsque, dans le cas prévu à l'article R. 142-19, le permis de construire a été délivré entre le 25 décembre 1960 et le 11
-août 1961 [*période*], le montant de la redevance due est fixé par arrêté préfectoral notifié au bénéficiaire du permis de
-construire.
-
-Lorsque, dans le cas prévu à l'article R. 142-20, le permis de construire a été délivré entre le 25 décembre 1960 et le 11
-août 1961, le directeur départemental saisit le préfet en vue de la fixation du montant de la redevance. Le préfet notifie
-[*publicité*] son arrêté au bénéficiaire du permis de construire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°61-910 1961-08-05 art. 17
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R142-19 (Ab)
-	  - Code de l'urbanisme - art. R142-20 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R142-23
-
-Le produit de la redevance est versé à un compte spécial ouvert au budget du département. Il est affecté aux acquisitions de
-terrains et aux travaux d'aménagement prévus à l'article L. 142-2.
+Un tableau annexe au budget du département fait le bilan des recettes et des emplois de la taxe départementale d'espaces
+verts.
 
 **Liens relatifs à cet article**
 
@@ -17195,13 +17278,17 @@ terrains et aux travaux d'aménagement prévus à l'article L. 142-2.
 
 	  - Décret n°61-910 1961-08-05 ART. 18
 
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L142-2 (M)
-
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°86-516 du 14 mars 1986 - art. 7 () JORF 16 mars 1986 en vigueur le   1er juin 1987
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
 
 
 ##### Gestion des terrains acquis.
@@ -17448,17 +17535,23 @@ directives et s'y substitueront dès leur entrée en vigueur.
 
 #### Dispositions protégeant certaines communes.
 
-###### Article R143-1
+##### Zones d'environnement protégé
 
-Les "zones d'architecture imposées" prévues à l'article L. 143-1 sont déterminées par arrêté du préfet [*autorité
-compétente*] pris après avis de la commission départementale d'urbanisme, de la commission départementale des sites et des
-collectivités locales intéressées.
+##### Mise à l'étude et création de la zone d'environnement protégé.
+
+###### Article R*143-1
+
+La mise à l'étude d'une zone d'environnement protégé est décidée par arrêté du préfet [*autorité compétente*] sur le rapport
+du directeur départemental de l'agriculture et du directeur départemental de l'équipement après avis ou sur la demande du ou
+des conseils municipaux intéressés ou, s'il existe un groupement de communes ayant compétence en matière d'urbanisme, de
+l'organe délibérant de cet établissement.
+
+L'arrêté prescrivant la mise à l'étude définit le territoire auquel il s'applique [*champ d'application*].
+
+Lorsque le territoire est situé dans plusieurs départements, la mise à l'étude est décidée par arrêté conjoint des préfets
+intéressés dans le respect des règles fixées par l'alinéa 1 ci-dessus.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L143-1 (M)
 
 	**Cité par**:
 
@@ -17468,15 +17561,415 @@ collectivités locales intéressées.
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Loi n°65-508 1965-08-07 ART. 45-I
+	  - Décret n°86-984 1986-08-19 art. 5 JORF 27 août 1986
 
 
-###### Article R143-2
+###### Article R*143-2
+
+La procédure de création d'une zone d'environnement protégé est conduite sous l'autorité du préfet par le directeur
+départemental de l'équipement pour ce qui est de la fixation des règles d'urbanisme, et pour ce qui concerne la protection
+des activités agricoles, par le directeur départemental de l'agriculture [*autorité compétente*].
+
+Lorsque la zone d'environnement protégé concerne des communes situées dans plusieurs départements, les préfets intéressés
+désignent celui d'entre eux sous l'autorité de qui la procédure est menée ainsi que le directeur départemental de
+l'équipement et le directeur départemental de l'agriculture qui sont chargés, dans les conditions définies à l'alinéa
+précédent, de la conduite de celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°86-984 1986-08-19 art. 5 JORF 27 août 1986
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R143-21 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*143-3
+
+L'arrêté prescrivant la mise à l'étude ou un arrêté ultérieur constitue un groupe de travail comprenant des représentants
+élus des communes ou groupements de communes intéressés et des représentants des services de l'Etat. Cet arrêté fixe les
+modalités de fonctionnement du groupe de travail. Les représentants des principaux organismes économiques et professionnels
+intéressés, et notamment des chambres d'agriculture sont associés, avec voix consultative, aux travaux du groupe de travail.
+
+Par exception aux dispositions de l'alinéa précédent, si le périmètre mis à l'étude est compris dans sa totalité à
+l'intérieur d'une zone pour laquelle un plan d'aménagement rural a été mis à l'étude ou approuvé, la commission chargée
+d'établir ce plan tient lieu de groupe de travail. Dans ce cas, les services de l'Etat intéressés qui ne sont pas représentés
+à la commission du plan d'aménagement rural sont invités à participer à ses travaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°86-984 1986-08-19 art. 5 JORF 27 août 1986
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R143-6 (V)
+
+
+###### Article R*143-4
+
+Le groupe de travail entend les présidents des associations agréées. Il peut entendre, sur leur demande, les délégués de tout
+organisme ou association intéressés par la protection de l'espace rural, des activités agricoles ou des paysages dans le
+territoire concerné par la zone.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°86-984 1986-08-19 art. 5 JORF 27 août 1986
+
+
+###### Article R*143-6
+
+Les commissions consultées en application de l'article précédent sont tenues d'émettre un avis dans le délai de deux mois ; à
+défaut [*silence*] leur avis est réputé favorable.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°86-984 1986-08-19 art. 5 JORF 27 août 1986
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*143-5 (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*143-5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*143-7
+
+Le projet de zone d'environnement protégé établi en application des articles précédents est soumis par le préfet à une
+enquête publique dans les formes prévues par les articles R. 11-4 et suivants du code de l'expropriation pour cause d'utilité
+publique.
+
+L'enquête prévue au précédent alinéa et, le cas échéant l'enquête préalable au classement, à l'ouverture, ou à la fixation de
+la largeur d'une voie communale ou d'un chemin rural peuvent avoir lieu simultanément. Dans ce cas le commissaire enquêteur
+ou la commission d'enquête est saisi de l'ensemble des procédures.
+
+//DECR. 225 du 10 mars 1981 :
+
+Dans le cas où un remembrement aménagement a été prescrit, l'enquête sur la zone d'environnement protégé et l'enquête sur le
+remembrement aménagement ont lieu simultanément. Ces deux enquêtes sont confiées à un même commissaire enquêteur.//
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°86-984 1986-08-19 art. 5 JORF 27 août 1986
+
+	**Cite**:
+
+	  - Code de l'expropriation pour cause d'utilité publique R11-4 ET SUIVANTS
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*143-8
+
+Le groupe de travail met au point le projet au vu des résultats de l'enquête [*publique*] et des avis ou propositions
+recueillis.
+
+Ce projet, accompagné des conclusions du commissaire enquêteur ou de la commission d'enquête, est soumis par le préfet aux
+conseils municipaux des communes intéressées ou aux organes délibérants des établissements publics ayant compétence en
+matière d'urbanisme.
+
+Cet avis est réputé favorable s'il n'est pas exprimé dans un délai de trois mois [*silence acquiescement tacite*]. Si le
+conseil municipal ou l'organe délibérant entend faire connaître son opposition, celle-ci doit être expressément formulée dans
+sa délibération.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*143-20 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme R143-20
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°86-984 1986-08-19 art. 5 JORF 27 août 1986
+
+
+###### Article R*143-9
+
+Les conclusions motivées du commissaire enquêteur ou de la commission d'enquête sont communiquées à toute personne qui en
+fait la demande dans les conditions prévues à l'article R. 11-12 du code de l'expropriation pour cause d'utilité publique.
+Les demandes de communication peuvent également être adressées aux maires des communes intéressées [*publicité*].
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°86-984 1986-08-19 art. 5 JORF 27 août 1986
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R143-8 (VT)
+
+	**Cite**:
+
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-12 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*143-10
+
+La zone d'environnement protégé est créée par arrêté du préfet ou, si elle s'étend sur plusieurs départements, par arrêtés
+des préfets [*autorité compétente*]. Elle peut n'être créée que sur une partie seulement du territoire où elle a été mise à
+l'étude.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°86-984 1986-08-19 art. 5 JORF 27 août 1986
+
+
+###### Article R*143-11
+
+L'acte créant une zone d'environnement protégé est publié au recueil des actes administratifs du département et fait l'objet
+d'une mention en caractères apparents dans deux journaux régionaux ou locaux diffusés dans tout le département.
+
+Les effets juridiques attachés à la création de la zone ont pour point de départ l'exécution des formalités de publication
+prévues au présent article [*publicité*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°86-984 1986-08-19 art. 5 JORF 27 août 1986
+
+
+###### Article R*143-12
+
+Le dossier de la zone d'environnement protégé, tel qu'il est défini à l'article R. 143-14, est tenu à la disposition du
+public dans les mairies des communes intéressées, à la préfecture, à la direction départementale de l'équipement et à la
+direction départementale de l'agriculture [*publicité*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme R143-14
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°86-984 1986-08-19 art. 5 JORF 27 août 1986
+
+
+##### Contenu de la zone d'environnement protégé.
+
+###### Article R*143-14
+
+Le dossier de la zone d'environnement protégé comprend         - Un rapport de présentation ;
+
+- Des documents graphiques ;
+
+- Un règlement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°86-984 1986-08-19 art. 5 JORF 27 août 1986
+
+
+###### Article R*143-16
+
+Les documents graphiques font apparaître :
+
+a) Les secteurs à l'intérieur desquels sont autorisés, réglementés ou interdits les divers modes d'occupation du sol ;
+
+b) Les espaces boisés classés à conserver ou à créer soumis aux dispositions des articles L. 130-1 et R. 130-1 à R130-6 sous
+les réserves indiquées à l'article L. 143-1 (alinéa 3) ;
+
+c) Les bâtiments dont la démolition est interdite et les secteurs à l'intérieur desquels la démolition des immeubles est
+subordonnée à la délivrance d'un permis de démolir ;
+
+d) Les zones à protéger en raison de la qualité des sites, des paysages ou des milieux naturels ;
+
+e) Les zones à protéger en raison des richesses du sol et du sous-sol.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°86-984 1986-08-19 art. 5 JORF 27 août 1986
+
+	**Cite**:
+
+	  - CODE DE L'URBANISME L130-1, R130-1 à R130-6, L143-1
+	  - Code de l'urbanisme - art. L130-1 (M)
+	  - Code de l'urbanisme - art. L143-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*143-17
+
+Le règlement fixe, en application de l'article L. 143-1 (alinéa 2) les prescriptions [*architecturales*] et interdictions
+applicables à l'occupation et à l'utilisation du sol. Il précise, le cas échéant, qu'il n'y a pas lieu de soumettre à
+autorisation les diverses utilisations du sol mentionnées au titre IV du livre IV.
+
+Le règlement mentionne s'il y a lieu celles des dispositions du règlement national d'urbanisme non mentionnées à l'article R.
+111-1 qui sont applicables à la zone.
+
+Les règles définies par le règlement de la zone d'environnement protégé ne peuvent faire l'objet d'aucune dérogation à
+l'exception des adaptations mineures rendues nécessaires par la nature du sol, la configuration des terrains ou le caractère
+des constructions avoisinantes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R111-1 (M)
+	  - Code de l'urbanisme L143-1 AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°86-984 1986-08-19 art. 5 JORF 27 août 1986
+
+
+##### Effets de la zone d'environnement protégé.
+
+###### Article R*143-18
+
+Les dispositions régissant une zone d'environnement protégé sont opposables à toute personne publique ou privée pour
+l'exécution de tous travaux, constructions, démolitions, plantations, coupes et abattages d'arbres, affouillements ou
+exhaussements des sols, édification de clôtures, pour la création de lotissements, l'ouverture d'installations classées, de
+terrains de camping, de terrains aménagés en vue du stationnement de caravanes et pour tout mode d'occupation ou
+d'utilisation du sol faisant l'objet d'une réglementation particulière.
+
+Toutefois, ne sont pas soumis à ces dispositions, les travaux visant à l'amélioration des exploitations agricoles et
+forestières, notamment l'édification des clôtures habituellement nécessaires à ces exploitations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°86-984 1986-08-19 art. 5 JORF 27 août 1986
+
+
+##### Révision.
+
+###### Article R*143-19
+
+Sous réserve de ce qui est dit à l'article R. 143-20, la révision de tout ou partie des dispositions régissant la zone
+d'environnement protégé a lieu dans les formes prévues pour son établissement.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°86-984 1986-08-19 art. 5 JORF 27 août 1986
+
+	**Cite**:
+
+	  - Code de l'urbanisme R143-20
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+##### Modification.
+
+###### Article R*143-20
+
+La déclaration d'utilité publique d'une opération qui n'est pas compatible avec les dispositions régissant une zone
+d'environnement protégé ne peut intervenir que si l'enquête publique concernant cette opération a porté à la fois sur
+l'utilité publique et sur la modification des dispositions régissant la zone.
+
+L'acte déclaratif d'utilité publique est pris après avis du groupe de travail et, le cas échéant, de la commission visée à
+l'article 1er bis du code rural et de la commission du plan d'aménagement rural, et après délibération des conseils
+municipaux ou des organes délibérants des groupements de communes intéressés dans les conditions définies à l'article R.
+143-8.
+
+La déclaration d'utilité publique emporte modification des dispositions régissant la zone d'environnement protégé.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1 BIS
+	  - Code de l'urbanisme - art. R*143-8 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°86-984 1986-08-19 art. 5 JORF 27 août 1986
+
+
+##### Zones périphériques des parcs nationaux.
+
+###### Article R143-21
 
 Conformément à l'article 28 du décret n. 61-1195 du 31 octobre 1961 portant règlement d'administration publique pour
-l'application de la loi n. 60-708 du 22 juillet 1960 relative à la création de parcs nationaux, les territoire situés à
+l'application de la loi n. 60-708 du 22 juillet 1960 relative à la création de parcs nationaux, les territoires situés à
 l'intérieur de la zone périphérique doivent faire l'objet de plans d'occupation des sols [*champ d'application*].
 
 **Liens relatifs à cet article**
@@ -17486,17 +17979,85 @@ l'intérieur de la zone périphérique doivent faire l'objet de plans d'occupati
 	  - Loi n°60-708 1960-07-22
 	  - Décret n°61-1195 du 31 octobre 1961 - art. 28 (Ab)
 
+	**Abrogé par**:
+
+	  - Décret n°86-984 1986-08-19 art. 5 JORF 27 août 1986
+
 	**Anciens textes**:
 
-	  - Décret n°61-1195 du 31 octobre 1961 - art. 28 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. R143-21 (Ab)
+	  - Code de l'urbanisme - art. R143-2 (M)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+### Dispositions spéciales à certaines communes
+
+#### Zones d'environnement protégé
+
+##### Mise à l'étude et création de la zone d'environnement protégé.
+
+###### Article R*143-5
+
+S'il existe des commissions constituées en application de l'article 1er bis du code rural, elles peuvent faire, à chaque
+stade de la procédure, toute proposition sur les règles d'utilisation du sol à prévoir.
+
+Le projet de zone d'environnement protégé élaboré par le groupe de travail est soumis pour avis auxdites commissions en ce
+qui concerne les règles d'utilisation du sol applicables aux périmètres soumis à leur intervention.
+
+Si l'alinéa 2 de l'article R. 143-3 n'est pas applicable, en raison du fait que le territoire concerné par la zone
+d'environnement protégé ne se trouve compris que pour partie dans un territoire où un plan d'aménagement rural a été mis à
+l'étude ou approuvé, le dossier est soumis pour avis à la commission mentionnée à l'article 6 du décret n. 70-487 du 8 Juin
+1970.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°70-487 1970-06-08 ART. 6
+	  - Code de l'urbanisme R143-3 AL. 2
+	  - Code rural 1 BIS
+
+	**Abrogé par**:
+
+	  - Décret n°86-984 1986-08-19 art. 5 JORF 27 août 1986
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*143-6 (Ab)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*143-6 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+### Dispositions spéciales et certaines parties du territoire
+
+#### Dispositions protégeant certaines communes
+
+##### Zones d'environnement protégé
+
+##### Mise à l'étude et création de la zone d'environnement protégé.
+
+###### Article R*143-13
+
+Les dépenses nécessaires à l'établissement des zones d'environnement protégé sont prises en charge par l'état sans préjudice,
+le cas échéant, des contributions volontaires des collectivités locales et des établissements publics intéressés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°86-984 1986-08-19 art. 5 JORF 27 août 1986
 
 
 ### Sanctions.
@@ -19086,29 +19647,40 @@ Les établissements publics pouvant être titulaires du droit de préemption dan
 
 2. Le district de la région parisienne ;
 
-3. Les établissements publics prévus aux articles L. 321-1 et R. 321-1 y compris ceux qui sont visés par l'article R.
-321-24 ;
+3. Les établissements publics créés en application du premier alinéa de l'article L. 321-1 ainsi que ceux qui sont mentionnés
+à l'article R. 321-24.
 
 4. Les chambres de commerce et d'industrie ;
 
 5. Les ports autonomes maritimes et fluviaux ;
 
-6. Les aéroports érigés en établissements publics.
+6. Les aéroports érigés en établissements publics ;
 
-//DECR.0277 ART. 5 :
+7. Le conservatoire de l'espace littoral et des rivages lacustres.
 
-7. Le conservatoire de l'espace littoral et des rivages lacustres//.
+8. Les offices publics d'aménagement et de construction ;
+
+9. Les offices publics d'habitations à loyer modéré ayant reçu une extension de compétence en application de l'article 9
+modifié du décret n. 58-1469 du 31 décembre 1958.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°58-1469 1958-12-31 ART. 9
+	  - Code de l'urbanisme L321-1 AL. 1
 
 	**Anciens textes**:
 
 	  - Décret n°62-1300 1962-11-07 ART. 13
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'urbanisme - art. L321-1 (M)
-	  - Code de l'urbanisme R321-24
+	  - Décret n°86-516 du 14 mars 1986 - art. 3 () JORF 16 mars 1986 en vigueur le 1er juin 1987
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
 
 	**Cité par**:
 
@@ -19132,32 +19704,32 @@ compétence en matière d'urbanisme groupant les communes intéressées.
 
 Les zones d'aménagement différé sont créées :
 
-1. Par arrêté du préfet sur proposition ou sur avis favorable des communes ou groupements de communes intéressées ;
+1. Par arrêté du préfet sur proposition ou sur avis favorable des communes ou groupements de communes intéressés ;
 
 2. Par arrêté du ministre chargé de l'urbanisme si le titulaire du droit de préemption est l'Etat ou un établissement public
-visé au 5. ou au 6. [*ports autonomes, aéroports*] de l'article R. 212-1 ou si la zone est située sur le territoire de
-plusieurs départements ; toutefois, les pouvoirs dévolus au ministre sont exercés par le préfet de la région parisienne
-lorsque la zone est tout entière située sur le territoire de cette région telle qu'elle est définie par l'article 1er de la
-loi n. 64-707 du 10 juillet 1964 ;
+visé au 5. ou au 6. de l'article R. 221-1 ou si la zone est située sur le territoire de plusieurs départements ; toutefois,
+les pouvoirs dévolus au ministre sont exercés par le préfet de la région parisienne lorsque la zone est tout entière située
+sur le territoire de cette région telle qu'elle est définie par l'article 1er de la loi n. 64-707 du 10 juillet 1964 ;
 
-3. Par décret en Conseil d'Etat dans tous les cas d'avis défavorable d'une commune ou d'un groupement de communes
-intéressées.
+3. Par décret en Conseil d'Etat dans tous les cas d'avis défavorable d'une commune ou d'un groupement de communes intéressés.
 
-Faute de la transmission d'un avis au préfet dans le délai de deux mois à compter du jour où [*point de départ*] le maire ou
-le président de l'organe délibérant du groupement a reçu communication du projet, la création de la zone d'aménagement
-différé peut être décidée par décret en Conseil d'Etat. /M/La décision créant la zone d'aménagement différé désigne le
-titulaire du droit de préemption/M/DECR.0277 ART. 6 :
+Faute de la transmission d'un avis au préfet dans le délai de deux mois à compter du jour où le maire ou le président de
+l'organe délibérant du groupement a reçu en communication du projet, la création de la zone d'aménagement différé peut être
+décidée par décret en Conseil d'Etat.
 
 L'acte créant la zone désigne le titulaire du droit de préemption. Le titulaire peut être changé par un acte pris dans les
 mêmes formes.
 
 Lorsque le titulaire du droit de préemption est une collectivité locale et que l'aménagement de tout ou partie du territoire
-couvert par la zone est ultérieurement concédé à l'un des organismes prévus aux articles L. 321-1 et R. 321-1 [*établissement
-public, société d'économie mixte*] cet organisme peut être substitué à la collectivité locale pour l'exercice du droit de
-préemption, à l'intérieur du périmètre dont l'aménagement est concédé, par l'acte approuvant la concession ou par un acte
-modificatif pris dans les mêmes formes.
+couvert par la zone est ultérieurement concédé à l'un des organismes [*société d'économie mixte, établissement public,
+organisme d'aménagement*] prévus à l'article L. 321-1 (alinéas 1 et 2) cet organisme peut être substitué au titulaire du
+droit de préemption avec l'accord de cette collectivité locale pour l'exercice de ce droit à l'intérieur du périmètre dont
+l'aménagement est concédé. Cette substitution est opérée par l'acte approuvant le traité de concession ou par un acte
+modificatif pris dans les mêmes formes. Dans le cas où le traité de concession n'est pas soumis à approbation, un arrêté
+préfectoral désigne le nouveau titulaire du droit de préemption. Cet arrêté produit effet à compter du jour où le traité de
+concession est exécutoire.
 
-Les dispositions des alinéas 4 et 5 de l'article R. 212-4 sont alors applicables.//
+Les dispositions des alinéas 4 et 5 de l'article R. 212-4 sont alors applicables.
 
 **Liens relatifs à cet article**
 
@@ -19169,9 +19741,8 @@ Les dispositions des alinéas 4 et 5 de l'article R. 212-4 sont alors applicable
 
 	  - Loi n°64-707 du 10 juillet 1964 - art. 1, v. init.
 	  - Code de l'urbanisme - art. L212-1 (M)
-	  - Code de l'urbanisme - art. L321-1 (M)
 	  - Code de l'urbanisme - art. R*212-1 (M)
-	  - Code de l'urbanisme R212-4 AL. 4 ET 5
+	  - Code de l'urbanisme L321-1 AL. 1 ET 2
 
 	**Liens**:
 
@@ -19315,15 +19886,19 @@ la date de l'acte créant cette zone ou prolongeant la durée d'exercice du droi
 ###### Article R*212-6
 
 A compter de la publication de l'acte créant une zone d'aménagement différé, toute aliénation volontaire à titre onéreux
-notamment par vente de gré à gré, adjudication volontaire échange ou apport en société d'un immeuble bâti ou non bâti, situé
+notamment par vente de gré à gré, adjudication volontaire, échange ou apport en société d'un immeuble bâti ou non bâti, situé
 dans le périmètre de la zone, est subordonnée à une déclaration préalable du propriétaire indiquant les prix et conditions de
 l'aliénation projetée.
 
 Cette déclaration, établie dans les formes prescrites par un arrêté conjoint du ministre chargé de l'urbanisme et du garde
 des sceaux, ministre de la justice, est adressée au préfet.
 
-Dans les trois jours, le préfet en délivre récépissé et en transmet copie au maire du lieu de situation de l'immeuble et au
-bénéficiaire du droit de préemption.
+La mise en demeure d'acquérir effectuée par le propriétaire d'un terrain bâti ou non bâti compris dans un emplacement réservé
+tient lieu de la déclaration d'intention d'aliéner ce terrain lorsque le bénéficiaire de la réserve est également titulaire
+du droit de préemption. Elle doit être adressée à la fois à ce titulaire et au préfet.
+
+Dans les trois jours, le préfet délivre récépissé de la déclaration et en transmet copie au maire du lieu de situation de
+l'immeuble et, sauf dans le cas visé à l'alinéa précédent, au bénéficiaire du droit de préemption.
 
 Dans les deux mois [*délai*] de la réception de la déclaration par le préfet, le bénéficiaire du droit de préemption doit
 notifier sa décision au propriétaire, dans les conditions fixées aux articles ci-après, et adresser copie de cette décision
@@ -19331,16 +19906,24 @@ au préfet et au maire.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°86-516 du 14 mars 1986 - art. 3 () JORF 16 mars 1986 en vigueur le   1er juin 1987
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
+
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. A212-1 (M)
 	  - Code de l'urbanisme - art. R*212-7 (Ab)
 	  - Code de l'urbanisme - art. R*212-8 (Ab)
 	  - Code de l'urbanisme - art. R*213-2 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*212-7
@@ -19838,6 +20421,28 @@ zone ou de réduction de son périmètre.
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R*215-4-1
+
+L'avis émis par la commune ou l'établissement public groupant plusieurs communes et ayant compétence en matière d'urbanisme,
+en application de l'article R. 215-1 peut porter aussi sur les modifications des règles d'urbanisme applicables dans la zone
+à urbaniser par priorité et destinées à être incorporées au plan d'occupation des sols. Dans ce cas, cet avis tient lieu de
+l'avis exigé à l'article R. 123-34.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme R123-34
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 53 () JORF 16 mars 1986 en vigueur le 1er juillet 1986
+
+
 ###### Article R*215-5
 
 La décision qui supprime la zone ou en réduit le périmètre n'a pas d'incidence sur l'application des dispositions des
@@ -19850,22 +20455,6 @@ industriel*] instituée en région parisienne par l'article L. 520-1.
 
 	  - Code de l'urbanisme - art. L520-1 (M)
 	  - Code de l'urbanisme R520-12
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*215-6
-
-Les cahiers des charges des cessions de terrains concernés par la décision de suppression ou de réduction du périmètre de la
-zone demeurent applicables aux terrains cédés avant sa publication.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R318-15 (V)
 
 	**Codifié par**:
 
@@ -20043,6 +20632,48 @@ d'occupation des sols comme il est dit à l'article L. 123-11 (alinéa 1).//
 	  - Loi n°75-1328 1975-12-31 MC3 MC4
 	  - Code de l'urbanisme - art. L211-3 (M)
 	  - Code de l'urbanisme R315-1
+
+
+## Droits de préemption
+
+### dispositions applicables aux zones à urbaniser              en priorité
+
+#### Suppression d'une zone à urbaniser en priorité ou réduction de son périmètre
+
+###### Article R*215-6
+
+Lorsque l'établissement d'un plan d'occupation des sols n'a pas été prescrit ou si le plan d'occupation des sols n'a pas été
+rendu public ou approuvé au moment de la suppression d'une zone à urbaniser en priorité, le préfet peut décider de soumettre
+à une enquête publique effectuée dans les conditions définies aux articles R. 11-4 et suivants du code de l'expropriation
+pour cause d'utilité publique, un projet de modification de celles des dispositions des cahiers des charges qui sont
+destinées à assurer l'unité d'urbanisme et d'architecture dans la zone.
+
+Le projet de modification et les conclusions du commissaire enquêteur ou de la commission d'enquête sont soumis par le préfet
+à la délibération du conseil municipal de la commune intéressée ou de l'organe délibérant de l'établissement public groupant
+plusieurs communes et ayant compétence en matière d'urbanisme.
+
+La modification est approuvée :
+
+a) Par arrêté du préfet en l'absence d'opposition de la commune ou, s'il en existe un, de l'établissement public groupant
+plusieurs communes et ayant compétence en matière d'urbanisme ou faute d'avis émis par la commune ou l'établissement public
+intéressé dans le délai de deux mois à compter du jour où le maire ou le président de l'établissement public a reçu
+communication du projet :
+
+b) Par décret en Conseil d'Etat dans les autres cas.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R318-15 (V)
+
+	**Cite**:
+
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-4 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ## Livre III : Aménagement foncier
@@ -23132,6 +23763,28 @@ plan d'occupation des sols est rendu public.
 
 	  - Décret n°71-495 1971-06-24 ART. 1
 	  - Code de l'urbanisme - art. L113-1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R318-15
+
+Dans les zones d'habitation et dans les zones industrielles créées avant l'institution des zones d'aménagement concerté, les
+dispositions destinées à assurer l'unité d'urbanisme et d'architecture dans la zone considérée qui sont incluses dans les
+cahiers des charges de concession et dans les cahiers des charges de cession de terrains approuvés sont, postérieurement à la
+fin de la concession, incorporées au plan d'occupation des sols, s'il en existe un, par décision du préfet.
+
+Lorsque l'établissement d'un plan d'occupation des sols n'a pas été prescrit ou si le plan d'occupation des sols n'a pas été
+rendu public ou approuvé au moment de la fin de la concession les dispositions des cahiers des charges destinées à assurer
+l'unité d'urbanisme et d'architecture dans la zone peuvent être modifiées, suivant les modalités fixées à l'article R. 215-6.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme R215-6
 
 	**Codifié par**:
 
@@ -27511,37 +28164,6 @@ répondre aux conditions susvisées.
 
 #### Secteurs sauvegardes
 
-##### Mesures préalables à l'approbation du plan permanent de sauvegarde.
-
-###### Article R313-9
-
-Les travaux [*construction, lotissement, établissement classé, carrière*] visés aux articles R. 123-26 à R. 123-28 ne peuvent
-être autorisés qu'après avis de l'architecte des bâtiments de France.
-
-Sans préjudice des dispositions de l'article L. 123-5 (3e alinéa), les demandes d'autorisation spéciale pour les travaux
-neufs à exécuter par ou pour les services publics ou leurs concessionnaires et exemptés de permis de construire sont
-présentées et instruites dans les conditions prévues à l'article R. 313-6.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°63-691 1963-07-13 ART. 9
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R313-6 (M)
-	  - Code de l'urbanisme R123-28
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-6 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ##### Instruction du plan de sauvegarde et de mise en valeur.
 
 ###### Article R313-5
@@ -31526,20 +32148,55 @@ et du ministre chargé des armées.
 
 ### TITRE V : Dispositions diverses
 
-#### CHAPITRE I : Dispositions propres à certaines utilisations de surface bâties
+#### CHAPITRE I : Dispositions propres à certaines utilisations de surfaces bâties
 
 #####  Section 1 : Cours communes
 
-###### Article R451-2
+###### Article R451-1
 
-(texte non reproduit).
+La demande tendant à l'institution d'une servitude dite de "cours communes" en application de l'article L. 451-1, est portée
+par le propriétaire intéressé à la création de la servitude devant le président du tribunal de grande instance du lieu de
+situation des parcelles qui statue comme en matière de référé.
+
+Le président doit, en rendant son ordonnance, concilier les intérêts des parties en cause tout en assurant le respect des
+prescriptions d'urbanisme.
+
+Il entend les propriétaires intéressés, l'autorité administrative compétente et peut ordonner toutes mesures d'instruction,
+et notamment se transporter sur les lieux.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L451-1 (T)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*430-13 (M)
+
 	**Anciens textes**:
 
-	  - Décret n°58-1178 1958-12-04 ART. 2
-	  - Code de l'urbanisme - art. R451-3 (M)
+	  - Code de l'urbanisme - art. R451-2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R451-2
+
+L'ordonnance du président institue les servitudes. Elles détermine également les indemnités approximatives et provisionnelles
+qui doivent être payées avant le commencement des travaux par les bénéficiaires de servitudes aux propriétaires des terrains
+grevés, ou consignés par eux.
+
+L'acceptation de l'indemnité approximative et provisionnelle ne préjudicie pas aux droits des propriétaires intéressés quant
+à la fixation de l'indemnité définitive suivant la procédure définie à l'article L. 451-3.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L451-3 (M)
 
 	**Cité par**:
 
@@ -31550,6 +32207,43 @@ et du ministre chargé des armées.
 
 	  - Code de l'urbanisme - art. R451-1 (M)
 
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. R451-3 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R451-3
+
+L'article 30 du décret n. 55-22 du 4 janvier 1955 portant réforme de la publicité foncière est applicable à
+l'ordonnance*Président du tribunal instituant la servitude* mentionnée à l'article R. 451-2.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°55-22 du 4 janvier 1955 - art. 30 (V)
+	  - Code de l'urbanisme - art. R451-2 (M)
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*430-13 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R451-2 (M)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. R451-4 (M)
+
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
@@ -31557,14 +32251,23 @@ et du ministre chargé des armées.
 
 ###### Article R451-4
 
-(texte non reproduit).
+Si le terrain sur lequel porte la servitude se trouve en indivision en application de la loi n. 65-557 du 10 juillet 1965
+fixant le statut de la copropriété des immeubles bâtis et si le syndicat des copropriétaires consent, dans les conditions
+prévues par le chapitre II de cette loi, à la création de ces servitudes, l'ordonnance est réputée contradictoire à l'égard
+de ceux des propriétaires minoritaires qui ne se seraient pas fait représenter au jour de l'audience.
+
+L'ordonnance du président et le tribunal peuvent fixer des indemnités approximatives et provisionnelles et des indemnités
+définitives différentes pour chacun des copropriétaires, compte tenu de l'importance du préjudice subi par chacun d'eux.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°58-1178 1958-12-04 ART. 4
-	  - Code de l'urbanisme - art. R451-7 (Ab)
+	  - Loi n°65-557 1965-07-10
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 	**Cité par**:
 
@@ -31573,12 +32276,19 @@ et du ministre chargé des armées.
 	**Nouveaux textes**:
 
 	  - Code de l'urbanisme - art. R451-3 (Ab)
-	  - Code de l'urbanisme - art. R451-3 (M)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. R451-7 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
+
+#### CHAPITRE I : Dispositions propres à certaines utilisations de surface bâties
+
+#####  Section 1 : Cours communes
 
 ###### Article R451-7
 
@@ -34308,23 +35018,27 @@ En matière de permis de construire, le ministre peut déléguer au préfet de l
 
 ###### Article R421-55
 
-La prise en considération d'un projet de travaux publics au sens de l'article L. 421-4 est décidée par le préfet [*autorité
-compétente*].
+La prise en considération de la mise à l'étude d'un projet de travaux publics au sens de l'article L. 111-10 est décidée par
+le préfet [*autorité compétente*].
+
+La décision du préfet est publiée au recueil des actes administratifs du département. Une mention en est également insérée en
+caractères apparents dans deux journaux régionaux ou locaux diffusés dans tout le département [*publicité*].
 
 **Liens relatifs à cet article**
 
+	**Transféré par**:
+
+	  - Décret n°83-1261 1983-12-30 ART. 41 JORF 7 JANVIER 1984 date d'entrée en vigueur 1 AVRIL 1984
+
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L421-4 (M)
+	  - Code de l'urbanisme - art. L111-10 (M)
 
 	**Nouveaux textes**:
 
 	  - Code de l'urbanisme - art. R111-26-1 (Ab)
+	  - Code de l'urbanisme - art. R111-26-1 (M)
 	  - Code de l'urbanisme - art. R111-26-2 (Ab)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 90
 
 	**Codifié par**:
 
@@ -35051,119 +35765,6 @@ de l'architecte des bâtiments de France. Cet avis est réputé délivré en l'a
 	  - Décret n°73-1023 1973-11-08
 
 
-### Déclaration préalable de travaux
-
-#### Contenu et forme de la déclaration préalable
-
-###### Article R*430-6
-
-La déclaration préalable prévue à l'article L. 430-3 précise l'identité du constructeur, la situation et la superficie du
-terrain et l'identité de son propriétaire, la nature des travaux et la destination des constructions, la densité de
-construction et tous les éléments nécessaires au calcul de la taxe locale d'équipement instituée par l'article 62 de la loi
-d'orientation foncière du 30 décembre 1967, dont les dispositions sont reprises à l'article 1585 A du code général des
-impôts.
-
-Un arrêté du ministre chargé de l'urbanisme fixe le modèle de cette déclaration, ainsi que le libellé de la certification et
-de l'engagement dont elle doit être assortie, en vertu de l'article L. 430-3 (b et c).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1585 A
-	  - Code de l'urbanisme - art. L430-3 (Ab)
-	  - Loi   1967-12-30 ART. 62 ORIENTATION FONCIERE
-
-	**Anciens textes**:
-
-	  - Décret n°69-451 1969-05-19 ART. 1
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*430-14
-
-Sous réserve de l'application de l'article R. 430-15, la déclaration et le dossier qui l'accompagne sont établis en deux
-exemplaires et adressés simultanément, l'un au maire de la commune dans laquelle les constructions doivent être édifiées et
-l'autre, sous pli recommandé avec demande d'avis de réception postal [*condition de forme*], au directeur départemental de
-l'équipement. L'envoi sous pli recommandé peut toutefois être remplacé par un dépôt contre décharge dans les bureaux du
-directeur départemental de l'équipement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-451 1969-05-19 ART. 9
-
-	**Cite**:
-
-	  - Code de l'urbanisme R430-15
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*430-16
-
-Mention de la déclaration doit être affichée sur le terrain, par les soins du constructeur, dès l'accomplissement de la
-formalité et pendant toute la durée du chantier. L'inobservation de ces dispositions est punie d'une amende de 1.000 à 2.000
-F.
-
-Dans les huit jours de sa réception par le maire, un extrait de la déclaration est en outre publié par voie d'affichage à la
-mairie pendant une durée de deux mois. 
-
-Un arrêté du ministre chargé de l'urbanisme règle les formes de l'affichage sur le terrain ainsi que les conditions dans
-lesquelles tout intéressé peut prendre connaissance du dossier déposé à la mairie.
-
-//DECR.0276 : Toutefois, il n'est pas procédé à cet affichage, si la déclaration ne remplit pas les conditions nécessaires
-pour ouvrir à son auteur le droit d'entreprendre la construction. Dans ce cas, l'intéressé en est informé sans délais//.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-451 1969-05-19 ART. 10
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme R430-17
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*430-17
-
-Les travaux peuvent être exécutés dès que le constructeur détient l'avis de réception postal consécutif à l'envoi de la
-déclaration ou la décharge prévue aux articles R. 430-14 et R. 430-15 (alinéa 3) //DECR.0276 : sous réserve des dispositions
-de l'article R. 430-16 (alinéa 3)//.
-
-Ils doivent faire l'objet d'une nouvelle déclaration au cas où ils n'ont pas été entrepris dans le délai d'un an à compter de
-[*point de départ*] la date figurant sur l'avis de réception postal ou la décharge. Il en est de même au cas où ils sont
-interrompus pendant un délai supérieur à une année.
-
-Le droit de visite prévu à l'article L. 460-1 peut être exercé dès l'ouverture du chantier.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-451 1969-05-19 ART. 11
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L460-1 (M)
-	  - Code de l'urbanisme R430-16 AL. 3
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ### Dispositions relatives aux modes particuliers d'utilisation du sol
 
 #### Installations diverses.
@@ -35543,84 +36144,6 @@ mesure où leur département est intéressé.
 	  - Décret n°73-1023 1973-11-08
 
 
-### Dispositions diverses
-
-#### Dispositions propres à certaines utilisations de surfaces bâties
-
-##### Cours communes
-
-###### Article R451-1
-
-Lorsque l'administration, faisant application des dispositions sur l'urbanisme, subordonne, en ce qui concerne les distances
-qui doivent séparer les constructions, la délivrance du permis de construire sur un terrain à la création, sur un terrain
-voisin, de servitudes de ne pas bâtir ou de ne pas dépasser une certaine hauteur en construisant, lesdites servitudes, dites
-de cours communes [*définition*], peuvent, à défaut d'accord amiable entre les propriétaires intéressés, être imposées dans
-les conditions ci-après.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1178 1958-12-04 ART. 1
-	  - Code de l'urbanisme - art. R451-2 (M)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*430-13 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R451-5
-
-Si, dans un délai de un an à compter de [*point de départ*] l'ordonnance du président du tribunal, le permis de construire
-n'a pas été délivré ou si, dans le même délai, à compter de la délivrance dudit permis de construire, le demandeur n'a pas
-commencé les travaux ou si les travaux sont interrompus pendant au moins une année, l'ordonnance, même passée en force de
-chose jugée, pourra, sans préjudice de tous dommages-intérêts, être rapportée à la demande du propriétaire du terrain grevé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1178 1958-12-04 ART. 5
-
-	**Cité par**:
-
-	  - Décret n°2011-2020 du 29 décembre 2011 - art. 30 (V)
-	  - Code de l'urbanisme - art. R*430-13 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R451-6
-
-Les indemnités définitives dues par les bénéficiaires des servitudes aux propriétaires des terrains grevés sont fixées, à
-défaut d'accord amiable, par le tribunal de grande instance.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1178 1958-12-04 ART. 6
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. L451-3 (M)
-	  - Code de l'urbanisme - art. L451-3 (V)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*430-13 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ### Contrôle
 
 #### Déclaration d'achèvement des travaux et certificat de conformité.
@@ -35903,35 +36426,6 @@ instruction.
 
 ## Règles relatives à l'acte de construire et à divers modes d'utilisation
 
-### Déclaration préalable de travaux
-
-#### Désignation des parties du territoire ou le permis de construire n'est pas exigé.
-
-###### Article R*430-1
-
-Les parties du territoire dans lesquelles, en application des dispositions combinées de l'article L. 430-1 (2.-a, b et c) et
-de l'article L. 430-2, le permis de construire n'est pas exigé dans les conditions et sous les réserves indiquées au présent
-code, sont désignées dans chaque département par arrêté préfectoral, après avis du maire de chacune des communes intéressées.
-
-La décision administrative désignant les zones de caractère pittoresque, prévue à l'article L. 430-2 (5.), est prise par
-arrêté du préfet.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-452 1969-05-19 ART. 1
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L430-1 (Ab)
-	  - Code de l'urbanisme - art. L430-2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ### Contrôle
 
 #### Déclaration d'achèvement des travaux.
@@ -35959,38 +36453,6 @@ départemental de l'équipement.
 	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 165 (M)
 	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 46 quater-0 G (Ab)
 	  - Code de l'urbanisme - art. A520-2 (VT)
-
-
-## LIVRE IV : Règles générales à l'acte de construire et à divers modes d'utilisation du sol
-
-### TITRE V : Dispositions diverses
-
-#### CHAPITRE I : Dispositions propres à certaines utilisations de surface bâties
-
-#####  Section 1 : Cours communes.
-
-###### Article R451-3
-
-(texte non reproduit).
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1178 1958-12-04 ART. 3
-	  - Code de l'urbanisme - art. R451-4 (M)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*430-13 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. R451-2 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 ## Implantation des services, établissements et entreprises
@@ -37370,6 +37832,23 @@ l'urbanisme.
 	  - Code de l'urbanisme - art. A121-2 (Ab)
 
 
+###### Article A121-4
+
+La demande d'agrément d'une association locale d'usagers visée à l'article L. 121-8 est établie conformément au modèle fixé
+par l'arrêté du 7 juillet 1977 fixant le modèle de demande d'agrément des associations exerçant leurs activités dans le
+domaine de la protection de la nature et de l'environnement et de l'amélioration du cadre de vie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L121-8 (V)
+
+
 #### Chapitre  III : Plans d'occupation des sols
 
 #####  Section 4 : Effets du plan d'occupation des sols
@@ -37734,6 +38213,33 @@ d'expropriation, les acquisitions effectuées dans les zones de préemption dél
 	**Codifié par**:
 
 	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+
+### Titre  VI : Sanctions et servitudes
+
+####  Section 3 : Agrément des associations exerçant leurs activités dans le domaine de la protection de la nature et de l'environnement et de l'amélioration du cadre de vie
+
+###### Article A160-1
+
+La demande d'agrément des associations exerçant leurs activités dans le domaine de la protection de la nature et de
+l'environnement et de l'amélioration du cadre de vie visée aux articles L. 160-1 et L. 480-1 est établie conformément au
+modèle fixé par l'arrêté du 7 juillet 1977 fixant le modèle de demande d'agrément des associations exerçant leurs activités
+dans le domaine de la protection de la nature et de l'environnement et de l'amélioration du cadre de vie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Créé par**:
+
+	  - Arrêté du 7 juillet 1977 art. 5, v. init.
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L160-1 (V)
+	  - Code de l'urbanisme - art. L480-1 (V)
 
 
 ## Livre  II : Préemption et réserves foncières
