@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1994-06-12
+Version Consolidée au 1994-07-22
 
 # Partie législative
 
@@ -51651,13 +51651,13 @@ Les conditions de dépôt, de transmission et d'instruction de la demande d'auto
 caravanage sont régies conformément aux dispositions des articles R. 421-8, R. 421-9, alinéas 1 à 3, R. 421-10 , R. 421-12 à
 R. 421-17, R. 421-19 à R. 421-28 et R. 421-38-1 à R. 421-38-19.
 
-Outre les consultations énumérées à l'article R. 421-15, la demande d'autorisation d'aménager est soumise pour avis à la
-commission départementale de l'action touristique. Faute de réponse de cette commission dans le délai de deux mois à compter
-du dépôt de la demande, son avis [*tacite*] est réputé favorable.
-
 Dans les quinze jours qui suivent le dépôt de la demande et pendant la durée d'instruction de celle-ci, le maire procède à
 l'affichage en mairie d'un avis de dépôt de la demande [*publicité, contenu*] comprenant les mentions suivantes : nom du
 demandeur, numéro et date d'enregistrement de la demande, adresse et superficie du terrain et nombre d'emplacements projetés.
+
+Outre les consultations énumérées à l'article R. 421-15, la demande d'autorisation d'aménager est soumise pour avis à la
+commission départementale de l'action touristique. Faute de réponse de cette commission dans le délai de deux mois à compter
+du dépôt de la demande, son avis est réputé favorable.
 
 Le délai d'instruction des demandes d'autorisation d'aménager un terrain de camping et de caravanage est fixé à trois mois à
 compter de la date de décharge du dépôt de la demande complète, ou de l'avis de réception postal de son envoi [*point de
@@ -51667,31 +51667,30 @@ l'architecte des bâtiments de France a fait connaître son intention d'utiliser
 est évoqué par le ministre compétent.
 
 Faute pour l'autorité compétente d'avoir adressé notification de la décision dans le délai d'instruction prévu à l'alinéa
-précédent, l'autorisation est réputée accordée, sauf dans les cas énumérés à l'article R. 421-19 et au 2° de l'article R.
-443-9, où l'autorisation ne peut être obtenue de façon tacite.
+précédent, l'autorisation est réputée accordée, sauf dans les cas énumérés à l'article R. 421-19, au 2° de l'article R. 443-9
+et lorsque le terrain de camping et de stationnement de caravanes est situé dans une zone délimitée par le préfet, en
+application de l'article R. 443-8-3, où l'autorisation ne peut être obtenue de façon tacite.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°94-614 du 13 juillet 1994 - art. 1 () JORF 22 juillet 1994
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R421-15 (M)
+	  - Code de l'urbanisme - art. R421-19 (M)
+	  - Code de l'urbanisme - art. R421-38-4 (M)
+	  - Code de l'urbanisme - art. R421-38-6 (M)
+	  - Code de l'urbanisme - art. R421-8 (M)
+	  - Code de l'urbanisme - art. R421-9 (M)
+	  - Code de l'urbanisme - art. R443-9 (M)
+	  - Code de l'urbanisme R421-8, R421-9, R421-15, R421-38-4, R421-38-6, R421-19, R443-9, R443-8-3
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°85-452 1985-04-23 art. 14 II : application dans le temps
-
-	**Modifié par**:
-
-	  - Décret n°86-984 1986-08-19 art. 7 XLI JORF 27 août 1986
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R421-10 (M)
-	  - Code de l'urbanisme - art. R421-15 (M)
-	  - Code de l'urbanisme - art. R421-38-4 (M)
-	  - Code de l'urbanisme - art. R421-38-6 (M)
-	  - Code de l'urbanisme - art. R421-8 (M)
-	  - Code de l'urbanisme R421-9 al. 1 à 3
 
 
 ###### Article R*443-7-3
@@ -51938,6 +51937,56 @@ ministres chargés de l'urbanisme, de la santé publique et du tourisme.
 
 	  - Code de l'urbanisme - art. R443-8 (M)
 	  - Code de l'urbanisme R443-7-3, R443-8, R443-8-1
+
+
+###### Article R*443-8-3
+
+Pour l'application de l'article L. 443-2, le préfet de département délimite par arrêté les zones soumises à un risque naturel
+ou technologique prévisible. Ces zones comprennent notamment celles mentionnées à l'article 2 du décret n° 90-918 du 11
+octobre 1990 relatif à l'exercice du droit à l'information sur les risques majeurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Décret n°90-918 1990-10-11 art. 2
+	  - Code de l'urbanisme - art. L443-2 (M)
+
+	**Créé par**:
+
+	  - Décret n°94-614 du 13 juillet 1994 - art. 2 () JORF 22 juillet 1994
+
+
+###### Article R*443-8-4
+
+En cas d'inexécution totale ou partielle par l'exploitant, dans les délais prévus, des prescriptions fixées par les articles
+3 à 9 du décret du 13 juillet 1994 relatif aux prescriptions permettant d'assurer la sécurité des occupants des terrains de
+camping et de stationnement de caravanes soumis à un risque naturel ou technologique prévisible, l'autorité compétente
+mentionnée aux articles R. 443-7-4, premier alinéa, et R. 443-7-5 peut ordonner, après mise en demeure restée sans effet, la
+fermeture temporaire du terrain situé dans une zone visée à l'article R. 443-8-3 et l'évacuation des occupants jusqu'à
+l'exécution des prescriptions.
+
+En cas de carence de l'autorité mentionnée au premier alinéa de l'article R. 443-7-4, le préfet peut, après mise en demeure
+non suivie d'effet, s'y substituer.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme R443-7-4, R443-8-3
+	  - Décret n°94-614 1994-07-13 art. 3 à 9
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°94-614 du 13 juillet 1994 - art. 2 () JORF 22 juillet 1994
 
 
 #####  Section 3 : Dispositions générales
