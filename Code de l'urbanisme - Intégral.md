@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1979-10-05
+Version Consolidée au 1979-12-02
 
 # Partie législative
 
@@ -3327,6 +3327,28 @@ peut alors aliéner librement le bien ainsi rétrocédé//.
 	  - Code de commerce - art. L145-2 (V)
 	  - Code de l'urbanisme - art. *R214-11 (V)
 	  - Code de l'urbanisme - art. *R214-16 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+#### Chapitre VI : Dispositions particulières aux jardins familiaux
+
+###### Article L216-1
+
+Conformément à l'article 1er, deuxième alinéa, de la loi n. 76-1022 du 10 novembre 1976, à la demande des organismes de
+jardins familiaux mentionnés aux articles 610 et 611 du code rural, les collectivités locales ou leurs groupements ayant
+compétence en matière d'urbanisme peuvent exercer leur droit de préemption, conformément aux dispositions du présent code, en
+vue de l'acquisition de terrains destinés à la création ou à l'aménagement de jardins familiaux.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 610
+	  - Code rural 611
+	  - Loi n°76-1022 1976-11-10 ART. 1 AL. 2
 
 	**Codifié par**:
 
@@ -21730,6 +21752,27 @@ Les dispositions du présent chapitre ne peuvent être modifiées que par décre
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+### Dispositions particulières aux jardins familiaux.
+
+###### Article R216-1
+
+Les dispositions relatives à  l'application de l'article 1er, alinéa 2, de la loi n° 76-1022 du 10 novembre 1976 figurent aux
+articles 3 et 4 du décret n° 79-1026 du 10 novembre 1976 pris pour l'application de la loi n° 76-1022 du 10 novembre 1976
+relative à la création et à la protection des jardins familiaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Loi n°76-1022 1976-11-10 ART. 1 AL. 2
+	  - Décret n°79-1026 du 30 novembre 1979 - art. 3 (Ab)
+	  - Décret n°79-1026 du 30 novembre 1979 - art. 4 (Ab)
 
 
 ## LIVRE II : Préemption
