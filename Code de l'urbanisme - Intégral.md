@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2000-12-20
+Version Consolidée au 2000-12-28
 
 # Partie législative
 
@@ -19765,7 +19765,7 @@ définition de la densité de construction.
 ###### Article R*112-2
 
 La surface de plancher hors oeuvre brute d'une construction est égale à la somme des surfaces de plancher de chaque niveau de
-la construction [*calcul, définition applicable aux demandes de permis de construire déposées après le 8 juillet 1977*].
+la construction.
 
 La surface de plancher hors oeuvre nette d'une construction est égale à la surface hors oeuvre brute de cette construction
 après déduction :
@@ -19779,11 +19779,12 @@ situées au rez-de-chaussée ;
 c) Des surfaces de plancher hors oeuvre des bâtiments ou des parties de bâtiments aménagés en vue du stationnement des
 véhicules ;
 
-d) Des surfaces de planchers hors oeuvre des bâtiments affectés au logement des récoltes, des animaux ou du matériel agricole
-ainsi que des surfaces des serres de production.
+d) Dans les exploitations agricoles, des surfaces de plancher des serres de production, des locaux destinés à abriter les
+récoltes, à héberger les animaux, à ranger et à entretenir le matériel agricole, des locaux de production et de stockage des
+produits à usage agricole, des locaux de transformation et de conditionnement des produits provenant de l'exploitation ;
 
-e) D'une surface égale à 5 p. 100 des surfaces hors oeuvre affectées à l'habitation telles qu'elles résultent le cas échéant
-de l'application des a, b, et c ci-dessus.
+e) D'une surface égale à 5 % des surfaces hors oeuvre affectées à l'habitation telles qu'elles résultent le cas échéant de
+l'application des a, b, et c ci-dessus.
 
 Sont également déduites de la surface hors oeuvre dans le cas de la réfection d'un immeuble à usage d'habitation et dans la
 limite de cinq mètres carrés par logement les surfaces de planchers affectées à la réalisation de travaux tendant à
@@ -19794,12 +19795,7 @@ en rez-de-chaussée.
 
 	**Modifié par**:
 
-	  - Décret n°88-1151 1988-12-26 art. 1 JORF 28 décembre 1988 en vigueur le 1er janvier 1989
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°88-1151 1988-12-26 art. 2 :
-	  - SPEC_APPLI: Les dispositions de l'article 1er du présent décret entrent en vigueur le 1er janvier 1989
+	  - Décret n°2000-1272 du 26 décembre 2000 - art. 1 () JORF 28 décembre 2000
 
 	**Cité par**:
 
@@ -26059,7 +26055,7 @@ a) Les chemins piétonniers et les objets mobiliers destinés à l'accueil ou à
 nécessaires à la gestion ou à l'ouverture au public de ces espaces ou milieux ;
 
 b) Les aménagements nécessaires à l'exercice des activités agricoles, de pêche et cultures marines ou lacustres,
-conchylicoles, pastorales et forestières ne créant pas de surface hors oeuvre nette au sens de l'article R. 112-2 ainsi que
+conchylicoles, pastorales et forestières ne créant pas de surface hors oeuvre brute au sens de l'article R. 112-2 ainsi que
 des locaux d'une superficie maximale de 20 mètres carrés, liés et nécessaires à l'exercice de ces activités pour répondre aux
 prescriptions des règlements sanitaires nationaux ou communautaires, à condition que la localisation et l'aspect de ces
 aménagements et locaux ne dénaturent pas le caractère des lieux et que la localisation dans ces espaces ou milieux soit
@@ -26088,7 +26084,7 @@ rendue indispensable par des nécessités techniques.
 
 	**Modifié par**:
 
-	  - Décret n°92-838 du 25 août 1992 - art. 1 () JORF 29 août 1992
+	  - Décret n°2000-1272 du 26 décembre 2000 - art. 2 () JORF 28 décembre 2000
 
 	**Codifié par**:
 
@@ -28896,7 +28892,7 @@ soumises aux obligations prévues au c de l'article L. 300-2 sont les opération
 
 1. L'opération ayant pour objet dans une commune non dotée d'un plan d'occupation des sols ou d'un document d'urbanisme en
 tenant lieu, ayant fait l'objet d'une enquête publique, la création de plus de 5 000 mètres carrés de surface hors oeuvre
-nette ou la restauration, dans les conditions définies à l'article L. 313-4-1, d'un ensemble de bâtiments ayant au moins
+brute ou la restauration, dans les conditions définies à l'article L. 313-4-1, d'un ensemble de bâtiments ayant au moins
 cette surface ;
 
 2. La réalisation d'un investissement routier dans une partie urbanisée d'une commune d'un montant supérieur à 12 000 000 F,
@@ -28924,11 +28920,25 @@ maritimes de plaisance ;
 8. Les ouvrages et travaux sur une emprise de plus de 2 000 mètres carrés réalisés sur une partie de rivage, de lais ou
 relais de la mer située en dehors des ports et au droit d'une partie urbanisée d'une commune.
 
+**Nota:**
+
+Nota: Les dispositions de l'article 3 du décret 2000-1272 du 26 décembre 2000 sont applicables aux demandes de permis de
+construire, d'autorisation de lotir ou d'approbation de programmes de travaux de restauration immobilière présentées après le
+29 avril 2000.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°86-521 1986-03-15 art. 1 JORF 16 mars 1986
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2000-1272 du 26 décembre 2000 - art. 3 ()
+
+	**Modifié par**:
+
+	  - Décret n°2000-1272 du 26 décembre 2000 - art. 3 () JORF 28 décembre 2000
 
 	**Cité par**:
 
@@ -28940,10 +28950,6 @@ relais de la mer située en dehors des ports et au droit d'une partie urbanisée
 
 	  - Code de l'urbanisme - art. L300-2 (M)
 	  - Code de l'urbanisme - art. L313-4-1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R300-2
