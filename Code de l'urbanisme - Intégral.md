@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1997-03-01
+Version Consolidée au 1997-05-22
 
 # Partie législative
 
@@ -29066,42 +29066,6 @@ conditions prévues à l'article R. 211-2. Elle est adressée aux organismes et 
 	  - Décret n°73-1023 1973-11-08
 
 
-###### Article R211-6
-
-Le maire ou, le cas échéant, le président de l'établissement public de coopération intercommunale compétent est tenu de
-délivrer, sans frais, à tout propriétaire d'immeuble ou à son mandataire, à tout titulaire de droits sociaux donnant vocation
-à l'attribution, en propriété ou en jouissance, d'un immeuble ou d'une partie d'immeuble ou à tout possesseur de droits
-indivis sur de tels biens, dans le délai d'un mois qui suit la demande qui en est faite, un certificat [*obligatoire*] établi
-sur papier libre précisant si ce bien est situé dans le champ d'application territorial du droit de préemption urbain et si
-le secteur concerné a fait l'objet de la délibération prévue à l'article L. 211-4.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
-
-	**Modifié par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 2 () JORF 16 mars 1986 en vigueur le 1er juin 1987
-
-	**Abrogé par**:
-
-	  - Décret n°97-503 du 21 mai 1997 - art. 35 () JORF 22 mai 1997
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L211-4 (M)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*410-17 (M)
-
-
 ###### Article R211-7
 
 Toute proposition faite en application du premier alinéa de l'article L. 211-5 est établie dans les formes prescrites par
@@ -29293,37 +29257,6 @@ délimité le périmètre provisoire et au greffe des mêmes tribunaux.
 	**Modifié par**:
 
 	  - Décret n°92-967 du 10 septembre 1992 - art. 2 () JORF 11 septembre 1992
-
-
-###### Article R212-3
-
-Le commissaire de la République est tenu de délivrer, sans frais, à tout propriétaire d'immeuble, à tout titulaire de droits
-sociaux donnant vocation à l'attribution, en propriété ou en jouissance, d'un immeuble ou d'une partie d'immeuble, ou à tout
-possesseur de droits indivis sur de tels biens, dans le délai d'un mois qui suit la demande qui en est faite, un certificat
-[*obligatoire*] établi sur papier libre précisant si le bien est situé ou non à l'intérieur du périmètre d'une zone
-d'aménagement différé ou d'un périmètre provisoire de zone d'aménagement différé ".
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°92-967 du 10 septembre 1992 - art. 2 () JORF 11 septembre 1992
-
-	**Abrogé par**:
-
-	  - Décret n°97-503 du 21 mai 1997 - art. 36 () JORF 22 mai 1997
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*212-4 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*214-1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R212-4
