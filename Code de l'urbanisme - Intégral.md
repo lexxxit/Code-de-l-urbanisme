@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2001-07-11
+Version Consolidée au 2001-10-11
 
 # Partie législative
 
@@ -11673,15 +11673,36 @@ l'ordonnance au 1er octobre 2007.
 
 ###### Article L315-6
 
-Ainsi qu'il est dit à l'article 164 du code forestier, préalablement à toute demande d'autorisation de lotissement dans un
-terrain boisé ne rentrant pas dans les exceptions de l'article 162 dudit code, l'intéressé est tenu d'obtenir [*obligation*]
-une autorisation de défrichement.
+Ainsi qu'il est dit à l'article L. 311-5 du code forestier, lorsque la réalisation d'une opération ou de travaux soumis à une
+autorisation administrative nécessite également l'obtention préalable de l'autorisation de défrichement prévue à l'article L.
+311-1 du même code, l'autorisation de défrichement doit être obtenue préalablement à la délivrance de cette autorisation
+administrative.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2001-602 du 9 juillet 2001 - art. 29 () JORF 11 octobre 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 22 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+
 	**Cite**:
 
-	  - Code forestier 164
+	  - Code forestier - art. L311-1 (M)
+	  - Code forestier - art. L311-5 (M)
 
 	**Anciens textes**:
 
