@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1994-05-22
+Version Consolidée au 1994-06-12
 
 # Partie législative
 
@@ -45470,25 +45470,23 @@ réception postal, le numéro d'enregistrement de ladite demande et la date avan
 réglementaires d'instruction, la décision devra lui être notifiée. Le délai d'instruction part de la date de la décharge ou
 de l'avis de réception postal prévus à l'article R. 421-9.
 
+Lorsque la demande de permis de construire concerne une installation classée soumise à autorisation, l'autorité compétente,
+pour statuer, fait connaître au demandeur, dans la lettre de notification mentionnée au premier alinéa, que le délai
+d'instruction de la demande de permis de construire court jusqu'à l'expiration du délai d'un mois suivant la date de clôture
+de l'enquête publique concernant l'installation classée et que le permis de construire ne pourra lui être délivré avant la
+clôture de ladite enquête publique.
+
 L'autorité compétente pour statuer avise en outre le demandeur que si aucune décision ne lui a été adressée avant la date
-mentionnée à l'alinéa précédent, ladite lettre vaudra permis de construire et les travaux pourront être entrepris
-conformément au projet déposé, sous réserve du retrait, dans le délai du recours contentieux, du permis tacite au cas où il
-serait entaché d'illégalité.
+mentionnée au premier alinéa ou avant l'expiration d'un délai d'un mois suivant la date de clôture de l'enquête publique
+lorsqu'il s'agit d'une demande de permis de construire concernant une installation classée soumise à autorisation, la lettre
+de notification des délais d'instruction vaudra permis de construire et les travaux pourront être entrepris conformément au
+projet déposé, sous réserve du retrait, dans le délai du recours contentieux, du permis tacite au cas où il serait entaché
+d'illégalité.
 
 Toutefois, lorsque le projet se trouve dans l'un des cas prévus à l'article R. 421-19, le demandeur est informé qu'il ne
 pourra bénéficier d'un permis tacite.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°83-1261 1983-12-30 ART. 49, ART. 50 : Modalités d'application
-	  - SPEC_APPLI: Décret n°83-1261 du 30 décembre 1983 - art. 49 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-19 (M)
-
-	**Modifié par**:
-
-	  - Décret n°83-1261 1983-12-30 ART. 9, ART. 10, ART. 11, ART. 46 8 JORF 7 JANVIER 1984 date d'entrée en vigueur 1 AVRIL 1984
 
 	**Cité par**:
 
@@ -45514,6 +45512,14 @@ pourra bénéficier d'un permis tacite.
 	  - Code de l'urbanisme - art. R421-38-4 (M)
 	  - Code de l'urbanisme - art. R421-42 (Ab)
 	  - Code de l'urbanisme - art. R445-8 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°94-484 du 9 juin 1994 - art. 40 () JORF 12 juin 1994
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-19 (M)
 
 	**Cite**:
 
@@ -45746,10 +45752,9 @@ mentionnées à l'article R. 421-3-1 du présent code.
 
 ###### Article R421-18
 
-Sous réserve de ce qui est dit aux alinéas 2 et suivants du présent article et aux articles R. 421-38-2 et suivants,
-
-le délai d'instruction, dont le point de départ est prévu aux articles R. 421-12 et R. 421-13 ou, le cas échéant, R. 421-14
-est fixé à deux mois. 
+Sous réserve de ce qui est dit aux alinéas 2 et suivants du présent article, aux alinéas 2 et 3 de l'article R. 421-12 et aux
+articles R. 421-38-2 et suivants, le délai d'instruction, dont le point de départ est prévu aux articles R. 421-12 et R.
+421-13 ou, le cas échéant, R. 421-14 est fixé à deux mois. 
 
 Le délai d'instruction est porté à trois mois si la demande concerne la construction soit de plus de 200 logements, soit de
 locaux à usage industriel ou commercial ou à usage de bureaux dont la superficie de planchers hors oeuvre est égale ou
@@ -45764,9 +45769,9 @@ mineure.
 
 Le délai d'instruction est porté à cinq mois lorsque le projet est soumis à enquête publique, lorsqu'il y a lieu de consulter
 une commission nationale ou lorsque la demande concerne la construction de locaux à usage commercial assujettis à
-l'autorisation de la commission d'équipement commercial ; en cas de recours formulé dans les conditions prévues à l'article
-32 de la loi n. 73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat contre la décision de cette
-commission, ce délai est majoré de quatre mois.
+l'autorisation de la commission départementale d'équipement commercial ; en cas de recours formulé dans les conditions
+prévues à l'article 32 de la loi n. 73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat contre la
+décision de cette commission, ce délai est majoré de quatre mois.
 
 **Liens relatifs à cet article**
 
@@ -45774,19 +45779,16 @@ commission, ce délai est majoré de quatre mois.
 
 	  - Loi n°73-1193 du 27 décembre 1973 - art. 32 (M)
 	  - Code de l'urbanisme - art. R421-13 (M)
-	  - Code de l'urbanisme - art. R421-38 (M)
+	  - Code de l'urbanisme - art. R421-38-2 (M)
 
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°85-452 1985-04-23 art. 14 : application dans le temps
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-19 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-31 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R440-2 (Ab)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R440-3 (Ab)
 
 	**Modifié par**:
 
-	  - Loi n°93-122 du 29 janvier 1993 - art. 36 (V) JORF 30 janvier 1993
+	  - Décret n°94-484 du 9 juin 1994 - art. 40 () JORF 12 juin 1994
 
 	**Cité par**:
 
