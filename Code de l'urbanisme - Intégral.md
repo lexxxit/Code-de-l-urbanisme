@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2002-05-02
+Version Consolidée au 2002-05-04
 
 # Partie législative
 
@@ -25361,10 +25361,10 @@ pour assurer la coordination dans le massif.
 ###### Article R145-10
 
 Le renforcement des remontées mécaniques ou leur extension est considéré comme unité touristique nouvelle lorsque les
-dépenses de construction et d'installation correspondantes, effectuées en une ou plusieurs tranches, excèdent 2300000 euros.
-Toutefois, le remplacement d'une remontée mécanique ne constitue pas une unité touristique nouvelle lorsque, d'une part, les
-lieux de départ et d'arrivée sont inchangés et que, d'autre part, le débit horaire maximum de la nouvelle installation est
-inférieur au triple de celui de l'ancien équipement.
+dépenses de construction et d'installation correspondantes, effectuées en une ou plusieurs tranches, excèdent quatre miLlions
+d'euros. Toutefois, le remplacement d'une remontée mécanique ne constitue pas une unité touristique nouvelle lorsque, d'une
+part, les lieux de départ et d'arrivée sont inchangés et que, d'autre part, le débit horaire maximum de la nouvelle
+installation est inférieur au triple de celui de l'ancien équipement.
 
 Le montant du seuil financier fixé à l'alinéa précédent est révisé tous les deux ans par arrêté du ministre chargé des
 transports en fonction de l'indice I :
@@ -25382,11 +25382,10 @@ consommation.
 	  - TXT_SOURCE: Arrêté du 10 mai 1990 - art. 1 ()
 	  - TXT_SOURCE: Arrêté du 14 septembre 1994
 	  - TXT_SOURCE: Arrêté du 14 septembre 1994 - art. 1 (V)
-	  - TXT_SOURCE: Directive 96-26 CE 1996-04-29
-	  - TXT_SOURCE: Directive 98-76 CE 1998-10-01
-	  - SPEC_APPLI: Décret n°2001-1327 2001-12-28 art. 5 : champ d'application
 	  - TXT_SOURCE: Arrêté du 6 février 2002
 	  - TXT_SOURCE: Arrêté du 6 février 2002 - art. 1 (V)
+	  - TXT_SOURCE: Directive 96-26 CE 1996-04-29
+	  - TXT_SOURCE: Directive 98-76 CE 1998-10-01
 	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
 	  - TXT_SOURCE: Règlement CE 2866/98 1998-12-31
 	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
@@ -25403,7 +25402,7 @@ consommation.
 
 	**Modifié par**:
 
-	  - Décret n°2001-1327 du 28 décembre 2001 - art. 1 () JORF 29 décembre 2001 en vigueur le 1er janvier 2002
+	  - Décret n°2002-748 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
 
 
 #### Chapitre VI : Dispositions particulières au littoral
