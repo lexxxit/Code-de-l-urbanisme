@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1980-07-17
+Version Consolidée au 1980-07-20
 
 # Partie législative
 
@@ -23124,6 +23124,28 @@ NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 
 #####  Section 6 : Dispositions diverses
 
+###### Article R*315-40
+
+Pour l'application du présent chapitre, le préfet peut déléguer sa signature au directeur départemental de l'équipement ou
+aux subordonnés de ce dernier, sauf dans les cas prévus aux articles R. 315-22 et R. 315-23, ou si le maire et le directeur
+départemental de l'équipement ont émis des avis en sens opposé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°80-559 1980-06-26 ART. 1 JORF 20 JUILLET 1980
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R315-22 (M)
+	  - Code de l'urbanisme - art. R315-23 (M)
+
+
 ###### Article R*315-43
 
 La délivrance du certificat prévu à l'article R. 315-36 ne dégage pas le lotisseur de ses obligations et de sa responsabilité
@@ -30810,24 +30832,6 @@ Il peut être sollicité, mais ne peut être accordé avant qu'ait été délivr
 
 ##### Dispositions diverses.
 
-###### Article R*315-40
-
-Pour l'application du présent chapitre le préfet peut déléguer sa signature au directeur départemental de l'équipement sauf
-dans les cas prévus aux articles R. 315-22 et R. 315-23 ou si le maire et le directeur départemental de l'équipement ont émis
-des avis en sens opposé.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R315-22 (M)
-	  - Code de l'urbanisme - art. R315-23 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ###### Article R*315-41
 
 Le préfet, le maire, le directeur départemental de l'équipement ou leurs délégués peuvent, avant l'achèvement des travaux,
@@ -33654,15 +33658,15 @@ l'avis ou à l'accord des services, autorités ou commissions relevant de ce min
 
 ###### Article R*410-5
 
-Le certificat d'urbanisme est délivré par le préfet [*autorité compétente*]. Celui-ci peut donner délégation au directeur
-départemental de l'équipement, sauf au cas où le directeur départemental ne retient pas les observations du maire. Copie du
-certificat est dans tous les cas adressée au maire.
+Le certificat d'urbanisme est délivré par le préfet [*autorité compétente*]. Celui-ci peut déléguer sa signature au directeur
+départemental de l'équipement ou aux subordonnés de ce dernier, sauf au cas où le directeur départemental de l'équipement ne
+retient pas les observations du maire. Copie du certificat est dans tous les cas adressé au maire.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°72-613 1972-07-03 ART. 5
+	  - Décret n°80-559 1980-06-26 ART. 2 JORF 20 JUILLET 1980
 
 	**Cité par**:
 
@@ -35721,13 +35725,17 @@ l'article 2 (alinéa 5) de la loi du 31 décembre 1913.
 
 ##### Dispositions diverses
 
-###### Article R421-39
+###### Article R*421-39
 
-Pour l'application de la présente section le préfet peut déléguer sa signature au directeur départemental de l'équipement,
-sauf dans les cas prévus à l'article R. 421-22 (1er alinéa), au 7. de l'article R. 421-32 et à l'article R. 421-33 (3.
-alinéa).
+Pour l'application de la présente section, le préfet peut déléguer sa signature au directeur départemental de l'équipement ou
+aux subordonnés de ce dernier, sauf dans les cas prévus à l'article R. 421-22 (premier alinéa), au 7° de l'article R° 421-32
+et à l'article R. 421-33 (deuxième alinéa).
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°80-559 1980-06-26 ART. 3 JORF 20 JUILLET 1980
 
 	**Cité par**:
 
@@ -35742,15 +35750,13 @@ alinéa).
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-32 (M)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-33 (M)
 
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R421-32 (M)
-	  - Code de l'urbanisme R421-33 AL. 3
-
 	**Anciens textes**:
 
 	  - Code de l'urbanisme - art. R421-42 (Ab)
-	  - Décret n°70-446 1970-05-26 ART. 27
+
+	**Cite**:
+
+	  - Code de l'urbanisme R421-32 7
 
 	**Codifié par**:
 
@@ -36646,8 +36652,9 @@ Si cet avis est favorable, il peut être assorti de prescriptions ; s'il est dé
 
 ###### Article R*430-12
 
-La décision est prise par le préfet [*autorité compétente*]. Le directeur départemental de l'équipement ne peut la signer par
-délégation du préfet s'il a émis un avis contraire à celui du maire.
+La décision est prise par le préfet [*autorité compétente*]. Celui-ci peut déléguer sa signature au directeur départemental
+de l'équipement ou aux subordonnés de ce dernier, sauf si le maire et le directeur départemental de l'équipement ont émis des
+avis en sens opposé.
 
 Le préfet agit par délégation du ministre chargé du logement pour l'application de l'article 11 de la loi n. 48-1360 du 1er
 septembre 1948.
@@ -36662,9 +36669,9 @@ septembre 1948.
 
 	  - Loi n°48-1360 1948-09-01 ART. 11
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-738 1977-07-07 8 JUILLET 1977
+	  - Décret n°80-559 1980-06-26 ART. 4 JORF 20 JUILLET 1980
 
 
 ###### Article R*430-13
@@ -37551,6 +37558,35 @@ d'affichage à la mairie pendant deux mois [*délai publicité*].
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R*441-9-1
+
+Pour l'application de la présente section, le préfet peut déléguer sa signature au directeur départemental de l'équipement ou
+aux subordonnées de ce dernier, sauf dans le cas prévu au a de l'article R. 441-7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°80-559 1980-06-26 ART. 5 JORF 20 JUILLET 1980
+
+	**Abrogé par**:
+
+	  - Décret n°84-226 1984-03-29 ART. 14 II JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-226 1984-03-29 ART. 33, ART. 34 : Modalités d'application
+	  - SPEC_APPLI: Décret n°84-226 du 29 mars 1984 - art. 33 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme R441-7 A , R441-3 à R441-9
+
+
 ##### Dispositions particulières.
 
 ###### Article R*441-10
@@ -37660,6 +37696,42 @@ Article L. 313-2 du présent code.
 #### Installations et travaux divers
 
 ##### Procédure d'autorisation
+
+###### Article R*442-14
+
+Pour l'application de la présente section, le préfet peut déléguer sa signature au directeur départemental de l'équipement ou
+aux subordonnés de ce dernier, sauf dans le cas prévu au a de l'article R. 442-5.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°80-559 1980-06-26 ART. 6 JORF 20 JUILLET 1980
+
+	**Abrogé par**:
+
+	  - Décret n°84-226 1984-03-29 ART. 24 JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-226 1984-03-29 ART. 33, ART. 34 : Modalités d'application
+	  - SPEC_APPLI: Décret n°84-226 du 29 mars 1984 - art. 33 (M)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. *R442-13 (V)
+	  - Code de l'urbanisme - art. *R442-15 (V)
+	  - Code de l'urbanisme - art. *R442-6 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R442-5 (M)
+	  - Code de l'urbanisme R442-4 à R442-13
+
 
 ##### Cas général.
 
@@ -39751,6 +39823,28 @@ représentés au comité directeur du fonds d'aménagement urbain.
 	**Abrogé par**:
 
 	  - Décret n°84-1118 du 7 décembre 1984 - art. 1 () JORF 15 DECEMBRE 1984
+
+
+### Titre II : Dispositions diverses.
+
+###### Article R*620-1
+
+Pour l'application de la présente partie du code de l'urbanisme, le directeur départemental de l'équipement peut déléguer sa
+signature à ses subordonnés en ce qui concerne les matières relevant en propre de ses attributions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°80-559 1980-06-26 ART. 7 JORF 20 JUILLET 1980
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*760-1 (Ab)
 
 
 # Partie réglementaire - Arrêtés
