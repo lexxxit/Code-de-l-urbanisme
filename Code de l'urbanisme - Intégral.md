@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1987-06-01
+Version Consolidée au 1987-06-02
 
 # Partie législative
 
@@ -24659,118 +24659,6 @@ l'autorité compétente sur un panneau implanté à la limite du terrain boisé 
 	  - Décret n°73-1023 1973-11-08
 
 
-### Dispositions spéciales à certaines parties du territoire
-
-#### Protection du caractère de certains départements
-
-##### Périmètres sensibles.
-
-###### Article R142-2
-
-Dans les départements énumérés à l'article R. 142-1 et en vue de préserver leur caractère, les périmètres à l'intérieur
-desquels sont applicables les dispositions prévues aux articles L. 142-1 à L. 142-3 ainsi qu'aux articles ci-après, sont
-délimités dans les conditions  définies au présent article.
-
-Dans le délai d'un mois qui suit la publication au Journal officiel du décret inscrivant un département sur la liste figurant
-à l'article R. 142-1, le préfet consulte le conseil général et les conseils municipaux des communes intéressées sur un projet
-de délimitation.
-
-Au vu des avis émis, il procède à la délimitation du ou des périmètres sensibles.
-
-Dans le cas où le conseil général ou les conseils municipaux consultés n'ont pas pris position [*silence*] dans le délai d'un
-an décompté comme il est dit soit à l'article L. 142-4, soit à l'article 34-II de la loi n. 76-1285 du 31 décembre 1976, le
-préfet procède à la délimitation.
-
-Lorsque tous les avis requis sont par la suite recueillis, le préfet peut modifier cette délimitation.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°76-1285 1976-12-31 ART. 34 II
-	  - Code de l'urbanisme - art. L142-1 (M)
-	  - Code de l'urbanisme - art. L142-2 (M)
-	  - Code de l'urbanisme - art. L142-3 (M)
-	  - Code de l'urbanisme - art. L142-4 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R142-4-1 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°2015-1783 du 28 décembre 2015 - art. 12 (V)
-	  - Code de l'urbanisme - art. R142-1 (M)
-	  - Code de l'urbanisme - art. R142-4-1 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°59-768 1959-06-26 ART. 1
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R142-3
-
-Le préfet saisit la commission départementale d'urbanisme, la commission départementale des sites, perspectives et paysages,
-et les conseils municipaux des communes intéressées d'un projet tendant à l'application des mesures de protection prévues à
-l'article L. 142-3.
-
-Le projet détermine, selon les cas :
-
-- les bois, forêts et parcs soumis au régime des espaces boisés en application de l'alinéa 1 de l'article L. 142-3 ;
-
-- les sites et paysages soumis à une protection particulière en application de l'alinéa 2 du même article ; pour ceux-ci, le
-projet prévoit également les règles d'utilisation du sol, notamment les mesures limitant les ouvertures de chemins et les
-adductions d'eau, lorsque ces mesures sont appliquées par des particuliers et n'ont pas pour objet d'assurer la desserte des
-bâtiments existants ou d'améliorer des exploitations agricoles.
-
-Les avis [*tacite*] des conseils municipaux doivent être transmis à l'autorité de tutelle dans les trois mois à compter du
-jour où ils ont été demandés. Ils sont réputés favorables si aucune réponse n'a été donnée dans ce délai.
-
-Au vu des avis recueillis, le préfet fixe par arrêté les mesures de protection.
-
-Sans préjudice des mesures de publicité de cet arrêté prévues par l'article R. 142-4-1 ci-après, un dossier comportant cet
-arrêté et un document graphique est tenu à la disposition du public dans les mairies des communes intéressées, à la
-préfecture et à la direction départementale de l'équipement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°81-534 1981-05-12 ART. 21 JORF 15 MAI 1981 date d'entrée en vigueur ART. 38 MODIFIE 1 JUILLET 1982
-	  - Décret n°82-584 1982-06-29 ART. 1 JORF 7 JUILLET 1982
-
-	**Cité par**:
-
-	  - Décret n°81-534 du 12 mai 1981 - art. 5 (Ab)
-	  - Code de l'urbanisme - art. R142-1 (M)
-	  - Code de l'urbanisme - art. R611-5 (Ab)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*130-1 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*130-2 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*130-3 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L142-3 (M)
-	  - Code de l'urbanisme - art. R142-4-1 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°59-768 1959-06-26 ART. 2
-
-
 ## Liste des servitudes d'utilité publique affectant l'utilisation du sol
 
 ### Servitudes relatives à la conservation du patrimoine
@@ -26986,68 +26874,6 @@ relative à la création et à la protection des jardins familiaux.
 	**Abrogé par**:
 
 	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
-
-## Droit de préemption
-
-### Zones d'aménagement différé
-
-###### Article R*212-1
-
-Les établissements publics pouvant être titulaires du droit de préemption dans les zones d'aménagement différé sont :
-
-1. Les communautés urbaines, les districts, les syndicats de communes et les syndicats mixtes ;
-
-2. Le district de la région parisienne ;
-
-3. Les établissements publics créés en application du premier alinéa de l'article L. 321-1 ainsi que ceux qui sont mentionnés
-à l'article R. 321-24.
-
-4. Les chambres de commerce et d'industrie ;
-
-5. Les ports autonomes maritimes et fluviaux ;
-
-6. Les aéroports érigés en établissements publics ;
-
-7. Le conservatoire de l'espace littoral et des rivages lacustres.
-
-8. Les offices publics d'aménagement et de construction ;
-
-9. Les offices publics d'habitations à loyer modéré ayant reçu une extension de compétence en application de l'article 9
-modifié du décret n. 58-1469 du 31 décembre 1958.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°58-1469 1958-12-31 ART. 9
-	  - Code de l'urbanisme L321-1 AL. 1
-
-	**Anciens textes**:
-
-	  - Décret n°62-1300 1962-11-07 ART. 13
-
-	**Modifié par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 3 () JORF 16 mars 1986 en vigueur le 1er juin 1987
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*212-2 (M)
-	  - Code de l'urbanisme - art. R*720-1 (Ab)
-	  - Code de l'urbanisme - art. R213-3 (V)
-	  - Code général de la propriété des personnes publ... - art. R1112-1 (V)
-	  - Code général de la propriété des personnes publ... - art. R1112-2 (V)
-	  - Code général de la propriété des personnes publ... - art. R1112-3 (V)
-	  - Code général de la propriété des personnes publ... - art. R1112-4 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 ## Livre III : Aménagement foncier
@@ -46299,13 +46125,18 @@ Les articles A. 121-1 et A. 121-2 sont applicables aux prix de vente des plans d
 
 ### Titre  IV : Dispositions spéciales à certaines parties du territoire
 
-####  Section 2 : Zones de préemption.
+#### Chapitre  II : Espaces naturels sensibles des départements
 
 ###### Article A142-1
 
-La déclaration prévue à l'article R. 142-9 doit comporter les indications figurant sur le modèle annexé au présent article.
+Les déclarations prévues par les articles L. 142-4, R. 142-9 et R. 142-13 doivent être établies conformément au modèle annexé
+à l'article A. 213-1.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1987-05-11 art. 1 jorf 2 juin 1987
 
 	**Codifié par**:
 
@@ -46317,49 +46148,10 @@ La déclaration prévue à l'article R. 142-9 doit comporter les indications fig
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R142-9 (M)
-
-
-###### Article A142-2
-
-Les dispositions de l'article A. 142-1 ne peuvent être modifiées que par arrêté du ministre chargé de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1987-05-11 art. 1 jorf 2 juin 1987
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. A142-1 (M)
-
-
-###### Article A142-3
-
-Conformément à l'article 3 (alinéa 1er) de l'arrêté du 13 janvier 1970 modifié portant application de l'article 52 du décret
-n. 69-825 du 28 août 1969, sont dispensées de l'examen des commissions instituées par le décret du 28 août 1969, sous réserve
-que leur prix n'excède pas l'évaluation effectuée par les services fiscaux (domaines) ou qu'il soit fixé comme en matière
-d'expropriation, les acquisitions effectuées dans les zones de préemption délimitées à l'intérieur des périmètres sensibles.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté  1970-01-13 ART. 3 AL. 1
-	  - Décret n°69-825 du 28 août 1969 - art. 52 (Ab)
-
-	**Abrogé par**:
-
-	  - Arrêté 1987-05-11 art. 1 jorf 2 juin 1987
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+	  - Code de l'urbanisme - art. A213-1 (V)
+	  - Code de l'urbanisme - art. L142-4 (VT)
+	  - Code de l'urbanisme - art. R142-13 (V)
+	  - Code de l'urbanisme - art. R142-9 (V)
 
 
 ### Titre  VI : Sanctions et servitudes
@@ -46393,14 +46185,48 @@ dans le domaine de la protection de la nature et de l'environnement et de l'amé
 
 ### TITRE Ier : DROIT DE PREEMPTION
 
-#### CHAPITRE Ier : ZONES D'INTERVENTION FONCIERE.
+#### Chapitre  II : Zones d'aménagement différé
+
+###### Article A212-1
+
+Les demandes formulées en application des articles L. 212-3 et R. 212-4 doivent être établies conformément au modèle annexé à
+l'article A. 213-1.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1987-05-11 art. 2 JORF 2 juin 1987
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. A212-3 (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. A213-1 (V)
+	  - Code de l'urbanisme - art. L212-3 (V)
+	  - Code de l'urbanisme - art. R212-4 (V)
+
+
+### Titre  Ier : Droits de préemption
+
+#### Chapitre  Ier : Droit de préemption urbain
 
 ###### Article A211-1
 
-Les déclarations prévues par les articles L. 211-8, R. 211-16 et R. 211-28 doivent être établies conformément au modèle
-annexé au présent article.
+Les demandes formulées en application des articles L. 211-5 et R. 211-7 doivent être établies conformément au modèle annexé à
+l'article A. 213-1.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1987-05-11 art. 2 JORF 2 juin 1987
 
 	**Codifié par**:
 
@@ -46412,159 +46238,30 @@ annexé au présent article.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L211-8 (M)
-	  - Code de l'urbanisme R211-16
-
-
-###### Article A211-2
-
-Les dispositions de l'article A. 211-1 ne peuvent être modifiées que par arrêté conjoint du ministre chargé de l'urbanisme et
-du garde des sceaux, ministre de la justice.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1987-05-11 art. 2 jorf 2 juin 1987
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. A211-1 (M)
+	  - Code de l'urbanisme - art. A213-1 (V)
+	  - Code de l'urbanisme - art. L211-5 (V)
+	  - Code de l'urbanisme - art. R211-7 (V)
 
 
 #### Chapitre  II : Zones d'aménagement différé
 
-###### Article A212-1
-
-La déclaration prévue à l'article R. 212-6 doit comporter les indications figurant sur le modèle annexé au présent article.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A212-3 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R*212-6 (M)
-
-
-###### Article A212-2
-
-La demande formulée en application de l'article L. 212-3 doit comporter les indications figurant sur le modèle annexé au
-présent article.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1987-05-11 art. 2 jorf 2 juin 1987
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A212-3 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L212-3 (M)
-
-
-###### Article A212-3
-
-Les dispositions des articles A. 212-1 et A. 212-2 ne peuvent être modifiées que par arrêté conjoint du ministre chargé de
-l'urbanisme et du garde des sceaux, ministre de la justice.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1987-05-11 art. 2 jorf 2 juin 1987
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. A212-1 (M)
-	  - Code de l'urbanisme - art. A212-2 (Ab)
-
-
-###### Article A212-4
-
-Conformément à l'article 3 (alinéa 1er) de l'arrêté du 13 janvier 1970 modifié portant application de l'article 52 du décret
-n° 69-825 du 28 août 1969, sont dispensées de l'examen des commissions instituées par le décret du 28 août 1969, sous réserve
-que leur prix n'excède pas l'évaluation effectuée par les services fiscaux (domaines) ou qu'il soit fixé comme en matière
-d'expropriation, les acquisitions poursuivies :
-
-a) Par exercice du droit de préemption dans les zones d'aménagement différé ;
-
-b) En vue de l'application du droit de délaissement prévu par l'article L. 212-3.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté  1970-01-13 ART. 3 AL. 1
-	  - Décret n°69-825 du 28 août 1969 - art. 52 (Ab)
-	  - Code de l'urbanisme - art. L212-3 (M)
-
-	**Abrogé par**:
-
-	  - Arrêté 1987-05-11 art. 2 jorf 2 juin 1987
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-
-###### Article A212-5
-
-Conformément à l'article A-3-1 du code du domaine de l'Etat, sont dispensées de l'examen des commissions visé à l'article R.
-10 du même code, sous réserve que leur prix n'excède pas l'évaluation effectuée par les services fiscaux (domaines) ou qu'il
-soit fixé comme en matière d'expropriation, les acquisitions poursuivies :
-
-a) Par exercice du droit de préemption dans les zones d'aménagement différé ;
-
-b) En vue de l'application du droit de délaissement prévu par l'article L. 212-3.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1987-05-11 art. 2 jorf 2 juin 1987
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cite**:
-
-	  - Code du domaine de l'Etat - art. R10 (V)
-	  - Code du domaine de l'Etat A3-1
-	  - Code de l'urbanisme - art. L212-3 (M)
-
-
-#### CHAPITRE III : PERIMETRES PROVISOIRES DES ZONES  D'AMENAGEMENT DIFFERE.
+#### Chapitre  III : Dispositions communes au droit de préemption urbain et aux zones d'aménagement différé
 
 ###### Article A213-1
 
-Les dispositions du chapitre II du présent titre sont applicables à l'intérieur des périmètres provisoires de zones
-d'aménagement différé.
+Les déclarations prévues par les articles L. 213-2, R. 213-5 et R. 213-15 doivent être établies conformément au modèle annexé
+au présent article.
+
+**Nota:**
+
+Le modèle de formulaire annexé au présent arrêté (Arrêté du 13 avril 2012) est accessible sur le site www.service-public.fr
+et sur le site internet du ministère chargé de l'urbanisme www.developpement-durable.gouv.fr .
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1987-05-11 art. 2 JORF 2 juin 1987
 
 	**Codifié par**:
 
@@ -46576,6 +46273,32 @@ d'aménagement différé.
 	  - Code de l'urbanisme - art. A142-1 (V)
 	  - Code de l'urbanisme - art. A211-1 (V)
 	  - Code de l'urbanisme - art. A212-1 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L213-2 (V)
+	  - Code de l'urbanisme - art. R213-15 (V)
+	  - Code de l'urbanisme - art. R213-5 (V)
+
+
+#### CHAPITRE IV : Dispositions communes aux zones d'aménagement différé et aux périmètres provisoires de zones d'aménagement différé créés avant le 1er juin 1987
+
+###### Article A214-1
+
+Les déclarations ou demandes formulées en application des articles L. 212-2, L. 212-3, L. 213-1, R. 212-6, R. 212-14 et R.
+213-2 dans leur rédaction antérieure à la loi n° 85-729 du 18 juillet 1985 relative à la définition et à la mise en oeuvre de
+principes d'aménagement doivent être, à compter du 1er juin 1987, établies conformément au modèle annexé à l'article A.
+213-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1987-05-11 art. 2 JORF 2 juin 1987
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
 ## Livre  III : Aménagement foncier
