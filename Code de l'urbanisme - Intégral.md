@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1995-09-01
+Version Consolidée au 1995-09-07
 
 # Partie législative
 
@@ -21635,19 +21635,16 @@ ou, le cas échéant, l'établissement public de coopération intercommunale com
 
 A cette fin :
 
-Le commissaire de la République chargé de conduire la procédure constitue par arrêté une commission dénommée "commission
-locale d'aménagement et d'urbanisme" [*composition*], comprenant des représentants élus des communes ou de l'établissement
-public de coopération intercommunale compétent, des représentants des services de l'Etat, notamment, ceux chargés de
-l'agriculture, de l'industrie et de l'urbanisme et, sur leur demande, des représentants de la ou des régions et départements
-concernés. Lorsque, en raison de leur nombre, les communes ne peuvent être toutes représentées directement au sein de la
-commission, celles d'entre elles qui ne le sont pas sont réunies en un ou plusieurs groupes pour désigner leurs représentants
-à la commission.
+Le préfet chargé de conduire la procédure constitue par arrêté une commission dénommée "commission locale d'aménagement et
+d'urbanisme" et en fixe les modalités de fonctionnement. Cette commission comprend des représentants élus des communes ou de
+l'établissement public de coopération intercommunale compétent, des représentants des services de l'Etat, notamment, ceux
+chargés de l'agriculture, de l'industrie et de l'urbanisme et, sur leur demande, des représentants de la ou des régions et
+départements concernés. Lorsque, en raison de leur nombre, les communes ne peuvent être toutes représentées directement au
+sein de la commission, celles d'entre elles qui ne le sont pas sont réunies en un ou plusieurs groupes pour désigner leurs
+représentants à la commission.
 
-Le commissaire de la République définit, en accord avec les représentants des communes ou de l'établissement public de
-coopération intercommunale compétent, les modalités de participation de leurs services à l'élaboration du schéma.
-
-Mention de l'arrêté du commissaire de la République constituant la commission locale d'aménagement et d'urbanisme est insérée
-au recueil des actes administratifs du ou des départements concernés.
+Mention de l'arrêté du préfet constituant la commission locale d'aménagement et d'urbanisme et définissant les modalités de
+fonctionnement de celle-ci est insérée au recueil des actes administratifs du ou des départements concernés.
 
 **Liens relatifs à cet article**
 
@@ -21657,19 +21654,18 @@ au recueil des actes administratifs du ou des départements concernés.
 
 	**Liens**:
 
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 ART. 42 (Code de l'urbanisme L122-1-1)
-	  - SPEC_APPLI: Décret n°83-851 1983-09-23 ART. 1 : Date d'entrée en vigueur
+	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 42 (Code de l'urbanisme L122-1-1)
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23 art. 1 : Date d'entrée en vigueur
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-812 1983-09-09 ART. 1, ART. 4 JORF 11 SEPTEMBRE 1983 date d'entrée en vigueur  16 OCTOBRE 1983
+	  - Décret n°95-995 du 5 septembre 1995 - art. 1 () JORF 9 septembre 1995
 
 
 ###### Article R*122-17
 
-Les représentants des principaux organismes économiques et professionnels intéressés, et notamment les chambres de commerce
-et d'industrie, les chambres de métiers et les chambres d'agriculture intéressées, sont associés, en ce qui les concerne, aux
-travaux de la commission [*locale d'aménagement et d'urbanisme*].
+Les chambres de commerce et d'industrie, les chambres de métiers et les chambres d'agriculture intéressées sont associées, en
+ce qui les concerne, aux travaux de la commission.
 
 Celle-ci peut en outre recueillir l'avis de toutes personnes qualifiées et de tout organisme ou association ayant compétence
 en matière de construction, d'aménagement ou d'urbanisme.
@@ -21683,11 +21679,10 @@ en matière de construction, d'aménagement ou d'urbanisme.
 	**Liens**:
 
 	  - TXT_SOURCE: Loi n°83-8 1983-01-07 ART. 42 (Code de l'urbanisme L122-1-1)
-	  - SPEC_APPLI: Décret n°83-851 1983-09-23 ART. 1 : Date d'entrée en vigueur
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-812 1983-09-09 ART. 1, ART. 4 JORF 11 SEPTEMBRE 1983 date d'entrée en vigueur  1 OCTOBRE 1983
+	  - Décret n°95-995 du 5 septembre 1995 - art. 2 () JORF 9 septembre 1995
 
 	**Cité par**:
 
@@ -21698,8 +21693,7 @@ en matière de construction, d'aménagement ou d'urbanisme.
 
 La commission [*locale d'aménagement et d'urbanisme attributions*] est saisie d'un programme d'étude. Les options relatives
 aux perspectives et au parti d'aménagement lui sont soumises. Elle est tenue régulièrement informée des études et leurs
-résultats lui sont communiqués. En outre, elle organise, en accord avec les collectivités locales, l'information des
-populations intéressées.
+résultats lui sont communiqués. En outre, elle organise l'information des populations intéressées.
 
 **Liens relatifs à cet article**
 
@@ -21710,62 +21704,35 @@ populations intéressées.
 	**Liens**:
 
 	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 42 (Code de l'urbanisme L122-1-1)
-	  - SPEC_APPLI: Décret n°83-851 du 23 septembre 1983 - art. 1 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-812 1983-09-09 ART. 1, ART. 4 JORF 11 SEPTEMBRE 1983 date d'entrée en vigueur  16 OCTOBRE 1983
-
-
-###### Article R*122-19
-
-Les modalités de fonctionnement de la commission [*locale d'aménagement et d'urbanisme*] sont fixées par arrêté du
-commissaire de la République chargé de conduire la procédure.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°83-812 1983-09-09 ART. 1, ART. 4 JORF 11 SEPTEMBRE 1983 date d'entrée en vigueur  16 OCTOBRE 1983
-
-	**Abrogé par**:
-
-	  - Décret n°95-955 1995-09-05 art. 4 JORF 7 septembre 1995
-
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 ART. 42 (Code de l'urbanisme L122-1-1)
+	  - Décret n°95-995 du 5 septembre 1995 - art. 3 () JORF 9 septembre 1995
 
 
 ###### Article R*122-20
 
-Le projet de schéma directeur ou de schéma de secteur [*élaboration*] est communiqué par le commissaire de la République à
-ceux des services publics qui ne sont pas représentés au sein de la commission [*locale d'aménagement et d'urbanisme*] prévue
-à l'article R. 122-16 et qu'il y a lieu de consulter sur le projet. Faute de réponse dans le délai de deux mois à compter de
-cette transmission, leur avis est réputé favorable.
+Le projet de schéma directeur ou de schéma de secteur est communiqué par le préfet à ceux des services publics qui ne sont
+pas représentés au sein de la commission prévue à l'article R. 122-16 et qu'il y a lieu de consulter sur le projet. Faute de
+réponse dans le délai de d'un mois à compter de cette transmission, leur avis est réputé favorable.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
 	**Liens**:
 
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 ART. 42 (Code de l'urbanisme L122-1-1)
-	  - SPEC_APPLI: Décret n°83-851 1983-09-23 ART. 1 : Date d'entrée en vigueur
+	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 42 (Code de l'urbanisme L122-1-1)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-812 1983-09-09 ART. 1, ART. 4 JORF 11 SEPTEMBRE 1983 date d'entrée en vigueur  16 OCTOBRE 1983
+	  - Décret n°95-995 du 5 septembre 1995 - art. 4 () JORF 9 septembre 1995
 
 	**Cite**:
 
 	  - Code de l'urbanisme R122-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*122-21
