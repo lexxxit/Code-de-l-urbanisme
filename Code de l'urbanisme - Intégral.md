@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1977-04-14
+Version Consolidée au 1977-06-30
 
 # Partie législative
 
@@ -8326,6 +8326,58 @@ rétrocession prévue aux articles L. 212-7 (alinéa 5) et L. 213-2 (alinéa 2).
 	**Cite**:
 
 	  - Code de l'urbanisme L212-7 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L311-4
+
+Il est établi, dans chaque zone d'aménagement concerté, un plan d'aménagement de zone conforme aux orientations du schéma
+directeur s'il en existe un. Ce plan est approuvé par l'autorité administrative après enquête publique et avis du conseil
+municipal ou de l'organe délibérant de l'établissement public regroupant plusieurs communes et ayant compétence en matière
+d'urbanisme [*district urbain, communauté urbaine, syndicat de communes*]. Il comporte tout ou partie des éléments énumérés
+aux articles L. 123-1 et L. 130-1.
+
+Le plan d'aménagement de zone approuvé est opposable à toute personne publique ou privée pour l'exécution de tous travaux,
+installations ou constructions affectant l'utilisation du sol. Lorsque le conseil municipal ou l'organe délibérant de
+l'établissement public regroupant plusieurs communes et ayant compétence en matière d'urbanisme, officiellement consulté, n'a
+pas fait opposition au projet de plan d'aménagement de zone, il peut être fait une application anticipée de ce plan dans les
+conditions définies par le décret prévu à l'article L. 311-6.
+
+Lorsque l'acte de création de la zone décide de maintenir en vigueur les dispositions du plan d'occupation des sols rendu
+public ou approuvé, ce document tient lieu de plan d'aménagement de la zone.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°77-1141 du 12 octobre 1977 - art. Annexe III (Ab)
+	  - Décret n°85-453 du 23 avril 1985 - art. 2 (M)
+	  - Loi n°2010-597 du 3 juin 2010 - art. 21 (VD)
+	  - Loi n°2010-597 du 3 juin 2010 - art. 9 (V)
+	  - Code de l'urbanisme - art. L211-1 (M)
+	  - Code de l'urbanisme - art. L311-5 (V)
+	  - Code de l'urbanisme - art. L311-7 (VD)
+	  - Code de l'urbanisme - art. L332-30 (V)
+	  - Code de l'urbanisme - art. R*311-3 (M)
+	  - Code de l'urbanisme - art. R*311-32 (Ab)
+	  - Code de l'urbanisme - art. R*431-23 (V)
+	  - Code de l'urbanisme - art. R211-1 (M)
+	  - Code de l'urbanisme - art. R332-41 (VD)
+	  - Code général de la propriété des personnes publ... - art. L5112-6-1 (V)
+	  - Code général des collectivités territoriales - art. L2122-22 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L123-1 (M)
+	  - Code de l'urbanisme - art. L130-1 (M)
+	  - Code de l'urbanisme - art. L311-6 (M)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. L311-4-1 (T)
 
 	**Codifié par**:
 
@@ -19828,6 +19880,80 @@ notamment en vue de la réalisation :
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R*311-3-1
+
+Un arrêté du préfet prescrit la mise à la disposition du public du dossier de création de la zone.
+
+Cet arrêté fixe [*contenu*] :
+
+a) La date à compter de laquelle a lieu cette mise à la disposition et sa durée qui ne peut être inférieure à deux mois ;
+
+b) Les lieux et heures où le public pourra prendre connaissance du dossier et formuler ses observations sur un ou plusieurs
+registres ; la mairie de la commune concernée par l'opération ainsi que, s'il existe un établissement public groupant
+plusieurs communes et ayant compétence en matière d'urbanisme, le siège de cet établissement sont obligatoirement l'un de ces
+lieux.
+
+L'arrêté du préfet est publié au recueil des actes administratifs du département. Mention de cette publication est insérée
+dans deux au moins des journaux mis en vente dans le département et affichée dans les mairies des communes intéressées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*311-3-2
+
+La commune sur le territoire de laquelle il est envisagé de créer la zone ou, s'il en existe un, l'établissement public
+groupant plusieurs communes et ayant compétence en matière d'urbanisme est appelé à émettre un avis sur le dossier de
+création. Cette formalité n'est pas obligatoire si la commune ou l'établissement public de regroupement a pris l'initiative
+de la création de la zone.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 26 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 5 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+
+###### Article R*311-3-3
+
+Les zones d'aménagement concerté sont créées [*autorité compétente*] :
+
+a) Par arrêté du ministre chargé de l'urbanisme en cas d'avis favorable ou sur proposition de la commune, ou, s'il en existe
+un, de l'établissement public groupant plusieurs communes et ayant compétence en matière d'urbanisme, ou faute d'avis émis
+par la commune ou l'établissement public intéressé dans le délai de deux mois à compter du jour où le maire ou le président
+de l'établissement public a reçu communication du projet.
+
+b) Par décret en Conseil d'Etat dans les autres cas.
+
+Le ministre chargé de l'urbanisme peut, après avis du ministre de l'intérieur, déléguer au préfet tout ou partie de ses
+attributions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 26 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 6 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+
 ###### Article R*311-7
 
 Sont considérées comme des zones d'aménagement concerté, pour l'application de l'article L. 123-7[*sursis à statuer*], les
@@ -19862,6 +19988,77 @@ Le préfet arrête la liste de ces zones.
 
 
 #####  Section 2 : Réalisation des zones d'aménagement concerté
+
+###### Article R*311-10
+
+Lorsque la décision de création n'a pas prévu le maintien en vigueur des dispositions du plan d'occupation des sols rendu
+public ou approuvé, il est établi un plan d'aménagement de zone compatible avec le schéma de secteur, s'il en existe un.
+
+Ce plan comprend [*contenu*] :
+
+a) Un ou plusieurs documents graphiques ;
+
+b) Un règlement.
+
+Il est accompagné d'un rapport de présentation ainsi que des annexes énumérées à l'article R. 123-24 (2e, 3e et 4e).
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°69-500 1969-05-30 ART. 2
+
+	**Cite**:
+
+	  - Code de l'urbanisme R123-24
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*311-10-2
+
+Les documents graphiques font apparaître notamment [*contenu, plan d'aménagement*] :
+
+a) L'organisation de la zone en ce qui concerne :
+
+La localisation et les caractéristiques des principales voies de circulation à conserver, à modifier ou à créer ;
+
+La localisation prévue pour les principaux ouvrages publics, les installations d'intérêt général et les espaces verts ;
+
+b) Le ou les îlots à l'intérieur desquels s'appliquent les règles visées à l'article R. 311-10-3. ;
+
+c) Les espaces boisés soumis aux dispositions de l'article L. 130-1 ;
+
+d) Les servitudes d'utilité publique existantes et affectant l'utilisation du sol à l'intérieur de la zone considérée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*311-16
+
+L'acte approuvant le plan d'aménagement de cette zone fait l'objet des mesures de publicité et d'information du public
+mentionnées à l'article R. 311-6.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°2001-261 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*311-6 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
 
 ###### Article R*311-17
 
@@ -19899,6 +20096,71 @@ majoré des frais exposés par la collectivité intéressée.
 	**Anciens textes**:
 
 	  - Décret n°69-500 1969-05-30 art. 10
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°2001-261 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
+
+
+#####  Section 7 : Achèvement des zones d'aménagement concerté
+
+###### Article R*311-35
+
+L'achèvement d'une zone d'aménagement concerté doit être constaté lorsque le programme des équipements publics approuvé a été
+exécuté.
+
+En outre, si l'aménagement de la zone est réalisé dans les conditions fixées au 2. ou 3. de l'article R. 311-4, la
+constatation de l'achèvement ne peut intervenir avant la fin de la concession ou de la convention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°2001-261 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
+
+	**Cite**:
+
+	  - Code de l'urbanisme R311-4
+
+
+###### Article R*311-37
+
+L'acte constatant l'achèvement de la zone produit les effets mentionnés à l'article R. 311-34[*incorporation du plan
+d'aménagement dans le P.O.S.*].
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°2001-261 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
+
+	**Cite**:
+
+	  - Code de l'urbanisme R311-34
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*311-38
+
+L'acte constatant l'achèvement de la zone fait l'objet des mesures de publicité et d'information édictées par l'article R.
+311-6.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*311-6 (M)
 
 	**Codifié par**:
 
@@ -24616,37 +24878,39 @@ administratifs nécessaires au paiement des subventions.
 
 #### Zones d'aménagement concerte
 
-##### Dispositions générales applicables à l'ensemble des zones.
+##### Création
 
 ###### Article R*311-2
 
-Les zones d'aménagement concerté sont créées à l'initiative de [*autorité compétente*] l'Etat ou de l'organe délibérant du
-département, de la commune, de la communauté urbaine ou d'un établissement public y ayant vocation, par arrêté du ministre
-chargé de l'urbanisme qui peut, après avis du ministre de l'intérieur, déléguer au préfet tout ou partie de ses attributions.
+Les zones d'aménagement concerté sont créées, à l'initiative d'une collectivité publique, ou d'un des établissements publics
+ci-après énumérés :
 
-Au cas où l'initiative émane de l'Etat, les organes délibérants de la ou des communes ou de l'établissement public groupant
-ces communes et ayant compétence en matière d'urbanisme sont consultés. Dans le cas d'un avis défavorable la zone
-d'aménagement concerté ne peut être créée que par arrêté conjoint du ministre chargé de l'urbanisme et du ministre de
-l'intérieur. Si l'avis défavorable émane d'une commune de plus de 50.000 habitants ou d'un établissement public groupant des
-communes dont la population globale excède ce nombre, elle est créée par décret en Conseil d'Etat.
+a) Etablissements publics groupant plusieurs communes et ayant compétence en matière d'urbanisme ;
 
-La création des zones à urbaniser par priorité est soumise aux conditions fixées aux articles L. 211-1 et R. 211-1.
+b) Etablissements publics mentionnés aux premier et second alinéas de l'article L. 321-1 ;
+
+c) Syndicats mixtes ;
+
+d) Chambres de commerce et d'industrie ;
+
+e) Ports autonomes maritimes ou fluviaux ;
+
+f) Aéroports érigés en établissements publics.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°68-1107 1968-12-03 ART. 2
-
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L211-1 (M)
-	  - Code de l'urbanisme - art. R211-1 (M)
+	  - Code de l'urbanisme - art. L321-1 (M)
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*311-7 (V)
 	  - Code de l'urbanisme - art. R*318-18 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme R311-4
 
 	**Codifié par**:
 
@@ -24655,17 +24919,28 @@ La création des zones à urbaniser par priorité est soumise aux conditions fix
 
 ###### Article R*311-3
 
-Les décisions de création de zones d'aménagement concerté sont publiées au Journal officiel de la République française
-lorsqu'elles interviennent sous la forme d'un arrêté ministériel, d'un arrêté interministériel ou d'un décret pris en Conseil
-d'Etat. Elles sont publiées au recueil des actes administratifs du département lorsqu'elles interviennent sous la forme d'un
-arrêté préfectoral. Elles doivent en outre, dans tous les cas, faire l'objet d'une insertion dans deux au moins des journaux
-qui sont mis en vente dans le département.
+La personne publique qui prend l'initiative de demander la création d'une zone d'aménagement concerté adresse au préfet un
+dossier de création approuvé, sauf lorsqu'il s'agit de l'Etat, par son organe délibérant.
+
+Le dossier de création comprend [*contenu*] :
+
+a) Un rapport de présentation, qui indique notamment l'objet et la justification de l'opération, comporte une description de
+l'état du site et de son environnement et énonce les raisons pour lesquelles, au regard des dispositions d'urbanisme en
+vigueur et de l'insertion dans l'environnement naturel ou urbain, le projet faisant l'objet du dossier de création a été
+retenu ;//DECRET 1141 : Ce rapport comprend l'étude d'impact définie à l'article 2 du décret n. 77-1141 du 12 octobre 1977,
+sauf dans le cas prévu au dernier alinéa de l'article L. 311-4//.
+
+b) Un plan de situation ;
+
+c) Un plan de délimitation du ou des périmètres composant la zone ;
+
+d) L'indication du mode de réalisation choisi ;
+
+e) Le régime de la zone au regard de la taxe locale d'équipement ;
+
+f) L'indication du document d'urbanisme applicable à l'intérieur de la zone.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°68-1107 1968-12-03 ART. 3
 
 	**Codifié par**:
 
@@ -24678,27 +24953,22 @@ L'aménagement et l'équipement de la zone sont :
 
 1. Soit conduits directement par la personne morale qui a pris l'initiative de sa création ;
 
-2. Soit à la demande de ladite personne morale, réalisés par un autre établissement public /M/ou concédés à une société
-d'économie mixte, constitués en application des articles L. 321-1 et R. 321-1/M/DECR.0163 ART. 1 : ou concédés, soit à une
-société d'économie mixte constituée en application des articles L. 321-1 et R. 321-1, soit à un office public d'habitations à
-loyer modéré ayant reçu une extension de compétence en application de l'article 9 du décret n. 58-1469 du 31 décembre
-1958// .
+2. Soit à la demande de ladite personne morale, réalisés par un établissement public visé à l'article L. 321-1 (alinéa 1), ou
+concédés à l'un des établissements publics mentionnés à l'article R. 311-2 ou à une société d'économie mixte constituée en
+application de l'article R. 321-1 ;
 
-3. Soit confiés, par cette personne morale, à une personne publique ou privée, selon les stipulations d'une convention.
+3. Soit confiés, par cette personne morale, selon les stipulations d'une convention à une personne privée ou publique.
 
 Dans ce dernier cas, la convention est approuvée :
 
-a) Soit par le préfet, si elle est conforme à une convention type approuvée par le décret en Conseil d'Etat ;
+a) Soit par le préfet, si elle est conforme à une convention type approuvée par décret en Conseil d'Etat ;
 
 b) Soit, à défaut, par arrêté conjoint du ministre chargé de l'urbanisme et du ministre de l'intérieur.
 
+Lorsque la zone d'aménagement concerté a pour objet la réalisation d'une opération de rénovation urbaine, la convention
+applicable est celle prévue à l'article R. 312-1 (alinéa 3).
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°58-1469 1958-12-31 ART. 9
-	  - Code de l'urbanisme - art. L321-1 (M)
-	  - Code de l'urbanisme R321-1
 
 	**Anciens textes**:
 
@@ -24709,9 +24979,9 @@ b) Soit, à défaut, par arrêté conjoint du ministre chargé de l'urbanisme et
 	  - Code de l'urbanisme - art. R*311-3 (V)
 	  - Code de l'urbanisme - art. R*318-18 (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - TXT_ASSOCIE: Code de l'urbanisme R311-20
+	  - Code de l'urbanisme R321-1
 
 	**Codifié par**:
 
@@ -24720,16 +24990,19 @@ b) Soit, à défaut, par arrêté conjoint du ministre chargé de l'urbanisme et
 
 ###### Article R*311-5
 
-La décision [*contenu*] créant la zone d'aménagement concerté en délimite le périmètre, fixe le mode de réalisation choisi en
-application de l'article R. 311-4 et précise, le cas échéant, si les équipements prévus à l'article 3 du décret du n. 68-836
-du 24 septembre 1968 relatif à la taxe locale d'équipement seront mis à la charge des constructeurs.
+La décision créant la zone d'aménagement concerté [*contenu*] en délimite le ou les périmètres, mentionne le mode de
+réalisation choisi et précise, le cas échéant, si les équipements prévus à l'article 317 quater de l'annexe II du code
+général des impôts seront mis à la charge des constructeurs.
+
+Dans les communes, parties de communes ou ensembles de communes dotés d'un plan d'occupation des sols rendu public ou
+approuvé, la décision créant la zone précise en outre si les dispositions de ce plan demeureront en vigueur à l'intérieur du
+ou des territoires compris dans la zone, ou s'il sera établi un plan d'aménagement de zone.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°68-838 1968-09-24 ART. 3
-	  - Code de l'urbanisme R311-4
+	  - CGIAN2 317
 
 	**Anciens textes**:
 
@@ -24747,21 +25020,18 @@ du 24 septembre 1968 relatif à la taxe locale d'équipement seront mis à la ch
 
 ###### Article R*311-6
 
-Lorsque la zone d'aménagement concerté est créée à l'initiative d'un département ou d'un établissement public y ayant
-vocation, l'acte de création ne produit les effets prévus à l'article L. 123-6 qu'après consultation des organes délibérants
-des communes ou communautés urbaines intéressées. Si l'avis est défavorable, il est statué soit par arrêté interministériel,
-soit par décret en Conseil d'Etat, comme il est dit au deuxième alinéa de l'article R. 311-2.
+La décision de création d'une zone d'aménagement concerté fait l'objet :
+
+a) D'une publication au Journal officiel de la République française s'il s'agit d'un décret ou d'un arrêté ministériel ;
+
+b) D'une publication au recueil des actes administratifs du département s'il s'agit d'un arrêté préfectoral ; dans ce dernier
+cas, le préfet fait en outre insérer cette mention en caractères apparents dans deux journaux régionaux ou locaux diffusés
+dans tout le département.
+
+Les effets juridiques attachés à la création de la zone ont pour point de départ la publication effectuée en application du a
+ci-dessus ou l'exécution de l'ensemble des formalités de publication effectuées en application du b.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°68-1107 1968-12-03 ART. 6
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L123-6 (M)
-	  - Code de l'urbanisme R311-2 AL. 2
 
 	**Cité par**:
 
@@ -24773,6 +25043,10 @@ soit par décret en Conseil d'Etat, comme il est dit au deuxième alinéa de l'a
 	  - Code de l'urbanisme - art. R*311-5 (M)
 	  - Code de l'urbanisme - art. R*311-8 (M)
 
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme R311-8
+
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
@@ -24780,19 +25054,20 @@ soit par décret en Conseil d'Etat, comme il est dit au deuxième alinéa de l'a
 
 ###### Article R*311-8
 
-La collectivité publique ou l'établissement public qui a pris l'initiative de la création de la zone d'aménagement concerté
-est tenu par les obligations prévues aux articles L. 123-7 (2e alinéa) et L. 123-9.
+Lorsqu'il est prévu que les dispositions du plan d'occupation des sols rendu public ou approuvé ne seront pas maintenues en
+vigueur à l'intérieur du ou des territoires compris dans la zone, la décision créant la zone devient caduque si, dans le
+délai de deux ans à compter de la publication dont elle fait l'objet, le plan d'aménagement de zone n'est pas approuvé. Le
+délai peut être prorogé pour une durée d'un an par arrêté du préfet, publié dans les conditions définies à l'article R.
+311-6.
+
+Le point de départ du délai de deux ans mentionné à l'alinéa précédent est de 30 juin 1977, lorsque l'acte créant la zone a
+été publié avant cette date.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°68-1107 1968-12-03 ART. 8
-
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L123-9 (M)
-	  - Code de l'urbanisme L123-7 AL. 2
+	  - Code de l'urbanisme - art. R*311-6 (M)
 
 	**Cité par**:
 
@@ -24803,38 +25078,65 @@ est tenu par les obligations prévues aux articles L. 123-7 (2e alinéa) et L. 1
 	  - Décret n°73-1023 1973-11-08
 
 
-##### Zones d'aménagement concerte créées à l'initiative d'une autorité administrative autre que l'Etat.
+##### Réalisation
 
-###### Article R*311-12
+###### Article R*311-11
 
-Au vu du dossier, le programme et l'échéancier sont approuvés et les moyens publics de financement de l'opération sont
-définis [*autorité compétente*] :
+La personne publique qui a pris l'initiative de la création de la zone constitue un dossier de réalisation comprenant
+[*contenu*] :
 
-Par le préfet, toutes les fois que la réalisation de la zone n'implique pas d'autres financements publics que ceux dont la
-programmation est de sa compétence ;
+a) Le programme des équipements publics à réaliser dans la zone ;
 
-Par le préfet de région lorsque la réalisation de la zone implique des financements publics dont la programmation est de la
-compétence de ce préfet.
+b) Le projet de plan d'aménagement de zone, sauf si la décision de création a maintenu en vigueur les dispositions du plan
+d'occupation des sols ;
 
-Toutefois, des arrêtés conjoints du ministre chargé de l'urbanisme, du ministre de l'intérieur et du ministre de l'économie
-et des finances peuvent prévoir que ces décisions sont prises sur le rapport du préfet de région, par des ministres ou par
-des organismes interministériels ayant compétence à cet effet, lorsque cette dérogation aux dispositions des alinéas
-précédents est justifiée par l'importance soit de la zone d'aménagement concerté, soit de la participation financière des
-collectivités publiques.
+c) Les modalités prévisionnelles de financement de l'opération d'aménagement, échelonnées dans le temps.
+
+Ce dossier, accompagné de la délibération de l'organe délibérant de la personne publique visée au premier alinéa ci-dessus,
+sauf si cette personne est l'Etat, est adressé au préfet qui recueille l'avis des services locaux des départements
+ministériels intéressés.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°69-500 1969-05-30 art. 4
+	  - Décret n°69-500 1969-05-30 art. 3
 
-	**Liens**:
+	**Codifié par**:
 
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. A331-1 (M)
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*311-12
+
+Le préfet transmet pour avis le projet de plan d'aménagement de zone à la chambre de commerce et d'industrie et à la chambre
+de métiers intéressées. Ces établissements publics disposent d'un délai d'un mois pour faire connaître leurs observations
+éventuelles.
+
+Le projet de plan d'aménagement de zone est soumis à une enquête publique dans les formes prévues par les articles R. 11-4 et
+suivants du code de l'expropriation pour cause d'utilité publique.
+
+L'enquête publique effectuée en application de l'alinéa précédent vaut enquête préalable à la déclaration d'utilité publique
+des opérations, acquisitions ou expropriations prévues au plan d'aménagement.
+
+Le projet de plan d'aménagement de zone et les conclusions du commissaire enquêteur ou de la commission d'enquête sont soumis
+pour avis par le préfet au conseil municipal de la commune ou à l'organe délibérant de l'établissement public groupant
+plusieurs communes et ayant compétence en matière d'urbanisme. Cette formalité n'est pas obligatoire si la commune ou
+l'établissement public de regroupement a pris l'initiative de la création de la zone et si l'avis du commissaire enquêteur ou
+de la commission d'enquête est favorable.
+
+L'avis est réputé favorable [*silence*] s'il n'est pas intervenu dans un délai de deux mois. Si le conseil municipal ou
+l'organe délibérant entend faire connaître son opposition, celle-ci doit être expressément formulée.
+
+**Liens relatifs à cet article**
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*318-18 (V)
+
+	**Cite**:
+
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-4 (M)
 
 	**Codifié par**:
 
@@ -24843,21 +25145,19 @@ collectivités publiques.
 
 ###### Article R*311-13
 
-Compte tenu des décisions prises en application de l'article précédent, le préfet du département arrête le bilan financier
-prévisionnel de l'opération en accord avec l'autorité qui a pris l'initiative de la création de la zone.
+Le préfet approuve le programme des équipements publics, après avoir :
 
-Il déclare alors le plan d'aménagement pris en considération. Cette prise en considération vaut approbation du plan
-lorsqu'une enquête publique n'est pas nécessaire par application des dispositions de l'article suivant.
+a) Vérifié que la personne publique qui a pris l'initiative de la création de la zone s'est engagée à assumer les
+conséquences financières de sa réalisation et a défini les conditions dans lesquelles l'opération d'aménagement doit se
+dénouer ;
+
+b) Vérifié que les différentes collectivités ou établissements publics qui participent à l'aménagement de la zone ont donné
+leur accord sur la maîtrise d'ouvrage des équipements qui leur incombe ;
+
+c) Recueilli l'avis du conseil municipal ou de l'organe délibérant de l'établissement public groupant plusieurs communes et
+ayant compétence en matière d'urbanisme si la zone a été créée à l'initiative d'une autre personne publique.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-500 1969-05-30 ART. 5
-
-	**Cite**:
-
-	  - Code de l'urbanisme R311-14
 
 	**Codifié par**:
 
@@ -24866,33 +25166,24 @@ lorsqu'une enquête publique n'est pas nécessaire par application des dispositi
 
 ###### Article R*311-14
 
-Le plan d'aménagement de la zone est soumis à une enquête publique effectuée dans les conditions  définies par le titre Ier
-du décret n. 59-701 du 6 juin 1959, sauf dans les cas définis ci-après :
-
-1. Lorsque l'aménagement et l'équipement de la zone étant effectués dans les conditions prévues aux 1. et 2. de l'article R.
-311-4 :
-
-a) //DECR.0276 : l'Etat// la collectivité locale ou l'établissement public qui a pris l'initiative de créer la zone est
-propriétaire de l'ensemble des terrains de la zone ;
-
-b) L'acquisition de l'ensemble de la zone a déjà été déclarée d'utilité publique.
-
-2. Lorsque, l'aménagement et l'équipement de la zone étant effectués dans les conditions prévues au 3. de l'article R. 311-4,
-tous les propriétaires de la zone sont parties à la convention visée audit article.
-
-L'enquête publique effectuée en application de l'alinéa précédent vaut enquête préalable à la déclaration d'utilité publique
-des opérations, acquisitions ou expropriations prévues au plan d'aménagement.
+Lorsque le conseil municipal ou l'organe délibérant de l'établissement public groupant plusieurs communes et ayant compétence
+en matière d'urbanisme, saisi en application de l'article R. 311-12 ou spécialement saisi à cet effet, a donné un avis
+favorable au projet de plan d'aménagement de zone, le préfet peut par arrêté motivé faire une application anticipée des
+dispositions de ce plan.
 
 **Liens relatifs à cet article**
 
+	**Abrogé par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 14 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 26 (V)
+
 	**Cite**:
 
-	  - Décret n°59-701 1959-06-06 TITRE 1
-	  - Code de l'urbanisme R311-4
-
-	**Anciens textes**:
-
-	  - Décret n°69-500 1969-05-30 ART. 6
+	  - Code de l'urbanisme R311-12
 
 	**Codifié par**:
 
@@ -24901,38 +25192,47 @@ des opérations, acquisitions ou expropriations prévues au plan d'aménagement.
 
 ###### Article R*311-15
 
-Lorsqu'il y a lieu à enquête publique par application de l'article précédent, le préfet approuve le plan d'aménagement au vu
-des résultats de l'enquête.
+Le plan d'aménagement de zone est approuvé :
+
+a) Par arrêté du préfet, en l'absence d'opposition de la commune ou de l'établissement public groupant plusieurs communes et
+ayant compétence en matière d'urbanisme ;
+
+b) Par décret en Conseil d'Etat, dans les autres cas.
+
+L'acte qui approuve le plan peut, le cas échéant, sous réserve des dispositions du règlement d'administration publique pris
+en application de l'article L. 11-2 (alinéa 2) du code de l'expropriation pour cause d'utilité publique, porter déclaration
+d'utilité publique de certaines opérations, acquisitions ou expropriations prévues au plan.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°69-500 1969-05-30 ART. 7
-
 	**Cite**:
 
-	  - Code de l'urbanisme R311-14
+	  - Code de l'expropriation pour cause d'utilité publique L11-2 AL. 2
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
 
-###### Article R*311-16
+###### Article R*311-16-1
 
-L'arrêté du préfet approuvant le plan d'aménagement de la zone est publié au recueil des actes administratifs du département.
-Le plan approuvé est tenu à la disposition du public dans les mairies des communes intéressées, au siège de l'établissement
-intéressé, à la préfecture et à la direction départementale de l'équipement.
+Lorsque le conseil municipal ou l'organe délibérant de l'établissement public groupant plusieurs communes et ayant compétence
+en matière d'urbanisme a pris l'initiative de la création de la zone ou a émis un avis favorable sur le projet de plan
+d'aménagement de zone, ce projet peut être inclus dans le dossier de création de la zone.
 
-Mention de cette publication et des lieux où le plan d'aménagement peut être consulté est insérée dans deux au moins des
-journaux mis en vente dans le département et affichée dans les mairies des communes intéressées.
+Dans ce cas, le dossier de création est soumis pendant un délai de deux mois à une enquête publique effectuée dans les
+conditions définies par les articles R. 11-4 et suivants du code de l'expropriation pour cause d'utilité publique.
+
+Le plan d'aménagement de la zone peut alors être approuvé, après consultation des organismes mentionnés à l'article R. 311-12
+(alinéa 1er) [*chambre de commerce et d'industrie et chambre des métiers*], sans qu'il y ait lieu de procéder à une nouvelle
+enquête.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°69-500 1969-05-30 ART. 8
+	  - CODE DE L'URBANISME R311-12
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-4 (M)
 
 	**Codifié par**:
 
@@ -24941,28 +25241,29 @@ journaux mis en vente dans le département et affichée dans les mairies des com
 
 ###### Article R*311-19
 
-Les modalités et les conditions de vente des terrains dont l'aménagement a été réalisé par les organismes prévus au 2.
-[*société d'économie mixte, établissement public*] de l'article R. 311-4 sont déterminées par un cahier des charges approuvé
-par le préfet après avis du directeur départemental de l'équipement et du directeur départemental des domaines.
+Les modalités et les conditions de cession, de location ou de concession d'usage des terrains, à l'intérieur des zones
+d'aménagement concerté sont déterminées par des cahiers des charges approuvés par le préfet après avis du directeur
+départemental de l'équipement et du directeur des services fiscaux.
 
-Ce cahier des charges fixe notamment [*contenu*] :
+le titre Ier de ces cahiers des charges [*contenu*] définit notamment les conditions dans lesquelles les cessions, locations
+ou concessions d'usage sont consenties, ainsi que le programme des constructions à réaliser sur le terrain.
 
-Les caractéristiques techniques destinées à assurer l'unité d'urbanisme et d'architecture dans la zone ;
+Lorsque l'acquisition des terrains inclus dans la zone a été déclarée d'utilité publique, ce titre Ier doit être conforme aux
+clauses types approuvées par décret en Conseil d'Etat, en application de l'article L. 21-3 du code de l'expropriation pour
+cause d'utilité. Il détermine alors les conditions dans lesquelles les cessions, locations ou concessions d'usage sont
+résolues en cas d'inexécution des charges.
 
-Les conditions dans lesquelles sont gérées les constructions et installations communes qui ne seraient pas comprises dans le
-domaine des collectivités publiques ;
+Le titre II définit les droits et obligations de l'aménageur et des constructeurs ou utilisateurs pendant la durée des
+travaux. Il fixe notamment les prescriptions techniques, urbanistiques et architecturales imposées aux constructeurs, pendant
+la durée de la réalisation de la zone.
 
-Les conditions de fixation des prix des terrains selon les caractéristiques des constructions et installations envisagées.
+Le titre III détermine notamment les conditions de gestion des installations communes et ouvrages collectifs.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°69-500 1969-05-30 ART. 11
-
 	**Cite**:
 
-	  - Code de l'urbanisme R311-4
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L21-3 (M)
 
 	**Codifié par**:
 
@@ -24971,83 +25272,58 @@ Les conditions de fixation des prix des terrains selon les caractéristiques des
 
 ###### Article R*311-20
 
-/M/L'approbation /M/DECR.0276 : la signature// du traité de concession ou de la convention prévus à l'article R. 311-4 ne
-peut intervenir avant que le préfet ait arrêté le bilan financier prévisionnel de l'opération et pris en considération le
-plan d'aménagement de la zone.
+Le traité de concession ou la convention prévu à l'article R. 311-4 (2. et 3.) ne peut être signé avant que le préfet ait
+approuvé le programme des équipements publics et, dans le cas où la décision de création n'a pas décidé de maintenir en
+vigueur les dispositions du plan d'occupation des sols, approuvé le plan d'aménagement de la zone.
+
+Lorsque la zone est réalisée dans les conditions définies à l'article R. 311-4 (2.), le traité de concession ou la convention
+de mandat est exécutoire suivant les modalités fixées à l'article R. 321-14.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°69-500 1969-05-30 ART. 12
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 18 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 26 (V)
 
 	**Cite**:
 
 	  - Code de l'urbanisme R311-4
 
-	**Codifié par**:
 
-	  - Décret n°73-1023 1973-11-08
+###### Article R311-10-3
 
+Le règlement fixe [*contenu plan d'aménagement*] notamment :
 
-##### Zones d'aménagement concerte créées à l'initiative d'une autorité administrative entre que l'Etat
+a) Les règles applicables aux terrains situés dans chacun des îlots de la zone conformément aux dispositions de l'article R.
+123-21 (1., 2. et 5.) ;
 
-###### Article R*311-10
+b) la surface de plancher développée hors oeuvre nette dont la construction est autorisée dans chaque îlot, en fonction, le
+cas échéant, de la nature et de l'affectation future des bâtiments.
 
-Il est établi dans chaque zone d'aménagement concerté un plan d'aménagement conforme aux orientations du schéma directeur. Ce
-plan comporte [*contenu*] :
-
-Un document faisant apparaître les servitudes d'utilité publique existantes et affectant l'utilisation du sol à l'intérieur
-de la zone considérée.
-
-Un règlement fixant notamment //DECR.0276 ART. 12 :
-
-pour l'ensemble de la zone ou par îlot//         a) L'affectation de la zone //DECR.0276 ART. 12 :
-
-ou des îlots// ;
-
-b) La nature et la destination des constructions et autres modes d'occupation du sol ;
-
-c) Les règles relatives aux conditions de l'occupation des sols : densité, implantation, hauteur et, le cas échéant, emprise
-au sol et aspect extérieur des constructions.
+Des adaptations mineures peuvent être apportées aux règles prévues au a ci-dessus, dans les conditions prévues par l'article
+L. 123-1 (alinéa 5).
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cité par**:
 
-	  - Décret n°69-500 1969-05-30 ART. 2
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-##### Zones d'aménagement créées à l'initiative d'une autorité administrative autre que l'Etat
-
-###### Article R*311-11
-
-//DECR.0276 : L'Etat// La collectivité locale ou l'établissement public qui a pris l'initiative de créer la zone
-d'aménagement concerté constitue un dossier comprenant :
-
-1. Le plan d'aménagement défini à l'article R. 311-10 ;
-
-2. Le programme, l'échéancier et les modalités de financement des équipements publics ;
-
-3. Le bilan financier prévisionnel de l'opération.
-
-Ce dossier, accompagné de la délibération de l'organe délibérant de la personne publique visée /M/à l'alinéa Ier du présent
-article, est adressé au préfet /M/DECR.0276 : au premier alinéa ci-dessus, sauf si cette personne est l'état, est adressé au
-préfet// .
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-500 1969-05-30 ART. 3
+	  - Code de l'urbanisme - art. R*311-10-2 (Ab)
 
 	**Cite**:
 
-	  - Code de l'urbanisme R311-10
+	  - Code de l'urbanisme R123-21
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme R311-10-2
 
 	**Codifié par**:
 
@@ -25356,6 +25632,91 @@ d'aménagement concerté.
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 26 (V)
+
+
+##### Suppression ou modification.
+
+###### Article R*311-32
+
+La suppression d'une zone d'aménagement concerté ou la modification de son acte de création est prononcée dans les conditions
+définies aux articles R. 311-2, R. 311-3-2 et R. 311-3-3.
+
+La décision qui supprime la zone, ou qui modifie l'acte de création fait l'objet des mesures de publicité et d'information
+édictées par l'article R. 311-6.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*311-6 (M)
+	  - Code de l'urbanisme R311-3-2
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*311-33
+
+La déclaration d'utilité publique d'une opération qui n'est pas compatible avec les prescriptions d'un plan d'aménagement de
+zone ne peut intervenir que si l'enquête publique concernant cette opération a porté à la fois sur l'utilité publique et sur
+la modification du plan et si, en outre, l'acte déclaratif d'utilité publique est pris dans des conditions conformes aux
+prescriptions concernant l'approbation des plans d'aménagement de zone. La déclaration d'utilité publique emporte alors
+modification du plan.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*311-34
+
+L'acte qui supprime la zone ou en réduit le périmètre incorpore au plan d'occupation des sols le plan d'aménagement de zone
+ainsi que les dispositions des cahiers des charges de cession de terrain comprenant des prescriptions techniques,
+urbanistiques et architecturales, lorsque ce cahier des charges a été approuvé par l'autorité administrative avant le 30 juin
+1977.
+
+L'avis émis par la commune ou l'établissement public groupant plusieurs communes et ayant compétence en matière d'urbanisme,
+en application des articles R. 311-3-2 et R. 311-32 peut porter aussi sur les modifications aux règles d'urbanisme
+applicables dans la zone d'aménagement concerté et destinées à être incorporées au plan d'occupation des sols. Dans ce cas,
+cet avis tient lieu de l'avis exigé à l'article R. 123-34.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme R311-32
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme R311-37
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+##### Achèvement.
+
+###### Article R*311-36
+
+L'achèvement de la zone est constaté :
+
+a) Par arrêté du préfet sur avis favorable ou sur proposition de la commune ou, s'il en existe un, de l'établissement public
+groupant plusieurs communes et ayant compétence en matière d'urbanisme ;
+
+b) Par décret en Conseil d'Etat, en cas d'avis défavorable ou faute d'avis de la commune ou, s'il en existe un, de
+l'établissement intéressé, transmis à l'autorité de tutelle dans le délai de deux mois à compter du [*point de départ*] jour
+où le maire, ou le président de l'établissement public, a reçu communication du projet de décision constatant l'achèvement de
+la zone.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 #### Rénovation urbaine
