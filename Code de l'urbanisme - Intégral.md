@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2003-08-02
+Version Consolidée au 2003-09-03
 
 # Partie législative
 
@@ -25060,6 +25060,42 @@ dans ce registre les rétrocessions réalisées en application de l'article L. 1
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R142-19 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R142-19
+
+Dans les cas mentionnés au neuvième alinéa de l'article L. 142-3, les attributions confiées au président du conseil général
+pour l'application des articles R. 142-8 à R. 142-18 sont exercées par le directeur du Conservatoire de l'espace littoral et
+des rivages lacustres.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°61-910 1961-08-05 ART. 14
+
+	**Créé par**:
+
+	  - Décret n°2003-839 du 29 août 2003 - art. 3 () JORF 3 septembre 2003
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L142-3 (V)
+	  - Code de l'urbanisme - art. R142-18 (V)
+	  - Code de l'urbanisme - art. R142-8 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R142-21 (Ab)
+	  - Code de l'urbanisme - art. R142-22 (Ab)
 
 	**Codifié par**:
 
