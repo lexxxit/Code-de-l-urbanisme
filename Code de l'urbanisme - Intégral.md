@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1988-01-06
+Version Consolidée au 1988-03-02
 
 # Partie législative
 
@@ -18857,6 +18857,49 @@ sont de nature à avoir des conséquences dommageables pour l'environnement.
 
 ##### Section 2 : Implantation et volume des constructions.
 
+###### Article R*111-20
+
+Des dérogations aux règles édictées dans la présente section peuvent être accordées par décision motivée de l'autorité
+compétente, après avis dans chaque cas particulier du maire de la commune, lorsque celui-ci n'est pas l'autorité compétente.
+
+D'autre part, le préfet peut, après avis du maire, apporter des aménagements aux règles prescrites par les articles R. 111-18
+et R. 111-19, sur les territoires où l'établissement de plans d'occupation des sols a été prescrit, mais où ces plans n'ont
+pas encore été rendus publics.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°61-1298 1961-11-30 ART. 20
+	  - Code de l'urbanisme - art. R110-20 (T)
+
+	**Cité par**:
+
+	  - Décret n°81-534 du 12 mai 1981 - art. 5 (Ab)
+	  - Décret n°2014-1300 du 23 octobre 2014 - art. (VD)
+	  - Code de l'urbanisme - art. R*612-2 (Ab)
+	  - Code de l'urbanisme - art. R611-5 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°86-984 1986-08-19 art. 7 II JORF 27 aout 1986
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R111-18 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R111-19 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R111-18 (M)
+	  - Code de l'urbanisme - art. R111-19 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ###### Article R111-16
 
 Les bâtiments situés sur un terrain appartenant au même propriétaire doivent être implantés de telle manière que les baies
@@ -19155,6 +19198,30 @@ classées comme telles par décrets pris en application du code de la route, et 
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R111-26-1
+
+La décision de prise en considération de la mise à l'étude d'un projet de travaux publics ou d'une opération d'aménagement
+fait l'objet d'une mention en caractères apparents dans deux journaux régionaux ou locaux diffusés dans tout le département.
+Lorsque la décision relève du préfet, elle est en outre publiée au Recueil des actes administratifs du département.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°62-1259 1962-10-24 ART. 1
+	  - Code de l'urbanisme - art. R421-55 (T)
+	  - Code de l'urbanisme R110-26 Code de l'urbanisme R421-55
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°86-984 1986-08-19 art. 7 IV JORF 27 aout 1986
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+
 ###### Article R111-26-2
 
 La décision de sursis à statuer prise dans les cas prévus à l'article L. 111-7 fait l'objet d'un arrêté motivé de l'autorité
@@ -19354,6 +19421,50 @@ alternatives.
 	  - TXT_SOURCE: Code de l'urbanisme - art. L121-9 (M)
 
 
+###### Article R*121-3
+
+Dans chaque département, la commission de conciliation est composée de :
+
+1° Six maires ou conseillers municipaux représentant au moins cinq communes différentes, élus dans les conditions fixées à
+l'article R. 121-5. A Paris, elle est composée de six conseillers de Paris titulaires élus en son sein par le conseil de
+Paris ;
+
+2° Six personnes qualifiées en matière d'aménagement, d'urbanisme ou d'environnement nommées par arrêté du préfet.
+
+En cas d'absence ou d'empêchement d'un membre titulaire, il est fait appel à un suppléant désigné suivant les mêmes modalités
+que celui-ci.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°83-810 1983-09-09 art. 2 JORF 11 septembre 1983 date d'entrée en vigueur le 1 octobre 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23 ART. 1 : Date d'entrée en vigueur
+	  - TXT_SOURCE: Code de l'urbanisme - art. L121-9 (M)
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R571-32 (M)
+	  - Code de l'environnement - art. R571-51 (M)
+	  - Code de l'urbanisme - art. R*121-4 (V)
+	  - Code de l'éducation - art. R211-5 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme R121-5
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ###### Article R*121-4
 
 Les membres de la commission de conciliation et leurs suppléants sont désignés pour une durée de six ans après chaque
@@ -19385,6 +19496,72 @@ Nul ne peut être membre de plus d'une commission de conciliation.
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*121-3 (Ab)
+
+
+###### Article R*121-5
+
+Sont éligibles à la commission de conciliation les maires et conseillers municipaux des communes du département.
+
+Sont électeurs les maires des communes du département.
+
+Les élections des représentants des communes et de leurs suppléants ont lieu à la représentation proportionnelle à la plus
+forte moyenne. Elles se déroulent à l'initiative et sous la présidence du préfet, dès le renouvellement général des conseils
+municipaux.
+
+Le préfet peut décider que les opérations de vote auront lieu par correspondance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°83-810 1983-09-09 art. 2 JORF 11 septembre 1983 date d'entrée en vigueur  1 octobre 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23 ART. 1 : Date d'entrée en vigueur
+	  - TXT_SOURCE: Code de l'urbanisme - art. L121-9 (M)
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+
+###### Article R*121-6
+
+Dès que ses membres ont été désignés, la commission de conciliation est convoquée par le préfet et procède à l'élection d'un
+président et d'un vice-président choisis parmi les membres représentant les communes du département.
+
+La liste des membres de la commission est publiée au Recueil des actes administratifs du département à la diligence du préfet
+et insérée dans deux journaux régionaux ou locaux diffusés dans le département.
+
+Le siège de la commission de conciliation est la préfecture du département.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°83-810 1983-09-09 art. 2 JORF 11 septembre 1983 date d'entrée en vigueur  1 octobre 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23 ART. 1 : Date d'entrée en vigueur
+	  - TXT_SOURCE: Code de l'urbanisme - art. L121-9 (M)
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*710-2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*121-7
@@ -19634,6 +19811,54 @@ d'aménagement.
 
 #####  Section 2 : Etablissement des schémas directeurs et des schémas de secteur par des établissements publics de coopération intercommunale.
 
+###### Article R*122-2
+
+Le projet de périmètre du schéma directeur ou du schéma de secteur est proposé par les conseils municipaux des communes
+intéressées, selon les règles de majorité fixées à l'alinéa 3 de l'article L. 122-1-1 :
+
+a) Au préfet du département lorsque le périmètre du schéma directeur ou du schéma de secteur est entièrement compris à
+l'intérieur d'un même département ;
+
+b) Aux préfets des départements intéressés lorsque la périmètre englobe un territoire s'étendant sur deux ou plusieurs
+départements.
+
+Le projet de périmètre est transmis pour avis par le ou les préfets aux conseils régionaux et aux conseils généraux des
+régions et départements intéressés lorsqu'il englobe des communes dont la population totale dépasse 100000 habitants
+[*nombre*] et aux conseils généraux dans les autres cas. Faute de réponse dans un délai de deux mois à compter du jour où
+ceux-ci ont été saisis, leur avis est réputé favorable.
+
+Le périmètre est fixé conformément à l'article L. 122-1-1 par arrêté du préfet dans le cas prévu au a) ci-dessus. Il est fixé
+par arrêté conjoint des commissaires de la République des départements intéressés dans le cas prévu au b) ; l'arrêté conjoint
+désigne le préfet qui sera chargé de suivre pour le compte de l'Etat la procédure d'élaboration du schéma directeur ou du
+schéma de secteur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°83-812 1983-09-09 art. 1, art. 3 JORF 11 septembre 1983 date d'entrée en vigueur 1 octobre 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23 art. 1 : Date d'entrée en vigueur
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R300-17 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme L122-1-1 al. 3
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ###### Article R*122-3
 
 L'établissement public de coopération intercommunale [*définition*] auquel, en vertu de l'article L. 122-1-1, les communes
@@ -19691,6 +19916,71 @@ du schéma. Il désigne les services ou organismes chargés des études nécessa
 	  - Décret n°83-812 1983-09-09 art. 1, art. 3 JORF 11 septembre 1983 date d'entrée en vigueur 1 octobre 1983
 
 
+###### Article R*122-5
+
+Dès que la délibération prescrivant l'établissement du schéma a été transmise au préfet, celui-ci définit, avec le président
+de l'établissement public de coopération intercommunale, les modalités d'association de l'Etat à son élaboration. Il lui fait
+connaître la liste des services de l'Etat qui seront, à ce titre, associés à cette élaboration.
+
+Le préfet ou son représentant accompagné, le cas échéant, des représentants des personnes publiques associées qu'il aura
+désignées, est entendu, à sa demande, par l'organe délibérant ou par le président de l'établissement public, qui en rend
+compte à l'organe délibérant.
+
+Sous l'autorité du préfet, le service de l'Etat dans le département chargé de l'urbanisme assure la collecte des informations
+et la conservation des documents nécessaires à l'association de l'Etat dans l'élaboration du schéma et dans sa gestion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23 art. 1 : Date d'entrée en vigueur
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+
+###### Article R*122-6
+
+Dans un délai de deux mois à compter de la transmission de la délibération prévue à l'article R. 122-4, le préfet communique
+au président de l'établissement public de coopération intercommunale toutes informations utiles à l'élaboration du schéma et
+porte à sa connaissance les projets d'intérêt général, au sens de l'article L. 122-1-1, et, éventuellement parmi les
+dispositions prévues aux articles R. 122-25 et R. 122-26, celles qui sont nécessaires à la mise en oeuvre de ces projets.
+
+Au cours de l'élaboration du schéma, le préfet communique au président de l'établissement public dans les meilleurs délais
+les projets et informations nouveaux.
+
+Les communications relatives aux projets d'intérêt général deviennent caduques à l'expiration d'un délai de trois ans si
+elles n'ont pas été confirmées dans la même forme pour une égale durée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 42 (Code de l'urbanisme L122-1-1)
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23 art. 1 : Date d'entrée en vigueur
+
+	**Créé par**:
+
+	  - Décret n°83-812 1983-09-09 art. 1, art. 3 JORF 11 septembre 1983 date d'entrée en vigueur  1 octobre 1983
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*141-3 (V)
+
+
 ###### Article R*122-7
 
 La délibération prévue à l'article R. 122-4 est notifiée aux présidents du conseil général et du conseil régional du ou des
@@ -19721,6 +20011,39 @@ modalités prévues à l'article R. 122-4 et, dans l'affirmative, désignent à 
 	**Cite**:
 
 	  - Code de l'urbanisme R122-4
+
+
+###### Article R*122-8
+
+Le président de l'établissement public de coopération intercommunale conduit la procédure d'élaboration du schéma directeur
+ou du schéma de secteur.
+
+Il fait afficher au siège de l'établissement public ainsi que dans les mairies des communes membres concernées la liste des
+services de l'Etat communiquée par le préfet, conformément à l'article R. 122-5, ainsi que celles des personnes publiques
+associées, conformément à l'article R. 122-7. Il publie dans les mêmes conditions l'indication des services ou organismes
+mentionnés au second alinéa de l'article R. 122-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°83-812 1983-09-09 art. 1, art. 3 JORF 11 septembre 1983 date d'entrée en vigueur  1 octobre 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23 art. 1 : Date d'entrée en vigueur
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code de l'urbanisme R122-5, R122-7, R122-4
 
 
 ###### Article R*122-9
@@ -19821,6 +20144,56 @@ b) Les modalités suivant lesquelles le public peut en prendre connaissance et f
 	  - Loi n°2014-366 du 24 mars 2014 - art. 129 (V)
 
 
+###### Article R*122-12
+
+Le schéma directeur ou le schéma de secteur arrêté, éventuellement modifié pour tenir compte des avis et observations
+exprimés en application des articles R. 122-10 et R. 122-11, des communications du préfet et des propositions de la
+commission de conciliation et, si la nature et l'importance des modifications le justifient, après consultation des services
+de l'Etat et des personnes publiques associés à son élaboration, est approuvé par l'organe délibérant de l'établissement
+public de coopération intercommunale. Cette délibération est transmise aux maires des communes membres concernées et au
+préfet conformément au deuxième alinéa de l'article L. 122-1-3.
+
+Le schéma directeur ou le schéma de secteur approuvé accompagné des avis exprimés en application de l'article R. 122-10, de
+la liste des organismes, associations ou personnes consultés ou entendus conformément à l'article R. 122-9 et éventuellement
+des communications du préfet et des propositions de la commission de conciliation est transmis pour information aux personnes
+publiques associées à son élaboration.
+
+La délibération de l'organe délibérant de l'établissement public approuvant le schéma directeur ou le schéma de secteur est
+exécutoire dans les conditions fixées à l'article L. 122-1-3.
+
+Le préfet ne peut notifier à l'établissement public des demandes de modification du schéma, en application du a) du second
+alinéa de l'article L. 122-1-3, que pour ceux des projets d'intérêt général qui ont été portés à la connaissance de
+l'établissement public conformément à l'article R. 122-10.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 42 (Code de l'urbanisme L122-1-1)
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23 art. 1 : Date d'entrée en vigueur
+
+	**Créé par**:
+
+	  - Décret n°83-812 1983-09-09 art. 1, art. 3 JORF 11 septembre 1983 date d'entrée en vigueur  1 octobre 1983
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L122-1-3 (M)
+	  - Code de l'urbanisme R122-10, R122-11, L122-1-3, R122-9
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*122-13 (V)
+
+
 ###### Article R*122-13
 
 Le schéma directeur ou le schéma de secteur approuvé est tenu à la disposition du public au siège de l'établissement public
@@ -19880,6 +20253,50 @@ du cas prévu au second alinéa de l'article L. 122-1-4.
 
 
 #####  Section 3 : Etablissement des schémas directeurs et des schémas de secteur décidé par l'Etat.
+
+###### Article R*122-15
+
+Lorsque, en application de l'article L. 122-1-4, l'élaboration ou la modification d'un schéma directeur ou d'un schéma de
+secteur est décidée par arrêté motivé du préfet, l'ensemble de la procédure est conduite [*autorité compétente*] :
+
+a) Sous l'autorité du préfet du département, par le service de l'Etat chargé de l'urbanisme dans le département, lorsque le
+territoire concerné est situé à l'intérieur d'un même département ;
+
+b) Sous l'autorité de l'un des préfets des départements concernés, par le service de l'Etat chargé de l'urbanisme dans le
+département, lorsque le territoire couvert par le schéma appartient à plusieurs départements situés ou non à l'intérieur
+d'une même région. Le préfet sous l'autorité duquel est conduite l'ensemble de la procédure est désigné par arrêté conjoint
+des préfets des départements concernés ;
+
+c) Sous l'autorité du préfet de région, lorsque le ministre chargé de l'urbanisme le décide, dans le cas où le schéma
+directeur ou le schéma de secteur intèressé des territoires sur lesquels doivent être réalisées des agglomérations nouvelles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 42 (Code de l'urbanisme L122-1-1)
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23 art. 1 : Date d'entrée en vigueur
+
+	**Créé par**:
+
+	  - Décret n°83-812 1983-09-09 art. 1, art. 4 JORF 11 septembre 1983 date d'entrée en vigueur  16 octobre 1983
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L122-1-4 (M)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*122-14 (VT)
+
 
 ###### Article R*122-16
 
@@ -20049,6 +20466,45 @@ délibération.
 	**Cite**:
 
 	  - Code de l'urbanisme R122-20
+
+
+###### Article R*122-22
+
+Le schéma directeur ou le schéma de secteur est approuvé par arrêté du ou des préfets du ou des départements concernés.
+
+Toutefois, il est approuvé :
+
+a) Par décret en Conseil d'Etat, pris sur le rapport du ministre chargé de l'urbanisme et du ministre chargé de l'intérieur,
+dans les cas énumérés à l'article L. 122-3 ;
+
+b) Par décret pris sur le rapport des mêmes ministres dans le cas prévu à l'article R. 122-15 c).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°83-812 1983-09-09 art. 1, art. 4 JORF 11 septembre 1983 date d'entrée en vigueur 16 octobre 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23 art. 1 : Date d'entrée en vigueur
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L122-3 (M)
+	  - Code de l'urbanisme L122-3, R122-15
 
 
 ###### Article R*122-23
@@ -20254,6 +20710,61 @@ d) Les grands travaux d'équipement.
 	  - Code de l'urbanisme R122-20
 
 
+###### Article R122-28
+
+En application de l'article L. 122-6, lorsqu'un schéma directeur est en cours de modification, il peut être fait application
+par anticipation, dans les conditions définies au présent article, des orientations en cours d'établissement afin de
+permettre la réalisation des programmes de l'Etat, des collectivités locales et des établissements et services publics ainsi
+que les décisions qui les concernent si ces programmes et décisions sont compatibles avec les orientations envisagées.
+
+Les orientations intéressant les programmes et décisions doivent :
+
+a) Ne pas être de nature à compromettre la réalisation d'un projet d'intérêt général ou l'application des lois d'aménagement
+et d'urbanisme ;
+
+b) Avoir fait l'objet d'études suffisamment avancées afin de permettre d'apprécier la compatibilité de ces programmes et
+décisions avec les principales perspectives d'aménagement de l'ensemble du schéma futur et avec la destination générale des
+sols des zones, espaces ou sites intéressés ;
+
+c) Avoir été définies dans les formes prescrites par l'article R. 122-25, soit par l'organe délibérant d'un établissement
+public de coopération intercommunale compétent en association avec les services de l'Etat et les personnes publiques visées
+au second alinéa de l'article R. 122-8, soit par le préfet selon les modalités fixées à l'article R. 122-16.
+
+L'application anticipée des orientations d'un schéma directeur intéressant les programmes et décisions mentionnés au premier
+alinéa du présent article est décidée par le préfet. Avant de se prononcer le préfet consulte, selon le cas, l'organe
+délibérant de l'établissement public de coopération intercommunale compétent ou les collectivités et personnes publiques
+visées à l'article L. 122-2. Cet avis est réputé donné faute de réponse dans un délai de deux mois à compter de la date à
+laquelle il est demandé.
+
+La décision du préfet fait l'objet d'un arrêté public au recueil des actes administratifs du département et d'une mention en
+caractères apparents dans deux journaux régionaux ou locaux diffusés dans le département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°86-669 1986-03-18 art. 1 JORF 20 mars 1986
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L122-2 (M)
+	  - Code de l'urbanisme - art. L122-6 (M)
+	  - Code de l'urbanisme - art. R122-28 (Ab)
+	  - Code de l'urbanisme L122-6, R122-25, R122-28, R122-16, L122-2
+
+
 #### Chapitre III : Plans d'occupation des sols
 
 #####  Section 1 : Champ d'application.
@@ -20342,6 +20853,42 @@ apparents dans deux journaux régionaux ou locaux diffusés dans le département
 	  - Décret n°83-813 1983-09-09 art. 2 JORF 11 septembre 1983 date d'entrée en vigueur 1 octobre 1983
 
 
+###### Article R*123-4
+
+Dès que la délibération prescrivant l'établissement du plan d'occupation des sols a été transmise au préfet, celui-ci définit
+avec le maire les modalités d'association de l'Etat à son élaboration. Le préfet fait à cette occasion connaître au maire les
+services de l'Etat qui seront, à ce titre, associés à cette élaboration.
+
+Le préfet ou son représentant, accompagné le cas échéant des représentants des personnes publiques associées qu'il aura
+désignées, est entendu à sa demande par le conseil municipal ou par le maire qui en rend compte au conseil municipal.
+
+Sous l'autorité du préfet, le service de l'Etat dans le département chargé de l'urbanisme assure la collecte des informations
+et la conservation des documents nécessaires à l'association de l'Etat dans l'élaboration du plan d'occupation des sols et
+dans sa mise en oeuvre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°83-813 1983-09-09 art. 2 JORF 11 septembre 1983 date d'entrée en vigueur 1 octobre 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23 art. 1 : Date d'entrée en vigueur
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R313-4 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ###### Article R*123-5
 
 Dans un délai de trois mois à compter de la transmission de la délibération prescrivant l'établissement du plan d'occupation
@@ -20422,6 +20969,51 @@ lorsqu'il aura été arrêté.
 	**Cite**:
 
 	  - Code de l'urbanisme R123-3
+
+
+###### Article R*123-7
+
+Le maire conduit la procédure d'élaboration du plan d'occupation des sols [*autorité compétente*]. Il publie par arrêté :
+
+a) La liste des services de l'Etat communiquée par le préfet conformément à l'alinéa 1er de l'article R. 123-4 ainsi que
+celle des personnes publiques associées conformément au 2è alinéa de l'article R. 123-6 ;
+
+b) La liste des communes limitrophes et des établissements publics de coopération intercommunale directement intéressés ayant
+demandé à être consultés sur le projet de plan d'occupation des sols ;
+
+c) L'indication des services ou organismes chargés de réaliser les études nécessaires à l'élaboration du plan d'occupation
+des sols.
+
+Cet arrêté fait l'objet pendant un mois d'un affichage en mairie ou au siège de l'établissement public de coopération
+intercommunale compétent et, dans ce cas, aux mairies des communes membres concernées. Mention en est insérée en caractères
+apparents dans deux journaux régionaux ou locaux diffusés dans le département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 50 (Code de l'urbanisme L123-3)
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23 art. 1 : Date d'entrée en vigueur
+
+	**Créé par**:
+
+	  - Décret n°83-813 1983-09-09 art. 2 JORF 11 septembre 1983 date d'entrée en vigueur  1 octobre 1983
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*123-21-1 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme R123-4, R123-6
 
 
 ###### Article R*123-8
@@ -20554,6 +21146,97 @@ les conditions prévues par l'article L. 123-3-2.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*123-11
+
+Le plan d'occupation des sols rendu public est soumis par le maire à enquête publique dans les conditions suivantes :
+
+Le maire saisit le président du tribunal administratif en vue de la désignation d'un commissaire enquêteur ou d'une
+commission d'enquête dans les conditions prévues aux articles 8, 9 et 10 du décret n° 85-453 du 23 avril 1985.
+
+Un arrêté du maire précise [*contenu*] :
+
+1. L'objet de l'enquête, la date à laquelle celle-ci sera ouverte, et sa durée, qui ne peut être inférieure à un mois ;
+
+2. Les nom et qualité du commissaire enquêteur ou des membres de la commission d'enquête ;
+
+3. Les jours et heures, et le ou les lieux où le public pourra prendre connaissance du dossier et formuler ses observations
+sur un registre ouvert à cet effet ; ces jours comprennent au minimum les jours habituels d'ouverture au public du lieu de
+dépôt du dossier et peuvent, en outre, comprendre plusieurs demi-journées prises parmi les samedis, dimanches et jours
+fériés ; le registre à feuillets non mobiles est coté et paraphé par le commissaire enquêteur, le président de la commission
+d'enquête ou un membre de celle-ci ;
+
+4. Sur proposition du commissaire enquêteur ou du président de la commission d'enquête, le ou les lieux, les jours et heures
+où le commissaire enquêteur ou un membre de la commission d'enquête se tiendra à la disposition du public pour recueillir ses
+observations.
+
+5. Le lieu où le public pourra adresser ses observations écrites au commissaire enquêteur ou au président de la commission
+d'enquête ;
+
+6. Le ou les lieux où, à l'issue de l'enquête, le public pourra consulter le rapport et les conclusions du commissaire
+enquêteur ou de la commission d'enquête.
+
+Un avis portant ces indications à la connaissance du public est, par les soins du maire, publié en caractères apparents dans
+deux journaux régionaux ou locaux diffusés dans le département, quinze jours au moins avant le début de l'enquête et rappelé
+de même dans les huit premiers jours de celle-ci. Il est publié par voie d'affiches et éventuellement par tous autres
+procédés dans la ou les communes membres concernées.
+
+L'enquête s'ouvre selon le cas :
+
+a) A la mairie ;
+
+b) Ou au siège de l'établissement public de coopération intercommunale compétent et aux mairies des communes concernées.
+
+Pendant le délai fixé au troisième alinéa, les observations sur le plan d'occupation des sols peuvent être consignées par les
+intéressés sur le ou les registres d'enquête, ou adressées par écrit, au lieu fixé pour l'ouverture de l'enquête, au
+commissaire enquêteur ou au président de la commission d'enquête, lequel les annexe au registre mentionné à l'alinéa précité.
+
+Le commissaire enquêteur ou le président de la commission d'enquête peut faire compléter le dossier, demander l'organisation
+d'une réunion publique ou décider de proroger la durée de l'enquête dans les conditions prévues aux articles 17 à 19 du
+décret n° 85-453 du 23 avril 1985.
+
+A l'expiration du délai d'enquête, le ou les registres d'enquête sont clos et signés par le commissaire enquêteur ou le
+président de la commission d'enquête. Le commissaire enquêteur ou la commission d'enquête examine les observations consignées
+ou annexées aux registres, établit un rapport qui relate le déroulement de l'enquête et rédige des conclusions motivées, en
+précisant si elles sont favorables ou défavorables. Le commissaire enqueteur ou le président de la commission d'enquête
+adresse le dossier accompagné du rapport et des conclusions au maire dans le délai d'un mois à compter de la date de clôture
+de l'enquête. Copie du rapport et des conclusions est communiquée par le maire au commissaire de la République et au
+président du tribunal administratif.
+
+Le rapport et les conclusions sont tenus à la disposition du public à la mairie ou, le cas échéant, au siège de
+l'établissement public compétent et aux mairies des communes concernées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 50 (Code de l'urbanisme L123-3)
+	  - TXT_SOURCE: Loi n°83-630 1983-07-12
+	  - SPEC_APPLI: Décret n°85-452 1985-04-23 art. 14 : application dans le temps
+
+	**Modifié par**:
+
+	  - Décret n°85-452 1985-04-23 art. 1 JORF 24 avril 1985 en vigueur le 1er octobre 1985
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Décret n°85-453 du 23 avril 1985 - art. 10 (M)
+	  - Décret n°85-453 du 23 avril 1985 - art. 17 (Ab)
+	  - Décret n°85-453 du 23 avril 1985 - art. 18 (Ab)
+	  - Décret n°85-453 du 23 avril 1985 - art. 19 (Ab)
+	  - Décret n°85-453 du 23 avril 1985 - art. 8 (Ab)
+	  - Décret n°85-453 du 23 avril 1985 - art. 9 (M)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*123-12 (V)
+	  - Code de l'urbanisme - art. R*123-9 (VT)
 
 
 ###### Article R*123-12
@@ -21249,6 +21932,54 @@ de plan d'occupation des sols si celui-ci n'a pas encore été rendu public ou d
 	  - Code de l'urbanisme - art. L111-8 (M)
 
 
+###### Article R*123-25
+
+Les dispositions des articles R. 123-26 à R. 123-29 sont applicables sur le territoire des communes, parties ou ensembles de
+communes, pour lequel l'établissement d'un plan d'occupation des sols a été prescrit, à dater du jour de cette prescription
+et jusqu'à ce que ledit plan ait été rendu public. En cas de revision du plan, ces dispositions sont applicables à compter de
+la date de publication de la délibération ou de l'arrêté du préfet prescrivant la révision du plan d'occupation des sols et
+jusq'à ce que le plan révisé soit approuvé.
+
+Le décret ou l'arrêté portant création d'un secteur sauvegardé a les effets prévus aux articles R. 123-26 à R. 123-29 à
+compter de la date de sa publication.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-1016 1970-10-28 ART. 23
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°83-813 1983-09-09 art. 4 JORF 11 septembre 1983 date d'entrée en vigueur 1 octobre 1983
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 du 23 septembre 1983 - art. 1 (V)
+
+	**Cité par**:
+
+	  - Décret n°2009-722 du 18 juin 2009 - art. 2 (V)
+	  - Décret n°2010-1697 du 29 décembre 2010 - art. 3 (V)
+	  - Décret n°2015-376 du 1er avril 2015 - art. 5 (V)
+	  - Code de l'environnement - art. R126-4 (VD)
+	  - Code de l'environnement - art. R581-79 (VD)
+	  - Code de l'urbanisme - art. R*111-50-1 (VT)
+	  - Code de l'urbanisme - art. R*123-24 (VT)
+	  - Code de l'urbanisme - art. R*127-1 (Ab)
+	  - Code de l'urbanisme - art. R*128-1 (Ab)
+	  - Code de l'urbanisme - art. R331-1 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme R123-26 à R123-29
+
+
 #####  Paragraphe 2 : Mesures d'exécution.
 
 ###### Article R*123-30
@@ -21390,6 +22121,44 @@ d'alignement applicables sur le même territoire.
 	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
 
 
+###### Article R*123-33
+
+L'approbation du plan d'occupation des sols dispense de l'enquête publique préalable aux classements et déclassements des
+voies et places publiques communales prévus audit plan, sous réserve que celui-ci précise la catégorie dans laquelle elles
+doivent entrer et que lesdits classements et déclassements figurent parmi les opérations soumises à l'enquête en application
+de l'article R. 123-11.
+
+Cette dispense n'est applicable aux voiries nationale et départementale que si l'acte d'approbation est accompagné selon le
+cas de l'avis conforme du préfet ou du président du conseil général relatif à cet objet particulier.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-1016 1970-10-28 art. 31
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°83-813 1983-09-09 art. 4 JORF 11 septembre 1983 date d'entrée en vigueur 1 octobre 1983
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 du 23 septembre 1983 - art. 1 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
+
+	**Cite**:
+
+	  - Code de l'urbanisme R123-11
+
+
 #####  Section 5 : Modification, révision et mise à jour du plan d'occupation des sols.
 
 ###### Article R*123-34
@@ -21433,38 +22202,69 @@ Le plan d'occupation des sols modifié est mis à la disposition du public dans 
 
 ###### Article R*123-35
 
-La révision de tout ou partie d'un plan d'occupation des sols par application du premier alinéa de l'article L. 123-4 a lieu
-dans les conditions définies aux articles R. 123-3 à R. 123-9.    Lorsque les avis ou accords mentionnés à l'article R. 123-9
-ont été recueillis ou sont réputés acquis, le projet de plan, éventuellement modifié par le conseil municipal pour tenir
-compte de ces avis et des propositions éventuelles de la commission de conciliation, et comportant en annexe les éléments
-visés au deuxième alinéa de l'article R. 123-10 est soumis à enquête publique par le maire dans les formes définies à
-l'article R. 123-11.    Ce projet de plan est ensuite éventuellement modifié dans les conditions définies au premier alinéa
-de l'article R. 123-12 puis approuvé conformément au deuxième alinéa de ce même article.    Le projet de plan peut être
-soumis à enquête publique pour une partie seulement du territoire qu'il concerne puis approuvé pour cette partie.    Le plan
-approuvé est tenu à la disposition du public à la mairie, ou, le cas échéant, au siège de l'établissement public de
+I. -  La révision de tout ou partie d'un plan d'occupation des sols par application du premier alinéa de l'article L. 123-4 a
+lieu dans les conditions définies aux articles R. 123-3 à R. 123-9.
+
+Lorsque les avis ou accords mentionnés à l'article R. 123-9 ont été recueillis ou sont réputés acquis, le projet de plan,
+éventuellement modifié par le conseil municipal pour tenir compte de ces avis et des propositions éventuelles de la
+commission de conciliation, et comportant en annexe les éléments visés au deuxième alinéa de l'article R. 123-10, est soumis
+à enquête publique par le maire dans les formes définies à l'article R. 123-11.
+
+Ce projet de plan est ensuite éventuellement modifié dans les conditions définies au premier alinéa de l'article R. 123-12
+puis approuvé conformément au deuxième alinéa de ce même article.
+
+Le projet de plan peut être soumis à enquête publique pour une partie seulement du territoire qu'il concerne puis approuvé
+pour cette partie.
+
+Le plan approuvé est tenu à la disposition du public à la mairie, ou, le cas échéant, au siège de l'établissement public de
 coopération intercommunale compétent et dans les mairies des communes membres concernées, ainsi, dans tous les cas, qu'à la
 préfecture.
 
 Les lieux où le plan d'occupation des sols approuvé peut être consulté font l'objet des mesures de publicité mentionnées au
 deuxième alinéa de l'article R. 123-14.
 
+II. -  Il peut être fait une application anticipée des dispositions du plan d'occupation des sols en cours de révision dans
+le respect des règles prévues aux a, b, c du quatrième alinéa de l'article L. 123-4, dès lors que ces dispositions :
+
+1°Ont fait l'objet d'études suffisamment avancées en ce qui concerne les perspectives d'évolution des territoires intéressés,
+l'affectation des sols ainsi que les règles qui leur sont applicables ;
+
+2°Ont été élaborées en association avec les services de l'Etat et les personnes publiques associées à la révision du plan
+d'occupation des sols ;
+
+3° Ont été mises en forme dans les documents prescrits à l'article R. 123-16 et adoptées par délibération du conseil
+municipal.
+
+Cette délibération, accompagnée de ces dispositions, est transmise par le maire au préfet et aux personnes publiques autres
+que l'Etat associées à la révision du plan d'occupation des sols.
+
+La délibération fait l'objet pendant un mois d'un affichage en mairie ou au siège de l'établissement public de coopération
+intercommunale compétent et dans les mairies des communes membres concernées. Les dispositions qu'elle a adoptées sont tenues
+à la disposition du public dans les conditions prévues au cinquième alinéa ci-dessus. Mention de la délibération et des lieux
+où le dossier peut être consulté est insérée dans deux journaux régionaux ou locaux diffusés dans le département.
+
+Le délai de six mois pendant lequel la délibération demeure en vigueur en application du dernier alinéa de l'article L. 123-4
+court à compter de la date à laquelle cette délibération est devenue exécutoire.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°70-1016 1970-10-28 ART. 33
+	  - Décret n°70-1016 1970-10-28 art. 33
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°86-283 1987-04-22 art. 1 I, II JORF 25 avril 1987
 
 	**Cite**:
 
-	  - Code de l'urbanisme R123-11
+	  - Code de l'urbanisme - art. L123-4 (M)
+	  - Code de l'urbanisme L123-4, R123-3 à R123-9, annexe, R123-10, R123-11, R123-12, R123-14, R123-16
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°86-984 1986-08-19 ART. 7 X JORF 27 AOUT 1986
 
 
 ###### Article R*123-35-2
@@ -21549,7 +22349,7 @@ l'urbanisme.
 
 Le plan d'occupation des sols est mis à jour dans les conditions définies au présent article.
 
-La mise à jour [*définition*] est le report au plan :
+La mise à jour est le report au plan :
 
 a) Des périmètres et des zones mentionnés à l'article R. 123-19 (1. et 2.) ;
 
@@ -21560,32 +22360,23 @@ le plan a été rendu public ou approuvé ;
 
 d) De la liste des lotissements devant être annexés au plan d'occupation des sols en application de l'article R. 123-24 (6°).
 
-Un arrêté du maire constate dans chaque cas qu'il a été procédé à la mise à jour du plan.
+Un arrêté du maire ou du président de l'établissement public de coopération intercommunale compétent constate dans chaque cas
+qu'il a été procédé à la mise à jour du plan.
 
 Dans les cas visés au c de l'alinéa précédent, si cette formalité n'a pas été effectuée dans le délai de trois mois suivant
-la notification par le commissaire de la République à la commune, le commissaire de la République y procède d'office par
-arrêté.
+la notification par le préfet à la commune, le préfet y procède d'office par arrêté.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°70-1016 1970-10-28 ART. 34
-
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°83-663 1983-07-22 ART. 100 (Code de l'urbanisme L123-4)
-
-	**Modifié par**:
-
-	  - Décret n°86-514 du 14 mars 1986 - art. 8 () JORF 16 mars 1986
-	  - Décret n°86-516 du 14 mars 1986 - art. 8 () JORF 16 mars 1986 en vigueur le   1er avril 1986
+	  - Décret n°70-1016 1970-10-28 art. 34
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L123-8 (M)
 	  - Code de l'urbanisme - art. L126-1 (M)
-	  - Code de l'urbanisme R123-19, L123-8, L126-1, R123-24
+	  - Code de l'urbanisme R123-19, L123-8, L126-1, R123-24 6°
 
 	**Cité par**:
 
@@ -21595,37 +22386,45 @@ arrêté.
 
 	  - Décret n°73-1023 1973-11-08
 
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°83-663 1983-07-22 art. 100
+
+	**Modifié par**:
+
+	  - Décret n°86-984 1986-08-19 art. 7 XIII JORF 27 AOUT 1986
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
 
 ###### Article R123-35-1
 
-Lorsqu'elle est prescrite en application de l'article L. 123-7-1 par le commissaire de la République, la modification ou la
-révision d'un plan d'occupation des sols approuvé a lieu suivant les modalités ci-après définies.
+Lorsqu'elle est prescrite en application des deux premiers alinéas de l'article L. 123-7-1 par le préfet, la modification ou
+la révision d'un plan d'occupation des sols approuvé a lieu suivant les modalités ci-après définies.
 
-Le commissaire de la République met en demeure, par arrêté, le maire de modifier ou de réviser le plan d'occupation des sols
-dans les conditions définies selon les cas aux articles R. 123-34 ou
-
-R. 123-35.
+Le préfet met en demeure, par arrêté, le maire de modifier ou de réviser le plan d'occupation des sols dans les conditions
+définies selon les cas aux articles R. 123-34 ou R. 123-35.
 
 Lorsque cette mise en demeure a pour objet de permettre la réalisation d'un nouveau projet d'intérêt général, elle est
 accompagnée de la communication prévue au deuxième alinéa de l'article R. 123-9.
 
-Si, dans un délai de six mois à compter de la notification de l'arrêté prévu au deuxième alinéa, la modification ou la
-révision n'a pas été approuvée, la modification ou la révision du plan d'occupation des sols peut, selon le cas, être prise à
-l'initiative du commissaire de la République ou prescrite par ce dernier. L'arrêté du commissaire de la République
-prescrivant la mise en révision du plan d'occupation des sols est publié au recueil des actes administratifs du département.
-Mention en est insérée en caractères apparents dans deux journaux régionaux ou locaux diffusés dans le département.
+La modification ou la révision du plan d'occupation des sols approuvé peut, selon le cas, être prononcée à l'initiative du
+préfet ou prescrite par ce dernier si, dans un délai d'un mois à compter de la notification de l'arrêté prévu au deuxième
+alinéa, la commune ne lui a pas fait connaître qu'elle entendait opérer la révision ou la modification du plan d'occupation
+des sols, ou si, dans un délai de six mois à compter de cette même notification, la modification ou la révision engagée par
+la commune n'a pas été approuvée. L'arrêté du préfet est publié au recueil des actes administratifs de la préfecture. Mention
+en est insérée en caractères apparents dans deux journaux régionaux ou locaux diffusés dans le département.
 
-Le projet de modification ou de révision élaboré par le commissaire de la République est soumis par ce dernier à une enquête
-publique dans les formes prévues à l'article R. 123-11, le commissaire de la République étant toutefois substitué au maire
-pour l'application de cet article.    Ce projet, accompagné des conclusions du commissaire enquêteur ou de la commission
-d'enquête ainsi que du rapport du service de l'Etat chargé de conduire l'instruction, est soumis ensuite par le commissaire
-de la République au conseil municipal qui doit se prononcer dans un délai de deux mois. La délibération du conseil municipal
-est réputée favorable si elle n'est pas intervenue dans ce délai.
+Le projet de modification ou de révision élaboré par le préfet est soumis par ce dernier à une enquête publique dans les
+formes prévues à l'article R. 123-11, le préfet étant toutefois substitué au maire pour l'application de cet article.
+
+Ce projet, accompagné des conclusions du commissaire enquêteur ou de la commission d'enquête ainsi que du rapport du service
+de l'Etat chargé de conduire l'instruction, est soumis ensuite par le préfet au conseil municipal qui doit se prononcer dans
+un délai de deux mois. La délibération du conseil municipal est réputée favorable si elle n'est pas intervenue dans ce délai.
 
 Lorsque l'avis mentionné à l'alinéa précédant a été recueilli ou est réputé acquis, la modification ou la révision du plan
-d'occupation des sols, tenant éventuellement compte des résultats de l'enquête et de cet avis est approuvée par arrêté du
-commissaire de la République [*autorité compétente*]. Cet arrêté fait l'objet des mesures de publicité et d'information du
-public fixées au quatrième alinéa du présent article et à l'article R. 123-14.
+d'occupation des sols, tenant éventuellement compte des résultats de l'enquête et de cet avis, est approuvée par arrêté du
+préfet. Cet arrêté fait l'objet des mesures de publicité et d'information du public fixées au quatrième alinéa du présent
+article et à l'article R. 123-14.
 
 **Liens relatifs à cet article**
 
@@ -21635,12 +22434,13 @@ public fixées au quatrième alinéa du présent article et à l'article R. 123-
 
 	**Liens**:
 
-	  - TXT_SOURCE: Loi n°83-663 1983-07-22 ART. 100 (Code de l'urbanisme L123-4) Loi 83-630 1983-07-12
-	  - SPEC_APPLI: Décret n°85-452 1985-04-23 art. 14 : application dans le temps
+	  - TXT_SOURCE: Loi n°83-630 1983-07-12
+	  - TXT_SOURCE: Loi n°83-663 1983-07-22 art. 100 (Code de l'urbanisme L123-4)
 
 	**Modifié par**:
 
-	  - Décret n°85-452 1985-04-23 art. 2 JORF 24 avril 1985 en vigueur le 1er octobre 1985
+	  - Décret n°87-885 du 30 octobre 1987 - art. 9 () JORF 31 octobre 1987
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 	**Cite**:
 
@@ -21650,6 +22450,37 @@ public fixées au quatrième alinéa du présent article et à l'article R. 123-
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R123-35-1-1 (Ab)
+
+
+###### Article R123-35-1-1
+
+Lorsqu'en application du troisième alinéa de l'article L. 123-7-1 le préfet rend publiques de nouvelles dispositions d'un
+plan d'occupation des sols pour permettre la réalisation d'un nouveau projet d'intérêt général, cet arrêté fait l'objet des
+mesures de publicité et d'information du public fixées au quatrième alinéa de l'article R. 123-35-1 et à l'article R. 123-14.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°87-885 du 30 octobre 1987 - art. 9 () JORF 31 octobre 1987
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L123-7-1 (M)
+	  - Code de l'urbanisme - art. R*123-35-1 (M)
+	  - Code de l'urbanisme L123-7-1, R123-35-1, R123-14
 
 
 #### Chapitre IV : Dispositions transitoires relatives aux projets d'aménagement et aux plans d'urbanisme.
@@ -21886,6 +22717,62 @@ consacrée aux servitudes d'utilité publique affectant l'utilisation du sol.
 
 ### Titre III : Espaces boisés
 
+####  Section 1 : Champ d'application de l'autorisation de coupe et d'abattage d'arbres.
+
+###### Article R*130-1
+
+Les coupes et abattages d'arbres sont soumis à autorisation préalable dans les bois, forêts et parcs situés sur le territoire
+des communes ou parties de communes où l'établissement d'un plan d'occupation des sols a été prescrit mais où ce plan n'a pas
+encore été rendu public ainsi que dans les espaces boisés classés.
+
+Toutefois, une telle autorisation n'est pas requise :
+
+1° Lorsque le propriétaire procède à l'enlèvement des arbres dangereux, des chablis et des bois morts ;
+
+2° Lorsque les bois et forêts sont soumis au régime forestier et administrés conformément aux dispositions du titre I du
+livre Ier de la première partie du code forestier ;
+
+3° Lorsque le propriétaire a fait agréer un plan simple de gestion dans les conditions prévues aux articles L. 222-1 à L.
+222-4 et à l'article L. 223-2 du code forestier ;
+
+4° Lorsque les coupes entrent dans le cadre d'une autorisation par catégories définies par arrêté du préfet pris après avis
+du centre régional de la propriété forestière en application de l'article L. 130-1 (5e alinéa).
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-229 1984-03-29 ART. 8 : modalités d'application
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*130-3 (M)
+	  - PILOTE_SUIVEUR: Code forestier - art. R412-8 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°84-229 du 29 mars 1984 - art. 1 () JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cité par**:
+
+	  - Code forestier (nouveau) - art. R141-26 (M)
+	  - Code de l'environnement - art. R300-2 (M)
+	  - Code de l'urbanisme - art. R*130-5 (Ab)
+	  - Code de l'urbanisme - art. R*710-1 (Ab)
+	  - Code de l'urbanisme - art. R130-14 (M)
+	  - Code de l'urbanisme - art. R130-3 (M)
+	  - Code de l'urbanisme - art. R142-3 (M)
+	  - Code forestier - art. R412-8 (M)
+
+	**Cite**:
+
+	  - Code forestier - art. L223-2 (M)
+	  - Code de l'urbanisme - art. L130-1 (M)
+	  - Code de l'urbanisme L222-1 à L222-4, L130-1
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ####  Section 2 : Utilisation du sol, défrichements, coupes et abattages d'arbres dans les espaces boisés classés
 
 #####  Paragraphe 1 : Présentation de la demande.
@@ -21941,6 +22828,114 @@ publicité*.
 	**Anciens textes**:
 
 	  - Code de l'urbanisme - art. R*130-3 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*130-3
+
+La demande d'autorisation préalable de déboisement pour l'application de l'article 421-6 ainsi que la demande d'autorisation
+de défrichement adressée au préfet en application du 4e alinéa de l'article L. 130-1 valent demande d'autorisation préalable
+de coupe et d'abattage d'arbres au sens du 5e alinéa de l'article L. 130-1 :
+
+- lorsque le maire ou le président de l'établissement public de coopération intercommunale est compétent pour statuer sur la
+demande d'autorisation préalable au sens du 5e alinéa de l'article L. 130-1, le préfet lui adresse, dans la semaine qui suit
+la saisine, copie de la demande d'autorisation mentionnée à l'alinéa ci-dessus en vue de son instruction ;
+
+- lorsque le préfet est compétent pour statuer sur la demande d'autorisation préalable au sens du 5e alinéa de l'article L.
+130-1, l'instruction est engagée simultanément au titre des deux législations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-229 1984-03-29 art. 8 : modalités d'application
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*130-2 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R130-1 (M)
+
+	**Modifié par**:
+
+	  - Décret n°84-229 du 29 mars 1984 - art. 2 () JORF 31 mars 1984 en vigueur le 1er avril 1984
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 4 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L130-1 (M)
+	  - Code de l'urbanisme 421-6, L130-1
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*130-1 (M)
+	  - Code de l'urbanisme - art. R*130-4 (M)
+	  - Code de l'urbanisme - art. R142-3 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R*130-2 (M)
+
+
+#####  Paragraphe 2 : Instruction de la demande.
+
+###### Article R*130-4
+
+La demande d'autorisation préalable de coupe et d'abattage d'arbres est instruite par l'autorité compétente pour statuer ou
+le cas échéant, par le service auquel elle a confié l'instruction des demandes.
+
+Dans le cas où la commune a délégué sa compétence à un établissement public de coopération intercommunale, le maire fait
+connaître son avis au président de cet établissement. Son avis est réputé favorable s'il n'est pas intervenu dans le mois de
+la réception de la demande. Il doit être dûment motivé, s'il est défavorable ou si, favorable, il est assorti d'une demande
+de prescriptions particulières.
+
+Lorsque le maire ou le président de l'établissement public de coopération intercommunale est compétent, la décision est prise
+après avis du préfet. Son avis est réputé donné à l'expiration d'un délai de deux mois à compter de sa saisine.
+
+Dans les cas prévus à l'article L. 421-2-2 b) l'absence d'avis conforme du préfet dans le délai de deux mois à compter de sa
+saisine vaut avis défavorable.
+
+Lorsque la décision est prise par le préfet, dans les cas prévus au quatrième alinéa de l'article L. 421-2-1, le maire ou le
+président de l'établissement public de coopération intercommunale, si la commune a délégué sa compétence à cet établissement,
+lui fait connaître son avis. Cet avis est réputé favorable s'il n'est pas intervenu dans le mois suivant la réception de la
+demande *délai*. Il doit être dûment motivé, s'il est défavorable ou si, favorable, il est assorti d'une demande de
+prescriptions particulières.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°86-984 1986-08-19 art. 7 XVI JORF 27 août 1986
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 4 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*130-1 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*130-2 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*130-3 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R*130-13 (Ab)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*130-13 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme L421-2-2 b, L421-2-1 al. 4
 
 	**Codifié par**:
 
@@ -22091,6 +23086,36 @@ l'établissement public de coopération intercommunale, au maire de la commune.
 
 ##### III : Dispositions particulières applicables dans les communes où un plan d'occupation des sols n'a pas été approuvé.
 
+###### Article R*130-11
+
+La décision [*autorisation*] est de la compétence du préfet [*autorité compétente*].
+
+Un exemplaire de cette décision est transmis au maire ou le cas échéant, au président de l'établissement public de
+coopération intercommunale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-229 1984-03-29 art. 8 : modalités d'application
+
+	**Créé par**:
+
+	  - Décret n°84-229 du 29 mars 1984 - art. 2 () JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R*130-20 (V)
+
+
 ###### Article R*130-12
 
 Les autorisations délivrées au titre des articles L. 412-1 et suivants du code forestier, relatifs aux forêts de protection,
@@ -22188,7 +23213,183 @@ sols a été prescrit mais où ce plan n'est pas encore rendu public.
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R*130-14
+
+Lorsqu'un propriétaire décide de procéder, dans un bois, forêt ou parc, situé sur le territoire d'une commune ou partie de
+commune où l'établissement d'un plan d'occupation des sols a été prescrit mais où ce plan n'a pas encore été rendu public, à
+un défrichement soumis à autorisation administrative en application de l'article L. 311-1 du code forestier, ou qu'il soumet
+à l'approbation du préfet un règlement d'exploitation ou une demande d'autorisation de coupe au titre de l'article L. 412-1
+du code forestier, la déclaration de défrichement, le projet de règlement d'exploitation ou la demande d'autorisation de
+coupe vaut aussi demande d'autorisation préalable de coupe au sens du cinquième alinéa de l'article L. 130-1 du code de
+l'urbanisme ainsi que demande d'autorisation préalable pour l'application de l'article L. 421-6 dudit code. L'instruction est
+engagée conjointement au titre des deux législations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-229 du 29 mars 1984 - art. 3 () JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+	  - Décret n°84-229 du 29 mars 1984 - art. 6 () JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+	  - Décret n°84-229 du 29 mars 1984 - art. 7 () JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code forestier - art. L311-1 (M)
+	  - Code forestier - art. L412-1 (M)
+	  - Code de l'urbanisme - art. L130-1 (M)
+	  - Code de l'urbanisme - art. L421-6 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R*130-23 (VT)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. R*130-5 (M)
+	  - Code de l'urbanisme - art. R130-5 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ####  Section 4 : Compensation entre terrains boisés et terrains à bâtir et autorisation de construire sur une partie d'un terrain classé.
+
+###### Article R*130-16
+
+L'autorisation prévue au deuxième alinéa de l'article L. 130-2 du code de l'urbanisme est demandée au préfet. La demande est
+accompagnée des pièces justifiant que son auteur à la qualité de propriétaire, d'un plan de situation du terrain classé, d'un
+plan parcellaire de la propriété dans laquelle ce terrain est compris et d'un état des plantations ainsi que de l'étude
+d'impact définie à l'article 2 du décret n° 77-1141 du 12 octobre 1977.
+
+La demande est instruite par le préfet qui consulte le directeur des services fiscaux et établit un rapport relatif notamment
+à la localisation et à l'étendue du terrain à déclasser ainsi qu'à la nature et à l'importance des constructions pouvant être
+autorisées et qui par ailleurs fait apparaître les conséquences d'un éventuel défrichement au regard des dispositions de
+l'article L. 311-3 du code forestier.
+
+Sauf s'il apparaît que la demande ne peut être accueillie, le préfet saisit du dossier le maire de chacune des communes
+intéressées en vue de la délibération du conseil municipal sur l'accord prévu au troisième alinéa de l'article L. 130-2. Si
+le conseil municipal ne s'est pas prononcé dans les quatre mois [*délai*] de cette saisine, l'accord est réputé refusé.
+
+Sauf, en cas de désaccord des communes intéressées, le préfet transmet le dossier avec son avis et ses propositions, au
+ministre chargé de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Décret n°77-1141 du 12 octobre 1977 - art. 2 (M)
+	  - Code forestier - art. L311-3 (M)
+	  - Code de l'urbanisme L130-2 al. 2 et 3
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-229 1984-03-29 art. 8 : Modalités d'application
+
+	**Créé par**:
+
+	  - Décret n°84-229 du 29 mars 1984 - art. 4 () JORF 31 mars 1984 en vigueur le 1er avril 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. R*130-7 (M)
+	  - Code de l'urbanisme - art. R130-7 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R130-24 (Ab)
+
+
+###### Article R*130-17
+
+Le décret prévu au troisième alinéa de l'article L. 130-2 du code de l'urbanisme désigne la personne publique bénéficiaire de
+la cession gratuite du terrain, approuve les dispositions proposées par celle-ci en vue de préserver le terrain qui lui est
+cédé, de l'aménager et de l'entretenir dans l'intérêt du public, délimite la partie du terrain classé sur laquelle porte
+l'autorisation de construire et prononce le déclassement de cette partie de terrain. Ce décret tient lieu, pour la partie
+déclassée, de l'autorisation de défrichement prévue à l'article L. 311-1 du code forestier.
+
+Sans préjudice des dispositions de la première partie du présent code, et notamment des titres II à VIII inclus du livre IV,
+le même décret fixe les possibilités de construction accordées en application de l'article L. 130-2.
+
+Le décret mentionné ci-dessus fait l'objet d'une mention au Journal officiel de la République française. Le préfet fait en
+outre insérer cette mention, aux frais du pétitionnaire, dans deux journaux régionaux ou locaux diffusés dans le département.
+
+L'autorisation ne produit ses effets qu'après le transfert de propriété qui doit intervenir au plus tard dans les deux ans
+[*délai*] qui suivent la publication dudit décret. Le plan d'occupation des sols est alors mis à jour conformément à
+l'article R. 123-36.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-229 du 29 mars 1984 - art. 4 () JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code forestier - art. L311-1 (M)
+	  - Code de l'urbanisme - art. L130-2 (M)
+	  - Code de l'urbanisme L130-2, R123-36
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*700-2 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. R130-8 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*130-18
+
+Au cas où la demande n'est pas accueillie, le préfet en informe le pétitionnaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°84-229 du 29 mars 1984 - art. 4 () JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+	  - Décret n°84-229 du 29 mars 1984 - art. 6 () JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R113-13 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. R130-9 (M)
+
 
 ###### Article R*130-19
 
@@ -22299,6 +23500,44 @@ R. 130-13 ci-dessus sera punie des peines prévues pour les contraventions de la
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R*130-23
+
+Le préfet peut, dans les trois ans qui suivent l'année au cours de laquelle des déboisements ou des travaux illicites ont été
+exécutés, ordonner le rétablissement des lieux en nature de bois. Faute par le propriétaire de faire la plantation ou le
+semis dans le délai prescrit par le préfet, il y est pourvu par l'administration aux frais du propriétaire. La contribution
+de celui-ci est recouvrée comme en matière de contributions directes.
+
+Cette même procédure est applicable au cas où des travaux dont l'exécution a été prescrite n'ont pas été exécutés, le délai
+de trois ans partant de la fin de l'année au cours de laquelle ils auraient dû l'être.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R113-2 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. R130-14 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°84-229 du 29 mars 1984 - art. 5 () JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+	  - Décret n°84-229 du 29 mars 1984 - art. 6 () JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+
 ###### Article R130-24
 
 Conformément à l'article 7 du décret n° 72-289 du 17 avril 1972, la commission spéciale chargée, au sein de la mission
@@ -22369,6 +23608,39 @@ un schéma directeur portant sur l'ensemble de la région d'Ile-de-France, des s
 	  - Code de l'urbanisme - art. R300-17 (V)
 
 
+###### Article R*141-2
+
+le schéma directeur de la région d'ile-de-france mentionné à l'article L. 141-1 est établi sous la responsabilité du préfet
+de la région d'Ile-de-France, avec la participation de représentants du conseil régional, du comité consultatif économique et
+social et des commissaires de la République des départements ; la procédure d'établissement de ce schéma est conduite par le
+chef du service de l'Etat dans la région, chargé de l'urbanisme, avec le concours des chefs des services de l'Etat.
+
+Il est approuvé par décret pris sur le rapport du ministre chargé de l'urbanisme et du ministre de l'intérieur, après avis du
+conseil de Paris, des conseils généraux et du conseil régional de la région d'Ile-de-France.
+
+Toutefois, il est approuvé par décret en Conseil d'Etat lorsqu'un ou plusieurs conseils généraux, représentant un quart au
+moins de la population totale du territoire concerné, ou le conseil régional font connaître leur avis défavorable.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L141-1 (M)
+
+	**Anciens textes**:
+
+	  - Décret n°69-551 1969-05-28 art. 22
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°86-984 1986-08-19 art. 2 III JORF 27 août 1986
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+
 #####  Section 3 : Plans d'occupation des sols des communes de Paris, Marseille, Lyon ou des communes issues d'une fusion comportant une ou plusieurs communes associées
 
 ###### Article R*141-5
@@ -22435,6 +23707,55 @@ des sols soumis à l'enquête publique ou tenu à la disposition du public.
 	  - Décret n°86-984 1986-08-19 art. 4 JORF 27 août 1986
 
 
+#### Chapitre I : Dispositions particulières à la région d'Ile-de-France, Paris, Marseille, Lyon et autres communes issues d'une fusion comportant une ou plusieurs communes associées
+
+#####  Section 2 : Schémas directeurs, schémas de secteur et P. O. S. en région Ile-de-France.
+
+###### Article R*141-3
+
+Pour l'élaboration des schémas directeurs et des schémas de secteur, le préfet communique au président de l'établissement
+public de coopération intercommunale compétent les éléments mentionnés à l'article R. 122-6 et, en outre, les éléments
+d'information transmis par le préfet de la région relatifs à la mise en œuvre des principes d'aménagement fixés au niveau
+régional tels qu'ils résultent notamment du schéma directeur de la région d'Ile-de-France.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme R122-6
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°86-984 1986-08-19 art. 3 JORF 27 août 1986) M(Décret 88-199 1988-02-29 art. 1 JORF 2 mars 1988
+
+
+###### Article R*141-4
+
+Pour l'élaboration des plans d'occupation des sols, en l'absence de schéma directeur ou de schéma de secteur approuvé, le
+préfet communique au maire ou au président de l'établissement public de coopération intercommunale compétent les éléments
+mentionnés à l'article R. 123-5 et, en outre, les éléments d'information transmis par le préfet de la région relatifs à la
+mise en oeuvre des principes d'aménagement fixés au niveau régional tels qu'ils résultent notamment du schéma directeur de la
+région d'Ile-de-France.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°86-984 1986-08-19 art. 3 JORF 27 août 1986) M(Décret 88-199 1988-02-29 art. 1 JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code de l'urbanisme R123-5
+
+
 #### Chapitre II : Espaces naturels sensibles des départements
 
 #####  Section 1 : Taxe départementale des espaces naturels sensibles
@@ -22470,6 +23791,107 @@ bilan des recettes et des emplois de cette taxe.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+#####  Section 2 : Mesures de protection
+
+###### Article R142-2
+
+Pour l'application des mesures de protection prévues à l'article L. 142-11, le préfet, sur proposition du conseil général,
+saisit pour avis le conseil municipal de la commune intéressée ou l'organe délibérant de l'établissement public de
+coopération intercommunale compétent, ainsi que la commission départementale des sites, perspectives et paysages d'un projet
+tendant à déterminer les bois, forêts et parcs à soumettre au régime des espaces boisés classés en application de l'alinéa
+1er de l'article L. 130-1 et des textes pris pour son application.
+
+Ce projet peut en outre, lorsqu'il concerne des espaces situés dans les zones de préemption créées dans les conditions
+prévues à l'article L. 142-3 :
+
+- édicter les mesures de protection des sites et paysages et prévoir les règles d'utilisation du sol, notamment les mesures
+limitant les ouvertures de chemins et les adductions d'eau, lorsque ces travaux sont réalisés par des particuliers et n'ont
+pas pour objet d'assurer la desserte des bâtiments existants ou d'améliorer des exploitations agricoles ;
+
+- interdire ou soumettre à des conditions particulières l'aménagement et l'ouverture des terrains destinés à accueillir de
+manière habituelle des tentes, des caravanes ou des habitations légères de loisirs.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
+
+	**Modifié par**:
+
+	  - Décret n°86-516 du 14 mars 1986 - art. 7 () JORF 16 mars 1986 en vigueur le 1er juin 1987
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cité par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 12 (V)
+	  - Code de l'urbanisme - art. L142-1 (M)
+	  - Code de l'urbanisme - art. R142-1 (M)
+	  - Code de l'urbanisme - art. R142-4-1 (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L130-1 (M)
+	  - Code de l'urbanisme - art. L142-11 (M)
+	  - Code de l'urbanisme - art. L142-3 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R142-3
+
+L'avis du conseil municipal ou de l'organe délibérant de l'établissement public de coopération intercommunale compétent doit
+être transmis au préfet dans les trois mois à compter du jour où le maire ou le président de l'établissement public a reçu la
+demande d'avis. Il est réputé favorable si aucune réponse n'a été donnée dans ce délai.
+
+Au vu des avis recueillis, le préfet fixe par arrêté les mesures de protection.
+
+Cet arrêté fait l'objet d'une publication au recueil des actes administratifs du département et d'une mention dans deux
+journaux régionaux ou locaux diffusés dans le département.
+
+Les effets juridiques attachés à l'arrêté du préfet ont pour point de départ l'exécution de l'ensemble des mesures de
+publicité mentionnées ci-dessus.
+
+En outre, un dossier comportant l'arrêté et un document graphique est tenu à la disposition du public dans les mairies des
+communes intéressées, à la préfecture, à l'hôtel du département et à la direction départementale de l'équipement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cité par**:
+
+	  - Décret n°81-534 du 12 mai 1981 - art. 5 (Ab)
+	  - Code de l'urbanisme - art. R142-1 (M)
+	  - Code de l'urbanisme - art. R142-4-1 (Ab)
+	  - Code de l'urbanisme - art. R611-5 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*130-1 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*130-2 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*130-3 (M)
+
+	**Modifié par**:
+
+	  - Décret n°86-516 du 14 mars 1986 - art. 7 () JORF 16 mars 1986 en vigueur le    1er juin 1987
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R113-16 (V)
+	  - Code de l'urbanisme - art. R113-17 (V)
 
 
 #####  Section 3 : Zones de préemption
@@ -23608,6 +25030,218 @@ mesures de protection et de réhabilitation à prévoir et l'estimation de leur 
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R145-3
+
+La demande et le dossier accompagnés des délibérations des organes délibérants de la commune ou des communes ou du groupement
+de communes pétitionnaires sont adressés par lettre recommandée avec demande d'avis de réception postal au préfet du
+département ou déposés contre décharge à la préfecture.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-52 1986-01-10 art. 1 JORF 14 janvier 1986
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R145-4 (VT)
+	  - Code de l'urbanisme - art. R145-5 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R145-4
+
+Si le dossier est incomplet, le préfet du département, dans les quinze jours de la réception de la demande, invite le
+demandeur, par lettre recommandée avec demande d'avis de réception postal, à fournir les pièces complémentaires dans les
+conditions prévues à l'article R. 145-3.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R145-3 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°86-52 1986-01-10 art. 1 JORF 14 janvier 1986
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+
+###### Article R145-5
+
+I - Lorsque le dossier est complet, le préfet du département notifie aux collectivités pétitionnaires, dans les quinze jours
+de la réception de la demande ou des pièces complémentaires, par lettre recommandée avec demande d'avis de réception postal,
+la date à laquelle la demande sera examinée par la commission spécialisée du comité de massif territorialement compétent.
+Dans le même délai, le préfet du département transmet la demande et le dossier à la commission spécialisée du comité de
+massif.
+
+II - Dans le délai de trois mois courant à compter de la notification prévue au I ci-dessus, le préfet de région désigné pour
+assurer la coordination dans le massif saisit pour avis la commission spécialisée du comité de massif ; toutefois, si la
+notification est faite moins de trois mois avant la date à laquelle une réunion de la commission spécialisée a été convoquée,
+le délai de trois mois court à compter de la date de cette réunion.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-52 1986-01-10 art. 1 JORF 14 janvier 1986
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R145-6 (M)
+	  - Code de l'urbanisme - art. R145-9 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R145-6
+
+Dès la notification prévue au I de l'article R. 145-5, le préfet du département prescrit par arrêté la mise à la disposition
+du public du dossier joint à la demande de création d'unité touristique nouvelle.
+
+Cet arrêté, qui est publié au recueil des actes administratifs du département, fixe :
+
+a) la date à compter de laquelle le dossier est tenu à la disposition du public et la durée pendant laquelle il peut être
+consulté, qui ne peut être inférieure à un mois ;
+
+b) les heures et lieux où le public peut prendre connaissance du dossier et formuler ses observations sur un ou plusieurs
+registres ouverts à cet effet.
+
+Mention de l'arrêté ainsi que la date à laquelle la commission spécialisée du comité de massif examinera la demande est
+insérée une semaine au moins avant le début de la consultation du public dans deux journaux diffusés dans le département et
+affichée dans les mairies des communes intéressées et, le cas échéant, au siège de l'établissement public compétent en
+matière d'urbanisme.
+
+Le préfet du département adresse au président et aux membres de la commission spécialisée du comité de massif quinze jours au
+moins avant la date fixée pour l'examen de la demande un compte rendu des observations recueillies.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°86-52 1986-01-10 art. 1 JORF 14 janvier 1986
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R145-5 (M)
+
+
+###### Article R145-7
+
+L'autorisation de créer une unité touristique nouvelle est accordée par arrêté du préfet de région désigné pour assurer la
+coordination dans le massif ; la décision est notifiée aux demandeurs dans un délai d'un mois à compter de l'avis donné par
+la commission spécialisée.
+
+En cas de rejet de la demande ou si l'autorisation est assortie de prescriptions, la décision est motivée.
+
+Le préfet du département procède à la publication de l'autorisation ou de la décision de rejet de la demande au recueil des
+actes administratifs du département ; il en fait, en outre, insérer mention dans deux journaux régionaux ou locaux diffusés
+dans le département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°86-52 1986-01-10 art. 1 JORF 14 janvier 1986
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R145-8 (M)
+
+
+###### Article R145-8
+
+Lorsque le territoire couvert par l'unité touristique nouvelle appartient à plusieurs massifs, la décision prévue à l'article
+R. 145-7 est prise par arrêté conjoint des préfets de région désignés pour assurer la coordination dans les massifs
+concernés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R145-7 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°86-52 1986-01-10 art. 1 JORF 14 janvier 1986
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+
+###### Article R145-9
+
+Lorsqu'une ou plusieurs communes envisagent de créer une unité touristique nouvelle, préalablement au dépôt de la demande
+prévue à l'article R. 145-1, les maires peuvent demander au préfet du département que les orientations générales de leur
+projet soient examinées par la commission spécialisée. Le préfet de région désigné pour assurer la coordination dans le
+massif saisit la commission spécialisée du comité de massif dans le délai prévu au II de l'article R. 145-5, qui court à
+compter de la réception de la demande.
+
+Dans le mois qui suit la réunion de la commission spécialisée, le préfet du département fait connaître aux maires intéressés,
+par lettre recommandée avec demande d'avis de réception postal, l'avis de la commission et celui du préfet de région désigné
+pour assurer la coordination dans le massif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°86-52 1986-01-10 art. 1 JORF 14 janvier 1986
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R145-1 (M)
+	  - Code de l'urbanisme - art. R145-5 (M)
+
+
 ###### Article R145-10
 
 Le renforcement des remontées mécaniques ou leur extension est considéré comme unité touristique nouvelle lorsque les
@@ -23733,6 +25367,55 @@ extérieure de la zone C se fera à l'intérieur d'une plage allant de la valeur
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R147-4
+
+Pour la mise en oeuvre des dispositions du second alinéa de l'article L. 147-4, relatives à la modulation de l'indice servant
+à la détermination de la limite extérieure de la zone C, le préfet de la région peut, sur proposition ou après consultation
+du conseil régional, établir, pour la région concernée ou pour certaines parties de cette région, des propositions visant à
+fixer pour la limite extérieure de ladite zone une valeur d'indice d'exposition totale au bruit des avions compatible avec
+les dispositions de l'article R. 147-3.
+
+Le préfet de la région communique les propositions aux préfets des départements concernés, qui les adressent aux maires des
+communes intéressées, le cas échéant aux présidents des établissements publics de coopération intercommunale compétents,
+ainsi qu'aux commissions consultatives de l'environnement.
+
+Les conseils municipaux, le cas échéant les organes délibérants des établissements publics de coopération intercommunale
+compétents et les commissions consultatives de l'environnement disposent d'un délai de deux mois pour émettre un avis. A
+défaut de réponse dans le délai imparti, cet avis est réputé favorable.
+
+Le préfet de la région saisit pour avis le conseil régional des propositions visées au premier alinéa et lui communique les
+résultats des précédentes consultations. Le conseil régional dispose d'un délai de trois mois pour formuler son avis. A
+défaut de réponse dans ce délai, son avis est réputé favorable.
+
+La valeur de l'indice psophique fixant pour la région concernée ou pour certaines parties de cette région la limite
+extérieure de la zone C est approuvée par décret.
+
+Mention de ce décret est publiée au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°87-340 1987-05-21 art. 1 JORF 22 mai 1987
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2002-626 du 26 avril 2002 - art. 1 () JORF 28 avril 2002 en vigueur le 1er novembre 2002
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L147-4 (V)
+	  - Code de l'urbanisme - art. R147-3 (M)
+
+
 #####  Section 2 : Etablissement des plans d'exposition au bruit des aérodromes
 
 ###### Article R147-5
@@ -23755,6 +25438,190 @@ servant à définir la limite extérieure de la zone C..
 
 	  - Arrêté du 13 juin 2008 - art. Annexe II (V)
 	  - Arrêté du 28 décembre 2012 - art. Annexe II (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R147-6
+
+La décision d'établir ou de réviser un plan d'exposition au bruit est prise par le préfet. Lorsque l'emprise d'un aérodrome
+ou les communes concernées ou susceptibles d'être concernées par le plan d'exposition au bruit d'un aérodrome sont situées
+sur le territoire de plusieurs départements, la décision est prise conjointement par les préfets de ces départements.
+
+Cette décision est prise avec l'accord exprès du ministre chargé de la défense en ce qui concerne les aérodromes affectés à
+titre exclusif ou principal à ce département ministériel.
+
+Elle est prise avec l'accord exprès du ministre chargé de l'aviation civile, en ce qui concerne les aérodromes classés dans
+la catégorie des investissements d'intérêt national lorsque le ministère de la défense n'en est pas l'affectataire principal,
+et pour les aérodromes situés en territoire étranger dont les nuisances de bruit affectent le territoire français.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°87-340 1987-05-21 art. 1 JORF 22 mai 1987
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cité par**:
+
+	  - Décret n°2012-1470 du 26 décembre 2012 - art. 3 (V)
+
+
+###### Article R147-7
+
+La décision d'établir ou de réviser le plan d'exposition au bruit est notifiée par le préfet, accompagnée d'un projet de plan
+d'exposition au bruit, aux maires des communes concernées et, s'il y a lieu, aux présidents des établissements publics de
+coopération intercommunale compétents. Mention en est insérée en caractères apparents dans deux journaux à diffusion
+régionale ou locale dans le département.
+
+Cette décision fait l'objet d'un affichage pendant un mois dans chacune des mairies concernées et, s'il y a lieu, aux sièges
+des établissements publics de coopération intercommunale compétents.
+
+A compter de la notification de cette décision les conseils municipaux des communes concernées et, le cas échéant, les
+organes délibérants des établissements publics de coopération intercommunale compétents disposent d'un délai de deux mois
+pour faire connaître leur avis sur le projet communiqué. A défaut de réponse dans le délai imparti, l'avis est réputé
+favorable.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R147-8 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°87-340 1987-05-21 art. 1 JORF 22 mai 1987
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+
+###### Article R147-8
+
+Dès réception des avis ou, à défaut, dès l'expiration du délai mentionné au dernier alinéa de l'article R. 147-7 le préfet
+saisit la commission consultative de l'environnement, lorsqu'elle existe, du projet de plan d'exposition au bruit accompagné
+des avis des conseils municipaux et, le cas échéant, des organes délibérants des établissements publics de coopération
+intercommunale compétents.
+
+La commission consultative de l'environnement dispose d'un délai de deux mois à compter de la date de la saisine pour
+formuler son avis sur le projet communiqué. A défaut de réponse dans ce délai, cet avis est réputé favorable. Lorsque
+plusieurs départements sont concernés le délai court à compter de la date de la dernière saisine de la commission.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R147-7 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°87-340 1987-05-21 art. 1 JORF 22 mai 1987
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+
+###### Article R147-9
+
+Le projet de plan d'exposition au bruit, éventuellement modifié pour tenir compte des avis exprimés, est soumis à enquête
+publique par le préfet dans les conditions prévues au deuxième alinéa de l'article L. 147-3 et selon les modalités fixées par
+le décret n° 87-339 du 21 mai 1987 définissant les modalités de l'enquête publique relative aux plans d'exposition au bruit
+des aérodromes.
+
+Lorsque le plan d'exposition au bruit concerne un aérodrome affecté à titre exclusif, principal ou secondaire au ministère
+chargé de la défense, la procédure d'enquête est conduite dans le respect des conditions posées par les articles 2 et 3 du
+décret n° 85-693 du 5 juillet 1985 pris pour l'application de la loi n° 83-630 du 12 juillet 1983 et déterminant les
+conditions de protection du secret de la défense nationale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Loi n°83-630 1983-07-12
+	  - Décret n°85-693 du 5 juillet 1985 - art. 2 (Ab)
+	  - Décret n°85-693 du 5 juillet 1985 - art. 3 (Ab)
+	  - Décret n°87-339 1987-05-21
+	  - Code de l'urbanisme - art. L147-3 (M)
+
+	**Créé par**:
+
+	  - Décret n°87-340 1987-05-21 art. 1 JORF 22 mai 1987
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+
+###### Article R147-10
+
+Le plan d'exposition au bruit, éventuellement modifié pour tenir compte des résultats de l'enquête publique, est approuvé par
+arrêté du préfet ou, si plusieurs départements sont intéressés, par arrêté conjoint des préfets desdits départements.
+
+L'arrêté approuvant le plan d'exposition au bruit est pris avec l'accord exprès du ministre chargé de la défense en ce qui
+concerne les aérodromes à affectation exclusive ou principale audit ministère et avec l'accord exprès du ministre chargé de
+l'aviation civile, en ce qui concerne les aérodromes classés dans la catégorie des investissements d'intérêt national lorsque
+le ministère de la défense n'en est pas l'affectataire principal, et pour les aérodromes situés en territoire étranger
+lorsque les nuisances de bruit affectent le territoire français.
+
+L'arrêté approuvant le plan d'exposition au bruit doit être motivé dans tous les cas, notamment au regard de l'activité
+prévue pour l'aérodrome et de son incidence sur l'environnement.
+
+Le préfet du département notifie aux maires des communes concernées et, le cas échéant, aux présidents des établissements
+publics de coopération intercommunale compétents copie de l'arrêté et du plan d'exposition au bruit approuvé.
+
+L'arrêté et le plan d'exposition au bruit sont tenus à la disposition du public à la mairie de chacune des communes
+concernées, le cas échéant aux sièges des établissements publics de coopération intercommunale compétents, ainsi qu'à la
+préfecture.
+
+Mention des lieux où les documents peuvent être consultés est insérée dans deux journaux à diffusion régionale ou locale dans
+le département et affichée dans les mairies et, le cas échéant, aux sièges des établissements publics de coopération
+intercommunale compétents.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°87-340 1987-05-21 art. 1 JORF 22 mai 1987
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R112-16 (V)
+	  - Code de l'urbanisme - art. R112-17 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R147-11 (VT)
 
 	**Codifié par**:
 
@@ -25420,6 +27287,52 @@ l'article L. 211-5, l'acte de rétrocession précise que l'ancien propriétaire 
 
 #### CHAPITRE II : Zones d'aménagement différé.
 
+###### Article R212-1
+
+Les zones d'aménagement différé sont créées : 
+
+a) En cas de proposition ou d'avis favorable des communes intéressées ou de l'établissement public de coopération
+intercommunale compétent en application de l'article L. 212-4, par arrêté du préfet ou, si la zone est située sur le
+territoire de plusieurs départements, par arrêté conjoint des préfets intéressés ; 
+
+b) Par décret en Conseil d'Etat en cas d'avis défavorable d'une commune intéressée ou de l'établissement public de
+coopération intercommunale compétent en application de l'article L. 212-4 ou faute d'avis émis par le conseil municipal ou
+l'organe délibérant de l'établissement public dans le délai de deux mois à compter du jour où le maire ou le président dudit
+établissement a reçu communication du projet.
+
+L'acte créant la zone désigne le titulaire du droit de préemption qui peut être changé par un acte pris dans les conditions
+prévues ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
+
+	**Modifié par**:
+
+	  - Décret n°86-516 du 14 mars 1986 - art. 3 () JORF 16 mars 1986 en vigueur le 1er juin 1987
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L212-4 (M)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*212-2 (M)
+	  - Code de l'urbanisme - art. R*720-1 (Ab)
+	  - Code de l'urbanisme - art. R213-3 (V)
+	  - Code général de la propriété des personnes publ... - art. R1112-1 (V)
+	  - Code général de la propriété des personnes publ... - art. R1112-2 (V)
+	  - Code général de la propriété des personnes publ... - art. R1112-3 (V)
+	  - Code général de la propriété des personnes publ... - art. R1112-4 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ###### Article R212-2
 
 La décision créant une zone d'aménagement différé fait l'objet [*publicité*] :
@@ -27078,27 +28991,77 @@ vocation, de par la loi ou ses statuts, à réaliser ou à faire réaliser l'obj
 	  - Code de l'urbanisme - art. R*318-18 (V)
 
 
-###### Article R*311-3-1
+###### Article R*311-3
 
-Un arrêté du préfet prescrit la mise à la disposition du public du dossier de création de la zone.
+La personne publique qui a pris l'initiative de la création de la zone constitue un dossier de création, approuvé, sauf
+lorsqu'il s'agit de l'Etat, par son organe délibérant, et l'adresse au maire de la commune concernée ainsi que, lorsque la
+création de la zone relève de sa compétence, au préfet du département. 
 
-Cet arrêté fixe [*contenu*] :
+Le dossier de création comprend [*contenu*] :
 
-a) La date à compter de laquelle a lieu cette mise à la disposition et sa durée qui ne peut être inférieure à deux mois ;
+a) Un rapport de présentation, qui indique notamment l'objet et la justification de l'opération, comporte une description de
+l'état du site et de son environnement et énonce les raisons pour lesquelles, au regard des dispositions d'urbanisme en
+vigueur et de l'insertion dans l'environnement naturel ou urbain, le projet faisant l'objet du dossier de création a été
+retenu ; Ce rapport comprend l'étude d'impact définie à l'article 2 du décret n. 77-1141 du 12 octobre 1977, sauf dans le cas
+prévu au dernier alinéa de l'article L. 311-4. 
 
-b) Les lieux et heures où le public pourra prendre connaissance du dossier et formuler ses observations sur un ou plusieurs
-registres ; la mairie de la commune concernée par l'opération ainsi que, s'il existe un établissement public groupant
-plusieurs communes et ayant compétence en matière d'urbanisme, le siège de cet établissement sont obligatoirement l'un de ces
-lieux.
+b) Un plan de situation ; 
 
-L'arrêté du préfet est publié au recueil des actes administratifs du département. Mention de cette publication est insérée
-dans deux au moins des journaux mis en vente dans le département et affichée dans les mairies des communes intéressées.
+c) Un plan de délimitation du ou des périmètres composant la zone  ;
+
+d) L'indication du mode de réalisation choisi ; 
+
+e) Le régime de la zone au regard de la taxe locale d'équipement ; 
+
+f) L'indication du document d'urbanisme applicable à l'intérieur de la zone.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Décret n°77-1141 du 12 octobre 1977 - art. 2 (M)
+	  - Code de l'urbanisme - art. L311-4 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 26 (V)
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 3 () JORF 16 mars 1986 en vigueur le 1er avril 1986) M(Décret 88-199 1988-02-29 art. 1 JORF 2 mars 1988
+
+
+###### Article R*311-3-1
+
+Lorsque la création de la zone relève de la compétence du préfet du département, le conseil municipal de la commune sur le
+territoire de laquelle il est envisagé de créer la zone, ou l'organe délibérant de l'établissement public de coopération
+intercommunale compétent, émet un avis sur le dossier de création.
+
+L'avis est réputé favorable s'il n'est pas émis dans le délai de trois mois à compter de la réception par le maire ou le
+président de l'établissement public de coopération intercommunale du dossier de création.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 26 (V)
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 4 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2001-261 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
 
 
 ###### Article R*311-4
@@ -27168,6 +29131,44 @@ ou des territoires compris dans la zone, ou s'il sera établi un plan d'aménage
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R*311-6
+
+La délibération du conseil municipal ou de l'organe délibérant de l'établissement public de coopération intercommunale
+compétent ou l'arrêté du préfet qui crée une zone d'aménagement concerté est affiché pendant un mois en mairie [*publicité*].
+Mention en est en outre insérée en caractères apparents dans deux journaux régionaux ou locaux diffusés dans le département.
+
+Lorsqu'il s'agit d'un arrêté du préfet, il est en outre publié au recueil des actes administratifs du département.
+
+Les effets juridiques attachés à la création de la zone ont pour point de départ l'exécution de l'ensemble des formalités de
+publicité prévues aux deux alinéas précédents. Pour l'application du présent alinéa, la date à prendre en compte pour
+l'affichage en mairie est celle du premier jour où il est effectué.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 26 (V)
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 8 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*311-10 (V)
+	  - Code de l'urbanisme - art. R*311-16 (Ab)
+	  - Code de l'urbanisme - art. R*311-2 (M)
+	  - Code de l'urbanisme - art. R*311-32 (Ab)
+	  - Code de l'urbanisme - art. R*311-38 (Ab)
+	  - Code de l'urbanisme - art. R*311-5 (M)
+	  - Code de l'urbanisme - art. R*311-8 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ###### Article R*311-7
 
 Sont considérées comme des zones d'aménagement concerté, pour l'application de l'article L. 123-7[*sursis à statuer*], les
@@ -27199,6 +29200,43 @@ Le préfet arrête la liste de ces zones.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*311-8
+
+Lorsqu'il est prévu que les dispositions du plan d'occupation des sols rendu public ou approuvé ne seront pas maintenues en
+vigueur à l'intérieur du ou des territoires compris dans la zone, la décision créant la zone devient caduque si, dans le
+délai de deux ans à compter de la publication dont elle fait l'objet, le plan d'aménagement de zone n'est pas approuvé. Le
+délai peut être prorogé pour une durée d'un an par délibération du conseil municipal ou de l'organe délibérant de
+l'établissement public de coopération intercommunale compétent ou, lorsque la création de la zone relève de sa compétence,
+par arrêté du préfet du département. Cette délibération ou cet arrêté est publié dans les conditions définies à l'article R.
+311-6.
+
+Le point de départ du délai de deux ans mentionné à l'alinéa précédent est de 30 juin 1977, lorsque l'acte créant la zone a
+été publié avant cette date.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 26 (V)
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 9 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*311-6 (M)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*318-18 (V)
 
 
 #####  Section 2 : Réalisation des zones d'aménagement concerté
@@ -27318,6 +29356,117 @@ est créée à l'initiative de la création de la zone, est adressé au maire et
 	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 26 (V)
 
 
+###### Article R*311-12
+
+Le maire ou le président de l'établissement public de coopération intercommunale compétent ou, lorsque la création de la zone
+relève de sa compétence, le préfet du département transmet pour avis le projet de plan d'aménagement de zone à la chambre de
+commerce et d'industrie et à la chambre des métiers intéressées. Ces établissements disposent d'un délai d'un mois pour faire
+connaître leurs observations éventuelles.
+
+Le projet de plan d'aménagement de zone est soumis à une enquête publique dans les formes prévues par les articles R. 11-14-1
+et suivants du code de l'expropriation pour cause d'utilité publique. Toutefois, lorsque la création de la zone relève de la
+compétence du conseil municipal ou de l'organe délibérant de l'établissement public de coopération intercommunale compétent,
+le maire ou le président de l'établissement public exerce les compétences attribuées au préfet par les articles R. 11-14-2 à
+R. 11-14-5 et R. 11-14-7 à R. 11-14-15 dudit code.
+
+L'enquête publique effectuée en application de l'alinéa précédent vaut enquête préalable à la déclaration d'utilité publique
+des opérations, acquisitions ou expropriations prévues au plan d'aménagement.
+
+Lorsque la création de la zone relève de sa compétence, le préfet adresse au maire ou au président de l'établissement public
+de coopération intercommunale compétent, en vue de recueillir l'avis du conseil municipal ou de l'organe délibérant de
+l'établissement public, le projet de plan d'aménagement de zone et les conclusions du commissaire enquêteur ou de la
+commission d'enquête. Cette formalité n'est pas obligatoire si la commune ou l'établissement public de regroupement a pris
+l'initiative de la création de la zone et si l'avis du commissaire enquêteur ou de la commission d'enquête est favorable.
+
+L'avis est réputé favorable s'il n'est pas intervenu dans un délai de deux mois. Si le conseil municipal ou l'organe
+délibérant entend faire connaître son opposition, celle-ci doit être expressément formulée.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 12 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*318-18 (V)
+
+	**Cite**:
+
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-1 (M)
+	  - Code de l'expropriation pour cause d'utilité publique R11-14-1, R11-14-2 à R11-14-5, R11-14-7 à R11-14-15
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*311-13
+
+Le conseil municipal ou l'organe délibérant de l'établissement public de coopération intercommunale compétent ou, lorsque la
+création de la zone relève de sa compétence, le préfet du département, après avis du conseil municipal ou de l'organe
+délibérant de l'établissement public de coopération intercommunale compétent, approuve le programme des équipements publics,
+après avoir :
+
+a) Vérifié que la personne publique qui a pris l'initiative de la création de la zone s'est engagée à assumer les
+conséquences financières de sa réalisation et a défini les conditions dans lesquelles l'opération d'aménagement doit se
+dénouer ;
+
+b) Vérifié que les différentes collectivités ou établissements publics qui participent à l'aménagement de la zone ont donné
+leur accord sur la maîtrise d'ouvrage des équipements qui leur incombe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 13 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 26 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2001-261 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
+
+
+###### Article R*311-15
+
+Lorsque le plan d'aménagement de zone est approuvé par arrêté du préfet du département, cet arrêté peut, le cas échéant, sous
+réserve des dispositions du décret en Conseil d'Etat pris en application de l'article L. 11-2 (alinéa 2) du code de
+l'expropriation pour cause d'utilité publique, porter déclaration d'utilité publique de certaines opérations, acquisitions ou
+expropriations prévues au plan.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 15 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 26 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2001-261 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
+
+	**Cite**:
+
+	  - Code de l'expropriation pour cause d'utilité publique L11-2 al. 2
+
+
 ###### Article R*311-16
 
 L'acte approuvant le plan d'aménagement de cette zone fait l'objet des mesures de publicité et d'information du public
@@ -27336,6 +29485,38 @@ mentionnées à l'article R. 311-6.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*311-16-1
+
+Le conseil municipal ou l'organe délibérant de l'établissement public de coopération intercommunale compétent peut décider
+que le projet de plan d'aménagement de zone sera soumis à enquête publique avant la création de la zone. La délibération du
+conseil municipal ou de l'organe délibérant de l'établissement public de coopération intercommunale est notifiée au préfet du
+département et à la personne publique qui a pris l'initiative de la création de la zone. Le plan d'aménagement de zone est
+alors élaboré comme il est dit aux articles R. 311-10-4 et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 16 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 26 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2001-261 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R311-10-4 (M)
 
 
 ###### Article R*311-17
@@ -27384,6 +29565,48 @@ majoré des frais exposés par la collectivité intéressée.
 	  - Décret n°2001-261 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
 
 
+###### Article R*311-19
+
+Pour tenir lieu de certificat d'urbanisme prévu à l'article L. 111-5, le cahier des charges de cession, de location ou de
+concession d'usage des terrains à l'intérieur des zones d'aménagement concerté doit :
+
+a) indiquer le nombre de mètres carrés de surface hors oeuvre nette dont la construction est autorisée sur la parcelle cédée,
+louée ou concédée et fixer les prescriptions techniques, urbanistiques et architecturales imposées aux constructeurs pendant
+la durée de la réalisation de la zone ;
+
+b) être approuvé, lorsque la création de la zone relève de la compétence du conseil municipal ou de l'organe délibérant de
+l'établissement public de coopération intercommunale compétent, par le maire ou le président de l'établissement public et,
+par le préfet du département dans les autres cas.
+
+Lorsque l'acquisition des terrains inclus dans la zone a été déclarée d'utilité publique, le cahier des charges doit
+comprendre les clauses type approuvées par décret en Conseil d'Etat, en application de l'article L. 21-3 du code de
+l'expropriation pour cause d'utilité publique. Il détermine alors les conditions dans lesquelles les cessions, locations ou
+concessions d'usage sont résolues en cas d'inexécution des charges.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 17 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 26 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2001-261 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
+
+	**Cite**:
+
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L21-3 (M)
+
+
 ###### Article R311-10-3
 
 Le règlement fixe[*contenu plan d'aménagement*] notamment :
@@ -27425,6 +29648,46 @@ L. 123-1 (alinéa 5).
 	  - Code de l'urbanisme R123-21
 
 
+###### Article R311-10-4
+
+La personne publique qui a pris l'initiative de la création de la zone définit, dès la publication de l'acte ayant créé la
+zone, avec le préfet du département et le maire ou le président de l'établissement public de coopération intercommunale
+compétent. Les modalités d'association de l'Etat et de la commune ou de l'établissement public de coopération intercommunale
+à l'élaboration du plan d'aménagement de zone, s'il en est établi un.
+
+La personne publique qui a pris l'initiative de la création de la zone adresse sans délai copie de l'acte de création au
+président du conseil régional et au président du conseil général qui, dans le délai d'un mois à compter de sa réception, lui
+font respectivement savoir si la région ou le département souhaite être associé à l'élaboration du projet de plan
+d'aménagement de zone.
+
+Dans un délai de trois mois à compter de la publication de l'acte ayant créé la zone, le commissaire de la République porte à
+la connaissance de la personne publique qui a pris l'initiative de la création de la zone les éléments mentionnés à l'article
+R. 123-5. Lorsque la zone n'a pas été créée à l'initiative de la commune ou de l'établissement public de coopération
+intercommunale compétent, il adresse copie de ces éléments au maire ou au président de l'établissement public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 10 () JORF 16 mars 1986 en vigueur le 1er avril 1986) M(Décret 88-199 1988-02-29 art. 1 JORF 2 mars 1988
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 26 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*311-16-1 (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme R123-5
+
+
 #####  Section 5 : Dispositions spéciales à certaines régions.
 
 ###### Article R311-30
@@ -27461,6 +29724,78 @@ celui-ci recueille préalablement l'avis du commissaire de la République de la 
 
 
 #####  Section 6 : Suppression ou modification d'une zone d'aménagement concerté
+
+###### Article R*311-32
+
+La suppression d'une zone d'aménagement concerté ou la modification de son acte de création est prononcée dans les formes
+prescrites pour sa création. La modification ou l'abrogation d'un plan d'aménagement de zone est prononcée dans les formes
+prescrites pour son approbation.
+
+Toutefois, lorsque la modification du plan d'aménagement de zone est décidée par le préfet du département en application du
+dernier alinéa de l'article L. 311-4, il est procédé suivant les modalités ci-après définies.
+
+Le préfet met en demeure, par arrêté, la personne publique qui a pris l'initiative de la création de la zone de procéder à la
+modification du plan d'aménagement de zone. Lorsque la modification a pour objet de permettre la réalisation d'un nouveau
+projet d'intérêt général, l'arrêté précise les dispositions qui sont nécessaires à la mise en oeuvre de ce projet. Copie de
+l'arrêté de mise en demeure est adressée au maire ou au président de l'établissement public de coopération intercommunale
+compétent.
+
+Si, dans un délai de six mois à compter de la notification de l'arrêté prévue à l'alinéa précédent, le plan d'aménagement de
+zone n'a pas été modifié, le préfet élabore le projet de modification, procède aux consultations et à l'enquête publique
+prévues à l'article R. 311-12, et l'approuve dans les conditions définies à l'article L. 311-4.
+
+La décision qui supprime la zone, ou qui modifie son acte de création, fait l'objet des mesures de publicité et d'information
+édictées par l'article R. 311-6.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 21 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 26 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2001-261 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L311-4 (M)
+	  - Code de l'urbanisme - art. R*311-6 (M)
+	  - Code de l'urbanisme L311-4, R311-12, R311-6
+
+
+###### Article R*311-33
+
+La déclaration d'utilité publique d'une opération qui n'est pas compatible avec les prescriptions d'un plan d'aménagement de
+zone ne peut intervenir que si l'autorité compétente a préalablement modifié ledit plan. Lorsque l'autorité compétente pour
+modifier le plan est le préfet du département, et si l'acte déclaratif d'utilité publique est pris dans des conditions
+conformes aux prescriptions concernant la modification des plans d'aménagement de zone, la déclaration d'utilité publique
+emporte modification du plan.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 22 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2001-261 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
+
 
 ###### Article R*311-34
 
@@ -27705,6 +30040,217 @@ ministre chargé de l'architecture.
 
 
 ##### Sous-section 2 : Instruction du plan de sauvegarde et de mise en valeur
+
+###### Article R*313-6
+
+Le projet de plan est communiqué par le préfet à ceux des services publics qui ne sont pas représentés au sein de la
+commission locale du secteur sauvegardé et qu'il y a lieu de consulter sur ce projet. Faute de réponse dans les deux mois du
+jour où ils ont été saisis, leur avis est réputé favorable. L'ensemble des avis ainsi recueillis est soumis à la commission
+locale du secteur sauvegardé. 
+
+Lorsqu'il en fait la demande au préfet, le président d'une association [*locale d'usagers*] agréée en application de
+l'article L. 121-8 reçoit communication du projet de plan de sauvegarde et de mise en valeur ou est invité à en prendre
+connaissance au lieu désigné à cet effet. Il peut faire connaître ses observations sur le projet au plus tard un mois après
+en avoir eu connaissance [*délai*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°63-691 1963-07-13 ART. 7
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°83-8 1983-01-07 ART. 75 I (Code de l'urbanisme L313-1)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-8 (M)
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23 ART. 1 : Date d'entrée en vigueur
+
+	**Modifié par**:
+
+	  - Décret n°83-813 1983-09-09 ART. 11 JORF 11 SEPTEMBRE 1983 date d'entrée en vigueur 1 OCTOBRE 1983
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L121-8 (M)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R313-16 (M)
+	  - Code de l'urbanisme - art. R313-18 (M)
+	  - Code de l'urbanisme - art. R313-4 (M)
+	  - Code de l'urbanisme - art. R313-9 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*313-8
+
+Le plan rendu public est soumis par le préfet à enquête dans les formes prévues par les chapitres I et II du décret n° 85-453
+du 23 avril 1985.
+
+Le préfet peut, par un même arrêté, rendre public le plan, prescrire l'enquête publique prévue au précédent alinéa et, s'il y
+a lieu, prescrire l'enquête en vue de la déclaration d'utilité publique des opérations ou acquisitions prévues à ce plan ou
+de certaines d'entre elles. Dans ce cas, le commissaire enquêteur ou la commission d'enquête est saisi de l'ensemble des
+procédures.
+
+Au vu des résultats de l'enquête et après avis de la commission locale du secteur sauvegardé, le plan est soumis par le
+préfet au conseil municipal ou à l'organe délibérant de l'établissement public compétent en la matière qui doit se prononcer
+dans les mêmes délais et conditions qu'à l'article R. 313-7 sur les documents qui lui sont présentés.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°63-691 1963-07-13 ART. 8 AL. 2
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-452 1985-04-23 ART. 14 : application dans le temps
+
+	**Modifié par**:
+
+	  - Décret n°85-452 1985-04-23 art. 5 JORF 24 avril 1985 en vigueur le 1er octobre 1985
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Décret n°85-453 1985-04-23 art. 1 à art. 21
+	  - Code de l'urbanisme - art. R313-7 (M)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*131-4 (Ab)
+	  - Code de l'urbanisme - art. R313-18 (M)
+	  - Code de l'urbanisme - art. R313-19 (M)
+	  - Code de l'urbanisme - art. R313-4 (M)
+	  - Code de l'urbanisme - art. R313-6 (M)
+	  - Code de l'urbanisme - art. R313-9 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*313-10
+
+L'acte rendant public ou approuvant un plan de sauvegarde et de mise en valeur fait l'objet :
+
+1. D'une mention au Journal officiel de la République française, s'il s'agit d'un décret ou d'un arrêté interministériel ;
+
+2. D'une publication au recueil des actes administratifs du département, s'il s'agit d'un arrêté du préfet. Dans ce cas, cet
+arrêté fait l'objet d'une mention en caractères apparents dans deux journaux régionaux ou locaux diffusés dans le
+département.
+
+Le plan rendu public accompagné des délibérations du conseil municipal de la commune intéressée ou de l'organe délibérant de
+l'établissement public compétent en la matière et le plan approuvé sont tenus à la disposition du public à la mairie de la
+commune ou des communes intéressées, ainsi qu'à la préfecture.
+
+Mention de ces mesures de publicité et des lieux où les documents peuvent être consultés est insérée en caractères apparents
+dans deux au moins des journaux régionaux ou locaux diffusés dans le département et affichée dans les mairies des communes
+intéressées.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R313-20 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°83-813 1983-09-09 art. 11 JORF 11 septembre 1983 date d'entrée en vigueur le 1 octobre 1983
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23 art. 1 : Date d'entrée en vigueur
+
+
+###### Article R313-5
+
+L'instruction du plan de sauvegarde et de mise en valeur est conduite sous l'autorité du préfet. Un architecte chargé de
+proposer un plan de sauvegarde et de mise en valeur est désigné, après agrément conjoint du ministre chargé de l'architecture
+et du ministre chargé de l'urbanisme, par le maire ou, s'il existe un établissement public groupant plusieurs communes et
+ayant compétence en matière d'urbanisme par le président de cet établissement ; à défaut de décision du maire ou du président
+de l'établissement public, l'architecte est désigné par le préfet.
+
+Le projet élaboré par l'architecte est soumis à une commission locale du secteur sauvegardé constituée par arrêté du préfet
+et qui comprend des représentants élus des communes ou établissements publics intéressés et des représentants de l'Etat. Sont
+associés aux travaux de cette commission l'architecte chargé du plan et des personnes qualifiées en matière de sauvegarde et
+de mise en valeur des quartiers anciens.
+
+Sont associés, avec voix consultative, aux travaux de la commission, les représentants désignés par la chambre de commerce et
+d'industrie et la chambre de métiers. Il en est de même du ou des représentants de la chambre d'agriculture, lorsque celle-ci
+en a fait la demande au préfet.
+
+La commission entend, sur leur demande, les représentants des associations agréées en application de l'article L. 121-8. Elle
+peut décider d'entendre toute personne qualifiée.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°83-813 1983-09-09 art. 11 JORF 11 septembre 1983 date d'entrée en vigueur 1 octobre 1983
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 du 23 septembre 1983 - art. 1 (V)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L313-2 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L121-8 (M)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R313-4 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R313-7
+
+Le projet de plan élaboré dans les conditions prévues aux articles précédents est soumis par le préfet pour délibération au
+conseil municipal de la commune intéressée ou, s'il existe un établissement public groupant plusieurs communes et ayant
+compétence en la matière, à l'organe délibérant de cet établissement. Cette délibération est réputée favorable si elle n'est
+pas intervenue dans un délai de trois mois. Si le conseil municipal ou l'organe délibérant entend faire connaître son
+opposition, celle-ci doit être expressément formulée dans la délibération.
+
+Après avoir été soumis à l'avis de la commission nationale des secteurs sauvegardés, le plan est rendu public par arrêté du
+préfet. Toutefois, le ministre chargé de l'urbanisme et le ministre chargé de l'architecture peuvent décider d'évoquer
+l'affaire pour prendre cette décision.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*313-14 (M)
+	  - Code de l'urbanisme - art. R*313-8 (M)
+	  - Code de l'urbanisme - art. R313-18 (M)
+	  - Code de l'urbanisme - art. R313-4 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°83-813 1983-09-09 art. 11 JORF 11 septembre 1983 date d'entrée en vigueur 1 octobre 1983
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+
 
 ###### Article R313-9
 
@@ -28265,6 +30811,35 @@ les dispositions du plan de sauvegarde et de mise en valeur en cours d'élaborat
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R313-20-2
+
+Le plan de sauvegarde et de mise en valeur est tenu à jour par arrêté du préfet dans les conditions définies aux deuxième et
+cinquième alinéas de l'article R. 123-36.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°83-813 1983-09-09 art. 11 JORF 11 septembre 1983 date d'entrée en vigueur le 1 octobre 1983
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 du 23 septembre 1983 - art. 1 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme R123-36 al. 2, al. 5
 
 
 ##### Sous-section 6 : Dispositions diverses
@@ -29154,6 +31729,45 @@ NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
+###### Article R*315-11
+
+Tous les exemplaires de la demande et du dossier d'autorisation de lotir sont adressés par pli recommandé avec demande d'avis
+de réception postal au maire de la commune dans laquelle le lotissement doit être réalisé, ou déposés contre décharge à la
+mairie [*conditions de forme*].
+
+Le maire affecte un numéro d'enregistrement à la demande dans des conditions prévues par arrêté du ministre chargé de
+l'urbanisme.
+
+Les exemplaires de la demande et du dossier d'autorisation de lotir font l'objet des transmissions prévues à l'article L.
+421-2-3. Toutefois, dans les cas où les autorisations et les actes relatifs au lotissement ne sont pas délivrés au nom de
+l'Etat, seul le formulaire de demande est transmis au préfet.
+
+Dans les quinze jours [*délai*] qui suivent le dépôt de la demande et pendant la durée d'instruction de celle-ci, le maire
+procède à l'affichage en mairie d'un avis de dépôt de demande d'autorisation de lotir comprenant les mentions suivantes : nom
+du demandeur, numéro et date d'enregistrement de la demande, adresse et superficie du terrain, surface hors oeuvre nette
+maximale à construire sur l'ensemble du lotissement, nombre de lots projetés, destination du lotissement[*publicité*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-228 1984-03-29 ART. 33, ART. 34 : modalités d'application
+	  - SPEC_APPLI: Décret n°84-228 du 29 mars 1984 - art. 33 (M)
+
+	**Modifié par**:
+
+	  - Décret n°84-228 1984-03-29 art. 1, art. 4 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L421-2-3 (M)
+
+
 #####  Section 3 : Instruction des demandes
 
 #####  Paragraphe 1 : Dispositions applicables dans l'ensemble des communes
@@ -29251,6 +31865,54 @@ NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R*315-17
+
+Dans le cas où le demandeur n'a pas reçu dans les quinze jours suivant le dépôt de sa demande la lettre prévue à l'article R.
+315-15 ou R. 315-16, il peut saisir l'autorité compétente par lettre recommandée avec demande d'avis de réception postal pour
+requérir l'instruction de sa demande et adresse copie de cette mise en demeure au préfet.
+
+Lorsque, dans les huit jours de la réception de l'avis de réception postal de cette mise en demeure, la lettre prévue à
+l'article R. 315-15 ou R. 315-16 n'a pas été notifiée, le délai d'instruction de la demande part de ladite date de réception
+telle qu'elle figure sur l'avis de réception postal de la mise en demeure *point de départ*.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-228 1984-03-29 ART. 33, ART. 34 : modalités d'application
+	  - SPEC_APPLI: Décret n°84-228 du 29 mars 1984 - art. 33 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R315-16 (M)
+
+	**Modifié par**:
+
+	  - Décret n°84-228 1984-03-29 art. 5, art. 7 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. A315-3 (M)
+	  - Code de l'urbanisme - art. R*315-19 (Ab)
+	  - Code de l'urbanisme - art. R*315-21 (Ab)
+	  - Code de l'urbanisme - art. R*315-42 (Ab)
+	  - Code de l'urbanisme - art. R315-16 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R315-15 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ###### Article R*315-18
 
 Le service chargé de l'instruction de la demande procède, au nom de l'autorité compétente pour statuer, à cette instruction
@@ -29312,6 +31974,51 @@ Il propose les prescriptions auxquelles peut être subordonnée la délivrance d
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*315-18-1
+
+Lorsque le projet est soumis à enquête publique dans les conditions prévues par les chapitres I et II du décret n° 85-453 du
+23 avril 1985, celle-ci est organisée par le préfet. Le service chargé de l'instruction lui transmet le dossier complet de la
+demande d'autorisation de lotir, après l'avoir complété d'un document mentionnant les textes qui régissent l'enquête en cause
+et indiquant la façon dont cette enquête s'insère dans la procédure d'autorisation.
+
+Lorsque l'opération a précédemment fait l'objet d'une enquête publique réalisée en application des articles R. 11-14-1 et
+suivants du code de l'expropriation pour cause d'utilité publique et que l'avis de mise à l'enquête indiquait que celle-ci
+portait également sur le lotissement projeté, il n'y a pas lieu à nouvelle enquête publique préalablement à l'autorisation de
+lotir, à condition que le projet n'ait pas subi de modification substantielle depuis la date la date d'achèvement de
+l'enquête.
+
+Lorsque l'opération a précédemment fait l'objet d'une enquête publique en application des articles R. 311-3-1 ou R. 312-1 du
+code forestier et que l'avis de mise à enquête indiquait que celle-ci portait également sur le lotissement projeté, il n'y a
+pas lieu à nouvelle enquête préalablement à l'autorisation de lotir à condition que le dossier de défrichement soumis à
+enquête ait été complété par les pièces prévues aux articles R. 315-5 et R. 315-6.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°85-452 1985-04-23 art. 11 JORF 24 avril 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-452 1985-04-23 art. 14 II : application dans le temps
+
+	**Cite**:
+
+	  - Décret n°85-453 1985-04-23
+	  - Code forestier - art. R*312-1 (M)
+	  - Code forestier - art. R311-3-1 (Ab)
+	  - Code de l'urbanisme R315-5, R315-6
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-1 (M)
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 
 ###### Article R*315-19
@@ -29398,6 +32105,57 @@ NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
+###### Article R*315-21
+
+Lorsque la décision n'a pas été notifiée à l'issue du délai réglementaire d'instruction de la demande, le demandeur peut
+saisir l'autorité compétente par lettre recommandée avec demande d'avis de réception postal, et adresse copie de cette lettre
+au préfet, s'il n'est pas l'autorité compétente.
+
+La décision de l'autorité compétente doit être notifiée dans le délai d'un mois à compter de la réception de la lettre visée
+à l'alinéa ci-dessus. Si la décision n'est pas notifiée dans ce délai, à l'exception des cas prévus à l'article R. 315-21-1,
+la lettre mentionnée à l'article R. 315-15 ou, le cas échéant, la lettre prévue à l'article R. 315-17, accompagnée de son
+avis de réception postal, vaut autorisation de lotir et le projet pourra être entrepris conformément au dossier déposé, sous
+réserve du retrait, dans le délai du recours contentieux, de l'autorisation tacite au cas où elle serait entachée
+d'illégalité.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-228 1984-03-29 art. 33, art. 34 : modalités d'application
+	  - SPEC_APPLI: Décret n°84-228 du 29 mars 1984 - art. 33 (M)
+
+	**Modifié par**:
+
+	  - Décret n°84-228 1984-03-29 art. 5, art. 10 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. A315-3 (Ab)
+	  - Code de l'urbanisme - art. R*315-15 (Ab)
+	  - Code de l'urbanisme - art. R*315-30 (Ab)
+	  - Code de l'urbanisme - art. R*315-42 (Ab)
+	  - Code de l'urbanisme - art. R315-14 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R315-17 (M)
+	  - Code de l'urbanisme R315-21-1, R315-15, R315-17
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ###### Article R*315-21-1
 
 Le demandeur ne peut bénéficier d'une autorisation de lotir tacite dans les cas ci-après énumérés[*autorisation expresse*] :
@@ -29434,6 +32192,95 @@ f) Lorsqu'il est fait application des dispositions de l'article R. 315-33.
 
 
 #####  Paragraphe 2 : Dispositions applicables dans les communes où un plan d'occupation des sols a été approuvé.
+
+###### Article R*315-22
+
+Le service chargé de l'instruction de la demande d'autorisation de lotir procède à cette instruction, au nom de la commune,
+dans les conditions prévues au paragraphe 1er et au présent paragraphe.
+
+Le maire adresse copie de la lettre visée à l'article R. 315-15 [*notification d'enregistrement*] ou, le cas échéant, à
+l'article R. 315-16[*demande de pièces complémentaires*] ou R. 315-20 [*rectification*] au préfet.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-228 1984-03-29 ART. 33, ART. 34 : modalités d'application
+	  - SPEC_APPLI: Décret n°84-228 du 29 mars 1984 - art. 33 (M)
+
+	**Créé par**:
+
+	  - Décret n°84-228 1984-03-29 art. 5, art. 12 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*315-13 (Ab)
+	  - Code de l'urbanisme - art. R*315-24 (Ab)
+	  - Code de l'urbanisme - art. R*315-40 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R315-15 (M)
+	  - Code de l'urbanisme - art. R315-16 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*315-23
+
+Lorsque le lotissement envisagé est situé comme il est dit au b de l'article L. 421-2-2, le service chargé de l'instruction
+de la demande sollicite l'avis conforme du préfet dans les conditions prévues à l'article R. 315-18.
+
+Lorsque le lotissement projeté est situé sur une partie du territoire communal non couverte par un plan d'occupation des
+sols, un plan d'aménagement de zone ou un plan de sauvegarde et de mise en valeur, opposable aux tiers, le préfet reçoit
+l'exemplaire de la demande et du dossier, accompagné des différents avis ou accords prévus par les lois et règlements en
+vigueur ; son avis porte alors sur l'application au projet des règles d'urbanisme et des servitudes d'utilité publique.
+
+Lorsque le lotissement projeté est situé dans un périmètre où des mesures de sauvegarde peuvent être appliquées, l'avis du
+préfet porte sur l'application éventuelle des mesures de sauvegarde prévues par l'article L. 111-7.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-228 1984-03-29 art. 33, art. 34 : modalités d'application
+	  - SPEC_APPLI: Décret n°84-228 du 29 mars 1984 - art. 33 (M)
+
+	**Créé par**:
+
+	  - Décret n°84-228 1984-03-29 art. 5, art. 12 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L111-7 (M)
+	  - Code de l'urbanisme - art. L421-2-2 (M)
+	  - Code de l'urbanisme - art. R315-18 (M)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*315-12 (Ab)
+	  - Code de l'urbanisme - art. R*315-22 (M)
+	  - Code de l'urbanisme - art. R*315-24 (Ab)
+	  - Code de l'urbanisme - art. R*315-40 (M)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. R*315-6 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
 
 ###### Article R*315-24
 
@@ -29519,6 +32366,94 @@ conditions prévues au paragraphe 1 et au présent paragraphe[*autorité compét
 	**Créé par**:
 
 	  - Décret n°84-228 1984-03-29 art. 5, art. 13 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+
+
+###### Article R*315-25-2
+
+Le maire fait connaître son avis au responsable du service de l'Etat dans le département chargé de l'urbanisme qui le
+communique, s'il est favorable, au préfet.
+
+Cet avis est réputé défavorable s'il n'est pas intervenu dans le mois de la réception de la demande. Il doit être dûment
+motivé s'il est défavorable ou si, favorable, il est assorti d'une demande de prescriptions particulières.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-228 1984-03-29 art. 33, art. 34 : modalités d'application
+	  - SPEC_APPLI: Décret n°84-228 du 29 mars 1984 - art. 33 (M)
+
+	**Créé par**:
+
+	  - Décret n°84-228 1984-03-29 art. 5, art. 13 JORF 31 mars 1984 en vigueur le 1er avril 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+
+###### Article R*315-25-3
+
+La lettre prévue à l'article R. 315-15[*notification d'enregistrement*] ou, le cas échéant, à l'article R. 315-16[*demande de
+pièces complémentaires*] ou R. 315-20 [*rectificative*] est signée par le préfet. Copie de cette lettre est adressée par même
+courrier au maire et, le cas échéant, au président de l'établissement public de coopération intercommunale compétent.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-228 1984-03-29 ART. 33, ART. 34 : modalités d'application
+	  - SPEC_APPLI: Décret n°84-228 du 29 mars 1984 - art. 33 (M)
+
+	**Créé par**:
+
+	  - Décret n°84-228 1984-03-29 art. 5, art. 13 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R315-15 (M)
+	  - Code de l'urbanisme - art. R315-16 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*315-25-4
+
+A l'issue de l'instruction[*clôture*], le responsable du service de l'Etat dans le département chargé de l'urbanisme formule
+un avis et le transmet au préfet, accompagné d'un projet de décision comportant, le cas échéant, les prescriptions
+nécessaires.
+
+Cet avis est, suivant le cas, un avis favorable sans prescription, un avis favorable avec prescriptions, un avis défavorable
+ou une proposition de sursis à statuer ; dans ces trois derniers cas, l'avis doit être motivé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-228 1984-03-29 ART. 33, ART. 34 : modalités d'application
+	  - SPEC_APPLI: Décret n°84-228 du 29 mars 1984 - art. 33 (M)
+
+	**Créé par**:
+
+	  - Décret n°84-228 1984-03-29 art. 5, art. 13 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 
 #####  Section 4 : Décision
@@ -29816,6 +32751,67 @@ transmise dans les conditions prévues à l'article L. 421-2-4.
 	  - Code de l'urbanisme - art. L421-2-4 (M)
 
 
+###### Article R*315-31-3
+
+Outre la transmission prévue à l'article L. 421-2-4, copie de la décision est transmise, lorsqu'elle est prise au nom de
+l'établissement public de coopération intercommunale, au maire de la commune.
+
+En cas d'autorisation tacite, le préfet reçoit, sans délai, le dossier et les pièces d'instruction en l'état.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°84-228 1984-03-29 art. 16 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-228 1984-03-29 art. 33, art. 34 : modalités d'application
+	  - SPEC_APPLI: Décret n°84-228 du 29 mars 1984 - art. 33 (M)
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L421-2-4 (M)
+
+
+#####  Paragraphe 3 : Dispositions particulières applicables dans les communes où un plan d'occupation des sols n'a pas été approuvé
+
+###### Article R*315-31-4
+
+Dans les communes où un plan d'occupation des sols n'a pas été approuvé, la décision est prise par le préfet au nom de
+l'Etat[*autorité compétente*].
+
+Copie de la décision est transmise au maire et, le cas échéant, au président de l'établissement public de coopération
+intercommunale et au responsable du service de l'Etat dans le département, chargé de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-228 1984-03-29 ART. 33, ART. 34 : modalités d'application
+	  - SPEC_APPLI: Décret n°84-228 du 29 mars 1984 - art. 33 (M)
+
+	**Créé par**:
+
+	  - Décret n°84-228 1984-03-29 art. 16 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+
 #####  Section 5 : Cession des lots et édification des constructions
 
 ###### Article R*315-32
@@ -29923,6 +32919,45 @@ NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 	  - Loi n°1917-03-13
 
 
+###### Article R*315-35
+
+La garantie*d'achèvement des travaux* prévue à l'article R. 315-33 peut être mise en oeuvre :
+
+Soit par les attributaires de lots ;
+
+Soit par l'association syndicale ;
+
+Soit par le maire de la commune, le président de l'établissement public de coopération intercommunale ou le préfet.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-228 1984-03-29 ART. 33, ART. 34 : Modalités d'application
+	  - SPEC_APPLI: Décret n°84-228 du 29 mars 1984 - art. 33 (M)
+
+	**Modifié par**:
+
+	  - Décret n°84-228 1984-03-29 art. 18 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme R315-33
+
+
 ###### Article R*315-36
 
 L'autorité compétente délivre sur papier libre, sans frais et en double exemplaire, à la requête du bénéficiaire de
@@ -30003,6 +33038,52 @@ NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 	**Cite**:
 
 	  - Code de l'urbanisme R315-33, R315-36, R315-38, R315-36-1
+
+
+###### Article R*315-37
+
+Lorsque, par suite de la défaillance du lotisseur, les travaux ne sont pas achevés soit dans le plus court des délais
+contractuels fixés dans l'un ou l'autre des actes de mutation ou de location, soit au plus tard dans le délai fixé comme il
+est dit au dernier alinéa de l'article R. 315-33, le garant doit verser les sommes nécessaires à l'achèvement desdits travaux
+soit à une personne qu'il aura choisie pour se substituer au lotisseur défaillant, soit à une personne désignée par le maire,
+le président de l'établissement public de coopération intercommunale, le préfet ou l'association syndicale selon que la
+garantie a été mise en oeuvre par le maire, le président de l'établissement public de coopération intercommunale, le préfet,
+l'association syndicale ou les attributaires de lots. A défaut, le versement est fait à une personne désignée par autorité de
+justice, notamment au syndic en cas de règlement judiciaire ou de liquidation de biens du lotisseur défaillant.
+
+Pour l'application de l'alinéa précédent, la défaillance du lotisseur résulte notamment de l'admission de celui-ci au
+règlement judiciaire ou à la liquidation de biens, ou du non achèvement des travaux à l'expiration du plus court des délais
+contractuels fixés par l'un des actes de mutation ou de location ou, au plus tard, à l'expiration du délai fixé par arrêté en
+vertu de l'article R. 315-33.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°84-228 1984-03-29 art. 20 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-228 1984-03-29 art. 33, art. 34 : Modalités d'application
+	  - SPEC_APPLI: Décret n°84-228 du 29 mars 1984 - art. 33 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme R315-33
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme R315-33
 
 
 ###### Article R*315-38
@@ -30099,9 +33180,13 @@ NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 
 ###### Article R*315-40
 
-Pour l'application du présent chapitre, le préfet peut déléguer sa signature au directeur départemental de l'équipement ou
-aux subordonnés de ce dernier, sauf dans les cas prévus aux articles R. 315-22 et R. 315-23, ou si le maire et le directeur
-départemental de l'équipement ont émis des avis en sens opposé.
+Pour l'application du présent chapitre, le préfet peut déléguer sa signature au responsable du service de l'Etat chargé de
+l'urbanisme dans le département ou aux subordonnés d celui-ci, sauf dans les cas ou le maire et le responsable du service de
+l'Etat chargé de l'urbanisme dans le département ont émis des avis en sens opposé.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 
 **Liens relatifs à cet article**
 
@@ -30111,12 +33196,48 @@ départemental de l'équipement ont émis des avis en sens opposé.
 
 	**Modifié par**:
 
-	  - Décret n°80-559 1980-06-26 ART. 1 JORF 20 JUILLET 1980
+	  - Décret n°84-228 1984-03-29 art. 22 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
-	**Cite**:
+	**Liens**:
 
-	  - Code de l'urbanisme - art. R315-22 (M)
-	  - Code de l'urbanisme - art. R315-23 (M)
+	  - SPEC_APPLI: Décret n°84-228 1984-03-29 art. 33, art. 34 : Modalités d'application
+	  - SPEC_APPLI: Décret n°84-228 du 29 mars 1984 - art. 33 (M)
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+
+###### Article R*315-41
+
+Le maire, le président de l'établissement public de coopération intercommunale, le préfet, lorsqu'ils sont compétents, ou
+leurs délégués peuvent avant l'achèvement des travaux, visiter les lieux à tout moment et procéder aux vérifications qu'ils
+jugent utiles.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°84-228 1984-03-29 art. 23 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-228 1984-03-29 art. 33, art. 34 : Modalités d'application
+	  - SPEC_APPLI: Décret n°84-228 du 29 mars 1984 - art. 33 (M)
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
 ###### Article R*315-43
@@ -30202,6 +33323,101 @@ cas.
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*442-25 (V)
+
+
+###### Article R*315-45
+
+La demande prévue au deuxième alinéa de l'article L. 315-2-1 est adressée par pli recommandé avec demande d'avis de réception
+postal a maire de la commune dans laquelle se situe le lotissement ou déposée contre décharge à la mairie.
+
+Lorsqu'il n'est pas l'autorité compétente pour statuer, le maire transmet, dès réception, cette demande au président de
+l'établissement public de coopération intercommunale compétent ou au préfet.
+
+L'autorité compétente vérifie si la demande reçue émane d'une majorité de colotis calculée comme il est dit à l'article L.
+315-3. Si cette condition est remplie et si, par suite, les règles propres au lotissement continuent de s'appliquer,
+information en est donnée aux autorités compétentes pour instruire et délivrer les autorisations et actes relatifs à
+l'utilisation du sol. Un avis est en outre affiché à la mairie pendant deux mois.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°86-514 du 14 mars 1986 - art. 8 () JORF 16 mars 1986
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L315-2-1 (M)
+	  - Code de l'urbanisme - art. L315-3 (M)
+
+
+###### Article R*315-46
+
+Lorsque l'autorité compétente décide d'ouvrir l'enquête publique prévue à l'article L. 315-2-1, celle-ci est organisée dans
+les formes prévues par les chapitres Ier et II du décret n° 85-453 du 23 avril 1985 :
+
+- par le préfet lorsque le lotissement concerné est situé dans le périmètre d'une opération d'intérêt national ;
+
+- par le maire ou le président de l'établissement public de coopération intercommunale dans les autres cas.
+
+Le dossier soumis à enquête comprend [*contenu*] :
+
+1. La mention des textes qui régissent l'enquête publique en cause et l'indication de la façon dont cette enquête s'insère
+dans la procédure administrative ;
+
+2. L'ensemble des documents approuvés du lotissement concerné ;
+
+3. Les règles d'urbanisme applicables au secteur couvert par le lotissement.
+
+L'enquête publique préalable à l'approbation, la modification ou la révision du plan d'occupation des sols ou du document
+d'urbanisme en tenant lieu, tiennent lieu de l'enquête publique prévue au deuxième alinéa de l'article L. 315-2-1, à
+condition que le dossier d'enquête ait été complété par les pièces mentionnées à l'alinéa précédent.
+
+Lorsque, à l'issue de l'enquête publique, il est décidé que les règles d'urbanisme propres aux lotissements cessent de
+s'appliquer, la décision prend la forme :
+
+- soit d'un arrêté du préfet, au nom de l'Etat, lorsque le lotissement concerné est situé à l'intérieur du périmètre d'une
+opération d'intérêt national ;
+
+- soit d'un arrêté du maire, au nom de la commune, ou du président de l'établissement public de coopération intercommunale,
+au nom de cet établissement, dans les autres cas.
+
+Copie de cette décision est adressée aux autorités compétentes pour instruire et délivrer les autorisations et actes relatifs
+à l'utilisation du sol. Elle est en outre affichée à la mairie pendant deux mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Décret n°85-453 1985-04-23
+	  - Code de l'urbanisme - art. L315-2-1 (M)
+
+	**Créé par**:
+
+	  - Décret n°86-514 du 14 mars 1986 - art. 8 () JORF 16 mars 1986
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 
 ###### Article R*315-47
@@ -30487,6 +33703,82 @@ d'un certificat d'urbanisme portant sur chacun des terrains devant provenir de l
 
 ##### Section 10 : Divisions soumises à déclaration préalable
 
+###### Article R315-55
+
+Lorsque la décision de délimiter, en application de l'article L. 111-5-2, une ou plusieurs zones à l'intérieur desquelles les
+divisions foncières seront subordonnées à déclaration préalable relève de sa compétence, le préfet adresse au maire, en vue
+de recueillir l'avis du conseil municipal, un plan du ou des périmètres envisagés en lui indiquant les raisons pour
+lesquelles une protection particulière des espaces naturels concernés lui paraît nécessaire.
+
+L'avis est réputé donné s'il n'est pas émis dans le délai de deux mois à compter de la réception par le maire dudit
+dossier*point de départ*.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L111-5-2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°86-516 du 14 mars 1986 - art. 9 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+
+###### Article R315-56
+
+La délibération du conseil municipal ou l'arrêté du préfet décidant de délimiter une ou plusieurs zones à l'intérieur
+desquelles les divisions foncières sont subordonnées à déclaration préalable est affiché en mairie pendant un mois et tenu à
+la disposition du public à la mairie*publicité*. Mention en est publiée dans deux journaux régionaux ou locaux diffusés dans
+le département. Lorsqu'il s'agit d'un arrêt du préfet, celui-ci est en outre publié au recueil des actes administratifs du
+département.
+
+La délibération du conseil municipal ou l'arrêté du préfet prend effet à compter de l'accomplissement de l'ensemble des
+formalités de publicité définies à l'alinéa précédent *point de départ*. Pour l'application du présent alinéa, la date à
+prendre en considération pour l'affichage en mairie est celle du premier jour où il est effectué.
+
+Copie en est adressée sans délai, à l'initiative de son auteur, au Conseil supérieur du notariat, à la chambre départementale
+des notaires, aux barreaux constitués près les tribunaux de grande instance dans le ressort desquels sont situées la ou les
+zones concernées et au greffe des mêmes tribunaux.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°86-516 du 14 mars 1986 - art. 9 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+
 ###### Article R315-57
 
 Est soumise à la déclaration préalable prévue à l'article L. 111-5-2 toute division volontaire, en propriété ou en
@@ -30550,6 +33842,66 @@ NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 	**Créé par**:
 
 	  - Décret n°86-516 du 14 mars 1986 - art. 9 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+
+###### Article R315-59
+
+La déclaration est adressée par pli recommandé avec demande d'avis de réception ou déposée contre décharge à la mairie de la
+commune où se trouve situé le bien.
+
+Lorsque la décision relève de la compétence du préfet, le maire lui transmet la déclaration dès sa réception. Si le maire
+entend émettre un avis défavorable à la division foncière projetée, il doit l'adresser au préfet dans le délai d'un mois à
+compter de la réception en mairie de la déclaration *point de départ*, et cet avis doit être motivé.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°86-516 du 14 mars 1986 - art. 9 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+
+###### Article R315-60
+
+La décision d'opposition à la division projetée est notifiée au déclarant par lettre recommandée avec demande d'avis de
+réception. Lorsque la décision est prise par le préfet, celui-ci en adresse copie au maire.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°86-516 du 14 mars 1986 - art. 9 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 	**Abrogé par**:
 
@@ -33471,49 +36823,59 @@ publiés au fichier immobilier dans les conditions et délais prévus par les d�
 
 ###### Article R*322-3
 
-Au projet d'acte d'association soumis à l'enquête, prévu à l'article 6 du décret du 18 décembre 1927, doivent être joints :
+L'engagement souscrit par une personne publique ou privée d'acquérir les immeubles ou, en cas d'immeubles en copropriété, les
+fractions d'immeubles qui auront fait l'objet d'un délaissement doit être joint au projet d'acte d'association soumis à
+l'enquête prévue à l'article 6 du décret du 18 décembre 1927, à moins que celui-ci ne prévoie que l'association y sera
+engagée.
 
-1. L'engagement souscrit par une personne publique ou privée d'acquérir les immeubles ou, en cas d'immeubles en copropriété,
-les fractions de ces immeubles qui auront fait l'objet d'un délaissement à moins que le projet d'acte d'association ne
-prévoie que l'association y sera engagée ;
+Le préfet du département saisi d'un projet d'acte d'association l'adresse sans délai au maire afin de recueillir l'accord ou
+l'avis, selon les cas prévus à l'article L. 322-3-2, du conseil municipal. Cette formalité n'est pas obligatoire si la
+délibération du conseil municipal est jointe au projet. Lorsque l'accord du conseil municipal n'est pas exigé, son avis est
+réputé favorable s'il n'est pas émis dans le délai de deux mois à compter de la réception par le maire du projet d'acte
+d'association.
 
-2. L'avis du maire sur le principe de l'opération envisagée.
+Dans le délai de trois mois à compter de la date de l'accord ou de l'avis du conseil municipal, le préfet du département
+prend un arrêté prescrivant l'enquête administrative et convoquant les propriétaires en assemblée générale ou, à défaut,
+notifie au demandeur les raisons pour lesquelles il estime que le dossier n'est pas susceptible d'être instruit.
 
-Lorsqu'un des immeubles compris dans le périmètre envisagé est régi par la loi n. 65-557 du 10 juillet 1965 fixant le statut
+Lorsqu'un des immeubles compris dans le périmètre envisagé est régi par la loi n° 65-557 du 10 juillet 1965 fixant le statut
 de la copropriété des immeubles bâtis, la notification prévue à l'article 7 du décret du 18 décembre 1927 est faite à chacun
 des copropriétaires.
 
 Lorsqu'un immeuble compris dans le périmètre envisagé est en indivision, l'ensemble des indivisaires est compté pour un seul
 propriétaire.
 
-L'autorisation préfectorale prévue à l'article 11 du décret du 18 décembre 1927 est subordonnée aux conditions de majorité
-prescrites à l'article L. 322-3.
+L'autorisation prévue à l'article 11 du décret du 18 décembre 1927 est subordonnée aux conditions de majorité prescrites,
+selon le cas, aux articles L. 322-3 et L. 322-3-1. Elle intervient dans le délai de deux mois à compter de l'assemblée
+générale des propriétaires.
 
-//DECR.0863 ART. 19 : l'acte constitutif de l'association est publié au fichier immobilier dans les conditions et délais
-prévus par les décrets n. 55-22 du 4 janvier 1955 et 55-1350 du 14 octobre 1955// .
+L'acte constitutif de l'association est publié au fichier immobilier dans les conditions et délais prévus par les décrets n°
+55-22 du 4 janvier 1955 et 55-1350 du 14 octobre 1955.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°1927-12-18 ART. 6, 7 ET 11
 	  - Décret n°55-22 1955-01-04
 	  - Décret n°55-1350 1955-10-14
 	  - Loi n°65-557 1965-07-10
 	  - Code de l'urbanisme - art. L322-3 (M)
+	  - Code de l'urbanisme - art. L322-3-1 (V)
+	  - Décret n°1927-12-18 art. 6, 7 et 11
 
 	**Anciens textes**:
 
 	  - Décret n°74-203 1974-02-26 ART. 3
 
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 29 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*322-25 (V)
 	  - Code de l'urbanisme - art. R*322-31 (V)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme R322-31
 
 	**Codifié par**:
 
@@ -33635,6 +36997,40 @@ de remembrement.
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'urbanisme R322-21
+
+
+###### Article R*322-8
+
+Le projet de remembrement est établi dans l'intérêt commun eu égard aux possibilités d'utilisation du sol à l'intérieur du
+périmètre de remembrement. 
+
+Le projet de remembrement est transmis au préfet du département qui saisit sans délai le maire en vue de recueillir l'accord
+ou l'avis, selon les cas prévus à l'article L. 322-6-1, du conseil municipal. Lorsque l'accord de celui-ci n'est pa exigé,
+son avis est réputé favorable s'il n'est pas émis dans le délai de deux mois à compter de la réception du dossier par le
+maire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L322-6-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*322-17 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-02-26 ART. 8
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 31 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 
 ###### Article R*322-8-1
@@ -33760,6 +37156,51 @@ droits réels et personnels éteints en application de l'article L. 322-6 ;
 	  - Code de l'urbanisme - art. R*322-14 (V)
 
 
+###### Article R*322-11
+
+A l'issue de l'enquête, le préfet renvoie le dossier au président de l'association et porte à sa connaissance les
+observations présentées. 
+
+Si le conseil des syndics ne peut donner satisfaction aux intéressés, le président transmet l'ensemble du dossier avec ses
+propositions au président de la commission consultative prévue à l'article L. 322-6. 
+
+Cette commission entend, une fois au moins, les intéressés qui en font la demande, ainsi que le président et le directeur de
+l'association. 
+
+Dans les deux mois de sa saisine, elle donne son avis motivé au président de l'association. 
+
+La décision motivée, prise consécutivement à cet avis par le conseil des syndics, est, ainsi que ledit avis, notifiée aux
+intéressés par lettre recommandée avec demande d'avis de réception.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-02-26 ART. 11
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L322-6 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*322-14 (V)
+	  - Code de l'urbanisme - art. R*322-28-2 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme R322-26
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ###### Article R*322-12
 
 La juridiction de l'expropriation est saisie par les intéressés par lettre recommandée avec demande d'avis de réception
@@ -33864,6 +37305,63 @@ R. 322-11 à R. 322-13.
 	  - Décret n°86-517 du 14 mars 1986 - art. 34 () JORF 16 mars 1986   en vigueur le 1er avril 1986
 
 
+###### Article R*322-15
+
+Le plan de remembrement arrêté par le conseil des syndics après rectification, le cas échéant, en exécution de décisions
+judiciaires devenues définitives, comprend : 
+
+1° Les plans et états parcellaires nouveaux désignant les immeubles conformément à l'article 7 du décret n° 55-22 du 4
+janvier 1955 modifié et indiquant le cas échéant les bâtiments ou ouvrages à conserver ; 
+
+2° Un tableau pour chaque propriétaire des parcelles ou quotes-parts de parcelles avant et après remembrement, avec
+l'indication des soultes ; dans le cas où des créanciers hypothécaires ou privilégiés ont été révélés avant la clôture de
+l'enquête ce tableau doit faire apparaître les concordances nécessaires à l'application de l'article R. 322-9 ; 
+
+3° Le cas échéant, un état des droits réels qui seront éteints par l'arrêté du préfet prévu à l'article R. 322-17 moyennant
+indemnité due par l'association ; 
+
+4° Le cas échéant, un état des droits réels, à l'exception des privilèges et hypothèques, reportés ou attribués sur les
+parcelles après remembrement ; 
+
+5° Le cas échéant, un état des bâtiments ou ouvrages, d'une part, à conserver, d'autre part, restant à détruire par
+l'association ; 
+
+6° Les prescriptions propres à l'opération en complément de la réglementation d'urbanisme applicable. 
+
+Le tableau et les états mentionnés aux 2° à 5° ci-dessus sont, en vue de la publicité foncière, soumis à des règles de forme
+précisées à l'article R. 322-20.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Décret n°55-22 du 4 janvier 1955 - art. 7 (VT)
+	  - Code de l'urbanisme - art. R*322-9 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-02-26 art. 15
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+	  - Décret n°86-517 du 14 mars 1986 - art. 35 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*322-17 (V)
+	  - Code de l'urbanisme - art. R*322-20 (VD)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme R322-20
+
+
 ###### Article R*322-16
 
 Avant l'intervention de l'arrêté préfectoral prévu à l'article R. 322-17, le président de l'association se conforme aux
@@ -33925,6 +37423,34 @@ les conditions prévues à l'article R. 322-8.
 	**Cite**:
 
 	  - Code de l'urbanisme R322-15, R322-8
+
+
+###### Article R*322-18
+
+L'arrêté du préfet est remis sur émargement au président de l'association le jour même de sa signature en vue des mesures de
+publicité foncière prévues au paragraphe III de la présente sous-section.
+
+Il est, en outre, publié au recueil des actes administratifs et, pendant un délai de deux mois à compter de cette
+publication, toute personne intéressée peut prendre connaissance du plan de remembrement approuvé qui est déposé en mairie.
+
+Le président de l'association notifie, par lettre recommandée avec demande d'avis de réception[*condition de forme*], aux
+titulaires de droits réels autres que les créanciers hypothécaires ou privilégiés l'extrait du plan de remembrement approuvé
+par le préfet qui les concerne.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-02-26 ART. 18
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le   1er avril 1986
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 
 ###### Article R*322-19
@@ -34107,6 +37633,41 @@ parties remembrées aux communes à cadastre rénové dès la publication de l'a
 
 ##### Paragraphe 4 : Dispositions concernant les associations foncières urbaines de remembrement constituées d'office
 
+###### Article R*322-23
+
+Lorsqu'il peut être fait application de l'article L. 322-4 (1.) le projet d'arrêté du préfet portant constitution d'office
+d'une association foncière urbaine est joint au dossier d'enquête [*contenu*] sur la constitution de l'association autorisée
+en vue de recueillir les observations éventuelles des intéressés.
+
+A ce projet, qui comporte les indications mentionnées à l'article 74 du décret du 18 décembre 1927, sont joints :
+
+Une notice explicative justifiant l'application de l'article L. 322-4 (1.) accompagnée, le cas échéant, des extraits du plan
+d'urbanisme ou du plan d'occupation des sols et du règlement d'urbanisme applicables ;
+
+Une estimation du coût de l'opération.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret  1927-12-18 ART. 74
+	  - Code de l'urbanisme - art. L322-4 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-02-26 art. 23
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en   vigueur le 1er avril 1986
+	  - Décret n°86-517 du 14 mars 1986 - art. 43 () JORF 16 mars 1986 en   vigueur le 1er avril 1986
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+
 ###### Article R*322-24
 
 Les opérations de remembrement sont réalisées comme il est dit aux articles R. 322-7 à R. 322-22. 
@@ -34280,6 +37841,27 @@ relatifs, selon le cas, à l'opération de construction ou à l'opération de lo
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R*322-27-1
+
+Lorsque le projet de groupement est envisagé en vue de la vente des parcelles à un établissement public ou une société de
+construction ou d'aménagement les associés doivent, dans un délai d'un mois à compter de la notification, par lettre
+recommandée avec demande d'avis de réception, de l'arrêté du préfet autorisant la création de l'association, faire connaître
+au président de l'association, par lettre recommandée avec demande d'avis de réception, leur option soit pour un paiement en
+monnaie, soit pour la remise d'une ou plusieurs fractions d'immeubles. Les associés n'ayant pas opté dans ce délai sont
+rémunérés en monnaie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 40 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+
 ###### Article R*322-28
 
 Si tous les associés ont opté ou sont réputés avoir opté pour la vente des parcelles moyennant un prix payé en monnaie, le
@@ -34381,6 +37963,30 @@ et aux articles R. 322-12 et R. 322-13.
 	  - Code de l'urbanisme - art. R*322-13 (V)
 	  - Code de l'urbanisme - art. R*322-26 (V)
 	  - Code de l'urbanisme - art. R*322-28-1 (V)
+
+
+###### Article R*322-28-3
+
+Le projet de groupement de parcelles est arrêté par le conseil des syndics après rectification, le cas échéant, en exécution
+de décisions judiciaires devenues définitives, et est adressé au préfet. Le préfet transmet dans les huit jours au maire le
+projet en vue de recueillir son avis motivé. Faute d'être parvenu au préfet dans le délai de deux mois, cet avis est réputé
+favorable.
+
+L'opération ne peut être réalisée qu'après que le préfet a constaté, par arrêté, que le projet respecte les dispositions
+législatives et réglementaires sur l'urbanisme et que les formalités prévues notamment par la présente section ont été
+régulièrement accomplies.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°86-517 1986-03-14 art. 43 I, V JORF 16 mars 1986 en vigueur le 1er avril 1986
+	  - Décret n°86-517 du 14 mars 1986 - art. 43 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 
 ##### Paragraphe 3 : Dispositions spéciales
@@ -34549,6 +38155,49 @@ L'association constituée d'office est soumise aux dispositions des articles R. 
 
 #####  Section 5 : Commission consultative
 
+###### Article R322-34
+
+Dès la création dans le département de la première association foncière urbaine ayant pour objet le remembrement ou le
+groupement de parcelles conformément aux articles L.  322-1 à L. 322-10 susvisé, la commission consultative prévue à
+l'article L. 322-6 est constituée à l'initiative du préfet.
+
+Elle comprend[*composition*] :
+
+Un juge de l'expropriation, président ;
+
+Un notaire ;
+
+Un géomètre-expert ;
+
+Le directeur des services fiscaux du département ou son représentant ;
+
+Le directeur départemental de l'équipement ou son représentant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Anciens textes**:
+
+	  - Décret n°74-204 1974-02-26 ART. 1
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L322-6 (M)
+	  - Code de l'urbanisme L322-1 à L322-10, L322-6
+
+
 ###### Article R322-35
 
 Le juge, président, est choisi par le premier président de la cour d'appel parmi les juges de l'expropriation ou leurs
@@ -34595,6 +38244,30 @@ ou indirect à une opération déterminée les contraindrait à se récuser.
 	**Modifié par**:
 
 	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+	**Abrogé par**:
+
+	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
+
+
+###### Article R322-37
+
+L'arrêté du préfet portant constitution de la commission est publié au recueil des actes administratifs du département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Anciens textes**:
+
+	  - Décret n°74-204 1974-02-26 ART. 4
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 43 () JORF 16 mars 1986
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 	**Abrogé par**:
 
@@ -36094,6 +39767,64 @@ l'urbanisme.
 	  - Décret n°2007-18 du 5 janvier 2007 - art. 14 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
 
 
+###### Article R*333-4
+
+La valeur du mètre carré du terrain est déclarée à l'occasion de la demande de permis de construire par l'auteur de celle-
+ci. 
+
+En cas de carence de l'intéressé, il n'y a pas lieu pour l'autorité compétente d'instruire la demande de permis de
+construire. 
+
+L'intéressé en est informé par l'autorité compétente d'instruire la demande de permis de construire. 
+
+Le directeur des services fiscaux est consulté par le service chargé de l'instruction de la demande de permis de construire
+en vue d'émettre un avis sur la déclaration de la valeur du mètre carré de terrain souscrite par l'auteur de cette demande.
+Cet avis doit être émis par le directeur des services fiscaux dans le délai d'un mois suivant la réception de la demande
+d'avis.
+
+Il constitue l'estimation administrative. 
+
+L'existence d'un désaccord entre le maire et le directeur des services fiscaux sur l'estimation de la valeur du terrain ne
+donne pas compétence au préfet pour statuer sur la demande de permis de construire. 
+
+Si le directeur des services fiscaux retient une valeur différente de celle que l'intéressé a déclarée, celui-ci en est
+informé, par lettre recommandée avec demande d'avis de réception [*condition de forme*], par le service chargé de
+l'instruction de la demande de permis de construire. Lorsqu'il n'est pas fait application de l'article R. 424-1, ce service
+en informe immédiatement le responsable du service de l'Etat dans le département, chargé de l'urbanisme. 
+
+En cas de désaccord entre le directeur des services fiscaux et le pétitionnaire sur la valeur du terrain, la juridiction
+compétente en matière d'expropriation est saisie, à l'initiative de la partie la plus diligente, par lettre recommandée
+adressée au secrétariat de cette juridiction. Celle-ci statue selon la procédure prévue par le code de l'expropriation pour
+cause d'utilité publique.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°84-669 1984-07-17 ART. 7 1° JORF 21 juillet 1984
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*332-3 (Ab)
+	  - Code de l'urbanisme - art. R*333-21 (V)
+	  - Code de l'urbanisme - art. R*333-7 (M)
+	  - Code de l'urbanisme - art. R332-28 (Ab)
+	  - Code de l'urbanisme - art. R421-4 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R335-4 (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme R424-1
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ###### Article R*333-5
 
 Le montant du versement est calculé par le responsable du service de l'Etat dans le département, chargé de l'urbanisme ou, en
@@ -37249,18 +40980,6 @@ administratifs nécessaires au paiement des subventions.
 
 ##### Dispositions diverses.
 
-###### Article R*315-41
-
-Le préfet, le maire, le directeur départemental de l'équipement ou leurs délégués peuvent, avant l'achèvement des travaux,
-visiter les lieux à tout moment et procéder aux vérifications qu'ils jugent utiles.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ###### Article R*315-42
 
 Mention de l'autorisation de lotir doit être affichée sur le terrain, de manière visible de l'extérieur, par les soins de son
@@ -37629,6 +41348,45 @@ des services, personnes publiques ou commissions consultés sur le projet.
 	  - Code de l'environnement - art. R181-10 (VD)
 
 
+###### Article R*410-3
+
+Tous les exemplaires de la demande et du dossier de certificat d'urbanisme sont adressés par pli recommandé, avec demande
+d'avis de réception postal, au maire de la commune dans laquelle le terrain est situé, ou déposés contre décharge à la
+mairie. 
+
+Le maire affecte un numéro d'enregistrement à la demande dans des conditions prévues par arrêté du ministre chargé de
+l'urbanisme. 
+
+Les exemplaires de la demande et du dossier font l'objet des transmissions prévues à l'article L. 421-2-3. Toutefois dans les
+cas prévus au 1° dudit article, seul le formulaire de la demande est transmis au préfet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-1262 1983-12-30 ART. 17 : Les communes qui, avant l'intervention du présent décret, avaient pouvoir, aux lieu et place du directeur départemental de l'équipement, d'instruire les demandes de certificat d'urbanisme, continuent à exercer ce p
+
+	**Modifié par**:
+
+	  - Décret n°83-1262 1983-12-30 ART. 3 JORF 7 JANVIER 1984 date d'entrée en vigueur 1ER AVRIL 1984
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cité par**:
+
+	  - Décret n°2014-358 du 20 mars 2014 - art. 4 (V)
+	  - Décret n°2017-81 du 26 janvier 2017 - art. 1
+	  - Code de l'environnement - art. R181-10 (VD)
+	  - Code de l'urbanisme - art. R*410-17 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L421-2-3 (M)
+
+
 ####  Section 2 : Instruction de la demande
 
 #####  Paragraphe 1 : Dispositions applicables dans l'ensemble des communes.
@@ -37690,6 +41448,37 @@ formuler aucune observation.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*410-6
+
+Le service chargé de l'instruction de la demande recueille l'avis conforme du préfet dans les conditions prévues à l'article
+R. 421-22, dans les cas prévus à l'article L. 421-2-2 b.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-1262 1983-12-30 ART. 17 : Les communes qui, avant l'intervention du présent décret, avaient pouvoir, aux lieu et place du directeur départemental de l'équipement, d'instruire les demandes de certificat d'urbanisme, continuent à exercer ce p
+
+	**Modifié par**:
+
+	  - Décret n°83-1262 1983-12-30 ART. 6 JORF 7 JANVIER 1984 date d'entrée en vigueur 1ER AVRIL 1984
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cité par**:
+
+	  - Décret n°2014-358 du 20 mars 2014 - art. 4 (V)
+	  - Code de l'environnement - art. R181-10 (VD)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L421-2-2 (M)
+	  - Code de l'urbanisme - art. R421-22 (M)
 
 
 ###### Article R*410-7
@@ -38076,6 +41865,58 @@ au nom d'un établissement public de coopération intercommunale, au maire de la
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°83-1262 1983-12-30 ART. 17 : Les communes qui, avant l'intervention du présent décret, avaient pouvoir, aux lieu et place du directeur départemental de l'équipement, d'instruire les demandes de certificat d'urbanisme, continuent à exercer ce p
+
+
+#####  Paragraphe 3 : Dispositions applicables dans les communes où un plan d'occupation des sols n'a pas été approuvé
+
+###### Article R*410-22
+
+Le certificat d'urbanisme est délivré par le préfet au nom de l'Etat [*autorité compétente*]. 
+
+Copie en est transmise au maire et, le cas échéant, au président de l'établissement public de coopération intercommunale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°83-1262 1983-12-30 ART. 15 JORF 7 JANVIER 1984 date d'entrée en vigueur 1ER AVRIL 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-1262 1983-12-30 ART. 17 : Les communes qui, avant l'intervention du présent décret, avaient pouvoir, aux lieu et place du directeur départemental de l'équipement, d'instruire les demandes de certificat d'urbanisme, continuent à exercer ce p
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+
+###### Article R*410-23
+
+Pour l'application du présent paragraphe, le préfet [*autorité compétente*] peut déléguer sa signature au responsable du
+service de l'Etat dans le département, chargé de l'urbanisme, ou aux subordonnés de celui-ci, sauf dans le cas où le
+responsable du service de l'Etat dans le département, chargé de l'urbanisme, ne retient pas les observations du maire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°83-1262 1983-12-30 ART. 15 JORF 7 JANVIER 1984 date d'entrée en vigueur 1ER AVRIL 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-1262 1983-12-30 ART. 17 : Les communes qui, avant l'intervention du présent décret, avaient pouvoir, aux lieu et place du directeur départemental de l'équipement, d'instruire les demandes de certificat d'urbanisme, continuent à exercer ce p
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 
 ####  Section 4 : Dispositions diverses.
@@ -38764,6 +42605,110 @@ de l'article R. 424-1.
 	  - Code de l'urbanisme R424-1
 
 
+###### Article R421-9
+
+Tous les exemplaires de la demande et du dossier de permis de construire sont adressés, par pli recommandé avec demande
+d'avis de réception postal, au maire de la commune dans laquelle la construction est envisagée, ou déposés contre décharge à
+la mairie.
+
+Le maire affecte au numéro d'enregistrement à la demande dans des conditions prévues par arrêté du ministre chargé de
+l'urbanisme.
+
+Les exemplaires de la demande et du dossier de permis de construire font l'objet des transmissions prévues à l'article L.
+421-2-3. Toutefois dans les cas prévus au 1° dudit article, seul le formulaire de demande est transmis au préfet.
+
+Dans les quinze jours qui suivent le dépôt de la demande et pendant la durée d'instruction de celle-ci, le maire procède à
+l'affichage en mairie d'un avis de dépôt de demande de permis de construire comprenant les mentions suivantes : nom du
+demandeur, numéro et date d'enregistrement de la demande, adresse du terrain, surface hors oeuvre nette et hauteur du projet,
+destination de la construction.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Loi n°83-1261 1983-12-30 art. 6 JORF 7 janvier 1984 en vigueur le 1er avril 1984
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R341-10 (VD)
+	  - Code de l'urbanisme - art. *R421-1 (M)
+	  - Code de l'urbanisme - art. A421-2 (Ab)
+	  - Code de l'urbanisme - art. A421-3-1 (T)
+	  - Code de l'urbanisme - art. A431-1 (V)
+	  - Code de l'urbanisme - art. R*421-12 (M)
+	  - Code de l'urbanisme - art. R*421-32 (Ab)
+	  - Code de l'urbanisme - art. R*421-38 (M)
+	  - Code de l'urbanisme - art. R*443-7-2 (Ab)
+	  - Code de l'urbanisme - art. R421-13 (M)
+	  - Code de l'urbanisme - art. R421-24 (M)
+	  - Code de l'urbanisme - art. R421-41 (M)
+	  - Code de l'urbanisme - art. R445-12 (Ab)
+	  - Code de l'urbanisme - art. R445-8 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*421-8 (M)
+	  - Code du tourisme. - art. D333-1 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L421-2-3 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-10 (M)
+	  - SPEC_APPLI: Loi n°83-1261 1983-12-30 art. 18
+
+	**Anciens textes**:
+
+	  - Décret n°70-446 1970-05-26 art. 8-1
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R421-11
+
+Lorsque les travaux ont pour effet de changer la destination d'une construction existante et que cette modification est
+soumise à autorisation du préfet en vertu de l'article L. 631-7 du code de la construction et de l'habitation, la demande de
+permis de construire tient lieu de la demande d'autorisation exigée par ce texte.
+
+La procédure d'instruction de cette demande d'autorisation est toutefois indépendante de celle du permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°83-1261 1983-12-30 art. 8 II, art. 46 7 JORF 7 janvier 1984 date d'entrée en vigueur 1 avril 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cité par**:
+
+	  - Décret n°2009-447 du 21 avril 2009 - art. 7 (V)
+	  - Décret n°2009-448 du 21 avril 2009 - art. 7 (V)
+	  - Décret n°2009-449 du 22 avril 2009 - art. 7 (V)
+	  - Décret n°2009-486 du 29 avril 2009 - art. 7 (V)
+	  - Décret n°2009-1677 du 29 décembre 2009 - art. 7 (V)
+	  - Décret n°2012-507 du 18 avril 2012 - art. 7 (V)
+	  - Code de l'urbanisme - art. R421-10 (M)
+	  - Code de l'urbanisme - art. R421-24 (M)
+	  - Code de la construction et de l'habitation. - art. R*421-8 (M)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. R421-10-1 (T)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L631-7 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 #####  Section 3 : Instruction de la demande
 
 #####  Paragraphe 1 : Dispositions applicables dans l'ensemble des communes.
@@ -38985,6 +42930,70 @@ demandeur comme il est dit à l'article R. 421-8 (2. alinéa).
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R421-17
+
+Lorsque le projet est soumis à enquête publique dans les conditions prévues par les chapitres I et II du décret n° 85-453 du
+23 avril 1985, celle-ci est organisée par le préfet lorsque le permis de construire est délivré au nom de l'Etat, et par le
+maire ou le président de l'établissement public de coopération intercommunale dans les autres cas. Le service chargé de
+l'instruction de la demande transmet à l'autorité compétente pour ouvrir l'enquête publique le dossier complet de demande de
+permis de construire après l'avoir complété d'un document mentionnant les textes qui régissent l'enquête en cause et
+indiquant la façon dont cette enquête s'insère dans la procédure d'autorisation.
+
+Lorsque le projet a précédemment fait l'objet d'une enquête publique réalisée en application des articles R. 11-14-1 et
+suivants du code de l'expropriation pour cause d'utilité publique ou de l'article R. 315-18-1 et que l'avis de mise à
+l'enquête indiquait que celle-ci portait également sur la construction projetée, il n'y a pas lieu à nouvelle enquête au
+titre du permis de construire si le dossier soumis à enquête faisait apparaître la surface constructible maximale ainsi que
+la hauteur maximale autorisée et à condition que le projet n'ait pas subi de modifications substantielles depuis la date
+d'achèvement de l'enquête.
+
+Lorsque le projet a précédemment fait l'objet d'une enquête publique réalisée en application des articles R. 311-3-1 ou R.
+312-1 du code forestier et que l'avis de mise à l'enquête indiquait que celle-ci portait également sur la construction
+projetée, il n'y a pas lieu à nouvelle enquête au titre du permis de construire à condition que le dossier soumis à cette
+enquête ait été complété par des pièces devant figurer au dossier de demande de permis de construire, à l'exclusion de celles
+mentionnées à l'article R. 421-3-1 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-452 1985-04-23 art. 14 II : application dans le temps
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-41 (M)
+
+	**Créé par**:
+
+	  - Décret n°85-452 1985-04-23 art. 7 JORF 24 avril 1985
+
+	**Cite**:
+
+	  - Décret n°85-453 1985-04-23 art. 1 à art. 21
+	  - Code forestier - art. R*312-1 (M)
+	  - Code forestier - art. R311-3-1 (Ab)
+	  - Code de l'urbanisme - art. R421-3-1 (M)
+	  - Code de l'urbanisme R315-18-1, R421-3-1
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-1 (M)
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cité par**:
+
+	  - Décret n°2009-1681 du 30 décembre 2009 - art. 11 (V)
+	  - Code de l'environnement - art. R341-10 (VD)
+	  - Code de l'urbanisme - art. *R421-13 (V)
+	  - Code de l'urbanisme - art. A431-1 (V)
+	  - Code de l'urbanisme - art. R421-24 (M)
+	  - Code de l'urbanisme - art. R421-41 (M)
+
+	**Anciens textes**:
+
+	  - Décret n°70-446 1970-05-26 ART. 14
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ###### Article R421-18
 
 Sous réserve de ce qui est dit aux alinéas 2 et suivants du présent article et aux articles R. 421-38-2 et suivants, le délai
@@ -39051,6 +43060,78 @@ cette commission, ce délai est majoré de quatre mois.
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R421-19
+
+Le constructeur ne peut bénéficier d'un permis de construire tacite dans les cas ci-après énumérés :
+
+a) Lorsque les travaux ont pour effet de changer la destination d'une construction existante et que cette modification est
+soumise à autorisation du préfet en vertu de l'article L. 631-7 du code de la construction et de l'habitation ;
+
+b) Lorsque le permis de construire intéresse un immeuble inscrit ou un immeuble adossé à un immeuble classé ;
+
+c) Lorsque la construction est située dans le champ de visibilité d'un édifice classé ou inscrit ;
+
+d) Lorsque la construction se trouve dans un site classé, en instance de classement ou inscrit, ou dans une zone de
+protection créée par décret en application des articles 17 ou 28 de la loi du 2 mai 1930 ;
+
+e) Lorsque le projet est situé dans une zone de protection du patrimoine architectural et urbain ;
+
+f) Lorsque la construction est située dans un territoire en instance de classement ou classé en réserve naturelle.
+
+g) Lorsque la construction fait partie des catégories d'aménagements, d'ouvrages ou de travaux soumis à enquête publique en
+application du décret n° 85-453 du 23 avril 1985.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°85-453 1985-04-23
+	  - Code de l'urbanisme et de l'habitation L631-7
+	  - Loi n°1930-05-02 art. 17, 28
+
+	**Modifié par**:
+
+	  - Décret n°86-984 1986-08-19 art. 7 XXVI JORF 27 août 1986
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cité par**:
+
+	  - Arrêté du 6 juillet 2010 - art. Annexe I (VD)
+	  - Arrêté du 6 juillet 2010 - art. Annexe unique tableau A (VD)
+	  - Décret n°2016-1491 du 4 novembre 2016 - art. (V)
+	  - Code de l'environnement - art. R125-14 (V)
+	  - Code de l'urbanisme - art. *R421-18 (V)
+	  - Code de l'urbanisme - art. *R421-20 (VD)
+	  - Code de l'urbanisme - art. *R421-23 (V)
+	  - Code de l'urbanisme - art. A421-2 (Ab)
+	  - Code de l'urbanisme - art. A421-3-1 (T)
+	  - Code de l'urbanisme - art. R*111-35 (VT)
+	  - Code de l'urbanisme - art. R*111-40 (VT)
+	  - Code de l'urbanisme - art. R*421-12 (M)
+	  - Code de l'urbanisme - art. R*421-14 (M)
+	  - Code de l'urbanisme - art. R*424-18 (V)
+	  - Code de l'urbanisme - art. R*441-6-5 (T)
+	  - Code de l'urbanisme - art. R*443-7-2 (Ab)
+	  - Code de l'urbanisme - art. R111-45 (V)
+	  - Code de l'urbanisme - art. R111-50 (V)
+	  - Code de l'urbanisme - art. R142-1-1 (Ab)
+	  - Code de l'urbanisme - art. R421-25 (M)
+	  - Code de l'urbanisme - art. R440-2 (Ab)
+	  - Code de l'urbanisme - art. R440-3 (Ab)
+	  - Code de l'urbanisme - art. R442-2 (V)
+	  - Code de l'urbanisme - art. R442-4-9 (Ab)
+	  - Code du tourisme. - art. D331-5 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-18 (M)
+	  - SPEC_APPLI: Décret n°85-452 1985-04-24 art. 14 II : application dans le temps
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ###### Article R421-20
 
 Si, au cours de l'instruction du dossier, il s'avère que le délai retenu pour l'application de l'article R. 421-12 doit être
@@ -39090,6 +43171,118 @@ notifiée.
 
 
 #####  Paragraphe 2 : Dispositions applicables dans les communes où un plan d'occupation des sols a été approuvé.
+
+###### Article R*421-21
+
+Le service chargé de l'instruction de la demande de permis de construire procède à cette instruction, au nom de la commune,
+dans les conditions prévues au paragraphe 1 et au présent paragraphe.
+
+Le maire adresse copie de la lettre[*notification des délais au demandeur*] visée à l'article R. 421-12 ou, le cas échéant, à
+l'article R. 421-13 ou R. 421-20 au préfet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-1261 1983-12-30 ART. 49, ART. 50 : Modalités d'application
+	  - SPEC_APPLI: Décret n°83-1261 du 30 décembre 1983 - art. 49 (M)
+
+	**Modifié par**:
+
+	  - Décret n°83-1261 1983-12-30 art. 9, art. 16 JORF 7 janvier 1984 date d'entrée en vigueur 1 avril 1984
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cité par**:
+
+	  - Décret n°87-285 du 22 avril 1987 - art. 3 (V)
+	  - Code de l'urbanisme - art. R445-8 (Ab)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 317 sexies (VT)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R421-12 (M)
+	  - Code de l'urbanisme - art. R421-13 (M)
+
+
+###### Article R*421-22
+
+Dans les cas prévus au b de l'article L. 421-2-2, le service chargé de l'instruction de la demande sollicite l'avis conforme
+du préfet dans les conditions prévues à l'article R. 421-15.
+
+Lorsque la construction projetée est située sur une partie du territoire communal non couverte par un plan d'occupation des
+sols, un plan d'aménagement de zone ou un plan de sauvegarde et de mise en valeur, opposable aux tiers, le préfet reçoit
+l'exemplaire de la demande et du dossier, accompagné des différents avis ou accords prévus par les lois et règlements en
+vigueur ; son avis porte alors sur l'application au projet des règles d'urbanisme et des servitudes d'utilité publique.
+
+Lorsque la construction est projetée dans un périmètre où des mesures de sauvegarde peuvent être appliquées, l'avis du préfet
+porte sur l'application éventuelle des mesures de sauvegarde prévues par l'article L. 111-7.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°81-620 du 20 mai 1981 - art. 1 (V)
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 317 sexies (M)
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 384 B (M)
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 384 C (M)
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 384 F (M)
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 384 bis (M)
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 384 quater (M)
+	  - Code de l'urbanisme - art. L430-4 (Ab)
+	  - Code de l'urbanisme - art. R*315-12 (Ab)
+	  - Code de l'urbanisme - art. R*315-22 (M)
+	  - Code de l'urbanisme - art. R*315-5 (M)
+	  - Code de l'urbanisme - art. R*332-4 (M)
+	  - Code de l'urbanisme - art. R*332-5 (M)
+	  - Code de l'urbanisme - art. R*333-20 (M)
+	  - Code de l'urbanisme - art. R*333-4 (M)
+	  - Code de l'urbanisme - art. R*333-5 (M)
+	  - Code de l'urbanisme - art. R*333-6 (M)
+	  - Code de l'urbanisme - art. R*333-9 (M)
+	  - Code de l'urbanisme - art. R*410-6 (M)
+	  - Code de l'urbanisme - art. R*410-7 (Ab)
+	  - Code de l'urbanisme - art. R*421-38 (M)
+	  - Code de l'urbanisme - art. R*422-8 (Ab)
+	  - Code de l'urbanisme - art. R*430-10-3 (Ab)
+	  - Code de l'urbanisme - art. R*430-15 (M)
+	  - Code de l'urbanisme - art. R*430-21 (Ab)
+	  - Code de l'urbanisme - art. R*441-10 (Ab)
+	  - Code de l'urbanisme - art. R*441-6-7 (T)
+	  - Code de l'urbanisme - art. R421-10 (M)
+	  - Code de l'urbanisme - art. R421-23 (M)
+	  - Code de l'urbanisme - art. R421-24 (M)
+	  - Code de l'urbanisme - art. R421-32 (M)
+	  - Code de l'urbanisme - art. R421-36 (M)
+	  - Code de l'urbanisme - art. R421-40 (Ab)
+	  - Code de l'urbanisme - art. R421-41 (Ab)
+	  - Code de l'urbanisme - art. R440-3 (Ab)
+	  - Code de l'urbanisme - art. R442-10 (Ab)
+	  - Code de l'urbanisme - art. R442-4-11 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-1261 1983-12-30 ART. 49, ART. 50 : Modalités d'application
+	  - SPEC_APPLI: Décret n°83-1261 du 30 décembre 1983 - art. 49 (M)
+
+	**Modifié par**:
+
+	  - Décret n°83-1261 1983-12-30 art. 9, art. 16 JORF 7 janvier 1984 date d'entrée en vigueur 1 avril 1984
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L111-7 (M)
+	  - Code de l'urbanisme - art. L421-2-2 (M)
+	  - Code de l'urbanisme - art. R421-15 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
 
 ###### Article R421-23
 
@@ -39202,6 +43395,39 @@ les conditions prévues au paragraphe 1 et au présent paragraphe.
 	  - Code de l'urbanisme - art. R421-42 (Ab)
 
 
+###### Article R*421-26
+
+Le maire fait connaître son avis au responsable du service de l'Etat dans le département, chargé de l'urbanisme qui le
+communique, s'il est défavorable, au préfet. Cet avis est réputé favorable s'il n'est pas intervenu dans le mois de la
+réception de la demande[*délai*]. Il doit être dûment motivé s'il est défavorable, ou si, favorable, il est assorti d'une
+demande de prescriptions particulières.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-1261 1983-12-30 ART. 49, ART. 50 : Modalités d'application
+	  - SPEC_APPLI: Décret n°83-1261 du 30 décembre 1983 - art. 49 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-10 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-25 (M)
+
+	**Modifié par**:
+
+	  - Décret n°83-1261 1983-12-30 art. 9, art. 16 JORF 7 janvier 1984 date d'entrée en vigueur 1 avril 1984
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. A451-1 (V)
+	  - Code de l'urbanisme - art. R*421-26-1 (Ab)
+	  - Code de l'urbanisme - art. R421-24 (M)
+	  - Code de l'urbanisme - art. R421-27 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ###### Article R*421-26-1
 
 Dans le cas prévu à l'article 18 de la loi n° 83-636 du 13 juillet 1983, où le projet de construction, situé dans le
@@ -39224,6 +43450,39 @@ département, chargé de l'urbanisme, dans les conditions prévues à l'article 
 	**Créé par**:
 
 	  - Décret n°87-885 du 30 octobre 1987 - art. 10 () JORF 31 octobre 1987
+
+
+###### Article R*421-27
+
+La lettre prévue à l'article R. 421-12[*notification au demandeur*] ou, le cas échéant, à l'article R. 421-13 ou R. 421-20
+est signée par le préfet. Copie de cette lettre est adressée par même courrier au maire et, le cas échéant, au président de
+l'établissement public de coopération intercommunale compétent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-1261 1983-12-30 ART. 49, ART. 50 : Modalités d'application
+	  - SPEC_APPLI: Décret n°83-1261 du 30 décembre 1983 - art. 49 (M)
+
+	**Modifié par**:
+
+	  - Décret n°83-1261 1983-12-30 art. 9, art. 16 JORF 7 janvier 1984 date d'entrée en vigueur 1 avril 1984
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*421-26 (V)
+	  - Code de l'urbanisme - art. R421-24 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R421-12 (M)
+	  - Code de l'urbanisme - art. R421-13 (M)
 
 
 ###### Article R*421-28
@@ -39512,6 +43771,130 @@ dans les conditions prévues à l'article L. 421-2-4.
 	  - Code de l'urbanisme - art. L421-2-4 (M)
 
 
+###### Article R*421-35
+
+Outre la transmission prévue à l'article L. 421-2-4, copie de la décision est transmise, lorsqu'elle est prise au nom de
+l'établissement public de coopération intercommunale, au maire de la commune.
+
+En cas de permis tacite, le préfet reçoit, sans délai, le dossier et les pièces d'instruction en l'état.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-1261 1983-12-30 ART. 49, ART. 50 : Modalités d'application
+	  - SPEC_APPLI: Décret n°83-1261 du 30 décembre 1983 - art. 49 (M)
+
+	**Modifié par**:
+
+	  - Décret n°83-1261 1983-12-30 art. 17, art. 19 JORF 7 janvier 1984 date d'entrée en vigueur 1 avril 1984
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L421-2-4 (M)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*443-7-6 (Ab)
+	  - Code de l'urbanisme - art. R445-8 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+#####  Paragraphe 3 : Dispositions particulières applicables dans les communes où un P. O. S. n'a pas été approuvé.
+
+###### Article R*421-36
+
+Dans les communes où un plan d'occupation des sols n'a pas été approuvé, la décision est prise par le maire, au nom de
+l'Etat ; toutefois, elle est prise par le préfet dans les cas suivants [*autorité compétente*] : 
+
+1° Pour les constructions édifiées pour le compte de l'Etat, de la région ou du département, de leurs établissements publics
+ou de leurs concessionnaires, ainsi que pour le compte d'un Etat étranger ou d'une organisation internationale ; 
+
+2° Pour les constructions à usage industriel, commercial ou de bureaux lorsque la superficie de planchers hors oeuvre nette
+est égale ou supérieure à 1000 mètres carrés au total ; 
+
+3° Pour les immeubles de grande hauteur au sens de l'article R. 122-2 du code de la construction et de l'habitation, dans les
+conditions prévues à l'article R. 421-47 ; 
+
+4° Lorsqu'est imposé au constructeur le paiement de la participation prévue à l'article L. 421-3 (alinéas 3 et 4) ou
+l'obligation de participer financièrement aux dépenses d'équipements publics ou celle de céder gratuitement du terrain en
+vertu des dispositions du présent code à une collectivité publique autre que la commune intéressée ; 
+
+5° Lorsqu'une dérogation ou une adaptation mineure aux dispositions mentionnées aux articles R. 421-15 (alinéa 3) est
+nécessaire ; 
+
+6° Lorsque le maire et le responsable du service de l'Etat dans le département, chargé de l'urbanisme ont émis des avis en
+sens contraire ;
+
+7° Lorsqu'il y a lieu de prendre une décision de sursis à statuer  ; 
+
+8° Dans les cas prévus au 1° de l'article R. 490-3 et à l'article R. 490-4 ; 
+
+9° Pour les constructions comprises dans les zones délimitées par le plan d'exposition au bruit d'un aérodrome approuvé par
+arrêté du préfet ; 
+
+10° Pour les constructions pour lesquelles un changement de destination doit être autorisé en application de l'article L.
+631-7 du code de la construction et de l'habitation ; 
+
+11° Dans les cas prévus à l'article R. 421-38-8, sauf si la construction se trouve à l'intérieur d'un site inscrit, auquel
+cas elle est de la compétence du maire, au nom de l'Etat ; 
+
+12° Pour les constructions situées dans un secteur sauvegardé à compter de sa délimitation et jusqu'à ce que le plan de
+sauvegarde et de mise en valeur ait été rendu public ; 
+
+13° Pour les constructions qui, en raison de leur emplacement à proximité d'un ouvrage militaire, sont soumises à
+l'autorisation du ministre chargé des armées, en vertu du décret du 10 août 1853, de la loi du 18 juillet 1895 ou de la loi
+du 11 juillet 1933 ; 
+
+14° Pour les constructions qui, en raison de leur situation à l'intérieur d'un polygone d'isolement, sont soumises à
+l'autorisation du ministre chargé des armées en vertu de l'article 5 de la loi du 8 août 1929.
+
+15° Lorsque le projet de construction, situé dans le périmètre d'urbanisation d'une agglomération nouvelle, se trouve dans
+une zone d'aménagement concerté ou dans un lotissement de plus de trente logements ou constitue une opération groupée de plus
+de trente logements, si le maire, le président de la communauté ou du syndicat d'agglomération nouvelle ou le responsable du
+service de l'Etat dans le département, chargé de l'urbanisme, ont émis des avis en sens contraire.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°87-885 du 30 octobre 1987 - art. 10 ()
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*421-32 (Ab)
+	  - Code de l'urbanisme - art. R*422-9 (Ab)
+	  - Code de l'éducation - art. R211-6 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-12 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-20 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-22 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-23 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-25 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-31 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R421-38-8 (M)
+	  - Code de l'urbanisme R122-2
+	  - Code de la construction et de l'habitation. - art. L631-7 (M)
+	  - Décret n°1853-08-10
+	  - Loi n°1895-07-18
+	  - Loi n°1929-08-08 ART. 5
+	  - Loi n°1933-07-11
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 #####  Paragraphe 3 : Dispositions particulières applicables dans les communes où un plan d'occupation des sols n'a pas été approuvé.
 
 ###### Article R*421-37
@@ -39537,6 +43920,49 @@ coopération intercommunale le cas échéant, et au responsable du service de l'
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*443-7-6 (Ab)
+
+
+###### Article R*421-38
+
+Le ministre chargé de l'urbanisme peut soit d'office, soit à la demande d'un autre ministre, évoquer tout dossier et prendre
+les décisions nécessaires[*autorité compétente*].
+
+Le ministre peut déléguer au préfet son droit d'évocation.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-1261 1983-12-30 ART. 49, ART. 50 : Modalités d'application
+	  - SPEC_APPLI: Décret n°83-1261 du 30 décembre 1983 - art. 49 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-10 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-22 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-9 (M)
+
+	**Créé par**:
+
+	  - Décret n°83-1261 1983-12-30 art. 21, art. 47 JORF 7 janvier 1984 date d'entrée en vigueur 1 avril 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R*421-32 (Ab)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*421-42 (Ab)
+	  - Code de l'urbanisme - art. R*443-7-6 (Ab)
+	  - Code de l'urbanisme - art. R313-32 (Ab)
+	  - Code de l'urbanisme - art. R421-18 (M)
+	  - Code de l'urbanisme - art. R421-46 (Ab)
+	  - Code de l'urbanisme - art. R442-11 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 #####  Section 5 : Dispositions applicables aux constructions et travaux soumis au régime du permis de construire et à un autre régime d'autorisation
@@ -39697,6 +44123,30 @@ Ce délai est également de cinq mois dans le cas prévu à l'article R. 421-38-
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*421-38-10
+
+Lorsque la construction est, en raison de sa situation, à l'intérieur ou à proximité d'un bois ou d'une forêt, soumise à
+autorisation en vertu des articles L. 151-1 à L. 151-4 du code forestier, le permis de construire est délivré après
+consultation du directeur régional de l'office national des forêts et avec l'accord du préfet. Cet accord est réputé donné
+faute de réponse dans un délai d'un mois suivant la réception de la demande d'avis*accord tacite, silence*.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°81-788 1981-08-12 art. 4 JORF 19 août 1981
+	  - Décret n°83-1261 1983-12-30 art. 22, art. 47 JORF 7 janvier 1984 date d'entrée en vigueur 1 avril 1984
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
 ###### Article R421-38-2
@@ -39931,6 +44381,131 @@ l'autorité chargée de son instruction.
 	  - Décret n°73-1023 1973-11-08
 
 
+##### C - Dispositions relatives aux eaux intérieures et aux périmètres submersibles.
+
+###### Article R*421-38-15
+
+Lorsque la construction est, en raison de sa situation dans le Val de Loire, soumise à autorisation en vertu de l'article 59
+(alinéa 4) du code du domaine public fluvial et de la navigation intérieure, le permis de construire est délivré après
+consultation des ingénieurs de la navigation et avec l'accord du préfet. Cet accord*tacite[* est réputé donné à défaut de
+réponse dans un délai d'un mois suivant la transmission de la demande de permis de construire par l'autorité chargée de son
+instruction.
+
+Lorsque la construction est, en raison de sa situation dans la zone d'inondation du Rhin, soumise à autorisation en vertu de
+l'article 39 de la loi locale du 2 juillet 1891, le permis de construire est délivré avec l'accord de l'ingénieur de la
+navigation *]conditions*. Cet accord est réputé donné à défaut de réponse [*silence*] dans un délai d'un mois suivant la
+transmission de la demande de permis de construire par l'autorité chargée de son instruction.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du domaine public fluvial 59 al. 4
+	  - Loi n°1891-07-02 Alsace-Lorraine
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°81-788 1981-08-12 art. 9 JORF 19 août 1981
+	  - Décret n°83-1261 1983-12-30 art. 22, art. 47 JORF 7 janvier 1984 date d'entrée en vigueur 1 avril 1984
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+
+###### Article R421-38-14
+
+La demande de permis de construire tient lieu de la déclaration mentionnée à l'article 50 du code du domaine public fluvial
+et de la navigation intérieure pour les constructions situées dans les parties submersibles des vallées.
+
+Dans un délai d'un mois à compter de la réception de la demande, le préfet peut, après consultation du service chargé des
+mesures de défense contre les inondations et du service chargé de la police des cours d'eau, s'opposer à la délivrance du
+permis de construire ou ne donner son accord qu'à condition que le permis soit assorti des prescriptions nécessaires pour
+assurer le libre écoulement des eaux ou la conservation des champs d'inondation. Après l'expiration de ce délai, le permis de
+construire est délivré dans les conditions du droit commun.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du domaine public fluvial 50
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°83-1261 1983-12-30 ART. 22, ART. 47 JORF 7 JANVIER 1984 date d'entrée en vigueur 1 AVRIL 1984
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+
+###### Article R421-38-16
+
+Lorsque la construction est, en raison de sa situation à l'intérieur d'une zone de servitude de libre passage sur les berges
+des cours d'eau non domaniaux, soumise à autorisation en vertu de l'article 1er du décret n° 59-96 du 7 janvier 1959, le
+permis de construire est délivré après consultation du service chargé de la police des cours d'eau et avec l'accord du
+préfet*conditions*. Cet accord*tacite, silence* est réputé donné faute de réponse dans un délai d' un mois suivant la
+transmission de la demande de permis de construire par l'autorité chargée de son instruction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Décret n°59-96 du 7 janvier 1959 - art. 1 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°83-1261 1983-12-30 art. 22, art. 47 JORF 7 janvier 1984 date d'entrée en vigueur 1 avril 1984
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+
+#####    D - Réserve en bordure du domaine public maritime
+
+###### Article R*421-38-17
+
+Lorsque la construction est, en raison de sa situation dans une réserve créée en bordure du domaine public maritime, soumise
+à autorisation en vertu de l'article 4, alinéa 3, de la loi n. 63-1178 du 28 novembre 1963, le permis de construire est
+délivré après avis du préfet qui consulte l'ingénieur chargé du service maritime et la commission départementale des rivages
+de la mer. Toutefois, ces consultations ne sont pas nécessaires si l'autorisation résulte de dispositions générales prévues
+par un arrêté du préfet pris après un avis de cette commission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Loi n°63-1178 1963-11-28 art. 4 al. 3
+
+	**Créé par**:
+
+	  - Décret n°83-1261 1983-12-30 art. 22, art. 46 11 JORF 7 janvier 1984 date d'entrée en vigueur 1 avril 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+
 #####    F - Zone de servitude à proximité d'un cimetière
 
 ###### Article R421-38-19
@@ -39966,6 +44541,60 @@ codifiées sous l'article L2223-5 du code général des collectivités territori
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*422-8 (Ab)
+
+
+#####  Section 6 : Formalités postérieures à la délivrance du permis de construire
+
+###### Article R*421-40
+
+Le bénéficiaire de l'autorisation adresse, lors de l'ouverture du chantier au maire de la commune, quelle que soit l'autorité
+compétente pour statuer, une déclaration d'ouverture de chantier en trois exemplaires.
+
+Dès réception de la déclaration d'ouverture de chantier, le maire conserve un exemplaire de cette déclaration, en transmet un
+exemplaire à l'autorité qui a délivré le permis de construire si elle est autre que le maire et un exemplaire au préfet en
+vue de l'établissement des statistiques.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-1261 1983-12-30 ART. 49, ART. 50 : Modalités d'application
+	  - SPEC_APPLI: Décret n°83-1261 du 30 décembre 1983 - art. 49 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-22 (M)
+
+	**Créé par**:
+
+	  - Décret n°83-1261 1983-12-30 art. 31, art. 29 JORF 7 janvier 1984 date d'entrée en vigueur 1 avril 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cité par**:
+
+	  - Décret n°92-458 du 22 mai 1992 - art. 4 (V)
+	  - Loi - art. 9 (V)
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 41 DK (P)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 156 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 199 decies A (P)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 199 decies B (P)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 199 decies C (P)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 199 nonies (P)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 200 quater (M)
+	  - Code de l'urbanisme - art. A421-9 (Ab)
+	  - Code de l'urbanisme - art. R*421-41 (Ab)
+	  - Code de l'urbanisme - art. R*510-6 (M)
+	  - Code général des impôts, CGI. - art. 31 (VT)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 1 B (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 quindecies (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 #####  Section 7 : Dispositions diverses
@@ -40023,6 +44652,49 @@ d) De la décision d'ouverture de chantier prévue à l'article R. 421-40.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*421-42
+
+Pour l'application du présent chapitre, le préfet peut déléguer sa signature au responsable du service de l'Etat dans le
+département, chargé de l'urbanisme ou aux subordonnés de celui-ci, sauf dans les cas prévus au 6° de l'article R. 421-36 de
+l'article R. 421-38 (2ème alinéa).
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R*421-39 (Ab)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*422-9 (Ab)
+	  - Code de l'urbanisme - art. R443-7 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R421-38 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°83-1261 1983-04-01 art. 32, art. 33 JORF 7 janvier 1984 date d'entrée en vigueur 1 avril 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-1261 1983-12-30 ART. 49, ART. 50 : Modalités d'application
+	  - SPEC_APPLI: Décret n°83-1261 du 30 décembre 1983 - art. 49 (M)
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
 #####  Paragraphe 2 : Dispositions particulières aux immeubles de grande hauteur
@@ -40169,6 +44841,40 @@ sollicitées et les mesures nécessaires pour les compenser.
 	  - Code de l'urbanisme - art. R*430-11 (M)
 	  - Code de l'urbanisme - art. R*460-3-1 (M)
 	  - Code de l'urbanisme - art. R421-5 (M)
+
+
+#####  Paragraphe 3 : Dispositions particulières aux immeubles situés au voisinage d'installations classées
+
+###### Article R*421-52
+
+En application de l'article L. 421-8, les périmètres à l'intérieur desquels les constructions et travaux sont soumis à des
+règles particulières rendues nécessaires pour l'existence d'installations classées et les règles qui leur sont applicables
+sont fixés par arrêté du préfet pris après consultation des services intéressés, enquête publique dans les formes prévues par
+les articles R. 11-4 et suivants du code de l'expropriation pour cause d'utilité publique et avis du conseil municipal.
+
+Le préfet peut décider que l'enquête publique mentionnée à l'alinéa précédent sera confondue avec l'enquête préalable à
+l'autorisation d'ouverture d'une installation classée. Le permis de construire*contenu* doit, le cas échéant, mentionner
+explicitement les servitudes instituées en application de l'article L. 421-8.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L421-8 (M)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-4 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°86-984 1986-08-19 ART. 7 XLII JORF 27 août 1986
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
 ##### Paragraphe 4 : Dispositions particulières aux établissements recevant du public.
@@ -40545,6 +45251,47 @@ demande d'avis par l'autorité consultée. A défaut de réponse dans ce délai,
 	  - Décret n°86-514 du 14 mars 1986 - art. 2 () JORF 16 mars 1986
 
 
+###### Article R*422-9
+
+Dans les communes où un plan d'occupation des sols a été approuvé, à l'exclusion des cas mentionnés au quatrième alinéa de
+l'article L. 421-2-1, le maire ou, le cas échéant, le président de l'établissement public de coopération intercommunale
+compétent peut décider de s'opposer aux travaux projetés ou imposer des prescriptions.
+
+Dans les autres communes, ainsi que dans les cas mentionnés au quatrième alinéa de l'article L. 421-2-1, l'autorité
+compétente pour s'opposer aux travaux projetés ou imposer des prescriptions au nom de l'Etat est le maire ou le préfet dans
+les conditions prévues à l'article R. 421-36.
+
+Pour l'application du présent chapitre, le préfet peut déléguer sa signature dans les conditions prévues à l'article R.
+421-42.
+
+Dans tous les cas, la décision d'opposition ou de prescriptions de l'autorité compétente est dûment motivée. Elle est
+notifiée par lettre recommandée avec demande d'avis de réception.
+
+**Nota:**
+
+NOTA : Les déclarations ci-dessus sont applicables aux déclarations déposées à compter du 1er mai 1986
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-514 du 14 mars 1986 - art. 11 (V)
+
+	**Créé par**:
+
+	  - Décret n°86-514 du 14 mars 1986 - art. 2 () JORF 16 mars 1986) M(Décret 88-199 1988-02-29 art. 1 JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L421-2-1 (M)
+	  - Code de l'urbanisme - art. R421-36 (M)
+	  - Code de l'urbanisme - art. R421-42 (Ab)
+
+
 ###### Article R*422-11
 
 Dans les communes où un plan d'occupation des sols a été approuvé, à l'exception des cas prévus au quatrième alinéa de
@@ -40647,6 +45394,96 @@ du service de l'Etat dans le département, chargé de l'urbanisme.
 
 
 #### CHAPITRE IV : Dispositions générales relatives aux impositions dont la délivrance du permis de construire constitue le fait générateur.
+
+###### Article R*424-1
+
+La détermination de l'assiette et la liquidation des impositions dont la délivrance du permis de construire constitue le fait
+générateur peuvent être confiées, sur sa demande ou avec son accord, à l'autorité compétente pour délivrer le permis de
+construire, lorsqu'elle est autre que l'Etat, par arrêté du préfet pris sur proposition du responsable du service de l'Etat
+dans le département, chargé de l'urbanisme.
+
+Cette autorité est substituée au responsable du service de l'Etat dans le département, chargé de l'urbanisme, pour exercer
+cette mission au nom de l'Etat.
+
+Un arrêté du ministre chargé de l'urbanisme précise le cas échéant les modalités techniques d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-1261 1983-12-30 ART. 49, ART. 50 : Modalités d'application
+	  - SPEC_APPLI: Décret n°83-1261 du 30 décembre 1983 - art. 49 (M)
+
+	**Créé par**:
+
+	  - Décret n°83-1261 1983-12-30 art. 38 JORF 7 janvier 1984 date d'entrée en vigueur 1 avril 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*424-2 (V)
+	  - Code de l'urbanisme - art. R*424-3 (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 384 C (P)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 384 F (P)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 406 nonies (VT)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*424-2
+
+Lorsqu'il n'est pas fait application des dispositions de l'article R. 424-1, le préfet communique le dossier de permis de
+construire qui lui a été transmis dans les conditions prévues à l'article L. 421-2-4 au responsable du service de l'Etat dans
+le département, chargé de l'urbanisme, dans les délais permettant à celui-ci de déterminer l'assiette et de liquider les
+impositions dont la délivrance du permis de construire constitue le fait générateur.
+
+Le responsable du service de l'Etat dans le département, chargé de l'urbanisme reçoit, s'il y a lieu, à sa demande, tous
+dossiers de permis de construire transmis dans les conditions prévues à l'article L. 421-2-4, lorsqu'il est saisi d'une
+réclamation relative aux impositions dont la délivrance du permis constitue le fait générateur.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-1261 1983-12-30 ART. 49, ART. 50 : Modalités d'application
+	  - SPEC_APPLI: Décret n°83-1261 du 30 décembre 1983 - art. 49 (M)
+
+	**Créé par**:
+
+	  - Décret n°83-1261 1983-12-30 art. 38 JORF 7 janvier 1984 date d'entrée en vigueur 1 avril 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cité par**:
+
+	  - Décret n°2014-1271 du 23 octobre 2014 - art. (VD)
+	  - Décret n°2014-1299 du 23 octobre 2014 - art. (V)
+	  - Décret n°2015-1461 du 10 novembre 2015 - art. (V)
+	  - Code de l'urbanisme - art. *R423-44-1 (V)
+	  - Code de l'urbanisme - art. *R423-44-2 (V)
+	  - Code de l'urbanisme - art. R*423-42 (V)
+	  - Code de l'urbanisme - art. R*423-5 (V)
+	  - Code de l'urbanisme - art. R*427-6 (V)
+	  - Code de l'urbanisme - art. R472-11 (V)
+	  - Code du cinéma et de l'image animée - art. R212-8 (V)
+	  - Code du cinéma et de l'image animée - art. R212-9 (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L421-2-4 (M)
+	  - Code de l'urbanisme R424-1, L421-2-4
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
 
 ###### Article R*424-3
 
@@ -40801,6 +45638,47 @@ exemplaires.
 	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
+###### Article R*430-5
+
+Tous les exemplaires de la demande et du dossier sont adressés par pli recommandé avec demande d'avis de réception postal, au
+maire de la commune du lieu de situation du bâtiment ou remis contre décharge à la mairie. Le maire affecte un numéro
+d'enregistrement à la demande dans les conditions prévues par arrêté du ministre chargé de l'urbanisme.
+
+Lorsque l'immeuble est inscrit sur l'inventaire supplémentaire des monuments historiques, l'un des exemplaires est adressé
+par pli recommandé avec demande d'avis de réception postal au directeur régional des affaires culturelles ou remis contre
+décharge dans les locaux de ce service. Cet envoi fait courir le délai de quatre mois pendant lequel le propriétaire ne peut
+procéder à aucune modification de l'immeuble en application de l'article 2 (5è alinéa) de la loi du 31 décembre 1913.
+
+Les exemplaires de la demande et du dossier de permis de démolir font l'objet des transmissions prévues à l'article L.
+421-2-3. Toutefois, dans le cas prévu au 1er dudit article, seul le formulaire de demande est transmis au préfet.
+
+Dans les quinze jours qui suivent le dépôt de la demande et pendant la durée d'instruction de celle-ci, le maire procède à
+l'affichage en mairie d'un avis de dépôt de la demande comprenant les mentions suivantes : nom du demandeur, numéro et date
+d'enregistrement de la demande, adresse du terrain et, s'il y a lieu, nombre de bâtiments et surface hors oeuvre nette de
+plancher dont la démolition est projetée.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-224 1984-03-29 art. 21, art. 22 : Modalités d'application
+	  - SPEC_APPLI: Décret n°84-224 du 29 mars 1984 - art. 21 (M)
+
+	**Modifié par**:
+
+	  - Décret n°86-984 1986-08-19 art. 7 XXXII JORF 27 août 1986
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L421-2-3 (M)
+	  - Loi n°1913-12-31 art. 2 al. 5
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ###### Article R*430-6
 
 Un arrêté conjoint du ministre chargé de l'urbanisme et du ministre chargé du logement fixe le modèle de la demande de permis
@@ -40917,6 +45795,43 @@ quatre mois*point de départ*] part de la réception des pièces complétant le 
 	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
+###### Article R*430-8-1
+
+Dans le cas où le demandeur n'a pas reçu, dans les quinze jours suivant le dépôt de sa demande, la lettre prévue à l'article
+R. 430-7-1 ou R. 430-8, il peut saisir l'autorité compétente par lettre recommandée avec demande d'avis de réception postal
+pour requérir l'instruction de sa demande, et adresse copie de cette mise en demeure au préfet.
+
+Lorsque, dans les huit jours de la réception de l'avis de réception postal de cette mise en demeure, la lettre prévue à
+l'article R. 430-7-1 ou R. 430-8 n'a pas été notifiée, le délai d'instruction de la demande part de ladite date de réception
+telle qu'elle figure sur l'avis de réception postal de la mise en demeure *point de départ*.
+
+Si aucune décision n'a été adressée au demandeur à l'expiration du délai de quatre mois prévu à l'article R. 430-7, la lettre
+de mise en demeure, accompagnée de son avis de réception postal, vaut, dans ce cas, permis de démolir dans les conditions
+prévues au deuxième alinéa de l'article R. 430-7-1*permis tacite*.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-984 1986-08-19 art. 7 XXXV JORF 27 août 1986
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme R430-7-1, R430-8, R430-7
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ###### Article R*430-9
 
 Le service chargé de l'instruction de la demande procède, au nom de l'autorité compétente pour statuer, à cette instruction
@@ -40989,6 +45904,101 @@ l'affaire a été évoquée avant l'expiration de ces délais, dans les conditio
 
 
 #####  Paragraphe 2 : Dispositions applicables dans les communes où un plan d'occupation des sols a été approuvé.
+
+###### Article R*430-10-1
+
+Le service chargé de l'instruction des demandes de permis de démolir procède à cette instruction, au nom de la commune, dans
+les conditions prévues au paragraphe 1 et au présent paragraphe.
+
+Le maire adresse, le cas échéant, copie de la lettre visée à l'article R. 430-8 [*demande de pièces complémentaires*] au
+préfet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-224 1984-03-29 ART. 21, ART. 22 : modalités d'application
+	  - SPEC_APPLI: Décret n°84-224 du 29 mars 1984 - art. 21 (M)
+
+	**Créé par**:
+
+	  - Décret n°84-224 1984-03-29 art. 1, art. 7 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code de l'urbanisme R430-8
+
+
+###### Article R*430-10-2
+
+Lorsque la situation du bâtiment dans l'une des communes visées dans les dispositions mentionnées au a de l'article L. 430-1
+rend obligatoire le permis de démolir, le service chargé de l'instruction transmet un exemplaire de la demande au préfet dans
+les quinze jours suivant sa réception ou celle des pièces complémentaires.
+
+Le préfet dispose d'un délai de deux mois pour faire connaître son avis. Il agit par délégation du ministre chargé du
+logement. L'avis est réputé favorable s'il n'a pas été donné dans ce délai.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-224 1984-03-29 ART. 21, ART. 22 : modalités d'application
+	  - SPEC_APPLI: Décret n°84-224 du 29 mars 1984 - art. 21 (M)
+
+	**Créé par**:
+
+	  - Décret n°84-224 1984-03-29 art. 1, art. 7 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L430-1 (Ab)
+
+
+###### Article R*430-10-3
+
+Dans les cas prévus au b de l'article L. 421-2-2, le service chargé de l'instruction de la demande recueille l'avis conforme
+du préfet, dans les conditions prévues à l'article R. 421-22.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-224 1984-03-29 ART. 21, ART. 22 : modalités d'application
+	  - SPEC_APPLI: Décret n°84-224 du 29 mars 1984 - art. 21 (M)
+
+	**Créé par**:
+
+	  - Décret n°84-224 1984-03-29 art. 1, art. 7 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L421-2-2 (M)
+	  - Code de l'urbanisme - art. R421-22 (M)
+
 
 ###### Article R*430-10-4
 
@@ -41071,6 +46081,92 @@ conditions prévues au paragraphe 1 et au présent paragraphe[*autorité compét
 	**Créé par**:
 
 	  - Décret n°84-224 1984-03-29 art. 1, art. 7 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+
+
+###### Article R*430-10-7
+
+Le maire fait connaître son avis au responsable du service de l'Etat dans le département, chargé de l'urbanisme, qui le
+communique, s'il est défavorable, au préfet. Cet avis est réputé favorable s'il n'est pas intervenu dans le mois suivant la
+réception de la demande[*délai*]. Il doit être dûment motivé s'il est défavorable, ou si, favorable, il est assorti d'une
+demande de prescriptions particulières.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-224 1984-03-29 ART. 21, ART. 22 : modalités d'application
+	  - SPEC_APPLI: Décret n°84-224 du 29 mars 1984 - art. 21 (M)
+
+	**Créé par**:
+
+	  - Décret n°84-224 1984-03-29 art. 1, art. 7 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+
+###### Article R*430-10-8
+
+La lettre prévue à l'article R. 430-8 [*demande de pièces complémentaires*] est signée par le préfet. Copie de cette lettre
+est adressée par même courrier au maire et, le cas échéant, au président de l'établissement public de coopération
+intercommunale compétent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-224 1984-03-29 ART. 21, ART. 22 : modalités d'application
+	  - SPEC_APPLI: Décret n°84-224 du 29 mars 1984 - art. 21 (M)
+
+	**Créé par**:
+
+	  - Décret n°84-224 1984-03-29 art. 1, art. 7 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code de l'urbanisme R430-8
+
+
+###### Article R*430-11
+
+A l'issue[*clôture*] de l'instruction, le responsable du service de l'Etat dans le département, chargé de l'urbanisme,
+formule un avis et le transmet, accompagné d'un projet de décision comportant, le cas échéant, les prescriptions nécessaires,
+au préfet.
+
+Cet avis est, suivant le cas, un avis favorable sans prescriptions, un avis favorable avec prescriptions, un avis défavorable
+ou une proposition de sursis à statuer ; dans ces trois derniers cas, l'avis doit être motivé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-224 1984-03-29 ART. 21, ART. 22 : modalités d'application
+	  - SPEC_APPLI: Décret n°84-224 du 29 mars 1984 - art. 21 (M)
+
+	**Créé par**:
+
+	  - Décret n°84-224 1984-03-29 art. 1, art. 7 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 
 ####  Section 3 : La décision
@@ -41169,6 +46265,41 @@ motivée.
 
 #####  Paragraphe 2 : Dispositions particulières applicables dans les communes où un plan d'occupation des sols a été approuvé.
 
+###### Article R*430-15-1
+
+Dans les communes où un plan d'occupation des sols a été approuvé, la décision est prise par le maire [*autorité
+compétente*], au nom de la commune, ou par le président de l'établissement public de coopération intercommunale, au nom de
+cet établissement. Cette décision doit être conforme à l'avis du préfet formulé dans les conditions prévues à l'article R.
+430-10-2.
+
+Toutefois, la décision est prise dans les conditions prévues au paragraphe 3 de la présente section[*préfet au nom de
+l'Etat*] dans les cas mentionnés au quatrième alinéa de l'article L. 421-2-1 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°84-224 1984-03-29 art. 1, art. 13 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-224 du 29 mars 1984 - art. 21 (M)
+	  - SPEC_APPLI: Décret n°84-224 du 29 mars 1984 - art. 22 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L421-2-1 (M)
+	  - Code de l'urbanisme R430-10-2, L421-2-1
+
+
 ###### Article R*430-15-2
 
 L'arrêté par lequel le maire ou le président de l'établissement public de coopération intercommunale statue sur la demande de
@@ -41197,7 +46328,66 @@ quinze jours après qu'il a été procédé à sa notification et à sa transmis
 	  - Code de l'urbanisme - art. L430-4 (Ab)
 
 
+###### Article R*430-15-3
+
+Outre la transmission prévue à l'article L. 421-2-4, copie de la décision est transmise lorsqu'elle est prise au nom de
+l'établissement public de coopération intercommunale, au maire de la commune.
+
+En cas d'autorisation tacite, le préfet reçoit, sans délai, le dossier et les pièces d'instruction en l'état.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°84-224 1984-03-29 art. 1, art. 13 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-224 du 29 mars 1984 - art. 21 (M)
+	  - SPEC_APPLI: Décret n°84-224 du 29 mars 1984 - art. 22 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L421-2-4 (M)
+
+
 #####  Paragraphe 3 : Dispositions particulières applicables dans les communes où un plan d'occupation des sols n'a pas été approuvé.
+
+###### Article R*430-15-4
+
+Dans les communes où un plan d'occupation des sols n'a pas été approuvé, la décision est prise par le préfet, au nom de
+l'Etat[*autorité compétente*]. Elle doit être conforme à l'avis du ministre chargé des monuments historiques ou du ministre
+chargé des sites, ou de leur délégué, lorsque l'immeuble est situé dans une zone de protection créé en application des
+articles 17 et 28 de la loi du 2 mai 1930.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-224 du 29 mars 1984 - art. 21 (M)
+	  - SPEC_APPLI: Décret n°84-224 du 29 mars 1984 - art. 22 (V)
+
+	**Modifié par**:
+
+	  - Décret n°86-984 1986-08-19 art. 7 XXXVII JORF 27 août 1986
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Loi n°1930-05-02 art. 4, art. 17, art. 28
+
 
 ###### Article R*430-15-5
 
@@ -41218,6 +46408,32 @@ intercommunale.
 
 	  - SPEC_APPLI: Décret n°84-224 du 29 mars 1984 - art. 21 (M)
 	  - SPEC_APPLI: Décret n°84-224 du 29 mars 1984 - art. 22 (V)
+
+
+###### Article R*430-15-6
+
+Pour l'application du présent titre, le préfet peut déléguer sa signature au responsable du service de l'Etat dans le
+département, chargé de l'urbanisme, ou aux subordonnés de celui-ci, sauf si le maire et le responsable du service de l'Etat
+dans le département ont émis des avis en sens opposé[*autorité compétente*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-224 1984-03-29 ART. 21, ART. 22 : modalités d'application
+	  - SPEC_APPLI: Décret n°84-224 du 29 mars 1984 - art. 21 (M)
+
+	**Créé par**:
+
+	  - Décret n°84-224 1984-03-29 art. 1, art. 13 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 
 ###### Article R*430-15-7
@@ -41282,6 +46498,33 @@ ci*publicité*.
 	**Modifié par**:
 
 	  - Décret n°84-224 1984-03-29 art. 1, art. 14, art. 15 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+
+###### Article R*430-19
+
+Lorsque la décision est prise par le préfet au nom de l'Etat, tout recours hiérarchique dirigé contre cette décision doit
+être adressé au ministre chargé de l'urbanisme, qui statue, avec les autres ministres éventuellement compétents, par arrêté
+conjoint.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°84-224 1984-03-29 art. 1, art. 14, art. 17 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-224 du 29 mars 1984 - art. 21 (M)
+	  - SPEC_APPLI: Décret n°84-224 du 29 mars 1984 - art. 22 (V)
 
 	**Abrogé par**:
 
@@ -41368,9 +46611,84 @@ propriétaire.
 	  - Décret n°84-224 1984-03-29 art. 19 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
 
 
+###### Article R*430-27
+
+Lorsqu'un immeuble insalubre est inscrit sur l'inventaire supplémentaire des monuments historiques, est situé dans le champ
+de visibilité d'un édifice classé ou inscrit ou est protégé au titre des articles 4, 9, 17 ou 28 de la loi du 2 mai 1930, sa
+démolition ne peut être ordonnée par le préfet en application de l'article L. 28 du code de la santé publique qu'après avis
+de l'architecte des bâtiments de France. Cet avis est réputé délivré en l'absence de réponse dans le délai de quinze jours
+[*silence*].
+
+Il en est de même lorsque l'immeuble insalubre se situe dans une zone de protection créée conformément à l'article 70 de la
+loi n° 83-8 du 7 janvier 1983.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Loi n°83-8 1983-01-07 ART. 70
+	  - Code de la santé publique - art. L28 (M)
+	  - Loi n°1930-05-02 ART. 4, 9, 17, 28
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-224 1984-03-29 ART. 21, ART. 22 : Modalités d'application
+	  - SPEC_APPLI: Décret n°84-224 du 29 mars 1984 - art. 21 (M)
+
+	**Modifié par**:
+
+	  - Décret n°84-224 1984-03-29 art. 20 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+
 ### Titre IV : Dispositions relatives aux modes particuliers d'utilisation du sol.
 
 #### CHAPITRE I : Clôture
+
+###### Article R*441-1
+
+Les dispositions du présent chapitre sont applicables dans les communes ou parties de communes énumérées à l'article L.
+441-1.
+
+La liste des communes prévue au d de l'article L. 441-1 est établie par arrêté du préfet, pris sur proposition du responsable
+du service de l'Etat dans le département, chargé de l'urbanisme, après avis du maire de chaque commune intéressée. Cet arrêté
+est publié au recueil des actes administratifs du département et mention en est faite en caractères apparents dans deux
+journaux régionaux ou locaux diffusés dans tout le département. Les effets juridiques attachés à cet arrêté ont pour point de
+départ l'exécution de ces mesures de publicité.
+
+L'arrêté visé à l'alinéa ci-dessus est tenu à la disposition du public dans les locaux de la préfecture, de la direction
+départementale de l'équipement et de la mairie des communes intéressées. Il est en outre affiché pendant une durée de deux
+mois, au moins, à la mairie de chaque commune intéressée.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-514 du 14 mars 1986 - art. 11 (V)
+
+	**Modifié par**:
+
+	  - Décret n°86-514 du 14 mars 1986 - art. 4 () JORF 16 mars 1986
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. *R442-3 (V)
+	  - Code de l'urbanisme - art. A441-4 (V)
+	  - Code de l'urbanisme - art. R300-16 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L441-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
 
 ###### Article R*441-2
 
@@ -41484,6 +46802,60 @@ de l'autorité compétente sur la clôture projetée.
 #### CHAPITRE II : Installations et travaux divers
 
 #####  Section 1 : Champ d'application de la règlementation
+
+###### Article R442-1
+
+Les dispositions du présent chapitre sont applicables dans les communes, ensembles de communes ou parties de communes ci-
+après énumérés :
+
+a) Dans les communes, ensembles de communes ou parties de communes dotés d'un plan d'occupation des sols rendu public ou
+approuvé ;
+
+b) Dans les zones d'environnement protégé, sauf s'il en est disposé autrement par l'acte instituant la zone ;
+
+c) Dans les communes figurant sur une liste dressée à cet effet par arrêté du préfet pris sur proposition du responsable du
+service de l'Etat dans le département, chargé de l'urbanisme et aprés avis du maire de chaque commune interéssée.
+
+La liste établie en application du c ci-dessus fait l'objet des mesures de publicité et d'information du public mentionnées
+aux deuxième et troisième alinéas de l'article R. 441-1.
+
+Toutefois pour ce qui concerne le garage collectif des caravanes, ces dispositions sont applicables sur tout le territoire
+national.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°77-759 du 7 juillet 1977 - art. 12 (V)
+	  - Décret n°2002-89 du 16 janvier 2002 - art. 1 (Ab)
+	  - Décret n°2004-490 du 3 juin 2004 - art. 4 (Ab)
+	  - Code de l'urbanisme - art. R*442-11 (M)
+	  - Code de l'urbanisme - art. R*442-21 (V)
+	  - Code de l'urbanisme - art. R*443-13 (Ab)
+	  - Code de l'urbanisme - art. R442-2 (V)
+	  - Code de la construction et de l'habitation. - art. R331-57 (V)
+	  - Code du patrimoine. - art. R523-4 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-694 1980-09-04 ART. 13 : Les propriétaires de terrains de camping et de caravanes autorisés antérieurement à la publication du présent décret disposent d'un délai de trois ans pour mettre leurs installations en conformité avec les dispositi
+	  - SPEC_APPLI: Les détenteurs d'emplacements à l'intérieur de ces terrains disposent du même délai
+
+	**Modifié par**:
+
+	  - Décret n°80-694 1980-09-04 art. 2 JORF 7 septembre 1980
+	  - Décret n°84-226 1984-03-29 art. 18 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+	  - Décret n°86-514 1986-03-14 art. V II JORF 16 mars 1986
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code de l'urbanisme R441-1
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
 
 ###### Article R442-2
 
@@ -41680,6 +47052,51 @@ d'enregistrement de la demande, adresse et superficie du terrain et nombre d'emp
 	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
+###### Article R442-4-2
+
+Tous les exemplaires de la demande et du dossier d'autorisation d'installations et travaux divers sont adressés, par pli
+recommandé avec demande d'avis de réception postal[*condition de forme*], au maire de la commune dans laquelle la clôture est
+envisagée, ou déposés contre décharge à la mairie.
+
+Le maire affecte un numéro d'enregistrement à la demande dans des conditions prévues par arrêté du ministre chargé de
+l'urbanisme.
+
+Les exemplaires de la demande et du dossier d'autorisation d'installations et travaux divers font l'objet des transmissions
+prévues à l'article L. 421-2-3. Toutefois, dans le cas prévu au 1er dudit article, seul le formulaire de demande est transmis
+au préfet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-514 1986-03-14 art. 5 II, III JORF 16 mars 1986
+	  - Décret n°86-514 du 14 mars 1986 - art. 5 () JORF 16 mars 1986
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cité par**:
+
+	  - Décret n°2002-89 du 16 janvier 2002 - art. 3 (Ab)
+	  - Décret n°2004-490 du 3 juin 2004 - art. 8 (M)
+	  - Code de l'urbanisme - art. R442-4-5 (Ab)
+	  - Code de l'urbanisme - art. R442-4-8 (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L421-2-3 (M)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. R*441-5 (T)
+	  - Code de l'urbanisme R441-5
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 #####  Section 3 : Instruction de la demande
 
 #####  Paragraphe 1 : Dispositions applicables dans l'ensemble des communes.
@@ -41764,6 +47181,52 @@ Le délai d'instruction part de la réception desdites pièces.
 
 	  - Code de l'urbanisme - art. R442-4-2 (M)
 	  - Code de l'urbanisme - art. R442-4-4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R442-4-6
+
+Dans le cas où le demandeur n'a pas reçu, dans les quinze jours suivant le dépôt de sa demande, la lettre prévue à l'article
+R. 442-4-4 ou R. 442-4-5, il peut saisir l'autorité compétente par lettre recommandée avec demande d'avis de réception postal
+pour requérir l'instruction de sa demande, et adresse copie de cette mise en demeure au préfet.
+
+Lorsque, dans les huit jours de la réception de l'avis de réception postal de cette mise en demeure, la lettre prévue à
+l'article R. 442-4-4 ou R. 442-4-5 n'a pas été notifiée, le délai d'instruction de la demande part de ladite date de
+réception telle qu'elle figure sur l'avis de réception postal de la mise en demeure.
+
+Si aucune décision n'a été notifiée à l'issue de ce délai, l'autorisation est réputée accordée dans les mêmes conditions que
+celles prévues à l'article R. 442-4-8.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-514 du 14 mars 1986 - art. 5 () JORF 16 mars 1986
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. R*441-6-2 (T)
+	  - Code de l'urbanisme R441-6-2
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R442-4-4 (Ab)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R442-4-8 (Ab)
+	  - Code de l'urbanisme - art. R442-8 (M)
 
 	**Codifié par**:
 
@@ -41902,6 +47365,84 @@ L'autorisation d'installations et travaux divers ne peut être obtenue de façon
 
 #####  Paragraphe 2 : Dispositions applicables dans les communes où un plan d'occupation des sols a été approuvé.
 
+###### Article R442-4-10
+
+Le service chargé de l'instruction de la demande d'autorisation d'installations et travaux divers procède à cette
+instruction, au nom de la commune, dans les conditions prévues au paragraphe 1 et au présent paragraphe.
+
+Le maire adresse copie de la lettre visée à l'article R. 442-4-4 [*notification d'enregistrement*] ou R. 442-4-5 au préfet.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-514 du 14 mars 1986 - art. 11 (V)
+
+	**Créé par**:
+
+	  - Décret n°86-514 du 14 mars 1986 - art. 5 () JORF 16 mars 1986
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. R*441-6-6 (T)
+	  - Code de l'urbanisme R441-6-6
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R442-4-12 (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R442-4-4 (Ab)
+	  - Code de l'urbanisme - art. R442-4-5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R442-4-11
+
+Dans les cas prévus au b de l'article L. 421-2-2, le service chargé de l'instruction de la demande sollicite l'avis conforme
+du préfet dans les conditions prévues à l'article R. 421-22.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-514 du 14 mars 1986 - art. 11 (V)
+
+	**Créé par**:
+
+	  - Décret n°86-514 du 14 mars 1986 - art. 5 () JORF 16 mars 1986
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L421-2-2 (M)
+	  - Code de l'urbanisme - art. R421-22 (M)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. R*441-6-7 (T)
+	  - Code de l'urbanisme R441-6-7
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R442-4-12 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ###### Article R442-4-12
 
 Dans le cas où la commune a délégué sa compétence à un établissement public de coopération intercommunale, le maire fait
@@ -42000,6 +47541,72 @@ chargé de l'urbanisme, dans les conditions prévues au paragraphe 1 et au prés
 
 	  - Code de l'urbanisme - art. R*441-6-10 (T)
 	  - Code de l'urbanisme R441-6-10
+
+
+###### Article R442-4-15
+
+Le maire fait connaître son avis au responsable du service de l'Etat dans le département, chargé de l'urbanisme, qui le
+communique, s'il est défavorable, au préfet. Cet avis est réputé favorable s'il n'est pas intervenu dans le mois de la
+réception de la demande. Il doit être dûment motivé s'il est défavorable, ou si, favorable, il est assorti d'une demande de
+prescriptions particulières.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-514 du 14 mars 1986 - art. 11 (V)
+
+	**Créé par**:
+
+	  - Décret n°86-514 du 14 mars 1986 - art. 5 () JORF 16 mars 1986
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. R*441-6-11 (T)
+	  - Code de l'urbanisme R441-6-11
+
+
+###### Article R442-4-16
+
+La lettre[*notification*] prévue à l'article R. 442-4-4 ou R. 442-4-5 est signée par le préfet. Copie de cette lettre est
+adressée par même courrier au maire, et, le cas échéant, au président de l'établissement public de coopération intercommunale
+compétent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-514 du 14 mars 1986 - art. 11 (V)
+
+	**Créé par**:
+
+	  - Décret n°86-514 du 14 mars 1986 - art. 5 () JORF 16 mars 1986
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. R*441-6-12 (T)
+	  - Code de l'urbanisme R441-6-12
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R442-4-4 (Ab)
+	  - Code de l'urbanisme - art. R442-4-5 (Ab)
 
 
 ###### Article R442-4-17
@@ -42171,6 +47778,77 @@ que la décision est transmise dans les conditions prévues à l'article L. 421-
 	  - Code de l'urbanisme - art. L421-2-4 (M)
 
 
+###### Article R*442-6-3
+
+Outre la transmission prévue à l'article L. 421-2-4, copie de la décision est transmise, lorsqu'elle est prise au nom de
+l'établissement public de coopération intercommunale, au maire de la commune.
+
+En cas d'autorisation tacite, le préfet reçoit, sans délai, le dossier et les pièces d'instruction en l'état.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-226 1984-03-29 ART. 33, ART. 34 : modalités d'application
+	  - SPEC_APPLI: Décret n°84-226 du 29 mars 1984 - art. 33 (M)
+
+	**Créé par**:
+
+	  - Décret n°84-226 1984-03-29 art. 22, art. 23 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L421-2-4 (M)
+
+
+#####  Paragraphe 3 : Dispositions applicables dans les communes où un POS n'a pas été approuvé.
+
+###### Article R*442-6-4
+
+Dans les communes où un plan d'occupation des sols n'a pas été approuvé, la décision est prise par le maire au nom de
+l'Etat ; toutefois, elle est prise par le préfet dans les cas énumérés ci-après [*autorité compétente*] : 
+
+1° Lorsque le maire et le responsable du service de l'Etat dans le département, chargé de l'urbanisme, ont émis des avis en
+sens contraire ; 
+
+2° Lorsqu'une dérogation ou une adaptation mineure aux dispositions mentionnées au deuxième alinéa de l'article R. 442-4-7
+est nécessaire ; dans ce cas, la décision d'octroi de l'autorisation doit indiquer les motifs de la dérogation accordée ; 
+
+3° Lorsque l'installation ou le travail qui fait l'objet de la demande d'autorisation requiert l'avis ou l'avis conforme des
+services, personnes publiques ou commissions relevant du ministre chargé des monuments historiques, du ministre chargé des
+sites, du ministre chargé des zones de protection du patrimoine architectural et urbain ou du ministre chargé de la
+protection de la nature, à l'exception du cas des sites inscrits ; 
+
+4° Lorsque l'installation qui fait l'objet de la demande d'autorisation entre dans le champ d'application de l'article 50 du
+code du domaine public fluvial et de la navigation intérieure et des textes pris pour son application ; 
+
+5° Lorsqu'il y a lieu de prendre une décision de sursis à statuer.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R442-4-7 (M)
+	  - Code du domaine public fluvial 50
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°87-885 du 30 octobre 1987 - art. 11 ()
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+
 #####  Paragraphe 3 : Dispositions particulières applicables dans les communes où un plan d'occupation des sols n'a pas été approuvé.
 
 ###### Article R*442-6-5
@@ -42192,6 +47870,36 @@ intercommunale le cas échéant, et au responsable du service de l'Etat dans le 
 	**Créé par**:
 
 	  - Décret n°84-226 1984-03-29 art. 22, art. 23 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+
+
+###### Article R*442-6-6
+
+Pour l'application de la présente section, le préfet peut déléguer sa signature au responsable du service de l'Etat dans le
+département, chargé de l'urbanisme, ou aux subordonnés de celui-ci, sauf dans le cas prévu au 1° de l'article R. 442-6-4
+[*autorité compétente*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-226 1984-03-29 ART. 33, ART. 34 : modalités d'application
+	  - SPEC_APPLI: Décret n°84-226 du 29 mars 1984 - art. 33 (M)
+
+	**Créé par**:
+
+	  - Décret n°84-226 1984-03-29 art. 22, art. 23 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code de l'urbanisme R442-6-4 1
 
 
 #####  Section 6 : Dispositions particulières
@@ -42493,6 +48201,30 @@ président de l'établissement public de coopération intercommunale au nom de c
 	  - Décret n°84-227 1984-03-29 art. 1, art. 3, art. 4, art. 5 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
 
 
+###### Article R*443-3-2
+
+Dans les autres communes, ainsi qu'à l'intérieur des périmètres d'opération d'intérêt national, l'arrêté d'interdiction de
+stationnement des caravanes est pris par le préfet au nom de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°84-227 1984-03-29 art. 1, art. 3, art. 4, art. 5 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+
 ###### Article R*443-4
 
 Tout stationnement pendant plus de trois mois par an, consécutifs ou non, d'une caravane est subordonné à l'obtention par le
@@ -42621,6 +48353,71 @@ accordée.
 	  - Code de l'urbanisme - art. R443-10 (M)
 
 
+###### Article R*443-5-2
+
+Dans les communes où un plan d'occupation des sols a été approuvé, l'autorisation de stationnement de caravane est délivrée
+par le maire au nom de la commune ou par le président de l'établissement public de coopération intercommunale au nom de cet
+établissement [*autorité compétente*].
+
+Toutefois elle est délivrée dans les conditions prévues à l'article R. 443-5-3 dans les cas mentionnés au quatrième alinéa de
+l'article L. 421-2-1 [*au nom de l'Etat*].
+
+Copie de la décision est transmise, selon les cas :
+
+- lorsqu'elle est prise au nom de la commune, au préfet, accompagnée du dossier complet de la demande ;
+
+- lorsqu'elle est prise au nom de l'établissement public de coopération intercommunale, au préfet, accompagnée du dossier
+complet de la demande, et au maire de la commune concernée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-227 1984-03-29 ART. 27, ART. 28 : Modalités d'application
+	  - SPEC_APPLI: Décret n°84-227 du 29 mars 1984 - art. 27 (V)
+
+	**Créé par**:
+
+	  - Décret n°84-227 1984-03-29 art. 1, art. 3, art. 4, art. 7 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L421-2-1 (M)
+	  - Code de l'urbanisme R443-5-3, L421-2-1
+
+
+###### Article R*443-5-3
+
+Dans les autres communes, l'autorisation de stationnement de caravane est délivrée par le maire au nom de l'Etat. Copie de la
+décision est transmise au préfet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°84-227 1984-03-29 art. 1, art. 3, art. 4, art. 7 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+
 #####  Paragraphe 2 : Camping
 
 ###### Article R*443-6-1
@@ -42678,6 +48475,72 @@ coopération intercommunale au nom de cet établissement [*autorité compétente
 	**Créé par**:
 
 	  - Décret n°84-227 1984-03-29 art. 1, art. 3, art. 8, art. 9 JORF 31 MARS 1984 date d'entrée en vigueur 1 avril 1984
+
+
+###### Article R*443-6-3
+
+Dans les autres communes, ainsi qu'à l'intérieur des périmètres d'opérations d'intérêt national, l'arrêté d'interdiction du
+camping est pris par le maire au nom de l'Etat. Copie de l'arrêté est transmise au préfet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°84-227 1984-03-29 art. 1, art. 3, art. 8, art. 9 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+
+###### Article R*443-6-4
+
+La mise à la disposition des campeurs, de manière habituelle, de terrains ne nécessitant pas d'autorisation d'aménager
+préalable en application des articles R. 443-7 à 443-8-2 doit faire l'objet, de la part du propriétaire ou de celui qui a la
+jouissance du sol, d'une déclaration à la mairie, qui mentionne les dispositions prévues pour l'entretien du terrain.
+Lorsqu'il n'est pas lui-même compétent en matière de terrains aménagés, le maire transmet cette déclaration à l'autorité
+compétente.
+
+Le fonctionnement des terrains visés ci-dessus peut être soumis à des conditions particulières.
+
+Des dérogations concernant le nombre de campeurs ou de caravaniers, et celui de tentes ou de caravanes, à partir desquels
+l'autorisation d'aménager doit être demandée, peuvent être décidées par le préfet sur proposition du conseil municipal et
+après avis de la commission départementale de l'action touristique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-227 1984-03-29 ART. 27, ART. 28 : Modalités d'application
+	  - SPEC_APPLI: Décret n°84-227 du 29 mars 1984 - art. 27 (V)
+
+	**Créé par**:
+
+	  - Décret n°84-227 1984-03-29 art. 1, art. 3, art. 8, art. 9 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme R443-7 à R443-8-2
 
 
 #####  Section 2 : Terrains aménagés pour l'accueil des campeurs et des caravanes
@@ -42851,6 +48714,63 @@ L. 422-2 pour les constructions et installations prévues dans la demande. Elle 
 	  - Code de l'urbanisme - art. R443-3 (M)
 
 
+###### Article R*443-7-4
+
+Dans les communes où un plan d'occupation des sols a été approuvé, l'autorisation d'aménager un terrain de camping et de
+caravanage est délivrée par le maire au nom de la commune ou par le président de l'établissement public de coopération
+intercommunale au nom de cet établissement.
+
+Toutefois, elle est prise par le préfet dans les cas mentionnés au quatrième alinéa de l'article L. 421-2-1.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L421-2-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-227 1984-03-29 ART. 27, ART. 28 : Modalités d'application
+	  - SPEC_APPLI: Décret n°84-227 du 29 mars 1984 - art. 27 (V)
+
+	**Créé par**:
+
+	  - Décret n°84-227 1984-03-29 art. 1, art. 10, art. 11, art. 12 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+
+###### Article R*443-7-5
+
+Dans les communes où un plan d'occupation des sols n'a pas été approuvé, l'autorisation d'aménager un terrain de camping et
+de caravanage est délivrée par le préfet au nom de l'Etat[*autorité compétente*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-227 1984-03-29 ART. 27, ART. 28 : Modalités d'application
+	  - SPEC_APPLI: Décret n°84-227 du 29 mars 1984 - art. 27 (V)
+
+	**Créé par**:
+
+	  - Décret n°84-227 1984-03-29 art. 1, art. 10, art. 11, art. 12 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+
 ###### Article R*443-7-6
 
 Les conditions de délivrance, de notification, de transmission et de validité de l'autorisation d'aménager sont régies
@@ -42882,6 +48802,59 @@ conformément aux dispositions des articles R. 421-29 à R. 421-32, R. 421-34 et
 	  - Code de l'urbanisme - art. R421-37 (M)
 	  - Code de l'urbanisme - art. R421-38 (M)
 	  - Code de l'urbanisme R421-29 à R421-32, R421-34, R421-35, R421-37, R421-38
+
+
+###### Article R*443-8
+
+Le bénéficiaire de l'autorisation d'aménager ne peut commencer l'exploitation d'un terrain de camping et de caravanage par
+location d'emplacements ou, lorsque le terrain est destiné uniquement à la réception des caravanes, par location
+d'emplacement ou cession de terrain, qu'après avoir obtenu *conditions* :
+
+- un certificat constatant l'achèvement des travaux prescrits par la décision d'autorisation, délivré par l'autorité
+compétente pour accorder l'autorisation d'aménager et dans les conditions prévues aux articles R. 460-1 et suivants ; il
+tient lieu du certificat de conformité exigible pour les constructions pour lesquelles l'autorisation d'aménager tient lieu
+de permis de construire ;
+
+- et un arrêté de classement délivré par le préfet, qui détermine le mode d'exploitation autorisé.
+
+L'autorisation d'aménager comporte l'obligation pour le demandeur d'assurer ou de faire assurer la gestion des parties
+communes.
+
+La publicité de l'autorisation d'aménager doit être effectuée dans les conditions prévues à l'article R. 421-39.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-227 1984-03-29 ART. 27, ART. 28 : Modalités d'application
+	  - SPEC_APPLI: Décret n°84-227 du 29 mars 1984 - art. 27 (V)
+
+	**Créé par**:
+
+	  - Décret n°84-227 1984-03-29 art. 1, art. 10, art. 11, art. 12 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cité par**:
+
+	  - Arrêté du 15 novembre 1985 - art. 3 (Ab)
+	  - CODE DES COMMUNES. - art. R*234-21 (M)
+	  - Code de l'urbanisme - art. R*443-4 (M)
+	  - Code de l'urbanisme - art. R*443-8-2 (Ab)
+	  - Code de l'urbanisme - art. R*444-3 (Ab)
+	  - Code de l'urbanisme - art. R*444-4 (M)
+	  - Code de l'urbanisme - art. R443-13 (M)
+	  - Code de l'urbanisme - art. R443-7 (M)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. R440-15 (T)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 #####  Paragraphe 2 : Terrains aménagés saisonniers
@@ -43031,6 +49004,51 @@ lieu de l'autorisation prévue aux articles R. 443-7 et suivants.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*443-15
+
+les membres de la commission départementale d'action touristique ou les fonctionnaires désignés par le ministre chargé du
+tourisme ou par le préfet ou par le maire et porteurs d'un ordre de mission ou d'une commission sont habilités à inspecter
+même inopinément, les terrains aménagés pour le camping et le caravanage en application des articles R. 443-7,
+
+R. 443-8-1 et R. 443-8-2 ou qui auraient dû l'être, et ceux sur lesquels se trouvent des caravanes dont le stationnement a
+été autorisé ou aurait dû l'être. 
+
+Sera puni d'une amende de 600 F à 1000 F et pourra l'être, en outre, d'un emprisonnement pendant huit jours au plus,
+quiconque aura entravé l'exercice du droit d'inspection desdits terrains.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 11 janvier 1993 - art. 10 (Ab)
+	  - Arrêté du 15 novembre 1985 - art. 10 (Ab)
+	  - Code du tourisme. - art. R331-10 (M)
+	  - Décret n°68-134 du 9 février 1968 - art. 12 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. R440-22 (T)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R443-7 (M)
+	  - Code de l'urbanisme R443-8-2
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°84-227 1984-03-29 ART. 1 ART. 15 ART. 20 JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-227 1984-03-29 ART. 27, ART. 28 : Modalités d'application
+	  - SPEC_APPLI: Décret n°84-227 du 29 mars 1984 - art. 27 (V)
 
 
 ###### Article R*443-16
@@ -43401,6 +49419,63 @@ au nom de l'établissement public de coopération intercommunale, au maire de la
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R*460-4-2
+
+Dans les communes où un plan d'occupation des sols n'a pas été approuvé le certificat de conformité est délivré au nom de
+l'Etat par le préfet.
+
+Copie du certificat de conformité est transmise au maire, et le cas échéant, au président de l'établissement public de
+coopération intercommunale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-225 1984-03-29 ART. 9, ART. 10 : Modalités d'application
+	  - SPEC_APPLI: Décret n°84-225 du 29 mars 1984 - art. 9 (V)
+
+	**Créé par**:
+
+	  - Décret n°84-225 1984-03-29 art. 6 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+
+###### Article R*460-4-3
+
+Pour l'application de la présente section, le préfet peut déléguer sa signature au responsable du service de l'Etat dans le
+département, chargé de l'urbanisme, ou aux subordonnés de celui-ci*autorité compétente*.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-225 1984-03-29 ART. 9, ART. 10 : Modalités d'application
+	  - SPEC_APPLI: Décret n°84-225 du 29 mars 1984 - art. 9 (V)
+
+	**Créé par**:
+
+	  - Décret n°84-225 1984-03-29 art. 6 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+
 ###### Article R460-1
 
 Dans le délai de trente jours à dater de l'achèvement des travaux, une déclaration attestant cet achèvement est  établie
@@ -43618,6 +49693,49 @@ d'avis de réception postal rappelle les sanctions encourues.
 	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
+###### Article R460-5
+
+A défaut de notification dans le délai de trois mois, le bénéficiaire du permis de construire requiert, par pli recommandé
+avec demande d'avis de réception postal, l'autorité compétente de délivrer le certificat. Il adresse copie de cette lettre au
+préfet lorsque celui-ci n'est pas l'autorité compétente pour statuer.
+
+La décision doit alors lui être notifiée dans les formes prévues à l'article R. 460-4, dans le mois de cette réquisition. A
+l'expiration de ce dernier délai, si aucune notification n'est intervenue, le certificat de conformité est réputé accordé.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-447 1970-05-28 art. 4 al. 3
+	  - Code de l'urbanisme 98-I al. 2
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-225 1984-03-29 ART. 9, ART. 10 : Modalités d'application
+	  - SPEC_APPLI: Décret n°84-225 du 29 mars 1984 - art. 9 (V)
+
+	**Modifié par**:
+
+	  - Décret n°84-225 1984-03-29 art. 7 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R460-4 (M)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R460-6 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ###### Article R460-6
 
 Postérieurement à la date à laquelle le certificat de conformité est réputé accordé en vertu de l'article R. 460-5, une
@@ -43823,6 +49941,84 @@ NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 	**Modifié par**:
 
 	  - Décret n°87-885 du 30 octobre 1987 - art. 12 () JORF 31 octobre 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+
+###### Article R*490-3
+
+Les décisions relatives aux autorisations d'occupation ou d'utilisation du sol et le certificat de conformité concernant
+l'édification d'ouvrages de production, de transport, de distribution et de stockage d'énergie ainsi que les travaux
+effectués sur ces ouvrages sont prises, sous réserve des dispositions de l'article R. 490-4 :
+
+1° Par le préfet, au nom de l'Etat, lorsque cette énergie n'est pas destinée, principalement, à une utilisation directe par
+le demandeur de l'autorisation ou de l'acte sollicité ;
+
+2° Dans les autres cas, par l'autorité compétente pour statuer au nom de la commune, de l'établissement public de coopération
+intercommunale ou de l'Etat, dans les conditions de droit commun.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°83-1261 1983-12-30 art. 39 JORF 7 janvier 1984 en vigueur le 1er avril 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-1261 1983-12-30 art. 49, art. 50 : champ d'application
+	  - SPEC_APPLI: Décret n°83-1261 du 30 décembre 1983 - art. 49 (M)
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme R490-4
+
+
+###### Article R*490-4
+
+Les décisions relatives aux autorisations d'occupation ou d'utilisation du sol et le certificat de conformité concernant
+l'édification d'installations nucléaires de base ou les travaux effectués sur ces ouvrages sont prises par le préfet au nom
+de l'Etat.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°83-1261 1983-12-30 art. 39 JORF 7 janvier 1984 en vigueur le 1er avril 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-1261 1983-12-30 art. 49, art. 50 : champ d'application
+	  - SPEC_APPLI: Décret n°83-1261 du 30 décembre 1983 - art. 49 (M)
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 	**Abrogé par**:
 
