@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1994-10-01
+Version Consolidée au 1994-12-30
 
 # Partie législative
 
@@ -54219,10 +54219,10 @@ opérations réalisées, sans qu'un agrément fût nécessaire, au cours des dou
 inférieur à 5000 m2 et qu'elles ne conduisent pas l'exploitant ou l'utilisateur à disposer à l'intérieur de la zone définie à
 l'article R. 510-1 d'une superficie de plancher supérieure au total à 5000 m2.
 
-" 7° Lorsqu'elles portent sur l'utilisation de bureaux et de leurs annexes de toute nature achevés à la date du 31 décembre
-1992 ou dont la déclaration d'ouverture de chantier prévue à l'article R. 421-40 a été déposée en mairie au plus tard à cette
+7° Lorsqu'elles portent sur l'utilisation de bureaux et de leurs annexes de toute nature achevés à la date du 31 décembre
+1994 ou dont la déclaration d'ouverture de chantier prévue à l'article R. 421-40 a été déposée en mairie au plus tard à cette
 même date. La présente disposition n'est applicable qu'aux opérations d'utilisation pour lesquelles les actes juridiques dont
-l'utilisation dépend sont définitivement passés au plus tard le 31 décembre 1994. "
+l'utilisation dépend sont définitivement passés au plus tard le 31 décembre 1998.
 
 **Liens relatifs à cet article**
 
@@ -54236,23 +54236,19 @@ l'utilisation dépend sont définitivement passés au plus tard le 31 décembre 
 	  - Code de l'urbanisme - art. R421-40 (Ab)
 	  - Code de l'urbanisme R510-1, 520-1, R421-40
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°92-1357 1992-12-28 art. 2
-
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*510-1 (V)
 	  - Code du cinéma et de l'image animée - art. R212-8 (V)
 	  - Code du cinéma et de l'image animée - art. R212-9 (Ab)
 
+	**Modifié par**:
+
+	  - Décret n°1994-12-29 art. 1 JORF 30 décembre 1994
+
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°93-477 1993-03-28 art. 1 JORF 26 mars 1993
 
 
 ###### Article R*510-7
