@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2005-01-01
+Version Consolidée au 2005-01-05
 
 # Partie législative
 
@@ -52635,14 +52635,13 @@ dispositions des articles R. 123-1 à R. 123-55 du code de la construction et de
 recevant du public et à l'article R. 421-53 du présent code ; dans ce cas il est effectué en liaison avec le directeur
 départemental des services d'incendie et de secours ;
 
-c) Lorsqu'il s'agit de travaux réalisés soit à l'intérieur d'un parc national créé en application de la loi n. 60-708 du 22
-juillet 1960, soit à l'intérieur d'une réserve naturelle soumise aux dispositions de la loi n. 76-629 du 10 juillet 1976
+c) Lorsqu'il s'agit de travaux réalisés soit à l'intérieur d'un parc national créé en application de la loi n° 60-708 du 22
+juillet 1960, soit à l'intérieur d'une réserve naturelle soumise aux dispositions de la loi n° 76-629 du 10 juillet 1976
 relative à la protection de la nature.
 
 d) Lorsqu'il s'agit de travaux réalisés dans un secteur couvert par un plan de prévention des risques naturels prévisibles
-établi en application de la loi n° 87-565 du 22 juillet 1987 relative à l'organisation de la sécurité civile, à la protection
-de la forêt contre l'incendie et à la prévention des risques majeurs, ou par un plan de prévention des risques miniers établi
-en application de l'article 94 du code minier.
+prévu par l'article  L. 562-1 du code de l'environnement, ou par un plan de prévention des risques miniers établi en
+application de l'article 94 du code minier.
 
 **Liens relatifs à cet article**
 
@@ -52650,17 +52649,21 @@ en application de l'article 94 du code minier.
 
 	  - Loi n°60-708 1960-07-22
 	  - Loi n°76-629 1976-07-10
-	  - Loi n°87-565 1987-07-22
 	  - Code minier 94
 	  - Code de l'urbanisme - art. R421-53 (M)
 	  - Code de l'urbanisme R460-1, R421-47 à R421-50, R421-53
 	  - Code de la construction et de l'habitation R122-1 à R122-29, R123-1 à R123-55
+	  - Code de l'environnement - art. L562-1 (M)
 	  - Loi n°1913-12-31
 	  - Loi n°1930-05-02
 
 	**Anciens textes**:
 
 	  - Décret n°70-447 1970-05-28 art. 3
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 	**Cité par**:
 
@@ -52670,15 +52673,11 @@ en application de l'article 94 du code minier.
 
 	**Modifié par**:
 
-	  - Décret n°2000-547 du 16 juin 2000 - art. 3 () JORF 22 juin 2000
+	  - Décret n°2005-3 du 4 janvier 2005 - art. 8 () JORF 5 janvier 2005
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L430-3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R460-4
@@ -57270,12 +57269,11 @@ ostréicoles.
 
 B. - Sécurité publique
 
-Plans de prévention des risques naturels prévisibles établis en application de la loi n° 87-565 du 22 juillet 1987 relative à
-l'organisation de la sécurité civile, à la protection de la forêt contre l'incendie et à la prévention des risques majeurs,
+Plans de prévention des risques naturels prévisibles établis en application de l'article L. 562-1 du code de l'environnement,
 ou plans de prévention des risques miniers établis en application de l'article 94 du code minier.
 
-Documents valant plans de prévention des risques naturels prévisibles en application de l'article 40-6 de la loi n° 87-565 du
-22 juillet 1987 précitée.
+Documents valant plans de prévention des risques naturels prévisibles en application de l'article L. 562-6 du code  de
+l'environnement.
 
 Servitudes instituées, en ce qui concerne la Loire et ses affluents, par les articles 55 et suivants du code du domaine
 public fluvial et de la navigation intérieure.
@@ -57293,21 +57291,19 @@ installations classées pour la protection de l'environnement.
 	  - Code des postes et télécommunications L54 à L56-1, R21 à R26-1, L57 à L62-1, R27 à R39, L45-1, L48
 	  - Code rural 100, 101, L112-2, L642-1, L642-2, 128-7, 128-9, 128-6, 138-1, 135 à 138, 424
 	  - Décret n°1935-10-30 art. 6, art. 3, art. 2
+	  - Loi n°58-336 du 29 mars 1958 - art. 11 (M)
+	  - Ordonnance n°58-1132 du 25 novembre 1958 - art. 7 (Ab)
+	  - Ordonnance 58-1311 1958-12-23
 	  - Décret n°58-1316 1958-12-23
+	  - Ordonnance n°58-1332 du 23 décembre 1958 - art. 6 (Ab)
 	  - Décret n°59-96 1959-01-07
 	  - Décret n°59-645 1959-05-16
 	  - Décret n°61-859 1961-08-01
-	  - Décret n°64-158 1964-02-15
-	  - Décret n°64-481 1964-01-23 art. 25
 	  - Loi n°1791-07-08
-	  - Loi n°1819-07-17
-	  - Loi n°1845-07-15
-	  - Loi n°1851-07-10
 	  - Loi n°1895-07-18
 	  - Loi n°1898-04-08 art. 30 à 32
 	  - Loi n°1906-06-15
 	  - Loi n°1913-12-31 art. 1 à 5, art. 1, art. 13 bis
-	  - Loi n°1919-10-16 art. 4
 	  - Loi n°1925-07-13 art. 298
 	  - Loi n°1927-07-13 art. 25
 	  - Loi n°1929-08-08
@@ -57316,10 +57312,6 @@ installations classées pour la protection de l'environnement.
 	  - Loi n°1933-07-11
 	  - Loi n°1941-07-08
 	  - Loi n°46-628 1946-04-08 art. 35
-	  - Loi n°58-336 du 29 mars 1958 - art. 11 (M)
-	  - Ordonnance n°58-1132 du 25 novembre 1958 - art. 7 (Ab)
-	  - Ordonnance 58-1311 1958-12-23
-	  - Ordonnance n°58-1332 du 23 décembre 1958 - art. 6 (Ab)
 	  - Loi n°60-708 1960-07-22
 	  - Loi n°62-904 1962-08-04
 	  - Loi n°65-498 1965-06-29
@@ -57327,14 +57319,12 @@ installations classées pour la protection de l'environnement.
 	  - Décret n°67-1093 1967-12-15
 	  - Loi n°69-7 du 3 janvier 1969 - art. 4 (Ab)
 	  - Loi n°69-7 du 3 janvier 1969 - art. 5 (Ab)
-	  - Loi n°72-1147 1972-12-23 Finances rectificative pour 1972
 	  - Loi n°76-629 du 10 juillet 1976 - art. 27 (M)
 	  - Loi n°76-663 1976-07-19 art. 7-1 à 7-4
 	  - Loi n°80-531 1980-07-15
 	  - Loi n°83-663 1983-07-22 art. 58-1
 	  - Loi n°84-610 du 16 juillet 1984 - art. 42 (M)
 	  - Loi n°85-30 1985-01-09 art. 53
-	  - Loi n°87-565 du 22 juillet 1987 - art. 40-6 (Ab)
 	  - Loi n°87-954 1987-11-27
 	  - Loi n°91-1385 1991-12-31
 	  - CODE DES COMMUNES. - art. L361-1 (M)
@@ -57348,9 +57338,10 @@ installations classées pour la protection de l'environnement.
 	  - Code minier 71 à 73, 94
 	  - Code de la santé publique - art. L20 (M)
 	  - Code de la santé publique - art. L736 (M)
-	  - CODE DE L'URBANISME 12, 11
 	  - Code de l'urbanisme - art. L160-6 (M)
 	  - Code de l'urbanisme - art. L160-6-1 (V)
+	  - Code de l'environnement - art. L562-1 (M)
+	  - Code de l'environnement - art. L562-6 (V)
 	  - Code de l'aviation civile - art. L281-1 (M)
 	  - Code de l'aviation civile - art. R244-1 (M)
 	  - Code de l'aviation civile - art. R245-1 (M)
@@ -57359,6 +57350,13 @@ installations classées pour la protection de l'environnement.
 	  - Code du domaine public fluvial et de la navigation - art. 16 (M)
 	  - Code du domaine public fluvial et de la navigation - art. 28 (M)
 	  - Code du domaine public fluvial et de la navigation - art. 55 (Ab)
+	  - Décret n°64-158 1964-02-15
+	  - Décret n°64-481 1964-01-23 art. 25
+	  - Loi n°1819-07-17
+	  - Loi n°1845-07-15
+	  - Loi n°1851-07-10
+	  - Loi n°1919-10-16 art. 4
+	  - Loi n°72-1147 1972-12-23 Finances rectificative pour 1972
 
 	**Codifié par**:
 
@@ -57366,7 +57364,8 @@ installations classées pour la protection de l'environnement.
 
 	**Modifié par**:
 
-	  - Décret n°2004-835 du 19 août 2004 - art. 2 () JORF 22 août 2004
+	  - Décret n°2005-3 2005-01-04 art. 8 II, III JORF 5 janvier 2005
+	  - Décret n°2005-3 du 4 janvier 2005 - art. 8 () JORF 5 janvier 2005
 
 
 ## Liste des communes comprises dans la zone 1
