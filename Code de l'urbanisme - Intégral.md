@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1994-12-30
+Version Consolidée au 1995-01-10
 
 # Partie législative
 
@@ -23056,8 +23056,8 @@ Sont en outre reportés, s'il en existe, sur les documents graphiques, à titre 
 a) Les secteurs sauvegardés, délimités en application des articles L. 313-1 et suivants, ainsi que les périmètres de
 restauration immobilière définis dans les conditions prévues à l'article L. 313-4 ;
 
-b) Les zones  de préemption délimitées en application de l'article L. 142-1 dans sa rédaction antérieure à la loi n° 85-729
-du 18 juillet 1985 relative à la définition et à la mise en oeuvre de principe d'aménagement et de l'article L. 142-3 dans sa
+b) Les zones de préemption délimitées en application de l'article L. 142-1 dans sa rédaction antérieure à la loi n° 85-729 du
+18 juillet 1985 relative à la définition et à la mise en oeuvre de principe d'aménagement et de l'article L. 142-3 dans sa
 rédaction issue de ladite loi, et les zones délimitées en application de l'article L. 430-1 e) à l'intérieur desquelles la
 démolition des immeubles est subordonnée à la délivrance d'un permis de démolir ;
 
@@ -23089,9 +23089,13 @@ l) Les périmètres à l'intérieur desquels l'autorité compétente peut sursoi
 application de l'article L. 111-10 ;
 
 m) Le périmètre des secteurs dans lesquels un programme d'aménagement d'ensemble a été approuvé en application de l'article
-L. 332-9.
+L. 332-9 ;
 
-2° Les zones d'aménagement concerté.
+n) Le périmètre des secteurs situés au voisinage des infrastructures de transports terrestres qui sont affectés par le bruit,
+et dans lesquels existent des prescriptions d'isolement acoustique, déterminés en application de l'article 13 de la loi n°
+92-1444 du 31 décembre 1992 relative à la lutte contre le bruit.
+
+2° (paragraphe abrogé).
 
 **Liens relatifs à cet article**
 
@@ -23099,10 +23103,15 @@ L. 332-9.
 
 	  - Décret n°70-1016 1970-10-28 art. 18 II 1 à 3
 
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
 	**Cite**:
 
 	  - Loi n°80-531 1980-07-15
 	  - Loi n°85-729 1985-07-18
+	  - Loi n°92-1444 1992-12-31 art. 13
 	  - Code minier 109, 109-1
 	  - Code de la santé publique - art. L38 (Ab)
 	  - Code de la santé publique - art. L42 (Ab)
@@ -23120,17 +23129,12 @@ L. 332-9.
 
 	**Modifié par**:
 
-	  - Décret n°92-966 du 10 septembre 1992 - art. 4 () JORF 11 septembre 1992
-	  - Décret n°92-966 du 10 septembre 1992 - art. 8 () JORF 11 septembre 1992
+	  - Décret n°95-21 du 9 janvier 1995 - art. 9 () JORF 10 janvier 1995
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*123-21 (V)
 	  - Code de l'urbanisme - art. R*123-22-1 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*123-20
@@ -23361,23 +23365,29 @@ ou particulières prises en application de l'article L. 111-1-1.
 
 7. Le plan d'exposition au bruit d'un aérodrome , établi en application des articles L. 147-1 à L. 147-6.
 
+8. Le classement des infrastructures de transports terrestres ainsi que les secteurs situés au voisinage de ces
+infrastructures qui sont affectés par le bruit, et dans lesquels existent des prescriptions d'isolement acoustique,
+déterminés en application de l'article 13 de la loi n° 92-1444 du 31 décembre 1992 relative à la lutte contre le bruit. Ces
+documents portent référence des arrêtés préfectoraux correspondants et indication des lieux où ils peuvent être consultés.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°70-1016 1970-10-28 ART. 22
 
-	**Modifié par**:
-
-	  - Décret n°87-340 1987-05-21 art. 2 JORF 22 mai 1987
-
 	**Cite**:
 
-	  - CODE DE L'URBANISME R123-18, L126-1, R111-15, L111-1-1, L315-2-1, L147-1 à L147-6
+	  - Loi n°92-1444 1992-12-31 art. 13
 	  - Code de l'urbanisme - art. L111-1-1 (M)
 	  - Code de l'urbanisme - art. L126-1 (M)
 	  - Code de l'urbanisme - art. L315-2-1 (M)
 	  - Code de l'urbanisme - art. R111-15 (M)
+	  - Code de l'urbanisme R123-18, L126-1, R111-15, L111-1-1, L315-2-1, L147-1 à L147-6
+
+	**Modifié par**:
+
+	  - Décret n°95-21 du 9 janvier 1995 - art. 9 () JORF 10 janvier 1995
 
 	**Cité par**:
 
@@ -30808,13 +30818,13 @@ Le point de départ du délai de deux ans mentionné à l'alinéa précédent es
 Lorsque la décision de création n'a pas prévu le maintien en vigueur des dispositions du plan d'occupation des sols rendu
 public ou approuvé, il est établi un plan d'aménagement de zone compatible avec le schéma de secteur, s'il en existe un.
 
-Ce plan comprend [*contenu*] :
+Ce plan comprend[*contenu*] :
 
 a) Un ou plusieurs documents graphiques ;
 
 b) Un règlement.
 
-Il est accompagné d'un rapport de présentation ainsi que des annexes énumérées à l'article R. 123-24 (2e, 3e et 4e).
+Il est accompagné d'un rapport de présentation ainsi que des annexes énumérées à l'article R. 123-24 (2°, 3°, 4° et 8°).
 
 **Liens relatifs à cet article**
 
@@ -30822,13 +30832,17 @@ Il est accompagné d'un rapport de présentation ainsi que des annexes énumér�
 
 	  - Décret n°69-500 1969-05-30 ART. 2
 
-	**Cite**:
-
-	  - Code de l'urbanisme R123-24
-
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°95-21 du 9 janvier 1995 - art. 9 () JORF 10 janvier 1995
+
+	**Cite**:
+
+	  - Code de l'urbanisme R123-24
 
 
 ###### Article R*311-10-1
@@ -30864,7 +30878,7 @@ d) Présente le programme des équipements publics à réaliser dans la zone.
 
 ###### Article R*311-10-2
 
-Les documents graphiques font apparaître notamment [*contenu, plan d'aménagement*] :
+Les documents graphiques font apparaître notamment, plan d'aménagement :
 
 a) L'organisation de la zone en ce qui concerne :
 
@@ -30878,7 +30892,25 @@ c) Les espaces boisés soumis aux dispositions de l'article L. 130-1 ;
 
 d) Les servitudes d'utilité publique existantes et affectant l'utilisation du sol à l'intérieur de la zone considérée.
 
+e) Les secteurs situés au voisinage des infrastructures de transports terrestres qui sont affectés par le bruit, et dans
+lesquels existent des prescriptions d'isolement acoustique, déterminés en application de l'article 13 de la loi n° 92-1444 du
+31 décembre 1992 relative à la lutte contre le bruit.
+
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°92-1444 1992-12-31 art. 13
+	  - Code de l'urbanisme - art. L130-1 (M)
+	  - Code de l'urbanisme - art. R311-10-3 (M)
+
+	**Modifié par**:
+
+	  - Décret n°95-21 du 9 janvier 1995 - art. 9 () JORF 10 janvier 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2001-261 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
 
 	**Codifié par**:
 
@@ -44345,23 +44377,29 @@ formalités administratives à accomplir préalablement à l'affectation du terr
 d'obtenir l'accord du représentant du ministre chargé des monuments historiques ou des sites, lorsque cet accord est
 nécessaire et que celui-ci assorti ou non de réserves n'a pu être formulé avant la délivrance du certificat d'urbanisme.
 
+Le certificat d'urbanisme informe, lorsqu'il y a lieu, le demandeur que le terrain se trouve dans un secteur, situé au
+voisinage d'infrastructures de transports terrestres, affecté par le bruit, dans lequel existent des prescriptions
+d'isolement acoustique, déterminées en application de l'article 13 de la loi n° 92-1444 du 31 décembre 1992 relative à la
+lutte contre le bruit.
+
 **Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°2001-261 2001-03-27 art. 9 JORF 28 mars 2001
+
+	**Cite**:
+
+	  - Code de l'urbanisme R410-12
+	  - Loi n°92-1444 1992-12-31 art. 13
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°83-1262 1983-12-30 ART. 17 : Les communes qui, avant l'intervention du présent décret, avaient pouvoir, aux lieu et place du directeur départemental de l'équipement, d'instruire les demandes de certificat d'urbanisme, continuent à exercer ce p
-
 	**Modifié par**:
 
-	  - Décret n°83-1262 1983-12-30 ART. 9 JORF 7 JANVIER 1984 en vigueur 1er AVRIL 1984
-
-	**Cite**:
-
-	  - Code de l'urbanisme R410-12
+	  - Décret n°95-21 du 9 janvier 1995 - art. 9 () JORF 10 janvier 1995
 
 
 ###### Article R*410-14
