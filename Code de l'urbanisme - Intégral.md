@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1991-10-19
+Version Consolidée au 1992-01-01
 
 # Partie législative
 
@@ -54153,20 +54153,20 @@ l'urbanisme.
 
 ###### Article A421-1
 
-" La demande de permis de construire prévue à l'article R. 421-1-1 est établie conformément à l'un des modèles annexés au
-présent article (5). "
+La demande de permis de construire prévue à l'article R. 421-1-1 est établie conformément à l'un des modèles annexés au
+présent article.
 
-Nota :
+**Nota:**
 
-(5) Les imprimés de demande de permis de construire sont enregistrés au C.E.R.F.A. sous les numéros suivants :
+Nota : Les imprimés de demande de permis de construire sont enregistrés au Cerfa sous les numéros suivants :
 
-- 46-0323 Demande de permis de construire une ligne d'énergie électrique (imprimé P.C. 155 bis) ;
+46-0323 : demande de permis de construire une ligne électrique (imprimé PC 155 bis) ;
 
-- 46-0376 Demande de permis de construire une maison individuelle (imprimé P.C. 157) ;
+46-0398 : demande de permis de construire une maison individuelle (imprimé PC 157) ;
 
-- 46-0379 Demande de permis de construire (imprimé P.C. 158) ;
+46-0399 : demande de permis de construire (imprimé PC 158) ;
 
-- 46-0383 Demande de permis de construire modificatif (imprimé P.C. 158 bis).
+46-0383 : demande de permis de construire modificatif (imprimé PC 158 bis).
 
 Ils peuvent être obtenus auprès des mairies ou des directions départementales de l'équipement.
 
@@ -54174,7 +54174,15 @@ Ils peuvent être obtenus auprès des mairies ou des directions départementales
 
 	**Modifié par**:
 
-	  - Arrêté 1989-01-06 art. 4 I JORF 4 février 1989
+	  - Arrêté 1991-12-13 art. 1 JORF 1er janvier 1992
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1991-12-13 art. 2
+
+	**Abrogé par**:
+
+	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
 
 	**Codifié par**:
 
