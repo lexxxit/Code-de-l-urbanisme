@@ -75,8 +75,8 @@ Zones de protection des sites créées en application de l'article 17 de la loi 
 
 c) patrimoine architectural et urbain.
 
-Zones de protection du patrimoine architectural et urbain instituées en application de l'article 70 de la loi n° 83-8 du 7
-janvier 1983.
+Zones de protection du patrimoine architectural et urbain instituées en application des articles L. 642-1 et L. 642-2 du code
+du patrimoine.
 
 C. - Patrimoine sportif.
 
@@ -273,10 +273,11 @@ installations classées pour la protection de l'environnement.
 	  - Code des postes et télécommunications L54 à L56-1, R21 à R26-1, L57 à L62-1, R27 à R39, L45-1, L48
 	  - Code rural 100, 101, L112-2, 128-7, 128-9, 128-6, 138-1, 135 à 138, 424
 	  - Décret n°1935-10-30 art. 6, art. 3, art. 2
+	  - Loi n°46-628 1946-04-08 art. 35
+	  - Loi n°58-336 du 29 mars 1958 - art. 11 (M)
+	  - Ordonnance n°58-1132 du 25 novembre 1958 - art. 7 (Ab)
+	  - Ordonnance 58-1311 1958-12-23
 	  - Décret n°58-1316 1958-12-23
-	  - Décret n°59-96 1959-01-07
-	  - Décret n°59-645 1959-05-16
-	  - Décret n°61-859 1961-08-01
 	  - Décret n°64-158 1964-02-15
 	  - Décret n°64-481 1964-01-23 art. 25
 	  - Loi n°1791-07-08
@@ -295,12 +296,11 @@ installations classées pour la protection de l'environnement.
 	  - Loi n°1933-05-27
 	  - Loi n°1933-07-11
 	  - Loi n°1941-07-08
-	  - Loi n°46-628 1946-04-08 art. 35
-	  - Loi n°58-336 du 29 mars 1958 - art. 11 (M)
-	  - Ordonnance n°58-1132 du 25 novembre 1958 - art. 7 (Ab)
-	  - Ordonnance 58-1311 1958-12-23
 	  - Ordonnance n°58-1332 du 23 décembre 1958 - art. 6 (Ab)
+	  - Décret n°59-96 1959-01-07
+	  - Décret n°59-645 1959-05-16
 	  - Loi n°60-708 1960-07-22
+	  - Décret n°61-859 1961-08-01
 	  - Loi n°62-904 1962-08-04
 	  - Loi n°65-498 1965-06-29
 	  - Loi n°66-1066 1966-12-31
@@ -311,7 +311,6 @@ installations classées pour la protection de l'environnement.
 	  - Loi n°76-629 du 10 juillet 1976 - art. 27 (M)
 	  - Loi n°76-663 1976-07-19 art. 7-1 à 7-4
 	  - Loi n°80-531 1980-07-15
-	  - Loi n°83-8 1983-01-07 art. 70
 	  - Loi n°83-663 1983-07-22 art. 58-1
 	  - Loi n°84-610 du 16 juillet 1984 - art. 42 (M)
 	  - Loi n°85-30 1985-01-09 art. 53
@@ -331,11 +330,12 @@ installations classées pour la protection de l'environnement.
 	  - Code de la santé publique - art. L736 (M)
 	  - Code de l'urbanisme - art. L160-6 (M)
 	  - Code de l'urbanisme - art. L160-6-1 (V)
-	  - Code de l'urbanisme 11, L160-6, L160-6-1
 	  - Code de l'aviation civile - art. L281-1 (M)
 	  - Code de l'aviation civile - art. R244-1 (M)
 	  - Code de l'aviation civile - art. R245-1 (M)
 	  - Code de l'aviation civile L281-1, R241-1 à R243-3, R245-1, R244-1, D244-1 à D244-4
+	  - Code du patrimoine. - art. L642-1 (M)
+	  - Code du patrimoine. - art. L642-2 (M)
 	  - Code du domaine public fluvial et de la navigation - art. 15 (M)
 	  - Code du domaine public fluvial et de la navigation - art. 16 (M)
 	  - Code du domaine public fluvial et de la navigation - art. 28 (M)
@@ -347,4 +347,4 @@ installations classées pour la protection de l'environnement.
 
 	**Modifié par**:
 
-	  - Décret n°2001-244 du 20 mars 2001 - art. 2 () JORF 23 mars 2001
+	  - Ordonnance 2004-178 2004-02-20 art. 3 JORF 24 février 2004

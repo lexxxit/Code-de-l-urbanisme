@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2004-02-14
+Version Consolidée au 2004-02-24
 
 # Partie législative
 
@@ -10374,20 +10374,14 @@ simplification du droit et au plus tard jusqu'au 31 décembre 2006."
 ###### Article L313-2-1
 
 Les immeubles situés dans le périmètre d'un secteur sauvegardé dont le plan de sauvegarde et de mise en valeur a été approuvé
-ne sont pas soumis aux servitudes d'utilité publique instituées en application du 3° de l'article 1er, des articles 13 bis et
-13 ter de la loi du 31 décembre 1913 sur les monuments historiques et de l'article L. 341-1 du code de l'environnement.
+ne sont pas soumis aux servitudes d'utilité publique instituées en application de l'article L. 621-2 du code du patrimoine,
+des articles L. 621-31 et L. 621-32 du code du patrimoine et de l'article L. 341-1 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-590 du 2 juillet 2003 - art. 47 () JORF 3 juillet 2003
-
-	**Cite**:
-
-	  - Code de l'urbanisme 1
-	  - Code de l'environnement - art. L341-1 (M)
-	  - Loi n°1913-12-31 art. 13 bis, art. 13 ter
+	  - Ordonnance 2004-178 2004-02-20 art. 3 JORF 24 février 2004
 
 	**Liens**:
 
@@ -10396,6 +10390,13 @@ ne sont pas soumis aux servitudes d'utilité publique instituées en application
 	**Cité par**:
 
 	  - Code du patrimoine. - art. L641-1 (VD)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L341-1 (M)
+	  - Code du patrimoine. - art. L621-2 (M)
+	  - Code du patrimoine. - art. L621-31 (M)
+	  - Code du patrimoine. - art. L621-32 (M)
 
 	**Codifié par**:
 
@@ -14262,8 +14263,7 @@ lieu à la participation instituée dans les secteurs d'aménagement définis à
 
 3° La réalisation des équipements propres mentionnées à l'article L. 332-15 ;
 
-4° Le versement de la redevance d'archéologie préventive prévue à l'article 9 de la loi n° 2001-44 du 17 janvier 2001
-relative à l'archéologie préventive.
+4° Le versement de la redevance d'archéologie préventive prévue aux articles L. 524-2 à L. 524-13 du code du patrimoine.
 
 **Liens relatifs à cet article**
 
@@ -14289,13 +14289,13 @@ relative à l'archéologie préventive.
 
 	**Modifié par**:
 
-	  - Loi n°2001-44 du 17 janvier 2001 - art. 11 () JORF 18 janvier 2001
+	  - Ordonnance 2004-178 2004-02-20 art. 3 JORF 24 février 2004
 
 	**Cite**:
 
-	  - Loi n°2001-44 du 17 janvier 2001 - art. 9 (M)
 	  - CGI 1585 A
 	  - Code de l'urbanisme - art. L332-9 (M)
+	  - Code du patrimoine L524-2 à L524-13
 
 	**Codifié par**:
 
@@ -16809,17 +16809,17 @@ l'ordonnance au 1er octobre 2007.
 
 Les dispositions du présent titre s'appliquent  :
 
-a) dans les communes visées à l'article 10 (7.) de la loi n° 48-1360 du 1er septembre 1948, modifié par l'article 4 de
+a) dans les communes visées à l'article 10 (7°) de la loi n° 48-1360 du 1er septembre 1948, modifié par l'article 4 de
 l'ordonnance n° 58-1343 du 27 décembre 1958 ;
 
 b) dans les secteurs sauvegardés et les périmètres de restauration immobilière créés en application des articles L. 313-1 à
 L. 313-15 ;
 
-c) dans les zones auxquelles s'appliquent les dispositions de l'article 13 bis de la loi du 31 décembre 1913 modifiée sur les
-monuments historiques et de la loi du 2 mai 1930 modifiée relative à la protection des monuments naturels et des sites ;
+c) dans les zones auxquelles s'appliquent les dispositions de l'article L. 621-31 du code du patrimoine et de la loi du 2 mai
+1930 modifiée relative à la protection des monuments naturels et des sites ;
 
 d) dans les zones délimitées par un plan d'occupation des sols rendu public ou un plan local d'urbanisme approuvé, en
-application du 7. de l'article L. 123-1 ;
+application du 7° de l'article L. 123-1 ;
 
 e) dans les zones délimitées à l'intérieur des périmètres sensibles dans les conditions définies à l'article L. 142-3 dans sa
 rédaction antérieure à la loi n° 85-729 du 18 juillet 1985, dans les zones délimitées en application de l'article L. 142-11
@@ -16828,14 +16828,19 @@ dans sa rédaction antérieure à la loi n° 83-8 du 7 janvier 1983 ;
 
 f) aux immeubles ou parties d'immeubles inscrits sur l'inventaire supplémentaire des monuments historiques ;
 
-g) dans les zones de protection du patrimoine architectural et urbain créées en application de l'article 70 de la loi n° 83-8
-du 7 janvier 1983 relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat.
-
-Toutefois, les immeubles classés en application de la loi du 31 décembre 1913, ainsi que les sites classés en application de
-la loi du 2 mai 1930, demeurent régis par les dispositions particulières de ces lois ;
+g) dans les zones de protection du patrimoine architectural et urbain créées en application des articles L. 642-1 et L. 642-2
+du code du patrimoine ;
 
 h) Dans les communes qui ne sont pas dotées d'un plan local d'urbanisme ou d'un plan d'occupation des sols approuvé, dans des
 périmètres délimités par délibération du conseil municipal.
+
+Toutefois, les immeubles classés en application de la loi du 31 décembre 1913, ainsi que les sites classés en application de
+la loi du 2 mai 1930, demeurent régis par les dispositions particulières de ces lois.
+
+**Nota:**
+
+NOTA : La loi du 31 décembre 1913 a été abrogée par l'article 7 de l'ordonnance n° 2004-178 (publiée au JO du 24 février
+2004) et codifiée dans le code du patrimoine.
 
 **Liens relatifs à cet article**
 
@@ -16843,12 +16848,14 @@ périmètres délimités par délibération du conseil municipal.
 
 	  - Loi n°48-1360 1948-09-01 art. 10
 	  - Ordonnance 58-1343 1958-12-27 art. 4
-	  - Loi n°83-8 1983-01-07 art. 70
 	  - Loi n°85-729 1985-07-18
 	  - Code de l'urbanisme - art. L142-11 (M)
 	  - Code de l'urbanisme - art. L142-3 (M)
 	  - Code de l'urbanisme - art. L143-1 (M)
 	  - Code de l'urbanisme L313-1 à L313-15, L142-3, L142-11, L143-1
+	  - Code du patrimoine. - art. L621-31 (M)
+	  - Code du patrimoine. - art. L642-1 (M)
+	  - Code du patrimoine. - art. L642-2 (M)
 	  - Loi n°1913-12-31 art. 13 bis
 	  - Loi n°1930-05-02
 
@@ -16881,7 +16888,7 @@ périmètres délimités par délibération du conseil municipal.
 
 	**Modifié par**:
 
-	  - Loi n°2003-590 du 2 juillet 2003 - art. 57 () JORF 3 juillet 2003
+	  - Ordonnance 2004-178 2004-02-20 art. 3 JORF 24 février 2004
 
 	**Liens**:
 
@@ -18358,103 +18365,6 @@ l'ordonnance au 1er octobre 2007.
 
 ### TITRE VIII : Infractions.
 
-###### Article L480-1
-
-Les infractions aux dispositions des titres Ier, II, III, IV et VI du présent livre sont constatées par tous officiers ou
-agents de police judiciaire ainsi que par tous les fonctionnaires et agents de l'Etat et des collectivités publiques
-commissionnés à cet effet par le maire ou le ministre chargé de l'urbanisme suivant l'autorité dont ils relèvent et
-assermentés. Les procès-verbaux dressés par ces agents font foi jusqu'à preuve du contraire.
-
-Les infractions visées à l'article L. 480-4 peuvent être constatées par les agents commissionnés à cet effet par le ministre
-chargé des monuments historiques et des sites, et assermentés, lorsqu'elles affectent des immeubles compris dans un secteur
-sauvegardé ou soumis aux dispositions législatives du code du patrimoine relatives aux monuments historiques ou aux
-dispositions législatives du code de l'environnement relatives aux sites et qu'elles consistent, soit dans le défaut de
-permis de construire, soit dans la non-conformité de la construction ou des travaux au permis de construire accordé. Il en
-est de même des infractions aux prescriptions établies en application de l'article 2 de la loi n° 2001-44 du 17 janvier 2001
-relative à l'archéologie préventive.
-
-Lorsque l'autorité administrative et, au cas où il est compétent pour délivrer les autorisations, le maire ou le président de
-l'établissement public de coopération intercommunale compétent ont connaissance d'une infraction de la nature de celles que
-prévoient les articles L. 160-1 et L. 480-4, ils sont tenus d'en faire dresser procès verbal.
-
-Copie du procès-verbal constatant une infraction est transmise sans délai au ministère public.
-
-Toute association agréée de protection de l'environnement en application des dispositions de l'article L. 252-1 du code rural
-peut exercer les droits reconnus à la partie civile en ce qui concerne les faits constituant une infraction à l'alinéa 1er du
-présent article et portant un préjudice direct ou indirect aux intérêts collectifs qu'elle a pour objet de défendre.
-
-La commune peut exercer les droits reconnus à la partie civile, en ce qui concerne les faits commis sur son territoire et
-constituant une infraction à l'alinéa premier du présent article.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 30 bis (Ab)
-	  - Décret du 28 juin 1930 - art. 9 (V)
-	  - Loi n°48-1360 du 1 septembre 1948 - art. 59 bis (V)
-	  - Loi n°74-908 du 29 octobre 1974 - art. 9 (VT)
-	  - Loi n°75-1351 du 31 décembre 1975 - art. 10-1 A (V)
-	  - Loi n°80-531 du 15 juillet 1980 - art. 10 (VT)
-	  - Loi n°83-8 du 7 janvier 1983 - art. 71 (M)
-	  - Loi n°87-565 du 22 juillet 1987 - art. 40-5 (Ab)
-	  - Décret n°2005-116 du 7 février 2005 - art. 11 (Ab)
-	  - Arrêté du 14 avril 2009 - art. 3 (V)
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 77
-	  - Arrêté du 7 juillet 1977 - art. ANNEXE (Ab)
-	  - Code de l'environnement - art. L341-19 (VT)
-	  - Code de l'environnement - art. L515-24 (V)
-	  - Code de l'environnement - art. L562-5 (V)
-	  - Code de l'environnement - art. R216-11 (V)
-	  - Code de l'urbanisme - art. A160-1 (V)
-	  - Code de l'urbanisme - art. L160-1 (VT)
-	  - Code de l'urbanisme - art. L313-12 (V)
-	  - Code de l'urbanisme - art. L316-1 (Ab)
-	  - Code de l'urbanisme - art. L430-4-2 (Ab)
-	  - Code de l'urbanisme - art. L480-10 (Ab)
-	  - Code de l'urbanisme - art. L480-2 (V)
-	  - Code de l'urbanisme - art. L550-1 (V)
-	  - Code de l'urbanisme - art. L610-1 (VD)
-	  - Code de l'urbanisme - art. L740-6 (VT)
-	  - Code de l'urbanisme - art. R*160-7 (VT)
-	  - Code de l'urbanisme - art. R*332-9 (Ab)
-	  - Code de l'urbanisme - art. R620-2 (V)
-	  - Code de l'énergie - art. L712-4 (V)
-	  - Code du patrimoine - art. L624-3 (V)
-	  - Code du patrimoine - art. L641-1 (VD)
-	  - Code du patrimoine. - art. L630-1 (VD)
-	  - Code du patrimoine. - art. L641-2 (V)
-	  - Code du travail - art. L263-11 (T)
-	  - Code du travail - art. L263-12 (AbD)
-	  - Code du travail - art. L4744-7 (V)
-	  - Loi n°1930-05-02 du 2 mai 1930 - art. 21 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°2001-44 du 17 janvier 2001 - art. 11 () JORF 18 janvier 2001
-
-	**Cite**:
-
-	  - Loi n°2001-44 du 17 janvier 2001 - art. 2 (M)
-	  - Code de l'urbanisme - art. L480-4 (M)
-	  - Code rural L252-1
-	  - Loi n°1913-12-31
-	  - Loi n°1930-05-02
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L480-4 (M)
-	  - PILOTE_SUIVEUR: Code du patrimoine - art. L641-2 (VD)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 101
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-
 ###### Article L480-2
 
 L'interruption des travaux peut être ordonnée soit sur réquisition du ministère public agissant à la requête du maire, du
@@ -19166,6 +19076,107 @@ l'ordonnance au 1er octobre 2007.
 	**Cité par**:
 
 	  - Code de l'environnement - art. L562-5 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+## Livre IV : Régime applicable aux constructions, aménagements et démolitions
+
+### Titre VIII : Infractions
+
+###### Article L480-1
+
+Les infractions aux dispositions des titres Ier, II, III, IV et VI du présent livre sont constatées par tous officiers ou
+agents de police judiciaire ainsi que par tous les fonctionnaires et agents de l'Etat et des collectivités publiques
+commissionnés à cet effet par le maire ou le ministre chargé de l'urbanisme suivant l'autorité dont ils relèvent et
+assermentés. Les procès-verbaux dressés par ces agents font foi jusqu'à preuve du contraire.
+
+Les infractions visées à l'article L. 480-4 peuvent être constatées par les agents commissionnés à cet effet par le ministre
+chargé des monuments historiques et des sites, et assermentés, lorsqu'elles affectent des immeubles compris dans un secteur
+sauvegardé ou soumis aux dispositions législatives du code du patrimoine relatives aux monuments historiques ou aux
+dispositions législatives du code de l'environnement relatives aux sites et qu'elles consistent, soit dans le défaut de
+permis de construire, soit dans la non-conformité de la construction ou des travaux au permis de construire accordé. Il en
+est de même des infractions aux prescriptions établies en application des articles L. 522-1 à L. 522-4 du code du patrimoine.
+
+Lorsque l'autorité administrative et, au cas où il est compétent pour délivrer les autorisations, le maire ou le président de
+l'établissement public de coopération intercommunale compétent ont connaissance d'une infraction de la nature de celles que
+prévoient les articles L. 160-1 et L. 480-4, ils sont tenus d'en faire dresser procès verbal.
+
+Copie du procès-verbal constatant une infraction est transmise sans délai au ministère public.
+
+Toute association agréée de protection de l'environnement en application des dispositions de l'article L. 252-1 du code rural
+peut exercer les droits reconnus à la partie civile en ce qui concerne les faits constituant une infraction à l'alinéa 1er du
+présent article et portant un préjudice direct ou indirect aux intérêts collectifs qu'elle a pour objet de défendre.
+
+La commune peut exercer les droits reconnus à la partie civile, en ce qui concerne les faits commis sur son territoire et
+constituant une infraction à l'alinéa premier du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 30 bis (Ab)
+	  - Décret du 28 juin 1930 - art. 9 (V)
+	  - Loi n°48-1360 du 1 septembre 1948 - art. 59 bis (V)
+	  - Loi n°74-908 du 29 octobre 1974 - art. 9 (VT)
+	  - Loi n°75-1351 du 31 décembre 1975 - art. 10-1 A (V)
+	  - Loi n°80-531 du 15 juillet 1980 - art. 10 (VT)
+	  - Loi n°83-8 du 7 janvier 1983 - art. 71 (M)
+	  - Loi n°87-565 du 22 juillet 1987 - art. 40-5 (Ab)
+	  - Décret n°2005-116 du 7 février 2005 - art. 11 (Ab)
+	  - Arrêté du 14 avril 2009 - art. 3 (V)
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 77
+	  - Arrêté du 7 juillet 1977 - art. ANNEXE (Ab)
+	  - Code de l'environnement - art. L341-19 (VT)
+	  - Code de l'environnement - art. L515-24 (V)
+	  - Code de l'environnement - art. L562-5 (V)
+	  - Code de l'environnement - art. R216-11 (V)
+	  - Code de l'urbanisme - art. A160-1 (V)
+	  - Code de l'urbanisme - art. L160-1 (VT)
+	  - Code de l'urbanisme - art. L313-12 (V)
+	  - Code de l'urbanisme - art. L316-1 (Ab)
+	  - Code de l'urbanisme - art. L430-4-2 (Ab)
+	  - Code de l'urbanisme - art. L480-10 (Ab)
+	  - Code de l'urbanisme - art. L480-2 (V)
+	  - Code de l'urbanisme - art. L550-1 (V)
+	  - Code de l'urbanisme - art. L610-1 (VD)
+	  - Code de l'urbanisme - art. L740-6 (VT)
+	  - Code de l'urbanisme - art. R*160-7 (VT)
+	  - Code de l'urbanisme - art. R*332-9 (Ab)
+	  - Code de l'urbanisme - art. R620-2 (V)
+	  - Code de l'énergie - art. L712-4 (V)
+	  - Code du patrimoine - art. L624-3 (V)
+	  - Code du patrimoine - art. L641-1 (VD)
+	  - Code du patrimoine. - art. L630-1 (VD)
+	  - Code du patrimoine. - art. L641-2 (V)
+	  - Code du travail - art. L263-11 (T)
+	  - Code du travail - art. L263-12 (AbD)
+	  - Code du travail - art. L4744-7 (V)
+	  - Loi n°1930-05-02 du 2 mai 1930 - art. 21 (Ab)
+
+	**Cite**:
+
+	  - Loi n°2001-44 du 17 janvier 2001 - art. 2 (M)
+	  - Code de l'urbanisme - art. L480-4 (M)
+	  - Code du patrimoine L522-1 à L522-4
+	  - Code rural L252-1
+	  - Loi n°1913-12-31
+	  - Loi n°1930-05-02
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-178 2004-02-20 art. 3 JORF 24 février 2004
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L480-4 (M)
+	  - PILOTE_SUIVEUR: Code du patrimoine - art. L641-2 (VD)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme 101
 
 	**Codifié par**:
 
@@ -22510,8 +22521,8 @@ du plan local d'urbanisme.
 
 Le préfet porte à la connaissance du maire ou du président de l'établissement public, outre les dispositions et documents
 mentionnés à l'article R. 121-1, s'il y a lieu, la proposition faite par l'architecte des Bâtiments de France, en application
-du sixième alinéa de l'article 1er de la loi du 31 décembre 1913 sur les monuments historiques, de modifier un ou plusieurs
-des périmètres mentionnés au cinquième alinéa du même article.
+de l'article L. 621-2 du code du patrimoine, de modifier un ou plusieurs des périmètres mentionnés au cinquième alinéa du
+même article.
 
 **Liens relatifs à cet article**
 
@@ -22519,13 +22530,9 @@ des périmètres mentionnés au cinquième alinéa du même article.
 
 	  - Décret n°70-1016 1970-10-28 art. 15
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
+	  - Ordonnance 2004-178 2004-02-20 art. 3 JORF 24 février 2004
 
 	**Cité par**:
 
@@ -22534,7 +22541,11 @@ des périmètres mentionnés au cinquième alinéa du même article.
 	**Cite**:
 
 	  - Code de l'urbanisme R121-1
-	  - Loi n°1913-12-31 art. 1
+	  - Code du patrimoine. - art. L621-2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*123-16
@@ -23702,32 +23713,35 @@ autorisation ne peut être accordée que si la procédure définie au deuxième 
 
 L'autorisation préalable au sens du cinquième alinéa de l'article L. 130-1 tient lieu, si elle est délivrée après avis
 conforme de l'architecte des bâtiments de France, de l'autorisation spéciale à laquelle sont soumis les déboisements dans les
-zones de protection du patrimoine architectural et urbain en application des articles 70 et 71 de la loi n° 83-8 du 7 janvier
-1983 relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat.
+zones de protection du patrimoine architectural et urbain en application des articles L. 642-1 à L. 642-4 du code du
+patrimoine.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°73-1023 1973-11-08
+	  - Ordonnance 2004-178 2004-02-20 art. 3 JORF 24 février 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 4 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 	**Cite**:
 
-	  - Loi n°83-8 1983-01-07 art. 70, art. 71
 	  - Code de l'urbanisme - art. L130-1 (M)
+	  - Code du patrimoine L642-1 à L642-4
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°84-229 1984-03-29 art. 8 : modalités d'application
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L130-2 (M)
-
-	**Créé par**:
-
-	  - Décret n°84-229 du 29 mars 1984 - art. 2 () JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
 
 	**Nouveaux textes**:
 
 	  - Code de l'urbanisme - art. R*130-17 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ##### II : Dispositions particulières applicables dans les communes où un plan local d'urbanisme a été approuvé.
@@ -31095,11 +31109,10 @@ favorable. Ce délai est porté à deux mois lorsqu'il est procédé à la consu
 d'aménagement foncier en application de l'article 35 du code rural. Lorsque la réalisation du lotissement envisagé est
 subordonné à l'avis ou à l'accord d'une autorité, d'un service ou d'une commission en application de la loi du 31 décembre
 1913 sur les monuments historiques, de la loi du 2 mai 1930 sur la protection des monuments naturels et des sites, du
-chapitre III de la loi n° 76-629 du 10 juillet 1976 relative à la protection de la nature, ou de l'article 71 de la loi
-n°83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les départements, les régions et
-l'Etat, l'autorité, le service ou la commission consulté peut faire connaître, par décision motivée, au service chargé de
-l'instruction de la demande son intention d'utiliser un délai plus long qui ne peut, en tout état de cause, excéder quatre
-mois.
+chapitre III de la loi n° 76-629 du 10 juillet 1976 relative à la protection de la nature, ou des articles L. 642-3 et L.
+642-4 du code du patrimoine, l'autorité, le service ou la commission consulté peut faire connaître, par décision motivée, au
+service chargé de l'instruction de la demande son intention d'utiliser un délai plus long qui ne peut, en tout état de cause,
+excéder quatre mois.
 
 Le même service instruit, au besoin d'office, les adaptations mineures au plan local d'urbanisme ou au document d'urbanisme
 en tenant lieu, ou les dérogations aux dispositions réglementaires relatives à l'urbanisme ou aux servitudes d'utilité
@@ -31111,30 +31124,36 @@ Le service chargé de l'instruction de la demande consulte en tant que de besoin
 demander que soient prescrites les contributions mentionnées à l'article L. 332-12. A défaut de réponse dans le délai d'un
 mois, ces autorités et services publics sont réputés n'avoir aucune proposition de contribution à formuler.
 
+**Nota:**
+
+NOTA : la loi du 31 décembre 1913 a été abrogée par l'article 7 de l'ordonnance n° 2004-178 (publiée au JO du 24 février
+2004) et codifiée dans le code du patrimoine.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
+	  - Loi n°76-629 1976-07-10
+	  - Code de l'urbanisme - art. L315-6 (M)
+	  - Code de l'urbanisme - art. L332-12 (M)
+	  - Code du patrimoine. - art. L642-3 (V)
+	  - Code du patrimoine. - art. L642-4 (V)
 	  - Code rural 35
 	  - Loi n°1913-12-31
 	  - Loi n°1930-05-02
-	  - Loi n°76-629 1976-07-10
-	  - Loi n°83-8 1983-01-07 art. 71
-	  - Code de l'urbanisme - art. L315-6 (M)
-	  - Code de l'urbanisme - art. L332-12 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 	**Modifié par**:
 
-	  - Décret n°2001-260 du 27 mars 2001 - art. 3 () JORF 28 mars 2001
+	  - Ordonnance 2004-178 2004-02-20 art. 3 JORF 24 février 2004
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*315-19 (Ab)
 	  - Code de l'urbanisme - art. R*315-23 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*315-18-1
@@ -44599,8 +44618,8 @@ exercées par le préfet de Corse.
 
 I. - Lorsque la construction se trouve dans un site classé ou en instance de classement, ou dans une zone de protection créée
 par décret en application des articles 17 ou 28 de la loi du 2 mai 1930, le permis de construire ne peut être délivré qu'avec
-l'accord exprès de l'autorité compétente en application du décret 88-1124 du 15 décembre 1988 , ou de l'autorité mentionnée
-dans le décret instituant la zone de protection.
+l'accord exprès de l'autorité compétente en application du décret n° 88-1124 du 15 décembre 1988 (1), ou de l'autorité
+mentionnée dans le décret instituant la zone de protection.
 
 II. - Lorsque la construction se trouve dans une zone de protection du patrimoine architectural, urbain et paysager le permis
 de construire ne peut être délivré qu'avec l'accord de l'architecte des bâtiments de France. Cet accord est réputé favorable
@@ -44608,9 +44627,8 @@ faute de réponse dans le délai d'un mois suivant la transmission de la demande
 de son instruction, sauf si l'architecte des bâtiments de France fait connaître dans ce délai, par une décision motivée, à
 cette autorité, son intention d'utiliser un délai plus long qui ne peut, en tout état de cause, excéder quatre mois.
 
-En application du deuxième alinéa de l'article 71 de la loi du 7 janvier 1983 relative à la répartition de compétences entre
-les communes, les départements, les régions et l'Etat, le préfet de région est saisi par lettre recommandée avec demande
-d'avis de réception soit :
+En application du deuxième alinéa de l'article L. 642-3 du code du patrimoine, le préfet de région est saisi par lettre
+recommandée avec demande d'avis de réception soit :
 
 a) Par le maire ou l'autorité compétente pour délivrer le permis de construire, dans le délai d'un mois à compter de la
 réception de l'avis émis par l'architecte des Bâtiments de France ;
@@ -44634,17 +44652,26 @@ compétente pour délivrer le permis.
 Dans la collectivité territoriale de Corse, les attributions conférées par le présent article au préfet de région sont
 exercées par le préfet de Corse.
 
+**Nota:**
+
+NOTA : (1) Décret abrogé par le décret n° 2005-935 et codifié sous les articles R. 341-10 à R. 341-13 du code de
+l'environnement.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°83-8 1983-01-07 art. 71
 	  - Décret n°88-1124 1988-12-15
+	  - Code du patrimoine. - art. L642-3 (V)
 	  - Loi n°1930-05-02 art. 17, art. 28
 
 	**Modifié par**:
 
-	  - Décret n°2004-142 du 12 février 2004 - art. 15 () JORF 14 février 2004
+	  - Ordonnance 2004-178 2004-02-20 art. 3 JORF 24 février 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 	**Cité par**:
 
@@ -47152,9 +47179,8 @@ exercées par le préfet de Corse.
 Lorsque le bâtiment se situe dans une zone de protection du patrimoine architectural, urbain et paysager la décision doit
 être conforme à l'avis de l'architecte des bâtiments de France.
 
-En application du deuxième alinéa de l'article 71 de la loi du 7 janvier 1983 relative à la répartition de compétences entre
-les communes, les départements, les régions et l'Etat, le préfet de région est saisi par lettre recommandée avec demande
-d'avis de réception soit :
+En application du deuxième alinéa de l'article L. 642-3 du code du patrimoine, le préfet de région est saisi par lettre
+recommandée avec demande d'avis de réception soit :
 
 a) Par le maire ou l'autorité compétente pour délivrer le permis de démolir, dans un délai d'un mois à compter de la
 réception de l'avis émis par l'architecte des Bâtiments de France ;
@@ -47200,13 +47226,17 @@ exercées par le préfet de Corse.
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Cite**:
-
-	  - Loi n°83-8 1983-01-07 art. 71
-
 	**Modifié par**:
 
-	  - Décret n°2004-142 du 12 février 2004 - art. 20 () JORF 14 février 2004
+	  - Ordonnance 2004-178 2004-02-20 art. 3 JORF 24 février 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code du patrimoine. - art. L642-3 (V)
 
 
 ###### Article R*430-15
@@ -47574,8 +47604,8 @@ Lorsqu'un immeuble menaçant ruine est inscrit sur l'inventaire supplémentaire 
 champ de visibilité d'un édifice classé ou inscrit ou est protégé au titre des articles 4, 9, 17 ou 28 de la loi du 2 mai
 1930, sa réparation ou sa démolition ne peut être ordonnée par le maire conformément aux articles L. 511-1 et L. 511-2 du
 code de la construction et de l'habitation qu'après avis de l'architecte des bâtiments de France. Cet avis est réputé délivré
-en l'absence de réponse dans le délai de huit jours[*silence*]. Il en est de même lorsque l'immeuble menacant ruine se situe
-dans une zone de protection créée conformément à l'article 70 de la loi n° 83-8 du 7 janvier 1983.
+en l'absence de réponse dans le délai de huit jours. Il en est de même lorsque l'immeuble menacant ruine se situe dans une
+zone de protection créée conformément aux articles L. 642-1 et L. 642-2 du code du patrimoine.
 
 L'architecte des bâtiments de France est invité à assister à l'expertise prévue à l'article L. 511-2 du code de la
 construction et de l'habitation.
@@ -47590,26 +47620,26 @@ propriétaire.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°73-1023 1973-11-08
+	  - Ordonnance 2004-178 2004-02-20 art. 3 JORF 24 février 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1359 du 8 novembre 2006 - art. 6 (V) JORF 10 novembre 2006
 
 	**Cite**:
 
-	  - Loi n°83-8 1983-01-07 art. 70
 	  - Code de l'urbanisme L511-1, L511-2
 	  - Code de la construction et de l'habitation. - art. L511-2 (M)
 	  - Code de la construction et de l'habitation. - art. L511-3 (M)
+	  - Code du patrimoine. - art. L642-1 (M)
+	  - Code du patrimoine. - art. L642-2 (M)
 	  - Loi n°1930-05-02 art. 4, art. 9, art. 17, art. 28
 
-	**Liens**:
+	**Codifié par**:
 
-	  - SPEC_APPLI: Décret n°84-224 1984-03-29 ART. 21, ART. 22 : Modalités d'application
-	  - SPEC_APPLI: Décret n°84-224 du 29 mars 1984 - art. 21 (M)
-
-	**Modifié par**:
-
-	  - Décret n°84-224 1984-03-29 art. 19 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*430-27
@@ -47617,33 +47647,31 @@ propriétaire.
 Lorsqu'un immeuble insalubre est inscrit sur l'inventaire supplémentaire des monuments historiques, est situé dans le champ
 de visibilité d'un édifice classé ou inscrit ou est protégé au titre des articles 4, 9, 17 ou 28 de la loi du 2 mai 1930, sa
 démolition ne peut être ordonnée par le préfet en application de l'article L. 28 du code de la santé publique qu'après avis
-de l'architecte des bâtiments de France. Cet avis est réputé délivré en l'absence de réponse dans le délai de quinze jours
-[*silence*].
+de l'architecte des bâtiments de France. Cet avis est réputé délivré en l'absence de réponse dans le délai de quinze jours.
 
-Il en est de même lorsque l'immeuble insalubre se situe dans une zone de protection créée conformément à l'article 70 de la
-loi n° 83-8 du 7 janvier 1983.
+Il en est de même lorsque l'immeuble insalubre se situe dans une zone de protection créée conformément aux articles L. 642-1
+et L. 642-2 du code du patrimoine.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-178 2004-02-20 art. 3 JORF 24 février 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1359 du 8 novembre 2006 - art. 6 (V) JORF 10 novembre 2006
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L28 (M)
+	  - Code du patrimoine. - art. L642-1 (M)
+	  - Code du patrimoine. - art. L642-2 (M)
+	  - Loi n°1930-05-02 art. 4, art. 9, art. 17, art. 28
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Cite**:
-
-	  - Loi n°83-8 1983-01-07 ART. 70
-	  - Code de la santé publique - art. L28 (M)
-	  - Loi n°1930-05-02 ART. 4, 9, 17, 28
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-224 1984-03-29 ART. 21, ART. 22 : Modalités d'application
-	  - SPEC_APPLI: Décret n°84-224 du 29 mars 1984 - art. 21 (M)
-
-	**Modifié par**:
-
-	  - Décret n°84-224 1984-03-29 art. 20 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 
 ### Titre IV : Dispositions relatives aux modes particuliers d'utilisation du sol.
@@ -49104,33 +49132,35 @@ d'une demande de permis de construire n'est pas soumise au régime de péremptio
 
 ###### Article R*442-11-1
 
-Conformément aux dispositions de l'article 71 de la loi n° 83-8 du 7 janvier 1983, l'autorisation d'installations et de
+Conformément aux dispositions des articles L. 642-3 et L. 642-4 du code du patrimoine, l'autorisation d'installations et de
 travaux divers prévue à l'article L. 442-1 tient lieu de l'autorisation spéciale exigée pour les travaux projetés dans le
-périmètre des zones de protection du patrimoine architectural et urbain instituées en application de l'article 70 de la loi
-n° 83-8 du 7 janvier 1983.
+périmètre des zones de protection du patrimoine architectural et urbain instituées en application des articles L. 642-1 et L.
+642-2 du code du patrimoine.
 
-Dans ce cas, la décision est prise dans les conditions prévues à l'article R. 421-38-6-II.
+Dans ce cas, la décision est prise dans les conditions prévues à l'article R. 421-38-6 II.
 
 **Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L442-1 (M)
+	  - Code de l'urbanisme - art. R421-38-6 (M)
+	  - Code du patrimoine. - art. L642-1 (M)
+	  - Code du patrimoine. - art. L642-2 (M)
+	  - Code du patrimoine. - art. L642-3 (V)
+	  - Code du patrimoine. - art. L642-4 (V)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Loi n°83-8 1983-01-07 art. 71, art. 70
-	  - Code de l'urbanisme - art. L442-1 (M)
-	  - Code de l'urbanisme - art. R421-38-6 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-226 1984-03-29 ART. 33, ART. 34 : modalités d'application
-	  - SPEC_APPLI: Décret n°84-226 du 29 mars 1984 - art. 33 (M)
-
-	**Créé par**:
-
-	  - Décret n°84-226 1984-03-29 art. 26, art. 30 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+	  - Ordonnance 2004-178 2004-02-20 art. 3 JORF 24 février 2004
 
 
 ###### Article R*442-12
@@ -55969,8 +55999,8 @@ Zones de protection des sites créées en application de l'article 17 de la loi 
 
 c) patrimoine architectural et urbain.
 
-Zones de protection du patrimoine architectural et urbain instituées en application de l'article 70 de la loi n° 83-8 du 7
-janvier 1983.
+Zones de protection du patrimoine architectural et urbain instituées en application des articles L. 642-1 et L. 642-2 du code
+du patrimoine.
 
 C. - Patrimoine sportif.
 
@@ -56167,10 +56197,11 @@ installations classées pour la protection de l'environnement.
 	  - Code des postes et télécommunications L54 à L56-1, R21 à R26-1, L57 à L62-1, R27 à R39, L45-1, L48
 	  - Code rural 100, 101, L112-2, 128-7, 128-9, 128-6, 138-1, 135 à 138, 424
 	  - Décret n°1935-10-30 art. 6, art. 3, art. 2
+	  - Loi n°46-628 1946-04-08 art. 35
+	  - Loi n°58-336 du 29 mars 1958 - art. 11 (M)
+	  - Ordonnance n°58-1132 du 25 novembre 1958 - art. 7 (Ab)
+	  - Ordonnance 58-1311 1958-12-23
 	  - Décret n°58-1316 1958-12-23
-	  - Décret n°59-96 1959-01-07
-	  - Décret n°59-645 1959-05-16
-	  - Décret n°61-859 1961-08-01
 	  - Décret n°64-158 1964-02-15
 	  - Décret n°64-481 1964-01-23 art. 25
 	  - Loi n°1791-07-08
@@ -56189,12 +56220,11 @@ installations classées pour la protection de l'environnement.
 	  - Loi n°1933-05-27
 	  - Loi n°1933-07-11
 	  - Loi n°1941-07-08
-	  - Loi n°46-628 1946-04-08 art. 35
-	  - Loi n°58-336 du 29 mars 1958 - art. 11 (M)
-	  - Ordonnance n°58-1132 du 25 novembre 1958 - art. 7 (Ab)
-	  - Ordonnance 58-1311 1958-12-23
 	  - Ordonnance n°58-1332 du 23 décembre 1958 - art. 6 (Ab)
+	  - Décret n°59-96 1959-01-07
+	  - Décret n°59-645 1959-05-16
 	  - Loi n°60-708 1960-07-22
+	  - Décret n°61-859 1961-08-01
 	  - Loi n°62-904 1962-08-04
 	  - Loi n°65-498 1965-06-29
 	  - Loi n°66-1066 1966-12-31
@@ -56205,7 +56235,6 @@ installations classées pour la protection de l'environnement.
 	  - Loi n°76-629 du 10 juillet 1976 - art. 27 (M)
 	  - Loi n°76-663 1976-07-19 art. 7-1 à 7-4
 	  - Loi n°80-531 1980-07-15
-	  - Loi n°83-8 1983-01-07 art. 70
 	  - Loi n°83-663 1983-07-22 art. 58-1
 	  - Loi n°84-610 du 16 juillet 1984 - art. 42 (M)
 	  - Loi n°85-30 1985-01-09 art. 53
@@ -56225,11 +56254,12 @@ installations classées pour la protection de l'environnement.
 	  - Code de la santé publique - art. L736 (M)
 	  - Code de l'urbanisme - art. L160-6 (M)
 	  - Code de l'urbanisme - art. L160-6-1 (V)
-	  - Code de l'urbanisme 11, L160-6, L160-6-1
 	  - Code de l'aviation civile - art. L281-1 (M)
 	  - Code de l'aviation civile - art. R244-1 (M)
 	  - Code de l'aviation civile - art. R245-1 (M)
 	  - Code de l'aviation civile L281-1, R241-1 à R243-3, R245-1, R244-1, D244-1 à D244-4
+	  - Code du patrimoine. - art. L642-1 (M)
+	  - Code du patrimoine. - art. L642-2 (M)
 	  - Code du domaine public fluvial et de la navigation - art. 15 (M)
 	  - Code du domaine public fluvial et de la navigation - art. 16 (M)
 	  - Code du domaine public fluvial et de la navigation - art. 28 (M)
@@ -56241,7 +56271,7 @@ installations classées pour la protection de l'environnement.
 
 	**Modifié par**:
 
-	  - Décret n°2001-244 du 20 mars 2001 - art. 2 () JORF 23 mars 2001
+	  - Ordonnance 2004-178 2004-02-20 art. 3 JORF 24 février 2004
 
 
 ## Liste des communes comprises dans la zone 1
