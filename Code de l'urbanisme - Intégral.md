@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1974-12-28
+Version Consolidée au 1975-06-04
 
 # Partie législative
 
@@ -10823,6 +10823,33 @@ les tribunaux de grande instance dans le ressort desquels se trouve la commune e
 
 #### Chapitre IV : Dispositions transitoires relatives aux projets d'aménagement et aux plans d'urbanisme.
 
+###### Article R*124-1
+
+Les groupements d'urbanisme constitués en application de l'article 7 du décret n. 58-1463 du 31 décembre 1958 cesseront
+d'exister à compter de la date de publication du décret n. 75-433 du 2 juin 1975. Les dispositions de l'article L. 124-1
+demeurent applicables aux plans établis au titre de ces groupements.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°58-1463 1958-12-31 art. 7
+	  - Code de l'urbanisme - art. L124-1 (M)
+	  - Décret n°75-433 1975-06-02
+
+	**Abrogé par**:
+
+	  - Décret n°98-913 du 12 octobre 1998 - art. 41 (V) JORF 13 octobre 1998
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*710-1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ###### Article R*124-3
 
 Les plans d'urbanisme et projets d'aménagement dont l'établissement a été prescrit ou la révision ordonnée antérieurement au
@@ -12624,31 +12651,6 @@ par le plan.
 
 
 #### Dispositions transitoires relatives aux projets d'aménagement et aux plans d'urbanisme
-
-###### Article R*124-1
-
-Les groupements d'urbanisme constitués en application de l'article 7 du décret n. 58-1463 du 31 décembre 1958 pourront être
-modifiés dans les formes prévues à l'article R. 123-3.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°58-1463 1958-12-31 ART. 7
-	  - Code de l'urbanisme R123-3
-
-	**Anciens textes**:
-
-	  - Décret n°70-1016 1970-10-28 ART. 35 AL. 2
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*710-1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
 
 ###### Article R*124-2
 
