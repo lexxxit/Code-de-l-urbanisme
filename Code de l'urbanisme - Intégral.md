@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1980-07-20
+Version Consolidée au 1980-08-06
 
 # Partie législative
 
@@ -5784,6 +5784,47 @@ articles L. 313-3 et L. 313-4.
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L313-15
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent chapitre et, notamment, les conditions dans
+lesquelles s'appliquent la loi du 31 décembre 1913 sur les monuments historiques et la loi du 2 mai 1930 sur les sites, dans
+le cas où des immeubles relevant de l'une ou de l'autre de ces législations sont compris dans les secteurs sauvegardés.
+
+Ce décret fixe les conditions particulières d'élaboration, d'application anticipée des dispositions en cours d'élaboration
+d'un plan de sauvegarde et de mise en valeur après mise en révision et de modification du plan de sauvegarde et de mise en
+valeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Cite**:
+
+	  - Loi n°1913-12-31
+	  - Loi n°1930-05-02
+
+	**Anciens textes**:
+
+	  - Loi n°62-903 1962-08-04 art. 4
+
+	**Modifié par**:
+
+	  - Décret n°80-621 1980-07-31 art. 2 JORF 6 août 1980
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L322-2 (V)
+	  - Code de l'urbanisme - art. L430-3 (M)
+	  - Code de l'urbanisme - art. R313-19 (Ab)
+	  - Code du patrimoine. - art. L641-1 (VD)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code du patrimoine - art. L641-1 (VD)
 
 
 #### Chapitre IV : Opérations d'urbanisation.
@@ -12346,6 +12387,35 @@ La redevance est recouvrée par l'administration des domaines dans les mêmes co
 
 	  - Code de l'urbanisme - art. L430-3 (Ab)
 	  - Code de l'urbanisme - art. L520-3 (M)
+
+
+###### Article L520-6
+
+Le décret en Conseil d'Etat prévu à l'article L. 520-11 précise les conditions dans lesquelles, à dater du 8 juillet 1971 :
+
+Les propriétaires des locaux construits à titre précaire pour une durée de temps limitée pourront être remboursés de la
+redevance en tout ou partie, lors de la démolition de ces locaux ;
+
+Les propriétaires de locaux détruits par sinistre ou expropriés pour cause d'utilité publique auront le droit de reconstituer
+en exonération de la redevance une superficie de plancher utile équivalente à celle des locaux détruits ou expropriés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L520-11 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Anciens textes**:
+
+	  - Loi n°60-790 1960-08-02 art. 6
+
+	**Modifié par**:
+
+	  - Décret n°80-621 1980-07-31 art. 2 JORF 6 août 1980
 
 
 ###### Article L520-7
