@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1977-07-10
+Version Consolidée au 1977-07-14
 
 # Partie législative
 
@@ -32286,34 +32286,6 @@ définitives différentes pour chacun des copropriétaires, compte tenu de l'imp
 	  - Décret n°73-1023 1973-11-08
 
 
-#### CHAPITRE I : Dispositions propres à certaines utilisations de surface bâties
-
-#####  Section 1 : Cours communes
-
-###### Article R451-7
-
-(texte non reproduit).
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1178 1958-12-04 ART. 7
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*430-13 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. R451-4 (Ab)
-	  - Code de l'urbanisme - art. R451-4 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ### TITRE VI : Contrôle
 
 ####  Section 2 : Dispositions spéciales aux immeubles de grande hauteur.
@@ -40264,18 +40236,6 @@ Arrêté accordant le permis de construire ;
 
 Eventuellement, contrats ou décisions judiciaires en matière d'institution de servitudes dites de cours communes ou de
 minoration de densité sur les fonds voisins.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-
-###### Article A421-9
-
-Sur le territoire de la ville de Paris, la consultation s'effectue aux lieux, jours et heures fixés par arrêté du préfet de
-Paris.
 
 **Liens relatifs à cet article**
 
