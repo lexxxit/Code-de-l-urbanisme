@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2004-02-24
+Version Consolidée au 2004-03-30
 
 # Partie législative
 
@@ -25570,6 +25570,75 @@ consommation.
 
 #### Chapitre VI : Dispositions particulières au littoral
 
+###### Article R*146-2
+
+En application du deuxième alinéa de l'article L. 146-6, peuvent être implantés dans les espaces et milieux mentionnés à cet
+article, après enquête publique dans les cas prévus par le décret n° 85-453 du 23 avril 1985, les aménagements légers
+suivants, à condition que leur localisation et leur aspect ne dénaturent pas le caractère des sites, ne compromettent pas
+leur qualité architecturale et paysagère et ne portent pas atteinte à la préservation des milieux :
+
+a) Lorsqu'ils sont nécessaires à la gestion ou à l'ouverture au public de ces espaces ou milieux, les cheminements
+piétonniers et cyclables et les sentes équestres ni cimentés, ni bitumés, les objets mobiliers destinés à l'accueil ou à
+l'information du public, les postes d'observation de la faune ainsi que les équipements démontables liés à l'hygiène et à la
+sécurité tels que les sanitaires et les postes de secours lorsque leur localisation dans ces espaces est rendue indispensable
+par l'importance de la fréquentation du public ;
+
+b) Les aires de stationnement indispensables à la maîtrise de la fréquentation automobile et à la prévention de la
+dégradation de ces espaces par la résorption du stationnement irrégulier, sans qu'il en résulte un accroissement des
+capacités effectives de stationnement, à condition que ces aires ne soient ni cimentées ni bitumées et qu'aucune autre
+implantation ne soit possible ;
+
+c) La réfection des bâtiments existants et l'extension limitée des bâtiments et installations nécessaires à l'exercice
+d'activités économiques ;
+
+d) A l'exclusion de toute forme d'hébergement et à condition qu'ils soient en harmonie avec le site et les constructions
+existantes :
+
+- les aménagements nécessaires à l'exercice des activités agricoles, pastorales et forestières ne créant pas plus de 50
+mètres carrés de surface de plancher ;
+
+- dans les zones de pêche, de cultures marines ou lacustres, de conchyliculture, de saliculture et d'élevage d'ovins de prés
+salés, les constructions et aménagements exigeant la proximité immédiate de l'eau liés aux activités traditionnellement
+implantées dans ces zones, à la condition que leur localisation soit rendue indispensable par des nécessités techniques ;
+
+e) Les aménagements nécessaires à la gestion et à la remise en état d'éléments de patrimoine bâti reconnus par un classement
+au titre de la loi du 31 décembre 1913 ou localisés dans un site inscrit ou classé au titre des articles L. 341-1 et L. 341-2
+du code de l'environnement.
+
+Les aménagements mentionnés aux a, b et d du présent article doivent être conçus de manière à permettre un retour du site à
+l'état naturel.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°85-453 1985-04-23
+	  - Code de l'urbanisme - art. L146-6 (M)
+	  - Code de l'environnement - art. L341-1 (M)
+	  - Code de l'environnement - art. L341-2 (M)
+	  - Loi n°1913-12-31
+
+	**Cité par**:
+
+	  - Décret n°85-453 du 23 avril 1985 - art. Annexe (Ab)
+	  - Code de l'urbanisme - art. R*421-22 (M)
+	  - Code de l'urbanisme - art. R*442-4-1 (Ab)
+	  - Code de l'urbanisme - art. R*711-2 (Ab)
+	  - Code de l'urbanisme - art. R421-2 (M)
+	  - Code de l'urbanisme - art. R431-16 (VT)
+	  - Code de l'urbanisme - art. R442-2 (M)
+	  - Code de l'urbanisme - art. R442-6 (M)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 tervicies (M)
+
+	**Modifié par**:
+
+	  - Décret n°2004-310 du 29 mars 2004 - art. 2 () JORF 30 mars 2004
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ###### Article R146-1
 
 En application du premier alinéa de l'article L. 146-6, sont préservés, dès lors qu'ils constituent un site ou un paysage
@@ -25601,71 +25670,29 @@ accidents géologiques remarquables ;
 
 i) Les récifs coralliens, les lagons et les mangroves dans les départements d'outre-mer.
 
+Lorsqu'ils identifient des espaces ou milieux relevant du présent article, les documents d'urbanisme précisent, le cas
+échéant, la nature des activités et catégories d'équipements nécessaires à leur gestion ou à leur mise en valeur notamment
+économique.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
+	  - Loi n°60-708 1960-07-22
+	  - Loi n°76-629 du 10 juillet 1976 - art. 4 (Ab)
 	  - Code de l'urbanisme - art. L146-6 (M)
 	  - Directive CEE 79-409 1979-04-02
 	  - Loi n°1930-05-02
-	  - Loi n°60-708 1960-07-22
-	  - Loi n°76-629 du 10 juillet 1976 - art. 4 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2004-310 du 29 mars 2004 - art. 1 () JORF 30 mars 2004
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*711-1 (Ab)
 	  - Code de l'urbanisme - art. R146-2 (M)
 	  - Code général des collectivités territoriales - art. R4424-6 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°89-694 1989-09-20 art. 1 JORF 26 septembre 1989
-
-
-###### Article R146-2
-
-En application du deuxième alinéa de l'article L. 146-6, peuvent être implantés dans les espaces et milieux mentionnés à
-l'article R. 146-1, après enquête publique dans les cas prévus par le décret n° 85-453 du 23 avril 1985, les aménagements
-légers suivants :
-
-a) Les chemins piétonniers et les objets mobiliers destinés à l'accueil ou à l'information du public, lorsqu'ils sont
-nécessaires à la gestion ou à l'ouverture au public de ces espaces ou milieux ;
-
-b) Les aménagements nécessaires à l'exercice des activités agricoles, de pêche et cultures marines ou lacustres,
-conchylicoles, pastorales et forestières ne créant pas de surface hors oeuvre brute au sens de l'article R. 112-2 ainsi que
-des locaux d'une superficie maximale de 20 mètres carrés, liés et nécessaires à l'exercice de ces activités pour répondre aux
-prescriptions des règlements sanitaires nationaux ou communautaires, à condition que la localisation et l'aspect de ces
-aménagements et locaux ne dénaturent pas le caractère des lieux et que la localisation dans ces espaces ou milieux soit
-rendue indispensable par des nécessités techniques.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°85-453 1985-04-23
-	  - Code de l'urbanisme - art. L146-6 (M)
-	  - Code de l'urbanisme - art. R146-1 (M)
-	  - Code de l'urbanisme L146-6, R146-1, R112-2
-
-	**Cité par**:
-
-	  - Décret n°85-453 du 23 avril 1985 - art. Annexe (Ab)
-	  - Code de l'urbanisme - art. R*421-22 (M)
-	  - Code de l'urbanisme - art. R*442-4-1 (Ab)
-	  - Code de l'urbanisme - art. R*711-2 (Ab)
-	  - Code de l'urbanisme - art. R421-2 (M)
-	  - Code de l'urbanisme - art. R431-16 (VT)
-	  - Code de l'urbanisme - art. R442-2 (M)
-	  - Code de l'urbanisme - art. R442-6 (M)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 tervicies (M)
-
-	**Modifié par**:
-
-	  - Décret n°2000-1272 du 26 décembre 2000 - art. 2 () JORF 28 décembre 2000
 
 	**Codifié par**:
 
@@ -42565,7 +42592,11 @@ terme ;
 existants et expose et justifie les dispositions prévues pour assurer l'insertion dans ce paysage de la construction, de ses
 accès et de ses abords ;
 
-8° L'étude d'impact, lorsqu'elle est exigée.
+8° L'étude d'impact, lorsqu'elle est exigée ;
+
+9° Lorsque la demande concerne, dans un espace remarquable ou dans un milieu du littoral à préserver au sens de l'article L.
+146-6, un projet de construction visé au d de l'article R. 146-2, une notice précisant l'activité économique qui doit être
+exercée dans le bâtiment et justifiant, s'il y a lieu, que cette activité répond aux critères définis par cet article.
 
 B.  Les pièces 6 et 7 ne sont pas exigibles pour les demandes de permis de construire répondant à la fois aux trois
 conditions suivantes :
@@ -42588,6 +42619,10 @@ l'alimentation en eau et l'assainissement.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2004-310 du 29 mars 2004 - art. 3 () JORF 30 mars 2004
+
 	**Cité par**:
 
 	  - Code de l'environnement - art. R341-10 (VD)
@@ -42599,7 +42634,9 @@ l'alimentation en eau et l'assainissement.
 
 	**Cite**:
 
+	  - Code de l'urbanisme - art. L146-6 (M)
 	  - Code de l'urbanisme - art. L421-2 (M)
+	  - Code de l'urbanisme - art. R146-2 (M)
 
 	**Anciens textes**:
 
@@ -42608,10 +42645,6 @@ l'alimentation en eau et l'assainissement.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°2001-260 du 27 mars 2001 - art. 3 () JORF 28 mars 2001
 
 
 ###### Article R421-2-1
@@ -45902,34 +45935,27 @@ propriétaire au cas où celui-ci n'est pas l'auteur de la déclaration, la natu
 Le dossier joint à la déclaration comprend un plan de situation du terrain, un plan de masse et une représentation de
 l'aspect extérieur de la construction, faisant apparaître les modifications projetées.
 
-Le dossier est complété le cas échéant, des documents mentionnés aux articles R. 421-3-1, R. 421-3-4, R. 421-4, R. 421-5, R.
-421-6, ou R. 421-7.
+Le dossier est complété le cas échéant, des documents mentionnés au 9° de l'article R. 421-2 et aux articles R. 421-3-1, R.
+421-3-4, R. 421-4, R. 421-5, R. 421-6, ou R. 421-7.
 
 Un arrêté du ministre chargé de l'urbanisme fixe le modèle national de ladite déclaration et précise le contenu du dossier à
 joindre.
 
-**Nota:**
-
-[*Les dispositions ci-dessus sont applicables aux déclarations déposées à compter du 1er mai 1986.*]
-
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°86-514 du 14 mars 1986 - art. 11 (V)
-
-	**Créé par**:
-
-	  - Décret n°86-514 du 14 mars 1986 - art. 2 () JORF 16 mars 1986
+	  - Décret n°2004-310 du 29 mars 2004 - art. 4 () JORF 30 mars 2004
 
 	**Cite**:
 
+	  - Code de l'urbanisme - art. R421-2 (M)
 	  - Code de l'urbanisme - art. R421-3-1 (M)
 	  - Code de l'urbanisme - art. R421-3-4 (Ab)
 	  - Code de l'urbanisme - art. R421-4 (M)
 	  - Code de l'urbanisme - art. R421-5 (M)
 	  - Code de l'urbanisme - art. R421-6 (Ab)
-	  - Code de l'urbanisme R421-3-1, R421-3-4, R421-3-4, R421-4, R421-5, R421-6, R421-7, R422-2, R422-1
+	  - Code de l'urbanisme R422-1, R421-2, R421-3-1, R421-3-4, R421-4, R421-5, R421-6, R421-7, R422-2
 
 	**Cité par**:
 
@@ -47881,10 +47907,10 @@ national. Il en va de même pour les travaux soumis à déclaration préalable e
 
 ###### Article R442-2
 
-Dans les communes [*P.O.S. zones environnement protégé*] ou parties de communes visées à l'article R. 442-1  ainsi que pour
-les garages collectifs de caravanes, sur l'ensemble du territoire est subordonnée à l'obtention d'une autorisation préalable
-la réalisation d'installations ou de travaux dans les cas ci-après énumérés, lorsque l'occupation ou l'utilisation du terrain
-doit se poursuivre durant plus de trois mois[*durée*] :
+Dans les communes ou parties de communes visées à l'article R. 442-1  ainsi que pour les garages collectifs de caravanes, sur
+l'ensemble du territoire est subordonnée à l'obtention d'une autorisation préalable la réalisation d'installations ou de
+travaux dans les cas ci-après énumérés, lorsque l'occupation ou l'utilisation du terrain doit se poursuivre durant plus de
+trois mois :
 
 a) Les parcs d'attractions et les aires de jeux et de sports, dès lors qu'ils sont ouverts au public ;
 
@@ -47893,7 +47919,11 @@ moins dix unités et qu'ils ne sont pas soumis à autorisation au titre de l'art
 que les garages collectifs de caravanes dans les conditions prévues au dernier alinéa de l'article R. 442-1 ;
 
 c) Les affouillements et exhaussements du sol, à la condition que leur superficie soit supérieure à 100 mètres carrés et que
-leur hauteur, s'il s'agit d'un exhaussement, ou leur profondeur dans le cas d'un affouillement, excède deux mètres.
+leur hauteur, s'il s'agit d'un exhaussement, ou leur profondeur dans le cas d'un affouillement, excède deux mètres ;
+
+d) Les aménagements mentionnés aux a, b, c et d de l'article R. 146-2 lorsqu'ils sont situés dans des espaces remarquables ou
+milieux du littoral qui sont identifiés dans un document d'urbanisme comme devant être préservés en application de l'article
+L. 146-6.
 
 **Liens relatifs à cet article**
 
@@ -47914,18 +47944,14 @@ leur hauteur, s'il s'agit d'un exhaussement, ou leur profondeur dans le cas d'un
 	  - Code de l'urbanisme - art. R442-9 (M)
 	  - Décret n°1924-03-18. du 18 mars 1924 - art. 12-1 (Ab)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°80-694 1980-09-04 ART. 13
-
 	**Modifié par**:
 
-	  - Décret n°80-694 1980-09-04 art. 3 JORF 7 septembre 1980
-	  - Décret n°84-226 1984-03-29 art. 19 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
-	  - Décret n°86-514 du 14 mars 1986 - art. 5 () JORF 16 mars 1986
+	  - Décret n°2004-310 du 29 mars 2004 - art. 5 () JORF 30 mars 2004
 
 	**Cite**:
 
+	  - Code de l'urbanisme - art. L146-6 (M)
+	  - Code de l'urbanisme - art. R146-2 (M)
 	  - Code de l'urbanisme - art. R442-1 (M)
 	  - Code de l'urbanisme - art. R443-4 (M)
 	  - Code de l'urbanisme - art. R443-7 (M)
@@ -48072,7 +48098,7 @@ quatre exemplaires.
 La demande précise l'identité et l'adresse du demandeur et, le cas échéant, celles du propriétaire,  l'emplacement du terrain
 et sa superficie, la nature et les dimensions de l'installation ainsi que l'utilisation qui en est prévue.
 
-Le dossier joint à la demande est constitué [*contenu*] par :
+Le dossier joint à la demande est constitué par :
 
 a) Un plan de situation, ainsi qu'un plan sommaire des lieux comportant l'implantation de l'installation projetée et
 l'indication des bâtiments de toute nature existant sur le terrain ;
@@ -48083,22 +48109,30 @@ Lorsque les installations ou travaux projetés nécessitent la coupe ou l'abatta
 soumis aux dispositions de l'article L. 130-1 du présent code ou des articles L. 311-1 ou L. 312-1 du code forestier,
 l'autorisation de coupe ou d'abattage et, le cas échéant, l'autorisation de défrichement sont joints à la demande.
 
+Lorsque les installations ou travaux projetés sont ouverts au public, la demande comporte une notice particulière sur les
+mesures à mettre en place afin de permettre l'accessibilité à tous.
+
+Lorsque l'opération consiste en la réalisation d'une aire de stationnement mentionnée au b de l'article R. 146-2, le dossier
+comporte en outre une notice exposant l'état actuel de la fréquentation automobile et des stationnements, les raisons pour
+lesquelles l'aire de stationnement ne peut pas être implantée en un autre lieu ainsi que les mesures prévues pour limiter la
+fréquentation automobile dans le site, assurer l'insertion paysagère de l'aire et la protection des milieux.
+
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°84-226 1984-03-29 art. 21 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
 
 	**Modifié par**:
 
-	  - Décret n°86-514 du 14 mars 1986 - art. 5 () JORF 16 mars 1986
+	  - Décret n°2004-310 du 29 mars 2004 - art. 6 () JORF 30 mars 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 	**Cite**:
 
 	  - Code forestier - art. L311-1 (M)
 	  - Code forestier - art. L312-1 (M)
 	  - Code de l'urbanisme - art. L130-1 (M)
-	  - Code de l'urbanisme L130-1, R441-5 à R441-6-13
+	  - Code de l'urbanisme - art. R146-2 (M)
 
 	**Codifié par**:
 
@@ -48804,6 +48838,11 @@ A l'exercice des activités agricoles et forestières ou à la conservation des 
 
 Il en est de même si les installations ou travaux impliquent la réalisation par la commune d'équipements nouveaux non prévus.
 
+L'autorisation peut comporter des prescriptions de nature à assurer une meilleure insertion des aménagements dans le site et
+les paysages.
+
+Ces prescriptions sont obligatoires pour les aménagements prévus à l'article R. 146-2 du code de l'urbanisme.
+
 Lorsque la prescription spéciale imposée en vertu des alinéas précédents consiste en la création de clôtures celles-ci sont
 édifiées sans déclaration préalable.
 
@@ -48812,17 +48851,21 @@ l'engagement du pétitionnaire d'enlever à ses frais les installations autoris�
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
 	**Modifié par**:
 
-	  - Décret n°2001-260 du 27 mars 2001 - art. 3 () JORF 28 mars 2001
+	  - Décret n°2004-310 du 29 mars 2004 - art. 7 () JORF 30 mars 2004
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R146-2 (M)
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R445-13 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 #####  Paragraphe 2 : Dispositions particulières applicables dans les communes où un plan local d'urbanisme a été approuvé.
