@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1979-05-30
+Version Consolidée au 1979-08-26
 
 # Partie législative
 
@@ -13611,6 +13611,36 @@ classées comme telles par décrets pris en application du code de la route, et 
 
 	  - Code de l'urbanisme R111-4 2.
 	  - Code de la route R26
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+##### Section 5 : Directives d'aménagement national.
+
+###### Article R111-27
+
+Est approuvée la directive d'aménagement national ci-annexée relative à la protection et à l'aménagement du littoral. Les
+dispositions du chapitre II de ladite directive sont opposables aux tiers, conformément à l'article R. 111-15 du code de
+l'urbanisme.
+
+La présente directive est applicable dans les communes du littoral et riveraines des lacs et étangs figurant sur la liste
+annexée au présent article (non reproduite, voir JO du 26/08/1979 p. 2100).
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°98-913 du 12 octobre 1998 - art. 7 (V) JORF 13 octobre 1998
+
+	**Cité par**:
+
+	  - Décret n°98-913 du 12 octobre 1998 - art. 7 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R111-15 (M)
 
 	**Codifié par**:
 
