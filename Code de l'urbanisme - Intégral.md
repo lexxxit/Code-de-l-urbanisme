@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1990-01-05
+Version Consolidée au 1990-05-05
 
 # Partie législative
 
@@ -27585,6 +27585,70 @@ prévues ci-dessus.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R212-1-1
+
+Des zones d'aménagement différé peuvent être créées, aux fins mentionnées à l'article L. 210-1, dans les communes non dotées
+d'un plan d'occupation des sols rendu public ou approuvé.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L210-1 (M)
+	  - Code de l'urbanisme - art. L212-4 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°90-376 1990-05-05 art. 1 JORF 5 mai 1990
+
+	**Abrogé par**:
+
+	  - Décret n°92 967 1992-09-10 art. 2 II JORF 11 septembre 1992
+
+
+###### Article R212-1-2
+
+Outre les cas prévus à l'article précédent, des zones d'aménagement différé peuvent être créées aux mêmes fins, en
+application du troisième alinéa de l'article L. 212-1, en dehors des zones urbaines et des zones d'urbanisation future
+délimitées par un plan d'occupation des sols rendu public ou approuvé, dans celles des communes de la région d'Ile-de-France
+énumérées ci-après :
+
+" - dans le département de Seine-et-Marne, les communes des arrondissements de Meaux et de Melun ;
+
+" - les communes du département des Yvelines ;
+
+" - dans le département de l'Essonne, les communes de l'arrondissement d'Evry, à l'exception de celles du canton de Milly-la-
+Forêt, et les communes de l'arrondissement de Palaiseau ;
+
+" - dans le département de la Seine-Saint-Denis, les communes de l'arrondissement du Raincy ;
+
+" - les communes du département du Val-de-Marne ;
+
+" - les communes du département du Val-d'Oise. "
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L212-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°90-376 1990-05-05 art. 1 JORF 5 mai 1990
+
+	**Abrogé par**:
+
+	  - Décret n°92-967 du 10 septembre 1992 - art. 2 () JORF 11 septembre 1992
 
 
 ###### Article R212-2
