@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1998-12-31
+Version Consolidée au 1999-01-01
 
 # Partie législative
 
@@ -56914,28 +56914,29 @@ l'urbanisme et du ministre de l'économie et des finances.
 
 ###  Titre Ier : Organismes consultatifs
 
-#### CHAPITRE IV : Architectes-conseils
+#### Chapitre  IV : Architectes-conseils et paysagistes-conseils
 
 ###### Article A614-1
 
-Les services extérieurs du ministère chargé de l'urbanisme sont autorisés à faire appel à des architectes qui prendront le
-titre d'architectes-conseils de l'équipement. 
+Dans la limite des crédits ouverts à cet effet, le ministère de l'équipement, des transports et du logement peut faire appel
+à des architectes et à des paysagistes qui lui apportent leur concours de façon continue ou intermittente sans renoncer à
+leur emploi principal. Ils prendront respectivement le titre d'architectes-conseils et de paysagistes-conseils de
+l'équipement.
 
-Ces architectes assurent les missions qui leur sont confiées par le ministre chargé de l'urbanisme ou ses délégués.
+Dans le département de leur affectation, ils ne peuvent intervenir à titre privé dans aucune opération, sauf dérogation
+expresse accordée par le ministre.
 
-**Nota:**
-
-[*Loi 92-125 art. 3 : la référence services extérieurs est remplaçé par celle à : services déconcentrés*]
+Ces architectes et ces paysagistes assurent les missions qui leur sont confiées par le ministre ou ses délégués.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1999-02-22 art. 1, art. 2 JORF 24 mars 1999 en vigueur le 1er janvier 1999
 
 	**Codifié par**:
 
 	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Modifié par**:
-
-	  - Loi n°92-125 du 6 février 1992 - art. 3 (V) JORF 8 février 1992
 
 	**Cité par**:
 
@@ -56944,25 +56945,17 @@ Ces architectes assurent les missions qui leur sont confiées par le ministre ch
 
 ###### Article A614-2
 
-Les architectes-conseils de l'équipement peuvent percevoir des honoraires dont le montant, fixé par le ministre chargé de
-l'urbanisme, comprend les deux éléments ci-après :
+Les architectes-conseils et les paysagistes-conseils de l'équipement peuvent percevoir une indemnité forfaitaire dont le
+montant journalier est fixé au 1/100 du traitement annuel brut correspondant à l'indice majoré 625.
 
-1. Une rémunération forfaitaire de 2 062 F par vacation d'une journée ;
-
-2. Une indemnité forfaitaire de déplacement dont le montant unitaire, variable en fonction des sujétions des intéressés, est
-fixé dans la limite de 2 769 F sur le territoire métropolitain, ce plafond pouvant atteindre exceptionnellement 3 350 F, et
-dans la limite des taux des indemnités forfaitaires prévues pour le règlement des frais de déplacement des personnes civiles
-pour les départements d'outre-mer.
+Les frais de transport et de missions engagés dans le cadre de leurs vacations seront remboursés par application des décrets
+en vigueur concernant les personnels civils de l'Etat.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1994-03-23 art. 1 JORF 6 avril 1994 en vigueur le 1er janvier 1994
-
-	**Liens**:
-
-	  - SPEC_APPLI: Arrêté 1994-03-23 art. 3
+	  - Arrêté 1999-02-22 art. 1, art. 3 JORF 24 mars 1999 en vigueur le 1er janvier 1999
 
 	**Codifié par**:
 
@@ -56971,10 +56964,14 @@ pour les départements d'outre-mer.
 
 ###### Article A614-3
 
-Les dépenses correspondant à la rémunération des architectes conseils de l'équipement sont imputées sur les crédits du
-ministère chargé de l'urbanisme.
+Les dépenses correspondantes à la rémunération et au remboursement des frais de déplacement des architectes-conseils et des
+paysagistes-conseils sont imputées sur les crédits du ministère de l'équipement, des transports et du logement.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1999-02-22 art. 1, art. 4 JORF 24 mars 1999 en vigueur le 1er janvier 1999
 
 	**Codifié par**:
 
@@ -56991,6 +56988,10 @@ Les dispositions des articles A. 614-1 à A. 614-3 ne peuvent être modifiées q
 l'urbanisme et du ministre de l'économie et des finances.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1999-02-22 art. 1 JORF 24 mars 1999 en vigueur le 1er janvier 1999
 
 	**Codifié par**:
 
