@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1986-01-31
+Version Consolidée au 1986-02-03
 
 # Partie législative
 
@@ -52874,25 +52874,6 @@ des institutions financières.
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. A510-10 (Ab)
-
-
-###### Article A510-13
-
-Les dispositions des articles A. 510-1 à A. 510-12 ne peuvent être modifiées que par arrêté du Premier ministre.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1986-02-28 art. 1 JORF 2 mars 1986
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 janvier 1977
-
-	**Cite**:
-
-	  - CODE DE L'URBANISME A510-1 à A510-12
 
 
 ### Titre  II : Dispositions financières concernant la région d'Ile-de-France
