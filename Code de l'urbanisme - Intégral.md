@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1999-10-07
+Version Consolidée au 1999-12-29
 
 # Partie législative
 
@@ -5833,7 +5833,8 @@ de l'évolution de l'indice du coût de la construction publié par l'Institut n
 
 La taxe constitue, du point de vue fiscal, un élément du prix de revient de l'ensemble immobilier.
 
-La taxe est perçue au profit du département en tant que recette grevée d'affectation spéciale.
+La taxe est perçue au profit du département en tant que recette grevée d'affectation spéciale et a le caractère d'une recette
+de fonctionnement.
 
 </cb>
 
@@ -5841,10 +5842,10 @@ La taxe est perçue au profit du département en tant que recette grevée d'affe
 
 	**Cite**:
 
-	  - CGI 1585 C, 1585 D, 1585
 	  - Loi n°83-8 1983-01-07
 	  - Loi n°83-597 1983-07-07
 	  - Loi n°83-663 1983-07-22 art. 56
+	  - CGI 1585 C, 1585 D, 1585
 	  - Code de l'urbanisme - art. L130-5 (M)
 	  - Code de l'urbanisme - art. L142-1 (M)
 	  - Code de l'urbanisme - art. L142-10 (V)
@@ -5873,10 +5874,6 @@ La taxe est perçue au profit du département en tant que recette grevée d'affe
 	  - Code général des impôts, CGI. - art. 1599 B (VT)
 	  - Code général des impôts, CGI. - art. 302 septies B (VD)
 
-	**Modifié par**:
-
-	  - Loi n°95-101 du 2 février 1995 - art. 39 () JORF 3 février 1995
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°98-1239 du 29 décembre 1998
@@ -5884,6 +5881,10 @@ La taxe est perçue au profit du département en tant que recette grevée d'affe
 	  - TXT_SOURCE: Décret n°98-1239 du 29 décembre 1998 - art. 2 (V)
 	  - TXT_SOURCE: Décret n°98-1239 du 29 décembre 1998 - art. 3 (V)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R111-14 (M)
+
+	**Modifié par**:
+
+	  - Loi n°99-1126 du 28 décembre 1999 - art. 12 () JORF 29 décembre 1999
 
 	**Codifié par**:
 
