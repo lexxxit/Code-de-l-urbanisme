@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1985-01-15
+Version Consolidée au 1985-01-26
 
 # Partie législative
 
@@ -4112,6 +4112,14 @@ inscrits.
 Le schéma d'aménagement de la Corse prend en compte les programmes de l'Etat et harmonise ceux des collectivités locales et
 de leurs établissements et services publics.
 
+Le schéma d'aménagement de la Corse vaut schéma de mise en valeur de la mer, tel qu'il est défini par l'article 57 de la loi
+n° 83-8 du 7 janvier 1983 précitée, notamment en ce qui concerne les orientations fondamentales de la protection, de
+l'aménagement et de l'exploitation du littoral.
+
+Les dispositions correspondantes sont regroupées dans un chapitre individualisé au sein du schéma d'aménagement régional. Ces
+dispositions doivent avoir recueilli l'accord du représentant de l'Etat préalablement à la mise à disposition du public de
+l'ensemble du projet de schéma d'aménagement.
+
 Le schéma d'aménagement de la Corse a les mêmes effets que les prescriptions définies en application de l'article  L.
 111-1-1.
 
@@ -4121,17 +4129,12 @@ Le schéma d'aménagement de la Corse a les mêmes effets que les prescriptions 
 
 	  - Loi n°80-502 1980-07-04
 	  - Loi n°82-659 du 30 juillet 1982 - art. 10 (M)
-	  - Loi n°83-8 1983-01-07 ART. 75 PAR. II
-	  - Loi n°83-663 1983-07-22
+	  - Loi n°83-8 1983-01-07 art. 57 art. 75 par. II
 	  - Code de l'urbanisme - art. L111-1-1 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°83-8 du 7 janvier 1983 - art. 75 () JORF 9 JANVIER 1983
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+	  - Loi n°85-97 du 25 janvier 1985 - art. 24 () JORF 26 janvier 1985
 
 	**Cité par**:
 
@@ -4162,8 +4165,9 @@ régionaux, est mis à la disposition du public pendant deux mois.
 
 Le schéma d'aménagement de la Corse est approuvé par décret en Conseil d'Etat.
 
-A défaut d'adoption selon la procédure définie ci-dessus dans un délai de dix-huit mois, le schéma est élaboré et arrêté par
-l'Etat.
+A défaut d'adoption, selon la procédure définie ci-dessus, dans un délai de dix-huit mois à compter de la promulgation de la
+loi n° 85-97 du 25 janvier 1985 modifiant et complétant la loi n° 83-663 du 22 juillet 1983 et portant dispositions diverses
+relatives aux rapports entre l'Etat et les collectivités territoriales, le schéma est élaboré et arrêté par l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -4174,17 +4178,13 @@ l'Etat.
 	**Cite**:
 
 	  - Loi n°82-659 du 30 juillet 1982 - art. 11 (M)
-	  - Loi n°83-8 1983-01-07 ART. 75-III
 	  - Loi n°83-663 1983-07-22
+	  - Loi n°85-97 1985-01-25
 	  - Code de l'urbanisme - art. L111-1-1 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°83-8 du 7 janvier 1983 - art. 75 () JORF 9 JANVIER 1983
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+	  - Loi n°85-97 du 25 janvier 1985 - art. 25 () JORF 26 janvier 1985
 
 	**Cité par**:
 
