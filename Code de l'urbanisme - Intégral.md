@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1987-10-31
+Version Consolidée au 1987-12-19
 
 # Partie législative
 
@@ -19258,11 +19258,16 @@ véhicules ;
 d) Des surfaces de planchers hors oeuvre des bâtiments affectés au logement des récoltes, des animaux ou du matériel agricole
 ainsi que des surfaces des serres de production.
 
-Sont également déduites de la surface hors oeuvre, dans la limite de 5 mètres carrés par logement, les surfaces de plancher
-affectées à la réalisation, dans le cadre de la réfection d'un immeuble à usage d'habitation, de travaux tendant à
-l'amélioration de l'hygiène des locaux.
+Sont également déduites de la surface hors oeuvre dans le cas de la réfection d'un immeuble à usage d'habitation et dans la
+limite de cinq mètres carrés par logement les surfaces de planchers affectées à la réalisation de travaux tendant à
+l'amélioration de l'hygiène des locaux et celles résultant de la fermeture des balcons, loggias et surfaces non closes
+situées en rez-de-chaussée.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°87-1016 1987-12-14 art. 1 JORF 19 décembre 1987
 
 	**Cité par**:
 
@@ -24625,12 +24630,6 @@ raison de la suspension de la servitude ou de la modification de son tracé ou d
 
 
 ## Règles générales d'aménagement et d'urbanisme
-
-### Prévisions et règles d'urbanisme
-
-#### Plans d'occupation des sols
-
-#### Plan d'occupation des sols
 
 ### Espaces boisés
 
@@ -37243,61 +37242,6 @@ administratifs nécessaires au paiement des subventions.
 
 #### Lotissements et divisions de propriété
 
-##### Instruction des demandes
-
-##### Cession des lots et édification des constructions.
-
-###### Article R*315-35
-
-La garantie [*d'achèvement des travaux*] prévue à l'article R. 315-33 peut être mise en oeuvre :
-
-Soit par les attributaires de lots ;
-
-Soit par l'association syndicale ;
-
-Soit par le préfet ou le maire de la commune.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme R315-33
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*315-37
-
-Lorsque, par suite de la défaillance du lotisseur, les travaux ne sont pas achevés soit dans le plus court des délais
-contractuels fixés dans l'un ou l'autre des actes de mutation ou de location, soit au plus tard dans le délai fixé comme il
-est dit au dernier alinéa de l'article R. 315-33, le garant doit verser les sommes nécessaires à l'achèvement desdits travaux
-soit à une personne qu'il aura choisie pour se substituer au lotisseur défaillant, soit à une personne désignée par le
-préfet, le maire ou l'association syndicale selon que la garantie a été mise en oeuvre par le préfet, par le maire, ou par
-l'association syndicale ou les attributaires de lots. A défaut, le versement est fait à une personne désignée par autorité de
-justice, notamment au syndic en cas de règlement judiciaire ou de liquidation de biens du lotisseur défaillant.
-
-Pour l'application de l'alinéa précédent, la défaillance du lotisseur résulte notamment de l'admission de celui-ci au
-règlement judiciaire ou à la liquidation de biens, ou du non achèvement des travaux à l'expiration du plus court des délais
-contractuels fixés par l'un des actes de mutation ou de location ou, au plus tard, à l'expiration du délai fixé par arrêté
-préfectoral en vertu de l'article R. 315-33.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme R315-33
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme R315-33
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ##### Dispositions diverses.
 
 ###### Article R*315-41
@@ -43950,95 +43894,6 @@ d) A l'aménagement de la zone de Fos-sur-Mer, dans un périmètre défini par d
 
 #### Régime général
 
-##### Décision
-
-##### Dispositions particulières applicables dans les communes où un plan d'occupation des sols n'a pas été approuvé.
-
-###### Article R*421-36
-
-Dans les communes où un plan d'occupation des sols n'a pas été approuvé, la décision est prise par le maire, au nom de
-l'Etat ; toutefois, elle est prise par le commissaire de la République dans les cas suivants [*autorité compétente*] :
-
-1° Pour les constructions édifiées pour le compte de l'Etat, de la région ou du département, de leurs établissements publics
-ou de leurs concessionnaires, ainsi que pour le compte d'un Etat étranger ou d'une organisation internationale ;
-
-2° Pour les constructions à usage industriel, commercial ou de bureaux lorsque la superficie de planchers hors oeuvre nette
-est égale ou supérieure à 1000 mètres carrés au total ;
-
-3° Pour les immeubles de grande hauteur au sens de l'article R. 122-2 du code de la construction et de l'habitation, dans les
-conditions prévues à l'article R. 421-47 ;
-
-4° Lorsqu'est imposé au constructeur le paiement de la participation prévue à l'article L. 421-3 (alinéas 3 et 4) ou
-l'obligation de participer financièrement aux dépenses d'équipements publics ou celle de céder gratuitement du terrain en
-vertu des dispositions du présent code à une collectivité publique autre que la commune intéressée ;
-
-5° Lorsqu'une dérogation ou une adaptation mineure aux dispositions mentionnées aux articles R. 421-15 (alinéa 3) est
-nécessaire ;
-
-6° Lorsque le maire et le responsable du service de l'Etat dans le département, chargé de l'urbanisme ont émis des avis en
-sens contraire ;
-
-7° Lorsqu'il y a lieu de prendre une décision de sursis à statuer ;
-
-8° Dans les cas prévus au 1° de l'article R. 490-3 et à l'article R. 490-4 ;
-
-9° Pour les constructions comprises dans les zones délimitées par le plan d'exposition au bruit d'un aérodrome approuvé par
-arrêté  du commissaire de la République ;
-
-10° Pour les constructions pour lesquelles un changement de destination doit être autorisé en application de l'article L.
-631-7 du code de la construction et de l'habitation ;
-
-11° Dans les cas prévus à l'article R. 421-38-8, sauf si la construction se trouve à l'intérieur d'un site inscrit, auquel
-cas elle est de la compétence du maire, au nom de l'Etat ;
-
-12° Pour les constructions situées dans un secteur sauvegardé à compter de sa délimitation et jusqu'à ce que le plan de
-sauvegarde et de mise en valeur ait été rendu public ;
-
-13° Pour les constructions qui, en raison de leur emplacement à proximité d'un ouvrage militaire, sont soumises à
-l'autorisation du ministre chargé des armées, en vertu du décret du 10 août 1853, de la loi du 18 juillet 1895 ou de la loi
-du 11 juillet 1933 ;
-
-14° Pour les constructions qui, en raison de leur situation à l'intérieur d'un polygone d'isolement, sont soumises à
-l'autorisation du ministre chargé des armées en vertu de l'article 5 de la loi du 8 août 1929.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°83-1261 1983-12-30 ART. 49, ART. 50 : Modalités d'application
-	  - SPEC_APPLI: Décret n°83-1261 du 30 décembre 1983 - art. 49 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-12 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-20 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-22 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-23 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-25 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-31 (M)
-
-	**Modifié par**:
-
-	  - Décret n°87-340 1987-05-21 art. 2 JORF 22 mai 1987
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*421-32 (Ab)
-	  - Code de l'urbanisme - art. R*422-9 (Ab)
-	  - Code de l'éducation - art. R211-6 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R421-38-8 (M)
-	  - Code de l'urbanisme R490-4
-	  - Code de la construction et de l'habitation. - art. L631-7 (M)
-	  - Décret n°1853-08-10
-	  - Loi n°1895-07-18
-	  - Loi n°1929-08-08 ART. 5
-	  - Loi n°1933-07-11
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ##### Formalités postérieures à la délivrance du permis de construire.
 
 ###### Article R*421-39
@@ -44274,61 +44129,6 @@ maires.
 	**Modifié par**:
 
 	  - Décret n°84-226 1984-03-29 ART. 31 JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
-
-
-## Règles relatives à l'acte de construire et à certains modes d'utilisation du sol
-
-### Dispositions relatives aux modes particuliers d'utilisation du sol
-
-#### Installations et travaux divers
-
-##### Procédure d'autorisation
-
-##### Décision
-
-##### Dispositions particulières applicables dans les communes où un plan d'occupation des sols n'a pas été approuvé
-
-###### Article R*442-6-4
-
-Dans les communes où un plan d'occupation des sols n'a pas été approuvé, la décision est prise par le maire au nom de
-l'Etat ; toutefois, elle est prise par le commissaire de la République dans les cas énumérés ci-après [*autorité
-compétente*] :
-
-1° Lorsque le maire et le responsable du service de l'Etat dans le département, chargé de l'urbanisme, ont émis des avis en
-sens contraire ;
-
-2° Lorsqu'une dérogation ou une adaptation mineure aux dispositions mentionnées au troisième alinéa de l'article R. 441-6-5
-est nécessaire ; dans ce cas, la décision d'octroi de l'autorisation doit indiquer les motifs de la dérogation accordée ;
-
-3° Lorsque l'installation ou le travail qui fait l'objet de la demande d'autorisation requiert l'avis ou l'avis conforme des
-services, personnes publiques ou commissions relevant du ministre chargé des monuments historiques, du ministre chargé des
-sites, du ministre chargé des zones de protection du patrimoine architectural et urbain ou du ministre chargé de la
-protection de la nature, à l'exception du cas des sites inscrits ;
-
-4° Lorsque l'installation qui fait l'objet de la demande d'autorisation entre dans le champ d'application de l'article 50 du
-code du domaine public fluvial et de la navigation intérieure et des textes pris pour son application ;
-
-5° Lorsqu'il y a lieu de prendre une décision de sursis à statuer.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°84-226 1984-03-29 ART. 22, ART. 23 JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-226 1984-03-29 ART. 33, ART. 34 : modalités d'application
-	  - SPEC_APPLI: Décret n°84-226 du 29 mars 1984 - art. 33 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R441-6-5
-	  - Code du domaine public fluvial 50
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 ## Livre V : Implantation des services, établissements et entreprises
