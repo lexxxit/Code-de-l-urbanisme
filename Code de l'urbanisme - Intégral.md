@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1993-03-17
+Version Consolidée au 1993-03-24
 
 # Partie législative
 
@@ -27445,10 +27445,10 @@ insalubre, lorsque cette cession a fait l'objet d'un cahier des charges soumis �
 
 e) De transfert de propriété opéré dans le cadre d'une opération de remembrement urbain.
 
-f) De divisions faites conformément à un permis de construire lorsque, en application de l'article R. 421-7-1, a été joint au
-dossier de demande du permis un plan de répartition de la surface hors oeuvre nette disponible et de la surface hors oeuvre
-nette reconstructible sur chacune des parcelles issues de la division ; Ces informations doivent figurer dans les actes de
-vente des terrains concernés ;
+f) De divisions faites conformément à un permis de construire lorsque, en application des dispositions de l'article R.
+421-7-1, a été joint au dossier de demande de permis un plan de répartition de la surface hors oeuvre nette disponible et de
+la surface hors oeuvre nette reconstructible sur chacune des parcelles issues de la division ; Ces informations doivent
+figurer dans les actes de vente des terrains concernés ;
 
 g) de cession, location ou concession d'usage d'un terrain aménagé dans une zone d'aménagement concerté, à la condition que
 cette cession, location ou concession ait fait l'objet d'un cahier des charges de cession précisant les droits à construire
@@ -27457,18 +27457,25 @@ affectés auxdits travaux et approuvé par l'autorité compétente en applicatio
 h) de cession d'emplacement dans un terrain aménagé autorisé, destiné uniquement à la réception des caravanes ou affecté
 spécialement à l'implantation des habitations légères de loisirs.
 
+i) De dations de biens faites en application des dispositions de l'article L. 332-19.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°92-966 du 10 septembre 1992 - art. 8 () JORF 11 septembre 1992
+	  - Décret n°93-422 du 19 mars 1993 - art. 4 () JORF 24 mars 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2001-261 2001-03-27 art. 16 JORF 28 mars 2001
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L111-5 (M)
+	  - Code de l'urbanisme - art. L332-19 (Ab)
 	  - Code de l'urbanisme - art. L332-6-1 (M)
 	  - Code de l'urbanisme - art. R421-7-1 (M)
-	  - Code de l'urbanisme L111-5, L332-6-1, R421-7-1, R311-19
+	  - Code de l'urbanisme L111-5, L332-6-1, R421-7-1, R311-19, L332-19
 
 	**Codifié par**:
 
@@ -40450,93 +40457,6 @@ Pour le calcul de la participation, il est fait abstraction des fractions de som
 	  - Décret n°73-1023 1973-11-08
 
 
-###### Article R*332-5
-
-Le chef du service de l'Etat dans le département, chargé de l'urbanisme ou, en cas d'application de l'article R. 424-1, le
-maire arrête le montant de la participation et le communique au directeur des services fiscaux. Il le notifie au
-pétitionnaire.
-
-Le service des impôts notifie le montant de la participation au redevable. Le paiement doit être effectué dans les conditions
-définies à l'article R. 333-6 (alinéas 3 et 4).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R333-6 (Ab)
-	  - Code de l'urbanisme R424-1
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°86-517 du 14 mars 1986 - art. 53 () JORF 16 mars 1986 en vigueur le 1er juillet 1986
-
-
-###### Article R*332-6
-
-A défaut de paiement dans les délais impartis, l'indemnité de retard prévue au premier alinéa de l'article 1727 du code
-général des impôts est due par le redevable de la participation.
-
-Le recouvrement, tant de la créance du Trésor que de l'indemnité de retard, est poursuivi dans les conditions fixées aux
-articles 1915 à 1918 du code précité. Il est garanti suivant les modalités définies à l'article L. 333-11 (alinéas 2 et 3).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1727
-	  - CGI 1915
-	  - CGI 1916
-	  - CGI 1917
-	  - CGI 1918
-	  - Code de l'urbanisme L333-11 AL. 2 ET 3
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*332-7
-
-I - En cas de modification apportée sur la demande de l'intéressé au permis de construire qui lui a été délivré, le
-complément de participation éventuellement exigible est liquidé, notifié et recouvré dans les conditions prévues aux articles
-R. 332-1 à R. 332-6.
-
-II - Lorsque la modification du permis de construire entraîne une diminution ou la suppression de la participation ou lorsque
-le demandeur du permis de construire renonce à la construction projetée et demande le retrait à titre gracieux de son permis,
-il peut obtenir le dégrèvement de la somme correspondante, avant que la participation ait été recouvrée, ou la restitution
-dans le cas contraire.
-
-III - Les demandes de dégrèvement sont recevables jusqu'au 31 décembre de la deuxième année qui suit celle de la notification
-d'un avis de mise en recouvrement et les demandes de restitution jusqu'au 31 décembre de la deuxième année qui suit celle du
-versement.
-
-IV - Les demandes de dégrèvement ou de restitution sont adressées au chef du service de l'Etat dans le département, chargé de
-l'urbanisme, ou en cas d'application de l'article R. 424-1, au maire, qui fait connaître, le cas échéant, au directeur des
-services fiscaux, le montant du dégrèvement ou de la restitution à effectuer.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-367 1969-04-18 ART. 6
-
-	**Cite**:
-
-	  - Code de l'urbanisme R332-2
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°84-669 1984-07-17 ART. 5 4° JORF 21 JUILLET 1984
-
-
 ###### Article R*332-14
 
 Les dispositions des articles 5-2, 26-1, 26-2, 26-3 du décret n. 58-1463 du 31 décembre 1958 relatif aux plans d'urbanisme,
@@ -40619,6 +40539,120 @@ NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 	**Cite**:
 
 	  - Code de l'urbanisme R424-1
+
+
+###### Article R*332-5
+
+Le chef du service de l'Etat dans le département, chargé de l'urbanisme ou, en cas d'application de l'article R. 424-1, le
+maire arrête le montant de la participation et le communique au Trésorier-payeur général. Il le notifie au pétitionnaire.
+
+Le comptable du Trésor notifie le montant de la participation au redevable. Le paiement doit être effectué dans les
+conditions définies à l'article R. 333-6 (alinéas 3 et 4).
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°93-422 1993-03-19 art. 6 I, II JORF 24 mars 1993
+	  - Décret n°93-422 du 19 mars 1993 - art. 6 () JORF 24 mars 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R333-6 (Ab)
+	  - Code de l'urbanisme R424-1, R333-6
+
+
+###### Article R*332-6
+
+A défaut de paiement dans les délais impartis, les pénalités prévues à l'article 1731 du code général des impôts sont dues
+par le redevable de la participation.
+
+Le recouvrement, tant de la créance du Trésor que des pénalités, est poursuivi dans les conditions fixées au titre IV du
+livre des procédures fiscales pour les impôts recouvrés par les comptables du Trésor. Il est garanti suivant les modalités
+définies aux deuxième et troisième alinéas de l'article L. 333-11, modifié par l'article 118 de la loi n° 89-935 du 29
+décembre 1989.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1731
+	  - Loi n°89-935 1989-12-29 art. 118
+	  - Code de l'urbanisme - art. L333-11 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°93-422 du 19 mars 1993 - art. 7 () JORF 24 mars 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+
+###### Article R*332-7
+
+I - En cas de modification apportée sur la demande de l'intéressé au permis de construire qui lui a été délivré, le
+complément de participation éventuellement exigible est liquidé, notifié et recouvré dans les conditions prévues aux articles
+R. 332-1 à R. 332-6.
+
+II - Lorsque la modification du permis de construire entraîne une diminution ou la suppression de la participation ou lorsque
+le demandeur du permis de construire renonce à la construction projetée et demande le retrait à titre gracieux de son permis,
+il peut obtenir le dégrèvement de la somme correspondante, avant que la participation ait été recouvrée, ou la restitution
+dans le cas contraire.
+
+III - Les demandes de dégrèvement sont recevables jusqu'au 31 décembre de la deuxième année qui suit celle de leur mise en
+recouvrement et les demandes de restitution jusqu'au 31 décembre de la deuxième année qui suit celle du versement.
+
+IV - Les demandes de dégrèvement ou de restitution sont adressées au chef du service de l'Etat dans le département, chargé de
+l'urbanisme, ou en cas d'application de l'article R. 424-1, au maire, qui fait connaître, le cas échéant, au trésorier-payeur
+général, le montant du dégrèvement ou de la restitution à effectuer.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°69-367 1969-04-18 ART. 6
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°93-422 1993-03-19 art. 6 I, III JORF 24 mars 1993
+	  - Décret n°93-422 du 19 mars 1993 - art. 6 () JORF 24 mars 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme R332-1 à R332-6, R424-1
 
 
 ###### Article R*332-8
@@ -41113,6 +41147,558 @@ l'article L. 332-11.
 	  - Code de l'urbanisme - art. R*700-2 (Ab)
 
 
+#####  Section 3 : Participation à la diversité de l'habitat
+
+#####    Sous-section 1 : Dispositions générales
+
+###### Article R332-26
+
+La base de calcul de la participation prévue aux articles L. 332-17 à L. 332-27 est déterminée selon la formule suivante :
+
+" B = (V/(Sd x C) - F) x (Sa - Se - 170 m2),
+
+" dans laquelle :
+
+" B
+
+représente la base à retenir pour calculer la participation ;
+
+" V
+
+la valeur du terrain considéré nu et libre ;
+
+" Sd
+
+la surface du terrain ;
+
+" C
+
+le coefficient d'occupation des sols tel que défini à l'article R. 123-22 et applicable au terrain prévu pour l'implantation
+du projet de construction. En l'absence de coefficient d'occupation du sol, la valeur de C est réputée être égale à 1 ;
+
+" F
+
+la valeur du montant de l'abattement forfaitaire tel que fixé et actualisé au b de l'article L. 332-17 ;
+
+" Sa
+
+la surface hors oeuvre nette du projet de construction calculée comme il est dit à l'article R. 112-2 ;
+
+" Se
+
+la surface hors oeuvre nette éventuellement exonérée par application de l'article L. 332-18.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°93-422 du 19 mars 1993 - art. 1 () JORF 24 mars 1993
+
+	**Abrogé par**:
+
+	  - Décret n°95-676 du 9 mai 1995 - art. 4 () JORF 10 mai 1995
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. A332-2 (VT)
+	  - Code de l'urbanisme - art. R*332-27 (V)
+	  - Code de l'urbanisme - art. R*333-4 (Ab)
+	  - Code de l'urbanisme - art. R*333-5 (Ab)
+	  - Code de l'urbanisme - art. R*333-6 (Ab)
+	  - Code de l'urbanisme - art. R*333-9 (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L332-17 (Ab)
+	  - Code de l'urbanisme - art. L332-18 (Ab)
+	  - Code de l'urbanisme L332-17 à L332-27, R123-22, L332-17, R112-2, L332-18
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R332-27
+
+Le taux de la participation est fixé, dans la limite de 15 p. 100, par la délibération prévue à l'article L. 332-17. Dans le
+cas visé au dernier alinéa de l'article L. 332-17, il est réduit selon la formule suivante :
+
+" T = t - (Sls/Sa X 100)
+
+" dans laquelle :
+
+" T
+
+représente le taux à retenir pour le calcul de la participation ;
+
+" t
+
+le taux fixé par la délibération instaurant la participation ;
+
+" Sls
+
+la surface des logements mentionnés au dernier alinéa de l'article L. 332-17 ;
+
+" Sa
+
+la valeur ainsi dénommée à l'article précédent.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L332-17 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°93-422 du 19 mars 1993 - art. 1 () JORF 24 mars 1993
+
+	**Abrogé par**:
+
+	  - Décret n°95-676 du 9 mai 1995 - art. 4 () JORF 10 mai 1995
+
+
+###### Article R332-28
+
+La valeur du terrain d'implantation de l'opération et celle du terrain ou des locaux qu'il est proposé d'apporter en
+règlement de la participation sont déclarées par le pétitionnaire dans sa demande de permis de construire dans les conditions
+définies aux articles L. 332-20 et R. 333-4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°93-422 du 19 mars 1993 - art. 1 () JORF 24 mars 1993
+
+	**Abrogé par**:
+
+	  - Décret n°95-676 du 9 mai 1995 - art. 4 () JORF 10 mai 1995
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L332-20 (Ab)
+	  - Code de l'urbanisme - art. R333-4 (T)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R332-29
+
+L'octroi des exonérations prévues aux a et b de l'article L. 332-18 est subordonné à la production de pièces justifiant le
+respect de l'objectif de diversité de l'habitat soit par l'opération en projet, soit par l'action ou l'opération
+d'aménagement au sein de laquelle elle est appelée à être insérée.
+
+Le dossier de demande pour lequel les pièces justificatives exigibles ne sont pas produites est considéré comme incomplet et
+ne peut être instruit.
+
+1. Le bénéfice de l'exonération prévue au a de l'article L. 332-18 est subordonné, selon les cas :
+
+- soit à la production d'une attestation sur papier libre par laquelle le constructeur s'engage à solliciter l'attribution de
+l'un quelconque des aides ou prêts au logement définis aux 1° et 3° de l'article L. 351-2 du code de la construction et de
+l'habitation ;
+
+- soit à la production d'une attestation sur papier libre par laquelle le constructeur s'engage à réaliser des constructions
+de logements à louer pendant neuf ans à un prix inférieur au prix plafond fixé pour l'application du a de l'article L.
+332-18.
+
+2. Le bénéfice de l'exonération prévue au b de l'article L. 332-18 est subordonné, selon la nature des actions ou opérations
+d'aménagement au sein de laquelle la construction doit être édifiée, à la production des pièces suivantes :
+
+- une copie conforme de la décision administrative autorisant le lotissement ou l'association foncière urbaine de
+remembrement constituée d'office ou autorisée ou l'aménagement de terrain destiné à l'accueil d'habitations légères de
+loisirs ;
+
+- une copie conforme du programme global de construction de la zone d'aménagement concerté.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°93-422 du 19 mars 1993 - art. 1 () JORF 24 mars 1993
+
+	**Abrogé par**:
+
+	  - Décret n°95-676 du 9 mai 1995 - art. 4 () JORF 10 mai 1995
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L332-18 (Ab)
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R421-4 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R332-30
+
+Dans le délai de quinze mois suivant la notification du permis de construire, sa délivrance tacite ou la date à laquelle les
+travaux soumis à la déclaration prévue à l'article L. 422-2 peuvent, en l'absence d'opposition, être exécutés, le
+pétitionnaire doit produire les documents de nature à justifier :
+
+- soit l'attribution effective des aides ou prêts sollicités en application des 1° et 3° de l'article L. 351-2 du code de la
+construction et de l'habitation ;
+
+- soit la mise en oeuvre des dispositions des c et d de l'article L. 332-18.
+
+Les documents visés à l'alinéa précédent doivent être adressés au responsable du service de l'Etat chargé de l'urbanisme dans
+le département ou au maire en cas d'application de l'article R. 424-1.
+
+Lorsque les documents n'ont pas été produits à l'expiration du délai mentionné à l'alinéa précédent, la participation est
+liquidée et les exonérations accordées dans la limite des justifications produites.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°93-422 du 19 mars 1993 - art. 1 () JORF 24 mars 1993
+
+	**Abrogé par**:
+
+	  - Décret n°95-676 du 9 mai 1995 - art. 4 () JORF 10 mai 1995
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L332-18 (Ab)
+	  - Code de l'urbanisme - art. L422-2 (M)
+	  - Code de l'urbanisme L422-2, L332-18, R424-1
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R332-31
+
+Le versement de la participation à la diversité de l'habitat s'effectue selon les modalités définies aux articles L. 333-2 et
+R. 333-6.
+
+Les valeurs des biens remis en dation en application des dispositions de l'article L. 332-19 sont déduites des montants de
+participation exigibles aux dates d'échéance résultant de l'alinéa précédent.
+
+Les sommes à déduire sont déterminées par la prise en compte de la valeur des biens stipulée dans les actes portant
+transferts de propriété intervenus avant la date légale de paiement de la totalité de la contribution exigible en la forme
+pécuniaire.
+
+Conformément aux dispositions du dernier alinéa de l'article L. 332-19, la participation à la diversité de l'habitat est
+réputée être acquittée en totalité lorsque la valeur des biens remis en dation est au moins égale à 70 p. 100 de ladite
+participation.
+
+Lorsque la valeur des biens acceptés en paiement se révèle être supérieure au montant de la participation, la charge de la
+soulte due au pétitionnaire incombe à la commune ou à l'établissement public de coopération intercommunale qui a institué la
+participation. Les modalités de règlement de la soulte précitée sont fixées dans les actes de cessions de biens.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L332-19 (Ab)
+	  - Code de l'urbanisme - art. L333-2 (M)
+	  - Code de l'urbanisme - art. R333-6 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°93-422 du 19 mars 1993 - art. 1 () JORF 24 mars 1993
+
+	**Abrogé par**:
+
+	  - Décret n°95-676 du 9 mai 1995 - art. 4 () JORF 10 mai 1995
+
+
+###### Article R332-32
+
+Lorsque les conditions relatives à l'usage ou à la destination de l'immeuble ayant justifié les exonérations prévues à
+l'article L. 332-18 ne sont plus satisfaites, la taxe est liquidée et recouvrée auprès du constructeur ou du redevable du
+versement représentatif de la participation.
+
+La liquidation est effectuée d'après la valeur du terrain d'implantation de l'opération de construction à la date du procès-
+verbal constatant les changements intervenus. Cette valeur est appréciée par le directeur des services fiscaux à la demande
+du service liquidateur. Le procès-verbal précité peut être déclaré ou notifié au redevable dans le délai de dix ans suivant
+la date d'achèvement des constructions autorisées.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L332-18 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°93-422 du 19 mars 1993 - art. 1 () JORF 24 mars 1993
+
+	**Abrogé par**:
+
+	  - Décret n°95-676 du 9 mai 1995 - art. 4 () JORF 10 mai 1995
+
+
+###### Article R332-33
+
+I. - En cas de modification apportée sur la demande de l'intéressé au permis de construire qui lui a été délivré, le
+complément de participation éventuellement exigible est liquidé, notifié et recouvré dans les conditions prévues aux articles
+R. 332-26 à R. 332-31.
+
+II. - Lorsque la modification du permis de construire entraîne une diminution ou la suppression de la participation ou
+lorsque le demandeur du permis de construire renonce à la construction projetée et demande le retrait à titre gracieux de son
+permis, il peut obtenir le dégrèvement de la somme correspondante, avant que la participation ait été recouvrée, ou la
+restitution dans le cas contraire.
+
+Le cas échéant, l'indemnisation due au titre des excédents de valeurs des biens remis en dation par application de l'article
+L. 332-19 fait l'objet d'une convention directe entre le pétitionnaire et la commune ou l'établissement public de coopération
+intercommunale bénéficiaire de la participation.
+
+III. - Les demandes de dégrèvement sont recevables jusqu'au 31 décembre de la deuxième année qui suit celle de la mise en
+recouvrement et les demandes de restitution jusqu'au 31 décembre de la deuxième année qui suit celle du versement.
+
+IV. - Les demandes de dégrèvement ou de restitution sont adressées au chef du service de l'Etat dans le département chargé de
+l'urbanisme ou, en cas d'application de l'article R. 424-1, au maire, qui fait connaître, le cas échéant, au trésorier-payeur
+général le montant du dégrèvement ou de la restitution à effectuer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°93-422 du 19 mars 1993 - art. 1 () JORF 24 mars 1993
+
+	**Abrogé par**:
+
+	  - Décret n°95-676 du 9 mai 1995 - art. 4 () JORF 10 mai 1995
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L332-19 (Ab)
+	  - Code de l'urbanisme R332-26 à R332-31, L332-19, R424-1
+
+
+###### Article R332-34
+
+La participation à la diversité de l'habitat donne lieu à l'application d'un prélèvement pour frais d'assiette et de
+recouvrement. Le taux de ce prélèvement est calculé dans les conditions définies à l'article R. 333-10.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°93-422 du 19 mars 1993 - art. 1 () JORF 24 mars 1993
+
+	**Abrogé par**:
+
+	  - Décret n°95-676 du 9 mai 1995 - art. 4 () JORF 10 mai 1995
+
+	**Cite**:
+
+	  - Code de l'urbanisme R333-10
+
+
+###### Article R332-35
+
+Sans préjudice des sanctions prévues à l'article L. 480-4, en cas de construction sans autorisation ou d'infraction aux
+obligations résultant de l'autorisation et lorsque la démolition n'est pas ordonnée, le constructeur est tenu de verser une
+participation d'un montant égal à trois fois celui qui aurait été dû si la construction avait été régulièrement autorisée.
+Cette créance du Trésor, immédiatement exigible, est attribuée conformément aux dispositions de l'article L. 332-21.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°93-422 du 19 mars 1993 - art. 1 () JORF 24 mars 1993
+
+	**Abrogé par**:
+
+	  - Décret n°95-676 du 9 mai 1995 - art. 4 () JORF 10 mai 1995
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L332-21 (Ab)
+	  - Code de l'urbanisme - art. L480-4 (M)
+
+
+###### Article R332-36
+
+Le calcul du versement représentatif de la participation à la diversité de l'habitat prévu au e de l'article L. 332-12 est
+effectué dans la limite de la surface hors oeuvre nette constructible résultant soit de l'arrêté de lotissement, soit du plan
+de remembrement, soit de la capacité d'accueil définie pour l'implantation d'habitations légères de loisirs. La participation
+à la diversité de l'habitat n'est pas applicable aux opérations autorisées ou approuvées antérieurement à la date d'entrée en
+vigueur de la délibération prévue à l'article L. 332-17.
+
+En outre, la réduction de 170 mètres carrés prévue au deuxième alinéa de l'article L. 332-17 est applicable par unité de
+construction rendue possible par les autorisations délivrées ou par le plan de remembrement approuvé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°93-422 du 19 mars 1993 - art. 1 () JORF 24 mars 1993
+
+	**Abrogé par**:
+
+	  - Décret n°95-676 du 9 mai 1995 - art. 4 () JORF 10 mai 1995
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L332-12 (M)
+	  - Code de l'urbanisme - art. L332-17 (Ab)
+
+
+##### Sous-section 2 : Dispositions particulières applicables dans les zones d'aménagement concerté
+
+###### Article R332-37
+
+En application de l'article L. 332-24 et conformément aux dispositions des articles L. 333-7 et L. 333-8, la participation à
+la diversité de l'habitat est exigible en zone d'aménagement concerté :
+
+- des bénéficiaires des autorisations de construire, lorsque la réalisation de la zone d'aménagement concerté est effectuée
+en régie directe ;
+
+- de l'organisme chargé de l'aménagement, lorsque la réalisation de la zone d'aménagement concerté n'est pas effectuée en
+régie directe.
+
+La valeur du terrain par mètre carré de surface hors oeuvre nette constructible est appréciée globalement sur la base de la
+surface hors oeuvre nette autorisée pour l'ensemble de la zone.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°93-422 du 19 mars 1993 - art. 1 () JORF 24 mars 1993
+
+	**Abrogé par**:
+
+	  - Décret n°95-676 du 9 mai 1995 - art. 4 () JORF 10 mai 1995
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L332-24 (Ab)
+	  - Code de l'urbanisme - art. L333-7 (M)
+	  - Code de l'urbanisme - art. L333-8 (M)
+
+
+###### Article R332-38
+
+Dans les zones d'aménagement concerté dont la réalisation est effectuée en régie, la participation est calculée et contrôlée
+selon les modalités définies aux articles R. 333-19 à R. 333-21.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°93-422 du 19 mars 1993 - art. 1 () JORF 24 mars 1993
+
+	**Abrogé par**:
+
+	  - Décret n°95-676 du 9 mai 1995 - art. 4 () JORF 10 mai 1995
+
+	**Cite**:
+
+	  - Code de l'urbanisme R333-19 à R333-21
+
+
+###### Article R332-39
+
+Dans les zones d'aménagement concerté dont la réalisation n'est pas effectuée en régie, le montant de la participation
+exigible de l'aménageur est fixé par la convention ou le cahier des charges de concession sur la base de la valeur des
+terrains nus et libres estimée par le directeur des services fiscaux à la date de l'établissement du dossier de réalisation
+ou du bilan prévisionnel.
+
+La convention ou le traité de concession est transmis au trésorier-payeur général à l'initiative du chef de service de l'Etat
+dans le département chargé de l'urbanisme.
+
+Le paiement est effectué par l'aménageur auprès du comptable du Trésor compétent pour le territoire sur lequel la zone
+d'aménagement concerté est réalisée.
+
+La convention définit les modalités de règlement tant sous la forme de dation au sens des dispositions de l'article L. 332-19
+qu'en la forme financière.
+
+La participation exigible en la forme financière, en totalité ou partiellement à raison des dations effectuées, doit être
+acquittée lorsque les cessions, locations ou concession d'usage de terrain effectuées par l'aménageur représentent la moitié
+des droits à construire définis et attribués à l'ensemble de la zone d'aménagement concerté.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°93-422 du 19 mars 1993 - art. 1 () JORF 24 mars 1993
+
+	**Abrogé par**:
+
+	  - Décret n°95-676 du 9 mai 1995 - art. 4 () JORF 10 mai 1995
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L332-19 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R332-40
+
+Les constructions édifiées dans le cadre d'une zone d'aménagement concerté autorisée antérieurement à la date d'entrée en
+vigueur de la délibération prévue à l'article L. 332-17 sont exclues du champ d'application de la participation à la
+diversité de l'habitat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L332-17 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°93-422 du 19 mars 1993 - art. 1 () JORF 24 mars 1993
+
+	**Abrogé par**:
+
+	  - Décret n°95-676 du 9 mai 1995 - art. 4 () JORF 10 mai 1995
+
+
 #### Chapitre III : Versement résultant du dépassement du plafond légal de densité
 
 #####  Section 1 : Dispositions générales
@@ -41251,12 +41837,12 @@ ci.
 En cas de carence de l'intéressé, il n'y a pas lieu pour l'autorité compétente d'instruire la demande de permis de
 construire. 
 
-L'intéressé en est informé par l'autorité compétente d'instruire la demande de permis de construire. 
+L'intéressé en est informé par l'autorité compétente pour statuer sur le de permis de construire. 
 
 Le directeur des services fiscaux est consulté par le service chargé de l'instruction de la demande de permis de construire
 en vue d'émettre un avis sur la déclaration de la valeur du mètre carré de terrain souscrite par l'auteur de cette demande.
 Cet avis doit être émis par le directeur des services fiscaux dans le délai d'un mois suivant la réception de la demande
-d'avis.
+d'avis. 
 
 Il constitue l'estimation administrative. 
 
@@ -41264,21 +41850,39 @@ L'existence d'un désaccord entre le maire et le directeur des services fiscaux 
 donne pas compétence au préfet pour statuer sur la demande de permis de construire. 
 
 Si le directeur des services fiscaux retient une valeur différente de celle que l'intéressé a déclarée, celui-ci en est
-informé, par lettre recommandée avec demande d'avis de réception [*condition de forme*], par le service chargé de
-l'instruction de la demande de permis de construire. Lorsqu'il n'est pas fait application de l'article R. 424-1, ce service
-en informe immédiatement le responsable du service de l'Etat dans le département, chargé de l'urbanisme. 
+informé, par lettre recommandée avec demande d'avis de réception, par le service chargé de l'instruction de la demande de
+permis de construire au plus tard dans le délai de deux mois suivant la délivrance de l'autorisation sollicitée. Lorsqu'il
+n'est pas fait application de l'article R. 332-26, ce service en informe immédiatement le responsable du service de l'Etat
+dans le département, chargé de l'urbanisme. 
 
 En cas de désaccord entre le directeur des services fiscaux et le pétitionnaire sur la valeur du terrain, la juridiction
 compétente en matière d'expropriation est saisie, à l'initiative de la partie la plus diligente, par lettre recommandée
 adressée au secrétariat de cette juridiction. Celle-ci statue selon la procédure prévue par le code de l'expropriation pour
 cause d'utilité publique.
 
+**Nota:**
+
+Décret 2007-18 du 5 janvier 2007 art. 14 : Les dispositions du chapitre III du titre III du livre III du code de l'urbanisme
+relatives au plafond légal de densité, dans leur rédaction antérieure à l'entrée en vigueur du présent décret, demeurent
+applicables dans les communes où un plafond légal de densité était institué le 31 décembre 1999 et dont le conseil municipal
+ou l'organe délibérant de l'établissement public de coopération intercommunale compétent n'a pas décidé de supprimer le
+plafond légal de densité ou d'instaurer la participation pour voirie et réseaux définie par l'article L. 332-11-1 du code de
+l'urbanisme.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°84-669 1984-07-17 ART. 7 1° JORF 21 juillet 1984
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°93-422 du 19 mars 1993 - art. 2 () JORF 24 mars 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 14 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*332-26 (Ab)
 
 	**Cité par**:
 
@@ -41292,9 +41896,9 @@ cause d'utilité publique.
 
 	  - Code de l'urbanisme - art. R335-4 (Ab)
 
-	**Cite**:
+	**Liens**:
 
-	  - Code de l'urbanisme R424-1
+	  - SPEC_APPLI: Date de fin de vigueur indéterminée
 
 	**Codifié par**:
 
@@ -41356,22 +41960,41 @@ l'urbanisme.
 ###### Article R*333-6
 
 Le responsable du service de l'Etat dans le département, chargé de l'urbanisme, arrête le montant global du versement et le
-communique avec les indications nécessaires à la détermination de la part revenant à chaque attributaire au directeur des
-services fiscaux et au maire. Il le communique également au pétitionnaire.
+communique avec les indications nécessaires à la détermination de la part revenant à chaque attributaire au trésorier-payeur
+général et au maire. Il le communique également au pétitionnaire. 
 
-En cas d'application de l'article R. 424-1, le maire est substitué au responsable du service de l'Etat dans le département,
+En cas d'application de l'article R. 332-26, le maire est substitué au responsable du service de l'Etat dans le département,
 chargé de l'urbanisme, et informe celui-ci du montant du versement dans les mêmes conditions. Il en avise également le
-pétitionnaire.
+pétitionnaire. 
 
-Le service des impôts notifie le montant du versement au redevable. Le paiement doit être effectué dans les conditions
-définies aux deuxième et troisième alinéas de l'article L. 333-2.
+Le comptable du trésor notifie le montant du versement au redevable. Le paiement doit être effectué dans les conditions
+définies aux deuxième et troisième alinéas de l'article L. 333-2. 
 
 Lorsque la décision de la juridiction de l'expropriation n'est plus susceptible d'appel ni de pourvoi en cassation, le
-service des impôts procède, s'il y a lieu, à la mise en recouvrement d'une somme complémentaire ou à la restitution du
+comptable du Trésor procède, s'il y a lieu, à la mise en recouvrement d'une somme complémentaire ou à la restitution du
 montant excédentaire. Le paiement du complément doit intervenir dans les conditions indiquées au quatrième alinéa de
 l'article L. 333-2.
 
+**Nota:**
+
+Décret 2007-18 du 5 janvier 2007 art. 14 : Les dispositions du chapitre III du titre III du livre III du code de l'urbanisme
+relatives au plafond légal de densité, dans leur rédaction antérieure à l'entrée en vigueur du présent décret, demeurent
+applicables dans les communes où un plafond légal de densité était institué le 31 décembre 1999 et dont le conseil municipal
+ou l'organe délibérant de l'établissement public de coopération intercommunale compétent n'a pas décidé de supprimer le
+plafond légal de densité ou d'instaurer la participation pour voirie et réseaux définie par l'article L. 332-11-1 du code de
+l'urbanisme.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°93-422 1993-03-19 art. 6 I, II JORF 24 mars 1993
+	  - Décret n°93-422 du 19 mars 1993 - art. 6 () JORF 24 mars 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 14 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
 
 	**Cité par**:
 
@@ -41385,45 +42008,58 @@ l'article L. 333-2.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L333-2 (M)
-	  - Code de l'urbanisme R424-1
+	  - Code de l'urbanisme - art. L333-2 (Ab)
+	  - Code de l'urbanisme - art. R*332-26 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Date de fin de vigueur indéterminée
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°84-669 1984-07-17 ART. 7 3° JORF 21 JUILLET 1984
 
 
 ###### Article R*333-7
 
 En cas de modification apportée sur la demande de l'intéressé au permis de construire qui lui a été délivré, le versement
 complémentaire éventuellement exigible est liquidé, notifié et recouvré dans les conditions prévues aux articles R. 333-1 à
-R. 333-6.
+R. 333-6. 
 
 Lorsque l'autorité compétente autorise le transfert d'un permis de construire qui a rendu exigible le versement, elle doit en
-informer sans délai le directeur des services fiscaux.
+informer sans délai le trésorier payeur général.
+
+**Nota:**
+
+Décret 2007-18 du 5 janvier 2007 art. 14 : Les dispositions du chapitre III du titre III du livre III du code de l'urbanisme
+relatives au plafond légal de densité, dans leur rédaction antérieure à l'entrée en vigueur du présent décret, demeurent
+applicables dans les communes où un plafond légal de densité était institué le 31 décembre 1999 et dont le conseil municipal
+ou l'organe délibérant de l'établissement public de coopération intercommunale compétent n'a pas décidé de supprimer le
+plafond légal de densité ou d'instaurer la participation pour voirie et réseaux définie par l'article L. 332-11-1 du code de
+l'urbanisme.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°84-669 1984-07-17 ART. 7 4° JORF 21 JUILLET 1984
+	  - Décret n°93-422 du 19 mars 1993 - art. 6 () JORF 24 mars 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R333-1 (M)
-	  - Code de l'urbanisme - art. R333-2 (T)
-	  - Code de l'urbanisme - art. R333-3 (M)
-	  - Code de l'urbanisme - art. R333-4 (T)
-	  - Code de l'urbanisme - art. R333-5 (M)
-	  - Code de l'urbanisme - art. R333-6 (Ab)
+	  - Code de l'urbanisme - art. R*333-1 (V)
+	  - Code de l'urbanisme - art. R*333-6 (V)
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 384 D (P)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Date de fin de vigueur indéterminée
 
 	**Codifié par**:
 
@@ -41476,37 +42112,58 @@ l'urbanisme.
 ###### Article R*333-9
 
 L'intervention d'une décision de l'autorité compétente pour statuer sur le permis de construire constatant la péremption de
-celui-ci entraîne de plein droit la restitution du versement.
+celui-ci entraîne de plein droit la restitution du versement. 
 
 Dans les cas visés à l'article R. 333-8 et au premier alinéa du présent article, les demandes de dégrèvement sont recevables
-jusqu'au 31 décembre de la deuxième année qui suit celle de la notification d'un avis de mise en recouvrement et celles de
-restitution jusqu'au 31 décembre de la deuxième année qui suit celle du versement.
+jusqu'au 31 décembre de la deuxième année qui suit celle de leur mise en recouvrement et celles de restitution jusqu'au 31
+décembre de la deuxième année qui suit celle du versement. 
 
 Les demandes de dégrèvement ou de restitution sont adressées au responsable du service de l'Etat dans le département, chargé
-de l'urbanisme, ou, en cas d'application de l'article R. 424-1, au maire qui fait connaître, le cas échéant, au directeur des
-services fiscaux le montant du dégrèvement ou de la restitution à effectuer. Ce montant est calculé déduction faite du
-prélèvement visé à l'article L. 333-12 (alinéa 2).
+de l'urbanisme, ou, en cas d'application de l'article R. 332-26, au maire qui fait connaître, le cas échéant, au trésorier-
+payeur général le montant du dégrèvement ou de la restitution à effectuer. Ce montant est calculé déduction faite du
+prélèvement visé à l'article L. 333-12 (alinéa 2). 
 
 La décision de dégrèvement ou de restitution est prise par le responsable du service de l'Etat dans le département, chargé de
-l'urbanisme ou, en cas d'application de l'article R. 424-1, par le maire.
+l'urbanisme ou, en cas d'application de l'article R. 332-26, par le maire.
+
+**Nota:**
+
+Décret 2007-18 du 5 janvier 2007 art. 14 : Les dispositions du chapitre III du titre III du livre III du code de l'urbanisme
+relatives au plafond légal de densité, dans leur rédaction antérieure à l'entrée en vigueur du présent décret, demeurent
+applicables dans les communes où un plafond légal de densité était institué le 31 décembre 1999 et dont le conseil municipal
+ou l'organe délibérant de l'établissement public de coopération intercommunale compétent n'a pas décidé de supprimer le
+plafond légal de densité ou d'instaurer la participation pour voirie et réseaux définie par l'article L. 332-11-1 du code de
+l'urbanisme.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
 	**Modifié par**:
 
-	  - Décret n°84-669 1984-07-17 ART. 7 5° JORF 21 JUILLET 1984
+	  - Décret n°93-422 1993-03-19 art. 6 I, III JORF 24 mars 1993
+	  - Décret n°93-422 du 19 mars 1993 - art. 6 () JORF 24 mars 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 14 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
 
 	**Cite**:
 
-	  - Code de l'urbanisme R424-1
+	  - Code de l'urbanisme - art. L333-12 (Ab)
+	  - Code de l'urbanisme - art. R*332-26 (Ab)
+	  - Code de l'urbanisme - art. R*333-8 (V)
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 384 F (P)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Date de fin de vigueur indéterminée
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*333-10
@@ -42021,33 +42678,57 @@ postérieurement à l'intervention de la modification sont calculés suivant les
 
 ###### Article R*333-24
 
-La convention ou le cahier des charges de concession fixe le montant du versement dû par l'aménageur selon la formule :
+La convention ou le cahier des charges de concession fixe le montant du versement dû par l'aménageur selon la formule : 
 
-Pa' = vD          Dans laquelle Pa' représente le montant du versement dû par l'aménageur ; v la valeur vénale des terrains
-nus et libres estimés par le      directeur des services fiscaux à la date de l'établissement      du dossier de réalisation
-ou du bilan prévisionnel ; D le dépassement prévu pour la zone, calculé dans les conditions       définies à l'article R.
-333-14. ---Lorsque l'aménageur justifie, notamment par la production des permis de construire correspondants, de
-l'édification d'un nombre de mètres carrés de surface de plancher répondant aux conditions d'exonération définies par les
-troisième et quatrième alinéas de l'article L. 112-2, supérieur à celui retenu pour le calcul effectué en application de
-l'article R. 333-14, l'autorité compétente pour liquider le versement notifie au directeur des services fiscaux que le
-montant des échéances concernées est réduit à due concurrence. Le cas échéant, les sommes perçues en exédent sont
-remboursées.
+Pa'= vD 
+
+Dans laquelle : 
+
+Pa'représente le montant du versement dû par l'aménageur ; 
+
+v la valeur vénale des terrains nus et libres estimés par le trésorier-payeur général à la date de l'établissement du dossier
+de réalisation ou du bilan prévisionnel ; 
+
+D le dépassement prévu pour la zone, calculé dans les conditions définies à l'article R. 333-14. 
+
+Lorsque l'aménageur justifie, notamment par la production des permis de construire correspondants, de l'édification d'un
+nombre de mètres carrés de surface de plancher répondant aux conditions d'exonération définies par les troisième et quatrième
+alinéas de l'article L. 112-2, supérieur à celui retenu pour le calcul effectué en application de l'article R. 333-14,
+l'autorité compétente pour liquider le versement notifie au trésorier-payeur général que le montant des échéances concernées
+est réduit à due concurrence. Le cas échéant, les sommes perçues en exédent sont remboursées.
+
+**Nota:**
+
+Décret 2007-18 du 5 janvier 2007 art. 14 : Les dispositions du chapitre III du titre III du livre III du code de l'urbanisme
+relatives au plafond légal de densité, dans leur rédaction antérieure à l'entrée en vigueur du présent décret, demeurent
+applicables dans les communes où un plafond légal de densité était institué le 31 décembre 1999 et dont le conseil municipal
+ou l'organe délibérant de l'établissement public de coopération intercommunale compétent n'a pas décidé de supprimer le
+plafond légal de densité ou d'instaurer la participation pour voirie et réseaux définie par l'article L. 332-11-1 du code de
+l'urbanisme.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°87-282 1987-04-22 art. 5 JORF 25 avril 1987
+	  - Décret n°93-422 du 19 mars 1993 - art. 6 () JORF 24 mars 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
 
 	**Cite**:
 
-	  - CODE DE L'URBANISME R333-14, L112-2
-	  - Code de l'urbanisme - art. L112-2 (M)
+	  - Code de l'urbanisme - art. L112-2 (V)
+	  - Code de l'urbanisme - art. R*333-14 (V)
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*333-32 (V)
 	  - Code de l'urbanisme - art. R*333-33 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Date de fin de vigueur indéterminée
 
 	**Codifié par**:
 
@@ -42103,8 +42784,8 @@ l'urbanisme.
 
 ###### Article R*333-26
 
-Le directeur des services fiscaux reçoit notification de la convention d'aménagement ou du traité de concession à
-l'initiative du représentant de l'Etat dans le département ou de son délégué dans l'arrondissement.
+Le trésorier-payeur général reçoit notification de la convention d'aménagement ou du traité de concession à l'initiative du
+représentant de l'Etat dans le département ou de son délégué dans l'arrondissement.
 
 **Liens relatifs à cet article**
 
@@ -42114,7 +42795,7 @@ l'initiative du représentant de l'Etat dans le département ou de son délégu�
 
 	**Modifié par**:
 
-	  - Décret n°84-669 1984-07-17 ART. 4 3°, ART. 7 9° JORF 21 JUILLET 1984
+	  - Décret n°93-422 du 19 mars 1993 - art. 6 () JORF 24 mars 1993
 
 
 ###### Article R*333-27
@@ -42446,6 +43127,75 @@ administratifs nécessaires au paiement des subventions.
 	**Abrogé par**:
 
 	  - Décret n°93-614 du 26 mars 1993 - art. 18 (V) JORF 28 mars 1993
+
+
+### Titre IV : Départements d'outre-mer
+
+#### CHAPITRE Ier : Participation à la diversité de l'habitat.
+
+###### Article R*341-1
+
+Les dispositions de la section 3 du chapitre II du titre III du livre III du code de l'urbanisme sont applicables aux
+départements d'outre-mer sous réserve des dispositions particulières suivantes :
+
+a) Pour l'application des articles L. 332-17, premier alinéa, L. 332-19, L. 332-21 et L. 332-22 sont considérés comme
+logements locatifs sociaux les logements locatifs bénéficiant des aides de l'Etat définies selon les modalités prévues par
+l'article L. 472-1 du code de la construction et de l'habitation, ainsi que les logements évolutifs sociaux en accession à la
+propriété financés avec des aides de l'Etat.
+
+b) Pour l'application des articles L. 332-17, dernier alinéa, et L. 332-18 sont considérés comme logements à usage locatif
+mentionnés au 3° de l'article L. 351-2 du code de la construction et de l'habitation les logements locatifs bénéficiant des
+aides de l'Etat définies selon les modalités prévues par l'article L. 472-1 du code de la construction et de l'habitation, et
+comme logements en accession à la propriété mentionnés au 1° de l'article L. 351-2 du code de la construction et de
+l'habitation les logements bénéficiant d'aides de l'Etat sous forme de subvention ou de bonification d'intérêts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°93-422 du 19 mars 1993 - art. 3 () JORF 24 mars 1993
+
+	**Abrogé par**:
+
+	  - Décret n°95-676 du 9 mai 1995 - art. 4 () JORF 10 mai 1995
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L332-17 (Ab)
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. L472-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*341-2
+
+Pour l'application de l'article L. 332-21, les sociétés d'économie mixte de construction constituées dans les départements
+d'outre-mer en application de la loi n° 46-860 du 30 avril 1946 tendant à l'établissement et à l'exécution de plans
+d'équipement et de développement économique et social des territoires et départements d'outre-mer et agréées par décision
+administrative peuvent bénéficier, dans les mêmes conditions que les sociétés d'économie mixte locales de construction ou
+d'aménagement, du produit de la contribution financière versée en règlement de la participation à la diversité de l'habitat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Loi n°46-860 1946-04-30
+	  - Code de l'urbanisme - art. L332-21 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°93-422 du 19 mars 1993 - art. 3 () JORF 24 mars 1993
+
+	**Abrogé par**:
+
+	  - Décret n°95-676 du 9 mai 1995 - art. 4 () JORF 10 mai 1995
 
 
 ## Livre IV : Régime applicable aux constructions, aménagements et démolitions
@@ -43819,31 +44569,45 @@ accompagnée de la justification de la surface hors oeuvre nette attribuée au t
 ###### Article R421-4
 
 Le cas échéant, figurent dans la demande tous les éléments nécessaires au calcul des différentes impositions dont la
-délivrance du permis de construire constitue le fait générateur. 
+délivrance du permis de construire constitue le fait générateur. Conformément aux dispositions des articles L. 332-2, L.
+332-20 et L. 333-1 en l'absence des déclarations de valeurs ou de pièces prévues respectivement aux articles R. 332-4, R.
+332-29 et R. 333-4, le dossier de demande est considéré comme incomplet et il n'y a pas lieu pour l'autorité compétente
+d'instruire la demande de permis de construire.
 
 Lorsqu'il s'agit de constructions à usage commercial assujetties à l'autorisation de la commission d'équipement commercial en
-vertu de l'article 29 de la loi n. 73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat,
+vertu de l'article L. 720-5 du code de commerce, la demande de permis de construire est complétée par la copie de la lettre
+adressée par le préfet au demandeur de l'autorisation précitée lorsque le dossier joint à la demande d'autorisation a été
+reconnu complet.
 
-la demande de permis de construire est complétée par la copie de la lettre adressée par le préfet au demandeur de
-l'autorisation précitée lorsque le dossier joint à la demande d'autorisation a été reconnu complet [*contenu*].
+**Nota:**
+
+NOTA : Les articles L332-2 et L333-1 du code de l'urbanisme ont été abrogés par l'article 202 XXXIX de la loi n° 2000-1208 du
+13 décembre 2000, l'article L332-20 du même code a été abrogé par l'article 11 I de la loi n° 95-74 du 21 janvier 1995 et
+l'article R332-29 a été abrogé par l'article 4 du décret n° 95-676 du 9 mai 1995.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°73-1023 1973-11-08
+	  - Décret n°93-422 du 19 mars 1993 - art. 5 () JORF 24 mars 1993
 
 	**Cite**:
 
-	  - Loi n°73-1193 1973-12-27 ART. 29
-
-	**Modifié par**:
-
-	  - Loi n°93-122 du 29 janvier 1993 - art. 36 (V) JORF 30 janvier 1993
+	  - Code de commerce. - art. L720-5 (M)
+	  - Code de l'urbanisme - art. L332-2 (M)
+	  - Code de l'urbanisme - art. L332-20 (Ab)
+	  - Code de l'urbanisme - art. L333-1 (Ab)
+	  - Code de l'urbanisme - art. R332-29 (Ab)
+	  - Code de l'urbanisme - art. R333-4 (T)
+	  - Code de l'urbanisme L332-2, L332-20, L333-1, R332-4, R332-29, R333-4
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*422-3 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R421-5
@@ -49370,46 +50134,6 @@ En cas d'autorisation tacite, le préfet reçoit, sans délai, le dossier et les
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L421-2-4 (M)
-
-
-#####  Paragraphe 3 : Dispositions applicables dans les communes où un POS n'a pas été approuvé.
-
-###### Article R*442-6-4
-
-Dans les communes où un plan d'occupation des sols n'a pas été approuvé, la décision est prise par le maire au nom de
-l'Etat ; toutefois, elle est prise par le préfet dans les cas énumérés ci-après [*autorité compétente*] : 
-
-1° Lorsque le maire et le responsable du service de l'Etat dans le département, chargé de l'urbanisme, ont émis des avis en
-sens contraire ; 
-
-2° Lorsqu'une dérogation ou une adaptation mineure aux dispositions mentionnées au deuxième alinéa de l'article R. 442-4-7
-est nécessaire ; dans ce cas, la décision d'octroi de l'autorisation doit indiquer les motifs de la dérogation accordée ; 
-
-3° Lorsque l'installation ou le travail qui fait l'objet de la demande d'autorisation requiert l'avis ou l'avis conforme des
-services, personnes publiques ou commissions relevant du ministre chargé des monuments historiques, du ministre chargé des
-sites, du ministre chargé des zones de protection du patrimoine architectural et urbain ou du ministre chargé de la
-protection de la nature, à l'exception du cas des sites inscrits ; 
-
-4° Lorsque l'installation qui fait l'objet de la demande d'autorisation entre dans le champ d'application de l'article 50 du
-code du domaine public fluvial et de la navigation intérieure et des textes pris pour son application ; 
-
-5° Lorsqu'il y a lieu de prendre une décision de sursis à statuer.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R442-4-7 (M)
-	  - Code du domaine public fluvial 50
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°87-885 du 30 octobre 1987 - art. 11 ()
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 
 #####  Paragraphe 3 : Dispositions particulières applicables dans les communes où un plan d'occupation des sols n'a pas été approuvé.
