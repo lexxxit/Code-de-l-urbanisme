@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1978-07-07
+Version Consolidée au 1978-08-02
 
 # Partie législative
 
@@ -16677,6 +16677,87 @@ consacrée aux servitudes d'utilité publique affectant l'utilisation du sol [*p
 
 ### Espaces boisés
 
+#### Utilisation du sol, défrichement, coupes et abattages d'arbres dans les espaces boisés classés non soumis au régime forestier.
+
+###### Article R*130-1
+
+Sous réserve de ce qui est dit à l'article R. 130-2 ci-après, toute coupe ou tout abattage d'arbres compris dans un espace
+boisé classé est subordonné à une autorisation expresse délivrée par le préfet.
+
+La demande d'autorisation est présentée par le propriétaire du terrain ou par une personne morale ayant qualité pour
+bénéficier soit de l'expropriation dudit terrain pour cause d'utilité publique, soit des servitudes prévues à l'article 12 de
+la loi du 15 juin 1906 sur les distributions d'énergie. Elle est adressée au préfet par lettre recommandée avec demande
+d'avis de réception. Elle peut concerner un abattage, une coupe ou plusieurs coupes échelonnées, le cas échéant, sur
+plusieurs années. Elle doit préciser la situation, la nature et la quotité de chaque coupe ou abattage ainsi que l'année de
+son exécution et les éventuels travaux de plantation que le propriétaire s'engage à exécuter. Au cas où la demande est
+présentée par les personnes morales susmentionnées, le préfet adresse au propriétaire une copie de cette demande par lettre
+recommandée avec demande d'avis de réception.
+
+Lorsqu'un propriétaire soumet à l'approbation du préfet un règlement d'exploitation ou une demande d'autorisation de coupe au
+titre de l'article 188 du code forestier, le projet de règlement d'exploitation ou la demande d'autorisation vaut aussi
+demande d'autorisation préalable de coupe au sens du cinquième alinéa de l'article L. 130-1 du code de l'urbanisme ainsi que
+demande d'autorisation préalable pour l'application de l'article L. 421-6 dudit code. L'instruction est engagée conjointement
+au titre des deux législations.
+
+L'autorisation peut être subordonnée à des prescriptions spéciales concernant notamment des techniques de gestion, le respect
+de certains peuplements, l'obligation de procéder à des reboisements ou à des plantations de remplacement.
+
+La décision est prise après avis du directeur départemental de l'agriculture et du directeur départemental de l'équipement.
+Elle est notifiée au demandeur.
+
+La coupe ou l'abattage ne peut être effectué par la personne morale mentionnée au second alinéa du présent article qu'avec le
+consentement du propriétaire ou, à défaut, soit après l'acquisition par cette personne morale de la propriété des terrains
+concernés, soit après la création des servitudes prévues par l'article 12 de la loi du 15 juin 1906 sur les distributions
+d'énergie.
+
+Si la coupe ou l'abattage n'ont pu être pratiqués au cours de l'année pour laquelle l'autorisation a été donnée, ils peuvent
+être pratiqués l'année suivante sans nouvelle autorisation.
+
+Les coupes rases doivent être suivies, dans les cinq ans, de travaux de reboisement, à défaut de regénération naturelle.
+
+Aucune autorisation n'est nécessaire pour procéder à l'enlèvement des arbres dangereux, des chablis et des bois morts.
+
+Nonobstant toutes dispositions réglementaires attribuant compétence à une autre autorité, les décisions intervenant sur des
+demandes d'autorisation d'occupation ou d'utilisation du sol dans les espaces boisés classés sont prises par le préfet après
+avis du directeur départemental de l'agriculture.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°78-808 1978-08-01 ART. 18 JORF 2 AOUT 1978
+	  - Décret n°79-515 1979-06-28 ART. 1 JORF 1 JUILLET 1979
+
+	**Cité par**:
+
+	  - Code forestier (nouveau) - art. R141-26 (M)
+	  - Code de l'environnement - art. R300-2 (M)
+	  - Code de l'urbanisme - art. R*130-5 (Ab)
+	  - Code de l'urbanisme - art. R*710-1 (Ab)
+	  - Code de l'urbanisme - art. R130-14 (M)
+	  - Code de l'urbanisme - art. R130-3 (M)
+	  - Code de l'urbanisme - art. R142-3 (M)
+	  - Code forestier - art. R412-8 (M)
+
+	**Cite**:
+
+	  - Code forestier 188
+	  - Code de l'urbanisme - art. L421-6 (M)
+	  - Code de l'urbanisme - art. R130-2 (M)
+	  - Code de l'urbanisme L130-1 AL. 5
+	  - Loi   1906-06-15 ART. 12
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*130-3 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R130-4 (M)
+	  - PILOTE_SUIVEUR: Code forestier - art. R412-8 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 #### Utilisation du sol, défrichements, coupes et abattages d'arbres dans les espaces boisés classés non soumis au régime forestier.
 
 ###### Article R*130-2
@@ -16814,17 +16895,25 @@ plan d'occupation des sols a été prescrit mais où ce plan n'est pas encore re
 ###### Article R*130-5
 
 Lorsqu'un propriétaire décide de procéder, dans un bois, forêt ou parc, situé sur le territoire d'une commune ou partie de
-commune où l'établissement d'un plan d'occupation des sols a été prescrit mais où ce plan n'a pas été encore rendu public, à
-un défrichement soumis à autorisation administrative en application de l'article 157 du code forestier, la déclaration de
-défrichement vaut aussi demande d'autorisation préalable de coupe au sens du quatrième alinéa de l'article L. 130-1 du
-présent code. L'instruction est engagée conjointement au titre des deux législations.
+commune où l'établissement d'un plan d'occupation des sols a été prescrit mais où ce plan n'a pas encore été rendu public, à
+un défrichement soumis à autorisation administrative en application de l'article 157 du code forestier, ou qu'il soumet à
+l'approbation du préfet un règlement d'exploitation ou une demande d'autorisation de coupe au titre de l'article 188 du code
+forestier, la déclaration de défrichement, le projet de règlement d'exploitation ou la demande d'autorisation de coupe vaut
+aussi demande d'autorisation préalable de coupe au sens du cinquième alinéa de l'article L. 130-1 du code de l'urbanisme
+ainsi que demande d'autorisation préalable pour l'application de l'article L. 421-6 dudit code. L'instruction est engagée
+conjointement au titre des deux législations.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°78-808 1978-08-01 ART. 18 JORF 2 AOUT 1978
+
 	**Cite**:
 
-	  - Code forestier 157
+	  - Code forestier 188
 	  - Code de l'urbanisme - art. L130-1 (M)
+	  - Code de l'urbanisme - art. L421-6 (M)
 
 	**Cité par**:
 
@@ -16835,6 +16924,7 @@ présent code. L'instruction est engagée conjointement au titre des deux légis
 	**Nouveaux textes**:
 
 	  - Code de l'urbanisme - art. R*130-14 (Ab)
+	  - Code de l'urbanisme - art. R130-14 (M)
 
 	**Codifié par**:
 
@@ -19313,66 +19403,6 @@ Servitudes aux abords des champs de tir créées en application de l'article 25 
 	**Créé par**:
 
 	  - Décret n°77-861 1977-07-26 ART. 1 JORF 29 JUILLET 1977
-
-
-## Espaces boisés
-
-### Utilisation du sol, défrichements, coupes et abattages d'arbres dans les espaces boisés classés non soumis au régime forestier.
-
-###### Article R*130-1
-
-Sous réserve de ce qui est dit à l'article /M/R. 130-3 /M/DECR.0754 : R. 130-2// ci-après toute coupe ou tout abattage
-d'arbres compris dans un espace boisé classé est subordonné à une autorisation expresse délivrée par le préfet.
-
-La demande d'autorisation est formulée par le propriétaire du fonds et adressée au préfet par lettre recommandée avec demande
-d'avis de réception. Elle peut concerner un abattage, une coupe ou plusieurs coupes échelonnées le cas échéant sur plusieurs
-années. Elle doit préciser la situation, la nature et la quotité de chaque coupe ou abattage ainsi que l'année de son
-exécution et les éventuels travaux de plantation que le propriétaire s'engage à exécuter.
-
-L'autorisation peut être subordonnée à des prescriptions spéciales concernant notamment les techniques de gestion, le respect
-de certains peuplements, l'obligation de procéder à des reboisements ou à des plantations de remplacement.
-
-La décision est prise après avis du directeur départemental de l'agriculture et du directeur départemental de l'équipement.
-Elle est notifiée [*publicité*] au demandeur.
-
-Si la coupe ou l'abattage n'ont pu être pratiqués au cours de l'année pour laquelle l'autorisation a été donnée, ils peuvent
-être pratiqués l'année suivante sans nouvelle autorisation.
-
-Les coupes rases doivent être suivies, dans les cinq ans, de travaux de reboisement, à défaut de régénération naturelle.
-
-Aucune autorisation n'est nécessaire pour procéder à l'enlèvement des arbres dangereux, des chablis et des bois morts.
-
-Nonobstant toutes dispositions réglementaires attribuant compétence à une autre autorité, les décisions intervenant sur des
-demandes d'autorisation d'occupation ou d'utilisation du sol dans les espaces boisés classés sont prises par le préfet après
-avis du directeur départemental de l'agriculture.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code forestier (nouveau) - art. R141-26 (M)
-	  - Code de l'environnement - art. R300-2 (M)
-	  - Code de l'urbanisme - art. R*130-5 (Ab)
-	  - Code de l'urbanisme - art. R*710-1 (Ab)
-	  - Code de l'urbanisme - art. R130-14 (M)
-	  - Code de l'urbanisme - art. R142-3 (M)
-	  - Code forestier - art. R412-8 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*130-3 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R130-4 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R142-3 (M)
-	  - PILOTE_SUIVEUR: Code forestier - art. R412-8 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R130-2 (M)
-	  - Code de l'urbanisme - art. R130-3 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 ## Livre II : Préemption et réserves foncières
