@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2000-07-06
+Version Consolidée au 2000-09-21
 
 # Partie législative
 
@@ -10240,19 +10240,25 @@ l'ordonnance au 1er octobre 2007.
 
 Les droits et obligations des locataires et occupants des immeubles faisant l'objet des travaux prévus aux articles L. 313-3
 et L. 313-4 sont régis par les dispositions des articles L. 313-6 à L. 313-15, des articles L. 314-2 à L. 314-9 ainsi que par
-celles des articles 3 et 12 de la loi n° 48-1360 du 1er septembre 1948 modifiée et des articles 10, 20 et 38-1 du décret n°
-53-960 du 30 septembre 1953 modifié.
+celles des articles 3 et 12 de la loi n° 48-1360 du 1er septembre 1948 modifiée et des articles L. 145-18, L. 145-28 à L.
+145-30, L. 145-6 et L. 145-7 du code de commerce.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°48-1360 1948-09-01 ART. 3 ET 12
-	  - Décret n°53-960 1953-09-30 ART. 10, 20 ET 38-1
-	  - Décret n°53-960 du 30 septembre 1953 - art. 10 (Ab)
-	  - Code de l'urbanisme - art. L313-3 (M)
-	  - Code de l'urbanisme - art. L313-4 (M)
-	  - Code de l'urbanisme L313-3, L313-4, L313-6 à L313-15, L314-2 à L314-9
+	  - Loi n°48-1360 du 1er septembre 1948 - art. 12 (V)
+	  - Loi n°48-1360 du 1er septembre 1948 - art. 3 (V)
+	  - Code de commerce - art. L145-18 (V)
+	  - Code de commerce - art. L145-28 (V)
+	  - Code de commerce - art. L145-30 (V)
+	  - Code de commerce - art. L145-6 (V)
+	  - Code de commerce - art. L145-7 (V)
+	  - Code de l'urbanisme - art. L313-3 (Ab)
+	  - Code de l'urbanisme - art. L313-4 (V)
+	  - Code de l'urbanisme - art. L313-6 (V)
+	  - Code de l'urbanisme - art. L314-2 (V)
+	  - Code de l'urbanisme - art. L314-9 (V)
 
 	**Anciens textes**:
 
@@ -10260,7 +10266,7 @@ celles des articles 3 et 12 de la loi n° 48-1360 du 1er septembre 1948 modifié
 
 	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985
+	  - Ordonnance n°2000-912 du 18 septembre 2000 - art. 3 (V) JORF 21 septembre 2000
 
 	**Liens**:
 
@@ -10468,8 +10474,9 @@ articles L. 313-3 et L. 313-4.
 ###### Article L313-15
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent chapitre et, notamment, les conditions dans
-lesquelles s'appliquent la loi du 31 décembre 1913 sur les monuments historiques et la loi du 2 mai 1930 sur les sites, dans
-le cas où des immeubles relevant de l'une ou de l'autre de ces législations sont compris dans les secteurs sauvegardés.
+lesquelles s'appliquent la loi du 31 décembre 1913 sur les monuments historiques et les articles L. 341-1 à L. 341-22 du code
+de l'environnement, dans le cas où des immeubles relevant de l'une ou de l'autre de ces législations sont compris dans les
+secteurs sauvegardés.
 
 Ce décret fixe les conditions particulières d'élaboration, d'application anticipée des dispositions en cours d'élaboration
 d'un plan de sauvegarde et de mise en valeur après mise en révision et de modification du plan de sauvegarde et de mise en
@@ -10477,22 +10484,13 @@ valeur.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Cite**:
-
-	  - Loi n°1913-12-31
-	  - Loi n°1930-05-02
-
 	**Anciens textes**:
 
 	  - Loi n°62-903 1962-08-04 art. 4
 
 	**Modifié par**:
 
-	  - Décret n°80-621 1980-07-31 art. 2 JORF 6 août 1980
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 2 (V) JORF 21 septembre 2000
 
 	**Cité par**:
 
@@ -10504,6 +10502,15 @@ valeur.
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code du patrimoine - art. L641-1 (VD)
+
+	**Cite**:
+
+	  - Code de l'environnement L341-1 à L341-22
+	  - Loi n°1913-12-31
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 #### Chapitre IV : Protection des occupants
@@ -17321,29 +17328,29 @@ c) les démolitions imposées par l'autorité compétente en application de l'ar
 d) les démolitions prévues par un plan de sauvegarde et de mise en valeur rendu public ou approuvé et réalisées dans les
 conditions fixées par l'article L. 313-1 (alinéa 3) ;
 
+e) Abrogé ;
+
 f) les démolitions de bâtiments frappés de servitude de reculement en exécution de plans d'alignement approuvés sous le
 régime de l'ordonnance n° 59-115 du 7 janvier 1959 et des textes pris pour son application. 
 
-La dispense de permis de démolir prévue au a) du présent article pour l'application des articles L. 511-1 à L. 511-3 du code
+La dispense de permis de démolir prévue au a du présent article pour l'application des articles L. 511-1 à L. 511-3 du code
 de la construction et de l'habitation s'exerce dans les conditions déterminées par le décret prévu à l'article L. 313-15 en
 ce qui concerne les secteurs sauvegardés et par un décret en conseil d'Etat en ce qui concerne les immeubles ou les zones
 auxquels s'appliquent les dispositions des articles 2 et 13 bis de la loi du 31 décembre 1913 sur les monuments historiques
-et les dispositions de la loi du 2 mai 1930 sur les sites.
+et les dispositions des articles L. 341-1 à L. 341-22 du code de l'environnement.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance 59-115 1959-01-07
-	  - Code de la santé publique - art. L28 (M)
-	  - Code de l'urbanisme - art. L123-1 (M)
-	  - Code de l'urbanisme - art. L313-1 (M)
-	  - Code de l'urbanisme - art. L313-15 (M)
-	  - Code de l'urbanisme - art. L430-2 (Ab)
-	  - Code de l'urbanisme L430-2, L123-1, L313-1, L313-15, 2
-	  - Code de la construction et de l'habitation L511-1 à L511-3
-	  - Loi n°1913-12-31
-	  - Loi n°1930-05-02
 
 	**Cité par**:
 
@@ -17384,7 +17391,11 @@ et les dispositions de la loi du 2 mai 1930 sur les sites.
 
 	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 2 (V) JORF 21 septembre 2000
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
 
 	**Codifié par**:
 
@@ -17610,23 +17621,31 @@ respect de certaines conditions.
 ###### Article L430-8
 
 Le permis de démolir tient lieu des autorisations prévues par l'article 13 bis (alinéa 1er) de la loi du 31 décembre 1913 sur
-les monuments historiques, par l'article 9 de la loi du 2 mai 1930 sur les sites et par l'article L. 313-2 [*secteurs
-sauvegardes*]. Dans chacun de ces cas, ainsi que lorsque la démolition prévue concerne un immeuble ou une partie d'immeuble
-inscrit à l'inventaire supplémentaire des monuments historiques ou protégé au titre de l'article 4 de la loi du 2 mai 1930,
-il est délivré, après accord exprès ou tacite du ministre chargé des monuments historiques et des sites ou de son délégué,
-qui peut subordonner cet accord au respect de certaines conditions.
+les monuments historiques, par l'article L. 341-7 du code de l'environnement et par l'article L. 313-2 (1). Dans chacun de
+ces cas, ainsi que lorsque la démolition prévue concerne un immeuble ou une partie d'immeuble inscrit à l'inventaire
+supplémentaire des monuments historiques ou protégé au titre de l'article L. 341-1 du code de l'environnement, il est
+délivré, après accord exprès ou tacite du ministre chargé des monuments historiques et des sites ou de son délégué, qui peut
+subordonner cet accord au respect de certaines conditions.
+
+**Nota:**
+
+NOTA : Ordonnance 2005-1527 du 8 décembre 2005 art. 41 : La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007.
+
+NOTA : (1) Lire L. 313-2 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 2 (V) JORF 21 septembre 2000
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L313-2 (M)
-	  - Loi n°1913-12-31 art. 13 bis al. 1
-	  - Loi n°1930-05-02 art. 9, art. 4
+	  - Code de l'environnement - art. L341-1 (M)
+	  - Code de l'environnement - art. L341-7 (V)
+	  - Loi n°1913-12-31 art. 13 bis
 
 	**Cité par**:
 
@@ -24710,6 +24729,57 @@ juin 1906 sur les distributions d'énergie *conditions*.
 
 	  - Code de l'urbanisme R130-2 al. 1
 	  - Loi n°1906-06-15 art. 12
+
+
+###### Article R*130-7
+
+Le rejet de plein droit de la demande d'autorisation de défrichement, prévu au troisième alinéa de l'article L. 130-1, est
+constaté par arrêté du préfet.
+
+Dans le cas prévu au quatrième alinéa de l'article L. 130-1, la demande d'autorisation de défrichement est instruite dans les
+formes et délais prescrits par le code forestier sous réserve des dispositions suivantes :
+
+a) La demande doit être accompagnée d'une étude d'impact établie conformément aux dispositions des articles L. 122-1 à L.
+122-3 du code de l'environnement, ainsi que de l'engagement du pétitionnaire de réaménager le site selon les prescriptions
+dont l'autorisation d'exploitation de carrière sera assortie si elle est accordée.
+
+b) La demande est soumise pour avis au directeur régional de l'industrie et de la recherche, en ce qui concerne l'intérêt de
+l'exploitation du gisement pour l'économie nationale ou régionale et au délégué régional à l'architecture et à
+l'environnement, en ce qui concerne les conséquences de l'exploitation pour l'environnement. Ces avis sont réputés exprimés à
+l'expiration d'un délai de deux mois.
+
+Si la mise en exploitation d'un gisement de produits minéraux dans un espace boisé classé ne nécessite pas l'autorisation de
+défrichement au titre de la législation forestière, mais est subordonnée à une autorisation de coupe et d'abattage, cette
+autorisation ne peut être accordée que si la procédure définie au deuxième alinéa ci-dessus, a été respectée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°84-229 du 29 mars 1984 - art. 2 () JORF 31 mars 1984 en vigueur le 1er avril 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 1 (V) JORF 21 septembre 2000
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 4 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L130-1 (M)
+	  - Code de l'environnement L122-1 à L122-3
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R*130-16 (V)
 
 
 ###### Article R*130-8
