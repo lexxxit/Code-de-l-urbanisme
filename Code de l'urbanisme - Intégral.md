@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1987-07-23
+Version Consolidée au 1987-08-14
 
 # Partie législative
 
@@ -14197,36 +14197,6 @@ nécessaires à l'application dans les départements d'outre-mer des articles L.
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-
-## Règles relatives à l'acte de construire et à divers modes d'utilisation du sol
-
-### Permis de construire
-
-#### Régime général
-
-###### Article L421-2-6
-
-Le maire ou le président de l'établissement public compétent peut disposer gratuitement et en tant que de besoin des services
-extérieurs de l'Etat pour instruire les demandes de permis de construire sur lesquelles il a compétence pour statuer. Pendant
-la durée de cette mise à disposition, les services et les personnels agissent en concertation permanente avec le maire ou le
-président de l'établissement public qui leur adresse toutes instructions nécessaires pour l'exécution des tâches qu'il leur
-confie.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Créé par**:
-
-	  - Loi n°83-8 du 7 janvier 1983 - art. 61 () JORF 9 JANVIER 1983
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°83-851 1983-09-23
-	  - SPEC_APPLI: Code de l'urbanisme - art. L421-2-7 (M)
 
 
 ## Livre IV : Règles relatives à l'acte de construire et à divers modes d'utilisation du sol
@@ -46121,6 +46091,33 @@ Les articles A. 121-1 et A. 121-2 sont applicables aux prix de vente des plans d
 
 	  - Code de l'urbanisme - art. A121-1 (M)
 	  - Code de l'urbanisme - art. A121-2 (Ab)
+
+
+#### Chapitre  VI : Servitudes d'utilité publique affectant l'utilisation du sol
+
+###### Article A126-1
+
+La représentation des différentes servitudes d'utilité publique figurant sur la liste mentionnée à l'article R. 126-1 est
+fixée conformément au code alphanumérique et aux symboles graphiques annexés au présent article (Annexe non reproduite, voir
+JORF du 14 août 1987).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1984-05-11 art. 2 JONC 17 juillet 1984
+
+	**Modifié par**:
+
+	  - Arrêté 1987-07-29 art. 1 JORF 14 août 1987
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*126-1 (V)
 
 
 ### Titre  IV : Dispositions spéciales à certaines parties du territoire
