@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1986-08-27
+Version Consolidée au 1986-09-01
 
 # Partie législative
 
@@ -20817,46 +20817,30 @@ est approuvé, le plan d'occupation des sols demeure en vigueur.
 
 ###### Article R*123-35-3
 
-Lorsque l'utilite publique d'une opération doit être déclarée dans les conditions prévues à l'article L. 123-8, les
-dispositions du premier alinéa de l'article R. 123-34 ne sont pas applicables à la modification du plan d'occupation des sols
-rendu public ou approuvé ; cette modification est effectuée selon les modalités définies ci-après :
+Lorsque l'utilite publique d'une opération doit être déclarée dans les conditions prévues à l'article L. 123-8, la mise en
+compatibilité du plan d'occupation des sols est effectuée selon les modalités définies ci-après.
 
-Le commissaire de la République informe le maire ou le président de l'établissement public de coopération intercommunale de
-la nature du projet et l'invite à réunir le conseil municipal ou l'organe délibérant de l'établissement public pour que
-celui-ci fixe les modalités de l'association des personnels publiques à la modification du plan d'occupation des sols. Cette
-délibération fait l'objet de mesures de publicité prévues au dernier alinéa de l'article R. 123-3 et d'une transmission au
-commissaire de la République.
+Le commissaire de la République informe de la nature de l'opération et de ses implications sur le plan d'occupation des sols,
+le maire ou le président de l'établissement public de coopération intercommunale, ainsi que les présidents du conseil
+régional, du conseil général et des organismes consulaires.
 
-Simultanément, le commissaire de la République invite les présidents du conseil régional, du conseil général, de la chambre
-de commerce et d'industrie, de la chambre des métiers et de la chambre d'agriculture à lui faire connaître, dans un délai de
-deux mois à compter de leur saisine, s'ils veulent être associés à la modification du plan d'occupation des sols et, dans
-l'affirmative, à désigner à cet effet leurs représentants.
-
-Il publie par arrêté la liste des personnes publiques et des services de l'Etat associés à la modification du plan
-d'occupation des sols. Mention de cet arrêté est insérée en caractères apparents dans deux journaux régionaux ou locaux
-diffusés dans le département.
-
-Parallèlement, le commissaire de la République ouvre par arrêté une enquête publique portant à la fois sur l'utilité publique
-de l'opération projetée et sur la modification du plan d'occupation des sols. Cette enquête s'ouvre et se déroule
-conformément aux dispositions des articles R. 11-14-1 et suivants du code de l'expropriation pour cause d'utilité publique ou
-des textes prévoyant une procédure propre d'enquête préalable à la déclaration d'utilité publique régie par la loi du 12
-juillet 1983.
+Simultanément, il ouvre, par arrêté, l'enquête publique portant à la fois sur l'utilité publique de l'opération et sur la
+mise en compatibilité du P.O.S.. Cette enquête s'ouvre et s'effectue conformément aux dispositions des articles R. 11-14-1 et
+suivants du code de l'expropriation pour cause d'utilité publique ou des textes prévoyant une procédure propre d'enquête
+préalable à la déclaration d'utilité publique régie par la loi du 12 juillet 1983.
 
 Après la remise des conclusions de l'enquête par le commissaire enquêteur ou le président de la commission d'enquête, le
-commissaire de la République met en oeuvre les modalités de l'association déterminées par le conseil municipal ou l'organe
-délibérant de l'établissement public de coopération intercommunale.
+commissaire de la République, réunit, pour examiner le projet de mise en compatibilité du P.O.S., les personnes mentionnées
+au deuxième alinéa du présent article, ou leurs représentants, ainsi que les services de l'Etat intéressés.
 
-Si un mois après la clôture de l'enquête, aucune délibération fixant les modalités de l'association prévue au deuxième alinéa
-du présent article n'a été transmise au commissaire de la République, celui-ci ou son représentant, accompagné des
-représentants des personnes publiques associées, est entendu à sa demande par le conseil municipal.
+Le dossier de mise en compatibilité du P.O.S., le rapport et les conclusions du commissaire enquêteur ou de la commission
+d'enquête ainsi que le procès-verbal de la réunion prévue à l'alinéa précédent sont soumis, pour avis, par le commissaire de
+la République au conseil municipal ou à l'organe délibérant de l'établissement public de coopération intercommunale, qui doit
+se prononcer dans un délai de deux mois. S'il n'est pas intervenu dans ce délai, l'avis est réputé donné.
 
-Le dossier de modification du plan d'occupation des sols, le rapport et les conclusions du commissaire enquêteur ou de la
-commission d'enquête ainsi que tout document rendant compte de l'association sont soumis ensuite pour avis par le commissaire
-de la République au conseil municipal ou à l'organe délibérant de l'établissement public qui doit se prononcer dans un délai
-de deux mois. S'il n'est pas intervenu à l'expiration de ce délai, l'avis est réputé donné.
-
-Lorsqu'une déclaration d'utilité publique emportant modification du plan d'occupation des sols ne relève pas de la compétence
-du commissaire de la République, elle est contresignée ou consignée par le ministre chargé de l'urbanisme.
+Lorsqu'une déclaration d'utilité publique qui emporte approbation des nouvelles dispositions du plan d'occupation des sols ne
+relève pas de la compétence du commissaire de la République, elle est contresignée ou consignée par le ministre chargé de
+l'urbanisme.
 
 **Liens relatifs à cet article**
 
@@ -20865,20 +20849,19 @@ du commissaire de la République, elle est contresignée ou consignée par le mi
 	  - Décret n°70-492 du 11 juin 1970 - art. 6 (V)
 	  - Décret n°70-492 du 11 juin 1970 - art. 7 (V)
 
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°83-663 1983-07-22 ART. 100 (Code de l'urbanisme L123-4)
-	  - SPEC_APPLI: Décret n°85-452 1985-04-23 art. 1 : Date d'entrée en vigueur
-
-	**Créé par**:
-
-	  - Décret n°85-452 1985-04-23 art. 3 JORF 24 avril 1985 en vigueur le 1er octobre 1985
-
 	**Cite**:
 
+	  - Loi n°83-630 1983-07-12
 	  - Code de l'urbanisme - art. L123-8 (M)
-	  - Code de l'urbanisme L123-8, R123-34, R123-3
 	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-1 (M)
+
+	**Modifié par**:
+
+	  - Décret n°86-984 1986-08-19 art. 7 XI JORF 27 AOUT 1986 en vigueur le 1er SEPTEMBRE 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-984 1986-08-19 art. 7 XII : Date d'entrée en vigueur
 
 	**Codifié par**:
 
@@ -23325,157 +23308,7 @@ ou particulières prises en application de l'article L. 111-1-1.
 	  - Code de l'urbanisme - art. R*123-25 (V)
 
 
-##### Effets du plan d'occupation des sols
-
-##### Mesures de sauvegarde.
-
-###### Article R*123-25
-
-/M/Les dispositions des articles R. 123-26 ET R. 123-29 /M/DECR.0267 : Les dispositions des articles R. 123-26 à R. 123-29//
-sont applicables sur le territoire des communes, parties ou ensembles de communes, pour lequel l'établissement d'un plan
-d'occupation des sols a été prescrit, à dater du jour de cette prescription et jusqu'à ce que ledit plan ait été rendu
-public.
-
-Le décret ou l'arrêté portant création d'un secteur sauvegardé a les effets prévus aux articles R. 123-26 à R. 123-29 à
-compter de la date de sa publication.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1016 1970-10-28 ART. 23
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°76-267 1976-03-25 JORF 27 MARS 1976 Rectificatif JORF 13 JUIN 1976
-
-	**Cité par**:
-
-	  - Décret n°2009-722 du 18 juin 2009 - art. 2 (V)
-	  - Décret n°2010-1697 du 29 décembre 2010 - art. 3 (V)
-	  - Décret n°2015-376 du 1er avril 2015 - art. 5 (V)
-	  - Code de l'environnement - art. R126-4 (VD)
-	  - Code de l'environnement - art. R581-79 (VD)
-	  - Code de l'urbanisme - art. R*111-50-1 (VT)
-	  - Code de l'urbanisme - art. R*123-24 (VT)
-	  - Code de l'urbanisme - art. R*127-1 (Ab)
-	  - Code de l'urbanisme - art. R*128-1 (Ab)
-	  - Code de l'urbanisme - art. R331-1 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R123-26
-
-
-##### Mesures d'exécution.
-
-###### Article R*123-33
-
-L'approbation du plan d'occupation des sols dispense de l'enquête publique préalable aux classements et déclassements des
-voies et places publiques prévus audit plan, sous réserve que celui-ci précise la catégorie dans laquelle elles doivent
-entrer et que lesdits classements et déclassements figurent parmi les opérations soumises à enquête en application de
-l'article R. 123-8.
-
-L'acte qui approuve le plan d'occupation des sols peut porter, le cas échéant, déclarations d'utilité publique de certaines
-des opérations prévues par ce plan à la condition que l'enquête prévue à l'article R. 123-8 (alinéa 2) ait été close moins
-d'un an avant la date d'approbation du plan.
-
-Lorsque le plan d'occupation des sols est approuvé par décret en Conseil d'Etat en application de l'article L. 123-3 (alinéa
-6) le délai fixé à l'alinéa précédent est porté à dix-huit mois pour celles des opérations dont l'utilité publique ne peut
-être déclarée que par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1016 1970-10-28 ART. 31
-
-	**Cite**:
-
-	  - Code de l'urbanisme R123-8
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 #### Plan d'occupation des sols
-
-##### Elaboration du plan d'occupation des sols.
-
-###### Article R*123-11
-
-Le plan d'occupation des sols rendu public est soumis par le maire à enquête publique dans les conditions fixées par la loi
-n° 83-630 du 12 juillet 1983 relative à la démocratisation des enquêtes publiques et à la protection de l'environnement.
-
-Le maire saisit le président du tribunal administratif en vue de la désignation d'un commissaire enquêteur ou d'une
-commission d'enquête.
-
-Un arrêté du maire précise :
-
-1. L'objet de l'enquête, la date à laquelle celle-ci sera ouverte, et sa durée qui ne peut être inférieure à un mois ;
-
-2. Les nom et qualité du commissaire enquêteur ou des membres de la commission d'enquête ;
-
-3. Les heures et le lieu où le public pourra prendre connaissance du dossier et formuler ses observations sur un registre
-ouvert à cet effet ; le registre à feuillets non mobiles est coté et paraphé par le commissaire enquêteur, le président de la
-commission d'enquête ou un membre de celle-ci ;
-
-4. Sur proposition du commissaire enquêteur ou du président de la commission d'enquête, les lieux et heures où le commissaire
-enquêteur ou les membres de la commission d'enquête recueilleront les observations du public.
-
-Un avis au public faisant connaître l'ouverture de l'enquête est publié par les soins du maire quinze jours au moins avant le
-début de celle-ci et rappelé dans les huit premiers jours de l'enquête en caractères apparents dans deux journaux régionaux
-ou locaux diffusés dans le département. Il est publié par voie d'affiches et éventuellement par tous autres procédés dans la
-ou les communes membres concernées [*publicité*].
-
-L'enquête s'ouvre selon le cas :
-
-a) A la mairie ;
-
-b) Ou au siège de l'établissement public de coopération intercommunale compétent et aux mairies des communes membres
-concernées.
-
-Pendant le délai fixé au 3è alinéa, les observations sur le plan d'occupation des sols peuvent être consignées par les
-intéressés sur le ou les registres d'enquête, ou adressées par écrit, au lieu fixé pour l'ouverture de l'enquête, au
-commissaire enquêteur ou au président de la commission d'enquête, lequel les annexe au registre mentionné à l'alinéa précité.
-
-A l'expiration du délai d'enquête, le ou les registres d'enquête sont clos et signés par le commissaire enquêteur ou le
-président de la commission d'enquête. Celui-ci examine les observations consignées ou annexées aux registres. Il transmet
-ensuite le dossier avec son rapport, dans lequel figurent ses conclusions motivées, au maire dans les trente jours à compter
-de la fin de l'enquête. Copie du rapport est communiquée au commissaire de la République.
-
-Le rapport du commissaire enquêteur ou du président de la commission d'enquête est tenu à la disposition du public à la
-mairie ou, le cas échéant, au siège de l'établissement public compétent et aux mairies des communes membres concernées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 ART. 50 (Code de l'urbanisme L123-3)
-	  - SPEC_APPLI: Décret n°83-851 1983-09-23 ART. 1 : Date d'entrée en vigueur
-
-	**Cite**:
-
-	  - Loi n°83-630 1983-07-12
-
-	**Créé par**:
-
-	  - Décret n°83-813 1983-09-09 ART. 2 JORF 11 SEPTEMBRE 1983 date d'entrée en vigueur 1octobre 1983
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*123-12 (V)
-	  - Code de l'urbanisme - art. R*123-9 (VT)
-
 
 ##### Contenu du plan d'occupation des sols.
 
@@ -23579,50 +23412,6 @@ pouvant figurer sur les documents graphiques du plan d'occupation des sols.
 
 #### Utilisation du sol, défrichements, coupes et abattages d'arbres dans les espaces boisés classés
 
-##### Instruction de la demande
-
-###### Article R*130-4
-
-La demande d'autorisation préalable de coupe et d'abattage d'arbres est instruite par l'autorité compétente pour statuer ou
-le cas échéant, par le service auquel elle a confié l'instruction des demandes.
-
-Lorsque le maire ou le président de l'établissement public de coopération intercommunale est compétent, la décision est prise
-après avis du commissaire de la République. Son avis est réputé donné à l'expiration d'un délai de deux mois à compter de sa
-saisine.
-
-Dans les cas prévus à l'article L. 421-2-2 b) l'absence d'avis conforme du commissaire de la République dans le délai de deux
-mois à compter de sa saisine vaut avis défavorable.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-229 1984-03-29 ART. 8 : modalités d'application
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*130-1 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*130-2 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*130-3 (M)
-
-	**Créé par**:
-
-	  - Décret n°84-229 du 29 mars 1984 - art. 2 () JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. R*130-13 (Ab)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*130-13 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme L421-2-2 b
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ##### Décision
 
 ##### Dispositions générales
@@ -23675,125 +23464,6 @@ l'autorité compétente sur un panneau implanté à la limite du terrain boisé 
 
 
 ### Dispositions spéciales à certaines parties du territoire
-
-#### Dispositions applicables à Paris, dans la région parisienne, à Marseille, à Lyon et aux communes issues d'une fusion comportant une ou plusieurs communes associées
-
-##### Schéma directeur
-
-###### Article R*141-2
-
-Le schéma directeur de la région parisienne visé à l'article L. 141-1 est établi sous la responsabilité du préfet de la
-région parisienne avec la participation de représentants du conseil d'administration du district, du comité consultatif
-économique et social et des préfets des départements ; la procédure d'établissement de ce schéma est conduite par le chef du
-service régional de l'équipement, avec le concours des chefs des services de l'Etat [*élaboration*].
-
-Il est approuvé par décret ou par décret en Conseil d'Etat lorsqu'un ou plusieurs conseils généraux, représentant un quart au
-moins de la population totale du territoire concerné, ou le conseil d'administration du district font connaître leur avis
-défavorable.
-
-Ces décrets sont pris sur le rapport des ministres énumérés au A de l'article R. 122-14, après avis du conseil de Paris, des
-conseils généraux, du conseil d'administration du district de la région parisienne et consultation du comité d'aménagement de
-la région parisienne, ainsi qu'il est dit à l'article R. 613-2.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L141-1 (M)
-	  - Code de l'urbanisme R122-14
-
-	**Anciens textes**:
-
-	  - Décret n°69-551 1969-05-28 ART. 22
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°83-666 1983-07-22 ART. 1 JORF 24 JUILLET 1983
-
-
-###### Article R*141-3
-
-Les schémas directeurs et les schémas de secteur doivent être compatibles avec le schéma directeur de la région parisienne.
-Ils sont établis sous l'autorité du préfet de la région, assisté du chef du service régional de l'équipement. Ils peuvent
-être approuvés avant que n'intervienne l'approbation du schéma directeur de la région. Dans ce cas, l'approbation ultérieure
-du schéma régional entraînera, le cas échéant, modification des schémas directeurs et des schémas de secteur dans leurs
-dispositions incompatibles avec le schéma régional ; ces modifications seront constatées par arrêté du préfet de la région
-parisienne.
-
-Les dispositions des articles R. 122-1 à R. 122-21 et de l'article R. 613-2 [*consultation du comité d'aménagement de la
-région parisienne*] leur sont applicables sous réserve des dispositions suivantes :
-
-a) L'élaboration conjointe tant du schéma directeur que des schémas de secteur de la ville de Paris s'effectue, par
-dérogation aux dispositions des articles R. 122-8 à R. 122-11, au sein des services et des organismes placés sous l'autorité
-du préfet de Paris avec la participation de représentants du conseil de Paris et avec le concours des services publics
-intéressés ;
-
-En outre, le conseil de Paris est tenu informé des études entreprises et de leurs résultats ; les options relatives aux
-perspectives de développement et aux parties d'aménagement de la ville lui sont soumises ;
-
-Lorsque le conseil municipal de Paris et le conseil d'administration du district de la région parisienne ont émis leur avis
-dans les conditions prévues à l'article R. 122-13, les projets de schéma directeur et de schémas de secteur de la ville de
-Paris sont soumis à l'approbation des autorités compétentes par le préfet de la région parisienne ;
-
-b) En ce qui concerne les schémas autres que ceux visés au a ci-dessus :
-
-Le préfet de la région parisienne, sur proposition des préfets, arrête la liste des communes ou ensembles de communes
-concernés par l'établissement d'un schéma directeur. Les listes et les modifications qui peuvent leur être apportées sont
-communiquées aux maires des communes intéressées et publiées dans deux journaux diffusés dans le département [*publicité*] ;
-
-Lorsque les conseils municipaux ou les organes délibérants visés à l'article R. 122-13 ainsi que le conseil d'administration
-du district ont émis leur avis, le préfet de la région parisienne soumet les projets de schémas directeurs et de schémas du
-secteur à l'approbation des autorités compétentes.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CODE DE L'URBANISME R613-2, R122-8 à R122-11, R122-13
-
-	**Anciens textes**:
-
-	  - Décret n°69-551 1969-05-28 ART. 23
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°83-666 1983-07-22 ART. 1 JORF 24 JUILLET 1983
-
-
-###### Article R*141-4
-
-Dans la région parisienne, les projets de schémas qui, au 6 juin 1969 [*date limite*], ont été présentés au conseil
-d'administration du district pour être soumis à la procédure prévue par l'article 21 du décret n. 61-1190 du 31 octobre 1961
-pourront être approuvés dans les conditions définies aux articles R. 122-14 et R. 122-21 après avoir été soumis aux
-assemblées délibérantes des communes ou groupements de communes intéressés.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°61-1190 1961-10-31 ART. 21
-	  - Code de l'urbanisme R122-14
-
-	**Anciens textes**:
-
-	  - Décret n°69-551 1969-05-28 ART. 24
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°83-666 1983-07-22 ART. 1 JORF 24 JUILLET 1983
-
 
 #### Protection du caractère de certains départements
 
@@ -45028,10 +44698,6 @@ d) A l'aménagement de la zone de Fos-sur-Mer, dans un périmètre défini par d
 
 ## Règles relatives à l'acte de construire et à divers modes d'utilisation du sol
 
-### Certificat d'urbanisme
-
-#### Délivrance.
-
 ### Permis de construire
 
 #### Régime général
@@ -45184,42 +44850,6 @@ fixe la liste de ces documents.
 	  - Décret n°73-1023 1973-11-08
 
 
-##### Dispositions diverses
-
-##### Dispositions particulières aux immeubles situés au voisinage d'installations classées.
-
-###### Article R*421-52
-
-En application de l'article L. 421-8, les périmètres à l'intérieur desquels les constructions et travaux sont soumis à des
-règles particulières rendues nécessaires pour l'existence d'installations classées et les règles qui leur sont applicables
-sont fixés par arrêté du commissaire de la République  pris après consultation des services intéressés, enquête publique dans
-les formes prévues par les articles R. 11-4 et suivants du code de l'expropriation pour cause d'utilité publique et avis du
-conseil municipal et de la commission départementale de l'urbanisme.
-
-Le commissaire de la République  peut décider que l'enquête publique mentionnée à l'alinéa précédent sera confondue avec
-l'enquête préalable à l'autorisation d'ouverture d'une installation classée.
-
-Le permis de construire [*contenu*] doit, le cas échéant, mentionner explicitement les servitudes instituées en application
-de l'article L. 421-8.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°81-534 1981-05-12 ART. 20 JORF 15 MAI 1981 date d'entrée en vigueur ART. 38 MODIFIE 1 JUILLET 1982
-	  - Décret n°82-584 1982-06-29 ART. 1 JORF 7 JUILLET 1982
-	  - Décret n°83-1261 1983-12-30 ART. 32, ART. 34 II, ART. 47 JORF 7 JANVIER 1984 date d'entrée en vigueur 1 AVRIL 1984
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L421-8 (M)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-4 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 #### Exceptions au régime général
 
 ###### Article R*422-10
@@ -45261,78 +44891,7 @@ effets de la déclaration sont caducs.
 
 ### Permis de démolir
 
-#### La demande
-
-###### Article R*430-5
-
-Tous les exemplaires de la demande et du dossier sont adressés par pli recommandé avec demande d'avis de réception postal
-[*condition de forme*], au maire de la commune du lieu de situation du bâtiment ou remis contre décharge à la mairie. Le
-maire affecte un numéro d'enregistrement à la demande dans les conditions prévues par arrêté du ministre chargé de
-l'urbanisme.
-
-Lorsque l'immeuble est inscrit sur l'inventaire supplémentaire des monuments historiques, l'un des exemplaires est adressé
-par pli recommandé avec demande d'avis de réception postal au directeur régional des affaires culturelles ou remis contre
-décharge dans les locaux de ce service. Cet envoi fait courir le délai de quatre mois pendant lequel le propriétaire ne peut
-procéder à aucune modification de l'immeuble en application de l'article 2 (5è alinéa) de la loi du 31 décembre 1913.
-
-Les exemplaires de la demande et du dossier de permis de démolir font l'objet des transmissions prévues à l'article L.
-421-2-3, Toutefois, dans le cas prévu au 1er dudit article, seul le formulaire de demande est transmis au commissaire de la
-République.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°84-224 1984-03-29 ART. 1, ART. 5 JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-224 1984-03-29 ART. 21, ART. 22 : Modalités d'application
-	  - SPEC_APPLI: Décret n°84-224 du 29 mars 1984 - art. 21 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L421-2-3 (M)
-	  - Loi   1913-12-31 ART. 2 AL. 5
-
-
 #### La décision
-
-##### Dispositions particulières applicables dans les communes où un plan d'occupation des sols n'a pas été approuvé
-
-###### Article R*430-15-4
-
-Dans les communes où un plan d'occupation des sols n'a pas été approuvé, la décision est prise par le commissaire de la
-République, au nom de l'Etat [*autorité compétente*]. Elle doit être conforme à l'avis du ministre chargé des monuments
-historiques ou du ministre chargé des sites, ou de leur délégué, lorsque l'immeuble est, selon le cas :
-
-1° Protégé au titre de l'article 4 de la loi du 2 mai 1930 ;
-
-2° Situé dans une zone de protection créée en application des articles 17 et 28 de la loi du 2 mai 1930.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°84-224 1984-03-29 ART. 1, ART. 13 JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-224 1984-03-29 ART. 21, ART. 22 : modalités d'application
-	  - SPEC_APPLI: Décret n°84-224 du 29 mars 1984 - art. 21 (M)
-
-	**Cite**:
-
-	  - Loi n°1930-05-02 ART. 4, ART. 17, ART. 28
-
 
 ##### Formalités postérieures à la délivrance du permis de démolir.
 
@@ -45558,89 +45117,6 @@ en outre les conditions de signature des actes concernés.
 
 	  - SPEC_APPLI: Décret n°83-1261 1983-12-30 ART. 49, ART. 50 : Modalités d'application
 	  - SPEC_APPLI: Décret n°83-1261 du 30 décembre 1983 - art. 49 (M)
-
-
-## CHAPITRE IV :Règles relatives à l'acte de construire et à divers mode              d'utilisation du sol
-
-### TITRE II : Permis de construire
-
-#### CHAPITRE I : Régime général
-
-#####  Section 3 : Instruction de la demande
-
-##### Paragraphe 1 : Dispositions applicables dans l'ensemble des communes.
-
-###### Article R421-19
-
-Le constructeur ne peut bénéficier d'un permis de construire tacite dans les cas ci-après énumérés :
-
-a) Lorsque les travaux ont pour effet de changer la destination d'une construction existante et que cette modification est
-soumise à autorisation du commissaire de la République en vertu de l'article L. 631-7 du code de la construction et de
-l'habitation ;
-
-b) Lorsque le permis de construire intéresse un immeuble adossé à un immeuble classé ;
-
-c) Lorsque la construction est située dans le champ de visibilité d'un édifice classé ou inscrit ;
-
-d) Lorsque la construction se trouve dans un site classé ou en instance de classement ou inscrit, ou dans une zone de
-protection créée par décret en application des articles 17 ou 28 de la loi du 2 mai 1930 ;
-
-e) Lorsque le projet est situé dans une zone de protection du patrimoine architectural et urbain ;
-
-f) Lorsque la construction est située dans un territoire en instance de classement ou classé en réserve naturelle.
-
-g) Lorsque la construction fait partie des catégories d'aménagements, d'ouvrages ou de travaux soumis à enquête publique en
-application du décret n° 85-453 du 23 avril 1985.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°83-630 1983-07-12
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-18 (M)
-	  - SPEC_APPLI: Décret n°85-452 1985-04-24 art. 14 II : application dans le temps
-
-	**Modifié par**:
-
-	  - Decret 85-452 1985-04-23 art. 9 JORF 24 avril 1985
-
-	**Cite**:
-
-	  - Décret n°85-453 1985-04-23
-	  - Code de l'urbanisme L631-7
-	  - Loi  1930-05-02 ART. 17, 28
-
-	**Cité par**:
-
-	  - Arrêté du 6 juillet 2010 - art. Annexe I (VD)
-	  - Arrêté du 6 juillet 2010 - art. Annexe unique tableau A (VD)
-	  - Décret n°2016-1491 du 4 novembre 2016 - art. (V)
-	  - Code de l'environnement - art. R125-14 (V)
-	  - Code de l'urbanisme - art. *R421-18 (V)
-	  - Code de l'urbanisme - art. *R421-20 (VD)
-	  - Code de l'urbanisme - art. *R421-23 (V)
-	  - Code de l'urbanisme - art. A421-2 (Ab)
-	  - Code de l'urbanisme - art. A421-3-1 (T)
-	  - Code de l'urbanisme - art. R*111-35 (VT)
-	  - Code de l'urbanisme - art. R*111-40 (VT)
-	  - Code de l'urbanisme - art. R*421-12 (M)
-	  - Code de l'urbanisme - art. R*421-14 (M)
-	  - Code de l'urbanisme - art. R*424-18 (V)
-	  - Code de l'urbanisme - art. R*441-6-5 (T)
-	  - Code de l'urbanisme - art. R*443-7-2 (Ab)
-	  - Code de l'urbanisme - art. R111-45 (V)
-	  - Code de l'urbanisme - art. R111-50 (V)
-	  - Code de l'urbanisme - art. R142-1-1 (Ab)
-	  - Code de l'urbanisme - art. R421-25 (M)
-	  - Code de l'urbanisme - art. R440-2 (Ab)
-	  - Code de l'urbanisme - art. R440-3 (Ab)
-	  - Code de l'urbanisme - art. R442-2 (V)
-	  - Code de l'urbanisme - art. R442-4-9 (Ab)
-	  - Code du tourisme. - art. D331-5 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 ## Règles relatives à l'acte de construire et à certains modes d'utilisation du sol
