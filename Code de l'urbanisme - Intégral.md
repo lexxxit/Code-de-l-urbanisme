@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1990-01-01
+Version Consolidée au 1990-01-05
 
 # Partie législative
 
@@ -51422,10 +51422,15 @@ ses établissements publics à caractère administratif, les opérations répond
 1° Lorsqu'elles sont réalisées dans les agglomérations nouvelles délimitées en application de la loi n° 83-636 du 13 juillet
 1983 portant modification du statut des agglomérations nouvelles, ou dans les communes situées à l'intérieur du périmètre
 d'un établissement public d'aménagement de ville nouvelle et ayant passé convention avec l'Etat en application de l'article
-10 de la même loi ;
+10 de la même loi ;    " 2° Lorsqu'elles ont trait à la construction d'ensembles de bureaux non affectés destinés à la vente
+ou à la location :
 
-2° Lorsqu'elles ont trait à la construction d'ensembles de bureaux non affectés destinés à la vente ou à la location, ainsi
-qu'à la reconstruction ou à la réhabilitation de bureaux sans extension de surface ;
+" a) Sous réserve que la superficie développée de plancher soit inférieure à 2 000 mètres carrés s'il s'agit d'opérations
+réalisées dans les arrondissements de Paris et les communes mentionnés au 1° de l'article R. 520-12 ;
+
+" b) Quelle que soit la superficie dans les autres cas ;
+
+" 2° bis Lorsqu'elles ont trait à la reconstruction ou à la réhabilitation de bureaux sans extension de surface ; "
 
 3° Lorsqu'elles portent sur des surfaces affectées à des magasins de vente, sous réserve des dispositions du 5° ci-après ;
 
@@ -51448,30 +51453,31 @@ l'article R. 510-1 d'une superficie de plancher supérieure au total à 5000 m2.
 
 	**Anciens textes**:
 
-	  - Décret n°67-944 1967-10-24 ART. 6
+	  - Décret n°67-944 1967-10-24 art. 6
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 	**Cite**:
 
 	  - Loi n°83-636 du 13 juillet 1983 - art. 10 (Ab)
-	  - Code de l'urbanisme R510-4
+	  - Code de l'urbanisme R510-4, R520-12
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°90-17 1990-01-03 art. 2
+	  - TXT_ASSOCIE: Code de l'urbanisme R510-7
 
 	**Modifié par**:
 
-	  - Décret n°85-47 1985-01-14 art. 4 JORF 15 janvier 1985
+	  - Décret n°90-17 du 3 janvier 1990 - art. 1 () JORF 5 janvier 1990
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*510-1 (V)
 	  - Code du cinéma et de l'image animée - art. R212-8 (V)
 	  - Code du cinéma et de l'image animée - art. R212-9 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme R510-7
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*510-7
