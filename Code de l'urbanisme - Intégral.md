@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1989-08-08
+Version Consolidée au 1989-09-26
 
 # Partie législative
 
@@ -25461,6 +25461,108 @@ la concurrence et de la consommation.
 	  - Arrêté du 14 septembre 1994 - art. 1 (V)
 	  - Arrêté du 6 février 2002 - art. 1 (V)
 	  - Code de l'urbanisme - art. R145-1 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+#### Chapitre VI : Dispositions particulières au littoral
+
+###### Article R146-1
+
+En application du premier alinéa de l'article L. 146-6, sont préservés, dès lors qu'ils constituent un site ou un paysage
+remarquable ou caractéristique du patrimoine naturel et culturel du littoral, sont nécessaires au maintien des équilibres
+biologiques ou présentent un intérêt écologique :
+
+a) Les dunes, les landes côtières, les plages et les lidos, les estrans, les falaises et les abords de celles-ci ;
+
+b) Les forêts et zones boisées proches du rivage de la mer et des plans d'eau intérieurs d'une superficie supérieure à 1 000
+hectares ;
+
+c) Les îlots inhabités ;
+
+d) Les parties naturelles des estuaires, des rias ou abers et des caps ;
+
+e) Les marais, les vasières, les tourbières, les plans d'eau, les zones humides et milieux temporairement immergés ;
+
+f) Les milieux abritant des concentrations naturelles d'espèces animales ou végétales telles que les herbiers, les frayères,
+les nourrisseries et les gisements naturels de coquillages vivants ; les espaces délimités pour conserver les espèces en
+application de l'article 4 de la loi n° 76-629 du 10 juillet 1976 et les zones de repos, de nidification et de gagnage de
+l'avifaune désignée par la directive européenne n° 79-409 du 2 avril 1979 concernant la conservation des oiseaux sauvages ;
+
+g) Les parties naturelles des sites inscrits ou classés en application de la loi du 2 mai 1930 modifiée et des parcs
+nationaux créés en application de la loi n° 60-708 du 22 juillet 1960, ainsi que les réserves naturelles instituées en
+application de la loi n° 76-629 du 10 juillet 1976 ;
+
+h) Les formations géologiques telles que les gisements de minéraux ou de fossiles, les stratotypes, les grottes ou les
+accidents géologiques remarquables ;
+
+i) Les récifs coralliens, les lagons et les mangroves dans les départements d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L146-6 (M)
+	  - Directive CEE 79-409 1979-04-02
+	  - Loi n°1930-05-02
+	  - Loi n°60-708 1960-07-22
+	  - Loi n°76-629 du 10 juillet 1976 - art. 4 (Ab)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*711-1 (Ab)
+	  - Code de l'urbanisme - art. R146-2 (M)
+	  - Code général des collectivités territoriales - art. R4424-6 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°89-694 1989-09-20 art. 1 JORF 26 septembre 1989
+
+
+###### Article R146-2
+
+" En application du deuxième alinéa de l'article L. 146-6, peuvent être implantés dans les espaces et milieux mentionnés à
+l'article R. 146-1, après enquête publique dans les cas prévus par le décret n° 85-453 du 23 avril 1985, les aménagements
+légers suivants :
+
+" a) Les chemins piétonniers et les objets mobiliers destinés à l'accueil ou à l'information du public, lorsqu'ils sont
+nécessaires à la gestion ou à l'ouverture au public de ces espaces ou milieux ;
+
+" b) Les aménagements nécessaires à l'exercice des activités agricoles, de pêche et cultures marines ou lacustres,
+conchylicoles, pastorales et forestières ne créant pas de surface hors oeuvre nette au sens de l'article R. 112-2 et dont la
+localisation dans ces espaces ou milieux ne dénature pas le caractère des lieux et est rendue indispensable par des
+nécessités techniques. "
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°85-453 1985-04-23
+	  - Code de l'urbanisme - art. L146-6 (M)
+	  - Code de l'urbanisme - art. R146-1 (M)
+	  - Code de l'urbanisme L146-6, R146-1, R112-2
+
+	**Cité par**:
+
+	  - Décret n°85-453 du 23 avril 1985 - art. Annexe (Ab)
+	  - Code de l'urbanisme - art. R*421-22 (M)
+	  - Code de l'urbanisme - art. R*442-4-1 (Ab)
+	  - Code de l'urbanisme - art. R*711-2 (Ab)
+	  - Code de l'urbanisme - art. R421-2 (M)
+	  - Code de l'urbanisme - art. R431-16 (VT)
+	  - Code de l'urbanisme - art. R442-2 (M)
+	  - Code de l'urbanisme - art. R442-6 (M)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 tervicies (M)
+
+	**Créé par**:
+
+	  - Décret n°89-694 1989-09-20 art. 1 JORF 26 septembre 1989
 
 	**Codifié par**:
 
