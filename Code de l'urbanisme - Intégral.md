@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1995-02-05
+Version Consolidée au 1995-02-09
 
 # Partie législative
 
@@ -13233,12 +13233,15 @@ consignations et de la caisse d'aide à l'équipement des collectivités locales
 Les établissements publics fonciers créés en application du présent chapitre sont des établissements publics locaux à
 caractère industriel et commercial à vocation unique, compétents pour réaliser, pour le compte de leurs membres ou de l'Etat,
 toutes acquisitions foncières et immobilières, en vue de la constitution de réserves foncières, en prévision des actions ou
-opérations d'aménagement prévues par l'article L. 300-1 du présent code.
+opérations d'aménagement prévues par l'article L. 300-1 du présent code. Les acquisitions et cessions foncières et
+immobilières réalisées par ces établissements pour leur propre compte ou pour le compte d'une collectivité territoriale, d'un
+établissement public de coopération intercommunale ou d'un syndicat mixte sont soumises aux dispositions relatives à la
+transparence des opérations immobilières de ces collectivités ou établissements.
 
-" A cette fin, ils peuvent exercer, par délégation de leurs titulaires, les droits de préemption définis par le présent code
+A cette fin, ils peuvent exercer, par délégation de leurs titulaires, les droits de préemption définis par le présent code
 dans les cas et conditions qu'il prévoit et agir par voie d'expropriation.
 
-" Aucune opération de l'établissement public foncier ne peut être réalisée sans l'avis de la commune concernée.
+Aucune opération de l'établissement public foncier ne peut être réalisée sans l'avis de la commune concernée.
 
 **Liens relatifs à cet article**
 
@@ -13278,13 +13281,9 @@ dans les cas et conditions qu'il prévoit et agir par voie d'expropriation.
 	  - Code général des impôts, CGI. - art. 1636 C (V)
 	  - Livre des procédures fiscales - art. L135 B (VT)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi - art. 27 () JORF 19 juillet 1991
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L300-1 (M)
+	  - Loi n°95-127 du 8 février 1995 - art. 11 (V) JORF 9 février 1995
 
 	**Nouveaux textes**:
 
@@ -13293,6 +13292,10 @@ dans les cas et conditions qu'il prévoit et agir par voie d'expropriation.
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°95-127 1995-02-04 art. 11 IX JORF 9 février 1995
 
 
 ###### Article L324-2
