@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1984-04-24
+Version Consolidée au 1984-05-04
 
 # Partie législative
 
@@ -48828,17 +48828,35 @@ Les dispositions de l'article A. 410-1 ne peuvent être modifiées que par arrê
 
 #### CHAPITRE I : Régime général
 
-#####  Section 1 : Règles applicables à toute construction.
-
-#####    Sous-section 1 : Présentation de la demande
+#####  Section 1 : Présentation de la demande.
 
 ###### Article A421-1
 
-La demande de permis de construire prévue à l'article R. 421-1 est établie conformément à l'un des modèles joints au présent
-article. Ces modèles comportent le libellé de l'engagement dont la demande doit être assortie, en vertu de l'article L. 421-3
-(alinéa 1er).
+La demande de permis de construire prévue à l'article R. 421-1 est établie conformément au modèle joint en annexe au présent
+code.
+
+Note : Ces imprimés sont enregistrés au C.E.R.F.A. sous les numéros suivants :
+
+46-0303 Demande de permis de construire pour travaux ne créant pas de surface de planchers (P.C. 155).
+
+46-0306 Demande de permis de construire pour une maison individuelle (P.C. 157).
+
+46-0307 Demande de permis de construire modificatif (P.C. 158 bis).
+
+46-0311 Demande de permis de construire (P.C. 158).
+
+46-0323 Demande de permis de construire une ligne d'énergie électrique (P.C. 155 bis).
+
+Les imprimés 46-0303, 46-0307, 46-0311 peuvent être obtenus auprès des directions départementales de l'équipement et des
+mairies.
+
+L'imprimé 46-0323 peut être obtenu auprès des directions départementales de l'équipement.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1984-04-02 ART. 1 JONC 4 MAI 1984
 
 	**Codifié par**:
 
@@ -48852,20 +48870,19 @@ article. Ces modèles comportent le libellé de l'engagement dont la demande doi
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. A520-1 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R421-1 (M)
-	  - Code de l'urbanisme L421-3 AL. 1
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. A421-3 (M)
 
 
 ###### Article A421-3
 
-Les dispositions des articles A. 421-1 et A. 421-2 ne peuvent être modifiées que par arrêté du ministre chargé de
-l'urbanisme.
+Les dispositions de l'article A. 421-1 ne peuvent être modifiées que par arrêté du ministre chargé de l'urbanisme.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1978-11-06 ART. 2 JORF NC 21 NOVEMBRE 1978
+	  - Arrêté 1984-04-02 ART. 1 JONC 4 MAI 1984
 
 	**Codifié par**:
 
@@ -48878,56 +48895,59 @@ l'urbanisme.
 	**Cite**:
 
 	  - Code de l'urbanisme - art. A421-1 (M)
+
+
+###### Article A421-3-1
+
+La lettre de notification prévue à l'article R. 421-12 indique au demandeur :
+
+- le numéro d'enregistrement de sa demande ;
+
+- la collectivité au nom de laquelle la décision sera prise ;
+
+- la date de laquelle part le délai d'instruction, qui peut être selon le cas la date de la décharge ou de l'avis de
+réception postal prévus à l'article R. 421-9 ou la date de réception des pièces complétant le dossier ;
+
+- le délai maximal d'instruction de la demande et la motivation de ce délai s'il est supérieur à deux mois ;
+
+- la date avant laquelle, compte tenu du délai réglementaire d'instruction, la décision devra lui être notifiée.
+
+Lorsque le projet ne se trouve pas dans l'un des cas prévus à l'article R. 421-19, le demandeur est avisé :
+
+- que si aucune décision ne lui a été adressé avant la date limite d'instruction, la lettre de notification vaudra permis de
+construire tacite et que le projet pourra être entrepris conformément au projet déposé, que toutefois le permis, s'il est
+illégal, peut être retiré par l'autorité compétente pendant le délai de recours contentieux ;
+
+- qu'en cas de permis de construire tacite, il peut demander une attestation certifiant qu'aucune décision négative n'est
+intervenue à l'égard de sa demande ;
+
+- qu'une lettre rectificative peut le cas échéant lui être adressée en cas de majoration du délai d'instruction.
+
+Lorsque le projet se trouve dans l'un des cas prévus à l'article R. 421-19, le demandeur est informé qu'il ne pourra
+bénéficier d'un permis tacite et que les travaux ne pourront être entrepris qu'après réception d'une décision positive.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1984-04-02 ART. 1, ART. 2 JORF 4 MAI 1984
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Nouveaux textes**:
+
 	  - Code de l'urbanisme - art. A421-2 (Ab)
 
-
-##### Sous-section 2 : Instruction de la demande. Régime général.
-
-###### Article A421-4
-
-Sauf dans la région d'Ile-de-France et dans les départements du Loiret, d'Eure-et-Loir, de l'Eure et de l'Oise, l'avis du
-ministre chargé de l'aménagement du territoire, donné en vue de l'application de l'article R. 111-15, est formulé par les
-préfets de département en son lieu et place.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A421-6 (M)
-
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R111-15 (M)
+	  - Code de l'urbanisme - art. R421-12 (M)
+	  - Code de l'urbanisme - art. R421-19 (M)
+	  - Code de l'urbanisme - art. R421-9 (M)
 
 
-###### Article A421-5
-
-Les préfets de département transmettent mensuellement, avec leurs avis, à la délégation à l'aménagement du territoire et à
-l'action régionale, les notices de renseignements prévues à l'article R. 421-3.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A421-6 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R421-3 (M)
-
-
-###### Article A421-6
-
-Les dispositions des articles A. 421-4 et A. 421-5 ne peuvent être modifiées que par arrêté du ministre chargé de
-l'aménagement du territoire.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. A421-4 (Ab)
-	  - Code de l'urbanisme - art. A421-5 (Ab)
-
+#####  Section 1 : Règles applicables à toute construction.
 
 ##### Sous-section 5 : Dispositions diverses
 
@@ -48949,29 +48969,129 @@ Ces renseignements doivent demeurer lisibles de la voie publique pendant toute l
 	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-###### Article A421-8
+#####  Section 3 : Instruction de la demande.
 
-Dès l'affichage à la mairie d'un extrait de la décision accordant le permis de construire et jusqu'à la déclaration
-d'achèvement des travaux, toute personne intéressée peut consulter les pièces suivantes du dossier :
+###### Article A421-4
 
-Demande de permis de construire ;
-
-Plan de situation ;
-
-Plan de masse ;
-
-Plan des façades ;
-
-Arrêté accordant le permis de construire ;
-
-Eventuellement, contrats ou décisions judiciaires en matière d'institution de servitudes dites de cours communes ou de
-minoration de densité sur les fonds voisins.
+Sauf dans la région d'Ile-de-France et dans les départements du Loiret, d'Eure-et-Loir, de l'Eure et de l'Oise, l'avis du
+ministre chargé de l'aménagement du territoire, donné en vue de l'application de l'article R. 111-15, est formulé par les
+préfets de département en son lieu et place.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1984-04-02 ART. 1 JONC 4 MAI 1984
+
+	**Abrogé par**:
+
+	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
 
 	**Codifié par**:
 
 	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. A421-6 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R111-15 (M)
+
+
+###### Article A421-5
+
+Les préfets de département transmettent mensuellement, avec leurs avis, à la délégation à l'aménagement du territoire et à
+l'action régionale, les notices de renseignements prévues à l'article R. 421-3.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1984-04-02 ART. 1 JONC 4 MAI 1984
+
+	**Abrogé par**:
+
+	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. A421-6 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R421-3 (M)
+
+
+###### Article A421-6
+
+Les dispositions des articles A. 421-4 et A. 421-5 ne peuvent être modifiées que par arrêté du ministre chargé de
+l'aménagement du territoire.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1984-04-02 ART. 1 JONC 4 MAI 1984
+
+	**Abrogé par**:
+
+	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. A421-4 (Ab)
+	  - Code de l'urbanisme - art. A421-5 (Ab)
+
+
+#####  Section 6 : Formalités postérieures à la délivrance du permis de construire.
+
+###### Article A421-8
+
+Dès l'affichage à la mairie d'un extrait de la décision accordant le permis de construire ou du document en tenant lieu
+valant permis de construire et jusqu'à la déclaration d'achèvement des travaux, toute personne intéressée peut consulter dans
+les locaux de la mairie, les pièces suivantes du dossier :
+
+- la demande complète de permis de construire : formulaire de demande, pièces jointes, plan de situation, plan de masse et
+plan des façades ;
+
+- les avis recueillis au cours de l'instruction ;
+
+- l'arrêté accordant le permis de construire ;
+
+- éventuellement, les contrats ou décisions judiciaires en matière d'institution de servitudes dites de cours communes ou de
+minoration de densité sur les fonds voisins. 
+
+Les dispositions du présent article ne font pas obstacle au droit à communication dans les conditions prévues par la loi n°
+78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le public et
+diverses dispositions d'ordre administratif, social et fiscal.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1984-04-02 art. 1, art. 4 JORF 4 mai 1984
+
+	**Abrogé par**:
+
+	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Cite**:
+
+	  - Loi n°78-753 1978-07-17
 
 
 #### CHAPITRE II : Exceptions au régime général
@@ -49433,6 +49553,42 @@ Les dispositions de l'article A. 460-1 ne peuvent être modifiées que par arrê
 	**Cite**:
 
 	  - Code de l'urbanisme - art. A460-1 (M)
+
+
+### TITRE IX : Dispositions communes au titre III du livre Ier, au chapitre V du titre Ier du livre III et aux titres Ier à IV et VI du présent livre
+
+###### Article A490-1
+
+Le maire affecte aux demandes d'autorisations et actes relatifs à l'occupation du sol un numéro d'enregistrement de treize
+caractères dont la structure est la suivante :
+
+Le numéro de code géographique I.N.S.E.E. du département (trois caractères) ;
+
+Le numéro de code géographique I.N.S.E.E. de la commune (trois caractères) ;
+
+Les deux derniers chiffres du millésime de l'année de dépôt de la demande (deux caractères) ;
+
+Le numéro de dossier composé de cinq caractères ; le premier (de ces cinq caractères) est réservé au service instructeur ;
+les quatre autres (caractères) sont utilisés pour une numérotation en continu par nature d'autorisation ou acte relatif à
+l'utilisation du sol.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1993-10-29 art. 1 JORF 19 novembre 1993
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1993-10-29 art. 2
+
+	**Abrogé par**:
+
+	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
 ## Livre  V : Implantation des services, établissements et entreprises
