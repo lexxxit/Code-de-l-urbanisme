@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1996-08-14
+Version Consolidée au 1996-11-15
 
 # Partie législative
 
@@ -8940,13 +8940,13 @@ nécessaires à l'application dans les départements d'outre-mer des articles L.
 
 Les actions ou opérations d'aménagement ont pour objets de mettre en oeuvre une politique locale de l'habitat, d'organiser le
 maintien, l'extension ou l'accueil des activités économiques, de favoriser le développement des loisirs et du tourisme, de
-réaliser des équipements collectifs, de lutter contre l'insalubrité, de sauvegarder ou de mettre en valeur le patrimoine bâti
-ou non bâti et les espaces naturels.
+réaliser des équipements collectifs, de lutter contre l'insalubrité, de permettre la restructuration urbaine, de sauvegarder
+ou de mettre en valeur le patrimoine bâti ou non bâti et les espaces naturels.
 
-L'aménagement, [*définition*] au sens du présent code, désigne l'ensemble des actes des collectivités locales ou des
-établissements publics de coopération intercommunale qui visent, dans le cadre de leurs compétences, d'une part, à conduire
-ou à autoriser des actions ou des opérations définies dans l'alinéa précédent et, d'autre part, à assurer l'harmonisation de
-ces actions ou de ces opérations.
+L'aménagement, au sens du présent code, désigne l'ensemble des actes des collectivités locales ou des établissements publics
+de coopération intercommunale qui visent, dans le cadre de leurs compétences, d'une part, à conduire ou à autoriser des
+actions ou des opérations définies dans l'alinéa précédent et, d'autre part, à assurer l'harmonisation de ces actions ou de
+ces opérations.
 
 **Liens relatifs à cet article**
 
@@ -9028,9 +9028,9 @@ ces actions ou de ces opérations.
 	  - Code général des collectivités territoriales - art. R2142-2 (Ab)
 	  - Code général des collectivités territoriales - art. R5211-42 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 1 () JORF 19 juillet 1985
+	  - Loi n°96-987 du 14 novembre 1996 - art. 17 () JORF 15 novembre 1996
 
 
 ###### Article L300-2
@@ -9158,15 +9158,18 @@ des personnes publiques suivantes : Etat, régions, départements, communes ou l
 d'une concession d'aménagement. Dans ce cas, l'organisme concessionnaire peut se voir confier les acquisitions par voie
 d'expropriation.
 
-" Les dispositions du chapitre IV du titre II de la loi n° 93-122 du 29 janvier 1993 relative à la prévention de la
-corruption et à la transparence de la vie économique et des procédures publiques ne sont pas applicables aux concessions ou
-conventions établies en application du présent article. "
+Lorsque la concession porte sur une opération de restructuration urbaine, l'organisme concessionnaire se voit confier la
+réalisation de toutes opérations ou actions ou de tous aménagements ou équipements de nature à favoriser une politique de
+développement social urbain telle que définie à l'article 1er de la loi n° 96-987 du 14 novembre 1996 relative à la mise en
+oeuvre du pacte de relance pour la ville. Dans ce cas, la concession peut inclure des actions d'insertion professionnelle et
+sociale en faveur des habitants des grands ensembles ou quartiers d'habitat dégradé mentionnés au 3 de l'article 42 de la loi
+n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire.
+
+Les dispositions du chapitre IV du titre II de la loi n° 93-122 du 29 janvier 1993 relative à la prévention de la corruption
+et à la transparence de la vie économique et des procédures publiques ne sont pas applicables aux concessions ou conventions
+établies en application du présent article.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 	**Cité par**:
 
@@ -9210,10 +9213,16 @@ conventions établies en application du présent article. "
 
 	  - Loi n°83-597 1983-07-07
 	  - Loi n°93-122 1993-01-29
+	  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
+	  - Loi n°96-987 du 14 novembre 1996 - art. 1 (V)
 
 	**Modifié par**:
 
-	  - Loi n°94-112 du 9 février 1994 - art. 5 () JORF 10 février 1994
+	  - Loi n°96-987 du 14 novembre 1996 - art. 18 () JORF 15 novembre 1996
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###  Titre Ier : Opérations d'aménagement
@@ -12060,6 +12069,19 @@ Les établissement publics créés en application du présent chapitre sont comp
 leur accord, pour le compte de l'Etat, d'une collectivité locale ou d'un autre établissement public, ou pour faire réaliser
 toutes les interventions foncières et opérations d'aménagement prévues par le présent code.
 
+Lorsqu'ils procèdent à des opérations de restructuration urbaine, ces établissements publics sont compétents pour réaliser ou
+faire réaliser, après avis des communes ou groupements de communes concernés, toutes opérations ou actions ou tous
+aménagements ou équipements de nature à favoriser une politique de développement social urbain telle que définie à l'article
+1er de la loi n° 96-987 du 14 novembre 1996 relative à la mise en oeuvre du pacte de relance pour la ville, pouvant inclure
+des actions d'insertion professionnelle et sociale en faveur des habitants des grands ensembles ou quartiers d'habitat
+dégradé mentionnés au 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le
+développement du territoire inclus dans leurs zones d'activité territoriale.
+
+Les établissements publics d'aménagement qui mènent des opérations de restructuration urbaine dans les conditions prévues à
+l'alinéa précédent peuvent, par délégation de l'Etablissement public national pour l'aménagement et la restructuration des
+espaces commerciaux, assurer la maîtrise d'ouvrage des opérations définies à l'article L. 325-1 et accomplir les actes de
+disposition et d'administration définis à l'article L. 325-2..
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -12167,14 +12189,21 @@ toutes les interventions foncières et opérations d'aménagement prévues par l
 	  - Code rural et de la pêche maritime - art. L181-24 (V)
 	  - Livre des procédures fiscales - art. L135 B (VT)
 
+	**Cite**:
+
+	  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
+	  - Loi n°96-987 du 14 novembre 1996 - art. 1 (V)
+	  - Code de l'urbanisme - art. L325-1 (M)
+	  - Code de l'urbanisme - art. L325-2 (V)
+
 	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985
+	  - Loi n°96-987 du 14 novembre 1996 - art. 19 () JORF 15 novembre 1996
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*211-12 (Ab)
-	  - TXT_ASSOCIE: Code de l'urbanisme R315-46
+	  - TXT_ASSOCIE: Code de l'urbanisme R311-2, R315-46, R318-1, R211-12
 
 	**Codifié par**:
 
@@ -12500,24 +12529,30 @@ intéressés pour l'exécution des travaux et opérations énumérés à l'artic
 
 Peuvent faire l'objet d'une association foncière urbaine :
 
-1. Le remembrement de parcelles et la modification corrélative de l'assiette des droits de propriété, des charges et des
+1° Le remembrement de parcelles et la modification corrélative de l'assiette des droits de propriété, des charges et des
 servitudes y attachées ainsi que la réalisation des travaux d'équipement et d'aménagement nécessaires ;
 
-2. Le groupement de parcelles en vue, soit d'en conférer l'usage à un tiers, notamment par bail à construction, soit d'en
+2° Le groupement de parcelles en vue, soit d'en conférer l'usage à un tiers, notamment par bail à construction, soit d'en
 faire apport ou d'en faire la vente à un établissement public ou société de construction ou d'aménagement.
 
 Chacun des membres de l'association peut choisir d'être payé, en tout ou en partie, en espèces ou par remise d'un ou
 plusieurs immeubles ou fractions d'immeubles, lorsque les règles applicables à l'organisme constructeur ou aménageur ne s'y
-opposent pas.
+opposent pas ;
 
-3. La construction, l'entretien et la gestion d'ouvrages d'intérêt collectif tels que voirie, aires de stationnement, et
+3° La construction, l'entretien et la gestion d'ouvrages d'intérêt collectif tels que voirie, aires de stationnement, et
 garages enterrés ou non, chauffage collectif, espaces verts plantés ou non, installations de jeux, de repos ou d'agrément ;
 
-4. (Abrogé) ;
+4° (Abrogé) ;
 
-5. La conservation, la restauration et la mise en valeur des secteurs sauvegardés ainsi que la restauration immobilière
-régies par les articles L. 313-1 à L. 313-15, les articles 3 et 12 de la loi n° 1360 du 1er septembre 1948 modifiée et les
+5° La conservation, la restauration et la mise en valeur des secteurs sauvegardés ainsi que la restauration immobilière
+régies par les articles L. 313-1 à L. 313-15, les articles 3 et 12 de la loi n° 48-1360 du 1er septembre 1948 modifiée et les
 articles 10, 20, et 38-1 du décret n° 53-960 du 30 septembre 1953 modifié.
+
+6° Le remembrement foncier ou le groupement de parcelles en vue de la restructuration urbaine des grands ensembles et
+quartiers d'habitat dégradé mentionnés au premier alinéa du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995
+d'orientation pour l'aménagement et le développement du territoire. Dans ce cas, l'objet de l'association peut comporter la
+conduite d'actions de toute nature, menées ou prescrites à l'occasion des travaux nécessaires et pouvant inclure des actions
+d'insertion professionnelle et sociale en faveur des habitants des grands ensembles et quartiers concernés.
 
 **Liens relatifs à cet article**
 
@@ -12526,6 +12561,7 @@ articles 10, 20, et 38-1 du décret n° 53-960 du 30 septembre 1953 modifié.
 	  - Loi n°48-1360 du 1 septembre 1948 - art. 12 (V)
 	  - Loi n°48-1360 du 1 septembre 1948 - art. 3 (M)
 	  - Décret n°53-960 1953-09-30
+	  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
 	  - Code de l'urbanisme L313-1 à L313-15
 
 	**Cité par**:
@@ -12549,12 +12585,17 @@ articles 10, 20, et 38-1 du décret n° 53-960 du 30 septembre 1953 modifié.
 
 	**Anciens textes**:
 
-	  - Loi n°67-1253 1967-12-30 ART. 24 loi d'orientation foncière
+	  - Loi n°67-1253 1967-12-30 art. 24 loi d'orientation foncière
 
 	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 21 (V) JORF 19 Juillet 1985
-	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 Juillet 1985
+	  - Loi n°96-987 du 14 novembre 1996 - art. 20 () JORF 15 novembre 1996
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L322-1 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L322-3 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme L322-1, L322-3, L315-47, L313-1 à L313-15
 
 	**Codifié par**:
 
@@ -12566,26 +12607,29 @@ articles 10, 20, et 38-1 du décret n° 53-960 du 30 septembre 1953 modifié.
 L'autorité administrative peut autoriser une association foncière urbaine sur la demande de propriétaires intéressés ou, le
 cas échéant, à l'initiative de la commune, si les conditions sont remplies [*Constitution*] :
 
-1° Pour les travaux spécifiés au 1°, 2° et 5° de l'article L. 322-2 [*groupement, remembrement parcelles*], les deux tiers au
+1. Pour les travaux spécifiés au 1°, 2° et 5° de l'article L. 322-2 [*groupement, remembrement parcelles*], les deux tiers au
 moins des propriétaires détenant ensemble les deux tiers au moins de la superficie ont adhéré à l'association.
 
 Pour les travaux spécifiés au 3. [*ouvrages d'intérêt collectif*] de l'article L. 322-2, la majorité des propriétaires
 détenant ensemble la moitié au moins de la superficie ont adhéré à l'association.
 
+Pour les opérations spécifiées au 6° de l'article L. 322-2, tous les propriétaires ont adhéré à l'association.
+
 2. Une personne publique ou privée prend l'engagement d'acquérir les immeubles dont le propriétaire opterait pour le
 délaissement dans les conditions prévues à l'article L. 322-5 ci-après. Cette condition peut être remplacée par le même
 engagement pris par l'association foncière urbaine et figurant dans ses statuts.
+
+Elle n'est pas applicable aux travaux spécifiés au 6° de l'article L. 322-2.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°67-1253 1967-12-30 ART. 25 loi d'orientation foncière
+	  - Loi n°67-1253 1967-12-30 art. 25 loi d'orientation foncière
 
 	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 21 (V) JORF 19 juillet 1985
-	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985
+	  - Loi n°96-987 du 14 novembre 1996 - art. 21 () JORF 15 novembre 1996
 
 	**Cite**:
 
@@ -12659,56 +12703,58 @@ administrative recueille l'avis du conseil municipal.
 ###### Article L322-4
 
 A défaut d'accord amiable entre les propriétaires intéressés ou de constitution d'une association foncière libre ou
-autorisée, l'autorité administrative peut constituer d'office une association foncière urbaine :
+autorisée, l'autorité administrative peut constituer d'office une association foncière urbaine : 
 
-1. Pour le remembrement de parcelles :
+1° Pour le remembrement de parcelles : 
 
 Lorsque, par application des règles d'urbanisme, l'implantation et le volume des constructions doivent respecter une
-discipline spéciale dont la disposition actuelle des parcelles compromettrait ou empêcherait la réalisation ;
+discipline spéciale dont la disposition actuelle des parcelles compromettrait ou empêcherait la réalisation ; 
 
 Ou lorsqu'il est équitable de répartir sur un ensemble de propriétés la charge des prélèvements de terrains opérés par voie
 de cession ou d'expropriation au profit des emprises publiques, ainsi que la charge des servitudes attachées à la présence
-des ouvrages construits sur ces emprises ;
+des ouvrages construits sur ces emprises ; 
 
 Ou lorsqu'il convient de procéder à des modifications de limites de lots dans un lotissement à la suite de l'application des
-dispositions des articles L. 315-3 à L. 315-5.
+dispositions des articles L. 315-3 à L. 315-5 ; 
 
-2. Pour l'entretien et la gestion d'ouvrages d'intérêt collectif dans les ensembles immobiliers, que ceux-ci aient été
+2° Pour l'entretien et la gestion d'ouvrages d'intérêt collectif dans les ensembles immobiliers, que ceux-ci aient été
 aménagés à l'initiative privée ou à l'initiative publique, lorsque le défaut d'entretien ou de gestion de ces ouvrages peut
 avoir des conséquences nuisibles à l'intérêt public ainsi que pour la construction d'ouvrages d'intérêt collectif à
 l'exécution desquels l'autorité compétente aurait subordonné la modification d'un lotissement par application des articles L.
-315-3 à L. 315-5.
+315-3 à L. 315-5 ; 
 
-3. Pour la restauration [*immobilière, secteurs sauvegardés*] prévue au 5. de l'article L. 322-2 lorsqu'il s'agit de parties
-d'immeubles visibles de l'extérieur.
+3° Pour la restauration prévue au 5° de l'article L. 322-2 lorsqu'il s'agit de parties d'immeubles visibles de l'extérieur ; 
 
-4. Afin de faire participer à la réparation du dommage direct, matériel et certain que peuvent supporter les propriétaires de
+4° Afin de faire participer à la réparation du dommage direct, matériel et certain que peuvent supporter les propriétaires de
 parcelles frappées de servitudes non aedificandi édictées dans le but de réserver une vue, les propriétaires de parcelles qui
-bénéficient directement de cette servitude. Dans ce cas, la commune est de droit membre de l'association.
+bénéficient directement de cette servitude. Dans ce cas, la commune est de droit membre de l'association ; 
+
+5° Pour les remembrements ou groupements de parcelles prévus au 6° de l'article L. 322-2, lorsque la disposition actuelle des
+parcelles compromettrait ou empêcherait la mise en oeuvre d'un programme de restructuration urbaine d'un grand ensemble ou
+d'un quartier d'habitat dégradé mentionné au premier alinéa du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995
+précitée.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°67-1253 1967-12-30 ART. 26 loi d'orientation foncière
+	  - Loi n°67-1253 1967-12-30 art. 26 loi d'orientation foncière
+
+	**Cite**:
+
+	  - Loi n°95-115 du 4 février 1995 - art. 42 (V)
+	  - Code de l'urbanisme - art. L315-3 (Ab)
+	  - Code de l'urbanisme - art. L322-2 (V)
 
 	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 21 (V) JORF 19 juillet 1985
-	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985
+	  - Loi n°96-987 du 14 novembre 1996 - art. 22 () JORF 15 novembre 1996
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L315-3 (Ab)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L315-4 (Ab)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L315-5 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L315-3 (M)
-	  - Code de l'urbanisme - art. L315-4 (M)
-	  - Code de l'urbanisme - art. L315-5 (Ab)
-	  - Code de l'urbanisme - art. L322-2 (M)
 
 	**Cité par**:
 
@@ -12807,15 +12853,15 @@ tribunal de grande instance donnée sur simple requête, le ministère public en
 
 ###### Article L322-6
 
-Lorsque l'objet de l'association foncière urbaine autorisée ou constituée d'office porte sur des travaux spécifiés au 1. de
-l'article L. 322-2, l'association :
+Lorsque l'objet de l'association foncière urbaine autorisée ou constituée d'office porte sur des travaux spécifiés au 1. et
+au 6. de l'article L. 322-2, l'association :
 
 a) Détermine les bâtiments ou les ouvrages dont le remembrement nécessite soit la destruction soit le changement de l'usage
 éventuellement après réparation, aménagement ou transformation.
 
 L'acte amiable portant cession d'un bâtiment ou d'un ouvrage à l'association produit les mêmes effets que l'acte de cession
 amiable en matière d'expropriation en ce qui concerne l'extinction des droits réels et personnels ; à défaut d'accord amiable
-des propriétaires sur leur cession, ces bâtiments ou ouvrages font objet d'une expropriation dans les conditions fixées par
+des propriétaires sur leur cession, ces bâtiments ou ouvrages font l'objet d'une expropriation dans les conditions fixées par
 l'ordonnance n. 58-997 du 23 octobre 1958 modifiée ;
 
 b) Etablit le projet de remembrement et en saisit l'autorité administrative qui, après avoir vérifié sa compatibilité avec la
@@ -12835,11 +12881,12 @@ droits indivis de propriété après remembrement et conservent l'ordre qu'ils a
 antérieurement à condition que leur publicité soit renouvelée dans les formes et délais qui seront fixés par décret ; ils
 s'exercent éventuellement sur les soultes.
 
-L'arrêté du préfet met fin dans les mêmes conditions aux contrats de louage dont ces immeubles étaient l'objet. Si le bail
-éteint était soumis aux dispositions du décret n. 53-960 du 30 septembre 1953, l'association foncière urbaine devra au
-preneur une indemnité calculée selon les règles fixées par ce décret à moins qu'elle ne préfère lui offrir le bail d'un local
-équivalent à celui dont la jouissance lui a été retirée. En ce qui concerne les locaux d'habitation ou professionnels, quelle
-que soit la nature du titre d'occupation, le droit au relogement est exercé comme en matière d'expropriation.
+L'arrêté de l'autorité administratives met fin dans les mêmes conditions aux contrats de louage dont ces immeubles étaient
+l'objet. Si le bail éteint était soumis aux dispositions du décret n. 53-960 du 30 septembre 1953, l'association foncière
+urbaine devra au preneur une indemnité calculée selon les règles fixées par ce décret à moins qu'elle ne préfère lui offrir
+le bail d'un local équivalent à celui dont la jouissance lui a été retirée. En ce qui concerne les locaux d'habitation ou
+professionnels, quelle que soit la nature du titre d'occupation, le droit au relogement est exercé comme en matière
+d'expropriation.
 
 La juridiction instituée à l'article 12 de l'ordonnance n. 58-997 du 23 octobre 1958 est compétente pour statuer sur les
 contestations relatives à l'évaluation des parcelles remembrées. Elle statue aussi sur les contestations soulevées à
@@ -12854,22 +12901,24 @@ remembrées et avoir renoncé à toutes contestations relatives aux privilèges,
 La notification susvisée doit, à peine de nullité, contenir l'indication du délai et reproduire, en caractères apparents, les
 dispositions de l'alinéa précédent.
 
+Les dispositions du deuxième alinéa a) de l'article L. 322-7 sont, le cas échéant, applicables aux associations foncières
+urbaines dont l'objet porte sur des travaux spécifiés au 6° de l'article L. 322-2.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Décret n°53-960 1953-09-30
-	  - Ordonnance 58-997 1958-10-23
+	  - Ordonnance 58-997 1958-10-23 art. 12
 	  - Code de l'urbanisme - art. L322-2 (M)
 
 	**Anciens textes**:
 
-	  - Loi n°67-1253 1967-12-30 ART. 28 loi d'orientation foncière
+	  - Loi n°67-1253 1967-12-30 art. 28 loi d'orientation foncière
 
 	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 21 (V) JORF 19 juillet 1985
-	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985
+	  - Loi n°96-987 du 14 novembre 1996 - art. 23 () JORF 15 novembre 1996
 
 	**Cité par**:
 
@@ -12889,7 +12938,7 @@ dispositions de l'alinéa précédent.
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code de l'urbanisme L322-7 nouveau
+	  - TXT_ASSOCIE: Code de l'urbanisme L322-7 nouveau, R322-10
 
 	**Codifié par**:
 
@@ -13504,6 +13553,123 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent chapi
 	**Créé par**:
 
 	  - Loi - art. 27 () JORF 19 juillet 1991
+
+
+#### Chapitre V : Etablissement public d'aménagement et de restructuration des espaces commerciaux et artisanaux
+
+###### Article L325-1
+
+Il est créé un établissement public national pour l'aménagement et la restructuration des espaces commerciaux et artisanaux.
+
+Cet établissement à caractère industriel et commercial est doté de la personnalité morale et de l'autonomie financière.
+
+Il a pour objet de favoriser l'aménagement et la restructuration des espaces commerciaux et artisanaux dans les zones
+urbaines sensibles, mentionnées au 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement
+et le développement du territoire. A cette fin, il assure, après accord des conseils municipaux des communes ou des organes
+délibérants des établissements publics de coopération communale ou des syndicats mixtes visés à l'article L. 5711-1 du code
+général des collectivités territoriales concernés, la maîtrise d'ouvrage d'actions et d'opérations tendant à la création,
+l'extension, la transformation ou la reconversion de surfaces commerciales et artisanales situées dans ces zones. Il peut
+passer convention avec les communes, établissements publics ou syndicats mixtes concernés.
+
+L'établissement public peut recevoir des dotations financières prélevées sur l'excédent du produit de la taxe d'aide au
+commerce et à l'artisanat, prévue au 2° de l'article 3 de la loi n° 72-657 du 13 juillet 1972 instituant des mesures en
+faveur de certaines catégories de commerçants et d'artisans âgés. Le prélèvement effectué sur l'excédent constaté au 31
+décembre 1995 est fixé à 130 millions de francs. Les prélèvements effectués sur les excédents ultérieurs seront fixés par
+décret sur la base du montant du prélèvement initial.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Cité par**:
+
+	  - Loi n°56-277 du 20 mars 1956 - art. 6 (Ab)
+	  - Arrêté du 20 mars 2009 (V)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L21-1 (M)
+	  - Code de commerce - art. L144-5 (VD)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L411-1 (VD)
+	  - Code de l'urbanisme - art. L321-1 (V)
+	  - Code de l'urbanisme - art. L321-14 (V)
+	  - Code de l'urbanisme - art. R325-4 (V)
+	  - Code de l'urbanisme - art. R325-8 (V)
+
+	**Cite**:
+
+	  - Loi n°72-657 1972-07-13 art. 3
+	  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
+	  - Code général des collectivités territoriales - art. L5711-1 (M)
+
+	**Créé par**:
+
+	  - Loi n°96-987 du 14 novembre 1996 - art. 25 () JORF 15 novembre 1996
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°2003-53 du 17 janvier 2003
+	  - TXT_SOURCE: Décret n°2003-53 du 17 janvier 2003 - art. 1 (V)
+
+
+###### Article L325-2
+
+L'établissement public peut accomplir tous actes de disposition et d'administration nécessaires à la réalisation de son objet
+et notamment :
+
+a) Acquérir les fonds commerciaux ou artisanaux ainsi que, le cas échéant, par voie d'expropriation, les immeubles ou droits
+réels immobiliers nécessaires aux opérations correspondant à son objet ;
+
+b) Céder les immeubles ou les fonds acquis ;
+
+c) Confier la gestion des fonds commerciaux ou artisanaux acquis à un ou plusieurs locataires gérants.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°96-987 du 14 novembre 1996 - art. 25 () JORF 15 novembre 1996
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L321-1 (V)
+	  - Code de l'urbanisme - art. L321-14 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L325-3
+
+L'établissement public est administré par un conseil d'administration composé en nombre égal de représentants de l'Etat,
+d'une part, d'un membre du Sénat, d'un membre de l'Assemblée nationale, de représentants des collectivités territoriales, des
+professions commerciales et artisanales et du secteur associatif, de personnalités qualifiées, d'autre part.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Créé par**:
+
+	  - Loi n°96-987 du 14 novembre 1996 - art. 25 () JORF 15 novembre 1996
+
+
+###### Article L325-4
+
+Un décret en Conseil d'Etat détermine les modalités d'organisation et de fonctionnement de l'établissement public ainsi que
+la composition de son conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°96-987 du 14 novembre 1996 - art. 25 () JORF 15 novembre 1996
+
+	**Codifié par**:
+
+	  - décret 73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 ### Titre III : Dispositions financières
@@ -18759,6 +18925,10 @@ Ce décret fixe également les conditions dans lesquelles les maires des commune
 qui sont mentionnés au II, peuvent, par délégation et exclusivement dans le cadre d'une convention mentionnée au II, mettre
 en oeuvre la décision d'agrément mentionnée au même II.
 
+Les opérations visées au I ne sont pas soumises à agrément lorsqu'elles sont situées dans les zones franches urbaines
+définies au B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement
+du territoire et lorsqu'elles visent la transformation de locaux en bureaux.
+
 V. - Un bilan de l'agrément est établi à l'expiration de chaque contrat de plan, dans les zones où cette procédure est
 instituée.
 
@@ -18770,9 +18940,14 @@ lorsque l'agrément est accordé à titre temporaire, est puni dans les mêmes c
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
+	  - Code de l'urbanisme - art. L480-4 (M)
+
 	**Modifié par**:
 
-	  - Loi n°95-115 du 4 février 1995 - art. 41 () JORF 5 février 1995
+	  - Loi n°96-987 du 14 novembre 1996 - art. 37 () JORF 15 novembre 1996
 
 	**Cité par**:
 
@@ -18786,10 +18961,6 @@ lorsque l'agrément est accordé à titre temporaire, est puni dans les mêmes c
 	  - Code de l'urbanisme - art. R421-3 (M)
 	  - Code de l'urbanisme - art. R431-16 (V)
 	  - Code de la construction et de l'habitation. - art. L111-3 (VD)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L480-4 (M)
 
 	**Anciens textes**:
 
@@ -19160,8 +19331,8 @@ relative au contrat d'association.
 
 ###### Article L520-9
 
-Est assimilé, pour l'application du présent titre, à la construction de locaux à usage de bureaux ou de locaux de recherches
-le fait de transformer en de tels locaux des locaux précédemment affectés à un autre usage [*champ d'application*].
+Est assimilé, pour l'application du présent titre, à la construction de locaux à usage de bureaux ou de locaux de recherche
+le fait de transformer en de tels locaux des locaux précédemment affectés à un autre usage.
 
 Les transformations de locaux visées au présent article devront à défaut d'une demande de permis de construire, faire l'objet
 d'une déclaration dont les modalités seront déterminées par le décret en conseil d'Etat prévu à l'article L. 520-11.
@@ -19170,15 +19341,15 @@ Lorsque l'agrément prévu par l'article L. 510-1 autorise la transformation de 
 catégorie soumise à une redevance d'un taux plus élevé que précédemment, la redevance due est arrêtée sous déduction du
 montant de la redevance versée au titre de l'usage antérieur.
 
+La redevance n'est pas due pour les opérations réalisées dans les zones franches urbaines définies au B du 3 de l'article 42
+de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire lorsqu'elles visent
+la transformation de locaux en bureaux.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°60-790 1960-08-02 ART. 9
-
-	**Modifié par**:
-
-	  - Loi n°82-1020 1982-12-03 Art. 8, Art. 9 JORF 4 DECEMBRE 1982
+	  - Loi n°60-790 1960-08-02 art. 9
 
 	**Cité par**:
 
@@ -19195,8 +19366,13 @@ montant de la redevance versée au titre de l'usage antérieur.
 
 	**Cite**:
 
+	  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
 	  - Code de l'urbanisme - art. L510-1 (M)
 	  - Code de l'urbanisme - art. L520-11 (M)
+
+	**Modifié par**:
+
+	  - Loi n°96-987 du 14 novembre 1996 - art. 38 () JORF 15 novembre 1996
 
 	**Codifié par**:
 
