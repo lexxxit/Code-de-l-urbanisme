@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1986-04-01
+Version Consolidée au 1986-05-01
 
 # Partie législative
 
@@ -28783,50 +28783,6 @@ L'acte constatant l'achèvement de la zone fait l'objet des mesures de publicit�
 	  - Décret n°2001-261 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
 
 
-#### CHAPITRE I : Zones d'aménagement concertée
-
-##### Section 2 : Réalisation des zones d'aménagement concerté
-
-###### Article R*311-12
-
-Le commissaire de la République  transmet pour avis le projet de plan d'aménagement de zone à la chambre de commerce et
-d'industrie et à la chambre de métiers intéressées. Ces établissements publics disposent d'un délai d'un mois pour faire
-connaître leurs observations éventuelles.
-
-Le projet de plan d'aménagement de zone est soumis à une enquête publique dans les formes prévues par les articles R. 11-14-1
-et suivants du code de l'expropriation pour cause d'utilité publique.
-
-L'enquête publique effectuée en application de l'alinéa précédent vaut enquête préalable à la déclaration d'utilité publique
-des opérations, acquisitions ou expropriations prévues au plan d'aménagement.
-
-Le projet de plan d'aménagement de zone et les conclusions du commissaire enquêteur ou de la commission d'enquête sont soumis
-pour avis par le commissaire de la République au conseil municipal de la commune ou à l'organe délibérant de l'établissement
-public groupant plusieurs communes et ayant compétence en matière d'urbanisme. Cette formalité n'est pas obligatoire si la
-commune ou l'établissement public de regroupement a pris l'initiative de la création de la zone et si l'avis du commissaire
-enquêteur ou de la commission d'enquête est favorable.
-
-L'avis est réputé favorable [*silence*] s'il n'est pas intervenu dans un délai de deux mois. Si le conseil municipal ou
-l'organe délibérant entend faire connaître son opposition, celle-ci doit être expressément formulée.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*318-18 (V)
-
-	**Cite**:
-
-	  - Code de l'expropriation pour cause d'utilité publique R11-4-1 et s.
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°85-452 1985-04-23 art. 4 JORF 24 avril 1985 en vigueur le 1er octobre 1985
-
-
 #### Chapitre III : Restauration immobilière et secteurs sauvegardés
 
 #####  Section 1 : Secteurs sauvegardés
@@ -35178,50 +35134,6 @@ de cette commission les mêmes pouvoirs et obligations que ceux du président et
 	  - Décret n°73-1023 1973-11-08
 
 
-##### Dispositions concernant les associations foncières urbaines de remembrement
-
-#####  Section 2 : Redistribution parcellaire et fixation de l'état nouveau
-
-###### Article R*322-11
-
-A l'issue de l'enquête, le préfet renvoie le dossier au président de l'association et porte à sa connaissance les
-observations présentées.
-
-Si le conseil des syndics ne peut donner satisfaction aux intéressés, le président transmet l'ensemble du dossier avec ses
-propositions au président de la commission consultative prévue à l'article L. 322-6.
-
-Cette commission entend, une fois au moins, les intéressés qui en font la demande, ainsi que le président et le directeur de
-l'association.
-
-Dans les deux mois de sa saisine [*délai*], elle donne son avis motivé au président de l'association.
-
-La décision motivée, prise consécutivement à cet avis par le conseil des syndics, est, ainsi que ledit avis, notifiée aux
-intéressés par lettre recommandée avec demande d'avis de réception [*condition de forme*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°74-203 1974-02-26 ART. 11
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L322-6 (M)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*322-14 (V)
-	  - Code de l'urbanisme - art. R*322-28-2 (V)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme R322-26
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 #####  Section 3 : Dispositions relatives aux associations foncières urbaines de groupement de parcelles
 
 ##### Paragraphe 1 : Constitution des associations autorisées
@@ -35633,41 +35545,6 @@ L'association constituée d'office est soumise aux dispositions des articles R. 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-
-#####  Section 4 : Commission consultative.
-
-###### Article R322-34
-
-Dès la création dans le département de la première association foncière urbaine ayant pour objet le remembrement ou le
-groupement de parcelles conformément aux articles L. 322-1 à L. 322-10 susvisé, la commission consultative prévue à l'article
-L. 322-6 est constituée à l'initiative du préfet.
-
-Elle comprend [*composition*] :
-
-un juge de l'expropriation, président ;
-
-Un notaire ;
-
-Un géomètre-expert ;
-
-Le directeur des services fiscaux du département ou son représentant ;
-
-Le directeur départemental de l'équipement ou son représentant.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme L322-1 à L322-10
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Anciens textes**:
-
-	  - Décret n°74-204 1974-02-26 ART. 1
 
 
 #####  Section 5 : Commission consultative
@@ -38045,240 +37922,6 @@ administratifs nécessaires au paiement des subventions.
 
 ### Opérations d'aménagement
 
-#### Zones d'aménagement concerte
-
-##### Création
-
-###### Article R*311-3
-
-La personne publique qui prend l'initiative de demander la création d'une zone d'aménagement concerté adresse au préfet un
-dossier de création approuvé, sauf lorsqu'il s'agit de l'Etat, par son organe délibérant.
-
-Le dossier de création comprend [*contenu*] :
-
-a) Un rapport de présentation, qui indique notamment l'objet et la justification de l'opération, comporte une description de
-l'état du site et de son environnement et énonce les raisons pour lesquelles, au regard des dispositions d'urbanisme en
-vigueur et de l'insertion dans l'environnement naturel ou urbain, le projet faisant l'objet du dossier de création a été
-retenu ;//DECRET 1141 : Ce rapport comprend l'étude d'impact définie à l'article 2 du décret n. 77-1141 du 12 octobre 1977,
-sauf dans le cas prévu au dernier alinéa de l'article L. 311-4//.
-
-b) Un plan de situation ;
-
-c) Un plan de délimitation du ou des périmètres composant la zone ;
-
-d) L'indication du mode de réalisation choisi ;
-
-e) Le régime de la zone au regard de la taxe locale d'équipement ;
-
-f) L'indication du document d'urbanisme applicable à l'intérieur de la zone.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*311-6
-
-La décision de création d'une zone d'aménagement concerté fait l'objet :
-
-a) D'une publication au Journal officiel de la République française s'il s'agit d'un décret ou d'un arrêté ministériel ;
-
-b) D'une publication au recueil des actes administratifs du département s'il s'agit d'un arrêté préfectoral ; dans ce dernier
-cas, le préfet fait en outre insérer cette mention en caractères apparents dans deux journaux régionaux ou locaux diffusés
-dans tout le département.
-
-Les effets juridiques attachés à la création de la zone ont pour point de départ la publication effectuée en application du a
-ci-dessus ou l'exécution de l'ensemble des formalités de publication effectuées en application du b.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*311-10 (V)
-	  - Code de l'urbanisme - art. R*311-16 (Ab)
-	  - Code de l'urbanisme - art. R*311-2 (M)
-	  - Code de l'urbanisme - art. R*311-32 (Ab)
-	  - Code de l'urbanisme - art. R*311-38 (Ab)
-	  - Code de l'urbanisme - art. R*311-5 (M)
-	  - Code de l'urbanisme - art. R*311-8 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme R311-8
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*311-8
-
-Lorsqu'il est prévu que les dispositions du plan d'occupation des sols rendu public ou approuvé ne seront pas maintenues en
-vigueur à l'intérieur du ou des territoires compris dans la zone, la décision créant la zone devient caduque si, dans le
-délai de deux ans à compter de la publication dont elle fait l'objet, le plan d'aménagement de zone n'est pas approuvé. Le
-délai peut être prorogé pour une durée d'un an par arrêté du préfet, publié dans les conditions définies à l'article R.
-311-6.
-
-Le point de départ du délai de deux ans mentionné à l'alinéa précédent est de 30 juin 1977, lorsque l'acte créant la zone a
-été publié avant cette date.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R*311-6 (M)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*318-18 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-##### Réalisation
-
-###### Article R*311-13
-
-Le préfet approuve le programme des équipements publics, après avoir :
-
-a) Vérifié que la personne publique qui a pris l'initiative de la création de la zone s'est engagée à assumer les
-conséquences financières de sa réalisation et a défini les conditions dans lesquelles l'opération d'aménagement doit se
-dénouer ;
-
-b) Vérifié que les différentes collectivités ou établissements publics qui participent à l'aménagement de la zone ont donné
-leur accord sur la maîtrise d'ouvrage des équipements qui leur incombe ;
-
-c) Recueilli l'avis du conseil municipal ou de l'organe délibérant de l'établissement public groupant plusieurs communes et
-ayant compétence en matière d'urbanisme si la zone a été créée à l'initiative d'une autre personne publique.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*311-15
-
-Le plan d'aménagement de zone est approuvé :
-
-a) Par arrêté du préfet, en l'absence d'opposition de la commune ou de l'établissement public groupant plusieurs communes et
-ayant compétence en matière d'urbanisme ;
-
-b) Par décret en Conseil d'Etat, dans les autres cas.
-
-L'acte qui approuve le plan peut, le cas échéant, sous réserve des dispositions du règlement d'administration publique pris
-en application de l'article L. 11-2 (alinéa 2) du code de l'expropriation pour cause d'utilité publique, porter déclaration
-d'utilité publique de certaines opérations, acquisitions ou expropriations prévues au plan.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'expropriation pour cause d'utilité publique L11-2 AL. 2
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*311-16-1
-
-Lorsque le conseil municipal ou l'organe délibérant de l'établissement public groupant plusieurs communes et ayant compétence
-en matière d'urbanisme a pris l'initiative de la création de la zone ou a émis un avis favorable sur le projet de plan
-d'aménagement de zone, ce projet peut être inclus dans le dossier de création de la zone.
-
-Dans ce cas, le dossier de création est soumis pendant un délai de deux mois à une enquête publique effectuée dans les
-conditions définies par les articles R. 11-4 et suivants du code de l'expropriation pour cause d'utilité publique.
-
-Le plan d'aménagement de la zone peut alors être approuvé, après consultation des organismes mentionnés à l'article R. 311-12
-(alinéa 1er) [*chambre de commerce et d'industrie et chambre des métiers*], sans qu'il y ait lieu de procéder à une nouvelle
-enquête.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CODE DE L'URBANISME R311-12
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-4 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*311-19
-
-Les modalités et les conditions de cession, de location ou de concession d'usage des terrains, à l'intérieur des zones
-d'aménagement concerté sont déterminées par des cahiers des charges approuvés par le préfet après avis du directeur
-départemental de l'équipement et du directeur des services fiscaux.
-
-le titre Ier de ces cahiers des charges [*contenu*] définit notamment les conditions dans lesquelles les cessions, locations
-ou concessions d'usage sont consenties, ainsi que le programme des constructions à réaliser sur le terrain.
-
-Lorsque l'acquisition des terrains inclus dans la zone a été déclarée d'utilité publique, ce titre Ier doit être conforme aux
-clauses types approuvées par décret en Conseil d'Etat, en application de l'article L. 21-3 du code de l'expropriation pour
-cause d'utilité. Il détermine alors les conditions dans lesquelles les cessions, locations ou concessions d'usage sont
-résolues en cas d'inexécution des charges.
-
-Le titre II définit les droits et obligations de l'aménageur et des constructeurs ou utilisateurs pendant la durée des
-travaux. Il fixe notamment les prescriptions techniques, urbanistiques et architecturales imposées aux constructeurs, pendant
-la durée de la réalisation de la zone.
-
-Le titre III détermine notamment les conditions de gestion des installations communes et ouvrages collectifs.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L21-3 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-##### Suppression ou modification.
-
-###### Article R*311-32
-
-La suppression d'une zone d'aménagement concerté ou la modification de son acte de création est prononcée dans les conditions
-définies aux articles R. 311-2, R. 311-3-2 et R. 311-3-3.
-
-La décision qui supprime la zone, ou qui modifie l'acte de création fait l'objet des mesures de publicité et d'information
-édictées par l'article R. 311-6.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R*311-6 (M)
-	  - Code de l'urbanisme R311-3-2
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*311-33
-
-La déclaration d'utilité publique d'une opération qui n'est pas compatible avec les prescriptions d'un plan d'aménagement de
-zone ne peut intervenir que si l'enquête publique concernant cette opération a porté à la fois sur l'utilité publique et sur
-la modification du plan et si, en outre, l'acte déclaratif d'utilité publique est pris dans des conditions conformes aux
-prescriptions concernant l'approbation des plans d'aménagement de zone. La déclaration d'utilité publique emporte alors
-modification du plan.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 #### Rénovation urbaine
 
 ##### Règles de principe.
@@ -39797,178 +39440,6 @@ fixe la liste de ces documents.
 
 ### Organismes d'exécution
 
-#### Associations foncières urbaines
-
-##### Dispositions concernant les associations foncières urbaines de remembrement
-
-##### Redistribution parcellaire et fixation de l'état nouveau.
-
-###### Article R*322-8
-
-Le projet de remembrement est établi dans l'intérêt commun eu égard aux possibilités d'utilisation du sol à l'intérieur du
-périmètre de remembrement.
-
-Les documents d'urbanisme indiquant ces possibilités d'utilisation du sol ainsi éventuellement que les disciplines
-d'architecture à respecter par les constructeurs doivent être tenus à la disposition des associés au secrétariat de
-l'association.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°74-203 1974-02-26 ART. 8
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*322-17 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*322-15
-
-Le plan de remembrement [*définition*] arrêté par le conseil des syndics après rectification, le cas échéant, en exécution de
-décisions judiciaires devenues définitives, comprend [*contenu*] :
-
-1° Les plans et états parcellaires nouveaux désignant les immeubles conformément à l'article 7 du décret n. 55-22 du 4
-janvier 1955 modifié et indiquant le cas échéant les bâtiments ou ouvrages à conserver ;
-
-2° Un tableau pour chaque propriétaire des parcelles ou quotes-parts de parcelles avant et après remembrement, avec
-l'indication des soultes ; dans le cas où des créanciers hypothécaires ou privilégiés ont été révélés avant la clôture de
-l'enquête ce tableau doit faire apparaître les concordances nécessaires à l'application de l'article R. 322-9 ;
-
-3° Le cas échéant, un état des droits réels qui seront éteints par l'arrêté préfectoral prévu à l'article R. 322-17 moyennant
-indemnité due par l'association ;
-
-4° Le cas échéant, un état des droits réels, à l'exception des privilèges et hypothèques, reportés ou attribués sur les
-parcelles après remembrement ;
-
-5° Le cas échéant, un état des bâtiments ou ouvrages, d'une part, à conserver, d'autre part, restant à détruire par
-l'association.
-
-Le tableau et les états mentionnés aux 2° à 5° ci-dessus sont, en vue de la publicité foncière, soumis à des règles de forme
-précisées à l'article R. 322-20.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°55-22 du 4 janvier 1955 - art. 7 (M)
-	  - Code de l'urbanisme R322-9
-
-	**Anciens textes**:
-
-	  - Décret n°74-203 1974-02-26 ART. 15
-
-	**Créé par**:
-
-	  - Décret n°76-267 1976-03-25 JORF 27 MARS 1976 rectificatif JORF 1976-06-13
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*322-17 (V)
-	  - Code de l'urbanisme - art. R*322-20 (VD)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme R322-20
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-##### Redistribution parcellaire et fixation et l'état nouveau.
-
-###### Article R*322-18
-
-L'arrêté préfectoral est remis sur émargement au président de l'association le jour même de sa signature en vue des mesures
-de publicité foncière prévues au paragraphe III de la présente sous-section.
-
-Il est, en outre, publié au Recueil des actes administratifs et, pendant un délai de deux mois à compter de cette
-publication, toute personne intéressée peut prendre connaissance du plan de remembrement approuvé qui est déposé en mairie.
-
-Le président de l'association notifie, par lettre recommandée avec demande d'avis de réception [*condition de forme*], aux
-titulaires de droits réels autres que les créanciers hypothécaires ou privilégiés l'extrait du plan de remembrement approuvé
-par le préfet qui les concerne.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Anciens textes**:
-
-	  - Décret n°74-203 1974-02-26 ART. 18
-
-	**Cite**:
-
-	  - Code de l'urbanisme R322-22
-
-
-##### Dispositions relatives aux associations foncières urbaines de groupement de parcelles
-
-##### Modalités de groupement de parcelles.
-
-###### Article R*322-27-1
-
-Lorsque le projet de groupement est envisagé en vue de la vente des parcelles à une société de construction régie par le
-titre Ier de la loi n. 71-579 du 16 juillet 1971 modifiée, les associés doivent, dans un délai d'un mois à compter de [*point
-de départ*] la notification, par lettre recommandée avec demande d'avis de réception, de l'arrêté préfectoral autorisant la
-création de l'association, faire connaître au président de l'association, par lettre recommandée avec demande d'avis de
-réception [*condition de forme*], leur option soit pour un paiement en monnaie, soit pour la remise d'une ou plusieurs
-fractions des immeubles à construire. Les associés n'ayant pas opté dans ce délai sont rémunérés en monnaie.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Cite**:
-
-	  - Loi n°71-579 1971-07-16 TITRE 1
-
-
-###### Article R*322-28-3
-
-Le projet de groupement de parcelles est arrêté par le conseil des syndics après rectification, le cas échéant, en exécution
-de décisions judiciaires devenues définitives, et est adressé au préfet.
-
-Le préfet transmet dans les huit jours au maire le projet en vue de recueillir son avis motivé. Faute d'être parvenu au
-préfet dans le délai de deux mois [*délai*], cet avis est réputé favorable [*silence*].
-
-L'opération ne peut être réalisée qu'après que le préfet a constaté, par arrêté, que le projet respecte les dispositions
-législatives et réglementaires sur l'urbanisme et que les formalités prévues notamment par la présente sous-section ont été
-régulièrement accomplies.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-##### Commission consultative.
-
-###### Article R322-37
-
-L'arrêté du préfet portant constitution de la commission est publié au recueil des actes administratifs du département.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Anciens textes**:
-
-	  - Décret n°74-204 1974-02-26 ART. 4
-
-
 ### Dispositions financières
 
 #### Participation des constructeurs et des lotisseurs
@@ -40607,41 +40078,6 @@ prévues à l'article R. 315-33 (b).
 	**Cite**:
 
 	  - Code de l'urbanisme R315-30 AL. 1 à 3
-
-
-## LIVRE III : Aménagement foncier TITRE II : Organismes d'exécution
-
-### CHAPITRE II : Associations foncières urbaines
-
-####  Section 2 : Dispositions concernant les associations foncières urbaines de remembrement constituées d'office.
-
-###### Article R*322-23
-
-Lorsqu'il peut être fait application de l'article L. 322-4 (1.) le projet d'arrêté préfectoral portant constitution d'office
-d'une association foncière urbaine est joint au dossier d'enquête [*contenu*] sur la constitution de l'association autorisée
-en vue de recueillir les observations éventuelles des intéressés.
-
-A ce projet, qui comporte les indications mentionnées à l'article 74 du décret du 18 décembre 1927, sont joints :
-
-Une notice explicative justifiant l'application de l'article L. 322-4 (1.) accompagnée, le cas échéant, des extraits du plan
-d'urbanisme ou du plan d'occupation des sols et du règlement d'urbanisme applicables ;
-
-Une estimation du coût de l'opération.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L322-4 (M)
-	  - Décret  1927-12-18 ART. 74
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Anciens textes**:
-
-	  - Décret n°74-203 1974-02-26 ART. 23
 
 
 ## Livre IV : Régime applicable aux constructions, aménagements et démolitions
@@ -47816,9 +47252,7 @@ application du décret n° 85-453 du 23 avril 1985.
 
 #### Autorisation de clôture
 
-##### Décision
-
-##### Dispositions particulières applicables dans les communes où un plan d'occupation des sols a été approuvé
+#### Clotures.
 
 ###### Article R*441-7-2
 
@@ -47828,22 +47262,27 @@ décision est transmise dans les conditions prévues à l'article L. 421-2-4 du 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°84-226 1984-03-29 ART. 2, ART. 8, ART. 10 JORF 31 MARS 1984   date d'entrée en vigueur 1 AVRIL 1984
+	  - Décret n°73-1023 1973-11-08
 
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°84-226 1984-03-29 ART. 33, ART. 34 : modalités d'application
 	  - SPEC_APPLI: Décret n°84-226 du 29 mars 1984 - art. 33 (M)
 
+	**Modifié par**:
+
+	  - Décret n°86-514 du 14 mars 1986 - art. 4 () JORF 16 MARS 1986   date d'entrée en vigueur 1 mai 1986
+	  - Décret n°86-514 du 14 mars 1986 - art. 5 () JORF 16 MARS 1986   date d'entrée en vigueur 1 mai 1986
+
+	**Abrogé par**:
+
+	  - Décret n°87-885 du 30 octobre 1987 - art. 11 ()
+
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L421-2-4 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 #### Installations et travaux divers
