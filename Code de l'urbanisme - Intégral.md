@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2003-07-31
+Version Consolidée au 2003-08-02
 
 # Partie législative
 
@@ -9808,6 +9808,54 @@ utilisation à la collectivité ayant accordé la subvention.
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
+###### Article L300-6
+
+Les collectivités territoriales et leurs groupements ainsi que les établissements publics d'aménagement créés en application
+de l'article L. 321-1 peuvent, après enquête publique effectuée dans les conditions définies aux articles L. 123-1 et
+suivants du code de l'environnement, se prononcer, par une déclaration de projet, sur l'intérêt général d'une action ou d'une
+opération d'aménagement au sens du présent livre. Les articles L. 122-15 et L. 123-16 sont alors applicables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 55 () JORF 2 août 2003
+
+	**Cité par**:
+
+	  - Loi n°2010-597 du 3 juin 2010 - art. 21 (VD)
+	  - Décret n°2011-724 du 24 juin 2011 - art. 11 (V)
+	  - Décret n°2011-724 du 24 juin 2011 - art. 13 (V)
+	  - Décret n°2012-995 du 23 août 2012 - art. 11 (VD)
+	  - Ordonnance n°2016-1028 du 27 juillet 2016 - art. 32
+	  - Code de l'urbanisme - art. L350-5 (VD)
+	  - Code de l'urbanisme - art. R*122-11-1 (Ab)
+	  - Code de l'urbanisme - art. R*122-11-2 (Ab)
+	  - Code de l'urbanisme - art. R*122-11-3 (Ab)
+	  - Code de l'urbanisme - art. R*122-13-2 (VT)
+	  - Code de l'urbanisme - art. R*122-13-3 (VT)
+	  - Code de l'urbanisme - art. R*123-23-1 (T)
+	  - Code de l'urbanisme - art. R*123-23-2 (T)
+	  - Code de l'urbanisme - art. R*123-23-3 (T)
+	  - Code de l'urbanisme - art. R*123-23-4 (VT)
+	  - Code de l'urbanisme - art. R143-13 (V)
+	  - Code de l'urbanisme - art. R153-15 (V)
+	  - Code de l'urbanisme - art. R153-16 (V)
+	  - Code de l'urbanisme - art. R153-17 (V)
+	  - Code général des collectivités territoriales - art. L4251-9 (VD)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L122-15 (M)
+	  - Code de l'urbanisme - art. L123-16 (M)
+	  - Code de l'urbanisme - art. L321-1 (M)
+	  - Code de l'environnement - art. L123-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
 ###  Titre Ier : Opérations d'aménagement
 
 ####  Chapitre Ier : Zones d'aménagement concerté
@@ -14005,6 +14053,181 @@ la composition de son conseil d'administration.
 	  - décret 73-1022 1973-11-08 JORF 13 novembre 1973
 
 
+#### Chapitre VI : Etablissements publics locaux d'aménagement
+
+###### Article L326-1
+
+Les établissements publics d'aménagement créés en application du présent chapitre sont des établissements publics locaux à
+caractère industriel et commercial. Ils sont compétents pour conduire des opérations de rénovation urbaine et de
+développement économique et social des zones urbaines sensibles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Cité par**:
+
+	  - Loi n°65-557 du 10 juillet 1965 - art. 29-11 (V)
+	  - Loi n°2003-710 du 1 août 2003 - art. 10-2 (V)
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 102 (V)
+	  - Code de l'urbanisme - art. R*300-15 (V)
+	  - Code de la construction et de l'habitation. - art. L443-11 (V)
+	  - Code des transports - art. L4311-2 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 ter (V)
+	  - Livre des procédures fiscales - art. L135 B (VT)
+
+	**Créé par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 61 () JORF 2 août 2003
+
+
+###### Article L326-2
+
+L'établissement public local d'aménagement est créé par le préfet au vu des délibérations concordantes des organes
+délibérants d'établissements publics de coopération intercommunale et de collectivités territoriales compétents. Lorsque les
+établissements publics de coopération intercommunale et les communes appartiennent à plusieurs départements, la décision est
+prise par arrêté conjoint des préfets concernés.
+
+Les délibérations fixent la liste des membres de l'établissement, les modalités de fonctionnement, les conditions de
+modification statutaire, la durée, les modalités de dissolution, le siège et la composition du conseil d'administration de
+l'établissement.
+
+La décision de création comporte les éléments mentionnés à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Créé par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 61 () JORF 2 août 2003
+
+
+###### Article L326-3
+
+Le conseil d'administration règle par ses délibérations les affaires de l'établissement. A cet effet :
+
+- il détermine l'orientation de la politique à suivre ;
+
+- il vote l'état prévisionnel des recettes et des dépenses, autorise les emprunts, approuve les comptes et se prononce sur
+l'affectation du résultat ;
+
+- il nomme le directeur général sur proposition du président et après avis du préfet.
+
+Il élit en son sein un président et un ou plusieurs vice-présidents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Créé par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 61 () JORF 2 août 2003
+
+
+###### Article L326-4
+
+L'état prévisionnel des recettes et des dépenses est établi, voté, réglé et exécuté conformément aux dispositions du chapitre
+Ier du titre unique du livre VI de la première partie du code général des collectivités territoriales.
+
+Les recettes de l'établissement public comprennent :
+
+- les contributions qui lui sont accordées par l'Etat, les collectivités territoriales et les établissements publics ainsi
+que toutes autres personnes morales publiques ou privées intéressées ;
+
+- les emprunts ;
+
+- la rémunération de ses prestations de services, les produits financiers, le produit de la gestion des biens entrés dans son
+patrimoine et le produit de la vente des biens et droits mobiliers et immobiliers ;
+
+- le produit des dons et legs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Créé par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 61 () JORF 2 août 2003
+
+
+###### Article L326-5
+
+Le directeur est ordonnateur des dépenses et des recettes. Il représente l'établissement en justice et dans tous les actes de
+la vie civile. Il passe des contrats et signe tous les actes pris au nom de l'établissement. Il prépare et exécute les
+décisions du conseil d'administration. Il recrute le personnel et a autorité sur lui. Il peut déléguer sa signature.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Créé par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 61 () JORF 2 août 2003
+
+
+###### Article L326-6
+
+Les actes et délibérations de l'établissement public sont soumis au contrôle de légalité prévu par les articles L. 2131-1 à
+L. 2131-11 du code général des collectivités territoriales. 
+
+Le conseil d'administration ne délibère valablement que lorsque la majorité de ses membres sont présents ou représentés. Les
+membres empêchés d'assister à une séance peuvent se faire représenter dans les conditions définies par l'article L. 2121-20
+du même code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 61 () JORF 2 août 2003
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2121-20 (V)
+	  - Code général des collectivités territoriales - art. L2131-1 (V)
+	  - Code général des collectivités territoriales - art. L2131-11 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L326-7
+
+Le comptable de l'établissement public est un comptable du Trésor nommé par le préfet après avis conforme du trésorier-payeur
+général.
+
+Les dispositions des articles L. 1617-2, L. 1617-3 et L. 1617-5 du code général des collectivités territoriales sont
+applicables à l'établissement public. Celui-ci est, en outre, soumis à la première partie du livre II du code des
+juridictions financières.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Créé par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 61 () JORF 2 août 2003
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1617-2 (V)
+	  - Code général des collectivités territoriales - art. L1617-3 (V)
+	  - Code général des collectivités territoriales - art. L1617-5 (M)
+
+
 ### Titre III : Dispositions financières
 
 #### Chapitre II : Participation des constructeurs et des lotisseurs
@@ -15377,28 +15600,45 @@ Les permis de construire délivrés par le maire ou le président de l'établiss
 lorsqu'il a reçu compétence dans les conditions prévues à l'article L. 421-2-1, sont exécutoires de plein droit dès lors
 qu'il a été procédé à leur notification et à leur transmission au représentant de l'Etat, ainsi qu'il est dit à l'article 2,
 paragraphes I et II de la loi n° 82-213 du 2 mars 1982 modifiée, relative aux droits et libertés des communes, des
-départements et des régions.
+départements et des régions (1).
 
 Les actes transmis sont accompagnés des dossiers et des pièces d'instruction ayant servi à leur délivrance.
 
-Lorsque a été prescrite la réalisation de fouilles archéologiques préventives, le permis de construire indique que les
-travaux de construction ne peuvent être entrepris avant l'achèvement de ces fouilles.
+Lorsque a été prescrite la réalisation d'opérations d'archéologie préventive, le permis de construire indique que les travaux
+de construction ne peuvent être entrepris avant l'achèvement de ces opérations.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
+
+(1) L'article 2 de la loi n° 82-213 du 2 mars 1982 est abrogé par l'article 12 de la loi n° 96-142 du 21 février 1996. Ses
+dispositions sont codifiées sous les articles L. 2131-1 et L. 2131-2 du code général des collectivités territoriales.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°82-213 1982-03-02 art. 2 par. I, par. II
+	  - Loi n°82-213 1982-03-02 art. 2
+	  - Loi n°96-142 du 21 février 1996 - art. 12 (V)
+	  - Code général des collectivités territoriales - art. L2131-1 (M)
+	  - Code général des collectivités territoriales - art. L2131-2 (M)
 	  - Code de l'urbanisme - art. L421-2-1 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°83-851 1983-09-23
-	  - SPEC_APPLI: Code de l'urbanisme - art. L421-2-7 (M)
+	  - Code de l'urbanisme L421-2-1, 2
 
 	**Modifié par**:
 
-	  - Loi n°2001-44 du 17 janvier 2001 - art. 11 () JORF 18 janvier 2001
+	  - Loi n°2003-707 du 1 août 2003 - art. 15 () JORF 2 août 2003
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
 
 	**Cité par**:
 
@@ -15423,7 +15663,7 @@ travaux de construction ne peuvent être entrepris avant l'achèvement de ces fo
 
 	**Codifié par**:
 
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 ###### Article L421-2-5
