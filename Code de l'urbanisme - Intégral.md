@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1977-07-22
+Version Consolidée au 1977-07-29
 
 # Partie législative
 
@@ -14047,6 +14047,24 @@ plans d'occupation des sols.
 	  - Décret n°98-913 du 12 octobre 1998 - art. 41 (V)
 
 
+#### Chapitre VI : Servitudes d'utilité publique affectant l'utilisation du sol.
+
+###### Article R*126-2
+
+Le report en annexe au plan d'occupation des sols des servitudes d'utilité publique mentionnées au présent chapitre est opéré
+suivant la procédure prévue à l'article R. 123-36 pour la mise à jour dudit plan.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme R123-36
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ### Titre III : Espaces boisés
 
 ####  Section 3 : Régime des coupes et abattages d'arbres dans les bois, forêts ou parcs situés sur le territoire de communes ou parties de communes où l'établissement d'un plan local d'urbanisme a été prescrit.
@@ -14927,6 +14945,59 @@ du présent chapitre.
 
 ##### Etablissement et instruction du plan d'occupation des sols
 
+###### Article R*123-1
+
+Un plan d'occupation des sols doit être établi pour [*champ d'application*] :
+
+1. Les communes ou parties de communes comprises dans une agglomération de plus de 10000 habitants [*nombre*] ;
+
+2. Les communes soumises au régime des stations classées ;
+
+3. Les communes qui ont subi des destructions importantes par suite de cataclysmes ou d'événements graves.
+
+4. Les zones de rénovation urbaine, sauf si leur réalisation est poursuivie selon le régime des zones d'aménagement
+concerté ;
+
+5. Les zones de résorption de l'habitat insalubre lorsqu'elles ont pour objet la construction de logements.
+
+Dans les autres communes, un plan d'occupation des sols peut être établi, à la demande ou après avis du ou des conseils
+municipaux intéressés, notamment lorsque l'établissement de ce document se justifie soit par l'accroissement démographique ou
+l'évolution économique ou touristique, soit par l'implantation d'un ouvrage important, soit par la sauvegarde et la mise en
+valeur d'un site naturel ou construit.
+
+L'établissement du plan d'occupation des sols d'une commune ou d'une partie de commune est prescrit par un arrêté du préfet
+qui est publié au recueil des actes administratifs du département et dont une mention est insérée en caractères apparents
+dans deux journaux régionaux ou locaux diffusés dans tout le département [*publicité*].
+
+Lorsqu'il y a lieu de constituer un groupement d'urbanisme dans les conditions prévues à l'article R. 123-3, l'établissement
+du plan d'occupation des sols est prescrit par l'arrêté qui constitue le groupement.
+
+Les chefs des services publics chargés d'assurer l'application des législations relatives aux servitudes d'utilité publique
+reçoivent notification de l'acte prescrivant l'établissement d'un plan d'occupation des sols.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-1016 1970-10-28 ART. 1
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*710-1 (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme R123-3
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme R124-2
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ###### Article R*123-5-1
 
 Lorsqu'il en fait la demande au préfet, le président d'une association [*locale d'usagers*] agréée en application de
@@ -14954,59 +15025,6 @@ du projet de plan d'occupation des sols.//
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L121-8 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-##### Champ d'application.
-
-###### Article R*123-1
-
-Un plan d'occupation des sols doit être établi pour :
-
-1. Les communes ou parties de communes comprises dans une agglomération de plus de 10.000 habitants [*nombre*] ;
-
-2. Les communes soumises au régime des stations classées ;
-
-3. Les communes [*sinistrées*] qui ont subi des destructions importantes par suite de cataclysmes ou d'évènements graves.
-
-//DECRET 276 :
-
-4. Les zones de rénovation urbaine, sauf si leur réalisation est poursuivie selon le régime des zones d'aménagement concerté.
-
-5. Les zones de résorption de l'habitat insalubre lorsqu'elles ont pour objet la construction de logements.//    Dans les
-autres communes, un plan d'occupation des sols peut être établi, à la demande ou après avis du ou des conseils municipaux
-intéressés, notamment lorsque l'établissement de ce document se justifie soit par l'accroissement démographique ou
-l'évolution économique ou touristique, soit par l'implantation d'un ouvrage important, soit par la sauvegarde et la mise en
-valeur d'un site naturel ou construit.
-
-L'établissement du plan d'occupation des sols d'une commune ou d'une partie de commune est prescrit par un arrêté du préfet
-[*autorité compétente*] qui est publié au Recueil des actes administratifs du département et /M/inséré/M/DECR.0736 : dont une
-mention est insérée en caractères apparents// dans deux journaux régionaux ou locaux diffusés dans tout le département
-[*publicité*].
-
-Lorsqu'il y a lieu de constituer un groupement d'urbanisme dans les conditions prévues à l'article R. 123-3, l'établissement
-du plan d'occupation des sols est prescrit par l'arrêté qui constitue le groupement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1016 1970-10-28 ART. 1
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*710-1 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R123-3
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme R124-2
 
 	**Codifié par**:
 
@@ -15999,6 +16017,41 @@ d'appel*]
 
 	  - Code de l'urbanisme - art. L211-13 (Ab)
 	  - Code de l'urbanisme R123-36 AL. 3
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+#### Servitudes d'utilité publique affectant l'utilisation du sol
+
+###### Article R*126-1
+
+Doivent figurer en annexe au plan d'occupation des sols les servitudes d'utilité publique affectant l'utilisation du sol et
+appartenant aux catégories figurant sur la liste annexée au présent chapitre [*publicité*].
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R332-13 (M)
+	  - Code de l'environnement - art. R555-29 (M)
+	  - Code de l'urbanisme - art. A126-1 (V)
+	  - Code de l'urbanisme - art. R*710-1 (Ab)
+	  - Code de la défense. - art. R5112-2 (M)
+	  - Code de la santé publique - art. R1321-13-2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*126-3
+
+La direction des services fiscaux reçoit communication, à l'initiative du préfet, de l'annexe du plan d'occupation des sols
+consacrée aux servitudes d'utilité publique affectant l'utilisation du sol [*publicité*].
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
@@ -18216,6 +18269,351 @@ demandes de communication peuvent être adressées aux maires des communes inté
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+## Liste des servitudes d'utilité publique affectant l'utilisation du sol
+
+### Servitudes relatives à la conservation du patrimoine
+
+###### Article I
+
+A. - Patrimoine naturel.
+
+a) Forêts.
+
+Servitudes de protection des forêts soumises au régime forestier et instituées en application des articles 98 à 103 du code
+forestier.
+
+Servitudes relatives aux forêts dites de protection instituées en application des articles 187 à 189 du code forestier.
+
+Prescriptions et interdictions auxquelles sont soumis les propriétaires en application des articles 199, 200, 205, 220 et 221
+du code forestier.
+
+b) Littoral maritime.
+
+Réserves de terrains créées en application de l'article 4 de la loi n° 63-1178 du 28 novembre 1963.
+
+Servitude de passage sur le littoral instituée en application de l'article L. 160-6 du code de l'urbanisme.
+
+c) Eaux.
+
+Servitudes attachées aux conditions de flottage à bûches perdues sur les cours d'eau non domaniaux instituées en application
+des articles 30 à 32 de la loi du 8 avril 1898 sur le régime des eaux.
+
+Servitudes prévues aux articles 100 et 101 du code rural ainsi que celles prévues par le décret n° 59-96 du 7 janvier 1959
+relatif au passage des engins mécaniques d'entretien sur les berges et dans le lit des cours d'eau non domaniaux.
+
+Servitudes attachées à la protection des eaux potables instituées en vertu de l'article L. 20 du code de la santé publique et
+du décret n° 61-859 du 1er août 1961, modifié par le décret n° 67-1093 du 15 décembre 1967, pris pour son application.
+
+Servitudes attachées à la protection des eaux minérales instituées en application des articles L. 736 et suivants du code de
+la santé publique.
+
+d) Réserves naturelles et parcs nationaux.
+
+Réserves naturelles instituées par l'autorité administrative en application de l'article 8 bis de la loi du 2 mai 1930 sur
+les sites ou du chapitre III de la loi n° 76-629 du 10 juillet 1976.
+
+Zones de protection des réserves naturelles en application de l'article 27 de la loi n° 76-629 du 10 juillet 1976.
+
+Parcs nationaux créés en application de la loi n° 60-708 du 22 juillet 1960.
+
+B. - Patrimoine culturel.
+
+a) Monuments historiques.
+
+Mesures de classement et d'inscription prises en application des articles 1er à 5 de la loi du 31 décembre 1913 modifiée sur
+les monuments historiques avec l'indication de leur étendue.
+
+Périmètres de protection éventuellement délimités par décrets en Conseil d'Etat en application de l'article 1er (alinéas 2 et
+3) de la loi du 31 décembre 1913, autour des monuments historiques classés ou inscrits.
+
+Zones de protection des monuments historiques créées en application de l'article 28 de la loi du 2 mai 1930 modifiée.
+
+Périmètres de protection des monuments historiques classés ou inscrits et portés sur la liste visée ci-dessus, tels qu'ils
+résultent des dispositions combinées des articles 1er et 13 bis de la loi du 31 décembre 1913.
+
+b) Monuments naturels et sites.
+
+Sites inscrits ;
+
+Sites classés ;
+
+Zones de protection des sites créées en application de l'article 17 de la loi du 2 mai 1930 modifiée.
+
+C. - Patrimoine sportif.
+
+Terrains de sport dont le changement d'affectation est soumis à autorisation du ministre chargé des sports en application des
+dispositions de la loi du 26 mai 1941, modifiée par la loi n. 75-988 du 29 octobre 1975.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 100
+	  - Code rural 101
+	  - Décret n°59-96 1959-01-07
+	  - Décret n°61-859 1961-08-01
+	  - Loi n°63-1178 du 28 novembre 1963 - art. 4, v. init.
+	  - Décret n°67-1093 1967-12-15
+	  - Code forestier 187, 188, 189
+	  - Code de la santé publique - art. L20 (M)
+	  - Code de la santé publique L736 et suivants
+	  - Code de l'urbanisme - art. L160-6 (M)
+	  - Loi n°1898-04-06 ART. 30, 31, 32
+	  - Loi n°1913-12-31 ART. 1, 2, 3, 4, 5, 13 bis
+	  - Loi n°1930-05-02 ART. 8 bis, ART. 28, ART. 17
+	  - Loi n°1941-05-26
+	  - Loi n°60-708 1960-07-22
+	  - Loi n°75-988 1975-10-29
+	  - Loi n°76-629 du 10 juillet 1976 - art. 27 (M)
+
+	**Créé par**:
+
+	  - Décret n°77-861 1977-07-26 ART. 1 JORF 29 JUILLET 1977
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+### Servitudes relatives à l'utilisation de certaines ressources et équipements
+
+###### Article II
+
+A. - Energie.
+
+a) Electricité et gaz.
+
+Périmètres à l'intérieur desquels ont été instituées des servitudes en application :
+
+De l'article 12 modifié de la loi du 15 juin 1906 ;
+
+De l'article 298 de la loi de finances du 13 juillet 1925 ;
+
+De l'article 35 de la loi n° 46-628 du 8 avril 1946 modifiée ;
+
+De l'article 25 du décret n° 64-481 du 23 janvier 1964.
+
+Périmètres de protection institués en application de l'article 7 de l'ordonnance n° 58-1132 du 25 novembre 1958 relative au
+stockage souterrain de gaz.
+
+b) Energie hydraulique.
+
+Périmètres auxquels s'applique la servitude de submersion et d'occupation temporaire instituée par l'article 4 de la loi du
+16 octobre 1919.
+
+c) Hydrocarbures.
+
+Servitudes relatives à la construction et à l'exploitation de pipe-lines d'intérêt général instituées en application de
+l'article 11 de la loi n° 58-336 du 29 mars 1958 et du décret n° 59-645 du 16 mai 1959 pris pour l'application dudit article
+11.
+
+Servitudes relatives aux périmètres de protection instituées en application de l'article 6 de l'ordonnance n° 58-1332 du 23
+décembre 1958 relative aux stockages souterrains d'hydrocarbures liquides ou liquéfiés, modifiée par la loi de finances
+rectificative pour 1972 (n° 72-1147 du 23 décembre 1972).
+
+//DECR. 542 du 13 mai 1981 :
+
+d) Chaleur : servitudes relatives aux canalisations de transport et de distribution de chaleur instituées en application de
+la loi n° 80-531 du 15 juillet 1980 relative aux économies d'énergie et à l'utilisation de la chaleur.//
+
+B. - Mines et carrières.
+
+Périmètres à l'intérieur desquels sont applicables les dispositions des articles 71 à 73 du code minier.
+
+C. - Canalisations.
+
+a) Produits chimiques.
+
+Zones auxquelles s'appliquent les servitudes attachées à la construction et à l'exploitation de canalisations de transport de
+produits chimiques, instituées en application de la loi n° 65-498 du 29 juin 1965.
+
+b) Eaux et assainissement.
+
+Zones où ont été instituées, en application de la loi n° 62-904 du 4 août 1962 et du décret n° 64-158 du 15 février 1964, les
+servitudes attachées aux canalisations publiques d'eau et d'assainissement.
+
+Servitudes attachées à l'établissement des canalisations souterraines d'irrigation instituées en application des articles
+128-7 et 128-9 du code rural.
+
+Servitudes de passage des engins mécaniques d'entretien et de dépôt des produits de curage et faucardement attachées aux
+canaux d'irrigation et émissaires d'assainissement instituées en application des articles 128-6 et 138-1 du code rural.
+
+Servitudes d'écoulement des eaux nuisibles attachées aux travaux d'assainissement des terres par le drainage instituées en
+application des articles 135 à 138 du code rural.
+
+D. - Communications.
+
+a) Cours d'eau.
+
+Servitudes de halage et de marchepied instituées par les articles 15, 16 et 28 du code du domaine public fluvial et de la
+navigation intérieure et par l'article 424 du code rural.
+
+b) Navigation maritime.
+
+Champs de vue auxquels s'appliquent les servitudes instituées par :
+
+La loi du 18 juillet 1895 concernant la détermination et la conservation des postes électro-sémaphoriques, modifiée par la
+loi du 27 mai 1933 ;
+
+La loi n° 57-262 du 2 mars 1957 étendant aux amers et aux phares les dispositions de la loi du 18 juillet 1895 modifiée.
+
+c) Voies ferrées et aérotrains.
+
+Zones auxquelles s'appliquent les servitudes instituées par :
+
+La loi du 15 juillet 1845 sur la police des chemins de fer ;
+
+L'article 6 du décret du 30 octobre 1935 modifié portant création de servitudes de visibilité sur les voies publiques ;
+
+La loi n° 66-1066 du 31 décembre 1966 établissant des servitudes au profit des lignes de transport public par véhicules
+guidés sur coussins d'air (aérotrains) ;
+
+d) Réseau routier.
+
+Servitudes instituées en application de l'article 3 du décret du 30 octobre 1935 portant création de servitudes de visibilité
+sur les voies publiques.
+
+Servitudes grevant les terrains nécessaires aux routes nationales et aux autoroutes instituées en application de l'ordonnance
+n° 58-1311 du 23 décembre 1958 et du décret n° 58-1316 du 23 décembre 1958.
+
+Servitudes attachées à l'alignement des voies nationales, départementales ou communales.
+
+e) Circulation aérienne.
+
+Servitudes aéronautiques de dégagement et de balisage instituées en application des articles L. 281-1 et R. 241-1 à R. 243-3
+du code de l'aviation civile.
+
+Servitudes grevant les terrains nécessaires aux besoins de la navigation aérienne instituées en application de l'article R.
+245-1 du code de l'aviation civile.
+
+Servitudes établies à l'extérieur des zones de dégagement en application des articles R. 244-1 et D. 244-1 à D. 244-4 du code
+de l'aviation civile.
+
+f) Téléfériques et pistes de ski.
+
+Zones auxquelles s'applique la servitude de survol instituée par la loi du 8 juillet 1941.
+
+Servitudes liées à l'établissement des pistes de ski et instituées dans les stations classées de sports d'hiver et
+d'alpinisme en application de l'article L. 144-1 du code des communes et du titre III du décret n° 68-1031 du 14 novembre
+1968.
+
+E. - Télécommunications.
+
+Servitudes de protection des centres radio-électriques d'émission et de réception contre les obstacles instituées en
+application des articles L. 54 à L. 56 et R. 21 à R. 26 du code des postes et télécommunications.
+
+Servitudes de protection des centres de réception radio-électriques contre les perturbations électromagnétiques instituées en
+application des articles L. 57 à L. 62 et R. 27 à R. 39 du code des postes et télécommunications.
+
+Servitudes attachées aux réseaux de télécommunications instituées en application de l'article L. 48 (alinéa 2) du code des
+postes et télécommunications.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L48 AL. 2
+	  - Code des postes et télécommunications L54, L55, L56
+	  - Code des postes et télécommunications L57 à L62
+	  - Code des postes et télécommunications R21 à R26
+	  - Code des postes et télécommunications R27 à R39
+	  - Code du domaine public fluvial 15, 16, 28
+	  - Code rural 128-6, 128-7, 128-9
+	  - Code rural 135, 136, 137, 138, 424
+	  - Code rural 138-1
+	  - Décret n°1935-10-30 ART. 6, ART. 5
+	  - Décret n°1950-07-08
+	  - Décret n°64-158 1964-02-15
+	  - Décret n°64-481 1964-01-23 ART. 25
+	  - Loi n°1845-07-15
+	  - Loi n°1895-07-18
+	  - Loi n°1919-10-16 ART. 4
+	  - Loi n°1925-07-13 ART. 298
+	  - Loi n°1933-05-27
+	  - Loi n°1941-07-08
+	  - Loi n°1966-06-15 ART. 12
+	  - Loi n°46-628 1946-04-08 ART. 35
+	  - Loi n°49-1060 1949-08-02
+	  - Loi n°51-712 1951-06-07
+	  - Loi n°57-262 1957-03-02
+	  - Loi n°58-336 du 29 mars 1958 - art. 11 (M)
+	  - Ordonnance n°58-1132 du 25 novembre 1958 - art. 7 (Ab)
+	  - Ordonnance 58-1311 1958-12-23
+	  - Décret n°58-1316 1958-12-23
+	  - Ordonnance n°58-1332 du 23 décembre 1958 - art. 6 (Ab)
+	  - Décret n°59-645 1959-05-16
+	  - Loi n°62-904 1962-08-04
+	  - Décret n°63-82 1963-02-04
+	  - Loi n°65-498 1965-06-29
+	  - Loi n°66-1066 1966-12-31
+	  - Décret n°68-1031 1968-11-14 TITRE III
+	  - Loi n°72-1147 1972-12-23 finances rectificatives
+	  - CODE DES COMMUNES. - art. L144-1 (Ab)
+	  - Code minier 71, 72, 73
+	  - Code de l'aviation civile - art. D244-1 (V)
+	  - Code de l'aviation civile - art. D244-2 (V)
+	  - Code de l'aviation civile - art. D244-3 (V)
+	  - Code de l'aviation civile - art. D244-4 (V)
+	  - Code de l'aviation civile - art. L281-1 (M)
+	  - Code de l'aviation civile - art. R241-1 (V)
+	  - Code de l'aviation civile - art. R241-2 (M)
+	  - Code de l'aviation civile - art. R243-3 (V)
+	  - Code de l'aviation civile - art. R244-1 (M)
+	  - Code de l'aviation civile - art. R245-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°77-861 1977-07-26 ART. 1 JORF 29 JUILLET 1977
+
+	**Modifié par**:
+
+	  - Décret n°81-542 1981-05-13 ART. 40 JORF 15 MAI 1981
+
+
+### Servitudes relatives à la Défense Nationale
+
+###### Article III
+
+Servitudes attachées à la sécurité de la navigation et à la défense des côtes instituées en application de la loi du 11
+juillet 1933.
+
+Zones et polygones d'isolement créés en application de la loi du 8 août 1929 concernant les servitudes autour des magasins et
+établissements servant à la conservation, à la manipulation ou à la fabrication des poudres, munitions, artifices ou
+explosifs.
+
+Servitudes concernant l'établissement de terrains d'atterrissage destinés en partie ou en totalité à l'armée de l'air
+instituées en application du décret du 30 octobre 1935.
+
+Servitudes relatives aux fortifications, places fortes, postes et ouvrages militaires instituées en application des lois du 8
+juillet 1791, 17 juillet 1819 et 10 juillet 1851.
+
+Servitudes aux abords des champs de tir créées en application de l'article 25 de la loi du 13 juillet 1927.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°1935-10-30
+	  - Loi n°1791-07-08
+	  - Loi n°1819-07-07
+	  - Loi n°1851-07-10
+	  - Loi n°1927-07-13 ART. 25
+	  - Loi n°1929-08-08
+	  - Loi n°1933-07-11
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°77-861 1977-07-26 ART. 1 JORF 29 JUILLET 1977
 
 
 ## Espaces boisés
@@ -23795,6 +24193,45 @@ l'unité d'urbanisme et d'architecture dans la zone peuvent être modifiées, su
 
 #### Chapitre I : Sociétés d'économie mixte et établissements publics
 
+#####  Section 1 : Opérations d'aménagement
+
+###### Article R*321-1
+
+Les opérations mentionnées au premier alinéa de l'article L. 321-1 peuvent être confiées à des sociétés d'économie mixte dont
+le capital social est détenu, à concurrence de plus de 50 % sans pouvoir excéder 65 %, par des collectivités territoriales et
+des groupements de ces collectivités. Les statuts de ces sociétés comportent des clauses types fixées par décret en Conseil
+d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2001-1234 du 20 décembre 2001 - art. 4-1 (V)
+	  - Décret n°2006-1141 du 13 septembre 2006 - art. 14 (VT)
+	  - Décret n°2006-1142 du 13 septembre 2006 - art. 14 (VT)
+	  - Décret n°2006-1143 du 13 septembre 2006 - art. 14 (VT)
+	  - Décret n°2009-636 du 8 juin 2009 - art. 14 (VD)
+	  - Décret n°2015-977 du 31 juillet 2015 - art. 2 (V)
+	  - Décret n°2015-982 du 31 juillet 2015 - art. 2 (V)
+	  - Décret n°2015-989 du 31 juillet 2015 - art. 2 (V)
+	  - Décret n°2016-1838 du 22 décembre 2016 - art. 2 (V)
+	  - Décret n°2016-1915 du 27 décembre 2016 - art. 2 (V)
+	  - Code de l'urbanisme - art. R*318-1 (V)
+	  - Code de l'urbanisme - art. R*730-1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L321-1 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme R321-13
+
+
 #####  Section 2 : Modalités de constitution et de fonctionnement des établissements publics et des sociétés d'économie mixte
 
 ##### Paragraphe 1 : Etablissements publics
@@ -23824,117 +24261,19 @@ Ils sont dotés de la personnalité morale et de l'autonomie financière.
 	  - Code de l'urbanisme L321-1, R321-1
 
 
-###### Article R*321-3
-
-Ces établissements sont créés par décret en Conseil d'Etat pris sur le rapport du ministre chargé de l'urbanisme, du ministre
-de l'intérieur et du ministre de l'économie et des finances, après avis du ou des conseils généraux intéressés et après
-consultation de conseils municipaux intéressés.
-
-Toutefois lorsque leur zone d'activité territoriale s'étend sur plus de 100 communes, ces établissements sont créés par
-décret en conseil des ministres pris sur le rapport des ministres désignés à l'alinéa précédent, après consultation des
-conseils généraux intéressés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1959-05-19 ART. 2
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Cité par**:
-
-	  - Décret n°68-376 du 26 avril 1968 - art. 9 (V)
-	  - Décret n°72-770 du 17 août 1972 - art. 8 (V)
-	  - Décret n°73-250 du 7 mars 1973 - art. 8 (V)
-	  - Décret n°90-1154 du 19 décembre 1990 - art. 10 (V)
-	  - Décret n°96-325 du 10 avril 1996 - art. 8 (V)
-	  - Décret n°2001-1234 du 20 décembre 2001 - art. 8 (V)
-	  - Décret n°2006-1140 du 13 septembre 2006 - art. 10 (V)
-	  - Décret n°2007-88 du 24 janvier 2007 - art. 8 (V)
-	  - Décret n°2008-645 du 30 juin 2008 - art. 9 (V)
-	  - Décret n°2008-670 du 2 juillet 2008 - art. 9 (V)
-	  - Décret n°2008-773 du 30 juillet 2008 - art. 8 (V)
-	  - Décret n°2009-636 du 8 juin 2009 - art. 10 (V)
-	  - Décret n°2010-306 du 22 mars 2010 - art. 8 (V)
-	  - Décret n°2010-503 du 18 mai 2010 - art. 8 (V)
-	  - Décret n°2012-327  du 6 mars 2012 - art. 8 (V)
-	  - Décret n°2012-764 du 9 mai 2012 - art. 9 (V)
-	  - Décret n°2015-980 du 31 juillet 2015 - art. 7 (VD)
-	  - Décret n°2016-1865 du 23 décembre 2016 - art. 8 (VD)
-	  - Décret n°2017-341 du 15 mars 2017 - art. 8 (V)
-
-
-###### Article R*321-4
-
-Le décret qui crée l'établissement détermine son objet, sa zone d'activité territoriale et, éventuellement, sa durée. Il fixe
-son statut, notamment en ce qui concerne la composition du conseil d'administration, la désignation du président, celle du
-directeur, les pouvoirs du conseil d'administration, du président et du directeur et, le cas échéant, les conditions de
-représentation à l'assemblée prévue à l'article R. 321-5 des collectivités et établissements publics intéressés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1959-05-19 ART. 3
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Cité par**:
-
-	  - Décret n°68-376 du 26 avril 1968 - art. 5 (V)
-	  - Décret n°72-27 du 10 janvier 1972 - art. 5 (V)
-	  - Décret n°72-770 du 17 août 1972 - art. 5 (V)
-	  - Décret n°73-250 du 7 mars 1973 - art. 5 (V)
-	  - Décret n°90-1154 du 19 décembre 1990 - art. 6 (V)
-	  - Décret n°95-1102 du 13 octobre 1995 - art. 5 (V)
-	  - Décret n°98-923 du 14 octobre 1998 - art. 7 (V)
-	  - Décret n°2001-1234 du 20 décembre 2001 - art. 5 (V)
-	  - Décret n°2006-1140 du 13 septembre 2006 - art. 6 (V)
-	  - Décret n°2007-88 du 24 janvier 2007 - art. 5 (V)
-	  - Décret n°2008-645 du 30 juin 2008 - art. 5 (V)
-	  - Décret n°2008-670 du 2 juillet 2008 - art. 5 (V)
-	  - Décret n°2008-773 du 30 juillet 2008 - art. 5 (V)
-	  - Décret n°2009-636 du 8 juin 2009 - art. 6 (V)
-	  - Décret n°2010-306 du 22 mars 2010 - art. 5 (V)
-	  - Décret n°2010-503 du 18 mai 2010 - art. 4 (V)
-	  - Décret n°2012-327  du 6 mars 2012 - art. 5 (VD)
-	  - Décret n°2012-764 du 9 mai 2012 - art. 5 (VD)
-	  - Décret n°2015-980 du 31 juillet 2015 - art. 4 (VD)
-	  - Décret n°2016-1865 du 23 décembre 2016 - art. 5 (VD)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R321-5
-
-
 ###### Article R*321-5
 
-Lorsque, en raison de leur nombre, les collectivités locales et, le cas échéant, les établissements publics intéressés aux
-opérations et travaux entrant dans l'objet de l'établissement ne peuvent être tous représentés directement au conseil
-d'administration, ceux d'entre eux qui ne le sont pas sont groupés en une assemblée spéciale.
+Faute par l'assemblée spéciale instituée en application de l'article L. 321-5 d'avoir élu ses représentants au conseil
+d'administration de l'établissement, il est procédé à cette désignation par le préfet.
 
-Cette assemblée se réunit au moins une fois par an dans les conditions fixées par le statut. Elle peut être convoquée en
-séance extraordinaire soit par le président du conseil d'administration, soit à la demande d'un tiers des membres de
+L'assemblée spéciale est réunie au moins une fois par an dans des conditions fixées par le statut. Elle peut être convoquée
+en séance extraordinaire soit par le président du conseil d'administration, soit à la demande d'un tiers des membres de
 l'assemblée.
 
-Elle entend le compte-rendu de l'activité du conseil d'administration. Elle donne son avis sur les prévisions budgétaires,
-sur les comptes et sur l'orientation générale de l'activité de l'établissement. Elle élit des représentants au conseil
-d'administration [*attributions*].
+Elle entend le compte-rendu de l'activité du conseil d'administration. Elle donne son avis notamment sur les prévisions
+budgétaires, les comptes et l'orientation générale de l'activité de l'établissement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1959-05-19 ART. 4
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 	**Cité par**:
 
@@ -23959,6 +24298,14 @@ d'administration [*attributions*].
 	  - Décret n°2015-980 du 31 juillet 2015 - art. 5 (V)
 	  - Décret n°2016-1865 du 23 décembre 2016 - art. 6 (VD)
 	  - Décret n°2017-341 du 15 mars 2017 - art. 6 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L321-5 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*321-6
@@ -23990,6 +24337,28 @@ pour ces entreprises. Ils ne peuvent, en aucun cas, prêter leur concours, à ti
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*321-6-1
+
+Le statut des personnels de ceux des établissements publics, créés en application du premier alinéa de l'article L. 321-1,
+qui sont chargés de l'aménagement d'une agglomération nouvelle, est fixé par arrêté conjoint du ministre chargé de
+l'urbanisme, du ministre de l'économie et des finances et du ministre de l'intérieur pris après avis des conseils
+d'administration des établissements publics intéressés et consultation des organisations syndicales les plus représentatives.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1900 du 20 décembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L321-1
 
 
 ###### Article R*321-7
@@ -24174,53 +24543,17 @@ Cette approbation est donnée après avis du ou des directeurs départementaux d
 	  - Décret n°73-1023 1973-11-08
 
 
-###### Article R*321-12
-
-Dans le cas prévu au deuxième alinéa de l'article R. 321-3 [*zone d'activité territoriale s'étendant sur plus de 100
-communes*] il peut être dérogé aux dispositions relatives à la nomination de l'agent comptable, au contrôle exercé sur
-l'établissement public, à la constitution de l'assemblée spéciale et à la désignation des représentants des collectivités
-locales au conseil d'administration, qui devront être choisis par des assemblées ou des élus de ces collectivités suivant les
-modalités fixées par le décret créant l'établissement.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°72-770 du 17 août 1972 - art. 10 (V)
-	  - Décret n°96-325 du 10 avril 1996 - art. 10 (V)
-	  - Décret n°2006-1140 du 13 septembre 2006 - art. 13 (V)
-	  - Décret n°2007-88 du 24 janvier 2007 - art. 10 (V)
-	  - Décret n°2008-773 du 30 juillet 2008 - art. 10 (V)
-	  - Décret n°2010-306 du 22 mars 2010 - art. 10 (V)
-	  - Décret n°2012-327  du 6 mars 2012 - art. 10 (V)
-	  - Code de l'urbanisme - art. R*321-1 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R321-3
-
-	**Anciens textes**:
-
-	  - Décret  1959-05-19 ART. 10 BIS
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ##### Paragraphe 2 : Sociétés d'économie mixte
 
 ###### Article R*321-13
 
-Les opérations visées aux articles L. 321-1 et R. 321-1 [*agglomérations nouvelles, zone d'habitation, zone industrielle*]
-peuvent être concédées par les communes, par les syndicats de communes, par les districts, par les syndicats mixtes, par les
-départements et par l'Etat à des sociétés d'économie mixte remplissant les conditions prévues à l'article R. 321-17.
+Les sociétés d'économie mixte remplissant les conditions prévues à l'article R. 321-17 peuvent se voir concéder, par les
+communes, les groupements de communes, les syndicats mixtes, les départements et l'Etat, la réalisation d'une zone
+d'aménagement concerté ou se voir confier, par voie de concession ou de convention, la réalisation des autres opérations
+d'aménagement mentionnées au premier alinéa de l'article L. 321-1 [*agglomérations nouvelles, lotissement, rénovation
+urbaine, habitat insalubre, restauration immobilière*].
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1959-05-19 ART. 11
 
 	**Codifié par**:
 
@@ -24246,64 +24579,47 @@ départements et par l'Etat à des sociétés d'économie mixte remplissant les 
 	  - Décret n°2016-1865 du 23 décembre 2016 - art. 3 (V)
 	  - Décret n°2017-341 du 15 mars 2017 - art. 3 (VD)
 
+	**Abrogé par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 53 () JORF 16 mars 1986 en vigueur le 1er juillet 1986
+
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L321-1 (M)
-	  - Code de l'urbanisme R321-1
+	  - Code de l'urbanisme R321-17
 
 
 ###### Article R*321-14
 
-Lorsque la concession est accordée par une commune, un syndicat de communes, un district ou un syndicat mixte, le traité de
-concession est approuvé :
+Le traité de concession conclu par la commune, par un établissement public groupant plusieurs communes et ayant compétence en
+matière d'urbanisme, ou par un syndicat mixte, est exécutoire dans les conditions définies à l'article L. 121-31 du code des
+communes lorsqu'il est conforme à un cahier des charges type approuvé par décret en Conseil d'Etat. S'il n'est pas conforme,
+il est soumis à l'approbation du préfet.
 
-Par arrêté du préfet lorsque le cahier des charges est conforme à un cahier des charges type approuvé par décret en Conseil
-d'Etat pris sur le rapport du ministre chargé de l'urbanisme, du ministre de l'intérieur et du ministre de l'économie et des
-finances ;
+Lorsque l'opération d'aménagement est confiée à une personne publique ou privée selon les stipulations d'une convention,
+cette convention est approuvée :
 
-Par arrêté conjoint des mêmes ministres dans le cas contraire.
+Soit par le préfet, si elle est conforme à une convention type approuvée par décret en Conseil d'Etat ;
+
+Soit, dans le cas contraire, par arrêté conjoint du ministre chargé de l'urbanisme et du ministre de l'intérieur.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Décret  1959-05-19 ART. 12
+	  - Décret n°86-517 du 14 mars 1986 - art. 53 () JORF 16 mars 1986 en vigueur le 1er juillet 1986
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L121-31 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme R311-20
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*321-15
-
-Lorsque la concession est accordée par un département, la délibération du conseil général approuvant le traité est :
-
-Exécutoire lorsque le cahier des charges est conforme à un cahier des charges type approuvé par décret en Conseil d'Etat pris
-sur le rapport du ministre chargé de l'urbanisme, du ministre de l'intérieur et du ministre de l'économie et des finances.
-
-Approuvée par arrêté conjoint des mêmes ministres dans le cas contraire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1959-05-19 ART. 13
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Cité par**:
-
-	  - Décret n°68-376 du 26 avril 1968 - art. 3 (V)
-	  - Décret n°73-250 du 7 mars 1973 - art. 3 (V)
-	  - Décret n°90-1154 du 19 décembre 1990 - art. 3 (V)
-	  - Décret n°2001-1234 du 20 décembre 2001 - art. 3 (V)
-	  - Décret n°2008-645 du 30 juin 2008 - art. 3 (V)
-	  - Décret n°2008-670 du 2 juillet 2008 - art. 3 (V)
-	  - Décret n°2009-636 du 8 juin 2009 - art. 3 (V)
-	  - Décret n°2010-503 du 18 mai 2010 - art. 3 (V)
-	  - Décret n°2012-764 du 9 mai 2012 - art. 3 (V)
 
 
 ###### Article R*321-16
@@ -26164,6 +26480,28 @@ l'urbanisme.
 
 
 #### CHAPITRE V : Aide à la création et à l'aménagement d'espaces verts.
+
+###### Article R335-1
+
+Des subventions de l'Etat, pour la création ou l'aménagement d'espaces verts tels que promenades, parcs ou jardins
+accessibles au public, peuvent être accordées aux départements, aux communes, aux établissements publics groupant plusieurs
+communes et ayant compétence en matière d'urbanisme, aux syndicats mixtes ou à leurs concessionnaires habilités à cet effet,
+ainsi qu'aux ports autonomes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°93-614 du 26 mars 1993 - art. 18 (V) JORF 28 mars 1993
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. R333-1 (M)
+
 
 ###### Article R335-2
 
@@ -29637,53 +29975,6 @@ Les décisions sont prises par arrêté préfectoral [*autorité compétente*].
 
 ### Organismes d'exécution
 
-#### Sociétés d'économie mixte et établissements publics
-
-##### Aménagement d'agglomérations nouvelles de zones d'habitation ou de zones industrielles.
-
-###### Article R*321-1
-
-L'aménagement d'agglomérations nouvelles et de zones d'habitation ou de zones industrielles peut être réalisé par des
-établissements publics ou concédé à des sociétés d'économie mixte dont plus de 50 p. 100 du capital est détenu par des
-personnes morales de droit public et dont les statuts comportent des clauses types fixées par décret en Conseil d'Etat.
-
-Un décret en Conseil d'Etat pris sur le rapport du ministre chargé de l'urbanise, du ministre de l'économie et des finances
-et du ministres de l'intérieur détermine les modalités de constitution et les règles de fonctionnement des organismes
-mentionnés à l'alinéa précédent. Il fixe les conditions dans lesquelles lesdits organismes peuvent recevoir délégation des
-ministres, des collectivités territoriales et des établissements publics intéressés pour exécuter les opérations et travaux
-relevant de leurs compétences respectives ainsi que les règles d'approbation des traités de concession par l'autorité
-supérieure.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme R318-1
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Cité par**:
-
-	  - Décret n°2001-1234 du 20 décembre 2001 - art. 4-1 (V)
-	  - Décret n°2006-1141 du 13 septembre 2006 - art. 14 (VT)
-	  - Décret n°2006-1142 du 13 septembre 2006 - art. 14 (VT)
-	  - Décret n°2006-1143 du 13 septembre 2006 - art. 14 (VT)
-	  - Décret n°2009-636 du 8 juin 2009 - art. 14 (VD)
-	  - Décret n°2015-977 du 31 juillet 2015 - art. 2 (V)
-	  - Décret n°2015-982 du 31 juillet 2015 - art. 2 (V)
-	  - Décret n°2015-989 du 31 juillet 2015 - art. 2 (V)
-	  - Décret n°2016-1838 du 22 décembre 2016 - art. 2 (V)
-	  - Décret n°2016-1915 du 27 décembre 2016 - art. 2 (V)
-	  - Code de l'urbanisme - art. R*318-1 (V)
-	  - Code de l'urbanisme - art. R*730-1 (Ab)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 78-1
-
-
 #### Associations foncières urbaines
 
 ##### Dispositions concernant les associations foncières urbaines de remembrement
@@ -31147,26 +31438,6 @@ R. 333-24 et R. 333-25.
 	**Cite**:
 
 	  - Code de l'urbanisme R333-24
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-#### Aide à la création et à l'aménagement d'espaces verts.
-
-###### Article R335-1
-
-Des subventions de l'Etat peuvent être accordées aux départements, communes, syndicats de communes, districts, syndicats
-mixtes ou à leurs concessionnaires habilités à cet effet, pour la création ou l'aménagement d'espaces verts tels que
-promenades, parcs ou jardins accessibles au public.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-658 1966-09-01 ART. 1
-	  - Code de l'urbanisme - art. R333-1 (M)
 
 	**Codifié par**:
 
@@ -36255,6 +36526,42 @@ juillet 1960, soit à l'intérieur d'une réserve naturelle soumise aux disposit
 
 #### Certificat de conformité
 
+###### Article R*460-3-1
+
+Le certificat de conformité n'est pas exigé pour les travaux n'entraînant la création d'aucune surface hors oeuvre brute et
+qui ne sont pas soumis :
+
+a) Aux dispositions de la loi du 31 décembre 1913 sur les monuments historiques, de la loi du 2 mai 1930 sur la protection
+des monuments naturels et des sites ou de l'article L. 313-2 relatif aux secteurs sauvegardés ;
+
+b) Aux dispositions soit du décret n. 67-1063 du 15 novembre 1967 modifié et des articles R. 421-47 à R. 421-51 relatifs aux
+immeubles de grande hauteur, soit du décret n. 73-1007 du 31 octobre 1973 relatifs aux établissements recevant du public ;
+
+c) Aux dispositions soit des articles 1er et 2 de la loi n. 60-708 du 22 juillet 1960 relative à la création de parcs
+nationaux, soit du chapitre III de la loi n. 76-629 du 10 juillet 1976 relative à la protection de la nature.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°60-708 1960-07-22 ART. 1 ET 2
+	  - Décret n°67-1063 1967-11-15
+	  - Code de l'urbanisme - art. L313-2 (M)
+	  - Code de l'urbanisme - art. R421-47 (M)
+	  - Code de l'urbanisme - art. R421-48 (M)
+	  - Code de l'urbanisme - art. R421-49 (M)
+	  - Code de l'urbanisme - art. R421-50 (M)
+	  - Code de l'urbanisme - art. R421-51 (MMN)
+	  - Décret n°73-1007 1973-10-31
+	  - Loi n°1913-12-31
+	  - Loi n°1930-05-02
+	  - Loi n°76-629 1976-07-10 CHAPITRE III
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ###### Article R460-4
 
 Si les travaux ont été réalisés dans des conditions régulières au regard des dispositions du premier alinéa de l'article
@@ -38409,105 +38716,50 @@ d'aménagement différé.
 
 #### CHAPITRE I : Zones d'aménagement concerté
 
-#####  Section 1 : Dispositions générales applicables à l'ensemble des zones
+#####  Section 1 : Création des zones d'aménagement concerté.
 
 ###### Article A311-1
 
-Le préfet reçoit délégation du ministre chargé de l'urbanisme pour la création des zones d'aménagement concerté à usage
-d'habitation, à l'exclusion des zones à urbaniser en priorité et des opérations de rénovation urbaine, lorsque les conditions
-suivantes sont réunies :
+Le préfet de département reçoit délégation du ministre chargé de l'urbanisme pour la création des zones d'aménagement
+concerté, à l'exclusion :
 
-1. L'initiative de la création émane du département, d'une commune ou d'un établissement public y ayant vocation autre qu'un
-établissement public de l'Etat ;
+a) Des zones créées à l'initiative de l'Etat ;
 
-2. La capacité d'accueil de la zone est inférieure à 2.000 logements.
+b) Des zones dont le dossier de création envisage un programme comportant la construction de bâtiments ayant une surface de
+plancher hors oeuvre nette totale supérieure à 300.000 mètres carrés ;
 
-En outre, dans la région de l'Ile-de-France, lorsque la zone d'aménagement concerté considérée est appelée à comporter plus
-de 1.000 logements, la création envisagée a reçu l'accord du préfet de région ;
-
-3. Les prévisions de financement des équipements publics de l'opération font apparaître qu'une subvention de l'Etat au titre
-de l'habitat urbain n'est pas nécessaire ou que, calculée selon les règles fixées par les articles A. 311-11 à A. 311-16, son
-montant reste inférieur au taux fixé par l'article A. 311-18 ;
-
-4. Il n'est pas demandé de subvention exceptionnelle par la collectivité locale ou l'établissement public maître de
-l'ouvrage ;
-
-5. Le préfet de région a donné son accord sur les prévisions de programme d'équipements publics, quand ces équipements sont
-de la nature et de l'importance de ceux dont la programmation relève de sa compétence, et sur la programmation des prêts
-fonciers à moyen terme s'il doit y être fait appel.
+c) Des zones dont le dossier de création envisage un programme comportant indifféremment la construction d'équipements
+d'hébergement banalisé tels que résidences hôtelières, villages de vacances, immeubles en multipropriété ou en
+multijouissance ou d'hébergement privatif tel que l'habitat léger de loisirs, dont l'ensemble développe une surface de
+plancher hors oeuvre nette totale supérieure à 30.000 mètres carrés.
 
 **Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
 
 	**Codifié par**:
 
 	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
-	**Cite**:
-
-	  - Code de l'urbanisme - art. A311-11 (Ab)
-	  - Code de l'urbanisme - art. A311-12 (Ab)
-	  - Code de l'urbanisme - art. A311-13 (Ab)
-	  - Code de l'urbanisme - art. A311-14 (Ab)
-	  - Code de l'urbanisme - art. A311-15 (Ab)
-	  - Code de l'urbanisme - art. A311-16 (Ab)
-	  - Code de l'urbanisme - art. A311-18 (Ab)
-
 	**Cité par**:
 
+	  - Code de l'urbanisme - art. A311-18 (Ab)
 	  - Code de l'urbanisme - art. A311-2 (Ab)
 	  - Code de l'urbanisme - art. A311-4 (Ab)
 
 
 ###### Article A311-2
 
-Le préfet reçoit délégation du ministre chargé de l'urbanisme pour la création des zones d'aménagement concerté à usage
-d'activités industrielles, commerciales, de services ou de bureaux, lorsque les conditions suivantes sont réunies :
-
-1. L'initiative de la création émane du département, d'une commune ou d'un établissement public y ayant vocation autre qu'un
-établissement public de l'Etat ;
-
-2. La création envisagée a reçu l'accord du préfet de région.
+Les dispositions de l'article A. 311-1 ne peuvent être modifiées que par arrêté du ministre chargé de l'urbanisme pris après
+avis du ministre de l'intérieur.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A311-4 (Ab)
-
-
-###### Article A311-3
-
-Le préfet reçoit délégation du ministre chargé de l'urbanisme pour la création des zones d'aménagement concerté à usage de
-tourisme lorsque les conditions suivantes sont réunies :
-
-1. L'initiative de la création émane du département, d'une commune ou d'un établissement public y ayant vocation autre qu'un
-établissement public de l'Etat ;
-
-2. La zone envisagée a reçu l'accord du préfet de région ;
-
-3. La capacité totale d'accueil de la zone est inférieure à 1.000 lits.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A311-4 (Ab)
-
-
-###### Article A311-4
-
-Les dispositions des articles A. 311-1 à A. 311-4 ne peuvent être modifiées que par arrêté du ministre chargé de l'urbanisme
-pris après avis du ministre de l'intérieur.
-
-**Liens relatifs à cet article**
+	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
 
 	**Codifié par**:
 
@@ -38516,8 +38768,9 @@ pris après avis du ministre de l'intérieur.
 	**Cite**:
 
 	  - Code de l'urbanisme - art. A311-1 (M)
-	  - Code de l'urbanisme - art. A311-2 (M)
-	  - Code de l'urbanisme - art. A311-3 (Ab)
+
+	**Cité par**:
+
 	  - Code de l'urbanisme - art. A311-4 (Ab)
 
 
