@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2003-01-04
+Version Consolidée au 2003-01-05
 
 # Partie législative
 
@@ -29800,7 +29800,7 @@ NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 
 ###### Article R*315-5
 
-Le dossier [*contenu*] joint à la demande est constitué des pièces ci-après :
+Le dossier joint à la demande est constitué des pièces ci-après :
 
 a) Une note exposant l'opération, précisant ses objectifs et indiquant les dispositions prévues pour assurer l'insertion dans
 le site, le respect de l'environnement et la qualité de l'architecture et pour répondre aux besoins en équipements publics ou
@@ -29823,7 +29823,8 @@ f) Si des travaux d'équipement internes aux lotissements sont prévus, un progr
 caractéristiques des ouvrages à réaliser et les conditions de leur réalisation, notamment le tracé des voies, l'implantation
 des équipements et leurs modalités de raccordement aux bâtiments dont l'édification est prévue ;
 
-g) Le cas échéant, une copie de l'autorisation de défrichement ;
+g) S'il y a lieu, une copie de la lettre par laquelle l'autorité compétente fait connaître au demandeur que son dossier de
+demande d'autorisation de coupe ou d'abattage et, le cas échéant, d'autorisation de défrichement est complet ;
 
 h) L'étude d'impact définie à l'article 2 du décret n° 77-1141 du 12 octobre 1977, lorsque l'opération est située en dehors
 d'une commune ou partie de commune dotée d'un plan local d'urbanisme rendu public ou approuvé et permet la construction d'une
@@ -29837,12 +29838,12 @@ j) Le cas échéant, une attestation de la garantie à fournir en application de
 
 	**Cite**:
 
-	  - Loi n°76-629 du 10 juillet 1976 - art. 2 (M)
+	  - Décret n°77-1141 du 12 octobre 1977 - art. 2 (M)
 	  - Code de l'urbanisme R315-33
 
 	**Modifié par**:
 
-	  - Décret n°2001-260 du 27 mars 2001 - art. 3 () JORF 28 mars 2001
+	  - Décret n°2003-16 du 2 janvier 2003 - art. 3 () JORF 5 janvier 2003
 
 	**Cité par**:
 
@@ -30085,25 +30086,48 @@ maximale à construire sur l'ensemble du lotissement, nombre de lots projetés, 
 
 Si le dossier est complet, l'autorité compétente pour statuer fait connaître au demandeur, dans les quinze jours de la
 réception de la demande en mairie, par une lettre de notification adressée par pli recommandé avec demande d'avis de
-réception postal[*conditions de forme*], le numéro d'enregistrement de ladite demande et la date avant laquelle, compte tenu
-des délais réglementaires d'instruction, la décision devra lui être notifiée, et la faculté qui lui est ouverte, au cas où la
+réception postal, le numéro d'enregistrement de ladite demande et la date avant laquelle, compte tenu des délais
+réglementaires d'instruction, la décision devra lui être notifiée, et la faculté qui lui est ouverte, au cas où la
 notification ne serait pas intervenue à cette date, de saisir l'autorité compétente, en application de l'article R. 315-21.
-Le délai d'instruction [*point de départ*] part de la date de la décharge ou de l'avis de réception postal prévus à l'article
-R. 315-11.
+Le délai d'instruction part de la date de la décharge ou de l'avis de réception postal prévus à l'article R. 315-11.
+
+Lorsque les travaux projetés nécessitent la coupe ou l'abattage d'arbres dans des bois, forêts ou parcs soumis aux
+dispositions de l'article L. 130-1 du présent code ou des articles L. 311-1 ou L. 312-1 du code forestier, l'autorité
+compétente pour statuer fait connaître au demandeur, dans la lettre de notification mentionnée au premier alinéa, que le
+délai d'instruction de la demande d'autorisation de lotir court jusqu'à l'expiration du délai d'un mois suivant la date de
+l'autorisation de coupe ou d'abattage et, le cas échéant, de l'autorisation de défrichement et que l'autorisation de lotir ne
+pourra lui être délivrée avant l'intervention de ladite autorisation.
+
+L'autorité compétente pour statuer avise en outre le demandeur que, si aucune décision ne lui a été notifiée avant
+l'expiration du délai d'un mois suivant la date de l'autorisation de coupe ou d'abattage et, le cas échéant, de
+l'autorisation de défrichement, la lettre de notification vaudra autorisation de lotir et les travaux pourront être entrepris
+conformément au projet déposé, sous réserve d'un retrait de l'autorisation tacite dans les conditions prévues à l'article 23
+de la loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les administrations.
 
 Toutefois, dans les cas prévus à l'article R. 315-21-1, le demandeur est informé qu'il ne pourra bénéficier d'une
-autorisation tacite [*autorisation expresse*].
+autorisation tacite.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Décret n°84-228 1984-03-29 art. 33, art. 34 : modalités d'application
-	  - SPEC_APPLI: Décret n°84-228 du 29 mars 1984 - art. 33 (M)
+	  - Loi n°2000-321 du 12 avril 2000 - art. 23 (V)
+	  - Code forestier - art. L311-1 (M)
+	  - Code forestier - art. L312-1 (M)
+	  - Code de l'urbanisme - art. L130-1 (M)
+	  - Code de l'urbanisme R315-21, R315-11, L130-1, R315-21-1
 
 	**Modifié par**:
 
-	  - Décret n°84-228 1984-03-29 art. 5, art. 6 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+	  - Décret n°2003-16 du 2 janvier 2003 - art. 3 () JORF 5 janvier 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 	**Cité par**:
 
@@ -41816,15 +41840,25 @@ décision d'agrément est jointe à la demande de permis de construire.
 
 ###### Article R421-3-1
 
-Lorsque les travaux projetés nécessitent la coupe ou l'abattage d'arbres dans des bois, forêts ou parcs soumis aux
-dispositions de l'article L. 130-1 du présent code ou des articles L311-1 ou L312-1 du code forestier, l'autorisation de
-coupe ou d'abattage et, le cas échéant, l'autorisation de défrichement sont jointes à la demande.
+Lorsque les travaux projetés nécessitent la coupe ou l'abattage d'arbres dans les bois, forêts ou parcs soumis aux
+dispositions de l'article L. 130-1 du présent code ou des articles L. 311-1 ou L. 312-1 du code forestier, la demande de
+permis de construire est complétée par la copie de la lettre par laquelle l'autorité compétente fait connaître au demandeur
+que son dossier de demande d'autorisation de coupe ou d'abattage et, le cas échéant, d'autorisation de défrichement est
+complet.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
 	**Modifié par**:
 
-	  - Décret n°83-1261 1983-12-30 ART. 1, ART. 46 JORF 7 JANVIER 1984 date d'entrée en vigueur 1 AVRIL 1984
+	  - Décret n°2003-16 du 2 janvier 2003 - art. 3 () JORF 5 janvier 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 	**Cite**:
 
@@ -41836,10 +41870,6 @@ coupe ou d'abattage et, le cas échéant, l'autorisation de défrichement sont j
 
 	  - Code de l'urbanisme - art. R*422-3 (M)
 	  - Code de l'urbanisme - art. R421-17 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R421-3-2
@@ -42347,12 +42377,22 @@ d'instruction de la demande de permis de construire court jusqu'à l'expiration 
 de l'enquête publique concernant l'installation classée et que le permis de construire ne pourra lui être délivré avant la
 clôture de ladite enquête publique.
 
+Lorsque les travaux projetés nécessitent la coupe ou l'abattage d'arbres dans des bois, forêts ou parcs soumis aux
+dispositions de l'article L. 130-1 du présent code ou des articles L. 311-1 ou L. 312-1 du code forestier, l'autorité
+compétente pour statuer fait connaître au demandeur, dans la lettre de notification mentionnée au premier alinéa, que le
+délai d'instruction de la demande de permis de construire court jusqu'à l'expiration du délai d'un mois suivant la date de
+l'autorisation de coupe ou d'abattage et, le cas échéant, de l'autorisation de défrichement et que le permis de construire ne
+pourra lui être délivré avant l'intervention de ladite autorisation.
+
 L'autorité compétente pour statuer avise en outre le demandeur que si aucune décision ne lui a été adressée avant la date
 mentionnée au premier alinéa ou avant l'expiration d'un délai d'un mois suivant la date de clôture de l'enquête publique
 lorsqu'il s'agit d'une demande de permis de construire concernant une installation classée soumise à autorisation, la lettre
 de notification des délais d'instruction vaudra permis de construire et les travaux pourront être entrepris conformément au
 projet déposé, sous réserve du retrait, dans le délai du recours contentieux, du permis tacite au cas où il serait entaché
-d'illégalité.
+d'illégalité. Dans le cas mentionné au troisième alinéa, le demandeur est avisé selon les mêmes modalités qu'en l'absence de
+décision notifiée avant l'expiration du délai d'un mois suivant la date de l'autorisation de coupe ou d'abattage et, le cas
+échéant, de l'autorisation de défrichement la lettre de notification vaudra permis de construire et les travaux pourront être
+entrepris conformément au projet déposé, sous réserve d'un retrait du permis tacite dans les conditions susmentionnées.
 
 Toutefois, lorsque le projet se trouve dans l'un des cas prévus à l'article R. 421-19, le demandeur est informé qu'il ne
 pourra bénéficier d'un permis tacite.
@@ -42386,16 +42426,20 @@ pourra bénéficier d'un permis tacite.
 
 	**Modifié par**:
 
-	  - Décret n°94-484 du 9 juin 1994 - art. 40 () JORF 12 juin 1994
+	  - Décret n°2003-16 2003-01-02 art. 3 IV, V JORF 5 janvier 2003
+	  - Décret n°2003-16 du 2 janvier 2003 - art. 3 () JORF 5 janvier 2003
+
+	**Cite**:
+
+	  - Code forestier - art. L311-1 (M)
+	  - Code forestier - art. L312-1 (M)
+	  - Code de l'urbanisme - art. L130-1 (M)
+	  - Code de l'urbanisme - art. R421-19 (M)
+	  - Code de l'urbanisme - art. R421-9 (M)
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-19 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R421-19 (M)
-	  - Code de l'urbanisme - art. R421-9 (M)
 
 	**Codifié par**:
 
