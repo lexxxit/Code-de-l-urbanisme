@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1986-03-02
+Version Consolidée au 1986-03-14
 
 # Partie législative
 
@@ -43645,6 +43645,47 @@ propriétaire.
 ### Titre IV : Dispositions relatives aux modes particuliers d'utilisation du sol.
 
 #### CHAPITRE II : Installations et travaux divers
+
+#####  Section 3 : Instruction de la demande
+
+#####  Paragraphe 2 : Dispositions applicables dans les communes où un plan d'occupation des sols a été approuvé.
+
+###### Article R442-4-12
+
+Dans le cas où la commune a délégué sa compétence à un établissement public de coopération intercommunale, le maire fait
+connaître son avis au président de cet établissement. Son avis est réputé favorable s'il n'est pas intervenu dans le mois de
+la réception de la demande[*délai*]. Il doit être dûment motivé s'il est défavorable ou si, favorable, il est assorti d'une
+demande de prescriptions particulières.
+
+La demande d'autorisation d'installations et travaux divers est instruite par le président de l'établissement public de
+coopération intercommunale aux lieu et place du maire, dans les conditions prévues aux articles R. 442-4-10 et R. 442-4-11
+[*autorité compétente*]
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-514 1986-03-14 art. 5 II, III JORF 16 mars 1986
+	  - Décret n°86-514 du 14 mars 1986 - art. 5 () JORF 16 mars 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-514 du 14 mars 1986 - art. 11 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. R*441-6-8 (T)
+	  - Code de l'urbanisme R441-6-8
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R442-4-10 (M)
+	  - Code de l'urbanisme R442-4-10, r442-4-11
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
 
 #####  Section 4 : Décision
 
