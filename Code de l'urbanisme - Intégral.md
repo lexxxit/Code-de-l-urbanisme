@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1976-05-19
+Version Consolidée au 1976-09-28
 
 # Partie législative
 
@@ -15436,31 +15436,48 @@ conditions définies aux articles ci-après//.
 ###### Article R142-10
 
 Lorsque l'aliénation est envisagée sous forme de vente de gré à gré, le préfet notifie [*publicité*] au propriétaire dans le
-délai de deux mois prévu à l'article R. 142-9 :
+délai de deux mois prévu à l'article R. 142-9 (alinéa 4) :
 
 Soit la décision du département de renoncer à l'exercice du droit de préemption ;
 
-Soit sa décision d'acquérir [*terrain*] aux prix et aux conditions proposés ;
+Soit sa décision d'acquérir aux prix et conditions proposés ;
 
-Soit son offre d'acquérir à un prix fixé par lui et, à défaut d'acceptation de cette offre, de faire fixer la valeur de
-l'immeuble par la juridiction compétente en matière d'expropriation.
+Soit son offre d'acquérir à un prix fixé par lui et, à défaut d'acceptation de cette offre, de faire fixer le prix par la
+juridiction compétente en matière d'expropriation.
 
-A compter de la notification de cette offre, le propriétaire dispose d'un délai d'un mois pour faire connaître au préfet :
+Lorsque le terrain est compris dans une zone ou partie de zone définie à l'article R. 142-6 (alinéa 3), et si le département
+a renoncé à l'exercice du droit de préemption, le conservatoire de l'espace littoral et des rivages lacustres notifie au
+propriétaire avant l'expiration d'un délai de trois mois à compter [*point de départ*] de la date du récépissé de la
+déclaration visé à l'article R. 142-9 (alinéa 3) :
 
-Soit qu'il accepte le prix proposé ;
+Soit sa décision de renoncer à l'exercice du droit de préemption ;
 
-Soit qu'il accepte l'intervention de la juridiction compétente en matière d'expropriation ;
+Soit sa décision d'acquérir aux prix et conditions proposés ;
 
-Soit qu'il renonce à l'aliénation.
+Soit son offre d'acquérir à un prix fixé par lui et, à défaut d'acceptation de cette offre, de faire fixer le prix par la
+juridiction compétente en matière d'expropriation.
 
-Le silence du propriétaire équivaut à une renonciation [*tacite*].
+A compter de la notification de l'offre d'acquérir le terrain formulée, selon le cas, par le département ou par le
+conservatoire de l'espace littoral et des rivages lacustres, le propriétaire dispose d'un délai d'un mois pour faire
+connaître au préfet soit qu'il accepte le prix proposé, soit qu'il accepte l'intervention de la juridiction compétente en
+matière d'expropriation, soit qu'il renonce à l'aliénation. Le préfet informe sans délai le conservatoire de la décision du
+propriétaire.
 
-En cas d'intervention de la juridiction compétente en matière d'expropriation, le préfet notifie au propriétaire dans le
-délai d'un mois à compter [*point de départ*] de la décision de cette juridiction :
+Le silence du propriétaire vaut, à l'expiration du délai d'un mois, renonciation [*tacite*] à l'aliénation.
 
-Soit la décision du département de renoncer à l'exercice du droit de préemption ;
+En cas d'intervention de la juridiction compétente en matière d'expropriation, le préfet, lorsque le département a formulé
+l'offre d'acquisition ou, le cas échéant, le conservatoire de l'espace littoral et des rivages lacustres, notifie au
+propriétaire dans le délai de quinze jours à compter de la date à laquelle la décision de la juridiction de l'expropriation
+n'est plus susceptible d'appel ni de pourvoi en cassation soit la décision d'acquérir au prix fixé par ladite juridiction,
+soit la décision de renoncer à l'exercice du droit de préemption.
 
-Soit sa décision d'acquérir au prix fixé par ladite juridiction.
+Dans le cas où, à la suite de la décision de la juridiction d'expropriation, la renonciation à l'exercice du droit de
+préemption émane du département et concerne un terrain compris dans une zone ou partie de zone définie à l'article R. 142-6
+(alinéa 3), le préfet en informe sans délai le conservatoire de l'espace littoral et des rivages lacustres.
+
+Cet établissement peut notifier au propriétaire sa décision d'acquérir le bien au prix qui a été fixé par la juridiction de
+l'expropriation, dans un délai d'un mois à compter de la date à laquelle la décision de la juridiction d'expropriation n'est
+plus susceptible d'appel ni de pourvoi en cassation.
 
 **Liens relatifs à cet article**
 
@@ -15479,6 +15496,10 @@ Soit sa décision d'acquérir au prix fixé par ladite juridiction.
 
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R142-17 (M)
 
+	**Cite**:
+
+	  - Code de l'urbanisme R142-6 AL. 3
+
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
@@ -15486,15 +15507,27 @@ Soit sa décision d'acquérir au prix fixé par ladite juridiction.
 
 ###### Article R142-11
 
-Lorsque l'aliénation [*terrain*] est envisagée sous forme amiable autre que celle visée à l'article R. 142-10 [*vente de gré
-à gré*], notamment sous forme d'échange, d'adjudication volontaire ou d'apport en société, le préfet notifie [*publicité*] au
-propriétaire, dans le délai de deux mois prévu à l'article R. 142-9 :
+Lorsque l'aliénation est envisagée sous forme amiable autre que celle visée à l'article R. 142-10 (alinéa 1), notamment sous
+forme d'échange, d'adjudication volontaire ou d'apport en société, le préfet notifie au propriétaire, dans le délai de deux
+mois prévu à l'article R. 142-9 (alinéa 4) :
 
-Soit la décision du département de renoncer à l'exercice du droit de préemption ;
+Soit la décision du département de renoncer à l'exercice du droit de préemption :
 
-Soit son offre d'acquérir à un prix fixé par lui et, à défaut d'acceptation de cette offre, de faire fixer la valeur de
-l'immeuble par la juridiction compétente en matière d'expropriation ; dans ce cas il est ensuite procédé comme il est dit aux
-alinéas 2 à 4 de l'article R. 142-10.
+Soit son offre d'acquérir à un prix fixé par lui et, à défaut d'acceptation de ce prix, son offre de le faire fixer par la
+juridiction compétente en matière d'expropriation.
+
+/M/Lorsque le terrain est compris dans une zone ou partie de zone définie à l'article R. 142-6 (alinéa 3), et si le
+département a renoncé à l'exercice du droit de préemption, le conservatoire de l'espace littoral et des rivages lacustres/M/
+DECRET 758 : si le département a renoncé à l'exercice du droit de préemption, le titulaire du droit de substitution// notifie
+au propriétaire avant l'expiration d'un délai de trois mois à compter de la date du récépissé de la déclaration visée à
+l'article R. 142-9 (alinéa 3) :
+
+Soit sa décision de renoncer à l'exercice du droit de préemption ;
+
+Soit son offre d'acquérir à un prix fixé par lui et, à défaut d'acceptation de ce prix, son offre de faire fixer le prix par
+la juridiction compétente en matière d'expropriation.
+
+Il est ensuite procédé comme il est dit aux alinéas 3 à 6 de l'article R. 142-10.
 
 **Liens relatifs à cet article**
 
@@ -15505,11 +15538,12 @@ alinéas 2 à 4 de l'article R. 142-10.
 	**Cite**:
 
 	  - Code de l'urbanisme - art. R142-10 (M)
-	  - Code de l'urbanisme - art. R142-9 (M)
+	  - Code de l'urbanisme R142-6 AL. 3
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R142-15 (M)
+	  - Code de l'urbanisme - art. R142-9 (M)
 
 	**Liens**:
 
@@ -15522,17 +15556,19 @@ alinéas 2 à 4 de l'article R. 142-10.
 
 ###### Article R142-12
 
-La décision du département de renoncer à l'exercice du droit de préemption ainsi que l'offre d'acquérir [*aliénation
-terrain*] à un prix fixé par lui ou de saisir la juridiction compétente en matière d'expropriation sont notifiées
-[*publicité*] par lettre recommandée avec demande d'avis de réception.
+La décision du département de renoncer à l'exercice du droit de préemption ainsi que l'offre d'acquérir à un prix fixé par
+lui ou de saisir la juridiction compétente en matière d'expropriation sont notifiées par lettre recommandée avec demande
+d'avis de réception. Il en va pareillement des décisions ou offres du /M/conservatoire de l'espace littoral et des rivages
+lacustres/M/DECRET 758 : titulaire du droit de substitution// qui ont les mêmes objets.
 
-La décision du département d'acquérir est constatée par un arrêté du préfet et notifiée par lettre recommandée avec demande
-d'avis de réception.
-
-Dans le cas où il accepte le prix offert par le département, le propriétaire notifie son acceptation par acte extrajudiciaire
-[*condition de forme*].
+Dans le cas où il accepte le prix offert, /A/soit par le département, soit par le conservatoire,/A/DECRET 758// le
+propriétaire notifie son acceptation par acte d'huissier de justice.
 
 Les autres décisions du propriétaire sont notifiées par lettre recommandée avec demande d'avis de réception.
+
+La décision d'acquérir est constatée par arrêté du préfet et notifiée par lettre recommandée avec demande d'avis de réception
+[*condition de forme*] lorsqu'elle émane du département. Elle est notifiée dans les mêmes formes lorsqu'elle émane du /M/
+conservatoire de l'espace littoral et des rivages lacustres./M/ DECRET 758 : titulaire du droit de substitution//.
 
 **Liens relatifs à cet article**
 
@@ -15540,15 +15576,16 @@ Les autres décisions du propriétaire sont notifiées par lettre recommandée a
 
 	  - Décret n°61-910 1961-08-05 ART. 7
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R142-17 (M)
+
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R142-13 (M)
 	  - Code de l'urbanisme - art. R142-15 (M)
 	  - Code de l'urbanisme - art. R142-8 (VT)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R142-17 (M)
 
 	**Codifié par**:
 
@@ -15557,16 +15594,23 @@ Les autres décisions du propriétaire sont notifiées par lettre recommandée a
 
 ###### Article R142-13
 
-En vue de constater le transfert de propriété réalisé au profit du département, l'arrêté préfectoral visé à l'article R.
-142-12, deuxième alinéa, reproduit dans tous les cas la déclaration du propriétaire [*terrain*]; lorsque le département
-décide d'acquérir [*droit de préemption*] au prix qui a été fixé par la juridiction compétente en matière d'expropriation, il
-reproduit en outre l'acceptation, par le propriétaire, de l'intervention de cette juridiction et fait mention de la décision
-de cette dernière.
+Lorsque le département ou le conservatoire a décidé d'acquérir [*droit de préemption*] au prix déclaré par le propriétaire,
+la déclaration du propriétaire [*terrain*] visée à l'article R. 142-9 (alinéa 3) est reproduite soit dans l'arrêté
+préfectoral visé à l'article R. 142-9 (alinéa 4), soit dans la décision du conservatoire.
 
-Dans le même but, l'acte extrajudiciaire prévu à l'article R. 142-12 (3. alinéa) reproduit la déclaration du propriétaire et
-l'offre du département.
+Lorsque le propriétaire a accepté le prix offert par le département ou le conservatoire, l'arrêté du préfet ou la décision du
+conservatoire [*espace littoral rivage lacustre*] reproduit l'acte d'huissier de justice visé à l'article R. 142-12 (alinéa
+2).
 
-L'arrêté préfectoral ou l'acte extrajudiciaire ainsi établi est publié [*publicité*] au bureau des hypothèques.
+Lorsque le département ou le conservatoire décide d'acquérir au prix qui a été fixé par la juridiction compétente en matière
+d'expropriation, l'arrêté du préfet ou la décision du conservatoire reproduit l'acceptation par le propriétaire de faire
+fixer le prix par la juridiction de l'expropriation et fait mention de la décision que cette juridiction a rendue.
+
+Dans le même but, l'acte d'huissier de justice prévu à l'article R. 142-12 (alinéa 2) reproduit la déclaration du
+propriétaire et l'offre soit du département, soit du conservatoire.
+
+L'arrêté préfectoral ou la décision du conservatoire, selon le cas, ou l'acte d'huissier de justice ainsi établi est publié
+[*publicité*] au bureau des hypothèques.
 
 **Liens relatifs à cet article**
 
@@ -15583,6 +15627,7 @@ L'arrêté préfectoral ou l'acte extrajudiciaire ainsi établi est publié [*pu
 	**Cite**:
 
 	  - Code de l'urbanisme - art. R142-12 (M)
+	  - Code de l'urbanisme - art. R142-9 (M)
 
 	**Liens**:
 
@@ -15666,15 +15711,23 @@ aliénation.
 
 ###### Article R142-16
 
-A compter de la publication [*publicité*] au Journal officiel de l'arrêté fixant une zone de préemption, toute adjudication
-rendue obligatoire par la loi ou ordonnée par décision de justice d'un terrain situé à l'intérieur de cette zone doit être
-précédée d'une déclaration du greffier de la juridiction ou du notaire chargé de procéder à la vente, faisant connaître la
-date et les modalités de la vente. Cette déclaration est adressée au préfet, trente jours au moins à l'avance, par lettre
-recommandée avec demande d'avis de réception [*condition de forme*].
+A compter de la publication [*publicité*] au Journal officiel de l'arrêté créant une zone de préemption, toute adjudication
+rendue obligatoire par la loi ou ordonnée par décision de justice, d'un terrain situé à l'intérieur de cette zone doit être
+précédée d'une déclaration du greffier de la juridiction ou du notaire chargé de procéder à la vente faisant connaître la
+date et les modalités de la vente. Cette déclaration est adressée trente jours au moins avant la date prévue pour
+l'adjudication par lettre recommandée avec demande d'avis de réception au préfet et, en outre, dans les cas prévus à
+l'article R. 142-6 (alinéa 3) [*cantons côtiers, communes riveraines de lacs et plans d'eau d'au moins 1000 hectares*] au
+conservatoire de l'espace littoral et des rivages lacustres, au président du conseil de rivage territorialement compétent et
+au maire de la commune intéressée.
 
-Le préfet dispose d'un délai de dix jours à compter [*point de départ*] de l'adjudication pour informer le greffier ou le
-notaire de la décision du département de se substituer [*droit de préemption*] à l'adjudicataire. La décision du département
-est constatée par un arrêté du préfet et notifiée par lettre recommandée avec demande d'avis de réception.
+Dans un délai de dix jours à compter de l'adjudication, le département peut se substituer à l'adjudicataire [*droit de
+préemption*] . Le préfet en informe le greffier ou le notaire ainsi que le conservatoire.
+
+Si le département décide de ne pas se porter adjudicataire, le préfet en informe sans délai le conservatoire ; celui-ci peut
+se substituer à l'adjudicataire avant l'expiration d'un délai de vingt jours à compter de l'adjudication.
+
+La décision du département est constatée par un arrêté du préfet et notifiée par lettre recommandée avec demande d'avis de
+réception [*condition de forme*]. Celle du conservatoire est notifiée dans les mêmes formes.
 
 L'ampliation notifiée est annexée au jugement ou à l'acte d'adjudication et publiée au bureau des hypothèques en même temps
 que celui-ci.
@@ -15685,13 +15738,17 @@ que celui-ci.
 
 	  - Décret n°61-910 1961-08-05 ART. 11
 
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R142-17 (M)
+
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R142-17 (M)
 
-	**Liens**:
+	**Cite**:
 
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R142-17 (M)
+	  - Code de l'urbanisme R142-6 AL. 3
 
 	**Codifié par**:
 
