@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1995-09-07
+Version Consolidée au 1995-10-07
 
 # Partie législative
 
@@ -23655,7 +23655,7 @@ Le plan d'occupation des sols est mis à jour dans les conditions définies au p
 
 La mise à jour est le report au plan :
 
-a) Des périmètres et des zones mentionnés à l'article R. 123-19 (1. et 2.) ;
+a) Des périmètres et des zones mentionnés à l'article R. 123-19 (1° et 2°) ;
 
 b) Des modifications résultant d'une déclaration d'utilité publique prononcée en application de l'article L. 123-8 ;
 
@@ -23676,6 +23676,10 @@ la notification par le préfet à la commune, le préfet y procède d'office par
 
 	  - Décret n°70-1016 1970-10-28 art. 34
 
+	**Abrogé par**:
+
+	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
+
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L123-8 (M)
@@ -23690,14 +23694,9 @@ la notification par le préfet à la commune, le préfet y procède d'office par
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°83-663 1983-07-22 art. 100
-
 	**Modifié par**:
 
-	  - Décret n°86-984 1986-08-19 art. 7 XIII JORF 27 AOUT 1986
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°95-1082 1995-10-02 art. 1 JORF 7 octobre 1995
 
 
 ###### Article R123-35-1
