@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1999-12-29
+Version Consolidée au 2000-01-01
 
 # Partie législative
 
@@ -57315,21 +57315,22 @@ l'urbanisme et du ministre de l'économie et des finances.
 
 ###### Article A614-1
 
-Dans la limite des crédits ouverts à cet effet, le ministère de l'équipement, des transports et du logement peut faire appel
-à des architectes et à des paysagistes qui lui apportent leur concours de façon continue ou intermittente sans renoncer à
-leur emploi principal. Ils prendront respectivement le titre d'architectes-conseils et de paysagistes-conseils de
-l'équipement.
+Dans les limites des crédits ouverts à cet effet, les directions d'administration centrale et les services déconcentrés du
+ministère chargé de l'urbanisme, du ministère chargé de l'architecture et du ministère chargé de l'environnement peuvent
+faire appel à des architectes et à des paysagistes qui leur apportent leur concours de façon continue ou intermittente, sans
+renoncer à leur emploi principal. Ils prennent alors respectivement le titre d'architecte-conseil ou paysagiste-conseil du
+ministère concerné.
 
-Dans le département de leur affectation, ils ne peuvent intervenir à titre privé dans aucune opération, sauf dérogation
-expresse accordée par le ministre.
+Ces architectes et paysagistes assurent les missions qui leur sont confiées par le ministre concerné ou ses délégués.
 
-Ces architectes et ces paysagistes assurent les missions qui leur sont confiées par le ministre ou ses délégués.
+Lorsqu'ils sont affectés dans une région ou dans un département, ils ne peuvent intervenir à titre privé dans aucune
+opération dans cette région ou ce département, sauf dérogation expresse accordée par le ministre concerné.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1999-02-22 art. 1, art. 2 JORF 24 mars 1999 en vigueur le 1er janvier 1999
+	  - Arrêté 2000-05-04 art. 1 JORF 17 mai 2000 en vigueur le 1er janvier 2000
 
 	**Codifié par**:
 
@@ -57342,33 +57343,43 @@ Ces architectes et ces paysagistes assurent les missions qui leur sont confiées
 
 ###### Article A614-2
 
-Les architectes-conseils et les paysagistes-conseils de l'équipement peuvent percevoir une indemnité forfaitaire dont le
-montant journalier est fixé au 1/100 du traitement annuel brut correspondant à l'indice majoré 625.
+Les architectes-conseils et les paysagistes-conseils peuvent percevoir :
 
-Les frais de transport et de missions engagés dans le cadre de leurs vacations seront remboursés par application des décrets
-en vigueur concernant les personnels civils de l'Etat.
+- pour ceux affectés en métropole, une rémunération au titre de leur vacation journalière à hauteur de 1/100 du traitement
+brut annuel correspondant à l'indice brut 944 ;
+
+- pour ceux affectés dans les régions ou départements d'outre-mer, une rémunération au titre de leur vacation journalière à
+hauteur de 120/10 000 du traitement brut annuel correspondant à l'indice brut 944.
+
+Les frais de transport et de missions engagés dans le cadre de leurs vacations sont remboursés par application des décrets du
+15 septembre 1989 et du 28 mai 1990 susvisés.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1999-02-22 art. 1, art. 3 JORF 24 mars 1999 en vigueur le 1er janvier 1999
+	  - Arrêté 2000-05-04 art. 2 JORF 17 mai 2000 en vigueur le 1er janvier 2000
 
 	**Codifié par**:
 
 	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
+	**Cite**:
+
+	  - Décret n°89-271 1989-09-15
+	  - Décret n°90-437 1990-05-28
+
 
 ###### Article A614-3
 
-Les dépenses correspondantes à la rémunération et au remboursement des frais de déplacement des architectes-conseils et des
-paysagistes-conseils sont imputées sur les crédits du ministère de l'équipement, des transports et du logement.
+Les dépenses correspondants à la rémunération et au remboursement des frais de transport et de missions des architectes-
+conseils et des paysagistes-conseils sont imputées sur les crédits des ministères concernés.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1999-02-22 art. 1, art. 4 JORF 24 mars 1999 en vigueur le 1er janvier 1999
+	  - Arrêté 2000-05-04 art. 3 JORF 17 mai 2000 en vigueur le 1er janvier 2000
 
 	**Codifié par**:
 
@@ -57381,14 +57392,15 @@ paysagistes-conseils sont imputées sur les crédits du ministère de l'équipem
 
 ###### Article A614-4
 
-Les dispositions des articles A. 614-1 à A. 614-3 ne peuvent être modifiées que par arrêté conjoint du ministre chargé de
-l'urbanisme et du ministre de l'économie et des finances.
+Les dispositions des articles A. 614-1 à A. 614-3 ne peuvent modifiées que par arrêté conjoint du ministre chargé de
+l'urbanisme, du ministre chargé de l'architecture, du ministre chargé de l'environnement et du ministre chargé de l'économie
+et des finances.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1999-02-22 art. 1 JORF 24 mars 1999 en vigueur le 1er janvier 1999
+	  - Arrêté 2000-05-04 art. 4 JORF 17 mai 2000 en vigueur le 1er janvier 2000
 
 	**Codifié par**:
 
@@ -57396,7 +57408,8 @@ l'urbanisme et du ministre de l'économie et des finances.
 
 	**Cite**:
 
-	  - Code de l'urbanisme A614-1 à A614-3
+	  - Code de l'urbanisme - art. A614-1 (V)
+	  - Code de l'urbanisme - art. A614-3 (V)
 
 
 # Annexes
