@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2001-10-11
+Version Consolidée au 2001-12-12
 
 # Partie législative
 
@@ -8291,7 +8291,7 @@ Ne sont pas soumis au droit de préemption :
 
 a) Les immeubles construits ou acquis par les organismes visés à l'article L. 411-2 du code de la construction et de
 l'habitation et qui sont leur propriété, ainsi que les immeubles construits par les sociétés coopératives d'habitations à
-loyer modéré de location-attribution :
+loyer modéré de location-attribution ;
 
 b) Les immeubles qui font l'objet d'un contrat de vente d'immeuble à construire dans les conditions prévues par les articles
 1601-1 et suivants du code civil, sauf lorsque ces dispositions sont appliquées à des bâtiments existants ;
@@ -8306,11 +8306,11 @@ crédit-bail, modifiée par l'ordonnance n° 67-837 du 28 septembre 1967 relativ
 immobilières pour le commerce et l'industrie, avec l'une des entreprises visées à l'article 2 de la même loi ;
 
 e) Les immeubles qui font l'objet d'une mise en demeure d'acquérir en application des articles L. 111-10, L. 123-2, L123-17
-ou L. 311-2 du présent code ou de l'article L. 11-7 du code de l'expropriation pour cause d'utilité publique.
+ou L. 311-2 du présent code ou de l'article L. 11-7 du code de l'expropriation pour cause d'utilité publique ;
 
-f) Dans les communes où l'ensemble des logements locatifs sociaux au sens du 3° de l'article L. 234-10 du code des communes
-représente moins de 20 p. 100 des résidences principales, les immeubles dont l'aliénation est agréée par le représentant de
-l'Etat dans le département en vue d'accroître l'offre de logements sociaux.
+f) Pendant la durée d'application d'un arrêté préfectoral pris sur le fondement de l'article L. 302-9-1 du code de la
+construction et de l'habitation, l'aliénation d'un immeuble ou d'un terrain destiné à être affecté à une opération ayant fait
+l'objet de la convention prévue au même article.
 
 **Liens relatifs à cet article**
 
@@ -8326,13 +8326,13 @@ l'Etat dans le département en vue d'accroître l'offre de logements sociaux.
 	  - Loi n°84-595 1984-07-12
 	  - Code de commerce L621-83 à L621-101, L622-17
 	  - Code de commerce. - art. L622-17 (M)
-	  - CODE DES COMMUNES. - art. L234-10 (M)
 	  - Code civil - art. 1601-1 (V)
 	  - Code de l'urbanisme - art. L111-10 (M)
 	  - Code de l'urbanisme - art. L123-17 (V)
 	  - Code de l'urbanisme - art. L123-2 (M)
 	  - Code de l'urbanisme - art. L211-4 (M)
 	  - Code de l'urbanisme - art. L311-2 (Ab)
+	  - Code de la construction et de l'habitation. - art. L302-9-1 (M)
 	  - Code de la construction et de l'habitation. - art. L411-2 (M)
 	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L11-7 (V)
 
@@ -8365,15 +8365,9 @@ l'Etat dans le département en vue d'accroître l'offre de logements sociaux.
 	  - Code de l'énergie - art. L111-60 (VD)
 	  - Code général des impôts, CGI. - art. 1594-0 G (VD)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
-
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 19 () JORF 14 décembre 2000
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 20 () JORF 14 décembre 2000
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
+	  - Loi n°2001-1168 du 11 décembre 2001 - art. 24 () JORF 12 décembre 2001
 
 	**Codifié par**:
 
@@ -15097,6 +15091,11 @@ radioactives ; un décret en Conseil d'Etat détermine la nature et l'importance
 c) Les constructions, installations ou travaux réalisés à l'intérieur des périmètres des opérations d'intérêt national dans
 les conditions définies par décret en Conseil d'Etat.
 
+Pendant la durée d'application d'un arrêté préfectoral pris sur le fondement de l'article L. 302-9-1 du code de la
+construction et de l'habitation, les autorisations ou les actes relatifs à l'utilisation et à l'occupation du sol concernant
+les opérations ayant fait l'objet de la convention prévue au même article sont délivrés ou établis au nom de l'Etat par le
+préfet, après avis du maire ou du président de l'établissement public de coopération intercommunale compétent.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -15143,11 +15142,15 @@ les conditions définies par décret en Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 31
+	  - Loi n°2001-1168 du 11 décembre 2001 - art. 24 () JORF 12 décembre 2001
 
 	**Liens**:
 
 	  - SPEC_APPLI: Code de l'urbanisme - art. L421-2-7 (M)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L302-9-1 (M)
 
 	**Codifié par**:
 
