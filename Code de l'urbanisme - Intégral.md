@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2000-12-14
+Version Consolidée au 2000-12-20
 
 # Partie législative
 
@@ -52425,6 +52425,48 @@ NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
+###### Article R*490-5
+
+Sont opérations d'intérêt national au sens des articles L. 421-2-1 c et L. 111-1-2 les travaux relatifs :
+
+a) Aux agglomérations nouvelles régies par la loi n° 83-636 du 13 juillet 1983, dans leur périmètre d'urbanisation défini en
+application des articles 3 et 4 de ladite loi ;
+
+b) A l'aménagement de la Défense, dans un périmètre défini par arrêté du ministre chargé de l'urbanisme à l'intérieur du
+périmètre de compétence de l'établissement public pour l'aménagement de la Défense ;
+
+c) Aux domaines industrialo-portuaires d'Antifer, du Verdon et de Dunkerque, dans les périmètres respectifs des ports
+autonomes du Havre, de Bordeaux et de Dunkerque ;
+
+d) A l'aménagement de la zone de Fos-sur-Mer, dans un périmètre défini par décret en Conseil d'Etat.
+
+e) A l'opération d'aménagement Euroméditerranée dans la commune de Marseille dans le périmètre de compétence de
+l'établissement public d'aménagement Euroméditerranée.
+
+f) A l'opération d'aménagement de Nanterre dans le périmètre de compétence de l'Etablissement public d'aménagement de Seine-
+Arche à Nanterre.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Loi n°83-636 1983-07-13 art. 3, art. 4
+	  - Code de l'urbanisme - art. L111-1-2 (M)
+	  - Code de l'urbanisme - art. L421-2-1 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2000-1238 du 19 décembre 2000 - art. 1 () JORF 20 décembre 2000
+
+
 ###### Article R*490-6
 
 Un arrêté du ministre chargé de l'urbanisme fixe les éléments à fournir par le demandeur d'une autorisation ou d'un acte
@@ -52551,43 +52593,6 @@ NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 	**Abrogé par**:
 
 	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
-
-### TITRE IX : Dispositions communes au titre III du livre Ier, au chapitre V du titre Ier du livre III et aux titres I à IV et VI du présent livre.
-
-###### Article R*490-5
-
-Sont opérations d'intérêt national au sens des articles L. 421-2-1 c et L. 111-1-2 les travaux relatifs :
-
-a) Aux agglomérations nouvelles régies par la loi n° 83-636 du 13 juillet 1983, dans leur périmètre d'urbanisation défini en
-application des articles 3 et 4 de ladite loi ;
-
-b) A l'aménagement de la Défense, dans un périmètre défini par arrêté du ministre chargé de l'urbanisme à l'intérieur du
-périmètre de compétence de l'établissement public pour l'aménagement de la Défense ;
-
-c) Aux domaines industrialo-portuaires d'Antifer, du Verdon et de Dunkerque, dans les périmètres respectifs des ports
-autonomes du Havre, de Bordeaux et de Dunkerque ;
-
-d) A l'aménagement de la zone de Fos-sur-Mer, dans un périmètre défini par décret en Conseil d'Etat.
-
-e) A l'opération d'aménagement Euroméditerranée dans la commune de Marseille dans le périmètre de compétence de
-l'établissement public d'aménagement Euroméditerranée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Cite**:
-
-	  - Loi n°83-636 1983-07-13 art. 3, art. 4
-	  - Code de l'urbanisme - art. L111-1-2 (M)
-	  - Code de l'urbanisme - art. L421-2-1 (M)
-
-	**Modifié par**:
-
-	  - Décret n°95-1103 du 13 octobre 1995 - art. 1 () JORF 14 octobre 1995
 
 
 ## Livre V : Implantation des services, établissements et entreprises
