@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1997-05-22
+Version Consolidée au 1997-06-01
 
 # Partie législative
 
@@ -27333,7 +27333,7 @@ La zone de bruit fort A est la zone comprise à l'intérieur de la courbe isopso
 La zone de bruit fort B est la zone comprise entre les courbes isopsophiques 96 et 89.
 
 La zone de bruit modéré C est la zone comprise entre la courbe isopsophique 89 et la courbe isopsophique correspondant à une
-valeur de l'indice psophique [IP] choisie entre 84 et 78.
+valeur de l'indice psophique choisie entre 84 et 72.
 
 **Liens relatifs à cet article**
 
@@ -27341,21 +27341,25 @@ valeur de l'indice psophique [IP] choisie entre 84 et 78.
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°87-340 1987-05-21 art. 1 JORF 22 mai 1987
+	  - Décret n°97-607 du 31 mai 1997 - art. 4 () JORF 1er juin 1997
 
 
 ###### Article R147-3
 
 Pour l'application du deuxième alinéa de l'article L. 147-4, la modulation de l'indice psophique déterminant la limite
-extérieure de la zone C se fera à l'intérieur d'une plage allant de la valeur 86 à la valeur 75.
+extérieure de la zone C se fera à l'intérieur d'une plage allant de la valeur 72 à la valeur 69.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°87-340 1987-05-21 art. 1 JORF 22 mai 1987
+	  - Décret n°97-607 du 31 mai 1997 - art. 5 () JORF 1er juin 1997
+
+	**Abrogé par**:
+
+	  - Décret n°2002-626 du 26 avril 2002 - art. 1 () JORF 28 avril 2002 en vigueur le 1er novembre 2002
 
 	**Cite**:
 
