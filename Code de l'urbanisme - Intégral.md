@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2005-01-19
+Version Consolidée au 2005-02-12
 
 # Partie législative
 
@@ -9635,6 +9635,29 @@ répondant aux objets définis à l'article L. 300-1.
 	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
+###### Article L221-1-1
+
+Les communes et groupements de communes sont tenus d'inscrire dans leurs documents d'urbanisme les réserves foncières
+correspondant aux équipements prévus par le schéma départemental d'organisation sociale et médico-sociale mentionné à
+l'article L. 312-4 du code de l'action sociale et des familles. 
+
+Des décrets en Conseil d'Etat fixent les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 51 () JORF 12 février 2005
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L312-4 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
 ###### Article L221-2
 
 La personne publique qui s'est rendue acquéreur d'une réserve foncière doit en assurer la gestion en bon père de famille.
@@ -18739,11 +18762,23 @@ l'ordonnance au 1er octobre 2007.
 Le représentant de l'Etat dans le département, le maire ou ses délégués ainsi que les fonctionnaires et les agents
 commissionnés à cet effet par le ministre chargé de l'urbanisme et assermentés peuvent, à tout moment, visiter les
 constructions en cours, procéder aux vérifications qu'ils jugent utiles et se faire communiquer tous documents techniques se
-rapportant à la réalisation des bâtiments. Ce droit de visite de communication peut ainsi être exercé après l'achèvement des
-travaux pendant deux ans.
+rapportant à la réalisation des bâtiments, et en particulier ceux concernant l'accessibilité aux personnes handicapées quel
+que soit le type de handicap. Ce droit de visite et de communication peut ainsi être exercé après l'achèvement des travaux
+pendant deux ans.
 
 L'autorité compétente pour la conservation du domaine public en bordure duquel la construction est en cours peut, dans les
 mêmes conditions, s'assurer que l'alignement, et, s'il y a lieu, le nivellement ont été respectés.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
 
 **Liens relatifs à cet article**
 
@@ -18764,6 +18799,14 @@ mêmes conditions, s'assurer que l'alignement, et, s'il y a lieu, le nivellement
 	  - Code du patrimoine. - art. L642-4 (V)
 	  - Loi n°1930-05-02 du 2 mai 1930 - art. 21 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 43 () JORF 12 février 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+
 	**Anciens textes**:
 
 	  - Code de l'urbanisme 98
@@ -18771,10 +18814,6 @@ mêmes conditions, s'assurer que l'alignement, et, s'il y a lieu, le nivellement
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Modifié par**:
-
-	  - Loi n°85-1285 1985-07-18 art. 26 XXXVIII JORF 19 juillet 1985
 
 
 ###### Article L460-2
@@ -32156,10 +32195,14 @@ Le service chargé de l'instruction de la demande consulte en tant que de besoin
 demander que soient prescrites les contributions mentionnées à l'article L. 332-12. A défaut de réponse dans le délai d'un
 mois, ces autorités et services publics sont réputés n'avoir aucune proposition de contribution à formuler.
 
+Lorsque le projet est situé dans une zone de servitude instituée en application de l'article L. 211-12 du code de
+l'environnement et est susceptible, en raison de sa nature, de son importance ou de sa localisation, de faire obstacle au
+stockage ou à l'écoulement des eaux, le service instructeur consulte le préfet. Celui-ci dispose d'un délai de deux mois pour
+s'opposer à l'exécution des travaux ou prescrire les modifications nécessaires.
+
 **Nota:**
 
-NOTA : la loi du 31 décembre 1913 a été abrogée par l'article 7 de l'ordonnance n° 2004-178 (publiée au JO du 24 février
-2004) et codifiée dans le code du patrimoine.
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 
 **Liens relatifs à cet article**
 
@@ -32168,6 +32211,7 @@ NOTA : la loi du 31 décembre 1913 a été abrogée par l'article 7 de l'ordonna
 	  - Loi n°76-629 1976-07-10
 	  - Code de l'urbanisme - art. L315-6 (M)
 	  - Code de l'urbanisme - art. L332-12 (M)
+	  - Code de l'environnement - art. L211-12 (M)
 	  - Code du patrimoine. - art. L642-3 (V)
 	  - Code du patrimoine. - art. L642-4 (V)
 	  - Code rural 35
@@ -32176,7 +32220,11 @@ NOTA : la loi du 31 décembre 1913 a été abrogée par l'article 7 de l'ordonna
 
 	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 art. 3 JORF 24 février 2004
+	  - Décret n°2005-116 du 7 février 2005 - art. 9 () JORF 12 février 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 	**Cité par**:
 
@@ -44428,6 +44476,15 @@ demander que soient prescrites les contributions prévues au 2° de l'article L.
 réponse dans le délai d'un mois, ces autorités et services publics sont réputés n'avoir aucune proposition de contribution à
 formuler.
 
+Lorsque le projet est situé dans une zone de servitude instituée en application de l'article L. 211-12 du code de
+l'environnement et est susceptible, en raison de sa nature, de son importance ou de sa localisation, de faire obstacle au
+stockage ou à l'écoulement des eaux, le service instructeur consulte le préfet. Celui-ci dispose d'un délai de deux mois pour
+s'opposer à l'exécution des travaux ou prescrire les modifications nécessaires.
+
+**Nota:**
+
+NOTA (1) : L'article 26 de la loi n° 73-1193 a été abrogé par la loi n° 76-1285, article 80 I.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -44436,10 +44493,11 @@ formuler.
 	  - Décret n°77-860 1977-07-26
 	  - Code de l'urbanisme - art. L332-6-1 (M)
 	  - Code de l'urbanisme - art. R421-38-2 (M)
+	  - Code de l'environnement - art. L211-12 (M)
 
 	**Modifié par**:
 
-	  - Décret n°2001-260 du 27 mars 2001 - art. 3 () JORF 28 mars 2001
+	  - Décret n°2005-116 du 7 février 2005 - art. 9 () JORF 12 février 2005
 
 	**Cité par**:
 
@@ -47111,24 +47169,33 @@ accompagnée de son avis à l'autorité compétente pour statuer.
 Dans les cas mentionnés aux articles R. 421-22, R. 421-38-3 à R. 421-38-7 et R. 421-38-9 à R. 421-38-19, le service
 instructeur consulte les autorités mentionnées auxdits articles. Les autorités ainsi consultées font connaître à l'autorité
 compétente leur opposition ou les prescriptions qu'elles demandent dans un délai d'un mois à dater de la réception de la
-demande d'avis par l'autorité consultée. A défaut de réponse dans ce délai, elles sont réputées avoir émis un avis
-favorable[*accord tacite*].
+demande d'avis par l'autorité consultée. A défaut de réponse dans ce délai, elles sont réputées avoir émis un avis favorable.
 
 Le service instructeur consulte en tant que de besoin les autorités et services publics habilités à demander que soient
 prescrites les contributions prévues au 2° de l'article L. 332-6-1 ou à l'article L. 332-9. A défaut de réponse dans le délai
 d'un mois, ces autorités et services publics sont réputés n'avoir aucune proposition de contribution à formuler.
 
+Lorsque le projet est situé dans une zone de servitude instituée en application de l'article L. 211-12 du code de
+l'environnement et est susceptible, en raison de sa nature, de son importance ou de sa localisation, de faire obstacle au
+stockage ou à l'écoulement des eaux, le service instructeur consulte le préfet. Celui-ci dispose d'un délai de deux mois pour
+s'opposer à l'exécution des travaux ou prescrire les modifications nécessaires.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°93-614 du 26 mars 1993 - art. 7 () JORF 28 mars 1993
+	  - Décret n°2005-116 du 7 février 2005 - art. 9 () JORF 12 février 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L332-6-1 (M)
 	  - Code de l'urbanisme - art. R421-22 (M)
 	  - Code de l'urbanisme R421-22, R421-38-3 à R421-38-7, R421-38-9 à R421-38-19, L332-6-1
+	  - Code de l'environnement - art. L211-12 (M)
 
 	**Codifié par**:
 
@@ -47880,21 +47947,26 @@ Toutefois, lorsque le bâtiment est inscrit à l'inventaire supplémentaire des 
 délai de trois mois ; le délai court, dans ce cas, à compter de la réception de la demande par le directeur régional des
 affaires culturelles.
 
-L'avis est réputé favorable s'il n'a pas été donné [*silence*] dans les délais prescrits aux alinéas précédents, sauf si
-l'affaire a été évoquée avant l'expiration de ces délais, dans les conditions prévues à l'article R. 430-14.
+L'avis est réputé favorable s'il n'a pas été donné dans les délais prescrits aux alinéas précédents, sauf si l'affaire a été
+évoquée avant l'expiration de ces délais, dans les conditions prévues à l'article R. 430-14.
 
 Lorsque le bâtiment est situé dans un secteur sauvegardé et qu'il est fait application du troisième alinéa de l'article L.
 313-2, il est procédé ainsi qu'il est dit aux articles R. 313-17-1 et R. 313-17-2.
 
+Lorsque le projet est situé dans une zone de servitude instituée en application de l'article L. 211-12 du code de
+l'environnement et est susceptible, en raison de sa nature, de son importance ou de sa localisation, de faire obstacle au
+stockage ou à l'écoulement des eaux, le service instructeur consulte le préfet. Celui-ci dispose d'un délai de deux mois pour
+s'opposer à l'exécution des travaux ou prescrire les modifications nécessaires.
+
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°99-78 du 5 février 1999 - art. 17 (M)
 
 	**Modifié par**:
 
-	  - Décret n°99-78 du 5 février 1999 - art. 8 () JORF 7 février 1999 en vigueur le 1er mai 1999
+	  - Décret n°2005-116 du 7 février 2005 - art. 9 () JORF 12 février 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 	**Cite**:
 
@@ -47902,6 +47974,7 @@ Lorsque le bâtiment est situé dans un secteur sauvegardé et qu'il est fait ap
 	  - Code de l'urbanisme - art. R313-17-1 (M)
 	  - Code de l'urbanisme - art. R313-17-2 (M)
 	  - Code de l'urbanisme R430-14, L313-2, R313-17-1, R313-17-2
+	  - Code de l'environnement - art. L211-12 (M)
 
 	**Codifié par**:
 
@@ -49410,16 +49483,26 @@ réglementaires relatives à l'urbanisme ou aux servitudes d'utilité publique a
 Les services, personnes publiques ou commissions consultés font connaître leur avis dans les conditions et délais fixés au
 dernier alinéa de l'article R. 421-15.
 
+Lorsque le projet est situé dans une zone de servitude instituée en application de l'article L. 211-12 du code de
+l'environnement et est susceptible, en raison de sa nature, de son importance ou de sa localisation, de faire obstacle au
+stockage ou à l'écoulement des eaux, le service instructeur consulte le préfet. Celui-ci dispose d'un délai de deux mois pour
+s'opposer à l'exécution des travaux ou prescrire les modifications nécessaires.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Décret n°77-860 1977-07-26
 	  - Code de l'urbanisme - art. R421-15 (M)
+	  - Code de l'environnement - art. L211-12 (M)
 
 	**Modifié par**:
 
-	  - Décret n°2001-260 du 27 mars 2001 - art. 3 () JORF 28 mars 2001
+	  - Décret n°2005-116 du 7 février 2005 - art. 9 () JORF 12 février 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 	**Anciens textes**:
 
@@ -50543,20 +50626,16 @@ décharge à la mairie.
 Dans les cas mentionnés au deuxième alinéa de l'article R. 443-5-2 et à l'article R. 443-5-3, le maire transmet la demande,
 avec ses observations, au responsable du service de l'Etat dans le département chargé de l'urbanisme.
 
+Lorsque le projet est situé dans une zone de servitude instituée en application de l'article L. 211-12 du code de
+l'environnement et est susceptible, en raison de sa nature, de son importance ou de sa localisation, de faire obstacle au
+stockage ou à l'écoulement des eaux, le service instructeur consulte le préfet. Celui-ci dispose d'un délai de deux mois pour
+s'opposer à l'exécution des travaux ou prescrire les modifications nécessaires.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-227 1984-03-29 ART. 27, ART. 28 : Modalités d'application
-	  - SPEC_APPLI: Décret n°84-227 du 29 mars 1984 - art. 27 (V)
 
 	**Modifié par**:
 
-	  - Décret n°84-227 1984-03-29 art. 1, art. 3, art. 4, art. 7 JORF 31 mar 1984 date d'entrée en vigueur 1 avril 1984
+	  - Décret n°2005-116 du 7 février 2005 - art. 9 () JORF 12 février 2005
 
 	**Anciens textes**:
 
@@ -50565,6 +50644,11 @@ avec ses observations, au responsable du service de l'Etat dans le département 
 	**Cite**:
 
 	  - Code de l'urbanisme R443-5-2, R443-5-3
+	  - Code de l'environnement - art. L211-12 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*443-5-1
@@ -50886,30 +50970,39 @@ caravanage sont régies conformément aux dispositions des articles R. 421-8, R.
 R. 421-17, R. 421-19 à R. 421-28 et R. 421-38-1 à R. 421-38-19.
 
 Dans les quinze jours qui suivent le dépôt de la demande et pendant la durée d'instruction de celle-ci, le maire procède à
-l'affichage en mairie d'un avis de dépôt de la demande [*publicité, contenu*] comprenant les mentions suivantes : nom du
-demandeur, numéro et date d'enregistrement de la demande, adresse et superficie du terrain et nombre d'emplacements projetés.
+l'affichage en mairie d'un avis de dépôt de la demande comprenant les mentions suivantes : nom du demandeur, numéro et date
+d'enregistrement de la demande, adresse et superficie du terrain et nombre d'emplacements projetés.
 
 Outre les consultations énumérées à l'article R. 421-15, la demande d'autorisation d'aménager est soumise pour avis à la
 commission départementale de l'action touristique. Faute de réponse de cette commission dans le délai de deux mois à compter
 du dépôt de la demande, son avis est réputé favorable.
 
 Le délai d'instruction des demandes d'autorisation d'aménager un terrain de camping et de caravanage est fixé à trois mois à
-compter de la date de décharge du dépôt de la demande complète, ou de l'avis de réception postal de son envoi [*point de
-départ*]. Toutefois, ce délai est porté à cinq mois lorsque le projet est soumis à enquête publique, lorsqu'il y a lieu de
-consulter une commission nationale, ou lorsqu'en application de l'article R. 421-38-4 ou de l'article R. 421-38-6,
-l'architecte des bâtiments de France a fait connaître son intention d'utiliser un délai supérieur à un mois ou que le dossier
-est évoqué par le ministre compétent.
+compter de la date de décharge du dépôt de la demande complète, ou de l'avis de réception postal de son envoi. Toutefois, ce
+délai est porté à cinq mois lorsque le projet est soumis à enquête publique, lorsqu'il y a lieu de consulter une commission
+nationale, ou lorsqu'en application de l'article R. 421-38-4 ou de l'article R. 421-38-6, l'architecte des bâtiments de
+France a fait connaître son intention d'utiliser un délai supérieur à un mois ou que le dossier est évoqué par le ministre
+compétent.
 
 Faute pour l'autorité compétente d'avoir adressé notification de la décision dans le délai d'instruction prévu à l'alinéa
 précédent, l'autorisation est réputée accordée, sauf dans les cas énumérés à l'article R. 421-19, au 2° de l'article R. 443-9
 et lorsque le terrain de camping et de stationnement de caravanes est situé dans une zone délimitée par le préfet, en
 application de l'article R. 443-8-3, où l'autorisation ne peut être obtenue de façon tacite.
 
+Lorsque le projet est situé dans une zone de servitude instituée en application de l'article L. 211-12 du code de
+l'environnement et est susceptible, en raison de sa nature, de son importance ou de sa localisation, de faire obstacle au
+stockage ou à l'écoulement des eaux, le service instructeur consulte le préfet. Celui-ci dispose d'un délai de deux mois pour
+s'opposer à l'exécution des travaux ou prescrire les modifications nécessaires.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°94-614 du 13 juillet 1994 - art. 1 () JORF 22 juillet 1994
+	  - Décret n°2005-116 du 7 février 2005 - art. 9 () JORF 12 février 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 	**Cite**:
 
@@ -50921,6 +51014,7 @@ application de l'article R. 443-8-3, où l'autorisation ne peut être obtenue de
 	  - Code de l'urbanisme - art. R421-9 (M)
 	  - Code de l'urbanisme - art. R443-9 (M)
 	  - Code de l'urbanisme R421-8, R421-9, R421-15, R421-38-4, R421-38-6, R421-19, R443-9, R443-8-3
+	  - Code de l'environnement - art. L211-12 (M)
 
 	**Codifié par**:
 
@@ -57042,17 +57136,15 @@ Servitude de passage sur le littoral instituée en application des articles L. 1
 
 c) Eaux.
 
-Servitudes attachées aux conditions de flottage à bûches perdues sur les cours d'eau non domaniaux instituées en application
-des articles 30 à 32 de la loi du 8 avril 1898 sur le régime des eaux.
+Servitudes prévues aux articles L. 215-4 et L. 215-5 du code de l'environnement ainsi qu'à l'article L. 151-37-1 du code
+rural, y compris les servitudes instituées en application du décret n° 59-96 du 7 janvier 1959 validées dans les conditions
+prévues au IV de l'article L. 211-7 du code de l'environnement ;
 
-Servitudes prévues aux articles 100 et 101 du code rural ainsi que celles prévues par le décret n° 59-96 du 7 janvier 1959
-relatif au passage des engins mécaniques d'entretien sur les berges et dans le lit des cours d'eau non domaniaux.
+Servitudes attachées à la protection des eaux potables instituées en vertu des articles L. 1321-2 et R. 1321-13 du code de la
+santé publique ;
 
-Servitudes attachées à la protection des eaux potables instituées en vertu de l'article L. 20 du code de la santé publique et
-du décret n° 61-859 du 1er août 1961, modifié par le décret n° 67-1093 du 15 décembre 1967, pris pour son application.
-
-Servitudes attachées à la protection des eaux minérales instituées en application des articles L. 736 et suivants du code de
-la santé publique.
+Servitudes attachées à la protection des eaux minérales instituées en application des articles L. 1322-3 à L. 1322-13 du code
+de la santé publique.
 
 d) Réserves naturelles et parcs nationaux.
 
@@ -57286,13 +57378,14 @@ Servitudes d'inondation pour la rétention des crues du Rhin résultant de l'app
 Servitudes résultant de l'application des articles 7-1 à 7-4 de la loi n° 76-663 du 19 juillet 1976 relative aux
 installations classées pour la protection de l'environnement.
 
+Servitudes d'utilité publique instituées en application de l'article L. 211-12 du code de l'environnement.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Code des postes et télécommunications L54 à L56-1, R21 à R26-1, L57 à L62-1, R27 à R39, L45-1, L48
-	  - Code rural 100, 101, L112-2, L642-1, L642-2, 128-7, 128-9, 128-6, 138-1, 135 à 138, 424
-	  - Décret n°1935-10-30 art. 6, art. 3, art. 2
+	  - Loi n°46-628 1946-04-08 art. 35
 	  - Loi n°58-336 du 29 mars 1958 - art. 11 (M)
 	  - Ordonnance n°58-1132 du 25 novembre 1958 - art. 7 (Ab)
 	  - Ordonnance 58-1311 1958-12-23
@@ -57300,27 +57393,15 @@ installations classées pour la protection de l'environnement.
 	  - Ordonnance n°58-1332 du 23 décembre 1958 - art. 6 (Ab)
 	  - Décret n°59-96 1959-01-07
 	  - Décret n°59-645 1959-05-16
-	  - Décret n°61-859 1961-08-01
-	  - Loi n°1791-07-08
-	  - Loi n°1895-07-18
-	  - Loi n°1898-04-08 art. 30 à 32
-	  - Loi n°1906-06-15
-	  - Loi n°1913-12-31 art. 1 à 5, art. 1, art. 13 bis
-	  - Loi n°1925-07-13 art. 298
-	  - Loi n°1927-07-13 art. 25
-	  - Loi n°1929-08-08
-	  - Loi n°1930-05-02 art. 8 bis, art. 28, art. 17
-	  - Loi n°1933-05-27
-	  - Loi n°1933-07-11
-	  - Loi n°1941-07-08
-	  - Loi n°46-628 1946-04-08 art. 35
 	  - Loi n°60-708 1960-07-22
+	  - Décret n°61-859 1961-08-01
 	  - Loi n°62-904 1962-08-04
 	  - Loi n°65-498 1965-06-29
 	  - Loi n°66-1066 1966-12-31
 	  - Décret n°67-1093 1967-12-15
 	  - Loi n°69-7 du 3 janvier 1969 - art. 4 (Ab)
 	  - Loi n°69-7 du 3 janvier 1969 - art. 5 (Ab)
+	  - Loi n°72-1147 1972-12-23 Finances rectificative pour 1972
 	  - Loi n°76-629 du 10 juillet 1976 - art. 27 (M)
 	  - Loi n°76-663 1976-07-19 art. 7-1 à 7-4
 	  - Loi n°80-531 1980-07-15
@@ -57338,10 +57419,16 @@ installations classées pour la protection de l'environnement.
 	  - Code forestier - art. L541-2 (Ab)
 	  - Code forestier L151-1 à L151-6, L411-1 à L413-1, L421-1, L432-1, L432-2, L531-1, L541-2
 	  - Code minier 71 à 73, 94
-	  - Code de la santé publique - art. L20 (M)
+	  - Code de la santé publique - art. L1321-2 (M)
+	  - Code de la santé publique - art. L1322-3 (M)
 	  - Code de la santé publique - art. L736 (M)
+	  - Code de la santé publique - art. R1321-13 (M)
 	  - Code de l'urbanisme - art. L160-6 (M)
 	  - Code de l'urbanisme - art. L160-6-1 (V)
+	  - Code de l'environnement - art. L211-12 (M)
+	  - Code de l'environnement - art. L211-7 (M)
+	  - Code de l'environnement - art. L215-4 (M)
+	  - Code de l'environnement - art. L215-5 (Ab)
 	  - Code de l'environnement - art. L562-1 (M)
 	  - Code de l'environnement - art. L562-6 (V)
 	  - Code de l'aviation civile - art. L281-1 (M)
@@ -57352,22 +57439,34 @@ installations classées pour la protection de l'environnement.
 	  - Code du domaine public fluvial et de la navigation - art. 16 (M)
 	  - Code du domaine public fluvial et de la navigation - art. 28 (M)
 	  - Code du domaine public fluvial et de la navigation - art. 55 (Ab)
+	  - Code rural L112-2, L642-1, L642-2, 128-7, 128-9, 128-6, 138-1, 135 à 138, 424, L151-37-1
+	  - Décret n°1935-10-30 art. 6, art. 3, art. 2
 	  - Décret n°64-158 1964-02-15
 	  - Décret n°64-481 1964-01-23 art. 25
+	  - Loi n°1791-07-08
 	  - Loi n°1819-07-17
 	  - Loi n°1845-07-15
 	  - Loi n°1851-07-10
+	  - Loi n°1895-07-18
+	  - Loi n°1906-06-15
+	  - Loi n°1913-12-31 art. 1 à 5, art. 1, art. 13 bis
 	  - Loi n°1919-10-16 art. 4
-	  - Loi n°72-1147 1972-12-23 Finances rectificative pour 1972
+	  - Loi n°1925-07-13 art. 298
+	  - Loi n°1927-07-13 art. 25
+	  - Loi n°1929-08-08
+	  - Loi n°1930-05-02 art. 8 bis, art. 28, art. 17
+	  - Loi n°1933-05-27
+	  - Loi n°1933-07-11
+	  - Loi n°1941-07-08
+
+	**Modifié par**:
+
+	  - Décret n°2005-116 du 7 février 2005 - art. 9 () JORF 12 février 2005
+	  - Décret n°2005-115 du 7 février 2005 - art. 3 () JORF 12 février 2005
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°2005-3 2005-01-04 art. 8 II, III JORF 5 janvier 2005
-	  - Décret n°2005-3 du 4 janvier 2005 - art. 8 () JORF 5 janvier 2005
 
 
 ## Liste des communes comprises dans la zone 1
