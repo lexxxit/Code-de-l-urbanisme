@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1989-11-16
+Version Consolidée au 1990-01-01
 
 # Partie législative
 
@@ -26788,6 +26788,34 @@ raison de la suspension de la servitude ou de la modification de son tracé ou d
 	  - Décret n°73-1023 1973-11-08
 
 
+#####    Sous-section 4 : Sanctions.
+
+###### Article R*160-33
+
+Sera punie d'une amende de 3000 F à 6000 F et, le cas échéant, d'un emprisonnement de huit jours, toute personne qui
+méconnaît les prescriptions de l'alinéa premier de l'article R. 160-25 ou qui fait obstacle à leur application. En cas de
+récidive, la peine d'amende sera portée de 6000 F à 12000 F et celle d'emprisonnement à deux mois.
+
+Sera punie d'une amende de 3000 à 6000 F toute personne qui méconnaît les prescriptions de l'article R. 160-26. En cas de
+récidive, la peine d'amende pourra être portée de 6000 F à 12000 F et une peine d'emprisonnement de un mois à deux mois
+pourra , en outre, être prononcée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°85-956 1985-09-11 art. 1, art. 2, art. 3 JORF 12 septembre 1985 en vigueur le 1er octobre 1985
+	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+
+	**Cite**:
+
+	  - Code de l'urbanisme R160-25, R160-26
+
+
 ## Liste des servitudes d'utilité publique affectant l'utilisation du sol
 
 ### Servitudes relatives à la conservation du patrimoine
@@ -31484,6 +31512,35 @@ l'ordre de mission. Le propriétaire ou son représentant peut toujours assister
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R313-37
+
+Les propriétaires, locataires ou occupants ou gardiens d'immeubles visés par les articles L. 313-1 à L. 313-14 et
+généralement toutes personnes qui s'opposeront à la visite des lieux par les hommes de l'art dans les conditions prévues à la
+présente section seront punis d'une amende de 3000 F à 6000 F. En cas de récidive l'amende pourra être portée de 6000 F à
+12000 F (1). 
+
+(1) Taux résultant du décret 89-989 du 29 décembre 1989 art. 1
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°64-1085 1964-10-21 ART. 5
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°85-956 1985-09-11 art. 1, art. 3 JORF 12 septembre 1985 en vigueur le 1er octobre
+	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+
+	**Cite**:
+
+	  - CODE DE L'URBANISME L313-1 à L313-14
 
 
 #####  Section 4 : Prestation de serment des hommes de l'art
@@ -50878,6 +50935,37 @@ les conditions auxquelles les autorisations délivrées auront été subordonné
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R480-2
+
+Toute infraction aux dispositions de l'article R. 421-49 concernant les immeubles de grande hauteur  sera punie d'une amende
+de 3000 à 6000 F. En cas de récidive, la peine d'amende pourra être portée de 6000 F à 12000 F [*montant (1)*]. [*(1) Taux
+résultant du décret 89-989 du 29 décembre 1989 art. 1*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-1063 1967-11-15 ART. 29
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°83-1261 1983-12-30 ART. 46, art. 19 JORF 7 JANVIER 1984 en vigueur le 1er AVRIL 1984
+	  - Décret n°85-956 1985-09-11 art. 1, art. 2, art. 3 JORF 12 septembre 1985 en vigueur le 1er octobre 1985
+	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+
+	**Cité par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R421-49 (M)
 
 
 ### TITRE IX : Dispositions communes au titre III du livre Ier, au chapitre V du titre Ier du livre III et aux titres Ier à IV et VI du présent livre
