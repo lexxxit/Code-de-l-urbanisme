@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1984-05-06
+Version Consolidée au 1984-06-26
 
 # Partie législative
 
@@ -49186,6 +49186,201 @@ Suippes (Marne et Ardennes), Mailly (Marne et Aube), Mourmelon (Marne), Sissonne
 	**Cite**:
 
 	  - Code de l'urbanisme R422-1 al. 2
+
+
+#### CHAPITRE IV : Etablissement de l'assiette et liquidation des impositions dont le permis de construire constitue le fait générateur
+
+#####  Section 1 : Déconcentration auprès du maire.
+
+###### Article A424-1
+
+En application des dispositions de l'article R. 424-1, le maire ou le président d'un établissement public de coopération
+intercommunale peuvent se faire confier l'établissement de l'assiette et la liquidation de l'ensemble des impositions dont le
+permis de construire constitue le fait générateur, soit :
+
+La taxe locale d'équipement et la taxe complémentaire à la taxe locale d'équipement perçue en région d'Ile-de-France ;
+
+La taxe départementale d'espaces verts ;
+
+La taxe départementale pour le financement des conseils d'architecture, d'urbanisme et de l'environnement ;
+
+La participation en cas de dépassement de coefficient d'occupation du sol ;
+
+Le versement résultant du dépassement du plafond légal de densité ;
+
+La redevance pour création de locaux à usage de bureaux et de locaux de recherche en région d'Ile-de-France.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. A424-15 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. A424-16 (V)
+	  - Code de l'urbanisme - art. A424-2 (V)
+	  - Code de l'urbanisme - art. A424-4 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme R424-1
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de l'urbanisme R424-1
+
+
+###### Article A424-2
+
+Lorsque le responsable du service de l'Etat dans le département, chargé de l'urbanisme, compétent en matière d'établissement
+de l'assiette et de liquidation des impositions précitées, est saisi d'une demande du maire ou du président de
+l'établissement public de coopération intercommunale compétent ou qu'il propose à ces derniers d'exercer cette mission
+fiscale au nom de l'Etat, il apprécie notamment que les services municipaux ou ceux de l'établissement public de coopération
+intercommunale compétents comportent une organisation technique suffisante *autorités compétentes*.
+
+L'arrêté portant déconcentration auprès du maire ou du président de l'établissement de coopération intercommunale de
+l'établissement de l'assiette et de la liquidation de ces impositions est signé par le préfet sur proposition du responsable
+du service de l'Etat dans le département, chargé de l'urbanisme. Il fait l'objet d'une publication dans le recueil des actes
+administratifs du département. Il est affiché en mairie et est inséré en caractères apparents dans l'un des journaux
+quotidiens publiés dans le département. Il est transmis au directeur des services fiscaux et au président du conseil
+général*publicité*.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. A424-16 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de l'urbanisme R424-1
+
+
+###### Article A424-3
+
+Les dispositions de l'arrêté préfectoral sont applicables aux demandes de permis de construire déposées en mairie à compter
+de la date de sa publication.
+
+Le préfet met fin à ces dispositions, par arrêté pris sur proposition du responsable du service de l'Etat dans le
+département, chargé de l'urbanisme, soit à l'initiative de celui-ci, soit sur la demande du maire ou du président de
+l'établissement public de coopération intercommunale compétent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. A424-17 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. A424-4 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de l'urbanisme R424-1
+
+
+###### Article A424-4
+
+Le responsable du service de l'Etat dans le département chargé de l'urbanisme reste compétent pour*autorité compétente* :
+
+1° L'établissement de l'assiette et la liquidation des impositions afférentes aux permis de construire délivrés par l'Etat
+dans les cas cités au dernier alinéa de l'article L. 421-2-1.
+
+2° Veiller à l'application des lois et règlements dans l'exercice de la mission d'établissement de l'assiette et de
+liquidation des impositions citées à l'article A. 424-1. A ce titre, il lui appartient, le cas échéant, de rectifier toute
+erreur dans l'établissement de ces impositions et de se substituer au maire en cas de carence de celui-ci. Par ailleurs, il
+répond aux réclamations relatives à ces impositions lorsqu'il est saisi directement d'un recours hiérarchique.
+
+3° L'instruction des demandes de remise gracieuse des amendes fiscales résultant des infractions à la législation sur le
+permis de construire, sur lesquelles se prononce le ministre chargé de l'urbanisme en vertu des dispositions de l'article 422
+A de l'annexe III du code général des impôts.
+
+4° La collecte et la transmission de statistiques relatives à ces impositions.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 422 A
+	  - Code de l'urbanisme - art. A424-1 (M)
+	  - Code de l'urbanisme - art. L421-2-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. A424-18 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de l'urbanisme R424-1
+
+
+###### Article A424-5
+
+L'arrêté préfectoral comporte obligatoirement*contenu* :
+
+1° La liste des impositions dont le permis de construire constitue le fait générateur et qui sont exigibles sur le territoire
+de chaque commune intéressée à la date d'intervention de cet arrêté. Cette liste est modifiée, le cas échéant, par un nouvel
+arrêté préfectoral.
+
+2° Les conditions et les délais de transmission des fiches de liquidation, de dégrèvement ou de restitution, qui sont
+transmises par le maire ou par le président de l'établissement public de coopération intercommunale au directeur des services
+fiscaux, au responsable du service de l'Etat dans le département, chargé de l'urbanisme, et au titulaire du permis de
+construire.
+
+Une fiche modificative est également transmise en cas de modification apportée au permis de construire ou à l'autorisation
+tacite de construire lorsque cette modification a une incidence sur l'assiette d'une taxe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de l'urbanisme R424-1
+
+
+###### Article A424-6
+
+Les demandes d'information ainsi que les réclamations sont examinées par le maire ou par le président de l'établissement
+public de coopération intercommunale, qui y répond.
+
+Le cas échéant, le maire ou le président de l'établissement public de coopération intercommunale compétent notifient les
+fiches modificatives nécessaires au directeur des services fiscaux, au chef du service de l'Etat dans le département, chargé
+de l'urbanisme, et au constructeur concerné.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de l'urbanisme R424-1
 
 
 ### TITRE III : Permis de démolir
