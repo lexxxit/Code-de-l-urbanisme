@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1988-07-08
+Version Consolidée au 1988-08-05
 
 # Partie législative
 
