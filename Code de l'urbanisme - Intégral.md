@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1985-12-05
+Version Consolidée au 1986-01-01
 
 # Partie législative
 
@@ -10594,6 +10594,37 @@ bénéficient directement de cette servitude. Dans ce cas, la commune est de dro
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L322-4-1
+
+Le président de l'association foncière urbaine exécute les décisions du conseil des syndics et de l'assemblée générale,
+prépare le budget et le compte administratif des opérations de l'association et assure le paiement des dépenses. Il peut se
+faire assister par une personne, physique ou morale, agissant en qualité de prestataire de services, à laquelle peuvent être
+confiées toutes autres missions concernant la réalisation de l'objet de l'association.
+
+Le contrat de droit privé passé à cet effet définit les missions et le mode de rémunération du prestataire de services ; le
+projet de contrat est joint au dossier de demande d'autorisation soumis à l'enquête publique prévue à l'article 6 du décret
+du 18 décembre 1927.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°1927-12-18 art. 6
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-729 1985-07-18 art. 21 V
+
+	**Créé par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 21 (V) JORF 19 juillet 1985 en vigueur le 1er janvier 1986
+	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985 en vigueur le 1er janvier 1986
 
 
 ###### Article L322-5
