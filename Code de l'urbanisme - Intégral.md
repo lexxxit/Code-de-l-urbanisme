@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2002-01-04
+Version Consolidée au 2002-01-15
 
 # Partie législative
 
@@ -51723,22 +51723,21 @@ transferts à titre gratuit sont exclus du champ d'application du présent titre
 L'agrément institué à l'article R. 510-1 est accordé, accordé sous condition, refusé ou ajourné pour complément
 d'instruction :
 
-1° Par un comité de décentralisation placé auprès du ministre chargé de l'aménagement du territoire, lorsque l'opération est
-réalisée par un service de l'Etat ou par les personnes publiques ou privées soumises à son contrôle dont l'activité ne
-s'exerce pas dans le secteur concurrentiel, et lorsque l'activité du service ou des personnes concernés s'exerce au-delà de
-la région d'Ile-de-France ;
+1° Par un comité pour l'implantation territoriale des emplois publics placé auprès des ministres chargés de la réforme de
+l'Etat et de l'aménagement du territoire, lorsque l'opération est réalisée par un service de l'Etat ou par les personnes
+publiques ou privées soumises à son contrôle dont l'activité ne s'exerce pas dans le secteur concurrentiel, et lorsque
+l'activité du service ou des personnes concernés s'exerce au-delà de la région d'Ile-de-France.
 
 En cas de refus d'agrément, le ministre intéressé peut, dans un délai de deux mois après la notification, saisir le Premier
 ministre, qui décide, après avis du ministre chargé de l'aménagement du territoire, du ministre chargé de l'urbanisme, du
-ministre chargé de l'économie, du ministre chargé du budget, du ministre chargé de la réforme de l'Etat et du préfet de la
-région d'Ile-de-France ;
+ministre chargé du budget et du ministre chargé de la réforme de l'Etat ; 
 
 2° Par le préfet de département pour toute opération de construction, reconstruction ou extension ne relevant pas des cas
 prévus au 1° du présent article, lorsqu'il existe une convention visée à l'article R. 510-5 en cours de validité ;
 
-3° Par le préfet de la région d'Ile-de-France dans tous les autres cas. Il peut consulter le comité de décentralisation sur
-toute demande d'agrément. Sa décision fait l'objet d'un arrêté publié au Recueil des actes administratifs de la préfecture de
-la région d'Ile-de-France.
+3° Par le préfet de la région d'Ile-de-France dans tous les autres cas. Il peut consulter le comité pour l'implantation
+territoriale des emplois publics sur toute demande d'agrément relevant de sa compétence. Sa décision fait l'objet d'un arrêté
+publié au Recueil des actes administratifs de la préfecture de la région d'Ile-de-France.
 
 Tout refus d'agrément ou agrément sous condition doit être motivé.
 
@@ -51757,7 +51756,7 @@ délai, l'agrément est réputé accordé dans les termes où il a été demand�
 
 	**Modifié par**:
 
-	  - Décret n°2000-368 du 26 avril 2000 - art. 1 () JORF 29 avril 2000
+	  - Décret n°2002-59 du 14 janvier 2002 - art. 1 () JORF 15 janvier 2002
 
 	**Cite**:
 
@@ -51770,18 +51769,19 @@ délai, l'agrément est réputé accordé dans les termes où il a été demand�
 
 ###### Article R*510-3
 
-Le comité de décentralisation institué à l'article R. 510-2 est composé de treize membres, comprenant trois élus des
-collectivités territoriales dont un au moins d'une collectivité territoriale d'Ile-de-France, nommés par arrêté du Premier
-ministre.
+Le comité pour l'implantation territoriale des emplois publics mentionné au 1° de l'article R. 510-2 est composé de douze
+membres.
 
-Il ne délibère que si la moitié au moins de ses membres arrondie à l'unité supérieure, dont les deux tiers des représentants
-de l'administration, sont présents.
+Son président est un fonctionnaire de l'Etat, nommé par arrêté du Premier ministre, après avis du ministre chargé de la
+réforme de l'Etat et du ministre chargé de l'aménagement du territoire.
 
-La composition du comité est fixée par arrêté du Premier ministre. Son organisation et les conditions de son fonctionnement
-sont précisées dans les mêmes conditions sur proposition du ministre chargé de l'aménagement du territoire et du ministre
-chargé de l'urbanisme.
+Le comité ne délibère que si au moins cinq de ses membres sont présents.
 
-Aucun membre du comité ne peut délibérer sur un dossier de demande d'agrément auquel il a un intérêt personnel et direct.
+La composition, l'organisation et les conditions de fonctionnement du comité sont précisées par arrêté du Premier ministre,
+après avis du ministre chargé de la réforme de l'Etat et du ministre chargé de l'aménagement du territoire.
+
+Aucun membre du comité ne peut délibérer sur un dossier de demande d'agrément auquel il a un intérêt personnel et direct. Les
+membres du comité représentant un ministère dont un dossier est soumis au comité ne prennent pas part au vote.
 
 **Liens relatifs à cet article**
 
@@ -51800,7 +51800,11 @@ Aucun membre du comité ne peut délibérer sur un dossier de demande d'agrémen
 
 	**Modifié par**:
 
-	  - Décret n°95-690 du 9 mai 1995 - art. 3 () JORF 11 mai 1995 en vigueur le 1er septembre 1995
+	  - Décret n°2002-59 du 14 janvier 2002 - art. 2 () JORF 15 janvier 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1599 du 12 novembre 2007 - art. 5 () JORF 14 novembre 2007
 
 	**Cite**:
 
@@ -51995,6 +51999,30 @@ services dont les activités ne s'exercent pas au-delà du département d'implan
 	  - Décret n°2000-368 du 26 avril 2000 - art. 3 () JORF 29 avril 2000
 
 
+###### Article R*510-7
+
+Le comité pour l'implantation territoriale des emplois publics, le préfet de la région d'Ile-de-France et les préfets de
+département veillent, chacun en ce qui le concerne, à ce que les opérations qui leur sont soumises et les agréments délivrés
+soient compatibles avec les orientations fixées par les directives territoriales d'aménagement et le schéma directeur de la
+région d'Ile-de-France, avec les orientations de la politique d'aménagement et de développement du territoire, ainsi qu'avec
+celles de la politique de la ville et notamment celles qui ont été approuvées en comité interministériel d'aménagement et de
+développement du territoire et en comité interministériel de la ville.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-944 1967-10-24 ART. 7
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°2002-59 du 14 janvier 2002 - art. 3 () JORF 15 janvier 2002
+
+
 ###### Article R*510-8
 
 Dans le cas où l'agrément est requis, l'accord préalable et le permis de construire ne peuvent être délivrés, les fonds
@@ -52117,22 +52145,24 @@ l'agrément *tacite* est réputé être accordé.
 
 ###### Article R*510-13
 
-Le comité institué par l'article R. 510-2 [*décentralisation, attributions*] est chargé, de façon permanente, dans les
-conditions définies par le ministre de l'aménagement du territoire et par le ministre chargé de la réforme de l'Etat :
+Le comité pour l'implantation territoriale des emplois publics est chargé, dans des conditions définies par le ministre
+chargé de la réforme de l'Etat et par le ministre chargé de l'aménagement du territoire, de préparer les mesures propres à
+assurer une répartition équilibrée des emplois publics sur le territoire en prenant en compte, notamment, les besoins et les
+attentes des usagers des services publics, le souci d'amélioration de l'efficacité des services de l'Etat et de ses
+établissements publics et la modernisation de la gestion publique. A cette fin :
 
-a) De déterminer ceux des services et établissements civils ou militaires relevant de l'Etat ou soumis à son contrôle, tels
-qu'ils sont définis à l'article R. 510-4 dont la présence dans la région parisienne ne s'impose ni par les tâches qu'ils ont
-à remplir ni par les besoins auxquels ils répondent ;
+a) Il détermine ceux des services de l'Etat et celles des personnes morales soumises au contrôle de ce dernier, mentionnés au
+1° de l'article R. 510-2, dont la présence dans la région d'Ile-de-France ne s'impose ni par les tâches qu'ils ont à remplir,
+ni par les besoins auxquels ils répondent ;
 
-b) D'entreprendre toute enquête ou étude visant à définir les conditions techniques et financières dans lesquelles ces
-services et établissements pourraient être en tout ou partie transférés en des points du territoire où ils contribueraient
-utilement à un développement équilibré des régions ;
+b) Il entreprend toute enquête ou étude visant à définir les conditions techniques, financières et sociales, dans lesquelles
+ces services et personnes morales pourraient être en tout ou partie transférés en des points du territoire où ils
+contribueraient utilement à un développement équilibré des régions ;
 
-c) D'analyser pour certaines branches d'activité les facteurs d'ordre économique ou technique qui déterminent la présence à
-l'intérieur de la zone définie à l'article R. 510-1 des entreprises ou établissements ne relevant pas de l'Etat et non soumis
-à son contrôle et d'entreprendre toute étude tendant à définir les mesures propres à favoriser l'implantation de ces
-entreprises ou établissements dans d'autres régions où ils contribueraient utilement à un développement économique équilibré
-de celles-ci.
+c) Il propose à l'approbation du comité interministériel d'aménagement et de développement du territoire des opérations de
+transfert concernant des services ou personnes morales mentionnés au a. Le comité assure la coordination de ces opérations
+et, lorsqu'elles ont été approuvées par le comité interministériel d'aménagement du territoire, veille à ce qu'elles soient
+conduites à leur terme. Il peut adresser des recommandations aux services et personnes morales concernés par ces opérations.
 
 **Liens relatifs à cet article**
 
@@ -52146,11 +52176,11 @@ de celles-ci.
 
 	**Modifié par**:
 
-	  - Décret n°2000-368 du 26 avril 2000 - art. 5 () JORF 29 avril 2000
+	  - Décret n°2002-59 du 14 janvier 2002 - art. 4 () JORF 15 janvier 2002
 
 	**Cite**:
 
-	  - Code de l'urbanisme R510-2, R510-4, R510-1
+	  - Code de l'urbanisme R510-2
 
 
 ###### Article R*510-14
