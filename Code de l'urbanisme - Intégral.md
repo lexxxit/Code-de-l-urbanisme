@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1993-03-26
+Version Consolidée au 1993-03-28
 
 # Partie législative
 
@@ -19637,18 +19637,17 @@ règles fixées à l'article L. 480-1.
 ###### Article R*111-1
 
 Les dispositions du présent chapitre ne sont pas applicables dans les territoires dotés d'un plan d'occupation des sols rendu
-public ou approuvé, ou d'un document d'urbanisme en tenant lieu, à l'exception des articles R. 111-2, R. 111-3, R. 111-3-2,
-R. 111-14 R. 111-4 R. 111-14-2 R.111-15 R. 111-21
+public ou approuvé, ou d'un document d'urbanisme en tenant lieu, à l'exception des articles R. 111-2, R. 111-3, R.111-3-2,
+R.111-4, R.111-14-2, R.111-15, R. 111-21.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°83-813 1983-09-09 art. 6 JORF 11 SEPTEMBRE 1983 en vigueur le 1er OCTOBRE 1983
+	  - Décret n°93-614 du 26 mars 1993 - art. 14 () JORF 28 mars 1993
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°83-851 du 23 septembre 1983 - art. 1 (V)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*111-15 (M)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R111-14 (M)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R111-2 (M)
@@ -19669,7 +19668,6 @@ R. 111-14 R. 111-4 R. 111-14-2 R.111-15 R. 111-21
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R111-14 (M)
 	  - Code de l'urbanisme - art. R111-14-2 (Ab)
 	  - Code de l'urbanisme - art. R111-15 (M)
 	  - Code de l'urbanisme - art. R111-2 (M)
@@ -20170,59 +20168,6 @@ dépenses de fonctionnement des services publics.
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R142-5 (MMN)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R111-14
-
-L'autorité compétente exige, en tant que de besoin :
-
-a) La réalisation et le financement des équipements propres à l'opération définis à l'article L. 332-15;
-
-b) Les participations visées aux articles L. 332-6-1 (2°) et L. 332-9;
-
-c) La construction de locaux spécialement destinés à l'équipement commercial et artisanal nécessaire aux besoins des
-occupants des immeubles projetés ;
-
-d) La constitution d'une association syndicale chargée de la gestion et de l'entretien des ouvrages et aménagements d'intérêt
-collectif.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°61-1298 1961-11-30 ART. 14
-	  - Code de l'urbanisme - art. R110-14 (T)
-
-	**Modifié par**:
-
-	  - Décret n°86-517 du 14 mars 1986 - art. 49 () JORF 16 mars 1986
-
-	**Abrogé par**:
-
-	  - Décret n°93-614 du 26 mars 1993 - art. 14 () JORF 28 mars 1993
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. L142-2 (M)
-	  - Code de l'urbanisme - art. R*111-1 (Ab)
-	  - Code de l'urbanisme - art. R*315-1 (M)
-	  - Code de l'urbanisme - art. R*421-29 (Ab)
-	  - Code de l'urbanisme - art. R421-32 (M)
-	  - Code de l'urbanisme - art. R421-37 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L332-15 (M)
-	  - Code de l'urbanisme - art. L332-6-1 (M)
-	  - Code de l'urbanisme - art. L332-9 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R111-14 (M)
 
 	**Codifié par**:
 
@@ -25950,6 +25895,8 @@ dans ce registre les rétrocessions réalisées en application de l'article L. 1
 
 #### Chapitre IV : Dispositions particulières à la région de Corse.
 
+#####  Section 1 : Schéma d'aménagement de la Corse.
+
 ###### Article R*144-1
 
 Le schéma d'aménagement de la Corse est élaboré à l'initiative et sous l'autorité de l'assemblée de Corse. L'ensemble de la
@@ -25965,9 +25912,9 @@ procédure relative au schéma est conduit par le président de cette assemblée
 
 	  - TXT_SOURCE: Loi n°82-659 du 30 juillet 1982 - art. 11 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-697 1983-07-28 ART. 1 JORF 29 JUILLET 1983
+	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
 
 
 ###### Article R*144-2
@@ -25994,9 +25941,9 @@ des équipements publics ou d'intérêt général les plus importants.
 
 	  - TXT_SOURCE: Loi n°82-659 du 30 juillet 1982 - art. 11 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-697 1983-07-28 ART. 1 JORF 29 JUILLET 1983
+	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
 
 
 ###### Article R*144-3
@@ -26031,9 +25978,9 @@ remplacer, en cas d'absence ou d'empêchement pour quelque cause que ce soit.
 
 	  - TXT_SOURCE: Loi n°82-659 du 30 juillet 1982 - art. 11 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-697 1983-07-28 ART. 1 JORF 29 JUILLET 1983
+	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
 
 
 ###### Article R*144-4
@@ -26047,10 +25994,6 @@ région ; cet arrêté fixe également la date limite et les modalités de cette
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code de l'urbanisme R144-3
-
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
@@ -26059,9 +26002,13 @@ région ; cet arrêté fixe également la date limite et les modalités de cette
 
 	  - TXT_SOURCE: Loi n°82-659 du 30 juillet 1982 - art. 11 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-697 1983-07-28 ART. 1 JORF 29 JUILLET 1983
+	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
+
+	**Cite**:
+
+	  - Code de l'urbanisme R144-3
 
 
 ###### Article R*144-5
@@ -26078,6 +26025,10 @@ entendu par la commission.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
 	**Cite**:
 
 	  - Loi n°82-659 1982-07-30 ART. 14, ART. 15 ET ART. 20
@@ -26087,13 +26038,9 @@ entendu par la commission.
 
 	  - TXT_SOURCE: Loi n°82-659 du 30 juillet 1982 - art. 11 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-697 1983-07-28 ART. 1 JORF 29 JUILLET 1983
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
+	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
 
 
 ###### Article R*144-6
@@ -26113,9 +26060,9 @@ et programmes que le schéma doit respecter ou prendre en compte conformément �
 
 	  - TXT_SOURCE: Loi n°82-659 du 30 juillet 1982 - art. 11 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-697 1983-07-28 ART. 1 JORF 29 JUILLET 1983
+	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
 
 	**Cite**:
 
@@ -26137,9 +26084,9 @@ Le projet de schéma d'aménagement de la Corse proposé par la commission est a
 
 	  - TXT_SOURCE: Loi n°82-659 du 30 juillet 1982 - art. 11 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-697 1983-07-28 ART. 1 JORF 29 JUILLET 1983
+	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
 
 
 ###### Article R*144-8
@@ -26165,9 +26112,9 @@ délai, leur avis est réputé favorable.
 
 	  - TXT_SOURCE: Loi n°82-659 du 30 juillet 1982 - art. 11 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-697 1983-07-28 ART. 1 JORF 29 JUILLET 1983
+	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
 
 
 ###### Article R*144-9
@@ -26191,9 +26138,9 @@ et affichée dans les mairies de toutes les communes [*publicité*].
 
 	  - TXT_SOURCE: Loi n°82-659 du 30 juillet 1982 - art. 11 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-697 1983-07-28 ART. 1 JORF 29 JUILLET 1983
+	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
 
 	**Cite**:
 
@@ -26209,21 +26156,21 @@ régionaux.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
 	**Liens**:
 
 	  - TXT_SOURCE: Loi n°82-659 du 30 juillet 1982 - art. 11 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-697 1983-07-28 ART. 1 JORF 29 JUILLET 1983
+	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
 
 	**Cite**:
 
 	  - Code de l'urbanisme R144-3
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*144-11
@@ -26247,9 +26194,9 @@ R. 144-8 et R. 144-9 sont respectivement ramenés à quinze jours et un mois.
 
 	  - TXT_SOURCE: Loi n°82-659 du 30 juillet 1982 - art. 11 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-697 1983-07-28 ART. 1 JORF 29 JUILLET 1983
+	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
 
 	**Cite**:
 
@@ -26275,9 +26222,9 @@ Corse au commissaire de la République de la région qui le transmet au ministre
 
 	  - TXT_SOURCE: Loi n°82-659 du 30 juillet 1982 - art. 11 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-697 1983-07-28 ART. 1 JORF 29 JUILLET 1983
+	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
 
 	**Cite**:
 
@@ -26305,9 +26252,9 @@ des départements et dans les mairies des chefs-lieux de canton.
 
 	  - TXT_SOURCE: Loi n°82-659 du 30 juillet 1982 - art. 11 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-697 1983-07-28 ART. 1 JORF 29 JUILLET 1983
+	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
 
 
 ###### Article R*144-14
@@ -26330,9 +26277,9 @@ L'assemblée de Corse dispose alors d'un délai de trois mois pour cette mise en
 
 	  - TXT_SOURCE: Loi n°82-659 du 30 juillet 1982 - art. 11 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-697 1983-07-28 ART. 1 JORF 29 JUILLET 1983
+	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
 
 
 ###### Article R*144-15
@@ -26350,21 +26297,25 @@ R. 144-13.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
 	**Liens**:
 
 	  - TXT_SOURCE: Loi n°82-659 du 30 juillet 1982 - art. 11 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-697 1983-07-28 ART. 1 JORF 29 JUILLET 1983
+	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
+
+	**Abrogé par**:
+
+	  - Décret n°94-851 du 30 septembre 1994 - art. 16 () JORF 1er octobre 1994
 
 	**Cite**:
 
 	  - Code de l'urbanisme R144-12
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*144-16
@@ -26382,9 +26333,9 @@ formes et délais prévus aux articles R. 144-3 à R. 144-14.
 
 	  - TXT_SOURCE: Loi n°82-659 du 30 juillet 1982 - art. 11 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-697 1983-07-28 ART. 1 JORF 29 JUILLET 1983
+	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
 
 	**Cite**:
 
@@ -26417,13 +26368,201 @@ public prévues à l'article R. 144-13.
 
 	  - TXT_SOURCE: Loi n°82-659 du 30 juillet 1982 - art. 11 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-697 1983-07-28 ART. 1 JORF 29 JUILLET 1983
+	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
 
 	**Cite**:
 
-	  - Code de l'urbanisme R144-14
+	  - Code de l'urbanisme R144-13
+
+
+#####  Section 2 : Conseil des sites de la Corse.
+
+###### Article R*144-18
+
+Le conseil des sites de la Corse est composé de vingt-huit membres, soit :
+
+1° Huit membres de droit :
+
+a) Le préfet de Corse ou son représentant, président ;
+
+b) Le préfet de la Haute-Corse ou son représentant ;
+
+c) Le directeur régional des affaires culturelles ou son représentant ;
+
+d) L'architecte des Bâtiments de France territorialement compétent pour les dossiers soumis à l'examen du conseil ;
+
+e) Le directeur régional de l'équipement ou son représentant ;
+
+f) Le directeur régional de l'agriculture et de la forêt ou son représentant ;
+
+g) Le directeur régional de l'environnement ou son représentant ;
+
+h) Le délégué régional au tourisme ;
+
+2° a) Quatre représentants de la collectivité territoriale de Corse désignés par l'assemblée de Corse ;
+
+b) Un représentant de chaque département désigné par le conseil général ;
+
+c) Un représentant des communes de chaque département désigné par l'association des maires de chaque département ;
+
+3° a) Un représentant de l'office de l'environnement de la Corse désignés par le président de l'office ;
+
+b) Un représentant du parc naturel régional désigné par l'assemblée générale du parc ;
+
+c) Trois personnalités qualifiées choisies en raison de leurs compétences en matière de protection des sites, d'urbanisme,
+d'architecture, de conservation de monuments historiques, d'archéologie, de culture corse ou dans les sciences de la nature,
+nommées par le préfet de Corse ;
+
+d) Un professionnel de la construction, un professionnel de l'architecture et de l'urbanisme et un représentant des
+organisations socioprofessionnelles concernées par le développement, l'aménagement et la protection du massif ;
+
+e) Quatre représentants d'associations se proposant par leurs statuts d'agir pour la sauvegarde des sites, du patrimoine
+architectural et urbain, de la culture corse ou concernées par le développement, l'aménagement et la protection du massif. Un
+au moins de ces représentants doit appartenir à une association agréée au titre de l'article L. 160-1 du code de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L160-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
+
+
+###### Article R*144-19
+
+Les membres du conseil des sites de la Corse visés aux d et e du 3° de l'article R. 144-18 sont désignés par le préfet de
+Corse sur proposition des associations ou organismes concernés, qui figurent sur une liste arrêtée par le préfet de Corse.
+Si, dans le mois suivant l'arrêté fixant cette liste, les associations ou organismes concernés n'ont pas fait de proposition,
+le préfet désigne directement les membres correspondants.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme R144-18
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
+
+
+###### Article R*144-20
+
+Le mandat des membres du conseil des sites est de trois ans renouvelable.
+
+Expire de droit le mandat du membre qui perd la qualité en vertu de laquelle il a été désigné.
+
+Toute personne désignée pour remplacer un membre du conseil exerce son mandat jusqu'à expiration du mandat de la personne
+qu'elle remplace.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
+
+
+###### Article R*144-21
+
+Le conseil des sites se réunit au moins trois fois par an sur convocation de son président et chaque fois que ce dernier le
+juge utile ou que la majorité de ses membres en fait la demande.
+
+La convocation qui est adressée douze jours au moins avant la séance, fixe le lieu de la réunion et précise l'ordre du jour.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
+
+
+###### Article R*144-22
+
+Le conseil des sites ne peut valablement délibérer que si quinze de ses membres assistent à la séance.
+
+Lorsque le quorum n'est pas atteint sur un ordre du jour donné, le conseil des sites délibère valablement sans condition de
+quorum après une nouvelle convocation portant sur le même ordre du jour et spécifiant qu'aucun quorum ne sera exigé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
+
+
+###### Article R*144-23
+
+En cas de partage égal des voix, la voix du président est prépondérante.
+
+Le scrutin secret est de droit lorsqu'il est demandé par trois au moins des membres composant le conseil des sites.
+
+Les fonctions de secrétaire sont exercées par un fonctionnaire désigné par le préfet de Corse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
+
+
+###### Article R*144-24
+
+Les administrations, organismes publics et collectivités territoriales qui ne sont pas représentés au conseil des sites
+peuvent être entendus par le conseil pour les affaires les concernant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
+
+
+###### Article R*144-25
+
+Le conseil des sites établit son règlement intérieur. Il peut constituer en son sein des groupes de travail spécialisés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
 
 
 #### Chapitre V : Dispositions particulières aux zones de montagne
@@ -28794,6 +28933,160 @@ l'article L. 211-5, l'acte de rétrocession précise que l'ancien propriétaire 
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R211-9
+
+Lorsque le préfet constate qu'une commune entre dans le champ d'application de l'article L. 302-5-1 du code de la
+construction et de l'habitation, il peut décider d'exercer par substitution au nom de l'Etat le droit de préemption urbain.
+Il notifie alors sa décision par lettre recommandée avec accusé de réception ou déposée contre décharge au maire de la
+commune concernée et demande que lui soit communiquée la copie des déclarations d'intention d'aliéner déposées en mairie et
+établies en application des articles R. 213-5 et R. 213-15 ainsi que des propositions d'acquisitions faites en application de
+l'article R. 211-7.
+
+Une copie de la lettre adressée au maire est envoyée par le préfet au titulaire du droit de préemption quand il ne s'agit pas
+de la commune, au directeur départemental des services fiscaux, au Conseil supérieur du notariat, au barreau constitué près
+le tribunal de grande instance dans le ressort duquel est institué le droit de substitution et au greffe du même tribunal.
+
+La décision préfectorale d'exercer par substitution le droit de préemption urbain est affichée dans la mairie de la commune
+concernée pendant un mois. Mention en est insérée dans deux journaux diffusés dans le département. Il en est de même de la
+décision par laquelle le préfet décide de ne plus exercer au nom de l'Etat le droit de préemption urbain.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°95-676 du 9 mai 1995 - art. 4 () JORF 10 mai 1995
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R211-10 (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R211-7 (M)
+	  - Code de l'urbanisme - art. R213-15 (M)
+	  - Code de l'urbanisme - art. R213-5 (Ab)
+	  - Code de la construction et de l'habitation. - art. L302-5-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°93-608 1986-03-25 art. 1 JORF 28 mars 1993
+
+
+###### Article R211-10
+
+La transmission par le maire au préfet des documents visés à l'article R. 211-9 s'effectue dans un délai de huit jours à
+compter de leur réception en mairie. Elle indique la date de l'avis de réception ou de la décharge donnée par la mairie.
+
+Si le préfet adresse au directeur des services fiscaux une copie de ces documents, en précisant que cette transmission vaut
+demande d'avis, le directeur des services fiscaux a vingt jours pour répondre.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°95-676 du 9 mai 1995 - art. 4 () JORF 10 mai 1995
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*410-17 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R211-9 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°93-608 1986-03-25 art. 1 JORF 28 mars 1993
+
+
+###### Article R211-11
+
+Quinze jours au plus tard avant l'expiration du délai de deux mois prévu à l'article R. 213-7, s'il s'agit d'une commune où
+le préfet a décidé d'exercer par substitution au nom de l'Etat le droit de préemption urbain, le titulaire du droit de
+préemption informe le préfet, par lettre recommandée avec accusé de réception, soit de son intention de préempter en
+mentionnant les motifs de sa décision ainsi que les modalités et le prix, soit de sa décision de renoncer à préempter.
+
+Si le titulaire renonce à exercer son droit de préemption ou n'a pas fait connaître son intention de l'exercer avant la date
+limite prévue ci-dessus, le préfet peut exercer le droit de préemption par substitution. Il transmet alors, par lettre
+recommandée avec accusé de réception, ou déposée contre décharge, sa décision motivée avant l'expiration du délai prévu à
+l'article R. 213-7, simultanément au titulaire du droit de préemption et au vendeur. La motivation doit préciser la
+contribution qu'apportera le projet à la poursuite des objectifs définis par la loi d'orientation pour la ville. A défaut, le
+préfet est réputé avoir renoncé à exercer le droit de préemption.
+
+Les articles R. 213-8 à R. 213-13 sont applicables aux décisions de préemption prises par le préfet en application du présent
+article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°93-608 1986-03-25 art. 1 JORF 28 mars 1993
+
+	**Abrogé par**:
+
+	  - Décret n°95-676 du 9 mai 1995 - art. 4 () JORF 10 mai 1995
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*212-8 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R213-7 (Ab)
+	  - Code de l'urbanisme R213-7, R213-8 à R213-13
+
+
+###### Article R211-12
+
+Au plus tard quinze jours avant l'expiration du délai de trente jours prévu au troisième paragraphe de l'article R. 213-15,
+s'il s'agit d'une commune où le préfet a décidé d'exercer par substitution, au nom de l'Etat, le droit de préemption urbain,
+le titulaire du droit de préemption informe le préfet, par lettre recommandée avec accusé de réception, soit de son intention
+de se substituer à la dernière enchère en mentionnant les motifs de sa décision, soit de sa décision de renoncer à préempter.
+
+Si le titulaire renonce à exercer son droit de préemption ou n'a pas fait connaître son intention de l'exercer avant la date
+limite prévue ci-dessus, le préfet peut exercer le droit de préemption par substitution. Il notifie alors, par lettre
+recommandée avec accusé de réception, ou déposée contre décharge, sa décision motivée avant l'expiration du délai cité à
+l'alinéa précédent, au greffier ou au notaire et informe simultanément le titulaire du droit de préemption. La motivation
+doit préciser la contribution qu'apportera le projet à la poursuite des objectifs définis par la loi d'orientation pour la
+ville. A défaut, le préfet est réputé avoir renoncé à exercer le droit de préemption.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°95-676 du 9 mai 1995 - art. 4 () JORF 10 mai 1995
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L211-3 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L321-1 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*321-24 (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R213-15 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°93-608 1986-03-25 art. 1 JORF 28 mars 1993
+
+
 #### Chapitre II : Zones d'aménagement différé et périmètres provisoires
 
 ###### Article R212-1
@@ -30681,6 +30974,31 @@ concessions d'usage sont résolues en cas d'inexécution des charges.
 	**Cite**:
 
 	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L21-3 (M)
+
+
+###### Article R*311-20
+
+Mention des contributions exigées, des taxes et contributions versées ou obtenues dans le cadre de la réalisation des zones
+d'aménagement concerté est portée sur le registre prévu à l'article R. 332-41 dans les conditions que déterminent cet article
+et l'article R. 332-42.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme R332-41, R332-42
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°93-614 du 26 mars 1993 - art. 11 () JORF 28 mars 2001 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2001-261 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
 
 
 ###### Article R311-10-3
@@ -32715,10 +33033,10 @@ NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 
 ###### Article R*315-8
 
-Les statuts de l'association syndicale mentionnée à l'article R. 315-6 doivent prévoir [*contenu*] :
+Les statuts de l'association syndicale mentionnée à l'article R. 315-6 doivent prévoir *contenu* :
 
 a) Que seuls le lotisseur et les membres de l'association attributaires des lots qui ont donné lieu à l'obtention du
-certificat prévu à l'article R. 315-36 (a) participeront aux dépenses de gestion des équipements communs ;
+certificat prévu au a ou au b de l'article R. 315-36 participeront aux dépenses de gestion des équipements communs ;
 
 b) Que l'association a notamment pour objet l'acquisition, la gestion et l'entretien des terrains et équipements communs
 ainsi que leur cession éventuelle à une personne morale de droit public ;
@@ -32729,23 +33047,27 @@ l'association n'a pas été désigné en application des dispositions de l'artic
 d) La possibilité pour tout attributaire de lot de provoquer, par ordonnance sur requête du président du tribunal de grande
 instance, la réunion d'une assemblée générale si le lotisseur n'a pas respecté l'engagement prévu à l'article R. 315-6 (c).
 
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°93-614 du 26 mars 1993 - art. 15 () JORF 28 mars 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme R315-6, R315-36
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°84-228 1984-03-29 ART. 1 JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
-
-	**Cite**:
-
-	  - Code de l'urbanisme R315-36
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme R315-6
 
 
 ###### Article R*315-9
@@ -33004,14 +33326,14 @@ cette voie, sauf lorsque le plan d'occupation des sols ou le document d'urbanism
 spécifique les conditions d'accès à ladite voie.
 
 Les personnes publiques, services ou commissions consultés en application des alinéas précédents, qui n'ont pas fait
-connaître leur réponse dans le délai d'un mois à dater de la réception de la demande d'avis [*point de départ*], sont réputés
+connaître leur réponse dans le délai d'un mois à dater de la réception de la demande d'avis[*point de départ*], sont réputés
 avoir émis un avis favorable. Ce délai est porté à deux mois lorsqu'il est procédé  à la consultation de la commission
-départementale d'aménagement foncier en application de l'article 35 du code rural . Lorsque la réalisation du lotissement
-envisagé est subordonné à l'avis ou à l'accord d'une autorité , d'un service ou d'une commission en application de la loi du
+départementale d'aménagement foncier en application de l'article 35 du code rural. Lorsque la réalisation du lotissement
+envisagé est subordonné à l'avis ou à l'accord d'une autorité, d'un service ou d'une commission en application de la loi du
 31 décembre 1913 sur les monuments historiques, de la loi du 2 mai 1930 sur la protection des monuments naturels et des
 sites, du chapitre III de la loi n° 76-629 du 10 juillet 1976 relative à la protection de la nature, ou de l'article 71 de la
 loi n°83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les départements, les régions et
-l'état, l'autorité, le service ou la commission consulté  peut faire connâitre, par décision motivée, au service chargé de
+l'Etat, l'autorité, le service ou la commission consulté  peut faire connaître, par décision motivée, au service chargé de
 l'instruction de la demande son intention d'utiliser un délai plus long qui ne peut, en tout état de cause, excéder quatre
 mois.
 
@@ -33021,16 +33343,21 @@ d'utilité publique affectant l'utilisation du sol.
 
 Il propose les prescriptions auxquelles peut être subordonnée la délivrance de l'autorisation de lotissement.
 
+Le service chargé de l'instruction de la demande consulte en tant que de besoin les autorités et services publics habilités à
+demander que soient prescrites les contributions mentionnées à l'article L. 332-12. A défaut de réponse dans le délai d'un
+mois, ces autorités et services publics sont réputés n'avoir aucune proposition de contribution à formuler.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L315-6 (M)
+	  - Code de l'urbanisme - art. L332-12 (M)
 	  - Code rural 35
 	  - Loi n°1913-12-31
 	  - Loi n°1930-05-02
 	  - Loi n°76-629 1976-07-10
-	  - Loi n°83-8 1983-01-07 ART. 71
+	  - Loi n°83-8 1983-01-07 art. 71
 
 	**Cité par**:
 
@@ -33043,7 +33370,7 @@ Il propose les prescriptions auxquelles peut être subordonnée la délivrance d
 
 	**Modifié par**:
 
-	  - Décret n°89-381 1989-06-15 art. 3 JORF 15 juin 1989
+	  - Décret n°93-614 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
 
 
 ###### Article R*315-18-1
@@ -33650,26 +33977,39 @@ et la localisation des constructions ;
 d) Un règlement fixant les règles d'urbanisme applicables dans le lotissement qui comprend tout ou partie des règles
 contenues dans le règlement d'un plan d'occupation des sols en application de l'article R. 123-21 ;
 
-e) Les participations aux dépenses d'équipements publics dans les conditions prévues à l'article L. 332-12 .
+L'autorisation de lotir énumère celles des contributions prévues à l'article L. 332-12 qu'elle met, le cas échéant, à la
+charge du lotisseur.
+
+Dans le cas où sont exigées la participation pour le financement d'équipements publics exceptionnels mentionnée au c de
+l'article L. 332-12 ou la participation forfaitaire mentionnée au d du même article, l'autorisation de lotir en fixe le
+montant et énonce le mode d'évaluation de ce dernier.
+
+Lorsque la participation forfaitaire inclut une cession gratuite de terrain, l'autorisation de lotir détermine la superficie
+à céder et en mentionne la valeur déterminée par le directeur des services fiscaux.
+
+Lorsque la participation forfaitaire inclut le versement de la participation prévue à l'article L. 332-9 dans les programmes
+d'aménagement d'ensemble et que le lotisseur s'en acquitte en tout ou en partie, conformément à l'article L. 332-10 sous
+forme d'exécution de travaux ou d'apport de terrain, l'autorisation de lotir mentionne :
+
+Les caractéristiques des travaux et leur valeur déterminées d'un commun accord par le lotisseur et l'autorité compétente pour
+délivrer l'autorisation ;
+
+La superficie des terrains à apporter ainsi que leur valeur déterminée par le directeur des services fiscaux.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°87-885 du 30 octobre 1987 - art. 6 ()
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L332-12 (M)
-	  - Code de l'urbanisme R123-21, L332-12, R315-6
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*315-30 (M)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°93-614 du 26 mars 1993 - art. 16 () JORF 28 mars 1993
+	  - Décret n°93-614 du 26 mars 1993 - art. 2 () JORF 28 mars 1993
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*315-30 (M)
 
 
 ###### Article R*315-29-1
@@ -38467,25 +38807,45 @@ concordance du cadastre et du fichier immobilier.
 
 ###### Article R*322-17
 
-Le plan de remembrement défini à l'article R. 322-15 est envoyé au commissaire de la République du département qui, dans un
-délai d'un mois à compter de la réception dudit plan, par arrêté :
+Le plan de remembrement défini à l'article R. 322-15 est envoyé au préfet du département. 
 
-- approuve le plan de remembrement de l'association foncière urbaine, qui demeure annexé à l'arrêté ;
+Le préfet consulte en tant que de besoin les autorités et services publics habilités à demander que soient prescrites les
+contributions mentionnées à l'article L. 332-12. A défaut de réponse dans le délai d'un mois, ces autorités et services
+publics sont réputés n'avoir aucune proposition de contribution à formuler. 
 
-- prononce les transferts et attributions de propriété ainsi que les reports et attributions de droits réels qui résultent de
-ce plan ;
+Le préfet, par arrêté : 
 
-- prononce la clôture des opérations de remembrement.
+Approuve le plan de remembrement de l'association foncière urbaine, qui demeure annexé à l'arrêté ; 
 
+Prononce les transferts et attributions de propriétés ainsi que les reports et attributions de droits réels qui résultent de
+ce plan ; 
+
+Prononce la clôture des opérations de remembrement. 
+
+Cet arrêté énumère celles des contributions prévues à l'article L. 332-12 qu'il met, le cas échéant, à la charge de
+l'association foncière urbaine de remembrement. 
+
+Dans le cas où sont exigées la participation pour le financement d'équipements publics exceptionnels mentionnée au c de
+l'article L. 332-12 ou la participation forfaitaire mentionnée au d du même article, l'arrêté en fixe le montant et énonce le
+mode d'évaluation de ce dernier. 
+
+Lorsque la participation forfaitaire inclut une cession gratuite de terrain, l'arrêté détermine la superficie à céder et en
+mentionne la valeur déterminée par le directeur des services fiscaux. 
+
+Lorsque la participation forfaitaire inclut le versement de la participation prévue à l'article L. 332-9 dans les programmes
+d'aménagement d'ensemble et que l'association s'en acquitte en tout ou en partie, conformément à l'article L. 332-10 sous
+forme d'exécution de travaux ou d'apport de terrain, l'arrêté mentionne :
+
+- les caractéristiques de travaux et leur valeur déterminées d'un commun accord par l'association et le préfet ;
+
+- la superficie des terrains à apporter ainsi que leur valeur déterminée par le directeur des services fiscaux. 
+
+L'arrêté préfectoral intervient dans un délai de deux mois à compter de la réception du plan de remembrement par le préfet.
 Toutefois, dans le cas où il est envisagé de modifier les prescriptions d'urbanisme propres à l'opération qui ont été
-soumises à l'enquête publique, l'approbation ne peut intervenir qu'après que le conseil municipal a été de nouveau saisi dans
-les conditions prévues à l'article R. 322-8.
+soumises à l'enquête publique, l'approbation du plan de remembrement ne peut intervenir qu'après que le conseil municipal a
+été de nouveau saisi dans les conditions prévues à l'article R. 322-8.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 	**Anciens textes**:
 
@@ -38493,17 +38853,23 @@ les conditions prévues à l'article R. 322-8.
 
 	**Modifié par**:
 
-	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
-	  - Décret n°86-517 du 14 mars 1986 - art. 36 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+	  - Décret n°93-614 du 26 mars 1993 - art. 3 () JORF 28 mars 1993
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L332-10 (Ab)
+	  - Code de l'urbanisme - art. L332-12 (V)
+	  - Code de l'urbanisme - art. L332-9 (Ab)
+	  - Code de l'urbanisme - art. R*322-8 (V)
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*322-15 (V)
 	  - Code de l'urbanisme - art. R*322-16 (V)
 
-	**Cite**:
+	**Codifié par**:
 
-	  - Code de l'urbanisme R322-15, R322-8
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*322-18
@@ -41086,25 +41452,6 @@ les réclamations sont présentées instruites et jugées selon les régles de p
 	  - Décret n°2016-6 du 5 janvier 2016 - art. 1
 
 
-###### Article R332-24
-
-Le montant maximum de la participation pour non-réalisation d'aires de stationnement est fixé à 20000 F..
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°93-614 du 26 mars 1993 - art. 17 (V) JORF 28 mars 1993
-
-	**Cité par**:
-
-	  - Décret n°93-614 du 26 mars 1993 - art. 17 (V)
-
-
 #####    Sous-section 3 : Participation à la réalisation d'équipements publics instituée dans les secteurs d'aménagement
 
 ###### Article R*332-25
@@ -41697,6 +42044,82 @@ diversité de l'habitat.
 	**Abrogé par**:
 
 	  - Décret n°95-676 du 9 mai 1995 - art. 4 () JORF 10 mai 1995
+
+
+#####  Section 5 : Dispositions diverses
+
+###### Article R*332-42
+
+Les éléments à porter sur le registre prévu à l'article R. 332-41 et les conventions à y annexer sont communiqués au maire : 
+
+1° Par les autorités ayant prescrit les contributions mentionnées au 1° de l'article R. 332-41 ; 
+
+2° Par les autorités ou services publics ayant exigé les contributions mentionnées au 2° du même article ; 
+
+3° Par les bénéficiaires des taxes et contributions mentionnées au 3° du même article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°93-614 du 26 mars 1993 - art. 13 () JORF 28 mars 1993
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*311-11 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R332-41 (V)
+
+
+###### Article R332-41
+
+Il est ouvert en mairie pour être mis à la disposition du public un registre des taxes et contributions d'urbanisme.
+
+Ce registre, à feuillets non mobiles, est coté et paraphé par le maire.
+
+Sont portés sur ce registre, dans l'ordre chronologique de leur inscription :
+
+1° La nature, le montant ou la valeur des contributions prescrites en application du 2° de l'article L. 332-6-1, de l'article
+L. 332-9, du c et du d de l'article L. 332-12, les références de l'acte ayant prescrit la contribution ainsi que la
+dénomination et l'adresse du redevable et du bénéficiaire de chaque contribution ;
+
+2° La nature, le montant ou la valeur des contributions exigées dans le cadre de la réalisation des zones d'aménagement
+concerté, la dénomination et l'adresse du redevable et du bénéficiaire de chaque contribution. Copie de la convention
+prévoyant chaque contribution est annexée au registre ;
+
+3° La nature, le montant ou la valeur des taxes et contributions de toute nature versées ou obtenues en application des
+articles L. 311-4-1 et L. 332-6, la date de chaque versement ou obtention de contribution, les références de l'acte en raison
+duquel est effectué ou la contribution obtenue, la dénomination et l'adresse de la personne qui s'en est acquittée et de
+celle du bénéficiaire.
+
+Dans tous les cas, l'inscription mentionne la date à laquelle elle est portée sur le registre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°93-614 du 26 mars 1993 - art. 13 () JORF 28 mars 1993
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L311-4-1 (M)
+	  - Code de l'urbanisme - art. L332-12 (M)
+	  - Code de l'urbanisme - art. L332-6 (M)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*311-11 (V)
+	  - Code de l'urbanisme - art. R*332-42 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 #### Chapitre III : Versement résultant du dépassement du plafond légal de densité
@@ -43008,125 +43431,6 @@ l'urbanisme.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-
-#### CHAPITRE V : Aide à la création et à l'aménagement d'espaces verts.
-
-###### Article R335-1
-
-Des subventions de l'Etat, pour la création ou l'aménagement d'espaces verts tels que promenades, parcs ou jardins
-accessibles au public, peuvent être accordées aux départements, aux communes, aux établissements publics groupant plusieurs
-communes et ayant compétence en matière d'urbanisme, aux syndicats mixtes ou à leurs concessionnaires habilités à cet effet,
-ainsi qu'aux ports autonomes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°93-614 du 26 mars 1993 - art. 18 (V) JORF 28 mars 1993
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R333-1 (M)
-
-
-###### Article R335-2
-
-Le montant des subventions est déterminé, dans chaque cas, par le ministre chargé de l'urbanisme en fonction de l'intérêt de
-l'opération.
-
-Les dépenses afférentes à l'octroi de ces subventions sont imputées sur les crédits ouverts à cet effet au budget du
-ministère chargé de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-658 1966-09-01 ART. 2
-	  - Code de l'urbanisme - art. R333-2 (T)
-
-	**Abrogé par**:
-
-	  - Décret n°93-614 du 26 mars 1993 - art. 18 (V) JORF 28 mars 1993
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R335-3
-
-Les conditions d'octroi des subventions prévues au présent chapitre sont fixées par le décret n. 72-196 du 10 mars 1972
-portant réforme du régime général des subventions accordées par l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°72-196 1972-03-10
-
-	**Abrogé par**:
-
-	  - Décret n°93-614 du 26 mars 1993 - art. 18 (V) JORF 28 mars 1993
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R333-3 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R335-4
-
-Les demandes de subventions sont présentées et instruites dans les formes et conditions qui sont fixées par arrêté
-ministériel.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-658 1966-09-01 ART. 5
-	  - Code de l'urbanisme - art. R333-4 (T)
-
-	**Abrogé par**:
-
-	  - Décret n°93-614 du 26 mars 1993 - art. 18 (V) JORF 28 mars 1993
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R335-5
-
-L'attribution des subventions est subordonnée à l'engagement du bénéficiaire concernant l'entretien ultérieur de l'espace
-vert aménagé.
-
-Les subventions sont versées aux bénéficiaires conformément à un plan de financement préalablement arrêté.
-
-Le contrôle des travaux est assuré par le directeur départemental de l'équipement. Celui-ci établit les certificats
-administratifs nécessaires au paiement des subventions.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°66-658 1966-09-01 ART. 6
-	  - Code de l'urbanisme - art. R333-5 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°93-614 du 26 mars 1993 - art. 18 (V) JORF 28 mars 1993
 
 
 ### Titre IV : Départements d'outre-mer
@@ -45034,14 +45338,23 @@ spécifique les conditions d'accès à ladite voie.
 Sous réserve des dispositions particulières à la consultation des autorités appelées à émettre un avis ou à donner un accord
 en application des articles R. 421-38-2 et suivants, tous services, autorités ou commissions qui n'ont pas fait connaître
 leur réponse motivée dans le délai d'un mois à dater de la réception de la demande d'avis, sont réputés avoir émis un avis
-favorable. Ce délai est porté à deux mois en ce qui concerne les commissions nationales.
+favorable. Ce délai est porté à deux mois en ce qui concerne les commissions nationales.    " Le service chargé de
+l'instruction de la demande consulte en tant que de besoin les autorités et services publics habilités à demander que soient
+prescrites les contributions prévues au 2° de l'article L. 332-6-1 ou à l'article L. 332-9. A défaut de réponse dans le délai
+d'un mois, ces autorités et services publics sont réputés n'avoir aucune proposition de contribution à formuler. "
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°73-1193 1973-12-27 ART. 26 AL. 2
+	  - Loi n°73-1193 du 27 décembre 1973 - art. 26 (Ab)
 	  - Décret n°77-860 1977-07-26
+	  - Code de l'urbanisme - art. L332-6-1 (M)
+	  - Code de l'urbanisme - art. R421-38-2 (M)
+
+	**Modifié par**:
+
+	  - Décret n°93-614 du 26 mars 1993 - art. 4 () JORF 28 mars 1993
 
 	**Cité par**:
 
@@ -45060,10 +45373,6 @@ favorable. Ce délai est porté à deux mois en ce qui concerne les commissions 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°89-381 1989-06-15 art. 3 JORF 15 juin 1989
 
 
 ###### Article R421-13
@@ -45707,20 +46016,36 @@ ou une proposition de sursis à statuer ; dans ces trois derniers cas, l'avis do
 
 L'autorité compétente pour statuer sur la demande se prononce par arrêté.
 
-Dans le cas prévu à l'article R. 421-7-1, le permis de construire comporte tout ou partie des prescriptions et règles fixées
-à l'article R. 111-14 et, lorsqu'a été joint à la demande de permis de construire le plan de division du terrain prévu au
-second alinéa de l'article R. 421-7-1, il indique les droits résiduels à construire sur chacun des terrains devant provenir
-de la division.
+Le permis de construire énumère celles des contributions prévues au 2° de l'article L. 332-6-1 ou à l'article L. 332-9 qu'il
+met, le cas échéant, à la charge du bénéficiaire du permis de construire. Il fixe le montant de chacune de ces contributions
+et en énonce le mode d'évaluation.
+
+Lorsqu'il impose une cession gratuite de terrain, il détermine la superficie à céder et en mentionne la valeur déterminée par
+le directeur des services fiscaux.
+
+Lorsqu'il impose le versement de la participation prévue à l'article L. 332-9 dans les programmes d'aménagement d'ensemble et
+que le bénéficiaire s'en acquitte en tout ou en partie conformément à l'article L. 332-10 sous forme d'exécution de travaux
+ou d'apport de terrain, il mentionne :
+
+- les caractéristiques des travaux et leur valeur déterminées d'un commun accord par le pétitionnaire et l'autorité
+compétente pour délivrer le permis de construire ;
+
+- la superficie des terrains à apporter ainsi que leur valeur déterminée par le directeur des services fiscaux.
+
+Dans le cas prévu à l'article R. 421-7-1, le permis de construire impose en tant que de besoin la constitution d'une
+association syndicale chargée de la gestion et de l'entretien des ouvrages et aménagements d'intérêt collectif. Lorsqu'a été
+joint à la demande de permis de construire le plan de division du terrain prévu au second alinéa de l'article R. 421-7-1, le
+permis de construire indique les droits de construire résiduels attachés à chacun des terrains devant provenir de la
+division.
 
 Si la décision comporte rejet de la demande, si elle est assortie de prescriptions ou s'il s'agit d'un sursis à statuer, elle
 doit être motivée. Il en est de même lorsqu'une dérogation ou une adaptation mineure est nécessaire.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°83-1261 1983-12-30 ART. 49, ART. 50 : Modalités d'application
-	  - SPEC_APPLI: Décret n°83-1261 du 30 décembre 1983 - art. 49 (M)
+	  - Décret n°93-614 du 26 mars 1993 - art. 5 () JORF 28 mars 1993
 
 	**Cité par**:
 
@@ -45732,16 +46057,14 @@ doit être motivée. Il en est de même lorsqu'une dérogation ou une adaptation
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R111-14 (M)
+	  - Code de l'urbanisme - art. L332-10 (V)
+	  - Code de l'urbanisme - art. L332-6-1 (M)
+	  - Code de l'urbanisme - art. L332-9 (M)
 	  - Code de l'urbanisme - art. R421-7-1 (M)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°83-1261 1983-04-01 ART. 17 JORF 7 JANVIER 1984 date d'entrée en vigueur 1 AVRIL 1984
 
 
 ###### Article R*421-30
@@ -45987,51 +46310,50 @@ En cas de permis tacite, le préfet reçoit, sans délai, le dossier et les piè
 	  - Décret n°73-1023 1973-11-08
 
 
-#####  Paragraphe 3 : Dispositions particulières applicables dans les communes où un P. O. S. n'a pas été approuvé.
+#####  Paragraphe 3 : Dispositions particulières applicables dans les communes où un plan d'occupation des sols n'a pas été approuvé.
 
 ###### Article R*421-36
 
 Dans les communes où un plan d'occupation des sols n'a pas été approuvé, la décision est prise par le maire, au nom de
-l'Etat ; toutefois, elle est prise par le préfet dans les cas suivants [*autorité compétente*] : 
+l'Etat ; toutefois, elle est prise par le préfet dans les cas suivants[*autorité compétente*] :
 
 1° Pour les constructions édifiées pour le compte de l'Etat, de la région ou du département, de leurs établissements publics
-ou de leurs concessionnaires, ainsi que pour le compte d'un Etat étranger ou d'une organisation internationale ; 
+ou de leurs concessionnaires, ainsi que pour le compte d'un Etat étranger ou d'une organisation internationale ;
 
 2° Pour les constructions à usage industriel, commercial ou de bureaux lorsque la superficie de planchers hors oeuvre nette
-est égale ou supérieure à 1000 mètres carrés au total ; 
+est égale ou supérieure à 1 000 mètres carrés au total ;
 
 3° Pour les immeubles de grande hauteur au sens de l'article R. 122-2 du code de la construction et de l'habitation, dans les
-conditions prévues à l'article R. 421-47 ; 
+conditions prévues à l'article R. 421-47 ;
 
-4° Lorsqu'est imposé au constructeur le paiement de la participation prévue à l'article L. 421-3 (alinéas 3 et 4) ou
-l'obligation de participer financièrement aux dépenses d'équipements publics ou celle de céder gratuitement du terrain en
-vertu des dispositions du présent code à une collectivité publique autre que la commune intéressée ; 
+4° Lorsqu'est mis à la charge du constructeur tout ou partie des contributions prévues au 2° de l'article L. 332-6-1 ou à
+l'article L. 332-9.
 
 5° Lorsqu'une dérogation ou une adaptation mineure aux dispositions mentionnées aux articles R. 421-15 (alinéa 3) est
-nécessaire ; 
+nécessaire ;
 
 6° Lorsque le maire et le responsable du service de l'Etat dans le département, chargé de l'urbanisme ont émis des avis en
 sens contraire ;
 
-7° Lorsqu'il y a lieu de prendre une décision de sursis à statuer  ; 
+7° Lorsqu'il y a lieu de prendre une décision de sursis à statuer ;
 
-8° Dans les cas prévus au 1° de l'article R. 490-3 et à l'article R. 490-4 ; 
+8° Dans les cas prévus au 1° de l'article R. 490-3 et à l'article R. 490-4 ;
 
 9° Pour les constructions comprises dans les zones délimitées par le plan d'exposition au bruit d'un aérodrome approuvé par
-arrêté du préfet ; 
+arrêté    du préfet ;
 
 10° Pour les constructions pour lesquelles un changement de destination doit être autorisé en application de l'article L.
-631-7 du code de la construction et de l'habitation ; 
+631-7 du code de la construction et de l'habitation ;
 
 11° Dans les cas prévus à l'article R. 421-38-8, sauf si la construction se trouve à l'intérieur d'un site inscrit, auquel
-cas elle est de la compétence du maire, au nom de l'Etat ; 
+cas elle est de la compétence du maire, au nom de l'Etat ;
 
 12° Pour les constructions situées dans un secteur sauvegardé à compter de sa délimitation et jusqu'à ce que le plan de
-sauvegarde et de mise en valeur ait été rendu public ; 
+sauvegarde et de mise en valeur ait été rendu public ;
 
 13° Pour les constructions qui, en raison de leur emplacement à proximité d'un ouvrage militaire, sont soumises à
 l'autorisation du ministre chargé des armées, en vertu du décret du 10 août 1853, de la loi du 18 juillet 1895 ou de la loi
-du 11 juillet 1933 ; 
+du 11 juillet 1933 ;
 
 14° Pour les constructions qui, en raison de leur situation à l'intérieur d'un polygone d'isolement, sont soumises à
 l'autorisation du ministre chargé des armées en vertu de l'article 5 de la loi du 8 août 1929.
@@ -46043,10 +46365,20 @@ service de l'Etat dans le département, chargé de l'urbanisme, ont émis des av
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Décret n°87-885 du 30 octobre 1987 - art. 10 ()
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Code de l'urbanisme - art. L332-6-1 (M)
+	  - Code de l'urbanisme - art. L332-9 (M)
+	  - Code de l'urbanisme - art. R421-15 (M)
+	  - Code de l'urbanisme - art. R421-38-8 (M)
+	  - Code de l'urbanisme - art. R421-47 (M)
+	  - Code de l'urbanisme R421-47, L332-6-1, L332-9, R421-15, R490-3, R490-4, R421-38-8
+	  - Code de la construction et de l'habitation. - art. L631-7 (M)
+	  - Code de la construction et de l'habitation. - art. R122-2 (V)
+	  - Décret n°1853-08-10
+	  - Loi n°1895-07-18
+	  - Loi n°1929-08-08 art. 5
+	  - Loi n°1933-07-11
 
 	**Cité par**:
 
@@ -46063,22 +46395,14 @@ service de l'Etat dans le département, chargé de l'urbanisme, ont émis des av
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-25 (M)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-31 (M)
 
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R421-38-8 (M)
-	  - Code de l'urbanisme R122-2
-	  - Code de la construction et de l'habitation. - art. L631-7 (M)
-	  - Décret n°1853-08-10
-	  - Loi n°1895-07-18
-	  - Loi n°1929-08-08 ART. 5
-	  - Loi n°1933-07-11
-
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
+	**Modifié par**:
 
-#####  Paragraphe 3 : Dispositions particulières applicables dans les communes où un plan d'occupation des sols n'a pas été approuvé.
+	  - Décret n°93-614 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
+
 
 ###### Article R*421-37
 
@@ -47475,33 +47799,28 @@ accompagnée de son avis à l'autorité compétente pour statuer.
 Dans les cas mentionnés aux articles R. 421-22, R. 421-38-3 à R. 421-38-7 et R. 421-38-9 à R. 421-38-19, le service
 instructeur consulte les autorités mentionnées auxdits articles. Les autorités ainsi consultées font connaître à l'autorité
 compétente leur opposition ou les prescriptions qu'elles demandent dans un délai d'un mois à dater de la réception de la
-demande d'avis par l'autorité consultée. A défaut de réponse dans ce délai, elles sont réputées avoir émis un avis favorable
-[*accord tacite*].
+demande d'avis par l'autorité consultée. A défaut de réponse dans ce délai, elles sont réputées avoir émis un avis
+favorable[*accord tacite*].
 
-**Nota:**
-
-[* Les dispositions ci-dessus sont applicables aux déclarations déposées à compter du 1er mai 1986 *]
+Le service instructeur consulte en tant que de besoin les autorités et services publics habilités à demander que soient
+prescrites les contributions prévues au 2° de l'article L. 332-6-1 ou à l'article L. 332-9. A défaut de réponse dans le délai
+d'un mois, ces autorités et services publics sont réputés n'avoir aucune proposition de contribution à formuler.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°93-614 du 26 mars 1993 - art. 7 () JORF 28 mars 1993
+
 	**Cite**:
 
+	  - Code de l'urbanisme - art. L332-6-1 (M)
 	  - Code de l'urbanisme - art. R421-22 (M)
-	  - Code de l'urbanisme - art. R421-38-19 (M)
-	  - Code de l'urbanisme - art. R421-38-9 (M)
-	  - Code de l'urbanisme R421-22, R421-38-3 à R421-38-7, R421-38-9, R421-38-19
+	  - Code de l'urbanisme R421-22, R421-38-3 à R421-38-7, R421-38-9 à R421-38-19, L332-6-1
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-514 du 14 mars 1986 - art. 11 (V)
-
-	**Créé par**:
-
-	  - Décret n°86-514 du 14 mars 1986 - art. 2 () JORF 16 mars 1986
 
 
 ###### Article R*422-9
@@ -47520,29 +47839,40 @@ Pour l'application du présent chapitre, le préfet peut déléguer sa signature
 Dans tous les cas, la décision d'opposition ou de prescriptions de l'autorité compétente est dûment motivée. Elle est
 notifiée par lettre recommandée avec demande d'avis de réception.
 
-**Nota:**
+La décision de prescriptions énumère celles des contributions prévues au 2° de l'article L. 332-6-1 ou à l'article L. 332-9
+qu'elle met, le cas échéant, à la charge de l'auteur de la déclaration. Elle fixe le montant de chacune de ces contributions
+et en énonce le mode d'évaluation.
 
-NOTA : Les déclarations ci-dessus sont applicables aux déclarations déposées à compter du 1er mai 1986
+Lorsqu'elle impose une cession gratuite de terrain, elle détermine la superficie à céder et en mentionne la valeur déterminée
+par le directeur des services fiscaux.
+
+Lorsqu'elle impose le versement de la participation prévue à l'article L. 332-9 dans les programmes d'aménagement d'ensemble
+et que l'auteur de la déclaration s'en acquitte en tout ou en partie, conformément à l'article L. 332-10 sous forme
+d'exécution de travaux ou d'apport de terrain, elle mentionne :
+
+- les caractéristiques des travaux et leur valeur déterminées d'un commun accord par le pétitionnaire et l'autorité
+compétente pour prendre la décision de prescriptions ;
+
+- la superficie des terrains à apporter ainsi que leur valeur déterminée par le directeur des services fiscaux.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°93-614 du 26 mars 1993 - art. 8 () JORF 28 mars 1993
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L332-10 (V)
+	  - Code de l'urbanisme - art. L332-6-1 (M)
+	  - Code de l'urbanisme - art. L332-9 (M)
+	  - Code de l'urbanisme - art. L421-2-1 (M)
+	  - Code de l'urbanisme - art. R421-36 (M)
+	  - Code de l'urbanisme - art. R421-42 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-514 du 14 mars 1986 - art. 11 (V)
-
-	**Créé par**:
-
-	  - Décret n°86-514 du 14 mars 1986 - art. 2 () JORF 16 mars 1986) M(Décret 88-199 1988-02-29 art. 1 JORF 2 mars 1988
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L421-2-1 (M)
-	  - Code de l'urbanisme - art. R421-36 (M)
-	  - Code de l'urbanisme - art. R421-42 (Ab)
 
 
 ###### Article R*422-10
@@ -51070,9 +51400,11 @@ concerné.
 Lorsqu'il est envisagé d'implanter sur le terrain des habitations légères de loisirs dans les conditions prévues à l'article
 R. 444-3, l'autorisation fixe en outre la délimitation de leurs emplacements.
 
-L'autorisation d'aménager tient lieu du permis de construire ou vaut absence d'opposition à la déclaration prévue à l'article
-L. 422-2 pour les constructions et installations prévues dans la demande. Elle constitue le fait générateur des taxes
-éventuellement perçues pour ces constructions.
+L'autorisation d'aménager tient lieu du permis de construire ou de la décision de prescriptions prévue à l'article R. 422-9
+ou vaut absence d'opposition à la déclaration prévue à l'article L. 422-2 pour les constructions et installations figurant
+dans la demande. L'autorisation d'aménager constitue le fait générateur des taxes et contributions éventuellement exigibles
+pour ces constructions et installations ; elle comporte les mentions prévues selon le cas à l'article R. 421-29 ou à
+l'article R. 422-9..
 
 **Liens relatifs à cet article**
 
@@ -51080,18 +51412,19 @@ L. 422-2 pour les constructions et installations prévues dans la demande. Elle 
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-514 du 14 mars 1986 - art. 11 (V)
-
 	**Modifié par**:
 
-	  - Décret n°86-514 du 14 mars 1986 - art. 3 () JORF 16 mars 1986
+	  - Décret n°93-614 du 26 mars 1993 - art. 9 () JORF 28 mars 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L422-2 (M)
-	  - Code de l'urbanisme - art. R443-3 (M)
+	  - Code de l'urbanisme - art. R421-29 (M)
+	  - Code de l'urbanisme R444-3, R422-9, L422-2, R421-29
 
 
 ###### Article R*443-7-4
@@ -51528,12 +51861,14 @@ Les habitations légères de loisirs ne peuvent être implantées que dans les c
 
 a) Dans les terrains de camping et de caravanage permanents autorisés, conformément à la réglementation applicable à ces
 modes d'hébergement, à la condition que le nombre des habitations légères soit inférieur à trente-cinq ou à 20 p. 100 du
-nombre d'emplacements.     b) Dans les terrains affectés spécialement à cet usage,  . Dans c cas, le terrain fait l'objet
-d'une autorisation d'aménager délivrée dans les formes et délais mentionnés aux articles R. 443-7-1 à R. 443-8 et qui impose
-la réalisation, par le constructeur, d'installations communes dans les conditions définies par un arrêté conjoint des
-ministres chargés de l'économie, de l'urbanisme, de la santé publique et du tourisme.
+nombre d'emplacements.
 
-c) Dans les villages de vacance classés en hébergement léger et dans les dépendances des maisons familiales de vacances
+b) Dans les terrains affectés spécialement à cet usage. Dans ce cas, le terrain fait l'objet d'une autorisation d'aménager
+délivrée dans les formes et délais mentionnés aux articles R. 443-7-1 à R. 443-8 et qui impose la réalisation, par le
+constructeur, d'installations communes dans les conditions définies par un arrêté conjoint des ministres chargés de
+l'économie, de l'urbanisme, de la santé publique et du tourisme.
+
+c) Dans les villages de vacances classés en hébergement léger et dans les dépendances des maisons familiales de vacances
 agréees, conformément à la réglementation applicable à ces modes d'hébergement quel que soit le nombre des habitations
 légères.
 
@@ -51542,20 +51877,50 @@ l'autorisation d'aménager impose au constructeur l'obligation d'assurer ou de f
 Le bénéficiaire de l'autorisation ne peut commencer l'exploitation du terrain qu'après avoir obtenu le certificat constatant
 l'achèvement des travaux mentionné à l'article R. 443-8.
 
+Le service instructeur de la demande d'autorisation d'aménager un terrain destiné à l'accueil d'habitations légères de
+loisirs consulte en tant que de besoin les autorités et services publics habilités à demander que soient prescrites les
+contributions mentionnées à l'article L. 332-12. A défaut de réponse dans le délai d'un mois, ces autorités et services
+publics sont réputés n'avoir aucune proposition de contribution à formuler.
+
+L'autorisation d'aménager un terrain destiné à l'accueil d'habitations légères de loisir énumère celles des contributions
+prévues à l'article L. 332-12 qu'elle met, le cas échéant, à la charge du bénéficiaire de l'autorisation.
+
+Dans le cas où sont exigées la participation pour le financement d'équipements publics exceptionnels mentionnée au c de
+l'article L. 332-12 ou la participation forfaitaire mentionnée au d du même article, l'autorisation d'aménager en fixe le
+montant et énonce le mode d'évaluation de ce dernier.
+
+Lorsque la participation forfaitaire inclut une cession gratuite de terrain, l'autorisation détermine la superficie à céder
+et en mentionne la valeur déterminée par le directeur des services fiscaux.
+
+Lorsque la participation forfaitaire inclut le versement de la participation prévue à l'article L. 332-9 dans les programmes
+d'aménagement d'ensemble et que le bénéficiaire s'en acquitte en tout ou partie conformément à l'article L. 332-10 sous forme
+d'exécution de travaux ou d'apport de terrain, l'autorisation d'aménager mentionne :
+
+- les caractéristiques des travaux et leur valeur déterminées d'un commun accord par le pétitionnaire et l'autorité
+compétente pour délivrer l'autorisation ;
+
+- la superficie des terrains à apporter ainsi que leur valeur déterminée par le directeur des services fiscaux.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°93-614 du 26 mars 1993 - art. 10 () JORF 28 mars 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R443-8 (M)
-	  - Code de l'urbanisme R443-7-1
+	  - Code de l'urbanisme - art. L332-10 (V)
+	  - Code de l'urbanisme - art. L332-12 (M)
+	  - Code de l'urbanisme - art. L332-9 (M)
+	  - Code de l'urbanisme R443-7-1 à R443-8, L332-12, L332-9, L332-10
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°86-514 du 14 mars 1986 - art. 7 () JORF 16 mars 1986
 
 
 ###### Article R*444-4
