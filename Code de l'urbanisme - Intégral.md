@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1981-12-30
+Version Consolidée au 1982-07-01
 
 # Partie législative
 
@@ -17638,6 +17638,41 @@ prévues au présent article.
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R142-3 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R142-5
+
+Dans les périmètres sensibles, l'autorité chargée de l'instruction des demandes d'autorisation de lotissement et des demandes
+de permis de construire peut décider de soumettre ces demandes pour avis à la /M/commission départementale d'urbanisme/M/
+DECR. 534 du 12 mai 1981 : commission départementale des sites et de l'environnement//. Dans ce cas, le délai d'instruction
+de la demande considérée est majoré d'un mois.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°81-534 1981-05-12 ART. 20 JORF 15 MAI 1981 date d'entrée en   vigueur ART. 38 1 JUILLET 1982
+
+	**Cité par**:
+
+	  - Décret n°81-534 du 12 mai 1981 - art. 5 (Ab)
+	  - Code de l'urbanisme - art. R*700-2 (Ab)
+	  - Code de l'urbanisme - art. R142-1 (M)
+	  - Code de l'urbanisme - art. R611-5 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R111-13 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R111-21 (M)
+
+	**Anciens textes**:
+
+	  - Décret n°59-768 1959-06-26 ART. 4
 
 	**Codifié par**:
 
@@ -36502,6 +36537,41 @@ cas de récidive, outre la peine d'amende, un emprisonnement de dix jours à un 
 	**Cite**:
 
 	  - Code de l'urbanisme R422-3
+
+
+#### Permis de construire à titre précaire
+
+###### Article R*423-1
+
+Le permis de construire délivré en application de l'article L. 423-1 ne peut être accordé que sur avis favorable de la
+commission départementale des sites et de l'environnement [*conditions*].
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°81-534 1981-05-12 ART. 29 JORF 15 MAI 1981 date d'entrée en vigueur ART. 38 MODIFIE 1 JUILLET 1982
+
+	**Abrogé par**:
+
+	  - Décret n°82-584 1982-06-29 ART. 1 JORF 7 JUILLET 1982
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L423-1 (M)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*431-35 (VD)
+	  - Code de l'urbanisme - art. R*431-5 (VD)
+	  - Code de l'urbanisme - art. R*441-1 (VD)
+	  - Code de l'urbanisme - art. R*441-9 (VD)
+	  - Code de l'urbanisme - art. R451-1 (VD)
+	  - Code du patrimoine. - art. R621-88 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ### Permis de démolir
