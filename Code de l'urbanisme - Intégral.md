@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1992-01-04
+Version Consolidée au 1992-02-08
 
 # Partie législative
 
@@ -1319,10 +1319,21 @@ sols entraîne la mise à l'étude de plans d'aménagement rural.
 
 ###### Article L121-2
 
-Les dépenses entraînées par les études et par l'établissement tant des schémas d'aménagement et d'urbanisme que des plans
-d'occupation des sols sont prises en charge par l'Etat, que les communes soient ou non tenues d'avoir un schéma directeur
-d'aménagement et d'urbanisme et un plan d'occupation des sols, ou seulement un plan d'occupation des sols, sans préjudice, le
-cas échéant, des contributions volontaires des collectivités locales et des établissements publics intéressés.
+Les dépenses entraînées par les études et par l'établissement des documents d'urbanisme sont prises en charge par les
+communes ou groupements de communes compétents pour leur élaboration. Ces dépenses font l'objet d'une compensation par l'Etat
+dans les conditions définies à l'article 102 de la loi n° 82-213 du 2 mars 1982 modifiée relative aux droits et libertés des
+communes, des départements et des régions et à l'article 94 de la loi n° 83-8 du 7 janvier 1983 relative à la répartition de
+compétences entre les communes, les départements, les régions et l'Etat. 
+
+Toutefois, les services extérieurs de l'Etat peuvent être mis gratuitement et en tant que de besoin à la disposition des
+communes ou des groupements de communes compétents, pour élaborer, modifier ou réviser les schémas directeurs, les schémas de
+secteur, les plans d'occupation des sols ou tout autre document d'urbanisme élaboré par la commune. Pendant la durée de cette
+mise à disposition, les services et les personnels agissent en concertation permanente avec le maire ou le président de
+l'établissement public qui leur adresse toutes instructions nécessaires pour l'exécution des tâches qu'il leur confie.
+
+**Nota:**
+
+[*Loi 92-125 art. 3 : la référence services extérieurs est remplaçée par celle à : services déconcentrés*]
 
 **Liens relatifs à cet article**
 
@@ -1361,13 +1372,23 @@ cas échéant, des contributions volontaires des collectivités locales et des �
 	  - Code général des collectivités territoriales - art. L5311-4 (VD)
 	  - Code rural et de la pêche maritime - art. L111-2-1 (V)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code de l'urbanisme 22
+	  - Loi n°82-213 1982-03-02 art. 102
+	  - Loi n°83-8 1983-01-07 art. 94
+
+	**Modifié par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 40 () JORF 9 janvier 1983
+	  - Loi n°92-125 du 6 février 1992 - art. 3 (V) JORF 8 février 1992
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
 
 	**Codifié par**:
 
-	  - Décret n°73-1022 1973-11-08 JORF 13 N0VEMBRE 1973
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L121-4
@@ -1736,46 +1757,6 @@ Les dispositions du présent article valent loi d'aménagement et d'urbanisme au
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
-###### Article L121-11
-
-Le syndicat intercommunal d'études et de programmation est un établissement public qui, dans les cas visés au quatrième
-alinéa de l'article L. 122-1-1, est chargé par des communes d'élaborer ou de modifier un schéma directeur ou un schéma de
-secteur. Lorsque le syndicat intercommunal d'études et de programmation  est parvenu au terme de sa mission, et au plus tard
-cinq ans à compter de sa création, il est dissous de plein droit.
-
-Pour les syndicats existant à la date d'entrée en vigueur de la loi n° 88-13 du 5 janvier 1988, qui n'auraient pas achevé
-leur mission au terme du délai maximum de trois ans initialement fixé pour l'exécution de celle-ci, ce délai est prorogé
-jusqu'à l'adoption du document qu'ils sont chargés d'élaborer, à moins que plus d'un tiers des conseils municpaux ne s'oppose
-à la prorogration. La durée de cette prorogation ne peut en tout état de cause être supérieure à deux ans.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Cite**:
-
-	  - Loi n°88-13 1988-01-05
-	  - Code de l'urbanisme L122-1-1 al. 4
-
-	**Modifié par**:
-
-	  - Loi n°88-13 du 5 janvier 1988 - art. 29 () JORF 6 janvier 1988
-
-	**Abrogé par**:
-
-	  - Loi n°92-125 du 6 février 1992 - art. 74 (V) JORF 8 février 1992
-
-	**Cité par**:
-
-	  - Loi n°92-125 du 6 février 1992 - art. 74 (V)
-	  - Code de l'urbanisme - art. L123-19 (M)
-	  - Code de l'urbanisme - art. R*122-3 (M)
-	  - Code général des collectivités territoriales - art. L4424-9 (V)
-	  - Code rural - art. L181-3 (V)
-
-
 ###### Article L121-12
 
 Des décrets en Conseil d'Etat précisent la nature des projets d'intérêt général visés aux articles L. 122-1-1, L. 122-1-3, L.
@@ -1902,16 +1883,15 @@ moins la moitié des communes intéressées représentant plus des deux tiers de
 départements, ainsi que des régions pour les ensembles de communes qui dépassent 100000 habitants. Dans les régions de
 Guadeloupe, de Guyane, de Martinique et de la Réunion, le conseil régional et le conseil général sont consultés, quel que
 soit le nombre d'habitants de l'ensemble des communes regroupées dans le périmètre du schéma directeur ou du schéma de
-secteur.    Les communes confient, dans les mêmes conditions de majorité,
+secteur.    " Les communes confient dans le périmètre mentionné au troisième alinéa du présent article et dans les mêmes
+conditions de majorité leurs compétences en matière de schéma directeur ou de schéma de secteur :
 
-l'élaboration ou la révision du schéma directeur ou du schéma de secteur, soit à un établissement public de coopération
-intercommunale ayant compétence en la matière dans le périmètre visé au troisième alinéa du présent article, soit à un
-syndicat intercommunal d'études et de programmation qu'elles créent à cet effet.
+" - soit à un établissement public de coopération intercommunale ;
 
-Les communes peuvent également confier l'élaboration ou la révision du schéma directeur ou du schéma de secteur à un syndicat
-mixte regroupant des collectivités territoriales, des groupements de ces collectivités ou la région et ayant compétence à cet
-effet dans le périmètre visé au troisième alinéa du présent article. Les dispositions du présent chapitre relatives aux
-établissements publics de coopération intercommunale sont applicables aux syndicats mixtes ci-dessus mentionnés.
+" - soit à un syndicat mixte regroupant les collectivités territoriales ou des groupements de ces collectivités.
+
+" Les dispositions du présent chapitre relatives aux établissements publics de coopération intercommunale sont applicables
+aux syndicats mixtes ci-dessus mentionnés. "
 
 L'établissement public de coopération intercommunale associe à cette élaboration l'Etat et, à leur demande, la région, le
 département, les autres établissements publics de coopération intercommunale concernés et les organismes mentionnés aux
@@ -1942,7 +1922,7 @@ directeur.
 
 	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985
+	  - Loi n°92-125 du 6 février 1992 - art. 74 (V) JORF 8 février 1992
 
 	**Cite**:
 
@@ -1958,9 +1938,16 @@ directeur.
 
 Le projet de schéma directeur ou de schéma de secteur est arrêté par délibération de l'organe délibérant de l'établissement
 public de coopération intercommunale puis soumis pour avis aux conseils municipaux des communes intéressées ainsi qu'aux
-personnes publiques mentionnées au cinquième alinéa de l'article L. 122-1-1. Ces avis sont réputés favorables s'ils
+personnes publiques mentionnées à l'avant dernier alinéa de l'article L. 122-1-1. Ces avis sont réputés favorables s'ils
 n'interviennent pas dans un délai de trois mois après transmission du projet de schéma. Le projet, auquel sont annexés les
-avis des personnes publiques consultées, est ensuite mis à la disposition du public pendant un mois [*publicité*].
+avis des personnes publiques consultées, est ensuite mis à la disposition du public pendant un mois.
+
+En zone de montagne, lorsque le projet de schéma directeur ou de schéma de secteur comporte des dispositions relatives à la
+création d'une ou plusieurs unités touristiques nouvelles telles que définies à l'article L.145-9, ces dispositions sont
+soumises pour avis par le représentant de l'Etat visé à l'article L. 145-11 à la commission spécialisée du comité de massif.
+Cet avis est réputé favorable s'il n'intervient pas dans un délai de trois mois aprés transmission du projet de schéma. Ce
+projet, comportant en annexe l'avis de la commission spécialisée du comité de massif, est soumis aux dispositions du
+précédent alinéa. Les conditions d'application du présent alinéa sont précisées par décret.
 
 **Liens relatifs à cet article**
 
@@ -1975,11 +1962,23 @@ avis des personnes publiques consultées, est ensuite mis à la disposition du p
 
 	**Modifié par**:
 
-	  - Loi n°85-30 du 9 janvier 1985 - art. 73 () JORF 10 janvier 1985
+	  - Loi n°92-125 du 6 février 1992 - art. 74 (V) JORF 8 février 1992
+
+	**Abrogé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 3 () JORF 14 décembre 2000 en vigueur le 1er avril 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-1208 du 13 décembre 2000 - art. 43 (V)
+	  - SPEC_APPLI: Décret n°2001-260 du 27 mars 2001 - art. 6 (V)
 
 	**Cite**:
 
-	  - Code de l'urbanisme L122-1-1 AL. 5
+	  - Code de l'urbanisme - art. L122-1-1 (M)
+	  - Code de l'urbanisme - art. L145-11 (M)
+	  - Code de l'urbanisme - art. L145-9 (M)
+	  - Code de l'urbanisme L122-1-1, annexe, L145-9, L145-11
 
 	**Codifié par**:
 
@@ -15938,6 +15937,27 @@ l'ordonnance au 1er octobre 2007.
 	**Abrogé par**:
 
 	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+
+
+###### Article L421-2-6
+
+Le maire ou le président de l'établissement public compétent peut disposer gratuitement, et en tant que de besoin, des
+services déconcentrés de l'Etat pour effectuer l'étude technique de celles des demandes de permis de construire sur
+lesquelles il a compétence pour l'instruction et la décision et qui lui paraissent justifier l'assistance technique de ces
+services. Pendant la durée de cette mise à disposition, les services et les personnels agissent en concertation permanente
+avec le maire ou le président de l'établissement public qui leur adresse toutes instructions nécessaires pour l'exécution des
+tâches qu'il leur confie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Modifié par**:
+
+	  - Loi n°86-972 du 19 août 1986 - art. 2 () JORF 22 août 1986
+	  - Loi n°92-125 du 6 février 1992 - art. 3 (V) JORF 8 février 1992
 
 
 ###### Article L421-2-7
@@ -55872,6 +55892,32 @@ l'urbanisme et du ministre de l'économie et des finances.
 ###  Titre Ier : Organismes consultatifs
 
 #### CHAPITRE IV : Architectes-conseils
+
+###### Article A614-1
+
+Les services extérieurs du ministère chargé de l'urbanisme sont autorisés à faire appel à des architectes qui prendront le
+titre d'architectes-conseils de l'équipement. 
+
+Ces architectes assurent les missions qui leur sont confiées par le ministre chargé de l'urbanisme ou ses délégués.
+
+**Nota:**
+
+[*Loi 92-125 art. 3 : la référence services extérieurs est remplaçé par celle à : services déconcentrés*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Modifié par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 3 (V) JORF 8 février 1992
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. A614-4 (V)
+
 
 ###### Article A614-2
 
