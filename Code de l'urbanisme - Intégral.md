@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1991-05-14
+Version Consolidée au 1991-07-19
 
 # Partie législative
 
@@ -10,25 +10,18 @@ Version Consolidée au 1991-05-14
 ###### Article L110
 
 Le territoire français est le patrimoine commun de la nation. Chaque collectivité publique en est le gestionnaire et le
-garant dans le cadre de ses compétences. Afin d'aménager le cadre de vie, de gérer le sol de façon économe, d'assurer la
-protection des milieux naturels et des paysages de prévenir les risques naturels prévisibles et les risques technologiques et
-de promouvoir l'équilibre entre les populations résidant dans les zones urbaines et rurales, les collectivités publiques
-harmonisent, dans le respect réciproque de leur autonomie, leurs prévisions et leurs décisions d'utilisation de l'espace.
+garant dans le cadre de ses compétences. Afin d'aménager le cadre de vie, d'assurer sans discrimination aux populations
+résidentes et futures des conditions d'habitat, d'emploi, de services et de transports répondant à la diversité de ses
+besoins et de ses ressources, de gérer le sol de façon économe, d'assurer la protection des milieux naturels et des paysages
+de prévenir les risques naturels prévisibles et les risques technologiques et de promouvoir l'équilibre entre les populations
+résidant dans les zones urbaines et rurales, les collectivités publiques harmonisent, dans le respect réciproque de leur
+autonomie, leurs prévisions et leurs décisions d'utilisation de l'espace.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°83-8 1983-01-07 ART. 35, ART. 39, ART. 2
-	  - Loi n°83-663 1983-07-22
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°83-851 1983-09-23
-
 	**Modifié par**:
 
-	  - Loi n°87-565 du 22 juillet 1987 - art. 22 () JORF 23 juillet 1987
+	  - Loi - art. 5 ()
 
 	**Cité par**:
 
@@ -1698,11 +1691,11 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 
 ###### Article L121-10
 
-Les documents d'urbanisme déterminent les conditions permettant, d'une part, de limiter l'utilisation de l'espace, de
-préserver les activités agricoles, de protéger les espaces forestiers, les sites et les paysages, de prévenir les risques
-naturels prévisibles et les risques technologiques et, d'autre part, de prévoir suffisamment de zones réservées aux activités
-économiques et d'intérêt général, et de terrains constructibles pour la satisfaction des besoins présents et futurs en
-matière de logement.
+" Les documents d'urbanisme déterminent les conditions permettant, d'une part, de limiter l'utilisation de l'espace, de
+préserver les activités agricoles, de protéger les espaces forestiers, les sites et paysages naturels ou urbains, de prévenir
+les risques naturels prévisibles et les risques technologiques et, d'autre part, de prévoir suffisamment d'espaces
+constructibles pour les activités économiques et d'intérêt général, ainsi que pour la satisfaction des besoins présents et
+futurs en matière d'habitat. "
 
 Les dispositions du présent article valent loi d'aménagement et d'urbanisme au sens de l'article L. 111-1-1 du présent code.
 
@@ -1710,7 +1703,7 @@ Les dispositions du présent article valent loi d'aménagement et d'urbanisme au
 
 	**Modifié par**:
 
-	  - Loi n°87-565 du 22 juillet 1987 - art. 22 () JORF 23 juillet 1987
+	  - Loi - art. 6 ()
 
 	**Cité par**:
 
@@ -1836,21 +1829,27 @@ la liste des opérations d'intérêt national visées aux articles L. 111-1-2 et
 
 ###### Article L122-1
 
-Les schémas directeurs [*contenu*] fixent les orientations fondamentales de l'aménagement des territoires intéressés, compte
-tenu de l'équilibre qu'il convient de préserver entre l'extension urbaine, l'exercice des activités agricoles, des autres
-activités économiques et la préservation des sites naturels. Ils prennent en considération l'existence de risques naturels
-prévisibles et de risques technologiques.    Les schémas directeurs prennent en compte les programmes de l'Etat ainsi que
-ceux des collectivités locales et des établissements et services publics, notamment ceux qui résultent de chartes
-intercommunales. Ils les orientent et les harmonisent pour l'organisation de l'espace.
+"- Les schémas directeurs fixent les orientations fondamentales de l'aménagement des territoires intéressés, compte tenu de
+l'équilibre qu'il convient de préserver entre l'extension urbaine, l'exercice des activités agricoles, des autres activités
+économiques et la préservation des sites et paysages naturels ou urbains. Ils prennent en considération l'existence de
+risques naturels prévisibles et de risques technologiques.
 
-Ils déterminent la destination générale des sols, et, en tant que de besoin, la nature et le tracé des grands équipements
-d'infrastructure, en particulier de transport, la localisation des services et activités les plus importants ainsi que les
-zones préférentielles d'extension et de rénovation.
+" Ils déterminent la destination générale des sols et, en tant que de besoin, la nature et le tracé des grands équipements
+d'infrastructure, en particulier de transport, la localisation des services et activités les plus importants.
 
-Pour leur exécution, ils peuvent être complétés en certaines de leurs parties par des schémas de secteur qui en détaillent et
-précisent le contenu.
+" Au regard des prévisions en matière d'habitat, d'emploi et d'équipements, ils fixent les orientations générales de
+l'extension de l'urbanisation et de la restructuration des espaces urbanisés. Ils définissent la capacité d'accueil des
+espaces urbanisés ou à urbaniser en tenant compte notamment de l'équilibre entre emploi et habitat ainsi que des moyens de
+transport.
 
-Les programmes et les décisions administratives qui les concernent doivent être compatibles avec leurs dispositions.
+" Les schémas directeurs prennent en compte les programmes de l'Etat ainsi que ceux des collectivités locales et des
+établissements et services publics. Ils orientent et harmonisent pour l'organisation de l'espace les programmes et les
+prévisions mentionnés ci-dessus.
+
+" Pour leur exécution, ils peuvent être complétés en certaines de leurs parties par des schémas de secteur qui en détaillent
+et précisent le contenu.
+
+" Les programmes et les décisions administratives qui les concernent doivent être compatibles avec leurs dispositions. "
 
 **Liens relatifs à cet article**
 
@@ -1885,7 +1884,7 @@ Les programmes et les décisions administratives qui les concernent doivent êtr
 
 	**Modifié par**:
 
-	  - Loi n°87-565 du 22 juillet 1987 - art. 22 () JORF 23 juillet 1987
+	  - Loi - art. 7 ()
 
 
 ###### Article L122-1-1
@@ -2386,17 +2385,19 @@ schéma conformément à l'article L. 122-5.
 
 Les plans d'occupation des sols fixent, dans le cadre des orientations des schémas directeurs ou des schémas de secteur, s'il
 en existe, les règles générales et les servitudes d'utilisation des sols, qui peuvent notamment comporter l'interdiction de
-construire. 
+construire.
 
 A cette fin, ils doivent :
 
-1° Délimiter des zones urbaines ou à urbaniser en prenant notamment en considération la valeur agronomique des sols, les
-structures agricoles, les terrains produisant des denrées de qualité supérieure, l'existence de risques naturels prévisibles
-et de risques technologiques, la présence d'équipements spéciaux importants et déterminer des zones d'affectation des sols
-selon l'usage principal qui doit en être fait ou la nature des activités dominantes qui peuvent y être exercées ; ".
+1° Délimiter des zones urbaines ou à urbaniser prenant notamment en compte les besoins en matière d'habitat, d'emploi, de
+services et de transport des populations actuelles et futures. La délimitation de ces zones prend en considération la valeur
+agronomique des sols, les structures agricoles, les terrains produisant des denrées de qualité supérieure, l'existence de
+risques naturels prévisibles et de risques technologiques, la présence d'équipements spéciaux importants. Les plans
+d'occupation des sols déterminent l'affectation des sols selon l'usage principal qui doit en être fait ou la nature des
+activités dominantes qui peuvent y être exercées.
 
 2° définir, en fonction des situations locales, les règles concernant le droit d'implanter des constructions, leur
-destination et leur nature. 
+destination et leur nature.
 
 Ils peuvent, en outre :
 
@@ -2408,38 +2409,43 @@ déterminent, éventuellement pour chaque nature de construction, la densité de
 
 5° délimiter les zones ou parties de zones dans lesquelles la reconstruction sur place ou l'aménagement de bâtiments
 existants pourra, pour des motifs d'urbanisme ou d'architecture, être imposé ou autorisé avec une densité au plus égale à
-celle qui était initialement bâtie, nonobstant les règles fixées au 4° ci-dessus ;
+celle qui était initialement bâtie, nonobstant les règles fixées au 4° ci-dessus et fixer la destination principale des îlots
+ou immeubles à restaurer ou à réhabiliter ;
 
 6° préciser le tracé et les caractéristiques des voies de circulation à conserver, à modifier ou à créer, y compris les rues
 ou sentiers piétonniers et les pistes cyclables et délimiter les zones qui sont ou peuvent être aménagées en vue de la
 pratique du ski et les secteurs réservés aux remontées mécaniques en indiquant, le cas échéant, les équipements et
-aménagements qui peuvent y être prévus ; 
+aménagements qui peuvent y être prévus ;
 
 7° délimiter les quartiers, rues, monuments, sites et secteurs à protéger ou à mettre en valeur pour des motifs d'ordre
-esthétique, historique ou écologique ; 
+esthétique, historique ou écologique ;
 
 8° fixer les emplacements réservés aux voies et ouvrages publics, aux installations d'intérêt général ainsi qu'aux espaces
-verts ; 
+verts ;
 
 9° localiser, dans les zones urbaines, les terrains cultivés à protéger et inconstructibles quels que soient les équipements
 éventuels qui les desservent.
 
-10° Délimiter les secteurs dans lesquels la délivrance du permis de construire peut être subordonnée à la démolition de tout
-ou partie des bâtiments existants sur le terrain où l'implantation de la construction est envisagée. 
+10° Délimiter les secteurs dans lesquels la délivrance du permis de construire peut être surbordonnée à la démolition de tout
+ou partie des bâtiments existants sur le terrain où l'implantation de la construction est envisagée.
+
+11° Délimiter les zones dans lesquelles pourront s'implanter les magasins de commerce de détail dont l'octroi du permis de
+construire ou la réalisation est soumis à autorisation préalable de la commission départementale d'urbanisme commercial par
+l'article L. 451-5 du présent code.
 
 Les règles mentionnées aux 2° et 3° ci-dessus peuvent prévoir des normes de construction différentes de celles qui résultent
 de l'application du coefficient d'occupation du sol, soit en raison des prescriptions d'urbanisme ou d'architecture, soit en
-raison de l'existence de projets tendant à renforcer la capacité des équipements collectifs. 
+raison de l'existence de projets tendant à renforcer la capacité des équipements collectifs.
 
 Les règles et servitudes définies par un plan d'occupation des sols ne peuvent faire l'objet d'aucune dérogation, à
 l'exception des adaptations mineures rendues nécessaires par la nature du sol, la configuration des parcelles ou le caractère
-des constructions avoisinantes. 
+des constructions avoisinantes.
 
 Les plans d'occupation des sols doivent être compatibles avec les prescriptions prises en application de l'article L. 111-1-1
 et les orientations des schémas directeurs et des schémas de secteur, s'ils existent, et respecter les servitudes d'utilité
 publique affectant l'utilisation du sol ainsi que les dispositions nécessaires à la mise en oeuvre de projets d'intérêt
 général relevant de l'Etat, de la région, du département ou d'autres intervenants. Ils prennent en considération les
-orientations définies par les chartes intercommunales.
+dispositions des programmes locaux de l'habitat lorsqu'ils existent.
 
 **Liens relatifs à cet article**
 
@@ -2519,11 +2525,12 @@ orientations définies par les chartes intercommunales.
 
 	**Modifié par**:
 
-	  - Loi n°87-565 du 22 juillet 1987 - art. 22 () JORF 23 juillet 1987
+	  - Loi - art. 8 ()
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L111-1-1 (M)
+	  - Code de l'urbanisme - art. L451-5 (M)
 
 	**Codifié par**:
 
@@ -2598,12 +2605,14 @@ Après délibération du conseil municipal, une commune peut confier l'élaborat
 Sont associés à cette élaboration l'Etat et, à leur demande et dans les formes que la commune ou l'établissement public
 détermine, la région, le département et les organismes mentionnés aux articles L. 121-6 et L. 121-7 ; le maire ou le
 président de l'établissement public peut recueillir l'avis de tout organisme ou association ayant compétence en matière de
-construction, d'aménagement ou d'urbanisme. En zone de montagne, la commission communale d'aménagement foncier est consultée
-à l'initiative du maire dans toute commune où est décidée l'élaboration d'un plan d'occupation des sols.
+construction, d'aménagement ou d'urbanisme. En zone de montagne, la commission communale d'aménagement foncier
+[*attributions*] est consultée à l'initiative du maire dans toute commune où est décidée l'élaboration d'un plan d'occupation
+des sols.
 
 Au vu de la décision prescrivant l'élaboration d'un plan d'occupation des sols, le représentant de l'Etat porte à la
 connaissance de la commune ou de l'établissement public compétent les prescriptions, servitudes et dispositions mentionnées
-au dernier alinéa de l'article L. 123-1, et lui communique toute autre information qu'il juge utile à l'élaboration du plan.
+au dernier alinéa de l'article L. 123-1, précise les objectifs minima à atteindre en matière de politique locale de l'habitat
+et lui communique toute autre information qu'il juge utile à l'élaboration du plan.
 
 Le conseil municipal ou l'organe délibérant de l'établissement public compétent arrête le projet de plan d'occupation des
 sols. Celui-ci est alors soumis pour avis aux personnes publiques associées à son élaboration ainsi que, à leur demande, aux
@@ -2620,10 +2629,6 @@ Le projet de plan d'occupation des sols est rendu public par le maire ou le pré
 avec en annexe les avis ou les accords des personnes publiques consultées.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°85-30 du 9 janvier 1985 - art. 71 () JORF 10 janvier 1985
 
 	**Cité par**:
 
@@ -2642,12 +2647,15 @@ avec en annexe les avis ou les accords des personnes publiques consultées.
 	  - Code de l'urbanisme - art. R311-6 (VD)
 	  - Code rural - art. R244-15 (Ab)
 
+	**Modifié par**:
+
+	  - Loi - art. 9 ()
+
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L121-6 (M)
 	  - Code de l'urbanisme - art. L121-7 (M)
 	  - Code de l'urbanisme - art. L123-1 (M)
-	  - Code de l'urbanisme - art. L123-5 (M)
 
 	**Anciens textes**:
 
@@ -2705,21 +2713,28 @@ d'occupation des sols ou l'acte approuvant le plan d'occupation des sols ou sa m
 d'un mois suivant sa transmission au représentant de l'Etat, sauf si, dans ce délai, celui-ci a notifié à la commune les
 modifications qu'il estime nécessaire d'apporter à ce plan, lorsque certaines de ses dispositions sont illégales, de nature à
 compromettre la réalisation d'un schéma directeur, d'un schéma de secteur ou d'un schéma de mise en valeur de la mer en cours
-d'établissement, insuffisantes pour permettre la maîtrise de l'urbanisation future, ou ont fait apparaître des
-incompatibilités manifestes avec l'utilisation ou l'affectation des sols des communes voisines.
+d'établissement, insuffisantes pour satisfaire les besoins en matière d'habitat ou pour permettre la maîtrise de
+l'urbanisation future, ou ont fait apparaître des incompatibilités manifestes avec l'utilisation ou l'affectation des sols
+des communes voisines.
 
 Les dispositions du plan d'occupation des sols rendu public ou approuvé ou sa modification sont inopposables aux tiers tant
 que la commune ou l'établissement public de coopération intercommunale n'a pas apporté les modifications demandées.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
 	**Modifié par**:
 
-	  - Loi n°83-663 du 22 juillet 1983 - art. 99 () JORF 23 JUILLET 1983
+	  - Loi - art. 10 () JORF 19 juillet 1991
+
+	**Abrogé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 4 () JORF 14 décembre 2000 en vigueur le 1er avril 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-1208 du 13 décembre 2000 - art. 43 (V)
+	  - SPEC_APPLI: Décret n°2001-260 du 27 mars 2001 - art. 6 (V)
+	  - TXT_SOURCE: Code de l'urbanisme - art. R*123-10 (M)
 
 	**Cité par**:
 
@@ -2728,9 +2743,9 @@ que la commune ou l'établissement public de coopération intercommunale n'a pas
 	  - Code de l'urbanisme - art. L313-1 (M)
 	  - Code de l'urbanisme - art. R*123-10 (M)
 
-	**Liens**:
+	**Codifié par**:
 
-	  - TXT_SOURCE: Code de l'urbanisme - art. R*123-10 (M)
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L123-4
@@ -3208,20 +3223,34 @@ la collectivité ou le service public bénéficiaire de la réserve quel que soi
 
 ###### Article L123-11
 
-Les dispositions destinées à assurer l'unité d'urbanisme et d'architecture dans une zone à urbaniser en priorité qui sont
-incluses dans les cahiers des charges de concession et dans les cahiers des charges de cession de terrains approuvés doivent
-être incorporées [*contenu*] au plan d'occupation des sols, s'il en existe un, par la décision qui supprime la zone à
-urbaniser en priorité ou en constate l'achèvement. Le régime juridique des plans d'occupation des sols est applicable aux
-dispositions ainsi incorporées.
+Les zones à urbaniser en priorité sont supprimées de plein droit à compter du premier jour du troisième mois qui suit la
+publication de la loi d'orientation de la ville n° 91-662 du 13 juillet 1991. L'abrogation ne porte pas atteinte aux
+relations contractuelles éventuelles entre les collectivités publiques concédantes et les concessionnaires.
 
-Lorsque l'établissement d'un plan d'occupation des sols n'a pas été prescrit ou si le plan d'occupation des sols n'est pas
-rendu public ou approuvé au moment de la suppression ou de l'achèvement d'une zone à urbaniser en priorité, les dispositions
-des cahiers des charges destinées à assurer l'unité d'urbanisme et d'architecture dans la zone peuvent être modifiées par
-décision de l'autorité administrative. Cette décision est prise après enquête publique et délibération du conseil municipal
-ou de l'organe délibérant de l'établissement groupant plusieurs communes et ayant compétence en matière d'urbanisme
-[*syndicat de communes, district urbain, communauté urbaine*].
+" Les dispositions d'urbanisme incluses dans les cahiers des charges de concession et dans les cahiers des charges de cession
+de terrains approuvés restent applicables pendant un délai de deux ans à compter de la publication de la loi précitée.
+
+" Dans les douze mois suivant la publication de la loi visée à l'alinéa précédent, le conseil municipal ou l'organe
+délibérant de l'établissement public de coopération intercommunale compétent élabore pour le quartier considéré, dans les
+conditions prévues à l'article L. 300-2, un programme de référence.
+
+" Ce programme sert de cadre aux actions ou opérations d'aménagement au sens de l'article L. 300-1, visant notamment à
+assurer l'insertion du quartier dans l'agglomération, le développement des services et des activités, l'amélioration du cadre
+de vie et la diversification de l'habitat.
+
+" Dans le délai prévu au deuxième alinéa, l'autorité compétente élabore pour ce même quartier, dans les conditions prévues
+aux articles L. 123-1 et suivants, un plan d'occupation des sols qui prend en considération le programme de référence. "
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme l300-2, l300-1, l123-1
+	  - Loi n°91-662 1991-07-13
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 	**Cité par**:
 
@@ -3232,9 +3261,9 @@ ou de l'organe délibérant de l'établissement groupant plusieurs communes et a
 	  - Code de l'urbanisme - art. L123-12-1 (VD)
 	  - Code de l'urbanisme - art. R*123-17 (M)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+	  - Loi - art. 23 ()
 
 
 ###### Article L123-12
@@ -3247,8 +3276,9 @@ l'autorité compétente. Le régime juridique des plans d'occupation des sols es
 
 Lorsque l'établissement d'un plan d'occupation des sols n'a pas été prescrit ou si le plan d'occupation des sols n'est pas
 rendu public ou approuvé au moment de la fin de la concession, les dispositions des cahiers des charges destinées à assurer
-l'unité d'urbanisme et d'architecture dans la zone peuvent être modifiées dans les conditions définies au deuxième alinéa de
-l'article L. 123-11.
+l'unité d'urbanisme et d'architecture dans la zone peuvent être modifiées par décision de l'autorité administrative. Cette
+décision est prise après enquête publique et délibération du conseil municipal ou de l'organe délibérant de l'établissement
+groupant plusieurs communes et ayant compétence en matière d'urbanisme.
 
 **Liens relatifs à cet article**
 
@@ -3256,13 +3286,18 @@ l'article L. 123-11.
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
-	**Modifié par**:
-
-	  - Loi n°83-8 1983-01-07 ART. 75 2 JORF 9 JANVIER 1983
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+	  - SPEC_APPLI: Décret n°2001-260 du 27 mars 2001 - art. 6 (V)
+
+	**Modifié par**:
+
+	  - Loi - art. 24 () JORF 19 juillet 1991
+
+	**Transféré par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 15 () JORF 14 décembre 2000 en vigueur le 1er avril 2001
 
 	**Cité par**:
 
@@ -3271,13 +3306,61 @@ l'article L. 123-11.
 	  - Code de l'urbanisme - art. R*123-23 (M)
 	  - Code de la construction et de l'habitation. - art. L301-5-1 (VT)
 
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L123-11 (M)
-
 	**Nouveaux textes**:
 
+	  - Code de l'urbanisme - art. L318-9 (M)
 	  - Code de l'urbanisme - art. L318-9 (V)
+
+
+###### Article L123-13
+
+Les dispositions des troisième et quatrième alinéas de l'article L. 123-11 s'appliquent dans les quartiers d'urbanisation
+récente en difficulté ou dans lesquels sont situés des grands ensembles et qui ne font pas partie d'une zone à urbaniser en
+priorité.
+
+" Le programme de référence élaboré en application de l'alinéa précédent est pris en considération par le plan d'occupation
+des sols. "
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°73-1193 du 27 décembre 1973 - art. 28 (M)
+	  - Loi n°2003-590 du 2 juillet 2003 - art. 30 (V)
+	  - Loi n°2009-179 du 17 février 2009 - art. 1 (V)
+	  - Ordonnance n°2011-1539 du 16 novembre 2011 - art. 4 (VD)
+	  - Code de l'environnement - art. L581-14-1 (V)
+	  - Code de l'urbanisme - art. L123-12-1 (VD)
+	  - Code de l'urbanisme - art. L123-13-1 (VT)
+	  - Code de l'urbanisme - art. L123-18 (VT)
+	  - Code de l'urbanisme - art. L123-19 (M)
+	  - Code de l'urbanisme - art. L311-7 (VT)
+	  - Code de l'urbanisme - art. L313-1 (VD)
+	  - Code de l'urbanisme - art. R*121-16 (V)
+	  - Code de l'urbanisme - art. R*123-17 (M)
+	  - Code de l'urbanisme - art. R*123-20-1 (Ab)
+	  - Code de l'urbanisme - art. R*123-21 (VT)
+	  - Code de l'urbanisme - art. R*123-21-1 (Ab)
+	  - Code de l'urbanisme - art. R*123-24 (V)
+	  - Code du patrimoine. - art. L641-1 (V)
+	  - Code rural - art. L112-1-1 (V)
+	  - Code rural et de la pêche maritime - art. L112-18 (VD)
+
+	**Créé par**:
+
+	  - Loi - art. 25 ()
+
+	**Abrogé par**:
+
+	  - Loi n°94-112 du 9 février 1994 - art. 6 (V) JORF 10 février 1994
+
+	**Cite**:
+
+	  - Code de l'urbanisme l123-11
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 #### Chapitre IV : Dispositions transitoires.
@@ -6999,24 +7082,21 @@ L. 160-6 (alinéa 5), pourra, à titre exceptionnel, être réduite.
 Les droits de préemption institués par le présent titre sont exercés en vue de la réalisation, dans l'intérêt général, des
 actions ou opérations répondant aux objets définis à l'article L. 300-1, à l'exception de ceux visant à sauvegarder ou à
 mettre en valeur les espaces naturels, ou pour constituer des réserves foncières en vue de permettre la réalisation desdites
-opérations.
+actions ou opérations d'aménagement.
 
-Toute décision de préemption doit mentionner l'objet pour lequel ce droit est exercé .
+Toute décision de préemption doit mentionner l'objet pour lequel ce droit est exercé. Toutefois, lorsque le droit de
+préemption est exercé à des fins de réserves foncières dans la cadre d'une zone d'aménagement différé, la décision peut se
+référer aux motivations générales mentionnées dans l'acte créant la zone.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Créé par**:
-
-	  - Loi n°85-729 1985-07-18 art. 5, 26 X jorf 19 juillet 1985 en vigueur    le 1er juin 1987
-	  - Loi n°85-729 du 18 juillet 1985 - art. 5 ()
 
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
+
+	**Modifié par**:
+
+	  - Loi - art. 32 () JORF 19 juillet 1991
 
 	**Cité par**:
 
@@ -7035,18 +7115,23 @@ Toute décision de préemption doit mentionner l'objet pour lequel ce droit est 
 
 	  - Code de l'urbanisme - art. L300-1 (M)
 
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
 
 ####  Chapitre Ier : Droit de préemption urbain
 
 ###### Article L211-1
 
 Les communes dotées d'un plan d'occupation des sols rendu public ou approuvé peuvent, par délibération, instituer un droit de
-préemption urbain sur tout ou partie des zones urbaines et des zones d'urbanisation futures délémitées par ce plan ainsi que
+préemption urbain sur tout ou partie des zones urbaines et des zones d'urbanisation future délémitées par ce plan ainsi que
 sur tout ou partie de leur territoire couvert par un plan d'aménagement de zone approuvé en application de l'article L.311-4
-ou par un plan de sauvegarde et de mise en valeur rendu public ou approuvé en application de l'article L.313-1.
+ou par un plan de sauvegarde et de mise en valeur rendu public ou approuvé en application de l'article L.313-1 lorsqu'il n'a
+pas été créé de zone d'aménagement différé ou de périmètre provisoire de zone d'aménagement différé sur ces territoires.
 
 Ce droit de préemption est ouvert à la commune. Le conseil municipal peut décider de le supprimer sur tout ou partie des
-zones considéres. Il peut ultérieurement le rétablir dans les mêmes conditions.
+zones considérées. Il peut ultérieurement le rétablir dans les mêmes conditions.
 
 Lorsqu'un lotissement a été autorisé ou une zone d'aménagement concerté créée, la commune peut exclure du champ d'application
 du droit de préemption urbain la vente des lots issus dudit lotissement ou les cessions de terrain par la personne chargée de
@@ -7100,12 +7185,12 @@ de cinq ans à compter du jour  où la délibération est éxécutoire.
 
 	**Modifié par**:
 
-	  - Loi n°86-1290 1986-12-23 art. 68 I, II et III JORF 24 décembre 1986   en vigueur le 1er juin 1987
-	  - Loi n°86-1290 du 23 décembre 1986 - art. 68 () JORF 24 décembre 1986   en vigueur le 1er juin 1987
+	  - Loi - art. 35 () JORF 19 juillet 1991
 
 	**Cite**:
 
-	  - Code de l'urbanisme L311-4 Code de l'urbanisme L313-1
+	  - Code de l'urbanisme - art. L311-4 (M)
+	  - Code de l'urbanisme - art. L313-1 (M)
 
 
 ###### Article L211-2
@@ -7149,51 +7234,6 @@ plein droit en matière de droit de préemption urbain.
 	  - Code de l'urbanisme - art. R*211-35 (Ab)
 	  - Code de l'urbanisme - art. R*214-2 (Ab)
 	  - Code de l'urbanisme - art. R211-5 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-
-###### Article L211-3
-
-A l'intérieur des périmètres d'opération d'intérêt national, ou lorsqu'elle a pris en considération un projet d'opération
-d'aménagement ou de travaux publics, l'autorité administrative peut demander au conseil municipal d'instituer ou, le cas
-échéant, de rétablir le droit de préemption urbain et de le déléguer à l'une des personnes mentionnées à l'article l.213-3.
-En cas de refus ou de silence de la commune pendant deux mois, le droit de préemption urbain peut être, en tant que de
-besoin, institué ou rétabli et délégué par décret en Conseil d'Etat
-
-Ce décret en Conseil d'Etat peut, en outre, prévoir que le droit de préemption s'applique aux aliénations et aux cessions
-mentionnées à l'article L. 211-4.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°86-1290 du 23 décembre 1986 - art. 68 () JORF 24 décembre 1986    en vigueur le 1er juin 1987
-
-	**Abrogé par**:
-
-	  - Loi - art. 35 ()
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1594-0 G (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 696 (T)
-	  - Code de l'urbanisme - art. L211-11 (Ab)
-	  - Code de l'urbanisme - art. L212-2 (M)
-	  - Code de l'urbanisme - art. R*211-12 (Ab)
-	  - Code de l'urbanisme - art. R*211-30 (Ab)
-	  - Code de l'urbanisme - art. R*211-31 (Ab)
-	  - Code de l'urbanisme - art. R*215-4 (Ab)
-	  - Code de l'urbanisme - art. R211-11 (M)
-	  - Code de l'urbanisme - art. R211-5 (Ab)
-	  - Code du domaine de l'Etat - art. A3 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L211-4 (M)
-	  - Code de l'urbanisme - art. L213-3 (M)
 
 	**Codifié par**:
 
@@ -7357,21 +7397,18 @@ Un décret en Conseil d'Etat détermine, en tant que de besoin, les conditions d
 	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
 
 
-#### CHAPITRE II : Zones d'aménagement différé.
+#### Chapitre II : Zones d'aménagement différé et périmètres provisoires
 
 ###### Article L212-1
 
-Des zones d'aménagement différé peuvent être créées, en dehors des zones urbaines et des zones d'urbanisation future
-délimitées par un plan d'occupation des sols rendu public ou approuvé, par décision motivée du représentant de l'Etat dans le
-département, sur proposition ou après avis de la commune ou de l'établissement public de coopération intercommunale ayant les
-compétences visées au second alinéa de l'article L. 211-2.
+Des zones d'aménagement différé peuvent être créées, par décision motivée du représentant de l'Etat dans le département, sur
+proposition ou après avis de la commune ou de l'établissement public de coopération intercommunale ayant les compétences
+visées au second alinéa de l'article L. 211-2. Les zones urbaines ou d'urbanisation future délimitées par un plan
+d'occupation des sols rendu public ou approuvé et comprises dans un périmètre provisoire de zone d'aménagement différé ou
+dans une zone d'aménagement différé ne sont plus soumises au droit de préemption urbain institué sur ces territoires.
 
 En cas d'avis défavorable de la commune ou de l'établissement public compétent, la zone d'aménagement différé ne peut être
 créée que par décret en Conseil d'Etat.
-
-Un décret en Conseil d'Etat précise, après avis de chaque région concernée, les parties du territoire national dans
-lesquelles des zones d'aménagement différé peuvent être créées dans les communes dotées d'un plan d'occupation des sols rendu
-public ou approuvé. Cet avis [*tacite*] est réputé donné s'il n'intervient pas dans un délai de trois mois. "
 
 **Liens relatifs à cet article**
 
@@ -7404,7 +7441,7 @@ public ou approuvé. Cet avis [*tacite*] est réputé donné s'il n'intervient p
 
 	**Modifié par**:
 
-	  - Loi n°89-550 du 2 août 1989 - art. 8 ()
+	  - Loi - art. 34 () JORF 19 juillet 1991
 
 	**Cite**:
 
@@ -7418,9 +7455,9 @@ public ou approuvé. Cet avis [*tacite*] est réputé donné s'il n'intervient p
 ###### Article L212-2
 
 Dans les zones d'aménagement différé, un droit de préemption, qui peut être exercé pendant une période de quatorze ans à
-compter de la publication de l'acte qui a créé la zone, est ouvert soit à une collectivité publique ou à un établissement
-public y ayant vocation, soit à une société d'économie mixte répondant aux conditions définies au deuxième alinéa de
-l'article L. 300-4 et bénéficiant d'une concession d'aménagement.
+compter de la publication de l'acte qui a créé la zone, sous réserve de ce qu est dit à l'article L. 212-2-1 est ouvert soit
+à une collectivité publique ou à un établissement public y ayant vocation, soit à une société d'économie mixte répondant aux
+conditions définies au deuxième alinéa de l'article L. 300-4 et bénéficiant d'une concession d'aménagement.
 
 L'acte créant la zone désigne le titulaire du droit de préemption.
 
@@ -7429,11 +7466,6 @@ L'acte créant la zone désigne le titulaire du droit de préemption.
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-	**Modifié par**:
-
-	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985   en vigueur le 1er juin 1987
-	  - Loi n°85-729 du 18 juillet 1985 - art. 7 () JORF 19 juillet 1985   en vigueur le 1er juin 1987
 
 	**Cité par**:
 
@@ -7468,17 +7500,95 @@ L'acte créant la zone désigne le titulaire du droit de préemption.
 	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L211-9 (Ab)
 
+	**Modifié par**:
+
+	  - Loi - art. 34 () JORF 19 juillet 1991
+
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L300-4 (M)
 
 
+###### Article L212-2-1
+
+Lorsqu'il est saisi d'une proposition de création de zone d'aménagement différé par la commune ou l'établissement public de
+coopération intercommunale compétent ou qu'il lui demande son avis sur un tel projet, le représentant de l'Etat dans le
+département peut prendre un arrêté délimitant le périmètre provisoire de la zone.
+
+A compter de la publication de cet arrêté et jusqu'à la publication de l'acte créant la zone d'aménagement différé, un droit
+de préemption est ouvert à l'Etat dans le périmètre provisoire. Les zones urbaines ou d'urbanisation future délimitées par un
+plan d'occupation des sols rendu public ou approuvé ne sont plus soumises au droit de préemption urbain institué sur ces
+territoires.
+
+L'arrêté délimitant le périmètre provisoire peut désigner un autre titulaire du droit de préemption.
+
+Si l'acte créant la zone d'aménagement différé n'est pas publié à l'expiration d'un délai de deux ans à compter de la
+publication de l'arrêté délimitant le périmètre provisoire, cet arrêté devient caduc.
+
+Par dérogation à l'article L. 212-2, la date de publication de l'acte délimitant le périmètre provisoire de zone
+d'aménagement différé se substitue à celle de l'acte créant la zone d'aménagement différé pour le calcul du délai de quatorze
+ans pendant lequel le droit de préemption peut être exercé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi - art. 34 () JORF 19 juillet 1991
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L212-2 (V)
+	  - Code de l'urbanisme - art. L212-2-2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L212-2-2
+
+Lors de la publication de l'acte créant la zone d'aménagement différé, les biens immobiliers acquis par décision de
+préemption qui n'auront pas été utilisés à l'une des fins définies à l'article L. 210-1 seront, s'ils sont compris dans le
+périmètre définitif, cédés au titulaire du droit de préemption et, s'ils ne sont pas compris dans ce périmètre, rétrocédés à
+leurs anciens propriétaires ou à leurs ayants cause universels ou à titre universel dans le délai d'un an à compter de la
+publication de l'acte créant la zone. Dans ce dernier cas, les dispositions des troisième, quatrième, cinquième et sixième
+alinéas de l'article L. 213-11 sont applicables. 
+
+Les dispositions relatives à la rétrocession des biens prévues à l'alinéa précédent sont également applicables lorsque
+l'arrêté délimitant le périmètre provisoire devient caduc dans les conditions prévues à l'article L. 212-2-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
+
+	**Créé par**:
+
+	  - Loi - art. 34 () JORF 19 juillet 1991
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L212-2-1 (V)
+	  - Code de l'urbanisme - art. L213-11 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R212-6 (V)
+	  - Code de l'urbanisme - art. R213-16 (V)
+
+
 ###### Article L212-3
 
-Tout propriétaire, à la date de publication de l'acte instituant la zone d'aménagement différé, d'un bien soumis au droit de
-préemption, ou ses ayants cause universels ou à titre universel peut proposer au titulaire de ce droit l'acquisition de ce
-bien, en indiquant le prix qu'il en demande. Le titulaire doit se prononcer dans un délai de deux mois à compter de ladite
-proposition dont copie doit être transmise par le maire au directeur des services fiscaux.
+Tout propriétaire, à la date de publication de l'acte instituant la zone d'aménagement différé, ou délimitant son périmètre
+provisoire d'un bien soumis au droit de préemption, ou ses ayants cause universels ou à titre universel peut proposer au
+titulaire de ce droit l'acquisition de ce bien, en indiquant le prix qu'il en demande. Le titulaire doit se prononcer dans un
+délai de deux mois à compter de ladite proposition dont copie doit être transmise par le maire au directeur des services
+fiscaux.
 
 A défaut d'accord amiable, le prix est fixé par la juridiction compétente en matière d'expropriation selon les règles
 mentionnées à l'article L. 213-4.
@@ -7496,18 +7606,17 @@ acte notarié ou authentique en la forme administrative, la rétrocession s'opè
 alors d'être soumis au droit de préemption.
 
 Les dispositions des articles L. 213-11 et L. 213-12 ne sont pas applicables à un bien acquis dans les conditions définies
-par le présent article [*hors champ d'application*].
+par le présent article.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985   en vigueur le 1er juin 1987
-	  - Loi n°85-729 du 18 juillet 1985 - art. 7 () JORF 19 juillet 1985   en vigueur le 1er juin 1987
 
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Loi - art. 34 () JORF 19 juillet 1991
 
 	**Cité par**:
 
@@ -7550,15 +7659,14 @@ avec cet établissement, lui déléguer tout ou partie des compétences qui lui 
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985   en vigueur le 1er juin 1987
-	  - Loi n°85-729 du 18 juillet 1985 - art. 7 () JORF 19 juillet 1985   en vigueur le 1er juin 1987
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L212-3 (M)
+
+	**Modifié par**:
+
+	  - Loi - art. 34 () JORF 19 juillet 1991
 
 	**Cité par**:
 
@@ -7580,17 +7688,16 @@ Un décret en Conseil d'Etat détermine, en tant que de besoin, les conditions d
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
-	**Modifié par**:
-
-	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985   en vigueur le 1er juin 1987
-	  - Loi n°85-729 du 18 juillet 1985 - art. 7 () JORF 19 juillet 1985   en vigueur le 1er juin 1987
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
 
+	**Modifié par**:
 
-#### CHAPITRE III : Dispositions communes au droit de préemption urbain et aux zones d'aménagement différé.
+	  - Loi - art. 34 () JORF 19 juillet 1991
+
+
+#### Chapitre III : Dispositions communes au droit de préemption urbain, aux zones d'aménagement différé et aux périmètres provisoires
 
 ###### Article L213-1
 
@@ -7599,7 +7706,7 @@ droits sociaux donnant vocation à l'attribution en propriété ou en jouissance
 ou non bâti, lorsqu'ils sont aliénés volontairement, à titre onéreux, sous quelque forme que ce soit.
 
 Sont également soumises à ce droit de préemption les cessions de droits indivis portant sur un immeuble ou une partie
-d'immeuble, bâti ou non bâti, sauf lorsqu'elles sont consenties à l'un des co-indivisaires, ainsi que les cessions de
+d'immeuble, bâti ou non bâti, sauf lorsqu'elles sont consenties à l'un des coindivisaires, ainsi que les cessions de
 tantièmes contre remise de locaux à construire.
 
 En cas d'adjudication, lorsque cette procédure est rendue obligatoire par une disposition législative ou réglementaire,
@@ -7619,9 +7726,9 @@ qui sont leur propriété, ainsi que les immeubles construits par les sociétés
 location-attribution :
 
 b) Les immeubles qui font l'objet d'un contrat de vente d'immeuble à construire dans les conditions prévues par les articles
-1061-1 et suivants du code civil, sauf lorsque ces dispositions sont appliquées à des bâtiments existants ;
+1601-1 et suivants du code civil, sauf lorsque ces dispositions sont appliquées à des bâtiments existants ;
 
-c) Les parts ou actions de sociétés d'attribution visées aux titres II et III de la loi n° 71-759 du 16 juillet 1971 relative
+c) Les parts ou actions de sociétés d'attribution visées aux titres II et III de la loi n° 71-579 du 16 juillet 1971 relative
 à diverses opérations de construction, qui font l'objet d'une cession avant l'achèvement de l'immeuble ou pendant une période
 de dix ans à compter de son achèvement ;
 
@@ -7633,9 +7740,9 @@ immobilières pour le commerce et l'industrie, avec l'une des entreprises visée
 e) Les immeubles qui font l'objet d'une mise en demeure d'acquérir en application des articles L. 111-10, L. 123-9 ou L.
 311-2 du présent code ou de l'article L. 11-7 du code de l'expropriation pour cause d'utilité publique.
 
-" f) Dans les communes où l'ensemble des logements locatifs sociaux au sens du 3° de l'article L. 234-10 du code des communes
+f) Dans les communes où l'ensemble des logements locatifs sociaux au sens du 3° de l'article L. 234-10 du code des communes
 représente moins de 20 p. 100 des résidences principales, les immeubles dont l'aliénation est agréée par le représentant de
-l'Etat dans le département en vue d'accroître l'offre de logements sociaux. "
+l'Etat dans le département en vue d'accroître l'offre de logements sociaux.
 
 **Liens relatifs à cet article**
 
@@ -7698,7 +7805,7 @@ l'Etat dans le département en vue d'accroître l'offre de logements sociaux. "
 
 	**Modifié par**:
 
-	  - Loi n°90-449 du 31 mai 1990 - art. 14 () JORF 2 juin 1990
+	  - Loi - art. 34 () JORF 19 juillet 1991
 
 
 ###### Article L213-2
@@ -7712,7 +7819,7 @@ Lorsque la contrepartie de l'aliénation fait l'objet d'un paiement en nature, l
 d'estimation de cette contrepartie.
 
 Le silence du titulaire du droit de préemption pendant deux mois à compter de la réception de la déclaration mentionnée au
-premier alinéa vaut renonciation à l'exercice du droit de préemption
+premier alinéa vaut renonciation à l'exercice du droit de préemption.
 
 L'action en nullité prévue au premier alinéa se prescrit par cinq ans à compter de la publication de l'acte portant transfert
 de propriété.
@@ -7721,7 +7828,7 @@ de propriété.
 
 	**Anciens textes**:
 
-	  - Loi n°62-848 1962-07-26 ART. 11 TER
+	  - Loi n°62-848 1962-07-26 art. 11 ter
 
 	**Cité par**:
 
@@ -7751,13 +7858,13 @@ de propriété.
 	  - Code du patrimoine - art. R621-98 (V)
 	  - Code du patrimoine - art. R621-99 (V)
 
-	**Modifié par**:
-
-	  - Loi n°85-729 du 18 juillet 1985 - art. 8 () JORF 19 juillet 1985   en vigueur le 1er juin 1987
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Loi - art. 34 () JORF 19 juillet 1991
 
 	**Cite**:
 
@@ -7780,14 +7887,13 @@ préemption" s'entend également, s'il y a lieu, du délégataire en application
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985  en vigueur le 1er juin 1987
-	  - Loi n°85-729 du 18 juillet 1985 - art. 8 () JORF 19 juillet 1985  en vigueur le 1er juin 1987
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Loi - art. 34 () JORF 19 juillet 1991
 
 	**Cite**:
 
@@ -7819,15 +7925,21 @@ est exclusif de toute indemnité accessoire, et notamment de l'indemnité de ré
 Le prix est fixé, payé ou, le cas échéant, consigné selon les règles applicables en matière d'expropriation. Toutefois, dans
 ce cas :
 
-a) La date de référence prévue à l'article L. 13-15 du code de l'expropriation pour cause d'utilité publique est soit la date
-à laquelle est devenu opposable aux tiers le plus récent des actes rendant public, approuvant, révisant ou modifiant le plan
-d'occupation des sols et délimitant la zone dans laquelle est situé le bien, soit, en l'absence d'un tel document, un an
-avant la publication de l'acte créant la zone d'aménagement différé ;
+a) La date de référence prévue à l'article L. 13-15 du code de l'expropriation pour cause d'utilité publique est la date à
+laquelle est devenu opposable aux tiers le plus récent des actes rendant public, approuvant, révisant ou modifiant le plan
+d'occupation des sols et délimitant la zone dans laquelle est situé le bien.
+
+En l'absence d'un tel document, cette date de référence est :
+
+- un an avant la publication de l'acte délimitant le périmètre provisoire de zone d'aménagement différé, lorsque le bien est
+situé dans un tel périmètre ou lorsque l'acte créant la zone est publié dans le délai de validité d'un périmètre provisoire ;
+
+- un an avant la publication de l'acte créant la zone d'aménagement différé.
 
 b) Les améliorations, les transformations ou les changements d'affectation opérés par le propriétaire postérieurement à la
 date mentionnée au a) ci-dessus ne sont pas présumés revêtir un caractère spéculatif ;
 
-c) A défaut de transactions amiables constituant des références suffisantes poru l'évaluation du bien dans la même zone, il
+c) A défaut de transactions amiables constituant des références suffisantes pour l'évaluation du bien dans la même zone, il
 pourra être tenu compte des mutations et accords amiables intervenus pour des biens de même qualification situés dans des
 zones comparables.
 
@@ -7839,7 +7951,8 @@ vendeur mais peut réviser le montant de cette rente et du capital éventuel.
 
 	**Modifié par**:
 
-	  - Loi n°89-550 du 2 août 1989 - art. 8 ()
+	  - Loi - art. 34 () JORF 19 juillet 1991
+	  - Loi n°91-662 1991-07-13 art. 34 IV, VI JORF 19 juillet 1991
 
 	**Cité par**:
 
@@ -7860,6 +7973,63 @@ vendeur mais peut réviser le montant de cette rente et du capital éventuel.
 	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
+###### Article L213-4-1
+
+Lorsque la juridiction compétente en matière d'expropriation a été saisie dans les cas prévus aux articles L. 211-5, L.
+211-6, L. 212-3 et L. 213-4, le titulaire du droit de préemption doit consigner une somme égale à 15  % de l'évaluation faite
+par le directeur des services fiscaux. 
+
+La consignation s'opère au seul vu de l'acte par lequel la juridiction a été saisie et de l'évaluation du directeur des
+services fiscaux.
+
+A défaut de notification d'une copie du récépissé de consignation à la juridiction et au propriétaire dans le délai de trois
+mois à compter de la saisine de cette juridiction, le titulaire du droit de préemption est réputé avoir renoncé à
+l'acquisition ou à l'exercice du droit de préemption.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L213-4-2 (V)
+	  - Code de l'urbanisme - art. R213-11 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme l211-5, l211-6, l212-3, l213-4
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Créé par**:
+
+	  - Loi - art. 33 () JORF 19 juillet 1991
+	  - Loi - art. 34 () JORF 19 juillet 1991
+	  - Loi n°91-662 1991-07-13 art. 33, 34 IV, VI JORF 19 juillet 1991
+
+
+###### Article L213-4-2
+
+La libération des fonds consignés en application de l'article L. 213-4-1 ne peut être effectuée que lorsque le titulaire du
+droit de préemption a renoncé à l'acquisition ou à l'exercice du droit de préemption ou après le transfert de propriété.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Créé par**:
+
+	  - Loi - art. 33 () JORF 19 juillet 1991
+	  - Loi - art. 34 () JORF 19 juillet 1991
+	  - Loi n°91-662 1991-07-13 art. 33, 34 IV, VI JORF 19 juillet 1991
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L213-4-1 (V)
+
+
 ###### Article L213-5
 
 En cas de déclaration d'utilité publique, l'exercice du droit de préemption produit les mêmes effets que l'accord amiable en
@@ -7871,14 +8041,13 @@ soumise au droit de préemption.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985   en vigueur le 1er juillet 1987
-	  - Loi n°85-729 du 18 juillet 1985 - art. 8 () JORF 19 juillet 1985   en vigueur le 1er juillet 1987
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Loi - art. 34 () JORF 19 juillet 1991
 
 	**Cité par**:
 
@@ -7915,12 +8084,12 @@ l'article L. 213-4.
 
 	**Modifié par**:
 
-	  - Loi n°89-550 du 2 août 1989 - art. 8 ()
+	  - Loi - art. 34 () JORF 19 juillet 1991
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L213-4 (M)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L13-15 (M)
+	  - Code de l'urbanisme - art. L213-4 (V)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L13-15 (V)
 
 
 ###### Article L213-7
@@ -7931,19 +8100,22 @@ cours de procédure à l'exercice de son droit à défaut d'accord sur le prix.
 
 En cas de fixation judiciaire du prix, et pendant un délai de deux mois après que la décision juridictionnelle est devenue
 définitive, les parties peuvent accepter le prix fixé par la juridiction ou renoncer à la mutation. Le silence des parties
-dans ce délai vaut acceptation du prix fixé par le juge et le transfert de propriété, à l'issue de ce délai, au profit du
+dans ce délai vaut acceptation du prix fixé par le juge et transfert de propriété, à l'issue de ce délai, au profit du
 titulaire du droit de préemption.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985   en vigueur le 1er juin 1987
-	  - Loi n°85-729 du 18 juillet 1985 - art. 8 () JORF 19 juillet 1985   en vigueur le 1er juin 1987
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Loi - art. 34 () JORF 19 juillet 1991
 
 	**Cité par**:
 
@@ -7951,10 +8123,6 @@ titulaire du droit de préemption.
 	  - Code de l'urbanisme - art. L213-2 (M)
 	  - Code de l'urbanisme - art. L215-20 (VD)
 	  - Code de l'urbanisme - art. R213-12 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 ###### Article L213-8
@@ -7973,14 +8141,13 @@ l'acte authentique en la forme administrative constatant le transfet de proprié
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985   en vigueur le 1er juin 1987
-	  - Loi n°85-729 du 18 juillet 1985 - art. 8 () JORF 19 juillet 1985   en vigueur le 1er juin 1987
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Loi - art. 34 ()
 
 	**Cité par**:
 
@@ -7996,59 +8163,53 @@ l'acte authentique en la forme administrative constatant le transfet de proprié
 
 Lorsque le titulaire du droit de préemption lui a notifié sa décision d'exercer ce droit ou, dans les conditions fixées par
 les articles L. 211-5 ou L. 212-3, son intention d'acquérir, le propriétaire est tenu d'informer les locataires, les preneurs
-ou occupants de bonne foi du bien de les faire connaître à ce titulaire.
+ou occupants de bonne foi du bien et de les faire connaître à ce titulaire.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-	**Créé par**:
-
-	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985   en vigueur le 1er juin 1987
-	  - Loi n°85-729 du 18 juillet 1985 - art. 8 () JORF 19 juillet 1985   en vigueur le 1er juin 1987
 
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
 
+	**Modifié par**:
+
+	  - Loi - art. 34 () JORF 19 juillet 1991
+
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L211-5 (M)
-	  - Code de l'urbanisme - art. L212-3 (M)
+	  - Code de l'urbanisme - art. L211-5 (V)
+	  - Code de l'urbanisme - art. L212-3 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 ###### Article L213-10
 
 Nonobstant toutes dispositions ou stipulations contraires, les preneurs de biens ruraux, les locataires ou occupants de bonne
-fois de locaux à usage d'habitation ainsi que les locataires de locaux à usage commercial, industriel ou artisanal situés
-dans un bien acquis par la voie de la préemption ou en application des articles L. 211-5 ou L. 212-3 ne peuvent s'opposer à
-l'exécution des travaux de restauration ou de transformation intérieure ni à la démolition de ces locaux.
+foi de locaux à usage d'habitation ainsi que les locataires de locaux à usage commercial, industriel ou artisanal situés dans
+un bien acquis par la voie de la préemption ou en application des articles L. 211-5 ou L. 212-3 ne peuvent s'opposer à
+l'exécution des travaux de restauration ou de transformation intérieure ni à la démolition de ces locaux. 
 
-Si l'exécution des travaux l'exige, ils sont tenus d'évaluer tout ou partie de ces locaux ; le nouveau propriétaire du bien
-est alors tenu aux obligations prévues aux articles L. 314-1 et suivants.
+Si l'exécution des travaux l'exige, ils sont tenus d'évacuer tout ou partie de ces locaux ; le nouveau propriétaire du bien
+est alors tenu aux obligations prévues aux articles L. 314-1 et suivants. 
 
 Nonobstant toutes dispositions ou stipulations contraires, ils peuvent à tout moment déclarer au titulaire du droit de
 préemption leur intention de quitter les lieux et de résilier le bail. Celui-ci, qui ne peut ni s'y opposer ni leur réclamer
-une indemnité à ce titre, est tenu de leur verser des indemnités auxquelles ils peuvent prétendre, notamment celles qui
+une indemnité à ce titre, est tenu de leur verser les indemnités auxquelles ils peuvent prétendre, notamment celles qui
 peuvent leur être dues à raison des améliorations qu'ils ont apportées au fonds loué. En cas de litige, ces indemnités sont
 fixées par la juridiction compétente en matière d'expropriation.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-	**Créé par**:
-
-	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985   en vigueur le 1er juin 1987
-	  - Loi n°85-729 du 18 juillet 1985 - art. 8 () JORF 19 juillet 1985   en vigueur le 1er juin 1987
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Loi - art. 34 () JORF 19 juillet 1991
 
 	**Cité par**:
 
@@ -8056,9 +8217,13 @@ fixées par la juridiction compétente en matière d'expropriation.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L211-5 (M)
-	  - Code de l'urbanisme - art. L212-3 (M)
-	  - Code de l'urbanisme - art. L314-1 (M)
+	  - Code de l'urbanisme - art. L211-5 (V)
+	  - Code de l'urbanisme - art. L212-3 (V)
+	  - Code de l'urbanisme - art. L314-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 ###### Article L213-11
@@ -8067,11 +8232,11 @@ Les biens acquis par l'exercice du droit de préemption doivent être utilisés 
 210-1. L'utilisation ou l'aliénation d'un bien au profit d'une personne privée autre qu'une société d'économie mixte
 répondant aux conditions définies au deuxième alinéa de l'article L. 300-4 ou qu'une société d'habitations à loyer modéré
 doit faire l'objet d'une délibération motivée du conseil municipal ou, le cas échéant, d'une décision motivée du délégataire
-du droit de préemption. de l'expropriation pour cause d'utilité publique est, pour ce qui
+du droit de préemption.
 
 Si le titulaire du droit de préemption décide d'utiliser ou d'aliéner à d'autres fins un bien acquis depuis moins de dix ans
-par exercice de ce droit, il doit informer de sa décision les anciens propriétaires de leur ayant cause universels à titre
-universel et leur proposer l'acquisition de ce bien en priorité.
+par exercice de ce droit, il doit informer de sa décision les anciens propriétaires ou leurs ayants cause universels ou à
+titre universel et leur proposer l'acquisition de ce bien en priorité.
 
 A défaut d'accord amiable, le prix est fixé par la juridiction compétente en matière d'expropriation, conformément aux règles
 mentionnées par l'article L. 213-4.
@@ -8089,10 +8254,9 @@ dans la déclaration mentionnée à l'article L. 213-2.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985   en vigueur le 1er juin 1987
-	  - Loi n°85-729 du 18 juillet 1985 - art. 8 () JORF 19 juillet 1985   en vigueur le 1er juin 1987
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 	**Cité par**:
 
@@ -8113,6 +8277,10 @@ dans la déclaration mentionnée à l'article L. 213-2.
 
 	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
 
+	**Modifié par**:
+
+	  - Loi - art. 34 () JORF 19 juillet 1991
+
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L210-1 (M)
@@ -8120,34 +8288,29 @@ dans la déclaration mentionnée à l'article L. 213-2.
 	  - Code de l'urbanisme - art. L213-4 (M)
 	  - Code de l'urbanisme - art. L300-4 (M)
 
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
 
 ###### Article L213-12
 
 En cas de non-respect des obligations définies au deuxième alinéa de l'article L. 213-11, les anciens propriétaires ou leurs
 ayants cause universels ou à titre universel saisissent le tribunal de l'ordre judiciaire d'une action en dommages-intérêts
-contre le titulaire du droit de préemption.
+contre le titulaire du droit de préemption. 
 
 En cas de non-respect des obligations définies au cinquième alinéa de l'article L. 213-11, la personne qui avait l'intention
 d'acquérir ce bien saisit le tribunal de l'ordre judiciaire d'une action en dommages-intérêts contre le titulaire du droit de
-préemption.
+préemption. 
 
 L'action en dommages-intérêts se prescrit par cinq ans à compter de la mention de l'affectation ou de l'aliénation du bien au
-registre institué en application de l'article L. 213-13 [*délai de prescription*].
+registre institué en application de l'article L. 213-13.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985   en vigueur le 1er juin 1987
-	  - Loi n°85-729 du 18 juillet 1985 - art. 8 () JORF 19 juillet 1985   en vigueur le 1er juin 1987
 
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Loi - art. 34 () JORF 19 juillet 1991
 
 	**Cité par**:
 
@@ -8156,8 +8319,8 @@ registre institué en application de l'article L. 213-13 [*délai de prescriptio
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L213-11 (M)
-	  - Code de l'urbanisme - art. L213-13 (M)
+	  - Code de l'urbanisme - art. L213-11 (V)
+	  - Code de l'urbanisme - art. L213-13 (V)
 
 	**Codifié par**:
 
@@ -8174,6 +8337,10 @@ Toute personne peut consulter ce registre ou en obtenir un extrait.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
 	**Cité par**:
 
 	  - Loi n°78-753 du 17 juillet 1978 - art. 21 (VT)
@@ -8182,18 +8349,13 @@ Toute personne peut consulter ce registre ou en obtenir un extrait.
 	  - Code de l'urbanisme - art. R213-20 (V)
 	  - Code des relations entre le public et l'adminis... - art. L342-2 (VT)
 
-	**Créé par**:
-
-	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985   en vigueur le 1er juin 1987
-	  - Loi n°85-729 du 18 juillet 1985 - art. 8 () JORF 19 juillet 1985   en vigueur le 1er juin 1987
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+	  - Loi - art. 34 () JORF 19 juillet 1991
 
 
 ###### Article L213-14
@@ -8201,7 +8363,7 @@ Toute personne peut consulter ce registre ou en obtenir un extrait.
 En cas d'acquisition d'un bien par voie de préemption, le prix du bien devra être réglé par le titulaire du droit de
 préemption dans les six mois qui suivent soit la décision d'acquérir le bien au prix indiqué par le vendeur ou accepté par
 lui, soit la décision définitive de la juridiction compétente en matière d'expropriation, soit la date de l'acte ou du
-jugement d'adjudication [*délai de paiement, point de départ*].
+jugement d'adjudication.
 
 En l'absence de paiement ou, s'il y a obstacle au paiement, de consignation de la somme due à l'expiration du délai prévu à
 l'alinéa précédent, le titulaire du droit de préemption est tenu, sur demande de l'ancien propriétaire, de lui rétrocéder le
@@ -8215,14 +8377,13 @@ Le propriétaire qui a repris son bien dans les conditions prévues au présent 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985   en vigueur le 1er juin 1987
-	  - Loi n°85-729 du 18 juillet 1985 - art. 8 () JORF 19 juillet 1985   en vigueur le 1er juin 1987
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Loi - art. 34 () JORF 19 juillet 1991
 
 	**Cité par**:
 
@@ -8251,14 +8412,13 @@ prix.
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
-	**Créé par**:
-
-	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985   en vigueur le 1er juin 1987
-	  - Loi n°85-729 du 18 juillet 1985 - art. 8 () JORF 19 juillet 1985   en vigueur le 1er juin 1987
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Loi - art. 34 () JORF 19 juillet 1991
 
 	**Cité par**:
 
@@ -8267,55 +8427,43 @@ prix.
 
 ###### Article L213-16
 
-Les dispositions de l'article L. 221-2 sont applicables aux biens acquis par exercice du droit de préemption [*champ
-d'application, extension*].
+Les dispositions de l'article L. 221-2 sont applicables aux biens acquis par exercice du droit de préemption.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985   en vigueur le 1er juin 1987
-	  - Loi n°85-729 du 18 juillet 1985 - art. 8 () JORF 19 juillet 1985   en vigueur le 1er juin 1987
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L221-2 (M)
 
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
+	**Liens**:
 
-###### Article L213-17
-
-Lorsqu'une zone d'aménagement différé a été créée en application de l'article L. 212-1 avant publication d'un plan
-d'occupation des sols et que, ultérieurement, pendant la durée de validité de cette zone, un plan d'occupation des sols est
-rendu public ;
-
-a) Les parties de zone d'aménagement différé situées dans une zone urbaine ou d'urbanisation future de ce plan sont de plein
-droit soumises au droit de préemption urbain institué par l'article L. 211-1. Dans ce cas, les biens énumérés à l'article L.
-211-4 sont soumis au droit de préemption sans qu'il soit besoin d'une délibération spéciale du conseil municipal. Lorsque le
-titulaire du droit de préemption urbain est délégué de plein droit à ce titulaire, sauf délibération contraire du conseil
-municipal ou de l'organe délibérant de l'établissement public de coopération intercommunale ;
-
-b) Les parties de la zone d'aménagement différé situées hors des zones urbaines ou des zones d'urbanisation future délimitées
-par le plan d'occupation des sols demeurent soumises aux dispositions des articles L. 212-1 et suivants. "
-
-**Liens relatifs à cet article**
+	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
 
 	**Modifié par**:
 
-	  - Loi n°89-550 du 2 août 1989 - art. 8 ()
+	  - Loi - art. 34 () JORF 19 juillet 1991
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L211-1 (M)
-	  - Code de l'urbanisme - art. L211-4 (M)
-	  - Code de l'urbanisme - art. L212-1 (M)
+	  - Code de l'urbanisme - art. L221-2 (V)
+
+
+###### Article L213-17
+
+Si un périmètre de zone d'aménagement différé ou un périmètre provisoire de zone d'aménagement différé est créé avant
+l'expiration du délai de deux mois prévu au troisième alinéa de l'article L. 213-2, la déclaration d'intention d'aliéner doit
+être transmise par le maire au représentant de l'Etat dans le département qui l'instruit conformément aux dispositions des
+articles L. 212-1 et suivants. 
+
+Dans ce cas, le délai visé au premier alinéa du présent article court à compter de la date de publication de l'acte créant la
+zone d'aménagement différé ou le périmètre provisoire de zone d'aménagement différé.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L212-1 (V)
+	  - Code de l'urbanisme - art. L213-2 (V)
 
 	**Cité par**:
 
@@ -8325,30 +8473,10 @@ par le plan d'occupation des sols demeurent soumises aux dispositions des articl
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
+	**Modifié par**:
 
-###### Article L213-17-1
-
-Les dispositions du a de l'article L. 213-17 [*champ d'application*] s'appliquent en cas d'approbation, de modification ou de
-révision du plan d'occupation des sols ayant pour effet, postérieurement à la création d'une zone d'aménagement différé,
-d'étendre le périmètre des zones urbaines ou des zones d'urbanisation future délimitées par le plan d'occupation des sols. "
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-	**Créé par**:
-
-	  - Loi n°89-550 du 2 août 1989 - art. 8 ()
-
-	**Abrogé par**:
-
-	  - Loi - art. 35 ()
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L213-17 (M)
+	  - Loi - art. 34 () JORF 19 juillet 1991
+	  - Loi - art. 35 () JORF 19 juillet 1991
 
 
 ###### Article L213-18
@@ -8361,14 +8489,13 @@ Un décret en Conseil d'Etat détermine, en tant que de besoin, les conditions d
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
-	**Créé par**:
-
-	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985  en vigueur le 1er juin 1987
-	  - Loi n°85-729 du 18 juillet 1985 - art. 8 () JORF 19 juillet 1985  en vigueur le 1er juin 1987
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Loi - art. 34 () JORF 19 juillet 1991
 
 
 #### Chapitre VI : Dispositions particulières aux jardins familiaux
@@ -8405,19 +8532,15 @@ Les articles 610 et 611 sont devenus respectivement les articles L561-1 et L561-
 ###### Article L221-1
 
 L'Etat, les collectivités locales, ou leurs groupements y ayant vocation, les syndicats mixtes et les établissements publics
-d'aménagement visés à l'article  L. 321-1 sont habilités à acquérir des immeubles, au besoin par voie d'expropriation, pour
-constituer des réserves foncières  en vue de permettre la réalisation d'une opération d'aménagement répondant aux objets
-définis à l'article L. 300-1.
+mentionnés aux articles L. 321-1 et L. 324-1 sont habilités à acquérir des immeubles, au besoin par voie d'expropriation,
+pour constituer des réserves foncières en vue de permettre la réalisation d'une action ou d'une opération d'aménagement
+répondant aux objets définis à l'article L. 300-1.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
 	**Anciens textes**:
 
-	  - Loi n°67-1253 1967-12-30 ART. 11 Loi d'orientation foncière
+	  - Loi n°67-1253 1967-12-30 art. 11 Loi d'orientation foncière
 
 	**Liens**:
 
@@ -8425,7 +8548,7 @@ définis à l'article L. 300-1.
 
 	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 11 () JORF 19 juillet 1985
+	  - Loi - art. 32 () JORF 19 juillet 1991
 
 	**Cité par**:
 
@@ -8445,10 +8568,9 @@ définis à l'article L. 300-1.
 	  - Code général de la propriété des personnes publ... - art. L5142-1 (V)
 	  - Code général des collectivités territoriales - art. L4424-26-2 (V)
 
-	**Cite**:
+	**Codifié par**:
 
-	  - Code de l'urbanisme - art. L300-1 (M)
-	  - Code de l'urbanisme - art. L321-1 (M)
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 ###### Article L221-2
@@ -8833,6 +8955,64 @@ d'expropriation.
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
+###### Article L300-5
+
+Dans les agglomérations où l'état de l'habitat existant nécessite la mise en oeuvre de procédures d'amélioration et de
+réhabilitation, le conseil municipal ou l'organe délibérant de l'établissement public de coopération intercommunale compétent
+élabore un programme de référence destiné à servir de cadre aux actions ou opérations d'aménagement, au sens de l'article L.
+300-1, visant notamment à la mise en valeur des quartiers anciens, à la protection du patrimoine historique et architectural
+et des sites urbains, à la lutte contre l'insalubrité et à l'amélioration du confort des logements.
+
+" Ce programme tient compte des objectifs et principes de diversité de l'habitat fixés par la loi n° 91-662 du 13 juillet
+1991 d'orientation pour la ville.
+
+" Avant son approbation, le projet de programme de référence est soumis pour avis au conseil départemental de l'habitat et,
+le cas échéant, à l'architecte des Bâtiments de France, puis mis à la disposition du public pendant un mois.
+
+" Il est joint au dossier des actions ou opérations mentionnées au premier alinéa lorsqu'elles sont soumises à la
+concertation prévue à l'article L. 300-2 ou à une enquête publique. "
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi - art. 20 () JORF 19 juillet 1991
+
+	**Cite**:
+
+	  - Loi n°91-662 1991-07-13
+	  - Code de l'urbanisme - art. L300-1 (M)
+	  - Code de l'urbanisme - art. L300-2 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°94-112 du 9 février 1994 - art. 6 (V) JORF 10 février 1994
+
+	**Cité par**:
+
+	  - Loi n°94-112 du 9 février 1994 - art. 6 (V)
+	  - Loi n°2013-1278 du 29 décembre 2013 - art. 29 (V)
+	  - Loi n°2014-891 du 8 août 2014 - art. 27 (V)
+	  - Loi n°2015-1785 du 29 décembre 2015 - art. 12 (V)
+	  - Code de l'urbanisme - art. L311-5 (V)
+	  - Code de l'urbanisme - art. R*300-10 (T)
+	  - Code de l'urbanisme - art. R*300-11 (VT)
+	  - Code de l'urbanisme - art. R*300-12 (V)
+	  - Code de l'urbanisme - art. R*311-6 (M)
+	  - Code de la construction et de l'habitation. - art. R302-16 (V)
+	  - Code de la construction et de l'habitation. - art. R302-30 (T)
+	  - Code général des collectivités territoriales - art. L1523-2 (V)
+	  - Code général des collectivités territoriales - art. L1523-3 (M)
+	  - Code général des collectivités territoriales - art. L1615-11 (V)
+	  - Code général des collectivités territoriales - art. L2313-1 (V)
+	  - Code rural - art. L112-9 (V)
+	  - Code rural - art. L112-9-1 (T)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
 ###  Titre Ier : Opérations d'aménagement
 
 ####  Chapitre Ier : Zones d'aménagement concerté
@@ -8989,19 +9169,17 @@ l'article L. 213-11.
 
 ###### Article L311-4
 
-Il est établi, dans chaque zone d'aménagement concerté, un plan d'aménagement de zone compatible, avec les orientations du
-schéma directeur s'il en existe un. Le plan d'aménagement de zone comporte tout ou partie des éléments énumérés aux articles
-L. 123-1 et L. 130-1. Le projet de plan d'aménagement de zone est élaboré par la personne publique qui a pris l'initiative de
-la création de zone.
+Il est établi, dans chaque zone d'aménagement concerté, un plan d'aménagement de zone compatible avec les orientations du
+schéma directeur, s'il en existe un. Ce plan prend en considération les dispositions du programme local de l'habitat
+lorsqu'il existe. Il comporte tout ou partie des éléments énumérés aux articles L. 123-1 et L. 130-1. Il est élaboré par la
+personne publique qui a pris l'initiative de la création de la zone. "
 
 Sont associés à cette élaboration l'Etat et la commune et, à leur demande, et dans les formes que la personne publique qui a
 prix l'initiative de la création de la zone détermine, la région et le département ; l'autorité compétente pour créer la zone
 d'aménagement concerté peut demander que soit recueilli l'avis de tout organisme ou association ayant compétence en matière
-de construction, d'aménagement ou d'urbanisme.
-
-Le représentant de l'Etat porte à la connaissance de la personne publique qui a pris l'initiative de la création, les
-prescriptions, servitudes et dispositions mentionnées au dernier alinéa de l'article L. 123-1 et lui communique toute autre
-information qu'il juge utile à l'élaboration du plan d'aménagement de zone.
+de construction, d'aménagement ou d'urbanisme.    Le représentant de l'Etat porte à la connaissance de la personne publique
+qui a pris l'initiative de la création, les prescriptions, servitudes et dispositions mentionnées au dernier alinéa de
+l'article L. 123-1 et lui communique toute autre information qu'il juge utile à l'élaboration du plan d'aménagement de zone.
 
 Le plan d'aménagement de zone est soumis à enquête publique par le maire lorsque la commune est compétente pour créer la zone
 et par le représentant de l'Etat dans le département lorsqu'il a cette compétence. Le plan d'aménagement de zone est ensuite
@@ -9033,6 +9211,10 @@ prises en application de l'article L. 121-12.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
 	**Cité par**:
 
 	  - Décret n°77-1141 du 12 octobre 1977 - art. Annexe III (Ab)
@@ -9053,7 +9235,7 @@ prises en application de l'article L. 121-12.
 
 	**Modifié par**:
 
-	  - Loi n°86-1290 du 23 décembre 1986 - art. 71 () JORF 24 décembre 1986
+	  - Loi - art. 11 ()
 
 	**Cite**:
 
@@ -9061,15 +9243,10 @@ prises en application de l'article L. 121-12.
 	  - Code de l'urbanisme - art. L121-12 (Ab)
 	  - Code de l'urbanisme - art. L123-1 (M)
 	  - Code de l'urbanisme - art. L130-1 (M)
-	  - Code de l'urbanisme - art. L311-6 (M)
 
 	**Anciens textes**:
 
 	  - Code de l'urbanisme - art. L311-4-1 (T)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L311-5
@@ -12772,6 +12949,285 @@ consignations et de la caisse d'aide à l'équipement des collectivités locales
 	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
 
 
+#### CHAPITRE IV : Etablissements publics fonciers.
+
+###### Article L324-1
+
+Les établissements publics fonciers créés en application du présent chapitre sont des établissements publics locaux à
+caractère industriel et commercial à vocation unique, compétents pour réaliser, pour le compte de leurs membres ou de l'Etat,
+toutes acquisitions foncières et immobilières, en vue de la constitution de réserves foncières, en prévision des actions ou
+opérations d'aménagement prévues par l'article L. 300-1 du présent code.
+
+" A cette fin, ils peuvent exercer, par délégation de leurs titulaires, les droits de préemption définis par le présent code
+dans les cas et conditions qu'il prévoit et agir par voie d'expropriation.
+
+" Aucune opération de l'établissement public foncier ne peut être réalisée sans l'avis de la commune concernée.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°72-619 du 5 juillet 1972 - art. 7-1 (V)
+	  - Loi n°82-213 du 2 mars 1982 - art. 45-1 (V)
+	  - Loi - art. 29 (V)
+	  - Loi n°95-127 du 8 février 1995 - art. 11 (V)
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 102 (V)
+	  - Décret n°2017-831 du 5 mai 2017 - art. 10
+	  - CODE DES COMMUNES. - art. L*311-8 (Ab)
+	  - CODE DES COMMUNES. - art. L311-1 (Ab)
+	  - Code de l'urbanisme - art. L113-25 (VD)
+	  - Code de l'urbanisme - art. L142-3 (VT)
+	  - Code de l'urbanisme - art. L143-3 (M)
+	  - Code de l'urbanisme - art. L210-1 (M)
+	  - Code de l'urbanisme - art. L213-1 (VD)
+	  - Code de l'urbanisme - art. L215-8 (VD)
+	  - Code de l'urbanisme - art. L221-1 (V)
+	  - Code de l'urbanisme - art. L332-21 (Ab)
+	  - Code de l'urbanisme - art. L730-1 (VT)
+	  - Code de l'urbanisme - art. R324-4 (V)
+	  - Code de l'urbanisme - art. R340-5 (V)
+	  - Code de la construction et de l'habitation. - art. L302-7 (V)
+	  - Code de la construction et de l'habitation. - art. R*321-12 (V)
+	  - Code de la construction et de l'habitation. - art. R321-13 (V)
+	  - Code général de la propriété des personnes publ... - art. L3221-2 (V)
+	  - Code général de la propriété des personnes publ... - art. L3222-3 (V)
+	  - Code général des collectivités territoriales - art. L2122-22 (V)
+	  - Code général des impôts, CGI. - art. 1042 (V)
+	  - Code général des impôts, CGI. - art. 1396 (V)
+	  - Code général des impôts, CGI. - art. 150 U (V)
+	  - Code général des impôts, CGI. - art. 1607 bis (VD)
+	  - Code général des impôts, CGI. - art. 1635 ter A (Ab)
+	  - Code général des impôts, CGI. - art. 1636 B octies (VT)
+	  - Code général des impôts, CGI. - art. 1636 C (V)
+	  - Livre des procédures fiscales - art. L135 B (VT)
+
+	**Créé par**:
+
+	  - Loi - art. 27 () JORF 19 juillet 1991
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L300-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L3222-3 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L324-2
+
+L'établissement public foncier est créé par le représentant de l'Etat, au vu des délibérations concordantes émanant des deux
+tiers des conseils municipaux ou des organes délibérants des établissements publics de coopération intercommunale,
+représentant au moins la moitié de la population des communes intéressées ou la moitié des conseils municipaux ou organes
+délibérants des établissements publics de coopération intercommunale, représentant au moins les deux tiers de la population
+des communes intéressées.
+
+Lorsque des communes sont regroupées au sein d'un établissement public de coopération intercommunale compétent en matière
+foncière, la délibération émane de cet établissement. Pour l'application de la règle de majorité, il est tenu compte du
+nombre et de la population totale des communes regroupées au sein de cet établissement.
+
+Sur l'initiative d'un ou plusieurs conseils municipaux ou d'un ou plusieurs organes délibérants d'établissements publics de
+coopération intercommunale compétents en matière foncière demandant la création d'un établissement public foncier, le
+représentant de l'Etat fixe la liste des communes ou établissements publics de coopération intercommunale intéressés.
+
+Les délibérations portent sur le périmètre, les modalités de fonctionnement, la durée, le siège et la composition du conseil
+d'administration de l'établissement public foncier.
+
+La décision de création comporte les éléments mentionnés à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Créé par**:
+
+	  - Loi - art. 27 () JORF 19 juillet 1991
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R324-1 (V)
+	  - Code de l'urbanisme - art. R324-13 (Ab)
+
+
+###### Article L324-3
+
+L'établissement public foncier est administré par un conseil d'administration.
+
+Le conseil d'administration est composé, pour les trois quarts au moins des sièges, de représentants des membres de
+l'établissement et, le cas échéant, pour un quart au plus des sièges, de personnes qualifiées notamment dans les domaines de
+l'habitat, de l'aménagement ou du cadre de vie, désignées par le collège des représentants des membres de l'établissement
+public. Les communes ou établissements publics de coopération intercommunale qui ne pourraient être membres du conseil
+d'administration en raison du nombre des collectivités intéressées peuvent former une assemblée spéciale qui désigne des
+représentants au conseil d'administration.
+
+Le conseil d'administration élit le président de l'établissement public foncier et désigne son directeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Créé par**:
+
+	  - Loi - art. 27 () JORF 19 juillet 1991
+
+	**Cité par**:
+
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 102 (V)
+	  - Code de l'urbanisme - art. L324-2 (V)
+
+
+###### Article L324-4
+
+D'autres collectivités territoriales, établissements publics de coopération intercommunale et personnes morales de droit
+public peuvent demander à faire partie de l'établissement public foncier après sa constitution.
+
+Leur demande est soumise pour avis au conseil d'administration de l'établissement public, puis aux membres de celui-ci, qui
+disposent d'un délai de quarante jours pour faire connaître leur éventuelle opposition.
+
+La décision d'admission est prise par l'autorité compétente pour créer l'établissement public. Elle ne peut, toutefois,
+intervenir si plus d'un tiers des membres de l'établissement public foncier ont fait connaître leur opposition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Créé par**:
+
+	  - Loi - art. 27 () JORF 19 juillet 1991
+
+
+###### Article L324-5
+
+Un membre de l'établissement public foncier peut s'en retirer avec le consentement du conseil d'administration, qui fixe les
+conditions auxquelles s'opère le retrait.
+
+La délibération du conseil d'administration est notifiée aux membres de l'établissement public foncier qui disposent d'un
+délai de quarante jours pour faire connaître leur avis. La décision de retrait est prise par l'autorité compétente pour créer
+l'établissement public. Elle ne peut, toutefois, intervenir si plus d'un tiers des membres de l'établissement public
+s'opposent au retrait.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi - art. 27 () JORF 19 juillet 1991
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R324-2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L324-6
+
+Les recettes du budget de l'établissement public foncier comprennent notamment :
+
+" 1° Le produit des impôts directs mentionnés à l'article 1607 bis du code général des impôts ;
+
+" 2° La participation prévue aux articles L. 332-17 et suivants du présent code et la contribution prévue à l'article L.
+302-7 du code de la construction et de l'habitation ;
+
+" 3° Le produit des dons et legs.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1607 bis
+	  - Code de l'urbanisme l332-17
+	  - Code de la construction et de l'habitation. - art. L302-7 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Créé par**:
+
+	  - Loi - art. 27 () JORF 19 juillet 1991
+
+
+###### Article L324-7
+
+Par dérogation aux dispositions des articles 14, 54 et 82 de la loi n° 82-213 du 2 mars 1982 relative aux droits et libertés
+des communes, des départements et des régions, le comptable de l'établissement public foncier est un comptable spécial nommé
+par le représentant de l'Etat dans le département sur proposition du conseil d'administration, après avis du trésorier-payeur
+général. Il est placé sous l'autorité administrative du directeur de l'établissement public.
+
+Les actes et délibérations de l'établissement public foncier sont soumis au contrôle de légalité prévu par la loi n° 82-213
+du 2 mars 1982 précitée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Cite**:
+
+	  - Loi n°82-213 1982-03-02 art. 14, art. 54, art. 82
+	  - Loi n°82-213 du 2 mars 1982 - art. 54 (M)
+	  - Loi n°82-213 du 2 mars 1982 - art. 82 (V)
+
+	**Créé par**:
+
+	  - Loi - art. 27 () JORF 19 juillet 1991
+
+
+###### Article L324-8
+
+Les établissements publics de coopération intercommunale à vocation unique, créés antérieurement à la loi n° 91-662 du 13
+juillet 1991 d'orientation pour la ville pour réaliser toutes acquisitions foncières et immobilières au sens de l'article L.
+324-1, seront, après accord de leur assemblée délibérante et des organes délibérants des collectivités territoriales les
+constituant, transformés de plein droit en établissements publics fonciers.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R324-14 (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme l324-1
+	  - Loi n°91-662 1991-07-13
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Créé par**:
+
+	  - Loi - art. 27 () JORF 19 juillet 1991
+
+
+###### Article L324-9
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Créé par**:
+
+	  - Loi - art. 27 () JORF 19 juillet 1991
+
+
 ### Titre III : Dispositions financières
 
 #### Chapitre I : Fonds national d'aménagement foncier et d'urbanisme (FNAFU).
@@ -13298,13 +13754,11 @@ application des dispositions de l'article L. 332-2.
 Les bénéficiaires d'autorisations de construire ne peuvent être tenus que des obligations suivantes :
 
 1° Le versement de la taxe locale d'équipement prévue à l'article 1585 A du code général des impôts ou de la participation
-instituée dans les secteurs d'aménagement définis à l'article L. 332-9 ;
-
-2° Le versement des contributions aux dépenses d'équipements publics mentionnées à l'article L. 332-6-1. Toutefois ces
-contributions telles qu'elles sont définies aux 2° et 3° dudit article ne peuvent porter sur les équipements publics donnant
-lieu à la participation instituée dans les secteurs d'aménagement définis à l'article L. 332-9 ;
-
-3° La réalisation des équipements propres mentionnées à l'article L. 332-15.
+instituée dans les secteurs d'aménagement définis à l'article L. 332-9 ;    2° Le versement des contributions aux dépenses
+d'équipements publics mentionnées à l'article L. 332-6-1. Toutefois ces contributions telles qu'elles sont définies aux 2° et
+3° dudit article ne peuvent porter sur les équipements publics donnant lieu à la participation instituée dans les secteurs
+d'aménagement définis à l'article L. 332-9 ;    3° La réalisation des équipements propres mentionnées à l'article L. 332-15.
+4° La participation à la diversité de l'habitat prévue à l'article L. 332-17. "
 
 Les taxes ou contributions qui sont obtenues ou imposées en violation des dispositions du présent article sont réputées sans
 cause ; les sommes versées ou celles qui correspondent au coût des prestations fournies sont sujettes à répétition. L'action
@@ -13313,13 +13767,13 @@ prestations indûment exigées. Les sommes à rembourser portent intérêt au ta
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Loi n°85-729 du 18 juillet 1985 - art. 23 () JORF 19 juillet 1985 en vigueur le 1er juillet 1986
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 52 (V)
+
+	**Modifié par**:
+
+	  - Loi - art. 17 ()
 
 	**Cité par**:
 
@@ -13346,7 +13800,8 @@ prestations indûment exigées. Les sommes à rembourser portent intérêt au ta
 
 	  - CGI 1585 A
 	  - Code de l'urbanisme - art. L322-6-1 (M)
-	  - Code de l'urbanisme L332-9, L322-6-1, l332-15
+	  - Code de l'urbanisme - art. L332-17 (Ab)
+	  - Code de l'urbanisme L332-9, L322-6-1, l332-15, L332-17
 
 	**Codifié par**:
 
@@ -13665,20 +14120,21 @@ réclamées par les constructeurs qui en auront définitivement supporté la cha
 
 Les dispositions des articles L. 332-6 et L. 332-7 sont sont applicables dans les conditions suivantes aux lotisseurs ainsi
 qu'aux personnes aménageant des terrains destinés à l'accueil d'habitations légères de loisir et aux associations foncières
-urbaines de remembrement autorisées ou constituées d'office.
+urbaines de remembrement autorisées ou constituées d'office.    Peuvent être mis à la charge du lotisseur, de la personne
+aménageant un terrain destiné à l'accueil d'habitation légères de loisir ou de l'association foncière urbaine par
+l'autorisation de lotir, par l'autorisation d'aménager, ou par l'acte administratif approuvant le plan de remembrement :
 
-Peuvent être mis à la charge du lotisseur, de la personne aménageant un terrain destiné à l'accueil d'habitation légères de
-loisir ou de l'association foncière urbaine par l'autorisation de lotir, par l'autorisation d'aménager, ou par l'acte
-administratif approuvant le plan de remembrement :
+a) Le versement pour dépassement du plafond légal de densité dans les conditions prévues à l'article L. 333-9-1 ; 
 
-a) Le versement pour dépassement du plafond légal de densité dans les conditions prévues à l'article L. 333-9-1 ;
+b) La participation pur dépassement du coefficient d'occupation des sols dans les conditions prévues à l'article L.
+332-1 ;    
 
-b) La participation pur dépassement du coefficient d'occupation des sols dans les conditions prévues à l'article L. 332-1 ;
-
-c) La participation spécifique pour équipements publics exceptionnels dans les conditions prévues à l'article L. 332-8 ;
+c) La participation spécifique pour équipements publics exceptionnels dans les conditions prévues à l'article L. 332-8 ;    
 
 d) Une participation forfaitaire représentative de la taxe locale d'équipement ou de la participation prévue à l'article L.
-332-9 et des contributions énumérées aux c et d du 1°, aux a, b, d et e du 2° et au 3° de l'article L. 332-6-1.
+332-9 et des contributions énumérées aux c et d du 1°, aux a, b, d et e du 2° et au 3° de l'article L. 332-6-1 ; 
+
+e) Un versement représentatif de la participation à la diversité de l'habitat prévue à l'article L. 332-17.
 
 Il ne peut être perçu sur les constructeurs aucune des contributions ou participations qui ont été mises à la charge du
 lotisseur, de la personne ayant aménagé le terrain destiné à l'accueil d'habitations légères de loisir, ou de l'association
@@ -13686,16 +14142,17 @@ foncière urbaine de remembrement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Loi n°85-729 du 18 juillet 1985 - art. 23 () JORF 19 juillet 1985 en vigueur le 1er juillet 1986
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 52 (V)
 
+	**Modifié par**:
+
+	  - Loi - art. 17 ()
+
 	**Cite**:
 
+	  - Code de l'urbanisme - art. L332-17 (Ab)
 	  - Code de l'urbanisme - art. L332-6 (M)
 	  - Code de l'urbanisme - art. L332-7 (M)
 
@@ -13825,6 +14282,444 @@ Un décret en Conseil d'Etat détermine, en tant que de besoin, les conditions d
 	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 52 (V)
 
 
+#####  Section 4 : Participation à la diversité de l'habitat.
+
+###### Article L332-17
+
+Les communes ou les établissements publics de coopération intercommunale compétents en matière d'urbanisme, dont le
+territoire est couvert par un programme local de l'habitat adopté conformément aux articles L. 302-1 et suivants du code de
+la construction et de l'habitation, peuvent, pour faciliter la réalisation de logements à usage locatif au sens du 3° de
+l'article L. 351-2 du code de la construction et de l'habitation et faisant l'objet d'un concours financier de l'Etat, et
+pour contribuer ainsi à la diversité de l'offre de logements, décider qu'à l'occasion des opérations soumises à permis de
+construire une participation, appelée participation à la diversité de l'habitat, sera mise à la charge des constructeurs sur
+tout ou partie de leur territoire. La décision doit être motivée.
+
+" L'assiette de la participation est constituée par le produit de la valeur du terrain par mètre carré de surface hors oeuvre
+nette constructible, diminuée d'un montant forfaitaire, par la surface hors oeuvre nette de l'opération diminuée de 170
+mètres carrés.
+
+" Pour l'application de l'alinéa précédent :
+
+" a) La surface hors oeuvre nette constructible est celle qui résulte de l'application du coefficient d'occupation des sols
+au terrain concerné ; en l'absence de coefficient d'occupation des sols, elle est égale à la superficie du terrain ;
+
+" b) Le montant forfaitaire est fixé à 600 F dans les départements autres que ceux de la région Ile-de-France. Il est porté à
+900 F dans les départements de la région Ile-de-France. Il est actualisé au 1er janvier de chaque année en fonction de
+l'évolution de l'indice du coût de la construction publié par l'Institut national de la statistique et des études
+économiques.
+
+" Le taux de la participation, qui ne peut excéder 15 p. 100, est fixé par la délibération qui l'a institué.
+
+" Pour les opérations de construction comprenant une surface de logements en accession à la propriété aidée par l'Etat,
+mentionnés au 1° de l'article L. 351-2 du code de la construction et de l'habitation, et de logements à usage locatif
+mentionnés au 3° de l'article L. 351-2 du même code et faisant l'objet d'un concours financier de l'Etat, ainsi que pour les
+opérations de construction de logements loués pendant une durée minimale de neuf ans à un prix inférieur à un plafond fixé
+par décret, le taux est diminué du rapport entre cette surface et la superficie hors oeuvre nette de l'opération.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi - art. 16 () JORF 19 juillet 1991
+
+	**Abrogé par**:
+
+	  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L253-2 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 302 septies B (M)
+	  - Code de l'urbanisme - art. L332-12 (M)
+	  - Code de l'urbanisme - art. L332-18 (Ab)
+	  - Code de l'urbanisme - art. L332-6 (M)
+	  - Code de l'urbanisme - art. R*341-1 (Ab)
+	  - Code de l'urbanisme - art. R332-26 (Ab)
+	  - Code de l'urbanisme - art. R332-27 (Ab)
+	  - Code de l'urbanisme - art. R332-36 (Ab)
+	  - Code de l'urbanisme - art. R332-40 (Ab)
+	  - Code de la construction et de l'habitation. - art. L302-8 (M)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L302-1 (M)
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L332-18
+
+Ne sont pas soumises à la participation :
+
+" a) Les constructions de logements en accession à la propriété aidée par l'Etat et de logements à usage locatif, mentionnés
+respectivement aux 1° et 3° de l'article L. 351-2 du code de la construction et de l'habitation, ainsi que les constructions
+de logements loués pendant une durée minimale de neuf ans à un prix inférieur à un plafond fixé par décret ;
+
+" b) Les constructions réalisées à l'occasion d'une action ou opération d'aménagement telles que définies à l'article L.
+300-1 du présent code, lorsque le programme global de construction comprend une surface de logements tels que définis au
+septième alinéa de l'article L. 332-17 et lorsque la part de ces logements dans la surface totale construite est au moins
+égale au taux de la participation à la diversité de l'habitat ;
+
+" c) Les constructions édifiées par ou pour le compte de l'Etat, des collectivités locales et de leurs groupements ou par des
+établissements publics administratifs, ou dans le cadre de concessions ou de mandats donnés par ces organismes, lorsqu'elles
+sont affectées à un service public ou d'utilité générale et qu'elles ne sont pas productives de revenus ;
+
+" d) Les constructions édifiées par des organismes sans but lucratif à caractère sanitaire, social, éducatif, sportif ou
+culturel ou par des organisations syndicales de salariés reconnues représentatives au plan national selon les critères prévus
+à l'article L. 133-2 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi - art. 16 () JORF 19 juillet 1991
+
+	**Abrogé par**:
+
+	  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
+
+	**Cite**:
+
+	  - Code du travail - art. L133-2 (M)
+	  - Code de l'urbanisme - art. L300-1 (M)
+	  - Code de l'urbanisme - art. L332-17 (Ab)
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L332-20 (Ab)
+	  - Code de l'urbanisme - art. L332-25 (Ab)
+	  - Code de l'urbanisme - art. R332-26 (Ab)
+	  - Code de l'urbanisme - art. R332-29 (Ab)
+	  - Code de l'urbanisme - art. R332-30 (Ab)
+	  - Code de l'urbanisme - art. R332-32 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L332-19
+
+Les constructeurs assujettis à la participation à la diversité de l'habitat s'en libèrent par paiement ou par dation :
+
+" a) Soit d'une partie du terrain d'implantation de l'opération faisant l'objet de la demande, permettant la construction de
+logements locatifs sociaux ; la superficie des terrains cédés est prise en compte pour le calcul des possibilités de
+construire ; par dérogation, les dispositions des deux premiers alinéas de l'article L. 111-5 du présent code ne s'appliquent
+pas à la partie cédée ;
+
+" b) Soit d'un terrain constructible sur le territoire de la commune, permettant la construction de logements locatifs
+sociaux ;
+
+" c) Soit de locaux vacants existant sur le territoire de la commune pouvant être utilisés, si nécessaire après travaux, en
+tant que logements locatifs sociaux.
+
+" La dation des terrains ou des locaux a un caractère libératoire si leur valeur est au moins égale à 70 p. 100 du montant
+qui aurait été celui de la participation si cette dernière avait été acquittée sous forme de contribution financière.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi - art. 16 () JORF 19 juillet 1991
+
+	**Abrogé par**:
+
+	  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L111-5 (M)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L332-22 (Ab)
+	  - Code de l'urbanisme - art. R*160-5 (Ab)
+	  - Code de l'urbanisme - art. R332-31 (Ab)
+	  - Code de l'urbanisme - art. R332-33 (Ab)
+	  - Code de l'urbanisme - art. R332-39 (Ab)
+	  - Code de la construction et de l'habitation. - art. L302-8 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L332-20
+
+La valeur du terrain d'implantation de l'opération de construction ou celle du terrain ou du local qu'il est envisagé
+d'apporter en règlement de la participation à la diversité de l'habitat est déclarée par le demandeur du permis de construire
+lors du dépôt de la demande, laquelle précise, en outre, la situation, la superficie et les caractéristiques du terrain ou du
+logement cédé. Dans les cas prévus aux a et b de l'article L. 332-18, le demandeur fournit les pièces justifiant le respect
+de l'objectif de diversité de l'habitat par l'opération.
+
+" En l'absence de déclaration ou des pièces prévues à l'alinéa précédent, le dossier de permis de construire est considéré
+comme incomplet et ne peut être instruit.
+
+" Les valeurs mentionnées au premier alinéa sont appréciées à la date du dépôt de la demande de permis de construire.
+
+" Le directeur des services fiscaux est consulté par le service chargé de l'instruction de la demande de permis de construire
+en vue d'émettre un avis sur la valeur déclarée par le demandeur du permis de construire.
+
+" L'avis du directeur des services fiscaux, donné dans le délai d'un mois, constitue l'évaluation administrative.
+
+" Si cette évaluation administrative est différente de la valeur déclarée par l'intéressé, la personne publique qui a
+institué la participation à la diversité de l'habitat doit la notifier par écrit au constructeur. La notification est
+assortie de l'avis du directeur des services fiscaux.
+
+" A défaut d'accord du pétitionnaire sur l'évaluation qui lui a été notifiée, la valeur du terrain ou du local est fixée par
+la juridiction compétente en matière d'expropriation saisie par la partie la plus diligente.
+
+" L'existence d'un désaccord sur les valeurs mentionnées au premier alinéa est sans incidence sur la délivrance du permis de
+construire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi - art. 16 () JORF 19 juillet 1991
+
+	**Abrogé par**:
+
+	  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L332-18 (Ab)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R332-28 (Ab)
+	  - Code de l'urbanisme - art. R421-4 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L332-21
+
+La contribution financière versée en règlement de la participation à la diversité de l'habitat est perçue par la personne
+publique qui l'a instituée. Son produit est affecté, dans un délai maximal de trois ans, à l'acquisition de terrains, de
+locaux ou de logements destinés à la réalisation de logements locatifs sociaux sur le territoire de la commune ou de
+l'établissement public de coopération intercommunale, soit directement par le bénéficiaire de la participation à la diversité
+de l'habitat, soit par un établissement public créé en application des articles L. 321-1 ou L. 324-1, soit par un organisme
+d'habitations à loyer modéré au sens de l'article L. 411-2 du code de la construction et de l'habitation, soit par une
+société d'économie mixte locale de construction ou d'aménagement.
+
+" Toutefois, les communes dans lesquelles le nombre de logements sociaux au sens du 3° de l'article L. 351-2 du code de la
+construction et de l'habitation représente plus de 20 p. 100 des résidences principales au sens du II de l'article 1411 du
+code général des impôts peuvent utiliser, dans les conditions définies à l'alinéa précédent, ce produit pour la réalisation
+de logements loués pendant une durée minimale de neuf ans à un prix inférieur à un plafond fixé par décret.
+
+" La réalisation des logements sur les terrains ou dans les locaux ci-dessus mentionnés doit intervenir dans un délai de cinq
+ans à compter du versement de la participation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1411
+	  - Code de l'urbanisme - art. L321-1 (M)
+	  - Code de l'urbanisme - art. L324-1 (M)
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Code de la construction et de l'habitation. - art. L411-2 (M)
+
+	**Créé par**:
+
+	  - Loi - art. 16 () JORF 19 juillet 1991
+
+	**Abrogé par**:
+
+	  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L332-23 (Ab)
+	  - Code de l'urbanisme - art. R*341-2 (Ab)
+	  - Code de l'urbanisme - art. R332-35 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L332-22
+
+La dation de terrains ou de locaux faite en application de l'article L. 332-19 s'effectue au profit de la commune ou de
+l'établissement public de coopération intercommunale qui a institué la participation.
+
+" Le maire ou le président de l'établissement public peut également mettre à disposition ou donner par bail à construction
+les terrains ou les logements reçus à une personne morale ayant vocation à réaliser des logements locatifs sociaux en vue de
+la réalisation de tels logements.
+
+" La réalisation effective des logements locatifs sociaux doit intervenir dans un délai maximal de cinq ans à compter de la
+dation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi - art. 16 () JORF 19 juillet 1991 Rectificatif JORF du 29 octobre 1991
+
+	**Abrogé par**:
+
+	  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L332-19 (Ab)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L332-23 (Ab)
+	  - Code de l'urbanisme - art. L332-26 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L332-23
+
+Les biens qui n'auraient pas été affectés à la réalisation de logements dans les conditions prévues aux articles L. 332-21 et
+L. 332-22 peuvent être transférés gratuitement, par le juge de l'expropriation saisi par le représentant de l'Etat, à une
+autre personne morale en vue de cette réalisation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L332-21 (Ab)
+	  - Code de l'urbanisme - art. L332-22 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Créé par**:
+
+	  - Loi - art. 16 () JORF 19 juillet 1991
+
+	**Abrogé par**:
+
+	  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
+
+
+###### Article L332-24
+
+Les modalités d'établissement, de liquidation, de recouvrement et de restitution de la participation, lorsqu'elle est versée
+sous forme de contribution financière, ainsi que les sanctions, privilèges, sûretés et garanties y afférents, sont ceux
+prévus en matière de versement pour dépassement du plafond légal de densité par les articles L. 333-1 à L. 333-16.
+
+" Le montant de la participation à la diversité de l'habitat est déduit du versement pour dépassement du plafond légal de
+densité ou de la participation pour dépassement du coefficient d'occupation des sols, lorsque l'une ou l'autre de ces
+contributions est due.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R332-37 (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme l333-1 à l333-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Créé par**:
+
+	  - Loi - art. 16 () JORF 19 juillet 1991
+
+	**Abrogé par**:
+
+	  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
+
+
+###### Article L332-25
+
+Dans les cas prévus à l'article L. 332-18, la constatation par l'administration que les constructions réalisées ne
+correspondent pas aux conditions ayant justifié l'exonération de la participation rend le constructeur redevable de celle-ci
+à compter de la date de cette constatation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Créé par**:
+
+	  - Loi - art. 16 () JORF 19 juillet 1991
+
+	**Abrogé par**:
+
+	  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L332-18 (Ab)
+
+
+###### Article L332-26
+
+Les communes, les établissements publics de coopération intercommunale, les organismes d'habitations à loyer modéré et les
+personnes morales attributaires tiennent à jour un registre des terrains ou locaux mentionnés à l'article L. 332-22.
+
+" Les organismes d'habitations à loyer modéré et les personnes morales attributaires rendent compte chaque année de
+l'utilisation des fonds ou des biens aux communes concernées ou à l'établissement public de coopération intercommunale. Ce
+rapport est tenu à la disposition du public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Créé par**:
+
+	  - Loi - art. 16 () JORF 19 juillet 1991
+
+	**Abrogé par**:
+
+	  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L332-22 (Ab)
+
+
+###### Article L332-27
+
+La participation à la diversité de l'habitat est applicable aux demandes de permis de construire déposées six mois après
+l'entrée en vigueur de ladite participation dans la commune.
+
+" Un décret en Conseil d'Etat détermine, en tant que de besoin, les conditions d'application de la présente section,
+notamment celle nécessitée par la situation particulière des départements d'outre-mer. Il peut notamment préciser les
+conditions dans lesquelles les logements évolutifs sociaux en accession à la propriété peuvent être assimilés, pour
+l'application de la présente section dans les départements d'outre-mer, à des logements locatifs. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Créé par**:
+
+	  - Loi - art. 16 () JORF 19 juillet 1991
+
+	**Cité par**:
+
+	  - Loi n°94-112 du 9 février 1994 - art. 6 (V)
+
+
 #### Chapitre III : Versement résultant du dépassement du plafond légal de densité.
 
 ###### Article L333-1
@@ -13920,11 +14815,26 @@ Ces versements sont inscrits au budget de la commune de l'établissement public 
 alinéas précédents et les sommes collectées à ce titre devront être versées à leurs bénéficiaires dans les trois mois suivant
 leur encaissement.
 
+Le produit des versements perçu par la commune ou, le cas échéant, par l'établissement public de coopération intercommunale
+compétent en matière d'urbanisme, est affecté à la réalisation des objectifs de la participation à la diversité de l'habitat
+définis à l'article L. 332-21 du présent code.
+
+" Toutefois, les communes dans lesquelles le nombre de logements sociaux au sens du 3° de l'article L. 351-2 du code de la
+construction et de l'habitation représente plus de 20 p. 100 des résidences principales au sens du II de l'article 1411 du
+code général des impôts peuvent utiliser le produit de ces versements pour la réalisation de logements loués pendant une
+durée minimale de neuf ans à un prix inférieur à un plafond fixé par décret. "
+
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1411
+	  - Code de l'urbanisme l332-21
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
 
 	**Modifié par**:
 
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 31 () JORF 30 DECEMBRE 1982
+	  - Loi - art. 43 ()
 
 	**Cité par**:
 
@@ -14574,13 +15484,11 @@ b) dans les autres communes, au nom de l'Etat.
 ###### Article L421-1
 
 Quiconque désire entreprendre ou implanter une construction à usage d'habitation ou non, même ne comportant pas de
-fondations, doit, au préalable, obtenir un permis de construire [*définition*] sous réserve des dispositions des articles L.
-422-1 à L. 422-5. Cette obligation s'impose aux services publics et concessionnaires de services publics de l'Etat, des
-régions, des départements et des communes comme aux personnes privées.
-
-Sous réserve des dispositions L422-1 à L422-5, Le même permis est exigé pour les travaux exécutés sur les constructions
-existantes, lorsqu'ils ont pour effet d'en changer la destination, de modifier leur aspect extérieur ou leur volume de créer
-des niveaux supplémentaires.
+fondations, doit, au préalable, obtenir un permis de construire sous réserve des dispositions des articles L. 422-1 à L.
+422-5. Cette obligation s'impose aux services publics et concessionnaires de services publics de l'Etat, des régions, des
+départements et des communes comme aux personnes privées. Sous réserve des dispositions des articles L. 422-1 à L. 422-5, le
+même permis est exigé pour les travaux exécutés sur les constructions existantes, lorsqu'ils ont pour effet d'en changer la
+destination, de modifier leur aspect extérieur ou leur volume de créer des niveaux supplémentaires.
 
 Ce permis n'est pas exigé pour l'installation des dispositifs ayant la qualification de publicité, d'enseigne ou de
 préenseigne, au sens de la loi n° 79-1150 du 29 décembre 1979.
@@ -14596,6 +15504,10 @@ avec l'accord de ce ministre ou de son représentant et vaut autorisation au tit
 
 Le permis de construire tient lieu de l'autorisation exigée au titre de la réglementation relative aux immeubles de grande
 hauteur et sa délivrance est précédée de l'accord de l'autorité chargée de la police de la sécurité .
+
+Le permis de construire tient lieu de l'autorisation exigée au titre de la réglementation relative à l'accessibilité des
+établissements recevant du public et sa délivrance est précédée de l'accord de l'autorité compétente pour délivrer ladite
+autorisation, en application de l'article L. 111-8-1 du code de la construction et de l'habitation.
 
 **Liens relatifs à cet article**
 
@@ -14658,10 +15570,11 @@ hauteur et sa délivrance est précédée de l'accord de l'autorité chargée de
 	  - Code de l'urbanisme - art. L422-3 (M)
 	  - Code de l'urbanisme - art. L422-4 (M)
 	  - Code de l'urbanisme - art. L422-5 (M)
+	  - Code de la construction et de l'habitation. - art. L111-8-1 (M)
 
 	**Modifié par**:
 
-	  - Loi n°86-13 du 6 janvier 1986 - art. 2 () JORF 7 janvier 1986
+	  - Loi - art. 5 () JORF 19 juillet 1991
 
 	**Anciens textes**:
 
@@ -15108,16 +16021,19 @@ l'ordonnance au 1er octobre 2007.
 
 ###### Article L421-3
 
-Le permis de construire ne peut être accordé que si les constructions projetées sont conformes aux dispositions législatives
-et réglementaires concernant l'implantation des constructions, leur destination, leur nature, leur architecture, leurs
-dimensions et l'aménagement de leurs abords et si le demandeur s'engage à respecter les règles générales de construction
-prévues à l'article L. 111-3.
+---Le permis de construire ne peut être accordé que si les constructions projetées sont conformes aux dispositions
+législatives et réglementaires concernant l'implantation des constructions, leur destination, leur nature, leur architecture,
+leurs dimensions et l'aménagement de leurs abords et si le demandeur s'engage à respecter les règles générales de
+construction prises en application du chapitre Ier du titre Ier du livre Ier du code de la construction et de l'habitation. "
 
-En outre, pour les immeubles de grande hauteur ou les établissements recevant du public, le permis de construire ne peut être
-délivré que si les constructions ou les travaux projetés sont conformes aux règles de sécurité propres à cet type d'immeubles
-ou d'établissements, que les locaux concernés soient ou non à usage d'habitation.
+---En outre, pour les immeubles de grande hauteur ou les établissements recevant du public, le permis de construire ne peut
+être délivré que si les constructions ou les travaux projetés sont conformes aux règles de sécurité propres à cet type
+d'immeubles ou d'établissements, que les locaux concernés soient ou non à usage d'habitation.
 
-Lorsque le pétitionnaire ne peut satisfaire lui-même aux obligations imposées par un plan d'occupation des sols ou par un
+Pour les établissements recevant du public, le permis de construire ne peut être délivré que si les constructions ou les
+travaux projetés sont conformes aux dispositions de l'article L. 111-7 du code de la construction et de l'habitation. "
+
+---Lorsque le pétitionnaire ne peut satisfaire lui-même aux obligations imposées par un plan d'occupation des sols ou par un
 plan de sauvegarde et de mise en valeur rendu public ou approuvé en matière de réalisation d'aires de stationnement, il peut
 être tenu quitte de ces obligations soit en justifiant, pour les places qu'il ne peut réaliser lui-même, de l'obtention d'une
 concession à long terme dans un parc public de stationnement existant ou en cours de réalisation, soit en versant une
@@ -15125,13 +16041,13 @@ participation, fixée par délibération du conseil municipal ou de l'organe dé
 plusieurs communes et exerçant la compétence définie à l'article 4-12. de la loi n. 66-1069 du 31 décembre 1966, en vue de la
 réalisation de parcs publics de stationnement dont la construction est prévue.
 
-Le montant de cette participation ne peut excéder 50.000 F par place de stationnement ; cette valeur, fixée par référence à
-l'indice du coût de la construction du quatrième trimestre 1985 publié par l'Institut national de la statistique et des
+---Le montant de cette participation ne peut excéder 50.000 F par place de stationnement ; cette valeur, fixée par référence
+à l'indice du coût de la construction du quatrième trimestre 1985 publié par l'Institut national de la statistique et des
 études économiques, est modifiée au 1er novembre de chaque année en fonction de l'indice connu à cette date.
 
-Un Décret en Conseil d'Etat détermine les conditions d'application des alinéas 3 et 4 du présent article et précise notamment
-les modalités d'établissement, de liquidation et de recouvrement de la participation prévue à l'alinéa 3, ainsi que les
-sanctions et garanties y afférentes.
+---Un Décret en Conseil d'Etat détermine les conditions d'application des quatrième et cinquième alinéa du présent article et
+précise notamment les modalités d'établissement, de liquidation et de recouvrement de la participation prévue au quatrième
+alinéa , ainsi que les sanctions et garanties y afférentes.
 
 **Liens relatifs à cet article**
 
@@ -15142,7 +16058,7 @@ sanctions et garanties y afférentes.
 
 	**Modifié par**:
 
-	  - Loi n°86-13 1986-01-06 art. 12 JORF 7 janvier 1986
+	  - Loi - art. 4 (Ab)
 
 	**Cité par**:
 
