@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1994-01-01
+Version Consolidée au 1994-01-28
 
 # Partie législative
 
@@ -44917,16 +44917,12 @@ l'article R332-29 a été abrogé par l'article 4 du décret n° 95-676 du 9 mai
 
 ###### Article R421-5
 
-Lorsque les constructions projetées sont soumises à l'avis de la commission consultative départementale de la protection
-civile ou de la commission de sécurité compétente en vertu soit des articles R. 421-47 à R. 421-52, soit des articles R.
-123-13 ou R. 123-22 du code de la construction et de l'habitation les plans et documents nécessaires à la formulation de cet
-avis sont joints à la demande de permis de construire [*contenu*].
+Lorsque les travaux projetés concernent des immeubles de grande hauteur soumis à l'avis de la commission consultative
+départementale de la protection civile, de la sécurité et de l'accessibilité ou de la commission de sécurité compétente, en
+vertu des articles R. 421-47 à R. 421-52, les plans et documents nécessaires à la formulation de cet avis sont joints à la
+demande de permis de construire.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°83-1261 1983-12-30 ART. 1, ART. 46 6 JORF 7 JANVIER 1984 date d'entrée en vigueur 1 AVRIL 1984
 
 	**Cité par**:
 
@@ -44936,14 +44932,7 @@ avis sont joints à la demande de permis de construire [*contenu*].
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R421-47 (M)
-	  - Code de l'urbanisme - art. R421-48 (M)
-	  - Code de l'urbanisme - art. R421-49 (M)
-	  - Code de l'urbanisme - art. R421-50 (M)
-	  - Code de l'urbanisme - art. R421-51 (MMN)
-	  - Code de l'urbanisme R421-52
-	  - Code de la construction et de l'habitation R123-13
-	  - Code de la construction et de l'habitation. - art. R*123-22 (M)
+	  - Code de l'urbanisme R421-47 à R421-52
 
 	**Anciens textes**:
 
@@ -44953,27 +44942,27 @@ avis sont joints à la demande de permis de construire [*contenu*].
 
 	  - Décret n°73-1023 1973-11-08
 
+	**Modifié par**:
 
-###### Article R421-6
+	  - Décret n°94-86 du 26 janvier 1994 - art. 5 () JORF 28 janvier 1994
 
-Lorsque l'édification des constructions est subordonnée à l'octroi d'une dérogation aux règles générales de construction
-fixées en application de l'article L. 111-3, une demande expresse tendant à obtenir cette dérogation est jointe à la demande
-de permis de construire. Le cas échéant, le dossier est complété par les plans ou documents nécessaires à l'instruction de la
-demande de dérogation.
+
+###### Article R421-5-1
+
+Lorsque les travaux projetés concernent un établissement recevant du public et sont soumis, au titre de la sécurité contre
+les risques d'incendie et de panique, à l'avis de la commission consultative départementale de la protection civile, de la
+sécurité et de l'accessibilité ou de la commission de sécurité compétente, en vertu des articles R. 123-13 ou R. 123-22 du
+code de la construction et de l'habitation, les plans et documents nécessaires à la formulation de cet avis sont joints à la
+demande de permis de construire.
+
+" Lorsque les travaux projetés conduisent à la création, l'aménagement ou la modification d'un établissement recevant du
+public et sont soumis à l'autorisation de travaux prévue à l'article L. 111-8-1 du code de la construction et de l'habitation
+au titre de l'accessibilité aux personnes handicapées, les plans et documents mentionnés à l'article R. 111-19-6 du même code
+sont joints à la demande de permis de construire. Dans ce cas, la demande de permis de construire tient lieu de la demande
+d'autorisation de travaux prévue à l'article L. 111-8-1 du code de la construction et de l'habitation, ainsi qu'il est prévu
+à l'article R. 111-19-7 du même code.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L111-3 (M)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*422-3 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°70-446 1970-05-26 ART. 6
 
 	**Codifié par**:
 
@@ -44981,11 +44970,51 @@ demande de dérogation.
 
 	**Modifié par**:
 
-	  - Décret n°83-1261 1983-12-30 ART. 1 JORF 7 JANVIER 1984 date d'entrée en vigueur 1 AVRIL 1984
+	  - Décret n°94-86 du 26 janvier 1994 - art. 5 () JORF 28 janvier 1994
 
 	**Abrogé par**:
 
-	  - Décret n°94-86 du 26 janvier 1994 - art. 8 () JORF 28 janvier 1994
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R123-13, R123-22, L111-8-1, R111-19-6, R111-19-7
+	  - Code de la construction et de l'habitation. - art. L111-8-1 (M)
+	  - Code de la construction et de l'habitation. - art. R*123-22 (M)
+
+
+###### Article R421-5-2
+
+Lorsque les travaux projetés concernent des locaux autres que les établissements recevant du public et sont soumis aux règles
+d'accessibilité aux personnes handicapées fixées en application de l'article L. 111-7 du code de la construction et de
+l'habitation, le dossier de la demande de permis de construire est complété par l'engagement du demandeur et, le cas échéant,
+de l'architecte de respecter lesdites règles. Cet engagement est assorti d'une notice décrivant les caractéristiques
+générales des locaux, installations et aménagements extérieurs au regard de ces règles d'accessibilité. "
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°93-306 du 9 mars 1993 - art. 23-3 (Ab)
+	  - Arrêté du 26 novembre 1996 - art. Annexe (Ab)
+	  - Arrêté du 12 décembre 1997 - art. 1 (V)
+	  - Code de commerce. - art. R752-16 (V)
+
+	**Modifié par**:
+
+	  - Décret n°94-86 du 26 janvier 1994 - art. 5 () JORF 28 janvier 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L111-7 (MMN)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R421-6-1
@@ -45323,13 +45352,12 @@ prévus par les lois ou règlements en vigueur.
 Conformément aux dispositions de l'article 26, alinéa 2, de la loi n° 73-1193 du 27 décembre 1973 d'orientation du commerce
 et de l'artisanat, il informe les chambres de commerce et d'industrie et les chambres de métiers de tout projet immobilier
 comportant la construction en une ou plusieurs tranches de 500 logements ou plus, ce minimum étant ramené à 200 pour les
-communes de moins de 30000 habitants.
+communes de moins de 30 000 habitants.
 
 Il instruit, au besoin d'office, les adaptations mineures au plan d'occupation des sols ou au document d'urbanisme en tenant
 lieu, aux prescriptions des règlements des lotissements ainsi qu'aux cahiers des charges des lotissements autorisés sous le
 régime en vigueur avant l'intervention du décret n° 77-860 du 26 juillet 1977, ou les dérogations aux dispositions
-réglementaires relatives à l'urbanisme ou aux servitudes d'utilité publique affectant l'utilisation du sol ainsi que, le cas
-échéant, les demandes de dérogation aux règles générales de construction.
+réglementaires relatives à l'urbanisme ou aux servitudes d'utilité publique affectant l'utilisation du sol.
 
 Lorsque la délivrance du permis de construire aurait pour effet la création ou la modification d'un accès à une voie
 publique, l'autorité ou le service chargé de l'instruction de la demande consulte l'autorité ou le service gestionnaire de
@@ -45339,10 +45367,12 @@ spécifique les conditions d'accès à ladite voie.
 Sous réserve des dispositions particulières à la consultation des autorités appelées à émettre un avis ou à donner un accord
 en application des articles R. 421-38-2 et suivants, tous services, autorités ou commissions qui n'ont pas fait connaître
 leur réponse motivée dans le délai d'un mois à dater de la réception de la demande d'avis, sont réputés avoir émis un avis
-favorable. Ce délai est porté à deux mois en ce qui concerne les commissions nationales.    " Le service chargé de
-l'instruction de la demande consulte en tant que de besoin les autorités et services publics habilités à demander que soient
-prescrites les contributions prévues au 2° de l'article L. 332-6-1 ou à l'article L. 332-9. A défaut de réponse dans le délai
-d'un mois, ces autorités et services publics sont réputés n'avoir aucune proposition de contribution à formuler. "
+favorable. Ce délai est porté à deux mois en ce qui concerne les commissions nationales.
+
+Le service chargé de l'instruction de la demande consulte en tant que de besoin les autorités et services publics habilités à
+demander que soient prescrites les contributions prévues au 2° de l'article L. 332-6-1 ou à l'article L. 332-9. A défaut de
+réponse dans le délai d'un mois, ces autorités et services publics sont réputés n'avoir aucune proposition de contribution à
+formuler.
 
 **Liens relatifs à cet article**
 
@@ -45355,7 +45385,7 @@ d'un mois, ces autorités et services publics sont réputés n'avoir aucune prop
 
 	**Modifié par**:
 
-	  - Décret n°93-614 du 26 mars 1993 - art. 4 () JORF 28 mars 1993
+	  - Décret n°94-86 du 26 janvier 1994 - art. 8 () JORF 28 janvier 1994
 
 	**Cité par**:
 
@@ -47065,6 +47095,37 @@ codifiées sous l'article L2223-5 du code général des collectivités territori
 	  - Code de l'urbanisme - art. R*422-8 (Ab)
 
 
+##### G - Accessibilité des établissements recevant du public aux personnes handicapées.
+
+###### Article R421-38-20
+
+Lorsque les travaux projetés sont soumis, au titre de l'accessibilité aux personnes handicapées, à l'autorisation de travaux
+conduisant à la création, l'aménagement ou la modification d'un établissement recevant du public prévue à l'article L.
+111-8-1 du code de la construction et de l'habitation, le permis de construire est délivré après avis de la commission
+consultative départementale de la protection civile, de la sécurité et de l'accessibilité ou de la commission départementale
+de sécurité pour Paris, les Hauts-de-Seine, la Seine-Saint-Denis et le Val-de-Marne.
+
+Toutefois, dans les cas prévus à l'article R. 111-19-3 du code de la construction et de l'habitation, le permis de construire
+est délivré après accord du préfet sur la demande de dérogation, donné après avis de la commission mentionnée ci-dessus. Cet
+accord est réputé donné faute de réponse dans un délai de deux mois suivant la transmission au préfet de la demande de permis
+de construire par l'autorité chargée de son instruction.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation L111-8-1, R111-19-3
+	  - Code de la construction et de l'habitation. - art. L111-8-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°94-86 du 26 janvier 1994 - art. 6 () JORF 28 janvier 1994
+
+
 #####  Section 6 : Formalités postérieures à la délivrance du permis de construire
 
 ###### Article R*421-39
@@ -47461,35 +47522,40 @@ explicitement les servitudes instituées en application de l'article L. 421-8.
 
 Conformément à l'article R123-22 du code de la construction et de l'habitation  le respect de la réglementation relative à la
 protection contre les risques d'incendie et de panique dans les établissements recevant du public est assuré par le permis de
-construire, dans tous les cas où les travaux à exécuter entrent dans le champ des prévisions de l'article L. 421-1.
+construire, dans tous les cas où les travaux à exécuter entrent dans le champ des prévisions de l'article L. 421-1. Dans ce
+cas, le permis de construire est délivré après consultation de la commission de sécurité compétente.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L421-1 (M)
+	  - Décret n°73-1007 1973-10-31 ART. 22
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L421-1 (M)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R460-3 (Ab)
+	  - Décret n°94-86 du 26 janvier 1994 - art. 7 (V)
 
 	**Anciens textes**:
 
 	  - Décret n°54-481 1954-08-13 ART. 13 devenu Code de la construction R123-22
 
-	**Cite**:
-
-	  - Décret n°73-1007 1973-10-31 ART. 22
-	  - Code de l'urbanisme - art. L421-1 (M)
-
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-1261 1983-12-30 ART. 32, ART. 34 III, ART. 46 14 JORF 7 JANVIER 1984 date d'entrée en vigueur 1 AVRIL 1984
+	  - Décret n°94-86 du 26 janvier 1994 - art. 7 (V) JORF 28 janvier 1994
 
-	**Cité par**:
+	**Abrogé par**:
 
-	  - Décret n°94-86 du 26 janvier 1994 - art. 7 (V)
-	  - Code de l'urbanisme - art. R460-3 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L421-1 (M)
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
 ##### Paragraphe 5 : Dispositions relatives à la modification du présent chapitre
