@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1992-01-01
+Version Consolidée au 1992-01-04
 
 # Partie législative
 
@@ -1829,7 +1829,7 @@ la liste des opérations d'intérêt national visées aux articles L. 111-1-2 et
 
 ###### Article L122-1
 
-"- Les schémas directeurs fixent les orientations fondamentales de l'aménagement des territoires intéressés, compte tenu de
+"Les schémas directeurs fixent les orientations fondamentales de l'aménagement des territoires intéressés, compte tenu de
 l'équilibre qu'il convient de préserver entre l'extension urbaine, l'exercice des activités agricoles, des autres activités
 économiques et la préservation des sites et paysages naturels ou urbains. Ils prennent en considération l'existence de
 risques naturels prévisibles et de risques technologiques.
@@ -1840,7 +1840,7 @@ d'infrastructure, en particulier de transport, la localisation des services et a
 " Au regard des prévisions en matière d'habitat, d'emploi et d'équipements, ils fixent les orientations générales de
 l'extension de l'urbanisation et de la restructuration des espaces urbanisés. Ils définissent la capacité d'accueil des
 espaces urbanisés ou à urbaniser en tenant compte notamment de l'équilibre entre emploi et habitat ainsi que des moyens de
-transport.
+transport et de la gestion des eaux.
 
 " Les schémas directeurs prennent en compte les programmes de l'Etat ainsi que ceux des collectivités locales et des
 établissements et services publics. Ils orientent et harmonisent pour l'organisation de l'espace les programmes et les
@@ -1884,7 +1884,7 @@ et précisent le contenu.
 
 	**Modifié par**:
 
-	  - Loi - art. 7 ()
+	  - Loi n°92-3 du 3 janvier 1992 - art. 38 () JORF 4 janvier 1992
 
 
 ###### Article L122-1-1
@@ -2397,7 +2397,7 @@ d'occupation des sols déterminent l'affectation des sols selon l'usage principa
 activités dominantes qui peuvent y être exercées.
 
 2° définir, en fonction des situations locales, les règles concernant le droit d'implanter des constructions, leur
-destination et leur nature.
+destination et leur nature. 
 
 Ils peuvent, en outre :
 
@@ -2415,10 +2415,8 @@ ou immeubles à restaurer ou à réhabiliter ;
 6° préciser le tracé et les caractéristiques des voies de circulation à conserver, à modifier ou à créer, y compris les rues
 ou sentiers piétonniers et les pistes cyclables et délimiter les zones qui sont ou peuvent être aménagées en vue de la
 pratique du ski et les secteurs réservés aux remontées mécaniques en indiquant, le cas échéant, les équipements et
-aménagements qui peuvent y être prévus ;
-
-7° délimiter les quartiers, rues, monuments, sites et secteurs à protéger ou à mettre en valeur pour des motifs d'ordre
-esthétique, historique ou écologique ;
+aménagements qui peuvent y être prévus ;    7° délimiter les quartiers, rues, monuments, sites et secteurs à protéger ou à
+mettre en valeur pour des motifs d'ordre esthétique, historique ou écologique ;
 
 8° fixer les emplacements réservés aux voies et ouvrages publics, aux installations d'intérêt général ainsi qu'aux espaces
 verts ;
@@ -2432,6 +2430,8 @@ ou partie des bâtiments existants sur le terrain où l'implantation de la const
 11° Délimiter les zones dans lesquelles pourront s'implanter les magasins de commerce de détail dont l'octroi du permis de
 construire ou la réalisation est soumis à autorisation préalable de la commission départementale d'urbanisme commercial par
 l'article L. 451-5 du présent code.
+
+12° Délimiter les zones visées à l'article L. 372-3 du code des communes.
 
 Les règles mentionnées aux 2° et 3° ci-dessus peuvent prévoir des normes de construction différentes de celles qui résultent
 de l'application du coefficient d'occupation du sol, soit en raison des prescriptions d'urbanisme ou d'architecture, soit en
@@ -2525,10 +2525,11 @@ dispositions des programmes locaux de l'habitat lorsqu'ils existent.
 
 	**Modifié par**:
 
-	  - Loi - art. 8 ()
+	  - Loi n°92-3 du 3 janvier 1992 - art. 38 () JORF 4 janvier 1992
 
 	**Cite**:
 
+	  - CODE DES COMMUNES. - art. L372-3 (M)
 	  - Code de l'urbanisme - art. L111-1-1 (M)
 	  - Code de l'urbanisme - art. L451-5 (M)
 
@@ -5459,37 +5460,26 @@ son ouverture au public dans les conditions prévues à l'article L. 142-10 ;
 - pour sa participation à l'acquisition de terrains par le Conservatoire de l'espace littoral et des rivages lacustres, par
 une commune ou par un établissement public de coopération intercommunale compétent, ainsi qu'à l'entretien des terrains
 acquis par l'une ou l'autre de ces personnes publiques ou par l'agence des espaces verts de la région d'Ile-de-France dans
-l'exercice du droit de préemption, par délégation ou par substitution, prévu à l'article L. 142-3.
+l'exercice du droit de préemption, par délégation ou par substitution, prévu à l'article L. 142-3.    Le produit de la taxe
+peut également être utilisé :    - pour l'aménagement et l'entretien d'espaces naturels, boisés ou non, appartenant aux
+collectivités locales ou à leurs établissements publics et ouverts au public, ou appartenant à des propriétaires privés à la
+condition qu'ils aient fait l'objet d'une convention passée en application de l'article L. 130-5 ;    - pour l'acquisition,
+l'aménagement et la gestion des sentiers figurant sur un plan départemental des itinéraires de promenade et de randonnée,
+établi dans les conditions prévues à l'article 56 de la loi n° 83-663 du 22 juillet 1983 complétant la loi n° 83-8 du 7
+janvier 1983 relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat, ainsi que
+des chemins et servitudes de halage et de marchepied des voies d'eau domaniales concédées qui ne sont pas ouvertes à la
+circulation générale et pour l'acquisition, par voie amiable ou par exercice du droit de préemption mentionné à l'article L.
+142-3, l'aménagement et la gestion des chemins le long des autres cours d'eau et plans d'eau.
 
-Le produit de la taxe peut également être utilisé :
-
-- pour l'aménagement et l'entretien d'espaces naturels, boisés ou non, appartenant aux collectivités locales ou à leurs
-établissements publics et ouverts au public, ou appartenant à des propriétaires privés à la condition qu'ils aient fait
-l'objet d'une convention passée en application de l'article L. 130-5 ;
-
-- pour l'acquisition, l'aménagement et la gestion des sentiers figurant sur un plan départemental des itinéraires de
-promenade et de randonnée, établi dans les conditions prévues à l'article 56 de la loi n° 83-663 du 22 juillet 1983
-complétant la loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les départements,
-les régions et l'Etat, ainsi que des chemins et servitudes de halage et de marchepied des voies d'eau domaniales concédées
-qui ne sont pas ouvertes à la circulation générale.
-
-Cette taxe est perçue sur la totalité du territoire du département.
-
-Elle est établie sur la construction, la reconstruction et l'agrandissement des bâtiments. Son assiette est définie
-conformément à l'article 1585 D du code général des impôts. Sont toutefois exclus du champ de la taxe :
-
-a) les bâtiments à usage agricole ou forestier liés à l'exploitation ;
-
-b) les bâtiments qui sont destinés à être affectés à un service public ou d'utilité publique et dont la liste est fixée par
-décret en Conseil d'Etat prévu au 1° du paragraphe I de l'article 1585 C du code général des impôts ;
-
-c) les bâtiments édifiés par les propriétaires d'une habitation familiale reconstituant leurs biens expropriés ;
-
-d) les immeubles classés parmi les monuments historiques ou inscrits à l'inventaire supplémentaire des monuments
-historiques ;
-
-e) les bâtiments reconstruits après sinistre dans les conditions fixées au paragraphe II de l'article 1585 D du code général
-des impôts.
+Cette taxe est perçue sur la totalité du territoire du département.    Elle est établie sur la construction, la
+reconstruction et l'agrandissement des bâtiments. Son assiette est définie conformément à l'article 1585 D du code général
+des impôts. Sont toutefois exclus du champ de la taxe :    a) les bâtiments à usage agricole ou forestier liés à
+l'exploitation ;    b) les bâtiments qui sont destinés à être affectés à un service public ou d'utilité publique et dont la
+liste est fixée par décret en Conseil d'Etat prévu au 1° du paragraphe I de l'article 1585 C du code général des impôts ;
+c) les bâtiments édifiés par les propriétaires d'une habitation familiale reconstituant leurs biens expropriés ; d) les
+immeubles classés parmi les monuments historiques ou inscrits à l'inventaire supplémentaire des monuments historiques ;    e)
+les bâtiments reconstruits après sinistre dans les conditions fixées au paragraphe II de l'article 1585 D du code général des
+impôts.
 
 Le conseil général peut exonérer de la taxe départementale des espaces naturels sensibles, les locaux à usage d'habitation
 principale édifiés pour leur compte ou à titre de prestation de services par les organismes mentionnés à l'article L. 411-2
@@ -5499,7 +5489,6 @@ prépondérant au moyen de prêts ouvrant droit au bénéfice des dispositions p
 construction et de l'habitation.
 
 Il peut également exonérer de ladite taxe des locaux artisanaux situés dans les communes de moins de deux mille habitants.
-
 Dans les départements d'outre-mer, le conseil général peut exonérer de la taxe :
 
 - les locaux à usage d'habitation principale à caractère social financés à l'aide de prêts aidés par l'Etat, et édifiés par
@@ -5522,32 +5511,14 @@ La taxe est perçue au profit du département en tant que recette grevée d'affe
 
 	**Cite**:
 
-	  - CGI 1585 C
 	  - Loi n°83-8 1983-01-07
 	  - Loi n°83-597 1983-07-07
-	  - Loi n°83-663 1983-07-22 ART. 56
+	  - Loi n°83-663 1983-07-22 art. 56
+	  - CGI 1585 D, 1585 C
 	  - Code de l'urbanisme - art. L130-5 (M)
 	  - Code de l'urbanisme - art. L142-1 (M)
 	  - Code de l'urbanisme - art. L142-10 (V)
-	  - Code de l'urbanisme - art. L142-3 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Modifié par**:
-
-	  - Loi n°85-729 du 18 juillet 1985 - art. 12 ()
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-516 du 14 mars 1986 - art. 10 (M)
-	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
-	  - TXT_SOURCE: Décret n°98-1239 du 29 décembre 1998
-	  - TXT_SOURCE: Décret n°98-1239 du 29 décembre 1998 - art. 1 (V)
-	  - TXT_SOURCE: Décret n°98-1239 du 29 décembre 1998 - art. 2 (V)
-	  - TXT_SOURCE: Décret n°98-1239 du 29 décembre 1998 - art. 3 (V)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R111-14 (M)
+	  - Code de la construction et de l'habitation. - art. L411-2 (M)
 
 	**Cité par**:
 
@@ -5558,6 +5529,7 @@ La taxe est perçue au profit du département en tant que recette grevée d'affe
 	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
 	  - Décret n°2014-551 du 27 mai 2014 (V)
 	  - Code de l'urbanisme - art. L142-12 (V)
+	  - Code de l'urbanisme - art. L142-3 (M)
 	  - Code de l'urbanisme - art. L331-3 (VT)
 	  - Code de l'urbanisme - art. L332-6-1 (V)
 	  - Code de l'urbanisme - art. R142-1 (VT)
@@ -5569,6 +5541,22 @@ La taxe est perçue au profit du département en tant que recette grevée d'affe
 	  - Code de la construction et de l'habitation. - art. R318-11 (M)
 	  - Code général des impôts, CGI. - art. 1599 B (VT)
 	  - Code général des impôts, CGI. - art. 302 septies B (VD)
+
+	**Modifié par**:
+
+	  - Loi n°92-3 du 3 janvier 1992 - art. 32 () JORF 4 janvier 1992
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°98-1239 du 29 décembre 1998
+	  - TXT_SOURCE: Décret n°98-1239 du 29 décembre 1998 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°98-1239 du 29 décembre 1998 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°98-1239 du 29 décembre 1998 - art. 3 (V)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R111-14 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L142-1
@@ -16040,14 +16028,15 @@ l'ordonnance au 1er octobre 2007.
 
 ###### Article L421-3
 
----Le permis de construire ne peut être accordé que si les constructions projetées sont conformes aux dispositions
-législatives et réglementaires concernant l'implantation des constructions, leur destination, leur nature, leur architecture,
-leurs dimensions et l'aménagement de leurs abords et si le demandeur s'engage à respecter les règles générales de
-construction prises en application du chapitre Ier du titre Ier du livre Ier du code de la construction et de l'habitation. "
+Le permis de construire ne peut être accordé que si les constructions projetées sont conformes aux dispositions législatives
+et réglementaires concernant l'implantation des constructions, leur destination, leur nature, leur architecture, leurs
+dimensions leur assainissement et l'aménagement de leurs abords et si le demandeur s'engage à respecter les règles générales
+de construction prises en application du chapitre Ier du titre Ier du livre Ier du code de la construction et de
+l'habitation. "
 
----En outre, pour les immeubles de grande hauteur ou les établissements recevant du public, le permis de construire ne peut
-être délivré que si les constructions ou les travaux projetés sont conformes aux règles de sécurité propres à cet type
-d'immeubles ou d'établissements, que les locaux concernés soient ou non à usage d'habitation.
+En outre, pour les immeubles de grande hauteur ou les établissements recevant du public, le permis de construire ne peut être
+délivré que si les constructions ou les travaux projetés sont conformes aux règles de sécurité propres à cet type d'immeubles
+ou d'établissements, que les locaux concernés soient ou non à usage d'habitation.
 
 Pour les établissements recevant du public, le permis de construire ne peut être délivré que si les constructions ou les
 travaux projetés sont conformes aux dispositions de l'article L. 111-7 du code de la construction et de l'habitation. "
@@ -16060,11 +16049,11 @@ participation, fixée par délibération du conseil municipal ou de l'organe dé
 plusieurs communes et exerçant la compétence définie à l'article 4-12. de la loi n. 66-1069 du 31 décembre 1966, en vue de la
 réalisation de parcs publics de stationnement dont la construction est prévue.
 
----Le montant de cette participation ne peut excéder 50.000 F par place de stationnement ; cette valeur, fixée par référence
-à l'indice du coût de la construction du quatrième trimestre 1985 publié par l'Institut national de la statistique et des
+Le montant de cette participation ne peut excéder 50.000 F par place de stationnement ; cette valeur, fixée par référence à
+l'indice du coût de la construction du quatrième trimestre 1985 publié par l'Institut national de la statistique et des
 études économiques, est modifiée au 1er novembre de chaque année en fonction de l'indice connu à cette date.
 
----Un Décret en Conseil d'Etat détermine les conditions d'application des quatrième et cinquième alinéa du présent article et
+Un Décret en Conseil d'Etat détermine les conditions d'application des quatrième et cinquième alinéa du présent article et
 précise notamment les modalités d'établissement, de liquidation et de recouvrement de la participation prévue au quatrième
 alinéa , ainsi que les sanctions et garanties y afférentes.
 
@@ -16072,12 +16061,12 @@ alinéa , ainsi que les sanctions et garanties y afférentes.
 
 	**Cite**:
 
-	  - Loi n°66-1069 du 31 décembre 1966 - art. 4 (Ab)
-	  - Code de l'urbanisme - art. L111-3 (M)
+	  - Loi n°66-1069 1966-12-31 art. 4-12
+	  - Code de la construction et de l'habitation. - art. L111-7 (MMN)
 
 	**Modifié par**:
 
-	  - Loi - art. 4 (Ab)
+	  - Loi n°92-3 du 3 janvier 1992 - art. 38 () JORF 4 janvier 1992
 
 	**Cité par**:
 
@@ -16093,10 +16082,6 @@ alinéa , ainsi que les sanctions et garanties y afférentes.
 	  - Code de la construction et de l'habitation. - art. L111-8 (M)
 	  - Code de la construction et de l'habitation. - art. L111-8-4 (V)
 	  - Code du patrimoine - art. R523-4 (V)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L422-1 (M)
 
 	**Anciens textes**:
 
@@ -17519,9 +17504,7 @@ l'autorisation prévue au premier alinéa est obligatoire.
 ###### Article L443-1
 
 Les autorisations et actes relatifs à l'aménagement de terrains de camping et au stationnement de caravanes sont délivrés
-dans les formes, conditions et délais déterminés par décret en Conseil
-
-d'Etat :
+dans les formes, conditions et délais déterminés par décret en Conseil d'Etat :
 
 a) Dans les communes où un plan d'occupation des sols a été approuvé, au nom de la commune ou de l'établissement public de
 coopération intercommunale ou de l'Etat, selon les cas et modalités prévus aux articles L. 421-2-1 à L. 421-2-8 ; les
@@ -17529,18 +17512,14 @@ dispositions de l'article L. 421-9 sont alors applicables ;
 
 b) Dans les autres communes, au nom de l'Etat.
 
+Si ces terrains sont desservis par un réseau public d'assainissement, les dispositions de l'article L. 421-5 du présent code
+sont applicables à leur délivrance.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°59-275 du 7 février 1959 - art. 3 (M)
-	  - Décret n°68-134 1968-02-09
-	  - Code de l'urbanisme - art. L421-9 (M)
-	  - Code de l'urbanisme L421-2-1 à L421-2-8, L421-9
 
 	**Modifié par**:
 
-	  - Loi n°83-663 du 22 juillet 1983 - art. 105 () JORF 23 JUILLET 1983
+	  - Loi n°92-3 du 3 janvier 1992 - art. 38 () JORF 4 janvier 1992
 
 	**Cité par**:
 
@@ -17554,6 +17533,12 @@ b) Dans les autres communes, au nom de l'Etat.
 	  - Code du tourisme. - art. L331-1 (VD)
 	  - Code forestier (nouveau) - art. L134-6 (VD)
 	  - Code forestier - art. L322-3 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L421-5 (M)
+	  - Code de l'urbanisme - art. L421-9 (M)
+	  - Code de l'urbanisme L421-2-1 à L421-2-8, L421-9, L421-5
 
 	**Codifié par**:
 
