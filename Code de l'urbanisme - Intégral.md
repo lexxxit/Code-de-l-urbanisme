@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1973-03-27
+Version Consolidée au 1973-04-01
 
 # Partie législative
 
@@ -75,5 +75,24 @@ besoin de modifier les actes ayant prescrit leur établissement ou ordonné leur
 	**Abrogé par**:
 
 	  - Décret n°98-913 du 12 octobre 1998 - art. 41 (V) JORF 13 octobre 1998
+
+
+## Droit de préemption
+
+### Dispositions applicables aux zones à urbaniser en priorité
+
+#### Suppression d'une zone à urbaniser en priorité ou réduction de son périmètre.
+
+###### Article R*215-2
+
+Lorsque la zone pour laquelle une mesure de réduction du périmètre ou de suppression est envisagée se trouve située en région
+parisienne et revêt un intérêt régional, le préfet de région est consulté préalablement à la décision de suppression de la
+zone ou de réduction de son périmètre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
