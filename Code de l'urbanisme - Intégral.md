@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1999-07-10
+Version Consolidée au 1999-07-13
 
 # Partie législative
 
@@ -5445,9 +5445,15 @@ classées.
 
 ###### Article L147-3
 
-Pour l'application des prescriptions édictées par le présent chapitre, un plan d'exposition au bruit est établi par
-l'autorité administrative, après consultation des communes intéressées et de la commission consultative de l'environnement
-concernée lorsqu'elle existe, pour chacun des aérodromes mentionnés à l'article L. 147-2.
+Pour l'application des prescriptions édictées par le présent chapitre, un plan d'exposition au bruit est établi pour chacun
+des aérodromes mentionnés à l'article L. 147-2. Ce plan est établi par l'autorité administrative, après consultation :
+
+- des communes intéressées ;
+
+- de l'Autorité de contrôle des nuisances sonores aéroportuaires pour les aérodromes visés au 3 de l'article 266 septies du
+code des douanes, qui recueille au préalable l'avis de la commission consultative de l'environnement concernée ;
+
+- de la commission consultative de l'environnement concernée, lorsqu'elle existe, pour les autres aérodromes.
 
 Il est soumis à enquête publique suivant les modalités de la loi n° 83-630 du 12 juillet 1983 relative à la démocratisation
 des enquêtes publiques et à la protection de l'environnement.
@@ -5464,16 +5470,17 @@ en Conseil d'Etat prévu au troisième alinéa du présent article.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
 	**Cite**:
 
 	  - Loi n°83-630 1983-07-12
 	  - Loi n°85-696 1985-07-11
+	  - Code des douanes - art. 266 septies (M)
 	  - Code de l'urbanisme - art. L147-2 (V)
 	  - Code de l'urbanisme - art. L147-5 (M)
-
-	**Créé par**:
-
-	  - Loi n°85-696 1985-07-11 art. 1 JORF 12 juillet 1985
 
 	**Liens**:
 
@@ -5493,9 +5500,9 @@ en Conseil d'Etat prévu au troisième alinéa du présent article.
 	  - Code de l'environnement - art. R571-73 (M)
 	  - Code de l'urbanisme - art. R147-9 (VT)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+	  - Loi n°99-588 du 12 juillet 1999 - art. 4 () JORF 13 juillet 1999
 
 
 ###### Article L147-5
@@ -5514,7 +5521,9 @@ l'activité agricole ;
 
 - en zone C, des constructions individuelles non groupées situées dans des secteurs déjà urbanisés et desservis par des
 équipements publics dès lors qu'elles n'entraînent qu'un faible accroissement de la capacité d'accueil d'habitants exposés
-aux nuisances.
+aux nuisances, ainsi que des constructions d'immeubles collectifs à usage d'habitation si elles s'accompagnent d'une
+réduction équivalente, dans un délai n'excédant pas un an, de la capacité d'accueil d'habitants dans des constructions
+existantes situées dans la même zone.
 
 2° Les opérations de rénovation des quartiers ou de réhabilitation de l'habitat existant, ainsi que l'amélioration,
 l'extension mesurée ou la reconstruction des constructions existantes, ne peuvent être admises que lorsqu'elles n'entraînent
@@ -5525,11 +5534,15 @@ accroissement de la capacité d'accueil d'habitants exposés aux nuisances.
 3° Dans les zones A et B, les équipements publics ou collectifs ne sont admis que lorsqu'ils sont nécessaires à l'activité
 aéronautique ou indispensables aux populations existantes.
 
+4° Les plans d'exposition au bruit peuvent délimiter une zone D à l'intérieur de laquelle les constructions sont autorisées
+mais doivent faire l'objet des mesures d'isolation acoustique prévues à l'article L. 147-6. La délimitation d'une zone D est
+obligatoire pour les aérodromes visés au 3 de l'article 266 septies du code des douanes.
+
+Le contrat de location d'immeuble à usage d'habitation ayant pour objet un bien immobilier situé dans l'une des zones de
+bruit définies par un plan d'exposition au bruit comporte une clause claire et lisible précisant la zone de bruit où se
+trouve localisé ledit bien.
+
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°85-696 1985-07-11 art. 1 JORF 12 juillet 1985
 
 	**Cité par**:
 
@@ -5537,8 +5550,38 @@ aéronautique ou indispensables aux populations existantes.
 	  - Arrêté du 11 janvier 2016 - art. 2
 	  - Code de l'urbanisme - art. L147-3 (V)
 	  - Code de l'urbanisme - art. L147-4-1 (VT)
-	  - Code de l'urbanisme - art. L147-6 (VT)
 	  - Code de l'urbanisme - art. L147-7 (VT)
+
+	**Modifié par**:
+
+	  - Loi n°99-588 du 12 juillet 1999 - art. 5 () JORF 13 juillet 1999
+	  - Loi n°99-588 du 12 juillet 1999 - art. 6 () JORF 13 juillet 1999
+
+	**Cite**:
+
+	  - Code des douanes - art. 266 septies (M)
+	  - Code de l'urbanisme - art. L147-6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L147-7
+
+A compter de la décision d'élaborer ou de réviser un plan d'exposition au bruit, l'autorité administrative peut, par arrêté,
+délimiter les territoires à l'intérieur desquels s'appliqueront par anticipation, pour une durée maximale de deux ans, les
+dispositions de l'article L. 147-5 concernant les zones C et D.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°99-588 du 12 juillet 1999 - art. 7 () JORF 13 juillet 1999
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L147-5 (M)
 
 	**Codifié par**:
 
@@ -6812,6 +6855,29 @@ acoustique.
 	**Créé par**:
 
 	  - Loi n°85-696 1985-07-11 art. 1 JORF 12 juillet 1985
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+
+###### Article L147-8
+
+Un décret en Conseil d'Etat fixe, en tant que de besoin, les modalités d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L171-1 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Créé par**:
+
+	  - Loi n°99-588 du 12 juillet 1999 - art. 7 () JORF 13 juillet 1999
 
 	**Abrogé par**:
 
