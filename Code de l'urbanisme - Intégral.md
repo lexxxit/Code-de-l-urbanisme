@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2004-12-10
+Version Consolidée au 2005-01-01
 
 # Partie législative
 
@@ -1201,7 +1201,7 @@ de leurs compétences en matière d'urbanisme. Tout retard ou omission dans la t
 effet sur les procédures engagées par les communes ou leurs groupements.
 
 Le préfet fournit notamment les études techniques dont dispose l'Etat en matière de prévention des risques et de protection
-de l'environnement.
+de l'environnement, ainsi qu'en matière d'inventaire général du patrimoine culturel.
 
 Les porters à connaissance sont tenus à la disposition du public. En outre, tout ou partie de ces pièces peut être annexé au
 dossier d'enquête publique.
@@ -1243,17 +1243,17 @@ dossier d'enquête publique.
 	  - Code général des collectivités territoriales - art. L5311-4 (VD)
 	  - Code rural et de la pêche maritime - art. L111-2-1 (V)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
+
 	**Modifié par**:
 
-	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 3 () JORF 5 juin 2004
+	  - Loi n°2004-809 du 13 août 2004 - art. 95 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L121-1 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Directive 2001-42 2001-06-27
 
 	**Codifié par**:
 
@@ -5038,8 +5038,7 @@ intéressés, du conseil économique et social régional et des chambres consula
 leur est soumis pour avis.
 
 Avant son adoption par le conseil régional, le projet de schéma directeur, assorti de l'avis des conseils généraux
-intéressés, du conseil économique et social régional et des chambres consulaires, est mis à la disposition du public pendant
-deux mois.
+intéressés, du conseil économique et social régional et des chambres consulaires, est soumis à enquête publique.
 
 Le schéma directeur est approuvé par décret en Conseil d'Etat. L'initiative de l'élaboration du schéma directeur appartient
 soit à la région, soit à l'Etat.
@@ -5067,6 +5066,10 @@ Au sixième alinéa, au lieu de "conseils généraux des départementaux" lire "
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
 	**Cité par**:
 
 	  - Loi n°82-1153 du 30 décembre 1982 - art. 28-3 (V)
@@ -5088,17 +5091,89 @@ Au sixième alinéa, au lieu de "conseils généraux des départementaux" lire "
 	  - Loi n°99-533 1999-06-25
 	  - Code de l'urbanisme - art. L111-1-1 (M)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 3 () JORF 5 juin 2004
-
 	**Liens**:
 
-	  - TXT_SOURCE: Directive 2001-42 2001-06-27
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 2 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+
+###### Article L141-1-1
+
+Le schéma directeur de la région d'Ile-de-France peut être modifié à l'initiative du président du conseil régional ou de
+l'Etat, à condition que la modification ne porte pas atteinte à l'économie générale du schéma.
+
+Le projet de modification, élaboré par le président du conseil régional en association avec l'Etat, est soumis pour avis aux
+personnes mentionnées au sixième alinéa de l'article L. 141-1. Ces avis sont réputés favorables s'ils n'interviennent pas
+dans un délai de trois mois après transmission du projet de modification.
+
+Le projet de modification, assorti des avis prévus à l'alinéa précédent, est soumis à enquête publique par le président du
+conseil régional.
+
+A l'issue de l'enquête publique, le projet, éventuellement modifié pour tenir compte notamment des observations du public et
+des avis émis par les personnes publiques consultées, est adopté par le conseil régional d'Ile-de-France et approuvé par
+l'autorité administrative. La modification est approuvée par décret en Conseil d'Etat en cas d'opposition d'un département.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
+
+	**Créé par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 2 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L141-1 (M)
+
+
+###### Article L141-1-2
+
+La déclaration d'utilité publique ou, si une déclaration d'utilité publique n'est pas requise, la déclaration de projet d'une
+opération qui n'est pas compatible avec les dispositions du schéma directeur de la région d'Ile-de-France ne peut intervenir
+que si :
+
+1° L'enquête publique concernant cette opération a porté à la fois sur l'utilité publique de l'opération et sur la mise en
+compatibilité du schéma qui en est la conséquence ;
+
+2° La déclaration d'utilité publique ou la déclaration de projet est prononcée après que les dispositions proposées pour
+assurer la mise en compatibilité du schéma ont fait l'objet d'un examen conjoint de l'Etat, de la région d'Ile-de-France, du
+conseil économique et social régional, des départements et des chambres consulaires.
+
+La déclaration d'utilité publique emporte approbation des nouvelles dispositions du schéma directeur de la région d'Ile-de-
+France. Elle est prise par décret en Conseil d'Etat en cas d'opposition de la région.
+
+La déclaration de projet ne peut intervenir qu'après mise en compatibilité du schéma par l'autorité administrative et, en cas
+de désaccord de la région, par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
+
+	**Créé par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 2 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - Loi n°2010-597 du 3 juin 2010 - art. 21 (VD)
+	  - Décret n°2011-724 du 24 juin 2011 - art. 9 (V)
+	  - Code de l'urbanisme - art. L300-6-1 (V)
+	  - Code de l'urbanisme - art. R300-24 (VD)
 
 
 ###### Article L141-2
@@ -5179,10 +5254,17 @@ Conservatoire de l'espace littoral et des rivages lacustres, de bois et forêts 
 l'attribution en propriété ou en jouissance de bois et forêts, sous réserve de leur ouverture au public dans les conditions
 prévues à l'article L. 142-10.
 
+- pour l'acquisition, l'aménagement et la gestion des espaces, sites et itinéraires figurant au plan départemental des
+espaces, sites et itinéraires relatifs aux sports de nature établi dans les conditions prévues à l'article 50-2 de la loi n°
+84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et sportives ;
+
+- pour l'acquisition, la gestion et l'entretien des sites Natura 2000 désignés à l'article L. 414-1 du code de
+l'environnement et des territoires classés en réserve naturelle au sens de l'article L. 332-1 du même code.
+
 Cette taxe est perçue sur la totalité du territoire du département.
 
 Elle est établie sur la construction, la reconstruction et l'agrandissement des bâtiments et sur les installations et travaux
-divers autorisés en application de l'article L.442-1. Sont toutefois exclus du champ de la taxe :
+divers autorisés en application de l'article L. 442-1. Sont toutefois exclus du champ de la taxe :
 
 a) les bâtiments et les installations et travaux divers à usage agricole ou forestier liés à l'exploitation ;
 
@@ -5191,7 +5273,8 @@ décret en Conseil d'Etat prévu au 1° du paragraphe I de l'article 1585 C du c
 
 c) les bâtiments édifiés par les propriétaires d'une habitation familiale reconstituant leurs biens expropriés ;
 
-d) les immeubles classés parmi les monuments historiques ou inscrit à l'inventaire supplémentaire des monuments historiques ;
+d) les immeubles classés parmi les monuments historiques ou inscrits à l'inventaire supplémentaire des monuments
+historiques ;
 
 e) les bâtiments et les installations et travaux divers reconstruits après sinistre dans les conditions fixées au paragraphe
 II de l'article 1585 D du code général des impôts.
@@ -5242,11 +5325,27 @@ de fonctionnement.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - CGI 1585 C, 1585 D
+	  - Loi n°83-8 1983-01-07
+	  - Loi n°83-597 1983-07-07
+	  - Loi n°83-663 1983-07-22 art. 56
+	  - Loi n°84-610 du 16 juillet 1984 - art. 50-2 (M)
+	  - Loi n°96-1241 1996-12-30
+	  - Code de l'urbanisme - art. L130-5 (M)
+	  - Code de l'urbanisme - art. L142-1 (M)
+	  - Code de l'urbanisme - art. L142-10 (V)
+	  - Code de l'urbanisme - art. L442-1 (M)
+	  - Code de la construction et de l'habitation. - art. L411-2 (M)
+	  - Code de l'environnement - art. L332-1 (V)
+	  - Code de l'environnement - art. L414-1 (M)
+
 	**Cité par**:
 
+	  - Loi n°89-936 du 29 décembre 1989 - art. 118 (V)
 	  - Arrêté du 2 octobre 1995 - art. 7 (V)
 	  - Arrêté du 29 avril 1997 - art. 8 (V)
-	  - Loi n°89-936 du 29 décembre 1989 - art. 118 (V)
 	  - Décret n°98-1239 du 29 décembre 1998 - art. 1 (V)
 	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
 	  - Décret n°2014-551 du 27 mai 2014 (V)
@@ -5264,30 +5363,18 @@ de fonctionnement.
 	  - Code général des impôts, CGI. - art. 1599 B (VT)
 	  - Code général des impôts, CGI. - art. 302 septies B (VD)
 
-	**Cite**:
-
-	  - CGI 1585 C, 1585 D
-	  - Loi n°83-8 1983-01-07
-	  - Loi n°83-597 1983-07-07
-	  - Loi n°83-663 1983-07-22 art. 56
-	  - Loi n°96-1241 1996-12-30
-	  - Code de l'urbanisme - art. L130-5 (M)
-	  - Code de l'urbanisme - art. L142-1 (M)
-	  - Code de l'urbanisme - art. L142-10 (V)
-	  - Code de l'urbanisme - art. L442-1 (M)
-	  - Code de la construction et de l'habitation. - art. L411-2 (M)
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°98-1239 du 29 décembre 1998
 	  - TXT_SOURCE: Décret n°98-1239 du 29 décembre 1998 - art. 1 (V)
 	  - TXT_SOURCE: Décret n°98-1239 du 29 décembre 1998 - art. 2 (V)
 	  - TXT_SOURCE: Décret n°98-1239 du 29 décembre 1998 - art. 3 (V)
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R111-14 (M)
 
 	**Modifié par**:
 
-	  - Loi n°2003-699 du 30 juillet 2003 - art. 80 () JORF 31 juillet 2003
+	  - Loi n°2004-809 du 13 août 2004 - art. 103 () JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Codifié par**:
 
@@ -6377,27 +6464,34 @@ salariés de la station et pour l'accueil et l'accès aux pistes des skieurs "à
 
 ###### Article L145-10
 
-A l'exception du III de l'article L145-3, les dispositions de la section première du présent chapitre et les dispositions du
-chapitre II du titre III de la loi n° 85-30 du 9 janvier 1985 précitée sont applicables aux unités touristiques nouvelles.
+A l'exception du III de l'article L. 145-3, les dispositions de la section première du présent chapitre et les dispositions
+du chapitre II du titre IV du livre III du code du tourisme sont applicables aux unités touristiques nouvelles.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+	  - Ordonnance 2004-1391 2004-12-20 art. 4 7° JORF 24 décembre 2004 en vigueur le 1er janvier 2005
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L122-17 (VD)
 
 	**Cite**:
 
-	  - Loi n°85-30 1985-01-09 art. 42 à art. 49
-	  - Code de l'urbanisme L145-3 à L145-8
-
-	**Créé par**:
-
-	  - Loi n°85-30 du 9 janvier 1985 - art. 72 () JORF 10 janvier 1985
+	  - Code de l'urbanisme - art. L145-3
 
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code du tourisme. - art. L342-6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 ###### Article L145-11
@@ -16013,17 +16107,13 @@ l'ordonnance au 1er octobre 2007.
 
 Toute demande de permis de construire est déposée à la mairie.
 
-1° Dans les cas où le permis de construire n'est pas délivré au nom de l'Etat :
-
-a) Le maire transmet un exemplaire de la demande au représentant de l'Etat dans la semaine qui suit le dépôt ;
-
-b) Dans le cas où la commune a délégué ses compétences à un établissement public de coopération intercommunale, le maire
-conserve un exemplaire de la demande, transmet un exemplaire au représentant de l'Etat et les autres exemplaires au président
-de l'établissement public compétent, dans la semaine qui suit le dépôt.
+1° Dans les cas où le permis de construire n'est pas délivré au nom de l'Etat et que la commune a délégué ses compétences à
+un établissement public de coopération intercommunale, le maire conserve un exemplaire de la demande et transmet les autres
+exemplaires au président de l'établissement public compétent, dans la semaine qui suit le dépôt ;
 
 2° Dans les cas où le permis de construire est délivré au nom de l'Etat :
 
-a) le maire conserve un exemplaire de la demande et transmet les autres au représentant de l'etat, dans la semaine qui suit
+a) le maire conserve un exemplaire de la demande et transmet les autres au représentant de l'Etat, dans la semaine qui suit
 le dépôt ;
 
 b) Dans le cas où la commune a délégué sa compétence à un établissement public de coopération intercommunale, le maire
@@ -16031,14 +16121,6 @@ conserve un exemplaire de la demande, transmet un exemplaire au président de l'
 exemplaires au représentant de l'Etat, dans la semaine qui suit le dépôt.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Modifié par**:
-
-	  - Loi n°83-663 du 22 juillet 1983 - art. 104 () JORF 23 juillet 1983
 
 	**Cité par**:
 
@@ -16056,7 +16138,15 @@ exemplaires au représentant de l'Etat, dans la semaine qui suit le dépôt.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Code de l'urbanisme - art. L421-2-7 (M)
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 140 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L421-2-4
@@ -17665,9 +17755,18 @@ l'ordonnance au 1er octobre 2007.
 
 ###### Article L430-7
 
-Le permis de démolir tient lieu de l'autorisation prévue par l'article 11 de la loi n. 48-1360 du 1er septembre 1948. Il est
-délivré après accord exprès ou tacite du ministre chargé du logement ou de son délégué qui peut subordonner cet accord au
-respect de certaines conditions.
+Le permis de démolir tient lieu de l'autorisation prévue par l'article 11 de la loi n° 48-1360 du 1er septembre 1948.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
 
 **Liens relatifs à cet article**
 
@@ -17678,6 +17777,18 @@ respect de certaines conditions.
 	**Cite**:
 
 	  - Loi n°48-1360 1948-09-01 art. 11
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 68 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
 
 
 ###### Article L430-8
