@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1979-12-02
+Version Consolidée au 1980-07-17
 
 # Partie législative
 
@@ -27317,6 +27317,25 @@ les réclamations sont présentées instruites et jugées selon les régles de p
 	**Abrogé par**:
 
 	  - Décret n°2016-6 du 5 janvier 2016 - art. 1
+
+
+###### Article R332-24
+
+Le montant maximum de la participation pour non-réalisation d'aires de stationnement est fixé à 20000 F..
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°93-614 du 26 mars 1993 - art. 17 (V) JORF 28 mars 1993
+
+	**Cité par**:
+
+	  - Décret n°93-614 du 26 mars 1993 - art. 17 (V)
 
 
 #### Chapitre III : Versement résultant du dépassement du plafond légal de densité
