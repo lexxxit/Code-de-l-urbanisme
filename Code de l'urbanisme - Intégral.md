@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1994-08-18
+Version Consolidée au 1994-10-01
 
 # Partie législative
 
@@ -26076,14 +26076,14 @@ dans ce registre les rétrocessions réalisées en application de l'article L. 1
 	  - Décret n°73-1023 1973-11-08
 
 
-#### Chapitre IV : Dispositions particulières à la région de Corse.
+#### Chapitre IV : Dispositions particulières à la collectivité territoriale de Corse
 
 #####  Section 1 : Schéma d'aménagement de la Corse.
 
 ###### Article R*144-1
 
-Le schéma d'aménagement de la Corse est élaboré à l'initiative et sous l'autorité de l'assemblée de Corse. L'ensemble de la
-procédure relative au schéma est conduit par le président de cette assemblée.
+Le schéma d'aménagement de la Corse est élaboré à l'initiative et sous l'autorité du conseil exécutif de Corse. L'ensemble de
+la procédure relative au schéma est conduit par le président de ce conseil.
 
 **Liens relatifs à cet article**
 
@@ -26091,13 +26091,14 @@ procédure relative au schéma est conduit par le président de cette assemblée
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°82-659 du 30 juillet 1982 - art. 11 (M)
-
 	**Modifié par**:
 
-	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
+	  - Décret n°94-851 du 30 septembre 1994 - art. 1 () JORF 1er octobre 1994
+	  - Décret n°94-851 du 30 septembre 1994 - art. 2 () JORF 1er octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2002-823 du 3 mai 2002 - art. 11 (V) JORF 5 mai 2002
 
 
 ###### Article R*144-2
@@ -26114,39 +26115,49 @@ l'île et notamment les principales orientations en ce qui concerne le parti d'a
 principales extensions urbaines et des activités essentielles, des grandes protections régionales, ainsi que l'implantation
 des équipements publics ou d'intérêt général les plus importants.
 
+Le schéma d'aménagement régional comprend également le chapitre individualisé prévu au dernier alinéa de l'article L. 144-2.
+Les documents graphiques se rapportant au chapitre individualisé peuvent être établis à une échelle différente de celle
+prévue à l'alinéa précédent.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°82-659 du 30 juillet 1982 - art. 11 (M)
-
 	**Modifié par**:
 
-	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
+	  - Décret n°94-851 du 30 septembre 1994 - art. 1 () JORF 1er octobre 1994
+	  - Décret n°94-851 du 30 septembre 1994 - art. 3 () JORF 1er octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2002-823 du 3 mai 2002 - art. 11 (V) JORF 5 mai 2002
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L144-2 (M)
 
 
 ###### Article R*144-3
 
-Une commission formée de représentants de l'assemblée de Corse est constituée et installée, dans un délai de six mois à
-compter de la publication du présent décret, à l'initiative du président de cette assemblée.
+Une commission formée de représentants du conseil exécutif de Corse est constituée à l'initiative du président de ce conseil.
 
-Afin d'associer l'Etat, les départements, les communes et, le cas échéant, les chambres d'agriculture, les chambres de
-commerce et d'industrie et les chambres de métiers à l'élaboration du schéma d'aménagement de la Corse, participent aux
-travaux de cette commission [*composition*] :
+Afin d'associer l'Etat, les départements, les communes, les chambres d'agriculture, les chambres de commerce et d'industrie
+et les chambres de métiers à l'élaboration du schéma d'aménagement de la Corse, participent aux travaux de cette commission :
 
-1° Le commissaire de la République de la région ;
+1° Le préfet de Corse ou son représentant ;
 
 2° Deux conseillers généraux de chaque département élus par les conseils généraux ;
 
-3° Deux maires de communes de moins de 2000 habitants, deux maires de communes de 2000 à 10000 habitants, ainsi que les
-maires des communes de plus de 10000 habitants ;
+3° Deux maires de communes de moins de 2 000 habitants, deux maires de communes de 2 000 à 10 000 habitants, élus dans les
+conditions fixées à l'article R. 144-4, ainsi que les maires des communes de plus de 10 000 habitants ;
 
-4° Un représentant des chambres d'agriculture, des chambres de commerce et d'industrie, des chambres de métiers, si elles en
-ont fait la demande.
+4° Un représentant, respectivement, des chambres d'agriculture, des chambres de commerce et d'industrie, des chambres de
+métiers.
+
+Cette commission est présidée par le président du conseil exécutif de Corse. Le président peut être suppléé par un conseiller
+exécutif.
 
 En même temps que chaque membre élu de la commission est désigné, selon les mêmes modalités, un suppléant ayant vocation à le
 remplacer, en cas d'absence ou d'empêchement pour quelque cause que ce soit.
@@ -26157,54 +26168,57 @@ remplacer, en cas d'absence ou d'empêchement pour quelque cause que ce soit.
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°82-659 du 30 juillet 1982 - art. 11 (M)
-
 	**Modifié par**:
 
-	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
+	  - Décret n°94-851 du 30 septembre 1994 - art. 1 () JORF 1er octobre 1994
+	  - Décret n°94-851 du 30 septembre 1994 - art. 4 () JORF 1er octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2002-823 du 3 mai 2002 - art. 11 (V) JORF 5 mai 2002
+
+	**Cite**:
+
+	  - Code de l'urbanisme R144-4
 
 
 ###### Article R*144-4
 
-Les maires des communes de moins de 2000 habitants et les maires des communes de 2000 à 10000 habitants, visés à l'article 
-
-R. 144-3, [*commission, schéma d'aménagement de la Corse*] sont élus par le collège des maires de la région appartenant au
-groupe démographique correspondant, à la représentation proportionnelle à la plus forte moyenne. Les listes des candidatures
-pour cette élection sont déposées à la préfecture de région à une date fixée par arrêté du commissaire de la République de la
-région ; cet arrêté fixe également la date limite et les modalités de cette élection.
+Les maires des communes de moins de 2000 habitants et les maires des communes de 2000 à 10000 habitants, mentiionnés à
+l'article R. 144-3, sont élus par le collège des maires de Corse appartenant au groupe démographique correspondant, à la
+représentation proportionnelle à la plus forte moyenne. Les listes des candidatures pour cette élection sont déposées à la
+préfecture de Corse à une date fixée par arrêté du préfet de Corse ; cet arrêté fixe également la date limite et les
+modalités de cette élection.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1023 1973-11-08
-
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°82-659 du 30 juillet 1982 - art. 11 (M)
-
-	**Modifié par**:
-
-	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
+	  - Décret n°2002-823 2002-05-03 art. 11 1° JORF 5 mai 2002
 
 	**Cite**:
 
 	  - Code de l'urbanisme R144-3
 
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°94-851 du 30 septembre 1994 - art. 1 () JORF 1er octobre 1994
+	  - Décret n°94-851 du 30 septembre 1994 - art. 5 () JORF 1er octobre 1994
+
 
 ###### Article R*144-5
 
-La commission est saisie du programme d'études établi par le président de l'assemblée de Corse. Les différentes options de
-développement et d'aménagement du territoire lui sont soumises pour avis, au fur et à mesure de l'avancement de ce programme.
+La commission est saisie du programme d'études établi par le président du conseil exécutif de Corse. Les différentes options
+de développement et d'aménagement du territoire lui sont soumises pour avis, au fur et à mesure de l'avancement de ce
+programme.
 
-Elle peut entendre toute personne qualifiée ainsi que les représentants des offices institués en application des articles 14,
-15 et 20 de la loi n° 82-659 du 30 juillet 1982.
-
-Dans le cas où l'assemblée de Corse a décidé de créer l'établissement public prévu par l'article L. 144-3, pour lui confier
-les études nécessaires à l'élaboration du schéma d'aménagement de la Corse, le représentant de cet établissement public est
-entendu par la commission.
+Elle peut entendre des membres de l'assemblée de Corse et du conseil économique, social et culturel de Corse, toute personne
+qualifiée ainsi que les représentants des offices et institution spécialisée institués en application des articles 57, 65,
+66, 69 et 74 de la loi n° 91-428 du 13 mai 1991 portant statut de la collectivité territoriale de Corse.
 
 **Liens relatifs à cet article**
 
@@ -26214,102 +26228,107 @@ entendu par la commission.
 
 	**Cite**:
 
-	  - Loi n°82-659 1982-07-30 ART. 14, ART. 15 ET ART. 20
-	  - Code de l'urbanisme - art. L144-3 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°82-659 du 30 juillet 1982 - art. 11 (M)
+	  - Loi n°91-428 1991-05-13 art. 57, art. 65, art. 66, art. 69, art. 74
 
 	**Modifié par**:
 
-	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
+	  - Décret n°94-851 du 30 septembre 1994 - art. 1 () JORF 1er octobre 1994
+	  - Décret n°94-851 du 30 septembre 1994 - art. 6 () JORF 1er octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2002-823 2002-05-03 art. 11 1° JORF 5 mai 2002
 
 
 ###### Article R*144-6
 
-Le commissaire de la République de la région est entendu, lorsqu'il en fait la demande, par la commission visée à l'article
-R. 144-3. Pendant toute la période d'élaboration du schéma, il appelle son attention sur les règles générales d'aménagement
-et d'urbanisme, servitudes d'utilité publique, dispositions nécessaires à la mise en oeuvre d'opérations d'intérêt national
-et programmes que le schéma doit respecter ou prendre en compte conformément à l'article L. 144-2.
+La commission se réunit sur convocation du président du conseil exécutif. La réunion est de droit si elle est demandée par le
+préfet de Corse. Pendant toute la période d'élaboration du schéma, le préfet de Corse appelle l'attention de la commission
+sur les règles générales d'aménagement et d'urbanisme, servitudes d'utilité publique, dispositions nécessaires à la mise en
+oeuvre d'opérations d'intérêt national et programmes que le schéma doit respecter ou prendre en compte conformément à
+l'article L. 144-2.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°82-659 du 30 juillet 1982 - art. 11 (M)
-
 	**Modifié par**:
 
-	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
+	  - Décret n°94-851 du 30 septembre 1994 - art. 1 () JORF 1er octobre 1994
+	  - Décret n°94-851 du 30 septembre 1994 - art. 7 () JORF 1er octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2002-823 2002-05-03 art. 11 1° JORF 5 mai 2002
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L144-2 (M)
 	  - Code de l'urbanisme R144-3
 
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
 
 ###### Article R*144-7
 
-Le projet de schéma d'aménagement de la Corse proposé par la commission est arrêté par le président de l'assemblée.
+Le projet de schéma d'aménagement de la Corse proposé par la commission est arrêté par le président du conseil exécutif.
 
 **Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°2002-823 2002-05-03 art. 11 1° JORF 5 mai 2002
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°82-659 du 30 juillet 1982 - art. 11 (M)
-
 	**Modifié par**:
 
-	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
+	  - Décret n°94-851 du 30 septembre 1994 - art. 1 () JORF 1er octobre 1994
+	  - Décret n°94-851 du 30 septembre 1994 - art. 8 () JORF 1er octobre 1994
 
 
 ###### Article R*144-8
 
-Le président de l'assemblée de Corse soumet le projet de schéma [*d'aménagement*], pour avis, simultanément, au Conseil
-économique et social, au conseil de la culture, de l'éducation et du cadre de vie ainsi qu'aux offices prévus aux articles
-14, 15 et 20 de la loi n° 82-659 du 30 juillet 1982.
+Le président du conseil exécutif de Corse soumet le projet de schéma au préfet de Corse pour accord sur les dispositions du
+chapitre individualisé mentionné à l'article R. 144-2.
+
+Il le soumet simultanément pour avis au conseil des sites de la Corse, au conseil économique, social et culturel de Corse.
 
 Les organismes consultés doivent répondre dans un délai d'un mois à compter de leur saisine ; à défaut de réponse dans ce
 délai, leur avis est réputé favorable.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°94-851 du 30 septembre 1994 - art. 1 () JORF 1er octobre 1994
+	  - Décret n°94-851 du 30 septembre 1994 - art. 9 () JORF 1er octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2002-823 2002-05-03 art. 11 1° JORF 5 mai 2002
+
+	**Cite**:
+
+	  - Code de l'urbanisme R144-2
+
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Cite**:
-
-	  - Loi n°82-659 1982-07-30 ART. 14, ART. 15 ET ART. 20
-
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°82-659 du 30 juillet 1982 - art. 11 (M)
-
-	**Modifié par**:
-
-	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
-
 
 ###### Article R*144-9
 
-Le projet de schéma [*d'aménagement*], accompagné des avis exprimés par les organismes consultés en application de l'article
-R. 144-8, est mis, par arrêté du président de l'assemblée de Corse, à la disposition du public, pendant deux mois, à la
-mairie des chefs-lieux de canton.
+Le projet de schéma, accompagné de l'accord du préfet de Corse sur les dispositions du chapitre individualisé et des avis
+exprimés par les organismes consultés en application de l'article R. 144-8, est mis, par arrêté du président du conseil
+exécutif de Corse, à la disposition du public, pendant deux mois, à la mairie des chefs-lieux de canton.
 
-L'arrêté du président de l'assemblée de Corse fixe la date à compter de laquelle a lieu cette mise à la disposition du
+L'arrêté du président du conseil exécutif de Corse fixe la date à compter de laquelle a lieu cette mise à la disposition du
 public, ainsi que les heures auxquelles le public peut prendre connaissance du dossier. Il est publié au recueil des actes
-administratifs de la région. Mention de cette publication est faite dans deux journaux régionaux diffusés dans toute la Corse
-et affichée dans les mairies de toutes les communes [*publicité*].
+administratifs de la collectivité territoriale de Corse. Mention de cette publication est faite dans deux journaux diffusés
+dans toute la Corse et affichée dans les mairies de toutes les communes [*publicité*].
 
 **Liens relatifs à cet article**
 
@@ -26317,13 +26336,14 @@ et affichée dans les mairies de toutes les communes [*publicité*].
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°82-659 du 30 juillet 1982 - art. 11 (M)
-
 	**Modifié par**:
 
-	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
+	  - Décret n°94-851 du 30 septembre 1994 - art. 1 () JORF 1er octobre 1994
+	  - Décret n°94-851 du 30 septembre 1994 - art. 10 () JORF 1er octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2002-823 2002-05-03 art. 11 1° JORF 5 mai 2002
 
 	**Cite**:
 
@@ -26334,26 +26354,23 @@ et affichée dans les mairies de toutes les communes [*publicité*].
 
 Les observations recueillies lors de la mise à la disposition du public du projet de schéma [*d'aménagement*] sont tenues à
 la disposition des membres de l'assemblée de Corse et des personnes associées en application de l'article R. 144-3. Le
-président de l'assemblée en établit la synthèse dans un rapport qu'il remet à l'assemblée ainsi qu'aux conseils consultatifs
-régionaux.
+président du conseil exécutif de Corse en établit la synthèse dans un rapport, qu'il remet, après en avoir informé le conseil
+exécutif, à l'assemblée de Corse ainsi qu'au conseil économique, social et culturel de Corse.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°94-851 du 30 septembre 1994 - art. 1 () JORF 1er octobre 1994
+	  - Décret n°94-851 du 30 septembre 1994 - art. 11 () JORF 1er octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2002-823 2002-05-03 art. 11 1° JORF 5 mai 2002
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°82-659 du 30 juillet 1982 - art. 11 (M)
-
-	**Modifié par**:
-
-	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
-
-	**Cite**:
-
-	  - Code de l'urbanisme R144-3
 
 
 ###### Article R*144-11
@@ -26362,8 +26379,8 @@ Le projet de schéma d'aménagement de la Corse, éventuellement modifié dans l
 144-7, pour tenir compte des avis et observations recueillis conformément aux articles R. 144-8 à R. 144-10, est adopté par
 délibération de l'assemblée de Corse.
 
-Toutefois, lorsque les modifications apportées au projet portent atteinte à son économie générale, le président de
-l'assemblée de Corse fait procéder une nouvelle fois aux consultations prévues à l'article R. 144-8 ainsi qu'à la mise à la
+Toutefois, lorsque les modifications apportées au projet portent atteinte à son économie générale, le président du conseil
+exécutif de Corse fait procéder une nouvelle fois aux consultations prévues à l'article R. 144-8 ainsi qu'à la mise à la
 disposition du public, avant que l'assemblée de Corse ne délibère sur le projet. Dans ce cas, les délais prévus aux articles
 R. 144-8 et R. 144-9 sont respectivement ramenés à quinze jours et un mois.
 
@@ -26373,27 +26390,24 @@ R. 144-8 et R. 144-9 sont respectivement ramenés à quinze jours et un mois.
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°82-659 du 30 juillet 1982 - art. 11 (M)
-
 	**Modifié par**:
 
-	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
+	  - Décret n°94-851 du 30 septembre 1994 - art. 1 () JORF 1er octobre 1994
+	  - Décret n°94-851 du 30 septembre 1994 - art. 12 () JORF 1er octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2002-823 2002-05-03 art. 11 1° JORF 5 mai 2002
 
 	**Cite**:
 
-	  - Code de l'urbanisme R144-5, R144-7, R144-8, R144-9 ET R144-10
+	  - Code de l'urbanisme R144-5, R144-7, R144-8 à R144-10, R144-8, R144-9
 
 
 ###### Article R*144-12
 
-Le délai de dix-huit mois prévu à l'article L. 144-3 commence à courir à compter de l'installation de la commission prévue à
-l'article R. 144-3 ou, à défaut, à l'expiration du délai fixé au même article pour la constitution et l'installation de cette
-commission.
-
-Lorsque le schéma d'aménagement de la Corse est adopté dans ce délai, il est transmis par le président de l'assemblée de
-Corse au commissaire de la République de la région qui le transmet au ministre chargé de l'urbanisme.
+Lorsque le schéma d'aménagement de la Corse est adopté, il est transmis au préfet de Corse, qui le transmet au ministre
+chargé de l'urbanisme.
 
 **Liens relatifs à cet article**
 
@@ -26401,18 +26415,14 @@ Corse au commissaire de la République de la région qui le transmet au ministre
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°82-659 du 30 juillet 1982 - art. 11 (M)
-
 	**Modifié par**:
 
-	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
+	  - Décret n°94-851 du 30 septembre 1994 - art. 1 () JORF 1er octobre 1994
+	  - Décret n°94-851 du 30 septembre 1994 - art. 13 () JORF 1er octobre 1994
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code de l'urbanisme - art. L144-3 (M)
-	  - Code de l'urbanisme R144-3
+	  - Décret n°2002-823 2002-05-03 art. 11 1° JORF 5 mai 2002
 
 
 ###### Article R*144-13
@@ -26420,24 +26430,25 @@ Corse au commissaire de la République de la région qui le transmet au ministre
 Le schéma d'aménagement de la Corse est approuvé par décret en Conseil d'Etat, pris sur le rapport des ministres chargés de
 l'intérieur et de l'urbanisme.
 
-Mention du décret est faite dans deux journaux régionaux diffusés dans toute la Corse [*publicité*].
+Mention du décret est faite dans deux journaux diffusés dans toute la Corse [*publicité*].
 
-Le dossier du schéma d'aménagement de la Corse est tenu à la disposition du public au siège de la région à l'hôtel de chacun
-des départements et dans les mairies des chefs-lieux de canton.
+Le dossier du schéma d'aménagement de la Corse est tenu à la disposition du public au siège de la collectivité territoriale à
+l'hôtel de chacun des départements et dans les mairies des chefs-lieux de canton.
 
 **Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°2002-823 2002-05-03 art. 11 1° JORF 5 mai 2002
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°82-659 du 30 juillet 1982 - art. 11 (M)
-
 	**Modifié par**:
 
-	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
+	  - Décret n°94-851 du 30 septembre 1994 - art. 1 () JORF 1er octobre 1994
+	  - Décret n°94-851 du 30 septembre 1994 - art. 14 () JORF 1er octobre 1994
 
 
 ###### Article R*144-14
@@ -26447,64 +26458,26 @@ Le refus d'approbation du schéma d'aménagement de la Corse ne peut être fond�
 Le projet est renvoyé à l'assemblée de Corse qui ne peut y apporter d'autres modifications que celles nécessaires à sa mise
 en conformité avec les lois et règlements.
 
-L'assemblée de Corse dispose alors d'un délai de trois mois pour cette mise en conformité. Passé ce délai, le schéma est
-élaboré par le commissaire de la République de la région.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°82-659 du 30 juillet 1982 - art. 11 (M)
-
 	**Modifié par**:
 
-	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
-
-
-###### Article R*144-15
-
-Si le schéma d'aménagement de la Corse n'est pas adopté par l'assemblée dans le délai fixé à l'article R. 144-12 ci-dessus,
-il est élaboré par le commissaire de la République de la région. Il est ensuite soumis pour avis à l'assemblée qui doit se
-prononcer dans un délai de deux mois. La délibération de l'assemblée est réputée favorable si elle n'est pas intervenue dans
-ce délai.
-
-Lorsque l'avis mentionné à l'alinéa précédent a été recueilli ou est réputé acquis, le schéma est approuvé par décret en
-Conseil d'Etat. Ce décret et le schéma d'aménagement font l'objet de mesures de publicité et d'information du public prévues
-à l'article
-
-R. 144-13.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°82-659 du 30 juillet 1982 - art. 11 (M)
-
-	**Modifié par**:
-
-	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
+	  - Décret n°94-851 du 30 septembre 1994 - art. 1 () JORF 1er octobre 1994
+	  - Décret n°94-851 du 30 septembre 1994 - art. 15 () JORF 1er octobre 1994
 
 	**Abrogé par**:
 
-	  - Décret n°94-851 du 30 septembre 1994 - art. 16 () JORF 1er octobre 1994
-
-	**Cite**:
-
-	  - Code de l'urbanisme R144-12
+	  - Décret n°2002-823 2002-05-03 art. 11 1° JORF 5 mai 2002
 
 
 ###### Article R*144-16
 
-Lorsque la révision du schéma d'aménagement de la Corse approuvé est décidée par l'assemblée de Corse, elle a lieu dans les
-formes et délais prévus aux articles R. 144-3 à R. 144-14.
+Lorsque la révision du schéma d'aménagement de la Corse approuvé est décidée par le conseil exécutif de Corse, elle a lieu
+dans les formes et délais prévus aux articles R. 144-3 à R. 144-14.
 
 **Liens relatifs à cet article**
 
@@ -26512,13 +26485,14 @@ formes et délais prévus aux articles R. 144-3 à R. 144-14.
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°82-659 du 30 juillet 1982 - art. 11 (M)
-
 	**Modifié par**:
 
-	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
+	  - Décret n°94-851 du 30 septembre 1994 - art. 1 () JORF 1er octobre 1994
+	  - Décret n°94-851 du 30 septembre 1994 - art. 17 () JORF 1er octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2002-823 2002-05-03 art. 11 1° JORF 5 mai 2002
 
 	**Cite**:
 
@@ -26527,15 +26501,15 @@ formes et délais prévus aux articles R. 144-3 à R. 144-14.
 
 ###### Article R*144-17
 
-Lorsque la révision du schéma d'aménagement de la Corse approuvé est demandée au président de l'assemblée par le commissaire
-de la République de région pour assurer sa conformité à des règles ou servitudes publiées postérieurement à l'approbation du
-schéma, il doit y être procédé dans un délai de six mois à compter de cette demande.
+Lorsque la révision du schéma d'aménagement de la Corse approuvé est demandée au président du conseil exécutif par le préfet
+de Corse pour assurer sa conformité à des règles ou servitudes publiées postérieurement à l'approbation du schéma, il doit y
+être procédé dans un délai de six mois à compter de cette demande.
 
 Le schéma révisé est approuvé dans les conditions prévues aux articles R. 144-12, R. 144-13 et R. 144-14.
 
-Si le schéma d'aménagement révisé n'a pas été adopté par l'assemblée dans ce délai, le schéma est révisé par le commissaire
-de la République de la région. Il est ensuite soumis pour avis à l'assemblée qui doit se prononcer dans un délai de deux
-mois. La délibération de l'assemblée est réputée favorable si elle n'est pas intervenue dans ce délai.
+Si le schéma d'aménagement révisé n'a pas été adopté par l'assemblée dans ce délai, le schéma est révisé par le préfet de
+Corse. Il est ensuite soumis pour avis à l'assemblée qui doit se prononcer dans un délai de deux mois. La délibération de
+l'assemblée est réputée favorable si elle n'est pas intervenue dans ce délai.
 
 Lorsque l'avis mentionné à l'alinéa précédent a été recueilli ou est réputé acquis, la révision du schéma est approuvée par
 décret en Conseil d'Etat. Ce décret et le schéma d'aménagement font l'objet des mesures de publicité et d'information du
@@ -26543,21 +26517,18 @@ public prévues à l'article R. 144-13.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°94-851 du 30 septembre 1994 - art. 1 () JORF 1er octobre 1994
+	  - Décret n°94-851 du 30 septembre 1994 - art. 18 () JORF 1er octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2002-823 2002-05-03 art. 11 1° JORF 5 mai 2002
+
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°82-659 du 30 juillet 1982 - art. 11 (M)
-
-	**Modifié par**:
-
-	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
-
-	**Cite**:
-
-	  - Code de l'urbanisme R144-13
 
 
 #####  Section 2 : Conseil des sites de la Corse.
@@ -26607,6 +26578,14 @@ au moins de ces représentants doit appartenir à une association agréée au ti
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°94-851 du 30 septembre 1994 - art. 1 () JORF 1er octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2002-823 2002-05-03 art. 11 1° JORF 5 mai 2002
+
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L160-1 (M)
@@ -26614,10 +26593,6 @@ au moins de ces représentants doit appartenir à une association agréée au ti
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
 
 
 ###### Article R*144-19
@@ -26629,6 +26604,14 @@ le préfet désigne directement les membres correspondants.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°94-851 du 30 septembre 1994 - art. 1 () JORF 1er octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2002-823 2002-05-03 art. 11 1° JORF 5 mai 2002
+
 	**Cite**:
 
 	  - Code de l'urbanisme R144-18
@@ -26636,10 +26619,6 @@ le préfet désigne directement les membres correspondants.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
 
 
 ###### Article R*144-20
@@ -26653,13 +26632,17 @@ qu'elle remplace.
 
 **Liens relatifs à cet article**
 
+	**Abrogé par**:
+
+	  - Décret n°2002-823 2002-05-03 art. 11 1° JORF 5 mai 2002
+
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
+	  - Décret n°94-851 du 30 septembre 1994 - art. 1 () JORF 1er octobre 1994
 
 
 ###### Article R*144-21
@@ -26671,13 +26654,17 @@ La convocation qui est adressée douze jours au moins avant la séance, fixe le 
 
 **Liens relatifs à cet article**
 
+	**Abrogé par**:
+
+	  - Décret n°2002-823 2002-05-03 art. 11 1° JORF 5 mai 2002
+
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
+	  - Décret n°94-851 du 30 septembre 1994 - art. 1 () JORF 1er octobre 1994
 
 
 ###### Article R*144-22
@@ -26693,9 +26680,13 @@ quorum après une nouvelle convocation portant sur le même ordre du jour et sp�
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
+	  - Décret n°94-851 du 30 septembre 1994 - art. 1 () JORF 1er octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2002-823 2002-05-03 art. 11 1° JORF 5 mai 2002
 
 
 ###### Article R*144-23
@@ -26708,13 +26699,17 @@ Les fonctions de secrétaire sont exercées par un fonctionnaire désigné par l
 
 **Liens relatifs à cet article**
 
+	**Abrogé par**:
+
+	  - Décret n°2002-823 2002-05-03 art. 11 1° JORF 5 mai 2002
+
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
+	  - Décret n°94-851 du 30 septembre 1994 - art. 1 () JORF 1er octobre 1994
 
 
 ###### Article R*144-24
@@ -26724,13 +26719,17 @@ peuvent être entendus par le conseil pour les affaires les concernant.
 
 **Liens relatifs à cet article**
 
+	**Abrogé par**:
+
+	  - Décret n°2002-823 2002-05-03 art. 11 1° JORF 5 mai 2002
+
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
+	  - Décret n°94-851 du 30 septembre 1994 - art. 1 () JORF 1er octobre 1994
 
 
 ###### Article R*144-25
@@ -26739,13 +26738,17 @@ Le conseil des sites établit son règlement intérieur. Il peut constituer en s
 
 **Liens relatifs à cet article**
 
+	**Abrogé par**:
+
+	  - Décret n°2002-823 2002-05-03 art. 11 1° JORF 5 mai 2002
+
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-556 du 26 mars 1993 - art. 1 () JORF 28 mars 1993
+	  - Décret n°94-851 du 30 septembre 1994 - art. 1 () JORF 1er octobre 1994
 
 
 #### Chapitre V : Dispositions particulières aux zones de montagne
