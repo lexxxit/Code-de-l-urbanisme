@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1977-06-30
+Version Consolidée au 1977-07-01
 
 # Partie législative
 
@@ -377,6 +377,34 @@ procédure prévue à l'alinéa 3 du présent article//.
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'urbanisme R160-4
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L111-6
+
+Les bâtiments, locaux ou installations soumis aux dispositions des articles L. 111-1, L. 421-1 ou L. 510-1, ne peuvent,
+nonobstant toutes clauses contraires des cahiers des charges de concession, d'affermage ou de régie intéressée, être
+raccordés définitivement aux réseaux d'électricité, d'eau, de gaz ou de téléphone si leur construction ou leur transformation
+n'a pas été, selon le cas, autorisée ou agréée en vertu des articles précités.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L111-1 (M)
+	  - Code de l'urbanisme - art. L421-1 (M)
+	  - Code de l'urbanisme - art. L510-1 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L111-1 (M)
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. L111-3 (V)
 
 	**Codifié par**:
 
@@ -10240,13 +10268,25 @@ nécessaires par l'existence d'installations classées.
 
 ###### Article L422-1
 
-Des arrêtés concertés entre le ministre chargé de l'urbanisme et les autres ministres intéressés déterminent la liste des
-constructions et des travaux qui, en raison de leur nature ou de leur faible importance, pourront être exemptés du permis de
-construire, à condition qu'ils ne soient pas soumis, par ailleurs, à des dispositions législatives ou réglementaires
-spéciales.
+En raison de leur nature ou de leur faible importance, des constructions et des travaux peuvent être exemptés du permis de
+construire dans des conditions déterminées par un décret en Conseil d'Etat.
 
-Cette exemption pourra également s'appliquer aux constructions provisoires et aux travaux urgents de caractère strictement
-conservatoire définis par lesdits arrêtés.
+L'exemption instituée en application de l'alinéa précédent ne dispense pas du respect des dispositions législatives ou
+réglementaires relatives à l'occupation des sols énumérées à l'article L. 421-3.
+
+//LOI  0002 ART. 32 : Sont exemptés du permis de construire, les travaux de ravalement, les travaux sur les édifices classés
+et certains travaux de faible importance dans les petites communes quel que soit le maître d'ouvrage, ainsi que certains
+travaux relatifs aux installations techniques nécessaires au fonctionnement des services publics.
+
+Le maître d'ouvrage tient compte de l'avis du maire sur les travaux exemptés du permis de construire, consulté au moins un
+mois avant le commencement des travaux, à l'exception des constructions couvertes par le secret de la défense nationale.
+
+En cas d'avis défavorable du maire, le préfet statue sur le projet, après avis de la conférence permanente du permis de
+construire.
+
+Sont soumis notamment au régime du permis de construire les travaux de production et de distribution d'énergie, les bâtiments
+scolaires, les bâtiments des postes et télécommunications, les bâtiments non techniques exécutés dans les ports maritimes,
+les gares et les aérodromes.//
 
 **Liens relatifs à cet article**
 
@@ -10291,6 +10331,10 @@ conservatoire définis par lesdits arrêtés.
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L421-3 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L421-3 (M)
 
 	**Anciens textes**:
 
@@ -30696,6 +30740,33 @@ décret n. 62-1587 du 29 décembre 1962.
 
 ## LIVRE IV : Règles relatives à l'acte de construire et à divers modes d'utilisation du sol
 
+### TITRE II : Permis de construire
+
+#### CHAPITRE II : Exceptions au régime général
+
+###### Article R*422-1
+
+Les constructions couvertes par le secret de la défense nationale sont exemptées de permis de construire. Entrent, notamment
+dans cette catégorie, les centres de transmission, les établissements d'expériences et de fabrication de matériels et de
+munitions, les entrepôts de réserve générale, les dépôts de munitions, les bases de fusées, les stations radiogoniométriques
+et les centres radioélectriques de surveillance. Pour les autres constructions, le caractère secret est reconnu par décision
+de portée générale ou particulière du ministre compétent.
+
+Sont également exemptées de permis de construire les installations situées à l'intérieur des arsenaux de la marine, des
+aérodromes militaires et des grands camps figurant sur une liste fixée par arrêté conjoint du ministre chargé de l'urbanisme
+et du ministre chargé des armées.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*410-11 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ### Titre IV : Dispositions relatives aux modes particuliers d'utilisation du sol.
 
 ###### Article R440-8
@@ -31571,34 +31642,29 @@ l'autorisation est jointe à la demande de permis de construire//.
 
 ###### Article R421-4
 
-Le cas échéant, les éléments nécessaires au calcul de la redevance instituée par l'article L. 520-1 sont également joints à
-la demande de permis de construire.
-
-//DECR.0158 ART. 1 :
+Le cas échéant, les éléments nécessaires au calcul du versement lié au dépassement du plafond légal de densité, de la
+participation pour dépassement du coefficient d'occupation du sol, de la redevance instituée par l'article L. 520-1, de la
+taxe locale d'équipement ou de la taxe départementale d'espaces verts, sont joints à la demande de permis de construire.
 
 Lorsqu'il s'agit de constructions à usage commercial assujetties à l'autorisation de la commission départementale d'urbanisme
 commercial en vertu de l'article 29 de la loi n. 73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat, la
 demande de permis de construire est complétée par la copie de la lettre adressée par le préfet au demandeur de l'autorisation
-précitée lorsque le dossier joint à la demande d'autorisation a été reconnu complet [*contenu*].//
+précitée lorsque le dossier joint à la demande d'autorisation a été reconnu complet [*contenu*].
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°73-1193 1973-12-27 ART. 29
-	  - Code de l'urbanisme - art. L520-1 (M)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*422-3 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°70-446 1970-05-26 ART. 4
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Loi n°73-1193 1973-12-27 ART. 29
+	  - Code de l'urbanisme 520-1
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*422-3 (M)
 
 
 ###### Article R421-5
@@ -31736,6 +31802,31 @@ par le demandeur à l'autorité qui les a réclamés.
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R421-10-1
+
+Lorsque les travaux ont pour effet de changer la destination d'une construction existante et que cette modification est
+soumise à autorisation en vertu de l'article 340 du code de l'urbanisme et de l'habitation, la demande de permis de
+construire tient lieu de la demande d'autorisation exigée par ce texte.
+
+**Liens relatifs à cet article**
+
+	**Transféré par**:
+
+	  - Décret n°83-1261 1983-12-30 ART. 1, ART. 8 JORF 7 JANVIER 1984 date d'entrée en vigueur 1 AVRIL 1984
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R421-11 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme 340
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ##### Instruction de la demande - Régime général.
 
 ###### Article R421-11
@@ -31770,18 +31861,18 @@ favorable s'il n'est pas intervenu dans le délai prévu ci-dessus [*silence*].
 
 ###### Article R421-12
 
-Sous réserve de ce qui est dit à l'article R. 421-19 (alinéa 2) le préfet, si le dossier est complet, fait connaître au
-demandeur, dans les quinze jours de la réception de la demande par le directeur départemental de l'équipement, le numéro
-d'enregistrement de ladite demande et la date avant laquelle, compte tenu des délais d'instruction fixés par les articles R.
-421-18 et R. 421-19, la décision devra lui être notifiée par pli recommandé avec demande d'avis de réception postal. Le délai
-d'instruction part de la date de la décharge ou de l'avis de réception postal prévus à l'article R. 421-9.
+Le préfet, si le dossier est complet, fait connaître au demandeur, dans les quinze jours de la réception de la demande par le
+directeur départemental de l'équipement, le numéro d'enregistrement de ladite demande et la date avant laquelle, compte tenu
+des délais réglementaires d'instruction, la décision devra lui être notifiée par pli recommandé avec demande d'avis de
+réception postal. Le délai d'instruction part de la date de la décharge ou de l'avis de réception postal prévus à l'article
+R. 421-9.
 
-La lettre du préfet avise en outre le constructeur que si aucune décision ne lui a été adressée avant la date visée à
-l'alinéa précédent, ladite lettre vaudra permis de construire et les travaux pourront être entrepris conformément au projet
-déposé.
+Le préfet avise en outre le constructeur que si aucune décision ne lui a été adressée avant la date mentionnée à l'alinéa
+précédent, ladite lettre vaudra permis de construire et les travaux pourront être entrepris conformément au projet déposé,
+sous réserve du retrait, dans le délai du recours contentieux, du permis tacite au cas où il serait entaché d'illégalité.
 
-Lorsque le projet doit être soumis à l'avis ou à l'avis conforme des services, autorités ou commissions relevant du ministre
-chargé des monuments historiques et des sites, le préfet en informe le demandeur.
+Toutefois, dans le cas où la délivrance du permis de construire est subordonnée à l'accord exprès d'une autre autorité, le
+préfet en informe le demandeur et lui fait savoir qu'il ne pourra bénéficier d'un permis tacite.
 
 **Liens relatifs à cet article**
 
@@ -31812,19 +31903,11 @@ chargé des monuments historiques et des sites, le préfet en informe le demande
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-13 (M)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-19 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-20 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-36 (M)
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R421-19 (M)
 	  - Code de l'urbanisme - art. R421-9 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°70-446 1970-05-26 ART. 10
 
 	**Codifié par**:
 
@@ -32040,19 +32123,31 @@ majoré de quatre mois//.
 
 ###### Article R421-19
 
-//DECR.0158 art. 3 : A moins qu'il ne soit supérieur, par application de l'article R. 421-18, le délai d'instruction est fixé
-uniformément à cinq mois lorsque le projet est soumis à l'avis ou à l'avis conforme de services, autorités ou commissions
-relevant, au plan départemental ou régional, du ministre chargé des monuments historiques et des sites, et à sept mois
-lorsque le projet est soumis à l'avis d'une commission nationale.//    Les délais fixés à l'article R. 421-18 et au premier
-alinéa du présent article ne sont pas applicables en ce qui concerne les travaux soumis à l'autorisation spéciale prévue aux
-articles 9 et 12 de la loi du 31 décembre 1913 sur les monuments historiques.
+Le constructeur ne peut bénéficier d'un permis de construire tacite dans les cas ci-après énumérés :
+
+a) Lorsque les travaux ont pour effet de changer la destination d'une construction existante et que cette modification est
+soumise à autorisation en vertu de l'article 340 du code de l'urbanisme et de l'habitation ;
+
+b) Lorsque le permis de construire intéresse un immeuble adossé à un immeuble classé ;
+
+c) Lorsque la construction est située dans le champ de visibilité d'un édifice classé ou inscrit et que le ministre chargé
+des monuments historiques a décidé d'évoquer le dossier ;
+
+d) Lorsque la construction se trouve dans un site classé ou en instance de classement, ou dans une zone de protection créée
+par décret en application des articles 17 ou 28 de la loi du 2 mai 1930 ;
+
+e) Lorsque la construction est située dans un territoire en instance de classement ou classé en réserve naturelle ;
+
+/A/ f) Lorsque la construction est, en raison de son emplacement à proximité d'un ouvrage militaire, soumise à autorisation
+du ministre chargé des armées en vertu du décret du 10 août 1853, de la loi du 18 juillet 1895, ou de la loi du 11 juillet
+1933 ; /A/DECR. 788//    /A/ g) Lorsque la construction pourrait, en raison de son emplacement et de sa hauteur, constituer
+un obstacle à la navigation aérienne et qu'elle est soumise pour ce motif à autorisation ministérielle/A/DECR. 788//.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Décret n°74-158 1974-02-25 ART. 3
-	  - Loi   1913-12-31 ART. 9 ET 12
+	  - Décret n°81-788 1981-08-12 ART. 13 JORF 19 AOUT 1981
 
 	**Cité par**:
 
@@ -32084,15 +32179,15 @@ articles 9 et 12 de la loi du 31 décembre 1913 sur les monuments historiques.
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-12 (M)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-18 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-31 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R440-2 (Ab)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R440-3 (Ab)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°70-446 1970-05-26 ART. 16
+	  - Code de l'urbanisme 340
+	  - Décret  1853-08-10
+	  - Loi  1895-07-18
+	  - Loi  1930-05-02 ART. 17, 28
+	  - Loi  1933-07-11
 
 	**Codifié par**:
 
@@ -32313,26 +32408,19 @@ et R. 421-25 à R. 421-31 sont applicables au lieu et place des articles R. 421-
 
 ###### Article R421-25
 
-Sous réserve de ce qui est dit à l'article R. 421-19 (alinéa 2), le maire, si le dossier est complet, fait connaître au
-demandeur dans les quinze jours de la réception de la demande, le numéro d'enregistrement de ladite demande et la date avant
-laquelle, compte tenu des délais d'instruction fixés par les articles R. 421-18 et R. 421-19, la décision devra lui être
-notifiée par pli recommandé avec demande d'avis de réception postal [*condition de forme*]. Le délai d'instruction part
-[*point de départ*] de la date de la décharge ou de l'avis de réception postal prévus à l'article R. 421-10.
+Le maire, si le dossier est complet, fait connaître au demandeur, dans les quinze jours de la réception de la demande, le
+numéro d'enregistrement de ladite demande et la date avant laquelle, compte tenu des délais d'instruction, la décision devra
+lui être notifiée par pli recommandé avec demande d'avis de réception postal [*condition de forme*]. Le délai d'instruction
+part [*point de départ*] de la date de la décharge ou de l'avis de réception postal prévus à l'article R. 421-10.
 
-La lettre du maire avise en outre le constructeur que, si aucune décision ne lui a été adressée avant la date visée à
-l'alinéa précédent, ladite lettre vaudra permis de construire [*tacite*] et les travaux pourront être entrepris conformément
-au projet déposé.
+Le maire avise en outre le constructeur que si aucune décision ne lui a été adressée avant la date mentionnée à l'alinéa
+précédent, ladite lettre vaudra permis de construire et les travaux pourront être entrepris conformément au projet déposé,
+sous réserve du retrait, dans le délai du recours contentieux, du permis tacite au cas où il serait entaché d'illégalité.
 
-Lorsque le projet doit être soumis à l'avis ou à l'avis conforme des services, autorités ou commissions relevant du ministre
-chargé des monuments historiques et des sites, le maire en informe le demandeur.
+Toutefois, dans le cas où la délivrance du permis de construire est subordonnée à l'accord exprès d'une autre autorité, le
+maire en informe le demandeur et lui fait savoir qu'il ne pourra bénéficier d'un permis tacite.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R421-10 (M)
-	  - Code de l'urbanisme - art. R421-18 (M)
-	  - Code de l'urbanisme - art. R421-19 (M)
 
 	**Cité par**:
 
@@ -32343,16 +32431,6 @@ chargé des monuments historiques et des sites, le maire en informe le demandeur
 	  - Code de l'urbanisme - art. R421-36 (M)
 	  - Code de l'urbanisme - art. R421-38-4 (M)
 	  - Code de l'urbanisme - art. R421-42 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-26 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-31 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-36 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°70-446 1970-05-26 ART. 19-3
 
 	**Codifié par**:
 
@@ -32593,43 +32671,45 @@ adressée au directeur départemental de l'équipement.
 ###### Article R421-32
 
 La décision en matière de permis de construire est de la compétence du maire, sous réserve de ce qui est dit à l'article R.
-421-33 et sauf dans les cas énumérés ci-après.
+421-33 et sauf dans les cas énumérés ci-après :
 
 La décision est de la compétence du préfet :
 
 1. Pour les constructions édifiées pour le compte de l'Etat ou du département, de leurs établissements publics ou de
-concessionnaires de services publics de l'Etat ou du département :
+concessionnaires de services publics de l'Etat ou du département ;
 
-2. Pour les constructions à usage industriel, commercial ou de bureaux lorsque la superficie de planchers hors d'oeuvre est
-égale ou supérieure à 1.000 mètres carrés au total, sauf application des dispositions du dernier alinéa du présent article ;
+2. Pour les constructions à usage industriel, commercial ou de bureaux lorsque la superficie de planchers hors oeuvre est
+égale ou supérieure à 1000 mètres carrés au total, sauf application des dispositions du dernier alinéa du présent article ;
 
 3. Pour les immeubles de grande hauteur au sens de l'article 2 du décret n. 67-1063 du 15 novembre 1967, sous réserve de ce
 qui est dit à l'article R. 421-47 ;
 
-/M/4. Lorsqu'est imposée au constructeur l'obligation de participer financièrement aux dépenses d'équipements publics dans
-les conditions fixées par l'article R. 110-14 ou de céder gratuitement du terrain en vertu dudit article ou de l'article R.
-332-15 (1er alinéa) à une collectivité publique autre que la commune intéressée./M/DECR.0739 ART. 11 : Lorsque est imposé au
-constructeur le paiement de la participation prévue à l'article L. 421-3 (alinéas 3 et 4) ou l'obligation de participer
-financièrement aux dépenses d'équipements publics ou celle de céder gratuitement du terrain en vertu des dispositions du
-présent code à une collectivité publique autre que la commune intéressée.//          5. Lorsque la construction de bâtiments
-s'accompagne d'une division du terrain ;
+4. Lorsque est imposé au constructeur le paiement de la participation prévue à l'article L. 421-3 (alinéas 3 et 4) ou
+l'obligation de participer financièrement aux dépenses d'équipements publics ou celle de céder gratuitement du terrain en
+vertu des dispositions du présent code à une collectivité publique autre que la commune intéressée ;
 
-6. Lorsqu'une dérogation aux dispositions mentionnées aux articles R. 421-15 (alinéa 3) et R. 421-28 (alinéa 3) est
-nécessaire ; dans ce cas, la décision d'octroi du permis de construire doit indiquer les motifs de la dérogation accordée :
+5. Lorsque la construction de bâtiments s'accompagne d'une division du terrain ;
+
+6. Lorsqu'une dérogation ou une adaptation mineure aux dispositions mentionnées aux articles R. 421-15 (alinéa 3) ou R.
+421-28 (alinéa 3) est nécessaire ;
 
 7. Lorsque le maire et le directeur départemental de l'équipement ont émis des avis en sens contraire ; cette disposition ne
 peut recevoir application dans le cadre de la procédure instituée par l'article R. 421-22 ;
 
 8. Lorsqu'il y a lieu de prendre une décision de sursis à statuer ;
 
-9. Pour les constructions soumises à l'avis ou à l'avis conforme de services, autorités ou commissions relevant du ministre
-chargé des monuments historiques et des sites ;
+9. Pour les ouvrages de production, de transport, de stockage et de distribution d'énergie ;
 
 10. Pour les constructions susceptibles d'être exposées au bruit autour des aérodromes et comprises dans les secteurs définis
-par arrêté du préfet.
+par arrêté du préfet ;
+
+11. Pour les constructions pour lesquelles un changement de destination doit être autorisé en application de l'article 340 du
+Code de l'urbanisme et de l'habitation ;
+
+12. Dans les cas prévus aux articles R. 421-38-8  R. 421-38-9, R. 421-38-11 et R. 421-38-12.
 
 La décision est de la compétence du ministre chargé de l'urbanisme pour les constructions à usage industriel dont la
-superficie de planchers hors oeuvre est égale ou supérieure à 2.000 mètres carrés au total, dans le cas où le ministre chargé
+superficie de planchers hors oeuvre est égale ou supérieure à 2000 mètres carrés au total, dans le cas où le ministre chargé
 de l'aménagement du territoire a émis un avis défavorable.
 
 **Liens relatifs à cet article**
@@ -32637,13 +32717,17 @@ de l'aménagement du territoire a émis un avis défavorable.
 	**Cite**:
 
 	  - Décret n°67-1063 1967-11-15 ART. 2
-	  - Code de l'urbanisme - art. R110-14 (T)
 	  - Code de l'urbanisme - art. R111-14 (M)
 	  - Code de l'urbanisme - art. R421-15 (M)
 	  - Code de l'urbanisme - art. R421-22 (M)
 	  - Code de l'urbanisme - art. R421-33 (M)
+	  - Code de l'urbanisme - art. R421-38-11 (M)
+	  - Code de l'urbanisme - art. R421-38-12 (M)
+	  - Code de l'urbanisme - art. R421-38-8 (M)
+	  - Code de l'urbanisme - art. R421-38-9 (M)
 	  - Code de l'urbanisme - art. R421-47 (M)
-	  - Code de l'urbanisme R421-47, R110-14, R111-14, R332-15, R421-15, AL. 3, R421-28 AL. 3, R421-22, R421-33
+	  - Code de l'urbanisme R421-33, R421-47, R111-14, R332-15, R421-15, R421-28 AL. 3, R421-22, R421-38-8, R421-38-9, R421-38-11, R421-38-12
+	  - Code de l'urbanisme et de l'habitation 340
 
 	**Cité par**:
 
@@ -32658,15 +32742,11 @@ de l'aménagement du territoire a émis un avis défavorable.
 	**Anciens textes**:
 
 	  - Code de l'urbanisme - art. R*421-38 (M)
-	  - Décret n°70-446 1970-05-26 ART. 20
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-15 (M)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-28 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-39 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-41 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-46 (Ab)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-47 (M)
 
 	**Codifié par**:
@@ -32711,9 +32791,13 @@ tout dossier et prendre les décisions nécessaires.
 
 ###### Article R421-34
 
-L'autorité compétente pour statuer sur la demande se prononce par arrêté. Celui-ci doit être notifié directement au demandeur
-par lettre recommandée avec demande d'avis de réception [*condition de forme*]. Toutefois le permis de construire peut être
-notifié par pli non recommandé lorsqu'il ne comporte ni réserves, ni prescriptions spéciales.
+L'autorité compétente pour statuer sur la demande se prononce par arrêté.
+
+Si la décision comporte rejet total ou partiel de la demande ou si elle est assortie de prescriptions elle doit être motivée.
+Il en est de même lorsqu'une dérogation ou une adaptation mineure est nécessaire.
+
+La décision doit être notifiée directement au demandeur par lettre recommandée avec demande d'avis de réception [*conditions
+de forme*]. Toutefois, elle peut être notifiée par pli non recommandé lorsqu'elle n'est pas assortie de prescriptions.
 
 Ampliation de l'arrêté est transmise en même temps au directeur départemental de l'équipement ainsi qu'au maire lorsque
 celui-ci n'est pas l'auteur de la décision.
@@ -32729,10 +32813,6 @@ celui-ci n'est pas l'auteur de la décision.
 	  - Code de l'urbanisme - art. R*443-7-6 (Ab)
 	  - Code de l'urbanisme - art. R442-7 (Ab)
 	  - Code de l'urbanisme - art. R445-8 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°70-446 1970-05-26 ART. 22
 
 	**Codifié par**:
 
@@ -32886,6 +32966,390 @@ de deux mois.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+##### Dispositions applicables aux constructions et travaux soumis au régime du permis de construire et à un autre régime d'autorisation
+
+###### Article R421-38-1
+
+Les dispositions de la présente section sont applicables aux constructions et travaux qui sont soumis à la fois au régime du
+permis de construire et à un régime d'autorisation de construction ou de travaux dont l'application est contrôlée par un
+ministre autre que celui qui est chargé de l'urbanisme sous réserve des règles particulières prévues au présent paragraphe.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R421-8 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+##### Protection des monuments historiques, des sites et de l'environnement
+
+###### Article R421-38-4
+
+Lorsque la construction est située dans le champ de visibilité d'un édifice classé ou inscrit, le permis de construire ne
+peut être délivré qu'avec l'accord de l'architecte des bâtiments de France. Cet accord est réputé donné faute de réponse dans
+le délai de quatre mois suivant la transmission de la demande de permis de construire par l'autorité chargée de son
+instruction. Toutefois, si le ministre chargé des monuments historiques a décidé, dans ce délai, d'évoquer le dossier, le
+permis de construire ne peut être délivré qu'avec son accord exprès.
+
+Pour l'application des dispositions de l'alinéa ci-dessus, la lettre du préfet mentionnée à l'article R. 421-12 ou celle du
+maire mentionnée à l'article R. 421-25, précise au demandeur qu'une évocation éventuelle du dossier par le ministre chargé
+des monuments historiques empêche toute délivrance tacite du permis de construire. Une lettre rectificative fait connaître au
+demandeur, le cas échéant, cette évocation.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*421-38-8 (Ab)
+	  - Code de l'urbanisme - art. R*422-8-1 (V)
+	  - Code de l'urbanisme - art. R*443-7-2 (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R421-12 (M)
+	  - Code de l'urbanisme - art. R421-25 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R421-38-6
+
+Lorsque la construction se trouve dans un site classé ou en instance de classement, ou dans une zone de protection créée par
+décret en application des articles 17 ou 28 de la loi du 2 mai 1930, le permis de construire ne peut être délivré qu'avec
+l'accord exprès du ministre chargé des monuments historiques et des sites ou de son délégué, ou de l'autorité mentionnée dans
+le décret instituant la zone de protection.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*442-11-1 (Ab)
+	  - Code de l'urbanisme - art. R*443-7-2 (Ab)
+	  - Code de l'urbanisme - art. R421-38-8 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Loi   1930-05-02 ART. 17, 28
+
+
+###### Article R421-38-8
+
+Dans les cas visés aux articles R. 421-38-2 à R. 421-38-7, le délai d'instruction de la demande de permis de construire est,
+à moins qu'il ne soit supérieur par application de l'article R. 421-18, fixé à cinq mois ou à sept mois lorsqu'il y a lieu de
+consulter une commission nationale ou lorsque le dossier est évoqué par le ministre chargé des monuments historiques en vertu
+de l'article R. 421-38-4.
+
+La décision est prise par le préfet [*autorité compétente*], sauf si la construction se trouve à l'intérieur d'un site
+inscrit, auquel cas elle est de la compétence du maire.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*421-36 (Ab)
+	  - Code de l'urbanisme - art. R421-32 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R421-18 (M)
+	  - Code de l'urbanisme - art. R421-38-2 (M)
+	  - Code de l'urbanisme - art. R421-38-3 (M)
+	  - Code de l'urbanisme - art. R421-38-4 (M)
+	  - Code de l'urbanisme - art. R421-38-5 (M)
+	  - Code de l'urbanisme - art. R421-38-6 (M)
+	  - Code de l'urbanisme - art. R421-38-7 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R421-38-9
+
+Lorsque la construction est située dans un secteur sauvegardé, la demande de permis de construire est instruite comme il est
+dit aux articles R. 313-13 ou R. 313-19-2. La décision est prise par le préfet [*autorité compétente*].
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*422-8 (Ab)
+	  - Code de l'urbanisme - art. R421-32 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R313-13 (M)
+	  - Code de l'urbanisme - art. R313-19-2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+##### Protection d'ouvrages militaires, maritimes et aériens.
+
+###### Article R421-38-11
+
+Lorsque la construction est, en raison de son emplacement à proximité d'un ouvrage militaire, soumise à autorisation du
+ministre chargé des armées, en vertu du décret du 10 août 1853, de la loi du 18 juillet 1895 ou de la loi du 11 juillet 1933,
+le permis de construire ne peut être délivré qu'avec l'accord exprès de ce ministre ou de son délégué. Le ministre ou son
+délégué doit prendre position dans le délai de deux mois suivant la transmission de la demande de permis de construire par
+l'autorité chargée de son instruction. La décision est prise par le préfet [*autorité compétente*].
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R421-32 (M)
+
+	**Cite**:
+
+	  - Décret  1853-08-10
+	  - Loi   1895-07-18
+	  - Loi   1933-07-11
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R421-38-12
+
+Lorsque la construction est, en raison de sa situation à l'intérieur d'un polygone d'isolement, soumise à l'autorisation du
+ministre chargé des armées en vertu de l'article 5 de la loi du 8 août 1929, le permis de construire ne peut être délivré
+qu'avec l'accord du ministre ou de son délégué. Cet accord [*tacite*] est réputé donné faute de réponse dans un délai de
+trois mois suivant la transmission de la demande de permis de construire par l'autorité chargée de son instruction. La
+décision est prise par le préfet [*autorité compétente*].
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R421-32 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Loi   1929-08-08 ART. 5
+
+
+###### Article R421-38-13
+
+Lorsque la construction pourrait, en raison de son emplacement et de sa hauteur, constituer un obstacle à la navigation
+aérienne et qu'elle est soumise pour ce motif à l'autorisation du ministre chargé de l'aviation civile ou du ministre chargé
+des armées, en vertu de l'article 244-1 du code de l'aviation civile, le permis de construire ne peut être délivré qu'avec
+l'accord exprès du ministre intéressé ou de son délégué. Le ministre ou son délégué doit prendre position dans le délai de
+deux mois suivant la transmission de la demande de permis de construire par l'autorité chargée de son instruction.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'aviation civile - art. R244-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+##### Dispositions relatives aux eaux intérieures et aux périmètres submersibles
+
+###### Article R421-38-14
+
+La demande de permis de construire tient lieu de la déclaration mentionnée à l'article 50 du code du domaine public fluvial
+et de la navigation intérieure pour les constructions situées dans les parties submersibles des vallées.
+
+Dans un délai de /M/trois mois/M/DECR. 788 du 12 août 1981 :
+
+un mois// à compter de la réception de la demande, le préfet peut, après consultation du service chargé des mesures de
+défense contre les inondations et du service chargé de la police des cours d'eau, s'opposer à la délivrance du permis de
+construire ou ne donner son accord qu'à condition que le permis soit assorti des prescriptions nécessaires pour assurer le
+libre écoulement des eaux ou la conservation des champs d'inondation. Après l'expiration de ce délai, le permis de construire
+est délivré dans les conditions du droit commun.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du domaine public fluvial 50
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°81-788 1981-08-12 ART. 8 JORF 19 AOUT 1981
+
+
+###### Article R421-38-15
+
+Lorsque la construction est, en raison de sa situation dans le Val de Loire, soumise à autorisation en vertu de l'article 59
+(alinéa 4) du code du domaine public fluvial et de la navigation intérieure, le permis de construire est délivré après
+consultation des ingénieurs de la navigation et avec l'accord du préfet. Cet accord [*tacite*] est réputé donné à défaut de
+réponse dans un délai de trois mois suivant la transmission de la demande de permis de construire par l'autorité chargée de
+son instruction.
+
+Lorsque la construction est, en raison de sa situation dans la zone d'inondation du Rhin, soumise à autorisation en vertu de
+l'article 39 de la loi locale du 2 juillet 1891, le permis de construire est délivré avec l'accord de l'ingénieur de la
+navigation. Cet accord est réputé donné à défaut de réponse dans un délai de trois mois suivant la transmission de la demande
+de permis de construire par l'autorité chargée de son instruction.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du domaine public fluvial 59 AL. 4
+	  - Loi   1891-07-02 ALSACE-LORRAINE
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R421-38-16
+
+Lorsque la construction est, en raison de sa situation à l'intérieur d'une zone de servitude de libre passage sur les berges
+des cours d'eau non domaniaux, soumise à autorisation en vertu de l'article 1er du décret n° 59-96 du 7 janvier 1959, le
+permis de construire est délivré après consultation du service chargé de la police des cours d'eau et avec l'accord du préfet
+[*conditions*]. Cet accord [*tacite, silence*] est réputé donné faute de réponse dans /M/un délai de trois mois/M/DECR. 788
+du 12 août 1981 : un délai d'un mois// suivant la transmission de la demande de permis de construire par l'autorité chargée
+de son instruction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Décret n°59-96 du 7 janvier 1959 - art. 1 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°81-788 1981-08-12 ART. 10 JORF 19 AOUT 1981
+
+
+##### Réserve en bordure du domaine public maritime
+
+###### Article R421-38-17
+
+Lorsque la construction est, en raison de sa situation dans une réserve créée en bordure du domaine public maritime, soumise
+à autorisation en vertu de l'article 4, alinéa 3, de la loi n. 63-1178 du 28 novembre 1963, le permis de construire est
+délivré après consultation de l'ingénieur en chef du service maritime et de la commission départementale des rivages de la
+mer. Toutefois, ces consultations ne sont pas nécessaires si l'autorisation résulte de dispositions générales prévues par un
+arrêté du préfet pris après un avis de cette commission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Loi n°63-1178 1963-11-28 ART. 4 AL. 3
+
+
+##### Changement d'affectation d'installations sportives
+
+###### Article R421-38-18
+
+Lorsque les travaux ont pour effet de changer l'affectation d'installations sportives et que ce changement est soumis à
+l'autorisation du ministre chargé des sports en application de l'article 2 de la loi du 26 mai 1941, le permis de construire
+ne peut être délivré qu'avec l'accord de ce ministre ou de son délégué. Cet accord [*tacite*] est réputé donné à défaut de
+réponse dans un délai de deux mois suivant la transmission de la demande de permis de construire par l'autorité chargée de
+son instruction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Loi   1941-05-26 ART. 2
+
+
+##### Zone de servitude à proximité d'un cimetière
+
+###### Article R421-38-19
+
+Lorsque la construction est, en raison de sa situation à moins de 100 mètres [*distance*] d'un cimetière transféré, soumise à
+autorisation en vertu de l'article L. 361-4 du code des communes, le permis de construire ne peut être délivré [*conditions*]
+qu'avec l'accord du maire.
+
+Cet accord [*tacite, silence*] est réputé donné à défaut de réponse /M/dans un délai de deux mois/M/DECR. 788 du 12 août
+1981 : dans un délai d'un mois// suivant le dépôt de la demande de permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°81-788 1981-08-12 ART. 12 JORF 19 AOUT 1981
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L361-4 (M)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*422-8 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+##### Dispositions applicables à toute construction
+
+##### Dispositions applicables aux constructions et travaux soumis au régime du permis de construire et à un autre régime d'autorisation
+
+##### Protection des monuments historiques, des sites et de l'environnement
+
+###### Article R421-38-2
+
+Lorsque le permis de construire concerne un immeuble inscrit sur l'inventaire supplémentaire des monuments historiques, l'un
+des exemplaires de la demande est adressé par pli recommandé avec demande d'accusé de réception postal [*condition de forme*]
+au ministre chargé des monuments historiques, ou remis contre décharge dans les locaux du ministère. Cet envoi fait courir le
+délai de quatre mois pendant lequel le propriétaire ne peut procéder à aucune modification de l'immeuble en application de
+l'article 2 (alinéa 5) de la loi du 31 décembre 1913.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*421-15 (M)
+	  - Code de l'urbanisme - art. R*421-38-8 (Ab)
+	  - Code de l'urbanisme - art. R421-16 (Ab)
+	  - Code de l'urbanisme - art. R421-18 (M)
+	  - Code de l'urbanisme - art. R421-29 (M)
+	  - Décret n°1924-03-18. du 18 mars 1924 - art. 12-1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Loi   1913-12-31 ART. 2 AL. 5
 
 
 ##### Dispositions diverses
@@ -33448,6 +33912,145 @@ et notamment de l'article R. 421-32 relatif à l'autorité compétente pour stat
 	**Anciens textes**:
 
 	  - Décret n°73-646 1973-07-10 ART. 24
+
+
+#### Exceptions au régime général
+
+###### Article R*422-2
+
+Sont exemptés du permis de construire sur l'ensemble du territoire :
+
+a) Les travaux de ravalement ;
+
+b) Les travaux à exécuter sur les édifices classés au titre de la législation sur les monuments historiques dans les
+conditions prévues par cette législation ;
+
+c) Les outillages nécessaires au fonctionnement de services publics et situés dans les ports ou les aérodromes ou sur le
+domaine public ferroviaire ;
+
+d) Les ouvrages techniques nécessaires au maintien de la sécurité de la circulation maritime, fluviale, routière ou
+aérienne ;
+
+e) En ce qui concerne le service public des télécommunications, les ouvrages techniques dont la surface hors oeuvre brute ne
+dépasse pas 100 mètres carrés, les poteaux et les pylônes dont la hauteur est inférieure à 12 mètres, les cabines
+téléphoniques ;
+
+f) En ce qui concerne les installations techniques nécessaires au fonctionnement du service public de distribution du gaz,
+les postes de sectionnement, de coupure, de détente et de livraison ;
+
+g) En ce qui concerne les installations techniques nécessaires au fonctionnement du service public de distribution d'énergie
+électrique, les ouvrages et accessoires des lignes dont la tension est inférieure à 63 kV et dont la longueur ne dépasse pas
+un kilomètre, les postes de transformation dont la surface au sol est inférieure à 6 mètres carrés et la hauteur inférieure à
+3 mètres, les poteaux et les pylônes dont la hauteur est inférieure à 12 mètres ;
+
+h) Les classes démontables mises à la disposition des établissements d'enseignement pour pallier les insuffisances
+temporaires d'accueil, dans la limite d'une surface hors oeuvre brute totale de 150 mètres carrés.
+
+DECR. 694 4 septembre 1980 :
+
+"i) Les travaux consistant à installer, dans les opérations prévues à l'article R. 444-3 b, une habitation légère de loisirs
+telle qu'elle est définie à l'article R. 444-2 au lieu et place d'une habitation légère de loisirs de même superficie de
+plancher hors oeuvre."
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°77-752 1977-07-07 ART. 25 JORF 10 JUILLET 1977 date d'entrée en vigueur 1 JUILLET 1977
+
+	**Modifié par**:
+
+	  - Décret n°80-694 1980-09-04 ART. 2 JORF 7 SEPTEMBRE 1980
+
+	**Cité par**:
+
+	  - Décret n°2014-450 du 2 mai 2014 - art. 46 (VT)
+	  - Code de l'urbanisme - art. R* 427-1 (VD)
+	  - Code de l'urbanisme - art. R*422-1 (V)
+	  - Code de l'urbanisme - art. R*423-74 (V)
+	  - Code de l'urbanisme - art. R472-21 (V)
+	  - Code de l'urbanisme - art. R473-6 (V)
+	  - Code de l'éducation - art. R211-6 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme R444-3 B
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*422-3
+
+Sauf dans le cas prévu au premier alinéa de l'article R. 422-1, le propriétaire de l'immeuble, son mandataire ou la personne
+ayant qualité pour effectuer les travaux doit déposer à la mairie en deux exemplaires, un mois au moins avant le commencement
+des travaux, une déclaration indiquant leur objet et la nature des matériaux qui seront utilisés.
+
+Le maire peut, dans le délai d'un mois à compter de la réception de la déclaration, faire connaître à l'intéressé par un avis
+motivé qu'il n'est pas favorable à l'exécution des travaux projetés. Par le même courrier, le maire doit adresser copie de
+son avis au préfet qui, après avoir procédé à la consultation de la conférence permanente du permis de construire, décide,
+dans un délai de deux mois à compter de la réception de l'avis du maire, d'autoriser ou d'interdire les travaux projetés.
+
+Le déclarant doit, en cas d'avis défavorable du maire, surseoir à l'exécution des travaux jusqu'à ce que le préfet ait pris
+position sur le projet. En l'absence de notification de la décision [*tacite*] du préfet, à l'expiration du délai de deux
+mois mentionné à l'alinéa ci-dessus, les travaux peuvent être librement exécutés.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R520-6 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme R422-1
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*422-5
+
+Un arrêté du ministre chargé de l'urbanisme fixe le modèle de la déclaration prévue à l'article R. 422-3.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*427-2 (V)
+	  - Code de l'urbanisme - art. R*740-3 (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme R422-3
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R422-4
+
+Sera punie d'une amende de 1000 F à 2000 F toute personne qui n'aura pas respecté les prescriptions de l'article R. 422-3. En
+cas de récidive, outre la peine d'amende, un emprisonnement de dix jours à un mois pourra être prononcé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cité par**:
+
+	  - Décret n°87-744 du 9 septembre 1987 - art. 3 (V)
+	  - Code de l'urbanisme - art. R*410-11 (VD)
+	  - Code de l'urbanisme - art. R*422-5 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme R422-3
 
 
 ### Déclaration préalable de travaux
@@ -34759,6 +35362,37 @@ autorisations délivrées auront été subordonnées.
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R440-24 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+## Règles relatives à l'acte de construire et à divers modes d'utilisation des sols
+
+### Permis de construire
+
+#### Régime général
+
+##### Règles applicables à toute construction
+
+##### Dispositions applicables aux constructions et travaux soumis au régime du permis de construire et à un autre régime d'autorisation
+
+##### Protection des monuments historiques, des sites et de l'environnement
+
+###### Article R421-38-10
+
+Lorsque la construction est, en raison de sa situation, à l'intérieur ou à proximité d'un bois ou d'une forêt, soumise à
+autorisation en vertu des articles 98 à 101 du code forestier, le permis de construire est délivré après consultation du
+directeur départemental de l'agriculture et avec l'accord du préfet. Cet accord [*tacite*] est réputé donné faute de réponse
+dans un délai de trois mois suivant la transmission de la demande de permis de construire par l'autorité chargée de son
+instruction.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code forestier 98
 
 	**Codifié par**:
 
