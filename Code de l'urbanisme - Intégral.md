@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1984-07-17
+Version Consolidée au 1984-07-21
 
 # Partie législative
 
@@ -32217,6 +32217,44 @@ articles 1915 à 1918 du code précité. Il est garanti suivant les modalités d
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R*332-7
+
+I - En cas de modification apportée sur la demande de l'intéressé au permis de construire qui lui a été délivré, le
+complément de participation éventuellement exigible est liquidé, notifié et recouvré dans les conditions prévues aux articles
+R. 332-1 à R. 332-6.
+
+II - Lorsque la modification du permis de construire entraîne une diminution ou la suppression de la participation ou lorsque
+le demandeur du permis de construire renonce à la construction projetée et demande le retrait à titre gracieux de son permis,
+il peut obtenir le dégrèvement de la somme correspondante, avant que la participation ait été recouvrée, ou la restitution
+dans le cas contraire.
+
+III - Les demandes de dégrèvement sont recevables jusqu'au 31 décembre de la deuxième année qui suit celle de la notification
+d'un avis de mise en recouvrement et les demandes de restitution jusqu'au 31 décembre de la deuxième année qui suit celle du
+versement.
+
+IV - Les demandes de dégrèvement ou de restitution sont adressées au chef du service de l'Etat dans le département, chargé de
+l'urbanisme, ou en cas d'application de l'article R. 424-1, au maire, qui fait connaître, le cas échéant, au directeur des
+services fiscaux, le montant du dégrèvement ou de la restitution à effectuer.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°69-367 1969-04-18 ART. 6
+
+	**Cite**:
+
+	  - Code de l'urbanisme R332-2
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°84-669 1984-07-17 ART. 5 4° JORF 21 JUILLET 1984
+
+
 ###### Article R*332-14
 
 Les dispositions des articles 5-2, 26-1, 26-2, 26-3 du décret n. 58-1463 du 31 décembre 1958 relatif aux plans d'urbanisme,
@@ -32240,6 +32278,66 @@ public ou dès que des coefficients provisoires d'occupation du sol, mentionnés
 
 
 #####  Section 1 : Participation en cas de dépassement du coefficient d'occupation du sol
+
+###### Article R*332-3
+
+La valeur du mètre carré du terrain est déclarée à l'occasion de la demande de permis de construire dans les conditions
+définies à l'article R. 333-4. Elle est contrôlée par le directeur des services fiscaux selon les modalités indiquées par cet
+article.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°84-669 1984-07-17 art. 5 1° JORF 21 juillet 1984
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R333-4 (T)
+
+
+###### Article R*332-4
+
+Le montant de la participation est calculé par le chef du service de l'Etat dans le département, chargé de l'urbanisme ou, en
+cas d'application de l'article R. 424-1, par le maire.
+
+En cas de désaccord sur la valeur du terrain, la participation est provisoirement liquidée sur la base de l'estimation
+administrative.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°84-669 1984-07-17 art. 5 2° JORF 21 juillet 1984
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme R424-1
+
 
 ###### Article R*332-8
 
@@ -32267,6 +32365,86 @@ NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
+###### Article R*332-9
+
+Nonobstant les dispositions de l'article R. 332-3, si un dépassement de la surface de plancher prévue par le permis de
+construire est constaté dans les conditions prévues à l'article L. 480-1, la participation est due sur la base de la surface
+de plancher effectivement construite. Il en est de même lorsqu'il est constaté, dans les mêmes conditions, qu'une
+construction a été édifiée sans l'accomplissement, selon le cas, de l'une ou de l'autre des formalités requises.
+
+Sans préjudice des sanctions prévues par les dispositions en vigueur en cas d'infraction à la réglementation en matière de
+permis de construire, la surface de plancher non autorisée est pour le calcul de la participation majorée de 50 p. 100.
+
+En cas de démolition de l'immeuble ou de la partie d'immeuble construit irrégulièrement, le redevable peut demander le
+dégrèvement, la réduction ou la restitution de la participation correspondant à la partie démolie. Cette demande doit être
+formulée au plus tard le 31 décembre [*date limite*] de la deuxième année qui suit la démolition dûment constatée.
+
+Si des surfaces de plancher déduites en application de l'article R. 112-2 sont affectées à un usage qui ne justifie plus la
+déduction, les dispositions des deux premiers alinéas du présent article sont applicables, après mise en demeure demeurée
+sans effet, de rétablir l'affectation régulière.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°69-367 1969-04-18 ART. 8
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°84-669 1984-07-17 art. 5 5° JORF 21 juillet 1984
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L480-1 (M)
+	  - Code de l'urbanisme R332-3, L480-1, R112-2
+
+
+###### Article R*332-10
+
+Les litiges relatifs au calcul de la participation sont, à l'exception de ceux relatifs à la détermination de la valeur v
+visée à l'article R. 332-1, de la compétence des tribunaux administratifs. Les demandes sont adressées au chef du du service
+de l'Etat dans le département, chargé de l'urbanisme, ou, en cas d'application de l'article R. 424-1, au maire, qui en
+informe immédiatement le directeur des services fiscaux et procède à leur instruction.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°69-367 1969-04-18 ART. 9
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°84-669 1984-07-17 art. 5 6° JORF 21 juillet 1984
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme R332-1, R424-1
+
+
 ###### Article R*332-11
 
 La participation est perçue au profit de la commune ou, s'il en existe un, de l'établissement public groupant plusieurs
@@ -32289,6 +32467,80 @@ NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L333-15 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*332-12
+
+Le produit de la participation est versé à la commune ou à l'établissement public bénéficiaire dans les trois mois suivant
+son encaissement.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°84-669 1984-07-17 art. 9 1° JORF 21 juillet 1984
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+
+###### Article R*332-13
+
+Le constructeur qui demande à bénéficier des dispositions [*non versement*] de l'article L. 332-1 (alinéa 2, b et c) doit
+apporter à l'appui de sa demande, l'accord écrit d'un ou plusieurs propriétaires de parcelles situées dans la zone soumise
+aux mêmes prescriptions d'urbanisme ou d'architecture prévues à l'article L. 123-1 (7e) à l'institution d'une servitude qui
+réduit les possibilités de construire, sur sa ou leurs parcelles, d'une quantité équivalente au dépassement en cause.
+
+La constitution de cette servitude fait l'objet d'une délibération du conseil municipal notifiée à tous les propriétaires
+intéressés par la modification des possibilités de construction. Cette délibération, qui vaut autorisation de dépassement,
+fixe, sous la condition suspensive de la passation de l'acte notarié mentionné à l'alinéa suivant, les nouveaux coefficients
+d'occupation du sol applicables aux parcelles en cause.
+
+L'accord des propriétaires est alors constaté par un acte notarié qui précise pour chacune des parcelles le coefficient
+d'occupation du sol désormais applicable. L'acte est publié au bureau des hypothèques en même temps qu'une ampliation ou
+copie certifiée conforme de la délibération du conseil municipal et dans le délai prévu à l'article 33 C du décret n° 55-22
+du 4 janvier 1955. Lorsque sur un terrain considéré, un dépassement du coefficient d'occupation du sol est autorisé par le
+plan d'occupation du sol, jusqu'à une densité qui est supérieure au plafond légal, le transfert de coefficient d'occupation
+du sol ne peut être autorisé qu'à concurrence des possibilités de construire comprises entre le coefficient d'occupation du
+sol et la densité à partir de laquelle le versement prévu à l'article L. 112-2 est dû.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°55-22 du 4 janvier 1955 - art. 33 (M)
+	  - Code de l'urbanisme - art. L112-2 (M)
+	  - Code de l'urbanisme - art. L123-1 (M)
+	  - Code de l'urbanisme - art. L332-1 (M)
+
+	**Anciens textes**:
+
+	  - Décret n°69-367 1969-04-18 ART. 12
+
+	**Modifié par**:
+
+	  - Décret n°84-669 1984-07-17 art. 9 2°, 3° JORF 21 juillet 1984
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 	**Codifié par**:
 
@@ -32541,6 +32793,202 @@ Le montant maximum de la participation pour non-réalisation d'aires de stationn
 
 #####  Section 1 : Dispositions générales
 
+###### Article R*333-3
+
+Lorsque le permis de construire est sollicité pour une construction dont la densité excède le plafond légal, le dossier de la
+demande de permis de construire doit comporter, outre les pièces énumérées aux articles R. 431-5 à R. 431-8 : 
+
+a) Des extraits de la matrice cadastrale et du plan cadastral afférents à la parcelle ou à l'ensemble de parcelles qui
+constituent le terrain mentionné dans la demande de permis de construire ; 
+
+b) L'indication de la surface de plancher des bâtiments existants calculée comme il est dit à l'article R. 112-2. 
+
+En outre, le pétitionnaire indique s'il entend constituer la caution solidaire visée à l'article L. 333-11. 
+
+Lorsque l'auteur d'une demande de permis de construire estime que la construction envisagée répond aux conditions
+d'exonération du versement pour dépassement du plafond légal de densité prévues à l'article L. 112-2, il accompagne sa
+demande des justifications nécessaires. 
+
+Au cas où l'autorité qui assoit et liquide le versement n'est pas l'autorité compétente pour statuer sur la demande de permis
+de construire et où elle estime qu'il n'y a pas lieu à exonération, elle informe le service chargé de l'instruction de la
+demande de permis de construire que l'avis du directeur des services fiscaux doit être sollicité sur la valeur du mètre carré
+de terrain déclarée par le demandeur.
+
+**Nota:**
+
+Décret 2007-18 du 5 janvier 2007 art. 14 : Les dispositions du chapitre III du titre III du livre III du code de l'urbanisme
+relatives au plafond légal de densité, dans leur rédaction antérieure à l'entrée en vigueur du présent décret, demeurent
+applicables dans les communes où un plafond légal de densité était institué le 31 décembre 1999 et dont le conseil municipal
+ou l'organe délibérant de l'établissement public de coopération intercommunale compétent n'a pas décidé de supprimer le
+plafond légal de densité ou d'instaurer la participation pour voirie et réseaux définie par l'article L. 332-11-1 du code de
+l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L112-2 (V)
+	  - Code de l'urbanisme - art. L333-11 (Ab)
+	  - Code de l'urbanisme - art. R*112-2 (V)
+	  - Code de l'urbanisme - art. R*431-5 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*333-21 (V)
+	  - Code de l'urbanisme - art. R*333-7 (M)
+	  - Code de l'urbanisme - art. R*430-10 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R335-3 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Date de fin de vigueur indéterminée
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°84-669 1984-07-17 art. 1 3° JORF 21 juillet 1984
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 14 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
+
+
+###### Article R*333-5
+
+Le montant du versement est calculé par le responsable du service de l'Etat dans le département, chargé de l'urbanisme ou, en
+cas d'application de l'article R. 332-26, par le maire. 
+
+En cas de désaccord sur la valeur du terrain, le versement est provisoirement liquidé sur la base de l'estimation
+administrative.
+
+**Nota:**
+
+Décret 2007-18 du 5 janvier 2007 art. 14 : Les dispositions du chapitre III du titre III du livre III du code de l'urbanisme
+relatives au plafond légal de densité, dans leur rédaction antérieure à l'entrée en vigueur du présent décret, demeurent
+applicables dans les communes où un plafond légal de densité était institué le 31 décembre 1999 et dont le conseil municipal
+ou l'organe délibérant de l'établissement public de coopération intercommunale compétent n'a pas décidé de supprimer le
+plafond légal de densité ou d'instaurer la participation pour voirie et réseaux définie par l'article L. 332-11-1 du code de
+l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°84-669 1984-07-17 art. 7 2° JORF 21 juillet 1984
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 14 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
+	  - Décret n°2016-6 du 5 janvier 2016 - art. 2
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*333-21 (M)
+	  - Code de l'urbanisme - art. R*333-7 (M)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 384 B (P)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R332-26
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R335-5 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Date de fin de vigueur indéterminée
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*333-6
+
+Le responsable du service de l'Etat dans le département, chargé de l'urbanisme, arrête le montant global du versement et le
+communique avec les indications nécessaires à la détermination de la part revenant à chaque attributaire au directeur des
+services fiscaux et au maire. Il le communique également au pétitionnaire.
+
+En cas d'application de l'article R. 424-1, le maire est substitué au responsable du service de l'Etat dans le département,
+chargé de l'urbanisme, et informe celui-ci du montant du versement dans les mêmes conditions. Il en avise également le
+pétitionnaire.
+
+Le service des impôts notifie le montant du versement au redevable. Le paiement doit être effectué dans les conditions
+définies aux deuxième et troisième alinéas de l'article L. 333-2.
+
+Lorsque la décision de la juridiction de l'expropriation n'est plus susceptible d'appel ni de pourvoi en cassation, le
+service des impôts procède, s'il y a lieu, à la mise en recouvrement d'une somme complémentaire ou à la restitution du
+montant excédentaire. Le paiement du complément doit intervenir dans les conditions indiquées au quatrième alinéa de
+l'article L. 333-2.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 384 bis (P)
+	  - Code de l'urbanisme - art. R*332-5 (Ab)
+	  - Code de l'urbanisme - art. R*333-21 (M)
+	  - Code de l'urbanisme - art. R*333-7 (V)
+	  - Code de l'urbanisme - art. R*613-5 (Ab)
+	  - Code de l'urbanisme - art. R332-31 (Ab)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 384 C (P)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L333-2 (M)
+	  - Code de l'urbanisme R424-1
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°84-669 1984-07-17 ART. 7 3° JORF 21 JUILLET 1984
+
+
+###### Article R*333-7
+
+En cas de modification apportée sur la demande de l'intéressé au permis de construire qui lui a été délivré, le versement
+complémentaire éventuellement exigible est liquidé, notifié et recouvré dans les conditions prévues aux articles R. 333-1 à
+R. 333-6.
+
+Lorsque l'autorité compétente autorise le transfert d'un permis de construire qui a rendu exigible le versement, elle doit en
+informer sans délai le directeur des services fiscaux.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°84-669 1984-07-17 ART. 7 4° JORF 21 JUILLET 1984
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R333-1 (M)
+	  - Code de l'urbanisme - art. R333-2 (T)
+	  - Code de l'urbanisme - art. R333-3 (M)
+	  - Code de l'urbanisme - art. R333-4 (T)
+	  - Code de l'urbanisme - art. R333-5 (M)
+	  - Code de l'urbanisme - art. R333-6 (Ab)
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 384 D (P)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ###### Article R*333-8
 
 Lorsque la modification du permis de construire entraîne une diminution ou la suppression du versement, la somme
@@ -32584,6 +33032,42 @@ l'urbanisme.
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R*333-9
+
+L'intervention d'une décision de l'autorité compétente pour statuer sur le permis de construire constatant la péremption de
+celui-ci entraîne de plein droit la restitution du versement.
+
+Dans les cas visés à l'article R. 333-8 et au premier alinéa du présent article, les demandes de dégrèvement sont recevables
+jusqu'au 31 décembre de la deuxième année qui suit celle de la notification d'un avis de mise en recouvrement et celles de
+restitution jusqu'au 31 décembre de la deuxième année qui suit celle du versement.
+
+Les demandes de dégrèvement ou de restitution sont adressées au responsable du service de l'Etat dans le département, chargé
+de l'urbanisme, ou, en cas d'application de l'article R. 424-1, au maire qui fait connaître, le cas échéant, au directeur des
+services fiscaux le montant du dégrèvement ou de la restitution à effectuer. Ce montant est calculé déduction faite du
+prélèvement visé à l'article L. 333-12 (alinéa 2).
+
+La décision de dégrèvement ou de restitution est prise par le responsable du service de l'Etat dans le département, chargé de
+l'urbanisme ou, en cas d'application de l'article R. 424-1, par le maire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°84-669 1984-07-17 ART. 7 5° JORF 21 JUILLET 1984
+
+	**Cite**:
+
+	  - Code de l'urbanisme R424-1
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 384 F (P)
+
+
 ###### Article R*333-10
 
 Le taux de prélèvement pour frais d'assiette et de perception prévu par l'article L. 333-12 (alinéa 2) est égal à 2 p. 100
@@ -32601,6 +33085,89 @@ Le prélèvement ainsi liquidé est réparti en quotes-parts égales sur chaque 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*333-11
+
+Si des superficies déduites en application de l'article R. 112-2 (alinéas 2 et 3) sont aménagées en vue d'un usage autre que
+celui visé à cet article, l'intéressé est mis en demeure par l'autorité compétente pour statuer sur le permis de construire,
+soit de rétablir l'affectation régulière, soit, à défaut, d'acquitter le versement correspondant.
+
+**Nota:**
+
+Décret 2007-18 du 5 janvier 2007 art. 14 : Les dispositions du chapitre III du titre III du livre III du code de l'urbanisme
+relatives au plafond légal de densité, dans leur rédaction antérieure à l'entrée en vigueur du présent décret, demeurent
+applicables dans les communes où un plafond légal de densité était institué le 31 décembre 1999 et dont le conseil municipal
+ou l'organe délibérant de l'établissement public de coopération intercommunale compétent n'a pas décidé de supprimer le
+plafond légal de densité ou d'instaurer la participation pour voirie et réseaux définie par l'article L. 332-11-1 du code de
+l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Date de fin de vigueur indéterminée
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°84-669 1984-07-17 art. 7 6° JORF 21 juillet 1984
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
+	  - Décret n°2016-6 du 5 janvier 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*112-2
+
+
+###### Article R*333-13
+
+Les communes ou les établissements publics groupant plusieurs communes et ayant compétence en matière d'urbanisme reçoivent
+en totalité les sommes versées, au titre d'opération de rénovation urbaine ou de résorption de l'habitat insalubre entreprise
+à l'initiative des personnes publiques, à la condition que : 
+
+a) Au moins 30  % de la surface de plancher développée hors oeuvre des constructions édifiées dans la zone soit constituée de
+logements dont l'attribution est subordonnée à des conditions de ressources ; 
+
+b) Au moins 5  % de la surface des terrains compris dans la zone soit occupée par des équipements collectifs bâtis tels que
+des crèches, des équipements scolaires, médicaux et para-médicaux, socio-éducatifs, sportifs et culturels ; 
+
+c) Et que ces opérations comprennent des espaces publics non bâtis tels que : espaces verts, plan d'eau, terrains de sports,
+aires de jeux ou de promenade piétonnière dont la superficie est au moins égale au dixième de la surface totale de la zone.
+
+**Nota:**
+
+Décret 2007-18 du 5 janvier 2007 art. 14 : Les dispositions du chapitre III du titre III du livre III du code de l'urbanisme
+relatives au plafond légal de densité, dans leur rédaction antérieure à l'entrée en vigueur du présent décret, demeurent
+applicables dans les communes où un plafond légal de densité était institué le 31 décembre 1999 et dont le conseil municipal
+ou l'organe délibérant de l'établissement public de coopération intercommunale compétent n'a pas décidé de supprimer le
+plafond légal de densité ou d'instaurer la participation pour voirie et réseaux définie par l'article L. 332-11-1 du code de
+l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Date de fin de vigueur indéterminée
+	  - TXT_ASSOCIE: Code de l'urbanisme R333-28
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°84-669 1984-07-17 art. 1 5° JORF 21 juillet 1984
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
 
 
 #####  Section 2 : Application du plafond légal de densité dans les zones d'aménagement concerté, les zones de rénovation urbaine et les zones de résorption de l'habitat insalubre
@@ -32720,7 +33287,219 @@ l'urbanisme.
 	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
 
 
+###### Article R*333-20
+
+La collectivité territoriale ou l'établissement public qui aménage la zone notifie, à chaque bénéficiaire de cession,
+location ou concession d'usage de parcelle ou à chaque propriétaire de terrain ayant accepté par convention de participer à
+la réalisation de la zone, la surface de terrain dont il devra payer le prix en application de l'article L. 112-2 ainsi que
+la valeur estimée du mètre carré de terrain nu et libre dans la zone. 
+
+Ces indications font l'objet d'une disposition particulière de l'acte de cession, de location ou de concession d'usage ou de
+son cahier des charges. 
+
+Les cessions, locations ou concessions d'usage de terrains sont consenties sous la condition suspensive du dépôt de la
+demande de permis de construire dans un délai déterminé par l'acte de cession, location ou concession d'usage, ou par son
+cahier des charges, et qui ne peut excéder un an. Copie de l'acte ou de son cahier des charges est adressée à l'autorité
+compétente pour statuer sur le permis de construire.
+
+**Nota:**
+
+Décret 2007-18 du 5 janvier 2007 art. 14 : Les dispositions du chapitre III du titre III du livre III du code de l'urbanisme
+relatives au plafond légal de densité, dans leur rédaction antérieure à l'entrée en vigueur du présent décret, demeurent
+applicables dans les communes où un plafond légal de densité était institué le 31 décembre 1999 et dont le conseil municipal
+ou l'organe délibérant de l'établissement public de coopération intercommunale compétent n'a pas décidé de supprimer le
+plafond légal de densité ou d'instaurer la participation pour voirie et réseaux définie par l'article L. 332-11-1 du code de
+l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°84-669 1984-07-17 art. 3 2°, art. 7 7° JORF 21 juillet 1984
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
+	  - Décret n°2016-6 du 5 janvier 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L112-2
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*333-21 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Date de fin de vigueur indéterminée
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*333-21
+
+La surface de terrain indiquée dans l'acte notifié*au bénéficiaire de cession, location ou concession d'usage de parcelle* en
+application de l'article R. 333-20 ainsi que la valeur du mètre carré de terrain sont déclarées lors du dépôt de la demande
+de permis de construire dans les conditions définies à l'article R. 333-4. La valeur du mètre carré de terrain nu et libre
+est contrôlé par le directeur des services fiscaux selon les modalités indiquées par les articles R. 333-4 à R. 333-6. 
+
+Toutefois, lorsque l'opération concerne un bâtiment répondant aux conditions d'exonération du versement pour dépassement du
+plafond légal de densité prévues dans l'article L. 112-2, l'auteur de la demande de permis de construire accompagne sa
+demande des justifications nécessaires, en vue de l'application éventuelle des dispositions du dernier alinéa de l'article R.
+333-3.
+
+**Nota:**
+
+Décret 2007-18 du 5 janvier 2007 art. 14 : Les dispositions du chapitre III du titre III du livre III du code de l'urbanisme
+relatives au plafond légal de densité, dans leur rédaction antérieure à l'entrée en vigueur du présent décret, demeurent
+applicables dans les communes où un plafond légal de densité était institué le 31 décembre 1999 et dont le conseil municipal
+ou l'organe délibérant de l'établissement public de coopération intercommunale compétent n'a pas décidé de supprimer le
+plafond légal de densité ou d'instaurer la participation pour voirie et réseaux définie par l'article L. 332-11-1 du code de
+l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L112-2 (V)
+	  - Code de l'urbanisme - art. R*333-20 (V)
+	  - Code de l'urbanisme - art. R*333-3 (V)
+	  - Code de l'urbanisme - art. R*333-4 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Date de fin de vigueur indéterminée
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°84-669 1984-07-17 art. 3 3°, art. 7 8° JORF 21 juillet 1984
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
+
+
+###### Article R*333-22
+
+Si un permis de construire est délivré avant que le plan d'aménagement de la zone ait été approuvé ou que le plan
+d'occupation des sols ait été rendu public, le versement prévu à l'article L. 112-2 est dû par le pétitionnaire dans les
+conditions définies pa la section I du présent chapitre à l'exception du deuxième alinéa de l'article R. 333-1.
+
+Il en est de même lorsqu'un permis de construire est délivré pour une construction située sur un terrain n'ayant pas fait
+l'objet d'une cession, location ou concession d'usage consentie par la personne publique qui aménage la zone, ou d'une
+convention par laquelle le propriétaire du terrain s'engage à participer à la réalisation de l'opération.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°84-669 1984-07-17 art. 3 4° JORF 21 juillet 1984
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L112-2 (M)
+	  - Code de l'urbanisme - art. R333-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*333-23
+
+En cas de modification du périmètre de la zone, du plan d'aménagement de la zone, du plan d'occupation des sols ou du
+document d'urbanisme en tenant lieu, ou du niveau du plafond légal de densité en application des dispositions de l'article L.
+112-1 (3ème alinéa), les versements dus par les constructeurs qui déposent des demandes de permis de construire
+postérieurement à l'intervention de la modification sont calculés suivant les règles définies par les articles R. 333-14, R.
+333-17, et R. 333-19 en fonction des nouvelles conditions de réalisation de l'opération.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L112-1 (M)
+	  - Code de l'urbanisme L112-1, R333-14, R333-17
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°84-669 1984-07-17 art. 3 5° JORF 21 juillet 1984
+
+
 ##### Sous-section 3 : Zones dont l'aménagement n'est pas réalisé en régie directe
+
+###### Article R*333-25
+
+La convention ou le traité de concession arrête les modalités du paiement, notamment en fonction de la date d'intervention
+des actes authentiques de cession, location ou concession d'usage de terrains. 
+
+Si les sols artificiels pris en compte pour la définition de Sd'figurant à l'article R. 333-14 n'ont pas été réalisés lorsque
+la densité globale effective de l'opération dépasse le plafond légal de densité, il est procédé à un nouveau calcul du
+dépassement pour la zone.
+
+**Nota:**
+
+Décret 2007-18 du 5 janvier 2007 art. 14 : Les dispositions du chapitre III du titre III du livre III du code de l'urbanisme
+relatives au plafond légal de densité, dans leur rédaction antérieure à l'entrée en vigueur du présent décret, demeurent
+applicables dans les communes où un plafond légal de densité était institué le 31 décembre 1999 et dont le conseil municipal
+ou l'organe délibérant de l'établissement public de coopération intercommunale compétent n'a pas décidé de supprimer le
+plafond légal de densité ou d'instaurer la participation pour voirie et réseaux définie par l'article L. 332-11-1 du code de
+l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*333-14
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*333-32 (Ab)
+	  - Code de l'urbanisme - art. R*333-33 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Date de fin de vigueur indéterminée
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°84-669 1984-07-17 art. 4 2° JORF 21 juillet 1984
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
+	  - Décret n°2016-6 du 5 janvier 2016 - art. 2
+
+
+###### Article R*333-26
+
+Le directeur des services fiscaux reçoit notification de la convention d'aménagement ou du traité de concession à
+l'initiative du représentant de l'Etat dans le département ou de son délégué dans l'arrondissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°84-669 1984-07-17 ART. 4 3°, ART. 7 9° JORF 21 JUILLET 1984
+
 
 ###### Article R*333-27
 
@@ -32756,6 +33535,52 @@ l'urbanisme.
 
 	  - Code de l'urbanisme - art. L112-2
 	  - Code de l'urbanisme - art. R*333-1 (Ab)
+
+
+###### Article R*333-28
+
+Les sommes mises à la charge de l'organisme aménageur sont attribuées dans les conditions prévues à l'article L. 333-3. 
+
+Toutefois, les sommes afférentes aux constructions à caractère social mentionnées aux a et b de l'article L. 333-5 sont
+attribuées en totalité à la commune ou à l'établissement public groupant plusieurs communes et ayant compétence en matière
+d'urbanisme. Il en est de même des sommes dues au titre des zones de rénovation urbaine, qu'elles soient réalisées ou non
+sous la forme de zones d'aménagement concerté, et des zones de résorption de l'habitat, insalubre, lorsque ces zones
+remplissent les conditions posées à l'article R. 333-13 en matière de logements sociaux et d'équipements collectifs à
+caractère social.
+
+**Nota:**
+
+Décret 2007-18 du 5 janvier 2007 art. 14 : Les dispositions du chapitre III du titre III du livre III du code de l'urbanisme
+relatives au plafond légal de densité, dans leur rédaction antérieure à l'entrée en vigueur du présent décret, demeurent
+applicables dans les communes où un plafond légal de densité était institué le 31 décembre 1999 et dont le conseil municipal
+ou l'organe délibérant de l'établissement public de coopération intercommunale compétent n'a pas décidé de supprimer le
+plafond légal de densité ou d'instaurer la participation pour voirie et réseaux définie par l'article L. 332-11-1 du code de
+l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Date de fin de vigueur indéterminée
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°84-669 1984-07-17 art. 4 4° JORF 21 juillet 1984
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
+	  - Décret n°2016-6 du 5 janvier 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L333-3
+	  - Code de l'urbanisme - art. L333-5
+	  - Code de l'urbanisme - art. R*333-13 (Ab)
 
 
 ###### Article R*333-30
@@ -32816,6 +33641,46 @@ l'urbanisme.
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L333-8
+
+	**Liens**:
+
+	  - SPEC_APPLI: Date de fin de vigueur indéterminée
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*333-33
+
+En cas de péremption d'un permis de construire à raison duquel l'aménageur avait justifié une réduction du versement
+conformément à l'article R. 333-24 ou lorsque, du fait d'un transfert de ce permis, une telle réduction n'est plus justifiée,
+le nouveau montant du versement est fixé dans les conditions définies aux articles R. 333-24 et R. 333-25.
+
+**Nota:**
+
+Décret 2007-18 du 5 janvier 2007 art. 14 : Les dispositions du chapitre III du titre III du livre III du code de l'urbanisme
+relatives au plafond légal de densité, dans leur rédaction antérieure à l'entrée en vigueur du présent décret, demeurent
+applicables dans les communes où un plafond légal de densité était institué le 31 décembre 1999 et dont le conseil municipal
+ou l'organe délibérant de l'établissement public de coopération intercommunale compétent n'a pas décidé de supprimer le
+plafond légal de densité ou d'instaurer la participation pour voirie et réseaux définie par l'article L. 332-11-1 du code de
+l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-669 1984-07-17 art. 4 7° JORF 21 juillet 1984
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
+	  - Décret n°2016-6 du 5 janvier 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*333-24
+	  - Code de l'urbanisme - art. R*333-25
 
 	**Liens**:
 
@@ -36159,209 +37024,24 @@ devront être incorporées au domaine public de l'Etat ou d'une collectivité lo
 
 ##### Participation en cas de dépassement du coefficient d'occupation du sol.
 
-###### Article R*332-3
-
-La valeur du mètre carré du terrain est déclarée à l'occasion de la demande de permis de construire ou de la déclaration
-préalable à la construction dans les conditions définies à l'article R. 333-4. Elle est contrôlée par l'administration selon
-les modalités indiquées par cet article.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R333-4 (T)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*332-4
-
-Le montant de la participation est calculé par le service départemental de l'équipement ou, en cas d'application de l'article
-R. 421-22, par le maire.
-
-En cas de désaccord sur la valeur du terrain, la participation est provisoirement liquidée sur la base de l'estimation
-administrative.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R421-22 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ###### Article R*332-5
 
-Le directeur départemental de l'équipement ou, en cas d'application de l'article R. 421-22, le maire arrête le montant de la
-participation et le communique au directeur départemental des services fiscaux compétent. Il le notifie au pétitionnaire.
+Le chef du service de l'Etat dans le département, chargé de l'urbanisme ou, en cas d'application de l'article R. 424-1, le
+maire arrête le montant de la participation et le communique au directeur des services fiscaux. Il le notifie au
+pétitionnaire.
 
 Le service des impôts notifie le montant de la participation au redevable. Le paiement doit être effectué dans les conditions
 définies à l'article R. 333-4 (alinéas 3 et 4).
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°84-669 1984-07-17 ART. 5 3° JORF 21 JUILLET 1984
+
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R421-22 (M)
 	  - Code de l'urbanisme R333-4 AL. 3 ET 4
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*332-7
-
-I - En cas de modification apportée sur la demande de l'intéressé au permis de construire qui lui a été délivré ou en cas de
-modification apportée par l'intéressé à sa déclaration le complément de participation éventuellement exigible est liquidé,
-notifié et recouvré dans les conditions prévues aux articles R. 332-1 à R. 332-6.
-
-II - Lorsque la modification du permis de construire entraîne une diminution ou la suppression de la participation, le
-redevable peut demander la restitution de la somme correspondante si la participation a été acquittée ; il peut en demander
-le dégrèvement dans le cas contraire.
-
-Les demandes de dégrèvement ou de restitution doivent être faites avant le 31 décembre de l'année qui suit la notification de
-la décision modifiant le permis de construire [*délai*].
-
-III - Lorsque le pétitionnaire ou le déclarant renonce à la construction projetée et demande, selon le cas, soit l'annulation
-de son permis de construire, soit le retrait de sa déclaration, avant que la participation ait été recouvrée, il peut en
-obtenir le dégrèvement.
-
-Si la participation a été acquittée, il peut en obtenir le remboursement jusqu'au 31 décembre de l'année qui suit le
-versement.
-
-IV - Les demandes de dégrèvement ou de restitution sont adressées au directeur départemental de l'équipement //DECR.0276 ART.
-23 : ou, dans le cas visé à l'article R. 421-22, au maire//, qui fait connaître le cas échéant au directeur départemental des
-impôts le montant du dégrèvement ou de la restitution à effectuer.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-367 1969-04-18 ART. 6
-
-	**Cite**:
-
-	  - Code de l'urbanisme R332-2
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*332-9
-
-Nonobstant les dispositions de l'article R. 332-3, si un dépassement de la surface de plancher prévue, selon le cas soit par
-le permis de construire, soit par la déclaration préalable, est constaté dans les conditions prévues à l'article L. 480-1, la
-participation est due sur la base de la surface de plancher effectivement construite. Il en est de même lorsqu'il est
-constaté, dans les mêmes conditions, qu'une construction a été édifiée sans l'accomplissement, selon le cas, de l'une ou de
-l'autre des formalités requises.
-
-Sans préjudice des sanctions prévues par les dispositions en vigueur en cas d'infraction à la réglementation en matière de
-permis de construire, la surface de plancher non autorisée est pour le calcul de la participation majorée de 50 p. 100.
-
-En cas de démolition de l'immeuble ou de la partie d'immeuble construit irrégulièrement, le redevable peut demander le
-dégrèvement, la réduction ou la restitution de la participation correspondant à la partie démolie. Cette demande doit être
-formulée au plus tard le 31 décembre de l'année qui suit la démolition dûment constatée.
-
-Si des surfaces de plancher déduites en application de l'article R. 332-2 sont affectées à un usage qui ne justifie plus la
-déduction, les dispositions des deux premiers alinéas du présent article sont applicables, après mise en demeure demeurée
-sans effet, de rétablir l'affectation régulière.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-367 1969-04-18 ART. 8
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R480-1 (M)
-	  - Code de l'urbanisme R332-3
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*332-10
-
-Les litiges relatifs au calcul de la participation sont, à l'exception de ceux relatifs à la détermination de la valeur v
-visée à l'article R. 332-1, de la compétence des tribunaux administratifs. Les demandes sont adressées au directeur
-départemental de l'équipement, qui en informe immédiatement le directeur départemental des services fiscaux (impôts) et
-procède à leur instruction.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-367 1969-04-18 ART. 9
-
-	**Cite**:
-
-	  - Code de l'urbanisme R332-1
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*332-12
-
-Le produit de la participation est versé à la commune ou à l'établissement public bénéficiaire dans les trois mois [*délai*]
-suivant son encaissement. Il doit recevoir l'affectation prévue au deuxième alinéa de l'article L. 333-3.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L333-3 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*332-13
-
-Le constructeur qui demande à bénéficier des dispositions [*non versement*] de l'article L. 332-1 /M/(2e alinéa)/M/DECR.0752
-ART. 266 : (alinéa 2, b et c)// doit apporter, à l'appui de sa demande, l'accord écrit d'un ou plusieurs propriétaires de
-parcelles situées dans la zone soumise aux mêmes prescriptions d'urbanisme ou d'architecture prévues à l'article L. 123-1
-(7e) à l'institution d'une servitude [*minoration de densité*] qui réduit les possibilités de construire, sur sa ou leurs
-parcelles, d'une quantité équivalente au dépassement en cause.
-
-La constitution de cette servitude fait l'objet d'un arrêté préfectoral pris sur le rapport du directeur départemental de
-l'équipement et notifié à tous les propriétaires intéressés par la modification des possibilités de construction. Cet arrêté,
-qui vaut autorisation de dépassement, fixe, sous la condition suspensive de la passation de l'acte notarié mentionné à
-l'alinéa ci-après, les nouveaux coefficients d'occupation du sol applicables aux parcelles en cause.
-
-L'accord des propriétaires est alors constaté par un acte notarié qui précise pour chacune des parcelles le coefficient
-d'occupation du sol désormais applicable. L'acte est publié au bureau des hypothèques en même temps qu'une ampliation ou
-copie certifiée conforme de l'arrêté préfectoral ci-dessus visé et dans le délai prévu à l'article 33 C du décret n. 55-22 du
-4 janvier 1955.
-
-//DECR.0276 ART. 26 : Lorsque sur un terrain considéré, un dépassement du coefficient d'occupation du sol est autorisé par le
-plan d'occupation du sol, jusqu'à une densité qui est supérieure au plafond légal, le transfert de coefficient d'occupation
-du sol ne peut être autorisé qu'à concurrence des possibilités de construire comprises entre le coefficient d'occupation du
-sol et la densité à partir de laquelle le versement prévu à l'article L. 112-2 est dû// .
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°55-22 1955-01-04 ART. 33 C
-	  - Code de l'urbanisme - art. L112-2 (M)
-	  - Code de l'urbanisme - art. L123-1 (M)
-	  - Code de l'urbanisme L332-1 AL. 2
-
-	**Anciens textes**:
-
-	  - Décret n°69-367 1969-04-18 ART. 12
 
 	**Codifié par**:
 
@@ -36372,10 +37052,10 @@ sol et la densité à partir de laquelle le versement prévu à l'article L. 112
 
 ###### Article R*333-1
 
-Le montant du versement lié au dépassement du plafond légal de densité est calculé selon la formule suivante :
+Le montant du versement lié au dépassement du plafond légal de densité est calculé selon la formule suivante [*définition*] :
 
-Sa + Sb - Sc - (K Sd)             Pa = v ---------------------                              K             Dans laquelle
-Pa représente le montant du versement ;
+Sa + Sb - Sc - (K Sd)   Sa - Se             Pa = v --------------------- x -------                              K
+Sa             Dans laquelle         Pa représente le montant du versement ;
 
 v, la valeur au mètre carré du terrain considéré comme nu et libre ;
 
@@ -36389,7 +37069,10 @@ même terrain qui excède le plafond légal de densité que ces constructions so
 
 Sd, la surface du terrain ;
 
-K, le plafond légal de densité qui est égal à 1,5 sur le territoire de la ville de Paris et à 1 sur le reste du territoire.
+Se, la part de la surface de plancher de la construction projetée, calculée comme il est dit à l'article R. 112-2,
+correspondant aux immeubles exonérés en vertu des dispositions du 3è alinéa de l'article L. 112-2.
+
+K, le plafond légal de densité en vigueur sur le territoire de la commune à la date de délivrance du permis de construire.
 
 Dans les cas visés à l'article L. 113-2 (alinéa 3) le versement effectivement dû est obtenu en appliquant à la somme Pa les
 abattements prévus audit article.
@@ -36398,6 +37081,15 @@ abattements prévus audit article.
 fractions de sommes inférieures à 10 F//.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°84-669 1984-07-17 ART. 1 1° JORF 21 JUILLET 1984
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L112-2 (M)
+	  - Code de l'urbanisme R112-2
 
 	**Cité par**:
 
@@ -36409,76 +37101,9 @@ fractions de sommes inférieures à 10 F//.
 
 	  - Code de l'urbanisme - art. R335-1 (M)
 
-	**Cite**:
-
-	  - Code de l'urbanisme R112-2
-
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'urbanisme R333-22
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*333-2
-
-N'est pas prise en compte pour le calcul de la surface Sc la superficie de plancher calculée comme il est dit à l'article R.
-112-2 des immeubles déclarés insalubres et interdits d'habiter ou frappés d'un arrêté de péril.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°84-669 1984-07-17 ART. 1 2° JORF 21 JUILLET 1984
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*333-7 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. R335-2 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R112-2
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*333-3
-
-Lorsque le permis de construire est sollicité pour une construction dont la densité excède le plafond légal, le dossier de la
-demande de permis de construire doit comporter [*composition*], outre les pièces énumérées à l'article R. 421-2 :
-
-a) Des extraits de la matrice cadastrale et du plan cadastral afférents à la parcelle ou à l'ensemble de parcelles qui
-constituent le terrain mentionné dans la demande de permis de construire ;
-
-b) L'indication de la surface de plancher des bâtiments existants calculée comme il est dit à l'article R. 112-2.
-
-En outre, le pétitionnaire indique s'il entend constituer la caution solidaire visée à l'article L. 333-11.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L333-11 (Ab)
-	  - Code de l'urbanisme - art. R421-2 (M)
-	  - Code de l'urbanisme R112-2
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*333-21 (V)
-	  - Code de l'urbanisme - art. R*333-7 (M)
-	  - Code de l'urbanisme - art. R*430-10 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. R335-3 (Ab)
 
 	**Codifié par**:
 
@@ -36540,208 +37165,6 @@ l'ordonnance n. 58-997 du 23 octobre 1958.
 	  - Décret n°73-1023 1973-11-08
 
 
-###### Article R*333-5
-
-Le montant du versement est calculé par le service départemental de l'équipement ou, en cas d'application de l'article R.
-421-22, par le maire.
-
-En cas de désaccord sur la valeur du terrain, le versement est provisoirement liquidé sur la base de l'estimation
-administrative.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*333-21 (M)
-	  - Code de l'urbanisme - art. R*333-7 (M)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 384 B (P)
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. R335-5 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R421-22 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*333-6
-
-Le directeur départemental de l'équipement arrête le montant global du versement et le communique avec les indications
-nécessaires à la détermination de la part revenant à chaque attributaire au directeur des services fiscaux et au maire. Il le
-communique également au pétitionnaire.
-
-En cas d'application de l'article R. 421-22, le maire est substitué au directeur départemental de l'équipement et informe
-celui-ci du montant du versement dans les mêmes conditions. Il en avise également le pétitionnaire.
-
-Le service des impôts notifie le montant du versement au redevable. Le paiement doit être effectué dans les conditions
-définies aux deuxième et troisième alinéas de l'article L. 333-2. Lorsqu'il est fait application des dispositions de
-l'article L. 430-3, la date du dépôt de la déclaration préalable est substituée à la date de la délivrance du permis de
-construire pour la fixation des délais de paiement.
-
-Lorsque la décision de la juridiction de l'expropriation n'est plus susceptible d'appel ni de pourvoi en cassation, le
-service des impôts procède, s'il y a lieu, à la mise en recouvrement d'une somme complémentaire ou à la restitution du
-montant excédentaire. Le paiement du complément doit intervenir dans les conditions indiquées au quatrième alinéa de
-l'article L. 333-2.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 384 bis (P)
-	  - Code de l'urbanisme - art. R*332-5 (Ab)
-	  - Code de l'urbanisme - art. R*333-21 (M)
-	  - Code de l'urbanisme - art. R*333-7 (V)
-	  - Code de l'urbanisme - art. R*613-5 (Ab)
-	  - Code de l'urbanisme - art. R332-31 (Ab)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 384 C (P)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L333-2 (M)
-	  - Code de l'urbanisme - art. L430-3 (Ab)
-	  - Code de l'urbanisme - art. R421-22 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*333-7
-
-En cas de modification apportée sur la demande de l'intéressé au permis de construire qui lui a été délivré ou en cas de
-modification apportée par l'intéressé à sa déclaration, le versement complémentaire éventuellement exigible est liquidé,
-notifié et recouvré dans les conditions prévues aux articles R. 333-1 à R. 333-6.
-
-Lorsque l'autorité administrative autorise le transfert d'un permis de construire qui a rendu exigible le versement, elle
-doit en informer sans délai le directeur des services fiscaux.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R333-1 (M)
-	  - Code de l'urbanisme - art. R333-2 (T)
-	  - Code de l'urbanisme - art. R333-3 (M)
-	  - Code de l'urbanisme - art. R333-4 (T)
-	  - Code de l'urbanisme - art. R333-5 (M)
-	  - Code de l'urbanisme - art. R333-6 (Ab)
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 384 D (P)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*333-9
-
-L'intervention d'une décision du préfet ou, en cas d'application de l'article R. 421-22 d'une décision du maire, constatant
-la péremption soit du permis de construire, soit de la déclaration préalable à la construction, entraîne de plein droit la
-restitution du versement.
-
-Sans préjudice de l'application de l'article L. 333-13 lorsque l'auteur de la déclaration préalable renonce à la construction
-projetée et obtient le retrait de sa déclaration avant que le versement ait été recouvré, il doit bénéficier du dégrèvement
-correspondant. Si le versement a été acquitté, il peut en réclamer le remboursement jusqu'au 31 décembre [*date limite*] de
-l'année qui suit la date du paiement. Les demandes de dégrèvement ou de restitution sont adressées au directeur départemental
-de l'équipement ou, dans le cas visé à l'article R. 421-22 au maire, qui fait connaître le cas échéant au directeur
-départemental des services fiscaux le montant du dégrèvement ou de la restitution à effectuer. Ce montant est calculé
-déduction faite du prélèvement [*pour frais d'assiette et de perception*] visé à l'article L. 333-12 (alinéa 2).
-
-La décision de dégrèvement ou de restitution est prise par le directeur départemental de l'équipement ou, dans le cas visé à
-l'article R. 421-22, par le maire [*autorité compétente*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L333-13 (Ab)
-	  - Code de l'urbanisme - art. R421-22 (M)
-	  - Code de l'urbanisme L333-12 AL. 2
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 384 F (P)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*333-11
-
-Si des superficies déduites en application de l'article R. 112-2 /M/(b)/M/DECR.0739 ART. 6 : (alinéas 2 et 3)// sont
-aménagées en vue d'un usage autre que celui visé à cet article, l'intéressé est mis en demeure par le maire, ou à défaut par
-le préfet, soit de rétablir l'affectation régulière, soit, à défaut, d'acquitter le versement correspondant.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme R112-2
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*333-12
-
-Lorsque les immeubles anciens à réhabiliter visés à l'article L. 333-3 (d) sont à usage d'habitation, le produit des
-versements attribués directement aux communes ou aux établissements publics groupant plusieurs communes et ayant compétence
-en matière d'urbanisme ne peut être affecté à leur réhabilitation que si ces immeubles sont et demeurent soumis aux
-dispositions de la loi n. 48-1360 du 1er septembre 1948 modifiée ou, si, à défaut, leur accès est subordonné à des conditions
-de ressources.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Cite**:
-
-	  - Loi n°48-1360 1948-09-01
-	  - Code de l'urbanisme - art. L333-3 (M)
-
-	**Abrogé par**:
-
-	  - Décret n°84-669 1984-07-17 ART. 1 4° JORF 21 JUILLET 1984
-
-
-###### Article R*333-13
-
-Les communes ou les établissements publics groupant plusieurs communes et ayant compétence en matière d'urbanisme reçoivent
-[*bénéficiaires*] en totalité les sommes versées, à concurrence de la densité comprise entre le plafond légal et une densité
-double de ce plafond au titre d'opération de rénovation urbaine ou de résorption de l'habitat insalubre entreprise à
-l'initiative des personnes publiques, à la condition que :
-
-a) Au moins 30 p. 100 de la surface de plancher développée hors oeuvre des constructions édifiées dans la zone soit
-constituée de logements dont l'attribution est subordonnée à des conditions de ressources ;
-
-b) Au moins 5 p. 100 de la surface des terrains compris dans la zone soit occupée par des équipements collectifs bâtis tels
-que des crèches, des équipements scolaires, médicaux et para-médicaux, socio-éducatifs, sportifs et culturels ;
-
-c) Et que ces opérations comprennent des espaces publics non bâtis tels que : espaces verts, plan d'eau, terrains de sports,
-aires de jeux ou de promenade piétonnière dont la superficie est au moins égale au dixième de la surface totale de la zone.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme R333-28
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ##### Application du plafond légal de densité dans les zones d'aménagement concerté, les zones de rénovation urbaine et les zones de résorption de l'habitat insalubre.
 
 ###### Article R*333-14
@@ -36765,10 +37188,18 @@ surface est calculée      à la date de/M/la prise en considération/M/DECR.075
 l'approbation// du plan d'aménagement de la zone ou de la      publication du plan d'occupation des sols ou du document
 d'urbanisme en tenant lieu ; Sd' la surface des terrains compris à l'intérieur du périmètre      défini par l'acte de
 création de la zone, à l'exclusion      des terrains d'assiette de la voirie existante affectée à      l'usage du public, des
-voies ferrées et des cours d'eau ; K le plafond légal de densité qui est égal à 1,5 sur le territoire      de la ville de
-Paris et à 1 sur le reste du territoire.
+voies ferrées, en dehors des gares,      et des cours d'eau ; toutefois ne sont pas déduits de la      surface Sd' les
+terrains d'assiette desdits ouvrages et cours      d'eau lorsque le programme de travaux a prévu d'y superposer      des sols
+artificiels pour un motif d'intérêt général propre      à la zone, conformément aux possibilités ouvertes par le      plan
+d'occupation des sols ou par le plan d'aménagement de      zone et dans la limite de la superficie desdits sols
+artificiels. K le plafond légal de densité en vigueur sur le territoire      de la commune à la date où le nombre de mètres
+carrés de      construction excédant ce plafond est calculé.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°84-669 1984-07-17 ART. 2 1° 2° JORF 21 JUILLET 1984
 
 	**Cite**:
 
@@ -36785,22 +37216,6 @@ Paris et à 1 sur le reste du territoire.
 	  - Décret n°73-1023 1973-11-08
 
 
-###### Article R*333-15
-
-N'est pas prise en compte pour le calcul de la surface Sc' la surface développée hors oeuvre des immeubles déclarés
-insalubres et interdits d'habiter ou frappés d'un arrêté de péril.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°84-669 1984-07-17 ART. 2 3° JORF 21 JUILLET 1984
-
-
 ##### Zones dont l'aménagement est réalisé en régie directe.
 
 ###### Article R*333-18
@@ -36808,86 +37223,23 @@ insalubres et interdits d'habiter ou frappés d'un arrêté de péril.
 Le dépassement est réparti, s'il en existe, entre les îlots définis par le document d'urbanisme dont la densité excède le
 plafond légal, en fonction de la densité future de chacun de ces îlots.
 
+A l'intérieur d'un même îlot, la répartition du dépassement est effectuée entre chaque constructeur proportionnellement à la
+surface de plancher à construire. Toutefois la part du dépassement affecté à un projet de construction remplissant les
+conditions d'exonération prévues au 3° alinéa de l'article L. 112-2 ne donne pas lieu à l'établissement du versement.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
+	**Modifié par**:
 
-###### Article R*333-20
-
-La collectivité ou l'établissement public qui aménage la zone notifie à chaque bénéficiaire de cession, location ou
-concession d'usage de parcelle, la surface de terrain dont il devra payer le prix en application de l'article L. 112-2 ainsi
-que la valeur estimée du mètre carré de terrain nu et libre dans la zone.
-
-Ces indications font l'objet d'une disposition particulière de l'acte de cession, de location ou de concession d'usage ou de
-son cahier des charges.
-
-Les cessions, locations ou concessions d'usage de terrains sont consenties sous la condition suspensive du dépôt de la
-demande de permis de construire ou de la déclaration préalable à la construction dans un délai déterminé par l'acte de
-cession, location ou concession d'usage, ou par son cahier des charges, et qui ne peut excéder un an. Copie de l'acte ou de
-son cahier des charges est adressée au directeur départemental de l'équipement ou, dans le cas visé à l'article R. 421-22, au
-maire.
-
-**Liens relatifs à cet article**
+	  - Décret n°84-669 1984-07-17 ART. 3 1° JORF 21 JUILLET 1984
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L112-2 (M)
-	  - Code de l'urbanisme - art. R421-22 (M)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*333-21 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*333-21
-
-La surface de terrain indiquée dans l'acte notifié [*au bénéficiaire de cession, location ou concession d'usage de parcelle*]
-en application de l'article R. 333-20 ainsi que la valeur du mètre carré de terrain sont déclarées lors du dépôt de la
-demande de permis de construire ou de la déclaration préalable à la construction dans les conditions définies à l'article R.
-333-4. La valeur du mètre carré de terrain nu et libre est contrôlée par l'administration selon les modalités indiquées par
-les articles R. 333-4 à R. 333-6.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R333-4 (T)
-	  - Code de l'urbanisme - art. R333-5 (M)
-	  - Code de l'urbanisme - art. R333-6 (Ab)
-	  - Code de l'urbanisme R333-20
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*333-22
-
-Si un permis de construire est délivré avant que le plan d'aménagement de la zone ait été /M/pris en considération/M/
-DECR.0757 ART.20 : approuvé// ou que le plan d'occupation des sols ait été rendu public, le versement prévu à l'article L.
-112-2 est dû par le pétitionnaire dans les conditions définies par la section I du présent chapitre à l'exception du deuxième
-alinéa de l'article R. 333-1.
-
-Il en est de même lorsqu'un permis de construire est délivré pour une construction située sur un terrain n'ayant pas fait
-l'objet d'une cession, location ou concession d'usage consentie par la personne publique qui aménage la zone.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L112-2 (M)
-	  - Code de l'urbanisme - art. R333-1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
+	  - Code de l'urbanisme L112-2 AL. 3
 
 
 ##### Zones dont l'aménagement n'est pas réalisé en régie directe.
@@ -36901,80 +37253,30 @@ nus et libres estimés par le      directeur des services fiscaux à la date de 
 ou du bilan prévisionnel ; D le dépassement prévu pour la zone, calculé dans les conditions       définies à l'article R.
 333-14.
 
+Lorsque l'aménageur justifie, lors de chaque échéance de paiement et au plus tard avant la dernière échéance, notamment par
+la production des permis de construire correspondants, de l'édification de surfaces de planchers répondant aux conditions de
+l'exonération prévues dans le troisième alinéa de l'article L. 112-2, l'autorité compétente pour liquider le versement de
+l'échéance concernée est réduit selon la formule suivante :
+
+Pa' x Se'                    Pa'n - --------                               Sa         Dans laquelle Pa'n représente le
+montant de chaque échéance de paiement et Se' la surface de plancher développée hors oeuvre exonérée en application des
+dispositions du troisième alinéa de l'article L. 112-2.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°84-669 1984-07-17 ART. 4 1° JORF 21 JUILLET 1984
+
+	**Cite**:
+
+	  - CODE DE L'URBANISME R333-14, L112-2
+	  - Code de l'urbanisme - art. L112-2 (M)
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*333-32 (V)
 	  - Code de l'urbanisme - art. R*333-33 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R333-14
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*333-25
-
-La convention ou le traité de concession arrête les modalités du paiement, notamment en fonction de la date d'intervention
-des actes authentiques de cession, location ou concession d'usage de terrains.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*333-32 (V)
-	  - Code de l'urbanisme - art. R*333-33 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*333-28
-
-Lorsque la densité de l'ensemble de la zone est inférieure au double du plafond légal, les sommes mises à la charge de
-l'organisme aménageur sont attribuées dans les conditions définies aux articles L. 333-3 et L. 333-4.
-
-Toutefois, les sommes afférentes aux constructions à caractère social mentionnées aux a et b de l'article L. 333-5 sont
-attribuées en totalité à la commune ou à l'établissement public groupant plusieurs communes et ayant compétence en matière
-d'urbanisme. Il en est de même des sommes dues au titre des zones de rénovation urbaine, qu'elles soient réalisées ou non
-sous la forme de zones d'aménagement concerté, et des zones de résorption de l'habitat, insalubre, lorsque ces zones
-remplissent les conditions posées à l'article R. 333-13 en matière de logements sociaux et d'équipements collectifs à
-caractère social.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L333-3 (M)
-	  - Code de l'urbanisme - art. L333-4 (Ab)
-	  - Code de l'urbanisme - art. L333-5 (M)
-	  - Code de l'urbanisme R333-13
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*333-29
-
-Lorsque la densité de l'ensemble de la zone est supérieure au double du plafond légal, la partie du versement due afférente à
-la densité comprise entre le plafond et son double est attribuée conformément aux dispositions de l'article R. 333-28. Le
-solde du versement est attribué en totalité au fonds d'équipement des collectivités locales.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°84-669 1984-07-17 ART. 4 5° JORF 21 JUILLET 1984
-
-	**Cite**:
-
-	  - Code de l'urbanisme R333-28
 
 	**Codifié par**:
 
@@ -36984,19 +37286,24 @@ solde du versement est attribué en totalité au fonds d'équipement des collect
 ###### Article R*333-32
 
 En cas de modification du périmètre de la zone, du plan d'aménagement de la zone, du plan d'occupation des sols ou du
-document d'urbanisme en tenant lieu, ou de modification supérieure à 10 p. 100 de la valeur des terrains constatée par le
-directeur du service des domaines, les versements non encore échus sont réévalués dans les conditions définies aux articles
-R. 333-24 et R. 333-25.
+document d'urbanisme en tenant lieu, de modification supérieure à 10 p. 100 de la valeur des terrains constatée par le
+directeur des services fiscaux ou de modification du niveau du plafond légal de densité en application des dispositions de
+l'article L. 112-1 (3ème alinéa), les versements non encore échus sont révisés dans les conditions définies aux articles R.
+333-24 et R. 333-25.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme R333-24
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°84-669 1984-07-17 ART. 4 6° JORF 21 JUILLET 1984
+
+	**Cite**:
+
+	  - Code de l'urbanisme L112-1 AL. 3
 
 
 ## Aménagement foncier Opérations d'aménagement
@@ -37580,47 +37887,6 @@ décret n° 59-1335 du 20 novembre 1959 modifié.
 	**Abrogé par**:
 
 	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
-
-
-## Aménagement foncier Dispositions financières
-
-### Versement résultant du dépassement du plafond légal de densité
-
-#### Application du plafond légal de densité dans les zones d'aménagement concerté, les zones de rénovation urbaine et les zones de résorption de l'habitat insalubre
-
-##### Zones dont l'aménagement est réalisé en régie directe.
-
-###### Article R*333-23
-
-En cas de modification du périmètre de la zone, du plan d'aménagement de la zone, du plan d'occupation des sols ou du
-document d'urbanisme en tenant lieu, les versements dus par les constructeurs qui déposent des demandes de permis de
-construire ou des déclarations préalables à la construction postérieurement à l'intervention de la modification sont
-calculées suivant les règles définies par les articles R. 333-14, R. 333-17, R. 333-18 et R. 333-19 en fonction des nouvelles
-conditions de réalisation de l'opération.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme R333-14
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-##### Zones dont l'aménagement n'est pas réalise en régie directe.
-
-###### Article R*333-26
-
-Le directeur des services fiscaux reçoit notification de la convention d'aménagement ou du traité de concession à
-l'initiative de l'autorité qui l'approuve.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 ## Livre IV : Régime applicable aux constructions, aménagements et démolitions
