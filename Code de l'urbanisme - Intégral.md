@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2004-04-22
+Version Consolidée au 2004-06-05
 
 # Partie législative
 
@@ -1114,6 +1114,8 @@ déterminées par les articles L. 333-1 à L. 333-16.
 
 #### Chapitre Ier : Dispositions générales communes aux schémas de cohérence territoriale, aux plans locaux d'urbanisme et aux cartes communales
 
+##### Section 1 : Dispositions générales.
+
 ###### Article L121-1
 
 Les schémas de cohérence territoriale, les plans locaux d'urbanisme et les cartes communales déterminent les conditions
@@ -1174,15 +1176,15 @@ Les dispositions des 1° à 3° sont applicables aux directives territoriales d'
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 1 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L111-1-1 (M)
+	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 3 () JORF 5 juin 2004
 
 	**Anciens textes**:
 
 	  - Code de l'urbanisme 11
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2001-42 2001-06-27
 
 	**Codifié par**:
 
@@ -1243,11 +1245,15 @@ dossier d'enquête publique.
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 1 (V)
+	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 3 () JORF 5 juin 2004
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L121-1 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2001-42 2001-06-27
 
 	**Codifié par**:
 
@@ -1281,7 +1287,7 @@ déterminé par décret en Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 1 (V)
+	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 3 () JORF 5 juin 2004
 
 	**Cité par**:
 
@@ -1291,6 +1297,10 @@ déterminé par décret en Conseil d'Etat.
 	  - Code de l'urbanisme - art. R*122-8 (M)
 	  - Code de la construction et de l'habitation. - art. L441-2-8 (V)
 	  - Livre des procédures fiscales - art. L135 B (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2001-42 2001-06-27
 
 
 ###### Article L121-4
@@ -1315,7 +1325,7 @@ peuvent être réalisées à l'initiative des chambres de commerce et d'industri
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 1 (V)
+	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 3 () JORF 5 juin 2004
 
 	**Cité par**:
 
@@ -1347,6 +1357,50 @@ peuvent être réalisées à l'initiative des chambres de commerce et d'industri
 	  - Code de l'urbanisme - art. R*122-7 (VT)
 	  - Code rural - art. L511-3 (V)
 
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2001-42 2001-06-27
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L121-4-1
+
+Les documents d'urbanisme applicables aux territoires frontaliers prennent en compte l'occupation des sols dans les
+territoires des Etats limitrophes.
+
+Les communes ou groupements compétents peuvent consulter les collectivités territoriales de ces Etats ainsi que tout
+organisme étranger compétent en matière d'habitat, d'urbanisme, de déplacement, d'aménagement et d'environnement.
+
+**Nota:**
+
+Conformément à l'article 13 4° de l'ordonnance n° 2015-1174 du 23 septembre 2015, l'abrogation du deuxième alinéa de
+l'article L. 121-4-1 ne prendra effet qu'à compter de la publication des dispositions réglementaires du livre Ier du code de
+l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 1 (V)
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 13
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L121-13 (VT)
+	  - Code de l'urbanisme - art. R*121-17 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L131-9 (VD)
+	  - Code de l'urbanisme - art. R132-5 (V)
+
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
@@ -1363,10 +1417,14 @@ administratif, social et fiscal.
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2001-42 2001-06-27
+
 	**Cite**:
 
-	  - Loi n°78-753 du 17 juillet 1978 - art. 4 (M)
-	  - Code de l'environnement - art. L141-1 (M)
+	  - Loi n°78-753 du 17 juillet 1978 - art. 4
+	  - Code de l'environnement - art. L141-1
 
 	**Cité par**:
 
@@ -1374,7 +1432,7 @@ administratif, social et fiscal.
 	  - Décret n°86-1252 du 5 décembre 1986 - art. 10 (V)
 	  - Code de l'environnement - art. R581-40 (V)
 	  - Code de l'urbanisme - art. L121-6 (VT)
-	  - Code de l'urbanisme - art. L122-6-2 (M)
+	  - Code de l'urbanisme - art. L122-6-2 (VT)
 	  - Code de l'urbanisme - art. L122-8 (VD)
 	  - Code de l'urbanisme - art. L123-10 (VT)
 	  - Code de l'urbanisme - art. R*121-5 (VT)
@@ -1396,7 +1454,15 @@ administratif, social et fiscal.
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 1 (V)
+	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 3 () JORF 5 juin 2004
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L132-12 (VD)
 
 	**Codifié par**:
 
@@ -1409,7 +1475,7 @@ Il est institué, dans chaque département, une commission de conciliation en ma
 territoriale, de schémas de secteur, de plans locaux d'urbanisme et de cartes communales. Elle est composée à parts égales
 d'élus communaux désignés par les maires et les présidents des établissements publics de coopération intercommunale
 compétents en matière de schémas de cohérence territoriale ou de plans locaux d'urbanisme du département et de personnes
-qualifiées désignées par le préfet. Elle élit en son sein un président qui doit être un élu local.
+qualifiées désignées par le préfet. Elle élit en son sein un président qui doit être un élu local. 
 
 La commission peut être saisie par le préfet, les communes ou groupements de communes et les personnes publiques mentionnées
 à l'article L. 121-4. Elle entend les parties intéressées et, à leur demande, les représentants des associations mentionnées
@@ -1420,12 +1486,12 @@ Ces propositions sont publiques.
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 1 (V)
+	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 3 () JORF 5 juin 2004
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L121-4 (M)
-	  - Code de l'urbanisme - art. L121-5 (M)
+	  - Code de l'urbanisme - art. L121-4 (VT)
+	  - Code de l'urbanisme - art. L121-5 (V)
 
 	**Cité par**:
 
@@ -1434,6 +1500,10 @@ Ces propositions sont publiques.
 	  - Code de l'urbanisme - art. L123-8 (M)
 	  - Code de l'urbanisme - art. R*121-6 (VT)
 	  - Code général des collectivités territoriales - art. R1614-44 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2001-42 2001-06-27
 
 	**Codifié par**:
 
@@ -1465,7 +1535,7 @@ leur budget. Elles ouvrent droit aux attributions du Fonds de compensation pour 
 
 	**Modifié par**:
 
-	  - Loi n°2003-590 du 2 juillet 2003 - art. 2 (V) JORF 3 juillet 2003
+	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 3 () JORF 5 juin 2004
 
 	**Cite**:
 
@@ -1484,6 +1554,10 @@ leur budget. Elles ouvrent droit aux attributions du Fonds de compensation pour 
 	  - Code général des collectivités territoriales - art. R1614-45 (V)
 	  - Code général des collectivités territoriales - art. R2321-1 (V)
 
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2001-42 2001-06-27
+
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
@@ -1497,6 +1571,20 @@ de remettre en vigueur le schéma de cohérence territoriale, le schéma directe
 communale ou le plan d'occupation des sols ou le document d'urbanisme en tenant lieu immédiatement antérieur.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2001-42 2001-06-27
+	  - TXT_SOURCE: Décret n°77-760 du 7 juillet 1977 - art. 14 (Ab)
+	  - TXT_SOURCE: Décret n°77-760 du 7 juillet 1977 - art. 17 (Ab)
+	  - TXT_SOURCE: Décret n°77-760 du 7 juillet 1977 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°77-760 du 7 juillet 1977 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°77-760 du 7 juillet 1977 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°77-760 du 7 juillet 1977 - art. 9 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 	**Cité par**:
 
@@ -1538,22 +1626,13 @@ communale ou le plan d'occupation des sols ou le document d'urbanisme en tenant 
 	  - Code rural - art. R*252-4 (Ab)
 	  - Code rural - art. R*252-6 (M)
 
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°77-760 du 7 juillet 1977 - art. 14 (Ab)
-	  - TXT_SOURCE: Décret n°77-760 du 7 juillet 1977 - art. 17 (Ab)
-	  - TXT_SOURCE: Décret n°77-760 du 7 juillet 1977 - art. 2 (Ab)
-	  - TXT_SOURCE: Décret n°77-760 du 7 juillet 1977 - art. 5 (Ab)
-	  - TXT_SOURCE: Décret n°77-760 du 7 juillet 1977 - art. 6 (Ab)
-	  - TXT_SOURCE: Décret n°77-760 du 7 juillet 1977 - art. 9 (Ab)
-
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 1 (V)
+	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 3 () JORF 5 juin 2004
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 
 ###### Article L121-9
@@ -1566,7 +1645,7 @@ et arrêtent la liste des opérations d'intérêt national mentionnées à l'art
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 1 (V)
+	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 3 () JORF 5 juin 2004
 
 	**Cité par**:
 
@@ -1600,52 +1679,305 @@ et arrêtent la liste des opérations d'intérêt national mentionnées à l'art
 	  - TXT_SOURCE: Code de l'urbanisme - art. R*121-7 (VT)
 	  - TXT_SOURCE: Code de l'urbanisme - art. R*121-8 (VT)
 	  - TXT_SOURCE: Code de l'urbanisme - art. R*121-9 (VT)
+	  - TXT_SOURCE: Directive 2001-42 2001-06-27
 
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
-##### Section 1 : Dispositions générales.
+#####  Section 2 : Evaluation environnementale.
 
-###### Article L121-4-1
+###### Article L121-10
 
-Les documents d'urbanisme applicables aux territoires frontaliers prennent en compte l'occupation des sols dans les
-territoires des Etats limitrophes.
+Font l'objet d'une évaluation environnementale dans les conditions prévues par la présente section :
 
-Les communes ou groupements compétents peuvent consulter les collectivités territoriales de ces Etats ainsi que tout
-organisme étranger compétent en matière d'habitat, d'urbanisme, de déplacement, d'aménagement et d'environnement.
+1° Les directives territoriales d'aménagement ;
+
+2° Le schéma directeur de la région d'Ile-de-France ;
+
+3° Les schémas de cohérence territoriale ;
+
+4° Les plans locaux d'urbanisme susceptibles d'avoir des effets notables sur l'environnement compte tenu de la superficie du
+territoire auxquels ils s'appliquent, de la nature et de l'importance des travaux et aménagements qu'ils autorisent et de la
+sensibilité du milieu dans lequel ceux-ci doivent être réalisés.
+
+Sauf dans le cas où elle ne prévoit que des changements mineurs, la révision de ces documents donne lieu soit à une nouvelle
+évaluation environnementale, soit à une actualisation de l'évaluation environnementale réalisée lors de leur élaboration.
 
 **Nota:**
 
-Conformément à l'article 13 4° de l'ordonnance n° 2015-1174 du 23 septembre 2015, l'abrogation du deuxième alinéa de
-l'article L. 121-4-1 ne prendra effet qu'à compter de la publication des dispositions réglementaires du livre Ier du code de
-l'urbanisme.
+Ordonnance n° 2005-868 du 28 juillet 2005 art. 5, deuxième alinéa : " L'article L. 121-10 du code de l'urbanisme n'est
+applicable au plan d'aménagement et de développement durable de Mayotte qu'à compter de sa première révision. "
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 1 (V)
+	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 3 () JORF 5 juin 2004
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°2004-489 du 3 juin 2004 - art. 5, v. init.
+	  - TXT_SOURCE: Directive 2001-42 2001-06-27
+
+	**Cité par**:
+
+	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 5 (V)
+	  - Ordonnance n°2005-868 du 28 juillet 2005 - art. 5 (V)
+	  - Code de l'environnement - art. L122-4 (VT)
+	  - Code de l'environnement - art. L123-2 (VT)
+	  - Code de l'environnement - art. R414-19 (V)
+	  - Code de l'urbanisme - art. L121-11 (VT)
+	  - Code de l'urbanisme - art. L121-12 (VT)
+	  - Code de l'urbanisme - art. L121-13 (VT)
+	  - Code de l'urbanisme - art. L123-12-2 (Ab)
+	  - Code de l'urbanisme - art. L123-13-1 (VD)
+	  - Code de l'urbanisme - art. L123-19 (M)
+	  - Code de l'urbanisme - art. L710-5 (VT)
+	  - Code de l'urbanisme - art. R*121-16 (VT)
+	  - Code de l'urbanisme - art. R*122-25 (M)
+	  - Code de l'urbanisme - art. R*123-17 (M)
+	  - Code de l'urbanisme - art. R*123-2-1 (VT)
+	  - Code général des collectivités territoriales - art. L4424-13 (VD)
+	  - Code général des collectivités territoriales - art. L4424-14 (V)
+	  - Code général des collectivités territoriales - art. L4433-7 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L121-2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L121-11
+
+Le rapport de présentation des documents d'urbanisme mentionnés à l'article précédent décrit et évalue les incidences
+notables que peut avoir le document sur l'environnement. Il présente les mesures envisagées pour éviter, réduire et, dans la
+mesure du possible, compenser ces incidences négatives. Il expose les raisons pour lesquelles, notamment du point de vue de
+la protection de l'environnement, parmi les partis d'aménagement envisagés, le projet a été retenu.
+
+Le rapport de présentation contient les informations qui peuvent être raisonnablement exigées, compte tenu des connaissances
+et des méthodes d'évaluation existant à la date à laquelle est élaboré ou révisé le document, de son contenu et de son degré
+de précision et, le cas échéant, de l'existence d'autres documents ou plans relatifs à tout ou partie de la même zone
+géographique ou de procédures d'évaluation environnementale prévues à un stade ultérieur.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 74 (V)
+	  - Code de l'urbanisme - art. L121-14 (VT)
+	  - Code de l'urbanisme - art. L123-19 (M)
+	  - Code de l'urbanisme - art. R*122-3 (M)
+	  - Code général des collectivités territoriales - art. L4424-9 (V)
+	  - Code rural - art. L181-3 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 3 () JORF 5 juin 2004
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L104-4 (VD)
+	  - Code de l'urbanisme - art. L104-5 (VD)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L121-10
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2001-42 2001-06-27
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L121-12
+
+La personne publique qui élabore un des documents d'urbanisme mentionnés à l'article L. 121-10 transmet pour avis à une
+autorité administrative de l'Etat compétente en matière d'environnement le projet de document et son rapport de
+présentation. 
+
+L'autorité de l'Etat compétente en matière d'environnement est consultée en tant que de besoin sur le degré de précision des
+informations que doit contenir le rapport environnemental.
+
+**Nota:**
+
+Conformément à l'article 13 7° de l'ordonnance n° 2015-1174 du 23 septembre 2015, l'abrogation du deuxième alinéa de
+l'article L. 121-12 ne prendra effet qu'à compter de la publication des dispositions réglementaires du livre Ier du code de
+l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°87-193 du 24 mars 1987 - art. 2 (V)
+	  - Code de l'environnement - art. L123-10 (VT)
+	  - Code de l'environnement - art. L123-14 (VT)
+	  - Code de l'environnement - art. R123-8 (VD)
+	  - Code de l'environnement - art. R123-9 (M)
+	  - Code de l'urbanisme - art. L121-14 (VT)
+	  - Code de l'urbanisme - art. L122-1-1 (Ab)
+	  - Code de l'urbanisme - art. L122-1-3 (Ab)
+	  - Code de l'urbanisme - art. L122-1-4 (Ab)
+	  - Code de l'urbanisme - art. L122-13 (VT)
+	  - Code de l'urbanisme - art. L122-6 (M)
+	  - Code de l'urbanisme - art. L123-7-1 (M)
+	  - Code de l'urbanisme - art. L311-4 (M)
+	  - Code de l'urbanisme - art. R*121-13 (M)
+	  - Code de l'urbanisme - art. R*123-5 (M)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 3 () JORF 5 juin 2004
 
 	**Abrogé par**:
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 13
 
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. L121-13 (VT)
-	  - Code de l'urbanisme - art. R*121-17 (VT)
-
 	**Nouveaux textes**:
 
-	  - Code de l'urbanisme - art. L131-9 (VD)
-	  - Code de l'urbanisme - art. R132-5 (V)
+	  - Code de l'urbanisme - art. L104-6 (VD)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L121-10
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de l'urbanisme - art. R*121-13 (VT)
+	  - TXT_SOURCE: Directive 2001-42 2001-06-27
 
 	**Codifié par**:
 
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L121-13
+
+Les documents d'urbanisme mentionnés à l'article L. 121-10 dont la mise en oeuvre est susceptible de produire des effets
+notables sur l'environnement d'un autre Etat membre de la Communauté européenne sont transmis aux autorités de cet Etat, à la
+demande de celles-ci ou à l'initiative des autorités françaises. L'Etat intéressé est invité à donner son avis dans un délai
+fixé par décret en Conseil d'Etat. En l'absence de réponse dans ce délai, l'avis est réputé émis. 
+
+Lorsqu'un document d'urbanisme dont la mise en oeuvre est susceptible de produire des effets notables sur le territoire
+national est transmis pour avis aux autorités françaises par un autre Etat, il peut être décidé de consulter le public sur le
+projet. 
+
+Les dispositions du présent article ne font pas obstacle à l'application de l'article L. 121-4-1.
+
+**Nota:**
+
+Conformément à l'article 13 8° de l'ordonnance n° 2015-1174 du 23 septembre 2015, l'abrogation de la troisième phrase du
+premier alinéa de l'article L. 121-13 ne prendra effet qu'à compter de la publication des dispositions réglementaires du
+livre Ier du code de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 3 () JORF 5 juin 2004
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 13
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L104-7 (VD)
+	  - Code de l'urbanisme - art. L104-8 (VD)
+	  - Code de l'urbanisme - art. R104-26 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L121-10
+	  - Code de l'urbanisme - art. L121-4-1 (VT)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2001-42 2001-06-27
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L121-14
+
+L'autorité compétente pour approuver un des documents d'urbanisme mentionnés à l'article L. 121-10 en informe le public,
+l'autorité administrative de l'Etat mentionnée à l'article L. 121-12 et, le cas échéant, les autorités des autres Etats
+membres de la Communauté européenne consultés. Elle met à leur disposition le rapport de présentation du document qui
+comporte notamment des indications relatives à la manière dont il a été tenu compte du rapport établi en application de
+l'article L. 121-11 et des consultations auxquelles il a été procédé ainsi qu'aux motifs qui ont fondé les choix opérés par
+le plan ou le document, compte tenu des diverses solutions envisagées.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2001-42 2001-06-27
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 3 () JORF 5 juin 2004
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L104-7 (VD)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L121-10 (VT)
+	  - Code de l'urbanisme - art. L121-11 (VT)
+	  - Code de l'urbanisme - art. L121-12
+
+
+###### Article L121-15
+
+Un décret en Conseil d'Etat détermine les conditions d'application de la présente section à chaque catégorie de document
+d'urbanisme. Il fixe notamment les critères en fonction desquels les plans locaux d'urbanisme font l'objet d'une évaluation
+environnementale.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L104-2 (VD)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2001-42 2001-06-27
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 3 () JORF 5 juin 2004
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 
 #### Chapitre II : Schémas de cohérence territoriale.
@@ -2349,19 +2681,15 @@ l'ouverture de l'enquête publique, aux personnes mentionnées au deuxième alin
 
 Au plus tard à l'expiration d'un délai de dix ans à compter de la délibération portant approbation ou de la dernière
 délibération portant révision du schéma de cohérence territoriale, l'établissement public prévu à l'article L. 122-4 procède
-à une analyse des résultats de l'application du schéma et délibère sur son maintien en vigueur ou sur sa mise en révision
-complète ou partielle. A défaut d'une telle délibération, le schéma de cohérence territoriale est caduc.
+à une analyse des résultats de l'application du schéma notamment du point de vue de l'environnement et délibère sur son
+maintien en vigueur ou sur sa mise en révision complète ou partielle. A défaut d'une telle délibération, le schéma de
+cohérence territoriale est caduc.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 3 () JORF 14 décembre 2000 en vigueur le 1er avril 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2000-1208 du 13 décembre 2000 - art. 43 (V)
-	  - SPEC_APPLI: Décret n°2001-260 du 27 mars 2001 - art. 6 (V)
+	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 3 () JORF 5 juin 2004
 
 	**Cite**:
 
@@ -2372,6 +2700,10 @@ complète ou partielle. A défaut d'une telle délibération, le schéma de coh�
 	  - Code de l'urbanisme - art. R*122-12 (VT)
 	  - Code de l'urbanisme - art. R*122-14 (VT)
 	  - Code de l'urbanisme - art. R*122-2 (VT)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2001-42 2001-06-27
 
 	**Codifié par**:
 
@@ -3560,6 +3892,46 @@ conjointement.
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
+###### Article L123-13-1
+
+Lorsqu'un plan local d'urbanisme doit faire l'objet d'une évaluation environnementale en application de l'article L. 121-10,
+la commune ou l'établissement public de coopération intercommunale compétent procède, au plus tard à l'expiration d'un délai
+de dix ans à compter de la délibération portant approbation ou de la dernière délibération portant révision de ce plan, à une
+analyse des résultats de son application, notamment du point de vue de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L. 600-9 (V)
+	  - Code de l'urbanisme - art. L123-1-1 (VT)
+	  - Code de l'urbanisme - art. L123-18 (M)
+	  - Code de l'urbanisme - art. L311-7 (V)
+	  - Code de l'urbanisme - art. L313-1 (VD)
+	  - Code de l'urbanisme - art. R*123-2-1 (VD)
+	  - Code de l'urbanisme - art. R*123-24 (VT)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L121-10 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2001-42 2001-06-27
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 3 () JORF 5 juin 2004
+
+	**Modifié par**:
+
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+
+
 ###### Article L123-14
 
 Lorsqu'un plan local d'urbanisme doit être révisé ou modifié pour être rendu compatible, dans les conditions prévues par
@@ -4676,6 +5048,9 @@ de la demande adressée au président du conseil régional par le représentant 
 prévues au deuxième alinéa du présent article, il y est procédé par décret en Conseil d'Etat. Toutefois, en cas d'urgence
 constatée par décret en conseil des ministres, il y est procédé sans délai par décret en Conseil d'Etat.
 
+Au plus tard à l'expiration d'un délai de dix ans à compter du décret approuvant le schéma directeur de la région d'Ile-de-
+France, la région procède à une analyse des résultats de son application, notamment du point de vue de l'environnement.
+
 Le schéma directeur de la région d'Ile-de-France a les mêmes effets que les directives territoriales d'aménagement définies
 en application de l'article L. 111-1-1. Il doit être compatible avec ces directives lorsqu'elles s'appliquent sur tout ou
 partie du territoire régional. En outre, il tient lieu de schéma régional au sens de l'article 34 de la loi n° 83-8 du 7
@@ -4710,8 +5085,11 @@ Au sixième alinéa, au lieu de "conseils généraux des départementaux" lire "
 
 	**Modifié par**:
 
-	  - Loi n°99-533 du 25 juin 1999 - art. 3 (V) JORF 29 juin 1999
-	  - Loi n°99-533 du 25 juin 1999 - art. 50 () JORF 29 juin 1999
+	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 3 () JORF 5 juin 2004
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 2001-42 2001-06-27
 
 	**Codifié par**:
 
