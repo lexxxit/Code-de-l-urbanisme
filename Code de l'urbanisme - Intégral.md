@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1984-04-01
+Version Consolidée au 1984-04-05
 
 # Partie législative
 
@@ -20336,141 +20336,6 @@ d'appel*]
 
 ### Espaces boisés
 
-#### Utilisation du sol, défrichement, coupes et abattages d'arbres dans les espaces boisés classés non soumis au régime forestier.
-
-###### Article R*130-1
-
-Sous réserve de ce qui est dit à l'article R. 130-2 ci-après, toute coupe ou tout abattage d'arbres compris dans un espace
-boisé classé est subordonné à une autorisation expresse délivrée par le préfet.
-
-La demande d'autorisation est présentée par le propriétaire du terrain ou par une personne morale ayant qualité pour
-bénéficier soit de l'expropriation dudit terrain pour cause d'utilité publique, soit des servitudes prévues à l'article 12 de
-la loi du 15 juin 1906 sur les distributions d'énergie. Elle est adressée au préfet par lettre recommandée avec demande
-d'avis de réception. Elle peut concerner un abattage, une coupe ou plusieurs coupes échelonnées, le cas échéant, sur
-plusieurs années. Elle doit préciser la situation, la nature et la quotité de chaque coupe ou abattage ainsi que l'année de
-son exécution et les éventuels travaux de plantation que le propriétaire s'engage à exécuter. Au cas où la demande est
-présentée par les personnes morales susmentionnées, le préfet adresse au propriétaire une copie de cette demande par lettre
-recommandée avec demande d'avis de réception.
-
-Lorsqu'un propriétaire soumet à l'approbation du préfet un règlement d'exploitation ou une demande d'autorisation de coupe au
-titre de l'article 188 du code forestier, le projet de règlement d'exploitation ou la demande d'autorisation vaut aussi
-demande d'autorisation préalable de coupe au sens du cinquième alinéa de l'article L. 130-1 du code de l'urbanisme ainsi que
-demande d'autorisation préalable pour l'application de l'article L. 421-6 dudit code. L'instruction est engagée conjointement
-au titre des deux législations.
-
-L'autorisation peut être subordonnée à des prescriptions spéciales concernant notamment des techniques de gestion, le respect
-de certains peuplements, l'obligation de procéder à des reboisements ou à des plantations de remplacement.
-
-La décision est prise après avis du directeur départemental de l'agriculture et du directeur départemental de l'équipement.
-Elle est notifiée au demandeur.
-
-La coupe ou l'abattage ne peut être effectué par la personne morale mentionnée au second alinéa du présent article qu'avec le
-consentement du propriétaire ou, à défaut, soit après l'acquisition par cette personne morale de la propriété des terrains
-concernés, soit après la création des servitudes prévues par l'article 12 de la loi du 15 juin 1906 sur les distributions
-d'énergie.
-
-Si la coupe ou l'abattage n'ont pu être pratiqués au cours de l'année pour laquelle l'autorisation a été donnée, ils peuvent
-être pratiqués l'année suivante sans nouvelle autorisation.
-
-Les coupes rases doivent être suivies, dans les cinq ans, de travaux de reboisement, à défaut de regénération naturelle.
-
-Aucune autorisation n'est nécessaire pour procéder à l'enlèvement des arbres dangereux, des chablis et des bois morts.
-
-Nonobstant toutes dispositions réglementaires attribuant compétence à une autre autorité, les décisions intervenant sur des
-demandes d'autorisation d'occupation ou d'utilisation du sol dans les espaces boisés classés sont prises par le préfet après
-avis du directeur départemental de l'agriculture.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°78-808 1978-08-01 ART. 18 JORF 2 AOUT 1978
-	  - Décret n°79-515 1979-06-28 ART. 1 JORF 1 JUILLET 1979
-
-	**Cité par**:
-
-	  - Code forestier (nouveau) - art. R141-26 (M)
-	  - Code de l'environnement - art. R300-2 (M)
-	  - Code de l'urbanisme - art. R*130-5 (Ab)
-	  - Code de l'urbanisme - art. R*710-1 (Ab)
-	  - Code de l'urbanisme - art. R130-14 (M)
-	  - Code de l'urbanisme - art. R130-3 (M)
-	  - Code de l'urbanisme - art. R142-3 (M)
-	  - Code forestier - art. R412-8 (M)
-
-	**Cite**:
-
-	  - Code forestier 188
-	  - Code de l'urbanisme - art. L421-6 (M)
-	  - Code de l'urbanisme - art. R130-2 (M)
-	  - Code de l'urbanisme L130-1 AL. 5
-	  - Loi   1906-06-15 ART. 12
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*130-3 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R130-4 (M)
-	  - PILOTE_SUIVEUR: Code forestier - art. R412-8 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-#### Utilisation du sol, défrichements, coupes et abattages d'arbres dans les espaces boisés classés non soumis au régime forestier.
-
-###### Article R*130-3
-
-Le rejet de plein droit de la demande d'autorisation de défrichement, prévu à l'article L. 130-1, est constaté par arrêté
-préfectoral.
-
-Dans le cas prévu au quatrième alinéa de l'article L. 130-1 [*exploitation produits minéraux*] la demande d'autorisation de
-défrichement est instruite dans les formes et délais prescrits par le code forestier sous réserve des dispositions
-complémentaires suivantes :
-
-a) La demande doit être accompagnée d'une étude d'impact établie conformément aux dispositions de l'article 2 de la loi n.
-76-629 du 10 juillet 1976 et des textes pris pour son application, ainsi que de l'engagement du pétitionnaire de réaménager
-le site selon les prescriptions dont l'autorisation d'exploitation de carrière sera assortie si elle est accordée ;
-
-b) La demande est soumise pour avis au chef du service interdépartemental de l'industrie et des mines en ce qui concerne
-l'intérêt de l'exploitation du gisement pour l'économie nationale ou régionale et au délégué régional à l'environnement, en
-ce qui concerne les conséquences de l'exploitation pour l'environnement. Ces avis sont réputés exprimés à l'expiration d'un
-délai de deux mois.
-
-Nonobstant toutes dispositions contraires, une autorisation de défrichement accordée dans un espace boisé classé en
-application du présent article vaut autorisation de coupe et abattage au sens de l'article L. 130-1.
-
-Si la mise en exploitation d'un gisement de produits minéraux dans un espace boisé classé ne nécessite pas l'autorisation de
-défrichement au titre de la législation forestière, mais est subordonné à une autorisation de coupe et abattage, cette
-autorisation ne peut être accordée que si la procédure définie au deuxième alinéa ci-dessus, a été respectée.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°76-629 du 10 juillet 1976 - art. 2 (M)
-	  - Code de l'urbanisme L130-1 AL. 4
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*130-1 (M)
-	  - Code de l'urbanisme - art. R*130-4 (M)
-	  - Code de l'urbanisme - art. R142-3 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. R*130-2 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*130-2 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R130-1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 #### Utilisation du sol, défrichements, coupes et abattages d'arbres dans les espaces boisés classés
 
 ##### Présentation de la demande
@@ -20621,124 +20486,6 @@ Les coupes rases doivent être suivies dans les cinq ans de travaux de reboiseme
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-
-#### Compensation entre terrains boisés et terrains à bâtir et autorisation de construire sur une partie d'un terrain classé.
-
-###### Article R*130-7
-
-L'autorisation prévue au deuxième alinéa de l'article L. 130-2 du code de l'urbanisme est demandée au préfet. La demande est
-accompagnée des pièces justifiant que son auteur à la qualité de propriétaire, d'un plan de situation du terrain classé, d'un
-plan parcellaire de la propriété dans laquelle ce terrain est compris et d'un état des plantations //DECRET 1141 : ainsi que
-de l'étude d'impact définie à l'article 2 du décret n. 77-1141 du 12 octobre 1977//.
-
-La demande est instruite par le directeur départemental de l'équipement, qui consulte le directeur départemental de
-l'agriculture et le directeur des services fiscaux et établit un rapport relatif notamment à la localisation et à l'étendue
-du terrain à déclasser ainsi qu'à la nature et à l'importance des constructions pouvant être autorisées //DECRET 1141 : Le
-directeur départemental de l'agriculture établit, le cas échéant, un rapport faisant apparaître les conséquences d'un
-éventuel défrichement au regard des dispositions de l'article 158 du code forestier.//
-
-Sauf s'il apparaît que la demande ne peut être accueillie, le préfet saisit du dossier le maire de chacune des communes
-intéressées en vue de la délibération du conseil municipal sur l'accord prévu au troisième alinéa de l'article L. 130-2. Si
-le conseil municipal ne s'est pas prononcé dans les quatre mois de cette saisine, l'accord est réputé refusé.
-
-Sauf, en cas de désaccord des communes intéressées, le préfet transmet le dossier, avec son avis et ses propositions, au
-ministre chargé de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°77-1141 du 12 octobre 1977 - art. 2 (M)
-	  - Code forestier 158
-	  - Code de l'urbanisme L130-2 AL. 2 ET 3
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. R*130-16 (V)
-	  - Code de l'urbanisme - art. R130-16 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-#### Dispositions diverses.
-
-###### Article R*130-11
-
-Le préfet informe le centre régional de la propriété forestière des décisions prescrivant l'établissement des plans
-d'occupation des sols, ainsi que des classements d'espaces boisés intervenus en application du premier alinéa de l'article L.
-130-1 du code de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. R*130-20 (V)
-	  - Code de l'urbanisme R130-20
-
-	**Cite**:
-
-	  - Code de l'urbanisme L130-1 AL. 1
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*130-14
-
-Le préfet peut, dans les trois ans qui suivent l'année au cours de laquelle des déboisements ou des travaux illicites ont été
-exécutés, ordonner le rétablissement des lieux en nature de bois. Faute par le propriétaire de faire la plantation ou le
-semis dans le délai prescrit par le préfet, il y est pourvu par l'administration aux frais du propriétaire. La contribution
-de celui-ci est recouvrée comme en matière de contributions directes.
-
-Cette même procédure est applicable au cas où des travaux dont l'exécution a été prescrite n'ont pas été exécutés, le délai
-de trois ans partant de la fin de l'année au cours de laquelle ils auraient dû l'être.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. R*130-23 (VT)
-	  - Code de l'urbanisme R130-23
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R*130-5 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R130-16
-
-Conformément à l'article 7 du décret n. 72-289 du 17 avril 1972, la commission spéciale chargée, au sein de la mission
-interministérielle pour la protection et l'aménagement de l'espace naturel méditerranéen, de la définition du programme
-d'action et d'aménagement visant la protection et la reconstitution des massifs boisés est saisie, pour avis,
-[*attributions*] de tout projet d'aliénation, de concession ou de location à long terme d'espaces naturels boisés ou non
-appartenant à l'Etat, aux établissements publics ou aux collectivités locales, de tout projet de déboisement de forêts
-appartenant à l'Etat, à des collectivités locales ou à des particuliers.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R*130-7 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. R130-24 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Cite**:
-
-	  - Décret n°72-289 du 17 avril 1972 - art. 7 (V)
 
 
 ### Dispositions spéciales à certaines parties du territoire
@@ -35303,60 +35050,7 @@ pas les terrains précédemment détachés.
 	  - Code de l'urbanisme R315-3
 
 
-##### Présentation des demandes d'autorisation.
-
-###### Article R*315-11
-
-Sous réserve de ce qui est dit à l'article R. 315-12, l'un des exemplaires de la demande est adressé, par pli recommandé avec
-demande d'avis de réception postal [*condition de forme*], au maire de la commune dans laquelle le lotissement doit être
-réalisé ou déposé contre décharge à la mairie.
-
-Les autres exemplaires visés à l'article R. 315-10 (alinéa 1er), accompagnés d'une pièce justificative de l'envoi ou du dépôt
-de l'exemplaire destiné au maire, sont adressés, par pli recommandé avec demande d'avis de réception postal, au directeur
-départemental de l'équipement ou remis contre décharge dans ses bureaux.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme R315-12
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ##### Instruction des demandes
-
-##### Cas général.
-
-###### Article R*315-17
-
-Copie des lettres du directeur départemental de l'équipement mentionnées tant à l'article R. 315-15 qu'à l'article R. 315-16
-sont adressées au maire par le même courrier.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A315-3 (M)
-	  - Code de l'urbanisme - art. R*315-19 (Ab)
-	  - Code de l'urbanisme - art. R*315-21 (Ab)
-	  - Code de l'urbanisme - art. R*315-42 (Ab)
-	  - Code de l'urbanisme - art. R315-16 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R315-15 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R315-16 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
 
 ##### Dispositions applicables dans l'ensemble des communes
 
@@ -35499,102 +35193,6 @@ d) Lorsque le projet est situé dans un territoire en instance de classement ou 
 	**Cite**:
 
 	  - Loi n°1930-05-02 ART. 17, ART. 28
-
-
-##### Dispositions particulières.
-
-###### Article R*315-22
-
-L'arrêté du préfet, pris en application de l'article R. 421-22, confère au maire de la commune intéressée, au lieu et place
-du directeur départemental de l'équipement, le pouvoir d'instruction [*autorité compétente*] pour l'ensemble des demandes
-d'autorisation de lotissement, sous les réserves édictées à l'article R. 315-23.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°84-228 1984-03-29 ART. 12 JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*315-13 (Ab)
-	  - Code de l'urbanisme - art. R*315-24 (Ab)
-	  - Code de l'urbanisme - art. R*315-40 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R315-23 (M)
-	  - Code de l'urbanisme - art. R421-22 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*315-23
-
-Demeure dans les attributions du directeur départemental de l'équipement l'instruction des demandes concernant :
-
-a) Les lotissements pour lesquels le lotisseur est une personne morale de droit public ;
-
-b) Les lotissements à usage d'habitation comportant plus de 100 lots.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°84-228 1984-03-29 ART. 12 JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*315-12 (Ab)
-	  - Code de l'urbanisme - art. R*315-22 (M)
-	  - Code de l'urbanisme - art. R*315-24 (Ab)
-	  - Code de l'urbanisme - art. R*315-40 (M)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R*315-6 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-##### Instructions des demandes
-
-##### Cas général.
-
-###### Article R*315-21
-
-Lorsque la décision n'a pas été notifiée dans les délais résultant de l'application des articles R. 315-15, R. 315-16, R.
-315-19 et R. 315-20, le demandeur peut saisir le préfet par lettre recommandée avec demande d'avis de réception [*condition
-de forme*].
-
-La décision de l'autorité compétente doit être notifiée dans la même forme de délai d'un mois à compter de [*point de
-départ*] la lettre du demandeur visée à l'alinéa ci-dessus, faute de quoi, à l'expiration de ce délai, la lettre mentionnée à
-l'article R. 315-15 vaut autorisation [*tacite*] de lotir conformément au dossier en état dont le dépôt a fait courir le
-délai d'instruction en vertu des articles R. 315-15 et R. 315-16.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A315-3 (Ab)
-	  - Code de l'urbanisme - art. R*315-15 (Ab)
-	  - Code de l'urbanisme - art. R*315-30 (Ab)
-	  - Code de l'urbanisme - art. R*315-42 (Ab)
-	  - Code de l'urbanisme - art. R315-14 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R315-16 (M)
-	  - Code de l'urbanisme - art. R315-19 (M)
-	  - Code de l'urbanisme - art. R315-20 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 ##### Décision.
@@ -42525,63 +42123,6 @@ NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 
 #### Délivrance.
 
-##### Régime général
-
-###### Article R*410-3
-
-Le maire fait connaître ses observations, notamment au regard des dispositions de l'article L. 421-5 au directeur
-départemental de l'équipement dans un délai d'un mois à compter de [*point de départ*] la date de réception de l'exemplaire
-de la demande qui lui a été adressée.
-
-Passé ce délai, le maire est réputé [*silence*] n'avoir aucune observation à formuler.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-613 1972-07-03 ART. 3
-
-	**Cité par**:
-
-	  - Décret n°2014-358 du 20 mars 2014 - art. 4 (V)
-	  - Décret n°2017-81 du 26 janvier 2017 - art. 1
-	  - Code de l'environnement - art. R181-10 (VD)
-	  - Code de l'urbanisme - art. R*410-17 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L421-5 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*410-6
-
-Le certificat d'urbanisme est délivré dans un délai de deux mois à compter de [*point de départ*] la date figurant sur l'avis
-de réception postal ou sur la décharge visés à l'alinéa 3 de l'article R. 410-2.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-613 1972-07-03 ART. 6
-
-	**Cité par**:
-
-	  - Décret n°2014-358 du 20 mars 2014 - art. 4 (V)
-	  - Code de l'environnement - art. R181-10 (VD)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R410-2 AL. 3
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ##### Dispositions applicables dans l'ensemble des communes
 
 ###### Article R*410-9
@@ -42695,458 +42236,6 @@ l'autorisation est jointe à la demande de permis de construire//.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-
-##### Règles applicables à toute construction
-
-##### Présentation de la demande
-
-###### Article R421-9
-
-Sous réserve de ce qui est dit à l'article R. 421-10, l'un des exemplaires de la demande de permis de construire est adressé
-par pli recommandé avec demande d'avis de réception postal [*condition de forme*] au maire de la commune dans laquelle les
-constructions doivent être édifiées, ou déposé contre décharge à la mairie.
-
-Les autres exemplaires visés à l'article R. 421-8 (1er alinéa), accompagnés d'une pièce justificative de l'envoi ou du dépôt
-de l'exemplaire destiné au maire, sont adressés par pli recommandé avec demande d'avis de réception postal au directeur
-départemental de l'équipement ou remis contre décharge dans ses bureaux.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. R341-10 (VD)
-	  - Code de l'urbanisme - art. *R421-1 (M)
-	  - Code de l'urbanisme - art. A421-2 (Ab)
-	  - Code de l'urbanisme - art. A421-3-1 (T)
-	  - Code de l'urbanisme - art. A431-1 (V)
-	  - Code de l'urbanisme - art. R*421-12 (M)
-	  - Code de l'urbanisme - art. R*421-32 (Ab)
-	  - Code de l'urbanisme - art. R*421-38 (M)
-	  - Code de l'urbanisme - art. R*443-7-2 (Ab)
-	  - Code de l'urbanisme - art. R421-13 (M)
-	  - Code de l'urbanisme - art. R421-24 (M)
-	  - Code de l'urbanisme - art. R421-41 (M)
-	  - Code de l'urbanisme - art. R445-12 (Ab)
-	  - Code de l'urbanisme - art. R445-8 (Ab)
-	  - Code de la construction et de l'habitation. - art. R*421-8 (M)
-	  - Code du tourisme. - art. D333-1 (V)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-10 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-13 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-38 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-41 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R421-10 (M)
-	  - Code de l'urbanisme R421-8 AL. 1
-
-	**Anciens textes**:
-
-	  - Décret n°70-446 1970-05-26 ART. 8-1
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-##### Instruction de la demande - Régime général.
-
-###### Article R421-11
-
-Dans le mois de la réception de l'exemplaire de la demande qui lui est destiné, le maire fait connaître son avis au directeur
-départemental de l'équipement. Cet avis doit être motivé et communiqué au préfet s'il est défavorable. Il est réputé
-favorable s'il n'est pas intervenu dans le délai prévu ci-dessus [*silence*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-446 1970-05-26 ART. 9
-	  - Code de l'urbanisme - art. R421-10-1 (T)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Cité par**:
-
-	  - Décret n°2009-447 du 21 avril 2009 - art. 7 (V)
-	  - Décret n°2009-448 du 21 avril 2009 - art. 7 (V)
-	  - Décret n°2009-449 du 22 avril 2009 - art. 7 (V)
-	  - Décret n°2009-486 du 29 avril 2009 - art. 7 (V)
-	  - Décret n°2009-1677 du 29 décembre 2009 - art. 7 (V)
-	  - Décret n°2012-507 du 18 avril 2012 - art. 7 (V)
-	  - Code de l'urbanisme - art. R421-10 (M)
-	  - Code de l'urbanisme - art. R421-24 (M)
-	  - Code de la construction et de l'habitation. - art. R*421-8 (M)
-
-
-###### Article R421-21
-
-Des arrêtés du ministre chargé de l'urbanisme et, s'il y a lieu, du ou des ministres intéressés peuvent confier, à titre
-temporaire, à des fonctionnaires d'autres ministères l'instruction des demandes de permis de construire concernant certaines
-constructions, notamment lorsque celles-ci sont financées ou subventionnées par lesdits ministères.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°87-285 du 22 avril 1987 - art. 3 (V)
-	  - Code de l'urbanisme - art. R445-8 (Ab)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 317 sexies (VT)
-
-	**Anciens textes**:
-
-	  - Décret n°70-446 1970-05-26 ART. 18
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-##### Instruction de la demande - Dispositions applicables sur le territoire des communes disposant d'une organisation technique suffisante.
-
-###### Article R421-22
-
-Dans les communes, qui ont une population supérieure à 50.000 habitants, qui sont pourvues d'un plan d'urbanisme approuvé ou
-d'un plan d'occupation des sols rendu public ou approuvé et qui disposent soit par elles-mêmes, soit par l'intermédiaire d'un
-établissement public administratif, d'une organisation technique suffisante, le préfet peut, par arrêté pris sur la demande
-ou après accord du maire [*autorité compétente*], conférer à celui-ci, aux lieu et place du directeur départemental de
-l'équipement, le pouvoir d'instruction pour l'ensemble des demandes de permis de construire, à l'exception de celles qui sont
-visées à l'article R. 421-23.
-
-La condition de population fixée ci-dessus ne s'applique pas aux communes qui, antérieurement au 14 juillet 1973, ont été
-habilitées à procéder à l'instruction de certaines demandes de permis de construire.
-
-La mise en révision du plan d'urbanisme ou du plan d'occupation des sols ou la création d'une zone d'aménagement concerté ne
-fait pas obstacle à l'application des dispositions du présent article.
-
-En cas de fusion entre une commune habilitée à instruire les demandes de permis de construire et une ou plusieurs autres
-communes, l'arrêté préfectoral pris sur le fondement de l'alinéa 1er ci-dessus s'applique d'office à l'ensemble du territoire
-de la nouvelle commune.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°81-620 du 20 mai 1981 - art. 1 (V)
-	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 317 sexies (M)
-	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 384 B (M)
-	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 384 C (M)
-	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 384 F (M)
-	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 384 bis (M)
-	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 384 quater (M)
-	  - Code de l'urbanisme - art. L430-4 (Ab)
-	  - Code de l'urbanisme - art. R*315-12 (Ab)
-	  - Code de l'urbanisme - art. R*315-22 (M)
-	  - Code de l'urbanisme - art. R*315-5 (M)
-	  - Code de l'urbanisme - art. R*332-4 (M)
-	  - Code de l'urbanisme - art. R*332-5 (M)
-	  - Code de l'urbanisme - art. R*333-20 (M)
-	  - Code de l'urbanisme - art. R*333-4 (M)
-	  - Code de l'urbanisme - art. R*333-5 (M)
-	  - Code de l'urbanisme - art. R*333-6 (M)
-	  - Code de l'urbanisme - art. R*333-9 (M)
-	  - Code de l'urbanisme - art. R*410-6 (M)
-	  - Code de l'urbanisme - art. R*410-7 (Ab)
-	  - Code de l'urbanisme - art. R*421-38 (M)
-	  - Code de l'urbanisme - art. R*422-8 (Ab)
-	  - Code de l'urbanisme - art. R*430-10-3 (Ab)
-	  - Code de l'urbanisme - art. R*430-15 (M)
-	  - Code de l'urbanisme - art. R*430-21 (Ab)
-	  - Code de l'urbanisme - art. R*441-10 (Ab)
-	  - Code de l'urbanisme - art. R*441-6-7 (T)
-	  - Code de l'urbanisme - art. R421-10 (M)
-	  - Code de l'urbanisme - art. R421-24 (M)
-	  - Code de l'urbanisme - art. R421-32 (M)
-	  - Code de l'urbanisme - art. R421-36 (M)
-	  - Code de l'urbanisme - art. R421-40 (Ab)
-	  - Code de l'urbanisme - art. R421-41 (Ab)
-	  - Code de l'urbanisme - art. R440-3 (Ab)
-	  - Code de l'urbanisme - art. R442-10 (Ab)
-	  - Code de l'urbanisme - art. R442-4-11 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-10 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-23 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-24 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-36 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-38 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-39 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-40 (Ab)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R440-3 (Ab)
-	  - TXT_ASSOCIE: Code de l'urbanisme R430-15
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R421-23 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°70-446 1970-05-26 ART. 19
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R421-26
-
-Si le dossier est incomplet, le maire, dans les quinze jours [*délai*] de la réception de la demande, invite par lettre
-recommandée avec demande d'avis de réception postal [*condition de forme*], le demandeur à fournir les pièces complémentaires
-dans les conditions prévues à l'article R. 421-10. Lorsque ces pièces ont été produites, il est fait application de l'article
-R. 421-25. Le délai d'instruction part de la réception des pièces complétant le dossier.
-
-Les dispositions du présent article sont applicables au cas où des exemplaires supplémentaires du dossier sont réclamés au
-demandeur comme il est dit aux articles R. 421-8 (alinéa 2) et R. 421-10 (alinéa 2).
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A451-1 (V)
-	  - Code de l'urbanisme - art. R*421-26-1 (Ab)
-	  - Code de l'urbanisme - art. R421-24 (M)
-	  - Code de l'urbanisme - art. R421-27 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R421-10 (M)
-	  - Code de l'urbanisme - art. R421-25 (M)
-	  - Code de l'urbanisme R421-8 AL. 2
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-10 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-25 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°70-446 1970-05-26 ART. 19-4
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R421-27
-
-Copies des lettres du maire visées tant à l'article R. 421-25 qu'à l'article R. 421-26 sont adressées au directeur
-départemental de l'équipement par le même courrier accompagnées d'un exemplaire du dossier et des pièces complémentaires.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*421-26 (V)
-	  - Code de l'urbanisme - art. R421-24 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R421-25 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°70-446 1970-05-26 ART. 19-5
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-##### Décision.
-
-###### Article R*421-38
-
-Le permis de construire est périmé si les constructions ne sont pas entreprises dans le délai de deux ans à compter de la
-notification visée à l'article R. 421-34 ou de la délivrance tacite du permis de construire. Il en est de même si les travaux
-sont interrompus pendant un délai supérieur à une année.
-
-Le délai de validité du permis de construire est suspendu, le cas échéant, pendant la durée du sursis à exécution de la
-décision portant octroi dudit permis, ordonné par décision juridictionnelle ou administrative, ainsi que, en cas d'annulation
-du permis de construire prononcée par jugement du tribunal administratif frappé d'appel, jusqu'à la décision rendue par le
-Conseil d'Etat.
-
-Il peut être prorogé pour une nouvelle année, sur demande de son bénéficiaire adressée à l'autorité administrative deux mois
-au moins avant l'expiration du délai de validité, si les prescriptions d'urbanisme et les servitudes administratives de tous
-ordres auxquelles est soumis le projet n'ont pas évolué de façon défavorable à son égard.
-
-La demande de prorogation, formulée par lettre en double exemplaire, est adressée simultanément au maire et au directeur
-départemental de l'équipement dans les conditions fixées à l'article R. 421-9 ou, lorsqu'il est fait application de l'article
-R. 421-22, au maire, dans les conditions fixées à l'article R. 421-10 (1er alinéa). La prorogation [*tacite*] est acquise au
-bénéficiaire du permis de construire si aucune décision ne lui a été adressée dans le délai de deux mois suivant la date de
-l'avis de réception postal ou de la décharge, soit du directeur départemental de l'équipement, soit, en cas d'application de
-l'article R. 421-22, du maire. La prorogation prend effet à la date de la décision de prorogation ou à l'expiration du délai
-de deux mois.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°81-788 1981-08-12 ART. 3 JORF 19 AOUT 1981
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. R*421-32 (Ab)
-	  - Code de l'urbanisme - art. R421-32 (M)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*421-42 (Ab)
-	  - Code de l'urbanisme - art. R*443-7-6 (Ab)
-	  - Code de l'urbanisme - art. R313-32 (Ab)
-	  - Code de l'urbanisme - art. R421-18 (M)
-	  - Code de l'urbanisme - art. R421-46 (Ab)
-	  - Code de l'urbanisme - art. R442-11 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-10 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-22 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-9 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R421-22 (M)
-	  - Code de l'urbanisme - art. R421-34 (M)
-	  - Code de l'urbanisme - art. R421-9 (M)
-	  - Code de l'urbanisme R421-10 AL. 1
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R421-35
-
-La date de la notification prévue à l'article R. 421-34 (alinéa 1er) est, dans tous les cas, pour l'application de la
-présente section, celle du cachet de la poste.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*443-7-6 (Ab)
-	  - Code de l'urbanisme - art. R445-8 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R421-34 AL. 1
-
-	**Anciens textes**:
-
-	  - Décret n°70-446 1970-05-26 ART. 23
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-##### Dispositions applicables aux constructions et travaux soumis au régime du permis de construire et à un autre régime d'autorisation
-
-##### Dispositions relatives aux eaux intérieures et aux périmètres submersibles
-
-###### Article R421-38-14
-
-La demande de permis de construire tient lieu de la déclaration mentionnée à l'article 50 du code du domaine public fluvial
-et de la navigation intérieure pour les constructions situées dans les parties submersibles des vallées.
-
-Dans un délai de /M/trois mois/M/DECR. 788 du 12 août 1981 :
-
-un mois// à compter de la réception de la demande, le préfet peut, après consultation du service chargé des mesures de
-défense contre les inondations et du service chargé de la police des cours d'eau, s'opposer à la délivrance du permis de
-construire ou ne donner son accord qu'à condition que le permis soit assorti des prescriptions nécessaires pour assurer le
-libre écoulement des eaux ou la conservation des champs d'inondation. Après l'expiration de ce délai, le permis de construire
-est délivré dans les conditions du droit commun.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du domaine public fluvial 50
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°81-788 1981-08-12 ART. 8 JORF 19 AOUT 1981
-
-
-###### Article R421-38-15
-
-Lorsque la construction est, en raison de sa situation dans le Val de Loire, soumise à autorisation en vertu de l'article 59
-(alinéa 4) du code du domaine public fluvial et de la navigation intérieure, le permis de construire est délivré après
-consultation des ingénieurs de la navigation et avec l'accord du préfet. Cet accord [*tacite*] est réputé donné à défaut de
-réponse dans un délai de trois mois suivant la transmission de la demande de permis de construire par l'autorité chargée de
-son instruction.
-
-Lorsque la construction est, en raison de sa situation dans la zone d'inondation du Rhin, soumise à autorisation en vertu de
-l'article 39 de la loi locale du 2 juillet 1891, le permis de construire est délivré avec l'accord de l'ingénieur de la
-navigation. Cet accord est réputé donné à défaut de réponse dans un délai de trois mois suivant la transmission de la demande
-de permis de construire par l'autorité chargée de son instruction.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du domaine public fluvial 59 AL. 4
-	  - Loi   1891-07-02 ALSACE-LORRAINE
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R421-38-16
-
-Lorsque la construction est, en raison de sa situation à l'intérieur d'une zone de servitude de libre passage sur les berges
-des cours d'eau non domaniaux, soumise à autorisation en vertu de l'article 1er du décret n° 59-96 du 7 janvier 1959, le
-permis de construire est délivré après consultation du service chargé de la police des cours d'eau et avec l'accord du préfet
-[*conditions*]. Cet accord [*tacite, silence*] est réputé donné faute de réponse dans /M/un délai de trois mois/M/DECR. 788
-du 12 août 1981 : un délai d'un mois// suivant la transmission de la demande de permis de construire par l'autorité chargée
-de son instruction.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Cite**:
-
-	  - Décret n°59-96 du 7 janvier 1959 - art. 1 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°81-788 1981-08-12 ART. 10 JORF 19 AOUT 1981
-
-
-##### Réserve en bordure du domaine public maritime
-
-###### Article R421-38-17
-
-Lorsque la construction est, en raison de sa situation dans une réserve créée en bordure du domaine public maritime, soumise
-à autorisation en vertu de l'article 4, alinéa 3, de la loi n. 63-1178 du 28 novembre 1963, le permis de construire est
-délivré après consultation de l'ingénieur en chef du service maritime et de la commission départementale des rivages de la
-mer. Toutefois, ces consultations ne sont pas nécessaires si l'autorisation résulte de dispositions générales prévues par un
-arrêté du préfet pris après un avis de cette commission.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Cite**:
-
-	  - Loi n°63-1178 1963-11-28 ART. 4 AL. 3
 
 
 ##### Présentation de la demande.
@@ -44062,33 +43151,6 @@ cas de récidive, outre la peine d'amende, un emprisonnement de dix jours à un 
 
 ### Permis de démolir
 
-#### Régime général
-
-##### La décision
-
-###### Article R*430-19
-
-Tout recours hiérarchique dirigé contre une décision prise sur une demande de permis de démolir doit être présenté
-conformément aux dispositions du présent article.
-
-Lorsque l'immeuble est soumis au régime du permis de démolir exclusivement en application des dispositions de l'article L.
-430-1 A, le recours est adressé au ministre chargé du logement.
-
-Lorsque l'immeuble est soumis au régime du permis de démolir exclusivement en application des dispositions de l'article L.
-430-1 b à f, le recours est adressé simultanément au ministre chargé des monuments historiques et des sites, au ministre
-chargé de l'urbanisme et au ministre chargé du logement, qui statuent par arrêté du conjoint.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme L430-1 D
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 #### La demande
 
 ###### Article R*430-5
@@ -44294,94 +43356,7 @@ champ d'application de l'article L. 430-1 A, il exerce ce pouvoir conjointement 
 	  - Code de l'urbanisme R430-12
 
 
-#### Dispositions particulières aux immeubles insalubres.
-
-###### Article R*430-27
-
-Lorsqu'un immeuble insalubre est inscrit sur l'inventaire supplémentaire des monuments historiques, est situé dans le champ
-de visibilité d'un édifice classé ou inscrit ou est protégé au titre des articles 4, 9, 17 ou 28 de la loi du 2 mai 1930, sa
-démolition ne peut être ordonnée par le préfet en application de l'article L. 28 du code de la santé publique qu'après avis
-de l'architecte des bâtiments de France. Cet avis est réputé délivré en l'absence de réponse dans le délai de quinze jours
-[*silence*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L28 (M)
-	  - Loi   1930-05-02 ART. 4, 9, 17, 28
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ### Dispositions relatives aux modes particuliers d'utilisation du sol
-
-#### Stationnement des caravanes.
-
-###### Article R443-15
-
-Des fonctionnaires désignés par le préfet et porteurs d'un ordre de mission ou d'une commission sont habilités à inspecter
-même inopinément, les terrains aménagés pour le stationnement collectif des caravanes ou qui auraient dû l'être et ceux sur
-lesquels se trouvent des caravanes dont le stationnement a été autorisés ou aurait dû l'être.
-
-Sera puni d'une amende de 600 F à 1000 F et pourra l'être, en outre, d'un emprisonnement pendant huit jours au plus,
-quiconque aura entravé l'exercice du droit d'inspection desdits terrains.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°68-134 du 9 février 1968 - art. 12 (Ab)
-	  - Arrêté du 11 janvier 1993 - art. 10 (Ab)
-	  - Arrêté du 15 novembre 1985 - art. 10 (Ab)
-	  - Code du tourisme. - art. R331-10 (M)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R440-22 (T)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-##### Stationnement sur des terrains aménagés.
-
-###### Article R443-8
-
-L'autorisation d'ouverture prévue à l'article R. 443-7 peut être subordonnée à la condition que le demandeur procède dans un
-délai fixé par le préfet aux aménagements prescrits et respecte les conditions imposées par l'arrêté préfectoral
-d'autorisation.
-
-Si les aménagements prévus comportent une division de la propriété du terrain, celle-ci doit être expressement autorisée par
-l'arrêté préfectoral mentionné à l'article précédent.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 15 novembre 1985 - art. 3 (Ab)
-	  - CODE DES COMMUNES. - art. R*234-21 (M)
-	  - Code de l'urbanisme - art. R*443-4 (M)
-	  - Code de l'urbanisme - art. R*443-8-2 (Ab)
-	  - Code de l'urbanisme - art. R*444-3 (Ab)
-	  - Code de l'urbanisme - art. R*444-4 (M)
-	  - Code de l'urbanisme - art. R443-13 (M)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R440-15 (T)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R443-7 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
 
 #### Autorisation des clôtures.
 
@@ -44685,83 +43660,6 @@ Dans ce cas, la décision est prise dans les conditions prévues à l'article R.
 
 ##### Procédure d'autorisation
 
-##### Cas général.
-
-###### Article R442-4
-
-La demande d'autorisation exigée en vertu de l'article R. 442-2 est présentée par le propriétaire du terrain, par son
-mandataire, par une personne justifiant d'un titre l'habilitant à exécuter les installations ou travaux ou par une personne
-ayant qualité pour bénéficier de l'expropriation du terrain pour cause d'utilité publique.
-
-La demande et le dossier qui l'accompagne sont établis en trois exemplaires. La demande précise l'identité et l'adresse du
-pétitionnaire et, le cas échéant, celles du propriétaire, l'emplacement du terrain et sa superficie, la nature et les
-dimensions de l'installation ainsi que l'utilisation qui en est prévue.
-
-Le dossier joint à la demande est constitué [*contenu*] par :
-
-a) Un plan sommaire des lieux, comportant l'implantation de l'installation projetée et l'indication des bâtiments de toute
-nature existant sur le terrain ;
-
-b) Un croquis côté ou un plan côté de l'installation projetée.
-
-Les dispositions des articles R. 441-5 et R. 441-6 sont applicables à la présentation et à l'instruction de la demande.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A442-1 (Ab)
-	  - Code de l'urbanisme - art. R442-11 (M)
-	  - Code de l'urbanisme - art. R445-11 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R442-2 (M)
-	  - Code de l'urbanisme R441-6
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R442-5
-
-La décision en matière d'autorisation d'installations et de travaux divers est de la compétence du maire sauf dans les cas
-énumérés ci-après.
-
-La décision est de la compétence du préfet :
-
-a) Lorsque le maire et le directeur départemental de l'équipement ont émis des avis en sens contraires ;
-
-b) Lorsqu'une dérogation ou une adaptation mineure aux dispositions mentionnées aux articles R. 421-15 (alinéa 3) et R.
-421-28 (alinéa 3) [*plan d'occupation des sols, plan d'urbanisation, cahier des charges de lotissements*] est nécessaire ;
-dans ce cas, la décision d'octroi de l'autorisation doit indiquer les motifs de la dérogation accordée ;
-
-c) Lorsque l'installation ou le travail qui fait l'objet de la demande d'autorisation requiert l'avis ou l'avis conforme des
-services, autorités ou commissions relevant du ministre chargé des monuments historiques et des sites ou du ministre chargé
-de la protection de la nature, à l'exception du cas des sites inscrits ;
-
-d) Lorsque l'installation qui fait l'objet de la demande d'autorisation entre le champ d'application de l'article 50 du code
-du domaine public fluvial et de la navigation intérieure et des textes pris pour son application.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*442-14 (Ab)
-	  - Code de l'urbanisme - art. R442-10 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R421-15 (M)
-	  - Code de l'urbanisme - art. R421-28 (M)
-	  - Code du domaine public fluvial 50
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ##### Décision
 
 ##### Dispositions générales.
@@ -45064,34 +43962,6 @@ maires.
 	**Modifié par**:
 
 	  - Décret n°84-226 1984-03-29 ART. 31 JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
-
-
-### Contrôle
-
-#### Certificat de conformité
-
-###### Article R460-5
-
-A défaut de notification de la décision dans les trois mois, le pétitionnaire requiert le ministre chargé de l'urbanisme de
-prendre la décision. Celle-ci doit lui être notifiée dans le mois de cette réquisition. A l'expiration de ce dernier délai,
-si aucune notification n'est intervenue, la décision [*tacite*] est réputée favorable.
-
-La date de la notification est dans tous les cas, celle du cachet de la poste.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-447 1970-05-28 ART. 4 AL. 3
-	  - Code de l'urbanisme 98-I AL. 2
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R460-6 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 ### Dispositions communes au titre III du livre 1er au chapitre V du titre 1er du livre III et aux titres I à IV et VI du présent livre.
@@ -46056,23 +44926,29 @@ services publics sont exclues du champ d'application du présent titre.
 ###### Article R*510-5
 
 Pour les services ou établissements [*Région Parisienne Etat, collectivité publique*] soumis aux dispositions du présent
-titre en vertu de l'article R. 510-4 les locaux ou installations faisant l'objet d'opérations dont la réalisation est soumise
-à agrément sont :
+titre en vertu de l'article R. 510-4, les locaux ou installations faisant l'objet d'opérations dont la réalisation est
+soumise à agrément sont :
 
 1. Les locaux ou installations à usage administratif, industriel, technique, scientifique, scolaire, universitaire, culturel,
-social ou militaire et leurs annexes de toute nature, y compris les locaux de magasinage, de bureau et de garage pour les
-véhicules de service ou d'exploitation ;
+social ou militaire y compris les locaux affectés à la recherche ;
 
 2. Les bureaux à usage administratif, militaire, professionnel, commercial, technique, scientifique, universitaire, culturel
-ou social et leurs annexes de toute nature ;
+ou social ;
 
-3. Les installations à usage d'entrepôt.
+3. Les installations à usage d'entrepôt ;
+
+4. Les locaux de toute nature, construits en annexe des installations et locaux mentionnés au 1, 2, 3 ci-dessus, y compris
+les locaux de magasinage, de bureau, de garage pour les véhicules de service ou d'exploitation.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°67-944 1967-10-24 ART. 5
+
+	**Abrogé par**:
+
+	  - decret 85-47 1985-01-14 art. 3 jorf 15 janvier 1985
 
 	**Cité par**:
 
@@ -46094,25 +44970,11 @@ ou social et leurs annexes de toute nature ;
 
 ###### Article R*510-6
 
-Pour les personnes physiques ou morales autres que celles mentionnées à l'article R. 510-4, les locaux ou installations
-faisant l'objet d'opérations dont la réalisation est soumise à agrément sont :
-
-1. Les locaux ou installations à usage industriel, technique ou scientifique et leurs annexes de toute nature, y compris les
-locaux de magasinage, de bureau et de garages de véhicules liés à l'exploitation, si l'opération envisagée porte sur une
-superficie développée de planchers supérieure à 1.500 mètres carrés ou si elle doit conduire leur utilisateur à disposer, à
-l'intérieur de la zone définie à l'article R. 510-1 [*région parisienne*] et pour les usages susvisés, d'une superficie
-développée de planchers supérieure au total à 1.500 mètres carrés ;
-
-2. Les locaux d'enseignement supérieur et les bureaux à usage commercial, professionnel, administratif, technique ou
-scientifique et leurs annexes de toute nature, si l'opération envisagée doit conduire leur utilisateur à disposer à
-l'intérieur de la zone définie à l'article R. 510-1 et pour les usages susvisés, d'une superficie de planchers supérieure à
-1.000 mètres carrés, ou si elle porte sur la construction, la reconstruction ou la création de superficies développées de
-planchers supérieures à 1.000 mètres carrés ;
-
-3. Les installations à usage d'entrepôt, si l'opération envisagée porte sur une superficie développée de planchers supérieure
-à /M/10.000 mètres carrés/M/DECR.0839 ART. 1 : 5.000 mètres carrés.// ou si elle doit conduire l'exploitant ou utilisateur à
-disposer, à l'intérieur de la zone définie à l'article R. 510-1 et pour les usages mentionnés ci-dessus, d'une superficie
-développée de planchers supérieure au total à /M/10.000 mètres carrés/M/DECR.0839 ART. 1 : 5.000 mètres carrés.//
+1. Les locaux ou installations, ainsi que leurs annexes de toute nature à usage industriel, technique, scientifique et
+notamment ceux affectés à la recherche au sens de l'article R. 520-1 du présent code      Toutefois, l'opération envisagée
+n'est soumise à agrément que si elle porte sur une superficie développée de plancher supérieure à 1 500 mètres carrés ou si
+elle doit conduire l'utilisateur à disposer à l'intérieur de la zone définie à l'article R. 510-1 et pour les usages
+susmentionnés, d'une superficie développée de planchers supérieure à 1 500 mètres carrés.
 
 **Liens relatifs à cet article**
 
@@ -46128,7 +44990,7 @@ développée de planchers supérieure au total à /M/10.000 mètres carrés/M/DE
 
 	**Cite**:
 
-	  - Code de l'urbanisme R510-1
+	  - Code de l'urbanisme R510-4
 
 	**Liens**:
 
@@ -46196,228 +45058,6 @@ de décentralisation ou par le ministre chargé de l'urbanisme, l'agrément est 
 
 
 ### Dispositions financières concernant la région parisienne
-
-#### Dispositions générales.
-
-###### Article R520-1
-
-Sont pris en considération pour l'établissement de la redevance instituée par l'article L. 520-1 [*champ d'application*]:
-
-1. Les locaux à usage de bureaux et leurs annexes, telles que couloirs, dégagements, salles de réunions, d'exposition,
-d'archives, salles d'attente et de réception.
-
-Sont exclus comme n'entrant pas dans cette catégorie notamment :
-
-a) Les locaux sanitaires ainsi que les locaux de caractère social affectés au personnel ;
-
-b) Les bureaux attenant à des magasins de vente ou à des locaux mentionnés au a ci-dessus et en constituant l'accessoire
-nécessaire ;
-
-c) Les locaux librement accessibles au public ;
-
-d) Les salles destinées exclusivement à des spectacles, à des congrès ou à des activités d'intérêt éducatif ou social.
-
-2. Les locaux situés dans l'enceinte d'un établissement industriel ou en constituant la dépendance directe, y compris les
-bureaux, les garages et les locaux de magasinage et de stockage, à l'exclusion des logements, des locaux sanitaires et des
-locaux à caractère social affectés au personnel.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°60-941 1960-09-05 ART. 1
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. L520-1 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R520-2
-
-Les montants prévus pour la redevance mentionnée à l'article L. 520-3 s'appliquent à la surface utile de plancher construite
-ou transformée telle qu'elle résulte soit du permis de construire , soit de la déclaration [*de transformation*] faite en
-application de l'article L. 520-9. 
-
-La surface utile de plancher [*définition*] est réputée égale, sauf preuve contraire, à la surface couverte à chaque niveau
-affectée d'un abattement forfaitaire de 5 p. 100.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°60-941 1960-09-05 ART. 2
-
-	**Modifié par**:
-
-	  - Décret n°83-1261 1983-12-30 ART. 46 III 17 JORF 7 JANVIER 1984 date d'entrée en vigueur 1 AVRIL 1984
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L520-3 (M)
-	  - Code de l'urbanisme - art. L520-9 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R520-3
-
-En cas de création par voie de construction ou de transformation, de locaux passibles de la redevance et sans préjudice de
-l'autorisation prévue à l'article 340 du code de l'urbanisme et de l'habitation si celle-ci est requise, la déclaration
-d'achèvement des travaux prévue à l'article R. 460-1 doit être faite dans les formes particulières fixées par un arrêté du
-ministre chargé de l'urbanisme et mentionner, avec toutes justifications utiles à l'appui, la personne physique ou morale
-propriétaire des locaux [*redevable*].
-
-Si le titre de perception est établi antérieurement au dépôt de la déclaration visée à l'alinéa précédent, il est décerné au
-titulaire du permis de construire, sauf à celui-ci à établir qu'il n'a pas la qualité de maître de l'ouvrage.
-
-Dans le cas contraire, il est décerné au propriétaire des locaux.
-
-Toutefois, aucun titre de perception n'est décerné si la construction réalisée consiste en une extension de locaux à usage
-industriel situés dans les zones autres que celles où sont applicables les taux les plus élevés fixés, en application de
-l'article L. 520-3, par les articles R. 520-12 à R. 520-15 à condition que le siège social de l'entreprise considérée s'y
-trouve situé et que la surface de plancher construite postérieurement au 4 août 1960 [*date limite*] n'excède pas 1.000
-mètres carrés ou 50 p. 100 des surfaces de plancher de l'établissement existant à cette date.
-
-S'il est procédé ultérieurement à de nouvelles constructions ayant pour effet de porter à plus de 1.000 mètres carrés ou à
-plus de 50 p. 100 de la surface de plancher de l'établissement la surface construite postérieurement au 4 août 1960, le titre
-de perception est décerné, dans les conditions indiquées aux premiers alinéas du présent article soit au titulaire du dernier
-permis de construire, soit à la personne qui est propriétaire à la date de l'émission de ce titre.
-
-Le titre est émis dans le délai /M/d'un an/M/DECR.0267 ART. 20: de deux ans// à compter de la délivrance du dernier permis de
-construire et le montant de la redevance est calculé sur l'ensemble des constructions qui ne sont pas exonérées de son
-paiement par les dispositions de l'article L. 520-7.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°60-941 1960-09-05 ART. 3
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L520-3 (M)
-	  - Code de l'urbanisme - art. L520-7 (M)
-	  - Code de l'urbanisme - art. R460-1 (M)
-	  - Code de l'urbanisme R520-12
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R520-2 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R520-6
-
-Le montant de la redevance est arrêté par décision du ministre chargé de l'urbanisme ou de son délégué [*autorité
-compétente*] .
-
-A défaut de paiement de la redevance dans le délai fixé à l'avertissement portant notification de la décision visée à
-l'alinéa précédent, la créance du Trésor fait l'objet d'un titre de perception. Ce dernier est émis conformément aux
-dispositions de l'article L. 79 du code du domaine de l'Etat par l'administration des domaines dans /M/l'année/M/DECR.0267
-ART. 21: le délai de deux ans// à compter de [*point de départ*] la délivrance du permis de construire ou de la déclaration
-[*transformation des locaux*] mentionnée à l'article L. 520-9.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°60-941 1960-09-05 ART. 7
-
-	**Cite**:
-
-	  - Code du domaine de l'Etat 79
-	  - Code de l'urbanisme - art. L520-9 (M)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R520-11 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R520-7
-
-A défaut de paiement par le débiteur désigné du titre de perception l'administration des domaines peut émettre de nouveaux
-titres de perception au nom des propriétaires successifs des locaux et en poursuivre le recouvrement en principal, pénalité
-et intérêts, pendant un délai d'un an après la déclaration d'achèvement des travaux.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R520-8
-
-Les redevances afférentes à des constructions réalisées à la suite d'un agrément à titre précaire et pour une durée limitée
-dans les conditions prévues par l'article R. 510-11 et d'un permis de construire délivré dans les conditions fixées par les
-articles L. 423-2 à L. 423-5 sont, le cas échéant, remboursées à la demande du redevable si celui-ci justifie que les locaux
-en cause ont été démolis dans les six mois à compter de l'expiration du délai de précarité.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°60-941 1960-09-05 ART. 9
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°83-1261 1983-12-30 ART. 46 III 18 JORF 7 janvier 1984 date d'entrée en vigueur 1 AVRIL 1984
-
-	**Cite**:
-
-	  - Code de l'urbanisme R510-11
-	  - Code de la construction et de l'habitation. - art. L432-2 (M)
-	  - Code de la construction et de l'habitation. - art. L432-3 (V)
-	  - Code de la construction et de l'habitation. - art. L432-4 (V)
-	  - Code de la construction et de l'habitation. - art. L432-5 (Ab)
-
-
-###### Article R520-9
-
-Est exonérée de la redevance prévue à l'article L. 520-1 la reconstitution par leur propriétaire initial ou, dans le cas de
-mutation successorale, par le bénéficiaire de la mutation, de locaux détruits par sinistre ou expropriés pour cause d'utilité
-publique, sous réserve que le sinistre ou l'expropriation ait interrompu une activité économique effective. Cette exonération
-est applicable aux opérations ayant fait l'objet d'une demande de permis de construire au plus tard dans les dix-huit mois
-qui suivent le sinistre ou l'expropriation, dans la limite d'une superficie de planchers utile égale à celle des locaux
-sinistrés ou expropriés et à condition que la reconstitution soit effectuée, sans changement d'affectation, soit sur place,
-soit dans une localité comportant un montant de redevance qui ne soit pas supérieur au montant applicable dans la localité où
-étaient situés les locaux sinistrés ou expropriés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°60-941 1960-09-05 ART. 10
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°83-1261 1983-12-30 ART. 46 III 18 JORF 7 JANVIER 1984 date d'entrée en vigueur 1 AVRIL 1984
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L520-1 (M)
-
 
 #### Montant des redevances.
 
@@ -46953,6 +45593,142 @@ ministres intéressés.
 
 ####  Section 1 : Dispositions générales
 
+###### Article R520-1
+
+1. Sont considérés comme locaux de recherche en vue de l'application de l'article L. 520-1 les locaux et leurs annexes de
+toute nature utilisés pour des activités ayant le caractère de recherches fondamentales, de recherches appliquées ou
+d'opérations de développement, quelle qu'en soit la nature et quel qu'en soit l'objet ou la dénomination, effectuées soit en
+bureau d'études ou de calcul, soit en laboratoires soit en ateliers pilotes, soit en stations expérimentales ou encore
+opérées dans des installations agricoles ou industrielles. 
+
+2. Lorsque à l'intérieur d'un même périmètre coexistent un établissement et un ou plusieurs bâtiments utilisés pour des
+activités de recherches distinctes du processus de fabrication exercé dans les bâtiments industriels, ce ou ces bâtiments
+sont considérés, sauf preuve contraire, comme constituant un établissement de recherche.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°60-941 1960-09-05 ART. 1
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L520-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R520-1-1
+
+Sont considérés comme locaux à usage de bureaux en vue de l'application de l'article L. 520-1 et sous réserve de la franchise
+de 1 000 mètres carrés par établissement mentionnée à l'article L. 520-7 : 
+
+1. Tous les locaux et leurs annexes tels que couloirs, dégagements salles de réunion, d'exposition, d'archives, salles
+d'attente et de réception, où sont exercées des activités de direction, de services, de conseil, d'étude, d'ingénierie, de
+traitement mécanographique ou d'informatique de gestion ; 
+
+2. Quelle que soit leur implantation les bureaux de la direction générale d'une entreprise industrielle, de ses services
+généraux, financiers, juridiques et commerciaux. 
+
+Au sens de la présente réglementation est réputé établissement industriel un ensemble de locaux et installations utilisés
+pour des activités concourant directement à la fabrication de produits commercialisables.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L520-1 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L520-7 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R520-1-2
+
+Ne sont pas pris en considération pour établir l'assiette de la redevance instituée par l'article L. 520-1 : 
+
+1. Dans tous les établissements et leurs annexes de toute nature, les locaux de caractère social ou sanitaire ; 
+
+2. Dans les magasins de vente et dans les entrepôts commerciaux les locaux à usage de bureaux à concurrence de 5 % de la
+superficie totale de l'ensemble des locaux construits.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L520-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R520-2
+
+Les montants prévus pour la redevance mentionnée à l'article R. 520-3 s'appliquent à la surface utile de plancher construite
+ou transformée telle qu'elle résulte soit du permis de construire, soit des déclarations visées aux articles L. 520-9 et R.
+422-3, soit des constatations effectuées par l'autorité administrative après l'achèvement des travaux.
+
+La surface utile de plancher est réputée égale, sauf preuve contraire, à la surface couverte à chaque niveau affectée d'un
+abattement forfaitaire de 5 p. 100.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°60-941 1960-09-05 ART. 2
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L520-9 (M)
+	  - Code de l'urbanisme - art. R520-3 (M)
+	  - Code de l'urbanisme R520-3, L520-9, R422-3
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R520-3
+
+En cas de création par voie de construction ou de transformation, de locaux passibles de la redevance et sans préjudice de
+l'autorisation prévue à l'article L. 631-7 du code de la construction et de l'habitation si celle-ci est requise, la
+déclaration d'achèvement des travaux prévue à l'article R. 460-1 doit être faite dans les formes particulières fixées par un
+arrêté du ministre chargé de l'urbanisme et mentionner, avec toutes justifications utiles à l'appui, la personne physique ou
+morale propriétaire des locaux.
+
+Si l'avis de mise en recouvrement est établi antérieurement au dépôt de la déclaration visée à l'alinéa précédent, il est
+décerné au titulaire du permis de construire, sauf à celui-ci à établir qu'il n'a pas la qualité de maître de l'ouvrage.
+
+Dans le cas contraire, il est décerné au propriétaire des locaux.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°60-941 1960-09-05 ART. 3
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R460-1 (M)
+	  - Code de la construction et de l'habitation. - art. L631-7 (M)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R520-2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ###### Article R520-4
 
 La déclaration prévue au deuxième alinéa de l'article L. 520-9 de doit être faite préalablement à la nouvelle affectation
@@ -47014,6 +45790,104 @@ dudit délai et au taux applicable à cette date.
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R520-10 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R520-6
+
+Le montant de la redevance est arrêté par décision du ministre chargé de l'urbanisme ou de son délégué[*autorité
+compétente*] .
+
+A défaut de paiement de la redevance dans le délai fixé à l'avertissement portant notification de la décision visée à
+l'alinéa précédent, la créance du Trésor fait l'objet d'un avis de mise en recouvrement. Ce dernier est émis conformément aux
+dispositions de l'article L. 79 du code du domaine de l'Etat par le service des domaines dans le délai de deux ans à
+compter[*point de départ*] soit de la délivrance du permis de construire, soit du dépôt des déclarations prévues par les
+articles L. 520-9 et R. 422-3 du présent code ou à défaut de la constatation du début des travaux.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°60-941 1960-09-05 ART. 7
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat 79
+	  - Code de l'urbanisme - art. L520-9 (M)
+	  - Code de l'urbanisme L520-9, R422-3
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R520-11 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R520-7
+
+A défaut de paiement par le débiteur désigné sur l'avis de mise en recouvrement, l'administration des domaines peut émettre
+de nouveaux avis de mise en recouvrement au nom des propriétaires successifs des locaux et en poursuivre le recouvrement en
+principal, pénalité et intérêts, pendant un délai d'un an après la déclaration d'achèvement des travaux ou de la constatation
+de l'achèvement de ces travaux.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°60-941 1960-09-05 ART. 8
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R520-8
+
+Les redevances afférentes à des constructions réalisées à la suite d'un agrément à titre précaire et pour une durée limitée
+dans les conditions prévues par l'article R. 510-11 et d'un permis de construire délivré dans les conditions fixées par les
+articles L. 423-2 à L. 423-5 sont, le cas échéant, remboursées à la demande du redevable si celui-ci justifie que les locaux
+en cause ont été démolis dans les six mois à compter de l'expiration du délai de précarité.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°60-941 1960-09-05 ART. 9
+
+	**Cite**:
+
+	  - Code de l'urbanisme R510-11, L423-2 à L423-5
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R520-9
+
+Est exonérée de la redevance prévue à l'article L. 520-1 la reconstitution par leur propriétaire initial ou, dans le cas de
+mutation successorale, par le bénéficiaire de la mutation, de locaux détruits par sinistre ou expropriés pour cause d'utilité
+publique, sous réserve que le sinistre ou l'expropriation ait interrompu une activité économique effective. Cette exonération
+est applicable aux opérations ayant fait l'objet d'une demande de permis de construire au plus tard dans les dix-huit mois
+qui suivent le sinistre ou l'expropriation, dans la limite d'une superficie de planchers utile égale à celle des locaux
+sinistrés ou expropriés et à condition que la reconstitution soit effectuée, sans changement d'affectation, soit sur place,
+soit dans une localité comportant un montant de redevance qui ne soit pas supérieur au montant applicable dans la localité où
+étaient situés les locaux sinistrés ou expropriés.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°60-941 1960-09-05 ART. 10
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L520-1 (V)
 
 	**Codifié par**:
 
