@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1995-10-07
+Version Consolidée au 1995-10-11
 
 # Partie législative
 
@@ -19820,56 +19820,6 @@ salubrité ou à la sécurité publique.
 	  - Décret n°73-1023 1973-11-08
 
 
-###### Article R111-3
-
-La construction sur des terrains exposés à un risque tel que :
-
-inondation, érosion, affaissement, éboulement, avalanches, peut, si elle est autorisée, être subordonnée à des conditions
-spéciales.
-
-Ces terrains sont délimités par arrêté préfectoral pris après consultation des services intéressés et enquête dans les formes
-prévues par le décret n° 59-701 du 6 juin 1959 relatif à la procédure d'enquête préalable à la déclaration d'utilité publique
-et avis du conseil municipal.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°59-701 1959-06-06
-
-	**Anciens textes**:
-
-	  - Décret n°61-1298 1961-11-30 ART. 3
-	  - Code de l'urbanisme - art. R110-3 (T)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Cité par**:
-
-	  - Décret n°77-1281 du 22 novembre 1977 - art. Annexe (V)
-	  - Décret n°81-534 du 12 mai 1981 - art. 5 (Ab)
-	  - Loi n°87-565 du 22 juillet 1987 - art. 40-6 (Ab)
-	  - Décret n°90-918 du 11 octobre 1990 - art. 2 (M)
-	  - Décret n°93-351 du 15 mars 1993 - art. 6 (Ab)
-	  - Code de l'environnement - art. L562-6 (V)
-	  - Code de l'urbanisme - art. *R111-1 (VT)
-	  - Code de l'urbanisme - art. R611-5 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°86-984 1986-08-19 art. 7 XLII JORF 27 août 1986
-
-	**Abrogé par**:
-
-	  - Décret n°95-1089 1995-10-05 art. 10 I JORF 11 octobre 1995
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R111-1 (M)
-
-
 ###### Article R111-4
 
 Le permis de construire peut être refusé sur des terrains qui ne seraient pas desservis par des voies publiques ou privées
@@ -23132,21 +23082,26 @@ ou particulières prises en application de l'article L. 111-1-1.
 6. La liste des lotissements dont les règles d'urbanisme ont été maintenues en application de l'alinéa 2 de l'article L.
 315-2-1.
 
-7. Le plan d'exposition au bruit d'un aérodrome , établi en application des articles L. 147-1 à L. 147-6.
+7. Le plan d'exposition au bruit d'un aérodrome, établi en application des articles L. 147-1 à L. 147-6.
 
 8. Le classement des infrastructures de transports terrestres ainsi que les secteurs situés au voisinage de ces
 infrastructures qui sont affectés par le bruit, et dans lesquels existent des prescriptions d'isolement acoustique,
 déterminés en application de l'article 13 de la loi n° 92-1444 du 31 décembre 1992 relative à la lutte contre le bruit. Ces
 documents portent référence des arrêtés préfectoraux correspondants et indication des lieux où ils peuvent être consultés.
 
+9° Les dispositions d'un projet de plan de prévention des risques naturels prévisibles rendues opposables en application de
+l'article 40-2 de la loi n° 87-565 du 22 juillet 1987 relative à l'organisation de la sécurité civile, à la protection de la
+forêt contre l'incendie et à la prévention des risques majeurs.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°70-1016 1970-10-28 ART. 22
+	  - Décret n°70-1016 1970-10-28 art. 22
 
 	**Cite**:
 
+	  - Loi n°87-565 du 22 juillet 1987 - art. 40-2 (Ab)
 	  - Loi n°92-1444 1992-12-31 art. 13
 	  - Code de l'urbanisme - art. L111-1-1 (M)
 	  - Code de l'urbanisme - art. L126-1 (M)
@@ -23156,7 +23111,7 @@ documents portent référence des arrêtés préfectoraux correspondants et indi
 
 	**Modifié par**:
 
-	  - Décret n°95-21 du 9 janvier 1995 - art. 9 () JORF 10 janvier 1995
+	  - Décret n°95-1089 1995-10-05 art. 10 II JORF 11 octobre 1995
 
 	**Cité par**:
 
@@ -28673,63 +28628,6 @@ l'article L. 65-1 du code des postes et télécommunications.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-
-### Servitudes relatives à la salubrité et à la sécurité publique
-
-###### Article IV
-
-A. - Salubrité publique.
-
-a) Cimetières.
-
-Servitudes relatives aux cimetières instituées par :
-
-L'article L. 361-1 du code des communes ;
-
-L'article L. 361-4 du code des communes.
-
-b) Etablissements conchylicoles.
-
-Périmètres de protection installés autour des établissements de conchyliculture et d'aquaculture et des gisements coquilliers
-en application de l'article 2 du décret du 30 octobre 1935 sur la protection des eaux potables et les établissements
-ostréicoles.
-
-B. - Sécurité publique.
-
-Plans des surfaces submersibles établis en application des articles 48 à 54 du code du domaine public fluvial et de la
-navigation intérieure.
-
-Servitudes instituées, en ce qui concerne la Loire et ses affluents, par les articles 55 et suivants du code du domaine
-public fluvial et de la navigation intérieure.
-
-Servitudes résultant des plans d'exposition aux risques naturels prévisibles et instituées en application de l'article 5-1,
-1er alinéa, de la loi n° 82-600 du 13 juillet 1982.
-
-Servitudes résultant de l'application des articles 7-1 à 7-4 de la loi n° 76-663 du 19 juillet 1976.
-
-Servitudes d'inondation pour la rétention des crues du Rhin résultant de l'application de la loi n° 91-1385 du 31 décembre
-1991 portant dispositions diverses en matière de transports.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du domaine public fluvial 48 à 54, 55
-	  - Décret n°1935-10-30 art. 2
-	  - Loi n°76-663 1976-07-19 art. 7-1 à 7-4
-	  - Loi n°82-600 du 13 juillet 1982 - art. 5-1 (Ab)
-	  - Loi n°91-1385 1991-12-31
-	  - CODE DES COMMUNES. - art. L361-1 (M)
-	  - CODE DES COMMUNES. - art. L361-4 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°92-1364 du 23 décembre 1992 - art. 7 () JORF 30 décembre 1992
 
 
 ## Livre II : Préemption et réserves foncières
@@ -50043,6 +49941,52 @@ En cas d'autorisation tacite, le préfet reçoit, sans délai, le dossier et les
 
 #####  Paragraphe 3 : Dispositions particulières applicables dans les communes où un plan d'occupation des sols n'a pas été approuvé.
 
+###### Article R*442-6-4
+
+Dans les communes où un plan d'occupation des sols n'a pas été approuvé, la décision est prise par le maire au nom de
+l'Etat ; toutefois, elle est prise par le préfet dans les cas énumérés ci-après :
+
+1° Lorsque le maire et le responsable du service de l'Etat dans le département, chargé de l'urbanisme, ont émis des avis en
+sens contraire ;
+
+2° Lorsqu'une dérogation ou une adaptation mineure aux dispositions mentionnées au deuxième alinéa de l'article R. 442-4-7
+est nécessaire ; dans ce cas, la décision d'octroi de l'autorisation doit indiquer les motifs de la dérogation accordée ;
+
+3° Lorsque l'installation ou le travail qui fait l'objet de la demande d'autorisation requiert l'avis ou l'avis conforme des
+services, personnes publiques ou commissions relevant du ministre chargé des monuments historiques, du ministre chargé des
+sites, du ministre chargé des zones de protection du patrimoine architectural et urbain ou du ministre chargé de la
+protection de la nature, à l'exception du cas des sites inscrits ;
+
+4° Lorsque l'installation qui fait l'objet de la demande d'autorisation entre dans le champ d'application de l'article 50 du
+code du domaine public fluvial et de la navigation intérieure ou de l'article 5-1 de la loi n° 82-600 du 13 juillet 1982
+relative à l'indemnisation des victimes de catastrophes naturelles et des textes pris pour leur application ; (NOTA)
+
+5° Lorsqu'il y a lieu de prendre une décision de sursis à statuer.
+
+**Nota:**
+
+NOTA : Décret 95-1089 art. 10 III : Cet article demeure toutefois en vigueur en tant qu'il est nécessaire à la mise en oeuvre
+des plans de surfaces submersibles valant plan de prévention des risques naturels prévisibles en application de l'article L.
+562-6 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Loi n°82-600 du 13 juillet 1982 - art. 5-1 (Ab)
+	  - Code de l'urbanisme - art. R442-4-7 (M)
+	  - Code du domaine public fluvial et de la navigation - art. 50 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°93-351 du 15 mars 1993 - art. 14 () JORF 17 mars 1993
+	  - Décret n°95-1089 1995-10-05 art. 10 III JORF 11 octobre 1995
+
+
 ###### Article R*442-6-5
 
 Copie de la décision est transmise au maire s'il n'en est pas l'auteur, au président de l'établissement public de coopération
@@ -50280,52 +50224,6 @@ NOTA : La loi du 27 septembre 1941 a été abrogée par l'article 7 de l'ordonna
 	  - Code de l'urbanisme - art. L442-1 (M)
 	  - Code de l'urbanisme - art. R442-2 (M)
 	  - Loi n°1941-09-27
-
-
-###### Article R*442-14
-
-La demande d'autorisation prévue à l'article R. 442-2 tient lieu de la déclaration mentionnée à l'article 50 du code du
-domaine public fluvial ou de la déclaration mentionnée à l'article 5-1 de la loi n° 82-600 du 13 juillet 1982 relative à
-l'indemnisation des victimes de catastrophes naturelles pour les installations et travaux divers situés dans les secteurs
-couverts par un plan d'exposition aux risques naturels prévisibles.
-
-Dans un délai d'un mois à dater de la réception de la demande, le préfet peut, après consultation du service chargé des
-mesures de défense contre les inondations et du service chargé de la police des cours d'eau, s'opposer à la délivrance de
-l'autorisation d'installations et travaux divers ou ne donner son accord qu'à la condition que l'autorisation soit assortie
-des prescriptions nécessaires pour assurer le libre écoulement des eaux ou la conservation du champ des inondations. Après
-expiration de ce délai, l'autorisation est délivrée dans les conditions de droit commun.
-
-**Nota:**
-
-NOTA : Décret 95-1089 art. 10 III : Cet article demeure toutefois en vigueur en tant qu'il est nécessaire à la mise en oeuvre
-des plans de surfaces submersibles valant plan de prévention des risques naturels prévisibles en application de l'article L.
-562-6 du code de l'environnement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°82-600 du 13 juillet 1982 - art. 5-1 (Ab)
-	  - Code de l'urbanisme - art. R442-2 (M)
-	  - Code du domaine public fluvial 50
-
-	**Créé par**:
-
-	  - Décret n°93-351 du 15 mars 1993 - art. 15 () JORF 17 mars 1993
-
-	**Abrogé par**:
-
-	  - Décret n°95-1089 1995-10-05 art. 10 III JORF 11 octobre 1995
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. *R442-13 (V)
-	  - Code de l'urbanisme - art. *R442-15 (V)
-	  - Code de l'urbanisme - art. *R442-6 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R442-13
@@ -52634,39 +52532,41 @@ Le récolement est effectué d'office lorsque la déclaration d'achèvement de t
 Le récolement est obligatoire :
 
 a) Lorsqu'il s'agit de travaux soumis aux dispositions soit de la loi du 31 décembre 1913 sur les monuments historiques, soit
-de la loi du 2 mai 1930 sur la protection des monuments naturels et des sites, ou de travaux situés dans une zone de
-protection du patrimoine architectural et urbain; il est alors effectué en liaison avec l'architecte des bâtiments de France
+de la loi du 2 mai 1930 sur la protection des monuments naturels et des sites, ou des travaux situés dans une zone de
+protection du patrimoine architectural et urbain ; il est alors effectué en liaison avec l'architecte des bâtiments de France
 où le cas échéant, le représentant du ministre chargé de la protection des abords des monuments historiques, ou du ministre
-chargé des sites;
+chargé des sites ;
 
 b) Lorsqu'il s'agit de travaux soumis soit aux dispositions des articles R. 122-1 à R. 122-29 du code de la construction et
 de l'habitation relatifs aux  immeubles de grande hauteur et aux articles R. 421-47 à R. 421-50 du présent code, soit aux
 dispositions des articles R. 123-1 à R. 123-55 du code de la construction et de l'habitation relatifs aux établissements
-recevant du public et à l'article R. 421-53 du présent code; dans ce cas il est effectué en liaison avec le directeur
-départemental des services d'incendie et de secours;
+recevant du public et à l'article R. 421-53 du présent code ; dans ce cas il est effectué en liaison avec le directeur
+départemental des services d'incendie et de secours ;
 
 c) Lorsqu'il s'agit de travaux réalisés soit à l'intérieur d'un parc national créé en application de la loi n. 60-708 du 22
 juillet 1960, soit à l'intérieur d'une réserve naturelle soumise aux dispositions de la loi n. 76-629 du 10 juillet 1976
 relative à la protection de la nature.
 
+d) Lorsqu'il s'agit de travaux réalisés dans un secteur couvert par un plan de prévention des risques naturels prévisibles
+établi en application de la loi n° 87-565 du 22 juillet 1987 relative à l'organisation de la sécurité civile, à la protection
+de la forêt contre l'incendie et à la prévention des risques majeurs.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°67-1063 1967-11-15
-	  - Décret n°73-1007 1973-10-31
 	  - Loi n°60-708 1960-07-22
 	  - Loi n°76-629 1976-07-10
-	  - Code de l'urbanisme - art. L430-3 (Ab)
+	  - Loi n°87-565 1987-07-22
 	  - Code de l'urbanisme - art. R421-53 (M)
-	  - Code de l'urbanisme R421-47 à R421-50
-	  - Code de la construction et de l'habitation R123-1 à R123-55
+	  - Code de l'urbanisme R460-1, R421-47 à R421-50, R421-53
+	  - Code de la construction et de l'habitation R122-1 à R122-29, R123-1 à R123-55
 	  - Loi n°1913-12-31
 	  - Loi n°1930-05-02
 
 	**Anciens textes**:
 
-	  - Décret n°70-447 1970-05-28 ART. 3
+	  - Décret n°70-447 1970-05-28 art. 3
 
 	**Codifié par**:
 
@@ -52680,12 +52580,10 @@ relative à la protection de la nature.
 
 	**Modifié par**:
 
-	  - Décret n°84-225 1984-03-29 ART. 3 JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
+	  - Décret n°95-1089 1995-10-05 art. 10 IV JORF 11 octobre 1995
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°84-225 1984-03-29 ART. 9, ART. 10 : Modalités d'application
-	  - SPEC_APPLI: Décret n°84-225 du 29 mars 1984 - art. 9 (V)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L430-3 (Ab)
 
 
