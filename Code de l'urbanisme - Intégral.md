@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1993-01-09
+Version Consolidée au 1993-01-23
 
 # Partie législative
 
@@ -34899,35 +34899,6 @@ NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 	  - Décret n°73-1023 1973-11-08
 
 
-#### CHAPITRE VI : Sanction pénales relatives aux lotissements.
-
-###### Article R*316-2
-
-Sera puni de l'amende prévue pour les contraventions de la cinquième classe tout  propriétaire de terrain ou toute personne
-en ayant la jouissance qui aura enfreint les dispositions de l'article R. 315-54 [*divisions de terrains soumises à la
-délivrance d'un certificat d'urbanisme*]. En cas de récidive outre l'amende prévue ci-dessus, une peine d'emprisonnement de
-quinze jours pourra être prononcée.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°84-228 1984-03-29 ART. 28 JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-228 1984-03-29 ART. 33, ART. 34 : Modalités d'application
-	  - SPEC_APPLI: Décret n°84-228 du 29 mars 1984 - art. 33 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R315-54
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 #### CHAPITRE VII : Amélioration de certains lotissements
 
 #####  Section 1 : Dispositions générales
@@ -54403,20 +54374,28 @@ Nota : L'imprimé de déclaration d'ouverture de chantier est enregistré au C.E
 
 ###### Article A422-1
 
-" La déclaration en vue de l'exécution de travaux exemptés de permis de construire, prévue à l'article R. 422-3, est établie
-conformément au modèle annexé au présent article (7). "
+La déclaration en vue de l'exécution de travaux exemptés de permis de construire, prévue à l'article R. 422-3, est établie
+conformément au modèle annexé au présent article.
 
-Nota :
+**Nota:**
 
-(7) L'imprimé de déclaration de travaux exemptés de permis de construire ou de déclaration de clôture est enregistré au
-C.E.R.F.A. sous le numéro 46-0396 (imprimé P.C. 156). Il peut être obtenu auprès des mairies ou des directions
-départementales de l'équipement.
+Nota : L'imprimé de déclaration de travaux exemptés de permis de construire ou de déclaration de clôture est enregistré au
+Cerfa sous le numéro 46-0403 (imprimé PC 156). Il peut être obtenu auprès des maires ou des directions départementales de
+l'équipement.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1989-01-06 art. 5 JORF 4 février 1989
+	  - Arrêté 1993-01-11 art. 1 JORF 23 janvier 1993
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1993-01-11 art. 2
+
+	**Abrogé par**:
+
+	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
 
 	**Codifié par**:
 
