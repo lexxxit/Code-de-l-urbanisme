@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1986-03-20
+Version Consolidée au 1986-04-01
 
 # Partie législative
 
@@ -19705,6 +19705,94 @@ respective de ces zones.
 	  - Décret n°83-813 1983-09-09 ART. 3 JORF 11 SEPTEMBRE 1983 date d'entrée en vigueur  1 OCTOBRE 1983
 
 
+###### Article R*123-19
+
+Sont en outre reportés, s'il en existe, sur les documents graphiques, à titre d'information :
+
+1° Les périmètres suivants :
+
+a) Les secteurs sauvegardés, délimités en application des articles L. 313-1 et suivants, ainsi que les périmètres de
+restauration immobilière définis dans les conditions prévues à l'article L. 313-4 ;
+
+b) Les zones  de préemption délimitées en application de l'article L. 142-1 dans sa rédaction antérieure à la loi n° 85-729
+du 18 juillet 1985 relative à la définition et à la mise en oeuvre de principe d'aménagement et de l'article L. 142-3 dans sa
+rédaction issue de ladite loi, et les zones délimitées en application de l'article L. 430-1 e) à l'intérieur desquelles la
+démolition des immeubles est subordonnée à la délivrance d'un permis de démolir ;
+
+c) Les périmètres à l'intérieur desquels s'applique le droit de préemption urbain défini par les articles L. 211-1 et
+suivants et R. 211-1 et suivants , ainsi que les périmètres provisoires ou définitifs des zones d'aménagement différé créees
+avant l'entrée en vigueur de l'article 7 de la loi n° 85-729 du 18 juillet 1985 relative à la définition et à la mise en
+oeuvre de principes d'aménagement ;
+
+d) (alinéa supprimé) ;
+
+e) Les périmètres de rénovation urbaine délimités en application de l'article R. 312-1 avant la publication de la loi n°
+85-729 du 18 juillet 1985 relative à la définition et à la mise en oeuvre de principes d'aménagement ;
+
+f) Les périmètres de résorption de l'habitat insalubre délimités en application de l'article L. 38 ou de l'article L. 42 du
+code de la santé publique ;
+
+g) Les périmètres de développement prioritaires délimités en application de la loi n° 80-531 du 15 juillet 1980 relative aux
+économies d'énergie et à l'utilisation de la chaleur ;
+
+h) Les périmètres d'action forestière délimités en application de l'article 52-1 du Code rural ;
+
+i) Les périmètres miniers définis en application des titres II, III et V du livre Ier du Code minier ;
+
+j) Les périmètres de zones spéciales de recherche et d'exploitation de carrières et des zones d'exploitation et d'aménagement
+coordonné de carrières délimitées en application des articles 109 et 109-1 du Code minier ;
+
+k) Le périmètre des zones délimités en application de l'article L. 111-5-2 à l'intérieur desquelles certaines divisions
+foncières sont soumises à déclaration préalable ;
+
+l) Les périmètres à l'intérieur desquels l'autorité compétente peut sursoir à statuer sur les demandes d'autorisation en
+application de l'article L. 111-10 ;
+
+m) Le périmètre des secteurs dans lesquels un programme d'aménagement d'ensemble a été approuvé en application de l'article
+L. 332-9.
+
+2° Les zones à urbaniser en priorité ainsi que les zones d'aménagement concerté.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-1016 1970-10-28 art. 18 II 1 à 3
+
+	**Cite**:
+
+	  - Loi n°80-531 1980-07-15
+	  - Loi n°85-729 1985-07-18 art. 7
+	  - Code minier 109, 109-1
+	  - Code de la santé publique - art. L38 (Ab)
+	  - Code de la santé publique - art. L42 (Ab)
+	  - Code de l'urbanisme - art. L111-10 (M)
+	  - Code de l'urbanisme - art. L111-5-2 (M)
+	  - Code de l'urbanisme - art. L142-1 (M)
+	  - Code de l'urbanisme - art. L142-3 (M)
+	  - Code de l'urbanisme - art. L211-1 (M)
+	  - Code de l'urbanisme - art. L313-1 (M)
+	  - Code de l'urbanisme - art. L313-4 (M)
+	  - Code de l'urbanisme - art. L332-9 (M)
+	  - Code de l'urbanisme - art. L430-1 (Ab)
+	  - Code de l'urbanisme - art. R211-1 (M)
+	  - Code de l'urbanisme L313-1, L313-4, L142-1, L142-3, L430-1, L211-1, R211-1, R312-1, L111-5-2, L111-10, L332-9
+	  - Code rural 52-1
+
+	**Modifié par**:
+
+	  - Décret n°86-516 du 14 mars 1986 - art. 8 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*123-21 (V)
+	  - Code de l'urbanisme - art. R*123-22-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ###### Article R*123-20
 
 Le report des servitudes [*d'utilité publique*] visées à l'article L. 126-1 et des périmètres et zones mentionnés à l'article
@@ -20209,7 +20297,7 @@ b) Des modifications résultant d'une déclaration d'utilité publique prononcé
 c) Des servitudes d'utilité publique mentionnées à l'article L. 126-1 ou instituées ou modifiées postérieurement à la date où
 le plan a été rendu public ou approuvé ;
 
-d) Des zones d'intervention foncière.
+d) De la liste des lotissements devant être annexés au plan d'occupation des sols en application de l'article R. 123-24 (6°).
 
 Un arrêté du maire constate dans chaque cas qu'il a été procédé à la mise à jour du plan.
 
@@ -20217,22 +20305,11 @@ Dans les cas visés au c de l'alinéa précédent, si cette formalité n'a pas �
 la notification par le commissaire de la République à la commune, le commissaire de la République y procède d'office par
 arrêté.
 
-Lorsqu'elle consiste à reporter un périmètre de rénovation urbaine, un secteur sauvegardé, un périmètre de restauration
-immobilière ou un périmètre de résorption de l'habitat insalubre qui est compris à l'intérieur de la zone urbaine d'un plan
-d'occupation des sols où une zone d'intervention foncière a été créée ou instituée de plein droit, la décision constatant la
-mise à jour du plan est communiquée sans délai au conseil supérieur du notariat, à la chambre nationale des avoués près la
-cour d'appel, aux barreaux constitués près les tribunaux de grande instance dans le ressort desquels se trouve la commune et
-aux greffes des mêmes tribunaux.
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°70-1016 1970-10-28 ART. 34
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 	**Liens**:
 
@@ -20240,17 +20317,22 @@ aux greffes des mêmes tribunaux.
 
 	**Modifié par**:
 
-	  - Décret n°83-813 1983-09-09 ART. 5 JORF 11 SEPTEMBRE 1983 date d'entrée en vigueur 1 OCTOBRE 1983
+	  - Décret n°86-514 du 14 mars 1986 - art. 8 () JORF 16 mars 1986
+	  - Décret n°86-516 du 14 mars 1986 - art. 8 () JORF 16 mars 1986 en vigueur le   1er avril 1986
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L123-8 (M)
 	  - Code de l'urbanisme - art. L126-1 (M)
-	  - Code de l'urbanisme R123-19, L123-8, L126-1
+	  - Code de l'urbanisme R123-19, L123-8, L126-1, R123-24
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*126-2 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R123-35-1
@@ -22297,74 +22379,6 @@ raison de la suspension de la servitude ou de la modification de son tracé ou d
 
 ##### Contenu du plan d'occupation des sols.
 
-###### Article R*123-19
-
-Sont en outre reportés, s'il en existe, sur les documents graphiques, à titre d'information :
-
-1° Les périmètres suivants :
-
-a) Les secteurs sauvegardés, délimités en application des articles L. 313-1 et suivants, ainsi que les périmètres de
-restauration immobilière définis dans les conditions prévues à l'article L. 313-4 ;
-
-b) Les périmètres sensibles ainsi que, le cas échéant, les zones dites de préemption délimitées dans les conditions prévues à
-l'article L. 142-1 et les zones délimitées en application de l'article L. 430-1 e à l'intérieur desquelles la démolition des
-immeubles est subordonnée à la délivrance d'un permis de démolir ;
-
-c) Les périmètres provisoires ou définitifs de zones d'aménagement différé ;
-
-d) Les périmètres délimités en application de l'article L. 222-1 ;
-
-e) Les périmètres de rénovation urbaine délimités en application de l'article R. 312-1 ;
-
-f) Les périmètres de résorption de l'habitat insalubre délimités en application de l'article L. 38 ou de l'article L. 42 du
-code de la santé publique.
-
-g) Les périmètres de développement prioritaires délimités en application de la loi n° 80-531 du 15 juillet 1980 relative aux
-économies d'énergie et à l'utilisation de la chaleur ;
-
-h) Les périmètres d'action forestière délimités en application de l'article 52-1 du Code rural ;
-
-i) Les périmètres miniers définis en application des titres II, III et V du livre Ier du Code minier ;
-
-j) Les périmètres de zones spéciales de recherche et d'exploitation de carrières et des zones d'exploitation et d'aménagement
-coordonné de carrières délimitées en application des articles 109 et 109-1 du Code minier.
-
-2° Les zones à urbaniser en priorité ainsi que les zones d'aménagement concerté.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1016 1970-10-28 art. 18 II 1 à 3
-
-	**Cite**:
-
-	  - Loi n°80-531 1980-07-15
-	  - Code minier 109, 109-1
-	  - Code de la santé publique - art. L38 (Ab)
-	  - Code de la santé publique - art. L42 (Ab)
-	  - Code de l'urbanisme - art. L142-1 (M)
-	  - Code de l'urbanisme - art. L222-1 (Ab)
-	  - Code de l'urbanisme - art. L313-1 (M)
-	  - Code de l'urbanisme - art. L313-4 (M)
-	  - Code de l'urbanisme - art. L430-1 (Ab)
-	  - Code de l'urbanisme L313-1, L313-4, L142-1, L430-1, L222-1, R312-1
-	  - Code rural 52-1
-
-	**Modifié par**:
-
-	  - Décret n°83-813 1983-09-09 art. 3 JORF 11 septembre 1983 date d'entrée en vigueur 1er octobre 1983
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*123-21 (V)
-	  - Code de l'urbanisme - art. R*123-22-1 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ###### Article R*123-22
 
 1. Sous réserve de ce qui est dit au 4. ci-dessous, le coefficient d'occupation du sol [*définition*] est le rapport
@@ -22788,36 +22802,6 @@ pouvant figurer sur les documents graphiques du plan d'occupation des sols.
 
 	  - Code de l'urbanisme - art. L123-2 (M)
 	  - Code de l'urbanisme R123-22
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-#### Dispositions transitoires relatives aux projets d'aménagement et aux plans d'urbanisme
-
-###### Article R*124-4
-
-Dans les communes ou groupements de communes dotés d'un plan d'urbanisme directeur ou de détail approuvé, sur le territoire
-desquels une zone d'intervention foncière a été crée en application des articles L. 211-1 (alinéa 2) et L. 211-13, le préfet
-doit reporter sur le plan, dès leur création, s'ils sont compris en tout ou partie à l'intérieur de la zone d'intervention
-foncière, les périmètres de résorption de l'habitat insalubre, de restauration immobilière et de rénovation urbaine, y
-compris dans le cas visé à l'article L. 313-3 (alinéa 2) [*secteurs sauvegardés*].
-
-La décision du préfet est communiquée sans délai aux organismes et services mentionnés à l'article R. 123-36 (alinéa 3)
-[*conseil supérieur du notariat, barreaux et greffes près les tribunaux grande instance ,chambre nationale avoués près Cour
-d'appel*]
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 8 () JORF 16 mars 1986 en vigueur   le 1er avril 1986
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L211-13 (Ab)
-	  - Code de l'urbanisme R123-36 AL. 3
 
 	**Codifié par**:
 
@@ -25110,9 +25094,9 @@ c) De cession d'un terrain aménagé situé dans une zone créée avant l'instit
 été exclue du champ d'application de la taxe locale d'équipement, lorsque cette cession a fait l'objet d'un cahier des
 charges soumis à l'approbation du préfet ;
 
-d) De cession d'un terrain aménagé situé dans une zone d'aménagement concerté, une zone de rénovation urbaine, une zone à
-urbaniser en priorité ou une zone de résorption de l'habitat insalubre, lorsque cette cession a fait l'objet d'un cahier des
-charges soumis à l'approbation du commissaire de la République.
+d) De cession d'un terrain aménagé situé dans une zone une zone de rénovation urbaine, une zone à urbaniser en priorité ou
+une zone de résorption de l'habitat insalubre, lorsque cette cession a fait l'objet d'un cahier des charges soumis à
+l'approbation du commissaire de la République.
 
 e) De transfert de propriété opéré dans le cadre d'une opération de remembrement urbain.
 
@@ -25121,25 +25105,24 @@ dossier de demande du permis un plan de répartition de la surface hors oeuvre n
 nette reconstructible sur chacune des parcelles issues de la division. Ces informations doivent figurer dans les actes de
 vente des terrains concernés.
 
+g) de cession, location ou concession d'usage d'un terrain aménagé dans une zone d'aménagement concerté, à la condition que
+cette cession, location ou concession ait fait l'objet d'un cahier des charges de cession précisant les droits à construire
+affectés auxdits travaux et approuvé par l'autorité compétente en application de l'article R. 311-19.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 	**Modifié par**:
 
-	  - Décret n°84-228 1984-03-29 ART. 32 JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-228 1984-03-29 ART. 33, ART. 34 : Modalités d'application
-	  - SPEC_APPLI: Décret n°84-228 du 29 mars 1984 - art. 33 (M)
+	  - Décret n°86-517 du 14 mars 1986 - art. 25 () JORF 16 mars 1986 en vigueur le   1er avril 1986
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. R421-7-1 (M)
-	  - Code de l'urbanisme R332-15
+	  - Code de l'urbanisme L111-5 AL. 3, R332-15, R332-16, R421-7-1, R311-19
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ## Liste des servitudes d'utilité publique affectant l'utilisation du sol
@@ -28277,6 +28260,31 @@ notamment en vue de la réalisation :
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R*311-2
+
+Une zone d'aménagement concerté est créée à l'initiative d'une collectivité publique ou d'un établissement public ayant
+vocation, de par la loi ou ses statuts, à réaliser ou à faire réaliser l'objet de ladite zone.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 2 () JORF 16 mars 1986 en vigueur le   1er avril 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 26 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*311-7 (V)
+	  - Code de l'urbanisme - art. R*318-18 (V)
+
+
 ###### Article R*311-3-1
 
 Un arrêté du préfet prescrit la mise à la disposition du public du dossier de création de la zone.
@@ -28300,55 +28308,71 @@ dans deux au moins des journaux mis en vente dans le département et affichée d
 	  - Décret n°73-1023 1973-11-08
 
 
-###### Article R*311-3-2
+###### Article R*311-4
 
-La commune sur le territoire de laquelle il est envisagé de créer la zone ou, s'il en existe un, l'établissement public
-groupant plusieurs communes et ayant compétence en matière d'urbanisme est appelé à émettre un avis sur le dossier de
-création. Cette formalité n'est pas obligatoire si la commune ou l'établissement public de regroupement a pris l'initiative
-de la création de la zone.
+L'aménagement et l'équipement de la zone sont :
+
+1. Soit conduits directement par la personne morale qui a pris l'initiative de sa création ;
+
+2. Soit à la demande de ladite personne morale, réalisés par un établissement constitué en application de l'article L. 321-1
+ou concédés à un établissement public répondant aux conditions définies à l'article R. 311-2 ou à une société d'économie
+mixte répondant aux conditions définies à l'article L. 300-4 ;
+
+3. Soit confiés, par cette personne morale, selon les stipulations d'une convention à une personne privée ou publique.
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°68-1107 1968-12-03 ART. 4
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 6 () JORF 16 mars 1986 en vigueur le 1er   avril 1986
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L300-4 (M)
+	  - Code de l'urbanisme - art. L311-2 (Ab)
+	  - Code de l'urbanisme - art. L321-1 (M)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*311-3 (V)
+	  - Code de l'urbanisme - art. R*318-18 (V)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Liens**:
 
-	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 26 (V)
+###### Article R*311-5
 
-	**Abrogé par**:
+La décision créant la zone d'aménagement concerté [*contenu*] en délimite le ou les périmètres, mentionne le mode de
+réalisation choisi et précise le régime applicable au regard de la taxe locale d'équipement.
 
-	  - Décret n°86-517 du 14 mars 1986 - art. 5 () JORF 16 mars 1986 en vigueur le 1er avril 1986
-
-
-###### Article R*311-3-3
-
-Les zones d'aménagement concerté sont créées [*autorité compétente*] :
-
-a) Par arrêté du ministre chargé de l'urbanisme en cas d'avis favorable ou sur proposition de la commune, ou, s'il en existe
-un, de l'établissement public groupant plusieurs communes et ayant compétence en matière d'urbanisme, ou faute d'avis émis
-par la commune ou l'établissement public intéressé dans le délai de deux mois à compter du jour où le maire ou le président
-de l'établissement public a reçu communication du projet.
-
-b) Par décret en Conseil d'Etat dans les autres cas.
-
-Le ministre chargé de l'urbanisme peut, après avis du ministre de l'intérieur, déléguer au préfet tout ou partie de ses
-attributions.
+Dans les communes, parties de communes ou ensembles de communes dotés d'un plan d'occupation des sols rendu public ou
+approuvé, la décision créant la zone précise en outre si les dispositions de ce plan demeureront en vigueur à l'intérieur du
+ou des territoires compris dans la zone, ou s'il sera établi un plan d'aménagement de zone.
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°68-1107 1968-12-03 ART. 5
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 7 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*311-12 (V)
+	  - Code de l'urbanisme - art. R*311-9 (V)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 26 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°86-517 du 14 mars 1986 - art. 6 () JORF 16 mars 1986 en vigueur le 1er avril 1986
 
 
 ###### Article R*311-7
@@ -28608,6 +28632,41 @@ L. 123-1 (alinéa 5).
 	  - Code de l'urbanisme R123-21
 
 
+#####  Section 5 : Dispositions spéciales à certaines régions.
+
+###### Article R311-30
+
+En région d'Ile-de-France, lorsque l'opération porte sur un terrain de plus de 10 hectares, ou sur une opération de plus de
+1.000 logements, ou sur la création d'une zone à usage industriel, commercial ou de bureaux de plus d'un hectare, l'autorité
+compétente pour créer la zone transmet le dossier de création au commissaire de la République de la région d'Ile-de-France.
+
+Lorsqu'une zone d'aménagement concerté est prévue dans une commune non couverte par le schéma directeur d'aménagement et
+d'urbanisme de la région d'Ile-de-France et qu'elle relève de la compétence du commissaire de la République du département,
+celui-ci recueille préalablement l'avis du commissaire de la République de la région d'Ile-de-France.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Décret n°66-614 du 10 août 1966 - art. 15 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°66-614 du 10 août 1966 - art. 15 (V)
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 19 () JORF 16 mars 1986 en vigueur le 1er avril 1986) A(Décret 89-381 1989-06-09 art. 2 II JORF 15 juin 1989
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 26 (V)
+
+
 #####  Section 6 : Suppression ou modification d'une zone d'aménagement concerté
 
 ###### Article R*311-34
@@ -28659,6 +28718,29 @@ constatation de l'achèvement ne peut intervenir avant la fin de la concession o
 	**Cite**:
 
 	  - Code de l'urbanisme R311-4
+
+
+###### Article R*311-36
+
+L'achèvement de la zone est constaté par l'autorité compétente pour créer la zone.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 24 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 26 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2001-261 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
 
 
 ###### Article R*311-37
@@ -29886,6 +29968,62 @@ sites prêtent le serment prévu à l'article R. 160-1. Les articles R. 160-2 et
 
 #####  Section 1 : Dispositions générales relatives aux lotissements
 
+###### Article R*315-2
+
+Ne constituent pas des lotissements [*définition*] et ne sont pas soumises aux dispositions du présent chapitre :
+
+a) Les divisions effectuées dans le cadre d'une opération de remembrement réalisée par une association foncière urbaine
+autorisée ou constituée d'office régie par le titre II du chapitre II du présent livre ou d'une opération de remembrement-
+aménagement prescrite en application de l'article 19-1 du code rural ;
+
+b) Les divisions effectuées à l'intérieur des zones à urbaniser en priorité, des zones d'aménagement concerté, des périmètres
+de rénovation urbaine, des zones de restauration immobilière, des zones de résorption de l'habitat insalubre ainsi que des
+zones d'habitation et des zones industrielles créées en application de l'article R.321-1 avant le 1er janvier 1977, lorsque
+ces divisions sont effectuées par la personne publique ou privée qui réalise l'aménagement de ladite zone ;
+
+c) Les divisions de terrains en propriété ou en jouissance lorsque les terrains issus de la division constituent l'assiette
+d'un immeuble à construire dont la vente est régie par les articles 1601-1 à 1601-4 du code civil, ou d'un immeuble dont la
+construction par une société régie par le titre II ou par le titre III de la loi n° 71-579 du 16 juillet 1971 modifiée a été
+autorisée ;
+
+d) Les divisions par ventes ou locations effectuées par un propriétaire au profit de personnes qu'il a habilitées à réaliser
+une opération immobilière sur une partie de sa propriété et qui ont elles-mêmes déjà obtenu une autorisation de lotir ou un
+permis de construire portant sur la création d'un groupe de bâtiments ou d'un bâtiment comportant plusieurs logements ;
+
+e) Les divisions effectuées à l'intérieur des périmètres [*prise de possession*] visés à l'article L. 314-2 par les sociétés
+civiles [*groupement de propriétaires*] constituées en application de l'article L. 322-12.
+
+f) Les divisions résultant de la vente, de la location ou de l'attribution ultérieure des lots issus des opérations énumérées
+au a, à la condition que chaque lot vendu ait été délimité par le plan de remembrement approuvé ;
+
+g) Les divisions effectuées dans le cadre d'une opération de remembrement réalisée par une association foncière urbaine libre
+dont le plan de remembrement a été publié avant l'entrée en vigueur du chapitre II du décret n° 85-517 du 14 mars 1986,
+modifiant le code de l'urbanisme et relatif aux zones d'aménagement concerté, aux associations foncières urbaines et aux
+participations à la réalisation d'équipements publics.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°71-579 1971-07-16 TITRE II, TITRE III
+	  - Code civil - art. 1601-1 (V)
+	  - Code civil - art. 1601-2 (V)
+	  - Code civil - art. 1601-3 (V)
+	  - Code civil - art. 1601-4 (V)
+	  - Code de l'urbanisme - art. L314-2 (M)
+	  - Code de l'urbanisme - art. L322-12 (Ab)
+	  - Code de l'urbanisme R321-1
+	  - Code rural 19-1
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 46 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ###### Article R*315-3
 
 La création d'un lotissement est subordonnée à une autorisation délivrée dans les conditions définies au présent chapitre.
@@ -31074,6 +31212,105 @@ d'un certificat d'urbanisme portant sur chacun des terrains devant provenir de l
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+##### Section 10 : Divisions soumises à déclaration préalable
+
+###### Article R315-57
+
+Est soumise à la déclaration préalable prévue à l'article L. 111-5-2 toute division volontaire, en propriété ou en
+jouissance, par ventes ou locations simultanées ou successives d'une propriété foncière, lorsque cette division a pour objet
+ou, sur une période de moins de dix ans, a pour effet de porter à plus de trois le nombre de terrains issus de ladite
+propriété *champ d'application*.
+
+Les terrains mentionnés au troisième alinéa de l'article R. 315-1 ne sont pas pris en compte pour l'appréciation du nombre de
+terrains issus de la division d'une propriété foncière.
+
+En outre, ne sont pas soumises à la déclaration préalable prévue à l'article L. 111-5-2 :
+
+a) Les divisions de propriétés foncières mentionnées à l'article R. 315-2 ;
+
+b) Les divisions effectuées dans le cadre des opérations d'aménagement foncier relevant du titre Ier du livre Ier du code
+rural, à l'exception de celles opérées après la clôture desdites opérations ;
+
+c) Les divisions résultant d'un bail rural consenti à des preneurs exerçant la profession agricole.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-516 du 14 mars 1986 - art. 9 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L111-5-2 (M)
+	  - Code de l'urbanisme L111-5-2, R315-1, R315-2
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R315-58
+
+La déclaration*contenu* est établie par le propriétaire du terrain ou son mandataire. Elle indique la surface totale de la
+propriété foncière dont la division est envisagée ainsi que celle des terrains qui résulteront de cette division. Elle
+indique en outre les divisions intervenues depuis moins de dix ans et ayant affecté la propriété foncière. Elle est
+accompagnée d'un plan de la propriété foncière faisant apparaître la division projetée.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°86-516 du 14 mars 1986 - art. 9 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+
+###### Article R315-61
+
+L'action en nullité prévue à l'article L. 111-5-2 (alinéa 6) s'exerce devant le tribunal de grande instance du lieu de
+situation du bien*juridiction compétente*.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°86-516 du 14 mars 1986 - art. 9 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L111-5-2 (M)
 
 
 #### CHAPITRE 5 : Lotissements et divisions de propriété
@@ -34194,31 +34431,87 @@ Les dispositions du présent chapitre ne peuvent être modifiées que par décre
 
 Les associations foncières urbaines ayant pour objet les opérations prévues à l'article L. 322-2 (1., 2. et 5.) sont soumises
 aux dispositions du décret du 18 décembre 1927 modifié portant règlement d'administration publique pour l'exécution de la loi
-du 21 juin 1865 et à celles des sous-sections I à IV de la présente section.
+du 21 juin 1865 et à celles des sections I à IV du présent chapitre.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°1927-12-18
+	  - Code de l'urbanisme - art. L322-2 (M)
+	  - Loi n°1865-06-21
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 	**Anciens textes**:
 
 	  - Décret n°74-203 1974-02-26 ART. 1
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'urbanisme - art. L322-2 (M)
-	  - Décret  1927-12-18
-	  - Loi   1865-06-21
+	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*322-2 (V)
 	  - Code de l'urbanisme - art. R*730-1 (Ab)
 
+
+#####  Section 1 : Dispositions générales
+
+###### Article R*322-2
+
+Les appellations syndicat, directeur, directeur adjoint utilisées dans le décret du 18 décembre 1927 sont remplacées, en ce
+qui concerne les associations mentionnées à l'article R. 322-1, respectivement par celles de conseil des syndics, président,
+vice-président.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-02-26 ART. 2
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+	**Cite**:
+
+	  - Code de l'urbanisme R322-1
+	  - Décret  1927-12-18
+
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
 
-#####  Section 1 : Dispositions générales
+###### Article R*322-2-1
+
+L'acte constitutif des associations foncières urbaines libres ainsi que les actes constatant les adhésions ultérieures sont
+publiés au fichier immobilier dans les conditions et délais prévus par les décrets n° 55-22 du 4 janvier 1955 et 55-1350 du
+14 octobre 1955.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°55-22 1955-01-04
+	  - Décret n°55-1350 1955-10-14
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°77-863 1977-07-26 art. 25 JORF 29 juillet 1977 date d'entrée en vigueur 1 janvier 1978
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
 
 ###### Article R*322-3
 
@@ -34271,16 +34564,15 @@ prévus par les décrets n. 55-22 du 4 janvier 1955 et 55-1350 du 14 octobre 195
 	  - Décret n°73-1023 1973-11-08
 
 
-###### Article R*322-4
+###### Article R*322-5
 
-A moins que sa nomination ne résulte de l'acte d'association, le conseil des syndics d'une association autorisée nomme un
-directeur [*attributions*] qui, sous la surveillance du président :
+En application de l'article L. 322-10, une personne publique ou privée ne peut prendre en charge tout ou partie des études
+nécessaires au fonctionnement d'une association foncière urbaine que dans le cadre d'une convention passée avec le conseil
+des syndics et approuvée par l'assemblée générale. 
 
-Exécute les décisions du conseil des syndics et de l'assemblée générale ;
-
-Prépare le budget et le compte administratif des opérations de l'association ;
-
-Assure le paiement des dépenses.
+Cette assistance technique autorise la personne qui l'a consentie à être représentée avec voix consultative aux délibérations
+de l'assemblée générale et du conseil des syndics ou, en cas d'association constituée d'office, à la commission
+administrative gérant l'association.
 
 **Liens relatifs à cet article**
 
@@ -34290,16 +34582,227 @@ Assure le paiement des dépenses.
 
 	**Anciens textes**:
 
-	  - Décret n°74-203 1974-02-26 ART. 4
+	  - Décret n°74-203 1974-02-26 ART. 5
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Décret n°86-517 du 14 mars 1986 - art. 30 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L322-10 (V)
 
 
 #####  Section 2 : Dispositions concernant les associations foncières urbaines de remembrement
 
+##### Paragraphe 1 : Constitution de l'association autorisée
+
+###### Article R*322-6
+
+Au projet d'acte d'association soumis à l'enquête prévue à l'article 6 du décret du 18 décembre 1927 doivent être joints
+[*contenu*] :
+
+Un plan parcellaire indiquant le tracé du ou des périmètres intéressés, accompagné de l'état des propriétaires de chaque
+parcelle avant remembrement ;
+
+Une notice explicative de l'utilité du remembrement des propriétés pour parvenir à une meilleure utilisation du sol eu égard
+notamment aux prescriptions d'urbanisme ;
+
+Une estimation du coût des études déjà réalisées et à prévoir.
+
+Le cas échéant, le programme des travaux d'aménagement à exécuter par l'association et leur estimation sommaire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°1927-12-18 art. 6
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-02-26 art. 6
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+
 ##### Paragraphe 2 : Redistribution parcellaire et fixation de l'état nouveau
+
+###### Article R*322-7
+
+En vue de l'établissement du projet de remembrement, le président de l'association requiert le conservateur des hypothèques
+de lui délivrer, dans les trois mois, pour chacun des immeubles compris dans le périmètre de remembrement, les extraits en
+tableau :
+
+1° Des actes et décisions judiciaires portant ou constatant la mutation de ces immeubles ou constatant l'existence de
+saisies, résolutions, restrictions au droit de disposer et, en général, de tous droits réels ou personnels ;
+
+2° Des inscriptions d'hypothèques ou de privilèges grevant lesdits immeubles, le tout, du chef tant des propriétaires
+désignés dans la réquisition que de toute autre personne devenue propriétaire et révélée par les actes et décisions
+judiciaires visés au 1°.
+
+Il le requiert, en outre, de lui délivrer des extraits complémentaires, au fur et à mesure qu'interviennent jusqu'à la date
+de clôture des opérations de remembrement, de nouvelles formalités de publicité de la nature de celles qui sont énoncées à
+l'alinéa qui précède et qui concernent les mêmes immeubles.
+
+Les derniers extraits doivent être délivrés au plus tard dans les quinze jours qui suivent la date de clôture des opérations
+de remembrement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-02-26 art. 7
+
+	**Créé par**:
+
+	  - Décret n°76-267 1976-03-25 JORF 27 mars 1976 rectificatif JORF 1976-06-13
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*322-21 (VD)
+	  - Code de l'urbanisme - art. R*322-24 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme R322-21
+
+
+###### Article R*322-8-1
+
+Les documents d'urbanisme indiquant les possibilités d'utilisation du sol à l'intérieur du périmètre de remembrement, ainsi
+éventuellement que les disciplines d'architecture à respecter par les constructeurs, doivent être tenus à la disposition des
+associés au secrétariat de l'association. Il en est de même des prescriptions d'urbanisme propres à l'opération qu'il est
+envisagé d'apporter en application du deuxième alinéa de l'article L. 322-6.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 31 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L322-6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*322-9
+
+Lorsque les droits réels dont sont grevés séparément plusieurs immeubles appartenant à un même propriétaire sont reportés sur
+l'immeuble ou les immeubles transférés ou attribués à ce propriétaire après remembrement, ces droits s'exercent selon les
+besoins sur la totalité, une quote-part ou une fraction matérielle de l'immeuble ou des immeubles expressément désignés. Les
+quotes-parts et les fractions matérielles sont déterminées compte tenu de la valeur relative de chacun des immeubles qui
+étaient grevés des droits réels reportés.
+
+Lorsque le droit d'un créancier inscrit est reporté, il s'exerce, le cas échéant, sur la soulte due au propriétaire,
+laquelle, en cas de pluralité d'immeubles remembrés, est rattachée à chacun des immeubles anciens grevés de privilèges ou
+d'hypothèques en proportion de sa valeur relative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-02-26 art. 9
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*322-10 (V)
+	  - Code de l'urbanisme - art. R*322-15 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme R322-10
+
+
+###### Article R*322-10
+
+L'enquête publique prévue à l'article L. 322-6 a lieu dans les formes prévues par les articles R. 11-19 à R. 11-31 du code de
+l'expropriation pour cause d'utilité publique. 
+
+Le dossier mis à l'enquête comporte au moins : 
+
+1° Le plan et l'état parcellaires avant remembrement désignant les immeubles, conformément à l'article 7 du décret n° 55-22
+du 4 janvier 1955 modifié avec l'indication des charges, servitudes et autres droits réels grevant les parcelles et les
+bâtiments ; 
+
+2° Une notice rappelant les dispositions des articles L. 322-6 et R. 322-9 ; 
+
+3° Une notice sur le mode d'évaluation des valeurs des parcelles avant remembrement ; 
+
+4° Un état des valeurs des parcelles avant remembrement et des quotes-parts de ces valeurs en cas de copropriété ; 
+
+5° Un état des constructions à démolir ; 
+
+6° Le plan et l'état parcellaires après remembrement désignant les immeubles conformément à l'article 7 du décret n° 55-22 du
+4 janvier 1955 modifié avec l'indication des charges, servitudes et autres droits réels à maintenir, reporter ou instituer ; 
+
+7° Une notice sur le mode d'évaluation des valeurs des parcelles après remembrement ; 
+
+8° Un état des valeurs des parcelles après remembrement ou des quotes-parts de ces valeurs en cas de copropriété ; 
+
+9° Le tableau comparatif par propriétaires avant et après remembrement des valeurs respectives des parcelles ou des quotes-
+parts de ces valeurs en cas de copropriété, avec l'indication des soultes ; 
+
+10° Un état des terrains faisant l'objet avant remembrement d'une affectation à des usages publics et un état des terrains à
+affecter après remembrement à ces mêmes usages ; 
+
+11° Un état des dépenses faites ou à faire comprenant, le cas échéant, le coût d'acquisition et de démolition des bâtiments
+ou ouvrages dont la destruction est indispensable au remembrement et les propositions d'indemnisation en ce qui concerne les
+droits réels et personnels éteints en application de l'article L. 322-6 ;
+
+12° Les prescriptions propre à l'opération, en complément de la réglementation d'urbanisme applicable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Décret n°55-22 du 4 janvier 1955 - art. 7 (VT)
+	  - Code de l'urbanisme - art. L322-6 (V)
+	  - Code de l'urbanisme - art. R*322-9 (V)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R11-19 (V)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R11-31 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-02-26 art. 10
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 33 () JORF 16 mars 1986 en vigueur le   1er avril 1986
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*322-14 (V)
+
 
 ###### Article R*322-12
 
@@ -34334,6 +34837,77 @@ n° 859-1335 du 20 novembre 1959.
 	  - TXT_ASSOCIE: Code de l'urbanisme R322-26
 
 
+###### Article R*322-13
+
+Les affaires portées devant la juridiction de l'expropriation en application de l'article L. 322-6 ne peuvent être confiées
+au juge de l'expropriation qui préside la commission consultative prévue audit article L. 322-6.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-02-26 ART. 13
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L322-6 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*322-14 (V)
+	  - Code de l'urbanisme - art. R*322-28-2 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme R322-26
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*322-14
+
+Le conseil des syndics peut décider de scinder l'instruction du projet de remembrement en deux étapes de manière que la
+fixation définitive des valeurs des parcelles anciennes puisse intervenir avant la mise à l'enquête du projet de
+redistribution parcellaire. 
+
+Dans ce cas, il saisit le préfet aux fins d'ouverture d'une première enquête sur la fixation des valeurs des parcelles
+anciennes. Le dossier mis à l'enquête comporte les pièces énumérées aux 1° à 5°, 11° et 12° de l'article R. 322-10. 
+
+La seconde enquête porte sur la redistribution parcellaire et les valeurs des nouvelles parcelles. Elle est ouverte lorsque
+les valeurs des parcelles anciennes ont fait l'objet de décisions définitives. Le dossier mis à l'enquête comporte les pièces
+énumérées aux 6° à 10° de l'article R. 322-10. 
+
+En cas d'observations formulées au cours de l'une ou de l'autre de ces enquêtes, il est procédé comme il est dit aux articles
+R. 322-11 à R. 322-13.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*322-10 (V)
+	  - Code de l'urbanisme - art. R*322-11 (V)
+	  - Code de l'urbanisme - art. R*322-13 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-03-26 ART. 14
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986   en vigueur le 1er avril 1986
+	  - Décret n°86-517 du 14 mars 1986 - art. 34 () JORF 16 mars 1986   en vigueur le 1er avril 1986
+
+
 ###### Article R*322-16
 
 Avant l'intervention de l'arrêté préfectoral prévu à l'article R. 322-17, le président de l'association se conforme aux
@@ -34354,6 +34928,254 @@ concordance du cadastre et du fichier immobilier.
 	**Anciens textes**:
 
 	  - Décret n°74-203 1974-02-26 ART. 16
+
+
+###### Article R*322-17
+
+Le plan de remembrement défini à l'article R. 322-15 est envoyé au commissaire de la République du département qui, dans un
+délai d'un mois à compter de la réception dudit plan, par arrêté :
+
+- approuve le plan de remembrement de l'association foncière urbaine, qui demeure annexé à l'arrêté ;
+
+- prononce les transferts et attributions de propriété ainsi que les reports et attributions de droits réels qui résultent de
+ce plan ;
+
+- prononce la clôture des opérations de remembrement.
+
+Toutefois, dans le cas où il est envisagé de modifier les prescriptions d'urbanisme propres à l'opération qui ont été
+soumises à l'enquête publique, l'approbation ne peut intervenir qu'après que le conseil municipal a été de nouveau saisi dans
+les conditions prévues à l'article R. 322-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-02-26 ART. 17
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+	  - Décret n°86-517 du 14 mars 1986 - art. 36 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*322-15 (V)
+	  - Code de l'urbanisme - art. R*322-16 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme R322-15, R322-8
+
+
+###### Article R*322-19
+
+L'association foncière urbaine ne peut être dissoute avant : 
+
+1° La dernière notification par le président faite en application de l'article R. 322-21 ; 
+
+2° Le paiement des indemnités éventuellement dues par l'association au titre de l'article L. 322-6 ; 
+
+3° La destruction complète des bâtiments ou ouvrages mentionnés à l'article L. 322-6.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L322-6 (V)
+	  - Code de l'urbanisme - art. R*322-21 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-02-26 ART. 19
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+
+##### Paragraphe 3 : Mesures de publicité foncière
+
+###### Article R*322-20
+
+A la date de clôture des opérations de remembrement et nonobstant tout recours juridictionnel, le président de l'association
+requiert le conservateur des hypothèques de publier l'arrêté préfectoral qui prononce les transferts et attributions de
+propriété et les reports et attributions de droits réels ainsi que, le cas échéant, les prescriptions propres à l'opération
+mentionnées à l'article R. 322-15-6°.
+
+A cet effet, il dépose, outre une copie, trois expéditions certifiées exactement collationnées, dont l'une est établie sur
+une formule du modèle arrêté par le directeur général des impôts et le directeur de l'aménagement foncier et de l'urbanisme,
+de l'arrêté ainsi que du tableau et des états prévus aux 2° à 5° de l'article R. 322-15 annexés audit arrêté.
+
+La désignation des immeubles est faite conformément à l'article 7 du décret n. 55-22 du 4 janvier 1955 modifié.
+
+La désignation des propriétaires et des autres titulaires de droits réels est faite conformément aux articles 5 et 6 du
+décret n.° 55-22 du 4 janvier 1955 modifié et certifiée dans les conditions prévues aux articles 38, 81 et 82 du décret n.
+55-1350 du 14 octobre 1955 modifié sous peine de refus de dépôt.
+
+Pour assurer le renouvellement de la publicité prévu à l'article L. 322-6 l'énumération des droits réels reportés est
+complétée sous la même sanction, par l'indication des actes ou décisions judiciaires qui leur ont donné naissance, avec les
+références (date, volume, numéro) des formalités exécutées à la conservation des hypothèques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Décret n°55-22 du 4 janvier 1955 - art. 5 (V)
+	  - Décret n°55-22 du 4 janvier 1955 - art. 6 (M)
+	  - Décret n°55-22 du 4 janvier 1955 - art. 7 (M)
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 38 (M)
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 81 (V)
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 82 (V)
+	  - Code de l'urbanisme - art. L322-6 (M)
+	  - Code de l'urbanisme R322-15, annexe, L322-6
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-02-26 ART. 20
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars   1986 en vigueur le 1er avril 1986
+	  - Décret n°86-517 du 14 mars 1986 - art. 37 () JORF 16 mars   1986 en vigueur le 1er avril 1986
+	  - Décret n°86-517 du 14 mars 1986 - art. 43 () JORF 16 mars   1986 en vigueur le 1er avril 1986
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*322-15 (V)
+
+
+###### Article R*322-21
+
+I. - Dès la clôture des opérations de remembrement et au plus tard quinze jours après la délivrance des derniers extraits
+prévus à l'article R. 322-7, dernier alinéa, le président de l'association notifie par lettre recommandée avec demande d'avis
+de réception [*condition de forme*], à tous les titulaires de créances hypothécaires ou privilégiées inscrites que, par
+application de l'article L. 322-6 les inscriptions prises sur les immeubles compris dans le périmètre de remembrement avant
+la clôture des opérations se trouvent périmées du jour de cette clôture en tant qu'elles grèvent lesdits immeubles et qu'il
+leur appartient de procéder au renouvellement de ces inscriptions dans les conditions fixées au II du présent article.
+
+Les biens antérieurement grevés et ceux qui sont transférés ou attribués à l'ancien propriétaire par l'arrêté de remembrement
+doivent être désignés de façon détaillée dans la notification.
+
+La notification est faite au domicile élu par le créancier dans les documents déposés à la conservation des hypothèques ou, à
+défaut de domicile élu, au domicile indiqué dans ces documents.
+
+II. - Les inscriptions d'hypothèques ou de privilèges prises avant la clôture des opérations sur les immeubles remembrés ne
+conservent leur rang antérieur sur les immeubles transférés ou attribués que si elles sont renouvelées, à la diligence de
+leur bénéficiaire, dans le délai de six mois, à dater du jour de cette clôture.
+
+En cas d'exercice d'un privilège ou d'une hypothèque sur une soulte, le renouvellement n'a lieu que pour les sommes au
+paiement desquelles l'immeuble transféré ou attribué continue d'être affecté.
+
+Le renouvellement qui conserve le privilège ou l'hypothèque jusqu'à la date fixée par le créancier conformément aux
+dispositions de l'article 2154-I du code civil s'opère par le dépôt à la conservation des hypothèques de deux bordereaux,
+dont un exemplaire établi sous peine de rejet sur formule réglementaire, signés et certifiés exactement collationnés,
+contenant exclusivement sous peine de refus de dépôt : 
+
+1° Les réquisitions et indications liminaires prévues à l'article 61, paragraphe I, du décret n. 55-1350 du 14 octobre
+1955 ; 
+
+2° Une copie, certifiée collationnée par le président de l'association, de la notification faite en exécution du premier
+alinéa du présent article ; 
+
+3° La désignation des immeubles grevés ;
+
+4° le nom et le domicile de la personne à laquelle le rejet doit éventuellement être notifié ; 
+
+5° Le cas échéant, le capital et les accessoires de la créance garantie, s'ils sont inférieurs à ceux qui ont fait l'objet de
+l'inscription antérieure.
+
+La radiation des inscriptions antérieures en tant qu'elles grèvent les immeubles remembrés est effectuée par le conservateur
+des hypothèques au vu de ces bordereaux.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 61 (M)
+	  - Code civil - art. 2154 (T)
+	  - Code de l'urbanisme - art. L322-6 (M)
+	  - Code de l'urbanisme R322-7, L322-6
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-02-26 ART. 21
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*322-19 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*322-22
+
+Les communes à cadastre non encore rénové ayant fait l'objet d'opérations de remembrement urbain sont assimilées pour les
+parties remembrées aux communes à cadastre rénové dès la publication de l'arrêté de remembrement au fichier immobilier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-02-26 ART. 22
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*322-24 (V)
+
+
+##### Paragraphe 4 : Dispositions concernant les associations foncières urbaines de remembrement constituées d'office
+
+###### Article R*322-24
+
+Les opérations de remembrement sont réalisées comme il est dit aux articles R. 322-7 à R. 322-22. 
+
+La commission administrative a, pour ce faire, les mêmes pouvoirs et obligations que le conseil des syndics, et le président
+de cette commission les mêmes pouvoirs et obligations que ceux du président et du directeur d'une association autorisée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-02-26 ART. 24
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*322-22 (V)
+	  - Code de l'urbanisme - art. R*322-7 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ##### Dispositions concernant les associations foncières urbaines de remembrement
@@ -34402,6 +35224,54 @@ intéressés par lettre recommandée avec demande d'avis de réception [*conditi
 
 #####  Section 3 : Dispositions relatives aux associations foncières urbaines de groupement de parcelles
 
+##### Paragraphe 1 : Constitution des associations autorisées
+
+###### Article R*322-25
+
+Le projet d'acte d'association soumis à l'enquête prévue à l'article 6 du décret du 18 décembre 1927 doit préciser
+[*contenu*], les pouvoirs conférés à l'association, selon que celle-ci a pour objet :
+
+Soit la passation du bail à construction et son exécution ;
+
+Soit la représentation des associés en vue de la réalisation du transfert de propriété par apport à une société de
+construction ou d'aménagement ;
+
+Soit à la réalisation du transfert de propriété par vente à un établissement public ou une société de construction ou
+d'aménagement.
+
+A ce projet d'acte d'association doivent être joints, en sus des pièces mentionnées à l'article R. 322-3 :
+
+a) Une déclaration précisant la nature juridique, civile ou commerciale de la société et son objet ;
+
+b) Un plan parcellaire indiquant le périmètre des terrains intéressés par le projet d'association accompagné de l'état des
+propriétaires de chaque parcelle ;
+
+c) Une notice précisant la finalité de l'opération projetée et faisant ressortir l'utilité, tant pour les propriétaires que
+pour la commune, du groupement des parcelles, eu égard notamment aux prescriptions d'urbanisme ;
+
+d) Le cas échéant, une notice sur les bâtiments ou ouvrages à acquérir par l'association foncière urbaine en application de
+l'article L. 322-7 ainsi que l'estimation du coût des dépenses d'acquisition de ces constructions ;
+
+e) Une estimation du coût des études déjà réalisées ou envisagées.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L322-7 (M)
+	  - Code de l'urbanisme R322-3, L322-7
+	  - Décret n°1927-12-18 art. 6
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 1er avril 1986
+	  - Décret n°86-517 du 14 mars 1986 - art. 38 () JORF 1er avril 1986
+
+
 ##### Paragraphe 2 : Modalités de groupement de parcelles
 
 ###### Article R*322-26
@@ -34449,6 +35319,322 @@ et, le cas échéant, le coût d'acquisition des bâtiments ou ouvrages existant
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R*322-27
+
+Le projet de groupement de parcelles, en vue d'en faire apport à une société de construction ou d'aménagement comprend
+[*contenu*], en sus du projet d'acte d'apport, les pièces suivantes :
+
+a) Une notice justifiant l'intérêt de l'opération et décrivant les principales caractéristiques du ou des immeubles dont la
+construction est envisagée ou de l'opération d'aménagement projeté ;
+
+b) S'il s'agit de constructions, le plan masse des constructions édifiées, et éventuellement de celles à modifier, coté dans
+les trois dimensions, ainsi que la description graphique des façades ou, s'il s'agit d'un lotissement, le nombre maximum de
+lots, la surface de plancher hors oeuvre maximale dont la construction est envisagée dans le lotissement, ainsi que les
+pièces mentionnées aux d), e), f), i) et j) de l'article R. 322-5 ;
+
+c) Le certificat d'urbanisme délivré en application du b de l'article L. 410-1 ;
+
+d) Les statuts de la société qui bénéficiera de l'apport ;
+
+e) Une notice sur le mode d'évaluation des parcelles et un état précisant leur valeur avant groupement ;
+
+f) Une notice précisant les conditions de rémunération de l'apport par l'attribution aux membres de l'association de parts ou
+actions de la société ;
+
+g) L'état descriptif de division et le projet de règlement de copropriété ;
+
+h) Un état des dépenses faites ou à faire par l'association comprenant notamment le montant des indemnités de délaissement
+et, le cas échéant, le coût d'acquisition des bâtiments ou ouvrages existants ;
+
+i) Le contrat de promotion immobilière lorsqu'il est exigé en application du titre IV de la loi n. 71-579 du 16 juillet 1971
+modifiée, ou l'écrit en tenant lieu ainsi que les devis descriptifs et les conditions d'exécution technique des travaux, les
+moyens et conditions de financement, le délai de réalisation et les éventuelles garanties de bonne fin ou d'achèvement
+relatifs, selon le cas, à l'opération de construction ou à l'opération de lotissement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°71-579 1971-07-16
+	  - Code de l'urbanisme - art. L410-1 (M)
+	  - Code de l'urbanisme L410-1, R322-5
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 39 () JORF 16 mars 1986 en vigueur le   1er avril 1986
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*322-28
+
+Si tous les associés ont opté ou sont réputés avoir opté pour la vente des parcelles moyennant un prix payé en monnaie, le
+projet de groupement de parcelles comprend, en sus du projet d'acte de vente, les pièces ci-après :
+
+a) Les statuts de l'établissement public ou la société qui bénéficiera de la vente des parcelles ;
+
+b) Une notice sur le mode d'évaluation des parcelles et un état précisant leur valeur avant groupement ;
+
+c) Un état des dépenses faites ou à faire par l'association, comprenant notamment le montant des indemnités de délaissement
+et, le cas échéant, le coût d'acquisition des bâtiments ou ouvrages dont la destruction est indispensable à la réalisation de
+l'opération projetée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+	  - Décret n°86-517 du 14 mars 1986 - art. 41 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*322-28-1 (V)
+
+
+###### Article R*322-28-1
+
+Lorsque les associés ou seulement certains d'entre eux ont opté pour une rémunération sous forme de remise d'une ou plusieurs
+fractions d'immeubles, le projet du groupement de parcelles comprend [*contenu*], en sus des pièces prévues à l'article R.
+322-28, les pièces ci-après :
+
+a) Une notice décrivant les principales caractéristiques du ou des immeubles dont la construction est envisagée ou de
+l'opération d'aménagement projeté ;
+
+b) Le plan masse des constructions à édifier et éventuellement de celles à modifier, coté dans les trois dimensions, ainsi
+que la description graphique des façades ;
+
+c) Le certificat d'urbanisme délivré en application du b de l'article L. 410-1 ;
+
+d) S'il s'agit de constructions, le projet de règlement de copropriété et l'état descriptif de division ou, s'il s'agit d'un
+lotissement, le nombre maximum de lots, la surface de plancher hors oeuvre maximale dont la construction est envisagée dans
+le lotissement ainsi que les pièces mentionnées aux d), e), f), i) et j) de l'article R. 315-5.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+	  - Décret n°86-517 du 14 mars 1986 - art. 48 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L410-1 (M)
+	  - Code de l'urbanisme R322-28, L410-1, R315-5
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*322-28-2 (V)
+
+
+###### Article R*322-28-2
+
+Le président de l'association notifie à chaque associé, par lettre recommandée avec demande d'avis de réception, le projet de
+groupement de parcelles établi comme il est dit aux articles R. 322-26 à R. 322-28-1. 
+
+Dans un délai de deux mois à compter de cette notification, les associés peuvent adresser leurs observations au président par
+lettre recommandée avec demande d'avis de réception. 
+
+Il est ensuite procédé comme il est indiqué pour le projet de remembrement aux quatre derniers alinéas de l'article R. 322-11
+et aux articles R. 322-12 et R. 322-13.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°77-863 1977-07-26 art. 25 JORF 29 juillet 1977 date d'entrée en vigueur 1 janvier 1978
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+	  - Décret n°86-517 du 14 mars 1986 - art. 43 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*322-11 (V)
+	  - Code de l'urbanisme - art. R*322-12 (V)
+	  - Code de l'urbanisme - art. R*322-13 (V)
+	  - Code de l'urbanisme - art. R*322-26 (V)
+	  - Code de l'urbanisme - art. R*322-28-1 (V)
+
+
+##### Paragraphe 3 : Dispositions spéciales
+
+###### Article R*322-29
+
+S'il est stipulé dans le bail à construction un loyer périodique payable en monnaie, l'association le répartit entre ses
+membres au prorata des valeurs des parcelles avant groupement.
+
+Par dérogation, le cas échéant, à l'article 23 du décret du 29 décembre 1962 sur la comptabilité publique modifié, il peut y
+avoir compensation, dans les mains du receveur, pour chaque associé, entre les charges lui incombant et la quote-part des
+recettes lui revenant.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret  1962-12-29 art. 23
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°77-863 1977-07-26 art. 25 JORF 29 juillet 1977 date d'entrée en vigueur 1 janvier 1978
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+
+###### Article R*322-30
+
+Une association foncière urbaine de groupement de parcelles en vue d'en conférer l'usage à un tiers par bail à construction
+ne peut être dissoute avant le terme de ce bail et, lorsque celui-ci prévoit que les associés deviendront propriétaires en
+fin de bail des constructions édifiées, avant l'adoption définitive de l'état descriptif de division et du règlement de
+copropriété. Le président de l'association doit assurer la publication de ces deux documents conformément aux dispositions du
+décret n° 55-22 du 4 janvier 1955 et du décret n° 55-1350 du 14 octobre 1955.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°55-22 1955-01-04
+	  - Décret n°55-1350 1955-10-14
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°77-863 1977-07-26 art. 25 JORF 29 juillet 1977 date d'entrée en vigueur 1 janvier 1978
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+
+#####  Section 4 : Dispositions concernant les associations foncières urbaines de conservation, de restauration et de mise en valeur des secteurs sauvegardés ainsi que de restauration immobilière
+
+##### Paragraphe 1 : Associations autorisées
+
+###### Article R*322-31
+
+Au projet d'acte d'association soumis à l'enquête prévue à l'article 6 du décret du 18 décembre 1927 doit être jointe
+[*contenu*], en sus des pièces mentionnées à l'article 10 de la loi du 21 juin 1865 et à l'article R. 322-3 :
+
+Une notice faisant ressortir l'utilité commune tant des frais de restauration que des dépenses à exposer pour une meilleure
+utilisation de l'îlot au sens de l'article L. 312-1.
+
+En outre, le projet d'acte d'association doit rappeler les dispositions de l'article L. 322-8.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L312-1 (Ab)
+	  - Code de l'urbanisme - art. L322-8 (M)
+	  - Code de l'urbanisme R322-3, L312-1, L322-8
+	  - Décret n°1927-12-18 art. 6
+	  - Loi n°1865-06-21 art. 10
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-02-26 ART. 32
+
+	**Créé par**:
+
+	  - Décret n°76-267 1976-03-25 JORF 27 mars 1976 rectificatif JORF    1976-06-13
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le    1er avril 1986
+
+
+###### Article R*322-32
+
+Pour l'application des articles L. 313-2, L. 313-3 et L. 313-4, les associations autorisées prévues à la présente sous-
+section sont soumises aux dispositions des articles R. 313-4 à R. 313-20, R. 313-25 à R. 313-27 et R. 313-29 à R. 313-32.
+
+L'acceptation prévue à l'article R. 313-29 est donnée par le conseil des syndics.
+
+Les dispositions des articles 46 à 48 et 54 à 56 du décret susvisé du 18 décembre 1927 ne sont pas applicables aux
+associations autorisées prévues à la présente sous-section.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-02-26 ART. 33
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L313-2 (M)
+	  - Code de l'urbanisme - art. L313-3 (M)
+	  - Code de l'urbanisme - art. L313-4 (M)
+	  - Code de l'urbanisme - art. R313-29 (M)
+	  - Code de l'urbanisme L313-2, L313-3, L313-4, R313-4 à R313-20, R313-25 à R313-27, R313-29 à 313-32, R313-29
+	  - Décret n°1927-12-18 art. 46 à 48, art. 54 à 56
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+##### Paragraphe 2 : Associations constituées d'office
+
+###### Article R*322-33
+
+Lorsqu'il y a lieu à application de l'article L. 322-4 (3.) il est procédé comme il est dit aux articles 74 et 75 du décret
+du 18 décembre 1927.
+
+L'association constituée d'office est soumise aux dispositions des articles R. 313-4 à R. 313-20, R. 313-25 à 313-27 et R.
+313-30 à R. 313-32.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-02-26 ART. 34
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L322-4 (M)
+	  - Code de l'urbanisme L322-4, R313-4 à R313-20, R313-25 à 313-27, R313-30 à R313-32
+	  - Décret n°1927-12-18 art. 74, art. 75
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 #####  Section 4 : Commission consultative.
 
 ###### Article R322-34
@@ -34482,6 +35668,132 @@ Le directeur départemental de l'équipement ou son représentant.
 	**Anciens textes**:
 
 	  - Décret n°74-204 1974-02-26 ART. 1
+
+
+#####  Section 5 : Commission consultative
+
+###### Article R322-35
+
+Le juge, président, est choisi par le premier président de la cour d'appel parmi les juges de l'expropriation ou leurs
+suppléants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Anciens textes**:
+
+	  - Décret n°74-204 1974-02-26 ART. 2
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+	**Abrogé par**:
+
+	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
+
+
+###### Article R322-36
+
+Le notaire et le géomètre expert sont choisis par le premier président de la cour d'appel sur deux listes dressées à cet
+effet et comprenant, l'une cinq notaires présentés par le conseil régional des notaires, l'autre cinq géomètres experts
+présentés par le conseil régional de l'ordre des géomètres experts.
+
+Il est fait choix dans les mêmes conditions de suppléants appelés à les remplacer, notamment pour le cas où un intérêt direct
+ou indirect à une opération déterminée les contraindrait à se récuser.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Anciens textes**:
+
+	  - Décret n°74-204 1974-02-26 ART. 3
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+	**Abrogé par**:
+
+	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
+
+
+#####  Section 6 : Dispositions diverses
+
+###### Article R322-38
+
+Lorsque l'association décide, en vertu de l'article R. 322-9-2, que les taxes sont régies par remise d'immeubles, la
+délibération détermine les valeurs de référence.
+
+Une convention, passée entre l'association et l'associé, stipule notamment le montant des taxes dues et la valeur de
+l'immeuble cédé à l'association, ainsi que le délai dans lequel cette cession doit intervenir.
+
+Le receveur de l'association est tenu informé et veille, sous sa responsabilité, à l'exécution de la convention susvisée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 44 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*730-1 (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme R322-9
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R322-39
+
+Nonobstant les dispositions de l'article 25 du décret du 18 décembre 1927, les propriétaires membres d'une association
+foncière urbaine autorisée ou constituée d'office peuvent se faire représenter à l'assemblée générale par leur conjoint,
+leurs descendants ou leurs descendants.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°1927-12-18 art. 25
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 44 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+	**Abrogé par**:
+
+	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
+
+
+###### Article R322-40
+
+Sous réserve que les statuts de l'association le permettent, celle-ci peut déléguer la maitrîse d'ouvrage sur les travaux
+qu'elle a pour objet d'entreprendre. La convention prévoyant cette délégation doit être approuvée par l'assemblée générale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 44 () JORF 16 mars 1986 en vigueur le 1er avril 1986
 
 
 ### Titre III : Dispositions financières
@@ -36737,43 +38049,6 @@ administratifs nécessaires au paiement des subventions.
 
 ##### Création
 
-###### Article R*311-2
-
-Les zones d'aménagement concerté sont créées, à l'initiative d'une collectivité publique, ou d'un des établissements publics
-ci-après énumérés :
-
-a) Etablissements publics groupant plusieurs communes et ayant compétence en matière d'urbanisme ;
-
-b) Etablissements publics mentionnés aux premier et second alinéas de l'article L. 321-1 ;
-
-c) Syndicats mixtes ;
-
-d) Chambres de commerce et d'industrie ;
-
-e) Ports autonomes maritimes ou fluviaux ;
-
-f) Aéroports érigés en établissements publics.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L321-1 (M)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*311-7 (V)
-	  - Code de l'urbanisme - art. R*318-18 (V)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme R311-4
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ###### Article R*311-3
 
 La personne publique qui prend l'initiative de demander la création d'une zone d'aménagement concerté adresse au préfet un
@@ -36798,77 +38073,6 @@ e) Le régime de la zone au regard de la taxe locale d'équipement ;
 f) L'indication du document d'urbanisme applicable à l'intérieur de la zone.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*311-4
-
-L'aménagement et l'équipement de la zone sont :
-
-1. Soit conduits directement par la personne morale qui a pris l'initiative de sa création ;
-
-2. Soit à la demande de ladite personne morale, réalisés par un établissement public visé à l'article L. 321-1 (alinéa 1), ou
-concédés à l'un des établissements publics mentionnés à l'article R. 311-2 ou à une société d'économie mixte constituée en
-application de l'article R. 321-1 ;
-
-3. Soit confiés, par cette personne morale, selon les stipulations d'une convention à une personne privée ou publique.
-
-Dans ce dernier cas, la convention est approuvée :
-
-a) Soit par le préfet, si elle est conforme à une convention type approuvée par décret en Conseil d'Etat ;
-
-b) Soit, à défaut, par arrêté conjoint du ministre chargé de l'urbanisme et du ministre de l'intérieur.
-
-Lorsque la zone d'aménagement concerté a pour objet la réalisation d'une opération de rénovation urbaine, la convention
-applicable est celle prévue à l'article R. 312-1 (alinéa 3).
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°68-1107 1968-12-03 ART. 4
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*311-3 (V)
-	  - Code de l'urbanisme - art. R*318-18 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R321-1
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*311-5
-
-La décision créant la zone d'aménagement concerté [*contenu*] en délimite le ou les périmètres, mentionne le mode de
-réalisation choisi et précise, le cas échéant, si les équipements prévus à l'article 317 quater de l'annexe II du code
-général des impôts seront mis à la charge des constructeurs.
-
-Dans les communes, parties de communes ou ensembles de communes dotés d'un plan d'occupation des sols rendu public ou
-approuvé, la décision créant la zone précise en outre si les dispositions de ce plan demeureront en vigueur à l'intérieur du
-ou des territoires compris dans la zone, ou s'il sera établi un plan d'aménagement de zone.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 317
-
-	**Anciens textes**:
-
-	  - Décret n°68-1107 1968-12-03 ART. 5
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*311-12 (V)
-	  - Code de l'urbanisme - art. R*311-9 (V)
 
 	**Codifié par**:
 
@@ -36958,32 +38162,6 @@ ayant compétence en matière d'urbanisme si la zone a été créée à l'initia
 	  - Décret n°73-1023 1973-11-08
 
 
-###### Article R*311-14
-
-Lorsque le conseil municipal ou l'organe délibérant de l'établissement public groupant plusieurs communes et ayant compétence
-en matière d'urbanisme, saisi en application de l'article R. 311-12 ou spécialement saisi à cet effet, a donné un avis
-favorable au projet de plan d'aménagement de zone, le préfet peut par arrêté motivé faire une application anticipée des
-dispositions de ce plan.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°86-517 du 14 mars 1986 - art. 14 () JORF 16 mars 1986 en vigueur le 1er avril 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 26 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R311-12
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ###### Article R*311-15
 
 Le plan d'aménagement de zone est approuvé :
@@ -37064,338 +38242,6 @@ Le titre III détermine notamment les conditions de gestion des installations co
 	  - Décret n°73-1023 1973-11-08
 
 
-###### Article R*311-20
-
-Le traité de concession ou la convention prévu à l'article R. 311-4 (2. et 3.) ne peut être signé avant que le préfet ait
-approuvé le programme des équipements publics et, dans le cas où la décision de création n'a pas décidé de maintenir en
-vigueur les dispositions du plan d'occupation des sols, approuvé le plan d'aménagement de la zone.
-
-Lorsque la zone est réalisée dans les conditions définies à l'article R. 311-4 (2.), le traité de concession ou la convention
-de mandat est exécutoire suivant les modalités fixées à l'article R. 321-14.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°86-517 du 14 mars 1986 - art. 18 () JORF 16 mars 1986 en vigueur le 1er avril 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 26 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R311-4
-
-
-##### Préparation et exécution des programmes d'équipement.
-
-###### Article R311-21
-
-La réalisation du programme annuel des équipements publics à réaliser dans le cadre d'une zone d'aménagement concerté peut
-faire l'objet d'une convention entre l'Etat et la collectivité locale ou l'établissement public intéressé, dont le modèle
-figure en annexe au présent code.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1225 1970-12-23 ART. 1
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°86-517 du 14 mars 1986 - art. 18 () JORF 16 mars 1986 en vigueur le 1er avril 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 26 (V)
-
-
-###### Article R311-22
-
-La convention [*contenu*] indique le programme des équipements à lancer par chacune des deux parties [*Etat, collectivité
-locale, établissement public*] au titre de l'année en cause ainsi que les subventions ou fonds de concours que les
-cocontractants consentent pour cette réalisation.
-
-Le programme visé à l'alinéa ci-dessus est arrêté compte tenu des documents établis en application des dispositions de la
-section II du présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1225 1970-12-23 ART. 2
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°86-517 du 14 mars 1986 - art. 18 () JORF 16 mars 1986 en vigueur le 1er avril 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 26 (V)
-
-
-###### Article R311-23
-
-Le préfet est compétent pour signer la convention au nom de l'Etat.
-
-La signature par le préfet de la convention vaut promesse d'attribution de subvention.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1225 1970-12-23 ART. 3
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°86-517 du 14 mars 1986 - art. 18 () JORF 16 mars 1986 en vigueur le 1er avril 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 26 (V)
-
-
-###### Article R311-24
-
-Lorsque le plan d'aménagement de zone prévoit la réalisation d'ensembles intégrés réunissant plusieurs équipements relevant
-de la compétence de différents ministres, les études nécessaires peuvent être confiées à des hommes de l'art spécialement
-rémunérés par l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1225 1970-12-23 ART. 4
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°86-517 du 14 mars 1986 - art. 18 () JORF 16 mars 1986 en vigueur le 1er avril 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 26 (V)
-
-
-##### Subventions.
-
-###### Article R311-25
-
-La réalisation des équipements publics de superstructure d'accompagnement du logement dans les zones d'aménagement concerté à
-usage principal d'habitation peut faire l'objet de subventions attribuées globalement aux collectivités locales ou aux
-établissements publics maître d'ouvrage de ces équipements.
-
-La liste des équipements de superstructure d'accompagnement du logement auxquels s'appliquent les dispositions de la présente
-section est établie par arrêté conjoint du ministre concerné et du ministre chargé de l'urbanisme.
-
-Les dispositions de la présente section ne s'appliquent pas aux équipements dont les collectivités locales ont confié la
-direction et la responsabilité des travaux à l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1226 1970-12-23 ART. 1
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°86-517 du 14 mars 1986 - art. 18 () JORF 16 mars 1986 en vigueur le 1er avril 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 26 (V)
-
-
-###### Article R311-26
-
-Les subventions sont attribuées par le préfet pour le programme d'équipements à lancer au titre d'une année donnée. Ce
-programme est arrêté compte tenu des documents établis en application des dispositions de la section II du présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1226 1970-12-23 ART. 2
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°86-517 du 14 mars 1986 - art. 18 () JORF 16 mars 1986 en vigueur le   1er avril 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 26 (V)
-
-
-###### Article R311-27
-
-Ces subventions sont calculées conformément aux règles applicables à chaque nature d'équipement. Ces équipements doivent
-répondre aux normes et conditions propres à chaque ministère.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1226 1970-12-23 ART. 3
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°86-517 du 14 mars 1986 - art. 18 () JORF 16 mars 1986 en vigueur le 1er avril 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 26 (V)
-
-
-###### Article R311-28
-
-Le paiement des subventions est effectué globalement et au moins semestriellement en fonction de l'état d'avancement du
-programme.
-
-Le directeur départemental de l'équipement est ordonnateur secondaire de ces dépenses.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1226 1970-12-23 ART. 4
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°86-517 du 14 mars 1986 - art. 18 () JORF 16 mars 1986 en vigueur le 1er avril 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 26 (V)
-
-
-###### Article R311-29
-
-Les dispositions de la présent section s'appliquent aux équipements non encore financés à réaliser dans les zones inscrites
-sur les listes établies en application soit de l'article R. 311-7, soit de l'article 3 du décret n. 68-838 du 24 septembre
-1968.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°68-838 1968-09-24 ART. 3
-	  - Code de l'urbanisme R311-7
-
-	**Anciens textes**:
-
-	  - Décret n°70-1226 1970-12-23 ART. 5
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°86-517 du 14 mars 1986 - art. 18 () JORF 16 mars 1986 en vigueur le 1er avril 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 26 (V)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*311-7 (M)
-
-
-##### Dispositions spéciales à l'égard de certaines régions.
-
-###### Article R311-30
-
-Conformément à l'article 15 du décret n. 66-614 du 10 août 1966, le préfet de la région parisienne [*attributions*] présente
-aux ministres intéressés toute proposition de création des différente s catégories de zones d'aménagement prévues par la
-législation et la réglementation en matière d'urbanisme.
-
-Lorsqu'elles relèvent de l'autorité préfectorale, il donne son accord préalable à toute création ou modification de zone de
-rénovation et de zone d'habitation susceptibles de présenter un intérêt régional ainsi que de zone industrielle ou
-commerciale. En cas de désaccord ou lorsque la décision relève de l'autorité ministérielle, il transmet le dossier, avec son
-avis, au ministre intéressé.
-
-Il donne les instructions pour l'élaboration des programmes des projets d'aménagements et des bilans prévisionnels des zones
-visées par le présent article. Il les transmet pour approbation aux autorités compétentes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Cite**:
-
-	  - Décret n°66-614 du 10 août 1966 - art. 15 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°66-614 du 10 août 1966 - art. 15 (V)
-
-
-###### Article R311-31
-
-Conformément à l'article 4 (3e alinéa) du décret n. 72-289 du 17 avril 1972, la mission interministérielle pour la protection
-et l'aménagement de l'espace naturel méditerranéen peut, pour les zones comprises dans sa compétence où le maintien des
-équilibres naturels fondamentaux est particulièrement fragile, demander communication des plans d'aménagement des zones
-d'aménagement concerté.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Cite**:
-
-	  - Décret n°72-289 du 17 avril 1972 - art. 4 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°72-289 du 17 avril 1972 - art. 4 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°86-517 du 14 mars 1986 - art. 20 () JORF 16 mars 1986 en vigueur le 1er avril 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 26 (V)
-
-
 ##### Suppression ou modification.
 
 ###### Article R*311-32
@@ -37425,27 +38271,6 @@ zone ne peut intervenir que si l'enquête publique concernant cette opération a
 la modification du plan et si, en outre, l'acte déclaratif d'utilité publique est pris dans des conditions conformes aux
 prescriptions concernant l'approbation des plans d'aménagement de zone. La déclaration d'utilité publique emporte alors
 modification du plan.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-##### Achèvement.
-
-###### Article R*311-36
-
-L'achèvement de la zone est constaté :
-
-a) Par arrêté du préfet sur avis favorable ou sur proposition de la commune ou, s'il en existe un, de l'établissement public
-groupant plusieurs communes et ayant compétence en matière d'urbanisme ;
-
-b) Par décret en Conseil d'Etat, en cas d'avis défavorable ou faute d'avis de la commune ou, s'il en existe un, de
-l'établissement intéressé, transmis à l'autorité de tutelle dans le délai de deux mois à compter du [*point de départ*] jour
-où le maire, ou le président de l'établissement public, a reçu communication du projet de décision constatant l'achèvement de
-la zone.
 
 **Liens relatifs à cet article**
 
@@ -38229,32 +39054,6 @@ Les avances du fonds national d'aménagement foncier et d'urbanisme et les subve
 	  - Décret n°73-1023 1973-11-08
 
 
-###### Article R312-26
-
-Indépendamment du contrôle économique et financier de l'Etat prévu par le décret n. 55-733 du 26 mai 1955 les organismes de
-rénovation doivent [*obligation*] tenir à la disposition du ministre de l'économie et des finances, du ministre chargé de
-l'urbanisme et du ministre de l'intérieur tous les documents, registres, pièces comptables et autres concernant les
-opérations de rénovation.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°55-733 1955-05-26
-
-	**Anciens textes**:
-
-	  - Décret n°59-730 1959-06-15 ART. 12
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°86-517 du 14 mars 1986 - art. 53 () JORF 16 mars 1986 en vigueur le 1er avril 1986
-
-
 ###### Article R312-27
 
 Dans le cas où l'opération est réalisée par une société d'économie mixte à participation publique majoritaire visée à
@@ -38618,55 +39417,6 @@ Si les assemblées mentionnées à l'alinéa précédent n'ont pas fait connaît
 
 
 #### Lotissements et divisions de propriété
-
-##### Dispositions générales relatives aux lotissements.
-
-###### Article R*315-2
-
-Ne constituent pas des lotissements [*définition*] et ne sont pas soumises aux dispositions du présent chapitre :
-
-a) Les divisions effectuées dans le cadre d'une opération de remembrement régie par le chapitre II du titre II du présent
-livre ou d'une opération de remembrement aménagement prescrite en application de l'article 19-1 du code rural ;
-
-b) Les divisions effectuées à l'intérieur des zones à urbaniser en priorité, des zones d'aménagement concerté, des périmètres
-de rénovation urbaine, des zones de restauration immobilière, des zones de résorption de l'habitat insalubre ainsi que des
-zones d'habitation et des zones industrielles créées en application de l'article R.321-1 avant le 1er janvier 1977, lorsque
-ces divisions sont effectuées par la personne publique ou privée qui réalise l'aménagement de ladite zone ;
-
-c) Les divisions de terrains en propriété ou en jouissance lorsque les terrains issus de la division constituent l'assiette
-d'un immeuble à construire dont la vente est régie par les articles 1601-1 à 1601-4 du code civil, ou d'un immeuble dont la
-construction par une société régie par le titre II ou par le titre III de la loi n° 71-579 du 16 juillet 1971 modifiée a été
-autorisée ;
-
-d) Les divisions par ventes ou locations effectuées par un propriétaire au profit de personnes qu'il a habilitées à réaliser
-une opération immobilière sur une partie de sa propriété et qui ont elles-mêmes déjà obtenu une autorisation de lotir ou un
-permis de construire portant sur la création d'un groupe de bâtiments ou d'un bâtiment comportant plusieurs logements ;
-
-e) Les divisions effectuées à l'intérieur des périmètres [*prise de possession*] visés à l'article L. 314-2 par les sociétés
-civiles [*groupement de propriétaires*] constituées en application de l'article L. 322-12.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°71-579 1971-07-16 TITRE II, TITRE III
-	  - Code civil - art. 1601-1 (V)
-	  - Code civil - art. 1601-2 (V)
-	  - Code civil - art. 1601-3 (V)
-	  - Code civil - art. 1601-4 (V)
-	  - Code de l'urbanisme - art. L314-2 (M)
-	  - Code de l'urbanisme - art. L322-12 (Ab)
-	  - Code de l'urbanisme R322-1 à R322-49
-	  - Code rural 19-1
-
-	**Modifié par**:
-
-	  - Décret n°81-225 1981-03-10 ART. 13 JORF 11 MARS 1981
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
 
 ##### Présentation, dépôt et transmission de la demande d'autorisation.
 
@@ -39077,99 +39827,6 @@ l'association.
 	  - Décret n°73-1023 1973-11-08
 
 
-###### Article R*322-10
-
-L'enquête publique prévue à l'article L. 322-6 a lieu dans les formes prévues par le titre II du décret n. 59-701 du 6 juin
-1959.
-
-Le dossier mis à l'enquête comporte au moins [*contenu*] :
-
-1° Le plan et l'état parcellaires avant remembrement désignant les immeubles, conformément à l'article 7 du décret n° 55-22
-du 4 janvier 1955 modifié avec l'indication des charges, servitudes et autres droits réels grevant les parcelles et les
-bâtiments ;
-
-2° Une notice rappelant les dispositions des articles L. 322-6 et R. 322-9 ;
-
-3° Une notice sur le mode d'évaluation des valeurs des parcelles avant remembrement ;
-
-4° Un état des valeurs des parcelles avant remembrement et des quotes-parts de ces valeurs en cas de copropriété ;
-
-5° Un état des constructions à démolir ;
-
-6° Le plan et l'état parcellaires après remembrement désignant les immeubles conformément à l'article 7 du décret n° 55-22 du
-4 janvier 1955 modifié avec l'indication des charges, servitudes et autres droits réels à maintenir, reporter ou instituer ;
-
-7° Une notice sur le mode d'évaluation des valeurs des parcelles après remembrement ;
-
-8° Un état des valeurs des parcelles après remembrement ou des quotes-parts de ces valeurs en cas de copropriété ;
-
-9° Le tableau comparatif par propriétaires avant et après remembrement des valeurs respectives des parcelles ou des quotes-
-parts de ces valeurs en cas de copropriété, avec l'indication des soultes ;
-
-10° Un état des terrains faisant l'objet avant remembrement d'une affectation à des usages publics et un état des terrains à
-affecter après remembrement à ces mêmes usages ;
-
-11° Un état des dépenses faites ou à faire comprenant, le cas échéant, le coût d'acquisition et de démolition des bâtiments
-ou ouvrages dont la destruction est indispensable au remembrement et les propositions d'indemnisation en ce qui concerne les
-droits réels et personnels éteints en application de l'article L. 322-6.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°55-22 du 4 janvier 1955 - art. 7 (M)
-	  - Décret n°59-701 1959-06-06 TITRE II
-	  - Code de l'urbanisme - art. L322-6 (M)
-	  - Code de l'urbanisme R322-9
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Anciens textes**:
-
-	  - Décret n°74-203 1974-02-26 ART. 10
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*322-14 (V)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme R322-14
-
-
-###### Article R*322-14
-
-Le conseil des syndics peut décider de scinder l'instruction du projet de remembrement en deux étapes de manière que la
-fixation définitive des valeurs des parcelles anciennes puisse intervenir avant la mise à l'enquête du projet de
-redistribution parcellaire.
-
-Dans ce cas, il saisit le préfet aux fins d'ouverture d'une première enquête sur la fixation des valeurs des parcelles
-anciennes. Le dossier mis à l'enquête comporte [*contenu*] les pièces énumérées aux 1° à 5° et 11° de l'article R. 322-10.
-
-La seconde enquête porte sur la redistribution parcellaire et les valeurs des nouvelles parcelles. Elle est ouverte lorsque
-les valeurs des parcelles anciennes ont fait l'objet de décisions définitives. Le dossier mis à l'enquête comporte les pièces
-énumérées aux 6° à 10° de l'article R. 322-10.
-
-En cas d'observations formulées au cours de l'une ou de l'autre de ces enquêtes, il est procédé comme il est dit aux articles
-R. 322-11 à R. 322-13.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme R322-12
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Anciens textes**:
-
-	  - Décret n°74-203 1974-03-26 ART. 14
-
-
 ###### Article R*322-15
 
 Le plan de remembrement [*définition*] arrêté par le conseil des syndics après rectification, le cas échéant, en exécution de
@@ -39223,41 +39880,6 @@ précisées à l'article R. 322-20.
 	  - Décret n°73-1023 1973-11-08
 
 
-###### Article R*322-17
-
-Le plan de remembrement défini à l'article R. 322-15 est envoyé au préfet qui, dans les huit jours, le transmet au maire en
-vue de recueillir son avis motivé. Faute d'être parvenu au préfet dans le délai d'un mois, cet avis est réputé [*silence*]
-favorable.
-
-Le préfet, par arrêté :
-
-Approuve le plan de remembrement de l'association foncière urbaine, qui demeure annexé à l'arrêté ;
-
-Prononce les transferts et attributions de propriété ainsi que les reports et attributions de droits réels qui résultent de
-ce plan ;
-
-Prononce la clôture des opérations de remembrement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°74-203 1974-02-26 ART. 17
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*322-15 (V)
-	  - Code de l'urbanisme - art. R*322-16 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R322-15
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ##### Redistribution parcellaire et fixation et l'état nouveau.
 
 ###### Article R*322-18
@@ -39287,96 +39909,9 @@ par le préfet qui les concerne.
 	  - Code de l'urbanisme R322-22
 
 
-##### Mesures de publicité foncière.
-
-###### Article R*322-20
-
-A la date de clôture des opérations de remembrement et nonobstant tout recours juridictionnel, le président de l'association
-requiert le conservateur des hypothèques de publier l'arrêté préfectoral qui prononce les transferts et attributions de
-propriété et les reports et attributions de droits réels.
-
-A cet effet, il dépose, outre une copie, trois expéditions certifiées exactement collationnées, dont l'une est établie sur
-une formule du modèle arrêté par le directeur général des impôts et le directeur de l'aménagement foncier et de l'urbanisme,
-de l'arrêté ainsi que du tableau et des états prévus aux 2° et 5° de l'article R. 322-15 annexés audit arrêté.
-
-La désignation des immeubles est faite conformément à l'article 7 du décret n. 55-22 du 4 janvier 1955 modifié.
-
-La désignation des propriétaires et des autres titulaires de droits réels est faite conformément aux articles 5 et 6 du
-décret n. 55-22 du 4 janvier 1955 modifié et certifiée dans les conditions prévues aux articles 38, 81 et 82 du décret n.
-55-1350 du 14 octobre 1955 modifié sous peine de refus de dépôt.
-
-Pour assurer le renouvellement de la publicité prévu à l'article L. 322-6 l'énumération des droits réels reportés est
-complétée sous la même sanction, par l'indication des actes ou décisions judiciaires qui leur ont donné naissance, avec les
-références (date, volume, numéro) des formalités exécutées à la conservation des hypothèques.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°55-22 1955-01-04 ART. 7, 6 ET 5
-	  - Décret n°55-22 du 4 janvier 1955 - art. 7 (M)
-	  - Décret n°55-1350 1955-10-14 ART. 38, 81 ET 82
-	  - Décret n°55-1350 du 14 octobre 1955 - art. 38 (M)
-	  - Code de l'urbanisme - art. L322-6 (M)
-	  - Code de l'urbanisme R322-15
-
-	**Anciens textes**:
-
-	  - Décret n°74-203 1974-02-26 ART. 20
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*322-15 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ##### Dispositions relatives aux associations foncières urbaines de groupement de parcelles
 
 ##### Modalités de groupement de parcelles.
-
-###### Article R*322-27
-
-Le projet de groupement de parcelles, en vue d'en faire apport à une société d'attribution, une société coopérative de
-construction ou une société d'économie mixte de construction comprend [*contenu*], en sus du projet d'acte d'apport, les
-pièces suivantes :
-
-a) Une notice justifiant l'intérêt de l'opération et décrivant les principales caractéristiques du ou des immeubles dont la
-construction est envisagée ;
-
-b) Le plan masse des constructions à édifier et éventuellement de celles à modifier, coté dans les trois dimensions, ainsi
-que la description graphique des façades ;
-
-c) Le certificat d'urbanisme délivré en application du b de l'article L. 410-1 ;
-
-d) Les statuts de la société qui bénéficiera de l'apport ;
-
-e) Une notice sur le mode d'évaluation des parcelles et un état précisant leur valeur avant groupement ;
-
-f) Une notice précisant les conditions de rémunération de l'apport par l'attribution aux membres de l'association de parts ou
-actions de la société ;
-
-g) L'état descriptif de division et le projet de règlement de copropriété ;
-
-h) Un état des dépenses faites ou à faire par l'association comprenant notamment le montant des indemnités de délaissement
-et, le cas échéant, le coût d'acquisition des bâtiments ou ouvrages existants ;
-
-i) Le contrat de promotion immobilière lorsqu'il est exigé en application du titre IV de la loi n. 71-579 du 16 juillet 1971
-modifiée, ou l'écrit en tenant lieu.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Cite**:
-
-	  - Loi n°71-579 1971-07-16 TITRE IV
-	  - Code de l'urbanisme - art. L410-1 (M)
-
 
 ###### Article R*322-27-1
 
@@ -39396,37 +39931,6 @@ fractions des immeubles à construire. Les associés n'ayant pas opté dans ce d
 	**Cite**:
 
 	  - Loi n°71-579 1971-07-16 TITRE 1
-
-
-###### Article R*322-28-1
-
-Lorsque les associés ou seulement certains d'entre eux ont opté pour une rémunération sous forme de remise d'une ou plusieurs
-fractions des immeubles à construire, le projet du groupement de parcelles comprend [*contenu*], en sus des pièces prévues à
-l'article R. 322-28, les pièces ci-après :
-
-a) Une notice décrivant les principales caractéristiques du ou des immeubles dont la construction est envisagée ;
-
-b) Le plan masse des constructions à édifier et éventuellement de celles à modifier, coté dans les trois dimensions, ainsi
-que la description graphique des façades ;
-
-c) Le certificat d'urbanisme délivré en application du b de l'article L. 410-1 ;
-
-d) Le projet de règlement de copropriété et l'état descriptif de division.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L410-1 (M)
-	  - Code de l'urbanisme R322-28
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*322-28-2 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*322-28-3
@@ -39463,181 +39967,6 @@ L'arrêté du préfet portant constitution de la commission est publié au recue
 	**Anciens textes**:
 
 	  - Décret n°74-204 1974-02-26 ART. 4
-
-
-#### Sociétés civiles foncières.
-
-###### Article R322-41
-
-Lorsqu'il lui est fait apport d'un bien immobilier, la société civile foncière requiert le conservateur des hypothèques de
-lui délivrer, du chef de l'apporteur et des propriétaires antérieurs dénommés dans la réquisition, les copies, extraits ou
-certificats nécessaires à la détermination de la situation juridique du bien.
-
-Dès que cette situation juridique a été déterminée, la société civile notifie l'apport à chacun des titulaires de droits.
-
-La notification contient, notamment, la date de l'acte d'apport, la désignation du notaire rédacteur de cet acte et le rappel
-de la formalité de publicité à laquelle a donné lieu le titre du destinataire, ainsi que les références de cette formalité
-(date, volume, numéro). elle reproduit intégralement le texte de l'article L. 322-15 ainsi que ceux du présent article et des
-articles R. 322-42 à R. 322-44.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°64-1323 1964-12-24 ART. 14
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L322-15 (Ab)
-	  - Code de l'urbanisme - art. R322-43 (Ab)
-	  - Code de l'urbanisme - art. R322-44 (Ab)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R322-42 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
-
-
-###### Article R322-42
-
-L'acte pour lequel l'associé, auteur de l'apport visé à l'article R. 322-41, reçoit un bien immobilier en représentation de
-ses parts contient les désignations, conformes à la réglementation de la publicité foncière, de ce bien immobilier et de
-celui qui a fait l'objet de l'apport.
-
-En vue de renouveler, en ce qui les concerne, la publicité légale antérieure, l'acte constatant l'attribution doit, en outre,
-mentionner, avec la désignation réglementaire et la certification de l'identité de leurs titulaires, les droits réels autres
-que les servitudes, privilèges et hypothèques publiés ou inscrits sur le bien apporté et qui s'exercent désormais sur le bien
-attribué.
-
-Cette énumération est complétée, sous peine de refus du dépôt, par l'indication des actes ou décisions judiciaires ayant
-donné naissance aux droits réels susvisés et par la mention des références (date, volume, numéro) aux formalités exécutées au
-bureau des hypothèques.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°64-1323 1964-12-24 ART. 15-I
-
-	**Abrogé par**:
-
-	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R322-41 (Ab)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R322-43 (Ab)
-	  - Code de l'urbanisme - art. R322-44 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R322-43
-
-Les inscriptions d'hypothèques ou de privilèges prises dans les conditions indiquées au deuxième alinéa de l'article L.
-322-15 conservent leur rang antérieur sur le bien [*immobilier*] attribué par l'acte visé à l'article R. 322-42 à condition
-d'être renouvelées sur ce bien. Leur renouvellement est décidé après consultation de leurs bénéficiaires ; il a lieu à la
-diligence de la société civile et aux frais du débiteur.
-
-Le renouvellement effectué en même temps que la publication de l'acte constatant l'attribution et dans les conditions fixées
-par les articles 61 et suivants du décret n. 55-1350 du 14 octobre 1955 conserve l'hypothèque ou le privilège /M/pendant dix
-nouvelles années à partir de sa date/M/DECR.0863 ART. 22 :
-
-Jusqu'à la date [*durée*] fixée par le créancier conformément à l'article 2154-1 du code civil// .
-
-Les bordereaux de renouvellement doivent contenir les désignations, conformes à la réglementation de la publicité foncière,
-du bien immobilier apporté à la société civile et de celui qui est attribué à l'apporteur.
-
-La radiation des inscriptions antérieures en tant qu'elles concernent le bien apporté à la société civile est opérée par le
-conservateur des hypothèques au vu desdits bordereaux.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°55-1350 1955-10-14 ART. 61 ET SUIVANTS
-	  - Code de l'urbanisme - art. L322-15 (Ab)
-	  - Code de l'urbanisme - art. R322-42 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°64-1323 1964-12-24 ART. 15-II
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R322-41 (Ab)
-	  - Code de l'urbanisme - art. R322-44 (Ab)
-
-
-###### Article R322-45
-
-Lorsque l'expropriation des immeubles compris dans le périmètre [*prise de possession, opération d'urbanisation*] visé à
-l'article L. 314-2 est poursuivie en application de l'article L. 322-12, les arrêtés de cessibilité sont renouvelés, compte
-tenu des modifications survenues en ce qui concerne la désignation des immeubles ou l'identité des parties, sans qu'il soit
-procédé à une nouvelle enquête parcellaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°64-1323 1964-12-24 ART. 16
-
-	**Abrogé par**:
-
-	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L314-2 (M)
-	  - Code de l'urbanisme - art. L322-12 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R322-46
-
-Sont considérées comme constituant des emprises publiques    pour l'application de l'article L. 322-16 les superficies qui
-devront être incorporées au domaine public de l'Etat ou d'une collectivité locale ou affectées à un service public.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°64-1323 1964-12-24 ART. 17
-
-	**Abrogé par**:
-
-	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L322-16 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 ### Dispositions financières
@@ -40213,7 +40542,9 @@ l'article 61 du décret n° 59-1335 du 20 novembre 1959 modifié.
 
 Constitue un lotissement [*définition*] au sens du présent chapitre toute division d'une propriété foncière en vue de
 l'implantation de bâtiments qui a pour objet ou qui, sur une période de moins de dix ans, a eu pour effet de porter à plus de
-deux le nombre de terrains issus de ladite propriété.
+deux le nombre de terrains issus de ladite propriété. Est également soumise à autorisation de lotir prévue par le présent
+chapitre l'opération de remembrement menée par une association foncière urbaine libre régie par la loi du 21 juin 1865 et par
+le titre II du chapitre II du présent livre, lorsque le plan de remembrement délimite plus de deux lots.
 
 L'alinéa précédent s'applique notamment aux divisions en propriété ou en jouissance résultant de mutations à titre gratuit ou
 onéreux, de partage ou de locations, à l'exclusion toutefois des divisions résultant de partages successoraux ou d'actes
@@ -40241,11 +40572,16 @@ e) Les apports et les cessions gratuites résultant de l'application de l'articl
 
 	  - Code de l'urbanisme - art. L123-9 (M)
 	  - Code de l'urbanisme - art. R111-14 (M)
-	  - Code de l'urbanisme R332-15
+	  - Code de l'urbanisme L123-9, R111-14, R332-15
+	  - Loi n°1865-06-21
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 45 () JORF 14 mars 1986 en vigueur   le 1er avril 1986
 
 
 #### Décision
@@ -40306,209 +40642,6 @@ Une estimation du coût de l'opération.
 	**Anciens textes**:
 
 	  - Décret n°74-203 1974-02-26 ART. 23
-
-
-## Aménagement foncier Organismes d'exécution
-
-### Associations foncières urbaines
-
-#### Dispositions relatives aux associations foncières urbaines de groupement de parcelles
-
-##### Constitution des associations autorisées.
-
-###### Article R*322-25
-
-Le projet d'acte d'association soumis à l'enquête prévue à l'article 6 du décret du 18 décembre 1927 doit préciser
-[*contenu*], les pouvoirs conférés à l'association, selon que celle-ci a pour objet :
-
-Soit la passation du bail à construction et son exécution ;
-
-Soit la représentation des associés en vue de la réalisation du transfert de propriété par apport à une société
-d'attribution, une société coopérative de construction ou une société d'économie mixte de construction ;
-
-Soit à la réalisation du transfert de propriété par vente à une société régie par le titre Ier de la loi n. 71-579 du 16
-juillet 1971 modifiée.
-
-A ce projet d'acte d'association doivent être joints, en sus des pièces mentionnées à l'article R. 322-3 :
-
-a) Une déclaration précisant la nature juridique, civile ou commerciale de la société et son objet ;
-
-b) Un plan parcellaire indiquant le périmètre des terrains intéressés par le projet d'association accompagné de l'état des
-propriétaires de chaque parcelle ;
-
-c) Une notice précisant la finalité de l'opération projetée et faisant ressortir l'utilité, tant pour les propriétaires que
-pour la commune, du groupement des parcelles, eu égard notamment aux prescriptions d'urbanisme ;
-
-d) Le cas échéant, une notice sur les bâtiments ou ouvrages à acquérir par l'association foncière urbaine en application de
-l'article L. 322-7 ainsi que l'estimation du coût des dépenses d'acquisition de ces constructions ;
-
-e) Une estimation du coût des études déjà réalisées ou envisagées.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L322-7 (M)
-	  - Code de l'urbanisme R322-3
-	  - Décret  1927-12-18 ART. 6
-	  - Loi n°71-579 1971-07-16 TITRE 1
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-##### Modalités de groupement de parcelles.
-
-###### Article R*322-28
-
-Si tous les associés ont opté ou sont réputés avoir opté pour la vente des parcelles moyennant un prix payé en monnaie, le
-projet de groupement de parcelles comprend [*contenu*], en sus du projet d'acte de vente, les pièces ci-après :
-
-a) Les statuts de la société qui bénéficiera de la vente des parcelles ;
-
-b) Une notice sur le mode d'évaluation des parcelles et un état précisant leur valeur avant groupement ;
-
-c) Un état des dépenses faites ou à faire par l'association, comprenant notamment le montant des indemnités de délaissement
-et, le cas échéant, le coût d'acquisition des bâtiments ou ouvrages dont la destruction est indispensable à la réalisation de
-l'opération projetée.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*322-28-1 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-### Sociétés civiles foncières.
-
-###### Article R322-44
-
-La société civile notifie aux titulaires de droits intéressés les renouvellements réalisés conformément aux dispositions des
-articles R. 322-42 et R. 322-43.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°64-1323 1964-12-24 ART. 15-III
-
-	**Abrogé par**:
-
-	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R322-41 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R322-42 (Ab)
-	  - Code de l'urbanisme - art. R322-43 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R322-47
-
-Pour l'application des articles L. 322-17 et L. 322-18, le prix de revient des immeubles ou fractions d'immeubles remis en
-paiement à la société civile comprend    : 
-
-1° Le coût de construction desdits immeubles ou fractions d'immeubles estimés au jour de la constitution de la société civile
-de propriétaires sur la base : 
-
-Des marchés de travaux de construction et de travaux annexes, tels que voirie de desserte, assainissement, plantations, ainsi
-que des honoraires et frais accessoires, estimés, au jour de la constitution de la société civile de propriétaires, en
-fonction de la variation de l'indice du coût de la construction ; 
-
-De la participation prévue au quatrième alinéa de l'article R. 314-9 ci-dessus. 
-
-2° Le cas échéant, le prix de vente des terrains d'implantation des immeubles ou fractions d'immeubles remis en paiement,
-fixé dans les conditions prévues au premier alinéa de l'article L. 322-17.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°64-1323 1964-12-24 ART. 18
-
-	**Abrogé par**:
-
-	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L322-17 (Ab)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L322-18 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L322-17 (Ab)
-	  - Code de l'urbanisme - art. L322-18 (Ab)
-	  - Code de l'urbanisme - art. R314-9 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R322-49
-
-Le minimum de superficie prévu à l'article L. 322-12 est fixé à 30 p. 100 de la superficie totale des immeubles compris dans
-le périmètre [*prise de possession, opération d'urbanisation*] visé à l'article L. 314-2.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L314-2 (M)
-	  - Code de l'urbanisme - art. L322-12 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°65-471 1965-06-19 ART. 1
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
-
-
-## Aménagement foncier Organisme d'exécution
-
-### Sociétés civiles foncières.
-
-###### Article R322-48
-
-Les notifications prévues par les articles de la présente section sont faites dans les formes définies par l'article 61 du
-décret n° 59-1335 du 20 novembre 1959 modifié.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°59-1335 1959-11-20 ART. 61
-
-	**Anciens textes**:
-
-	  - Décret n°64-1323 1964-12-24 ART. 19
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
 
 
 ## Livre IV : Régime applicable aux constructions, aménagements et démolitions
@@ -41113,6 +41246,31 @@ ou à y réaliser une opération déterminée, le certificat d'urbanisme en fait
 	**Anciens textes**:
 
 	  - Décret n°72-613 1972-07-03 ART. 11
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*410-17
+
+Le certificat d'urbanisme tient lieu des certificats prévus aux articles R. 211-6, R. 213-3 et R. 142-6 .
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°86-516 du 14 mars 1986 - art. 8 ()
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R142-6 (M)
+	  - Code de l'urbanisme - art. R211-6 (M)
+	  - Code de l'urbanisme - art. R213-3 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme R410-18
 
 	**Codifié par**:
 
@@ -46629,34 +46787,6 @@ ou sur la décharge visés à l'article R. 410-3.
 	**Cite**:
 
 	  - Code de l'urbanisme R410-3
-
-
-###### Article R*410-17
-
-Le certificat d'urbanisme tient lieu des certificats prévus aux articles R. 211-10 et R. 212-5.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°83-1262 1983-12-30 ART. 12 JORF 7 JANVIER 1984 date d'entrée en vigueur 1ER AVRIL 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°83-1262 1983-12-30 ART. 17 : Les communes qui, avant l'intervention du présent décret, avaient pouvoir, aux lieu et place du directeur départemental de l'équipement, d'instruire les demandes de certificat d'urbanisme, continuent à exercer ce p
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R*212-5 (M)
-	  - Code de l'urbanisme - art. R211-10 (M)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme R410-18
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 ### Permis de construire
