@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1981-08-19
+Version Consolidée au 1981-12-22
 
 # Partie législative
 
@@ -35627,75 +35627,6 @@ dit aux articles R. 313-13 ou R. 313-19-2. La décision est prise par le préfet
 	  - Décret n°73-1023 1973-11-08
 
 
-##### Protection d'ouvrages militaires, maritimes et aériens.
-
-###### Article R421-38-11
-
-Lorsque la construction est, en raison de son emplacement à proximité d'un ouvrage militaire, soumise à autorisation du
-ministre chargé des armées, en vertu du décret du 10 août 1853, de la loi du 18 juillet 1895 ou de la loi du 11 juillet 1933,
-le permis de construire ne peut être délivré qu'avec l'accord exprès de ce ministre ou de son délégué. Le ministre ou son
-délégué doit prendre position dans le délai de deux mois suivant la transmission de la demande de permis de construire par
-l'autorité chargée de son instruction. La décision est prise par le préfet [*autorité compétente*].
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R421-32 (M)
-
-	**Cite**:
-
-	  - Décret  1853-08-10
-	  - Loi   1895-07-18
-	  - Loi   1933-07-11
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R421-38-12
-
-Lorsque la construction est, en raison de sa situation à l'intérieur d'un polygone d'isolement, soumise à l'autorisation du
-ministre chargé des armées en vertu de l'article 5 de la loi du 8 août 1929, le permis de construire ne peut être délivré
-qu'avec l'accord du ministre ou de son délégué. Cet accord [*tacite*] est réputé donné faute de réponse dans un délai de
-trois mois suivant la transmission de la demande de permis de construire par l'autorité chargée de son instruction. La
-décision est prise par le préfet [*autorité compétente*].
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R421-32 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Cite**:
-
-	  - Loi   1929-08-08 ART. 5
-
-
-###### Article R421-38-13
-
-Lorsque la construction pourrait, en raison de son emplacement et de sa hauteur, constituer un obstacle à la navigation
-aérienne et qu'elle est soumise pour ce motif à l'autorisation du ministre chargé de l'aviation civile ou du ministre chargé
-des armées, en vertu de l'article 244-1 du code de l'aviation civile, le permis de construire ne peut être délivré qu'avec
-l'accord exprès du ministre intéressé ou de son délégué. Le ministre ou son délégué doit prendre position dans le délai de
-deux mois suivant la transmission de la demande de permis de construire par l'autorité chargée de son instruction.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'aviation civile - art. R244-1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ##### Dispositions relatives aux eaux intérieures et aux périmètres submersibles
 
 ###### Article R421-38-14
@@ -35794,27 +35725,6 @@ arrêté du préfet pris après un avis de cette commission.
 	**Cite**:
 
 	  - Loi n°63-1178 1963-11-28 ART. 4 AL. 3
-
-
-##### Changement d'affectation d'installations sportives
-
-###### Article R421-38-18
-
-Lorsque les travaux ont pour effet de changer l'affectation d'installations sportives et que ce changement est soumis à
-l'autorisation du ministre chargé des sports en application de l'article 2 de la loi du 26 mai 1941, le permis de construire
-ne peut être délivré qu'avec l'accord de ce ministre ou de son délégué. Cet accord [*tacite*] est réputé donné à défaut de
-réponse dans un délai de deux mois suivant la transmission de la demande de permis de construire par l'autorité chargée de
-son instruction.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Cite**:
-
-	  - Loi   1941-05-26 ART. 2
 
 
 ##### Zone de servitude à proximité d'un cimetière
@@ -38497,37 +38407,6 @@ emplacements si les prescriptions de sécurité et d'hygiène ne sont pas respec
 
 	  - Code du tourisme. - art. D331-6 (V)
 	  - Code du tourisme. - art. D333-3-1 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-## Règles relatives à l'acte de construire et à divers modes d'utilisation des sols
-
-### Permis de construire
-
-#### Régime général
-
-##### Règles applicables à toute construction
-
-##### Dispositions applicables aux constructions et travaux soumis au régime du permis de construire et à un autre régime d'autorisation
-
-##### Protection des monuments historiques, des sites et de l'environnement
-
-###### Article R421-38-10
-
-Lorsque la construction est, en raison de sa situation, à l'intérieur ou à proximité d'un bois ou d'une forêt, soumise à
-autorisation en vertu des articles 98 à 101 du code forestier, le permis de construire est délivré après consultation du
-directeur départemental de l'agriculture et avec l'accord du préfet. Cet accord [*tacite*] est réputé donné faute de réponse
-dans un délai de trois mois suivant la transmission de la demande de permis de construire par l'autorité chargée de son
-instruction.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code forestier 98
 
 	**Codifié par**:
 
@@ -41853,10 +41732,19 @@ Ces renseignements doivent demeurer lisibles de la voie publique pendant toute l
 
 ###### Article A410-1
 
-La demande de certificat d'urbanisme ainsi que le certificat d'urbanisme sont établis selon les modèles joints au présent
-article.
+La demande de certificat d'urbanisme (1) ainsi que le certificat d'urbanisme sont établis selon les modèles joints au présent
+code.
+
+(1) L'imprimé de demande de certificat d'urbanisme, composé de deux liasses, l'une de trois feuillets (A1, A2, A3), l'autre
+de cinq feuillets (B1, B2, B3, B4, B5) est enregistré au C.E.R.F.A. sous le numéro 46-0356, reproduit dans l'en-tête du
+formulaire sous le sigle C.E.R.F.A.. Ce document peut être obtenu auprès des directions départementales de l'équipement et
+des mairies.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1981-09-28 ART. 2 JONC 22 DECEMBRE 1981
 
 	**Codifié par**:
 
