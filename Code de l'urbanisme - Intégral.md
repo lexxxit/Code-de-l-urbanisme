@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2005-02-12
+Version Consolidée au 2005-02-24
 
 # Partie législative
 
@@ -305,13 +305,19 @@ Cette interdiction ne s'applique pas :
 Elle ne s'applique pas non plus à l'adaptation, au changement de destination, à la réfection ou à l'extension de
 constructions existantes.
 
-Les dispositions des alinéas précédents ne s'appliquent pas dès lors que les règles concernant ces zones, contenues dans le
-plan local d'urbanisme, ou dans un document d'urbanisme en tenant lieu, sont justifiées et motivées au regard notamment des
+Le plan local d'urbanisme, ou un document d'urbanisme en tenant lieu, peut fixer des règles d'implantation différentes de
+celles prévues par le présent article lorsqu'il comporte une étude justifiant, en fonction des spécificités locales, que ces
+règles sont compatibles avec la prise en compte des nuisances, de la sécurité, de la qualité architecturale, ainsi que de la
+qualité de l'urbanisme et des paysages.
+
+Dans les communes dotées d'une carte communale, le conseil municipal peut, avec l'accord du préfet et après avis de la
+commission départementale des sites, fixer des règles d'implantation différentes de celles prévues par le présent article au
+vu d'une étude justifiant, en fonction des spécificités locales, que ces règles sont compatibles avec la prise en compte des
 nuisances, de la sécurité, de la qualité architecturale, ainsi que de la qualité de l'urbanisme et des paysages.
 
-Il en est de même, dans les communes non dotées d'un plan local d'urbanisme, lorsqu'une étude attestant de la prise en compte
-des nuisances, de la sécurité, de la qualité architecturale, ainsi que de la qualité de l'urbanisme et des paysages, ayant
-reçu l'accord de la commission départementale des sites, est jointe à la demande d'autorisation du projet.
+Il peut être dérogé aux dispositions du présent article, avec l'accord du préfet, lorsque les contraintes géographiques ne
+permettent pas d'implanter les installations ou les constructions au-delà de la marge de recul prévue au premier alinéa, dès
+lors que l'intérêt que représente pour la commune l'installation ou la construction projetée motive la dérogation.
 
 **Liens relatifs à cet article**
 
@@ -329,7 +335,7 @@ reçu l'accord de la commission départementale des sites, est jointe à la dema
 
 	**Modifié par**:
 
-	  - Loi n°2003-590 du 2 juillet 2003 - art. 34 () JORF 3 juillet 2003
+	  - Loi n°2005-157 du 23 février 2005 - art. 200 () JORF 24 février 2005
 
 	**Codifié par**:
 
@@ -615,17 +621,33 @@ promesse ou du contrat qui l'a précédé, fondée sur l'absence de cette mentio
 
 ###### Article L111-6
 
-Les bâtiments, locaux ou installations soumis aux dispositions des articles L. 111-1, L. 421-1 ou L. 510-1, ne peuvent,
-nonobstant toutes clauses contraires des cahiers des charges de concession, d'affermage ou de régie intéressée, être
+Les bâtiments, locaux ou installations soumis aux dispositions des articles L. 111-1, L. 421-1, L. 443-1 ou L. 510-1, ne
+peuvent, nonobstant toutes clauses contraires des cahiers des charges de concession, d'affermage ou de régie intéressée, être
 raccordés définitivement aux réseaux d'électricité, d'eau, de gaz ou de téléphone si leur construction ou leur transformation
 n'a pas été, selon le cas, autorisée ou agréée en vertu des articles précités.
 
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 102 () JORF 24 février 2005
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L111-1 (M)
 	  - Code de l'urbanisme - art. L421-1 (M)
+	  - Code de l'urbanisme - art. L443-1 (M)
 	  - Code de l'urbanisme - art. L510-1 (M)
 
 	**Liens**:
@@ -2011,6 +2033,11 @@ dans les secteurs desservis par les transports collectifs. Ils peuvent, le cas �
 l'urbanisation de zones naturelles ou agricoles et les extensions urbaines à la création de dessertes en transports
 collectifs et à l'utilisation préalable de terrains situés en zone urbanisée et desservis par les équipements.
 
+Lorsqu'ils comprennent une ou des communes littorales, ils peuvent comporter un chapitre individualisé valant schéma de mise
+en valeur de la mer tel que défini par l'article 57 de la loi n° 83-8 du 7 janvier 1983 relative à la répartition de
+compétences entre les communes, les départements, les régions et l'Etat, à condition que celui-ci ait été approuvé selon les
+modalités définies au présent chapitre.
+
 Les schémas de cohérence territoriale prennent en compte les programmes d'équipement de l'Etat, des collectivités locales et
 des établissements et services publics. Ils doivent être compatibles avec les chartes des parcs naturels régionaux. Ils
 doivent également être compatibles avec les orientations fondamentales d'une gestion équilibrée de la ressource en eau et les
@@ -2020,6 +2047,10 @@ schémas d'aménagement et de gestion des eaux en application de l'article L. 21
 est approuvé après l'approbation d'un schéma de cohérence territoriale, ce dernier doit, si nécessaire, être rendu compatible
 dans un délai de trois ans.
 
+En zone de montagne, les schémas de cohérence territoriale définissent la localisation, la consistance et la capacité globale
+d'accueil et d'équipement des unités touristiques nouvelles mentionnées au I de l'article L. 145-11 et les principes
+d'implantation et la nature des unités touristiques nouvelles mentionnées au II du même article.
+
 Lorsque le périmètre d'un schéma de cohérence territoriale recouvre en tout ou partie celui d'un pays ayant fait l'objet
 d'une publication par arrêté préfectoral, le projet d'aménagement et de développement durable du schéma de cohérence
 territoriale tient compte de la charte de développement du pays.
@@ -2028,10 +2059,17 @@ Pour leur exécution, les schémas de cohérence territoriale peuvent être comp
 schémas de secteur qui en détaillent et en précisent le contenu.
 
 Les programmes locaux de l'habitat, les plans de déplacements urbains, les schémas de développement commercial, les plans
-locaux d'urbanisme, les plans de sauvegarde et de mise en valeur, les cartes communales, les opérations foncières et les
-opérations d'aménagement définies par décret en Conseil d'Etat doivent être compatibles avec les schémas de cohérence
-territoriale et les schémas de secteur. Il en est de même pour les autorisations prévues par les articles 29 et 36-1 de la
-loi n° 73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat.
+locaux d'urbanisme, les plans de sauvegarde et de mise en valeur, les cartes communales, la délimitation des périmètres
+d'intervention prévus à l'article L. 143-1, les opérations foncières et les opérations d'aménagement définies par décret en
+Conseil d'Etat doivent être compatibles avec les schémas de cohérence territoriale et les schémas de secteur. Il en est de
+même pour les autorisations prévues par l'article L. 720-5 du code de commerce et l'article 36-1 de la loi n° 73-1193 du 27
+décembre 1973 d'orientation du commerce et de l'artisanat.
+
+**Nota:**
+
+NOTA : Loi 2005-157 2005-02-23 art. 194 : Les dispositions de l'article 190 II (insérant un 7me alinéa à l'article L122-1)
+entreront en vigueur à une date fixée par décret en Conseil d'Etat et au plus tard un an après la publication de la présente
+loi.
 
 **Liens relatifs à cet article**
 
@@ -2041,10 +2079,15 @@ loi n° 73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat
 
 	**Cite**:
 
-	  - Loi n°73-1193 1973-12-27 art. 29, art. 36-1
 	  - Loi n°73-1193 du 27 décembre 1973 - art. 36-1 (M)
+	  - Loi n°83-8 1983-01-07 art. 57
+	  - Code de commerce. - art. L720-5 (M)
 	  - Code de l'urbanisme - art. L110 (M)
 	  - Code de l'urbanisme - art. L121-1 (M)
+	  - Code de l'urbanisme - art. L143-1 (M)
+	  - Code de l'urbanisme - art. L145-11 (M)
+	  - Code de l'environnement - art. L212-1 (M)
+	  - Code de l'environnement - art. L212-3 (M)
 
 	**Cité par**:
 
@@ -2073,7 +2116,8 @@ loi n° 73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat
 
 	**Modifié par**:
 
-	  - Loi n°2004-338 du 21 avril 2004 - art. 7 () JORF 22 avril 2004
+	  - Loi n°2005-157 du 23 février 2005 - art. 190 () JORF 24 février 2005
+	  - Loi n°2005-157 du 23 février 2005 - art. 74 () JORF 24 février 2005
 
 
 ###### Article L122-2
@@ -2145,36 +2189,41 @@ Les dispositions du présent article sont applicables à compter du 1er juillet 
 
 ###### Article L122-3
 
-I. - Le schéma de cohérence territoriale est élaboré à l'initiative des communes ou de leurs groupements compétents.
+I.-Le schéma de cohérence territoriale est élaboré à l'initiative des communes ou de leurs groupements compétents. 
 
-II. - Le périmètre du schéma de cohérence territoriale délimite un territoire d'un seul tenant et sans enclave. Lorsque ce
+II.-Le périmètre du schéma de cohérence territoriale délimite un territoire d'un seul tenant et sans enclave. Lorsque ce
 périmètre concerne des établissements publics de coopération intercommunale compétents en matière de schémas de cohérence
 territoriale, il recouvre la totalité du périmètre de ces établissements. Toutefois, lorsque le périmètre d'un de ces
 établissements n'est pas d'un seul tenant, le périmètre du schéma peut ne pas comprendre la totalité des communes membres de
-cet établissement à condition de comprendre la totalité de la partie ou des parties d'un seul tenant qui le concerne.
+cet établissement à condition de comprendre la totalité de la partie ou des parties d'un seul tenant qui le concerne. 
 
 Il tient notamment compte des périmètres des groupements de communes, des agglomérations nouvelles, des pays et des parcs
-naturels, ainsi que des périmètres déjà définis des autres schémas de cohérence territoriale,  des plans de déplacements
+naturels, ainsi que des périmètres déjà définis des autres schémas de cohérence territoriale, des plans de déplacements
 urbains, des schémas de développement commercial, des programmes locaux de l'habitat et des chartes intercommunales de
-développement et d'aménagement.
+développement et d'aménagement. 
 
 Il prend également en compte les déplacements urbains, notamment les déplacements entre le domicile et le lieu de travail et
 de la zone de chalandise des commerces, ainsi que les déplacements vers les équipements culturels, sportifs, sociaux et de
-loisirs.
+loisirs. 
 
-III. - Un projet de périmètre est déterminé, selon les cas, par les conseils municipaux ou l'organe délibérant du ou des
+III.-Un projet de périmètre est déterminé, selon les cas, par les conseils municipaux ou l'organe délibérant du ou des
 établissements publics de coopération intercommunale compétents, à la majorité des deux tiers au moins des communes
 intéressées représentant plus de la moitié de la population totale de celles-ci ou la majorité de la moitié au moins des
 communes intéressées représentant les deux tiers de la population totale. Si des communes ne sont pas membres d'un
 établissement public de coopération intercommunale compétent en matière de schéma de cohérence territoriale, la majorité doit
 comprendre, dans chaque cas, au moins un tiers d'entre elles. Pour le calcul de la majorité, les établissements publics de
-coopération intercommunale comptent pour autant de communes qu'ils comprennent de communes membres.
+coopération intercommunale comptent pour autant de communes qu'ils comprennent de communes membres. 
 
-IV. - Le projet de périmètre est communiqué au préfet. Ce dernier recueille l'avis du ou des conseils généraux concernés. Cet
+IV.-Le projet de périmètre est communiqué au préfet. Ce dernier recueille l'avis du ou des conseils généraux concernés. Cet
 avis est réputé positif s'il n'a pas été formulé dans un délai de trois mois. Le préfet publie par arrêté le périmètre du
 schéma de cohérence territoriale après avoir vérifié, en tenant compte des situations locales et éventuellement des autres
 périmètres arrêtés ou proposés, que le périmètre retenu permet la mise en cohérence des questions d'urbanisme, d'habitat, de
-développement économique, de déplacements et d'environnement.
+développement économique, de déplacements et d'environnement. 
+
+Lorsque le schéma de cohérence territoriale englobe une ou des communes littorales et dans le cas où l'établissement public
+mentionné à l'article L. 122-4 décide d'élaborer un chapitre individualisé valant schéma de mise en valeur de la mer, le
+préfet est consulté sur la compatibilité du périmètre de ce schéma avec les enjeux d'aménagement, de protection et de mise en
+valeur du littoral.
 
 **Liens relatifs à cet article**
 
@@ -2196,8 +2245,11 @@ développement économique, de déplacements et d'environnement.
 
 	**Modifié par**:
 
-	  - Loi n°2003-590 du 2 juillet 2003 - art. 4 () JORF 3 juillet 2003
-	  - Loi n°2003-590 du 2 juillet 2003 - art. 5 () JORF 3 juillet 2003
+	  - Loi n°2005-157 du 23 février 2005 - art. 235 () JORF 24 février 2005
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L122-4 (V)
 
 	**Codifié par**:
 
@@ -2483,6 +2535,32 @@ Les associations mentionnées à l'article L. 121-5 sont consultées, à leur de
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
+###### Article L122-8-1
+
+Les dispositions du chapitre individualisé valant schéma de mise en valeur de la mer et relatives aux orientations
+fondamentales de protection du milieu marin, à la gestion du domaine public maritime et aux dispositions qui ne ressortent
+pas du contenu des schémas de cohérence territoriale tel qu'il est défini par l'article L. 122-1 sont soumises pour accord au
+préfet avant l'arrêt du projet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Créé par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 235 () JORF 24 février 2005
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L122-1 (M)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*122-3-1 (V)
+
+
 ###### Article L122-9
 
 Lorsqu'une commune ou un groupement de communes membre de l'établissement public prévu à l'article L. 122-4 estime que l'un
@@ -2560,6 +2638,9 @@ l'établissement public. Il est transmis au préfet, à la région, au départem
 121-4 ainsi qu'aux communes ou établissements publics ayant recouru à la procédure de l'article L. 122-9. Le schéma de
 cohérence territoriale approuvé est tenu à la disposition du public.
 
+A l'issue de l'enquête publique, le chapitre individualisé valant schéma de mise en valeur de la mer ne peut être modifié
+qu'avec l'accord du préfet.
+
 La délibération publiée approuvant le schéma devient exécutoire deux mois après sa transmission au préfet. Toutefois, si dans
 ce délai le préfet notifie, par lettre motivée, au président de l'établissement public les modifications qu'il estime
 nécessaire d'apporter au schéma lorsque les dispositions de celui-ci ne sont pas compatibles avec les directives
@@ -2568,16 +2649,14 @@ littoral mentionnées à l'article L. 111-1-1, ou compromettent gravement les pr
 121-1, le schéma de cohérence territoriale est exécutoire dès publication et transmission au préfet de la délibération
 apportant les modifications demandées.
 
+Le cas échéant, le chapitre individualisé mentionné au deuxième alinéa se substitue à la partie d'un schéma de mise en valeur
+de la mer existant qui concerne son territoire.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 3 () JORF 14 décembre 2000 en vigueur le 1er avril 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2000-1208 du 13 décembre 2000 - art. 43 (V)
-	  - SPEC_APPLI: Décret n°2001-260 du 27 mars 2001 - art. 6 (V)
+	  - Loi n°2005-157 du 23 février 2005 - art. 235 () JORF 24 février 2005
 
 	**Cité par**:
 
@@ -5252,14 +5331,18 @@ d'eau ;
 - pour l'acquisition par un département, une commune, un établissement public de coopération intercommunale ou le
 Conservatoire de l'espace littoral et des rivages lacustres, de bois et forêts ou de droits sociaux donnant vocation à
 l'attribution en propriété ou en jouissance de bois et forêts, sous réserve de leur ouverture au public dans les conditions
-prévues à l'article L. 142-10.
+prévues à l'article L. 142-10 ;
 
 - pour l'acquisition, l'aménagement et la gestion des espaces, sites et itinéraires figurant au plan départemental des
 espaces, sites et itinéraires relatifs aux sports de nature établi dans les conditions prévues à l'article 50-2 de la loi n°
-84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et sportives ;
+84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et sportives, sous réserve que
+l'aménagement ou la gestion envisagés maintiennent ou améliorent la qualité des sites, des paysages et des milieux naturels ;
 
 - pour l'acquisition, la gestion et l'entretien des sites Natura 2000 désignés à l'article L. 414-1 du code de
-l'environnement et des territoires classés en réserve naturelle au sens de l'article L. 332-1 du même code.
+l'environnement et des territoires classés en réserve naturelle au sens de l'article L. 332-1 du même code ;
+
+- pour les études et inventaires du patrimoine naturel nécessaires à l'élaboration et à la mise en oeuvre de la politique de
+protection et de gestion des espaces naturels sensibles destinés à être ouverts au public.
 
 Cette taxe est perçue sur la totalité du territoire du département.
 
@@ -5277,11 +5360,11 @@ d) les immeubles classés parmi les monuments historiques ou inscrits à l'inven
 historiques ;
 
 e) les bâtiments et les installations et travaux divers reconstruits après sinistre dans les conditions fixées au paragraphe
-II de l'article 1585 D du code général des impôts.
+II de l'article 1585 D du code général des impôts ;
 
 f) Les installations et travaux divers qui sont destinés à être affectés à un service public ou d'utilité publique et
-réalisés par l'Etat, les collectivités locales ou leurs groupements ou l'un des services et organismes enumérés par le décret
-pris pour l'application du 1° du I de l'article 1585 C du code général des impôts.
+réalisés par l'Etat, les collectivités locales ou leurs groupements ou l'un des services et organismes énumérés par le décret
+pris pour l'application du 1° du I de l'article 1585 C du code général des impôts ;
 
 g) Les aménagements prescrits par un plan de prévention des risques naturels prévisibles ou un plan de prévention des risques
 technologiques sur des biens construits ou aménagés conformément aux dispositions du présent code avant l'approbation de ce
@@ -5312,16 +5395,21 @@ du code général des impôts. Par délibération, le conseil général en fixe 
 construction, sans pouvoir excéder 2 p. 100.
 
 Lorsqu'elle est établie sur les installations et travaux divers, la taxe est assise sur la superficie des terrains faisant
-l'objet de l'autorisation. Son taux est fixé par délibération du conseil général dans la limite de 10 F par mètre carré.
+l'objet de l'autorisation. Son taux est fixé par délibération du conseil général dans la limite de 1,52 euro par mètre carré.
 Cette limite et le taux fixé par la délibération du conseil général sont modifiés au 1er juillet de chaque année en fonction
 de l'évolution de l'indice du coût de la construction publié par l'Institut national de la statistique et des études
-économiques. L'indice de référence est, pour la réévaluation de la limite de 10 F, celui du quatrième trimestre de l'année
-1994 et, pour celle du taux, l'indice du trimestre précédant la délibération du conseil général ayant fixé le taux.
+économiques. L'indice de référence est, pour la réévaluation de la limite de 1,52 euro, celui du quatrième trimestre de
+l'année 1994 et, pour celle du taux, l'indice du trimestre précédant la délibération du conseil général ayant fixé le taux.
 
 La taxe constitue, du point de vue fiscal, un élément du prix de revient de l'ensemble immobilier.
 
 La taxe est perçue au profit du département en tant que recette grevée d'affectation spéciale et a le caractère d'une recette
 de fonctionnement.
+
+**Nota:**
+
+NOTA : Ordonnance 2005-1527 du 8 décembre 2005 art. 41 : La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007.
 
 **Liens relatifs à cet article**
 
@@ -5369,12 +5457,12 @@ de fonctionnement.
 	  - TXT_SOURCE: Décret n°98-1239 du 29 décembre 1998 - art. 1 (V)
 	  - TXT_SOURCE: Décret n°98-1239 du 29 décembre 1998 - art. 2 (V)
 	  - TXT_SOURCE: Décret n°98-1239 du 29 décembre 1998 - art. 3 (V)
-	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R111-14 (M)
 
 	**Modifié par**:
 
-	  - Loi n°2004-809 du 13 août 2004 - art. 103 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2005-157 du 23 février 2005 - art. 138 () JORF 24 février 2005
+	  - Loi n°2005-157 du 23 février 2005 - art. 139 () JORF 24 février 2005
 
 	**Codifié par**:
 
@@ -6021,12 +6109,274 @@ Un décret en Conseil d'Etat détermine, en tant que de besoin, les conditions d
 	  - Code de l'urbanisme - art. L171-1 (VD)
 
 
+#### Chapitre III : Protection et mise en valeur des espaces agricoles et naturels périurbains.
+
+###### Article L143-1
+
+Pour mettre en oeuvre une politique de protection et de mise en valeur des espaces agricoles et naturels périurbains, le
+département peut délimiter des périmètres d'intervention avec l'accord de la ou des communes concernées ou des établissements
+publics compétents en matière de plan local d'urbanisme, après avis de la chambre départementale d'agriculture et enquête
+publique. Les périmètres approuvés sont tenus à la disposition du public.
+
+Ces périmètres doivent être compatibles avec le schéma de cohérence territoriale, s'il en existe un. Ils ne peuvent inclure
+des terrains situés dans une zone urbaine ou à urbaniser délimitée par un plan local d'urbanisme, dans un secteur
+constructible délimité par une carte communale ou dans un périmètre ou un périmètre provisoire de zone d'aménagement différé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Créé par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 73 () JORF 24 février 2005
+
+	**Cité par**:
+
+	  - Décret du 5 mars 2009 - art. 2 (VD)
+	  - Décret n°2010-1591 du 17 décembre 2010 - art. 1 (V)
+	  - Décret n°2010-1591 du 17 décembre 2010 - art. 2 (V)
+	  - Ordonnance n°2012-787 du 31 mai 2012 - art. 7 (V)
+	  - Décret n°2015-339 du 25 mars 2015 - art. 2 (V)
+	  - Décret n°2015-1701 du 18 décembre 2015 - art. 2 (V)
+	  - Code de l'urbanisme - art. L122-1 (Ab)
+	  - Code de l'urbanisme - art. L122-1-15 (VT)
+	  - Code de l'urbanisme - art. L143-1 (M)
+	  - Code de l'urbanisme - art. L143-2 (VT)
+	  - Code de l'urbanisme - art. L143-3 (VT)
+	  - Code de l'urbanisme - art. L143-4 (VT)
+	  - Code de l'urbanisme - art. L160-1 (VT)
+	  - Code de l'urbanisme - art. L160-4 (VT)
+	  - Code de l'urbanisme - art. L321-1 (V)
+	  - Code de l'urbanisme - art. L324-1 (V)
+	  - Code de l'urbanisme - art. L430-1 (Ab)
+	  - Code de l'urbanisme - art. L441-1 (M)
+	  - Code de l'urbanisme - art. L710-1 (VT)
+	  - Code de l'urbanisme - art. L710-15 (VT)
+	  - Code de l'urbanisme - art. R*123-13 (VT)
+	  - Code de l'urbanisme - art. R*143-16 (Ab)
+	  - Code de l'urbanisme - art. R142-11 (VT)
+	  - Code de l'urbanisme - art. R143-1 (M)
+	  - Code rural - art. L143-1 (V)
+	  - Code rural et de la pêche maritime - art. L143-7-1 (VD)
+	  - Code rural et de la pêche maritime - art. R142-1 (V)
+	  - Code rural et de la pêche maritime - art. R143-15 (V)
+	  - Code rural et de la pêche maritime - art. R143-16 (V)
+
+
+###### Article L143-2
+
+Le département élabore, en accord avec la ou les communes ou établissements publics de coopération intercommunale compétents,
+un programme d'action qui précise les aménagements et les orientations de gestion destinés à favoriser l'exploitation
+agricole, la gestion forestière, la préservation et la valorisation des espaces naturels et des paysages au sein du périmètre
+délimité en application de l'article L. 143-1. Lorsque ce périmètre inclut une partie du territoire d'un parc naturel
+régional, le programme d'action doit être compatible avec la charte du parc.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 73 () JORF 24 février 2005
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 156 (M)
+	  - Code de l'environnement - art. R331-14 (V)
+	  - Code de l'environnement - art. R333-15 (M)
+	  - Code de l'urbanisme - art. L321-1 (V)
+	  - Code rural - art. L142-6 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L113-21 (VD)
+	  - Code de l'urbanisme - art. L113-22 (VD)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L143-1
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L143-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L143-3
+
+A l'intérieur d'un périmètre délimité en application de l'article L. 143-1, les terrains peuvent être acquis par le
+département ou avec son accord et après information des communes et des établissements publics de coopération intercommunale
+concernés en vue de la protection et de la mise en valeur des espaces agricoles et naturels périurbains. Ces acquisitions se
+font dans les conditions suivantes :
+
+1° Dans l'ensemble du périmètre, par le département ou, avec l'accord de celui-ci, par une autre collectivité territoriale ou
+un établissement public de coopération intercommunale, à l'amiable ou par expropriation ou, dans les zones de préemption des
+espaces naturels sensibles délimitées en application de l'article L. 142-3, par exercice de ce droit de préemption. Dans la
+région Ile-de-France, l'Agence des espaces verts prévue à l'article L. 4413-2 du code général des collectivités territoriales
+peut, avec l'accord du département, acquérir à l'amiable des terrains situés dans le périmètre ;
+
+2° En dehors de zones de préemption des espaces naturels sensibles, par la société d'aménagement foncier et d'établissement
+rural exerçant à la demande et au nom du département le droit de préemption prévu par le 9° de l'article L. 143-2 du code
+rural ;
+
+3° Par un établissement public mentionné au troisième ou au quatrième alinéa de l'article L. 321-1 du présent code ou un
+établissement public foncier local mentionné à l'article L. 324-1 agissant à la demande et au nom du département ou, avec son
+accord, d'une autre collectivité territoriale ou d'un établissement public de coopération intercommunale.
+
+En l'absence de société d'aménagement foncier et d'établissement rural compétente, s'il n'a pas donné mandat à un
+établissement public mentionné à l'alinéa précédent, le département exerce lui-même ce droit de préemption prévu par le 9° de
+l'article L. 143-2 du code rural dans les conditions prévues par le chapitre III du titre IV du livre Ier du même code.
+
+Ces biens sont intégrés dans le domaine privé de la collectivité territoriale ou de l'établissement public qui les a acquis.
+Ils doivent être utilisés en vue de la réalisation des objectifs définis par le programme d'action. Ils peuvent être cédés de
+gré à gré, loués conformément aux dispositions du titre Ier du livre IV du code rural ou concédés temporairement à des
+personnes publiques ou privées à la condition que ces personnes les utilisent aux fins prescrites par le cahier des charges
+annexé à l'acte de vente, de location ou de concession temporaire.
+
+Lorsque le département décide de ne pas faire usage du droit de préemption prévu par le 9° de l'article L. 143-2 du code
+rural, la société d'aménagement foncier et d'établissement rural peut néanmoins exercer le droit de préemption déjà prévu par
+les 1° à 8° de cet article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L4413-2 (V)
+	  - Code de l'urbanisme - art. L142-3 (M)
+	  - Code de l'urbanisme - art. L143-1 (M)
+	  - Code de l'urbanisme - art. L321-1 (M)
+	  - Code de l'urbanisme - art. L324-1 (M)
+	  - Code rural L143-2
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R143-7 (VT)
+	  - Code de l'urbanisme - art. R143-8 (VT)
+	  - Code de l'urbanisme - art. R143-9 (VT)
+	  - Code général de la propriété des personnes publ... - art. R1112-2 (V)
+	  - Code général de la propriété des personnes publ... - art. R1112-4 (V)
+	  - Code rural et de la pêche maritime - art. L143-7-1 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Créé par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 73 () JORF 24 février 2005
+
+
+###### Article L143-4
+
+Les terrains compris dans un périmètre délimité en application de l'article L. 143-1 ne peuvent être inclus ni dans une zone
+urbaine ou à urbaniser délimitée par un plan local d'urbanisme, ni dans un secteur constructible délimité par une carte
+communale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Créé par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 73 () JORF 24 février 2005
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L113-20 (VD)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L143-1
+
+
+###### Article L143-5
+
+Des modifications peuvent être apportées par le département au périmètre de protection et de mise en valeur des espaces
+agricoles et naturels périurbains ou au programme d'action avec l'accord des seules communes intéressées par la modification
+et après avis de la chambre départementale d'agriculture.
+
+Toutefois, toute modification du périmètre ayant pour effet d'en retirer un ou plusieurs terrains ne peut intervenir que par
+décret.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L113-19 (VD)
+	  - Code de l'urbanisme - art. L113-23 (VD)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R143-4 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Créé par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 73 () JORF 24 février 2005
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+
+###### Article L143-6
+
+Un décret en Conseil d'Etat détermine les conditions d'application du présent chapitre. Il approuve les clauses types des
+cahiers des charges prévus par l'article L. 143-3, qui précisent notamment les conditions selon lesquelles cessions,
+locations ou concessions temporaires sont consenties et résolues en cas d'inexécution des obligations du cocontractant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Créé par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 73 () JORF 24 février 2005
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L113-28 (VD)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L143-3 (VT)
+
+
 #### Chapitre V : Dispositions particulières aux zones de montagne.
 
 ###### Article L145-1
 
 Les dispositions du présent chapitre sont applicables dans les zones de montagne définies aux articles 3 et 4 de la loi n°
 85-30 du 9 janvier 1985.
+
+Toutefois, autour des lacs de montagne d'une superficie supérieure à 1 000 hectares, un décret en Conseil d'Etat délimite,
+après avis ou sur proposition des communes riveraines, en tenant notamment compte du relief, un secteur dans lequel les
+dispositions particulières au littoral figurant au chapitre VI du présent titre s'appliquent seules. Ce secteur ne peut pas
+réduire la bande littorale de 100 mètres définie au III de l'article L. 146-4. Dans les autres secteurs des communes
+riveraines du lac et situées dans les zones de montagne mentionnées au premier alinéa, les dispositions particulières à la
+montagne figurant au présent chapitre s'appliquent seules.
 
 **Liens relatifs à cet article**
 
@@ -6038,10 +6388,11 @@ Les dispositions du présent chapitre sont applicables dans les zones de montagn
 
 	  - Loi n°85-30 1985-01-09 art. 3, art. 4
 	  - Loi n°85-30 du 9 janvier 1985 - art. 4 (V)
+	  - Code de l'urbanisme - art. L146-4 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°85-30 du 9 janvier 1985 - art. 72 () JORF 10 janvier 1985
+	  - Loi n°2005-157 du 23 février 2005 - art. 187 () JORF 24 février 2005
 
 	**Cité par**:
 
@@ -6104,9 +6455,10 @@ Lorsque des chalets d'alpage ou des bâtiments d'estive, existants ou anciens, n
 ou lorsqu'ils sont desservis par des voies qui ne sont pas utilisables en période hivernale, l'autorité compétente peut
 subordonner la réalisation des travaux faisant l'objet d'un permis de construire ou d'une déclaration de travaux à
 l'institution d'une servitude administrative, publiée au bureau des hypothèques, interdisant l'utilisation du bâtiment en
-période hivernale ou limitant son usage pour tenir compte de l'absence de réseaux. Lorsque le terrain n'est pas desservi par
-une voie carrossable, la servitude rappelle l'interdiction de circulation des véhicules à moteur édictée par l'article L.
-362-1 du code de l'environnement.
+période hivernale ou limitant son usage pour tenir compte de l'absence de réseaux. Cette servitude précise que la commune est
+libérée de l'obligation d'assurer la desserte du bâtiment par les réseaux et équipements publics. Lorsque le terrain n'est
+pas desservi par une voie carrossable, la servitude rappelle l'interdiction de circulation des véhicules à moteur édictée par
+l'article L. 362-1 du code de l'environnement.
 
 II. - Les documents et décisions relatifs à l'occupation des sols comportent les dispositions propres à préserver les
 espaces, paysages et milieux caractéristiques du patrimoine naturel et culturel montagnard.
@@ -6162,15 +6514,9 @@ naturels.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
 	**Modifié par**:
 
-	  - Loi n°2003-590 du 2 juillet 2003 - art. 31 () JORF 3 juillet 2003
-	  - Loi n°2003-590 du 2 juillet 2003 - art. 32 () JORF 3 juillet 2003
-	  - Loi n°2003-590 du 2 juillet 2003 - art. 33 () JORF 3 juillet 2003
+	  - Loi n°2005-157 du 23 février 2005 - art. 189 () JORF 24 février 2005
 
 	**Cité par**:
 
@@ -6193,6 +6539,10 @@ naturels.
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code du tourisme. - art. L342-6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 ###### Article L145-4
@@ -6233,43 +6583,38 @@ Les parties naturelles des rives des plans d'eau naturels ou artificiels d'une s
 protégées sur une distance de trois cent mètres à compter de la rive ; y sont interdits toutes constructions, installations
 et routes nouvelles ainsi que toutes extractions et tous affouillements.
 
-Peuvent être cependant autorisés les bâtiments à usage agricole, pastoral ou forestier, les refuges et gîtes d'étapes ouverts
-au public pour la promenade et la randonnée, les installations à caractère scientifique si aucune autre implantation n'est
-possible et les équipements d'accueil et de sécurité nécessaires à la pratique de la baignade ou des sports nautiques ainsi
-que les projets visés au 1° de l'article l. 111-1-2.
+Par exception aux dispositions de l'alinéa précédent, des constructions et aménagements peuvent être admis, en fonction des
+spécificités locales, dans certains secteurs délimités :
 
-Lorsqu'un plan local d'urbanisme est établi, les dispositions du présent article peuvent être adaptées par ce document
-d'urbanisme pour permettre une extension mesurée des agglomérations ou l'ouverture d'un terrain de camping, ou la réalisation
-d'un équipement culturel dont l'objet est directement lié au caractère lacustre des lieux, dans le respect du paysage et des
-caractéristiques propres à cet espace sensible.
+1° Soit par un plan local d'urbanisme ou un schéma de cohérence territoriale, avec l'accord du préfet et au vu d'une étude
+réalisée et approuvée dans les conditions prévues au a du III de l'article L. 145-3 ;
 
-Lorsqu'un schéma de cohérence territorial ou un schéma de secteur est établi pour l'ensemble des communes riveraines, ou un
-plan local d'urbanisme si le plan d'eau est situé à l'intérieur du territoire administratif d'une seule commune, les
-dispositions du présent article peuvent également être adaptées pour permettre la délimitation, à titre exceptionnel, de
-hameaux nouveaux intégrés à l'environnement. En l'absence des directives territoriales d'aménagement visées à l'article L.
-145-7, le schéma directeur ou le schéma de secteur est alors élaboré dans les conditions prévues au deuxième alinéa de
-l'article L. 122-8.
+2° Soit par une carte communale, avec l'accord du préfet, après avis de la commission départementale compétente en matière de
+nature, de paysages et de sites, et au vu d'une étude justifiant que l'aménagement et l'urbanisation de ces secteurs sont
+compatibles avec la prise en compte de la qualité de l'environnement et des paysages. Dans ce cas, chaque permis de
+construire est soumis pour avis à la commission départementale compétente en matière de nature, de paysages et de sites.
 
-Les ministres chargés de l'urbanisme et de l'environnement peuvent, à titre exceptionnel, autoriser l'implantation, sur les
-rives d'un plan d'eau artificiel existant à la date de publication de la loi n° 94-112 du 9 février 1994 portant diverses
-dispositions en matière d'urbanisme et de construction, d'une opération d'urbanisation intégrée à l'environnement dont la
-surface de plancher hors oeuvre nette n'excède pas 30 000 mètres carrés. Cette autorisation est donnée après avis de la
-commission départementale des sites.
+Dans les secteurs protégés en application des premier et deuxième alinéas, ne peuvent être autorisés que des bâtiments à
+usage agricole, pastoral ou forestier, des refuges et gîtes d'étapes ouverts au public pour la promenade et la randonnée, des
+aires naturelles de camping, un équipement culturel dont l'objet est directement lié au caractère lacustre des lieux, des
+installations à caractère scientifique si aucune autre implantation n'est possible et des équipements d'accueil et de
+sécurité nécessaires à la pratique de la baignade, des sports nautiques, de la promenade ou de la randonnée ainsi que des
+projets visés au 1° de l'article L. 111-1-2.
 
-Par exception au champ d'application du présent chapitre, les dispositions des alinéas précédents s'appliquent à l'ensemble
-des communes riveraines des plans d'eau situés partiellement ou totalement en zone de montagne.
+Les dispositions du présent article s'appliquent également aux plans d'eau partiellement situés en zone de montagne. Peuvent
+toutefois être exclus du champ d'application du présent article :
+
+1° Par arrêté du préfet coordonnateur de massif, les plans d'eau dont moins du quart des rives est situé dans la zone de
+montagne ;
+
+2° Par un plan local d'urbanisme, un schéma de cohérence territoriale ou une carte communale, certains plans d'eau en
+fonction de leur faible importance.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°94-112 1994-02-09
-	  - Code de l'urbanisme - art. L122-8 (M)
-	  - Code de l'urbanisme - art. L145-7 (M)
-
 	**Modifié par**:
 
-	  - Loi n°2003-590 du 2 juillet 2003 - art. 36 () JORF 3 juillet 2003
+	  - Loi n°2005-157 du 23 février 2005 - art. 188 () JORF 24 février 2005
 
 	**Cité par**:
 
@@ -6285,6 +6630,11 @@ des communes riveraines des plans d'eau situés partiellement ou totalement en z
 	  - Code de l'urbanisme - art. R145-15 (VT)
 	  - Code du patrimoine. - art. L630-1 (VT)
 	  - Code du tourisme. - art. L331-1 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L111-1-2 (M)
+	  - Code de l'urbanisme - art. L145-3 (M)
 
 	**Codifié par**:
 
@@ -6323,46 +6673,41 @@ ou de massifs forestiers ou par des considérations de défense nationale ou de 
 
 ###### Article L145-7
 
-I. - Les directives territoriales d'aménagement prévues par l'article L. 111-1-1 prises en application du présent chapitre
-peuvent être établies sur tout ou partie des massifs définis à l'article 5 de la loi n° 85-30 du 9 janvier 1985 précitée et
-peuvent :
+I. - Lorsque les directives territoriales d'aménagement n'y ont pas déjà pourvu, des décrets en Conseil d'Etat pris après
+enquête publique, sur proposition des comités de massif prévus à l'article 7 de la loi n° 85-30 du 9 janvier 1985 précitée,
+peuvent définir des prescriptions particulières sur tout ou partie des massifs définis à l'article 5 de la loi n° 85-30 du 9
+janvier 1985 précitée, pour :
 
 1° Adapter en fonction de la sensibilité des milieux concernés les seuils et critères des études d'impact spécifiques aux
-zones de montagne fixés en application de l'article 2 de la loi n° 76-629 du 10 juillet 1976 relative à la protection de la
-nature ainsi que les seuils et critères d'enquête publique spécifiques aux zones de montagne fixés en application de
-l'article premier de la loi n° 83-630 du 12 juillet 1983 relative à la démocratisation des enquêtes publiques et à la
-protection de l'environnement ;
+zones de montagne fixés en application des articles L. 122-1 à L. 122-3 du code de l'environnement, ainsi que les seuils et
+critères d'enquête publique spécifiques aux zones de montagne fixés en application des articles L. 123-1 à L. 123-3 du même
+code ;
 
-2° Désigner les espaces, paysages et milieux  les plus remarquables du patrimoine naturel et culturel montagnard, notamment
-les gorges, grottes, glaciers, lacs, tourbières, marais, lieux de pratique de l'alpinisme, de l'escalade et du canoé-kayak,
-cours d'eau de première catégorie au sens du 10° de l'article 437 du code rural et leurs abords, et définir les modalités de
-leur préservation ;
+2° Désigner les espaces, paysages et milieux les plus remarquables du patrimoine naturel et culturel montagnard, notamment
+les gorges, grottes, glaciers, lacs, tourbières, marais, lieux de pratique de l'alpinisme, de l'escalade et du canoë-kayak,
+cours d'eau de première catégorie au sens du 10° de l'article L. 436-5 du code de l'environnement et leurs abords, et définir
+les modalités de leur préservation ;
 
-3° Préciser en fonction des particularités de chaque massif et dans les conditions prévues à l'article L.111-1-1 les
-modalités d'application du paragraphe III de l'article L. 145-3 du présent code ;
+3° Préciser, en fonction des particularités de tout ou partie de chaque massif, les modalités d'application de l'article L.
+145-3 du présent code.
 
-4° Préciser, en fonction des particularités de chaque massif, les modalités d'application du I de l'article L. 145-3.
-
-Ces directives sont établies par décret en Conseil d'Etat après avis ou sur proposition des conseils régionaux intéressés et
-du comité de massif prévu à l'article 7 de la loi n° 85-30 du 9 janvier 1985 précitée.
-
-II. - Les comités de massif peuvent élaborer des recommandations particulières à certaines zones sensibles et, notamment aux
+II. - Les comités de massif peuvent élaborer des recommandations particulières à certaines zones sensibles et, notamment, aux
 secteurs de haute montagne.
 
-III. - Des décrets en Conseil d'Etat, pris après avis du comité de massif et de sa commission permanente, des communes et des
-établissements publics de coopération intercommunale compétents en matière de documents d'urbanisme concernés et après
-enquête publique, peuvent définir des prescriptions particulières pour tout ou partie d'un massif non couvert par une
-directive territoriale d'aménagement, qui comprennent tout ou partie des éléments mentionnés au I.
+III. - Pour l'élaboration des propositions des prescriptions particulières de massif visées au I et des recommandations
+visées au II, les comités de massif peuvent recourir gratuitement, en tant que de besoin, aux services techniques de l'Etat
+ainsi qu'aux conseils d'architecture, d'urbanisme et de l'environnement institués par l'article 6 de la loi n° 77-2 du 3
+janvier 1977 sur l'architecture.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°76-629 du 10 juillet 1976 - art. 2 (M)
-	  - Loi n°83-630 1983-07-12
-	  - Loi n°85-30 1985-01-09 art. 5, art. 7
+	  - Loi n°77-2 1977-01-03 art. 6
+	  - Loi n°85-30 1985-01-09 art. 7, art. 5
 	  - Code de l'urbanisme - art. L145-3 (M)
-	  - Code rural 437
+	  - Code de l'environnement - art. L436-5 (V)
+	  - Code de l'environnement L122-1 à L122-3, L123-1 à L123-3, L436-5
 
 	**Cité par**:
 
@@ -6378,7 +6723,7 @@ directive territoriale d'aménagement, qui comprennent tout ou partie des élém
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 17 () JORF 14 décembre 2000
+	  - Loi n°2005-157 du 23 février 2005 - art. 201 () JORF 24 février 2005
 
 	**Codifié par**:
 
@@ -6749,6 +7094,9 @@ proches du rivage, avec l'accord du préfet après avis de la commission départ
 Cet accord est refusé si les constructions ou installations sont de nature à porter atteinte à l'environnement ou aux
 paysages.
 
+Les dispositions du premier alinéa ne font pas obstacle à la réalisation de travaux de mise aux normes des exploitations
+agricoles, à condition que les effluents d'origine animale ne soient pas accrus.
+
 II - L'extension limitée de l'urbanisation des espaces proches du rivage ou des rives des plans d'eau intérieurs désignés à
 l'article 2 de la loi n° 86-2 du 3 janvier 1986 précitée doit être justifiée et motivée, dans le plan local d'urbanisme,
 selon des critères liés à la configuration des lieux ou à l'accueil d'activités économiques exigeant la proximité immédiate
@@ -6777,6 +7125,9 @@ de cent mètres, lorsque des motifs liés à la sensibilité des milieux ou à l
 
 IV - Les dispositions des paragraphes II et III ci-dessus s'appliquent aux rives des estuaires les plus importants, dont la
 liste est fixée par décret en Conseil d'Etat.
+
+V. - Les dispositions des II et III ne s'appliquent pas aux rives des étiers et des rus, en amont d'une limite située à
+l'embouchure et fixée par l'autorité administrative dans des conditions définies par un décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -6809,16 +7160,16 @@ liste est fixée par décret en Conseil d'Etat.
 	  - Code général des collectivités territoriales - art. L4424-10 (V)
 	  - Code général des collectivités territoriales - art. L4424-12 (V)
 
-	**Modifié par**:
-
-	  - Loi n°2000-1208 2000-12-13 art. 202 III, XI, XIII JORF 14 décembre 2000
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°2004-311 du 29 mars 2004
 	  - TXT_SOURCE: Décret n°2004-311 du 29 mars 2004 - art. 1 (Ab)
 	  - TXT_SOURCE: Décret n°2004-311 du 29 mars 2004 - art. 2 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-157 2005-02-23 art. 235 X, XI JORF 24 février 2005
+	  - Loi n°2005-157 du 23 février 2005 - art. 235 () JORF 24 février 2005
 
 	**Codifié par**:
 
@@ -7017,21 +7368,21 @@ aérienne, à la défense nationale, à la sécurité civile et ceux nécessaire
 publics portuaires autres que les ports de plaisance ne sont pas soumis aux dispositions du présent chapitre lorsque leur
 localisation répond à une nécessité technique impérative.
 
-A titre exceptionnel, les stations d'épuration d'eaux usées avec rejet en mer, non liées à une opération d'urbanisation
-nouvelle, peuvent être autorisées conjointement par les ministres chargés de l'urbanisme et de l'environnement, par
-dérogation aux dispositions du présent chapitre.
+A titre exceptionnel, les stations d'épuration d'eaux usées, non liées à une opération d'urbanisation nouvelle, peuvent être
+autorisées conjointement par les ministres chargés de l'urbanisme et de l'environnement, par dérogation aux dispositions du
+présent chapitre.
 
 Les opérations engagées ou prévues dans les périmètres de l'opération d'aménagement du littoral du Languedoc-Roussillon,
 définis par les schémas d'aménagement antérieurs tels qu'ils ont été définitivement fixés en 1984 et dont l'achèvement a été
 ou sera, avant le 1er juin 1986, confié, à titre transitoire, aux sociétés d'économie mixte titulaires des anciennes
 concessions, ne sont pas soumises aux dispositions du présent chapitre jusqu'à la date limite fixée par chaque convention et,
-au plus tard, jusqu'au 31 décembre 1989 [*dispositions transitoire*]
+au plus tard, jusqu'au 31 décembre 1989.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°94-112 du 9 février 1994 - art. 8 () JORF 10 février 1994
+	  - Loi n°2005-157 du 23 février 2005 - art. 191 () JORF 24 février 2005
 
 	**Cité par**:
 
@@ -7042,6 +7393,16 @@ au plus tard, jusqu'au 31 décembre 1989 [*dispositions transitoire*]
 	  - Arrêté du 26 juillet 2012 - art. 3 (V)
 	  - Arrêté du 20 février 2013 - art. 2 (V)
 	  - Décret n°2014-1299 du 23 octobre 2014 - art. (V)
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L121-4 (VD)
+	  - Code de l'urbanisme - art. L121-5 (VD)
+	  - Code de l'urbanisme - art. R121-1 (V)
 
 	**Codifié par**:
 
@@ -13019,7 +13380,14 @@ le développement du territoire inclus dans leurs zones d'activité territoriale
 Les établissements publics d'aménagement qui mènent des opérations de restructuration urbaine dans les conditions prévues à
 l'alinéa précédent peuvent, par délégation de l'Etablissement public national pour l'aménagement et la restructuration des
 espaces commerciaux, assurer la maîtrise d'ouvrage des opérations définies à l'article L. 325-1 et accomplir les actes de
-disposition et d'administration définis à l'article L. 325-2..
+disposition et d'administration définis à l'article L. 325-2.
+
+A l'intérieur des périmètres délimités en application de l'article L. 143-1, les établissements publics mentionnés aux
+troisième et quatrième alinéas peuvent procéder, après information des communes et des établissements publics de coopération
+intercommunale concernés, aux acquisitions foncières nécessaires à la protection d'espaces agricoles et naturels périurbains,
+le cas échéant en exerçant, à la demande et au nom du département, le droit de préemption prévu par l'article L. 142-3 ou, en
+dehors des zones de préemption des espaces naturels sensibles, le droit de préemption prévu par le 9° de l'article L. 143-2
+du code rural.
 
 **Liens relatifs à cet article**
 
@@ -13133,12 +13501,15 @@ disposition et d'administration définis à l'article L. 325-2..
 	  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
 	  - Loi n°96-987 du 14 novembre 1996 - art. 1 (V)
 	  - Loi n°2005-32 2005-01-18
+	  - Code de l'urbanisme - art. L142-3 (M)
+	  - Code de l'urbanisme - art. L143-1 (M)
 	  - Code de l'urbanisme - art. L325-1 (M)
 	  - Code de l'urbanisme - art. L325-2 (V)
+	  - Code rural L143-2
 
 	**Modifié par**:
 
-	  - Loi n°2005-32 du 18 janvier 2005 - art. 94 () JORF 19 janvier 2005
+	  - Loi n°2005-157 du 23 février 2005 - art. 74 () JORF 24 février 2005
 
 	**Codifié par**:
 
@@ -14160,7 +14531,11 @@ Les établissements publics fonciers créés en application du présent chapitre
 caractère industriel et commercial. Ils sont compétents pour réaliser, pour leur compte, pour le compte de leurs membres ou
 de toute personne publique, toute acquisition foncière ou immobilière en vue de la constitution de réserves foncières en
 application des articles L. 221-1 et L. 221-2 ou de la réalisation d'actions ou d'opérations d'aménagement au sens de
-l'article L. 300-1.
+l'article L. 300-1. A l'intérieur des périmètres délimités en application de l'article L. 143-1, ils peuvent procéder, après
+information des communes et des établissements publics de coopération intercommunale concernés, aux acquisitions foncières
+nécessaires à la protection d'espaces agricoles et naturels périurbains, le cas échéant en exerçant, à la demande et au nom
+du département, le droit de préemption prévu par l'article L. 142-3 ou, en dehors des zones de préemption des espaces
+naturels sensibles, le droit de préemption prévu par le 9° de l'article L. 143-2 du code rural.
 
 Ces établissements interviennent sur le territoire des communes ou des établissements publics de coopération intercommunale
 qui en sont membres et, à titre exceptionnel, ils peuvent intervenir à l'extérieur de ce territoire pour des acquisitions
@@ -14216,12 +14591,13 @@ laquelle l'opération est prévue. Cet avis est réputé donné dans un délai d
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 28 () JORF 14 décembre 2000
+	  - Loi n°2005-157 du 23 février 2005 - art. 74 () JORF 24 février 2005
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L221-2 (M)
+	  - Code de l'urbanisme - art. L143-1 (M)
 	  - Code de l'urbanisme - art. L300-1 (M)
+	  - Code rural L143-2
 
 	**Nouveaux textes**:
 
@@ -15910,10 +16286,10 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent alin�
 localisation, de la nature ou de l'importance des constructions ou travaux envisagés.
 
 Conformément aux dispositions de l'article 4 de la loi n° 77-2 du 3 janvier 1977 sur l'architecture, par dérogation au
-quatrième alinéa ci-dessus, ne sont pas tenues de recourir à un architecte les personnes physiques qui déclarent vouloir
-édifier ou modifier, pour elles-mêmes, une construction de faible importance dont les caractéristiques, et notamment la
-surface maximale de plancher, sont déterminées par décret en conseil d'Etat. Ces caractéristiques peuvent être différentes
-selon la destination des constructions.
+quatrième alinéa ci-dessus, ne sont pas tenues de recourir à un architecte les personnes physiques ou exploitations agricoles
+à responsabilité limitée à associé unique qui déclarent vouloir édifier ou modifier, pour elles-mêmes, une construction de
+faible importance dont les caractéristiques, et notamment la surface maximale de plancher, sont déterminées par décret en
+conseil d'Etat. Ces caractéristiques peuvent être différentes selon la destination des constructions.
 
 Le recours à l'architecte n'est pas non plus obligatoire pour les travaux soumis au permis de construire qui concernent
 exclusivement l'aménagement et l'équipement des espaces intérieurs des constructions et des vitrines commerciales ou qui sont
@@ -15923,6 +16299,17 @@ Conformément aux dispositions de l'article 5 de la loi n° 77-2 du 3 janvier 19
 construction et leurs variantes, industrialisées ou non, susceptibles d'utilisation répétée, doivent, avant toute
 commercialisation, être établis par un architecte dans les conditions prévues à l'article 3 de ladite loi et ce quel que soit
 le maître d'ouvrage qui les utilise.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
 
 **Liens relatifs à cet article**
 
@@ -15952,7 +16339,7 @@ le maître d'ouvrage qui les utilise.
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 31
+	  - Loi n°2005-157 du 23 février 2005 - art. 30 () JORF 24 février 2005
 
 	**Codifié par**:
 
@@ -16284,12 +16671,25 @@ l'ordonnance au 1er octobre 2007.
 
 ###### Article L421-2-6
 
-Le maire ou le président de l'établissement public compétent peut disposer gratuitement, et en tant que de besoin, des
-services déconcentrés de l'Etat pour effectuer l'étude technique de celles des demandes de permis de construire sur
-lesquelles il a compétence pour l'instruction et la décision et qui lui paraissent justifier l'assistance technique de ces
-services. Pendant la durée de cette mise à disposition, les services et les personnels agissent en concertation permanente
-avec le maire ou le président de l'établissement public qui leur adresse toutes instructions nécessaires pour l'exécution des
-tâches qu'il leur confie.
+Le maire d'une commune de moins de 10 000 habitants ou le président d'un établissement public de coopération intercommunale
+compétent de moins de 20 000 habitants peut disposer gratuitement, et en tant que de besoin, des services déconcentrés de
+l'Etat pour effectuer l'étude technique de celles des demandes de permis de construire sur lesquelles il a compétence pour
+l'instruction et la décision et qui lui paraissent justifier l'assistance technique de ces services. Pendant la durée de
+cette mise à disposition, les services et les personnels agissent en concertation permanente avec le maire ou le président de
+l'établissement public qui leur adresse toutes instructions nécessaires pour l'exécution des tâches qu'il leur confie.
+Lorsque les demandes de permis de construire sont instruites par une commune ou par un établissement public, les services
+déconcentrés de l'Etat peuvent leur apporter gratuitement une assistance juridique et technique ponctuelle.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
 
 **Liens relatifs à cet article**
 
@@ -16299,8 +16699,11 @@ tâches qu'il leur confie.
 
 	**Modifié par**:
 
-	  - Loi n°86-972 du 19 août 1986 - art. 2 () JORF 22 août 1986
-	  - Loi n°92-125 du 6 février 1992 - art. 3 (V) JORF 8 février 1992
+	  - Loi n°2005-157 du 23 février 2005 - art. 103 () JORF 24 février 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
 
 
 ###### Article L421-2-7
