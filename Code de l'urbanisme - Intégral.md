@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2001-04-01
+Version Consolidée au 2001-07-01
 
 # Partie législative
 
@@ -49286,6 +49286,32 @@ non suivie d'effet, s'y substituer.
 	**Créé par**:
 
 	  - Décret n°94-614 du 13 juillet 1994 - art. 2 () JORF 22 juillet 1994
+
+
+###### Article R443-8-5
+
+Les dispositions de la présente section ne sont pas applicables aux aires d'accueil des gens du voyage aménagées en
+application des dispositions de la loi du 5 juillet 2000 relative à l'accueil et à l'habitat des gens du voyage. La personne
+morale qui aménage une aire d'accueil des gens du voyage en informe préalablement l'autorité compétente en matière
+d'autorisation d'utiliser ou d'occuper le sol.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Loi n°2000-614 2000-07-05
+
+	**Créé par**:
+
+	  - Décret n°2001-569 du 29 juin 2001 - art. 1 () JORF 1er juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
 #####  Section 3 : Dispositions générales
