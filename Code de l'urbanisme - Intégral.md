@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1986-07-19
+Version Consolidée au 1986-08-22
 
 # Partie législative
 
@@ -279,22 +279,13 @@ valeur des ressources naturelles et à la réalisation d'opérations d'intérêt
 3° Les constructions et installations incompatibles avec le voisinage des zones habitées et l'extension mesurée des
 constructions et installations existantes.
 
-Une construction ou une installation autre que celles mentionnées aux alinéas précédents peut être autorisée, sur demande
-motivée du conseil municipal, justifiée par l'intérêt de la commune, lorsque le représentant de l'Etat estime que le projet
+4° Les constructions ou installations, sur délibération motivée du conseil municipal, si celui-ci considère que l'intérêt de
+la commune le justifie, dès lors qu'elles ne portent pas atteinte à la sauvegarde des espaces naturels et des paysages, à la
+salubrité et à la sécurité publique, qu'elles n'entraînent pas un surcroît important de dépenses publiques et que le projet
 n'est pas contraire aux objectifs visés à l'article L. 110 et aux lois d'aménagement et d'urbanisme mentionnées à l'article
 L. 111-1-1.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°83-8 1983-01-07 ART. 38 II : L'article L111-1-2 du code de l'urbanisme est applicable aux communes qui n'ont pas prescrit l'élaboration d'un plan d'occupation des sols, les dispositions de cet article prendront effet un an après l'entrée en vigue
-	  - SPEC_APPLI: Décret n°83-851 1983-09-23
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L124-4 (Ab)
-
-	**Créé par**:
-
-	  - Loi n°83-8 du 7 janvier 1983 - art. 38 (V) JORF 9 JANVIER 1983
 
 	**Cité par**:
 
@@ -315,9 +306,17 @@ L. 111-1-1.
 	  - Code général des impôts, CGI. - art. 257 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 331 K ter (M)
 
+	**Modifié par**:
+
+	  - Loi n°86-972 du 19 août 1986 - art. 1 () JORF 22 aout 1986
+
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L111-1-1 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L124-4 (Ab)
 
 	**Codifié par**:
 
@@ -326,15 +325,17 @@ L. 111-1-1.
 
 ###### Article L111-1-3
 
-Dans les communes qui ont prescrit l'élaboration d'un plan d'occupation des sols, une construction ou une installation peut,
-nonobstant les dispositions de l'article L. 111-1-2, être autorisée par le représentant de l'Etat ou par le maire au nom de
-l'Etat si le conseil municipal a, conjointement avec le représentant de l'Etat, précisé les modalités d'application des
-règles prises en application de l'article L. 111-1 sur le territoire de la commune.
+Nonobstant les dispositions de l'article L. 111-1-2, les constructions ou installations peuvent être autorisées  par le
+représentant de l'Etat ou par le maire au nom de l'Etat si le conseil municipal a, conjointement avec le représentant de
+l'Etat, précisé les modalités d'application des règles générales d'urbanisme prises en application de l'article L. 111-1 sur
+tout ou partie du territoire de la commune.
 
 Le projet ne doit pas être contraire aux objectifs visés à l'article L. 110 et aux lois d'aménagement et d'urbanisme
-mentionnées à l'article L. 111-1-1 du présent Code.    Les dispositions du présent article ne peuvent s'appliquer sur le
-territoire d'une commune que pendant une durée maximale non renouvelable de quatre ans à compter de la date à laquelle le
-conseil municipal a précisé les modalités d'application de l'article L. 111-1, conformément au premier alinéa de cet article.
+mentionnées à l'article L. 111-1-1 du présent Code.
+
+Les dispositions du présent article  peuvent s'appliquer sur le territoire d'une commune pendant une durée maximale de quatre
+ans à compter de la date à laquelle le conseil municipal a précisé les modalités d'application de l'article L. 111-1,
+conformément au premier alinéa du présent article.
 
 **Liens relatifs à cet article**
 
@@ -347,7 +348,7 @@ conseil municipal a précisé les modalités d'application de l'article L. 111-1
 
 	**Modifié par**:
 
-	  - Loi n°86-841 1986-07-17 ART. 1 JORF 18 JUILLET 1986
+	  - Loi n°86-972 du 19 août 1986 - art. 1 () JORF 22 aôut 1986
 
 	**Cite**:
 
@@ -46316,8 +46317,6 @@ application du décret n° 85-453 du 23 avril 1985.
 ## Règles relatives à l'acte de construire et à certains modes d'utilisation du sol
 
 ### Dispositions relatives aux modes particuliers d'utilisation du sol
-
-#### Autorisation de clôture
 
 #### Clotures.
 
