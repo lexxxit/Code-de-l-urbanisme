@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1978-08-02
+Version Consolidée au 1978-08-23
 
 # Partie législative
 
@@ -41587,7 +41587,7 @@ minoration de densité sur les fonds voisins.
 
 #### CHAPITRE II : Exceptions au régime général
 
-##### SECTION UNIQUE : Déclarations de travaux exemptés du permis de construire.
+#####  Section 1 : Déclarations de travaux exemptés du permis de construire.
 
 ###### Article A422-1
 
@@ -41613,6 +41613,41 @@ conformément au modèle joint en annexe au présent code.
 	**Cite**:
 
 	  - Code de l'urbanisme R422-5
+
+
+##### SECTION UNIQUE : Déclarations de travaux exemptés du permis de construire.
+
+#####  Section 2 : Grands camps à l'intérieur desquels les constructions et installations sont exemptées du permis de construire
+
+###### Article A422-2
+
+La liste des grands camps visés à l'article R. 422-1 alinéa 2 est la suivante :
+
+Suippes (Marne et Ardennes), Mailly (Marne et Aube), Mourmelon (Marne), Sissonne (Aisne), Coëtquidan (Morbihan), Garrigues
+(Gard), Bitche (Moselle), Larzac (Aveyron), le Valdahon (Doubs), Caylus (Tarn-et-Garonne), La Courtine (Creuse), Canjuers
+(Var) et Fontevrault (Maine-et-Loire).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1978-08-08 art. 3 JORF NC 23 août 1978
+
+	**Abrogé par**:
+
+	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. A422-3 (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme R422-1 al. 2
 
 
 ### TITRE III : Permis de démolir
