@@ -32,10 +32,8 @@ Servitudes relatives aux périmètres de protection instituées en application d
 décembre 1958 relative aux stockages souterrains d'hydrocarbures liquides ou liquéfiés, modifiée par la loi de finances
 rectificative pour 1972 (n° 72-1147 du 23 décembre 1972).
 
-//DECR. 542 du 13 mai 1981 :
-
 d) Chaleur : servitudes relatives aux canalisations de transport et de distribution de chaleur instituées en application de
-la loi n° 80-531 du 15 juillet 1980 relative aux économies d'énergie et à l'utilisation de la chaleur.//
+la loi n° 80-531 du 15 juillet 1980 relative aux économies d'énergie et à l'utilisation de la chaleur.
 
 B. - Mines et carrières.
 
@@ -99,6 +97,9 @@ n° 58-1311 du 23 décembre 1958 et du décret n° 58-1316 du 23 décembre 1958.
 
 Servitudes attachées à l'alignement des voies nationales, départementales ou communales.
 
+Servitudes relatives aux interdictions d'accès grevant les propriétés limitrophes des routes express et des déviations
+d'agglomérations en application des articles 4 et 5 de la loi n° 69-7 du 3 janvier 1969.
+
 e) Circulation aérienne.
 
 Servitudes aéronautiques de dégagement et de balisage instituées en application des articles L. 281-1 et R. 241-1 à R. 243-3
@@ -110,13 +111,12 @@ Servitudes grevant les terrains nécessaires aux besoins de la navigation aérie
 Servitudes établies à l'extérieur des zones de dégagement en application des articles R. 244-1 et D. 244-1 à D. 244-4 du code
 de l'aviation civile.
 
-f) Téléfériques et pistes de ski.
+f) Remontées mécaniques et pistes de ski.
 
-Zones auxquelles s'applique la servitude de survol instituée par la loi du 8 juillet 1941.
+Zones auxquelles s'applique la servitude de survol instituée par la loi du 8 juillet 1941 ;
 
-Servitudes liées à l'établissement des pistes de ski et instituées dans les stations classées de sports d'hiver et
-d'alpinisme en application de l'article L. 144-1 du code des communes et du titre III du décret n° 68-1031 du 14 novembre
-1968.
+Servitudes instituées en application de l'article 53 de la loi n° 85-30 du 9 janvier 1985 relative au développement et à la
+protection de la montagne.
 
 E. - Télécommunications.
 
@@ -129,14 +129,46 @@ application des articles L. 57 à L. 62 et R. 27 à R. 39 du code des postes et 
 Servitudes attachées aux réseaux de télécommunications instituées en application de l'article L. 48 (alinéa 2) du code des
 postes et télécommunications.
 
+Servitudes d'élagage relatives aux lignes de télécommunications empruntant le domaine public, instituées en application de
+l'article L. 65-1 du code des postes et télécommunications.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code des postes et télécommunications L48 AL. 2
+	  - Code des postes et télécommunications L48 AL. 2, L65-1
 	  - Code des postes et télécommunications L54, L55, L56
 	  - Code des postes et télécommunications L57 à L62
 	  - Code des postes et télécommunications R21 à R26
+	  - Loi n°46-628 1946-04-08 ART. 35
+	  - Loi n°49-1060 1949-08-02
+	  - Loi n°51-712 1951-06-07
+	  - Loi n°57-262 1957-03-02
+	  - Loi n°58-336 du 29 mars 1958 - art. 11 (M)
+	  - Ordonnance n°58-1132 du 25 novembre 1958 - art. 7 (Ab)
+	  - Ordonnance 58-1311 1958-12-23
+	  - Décret n°58-1316 1958-12-23
+	  - Ordonnance n°58-1332 du 23 décembre 1958 - art. 6 (Ab)
+	  - Décret n°59-645 1959-05-16
+	  - Loi n°62-904 1962-08-04
+	  - Décret n°63-82 1963-02-04
+	  - Loi n°65-498 1965-06-29
+	  - Loi n°66-1066 1966-12-31
+	  - Loi n°69-7 1969-01-03 ART. 4 et 5
+	  - Loi n°72-1147 1972-12-23 finances rectificatives
+	  - Loi n°80-531 1980-07-15
+	  - Loi n°85-30 1985-01-09 ART. 53
+	  - Code minier 71, 72, 73
+	  - Code de l'aviation civile - art. D244-1 (V)
+	  - Code de l'aviation civile - art. D244-2 (V)
+	  - Code de l'aviation civile - art. D244-3 (V)
+	  - Code de l'aviation civile - art. D244-4 (V)
+	  - Code de l'aviation civile - art. L281-1 (M)
+	  - Code de l'aviation civile - art. R241-1 (V)
+	  - Code de l'aviation civile - art. R241-2 (M)
+	  - Code de l'aviation civile - art. R243-3 (V)
+	  - Code de l'aviation civile - art. R244-1 (M)
+	  - Code de l'aviation civile - art. R245-1 (M)
 	  - Code des postes et télécommunications R27 à R39
 	  - Code du domaine public fluvial 15, 16, 28
 	  - Code rural 128-6, 128-7, 128-9
@@ -153,43 +185,11 @@ postes et télécommunications.
 	  - Loi n°1933-05-27
 	  - Loi n°1941-07-08
 	  - Loi n°1966-06-15 ART. 12
-	  - Loi n°46-628 1946-04-08 ART. 35
-	  - Loi n°49-1060 1949-08-02
-	  - Loi n°51-712 1951-06-07
-	  - Loi n°57-262 1957-03-02
-	  - Loi n°58-336 du 29 mars 1958 - art. 11 (M)
-	  - Ordonnance n°58-1132 du 25 novembre 1958 - art. 7 (Ab)
-	  - Ordonnance 58-1311 1958-12-23
-	  - Décret n°58-1316 1958-12-23
-	  - Ordonnance n°58-1332 du 23 décembre 1958 - art. 6 (Ab)
-	  - Décret n°59-645 1959-05-16
-	  - Loi n°62-904 1962-08-04
-	  - Décret n°63-82 1963-02-04
-	  - Loi n°65-498 1965-06-29
-	  - Loi n°66-1066 1966-12-31
-	  - Décret n°68-1031 1968-11-14 TITRE III
-	  - Loi n°72-1147 1972-12-23 finances rectificatives
-	  - CODE DES COMMUNES. - art. L144-1 (Ab)
-	  - Code minier 71, 72, 73
-	  - Code de l'aviation civile - art. D244-1 (V)
-	  - Code de l'aviation civile - art. D244-2 (V)
-	  - Code de l'aviation civile - art. D244-3 (V)
-	  - Code de l'aviation civile - art. D244-4 (V)
-	  - Code de l'aviation civile - art. L281-1 (M)
-	  - Code de l'aviation civile - art. R241-1 (V)
-	  - Code de l'aviation civile - art. R241-2 (M)
-	  - Code de l'aviation civile - art. R243-3 (V)
-	  - Code de l'aviation civile - art. R244-1 (M)
-	  - Code de l'aviation civile - art. R245-1 (M)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Créé par**:
-
-	  - Décret n°77-861 1977-07-26 ART. 1 JORF 29 JUILLET 1977
-
 	**Modifié par**:
 
-	  - Décret n°81-542 1981-05-13 ART. 40 JORF 15 MAI 1981
+	  - Décret n°87-984 1986-08-19 ART. 7 XIV JORF 27 AOUT 1986
