@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1992-09-20
+Version Consolidée au 1992-12-29
 
 # Partie législative
 
@@ -52395,15 +52395,20 @@ ses établissements publics à caractère administratif, les opérations répond
 1° Lorsqu'elles sont réalisées dans les agglomérations nouvelles délimitées en application de la loi n° 83-636 du 13 juillet
 1983 portant modification du statut des agglomérations nouvelles, ou dans les communes situées à l'intérieur du périmètre
 d'un établissement public d'aménagement de ville nouvelle et ayant passé convention avec l'Etat en application de l'article
-10 de la même loi ;    " 2° Lorsqu'elles ont trait à la construction d'ensembles de bureaux non affectés destinés à la vente
-ou à la location :
+10 de la même loi ;
 
-" a) Sous réserve que la superficie développée de plancher soit inférieure à 2 000 mètres carrés s'il s'agit d'opérations
-réalisées dans les arrondissements de Paris et les communes mentionnés au 1° de l'article R. 520-12 ;
+2° Lorsqu'elles ont trait à la construction d'ensembles de bureaux non affectés destinés à la vente ou à la location :
 
-" b) Quelle que soit la superficie dans les autres cas ;
+a) Sous réserve que la superficie développée de plancher soit inférieure à 2 000 mètres carrés s'il s'agit d'opérations
+réalisées dans les communes ci-après du département des Hauts-de-Seine :
 
-" 2° bis Lorsqu'elles ont trait à la reconstruction ou à la réhabilitation de bureaux sans extension de surface ; "
+Bois-Colombes, Boulogne-Billancourt, Colombes, Courbevoie, Clichy, Garches, La Garenne-Colombes, Gennevilliers, Issy-les-
+Moulineaux, Malakoff, Marnes-la-Coquette, Nanterre, Neuilly-sur-Seine, Puteaux, Saint-Cloud, Sèvres, Vanves, Vaucresson et
+Ville-d'Avray ;.
+
+b) Quelle que soit la superficie dans les autres cas ;
+
+2° bis Lorsqu'elles ont trait à la reconstruction ou à la réhabilitation de bureaux sans extension de surface ;
 
 3° Lorsqu'elles portent sur des surfaces affectées à des magasins de vente, sous réserve des dispositions du 5° ci-après ;
 
@@ -52411,16 +52416,13 @@ réalisées dans les arrondissements de Paris et les communes mentionnés au 1°
 technique, scientifique et notamment ceux affectés à la recherche au sens de l'article 520-1 du présent code et que ces
 locaux ou installations ont une superficie développée de plancher inférieure à 3000 m2 ou que l'extension envisagée ajoutée,
 le cas échéant, aux opérations réalisées, sans qu'un agrément fût nécessaire, au cours des douze mois précédents, n'excède
-pas cette superficie.
-
-5° Lorsqu'elles portent sur des locaux d'enseignement supérieur et des bureaux à usage commercial, professionnel,
-administratif, technique ou scientifique et leurs annexes de toute nature, distincts de ceux visés au 4° ci-dessus, et que
-ces locaux ont une superficie de planchers inférieure à 2000 m2 ou que l'extension envisagée ajoutée, le cas échéant, aux
-opérations réalisées, sans qu'un agrément fût nécessaire, au cours des douze mois précédents, n'excède pas cette superficie ;
-
-6° Lorsqu'elles ont trait à des installations à usage d'entrepôt, si elles portent sur une superficie développée de plancher
-inférieur à 5000 m2 et qu'elles ne conduisent pas l'exploitant ou l'utilisateur à disposer à l'intérieur de la zone définie à
-l'article R. 510-1 d'une superficie de plancher supérieure au total à 5000 m2.
+pas cette superficie. 5° Lorsqu'elles portent sur des locaux d'enseignement supérieur et des bureaux à usage commercial,
+professionnel, administratif, technique ou scientifique et leurs annexes de toute nature, distincts de ceux visés au 4° ci-
+dessus, et que ces locaux ont une superficie de planchers inférieure à 2000 m2 ou que l'extension envisagée ajoutée, le cas
+échéant, aux opérations réalisées, sans qu'un agrément fût nécessaire, au cours des douze mois précédents, n'excède pas cette
+superficie ; 6° Lorsqu'elles ont trait à des installations à usage d'entrepôt, si elles portent sur une superficie développée
+de plancher inférieur à 5000 m2 et qu'elles ne conduisent pas l'exploitant ou l'utilisateur à disposer à l'intérieur de la
+zone définie à l'article R. 510-1 d'une superficie de plancher supérieure au total à 5000 m2.
 
 **Liens relatifs à cet article**
 
@@ -52428,29 +52430,28 @@ l'article R. 510-1 d'une superficie de plancher supérieure au total à 5000 m2.
 
 	  - Décret n°67-944 1967-10-24 art. 6
 
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
 	**Cite**:
 
 	  - Loi n°83-636 du 13 juillet 1983 - art. 10 (Ab)
-	  - Code de l'urbanisme R510-4, R520-12
+	  - Code de l'urbanisme R510-1, R520-12
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°90-17 1990-01-03 art. 2
-	  - TXT_ASSOCIE: Code de l'urbanisme R510-7
+	  - SPEC_APPLI: Décret n°92-1357 1992-12-28 art. 2
 
 	**Modifié par**:
 
-	  - Décret n°90-17 du 3 janvier 1990 - art. 1 () JORF 5 janvier 1990
+	  - Décret n°92-1357 du 28 décembre 1992 - art. 1 () JORF 29 décembre 1992
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*510-1 (V)
 	  - Code du cinéma et de l'image animée - art. R212-8 (V)
 	  - Code du cinéma et de l'image animée - art. R212-9 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*510-7
