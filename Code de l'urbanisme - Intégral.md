@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1994-07-24
+Version Consolidée au 1994-07-27
 
 # Partie législative
 
@@ -11984,11 +11984,10 @@ intéressés.
 Toutefois, lorsque leur zone d'activité territoriale s'étend sur plus de cent communes, le décret de création est pris en
 Conseil d'Etat et en conseil des ministres, après avis des conseils généraux intéressés.
 
+Dans le département de la Guyane, lorsque la zone d'activité de l'établissement s'étend sur tout le territoire du
+département, le décret de création est pris en Conseil d'Etat, après avis du conseil régional et du conseil général.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 	**Cité par**:
 
@@ -12008,7 +12007,11 @@ Conseil d'Etat et en conseil des ministres, après avis des conseils généraux 
 
 	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985
+	  - Loi n°94-638 du 25 juillet 1994 - art. 36 () JORF 27 juillet 1994
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L321-4
