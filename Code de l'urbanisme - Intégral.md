@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1986-01-06
+Version Consolidée au 1986-01-07
 
 # Partie législative
 
@@ -2959,13 +2959,9 @@ matière sur la modification projetée. La déclaration d'utilité publique empo
 ###### Article L123-9
 
 Le propriétaire d'un terrain bâti ou non bâti réservé par un plan d'occupation des sols pour un ouvrage public, une voie
-publique, une installation d'intérêt général ou un espace vert peut, à compter du jour où le plan est rendu public, même si à
-cette date une décision de sursis lui ayant été opposée est en cours de validité, exiger de la collectivité ou du service
-public au bénéfice duquel le terrain a été réservé qu'il soit procédé à son acquisition dans un délai de deux ans à compter
-du jour de la demande [*droit de délaissement*]. Ce délai peut être prorogé une fois pour une durée d'un an, sauf dans les
-cas où il y a eu sursis à statuer en application des articles L. 123-5 et L. 123-7. Lorsqu'il s'agit d'un terrain agricole
-effectivement exploité, cette prorogation devra être justifiée selon une procédure dont les modalités seront fixées par les
-décrets prévus à l'article L. 125-1.
+publique, une installation d'intérêt général ou un espace vert peut, dès que le plan est opposable aux tiers, même si à cette
+date une décision de sursis à statuer lui ayant été opposée est en est en cours de validité, exiger de la collectivité ou du
+service public au bénéfice duquel le terrain a été réservé qu'il soit procédé à son acquisition.
 
 Au cas où le terrain viendrait à faire l'objet d'une transmission pour cause de décès, les ayants-droit du propriétaire
 décédé peuvent, sur justification que l'immeuble en cause représente au moins la moitié de l'actif successoral et sous
@@ -2978,7 +2974,11 @@ d'habitation ou d'usage et ceux qui peuvent réclamer des servitudes. Les autres
 valoir leurs droits par publicité collective à l'initiative de la collectivité ou du service public bénéficiaire, et tenus de
 se faire connaître à ces derniers, dans le délai de deux mois, à défaut de quoi ils seront exclus de tout droit à indemnité.
 
-A défaut d'accord amiable à l'expiration du délai mentionné au premier alinéa ci-dessus, le juge de l'expropriation, saisi
+La collectivité ou le service public au bénéfice duquel le terrain est réservé doit se prononcer dans le délai d'un an à
+compter de la réception en mairie de la demande du propriétaire. En cas d'accord amiable, le prix d'acquisition doit être
+payé au plus tard deux ans à compter de la réception en mairie de cette demande.
+
+A défaut d'accord amiable à l'expiration du délai d'un an mentionné à l'alinéa précédent, le juge de l'expropriation, saisi
 soit par le propriétaire, soit par la collectivité ou le service public bénéficiaire de la réserve, prononce le transfert de
 propriété et fixe le prix du terrain. Ce prix, y compris l'indemnité de réemploi, est fixé et payé comme en matière
 d'expropriation, le terrain étant considéré comme ayant cessé d'être compris dans un emplacement réservé. Toutefois, la date
@@ -2988,10 +2988,13 @@ du plan d'occupation des sols, de la modification ou de la révision dudit plan 
 Le juge de l'expropriation fixe également, s'il y a lieu, les indemnités auxquelles peuvent prétendre les personnes
 mentionnées au troisième alinéa ci-dessus.
 
-Si, trois mois après l'expiration du délai mentionné à l'alinéa premier ci-dessus, le juge de l'expropriation n'a pas été
-saisi, la réserve n'est plus opposable au propriétaire comme aux tiers, un mois après la mise en demeure de procéder à sa
-levée, adressée à l'autorité compétente par le propriétaire. Cette faculté ne fait pas obstacle à la saisine du juge de
-l'expropriation au-delà de ces trois mois, dans les conditions prévues au quatrième alinéa ci-dessus.
+Le propriétaire d'un terrain partiellement réservé par un plan d'occupation des sols peut en requérir l'emprise totale dans
+les cas prévus aux articles L. 13-10 et L. 13-11 du code de l'expropriation pour cause d'utilité publique.
+
+Si, trois mois après l'expiration du délai d'un an mentionné au quatrième alinéa ci-dessus, le juge de l'expropriation n'a
+pas été saisi, la réserve n'est plus opposable au propriétaire comme aux tiers, un mois après la mise en demeure de procéder
+à sa levée, adressée à l'autorité compétente par le propriétaire. Cette faculté ne fait pas obstacle à la saisine du juge de
+l'expropriation au-delà de ces trois mois, dans les conditions prévues au cinquième alinéa ci-dessus.
 
 L'acte ou la décision portant transfert de propriété éteint par lui-même et à sa date tous droits réels ou personnels
 existant sur les immeubles cédés, même en l'absence de déclaration d'utilité publique antérieure. Les droits des créanciers
@@ -3036,7 +3039,7 @@ la collectivité ou le service public bénéficiaire de la réserve quel que soi
 
 	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 4 () JORF 19 juillet 1985
+	  - Loi n°86-13 du 6 janvier 1986 - art. 9 () JORF 7 janvier 1986
 
 	**Cite**:
 
@@ -3044,6 +3047,8 @@ la collectivité ou le service public bénéficiaire de la réserve quel que soi
 	  - Code de l'urbanisme - art. L125-1 (M)
 	  - Code de l'urbanisme - art. L221-2 (M)
 	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L12-3 (M)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L13-10 (M)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L13-11 (M)
 	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L13-15 (M)
 
 	**Codifié par**:
@@ -8073,8 +8078,20 @@ organisent la concertation dans des conditions fixées en accord avec la commune
 ###### Article L300-3
 
 Un décret en Conseil d'Etat fixe les cas et les conditions dans lesquels les demandes de permis de construire ou de démolir,
-d'autorisation de lotir, d'installations et travaux divers, de clôture, de coupe et d'abattage d'arbres ou d'aménagement de
-terrains pour l'accueil de tentes, de caravanes ou d'habitations légères de loisirs sont portées à la connaissance du public.
+d'autorisation de lotir, d'installations et travaux divers, de coupe et d'abattage d'arbres ou d'aménagement de terrains pour
+l'accueil de tentes, de caravanes ou d'habitations légères de loisirs, ainsi que la déclaration prévue par l'article L. 422-2
+sont portées à la connaissance du public.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
 
 **Liens relatifs à cet article**
 
@@ -8082,9 +8099,17 @@ terrains pour l'accueil de tentes, de caravanes ou d'habitations légères de lo
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 1 () JORF 19 juillet 1985
+	  - Loi n°86-13 du 6 janvier 1986 - art. 7 () JORF 7 janvier 1986
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 22 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L422-2 (M)
 
 
 ###### Article L300-4
@@ -9512,6 +9537,49 @@ l'ordonnance au 1er octobre 2007.
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L315-2
+
+Toute renonciation à la clause d'interdiction d'édifier des constructions à usage d'habitation, d'industrie, de commerce ou
+d'artisanat figurant dans les actes de vente ou de location de terrains lotis en vue de la création de jardins est nulle et
+de nul effet, même si elle est postérieure à la vente ou à la location.
+
+Les dispositions de l'article L. 315-2-1 ne sont pas applicables auxdits lotissements.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 58-1447 1958-12-31 ART. 5
+
+	**Modifié par**:
+
+	  - Loi n°86-13 1986-01-06 art. 8 III JORF 7 janvier 1986
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 22 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L315-2 (M)
+	  - Code de l'urbanisme - art. L315-2-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L315-5
@@ -12832,10 +12900,10 @@ nécessaires à l'application dans les départements d'outre-mer des articles L.
 
 ###### Article L311-4
 
-Il est établi, dans chaque zone d'aménagement concerté, un plan d'aménagement de zone compatible, en l'absence de plan
-d'occupation des sols, avec les orientations du schéma directeur s'il en existe un. Le plan d'aménagement de zone comporte
-tout ou partie des éléments énumérés aux articles L. 123-1 et L. 130-1. Le projet de plan d'aménagement de zone est élaboré
-par la personne publique qui a pris l'initiative de la création de zone.
+Il est établi, dans chaque zone d'aménagement concerté, un plan d'aménagement de zone compatible, avec les orientations du
+schéma directeur s'il en existe un. Le plan d'aménagement de zone comporte tout ou partie des éléments énumérés aux articles
+L. 123-1 et L. 130-1. Le projet de plan d'aménagement de zone est élaboré par la personne publique qui a pris l'initiative de
+la création de zone.
 
 Sont associés à cette élaboration l'Etat et la commune et, à leur demande, et dans les formes que la personne publique qui a
 prix l'initiative de la création de la zone détermine, la région et le département ; l'autorité compétente pour créer la zone
@@ -12891,8 +12959,7 @@ prises en application de l'article L. 121-12.
 
 	**Modifié par**:
 
-	  - Loi n°85-729 1985-07-18 art. 15 III, IV, V  JORF 19 juillet 1985
-	  - Loi n°85-729 du 18 juillet 1985 - art. 15 () JORF 19 juillet 1985
+	  - Loi n°86-13 du 6 janvier 1986 - art. 11 () JORF 7 janvier 1986
 
 	**Cite**:
 
@@ -12912,27 +12979,6 @@ prises en application de l'article L. 121-12.
 
 
 #### Lotissements
-
-###### Article L315-2
-
-Toute renonciation à la clause d'interdiction d'édifier des constructions à usage d'habitation, d'industrie, de commerce ou
-d'artisanat figurant dans les actes de vente ou de location de terrains lotis en vue de la création de jardins est nulle et
-de nul effet, même si elle est postérieure à la vente ou à la location.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. L315-2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Anciens textes**:
-
-	  - Ordonnance 58-1447 1958-12-31 ART. 5
-
 
 ###### Article L315-4
 
@@ -13267,68 +13313,6 @@ confie.
 	  - SPEC_APPLI: Code de l'urbanisme - art. L421-2-7 (M)
 
 
-###### Article L421-3
-
-Le permis de construire ne peut être accordé que si les constructions projetées sont conformes aux dispositions législatives
-et réglementaires concernant l'implantation des constructions, leur destination, leur nature, /M/leur aspect extérieur /M/LOI
-0002 ART. 33 : leur architecture, leurs dimensions et l'aménagement de leurs abords et si le demandeur s'engage à respecter
-les règles générales de construction prévues à l'article /M/L. 110-3 /M/LOI  1328 : L. 111-3//.
-
-//LOI  1285 ART. 69 : En outre, pour les immeubles de grande hauteur ou les établissements recevant du public, le permis de
-construire ne peut être délivré que si les constructions ou les travaux projetés sont conformes aux règles de sécurité
-propres à cet type d'immeubles ou d'établissements, que les locaux concernés soient ou non à usage d'habitation.
-
-Lorsque le pétitionnaire ne peut satisfaire lui-même aux obligations imposées par un plan d'occupation des sols rendu public
-ou approuvé en matière de réalisation d'aires de stationnement, il peut être tenu quitte de ces obligations soit en
-justifiant, pour les places qu'il ne peut réaliser lui-même, de l'obtention d'une concession à long terme dans un parc public
-de stationnement existant ou en cours de réalisation, soit en versant une participation, fixée par délibération du conseil
-municipal ou de l'organe délibérant de l'établissement public groupant plusieurs communes et exerçant la compétence définie à
-l'article 4-12. de la loi n. 66-1069 du 31 décembre 1966, en vue de la réalisation de parcs publics de stationnement dont la
-construction est prévue.
-
-Le montant de cette participation ne peut excéder 15.000 F par place de stationnement. Ce montant pourra être périodiquement
-révisé par décret, en fonction de l'évolution du coût de la construction publié par l'institut national de la statistique et
-des études économiques.
-
-Un Décret en Conseil d'Etat détermine les conditions d'application des alinéas 3 et 4 du présent article et précise notamment
-les modalités d'établissement, de liquidation et de recouvrement de la participation prévue à l'alinéa 3, ainsi que les
-sanctions et garanties y afférentes//.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°66-1069 du 31 décembre 1966 - art. 4 (Ab)
-	  - Code de l'urbanisme - art. L111-3 (M)
-
-	**Cité par**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 4 (Ab)
-	  - Code de l'environnement - art. R581-23 (V)
-	  - Code de l'urbanisme - art. L332-6-1 (M)
-	  - Code de l'urbanisme - art. L422-1 (M)
-	  - Code de l'urbanisme - art. L422-3 (M)
-	  - Code de l'urbanisme - art. L470-1 (Ab)
-	  - Code de l'urbanisme - art. R*421-41 (Ab)
-	  - Code de l'urbanisme - art. R421-43 (T)
-	  - Code de l'urbanisme - art. R472-4 (V)
-	  - Code de la construction et de l'habitation. - art. L111-8 (M)
-	  - Code de la construction et de l'habitation. - art. L111-8-4 (V)
-	  - Code du patrimoine - art. R523-4 (V)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L422-1 (M)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 89
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-
 ###### Article L421-8
 
 En dehors des zones couvertes par un plan d'occupation des sols rendu public ou approuvé, le préfet [*autorité compétente*]
@@ -13404,51 +13388,6 @@ favorable de la commission départementale d'urbanisme et de la collectivité in
 
 	  - Code de l'urbanisme - art. L123-2-1 (T)
 	  - Code de l'urbanisme 93
-
-
-### Dispositions relatives aux modes particuliers d'utilisation du sol.
-
-#### Autorisations de clôture.
-
-###### Article L441-2
-
-Dans les parties du territoire ou zones visées à l'article L. 441-1, l'édification des clôtures est subordonnée à une
-autorisation administrative.
-
-Toutefois, l'édification des clôtures habituellement nécessaires à l'activité agricole ou forestière n'est pas soumise à
-l'autorisation prévue à l'alinéa Ier du présent article.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°83-8 du 7 janvier 1983 - art. 68 () JORF 9 JANVIER 1983
-	  - Loi n°83-663 du 22 juillet 1983 - art. 105 () JORF 23 JUILLET 1983
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°83-851 1983-09-23
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L441-1 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L441-1 (M)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. L441-4 (M)
-	  - Code de l'urbanisme - art. L441-5 (Ab)
-	  - Code de l'urbanisme - art. R*441-11 (Ab)
-	  - Code de l'urbanisme - art. R*441-12 (Ab)
-	  - Code de l'urbanisme - art. R*441-13 (Ab)
-	  - Code de l'urbanisme - art. R*441-2 (M)
-	  - Code de l'urbanisme - art. R*441-3 (M)
-	  - Code de l'urbanisme - art. R442-6 (M)
-	  - Code général des collectivités territoriales - art. R1614-18 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ## Livre IV : Règles relatives à l'acte de construire et à divers modes d'utilisation du sol
@@ -13548,15 +13487,20 @@ b) dans les autres communes, au nom de l'Etat.
 ###### Article L421-1
 
 Quiconque désire entreprendre ou implanter une construction à usage d'habitation ou non, même ne comportant pas de
-fondations, doit, au préalable, obtenir un permis de construire [*définition*]. Cette obligation s'impose aux services
-publics et concessionnaires de services publics de l'Etat, des régions, des départements et des communes comme aux personnes
-privées.
+fondations, doit, au préalable, obtenir un permis de construire [*définition*] sous réserve des dispositions des articles L.
+422-1 à L. 422-5. Cette obligation s'impose aux services publics et concessionnaires de services publics de l'Etat, des
+régions, des départements et des communes comme aux personnes privées.
 
-Le même permis est exigé pour les travaux exécutés sur les constructions existantes, lorsqu'ils ont pour effet d'en changer
-la destination, de modifier leur aspect extérieur ou leur volume de créer des niveaux supplémentaires.
+Sous réserve des dispositions L422-1 à L422-5, Le même permis est exigé pour les travaux exécutés sur les constructions
+existantes, lorsqu'ils ont pour effet d'en changer la destination, de modifier leur aspect extérieur ou leur volume de créer
+des niveaux supplémentaires.
 
 Ce permis n'est pas exigé pour l'installation des dispositifs ayant la qualification de publicité, d'enseigne ou de
 préenseigne, au sens de la loi n° 79-1150 du 29 décembre 1979.
+
+Ce permis n'est pas non plus exigé pour les ouvrages qui, en raison de leur nature ou de leur très faible dimension, ne
+peuvent être qualifiés de constructions au sens du présent titre. Un décret en Conseil d'Etat précise, en tant que de besoin,
+les ouvrages qui, de ce fait, ne sont pas soumis au permis de construire.
 
 Lorsque les constructions ou travaux visés aux alinéas 1er et 2 ci-dessus sont soumis par des dispositions législatives ou
 réglementaires, en raison de leur emplacement ou de leur utilisation, à un régime d'autorisation ou à des prescriptions dont
@@ -13622,10 +13566,15 @@ hauteur et sa délivrance est précédée de l'accord de l'autorité chargée de
 	**Cite**:
 
 	  - Loi n°79-1150 1979-12-29
+	  - Code de l'urbanisme - art. L422-1 (M)
+	  - Code de l'urbanisme - art. L422-2 (M)
+	  - Code de l'urbanisme - art. L422-3 (M)
+	  - Code de l'urbanisme - art. L422-4 (M)
+	  - Code de l'urbanisme - art. L422-5 (M)
 
 	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985
+	  - Loi n°86-13 du 6 janvier 1986 - art. 2 () JORF 7 janvier 1986
 
 	**Anciens textes**:
 
@@ -14070,6 +14019,72 @@ l'ordonnance au 1er octobre 2007.
 	  - Code de l'urbanisme - art. L421-2-7 (M)
 
 
+###### Article L421-3
+
+Le permis de construire ne peut être accordé que si les constructions projetées sont conformes aux dispositions législatives
+et réglementaires concernant l'implantation des constructions, leur destination, leur nature, leur architecture, leurs
+dimensions et l'aménagement de leurs abords et si le demandeur s'engage à respecter les règles générales de construction
+prévues à l'article L. 111-3.
+
+En outre, pour les immeubles de grande hauteur ou les établissements recevant du public, le permis de construire ne peut être
+délivré que si les constructions ou les travaux projetés sont conformes aux règles de sécurité propres à cet type d'immeubles
+ou d'établissements, que les locaux concernés soient ou non à usage d'habitation.
+
+Lorsque le pétitionnaire ne peut satisfaire lui-même aux obligations imposées par un plan d'occupation des sols ou par un
+plan de sauvegarde et de mise en valeur rendu public ou approuvé en matière de réalisation d'aires de stationnement, il peut
+être tenu quitte de ces obligations soit en justifiant, pour les places qu'il ne peut réaliser lui-même, de l'obtention d'une
+concession à long terme dans un parc public de stationnement existant ou en cours de réalisation, soit en versant une
+participation, fixée par délibération du conseil municipal ou de l'organe délibérant de l'établissement public groupant
+plusieurs communes et exerçant la compétence définie à l'article 4-12. de la loi n. 66-1069 du 31 décembre 1966, en vue de la
+réalisation de parcs publics de stationnement dont la construction est prévue.
+
+Le montant de cette participation ne peut excéder 50.000 F par place de stationnement ; cette valeur, fixée par référence à
+l'indice du coût de la construction du quatrième trimestre 1985 publié par l'Institut national de la statistique et des
+études économiques, est modifiée au 1er novembre de chaque année en fonction de l'indice connu à cette date.
+
+Un Décret en Conseil d'Etat détermine les conditions d'application des alinéas 3 et 4 du présent article et précise notamment
+les modalités d'établissement, de liquidation et de recouvrement de la participation prévue à l'alinéa 3, ainsi que les
+sanctions et garanties y afférentes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°66-1069 du 31 décembre 1966 - art. 4 (Ab)
+	  - Code de l'urbanisme - art. L111-3 (M)
+
+	**Modifié par**:
+
+	  - Loi n°86-13 1986-01-06 art. 12 JORF 7 janvier 1986
+
+	**Cité par**:
+
+	  - Décret n°2004-490 du 3 juin 2004 - art. 4 (Ab)
+	  - Code de l'environnement - art. R581-23 (V)
+	  - Code de l'urbanisme - art. L332-6-1 (M)
+	  - Code de l'urbanisme - art. L422-1 (M)
+	  - Code de l'urbanisme - art. L422-3 (M)
+	  - Code de l'urbanisme - art. L470-1 (Ab)
+	  - Code de l'urbanisme - art. R*421-41 (Ab)
+	  - Code de l'urbanisme - art. R421-43 (T)
+	  - Code de l'urbanisme - art. R472-4 (V)
+	  - Code de la construction et de l'habitation. - art. L111-8 (M)
+	  - Code de la construction et de l'habitation. - art. L111-8-4 (V)
+	  - Code du patrimoine - art. R523-4 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L422-1 (M)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme 89
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
 ###### Article L421-4
 
 Dès la publication de l'acte déclarant d'utilité publique une opération, le permis de construire peut être refusé pour les
@@ -14304,31 +14319,23 @@ et assortit son recours d'une demande de sursis à exécution, le tribunal admin
 
 ###### Article L422-1
 
-En raison de leur nature ou de leur faible importance, des constructions et des travaux peuvent être exemptés du permis de
-construire dans des conditions déterminées par un décret en conseil d'Etat.
+Sont exemptés du permis de construire les constructions ou travaux couverts par le secret de la défense nationale, les
+travaux de ravalement, les travaux sur les immeubles classés.
 
-L'exemption instituée en application de l'alinéa précédent ne dispense pas du respect des dispositions législatives ou
-réglementaires relatives à l'occupation des sols énumérées à l'article L. 421-3.
+Sont également exemptés du permis de construire certaines constructions ou travaux relatifs à la défense nationale ou aux
+installations techniques nécessaires au fonctionnement des services publics ainsi que les constructions ou travaux dont la
+faible importance ne justifie pas l'exigence d'un permis de construire.
 
-Sont exemptés du permis de construire, les travaux de ravalement, les travaux sur les édifices classés et certains travaux de
-faible importance dans les petites communes quel que soit le maître d'ouvrage, ainsi que certains travaux relatifs aux
-installations techniques nécessaires au fonctionnement des services publics.
+Un décret en Conseil d'Etat précise la nature et l'importance des constructions, travaux et installations concernés.
 
-Le maître d'ouvrage tient compte de l'avis du maire sur les travaux exemptés du permis de construire, consulté au moins un
-mois avant le commencement des travaux, à l'exception des constructions couvertes par le secret de la défense nationale.
-
-En cas d'avis défavorable du maire, l'autorité compétente pour délivrer le permis de construire statue sur le projet.
-
-Sont soumis notamment au régime du permis de construire les travaux de production et de distribution d'énergie, les bâtiments
-scolaires, les bâtiments des postes et télécommunications, les bâtiments non techniques exécutés dans les ports maritimes,
-les gares et les aérodromes.    Les dispositions des articles L. 430-4-1 et L. 430-4-2  du présent code sont applicables aux
-travaux et constructions réglementés par les alinéas ci-dessus.
+Les exemptions instituées par le présent article ne dispensent pas du respect des dispositions législatives ou réglementaires
+relatives à l'occupation du sol énumérées à l'article L. 421-3.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 27 () JORF 19 juillet 1985
+	  - Loi n°86-13 du 6 janvier 1986 - art. 4 () JORF 7 janvier 1986
 
 	**Cité par**:
 
@@ -14375,12 +14382,200 @@ travaux et constructions réglementés par les alinéas ci-dessus.
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L421-3 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L422-2
+
+Les constructions ou travaux exemptés du permis de construire, à l'exception de ceux couverts par le secret de la défense
+nationale, font l'objet d'une déclaration auprès du maire de la commune avant le commencement des travaux.
+
+Sauf opposition dûment motivée, notifiée par l'autorité compétente en matière de permis de construire dans le délai d'un mois
+à compter de la réception de la déclaration, les travaux peuvent être exécutés sous réserve, le cas échéant, du respect des
+prescriptions notifiées dans les mêmes conditions.
+
+Lorsque les constructions ou travaux mentionnés au premier alinéa sont soumis, par des dispositions législatives ou
+réglementaires, en raison de leur emplacement ou de leur utilisation, à un régime d'autorisation ou à des prescriptions dont
+l'application est contrôlée par une autorité autre que celle compétente en matière de permis de construire, la déclaration
+mentionnée au premier alinéa tient lieu des demandes d'autorisation exigées au titre de ces dispositions. Dans ce cas, le
+délai prévu à l'alinéa précédent est porté à deux mois.
+
+Si l'autorité consultée manifeste son désaccord ou assortit son accord de prescriptions, l'autorité compétente en matière de
+permis de construire, selon le cas, s'oppose à l'exécution des travaux ou notifie les prescriptions dont l'accord est
+assorti. En cas d'accord manifesté par l'autorité consultée, l'absence d'opposition de l'autorité compétente en matière de
+permis de construire tient lieu des autorisations prévues par les dispositions législatives ou réglementaires mentionnées à
+l'alinéa précédent.
+
+Les conditions de dépôt, de publicité et de transmission de la déclaration prévue au premier alinéa ainsi que les modalités
+de réponse des autorités concernées sont déterminées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°86-13 du 6 janvier 1986 - art. 4 () JORF 7 janvier 1986
+
+	**Cité par**:
+
+	  - Décret n°87-285 du 22 avril 1987 - art. 2 (V)
+	  - Décret n°87-285 du 22 avril 1987 - art. 3 (V)
+	  - Décret n°87-744 du 9 septembre 1987 - art. 3 (V)
+	  - Décret n°2002-89 du 16 janvier 2002 - art. 4 (Ab)
+	  - Décret n°2004-490 du 3 juin 2004 - art. 6 (M)
+	  - Ordonnance n°2014-355 du 20 mars 2014 - art. 17 (VT)
+	  - Loi n°2014-366 du 24 mars 2014 - art. 128
+	  - Décret n°2016-1484 du 2 novembre 2016 (V)
+	  - Décret n°2016-1736 du 14 décembre 2016 (V)
+	  - Code de l'urbanisme - art. A332-5 (VT)
+	  - Code de l'urbanisme - art. L300-3 (Ab)
+	  - Code de l'urbanisme - art. L421-1 (M)
+	  - Code de l'urbanisme - art. L422-3 (M)
+	  - Code de l'urbanisme - art. L422-4 (M)
+	  - Code de l'urbanisme - art. L740-3 (VT)
+	  - Code de l'urbanisme - art. R* 427-1 (VD)
+	  - Code de l'urbanisme - art. R*111-42 (V)
+	  - Code de l'urbanisme - art. R*313-14 (M)
+	  - Code de l'urbanisme - art. R*422-2 (V)
+	  - Code de l'urbanisme - art. R*422-2-1 (V)
+	  - Code de l'urbanisme - art. R*422-5 (M)
+	  - Code de l'urbanisme - art. R*441-2 (M)
+	  - Code de l'urbanisme - art. R*443-7-3 (Ab)
+	  - Code de l'urbanisme - art. R332-30 (Ab)
+	  - Code de l'urbanisme - art. R490-7 (Ab)
+	  - Code de l'urbanisme - art. R490-8 (Ab)
+	  - Code de l'éducation - art. R211-6 (V)
+	  - Code de la construction et de l'habitation. - art. R*111-22 (Ab)
+	  - Code de la construction et de l'habitation. - art. R111-23-3 (M)
+	  - Code de la défense. - art. L2313-2 (M)
+	  - Code général des collectivités territoriales - art. R1614-18 (M)
+	  - Code général des collectivités territoriales - art. R1614-53 (Ab)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 317 sexies (VT)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L422-3
+
+Lorsque les constructions ou travaux exemptés du permis de construire n'ont pas fait l'objet d'une opposition de l'autorité
+compétente dans les conditions prévues à l'article précédent, la déclaration prévue au premier alinéa de cet article emporte
+les effets du permis de construire pour les impositions de toute nature dont ce permis constitue le fait générateur.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°86-13 du 6 janvier 1986 - art. 4 () JORF 7 janvier 1986
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. *R422-4 (V)
+	  - Code de l'urbanisme - art. L421-1 (M)
+	  - Code de l'urbanisme - art. L422-4 (M)
+	  - Code de l'urbanisme - art. L461-1 (V)
+	  - Code de l'urbanisme - art. R*410-6 (V)
+	  - Code de l'urbanisme - art. R*422-12 (Ab)
+	  - Code de l'urbanisme - art. R*422-3 (V)
+	  - Code de l'urbanisme - art. R*423-72 (V)
+	  - Code de l'urbanisme - art. R*423-74 (V)
+	  - Code général des collectivités territoriales - art. L2131-2 (V)
+	  - Livre des procédures fiscales - art. L255 A (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L421-3 (M)
+	  - Code de l'urbanisme - art. L422-2 (M)
 	  - Code de l'urbanisme - art. L430-4-1 (Ab)
 	  - Code de l'urbanisme - art. L430-4-2 (M)
 
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L422-4
+
+Les constructions ou travaux effectués sur les immeubles inscrits à l'inventaire supplémentaire des monuments historiques ne
+peuvent être exemptés du permis de construire en application de l'article L. 422-1.
+
+Pour les immeubles classés, la déclaration prévue à l'article L. 422-2 ne tient pas lieu de la demande d'autorisation
+mentionnée à l'article 9 de la loi du 31 décembre 1913 sur les monuments historiques.
+
+Les dispositions de l'article L. 422-3 ne sont pas applicables aux immeubles classés.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L421-1 (M)
+	  - Code de l'urbanisme - art. R*422-12 (Ab)
+	  - Code du patrimoine. - art. L621-10 (Ab)
+	  - Code du patrimoine. - art. L621-28 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L422-1 (M)
+	  - Code de l'urbanisme - art. L422-2 (M)
+	  - Loi n°1913-12-31 art. 9
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Créé par**:
+
+	  - Loi n°86-13 du 6 janvier 1986 - art. 4 () JORF 7 janvier 1986
+
+
+###### Article L422-5
+
+Les dispositions des articles L. 430-4-1 et L. 430-4-2 sont applicables aux travaux, installations et constructions visés aux
+articles L. 422-1 à L. 422-4.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Créé par**:
+
+	  - Loi n°86-13 du 6 janvier 1986 - art. 4 () JORF 7 janvier 1986
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L421-1 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L430-4-1 (Ab)
+	  - Code de l'urbanisme - art. L430-4-2 (M)
 
 
 #### Chapitre III : Permis de construire à titre précaire.
@@ -15043,71 +15238,103 @@ délai, l'administration pourra procéder aux frais du contrevenant à l'exécut
 
 ### TITRE IV : Dispositions relatives aux modes particuliers d'utilisation du sol
 
-###### Article L441-4
+#### CHAPITRE I : Clôtures.
 
-L'autorisation d'édifier une clôture est délivrée dans les formes, conditions et délais déterminés par décret en Conseil
-d'Etat :
+###### Article L441-1
 
-a) Dans les communes où un plan d'occupation des sols a été approuvé, au nom de la commune ou de l'établissement public de
-coopération intercommunale ou de l'Etat, selon les cas et modalités prévus aux articles L. 421-2-1 à L. 421-2-8 ; les
-dispositions de l'article L. 421-9 sont alors applicables ;
+Les dispositions du présent chapitre sont applicables :
 
-b) Dans les autres communes, au nom de l'Etat.
+a) Dans les communes dotées d'un plan d'occupation des sols rendu public ou approuvé ;
+
+b) Dans les périmètres sensibles institués en application de l'article L. 142-1 dans sa rédaction antérieure à la loi n°
+85-729 du 18 juillet 1985 ou dans les zones délimitées en application des articles L. 142-3 et L. 142-11 dans leur rédaction
+issue de ladite loi ;
+
+c) Dans les zones d'environnement protégé instituées en application de l'article L. 143-1 dans sa rédaction antérieure à la
+loi n° 83-8 du 7 janvier 1983 ;
+
+d) Dans les communes figurant sur la liste dressée à cet effet par décision de l'autorité administrative.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Loi n°85-729 1985-07-18 Loi 85-8 1983-01-07
+	  - Code de l'urbanisme - art. L142-1 (M)
+	  - Code de l'urbanisme - art. L142-11 (M)
+	  - Code de l'urbanisme - art. L142-3 (M)
+	  - Code de l'urbanisme - art. L143-1 (M)
+
 	**Modifié par**:
-
-	  - Loi n°83-663 du 22 juillet 1983 - art. 105 () JORF 23 JUILLET 1983
-
-	**Abrogé par**:
 
 	  - Loi n°86-13 du 6 janvier 1986 - art. 6 () JORF 7 janvier 1986
 
 	**Cité par**:
 
-	  - Décret n°2017-252 du 27 février 2017 (V)
-	  - Code de l'urbanisme - art. R*445-2 (T)
-	  - Code de l'urbanisme - art. R*446-2 (Ab)
-	  - Code de l'urbanisme - art. R. 441-4-2 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L421-9 (M)
-	  - Code de l'urbanisme L421-2-1 à L421-2-8, L421-9
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-
-###### Article L441-5
-
-Lorsque les clôtures visées à l'article L. 441-2 sont soumises   , par des dispositions législatives ou réglementaires, en
-raison de leur emplacement ou de leur utilisation, à un régime d'autorisation ou à des prescriptions autres que ceux
-résultant du présent chapitre, l'autorisation d'édifier une clôture est délivrée avec l'accord des services ou autorités
-concernés et vaut autorisation au titre de ces législations ou réglementations.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
 	  - Code de l'urbanisme - art. L441-2 (M)
+	  - Code de l'urbanisme - art. L441-3 (V)
+	  - Code de l'urbanisme - art. L740-1 (VT)
+	  - Code de l'urbanisme - art. R*441-1 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L441-2 (M)
 
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
-	**Créé par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985
+###### Article L441-2
 
-	**Abrogé par**:
+Dans les parties du territoire ou zones visées à l'article L. 441-1, l'édification des clôtures est subordonnée à une
+déclaration préalable dans les conditions prévues à l'article L. 422-2.
+
+Toutefois, l'édification des clôtures habituellement nécessaires à l'activité agricole ou forestière n'est pas soumise à la
+déclaration prévue à l'alinéa 1er du présent article.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L441-1 (V)
+
+	**Modifié par**:
 
 	  - Loi n°86-13 du 6 janvier 1986 - art. 6 () JORF 7 janvier 1986
 
+	**Cite**:
 
-#### CHAPITRE I : Clôtures.
+	  - Code de l'urbanisme - art. L441-1 (M)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L441-4 (M)
+	  - Code de l'urbanisme - art. L441-5 (Ab)
+	  - Code de l'urbanisme - art. R*441-11 (Ab)
+	  - Code de l'urbanisme - art. R*441-12 (Ab)
+	  - Code de l'urbanisme - art. R*441-13 (Ab)
+	  - Code de l'urbanisme - art. R*441-2 (M)
+	  - Code de l'urbanisme - art. R*441-3 (M)
+	  - Code de l'urbanisme - art. R442-6 (M)
+	  - Code général des collectivités territoriales - art. R1614-18 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
 
 ###### Article L441-3
 
@@ -15360,49 +15587,6 @@ révision de ce plan.
 	**Créé par**:
 
 	  - Loi n°85-30 du 9 janvier 1985 - art. 49 () JORF 10 janvier 1985
-
-
-### TITRE IV : dispositions relatives aux modes particuliers            d'utilisation du sol.&lt;F&gt; CHAPITRE I : Autorisations de clôture.
-
-###### Article L441-1
-
-Les dispositions du présent chapitre sont applicables :[*champ    d'application*]    a) Dans les communes dotées d'un plan
-d'occupation des sols rendu public ou approuvé ;
-
-b) Dans les périmètres sensibles institués en application de l'article L. 142-1 dans sa rédaction antérieure à la loi n°
-85-729 du 18 juillet 1985 ou dans les zones délimitées en application des articles L. 142-3 et L. 142-11 dans leur rédaction
-issue de ladite loi ;    c) Dans les zones d'environnement protégé instituées en application de l'article L. 143-1 dans sa
-rédaction antérieure à la loi n° 83-8 du 7 janvier 1983 ;    d) Dans les communes figurant sur la liste dressée à cet effet
-par décision de l'autorité administrative.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°85-729 1985-07-18 Loi 85-8 1983-01-07
-	  - Code de l'urbanisme - art. L142-1 (M)
-	  - Code de l'urbanisme - art. L142-11 (M)
-	  - Code de l'urbanisme - art. L142-3 (M)
-	  - Code de l'urbanisme - art. L143-1 (M)
-
-	**Modifié par**:
-
-	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1983
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. L441-2 (M)
-	  - Code de l'urbanisme - art. L441-3 (V)
-	  - Code de l'urbanisme - art. L740-1 (VT)
-	  - Code de l'urbanisme - art. R*441-1 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L441-2 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 ### TITRE V :Dispositions diverses
@@ -15999,14 +16183,11 @@ deux peines seulement, sont prononcés par le tribunal contre les personnes vis�
 
 L'exécution de travaux ou l'utilisation du sol en méconnaissance des obligations imposées par les titres Ier, II, III, IV et
 VI du présent livre, par les règlements pris pour son application ou par les autorisations délivrées en conformité avec leurs
-dispositions, exception faite des infractions relatives à l'affichage des permis de construire, est punie d'une amende /M/de
-1.500 à 300.000 F. En cas de récidive, la peine d'amende sera de 3.000 F à 500.000 F et un emprisonnement de un mois à six
-mois pourra en outre être prononcé./M/LOI  1285 ART. 47 :
-
-comprise entre 2.000 F et un montant qui ne peut excéder soit, dans le cas de construction d'une surface de plancher, une
-somme égale à 10.000 F par mètre carré de la construction ou de la partie de la construction réalisée en infraction, soit,
-dans le cas contraire, un montant de 500.000 F. En cas de récidive, outre la peine d'amende ainsi définie un emprisonnement
-de un mois à six mois pourra être prononcé//.
+dispositions, exception faite des infractions relatives à l'affichage des autorisations ou déclarations concernant des
+travaux, constructions ou installations, est punie d'une amende comprise entre 2.000 F et un montant qui ne peut excéder
+soit, dans le cas de construction d'une surface de plancher, une somme égale à 10.000 F par mètre carré de la construction ou
+de la partie de la construction réalisée en infraction, soit, dans le cas contraire, un montant de 500.000 F. En cas de
+récidive, outre la peine d'amende ainsi définie un emprisonnement de un mois à six mois pourra être prononcé.
 
 Les peines prévues à l'alinéa précédent peuvent être prononcées contre les utilisateurs du sol, les bénéficiaires des
 travaux, les architectes, les entrepreneurs ou autres personnes responsables de l'exécution desdits travaux.
@@ -16055,6 +16236,10 @@ délais impartis pour le rétablissement des lieux dans leur état antérieur ou
 	  - Code du travail - art. L4744-1 (VD)
 	  - Loi n°1930-05-02 du 2 mai 1930 - art. 21 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°86-13 du 6 janvier 1986 - art. 7 () JORF 7 janvier 1986
+
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L480-1 (M)
@@ -16068,6 +16253,61 @@ délais impartis pour le rétablissement des lieux dans leur état antérieur ou
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L480-5
+
+En cas de condamnation pour une infraction prévue aux articles L. 160-1 et L. 480-4, le tribunal, au vu des observations
+écrites ou après audition du maire ou du fonctionnaire compétent, statue même en l'absence d'avis en ce sens de ces derniers,
+soit sur la mise en conformité des lieux ou celle des ouvrages avec les règlements, l'autorisation ou la déclaration en
+tenant lieu, soit sur la démolition des ouvrages ou la réaffectation du sol en vue du rétablissement des lieux dans leur état
+antérieur.
+
+Le tribunal pourra ordonner la publication de tout ou partie du jugement de condamnation, aux frais du délinquant, dans deux
+journaux régionaux ou locaux diffusés dans tout le département, ainsi que son affichage dans les lieux qu'il indiquera.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°86-13 du 6 janvier 1986 - art. 6 () JORF 7 janvier 1986
+
+	**Cité par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 77
+	  - Code de l'environnement - art. L331-28 (VD)
+	  - Code de l'environnement - art. L332-27 (VD)
+	  - Code de l'environnement - art. L341-19 (VT)
+	  - Code de l'environnement - art. L515-24 (V)
+	  - Code de l'environnement - art. L562-5 (V)
+	  - Code de l'urbanisme - art. L160-1 (M)
+	  - Code de l'urbanisme - art. L470-1 (Ab)
+	  - Code de l'urbanisme - art. L480-10 (Ab)
+	  - Code de l'urbanisme - art. L480-6 (V)
+	  - Code de l'urbanisme - art. L740-6 (VT)
+	  - Code de l'urbanisme - art. R480-4 (V)
+	  - Code du patrimoine - art. L624-3 (V)
+	  - Code du patrimoine - art. L630-1 (Ab)
+	  - Code du patrimoine - art. L641-1 (VD)
+	  - Code du travail - art. L263-8 (AbD)
+	  - Code du travail - art. L4744-1 (VD)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L480-4 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L480-4 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L480-6 (M)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme 104
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 ###### Article L480-6
