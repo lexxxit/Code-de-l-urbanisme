@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2002-01-15
+Version Consolidée au 2002-01-23
 
 # Partie législative
 
@@ -1756,28 +1756,24 @@ de 15 000 habitants.
 
 Pour l'application du présent article, les schémas d'aménagement régionaux prévus par la loi n° 84-747 du 2 août 1984
 relative aux compétences des régions de Guadeloupe, de Guyane, de Martinique et de la Réunion, le schéma directeur de la
-région d'Ile-de-France prévu par l'article L. 141-1 et le schéma d'aménagement de la Corse prévu par l'article L. 144-1 ont
-valeur de schéma de cohérence territoriale.
-
-Les dispositions du présent article sont applicables à compter du 1er janvier 2002.
+région d'Ile-de-France prévu par l'article L. 141-1 et le plan d'aménagement et de développement durable de Corse prévu à
+l'article L. 4424-9 du code général  des collectivités territoriales et, jusqu'à l'approbation de celui-ci, le schéma
+d'aménagement de la Corse maintenu en vigueur par l'article 13 de la loi n° 2002-92 du 22 janvier 2002 relative à la Corse
+ont valeur de schéma de cohérence territoriale.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°84-747 1984-08-02
+	  - Loi n°2002-92 2002-01-22 art. 13
+	  - Code général des collectivités territoriales - art. L4424-9 (T)
 	  - Code de l'urbanisme - art. L122-4 (M)
 	  - Code de l'urbanisme - art. L141-1 (M)
-	  - Code de l'urbanisme - art. L144-1 (M)
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 3 () JORF 14 décembre 2000 en vigueur le 1er avril 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2000-1208 du 13 décembre 2000 - art. 43 (V)
-	  - SPEC_APPLI: Décret n°2001-260 du 27 mars 2001 - art. 6 (V)
+	  - Loi n°2002-92 du 22 janvier 2002 - art. 13 () JORF 23 janvier 2002
 
 	**Cité par**:
 
@@ -1789,6 +1785,10 @@ Les dispositions du présent article sont applicables à compter du 1er janvier 
 	  - Code de l'urbanisme - art. L122-6 (M)
 	  - Code de l'urbanisme - art. R122-28 (Ab)
 	  - Code du patrimoine. - art. L630-1 (VT)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Conseil constitutionnel DC 2002-01-17
 
 	**Codifié par**:
 
@@ -4463,299 +4463,6 @@ Des décrets en Conseil d'Etat fixeront, en tant que de besoin, les modalités d
 
 
 ### TITRE IV : Dispositions particulières à certaines parties du territoire
-
-#### CHAPITRE IV : Dispositions particulières à la collectivité territoriale de Corse.
-
-###### Article L144-1
-
-Dans le cadre des orientations définies par le plan de développement, la collectivité territoriale de Corse établit un schéma
-d'aménagement qui définit les orientations fondamentales en matière d'aménagement de l'espace, de protection et de mise en
-valeur de son territoire.
-
-Le schéma détermine, en outre, l'implantation des grands équipements d'infrastructure et les principes de localisation des
-activités industrielles, artisanales, agricoles et touristiques ainsi que des extensions urbaines.
-
-Ce schéma est établit par la collectivité territoriale de Corse dans les conditions définies ci-après.
-
-La collectivité territoriale de Corse bénéficie, pour l'établissement de ce schéma, dans les conditions fixées par décret en
-Conseil d'Etat, du concours particulier créé au sein de la dotation générale de décentralisation en application du septième
-alinéa de l'article 95 de la loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les
-départements, les régions et l'Etat.
-
-**Nota:**
-
-Loi 2002-92 2002-01-22 art. 13 I : Les articles L. 144-1 à L. 144-6 du code de l'urbanisme sont abrogés. Toutefois, le schéma
-d'aménagement de la Corse et le plan de développement applicables à la date de publication de la présente loi restent en
-vigueur jusqu'à l'approbation du plan d'aménagement et de développement durable de Corse.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. L122-2 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Cite**:
-
-	  - Loi n°83-8 1983-01-07 art. 95
-
-	**Modifié par**:
-
-	  - Loi n°91-428 1991-05-14 art. 59 JORF 14 mai 1991
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°91-428 1991-05-14 art. 87 JORF 14 mai 1991
-
-	**Abrogé par**:
-
-	  - Loi n°2002-92 du 22 janvier 2002 - art. 13 () JORF 23 janvier 2002
-
-
-###### Article L144-2
-
-Le schéma d'aménagement de la Corse doit respecter :
-
-1° Les règles générales d'aménagement et d'urbanisme à caractère obligatoire prévues au livre Ier, ainsi que les
-prescriptions prévues aux articles  L. 111-1-1 à L. 112-13 du code rural.
-
-2° Les servitudes d'utilité publique affectant l'utilisation du sol et les dispositions nécessaires à la mise en oeuvre
-d'opérations d'intérêt national ;
-
-3° La législation en matière de protection des sites et des paysages ainsi qu'en matière de protection des monuments classés
-ou inscrits.
-
-Le schéma d'aménagement de la Corse prend en compte les programmes de l'Etat et harmonise ceux des collectivités locales et
-de leurs établissements et services publics.
-
-Le schéma d'aménagement de la Corse vaut schéma de mise en valeur de la mer, tel qu'il est défini par l'article 57 de la loi
-n° 83-8 du 7 janvier 1983 précitée, notamment en ce qui concerne les orientations fondamentales de la protection, de
-l'aménagement et de l'exploitation du littoral. Les dispositions correspondantes sont regroupées dans un chapitre
-individualisé au sein du schéma d'aménagement. Ces dispositions doivent avoir recueilli l'accord du représentant de l'Etat
-préalablement à la mise à disposition du public de l'ensemble du projet de schéma d'aménagement.
-
-**Nota:**
-
-Loi 2002-92 2002-01-22 art. 13 I : Les articles L. 144-1 à L. 144-6 du code de l'urbanisme sont abrogés. Toutefois, le schéma
-d'aménagement de la Corse et le plan de développement applicables à la date de publication de la présente loi restent en
-vigueur jusqu'à l'approbation du plan d'aménagement et de développement durable de Corse.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°83-8 1983-01-07 art. 57
-	  - Code rural L111-1-1 à L112-13
-
-	**Modifié par**:
-
-	  - Loi n°95-115 du 4 février 1995 - art. 5 () JORF 5 février 1995
-
-	**Abrogé par**:
-
-	  - Loi n°2002-92 du 22 janvier 2002 - art. 13 () JORF 23 janvier 2002
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. L144-1 (M)
-	  - Code de l'urbanisme - art. L144-4 (Ab)
-	  - Code de l'urbanisme - art. R*144-2 (Ab)
-	  - Code de l'urbanisme - art. R*144-6 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°91-428 1991-05-14 art. 87 JORF 14 mai 1991
-
-
-###### Article L144-3
-
-Le schéma d'aménagement de la Corse est élaboré par le conseil exécutif et adopté par l'Assemblée de Corse.
-
-Des représentants des départements et des communes et le représentant de l'Etat dans la collectivité territoriale de Corse
-sont associés à son élaboration. Les chambres d'agriculture, les chambres de commerce et d'industrie et les chambres de
-métiers sont également associées à son élaboration. Elles assurent les liaisons avec les organisations professionnelles
-intéressées.
-
-Le schéma d'aménagement est soumis pour avis au conseil des sites de la Corse prévu à l'article L. 144-6.
-
-Avant son adoption par l'Assemblée, le projet de schéma d'aménagement de la Corse, assorti de l'avis du conseil économique,
-social et culturel de Corse, est mis à la disposition du public pendant deux mois.
-
-Le schéma d'aménagement de la Corse est approuvé par décret en Conseil d'Etat.
-
-**Nota:**
-
-Loi 2002-92 2002-01-22 art. 13 I : Les articles L. 144-1 à L. 144-6 du code de l'urbanisme sont abrogés. Toutefois, le schéma
-d'aménagement de la Corse et le plan de développement applicables à la date de publication de la présente loi restent en
-vigueur jusqu'à l'approbation du plan d'aménagement et de développement durable de Corse.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. L144-1 (M)
-	  - Code de l'urbanisme - art. R*144-12 (M)
-	  - Code de l'urbanisme - art. R*144-5 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L144-6 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Modifié par**:
-
-	  - Loi n°91-428 1991-05-14 art. 59 JORF 14 mai 1991
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°91-428 1991-05-14 art. 87 JORF 14 mai 1991
-
-	**Abrogé par**:
-
-	  - Loi n°2002-92 du 22 janvier 2002 - art. 13 () JORF 23 janvier 2002
-
-
-###### Article L144-4
-
-La collectivité territoriale de Corse procède aux modifications du schéma d'aménagement de la Corse demandées par le
-représentant de l'Etat pour assurer sa conformité aux règles prévues à l'article L. 144-2. Toutefois, des adaptations
-législatives ou réglementaires pour la collectivité territoriale de Corse pourront être apportées au code de l'urbanisme dans
-le cadre de la procédure prévue à l'article 26 de la loi n° 91-428 du 13 mai 1991 portant statut de la collectivité
-territoriale de Corse. Si la procédure de révision n'a pas abouti dans un délai de six mois à compter de la demande adressée
-au président du conseil exécutif, il y est procédé par décret en Conseil d'Etat.
-
-En cas d'urgence constatée par décret en conseil des ministres, il y est procédé sans délai.
-
-**Nota:**
-
-Loi 2002-92 2002-01-22 art. 13 I : Les articles L. 144-1 à L. 144-6 du code de l'urbanisme sont abrogés. Toutefois, le schéma
-d'aménagement de la Corse et le plan de développement applicables à la date de publication de la présente loi restent en
-vigueur jusqu'à l'approbation du plan d'aménagement et de développement durable de Corse.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. L144-1 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L144-2 (M)
-	  - Loi n°91-428 1991-05-13 art. 26
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Modifié par**:
-
-	  - Loi n°91-428 1991-05-14 art. 59 JORF 14 mai 1991
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°91-428 1991-05-14 art. 87 JORF 14 mai 1991
-
-	**Abrogé par**:
-
-	  - Loi n°2002-92 du 22 janvier 2002 - art. 13 () JORF 23 janvier 2002
-
-
-###### Article L144-5
-
-Le schéma d'aménagement de la Corse a les mêmes effets que les directives territoriales d'aménagement définies en application
-de l'article L. 111-1-1.
-
-Les schémas de cohérence territoriale, les plans locaux d'urbanisme, les plans de sauvegarde et de mise en valeur et les
-cartes communales.
-
-**Nota:**
-
-Loi 2002-92 2002-01-22 art. 13 I : Les articles L. 144-1 à L. 144-6 du code de l'urbanisme sont abrogés. Toutefois, le schéma
-d'aménagement de la Corse et le plan de développement applicables à la date de publication de la présente loi restent en
-vigueur jusqu'à l'approbation du plan d'aménagement et de développement durable de Corse.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L111-1-1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°91-428 1991-05-14 art. 87
-
-	**Modifié par**:
-
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
-
-	**Abrogé par**:
-
-	  - Loi n°2002-92 du 22 janvier 2002 - art. 13 () JORF 23 janvier 2002
-
-
-###### Article L144-6
-
-Il est créé un conseil des sites de la Corse, qui se substitue à la commission régionale du patrimoine et des sites prévue à
-l'article 1er de la loi n° 97-179 du 28 février 1997, à la commission spécialisée des unités touristiques nouvelles prévue
-par l'article 7 de la loi n° 85-30 du 9 janvier 1985 relative au développement et à la protection de la montagne et à la
-commission départementale des sites prévue par les articles L. 146-4, L. 146-6 et L. 146-7.
-
-Le conseil des sites de Corse exerce les attributions des organismes susmentionnés.
-
-La composition du conseil des sites de Corse, qui comporte des représentants de la collectivité territoriale de Corse et des
-départements de Corse, est fixée par décret après avis de l'Assemblée de Corse et des conseils généraux des départements de
-Corse.
-
-**Nota:**
-
-Loi 2002-92 2002-01-22 art. 13 I : Les articles L. 144-1 à L. 144-6 du code de l'urbanisme sont abrogés. Toutefois, le schéma
-d'aménagement de la Corse et le plan de développement applicables à la date de publication de la présente loi restent en
-vigueur jusqu'à l'approbation du plan d'aménagement et de développement durable de Corse.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°85-30 1985-01-09 art. 7
-	  - Code de l'urbanisme - art. L146-4 (M)
-	  - Code de l'urbanisme - art. L146-6 (M)
-	  - Code de l'urbanisme - art. L146-7 (M)
-	  - Loi n°97-179 du 28 février 1997 - art. 1 (M)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. L144-3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°91-428 1991-05-14 art. 87 JORF 14 mai 1991
-
-	**Modifié par**:
-
-	  - Loi n°97-179 du 28 février 1997 - art. 5 () JORF 1er mars 1997
-
-	**Abrogé par**:
-
-	  - Loi n°2002-92 du 22 janvier 2002 - art. 13 () JORF 23 janvier 2002
-
 
 #### CHAPITRE V : Dispositions particulières aux zones de montagne.
 
