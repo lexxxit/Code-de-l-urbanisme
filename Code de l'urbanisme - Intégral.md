@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1983-07-23
+Version Consolidée au 1983-07-24
 
 # Partie législative
 
@@ -19624,6 +19624,45 @@ un schéma directeur portant sur l'ensemble de la région parisienne, des schém
 	  - Code de l'urbanisme - art. R300-17 (V)
 
 
+#### Dispositions applicables à Paris, dans la région parisienne, à Marseille, à Lyon et aux communes issues d'une fusion comportant une ou plusieurs communes associées
+
+##### Schéma directeur
+
+###### Article R*141-2
+
+Le schéma directeur de la région parisienne visé à l'article L. 141-1 est établi sous la responsabilité du préfet de la
+région parisienne avec la participation de représentants du conseil d'administration du district, du comité consultatif
+économique et social et des préfets des départements ; la procédure d'établissement de ce schéma est conduite par le chef du
+service régional de l'équipement, avec le concours des chefs des services de l'Etat [*élaboration*].
+
+Il est approuvé par décret ou par décret en Conseil d'Etat lorsqu'un ou plusieurs conseils généraux, représentant un quart au
+moins de la population totale du territoire concerné, ou le conseil d'administration du district font connaître leur avis
+défavorable.
+
+Ces décrets sont pris sur le rapport des ministres énumérés au A de l'article R. 122-14, après avis du conseil de Paris, des
+conseils généraux, du conseil d'administration du district de la région parisienne et consultation du comité d'aménagement de
+la région parisienne, ainsi qu'il est dit à l'article R. 613-2.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L141-1 (M)
+	  - Code de l'urbanisme R122-14
+
+	**Anciens textes**:
+
+	  - Décret n°69-551 1969-05-28 ART. 22
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°83-666 1983-07-22 ART. 1 JORF 24 JUILLET 1983
+
+
 ###### Article R*141-3
 
 Les schémas directeurs et les schémas de secteur doivent être compatibles avec le schéma directeur de la région parisienne.
@@ -19655,7 +19694,7 @@ concernés par l'établissement d'un schéma directeur. Les listes et les modifi
 communiquées aux maires des communes intéressées et publiées dans deux journaux diffusés dans le département [*publicité*] ;
 
 Lorsque les conseils municipaux ou les organes délibérants visés à l'article R. 122-13 ainsi que le conseil d'administration
-du district ont émis leur avis, le préfet de la région parisienne soumet les projets de schémas directeurs et de schémas de
+du district ont émis leur avis, le préfet de la région parisienne soumet les projets de schémas directeurs et de schémas du
 secteur à l'approbation des autorités compétentes.
 
 **Liens relatifs à cet article**
@@ -19674,7 +19713,7 @@ secteur à l'approbation des autorités compétentes.
 
 	**Modifié par**:
 
-	  - Loi n°83-8 du 7 janvier 1983 - art. 75 () JORF 9 JANVIER 1983
+	  - Décret n°83-666 1983-07-22 ART. 1 JORF 24 JUILLET 1983
 
 
 ###### Article R*141-4
@@ -19699,19 +19738,23 @@ assemblées délibérantes des communes ou groupements de communes intéressés.
 
 	  - Décret n°73-1023 1973-11-08
 
+	**Modifié par**:
 
-##### Plans d'occupation des sols.
+	  - Décret n°83-666 1983-07-22 ART. 1 JORF 24 JUILLET 1983
+
+
+##### Plans d'occupation des sols
 
 ###### Article R*141-5
 
 L'élaboration conjointe du ou des plans d'occupation des sols de Paris prévue à l'article R. 123-4 s'effectue au sein des
-services et des organismes placés sous l'autorité du préfet de Paris avec la participation de représentants du conseil de
+services et des organismes placés sous l'autorité du préfet de Paris avec la participation des représentants du conseil de
 Paris et avec le concours des services publics intéressés.
 
 Le projet de plan est communiqué par le préfet à ceux des services publics qui ne sont pas représentés au sein du groupe de
 travail constitué en application du précédent alinéa et qu'il y a lieu de consulter sur le projet. Faute de réponse dans les
-deux mois [*délai*] du jour où ils ont été saisis, leur avis [*tacite*] est réputé favorable. L'ensemble des avis ainsi
-recueillis est soumis au groupe de travail.
+deux mois [*délai*] du jour où ils ont été saisis, leur avis est réputé favorable. L'ensemble des avis ainsi recueillis est
+soumis au groupe de travail.
 
 Il est procédé à la consultation du conseil de Paris dans les conditions prévues à l'article R. 123-6 et, le cas échéant, à
 celle du comité d'aménagement de la région parisienne ainsi qu'il est dit à l'article R. 613-2.
@@ -19720,7 +19763,7 @@ celle du comité d'aménagement de la région parisienne ainsi qu'il est dit à 
 
 	**Anciens textes**:
 
-	  - Décret n°70-1016 1970-10-28 ART. 4-II ET 5
+	  - Décret n°70-1016 1970-10-28 ART. 4 II ET ART. 5
 
 	**Codifié par**:
 
@@ -19728,12 +19771,11 @@ celle du comité d'aménagement de la région parisienne ainsi qu'il est dit à 
 
 	**Modifié par**:
 
-	  - Décret n°81-534 1981-05-12 ART. 22 JORF 15 MAI 1981 date d'entrée en vigueur ART. 38 MODIFIE 1 JUILLET 1982
-	  - Décret n°82-584 1982-06-29 ART. 1 JORF 7 JUILLET 1982
+	  - Décret n°83-666 1983-07-22 ART. 1 JORF 24 JUILLET 1983
 
 	**Cite**:
 
-	  - Code de l'urbanisme R123-6
+	  - Code de l'urbanisme R613-2
 
 
 ###### Article R*141-6
@@ -19741,15 +19783,10 @@ celle du comité d'aménagement de la région parisienne ainsi qu'il est dit à 
 Dans la région parisienne, telle qu'elle est définie à l'article 1er de la loi n. 64-707 du 10 juillet 1964, le préfet de la
 région parisienne rend publics et approuve les plans d'occupation des sols ayant un caractère intercommunal.
 
-Toutefois, en cas d'opposition d'une ou plusieurs communes ou d'un établissement public [*syndicat de communes, district
-urbain, communauté urbaine*] ayant compétence en matière d'urbanisme, l'approbation est prononcée comme il est dit à
-l'article L. 123-3 (6è alinéa) [*décret en conseil d'Etat*].
+Toutefois, en cas d'opposition d'une ou plusieurs communes ou d'un établissement public ayant compétence en matière
+d'urbanisme l'approbation est prononcée comme il est dit à l'article L. 123-3 (6ème alinéa) [*décret en conseil d'Etat*].
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 	**Cite**:
 
@@ -19760,9 +19797,17 @@ l'article L. 123-3 (6è alinéa) [*décret en conseil d'Etat*].
 
 	  - Décret n°70-1016 1970-10-28 ART. 12
 
+	**Modifié par**:
+
+	  - Décret n°83-666 1983-07-22 ART. 1 JORF 24 JUILLET 1983
+
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*141-5 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*141-7
@@ -19774,57 +19819,129 @@ de l'aviation civile.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code de l'aviation civile R254-1 AL. 1
-
-	**Anciens textes**:
-
-	  - Code de l'aviation civile R254-1 AL. 1
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-#### Dispositions particulières à Paris et à Région Parisienne
-
-##### Schéma directeur.
-
-###### Article R*141-2
-
-Le schéma directeur de la région parisienne visé à l'article L. 141-1 est établi sous la responsabilité du préfet de la
-région parisienne avec la participation de représentants du conseil d'administration du district, du comité consultatif
-économique et social et des préfets des départements ; la procédure d'établissement de ce schéma est conduite par le chef du
-service régional de l'équipement, avec le concours des chefs des services de l'Etat.
-
-Il est approuvé par décret ou par décret en Conseil d'Etat lorsqu'un ou plusieurs conseils généraux, représentant un quart au
-moins de la population totale du territoire concerné, ou le conseil d'administration du district font connaître leur avis
-défavorable.
-
-Ces décrets sont pris sur le rapport des ministres énumérés au A de l'article R. 122-14, après avis du conseil de Paris, des
-conseils généraux, du conseil d'administration du district de la région parisienne et consultation du comité d'aménagement de
-la région parisienne, ainsi qu'il est dit à l'article R. 613-2.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-551 1969-05-28 ART. 22
-
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
 	**Modifié par**:
 
-	  - Décret n°81-534 1981-05-12 ART. 22 JORF 15 MAI 1981 date d'entrée en vigueur ART. 38 MODIFIE 1 JUILLET 1982
-	  - Décret n°82-584 1982-06-29 ART. 1 JORF 7 JUILLET 1982
+	  - Décret n°83-666 1983-07-22 ART. 1 JORF 24 JUILLET 1983
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L141-1 (M)
-	  - Code de l'urbanisme R613-2
+	  - Code de l'aviation civile R254-1 AL. 1
+
+	**Anciens textes**:
+
+	  - Code de l'aviation civile R254-1 AL. 1
+
+
+###### Article R*141-8
+
+Lorsqu'il y a lieu, par application des dispositions des articles 9 et 66 de la loi du 31 décembre 1982 susvisée, à la
+consultation des conseils d'arrondissement des communes de Paris, Marseille et Lyon ou des conseils consultatifs ou
+commissions consultatives existant dans les communes issues d'une fusion, lors de l'établissement, de la révision ou de la
+modification du plan d'occupation des sols, il est procédé à cette consultation dans les conditions prévues aux articles ci-
+après pour les conseils d'arrondissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°83-666 1983-07-22 ART. 2 JORF 24 JUILLET 1983
+
+	**Cite**:
+
+	  - Code de l'urbanisme R141-9, R141-10, R141-11 ET R141-12
+	  - Loi n°82-1169 1982-12-22 ART. 9 ET ART. 66
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°82-1169 1982-12-22 ART. 9 ET ART. 66
+
+
+###### Article R*141-9
+
+Le conseil d'arrondissement est consulté par le maire de la commune, préalablement à toute délibération du conseil municipal
+intervenant dans la procédure d'établissement, de révision ou de modification du plan d'occupation des sols.
+
+Le conseil d'arrondissement est également consulté par le maire de la commune, avant toute délibération du conseil municipal
+intervenant dans les procédures visées à l'alinéa ci-dessus, lorsque cette délibération est prise à la demande d'un
+établissement public de coopération intercommunale ayant compétence en matière de plan d'occupation des sols.
+
+Sont consultés en application des dispositions qui précèdent le ou les conseils d'arrondissement dont le ressort territorial
+est inclus en tout ou partie dans le périmètre du projet de plan d'occupation des sols ou dans le périmètre concerné par la
+modification ou la révision du plan d'occupation des sols.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°83-666 1983-07-22 ART. 2 JORF 24 JUILLET 1983
+
+
+###### Article R*141-10
+
+La demande d'avis [*du conseil d'arrondissement*] est accompagnée des documents au vu desquels le conseil municipal sera
+appelé à délibérer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°83-666 1983-07-22 ART. 2 JORF 24 JUILLET 1983
+
+
+###### Article R*141-11
+
+Le conseil d'arrondissement émet son avis dans le délai fixé par le maire de la commune. Ce délai ne peut être inférieur à
+quinze jours à compter de la saisine du conseil d'arrondissement.
+
+Cet avis est réputé favorable s'il n'intervient pas dans le délai prévu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°83-666 1983-07-22 ART. 2 JORF 24 JUILLET 1983
+
+
+###### Article R*141-12
+
+Dans tous les cas visés à l'article R. 141-9, l'avis du conseil d'arrondissement ou, à défaut, le document justifiant qu'il a
+été saisi dans les délais nécessaires est joint au projet de délibération et est annexé à la délibération du conseil
+municipal. Il est également joint au plan d'occupation des sols soumis à l'enquête publique ou tenu à la disposition du
+public [*publicité*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme R141-9
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°83-666 1983-07-22 ART. 2 JORF 24 JUILLET 1983
 
 
 #### Protection du caractère de certaines départements
@@ -24130,30 +24247,6 @@ dans ce périmètre provisoire, les dispositions des articles /M/R. 211-3, R. 21
 
 ### Dispositions diverses communes aux zones d' intervention foncière, aux zones d'aménagement différé et aux périmètres provisoires des zones d'aménagement différé.
 
-###### Article R*214-1
-
-Les demandes, offres et décisions du bénéficiaire du droit de préemption et des propriétaires, prévues par le présent titre,
-doivent être notifiées par lettre recommandée avec demande d'avis de réception [*condition de forme*] .
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°62-1300 1962-11-07 ART. 16
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°76-277 1976-03-29 ART. 12 ET 13 JORF 30 MARS 1976 date d'entrée en vigueur 1 AVRIL 1976
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*212-3 (M)
-
-
 ###### Article R*214-2
 
 Si un immeuble ou, dans les cas visés à l'article L. 211-2, un ensemble de droits sociaux donnant vocation à l'attribution en
@@ -24196,6 +24289,36 @@ intégral de son prix.
 	**Abrogé par**:
 
 	  - Décret n°86-516 du 14 mars 1986 - art. 5 () JORF 16 mars 1986 en vigueur le    1er juin 1987
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
+
+
+#### Dispositions générales
+
+###### Article R*214-1
+
+Les demandes, offres et décisions du bénéficiaire du droit de préemption et des propriétaires, prévues par le présent titre,
+doivent être notifiées par lettre recommandée avec demande d'avis de réception [*condition de forme*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°62-1300 1962-11-07 ART. 16
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°83-666 1983-07-22 art. 3 JORF 24 juillet 1983
+
+	**Abrogé par**:
+
+	  - Décret n°86-516 du 14 mars 1986 - art. 5 () JORF 16 mars 1986 en vigueur le   1er juin 1987
 
 	**Liens**:
 
@@ -24398,6 +24521,150 @@ relative à la création et à la protection des jardins familiaux.
 	  - Loi n°76-1022 1976-11-10 ART. 1 AL. 2
 	  - Décret n°79-1026 du 30 novembre 1979 - art. 3 (Ab)
 	  - Décret n°79-1026 du 30 novembre 1979 - art. 4 (Ab)
+
+
+## Préemption et réserves foncières
+
+### Droit de préemption
+
+#### Dispositions diverses communes aux zones d'intervention foncière, aux zones d'aménagement différé et aux périmètres provisoires de zones d'aménagement différé
+
+##### Dispositions particulières applicables aux communes de Paris, Marseille et Lyon ainsi qu'aux communes issues d'une fusion comportant une ou plusieurs communes associées.
+
+###### Article R*214-4
+
+Lorsqu'il y a lieu, par application des dispositions des articles 9 et 66 de la loi du 31 décembre 1982 susvisée, à la
+consultation des conseils d'arrondissement des communes de Paris, Marseille et Lyon ou des conseils consultatifs ou
+commissions consultatives existant dans les communes issues d'une fusion, sur la délimitation d'une zone d'aménagement
+différé ainsi que sur la suppression de la zone d'intervention foncière ou la réduction de sa superficie, il est procédé à
+cette consultation dans les conditions prévues aux articles ci-après pour les conseils d'arrondissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Loi n°82-1169 1982-12-31 ART. 9 ET ART. 66
+
+	**Créé par**:
+
+	  - Décret n°83-666 1983-07-22 ART. 4 JORF 24 JUILLET 1983
+
+	**Abrogé par**:
+
+	  - Décret n°86-516 du 14 mars 1986 - art. 5 () JORF 16 mars 1986 en vigueur le   1er juin 1987
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
+
+
+###### Article R*214-5
+
+En cas de création d'une zone d'aménagement différé, de modification de son périmètre, de demande par la commune de la
+fixation d'un périmètre provisoire par le commissaire de la République, ou en cas de réduction ou de suppression d'un
+périmètre de zone d'intervention foncière, le maire de la commune consulte le conseil d'arrondissement avant les
+délibérations du conseil municipal prévues aux articles L. 211-1, R. 211-4, R. 211-5, R. 211-7, L. 212-1, R. 212-2, R. 212-3
+et L. 213-1.
+
+Le conseil d'arrondissement est également consulté par le maire de la commune avant toute délibération du conseil municipal
+portant sur les objets ci-dessus lorsque cette délibération est prise à la demande d'un établissement public de coopération
+intercommunale ayant compétence en matière de zone d'aménagement différé et de zone d'intervention foncière.
+
+Le maire de la commune consulte le ou les conseils d'arrondissement dans le ressort territorial desquels sont prévues ou
+situées en tout ou partie les zones mentionnées au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Loi n°82-1169 1982-12-31 ART. 9 ET ART. 66
+	  - Code de l'urbanisme - art. L211-1 (M)
+	  - Code de l'urbanisme - art. L212-1 (M)
+	  - Code de l'urbanisme - art. R*212-2 (M)
+	  - Code de l'urbanisme - art. R211-4 (M)
+	  - Code de l'urbanisme - art. R211-5 (M)
+	  - Code de l'urbanisme - art. R211-7 (M)
+	  - Code de l'urbanisme L211-1, R211-4, R211-5, R211-7, L212-1, R212-2, R212-3 ET L213-1
+
+	**Créé par**:
+
+	  - Décret n°83-666 1983-07-22 ART. 4 JORF 24 JUILLET 1983
+
+	**Abrogé par**:
+
+	  - Décret n°86-516 du 14 mars 1986 - art. 5 () JORF 16 mars 1986 en vigueur le   1er juin 1987
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
+
+
+###### Article R*214-6
+
+Le conseil d'arrondissement émet son avis dans le délai fixé par le maire de la commune. Ce délai ne peut être inférieur à
+quinze jours à compter de la saisine du conseil d'arrondissement.
+
+Cet avis est réputé favorable s'il n'intervient pas dans le délai prévu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Loi n°82-1169 1982-12-31 ART. 9 ET ART. 66
+
+	**Créé par**:
+
+	  - Décret n°83-666 1983-07-22 ART. 4 JORF 24 JUILLET 1983
+
+	**Abrogé par**:
+
+	  - Décret n°86-516 du 14 mars 1986 - art. 5 () JORF 16 mars 1986 en vigueur le   1er juin 1987
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
+
+
+###### Article R*214-7
+
+La demande d'avis est accompagnée des documents au vu desquels le conseil municipal sera appelé à délibérer.
+
+L'avis du conseil d'arrondissement ou, à défaut, le document justifiant qu'il a été saisi dans les délais nécessaires est
+joint au projet de délibération et annexé à la délibération du conseil municipal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Loi n°82-1169 1982-12-31 ART. 9 ET ART. 66
+
+	**Créé par**:
+
+	  - Décret n°83-666 1983-07-22 ART. 4 JORF 24 JUILLET 1983
+
+	**Abrogé par**:
+
+	  - Décret n°86-516 du 14 mars 1986 - art. 5 () JORF 16 mars 1986 en vigueur le   1er juin 1987
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
 
 
 ## LIVRE II : Préemption
@@ -28012,6 +28279,154 @@ l'unité d'urbanisme et d'architecture dans la zone peuvent être modifiées, su
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+#####  Section 5 : Dispositions applicables aux communes de Paris, Marseille et Lyon ainsi qu'aux communes issues d'une fusion et comportant une ou plusieurs communes associées
+
+###### Article R*318-16
+
+Lorsqu'il y a lieu, par application des dispositions des articles 9 et 66 de la loi du 31 décembre 1982 susvisée, à la
+consultation des conseils d'arrondissement des communes de Paris, Marseille et Lyon ou des conseils consultatifs ou
+commissions consultatives existant dans les communes issues d'une fusion, sur un projet de zone d'habitation, de zone de
+rénovation urbaine, de zone de réhabilitation, de zone industrielle et de zone artisanale, il est procédé à cette
+consultation dans les conditions prévues aux articles ci-après pour les conseils d'arrondissement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°82-1169 1982-12-31 ART. 9 ET ART. 66
+	  - Code de l'urbanisme R318-17, R318-18, R318-19, R318-20, R318-21, R318-22
+
+	**Créé par**:
+
+	  - Décret n°83-666 1983-07-22 art. 5 JORF 24 juillet 1983
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*318-19 (V)
+	  - Code de l'urbanisme - art. R*318-20 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*318-17
+
+Le maire de la commune consulte le ou les conseils d'arrondissement dans le ressort territorial desquels la réalisation de la
+zone est prévue en tout ou partie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°83-666 1983-07-22 art. 5 JORF 24 juillet 1983
+
+
+###### Article R*318-18
+
+Le conseil d'arrondissement est consulté lors de la création et de l'établissement du dossier de réalisation d'une zone
+d'aménagement concertée ainsi que pour l'application anticipée du plan d'aménagement de zone, avant les délibérations du
+conseil municipal respectivement prévues aux articles R. 311-2, R. 311-3, R. 311-3-2, R. 311-3-3, R. 311-11, R. 311-12 et R.
+311-14.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°83-666 1983-07-22 art. 5 JORF 24 juillet 1983
+
+	**Cite**:
+
+	  - Code de l'urbanisme R311-2, R311-3, R311-3-2, R311-3-3, R311-11, R311-12 et R311-14
+
+
+###### Article R*318-19
+
+Lorsqu'une de ces zones mentionnées à l'article R. 318-16 n'est pas créée ou réalisée dans le cadre de la procédure de zone
+d'aménagement concerté, le conseil d'arrondissement est consulté avant toute délibération du conseil municipal sur le projet
+de création ou de réalisation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*318-16 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°83-666 1983-07-22 art. 5 JORF 24 juillet 1983
+
+
+###### Article R*318-20
+
+Le conseil d'arrondissement est également consulté par le maire de la commune avant toute délibération du conseil municipal
+portant sur les objets ci-dessus lorsque cette délibération est prise à la demande d'un établissement public de coopération
+intercommunale ayant compétence pour la création ou la réalisation de zones mentionnées à l'article R. 318-16.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*318-16 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°83-666 1983-07-22 art. 5 JORF 24 juillet 1983
+
+
+###### Article R*318-21
+
+Le conseil d'arrondissement émet son avis dans le délai fixé par le maire de la commune. Ce délai ne peut être inférieur à
+quinze jours à compter de la saisine du conseil d'arrondissement.
+
+Cet avis est réputé favorable s'il n'intervient pas dans le délai prévu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°83-666 1983-07-22 art. 5 JORF 24 juillet 1983
+
+
+###### Article R*318-22
+
+La demande d'avis est accompagnée des documents au vu desquels le conseil municipal sera appelé à délibérer.
+
+L'avis du conseil d'arrondissement ou à défaut le document justifiant qu'il a été saisi dans les délais nécessaires est joint
+au projet de délibération et annexé à la délibération du conseil municipal. Il est également joint au dossier soumis à
+l'enquête publique ou tenu à la disposition du public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°83-666 1983-07-22 art. 5 JORF 24 juillet 1983
 
 
 ### Titre II : Organismes d'exécution
