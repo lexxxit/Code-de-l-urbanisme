@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1974-02-27
+Version Consolidée au 1974-10-27
 
 # Partie législative
 
@@ -10863,6 +10863,36 @@ plans d'occupation des sols.
 	  - Décret n°98-913 du 12 octobre 1998 - art. 41 (V)
 
 
+### Titre III : Espaces boisés
+
+####  Section 3 : Régime des coupes et abattages d'arbres dans les bois, forêts ou parcs situés sur le territoire de communes ou parties de communes où l'établissement d'un plan local d'urbanisme a été prescrit.
+
+###### Article R*130-15
+
+Les dispositions des sections I et III ci-dessus sont applicables aux terrains classés comme espaces boisés par un plan
+d'urbanisme approuvé en application du décret n. 58-1463 du 31 décembre 1958 ou par un projet d'aménagement établi en
+application de la législation antérieure à ce décret.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°58-1463 1958-12-31
+	  - Code de l'urbanisme R130-1 à R130-3, R130-7 à R130-10
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-229 1984-03-29 ART. 8 : Modalités d'application
+
+	**Abrogé par**:
+
+	  - Décret n°84-229 du 29 mars 1984 - art. 5 () JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ### Titre V : Départements d'outre-mer.
 
 ###### Article R150-2
@@ -12641,67 +12671,14 @@ sans qu'il soit besoin de modifier les actes ayant prescrit leur établissement 
 
 ### Espaces boisés
 
-#### Dispositions générales.
+#### Utilisation du sol, défrichements, coupes et abattages d'arbres dans les espaces boisés classés non soumis au régime forestier.
 
-###### Article R130-1
+###### Article R*130-2
 
-Dans les bois, forêts et parcs non soumis au régime forestier, enclos ou non, attenants ou non à des habitations, qui sont
-classés par le plan d'urbanisme approuvé comme espaces boisés à conserver, sont seuls autorisés les travaux qui ne sont pas
-susceptibles de compromettre la sauvegarde de ces espaces boisés.
-
-A cet effet, ces bois, forêts ou parcs sont soumis à un régime d'exploitation normale dans des conditions qui seront
-déterminées par un décret pris sur le rapport du ministre chargé de l'urbanisme et du ministre de l'agriculture.
-
-Le classement de ces bois, forêts et parcs comme espaces boisés à conserver est publié au fichier immobilier, à la diligence
-du préfet. Mention de ce classement doit être faite, sous la responsabilité des vendeurs ou bailleurs, dans les actes portant
-vente ou location.
-
-L'exécution de travaux en violation des dispositions du présent article est punie d'une amende d'un minimum de 100 F et d'un
-maximum égal au maximum des amendes de police. Le préfet peut, pendant une période de trois ans après cette exécution,
-ordonner le rétablissement des lieux en nature de bois. Faute par le propriétaire de faire la plantation ou les semis dans le
-délai prescrit par le préfet, il y est pourvu aux frais du propriétaire par l'administration.
+Le rejet de plein droit de la demande d'autorisation de défrichement prévu à l'alinéa 3 de l'article L. 130-1 du Code de
+l'urbanisme est constaté par arrêté préfectoral.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1468 1958-12-31 ART. 1 ET 2
-
-	**Cité par**:
-
-	  - Code forestier (nouveau) - art. R141-26 (M)
-	  - Code de l'environnement - art. R300-2 (M)
-	  - Code de l'urbanisme - art. R*130-5 (Ab)
-	  - Code de l'urbanisme - art. R*710-1 (Ab)
-	  - Code de l'urbanisme - art. R130-14 (M)
-	  - Code de l'urbanisme - art. R130-3 (M)
-	  - Code de l'urbanisme - art. R142-3 (M)
-	  - Code forestier - art. R412-8 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*130-3 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R142-3 (M)
-	  - PILOTE_SUIVEUR: Code forestier - art. R412-8 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R130-2
-
-Dans le cas où la sauvegarde ou le développement d'un bois, forêt ou parc classé par le plan d'urbanisme comme espaces boisés
-à conserver ou à développer nécessite des travaux de boisement, de reboisement ou la réalisation d'équipements, l'acquisition
-de ce bois, de la forêt ou du parc par voie d'expropriation, à défaut d'accord amiable, peut être déclarée d'utilité
-publique.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1468 1958-12-31 ART. 3
-	  - Code de l'urbanisme - art. R*130-3 (M)
 
 	**Cité par**:
 
@@ -12711,27 +12688,41 @@ publique.
 	  - Code de l'urbanisme - art. R130-3 (M)
 	  - Code de l'urbanisme - art. R142-3 (M)
 
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. R*130-3 (M)
+
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R130-3 (M)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R142-3 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme L130-1 AL. 3
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
 
-###### Article R130-3
+###### Article R*130-3
 
-Les dispositions des articles R. 130-1 et R. 130-2 ne peuvent être modifiées que par décret pris en forme de règlement
-d'administration publique.
+Le propriétaire qui a fait agréer un plan simple de gestion dans les conditions prévues par la loi du 6 août 1963 et le
+décret du 13 avril 1966 peut effectuer sans formalité les coupes et abattages d'arbres prévus audit plan.
+
+S'il désire procéder soit à une coupe extraordinaire au sens de l'article 77 du décret du 13 avril 1966, soit à une
+exploitation soumise au régime spécial d'autorisation administrative institué par les articles 80 et 81 dudit décret,
+l'autorisation qu'il doit obtenir dans l'un et l'autre cas tient lieu de l'autorisation préalable prévue au quatrième alinéa
+de l'article L. 130-1 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°76-629 du 10 juillet 1976 - art. 2 (M)
-	  - Code de l'urbanisme - art. R130-2 (M)
+	  - Loi n°63-810 1963-08-06
+	  - Code de l'urbanisme L130-1 AL. 4
+	  - Décret  1966-04-13 ART. 77, 80 ET 81
 
 	**Cité par**:
 
@@ -12742,62 +12733,71 @@ d'administration publique.
 	**Nouveaux textes**:
 
 	  - Code de l'urbanisme - art. R*130-2 (M)
+	  - Code de l'urbanisme - art. R130-2 (M)
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*130-2 (M)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R130-1 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R130-4 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R142-3 (M)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
 
-#### Modalités d'application.
+#### Régime des coupes et abattages d'arbres dans les bois, forêts ou parcs non soumis au régime forestier et situés sur le territoire de communes ou parties de communes ou l'établissement d'un plan d'occupation des sols a été prescrit.
 
-###### Article R130-4
+###### Article R*130-4
 
-Dans les bois, forêts et parcs non soumis au régime forestier qui sont classés comme espaces boisés à conserver par les plans
-d'urbanisme approuvés, les coupes et abattages d'arbres ne peuvent être effectués que dans les conditions définies aux
-articles ci-après.
+Les dispositions des articles R. 130-1 et /M/R. 130-3 ci-dessus/M/DECR.0754 : R. 130-2// s'appliquent aux coupes et abattages
+d'arbres dans les bois, forêts et parcs situés sur le territoire des communes ou parties de communes où l'établissement d'un
+plan d'occupation des sols a été prescrit mais où ce plan n'est pas encore rendu public.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1059 1959-09-07 ART. 1
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*130-1 (M)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*130-2 (M)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*130-3 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R130-13 (M)
 
 	**Nouveaux textes**:
 
 	  - Code de l'urbanisme - art. R*130-13 (Ab)
+	  - Code de l'urbanisme - art. R130-13 (M)
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*130-13 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R130-2 (M)
+	  - Code de l'urbanisme - art. R130-3 (M)
+	  - Code de l'urbanisme R130-17
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
 
-###### Article R130-5
+###### Article R*130-5
 
-Dans les massifs d'une étendue égale ou supérieure à quatre hectares, [*surface*] le régime d'exploitation normal est fixé
-par un réglement d'exploitation approuvé par le préfet après avis du directeur départemental de l'agriculture. Ce règlement
-définit les coupes qui sont autorisées sans formalité particulière. Toute autre coupe doit faire l'objet d'une autorisation
-préalable du préfet après avis du directeur départemental de l'agriculture.
+Lorsqu'un propriétaire décide de procéder, dans un bois, forêt ou parc, situé sur le territoire d'une commune ou partie de
+commune où l'établissement d'un plan d'occupation des sols a été prescrit mais où ce plan n'a pas été encore rendu public, à
+un défrichement soumis à autorisation administrative en application de l'article 157 du code forestier, la déclaration de
+défrichement vaut aussi demande d'autorisation préalable de coupe au sens du quatrième alinéa de l'article L. 130-1 du
+présent code. L'instruction est engagée conjointement au titre des deux législations.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°59-1059 1959-09-07 ART. 2
+	  - Code forestier 157
+	  - Code de l'urbanisme - art. L130-1 (M)
 
 	**Cité par**:
 
@@ -12814,16 +12814,18 @@ préalable du préfet après avis du directeur départemental de l'agriculture.
 	  - Décret n°73-1023 1973-11-08
 
 
-###### Article R130-6
+###### Article R*130-6
 
-Dans les bois, forêts et parcs de moins de quatre hectares [*surface*], tout abattage d'arbre doit faire l'objet d'une
-déclaration préalable à la mairie.
+Les demandes d'autorisation d'utilisation ou d'occupation du sol portant sur des bois, forêts ou parcs et impliquant coupe ou
+abattage ne sont pas recevables si le dossier les concernant ne comporte pas l'autorisation de coupe ou d'abattage et, le cas
+échéant, de défrichement. Il en est de même des déclarations [*préalables de travaux*] prévues à l'article L. 430-3 du
+présent code [*dispositions applicables aux demandes et déclarations déposées après le 27 octobre 1974*].
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°59-1059 1959-09-07 ART. 3
+	  - Code de l'urbanisme - art. L430-3 (Ab)
 
 	**Nouveaux textes**:
 
@@ -12834,29 +12836,112 @@ déclaration préalable à la mairie.
 	  - Décret n°73-1023 1973-11-08
 
 
-###### Article R130-8
+#### Compensation entre terrains boisés et terrains à bâtir et autorisation de construire sur une partie d'un terrain classé.
 
-Les demandes d'approbation de règlement d'exploitation ainsi que les demandes d'autorisation de coupes dans les massifs d'une
-étendue égale ou supérieure à quatre hectares [*surface*] sont adressées par le propriétaire du fonds au directeur
-départemental de l'agriculture qui en délivre le récépissé.
+###### Article R*130-7
 
-Les demandes de coupes doivent indiquer la situation, la nature et la quotité des coupes.
+L'autorisation prévue au deuxième alinéa de l'article L. 130-2 du code de l'urbanisme est demandée au préfet. La demande est
+accompagnée des pièces justifiant que son auteur a la qualité de propriétaire, d'un plan de situation du terrain classé, d'un
+plan parcellaire de la propriété dans laquelle ce terrain est compris et d'un état des plantations [*contenu*].
 
-La décision du préfet doit être notifiée aux demandeurs ;
+La demande est instruite par le directeur départemental de l'équipement, qui consulte le directeur départemental de
+l'agriculture et le directeur des services fiscaux et établit un rapport relatif notamment à la localisation et à l'étendue
+du terrain à déclasser ainsi qu'à la nature et à l'importance des constructions pouvant être autorisées.
 
-Dans le délai de six mois à dater [*point de départ*] de leur dépôt en ce qui concerne les demandes d'approbation de
-règlement d'exploitation ;
+Sauf s'il apparait que la demande ne peut être accueillie, le préfet saisit du dossier le maire de chacune des communes
+intéressées en vue de la délibération du conseil municipal sur l'accord prévu au troisième alinéa de l'article L. 130-2. Si
+le conseil municipal ne s'est pas prononcé [*silence*] dans les quatre mois [*délai*] de cette saisine, l'accord est réputé
+refusé.
 
-Dans le délai de trois mois en ce qui concerne les demandes d'autorisation de coupes.
-
-Faute d'une décision [*silence*] dans les délais précités, les règlements d'exploitation sont considérés comme approuvés ou
-les coupes autorisées [*tacitement*].
+Sauf en cas de désaccord des communes intéressées, le préfet transmet le dossier, avec son avis et ses propositions, au
+ministre chargé de l'urbanisme.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Nouveaux textes**:
 
-	  - Décret n°59-1059 1959-09-07 ART. 5
+	  - Code de l'urbanisme - art. R*130-16 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme L130-2 AL. 2 ET 3
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*130-9
+
+Au cas où la demande n'est pas accueillie, le préfet en informe le pétitionnaire.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R*130-18 (VT)
+	  - Code de l'urbanisme R130-18
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*130-10
+
+Pour l'application des premier, deuxième et quatrième alinéas de l'article L. 130-2 du code de l'urbanisme, la valeur du
+terrain à bâtir offert en compensation, la valeur du terrain classé cédé gratuitement à la collectivité et le surcroît de
+valeur pris, du fait de l'autorisation de construire, par la partie du terrain conservée par le propriétaire sont fixés
+conformément aux évaluations fournies par le service des domaines qui, en ce qui concerne ce dernier terme, tient compte
+notamment des possibilités de construction.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L130-2 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L130-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R*130-19 (V)
+	  - Code de l'urbanisme R130-19
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+#### Compensations entre terrains boisés et terrains à bâtir et autorisation de construire sur une partie d'un terrain classé.
+
+###### Article R*130-8
+
+Le décret prévu au troisième alinéa de l'article L. 130-2 du code de l'urbanisme désigne la personne publique bénéficiaire de
+la cession gratuite du terrain, approuve les dispositions proposées par celle-ci en vue de préserver le terrain qui lui est
+cédé, de l'aménager et de l'entretenir dans l'intérêt du public, délimite la partie du terrain classé sur laquelle porte
+l'autorisation de construire et prononce le déclassement de cette partie de terrain.//DECRET 1141 : Ce décret tient lieu,
+pour la partie déclassée, de l'autorisation de défrichement prévue à l'article 157 du code forestier//.
+
+Sans préjudice des dispositions de la première partie du présent code, et notamment des titres II à VIII inclus du livre IV,
+le même décret fixe les possibilités de construction accordées en application de l'article L. 130-2.
+
+Le décret mentionné ci-dessus fait l'objet d'une mention au Journal officiel de la République française. Le préfet fait en
+outre insérer cette mention, aux frais du pétitionnaire, dans deux journaux régionaux ou locaux diffusés dans le département.
+
+L'autorisation ne produit ses effets qu'après le transfert de propriété qui doit intervenir au plus tard dans les deux ans
+qui suivent la publication dudit décret. Le plan d'occupation des sols est alors mis à jour conformément à l'article R.
+123-36.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code forestier 157
+	  - Code de l'urbanisme - art. L130-2 (M)
+	  - Code de l'urbanisme R123-36
 
 	**Liens**:
 
@@ -12865,119 +12950,71 @@ les coupes autorisées [*tacitement*].
 	**Nouveaux textes**:
 
 	  - Code de l'urbanisme - art. R*130-17 (VT)
+	  - Code de l'urbanisme R130-17
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
 
-###### Article R130-9
+#### Dispositions diverses.
 
-La coupe autorisée pour une année et non effectuée peut, sans nouvelle autorisation, être reportée à l'année suivante.
-L'autorisation peut être donnée pour plusieurs années [*durée*] successives au cours desquelles le propriétaire aura latitude
-d'exploiter la coupe.
+###### Article R*130-11
 
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1059 1959-09-07 ART. 6
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. R*130-18 (VT)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R130-10
-
-Aucune autorisation n'est nécessaire pour procéder à l'enlèvement des chablis et bois morts.
+Le préfet informe le centre régional de la propriété forestière des décisions prescrivant l'établissement des plans
+d'occupation des sols, ainsi que des classements d'espaces boisés intervenus en application du premier alinéa de l'article L.
+130-1 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1059 1959-09-07 ART. 7
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L130-2 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. R*130-19 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R130-11
-
-Les déclarations d'intention d'abattages d'arbres dans les espaces boisés de moins de quatre hectares [*surface*] sont
-transmises par le maire au préfet dans les quinze jours [*délai*] de leur réception.
-
-Les abattages sont réputés autorisés [*tacite*] si le préfet ne fait pas opposition par lettre recommandée dans le délai de
-deux mois à dater [*point de départ*] du dépôt de la déclaration.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1059 1959-09-07 ART. 8
 
 	**Nouveaux textes**:
 
 	  - Code de l'urbanisme - art. R*130-20 (V)
+	  - Code de l'urbanisme R130-20
+
+	**Cite**:
+
+	  - Code de l'urbanisme L130-1 AL. 1
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
 
-###### Article R130-12
+###### Article R*130-12
 
-Si, consécutivement à une coupe effectuée sans autorisation, le rétablissement des lieux en nature de bois a été prescrit et
-si le propriétaire ne s'est pas conformé à cette obligation dans les délais impartis, le préfet fait exécuter les travaux
-d'office par la direction départementale de l'agriculture ; il arrête ensuite le mémoire des frais et le rend exécutoire à
-l'égard du propriétaire.
-
-La même procédure est applicable dans le cas où le propriétaire n'assure pas dans un délai de cinq ans le reboisement des
-coupes rases régulièrement autorisées.
+En ce qui concerne les bois, forêts et terrains soumis au régime forestier, en application de l'article 82 du code forestier,
+les dispositions de l'article 85 dudit code demeurent applicables, à l'exclusion de celles des sections I et II du présent
+titre.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°59-1059 1959-09-07 ART. 9
+	  - Code forestier 82
 
 	**Nouveaux textes**:
 
 	  - Code de l'urbanisme - art. R*130-21 (VT)
+	  - Code de l'urbanisme R130-21
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
 
-###### Article R130-13
+###### Article R*130-13
 
-Dans les communes tenues d'avoir un plan d'urbanisme et pour lesquelles ce document n'a pas encore été approuvé, les coupes
-résultant soit d'un usage constant, soit d'un aménagement régulier, pratiquées dans les massifs d'une étendue égale ou
-supérieure à quatre hectares sont considérées comme des travaux ne compromettant pas le caractère boisé des terrains sur
-lesquels elles sont exécutées. Tous autres travaux, en particulier les coupes rases ou comportant abattage systématique des
-arbres dépassant 1,30 mètre de circonférence sur une surface supérieure au vingtième de celle du massif, sont soumis au
-régime de l'autorisation préalable.
+Sans préjudice des sanctions édictées par le présent code, le code forestier et la loi n. 63-810 du 6 août 1963, toute
+infraction aux dispositions de l'article R. 130-4 ci-dessus sera punie d'un emprisonnement de dix jours à un mois et d'une
+amende de 600 à 2 000 F ou de l'une de ces deux peines seulement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°59-1059 1959-09-07 ART. 10
-	  - Code de l'urbanisme - art. R*130-4 (M)
+	  - Loi n°63-810 1963-08-06
+	  - Code de l'urbanisme - art. R130-4 (M)
 
 	**Cité par**:
 
@@ -12987,6 +13024,11 @@ régime de l'autorisation préalable.
 	**Nouveaux textes**:
 
 	  - Code de l'urbanisme - art. R*130-22 (Ab)
+	  - Code de l'urbanisme R130-22
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. R*130-4 (M)
 
 	**Liens**:
 
@@ -12997,27 +13039,26 @@ régime de l'autorisation préalable.
 	  - Décret n°73-1023 1973-11-08
 
 
-###### Article R130-14
+###### Article R*130-14
 
-Dans les bois, forêts et parcs non soumis au régime forestier d'une étendue égale ou supérieure à quatre hectares,
-[*surface*] visés à l'article R. 130-1, les constructions immobilières sont considérées comme de nature à compromettre le
-caractère boisé des terrains en cause et la délivrance du permis de construire sur ces terrains est subordonnée à l'avis
-conforme du directeur départemental de l'agriculture.
+Le préfet peut, dans les trois ans qui suivent l'année au cours de laquelle des déboisements ou des travaux illicites ont été
+exécutés, ordonner le rétablissement des lieux en nature de bois. Faute par le propriétaire de faire la plantation ou le
+semis dans le délai prescrit par le préfet, il y est pourvu par l'administration aux frais du propriétaire. La contribution
+de celui-ci est recouvrée comme en matière de contributions directes.
+
+Cette même procédure est applicable au cas où des travaux dont l'exécution a été prescrite n'ont pas été exécutés, le délai
+de trois ans partant de la fin de l'année au cours de laquelle ils auraient dû l'être.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°59-1059 1959-09-07 ART. 11
-	  - Code de l'urbanisme - art. R*130-5 (M)
 
 	**Nouveaux textes**:
 
 	  - Code de l'urbanisme - art. R*130-23 (VT)
+	  - Code de l'urbanisme R130-23
 
-	**Cite**:
+	**Anciens textes**:
 
-	  - Code de l'urbanisme - art. R130-1 (M)
+	  - Code de l'urbanisme - art. R*130-5 (M)
 
 	**Codifié par**:
 
@@ -14277,24 +14318,60 @@ demandes de communication peuvent être adressées aux maires des communes inté
 	  - Décret n°73-1023 1973-11-08
 
 
-## Règles générales d'aménagement et d'urbanisme Espaces boisés
+## Espaces boisés
 
-### Modalités d'application.
+### Utilisation du sol, défrichements, coupes et abattages d'arbres dans les espaces boisés classés non soumis au régime forestier.
 
-###### Article R130-7
+###### Article R*130-1
 
-Les coupes rases doivent être suivies, dans un délai maximum de cinq ans, de travaux de reboisement, à défaut de régénération
-naturelle.
+Sous réserve de ce qui est dit à l'article /M/R. 130-3 /M/DECR.0754 : R. 130-2// ci-après toute coupe ou tout abattage
+d'arbres compris dans un espace boisé classé est subordonné à une autorisation expresse délivrée par le préfet.
+
+La demande d'autorisation est formulée par le propriétaire du fonds et adressée au préfet par lettre recommandée avec demande
+d'avis de réception. Elle peut concerner un abattage, une coupe ou plusieurs coupes échelonnées le cas échéant sur plusieurs
+années. Elle doit préciser la situation, la nature et la quotité de chaque coupe ou abattage ainsi que l'année de son
+exécution et les éventuels travaux de plantation que le propriétaire s'engage à exécuter.
+
+L'autorisation peut être subordonnée à des prescriptions spéciales concernant notamment les techniques de gestion, le respect
+de certains peuplements, l'obligation de procéder à des reboisements ou à des plantations de remplacement.
+
+La décision est prise après avis du directeur départemental de l'agriculture et du directeur départemental de l'équipement.
+Elle est notifiée [*publicité*] au demandeur.
+
+Si la coupe ou l'abattage n'ont pu être pratiqués au cours de l'année pour laquelle l'autorisation a été donnée, ils peuvent
+être pratiqués l'année suivante sans nouvelle autorisation.
+
+Les coupes rases doivent être suivies, dans les cinq ans, de travaux de reboisement, à défaut de régénération naturelle.
+
+Aucune autorisation n'est nécessaire pour procéder à l'enlèvement des arbres dangereux, des chablis et des bois morts.
+
+Nonobstant toutes dispositions réglementaires attribuant compétence à une autre autorité, les décisions intervenant sur des
+demandes d'autorisation d'occupation ou d'utilisation du sol dans les espaces boisés classés sont prises par le préfet après
+avis du directeur départemental de l'agriculture.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cité par**:
 
-	  - Décret n°59-1059 1959-09-07 ART. 4
+	  - Code forestier (nouveau) - art. R141-26 (M)
+	  - Code de l'environnement - art. R300-2 (M)
+	  - Code de l'urbanisme - art. R*130-5 (Ab)
+	  - Code de l'urbanisme - art. R*710-1 (Ab)
+	  - Code de l'urbanisme - art. R130-14 (M)
+	  - Code de l'urbanisme - art. R142-3 (M)
+	  - Code forestier - art. R412-8 (M)
 
-	**Nouveaux textes**:
+	**Liens**:
 
-	  - Code de l'urbanisme - art. R*130-16 (V)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*130-3 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R130-4 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R142-3 (M)
+	  - PILOTE_SUIVEUR: Code forestier - art. R412-8 (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R130-2 (M)
+	  - Code de l'urbanisme - art. R130-3 (M)
 
 	**Codifié par**:
 
