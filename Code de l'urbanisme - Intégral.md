@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1986-09-01
+Version Consolidée au 1986-12-24
 
 # Partie législative
 
@@ -941,34 +941,46 @@ réglementaires relatives à l'utilisation du sol.
 Le rapport entre la surface de plancher d'une construction et la surface de terrain sur laquelle cette construction est ou
 doit être implantée définit la densité de construction.
 
-Une densité égale à 1 constitue la limite légale de densité. Pour la ville de Paris, ce chiffre est fixé à 1,5.
+Une limite de densité appelée " plafond légal de densité ", peut être être instaurée :
 
-Toutefois, cette limite peut être modifiée sans pouvoir être inférieure à 1 ni supérieure à 2. Pour la ville de Paris, ces
-chiffres sont respectivement 1,5 et 3.    La décision est prise, selon les cas [*autorité compétente*]:
+- par le conseil municipal, aprés information sur le projet des communes limitrophes ;
 
-- par le conseil municipal, après information sur le projet des communes limitrophes ;    - par le conseil de la communauté
-urbaine ;    - par l'organe délibérant du groupement de communes ayant compétence en matière d'élaboration de documents
-d'urbanisme ou en matière d'aménagement urbain, après accord des deux tiers des communes représentant la moitié de la
-population ou de la moitié des communes représentant les deux tiers de la population.    Aucune décision nouvelle modifiant
-la limite légale de densité ne peut intervenir avant l'expiration d'un délai de trois ans à compter de la date d'entrée en
-vigueur de la précédente délibération. Cependant, une nouvelle délibération peut être adoptée dans les six mois qui suivent
-le renouvellement du conseil municipal ou la désignation du conseil de la communauté urbaine ou de l'organe délibérant du
-groupement des communes compétent.    Les décisions prises en application de l'article 31-5 de la loi n° 82-1126 du 29
-décembre 1982 ne peuvent pas être modifiées avant un délai de deux ans après la publication de la loi n° 85-729 du 18 juillet
-1985 relative à la définition et à la mise en oeuvre de principes d'aménagement, et produisent effet pendant toute cette
-période.   Au-delà de cette limite, appelée " plafond légal de densité" l'exercice du droit de construire relève de la
-collectivité dans les conditions fixées par les dispositions du présent chapitre.
+- par le conseil de la communauté urbaine ;
+
+- par l'organe délibérant du groupement de communes ayant compétence en matière d'élaboration de documents d'urbanisme ou en
+matière d'aménagement urbain, aprés accord des deux tiers des commune représentant la moitié de la population ou de la moitié
+des communes représentant les deux tiers de la population.
+
+La limite de densité ne peut être inférieure à 1 et, pour la vill de Paris, à 1,5. Aucune décision nouvelle instaurant,
+supprimant, modifiant le plafond légal de densité, ou prise en application du quatrième alinéa de l'article l.112-2, ne peut
+intervenir avant l'expiration d'un délai de trois ans à compter de la date d'entrée en vigueur de la précédente délibération.
+Cependant, une nouvelle délibération peut être adoptée dans les six mois qui suivent le renouvellement du conseil municipal
+ou la désignation du conseil de la communauté urbaine ou de l'organe délibérant du groupement de communes compétent.
+
+Toutefois, la première décision suivant la publication de la loi n°86-1290 du 23 décembre 1986 tendant à favoriser
+l'investissement locatif, l'accession à la propriété de logements sociaux et le developpement de l'offre foncière peut être
+prise sans condition de délai.
+
+Au delà du plafond, s'il en est fixé un, l'exercice du droit de construire relève de la collectivité dans les conditions
+fixées par les dispositions du présent chapitre.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 	**Cite**:
 
 	  - Loi n°82-1126 1982-12-29 art. 31-5
 	  - Loi n°85-729 1985-07-18
+	  - Loi n°86-1290 1986-12-23
+	  - Code de l'urbanisme L. 112-2
 
 	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 25 (V) JORF 19 juillet 1985
+	  - Loi n°86-1290 1986-12-23 ART. 64 I, II, III JORF 24 Décembre 1986
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 64 () JORF 24 Décembre 1986
 
 	**Cité par**:
 
@@ -991,10 +1003,6 @@ collectivité dans les conditions fixées par les dispositions du présent chapi
 
 	  - Code de l'urbanisme - art. L112-7 (T)
 
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
 
 ###### Article L112-2
 
@@ -1009,11 +1017,14 @@ Toutefois, cette obligation n'est pas applicable aux immeubles édifiés par l'E
 communes, ni aux immeubles édifiés par les établissements publics administratifs lorsqu'ils sont affectés à un service public
 ou d'utilité générale et qu'ils ne sont pas productifs de revenus.
 
+Dans les conditions de l'article L. 112-1, il peut être décidé que l'obligation résultant des deux premiers alinéas du
+présent article n'est pas applicable aux immeubles ou parties d'immeubles affectés à l'habitation.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 25 (V) JORF 19 juillet 1985
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 64 () JORF 24 Décembre 1986
 
 	**Cité par**:
 
@@ -1054,6 +1065,10 @@ ou d'utilité générale et qu'ils ne sont pas productifs de revenus.
 	  - Code général des impôts, CGI. - art. 302 septies B (M)
 	  - Livre des procédures fiscales - art. L133 (V)
 
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L122-1 (M)
+
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
@@ -1069,11 +1084,14 @@ surface de plancher du bâtiment déjà implanté sur ce terrain lorsque ce bât
 département, à la commune ou à un établissement public administratif et qu'il est à fois affecté à un service public ou
 d'utilité générale et non productif de revenus.
 
+Il n'est pas non plus tenu compte, dans le cas d'une décision prise en application du quatrième alinéa de l'article l.112-2,
+de la surface de plancher des immeubles ou parties d'immeubles déjà implantés sur ce terrain et affectés à l'habitation.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 25 (V) JORF 19 juillet 1985
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 64 () JORF 24 décembre 1986
 
 	**Cite**:
 
@@ -1152,11 +1170,16 @@ Des décrets en Conseil d'Etat déterminent, en tant que de besoin, les modalit�
 définissent notamment la surface de plancher développée hors oeuvre d'une construction et les conditions dans lesquelles sont
 exclus de cette surface les combles et sous-sols non aménageables pour l'habitation ou pour d'autres activités, les balcons,
 loggias et terrasses, les aires de stationnement, les surfaces nécessaires aux aménagements en vue de l'amélioration de
-l'hygiène des locaux et les surfaces annexes aux bâtiments d'exploitation agricole.
+l'hygiène des locaux et à l'isolation thermique ou acoustique, ainsi que les surfaces annexes aux bâtiments d'exploitation
+agricole.
 
 La même définition est retenue en ce qui concerne l'établissement de l'assiette de la taxe locale d'équipement.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 66 () JORF 24 décembre 1986
 
 	**Cité par**:
 
@@ -2628,23 +2651,30 @@ Un plan d'occupation des sols approuvé peut également être modifié par déli
 publique à la condition qu'il ne soit pas porté atteinte à son économie générale et que la modification ne concerne pas les
 espaces boisés classés ou ne comporte pas de graves risques de nuisance.
 
+Toutefois, lorsque la modification ne concerne que la suppression ou la réduction d'un emplacement réservé inscrit au plan
+d'occupation des sols au bénéfice d'une commune ou d'un établissement public de coopération intercommunale, il n'y a pas lieu
+de procéder à une enquête publique. Cette disposition n'est applicable  que pour les térrains non acquis par la commune ou
+l'établissement public de coopération intercommunale.
+
+A compter de la décision prescrivant la révision d'un plan d'occupation des sols, le conseil municipal peut décider de faire
+une application anticipée des nouvelles dispositions du plan en cours d'établissement dans les conditions définies par décret
+en Conseil d'Etat, dès lors que cette application :
+
+a) N'est pas incompatible avec les dispositions d'un schéma directeur ou d'un schéma de secteur approuvé ou en cours
+d'établissement ;
+
+b) N'est pas de nature à compromettre la réalisation d'un projet d'intêret général au sens de l'article L. 121-12 ou
+l'application des lois d'aménagement et d'urbanisme prévues à l'article L. 111-1-1 ;
+
+c) N'a pas pour objet ou pour effet de supprimer une protection édictée en faveur d'un espace boisé ou de réduire de façon
+sensible une protection édictée en raison de la valeur agricole des terres, de risques de nuisance, de la qualité des sites,
+des paysages ou des milieux naturels.
+
+La délibération du conseil municipal prévoyant l'application anticipée des nouvelles dispositions devient éxécutoire dans un
+délai d'un mois suivant sa transmission au représentant de l'Etat. Cette délibération est valable six mois. Elle peut être
+renouvelée.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°76-1285 1976-12-31
-	  - Loi n°83-8 1983-01-07 ART. 52, ART. 53, ART. 54, ART. 73
-	  - Loi n°83-663 1983-07-22
-	  - Code de l'urbanisme - art. L111-1-4 (M)
-	  - Code de l'urbanisme - art. L123-3 (M)
-	  - Code de l'urbanisme - art. L123-3-1 (Ab)
-	  - Code de l'urbanisme - art. L123-3-2 (M)
-	  - Code de l'urbanisme - art. L123-5 (M)
-	  - Code de l'urbanisme - art. L123-7-1 (M)
-
-	**Modifié par**:
-
-	  - Loi n°83-663 du 22 juillet 1983 - art. 100 () JORF 23 JUILLET 1983
 
 	**Cité par**:
 
@@ -2659,6 +2689,16 @@ espaces boisés classés ou ne comporte pas de graves risques de nuisance.
 	  - Code de l'urbanisme - art. R*123-35 (Ab)
 	  - Code de l'urbanisme - art. R*123-8 (VT)
 	  - Code de l'urbanisme - art. R*431-33 (M)
+
+	**Modifié par**:
+
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 67 () JORF 24 Décembre 1986
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L123-3 (M)
+	  - Code de l'urbanisme - art. L123-3-1 (Ab)
+	  - Code de l'urbanisme L121-12  L111-1-1, L123-3, L123-3-1
 
 	**Liens**:
 
@@ -2989,7 +3029,8 @@ soit par le propriétaire, soit par la collectivité ou le service public béné
 propriété et fixe le prix du terrain. Ce prix, y compris l'indemnité de réemploi, est fixé et payé comme en matière
 d'expropriation, le terrain étant considéré comme ayant cessé d'être compris dans un emplacement réservé. Toutefois, la date
 de référence prévue à l'article L. 13-15 du code de l'expropriation pour cause d'utilité publique est celle de la publication
-du plan d'occupation des sols, de la modification ou de la révision dudit plan instituant l'emplacement réservé.
+du plan d'occupation des sols, de la modification ou de la révision dudit plan délimitant la zone dans laquelle est située
+l'emplacement réservé.
 
 Le juge de l'expropriation fixe également, s'il y a lieu, les indemnités auxquelles peuvent prétendre les personnes
 mentionnées au troisième alinéa ci-dessus.
@@ -3045,7 +3086,7 @@ la collectivité ou le service public bénéficiaire de la réserve quel que soi
 
 	**Modifié par**:
 
-	  - Loi n°86-13 du 6 janvier 1986 - art. 9 () JORF 7 janvier 1986
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 69 () JORF 24 décembre 1986
 
 	**Cite**:
 
@@ -4411,9 +4452,9 @@ régionaux, est mis à la disposition du public pendant deux mois.
 
 Le schéma d'aménagement de la Corse est approuvé par décret en Conseil d'Etat.
 
-A défaut d'adoption, selon la procédure définie ci-dessus, dans un délai de dix-huit mois à compter de la promulgation de la
-loi n° 85-97 du 25 janvier 1985 modifiant et complétant la loi n° 83-663 du 22 juillet 1983 et portant dispositions diverses
-relatives aux rapports entre l'Etat et les collectivités territoriales, le schéma est élaboré et arrêté par l'Etat.
+A défaut d'adoption, selon la procédure définie ci-dessus, dans un délai de vingt-quatre mois à compter de la promulgation de
+la loi n° 86-1290 du 23 décembre 1986 tendant à favoriser l'investissement locatif, l'accession à la propriété de logements
+sociaux et le développement de l'offre foncière, le schéma est élaboré et arrêté par l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -4424,13 +4465,12 @@ relatives aux rapports entre l'Etat et les collectivités territoriales, le sch�
 	**Cite**:
 
 	  - Loi n°82-659 du 30 juillet 1982 - art. 11 (M)
-	  - Loi n°83-663 1983-07-22
-	  - Loi n°85-97 1985-01-25
+	  - Loi n°86-1290 1986-12-23
 	  - Code de l'urbanisme - art. L111-1-1 (M)
 
 	**Modifié par**:
 
-	  - Loi n°85-97 du 25 janvier 1985 - art. 25 () JORF 26 janvier 1985
+	  - loi 86-1290 1986-12-23 art. 73 JORF 24 décembre 1986
 
 	**Cité par**:
 
@@ -5436,16 +5476,16 @@ vendeur mais peut réviser le montant de cette rente et du capital éventuel.
 
 ###### Article L142-12
 
-Les dispositions des articles L. 142-1 à L. 142-11 entreront en vigueur à une date fixée par un décret en conseil d'Etat qui
+Les dispositions des articles L. 142-1 à L. 142-11 entreront en vigueur à une date fixée par un décret en Conseil d'Etat qui
 devra intervenir dans un délai d'un an à compter de la publication de la loi n° 86-841 du 17 juillet 1986 tendant à modifier
 la durée ou la date d'application du certaines règles concernant le code de l'urbanisme.
 
 Jusqu'à cette date :
 
-- les aliénations de biens compris dans une zone de préemption délimitée à l'intérieur d' un périmètre sensible demeurent
+- les aliénations de biens compris dans une zone de préemption délimitée à l'intérieur d'un périmètre sensible demeurent
 soumises aux dispositions du chapitre II du titre IV du livre Ier du code de l'urbanisme dans leur rédaction antérieure à la
-loi n°85-729 du 18 juillet 1985 relative à la définition et à la mise en oeuvre de principes d'aménagement et aux textes pris
-pour son application, quelle que soit la date de la déclaration d'intention d'aliéner ;
+loi n° 85-729 du 18 juillet 1985 relative à la définition et à la mise en oeuvre de principes d'aménagement et aux textes
+pris pour son application, quelle que soit la date de la déclaration d'intention d'aliéner ;
 
 - les autorisations de construire demeurent soumises, quelle que soit leur date, à la taxe départementale d'espaces verts ;
 les délibérations prises par les conseils généraux relatives à la taxe départementale des espaces naturels sensibles ne
@@ -5456,7 +5496,7 @@ territoire perçoivent la taxe départementale des espaces naturels sensibles se
 sauf délibération spéciale du Conseil général, au taux auquel ils percevaient la taxe départementale d'espaces verts.
 
 Les départements qui percevaient la taxe départementale d'espaces verts sur une partie de leur territoire perçoivent la taxe
-départementale des espaces naturels sensibles à l'intérieur du même périmètre et aux taux auquel ils percevaient la taxe
+départementale des espaces naturels sensibles à l'intérieur du même périmètre et au taux auquel ils percevaient la taxe
 départementale d'espaces verts, sauf délibération spéciale sur l'application de la nouvelle taxe.
 
 Les dispositions de l'article L. 142-11 sont applicables à l'intérieur des zones de préemption délimitées en application de
@@ -5466,7 +5506,23 @@ Le droit de préemption prévu à l'article L. 142-3 dans sa rédaction issue de
 vigueur du présent chapitre à l'intérieur des zones de préemption délimitées en application de l'article L. 142-1 dans sa
 rédaction antérieure.
 
-Les mesures de protection prises en application de l'article L. 142-3 dans la rédaction antérieure continuent de produire
+Toutefois, dans ce cas :
+
+- les déclarations d'intention d'aliéner souscrites au titre de la législation sur les périmètres sensibles en cours
+d'instruction à la date d'entrée en vigueur fixée par le décret prévu au premier alinéa demeurent régies pour leur
+instruction par les dispositions des articles L. 142-1 et suivants du code de l'urbanisme dans leur rédaction antérieure à
+cette date ;
+
+- le propriétaire qui avait l'intention de vendre un bien soumis a droit de préemption au titre des périmètres sensibles et
+qui a obtenu une renonciation à l'exercice de ce droit peut vendre son bien après la date d'entrée en vigueur susvisée sans
+qu'il lui soit besoin de souscrire une nouvelle déclaration d'intention d'aliéner au titre des espaces naturels sensibles des
+départements, si le prix et les conditions de vente qui figuraient dans la déclaration d'intention d'aliéner ne sont pas
+modifiés ;
+
+- la délégation du droit de préemption consentie par l'assemblée au bureau au titre des périmètres sensibles vaut délégation
+au titre des espaces naturels sensibles des départements.
+
+Les mesures de protection prises en application de l'article L. 142-3 dans sa rédaction antérieure continuent de produire
 leurs effets dans les conditions prévues à l'article L. 142-11 dans sa rédaction issue de la loi susvisée.
 
 Les actes et conventions intervenus dans les conditions prévues par la législation antérieure à la loi susvisée demeurent
@@ -5490,14 +5546,14 @@ valables sans qu'il y ait lieu de les renouveler.
 	  - Code de l'urbanisme - art. L142-8 (V)
 	  - Code de l'urbanisme - art. L142-9 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-516 du 14 mars 1986 - art. 10 (M)
-	  - SPEC_APPLI: Code de l'urbanisme - art. L142-1 (M)
-
 	**Modifié par**:
 
-	  - Loi n°86-841 1986-07-17 ART. 2 II JORF 18 JUILLET 1986
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 69 () JORF 24 décembre 1986
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de l'urbanisme - art. L142-1 (M)
 
 	**Codifié par**:
 
@@ -6802,18 +6858,27 @@ maintenir dans les lieux lorsque l'immeuble est repris en vue de son utilisation
 Toutefois, lorsque les terres concédées sont à usage agricole, il ne peut être mis fin à ces concessions que moyennant
 préavis d'un an au moins.
 
-Les personnes publiques mentionnées au présent article bénéficient des dispositions du 5° de l'article 75 de la loi n° 82-526
-du 22 juin 1982 relative aux droits et obligations des locataires et des bailleurs.
+Les personnes publiques mentionnées au présent article bénéficient des dispositions de l'article 50 de la loi n° 86-1290 du
+23 décembre 1986 tendant à favoriser l'investissement locatif, l'accession à la propriété de logements sociaux et le
+developpement de l'offre foncière.
+
+**Nota:**
+
+L'article 10 de la loi n° 86-1290 du 23 décembre 1986 a été abrogé par l'article 39 de la loi n° 89-462 du 6 juillet 1989.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°67-1253 1967-12-30 ART. 12 loi d'orientation foncière
+	  - Loi n°67-1253 1967-12-30 art. 12 loi d'orientation foncière
+
+	**Cite**:
+
+	  - Loi n°86-1290 1986-12-23 art. 50
 
 	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 11 () JORF 19 juillet 1985
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 70 () JORF 24 décembre 1986
 
 	**Cité par**:
 
@@ -6833,10 +6898,6 @@ du 22 juin 1982 relative aux droits et obligations des locataires et des bailleu
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Cite**:
-
-	  - Loi n°85-526 1985-06-22 art. 75
 
 
 ### Titre III : Départements d'outre-mer.
@@ -8458,6 +8519,91 @@ l'article L. 213-11.
 	  - Code de l'urbanisme - art. L213-11 (V)
 
 
+###### Article L311-4
+
+Il est établi, dans chaque zone d'aménagement concerté, un plan d'aménagement de zone compatible, avec les orientations du
+schéma directeur s'il en existe un. Le plan d'aménagement de zone comporte tout ou partie des éléments énumérés aux articles
+L. 123-1 et L. 130-1. Le projet de plan d'aménagement de zone est élaboré par la personne publique qui a pris l'initiative de
+la création de zone.
+
+Sont associés à cette élaboration l'Etat et la commune et, à leur demande, et dans les formes que la personne publique qui a
+prix l'initiative de la création de la zone détermine, la région et le département ; l'autorité compétente pour créer la zone
+d'aménagement concerté peut demander que soit recueilli l'avis de tout organisme ou association ayant compétence en matière
+de construction, d'aménagement ou d'urbanisme.
+
+Le représentant de l'Etat porte à la connaissance de la personne publique qui a pris l'initiative de la création, les
+prescriptions, servitudes et dispositions mentionnées au dernier alinéa de l'article L. 123-1 et lui communique toute autre
+information qu'il juge utile à l'élaboration du plan d'aménagement de zone.
+
+Le plan d'aménagement de zone est soumis à enquête publique par le maire lorsque la commune est compétente pour créer la zone
+et par le représentant de l'Etat dans le département lorsqu'il a cette compétence. Le plan d'aménagement de zone est ensuite
+approuvé par l'autorité compétente pour créer la zone, après avis du conseil municipal ou de l'organe délibérant de
+l'établissement public de coopération intercommunale compétent lorsque l'Etat est compétent pour créer la zone. Lorsque le
+dossier du plan d'aménagement de zone soumis à l'enquête comprend les pièces requises par le code de l'expropriation pour
+cause d'utilité publique, l'enquête prévue ci-dessus vaut enquête préalable à la déclaration d'utilité publique des travaux
+nécessaires à l'aménagement de la zone.
+
+Lorsque la commune est dotée d'un plan d'occupation des sols opposables aux tiers, l'autorité compétente peut, par dérogation
+aux dispositions des deuxième et troisième alinéas du présent article, soumettre directement à enquête publique un projet de
+plan d'aménagement de zone, à condition que ce projet ne porte pas atteinte à l'économie générale du plan d'occupation des
+sols, ne concerne pas les espaces boisés classés et ne comporte pas de graves risques de nuisances.
+
+Le plan d'aménagement de zone approuvé est opposable à toute personne publique ou privée pour l'exécution de tous travaux,
+installations ou constructions affectant l'utilisation du sol.
+
+Lorsque l'acte de création de la zone décide de maintenir en vigueur les dispositions du plan d'occupation des sols rendu
+public ou approuvé, ce document tient lieu de plan d'aménagement de la zone.
+
+Après mise en demeure non suivie d'effet dans les six mois de la personne qui a élaboré le plan d'aménagement de zone et de
+l'autorité compétente pour approuver ledit plan, le représentant de l'Etat dans le département peut élaborer et approuver,
+après avis du conseil municipal ou de l'organe délibérant de l'établissement public de coopération intercommunale compétent
+et enquête publique, la modification du plan d'aménagement de zone afin que celui-ci soit compatible avec les prescriptions
+nouvelles prises en application de l'article L. 111-1-1 ou avec les orientations d'un schéma directeur ou d'un schéma de
+secteur approuvé ou arrêté postérieurement à l'approbation du plan, ou pour permettre la réalisation d'un nouveau projet
+d'intérêt général relevant de l'Etat, de la région, du département ou d'autres intervenants, et correspondant aux définitions
+prises en application de l'article L. 121-12.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°77-1141 du 12 octobre 1977 - art. Annexe III (Ab)
+	  - Décret n°85-453 du 23 avril 1985 - art. 2 (M)
+	  - Loi n°2010-597 du 3 juin 2010 - art. 21 (VD)
+	  - Loi n°2010-597 du 3 juin 2010 - art. 9 (V)
+	  - Code de l'urbanisme - art. L211-1 (M)
+	  - Code de l'urbanisme - art. L311-5 (V)
+	  - Code de l'urbanisme - art. L311-7 (VD)
+	  - Code de l'urbanisme - art. L332-30 (V)
+	  - Code de l'urbanisme - art. R*311-3 (M)
+	  - Code de l'urbanisme - art. R*311-32 (Ab)
+	  - Code de l'urbanisme - art. R*431-23 (V)
+	  - Code de l'urbanisme - art. R211-1 (M)
+	  - Code de l'urbanisme - art. R332-41 (VD)
+	  - Code général de la propriété des personnes publ... - art. L5112-6-1 (V)
+	  - Code général des collectivités territoriales - art. L2122-22 (V)
+
+	**Modifié par**:
+
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 71 () JORF 24 décembre 1986
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L111-1-1 (M)
+	  - Code de l'urbanisme - art. L121-12 (Ab)
+	  - Code de l'urbanisme - art. L123-1 (M)
+	  - Code de l'urbanisme - art. L130-1 (M)
+	  - Code de l'urbanisme - art. L311-6 (M)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. L311-4-1 (T)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
 ###### Article L311-5
 
 Les chambres de commerce et d'industrie et les chambres de métiers sont associées à l'élaboration des plans d'aménagement de
@@ -9879,6 +10025,45 @@ l'ordonnance au 1er octobre 2007.
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L315-8
+
+Dans les cinq ans à compter de l'achèvement d'un lotissement, constaté dans les conditions prévues par décret en Conseil
+d'Etat, le permis de construire ne peut être refusé ou assorti de prescriptions spéciales sur le fondement de dispositions
+d'urbanisme intervenues postérieurement à l'autorisation du lotissement. Toutefois, les dispositions résultant des
+modifications des documents du lotissement en application des articles L. 315-3, L. 315-4 et L. 315-7 sont opposables.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Créé par**:
+
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 72 () JORF 24 décembre 1986
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 22 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L315-3 (M)
+	  - Code de l'urbanisme - art. L315-4 (M)
+	  - Code de l'urbanisme - art. L315-7 (Ab)
 
 
 #### Chapitre V : Lotissements et divisions de propriété.
@@ -13083,7 +13268,7 @@ Le montant du versement défini à l'article L. 112-2 est dû [*redevable*] par 
 En cas de désaccord sur la valeur du terrain, il est provisoirement arrêté, puis mis en recouvrement sur la base de
 l'estimation administrative.
 
-Il doit être effectué à la recette des impôts de la situation des biens en trois fractions légales.
+Il doit être payé à la recette des impôts de la situation des biens en trois fractions légales.
 
 Le paiement de la première fraction est exigible à l'expiration d'un délai de dix-huit mois à compter de la date de
 délivrance du permis de construire ou de la date à laquelle l'autorisation de construire est réputée avoir été tacitement
@@ -13091,7 +13276,7 @@ accordée et celui de la seconde fraction à l'expiration d'un délai de trente-
 
 Après décision définitive de la juridiction de l'expropriation, il est procédé, selon le cas, à la mise en recouvrement d'une
 somme complémentaire ou à la restitution du montant excédentaire. Le paiement du complément doit intervenir en même temps que
-le paiement de la troisième partie du versement ou, au plus tard, dans les six mois de la notification de l'avis de mise en
+le paiement de la deuxième partie du versement ou, au plus tard, dans les six mois de la notification de l'avis de mise en
 recouvrement du complément.
 
 La juridiction de l'expropriation doit se prononcer dans les six mois de sa saisine ; en cas d'appel de sa décision, la
@@ -13101,10 +13286,6 @@ Le montant donnant lieu à restitution est majoré des intérêts au taux légal
 fraction du versement a été acquittée.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°85-729 du 18 juillet 1985 - art. 25 (V) JORF 19 juillet 1985
 
 	**Cité par**:
 
@@ -13121,6 +13302,14 @@ fraction du versement a été acquittée.
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Modifié par**:
+
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 64 () JORF 24 décembre 1986
+
+	**Abrogé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
 
 
 ###### Article L333-3
@@ -13690,92 +13879,6 @@ nécessaires à l'application dans les départements d'outre-mer des articles L.
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-
-## Aménagement foncier
-
-### Opérations d'aménagement
-
-#### Zones d'aménagement concerté.
-
-###### Article L311-4
-
-Il est établi, dans chaque zone d'aménagement concerté, un plan d'aménagement de zone compatible, avec les orientations du
-schéma directeur s'il en existe un. Le plan d'aménagement de zone comporte tout ou partie des éléments énumérés aux articles
-L. 123-1 et L. 130-1. Le projet de plan d'aménagement de zone est élaboré par la personne publique qui a pris l'initiative de
-la création de zone.
-
-Sont associés à cette élaboration l'Etat et la commune et, à leur demande, et dans les formes que la personne publique qui a
-prix l'initiative de la création de la zone détermine, la région et le département ; l'autorité compétente pour créer la zone
-d'aménagement concerté peut demander que soit recueilli l'avis de tout organisme ou association ayant compétence en matière
-de construction, d'aménagement ou d'urbanisme.
-
-Le représentant de l'Etat porte à la connaissance de la personne publique qui a pris l'initiative de la création, les
-prescriptions, servitudes et dispositions mentionnées au dernier alinéa de l'article L. 123-1 et lui communique toute autre
-information qu'il juge utile à l'élaboration du plan d'aménagement de zone.
-
-Le plan d'aménagement de zone est soumis à enquête publique par le maire lorsque la commune est compétente pour créer la zone
-et par le représentant de l'Etat dans le département lorsqu'il a cette compétence. Le plan d'aménagement de zone est ensuite
-approuvé par l'autorité compétente pour créer la zone, après avis du conseil municipal ou de l'organe délibérant de
-l'établissement public de coopération intercommunale compétent lorsque l'Etat est compétent pour créer la zone. Lorsque le
-dossier du plan d'aménagement de zone soumis à l'enquête comprend les pièces requises par le code de l'expropriation pour
-cause d'utilité publique, l'enquête prévue ci-dessus vaut enquête préalable à la déclaration d'utilité publique des travaux
-nécessaires à l'aménagement de la zone.
-
-Le plan d'aménagement de zone approuvé est opposable à toute personne publique ou privée pour l'exécution de tous travaux,
-installations ou constructions affectant l'utilisation du sol.
-
-Lorsque l'acte de création de la zone décide de maintenir en vigueur les dispositions du plan d'occupation des sols rendu
-public ou approuvé, ce document tient lieu de plan d'aménagement de la zone.
-
-Après mise en demeure non suivie d'effet dans les six mois de la personne qui a élaboré le plan d'aménagement de zone et de
-l'autorité compétente pour approuver ledit plan, le représentant de l'Etat dans le département peut élaborer et approuver,
-après avis du conseil municipal ou de l'organe délibérant de l'établissement public de coopération intercommunale compétent
-et enquête publique, la modification du plan d'aménagement de zone afin que celui-ci soit compatible avec les prescriptions
-nouvelles prises en application de l'article L. 111-1-1 ou avec les orientations d'un schéma directeur ou d'un schéma de
-secteur approuvé ou arrêté postérieurement à l'approbation du plan, ou pour permettre la réalisation d'un nouveau projet
-d'intérêt général relevant de l'Etat, de la région, du département ou d'autres intervenants, et correspondant aux définitions
-prises en application de l'article L. 121-12.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°77-1141 du 12 octobre 1977 - art. Annexe III (Ab)
-	  - Décret n°85-453 du 23 avril 1985 - art. 2 (M)
-	  - Loi n°2010-597 du 3 juin 2010 - art. 21 (VD)
-	  - Loi n°2010-597 du 3 juin 2010 - art. 9 (V)
-	  - Code de l'urbanisme - art. L211-1 (M)
-	  - Code de l'urbanisme - art. L311-5 (V)
-	  - Code de l'urbanisme - art. L311-7 (VD)
-	  - Code de l'urbanisme - art. L332-30 (V)
-	  - Code de l'urbanisme - art. R*311-3 (M)
-	  - Code de l'urbanisme - art. R*311-32 (Ab)
-	  - Code de l'urbanisme - art. R*431-23 (V)
-	  - Code de l'urbanisme - art. R211-1 (M)
-	  - Code de l'urbanisme - art. R332-41 (VD)
-	  - Code général de la propriété des personnes publ... - art. L5112-6-1 (V)
-	  - Code général des collectivités territoriales - art. L2122-22 (V)
-
-	**Modifié par**:
-
-	  - Loi n°86-13 du 6 janvier 1986 - art. 11 () JORF 7 janvier 1986
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L111-1-1 (M)
-	  - Code de l'urbanisme - art. L121-12 (Ab)
-	  - Code de l'urbanisme - art. L123-1 (M)
-	  - Code de l'urbanisme - art. L130-1 (M)
-	  - Code de l'urbanisme - art. L311-6 (M)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L311-4-1 (T)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ## Règles relatives à l'acte de construire et à divers modes d'utilisation du sol
