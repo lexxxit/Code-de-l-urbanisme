@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1997-12-31
+Version Consolidée au 1998-07-31
 
 # Partie législative
 
@@ -943,12 +943,12 @@ matière d'aménagement urbain, aprés accord des deux tiers des commune représ
 des communes représentant les deux tiers de la population.
 
 La limite de densité ne peut être inférieure à 1 et, pour la vill de Paris, à 1,5. Aucune décision nouvelle instaurant,
-supprimant, modifiant le plafond légal de densité, ou prise en application du quatrième alinéa de l'article l.112-2, ne peut
+supprimant, modifiant le plafond légal de densité, ou prise en application du cinquième alinéa de l'article L. 112-2, ne peut
 intervenir avant l'expiration d'un délai de trois ans à compter de la date d'entrée en vigueur de la précédente délibération.
 Cependant, une nouvelle délibération peut être adoptée dans les six mois qui suivent le renouvellement du conseil municipal
 ou la désignation du conseil de la communauté urbaine ou de l'organe délibérant du groupement de communes compétent.
 
-Toutefois, la première décision suivant la publication de la loi n°86-1290 du 23 décembre 1986 tendant à favoriser
+Toutefois, la première décision suivant la publication de la loi n° 86-1290 du 23 décembre 1986 tendant à favoriser
 l'investissement locatif, l'accession à la propriété de logements sociaux et le developpement de l'offre foncière peut être
 prise sans condition de délai.
 
@@ -957,21 +957,12 @@ fixées par les dispositions du présent chapitre.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
 	**Cite**:
 
 	  - Loi n°82-1126 1982-12-29 art. 31-5
 	  - Loi n°85-729 1985-07-18
 	  - Loi n°86-1290 1986-12-23
 	  - Code de l'urbanisme L. 112-2
-
-	**Modifié par**:
-
-	  - Loi n°86-1290 1986-12-23 ART. 64 I, II, III JORF 24 Décembre 1986
-	  - Loi n°86-1290 du 23 décembre 1986 - art. 64 () JORF 24 Décembre 1986
 
 	**Cité par**:
 
@@ -990,9 +981,17 @@ fixées par les dispositions du présent chapitre.
 	  - Code général des collectivités territoriales - art. L4433-8 (V)
 	  - Code général des impôts, CGI. - art. 1585 C (VT)
 
+	**Modifié par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 46 () JORF 31 juillet 1998
+
 	**Anciens textes**:
 
 	  - Code de l'urbanisme - art. L112-7 (T)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L112-2
@@ -1008,6 +1007,12 @@ Toutefois, cette obligation n'est pas applicable aux immeubles édifiés par l'E
 communes, ni aux immeubles édifiés par les établissements publics administratifs, lorsqu'ils sont affectés à un service
 public ou d'utilité générale et qu'ils ne sont pas productifs de revenus.
 
+Cette obligation n'est pas non plus applicable aux permis de construire délivrés entre la date de publication de la loi n°
+98-657 du 29 juillet 1998 d'orientation relative à la lutte contre les exclusions et le 31 décembre 2002, lorsque les travaux
+portent sur les logements à usage locatif construits avec le concours financier de l'Etat en application du 3° de l'article
+L. 351-2 du code de la construction et de l'habitation et destinés aux personnes défavorisées mentionnées à l'article 1er de
+la loi n° 90-449 du 31 mai 1990 visant à la mise en oeuvre du droit au logement.
+
 Dans les conditions de l'article L. 112-1, il peut être décidé que l'obligation résultant des deux premiers alinéas du
 présent article n'est pas applicable aux immeubles ou parties d'immeubles affectés à l'habitation.
 
@@ -1017,6 +1022,17 @@ s'il en est établi un, le plan d'aménagement de zone ont été approuvés. Ell
 validité de l'acte portant création de la zone.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°90-449 1990-05-31 art. 1
+	  - Loi n°98-657 1998-07-29
+	  - Code de l'urbanisme - art. L112-1 (M)
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+
+	**Modifié par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 46 () JORF 31 juillet 1998
 
 	**Cité par**:
 
@@ -1057,17 +1073,9 @@ validité de l'acte portant création de la zone.
 	  - Code général des impôts, CGI. - art. 302 septies B (M)
 	  - Livre des procédures fiscales - art. L133 (V)
 
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L122-1 (M)
-
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Modifié par**:
-
-	  - Loi n°87-1061 du 30 décembre 1987 - art. 16 () JORF 31 décembre 1987
 
 
 ###### Article L112-3
@@ -1080,14 +1088,14 @@ surface de plancher du bâtiment déjà implanté sur ce terrain lorsque ce bât
 département, à la commune ou à un établissement public administratif et qu'il est à fois affecté à un service public ou
 d'utilité générale et non productif de revenus.
 
-Il n'est pas non plus tenu compte, dans le cas d'une décision prise en application du quatrième alinéa de l'article l.112-2,
+Il n'est pas non plus tenu compte, dans le cas d'une décision prise en application du cinquième alinéa de l'article L. 112-2,
 de la surface de plancher des immeubles ou parties d'immeubles déjà implantés sur ce terrain et affectés à l'habitation.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°86-1290 du 23 décembre 1986 - art. 64 () JORF 24 décembre 1986
+	  - Loi n°98-657 du 29 juillet 1998 - art. 46 () JORF 31 juillet 1998
 
 	**Cite**:
 
@@ -2699,27 +2707,37 @@ hypothèques. Cette servitude ne peut être levée que par décret pris sur avis
 
 ###### Article L123-2-1
 
-Les plans d'occupation des sols peuvent ne pas imposer la réalisation d'aires de stationnement pour les logements locatifs
-acquis et, le cas échéant, améliorés avec un prêt aidé par l'Etat, destinés aux personnes défavorisées mentionnées à
-l'article 1er de la loi n° 90-449 du 31 mai 1990 visant à la mise en oeuvre du droit au logement.
+Il ne peut, nonobstant toute disposition du plan d'occupation des sols, être exigé la réalisation de plus d'une aire de
+stationnement par logement lors de la construction de logements locatifs financés avec un prêt aidé par l'Etat. Les plans
+d'occupation des sols peuvent en outre ne pas imposer la réalisation d'aires de stationnement lors de la construction de ces
+logements.
+
+L'obligation de réaliser des aires de stationnement n'est pas applicable aux travaux de transformation ou d'amélioration de
+bâtiments affectés à des logements locatifs financés avec un prêt aidé par l'Etat, y compris dans le cas où ces travaux
+s'accompagnent de la création de surface hors oeuvre nette, dans la limite d'un plafond fixé par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+	  - Loi n°98-657 du 29 juillet 1998 - art. 46 () JORF 31 juillet 1998
 
-	**Cite**:
+	**Transféré par**:
 
-	  - Loi n°90-449 1990-05-31 art. 1
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 34 () JORF 14 décembre 2000 en vigueur le 1er avril 2001
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°94-624 du 21 juillet 1994 - art. 29 () JORF 24 juillet 1994
+	  - SPEC_APPLI: Décret n°2001-260 du 27 mars 2001 - art. 6 (V)
 
 	**Nouveaux textes**:
 
 	  - Code de l'urbanisme - art. L421-3 (V)
+	  - Code de l'urbanisme - art. L423-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L123-3
@@ -14030,7 +14048,13 @@ b) Dans les zones urbaines, lorsque le dépassement est justifié par des prescr
 avec l'accord de l'autorité administrative, les propriétaires des terrains voisins acceptent de transférer une quantité de
 leurs possibilités de construction équivalente au dépassement en cause ;
 
-c) Lorsque le propriétaire a obtenu le transfert des possibilités de construction prévu à l'article L. 123-2.
+c) Lorsque le propriétaire a obtenu le transfert des possibilités de construction prévu à l'article L. 123-2 ;
+
+d) Lorsque le conseil municipal a décidé de les exonérer, les travaux portant sur des logements à usage locatif construits
+avec le concours financier de l'Etat en application du 3° de l'article L. 351-2 du code de la construction et de l'habitation
+destinés aux personnes défavorisées mentionnées à l'article 1er de la loi n° 90-449 du 31 mai 1990 visant à la mise en oeuvre
+du droit au logement et faisant l'objet d'un permis de construire délivré entre la date de publication de la loi n° 98-657 du
+29 juillet 1998 d'orientation relative à la lutte contre les exclusions et le 31 décembre 2002.
 
 Pour les parcelles grevées d'inscriptions de privilèges ou d'hypothèques, le transfert des possibilités de construction prévu
 au b et c de l'alinéa précédent, ne peut intervenir qu'après radiation de ces inscriptions, en tant qu'elles grèvent lesdites
@@ -14044,15 +14068,25 @@ sinistre.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
 	**Cite**:
 
-	  - Loi n°73-1128 1973-12-21 ART. 18-I
+	  - Loi n°90-449 1990-05-31 art. 1
+	  - Loi n°98-657 1998-07-29
 	  - Code de l'urbanisme - art. L123-1 (M)
 	  - Code de l'urbanisme - art. L123-2 (M)
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
 
 	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985
+	  - Loi n°98-657 du 29 juillet 1998 - art. 46 () JORF 31 juillet 1998
+
+	**Abrogé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
 
 	**Cité par**:
 
@@ -14074,10 +14108,6 @@ sinistre.
 	**Anciens textes**:
 
 	  - Code de l'urbanisme 21-I
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 ###### Article L332-1-1
