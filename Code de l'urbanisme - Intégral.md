@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1977-07-02
+Version Consolidée au 1977-07-08
 
 # Partie législative
 
@@ -13446,8 +13446,8 @@ classées comme telles par décrets pris en application du code de la route, et 
 
 ###### Article R*112-1
 
-La densité de construction est définie par le rapport entre la surface de plancher de cette construction et la surface de
-terrain sur laquelle elle est ou doit être implantée.
+La densité de construction est définie par le rapport entre la surface de plancher hors oeuvre nette de cette construction et
+la surface de terrain sur laquelle elle est ou doit être implantée.
 
 La superficie des terrains cédés gratuitement en application des articles R. 332-15 et R. 332-16 est prise en compte pour la
 définition de la densité de construction.
@@ -13469,16 +13469,27 @@ définition de la densité de construction.
 
 ###### Article R*112-2
 
-La surface de plancher [*définition*] visée à l'article R. 112-1 est égale à la somme des surfaces de plancher développée
-hors oeuvre de la construction après déduction [*calcul*] :
+La surface de plancher hors oeuvre brute d'une construction est égale à la somme des surfaces de plancher de chaque niveau de
+la construction [*calcul, définition applicable aux demandes de permis de construire déposées après le 8 juillet 1977*].
 
-a) D'un forfait de 15 p. 100 de la surface totale, ou de 25 p. 100 en ce qui concerne les maisons à usage d'habitation ne
-comportant qu'un seul logement, ce forfait représentant la surface des combles et sous-sols non aménageables pour
-l'habitation ou pour des activités à caractère professionnel, artisanal, industriel ou commercial et des surfaces telles que
-celles des terrasses, balcons ou loggias ;
+La surface de plancher hors oeuvre nette d'une construction est égale à la surface hors oeuvre brute de cette construction
+après déduction :
 
-b) Des surfaces des parties de bâtiments qui sont aménagées en vue du stationnement des véhicules pour autant qu'elles sont
-destinées à la satisfaction des besoins des occupants et des usagers de l'immeuble.
+a) Des surfaces de plancher hors oeuvre des combles et des sous-sols non aménageables pour l'habitation ou pour des activités
+à caractère professionnel, artisanal, industriel ou commercial ;
+
+b) Des surfaces de plancher hors oeuvre des toitures-terrasses, des balcons, des loggias, ainsi que des surfaces non closes
+situées au rez-de-chaussée ;
+
+c) Des surfaces de plancher hors oeuvre des bâtiments ou des parties de bâtiments aménagés en vue du stationnement des
+véhicules ;
+
+d) Des surfaces de planchers hors oeuvre des bâtiments affectés au logement des récoltes, des animaux ou du matériel agricole
+ainsi que des surfaces des serres de production.
+
+Sont également déduites de la surface hors oeuvre, dans la limite de 5 mètres carrés par logement, les surfaces de plancher
+affectées à la réalisation, dans le cadre de la réfection d'un immeuble à usage d'habitation, de travaux tendant à
+l'amélioration de l'hygiène des locaux.
 
 **Liens relatifs à cet article**
 
@@ -13490,10 +13501,6 @@ destinées à la satisfaction des besoins des occupants et des usagers de l'imme
 	  - Code de l'urbanisme - art. R*333-3 (Ab)
 	  - Code de la construction et de l'habitation. - art. R131-25 (M)
 	  - Code de la construction et de l'habitation. - art. R134-1 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R112-1
 
 	**Codifié par**:
 
@@ -13608,32 +13615,6 @@ pétitionnaire et au maire dans les délais prévus par les textes qui réglemen
 	  - Décret n°73-1023 1973-11-08
 
 
-###### Article *R123-27
-
-Un arrêté conjoint du ministre chargé de l'urbanisme, du ministre de l'intérieur, du ministre chargé du contrôle des
-établissements classés et du ministre chargé de la santé publique définira les établissements de 3è classe qui ne peuvent
-être ouverts sans autorisation préalable délivrée par le préfet. Si celui-ci n'a pas rejeté la demande ou pris une décision
-de sursis à statuer dans les quatre mois [*délai*] de la demande formulée par lettre recommandée avec demande d'avis de
-réception [*condition de forme*], l'autorisation [*tacite*] est réputée accordée.
-
-Jusqu'à la publication dudit arrêté, l'arrêté interministériel du 20 juillet 1949 relatif à l'autorisation préalable pour la
-création de certains établissements dangereux, insalubres ou incommodes de 3è classe demeurera applicable.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1949-07-20
-
-	**Anciens textes**:
-
-	  - Décret n°70-1016 1970-10-28 ART. 25
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ###### Article *R123-28
 
 Sans préjudice de l'application des articles 106 et suivants du code minier relatifs aux autorisations de mise en
@@ -13664,20 +13645,19 @@ les travaux peuvent être entrepris.
 
 ###### Article *R123-29
 
-A l'issue du délai de deux ans prévu à l'article L. 123-5, [*sursis à statuer*], une décision doit, sur simple confirmation
-par l'intéressé du maintien de la demande, être prise par l'autorité  chargée de la délivrance de l'autorisation dans les
-formes et délais requis en la matière. L'autorisation ne peut être refusée pour des motifs tirés du projet de plan
-d'occupation des sols si celui-ci n'a pas encore été rendu public.
+A l'expiration du délai de validité du sursis à statuer et, sur simple confirmation par l'intéressé du maintien de sa
+demande, une décision doit lui être notifiée par l'autorité chargée de la délivrance de l'autorisation dans les deux mois
+suivant cette confirmation. L'autorisation ne peut être refusée pour des motifs tirés du projet de plan d'occupation des sols
+si celui-ci n'a pas encore été rendu public.
+
+A défaut de notification de la décision [*silence*] dans le délai de deux mois, l'autorisation [*tacite*] est réputée
+accordée dans les termes où elle avait été demandée.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°70-1016 1970-10-28 ART. 27
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L123-5 (M)
 
 	**Codifié par**:
 
@@ -13710,25 +13690,67 @@ plan d'occupation des sols à partir de la date à laquelle ce plan a été rend
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R*123-32-1
+
+Nonobstant les dispositions réglementaires relatives à l'alignement, les alignements nouveaux des voies et places résultant
+du plan d'occupation des sols rendu public ou approuvé se substituent aux alignements résultant des plans généraux
+d'alignement applicables sur le même territoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
+
+
 #####  Section 5 : Modification, révision et mise à jour du plan d'occupation des sols.
 
 ###### Article R*123-34
 
-Des modifications peuvent être apportées au plan rendu public et au plan approuvé suivant la procédure prévue à l'article R.
-123-35.
+La modification d'un plan d'occupation des sols par application de l'article L. 123-4 (alinéa 2) a lieu suivant les modalités
+ci-après définies.
 
-S'il existe un schéma directeur d'aménagement et d'urbanisme ces modifications doivent respecter les orientations de ce
-schéma.
+L'initiative de la modification appartient concurremment au préfet et au maire ou, s'il existe un établissement public
+groupant plusieurs communes et ayant compétence en matière d'urbanisme, au président de cet établissement.
+
+Après avis des services publics concernés exprimés au sein du groupe de travail, le projet de modification est soumis à
+enquête publique, puis à une délibération prise par le conseil municipal, ou, s'il existe un établissement public groupant
+plusieurs communes et ayant compétence en matière d'urbanisme, par l'organe délibérant de cet établissement. La délibération
+est réputée prise si elle n'intervient pas dans le délai de trois mois [*silence acquiescement tacite*].
+
+La modification, qui ne peut concerner les espaces boisés classés, est approuvée selon les règles définies aux premier et
+deuxième alinéas de l'article R. 123-10.
+
+Lorsque la modification est approuvée par le préfet, elle doit être préalablement autorisée par un arrêté du ministre chargé
+de l'urbanisme si elle a pour objet ou pour effet :
+
+1. De supprimer une protection édictée en raison :
+
+Des risques de nuisances ;
+
+De la qualité des sites, des paysages ou des milieux naturels ;
+
+De la valeur agricole des terres ;
+
+De la richesse du sol ou du sous-sol.
+
+2. De réduire de façon sensible l'emprise ou la portée de ces protections.
+
+L'autorisation du ministre, qui précise la zone ou les secteurs sur lesquels la protection peut être réduite ou supprimée,
+revêt la forme d'un arrêté qui fait l'objet d'une mention au Journal officiel.
+
+L'acte modifiant le plan fait l'objet des mesures de publicité et d'information du public énoncées aux articles R. 123-12 et
+R. 123-13.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°70-1016 1970-10-28 art. 32
-
 	**Cite**:
 
-	  - Code de l'urbanisme R123-35
+	  - Code de l'urbanisme R123-12
 
 	**Codifié par**:
 
@@ -13737,40 +13759,55 @@ schéma.
 
 ###### Article R*123-35
 
-Sous réserve du troisième alinéa ci-après, la modification d'un plan d'occupation des sols rendu public ou approuvé est
-ordonnée par arrêté du préfet [*autorité compétente*], sur la demande ou après avis du ou des conseils municipaux intéressés
-ou des organes délibérants des établissements publics groupant les communes intéressées et ayant compétence en matière
-d'urbanisme. L'arrêté préfectoral désigne les secteurs du plan et les dispositions du règlement soumis à modification. Il est
-publié au Recueil des actes administratifs du département et inséré dans deux journaux régionaux ou locaux diffusés dans tout
-le département [*publicité*].
+La révision de tout ou partie d'un plan d'occupation des sols par application de l'article L. 123-4 (alinéa 1) a lieu dans
+les formes prévues pour son établissement et suivant les modalités ci-après définies.
 
-La modification du plan d'occupation des sols a lieu dans les formes prescrites pour son établissement. Elle peut porter sur
-tout ou partie des dispositions du plan.
+Elle est ordonnée par arrêté du préfet [*autorité compétente*] sur la demande, ou après avis, soit du ou des conseils
+municipaux intéressés, soit des organismes délibérants des établissements publics groupant les communes intéressées et ayant
+compétence en matière d'urbanisme. Cet arrêté est publié au recueil des actes administratifs du département et une mention en
+caractères apparents en est insérée dans deux journaux régionaux ou locaux diffusés dans tout le département [*publicité*].
 
-Toute modification portant sur les secteurs faisant l'objet d'une protection particulière, visés à l'article R. 123-18 (1.,b)
-ou, sans préjudice de l'application des articles L. 130-1 à L. 130-3, sur les espaces boisés classés visés à l'article R.
-123-18 (1.,c) ne peut être ordonnée que par un arrêté du ministre chargé de l'urbanisme. Cet arrêté est publié au Journal
-officiel.
+Lorsque la procédure de mise en révision d'un plan d'occupation des sols a pour objet ou pour effet :
 
-Pendant la période de modification, qui court de la date de publication de l'arrêté préfectoral ou de l'arrêté ministériel
-susmentionné jusqu'à la date à laquelle le nouveau plan est rendu public, le plan d'occupation des sols demeure en vigueur ;
-les mesures de sauvegarde prévues aux articles R. 123-25 à R. 123-29 peuvent toutefois s'appliquer en vue de la réalisation
-du plan modifié. Pendant la même période le préfet peut, par dérogation aux dispositions du plan en cours de modification,
-accorder les autorisations qui sont demandées pour des travaux publics ou privés non conformes à ces dispositions s'il estime
-que ces travaux seront compatibles avec les dispositions du plan d'occupation des sols modifié
+1. De supprimer une protection édictée :
+
+a) En faveur des espaces boisés ;
+
+b) En raison :
+
+- des risques de nuisances ; - de la qualité des sites, des paysages ou des milieux naturels ; - de la valeur agricole des
+terres ; - de la richesse du sol ou du sous-sol.
+
+2. De réduire l'emprise ou la portée de la protection visée au a ou de réduire de façon sensible l'emprise ou la portée des
+protections visées au b ; - le nouveau plan d'occupation des sols ne peut être rendu public sans autorisation sur ce point du
+ministre chargé de l'urbanisme. L'autorisation du ministre, qui précise la zone ou les secteurs sur lesquels la protection
+peut être réduite ou supprimée, revêt la forme d'un arrêté qui fait l'objet d'une mention au Journal officiel.
+
+Lorsque la modification apportée aux secteurs faisant l'objet d'une protection particulière a été ordonnée par le ministre
+chargé de l'urbanisme antérieurement à la publication du décret n. 77-736 du 7 juillet 1977, les dispositions de l'alinéa
+précédent ne sont pas applicables.
+
+Pendant la période de révision, qui court de la date de publication de l'arrêté préfectoral susvisé jusqu'à la date à
+laquelle le nouveau plan est rendu public, le plan d'occupation des sols demeure en vigueur. Les mesures de sauvegarde
+peuvent être appliquées.
+
+Pendant cette même période, le préfet peut, sauf dans les zones et secteurs protégés visés au troisième alinéa du présent
+article, accorder les autorisations qui sont demandées pour des travaux publics ou privés non conformes aux dispositions du
+plan d'occupation des sols mis en révision s'il constate que ces travaux sont compatibles avec les dispositions du plan
+d'occupation des sols en cours d'élaboration.
+
+Si, postérieurement à la mise en révision du plan d'occupation des sols, un secteur sauvegardé a été délimité, le préfet
+peut, dans ce secteur, après avis conforme de l'architecte des bâtiments de France et sauf dans les zones protégées visées au
+troisième alinéa ci-dessus, accorder les autorisations qui sont demandées pour des travaux publics ou privés non conformes
+aux dispositions du plan d'occupation des sols mis en révision s'il constate que ces travaux sont compatibles avec les
+dispositions du plan de sauvegarde et de mise en valeur en cours d'élaboration.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°70-1016 1970-10-28 ART. 33
-
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L130-1 (M)
-	  - Code de l'urbanisme - art. L130-2 (M)
-	  - Code de l'urbanisme - art. L130-3 (M)
-	  - Code de l'urbanisme R123-26
+	  - Code de l'urbanisme L123-4 AL. 1
+	  - Décret n°77-736 1977-07-07
 
 	**Codifié par**:
 
@@ -13779,7 +13816,7 @@ que ces travaux seront compatibles avec les dispositions du plan d'occupation de
 
 ###### Article R*123-36
 
-Le plan d'occupation des sols est tenu à jour par décision du préfet [*autorité compétente*].
+Le plan d'occupation des sols est mis à jour dans les conditions définies au présent article.
 
 La mise à jour [*définition*] est le report au plan :
 
@@ -13787,17 +13824,19 @@ a) Des périmètres et des zones mentionnés à l'article R. 123-19 (1. et 2.) ;
 
 b) Des modifications résultant d'une déclaration d'utilité publique prononcée en application de l'article L. 123-8 ;
 
-c) Des servitudes d'utilité publique mentionnées à l'article R. 123-19 (3.), instituées ou modifiées postérieurement à la
-date où le plan a été rendu public ou approuvé.
+c) Des servitudes d'utilité publique mentionnées à l'article R. 123-20 ou instituées ou modifiées postérieurement à la date
+où le plan a été rendu public ou approuvé ;
 
-//DECRET 277 d) Des zones d'intervention foncière ;
+d) Des zones d'intervention foncière.
 
-Lorsqu'elle consiste à reporter un périmètre de rénovation urbaine, qu'il soit délimité en application de l'article R. 312-1
-ou de l'article L. 313-3 (alinéa 2), un périmètre de restauration immobilière ou un périmètre de résorption de l'habitat
-insalubre, qui est compris en tout ou partie à l'intérieur de la zone urbaine d'un plan d'occupation des sols où une zone
-d'intervention foncière a été créée ou instituée de plein droit, la décision de mise à jour du plan est communiquée sans
-délai au conseil supérieur du notariat, à la chambre nationale des avoués près la cour d'appel, aux barreaux constitués près
-les tribunaux de grande instance dans le ressort desquels se trouve la commune et aux greffes des mêmes tribunaux.//
+Un arrêté du préfet constate dans chaque cas qu'il a été procédé à la mise à jour du plan.
+
+Lorsqu'elle consiste à reporter un périmètre de rénovation urbaine, un secteur sauvegardé, un périmètre de restauration
+immobilière ou un périmètre de résorption de l'habitat insalubre qui est compris à l'intérieur de la zone urbaine d'un plan
+d'occupation des sols où une zone d'intervention foncière a été créée ou instituée de plein droit, la décision constatant la
+mise à jour du plan est communiquée sans délai au conseil supérieur du notariat, à la chambre nationale des avoués près la
+cour d'appel, aux barreaux constitués près les tribunaux de grande instance dans le ressort desquels se trouve la commune et
+aux greffes des mêmes tribunaux.
 
 **Liens relatifs à cet article**
 
@@ -13808,7 +13847,7 @@ les tribunaux de grande instance dans le ressort desquels se trouve la commune e
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L123-8 (M)
-	  - Code de l'urbanisme R312-1
+	  - Code de l'urbanisme R123-19
 
 	**Cité par**:
 
@@ -13846,6 +13885,66 @@ demeurent applicables aux plans établis au titre de ces groupements.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*124-2
+
+Le remplacement des projets d'aménagement et des plans d'urbanisme par des plans d'occupation des sols, tel qu'il est prévu à
+l'article L. 124-1, s'opère dans les conditions ci-après :
+
+I - La mise en révision des projets d'aménagement et des plans d'urbanisme entrant dans le champ d'application de l'article
+L. 124-1 peut être ordonnée par arrêté du préfet sur la demande, ou après avis, soit du ou des conseils municipaux
+intéressés, soit des organismes délibérants des établissements publics groupant les communes intéressées et ayant compétence
+en matière d'urbanisme. Cet arrêté est publié au recueil des actes administratifs du département et inséré dans deux journaux
+régionaux ou locaux diffusés dans tout le département. Il vaut prescription de l'établissement du plan d'occupation des sols
+pour le territoire qu'il concerne.
+
+II - L'arrêté prescrivant l'établissement d'un plan d'occupation des sols dans les conditions fixées par les articles R.
+123-1 et R. 123-3 vaut, dans les limites territoriales auxquelles il s'applique, mise en révision des projets d'aménagement
+ou des plans d'urbanisme des collectivités qui en étaient pourvues lorsque ces projets ou plans entrent dans le champ
+d'application de l'article L. 124-1.
+
+III - Lorsque la mise en révision d'un projet d'aménagement ou d'un plan d'urbanisme a pour objet ou pour effet :
+
+1. De supprimer une protection édictée :
+
+a) En faveur des espaces boisés ;
+
+b) en raison : - des risques de nuisances ; - de la qualité des sites des paysages ou des milieux naturels ; - de la valeur
+agricole des terres ; - de la richesse du sol ou du sous-sol.
+
+2. De réduire l'emprise ou la portée de la protection visée au a ou de réduire de façon sensible l'emprise ou la portée des
+protections visées au b ; - le plan d'occupation du sol ne peut être rendu public sans autorisation donnée sur ce point par
+le ministre chargé de l'urbanisme. Cette autorisation, qui précise la zone ou les secteurs sur lesquels la protection peut
+être réduite ou supprimée, revêt la forme d'un arrêté qui fait l'objet d'une mention au Journal officiel.
+
+Lorsque la modification apportée aux secteurs faisant l'objet d'une protection particulière a été ordonnée par le ministre
+chargé de l'urbanisme antérieurement à la publication du décret n. 76-25 du 6 janvier 1976, les dispositions de l'alinéa
+précédent ne sont pas applicables.
+
+IV - Les projets d'aménagement et les plans d'urbanisme faisant l'objet des dispositions qui précèdent demeurent en vigueur
+jusqu'à la publication des arrêtés rendant publics les plans d'occupation des sols qui les remplacent. Toutefois, dès la date
+de publication des arrêtés prévus par les I et II ci-dessus, les mesures de sauvegarde instituées par les articles R. 123-26
+à R. 123-29 peuvent être appliquées. Dès la même date, en outre, le préfet peut, sauf dans les zones et secteurs protégés
+visés par le III ci-dessus, accorder les autorisations qui sont demandées pour des travaux publics ou privés non conformes
+aux dispositions du projet d'aménagement ou du plan d'urbanisme s'il estime que ces travaux sont compatibles avec les
+dispositions du plan d'occupation des sols en cours d'élaboration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Décret n°76-25 1976-01-06
+	  - Code de l'urbanisme - art. L124-1 (M)
+	  - Code de l'urbanisme L124-1, R123-1, R123-3, R123-26 à R123-29
+
+	**Abrogé par**:
+
+	  - Décret n°98-913 du 12 octobre 1998 - art. 41 (V) JORF 13 octobre 1998
 
 
 ###### Article R*124-3
@@ -14692,6 +14791,41 @@ du présent chapitre.
 
 #### Plans d'occupation des sols
 
+##### Etablissement et instruction du plan d'occupation des sols
+
+###### Article R*123-5-1
+
+Lorsqu'il en fait la demande au préfet, le président d'une association [*locale d'usagers*] agréée en application de
+l'article L. 121-8 reçoit communication du projet de plan d'occupation des sols ou est invité à en prendre connaissance au
+lieu désigné à cet effet.
+
+Il peut faire connaître ses observations écrites sur le projet de plan d'occupation des sols au plus tard un mois après en
+avoir eu connaissance [*avis délai*].
+
+//DECR. 225 du 10 mars 1981 :
+
+Dans le cas où un remembrement aménagement a été décidé, la commission communale d'aménagement foncier reçoit communication
+du projet de plan d'occupation des sols.//
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°81-225 1981-03-10 ART. 10 JORF 11 MARS 1981
+
+	**Abrogé par**:
+
+	  - Décret n°83-813 1983-09-09 ART. 2 JORF 11 SEPTEMBRE 1983 date d'entrée en vigueur 1 OCTOBRE 1983
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L121-8 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ##### Champ d'application.
 
 ###### Article R*123-1
@@ -15112,33 +15246,6 @@ dans les mairies des communes intéressées.
 	  - Décret n°73-1023 1973-11-08
 
 
-###### Article R*123-14
-
-Sans préjudice de l'application des dispositions spéciales prévues par les articles R. 313-1 à R. 313-20 en ce qui concerne
-les secteurs sauvegardés créés en application des articles L. 313-1 et suivants, le plan permanent de sauvegarde et de mise
-en valeur de ces secteurs est instruit et porte ses effets dans les mêmes conditions qu'un plan d'occupation des sols.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1016 1970-10-28 ART. 14
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L313-1 (M)
-	  - Code de l'urbanisme L313-1, R313-1 à R313-20
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*123-22 (V)
-	  - Code de l'urbanisme - art. R*313-6 (VD)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ##### Contenu du plan d'occupation des sols.
 
 ###### Article R*123-15
@@ -15202,18 +15309,32 @@ d'aménagement et d'urbanisme, s'il en existe un.
 
 Les documents graphiques font apparaître :
 
-1. Les zones à l'intérieur desquelles s'appliquent les règles visées à l'article R. 123-21 et les coefficients d'occupation
-des sols visés à l'article R. 123-22. Ces zones comprennent notamment :
+1. Les zones à l'intérieur desquelles s'appliquent les règles prévues à l'article R. 123-21 et les coefficients d'occupation
+des sols définis à l'article R. 123-22.
 
-a) Les zones d'urbanisation, dans lesquelles les capacités des équipements publics existants ou en cours de réalisation
-permettent immédiatement d'admettre les constructions ;
+Ces zones comprennent notamment :
 
-b) Les zones naturelles ou non équipées, dans lesquelles les règles et coefficients ci-dessus mentionnés peuvent exprimer
-l'interdiction de construire. Dans le cadre des orientations fixées par le schéma directeur, s'il en existe un, ou par le
-rapport de présentation, elles couvrent, d'une part, les secteurs qui pourront être urbanisés à l'occasion soit d'une
-modification du plan d'occupation des sols, soit de la création d'une zone d'aménagement concerté, d'autre part, les secteurs
-faisant l'objet d'une protection particulière en raison notamment de la qualité des sites et paysages ou de la valeur
-agricole des terres ;
+a) Les zones urbaines, dans lesquelles les capacités des équipements publics existants ou en cours de réalisation permettent
+d'admettre immédiatement des constructions et, éventuellement, à l'intérieur de ces zones, la localisation des terrains
+cultivés à protéger, inconstructibles en application de l'article L. 123-1 (6. bis) ;
+
+b) Les zones naturelles, peu ou non équipées, dans lesquelles les règles et coefficients mentionnés ci-dessus peuvent
+exprimer l'interdiction de construire. Elles comprennent :
+
+- les zones d'urbanisation future qui peuvent être urbanisées à l'occasion soit d'une modification du plan d'occupation des
+sols, soit de la création d'une zone d'aménagement concerté ou de la réalisation, aux conditions fixées par le règlement,
+d'un lotissement ;
+
+- les zones desservies partiellement par des équipements qu'il n'est pas prévu de renforcer et dans lesquelles des
+constructions ont déjà été édifiées ;
+
+- les zones de richesses naturelles à protéger en raison notamment de la valeur agricole des terres ou de la richesse du sol
+ou du sous-sol ;
+
+- les zones à protéger en raison, d'une part, de l'existence de risques ou de nuisances, d'autre part, de la qualité des
+sites, des milieux naturels, des paysages et de leur intérêt, notamment du point de vue esthétique ou écologique ; à
+l'intérieur des zones qui constituent un paysage de qualité sont indiqués ceux des secteurs où est applicable le transfert
+des possibilités de construction prévu à l'article L. 123-2.
 
 c) Les espaces boisés classés à conserver ou à créer ;
 
@@ -15229,9 +15350,22 @@ inondations, érosion, affaissements, éboulements, avalanches, justifient que s
 spéciales les constructions et installations de toute nature, permanentes ou non, les plantations, dépôts, affouillements,
 forages et exhaussements des sols.
 
-3. Le tracé et les caractéristiques des principales voies de circulation à conserver, à modifier ou à créer.
+3. Le tracé et les caractéristiques des voies de circulation à conserver, à modifier ou à créer, y compris les rues ou
+sentiers piétonniers et les pistes cyclables.
 
 4. Les emplacements réservés aux voies et ouvrages publics, aux installations d'intérêt général et aux espaces verts.
+
+5. Les zones ou secteurs dans lesquels, pour des motifs d'urbanisme ou d'architecture, la reconstruction sur place ou
+l'aménagement de bâtiments existants peut être imposé ou autorisé avec une densité au plus égale à celle qui était
+initialement bâtie, nonobstant le ou les coefficients d'occupation du sol fixés pour la zone ou le secteur.
+
+6. Les zones ou secteurs à l'intérieur desquels l'autorité compétente pour délivrer l'autorisation de construire peut
+subordonner cette autorisation à la démolition de tout ou partie des bâtiments existants sur le terrain où l'implantation de
+la construction est envisagée.
+
+7. Les quartiers, rues, monuments, sites et secteurs à protéger ou à mettre en valeur pour des motifs d'ordre esthétique,
+historique ou écologique, et notamment les zones dans lesquelles la démolition des immeubles est subordonnée à la délivrance
+d'un permis de démolir.
 
 **Liens relatifs à cet article**
 
@@ -15244,13 +15378,10 @@ forages et exhaussements des sols.
 	  - Code de l'environnement - art. R123-23 (V)
 	  - Code de l'urbanisme - art. A123-1 (V)
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme R123-20
-
 	**Cite**:
 
-	  - Code de l'urbanisme R123-22
+	  - Code de l'urbanisme - art. L123-2 (M)
+	  - Code de l'urbanisme L123-1 6 BIS
 
 	**Codifié par**:
 
@@ -15261,13 +15392,14 @@ forages et exhaussements des sols.
 
 Sont en outre reportés, s'il en existe, sur les documents graphiques, à titre d'information :
 
-1. Les périmètres suivants :
+1° Les périmètres suivants :
 
 a) Les secteurs sauvegardés, délimités en application des articles L. 313-1 et suivants, ainsi que les périmètres de
 restauration immobilière définis dans les conditions prévues à l'article L. 313-4 ;
 
-b) Les périmètres sensibles définis en application des articles R. 142-1 et suivants, ainsi que, le cas échéant, les zones
-dites de préemption désignées dans les conditions prévues à l'article L. 142-1 ;
+b) Les périmètres sensibles ainsi que, le cas échéant, les zones dites de préemption délimitées dans les conditions prévues à
+l'article L. 142-1 et les zones délimitées en application de l'article L. 430-1 e à l'intérieur desquelles la démolition des
+immeubles est subordonnée à la délivrance d'un permis de démolir ;
 
 c) Les périmètres provisoires ou définitifs de zones d'aménagement différé ;
 
@@ -15278,10 +15410,10 @@ e) Les périmètres de rénovation urbaine délimités en application de l'artic
 f) Les périmètres de résorption de l'habitat insalubre délimités en application de l'article L. 38 ou de l'article L. 42 du
 code de la santé publique ;
 
-2. Les zones à urbaniser en priorité ainsi que les zones d'aménagement concerté.
+g) Les périmètres de développement prioritaires délimités en application de la loi n° 80-531 du 15 juillet 1980 relative aux
+économies d'énergie et à l'utilisation de la chaleur.
 
-3. Les servitudes d'utilité publique affectant l'utilisation ou l'occupation du sol créées en application de législations
-particulières. Ces servitudes peuvent toutefois n'être figurées que sur un document graphique annexe.
+2° Les zones à urbaniser en priorité ainsi que les zones d'aménagement concerté.
 
 **Liens relatifs à cet article**
 
@@ -15291,14 +15423,19 @@ particulières. Ces servitudes peuvent toutefois n'être figurées que sur un do
 
 	**Cite**:
 
+	  - Loi n°80-531 1980-07-15
 	  - Code de la santé publique - art. L38 (Ab)
 	  - Code de la santé publique - art. L42 (Ab)
 	  - Code de l'urbanisme - art. L142-1 (M)
 	  - Code de l'urbanisme - art. L222-1 (Ab)
 	  - Code de l'urbanisme - art. L313-1 (M)
 	  - Code de l'urbanisme - art. L313-4 (M)
-	  - Code de l'urbanisme - art. R142-1 (M)
-	  - Code de l'urbanisme L313-1, L313-4, R142-1, L142-1, L222-1, R312-1
+	  - Code de l'urbanisme - art. L430-1 (Ab)
+	  - Code de l'urbanisme L313-1, L313-4, L142-1, L430-1, L222-1, R312-1
+
+	**Modifié par**:
+
+	  - Décret n°81-542 1981-05-13 art. 40 JORF 15 mai 1981
 
 	**Cité par**:
 
@@ -15343,6 +15480,10 @@ soumises à des conditions particulières, telles l'ouverture ou l'extension d'�
 carrières, les opérations d'affouillement ou d'exhaussement des sols, les défrichements, coupes et abattages d'arbres ainsi
 que les divers modes d'occupation du sol qui font l'objet d'une réglementation.
 
+Le règlement fixe également les cas dans lesquels la démolition de tout ou partie d'un immeuble ou d'un groupe d'immeubles
+compris à l'intérieur d'une zone définie à l'article R. 123-18 (7.) peut être interdite ou soumise à des prescriptions
+spéciales.
+
 2. Le règlement édicte les prescriptions relatives :
 
 a) A l'accès, à la desserte, à l'équipement en réseaux divers et, le cas échéant, aux dimensions et à la surface des
@@ -15351,7 +15492,8 @@ terrains ;
 b) A l'implantation des constructions par rapport aux voies, aux limites séparatives et aux autres constructions ainsi que
 celles relatives à leur emprise au sol, leur hauteur, et, le cas échéant, leur aspect extérieur ;
 
-c) Aux obligations imposées en matière de réalisation d'aires de stationnement et d'espaces verts.
+c) Aux obligations imposées en matière de réalisation d'aires de stationnement, d'espaces verts d'aires de jeux et de
+loisirs.
 
 Dans les secteurs visés à l'article R. 123-18 (1., e) lesdites prescriptions [*architecturales*] sont figurées sur le plan de
 masse côté à trois dimensions prévu par cette disposition.
@@ -15359,10 +15501,12 @@ masse côté à trois dimensions prévu par cette disposition.
 3. Le règlement fixe le ou les coefficients d'occupation des sols de chaque zone ou partie de zone et les conditions dans
 lesquelles ces coefficients peuvent être éventuellement dépassés en application des articles L. 123-1 et L. 332-1.
 
-4. Le règlement indique celles de ses dispositions prévues aux 1. et 2. ci-dessus auxquelles une dérogation pourra être
-accordée.
+4. Le règlement fixe, pour les zones [*protection des paysages*] dans lesquelles le transfert des possibilités de
+construction prévu à l'article L. 123-2 s'applique, les modalités de ce transfert et notamment la superficie minimale du
+terrain au profit duquel le transfert est effectué ainsi que de la densité minimale de construction exigée pour que le droit
+de construire puisse être reconnu sur ce même terrain.
 
-5. Le règlement peut ne comporter qu'une partie des dispositions prévues au présent article
+5. Le règlement peut ne comporter qu'une partie des dispositions prévues au présent article.
 
 **Liens relatifs à cet article**
 
@@ -15378,6 +15522,7 @@ accordée.
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L123-1 (M)
+	  - Code de l'urbanisme - art. L123-2 (M)
 	  - Code de l'urbanisme - art. L332-1 (M)
 	  - Code de l'urbanisme R123-18
 
@@ -15669,59 +15814,34 @@ Lorsque le plan d'occupation des sols est approuvé par décret en Conseil d'Eta
 	  - Décret n°73-1023 1973-11-08
 
 
-#### Dispositions transitoires relatives aux projets d'aménagement et aux plans d'urbanisme
+##### Modification du plan d'occupation des sols.
 
-###### Article R*124-2
+###### Article R*123-34-1
 
-Le remplacement des projets d'aménagement et des plans d'urbanisme par des plans d'occupation des sols, tel qu'il est prévu à
-l'article L. 124-1, s'opère dans les conditions ci-après :
-
-I. - La mise en révision des projets d'aménagement et des plans d'urbanisme entrant dans le champ d'application de l'article
-L. 124-1 peut être ordonnée par arrêté du préfet [*autorité compétente*] sur la demande, ou après avis, soit du ou des
-conseils municipaux intéressés, soit des organismes délibérants des établissements publics groupant les communes intéressées
-et ayant compétence en matière d'urbanisme. Cet arrêté est publié au recueil des actes administratifs du département et
-inséré dans deux journaux régionaux ou locaux diffusés dans tout le département. Il vaut prescription de l'établissement du
-plan d'occupation des sols pour le territoire qu'il concerne.
-
-II.- L'arrêté prescrivant l'établissement d'un plan d'occupation des sols dans les conditions fixées par les articles R.
-123-1 et R. 123-3 vaut, dans les limites territoriales auxquelles il s'applique, mise en révision des projets d'aménagement
-ou des plans d'urbanisme des collectivités qui en étaient pourvues lorsque ces projets ou plans entrent dans le champ
-d'application de l'article L. 124-1.
-
-III.- Lorsque la mise en révision d'un projet d'aménagement ou d'un plan d'urbanisme a pour objet ou pour effet de réduire ou
-de supprimer l'emprise ou la portée d'une protection particulière de la nature de celles visées à l'article R. 123-18 (1. b
-et c) [*zones naturelles ou non équipées, espaces boisés*], le plan d'occupation des sols consécutif ne peut être rendu
-public sans autorisation sur ce point du ministre chargé de l'urbanisme.
-
-Si la réduction ou la suppression est envisagée postérieurement à la publication du plan d'occupation des sols, l'approbation
-de ce plan est subordonnée à la même autorisation. Dans les deux cas, l'autorisation du ministre, qui doit préciser la zone
-ou les secteurs sur lesquels la protection peut être réduite ou supprimée, revêt la forme d'un arrêté publié au journal
-officiel [*publicité*] .
-
-Lorsque la modification apportée aux secteurs faisant l'objet d'une protection particulière a été ordonnée par le ministre
-chargé de l'urbanisme antérieurement à la publication du décret n. 76-25 du 6 janvier 1976, les dispositions de l'alinéa
-précédent ne sont pas applicables.
-
-IV.- Les projets d'aménagement et les plans d'urbanisme faisant l'objet des dispositions qui précèdent demeurent en vigueur
-jusqu'à la publication des arrêtés rendant publics les plans d'occupation des sols qui les remplacent. Toutefois, dès la date
-de publication des arrêtés prévus par les I et II ci-dessus, les mesures de sauvegarde instituées par les articles R. 123-26
-à R. 123-29 peuvent être appliquées. Dès la même date, en outre, le préfet peut, sauf dans les zones et secteurs protégés
-visés par le III ci-dessus, accorder les autorisations qui sont demandées pour des travaux publics ou privés non conformes
-aux dispositions du projet d'aménagement ou du plan d'urbanisme s'il estime que ces travaux sont compatibles avec les
-dispositions du plan d'occupation des sols en cours d'élaboration.
+Lorsqu'une opération dont l'utilité publique est poursuivie, est incompatible avec celles des dispositions d'un plan
+d'occupation des sols qui édictent une protection soit en faveur des espaces boisés, soit en raison des risques de nuisances,
+de la qualité des sites, des paysages ou des milieux naturels, de la valeur agricole des terres ou de la richesse du sol ou
+du sous-sol, l'acte déclaratif d'utilité publique n'emporte modification du plan d'occupation des sols rendu public ou
+approuvé, en application de l'article L. 123-8, que si le ministre chargé de l'urbanisme a autorisé cette modification
+lorsque la déclaration d'utilité publique peut être prononcée par arrêté préfectoral ou si ce même ministre signe ou
+contresigne l'acte déclaratif d'utilité publique dans les autres cas.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L124-1 (M)
-	  - Code de l'urbanisme R123-3
-	  - Décret n°76-25 1976-01-06
+	  - Code de l'urbanisme - art. L123-8 (M)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
+	**Abrogé par**:
+
+	  - Décret n°83-813 1983-09-09 ART. 5 JORF 11 SEPTEMBRE 1983 date d'entrée en vigueur 1 OCTOBRE 1983
+
+
+#### Dispositions transitoires relatives aux projets d'aménagement et aux plans d'urbanisme
 
 ###### Article R*124-4
 
@@ -17385,6 +17505,40 @@ l'intérieur de la zone périphérique doivent faire l'objet de plans d'occupati
 
 L'action en nullité d'une convention [*détachement parcelle*] conclue en violation des dispositions de l'article L. 111-5
 (alinéa 3) est exercée, au nom de l'Etat, par le préfet, devant le tribunal de grande instance de la situation de l'immeuble.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme L111-5 AL. 3
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+### Sanctions et servitudes
+
+#### Contrôle de l'utilisation des droits de construire.
+
+###### Article R*160-5
+
+L'obtention du certificat d'urbanisme prévu à l'article L. 111-5 (alinéa 3) n'est pas exigée en cas :
+
+a) De cession d'un lot compris dans un lotissement autorisé ;
+
+b) De cession [*gratuite*] d'un terrain dans les conditions fixées par les articles R. 332-15 et R. 332-16 [*élargissement
+création redressement voie publique*] ;
+
+c) De cession d'un terrain aménagé situé dans une zone créée avant l'institution des zones d'aménagement concerté et qui a
+été exclue du champ d'application de la taxe locale d'équipement, lorsque cette cession a fait l'objet d'un cahier des
+charges soumis à l'approbation du préfet ;
+
+d) De cession d'un terrain aménagé situé dans une zone d'aménagement concerté, une zone de rénovation urbaine, une zone à
+urbaniser en priorité ou une zone de résorption de l'habitat insalubre, lorsque cette cession a fait l'objet d'un cahier des
+charges soumis à l'approbation du préfet ;
+
+e) De transfert de propriété opéré dans le cadre d'une opération de remembrement urbain.
 
 **Liens relatifs à cet article**
 
@@ -20316,6 +20470,354 @@ intéressé.
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R313-4
+
+Dans les limites territoriales auxquelles il s'applique, l'arrêté interministériel ou le décret en Conseil d'Etat délimitant
+le secteur sauvegardé vaut prescription de l'établissement du plan de sauvegarde et de mise en valeur et mise en révision du
+plan d'occupation des sols rendu public ou approuvé ou de tout document d'urbanisme en tenant lieu.
+
+A compter de la date de cette publication, l'architecte des bâtiments de France assure la surveillance générale du secteur
+sauvegardé en vue de préserver son caractère esthétique et de conserver les immeubles qui présentent un intérêt historique.
+Il a la responsabilité des travaux susceptibles d'y être entrepris à cet effet.
+
+Indépendamment des responsabilités propres du ministre chargé de l'urbanisme, les conditions architecturales selon lesquelles
+est assurée la conservation des immeubles et du cadre urbain dans lequel ces immeubles se trouvent sont définies par le
+ministre chargé de l'architecture.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L313-5 (M)
+	  - Code de l'urbanisme - art. R*322-32 (V)
+	  - Code de l'urbanisme - art. R*322-33 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+#####    Sous-section 3 : Contenu du plan de sauvegarde et de mise en valeur
+
+###### Article R313-11
+
+Le plan de sauvegarde et de mise en valeur comporte tout ou partie des documents ou dispositions énumérés aux articles R.
+123-16 à R. 123-24.
+
+Le rapport de présentation indique notamment les conditions dans lesquelles les préoccupations d'environnement sont prises en
+compte par le plan.
+
+Le règlement précise, et les documents graphiques font apparaître, les conditions architecturales selon lesquelles est
+assurée la conservation des immeubles et du cadre urbain dans lequel ces immeubles se trouvent.
+
+Les documents graphiques font apparaître notamment les immeubles ou parties d'immeubles soumis aux dispositions du troisième
+alinéa de l'article L. 313-1.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L313-1 (M)
+	  - Code de l'urbanisme R123-16 à R123-24, L313-1
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L313-1 (M)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R313-13 (V)
+	  - Code de l'urbanisme - art. R313-15 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+#####    Sous-section 4 : Effets du plan de sauvegarde et de mise en valeur
+
+#####  Paragraphe 1 : Mesures applicables entre la délimitation du secteur sauvegardé et la publication du plan de sauvegarde et de mise en valeur
+
+###### Article R313-15
+
+Aucun permis de démolir ne peut être délivré sans l'accord exprès ou tacite du ministre responsable ou de son délégué, donné
+dans les conditions définies aux articles R. 430-1 et suivants.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*313-14 (M)
+	  - Code de l'urbanisme - art. R313-12 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-19-3 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme R430-1
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R313-16
+
+Pour les immeubles faisant l'objet des procédures prévues par les articles 303 à 305 du code de l'urbanisme et de
+l'habitation, l'arrêté du maire prescrivant la réparation ou la démolition du bâtiment menaçant ruine vaut autorisation
+spéciale au sens de l'article L. 313-2. Cet arrêté ne peut être pris qu'après avis de l'architecte des bâtiments de France.
+Cet avis est réputé délivré en l'absence de réponse [*silence*] dans le délai de huit jours.
+
+L'architecte des bâtiments de France est invité à assister à l'expertise prévue à l'article 304 du code de l'urbanisme et de
+l'habitation.
+
+Si la procédure de péril a été engagée avant la délimitation du secteur sauvegardé, l'architecte des bâtiments de France est
+informé de l'état de la procédure et invité à assister à l'expertise si celle-ci n'a pas encore eu lieu.
+
+En cas de péril imminent donnant lieu à application de la procédure prévue à l'article 305 du code de l'urbanisme et de
+l'habitation, le maire en informe l'architecte des bâtiments de France en même temps qu'il adresse l'avertissement au
+propriétaire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L313-2 (M)
+	  - Code de l'urbanisme et de l'habitation 303, 304, 305
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*313-14 (M)
+	  - Code de l'urbanisme - art. R313-12 (M)
+	  - Code de l'urbanisme - art. R313-19-5 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-19-3 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R313-17
+
+Les autorisations concernant les lotissements, l'exploitation de carrières, l'ouverture d'installations classées et les
+divers modes d'occupation du sol faisant l'objet de réglementations particulières, ne peuvent être délivrées qu'après avis
+conforme de l'architecte des bâtiments de France.
+
+L'autorisation accordée en application de l'alinéa ci-dessus tient lieu de l'autorisation exigée par l'article L. 313-2.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L313-2 (M)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R313-12 (M)
+	  - Code de l'urbanisme - art. R313-17-2 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-19-3 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R313-18
+
+A l'expiration du délai de validité du sursis à statuer et, sur simple confirmation par l'intéressé du maintien de sa
+demande, une décision doit lui être notifiée par l'autorité chargée de la délivrance de l'autorisation dans les deux mois
+suivant cette confirmation. L'autorisation ne peut être refusée pour des motifs tirés du projet de plan de sauvegarde et de
+mise en valeur si celui-ci n'a pas encore été rendu public.
+
+A défaut*silence[* de notification de la décision dans le délai de deux mois, l'autorisation*tacite*] est réputée accordée
+dans les termes où elle avait été demandée.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-6 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-7 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-8 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+#####  Paragraphe 2 : Mesures applicables une fois le plan de sauvegarde et de mise en valeur rendu public
+
+###### Article R313-19
+
+Le plan de sauvegarde et de mise en valeur rendu public remplace tout projet d'aménagement, tout plan d'urbanisme ou tout
+plan d'occupation des sols déjà existant et en tient lieu pour l'avenir.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R313-19-1
+
+Le plan de sauvegarde et de mise en valeur rendu public ou approuvé s'applique aux immeubles protégés au titre des lois des
+31 décembre 1913 sur les monuments historiques et 2 mai 1930 sur les sites, et compris dans les limites du secteur
+sauvegardé.
+
+Les travaux prévus au plan et concernant les édifices classés ou inscrits sur l'inventaire supplémentaire des monuments
+historiques sont exécutés conformément aux règles en vigueur pour la conservation des monuments historiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
+
+	**Cite**:
+
+	  - Loi n°1913-12-31
+	  - Loi n°1930-05-02
+
+
+###### Article R313-19-2
+
+Après la publication de l'acte rendant public le plan de sauvegarde et de mise en valeur, les demandes de permis de
+construire concernant les immeubles compris dans le secteur sauvegardé sont soumises par l'autorité chargée d'instruire la
+demande à l'architecte des bâtiments de France. Ce dernier lui fait connaître, dans le délai d'un mois, son avis sur la
+conformité du projet avec les dispositions du plan de sauvegarde et de mise en valeur et, éventuellement, les prescriptions
+imposées pour la réalisation du projet. A défaut de [*silence*] réponse dans le délai d'un mois, l'avis est réputé favorable.
+
+Si l'avis constate la non-conformité, le permis de construire ne peut être accordé.
+
+Si l'avis est assorti de prescriptions, l'autorité chargée de l'instruction les transmet à l'autorité compétente pour statuer
+sur la demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R313-25 (M)
+	  - Code de l'urbanisme - art. R421-38-9 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-25 (M)
+
+
+###### Article R313-19-3
+
+Les dispositions des articles R. 313-14 à R. 313-17 demeurent applicables après la publication de l'acte rendant public le
+plan de sauvegarde et de mise en valeur.
+
+Les opérations, travaux et occupations du sol mentionnés à l'article R. 313-17 (alinéa 1) [*lotissement, carrière,
+établissement classé*] ne peuvent être autorisés que s'ils sont conformes aux dispositions du plan.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R313-14 (M)
+	  - Code de l'urbanisme - art. R313-17-2 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-15 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-16 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-17 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme R313-14 à R313-17
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R313-19-4
+
+Lorsque, à la date à laquelle le plan est rendu public, le délai de validité d'un sursis à statuer n'est pas encore écoulé,
+une décision définitive doit, sur simple confirmation par l'intéressé du maintien de sa demande*autorisation*, être prise par
+l'autorité compétente dans les formes et délais requis en la matière.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
+
+
+###### Article R313-19-5
+
+En cas de difficulté sur la portée exacte des dispositions contenues dans le plan de sauvegarde et de mise en valeur,
+l'architecte des bâtiments de France est consulté ainsi que le directeur départemental de l'équipement.
+
+Les adaptations mineures au plan de sauvegarde et de mise en valeur ne peuvent être décidées qu'après avis conforme de
+l'architecte des bâtiments de France.
+
+Toutefois, ces dispositions ne font pas obstacle à l'exercice des pouvoirs de police du maire dans les conditions définies à
+l'article R. 313-16.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R313-16 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R313-19-6
+
+Les dispositions des articles R. 123-32, R. 123-32-1 et R. 123-33 sont applicables aux plans de sauvegarde et de mise en
+valeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme R123-32, R123-32-1, R123-33
+
+
 ##### Sous-section 6 : Dispositions diverses
 
 ###### Article R313-22
@@ -20360,6 +20862,35 @@ prononcer sur le financement des affaires relatives à la conservation et à la 
 
 
 #####  Section 2 : Restauration immobilière
+
+###### Article R*313-24
+
+Le préfet fait procéder à l'enquête prescrite à l'article L. 313-4 dans les formes prévues aux articles R. 11-3 à R. 11-17 du
+code de l'expropriation pour cause d'utilité publique. Toutefois, le dossier soumis à enquête comprend seulement :
+
+Une notice explicative indiquant l'objet de l'opération ;
+
+Le plan de situation ;
+
+L'indication du périmètre envisagé.
+
+Le périmètre de restauration immobilière est institué par arrêté du préfet.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°64-1156 1964-11-17 art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L313-4 (M)
+	  - Code de l'expropriation pour cause d'utilité publique R11-3 à R11-17
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
 
 ###### Article R313-25
 
@@ -24530,6 +25061,166 @@ notamment pour alimenter le réseau de distribution publique.
 	  - Décret n°73-1023 1973-11-08
 
 
+##### Sous-section 2 : Participation en cas de non-réalisation d'aires de stationnement
+
+###### Article R*332-17
+
+Le montant de la participation mentionnée à l'article L. 421-3 (alinéas 3 et 4) est obtenu en multipliant la valeur
+forfaitaire fixée en application de l'alinéa 2 du présent article par le nombre de places de stationnement non réalisées pour
+lesquelles le constructeur ne justifie pas de l'obtention d'une concession à long terme dans un parc public de stationnement
+existant ou en cours de réalisation.
+
+La valeur forfaitaire d'une place de stationnement non réalisée est fixée par délibération du conseil municipal ou de
+l'organe délibérant de l'établissement public groupant plusieurs communes et exerçant la compétence définie à l'article 4
+(12e) de la loi n. 66-1069 du 31 décembre 1966 dans la limite prévue au quatrième alinéa de l'article L. 421-3.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°66-1069 du 31 décembre 1966 - art. 4 (Ab)
+	  - Code de l'urbanisme L421-3 al. 3 et 4
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*332-18
+
+La participation pour non-réalisation d'aires de stationnement est due par le bénéficiaire de l'autorisation de construire. 
+
+Sont tenus solidairement au paiement de la participation ; 
+
+a) Les banques, établissements financiers ou sociétés de caution mutuelle qui sont garants de l'achèvement de la
+construction ; 
+
+b) Les titulaires successifs de l'autorisation de construire ainsi que leurs ayants-cause autres que les personnes qui ont
+acquis des droits sur l'immeuble à construire en vertu d'un contrat régi par la loi n° 67-3 du 3 janvier 1967 relative aux
+ventes d'immeubles à construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Loi n°67-3 du 3 janvier 1967
+
+	**Abrogé par**:
+
+	  - Décret n°2016-6 du 5 janvier 2016 - art. 1
+
+
+###### Article R*332-19
+
+La participation pour non-réalisation d'aires de stationnement est liquidée au taux en vigueur à la date de la délivrance du
+permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°2016-6 du 5 janvier 2016 - art. 1
+
+
+###### Article R*332-20
+
+La participation est recouvrée en vertu d'un titre de recette émis au vu du permis de construire par l'ordonnateur de la
+commune ou de l'établissement public groupant plusieurs communes et exerçant la compétence définie à l'article 4 (12°) de la
+loi n° 66-1069 du 31 décembre 1966. 
+
+Le montant de la participation doit être versé dans le délai d'un an qui suit la notification du titre de recette. 
+
+Conformément à l'article R. 241-5 du code des communes, les poursuites pour son recouvrement ont lieu comme en matière
+d'impôts directs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Loi n°66-1069 du 31 décembre 1966 - art. 14
+	  - Code des communes - art. R*241-5
+
+	**Abrogé par**:
+
+	  - Décret n°2016-6 du 5 janvier 2016 - art. 1
+
+
+###### Article R*332-21
+
+L'action en recouvrement de la participation pour non-réalisation d'aires de stationnement dont dispose l'administration peut
+être exercée jusqu'à l'expiration de la quatrième année suivant celle au cours de laquelle le permis de construire a été
+délivré. La prescription est interrompue dans les conditions définies à l'article 1975 du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1975
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°2016-6 du 5 janvier 2016 - art. 1
+
+
+###### Article R*332-22
+
+Le redevable de la participation en obtient, sur sa demande, le dégrèvement ou la restitution :
+
+a) En cas de péremption du permis de construire ;
+
+b) En cas de retrait ou d'annulation du permis de construire ;
+
+c) Si les constructions sont démolies en vertu d'une décision de justice pour violation d'une servitude de droit privé ;
+
+d) Si, dans le délai de cinq ans à compter du paiement, la commune ou l'établissement public compétent n'a pas affecté le
+montant de la participation à la réalisation d'un parc public de stationnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°2016-6 du 5 janvier 2016 - art. 1
+
+
+###### Article R*332-23
+
+Les litiges relatifs à la participation pour non-réalisation d'aires de stationnement sont de la compétence des juridictions
+administratives.
+
+Sans préjudice du recours pour excès de pouvoir susceptible d'être formé contre la décision d'octroi du permis de construire,
+les réclamations sont présentées instruites et jugées selon les régles de procédure applicables en matière d'impôts directs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°2016-6 du 5 janvier 2016 - art. 1
+
+
 #### Chapitre III : Versement résultant du dépassement du plafond légal de densité
 
 #####  Section 1 : Dispositions générales
@@ -26822,157 +27513,6 @@ répondre aux conditions susvisées.
 
 ##### Mesures préalables à l'approbation du plan permanent de sauvegarde.
 
-###### Article R313-4
-
-Les mesures de sauvegarde prévues aux articles R. 123-26 à R. 123-28 sont applicables, si elles ne le sont déjà, à compter de
-[*point de départ*] la date de publication de l'arrêté ou du décret visés à l'article précédent.
-
-Ces mesures sont prises dans les formes et conditions fixées aux articles R. 123-26 à R. 123-28 telles qu'elles sont
-complétées par les dispositions des articles R. 313-5 à R. 313-8.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°63-691 1963-07-13 ART. 5
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. L313-5 (M)
-	  - Code de l'urbanisme - art. R*322-32 (V)
-	  - Code de l'urbanisme - art. R*322-33 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R313-5 (M)
-	  - Code de l'urbanisme - art. R313-6 (M)
-	  - Code de l'urbanisme - art. R313-7 (M)
-	  - Code de l'urbanisme - art. R313-8 (M)
-	  - Code de l'urbanisme R123-28
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R313-5
-
-Pendant la période comprise entre la délimitation du secteur et l'approbation du plan permanent de sauvegarde et de mise en
-valeur, les demandes de permis de construire concernant les immeubles compris dans le secteur délimité sont soumises par le
-directeur départemental de l'équipement à l'architecte des bâtiments de France. Ce dernier lui fait connaître son avis dans
-le délai maximum d'un mois.
-
-En cas d'avis défavorable, le directeur départemental de l'équipement propose au préfet de surseoir à statuer. Si
-l'architecte des bâtiments de France estime que la délivrance du permis de construire doit être soumise à l'observation de
-certaines conditions, le directeur départemental de l'équipement ne peut proposer à l'autorité compétente de délivrer le
-permis de construire qu'en subordonnant cette délivrance aux conditions exprimées.
-
-Le permis de construire vaut autorisation au sens de l'article L. 313-2.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°63-691 1963-07-13 ART. 6
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L313-2 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L313-2 (M)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R313-4 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R313-7
-
-Dans les communes visées par l'article 340 [*10.000 habitants, nombre supérieur, région parisienne*] du code de l'urbanisme
-et de l'habitation les dispositions de l'article 340-2 (1) dudit code relatives aux autorisations de démolir demeurent
-applicables, sous réserve qu'aucune autorisation ne soit délivrée sans l'avis favorable de l'architecte des bâtiments de
-France.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°63-691 1963-07-13 ART. 8 AL. 1
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*313-14 (M)
-	  - Code de l'urbanisme - art. R*313-8 (M)
-	  - Code de l'urbanisme - art. R313-18 (M)
-	  - Code de l'urbanisme - art. R313-4 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-18 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme 340
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R313-8
-
-Pour les immeubles faisant l'objet de procédures prévues par les articles 303 à 305 du code de l'urbanisme et de
-l'habitation, l'arrêté du maire prescrivant la réparation ou la démolition du bâtiment menaçant ruine vaut autorisation
-spéciale au sens de l'article L. 313-2.
-
-Cet arrêté ne peut être pris qu'après avis de l'architecte des bâtiments de France. Cet avis est réputé délivré en l'absence
-de réponse dans le délai de huit jours.
-
-L'architecte des bâtiments de France assiste à l'expertise prévue à l'article 304 du code de l'urbanisme et de l'habitation.
-
-Si la procédure de péril a été engagée avant la délimitation du secteur sauvegardé l'architecte des bâtiments de France est
-informé de l'état de la procédure et assiste à l'expertise si celle-ci n'a pas encore eu lieu.
-
-En cas de péril imminent donnant lieu à application de la procédure prévue à l'article 305 du code de l'urbanisme et de
-l'habitation, le maire en informe l'architecte des bâtiments de France en même temps qu'il adresse l'avertissement au
-propriétaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°63-691 1963-07-13 ART. 8 AL. 2
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R*131-4 (Ab)
-	  - Code de l'urbanisme - art. R313-18 (M)
-	  - Code de l'urbanisme - art. R313-19 (M)
-	  - Code de l'urbanisme - art. R313-4 (M)
-	  - Code de l'urbanisme - art. R313-6 (M)
-	  - Code de l'urbanisme - art. R313-9 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L313-2 (M)
-	  - Code de l'urbanisme 304
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-18 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-6 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ###### Article R313-9
 
 Les travaux [*construction, lotissement, établissement classé, carrière*] visés aux articles R. 123-26 à R. 123-28 ne peuvent
@@ -27002,53 +27542,58 @@ présentées et instruites dans les conditions prévues à l'article R. 313-6.
 	  - Décret n°73-1023 1973-11-08
 
 
-###### Article R313-10
+##### Instruction du plan de sauvegarde et de mise en valeur.
 
-A l'expiration d'un délai de deux ans à partir de [*point de départ*] la date de l'arrêté de sursis à statuer une décision
-définitive doit, sur simple réquisition de l'intéressé par lettre recommandée, être prise par l'autorité compétente dans les
-formes, délais et conditions prévus à l'article R. 123-29.
+###### Article R313-5
 
-L'autorisation ne peut être refusée pour des motifs tirés des prévisions du plan permanent de sauvegarde et de mise en valeur
-non encore approuvé à moins que celui-ci ait fait l'objet d'un avis favorable de la commission nationale des secteurs
-sauvegardés et comporte des prévisions qui s'opposent expressément à la réalisation du projet envisagé.
+L'instruction du plan de sauvegarde et de mise en valeur est conduite sous l'autorité du préfet. Un architecte chargé de
+proposer un plan de sauvegarde et de mise en valeur est désigné, après agrément conjoint du ministre chargé de l'architecture
+et du ministre chargé de l'urbanisme, par le maire ou, s'il existe un établissement public groupant plusieurs communes et
+ayant compétence en matière d'urbanisme par le président de cet établissement ; à défaut de décision du maire ou du président
+de l'établissement public, l'architecte est désigné par le préfet.
+
+Le projet élaboré par l'architecte est soumis à une commission locale du secteur sauvegardé constituée par arrêté du préfet
+et qui comprend [*composition*] des représentants élus des communes ou établissements publics intéressés et des représentants
+de l'Etat. Sont associés aux travaux de cette commission l'architecte chargé du plan et des personnes qualifiées en matière
+de sauvegarde et de mise en valeur des quartiers anciens.
+
+Les dispositions de l'article R. 123-4 (alinéas 3 et 4) sont applicables aux travaux de la commission locale du secteur
+sauvegardé.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Décret n°63-691 1963-07-13 ART. 10
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L313-2 (M)
 
 	**Cité par**:
 
-	  - Code de l'urbanisme - art. R313-20 (M)
+	  - Code de l'urbanisme - art. R313-4 (M)
 
 	**Cite**:
 
-	  - Code de l'urbanisme R123-29
+	  - Code de l'urbanisme R123-4 AL. 3 et 4
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
 
-##### Mesures préalables à l'approbation ou plan permanent de sauvegarde.
-
 ###### Article R313-6
 
-Sous réserve des dispositions de l'article R. 313-8 les demandes d'autorisation spéciale pour tout travail ayant pour effet
-de modifier l'état des immeubles et pour lequel le permis de construire n'est pas exigé sont adressées par le pétitionnaire à
-l'architecte des bâtiments de France et instruites par ses soins. Ce dernier en informe immédiatement le directeur
-départemental de l'équipement et le maire et interdit provisoirement les travaux ou délivre, le cas échéant, l'autorisation
-en énonçant, s'il y a lieu, les prescriptions auxquelles le propriétaire doit se conformer.
+Le projet de plan est communiqué par le préfet à ceux des services de l'Etat qui ne sont pas représentés au sein de la
+commission locale du secteur sauvegardé et qu'il y a lieu de consulter sur le projet, selon les modalités fixées par
+l'article R. 123-5.
 
-En l'absence de décision [*silence*] de l'architecte des bâtiments de France dans le délai de deux mois l'autorisation
-[*tacite*] est réputée accordée.
+Les associations [*locales d'usagers*] agréées en application de l'article L. 121-8 sont consultées sur le plan dans les
+conditions définies à l'article R. 123-5-1.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°63-691 1963-07-13 ART. 7
+	  - Code de l'urbanisme - art. L121-8 (M)
+	  - Code de l'urbanisme R123-5-1
 
 	**Cité par**:
 
@@ -27059,281 +27604,247 @@ En l'absence de décision [*silence*] de l'architecte des bâtiments de France d
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-18 (M)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-8 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-9 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R313-8 (M)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
 
-##### Plan permanent de sauvegarde et de mise en valeur.
+###### Article R313-7
 
-###### Article R313-13
+Le projet de plan élaboré dans les conditions prévues aux articles précédents est soumis par le préfet à la délibération du
+conseil municipal de la commune intéressée ou, s'il existe un établissement public groupant plusieurs communes et ayant
+compétence en matière d'urbanisme, de l'organe délibérant de cet établissement, selon les modalités définies à l'article R.
+123-6.
 
-Le plan permanent de sauvegarde et de mise en valeur remplace tout plan d'urbanisme de détail ou tout plan d'occupation des
-sols déjà existant et en tient lieu pour l'avenir.
-
-Il comporte [*contenu*], outre les dispositions énumérées aux articles R. 123-16 à R. 123-20 et à l'article R. 313-11,
-l'indication des immeubles bâtis ou non bâtis ou des ensembles  urbains qui ne doivent pas faire l'objet de démolition,
-d'enlèvement, de modification ou d'altération.
+Après avoir été soumis à l'avis de la commission nationale des secteurs sauvegardés, le plan est rendu public par arrêté du
+préfet. Toutefois, le ministre chargé de l'urbanisme et le ministre chargé de l'architecture peuvent décider d'évoquer
+l'affaire pour prendre cette décision.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°63-691 1963-07-13 ART. 13
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*313-14 (M)
-	  - Code de l'urbanisme - art. R313-12 (M)
-	  - Code de l'urbanisme - art. R313-15 (V)
-	  - Code de l'urbanisme - art. R313-17-2 (Ab)
-	  - Code de l'urbanisme - art. R313-25 (M)
-	  - Code de l'urbanisme - art. R421-38-9 (Ab)
+	  - Code de l'urbanisme - art. R*313-8 (M)
+	  - Code de l'urbanisme - art. R313-18 (M)
+	  - Code de l'urbanisme - art. R313-4 (M)
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R313-11 (M)
-	  - Code de l'urbanisme R123-20
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-13 (M)
+	  - Code de l'urbanisme R123-6
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
 
-###### Article R313-14
+###### Article R313-8
 
-Pour tout ce qui n'est pas réglé par le paragraphe III de la présente section, l'établissement et l'instruction des plans
-permanents de sauvegarde et de mise en valeur se poursuivent dans les mêmes formes et conditions que ceux des plans
-d'occupation des sols, sous les réserves ci-après :
-
-1° La commission nationale des secteurs sauvegardés est consultée après l'accomplissement des procédures prévues à l'article
-R. 123-10 (1er alinéa) ;
-
-2° Pour les immeubles protégés au titre de la loi du 31 décembre 1913 sur les monuments historiques et compris dans les
-limites d'un secteur sauvegardé, la commission supérieure des monuments historiques ou sa délégation permanente pourront, à
-la demande du ministre des affaires culturelles, émettre un avis sur les dispositions du plan de sauvegarde et de mise en
-valeur touchant ces immeubles.
-
-Dans ce cas, la commission supérieure des monuments historiques ou sa délégation permanente devront se prononcer dans le
-délai d'un mois.
-
-3° Pour les immeubles ou les ensembles urbains protégés au titre de la loi du 2 mai 1930 sur les sites et compris dans les
-limites d'un secteur sauvegardé, la consultation de la commission nationale des secteurs sauvegardés sur les dispositions du
-plan permanent de sauvegarde et de mise en valeur se substitue aux consultations des commissions départementale et supérieure
-des sites.
+Le plan rendu public est soumis à enquête [*publique*] selon les modalités définies à l'article R. 123-8. Au vu des résultats
+de l'enquête et après avis de la commission locale du secteur sauvegardé, il est soumis par le préfet aux conseils municipaux
+ou aux organes délibérants des établissements publics ayant compétence en matière d'urbanisme qui doivent se prononcer dans
+les mêmes délais et conditions qu'à l'article R. 123-6 sur les documents qui leur sont présentés.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cité par**:
 
-	  - Décret n°63-691 1963-07-13 ART. 14
+	  - CODE DES COMMUNES. - art. R*131-4 (Ab)
+	  - Code de l'urbanisme - art. R313-18 (M)
+	  - Code de l'urbanisme - art. R313-19 (M)
+	  - Code de l'urbanisme - art. R313-4 (M)
+	  - Code de l'urbanisme - art. R313-6 (M)
+	  - Code de l'urbanisme - art. R313-9 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme R123-6
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+##### Instructions du plan de sauvegarde et de mise en valeur.
+
+###### Article R313-10
+
+L'acte rendant public ou approuvant un plan de sauvegarde et de mise en valeur fait l'objet des mesures de publicité et
+d'information du public mentionnées aux articles R. 123-12 et 123-13.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R313-20 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme R123-13
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+##### Effets du plan de sauvegardes et de mise en valeur
+
+##### Mesures applicables entre la délimitation du secteur sauvegarde et la publication du plan de sauvegarde et de mise en valeur.
+
+###### Article R313-12
+
+Les mesures de sauvegarde prévues aux articles R. 123-26 et R. 123-28 sont applicables [*point de départ*] à compter de la
+date de publication de l'acte délimitant le secteur sauvegardé.
+
+Ces mesures sont prises dans les formes et conditions fixées aux articles R. 123-26 et R. 123-28, telles qu'elles sont
+complétées par les dispositions des articles R. 313-13 à R. 313-17.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R313-13 (M)
+	  - Code de l'urbanisme - art. R313-14 (M)
+	  - Code de l'urbanisme - art. R313-15 (M)
+	  - Code de l'urbanisme - art. R313-16 (M)
+	  - Code de l'urbanisme - art. R313-17 (M)
+	  - Code de l'urbanisme R123-26
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+##### Effets du plan de sauvegarde et de mise en valeur
+
+##### Mesures applicables entre la délimitation du secteur sauvegarde et la publication du plan de sauvegarde et de mise en valeur.
+
+###### Article R313-14
+
+Sous réserve des dispositions des articles R. 313-15 et R. 313-16, les demandes d'autorisation spéciale pour tout travail
+ayant pour effet de modifier l'état des immeubles et pour lequel le permis de construire n'est pas exigé soit de plein droit,
+soit en application de l'article L. 422-1 [*exemption*] sont adressées par le pétitionnaire à l'architecte des bâtiments de
+France qui procède à leur instruction. Il en informe immédiatement le directeur départemental de l'équipement et le maire et
+décide de surseoir à statuer sur la demande ou délivre, le cas échéant, l'autorisation en énonçant, s'il y a lieu, les
+prescriptions auxquelles le pétitionnaire doit se conformer.
+
+En l'absence [*silence*] de notification de la décision de l'architecte des bâtiments de France dans le délai de deux mois,
+l'autorisation [*tacite*] est réputée accordée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L422-1 (M)
+	  - Code de l'urbanisme - art. R313-15 (M)
+	  - Code de l'urbanisme - art. R313-16 (M)
+	  - Code de l'urbanisme - art. R313-19-3 (M)
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R313-12 (M)
 	  - Code de l'urbanisme - art. R313-17-1 (Ab)
 
-	**Cite**:
-
-	  - Code de l'urbanisme R123-10 AL. 1
-	  - Loi   1913-12-31
-	  - Loi   1930-05-02
-
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
 
-###### Article R313-15
-
-Le maire de chaque commune intéressée est appelé à participer aux délibérations de la commission nationale des secteurs
-sauvegardés avec voix consultative, en ce qui concerne sa commune sur le projet de plan permanent de sauvegarde et de mise en
-valeur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°63-691 1963-07-13 ART. 15
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*313-14 (M)
-	  - Code de l'urbanisme - art. R313-12 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R313-16
-
-Le plan permanent de sauvegarde et de mise en valeur est approuvé par décret en Conseil d'Etat conformément aux dispositions
-de l'article L. 313-1 sur le rapport conjoint du ministre des affaires culturelles, du ministre de l'intérieur et du ministre
-chargé de l'urbanisme.
-
-Le plan ainsi approuvé s'applique aux immeubles protégés au titre des lois des 31 décembre 1913 sur les monuments historiques
-et 2 mai 1930 sur les sites et compris dans les limites du secteur sauvegardé.
-
-L'acte portant approbation de ce plan fait l'objet des mesures de publication et de mise à la disposition du public prévues
-aux articles R. 123-12 et R. 123-13.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°63-691 1963-07-13 ART. 16
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L313-1 (M)
-	  - Code de l'urbanisme R123-12
-	  - Loi  1913-12-31
-	  - Loi  1930-05-02
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*313-14 (M)
-	  - Code de l'urbanisme - art. R313-12 (M)
-	  - Code de l'urbanisme - art. R313-19-5 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R313-17
-
-Après approbation du plan permanent de sauvegarde et de mise en valeur, les demandes de permis de construire concernant les
-immeubles compris dans le secteur sauvegardé sont soumises par le directeur départemental de l'équipement à l'architecte des
-bâtiments de France.
-
-Ce dernier fait connaître au directeur départemental de l'équipement, dans le délai de quinze jours, son avis de conformité
-du projet avec les dispositions du plan permanent de sauvegarde.
-
-Si cet avis est défavorable ou s'il comporte des conditions à la réalisation du projet, le directeur départemental de
-l'équipement propose à l'autorité compétente soit de refuser le permis de construire, soit de l'assortir de ces conditions.
-
-Le permis de construire vaut autorisation au sens de l'article L. 313-2.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°63-691 1963-07-13 ART. 17
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L313-2 (M)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R313-12 (M)
-	  - Code de l'urbanisme - art. R313-17-2 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R313-18
-
-Les dispositions des articles R. 313-6 à R. 313-8 demeurent applicables après l'approbation du plan permanent de sauvegarde
-et de mise en valeur.
-
-Les visas et autorisations prévus à l'article R. 123-31 [*construction, lotissement, carrière, établissement classé*] ne
-peuvent être délivrés qu'après avis de l'architecte des bâtiments de France.
-
-Les demandes d'autorisation spéciale pour des travaux neufs à exécuter par ou pour les services publics ou leurs
-concessionnaires et exemptées de permis de construire sont présentées et instruites dans les conditions prévues à l'article
-R. 313-6.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°63-691 1963-07-13 ART. 18
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R313-6 (M)
-	  - Code de l'urbanisme - art. R313-7 (M)
-	  - Code de l'urbanisme - art. R313-8 (M)
-	  - Code de l'urbanisme R123-31
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-6 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-7 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-8 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R313-19
-
-En cas de difficulté sur la portée exacte des dispositions contenues dans le plan permanent de sauvegarde, l'architecte des
-bâtiments de France est consulté conjointement avec le directeur départemental de l'équipement.
-
-Des dérogations au plan permanent de sauvegarde et de mise en valeur ne peuvent être accordées que par arrêté conjoint du
-ministre des affaires culturelles, du ministre de l'intérieur et du ministre chargé de l'urbanisme, après avis conforme de la
-commission nationale des secteurs sauvegardés.
-
-Toutefois, ces dispositions ne font pas obstacle à l'exercice des pouvoirs de police du maire dans les conditions définies à
-l'article R. 313-8.
-
-En cas de dispositions divergentes entre le plan d'urbanisme directeur et le plan permanent de sauvegarde, ce dernier prévaut
-sur le plan d'urbanisme directeur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°63-691 1963-07-13 ART. 19
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R313-8 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
+##### Modification du plan de sauvegarde.
 
 ###### Article R313-20
 
-Les travaux prévus au plan permanent de sauvegarde et de mise en valeur et concernant des édifices classés ou inscrits sur
-l'inventaire supplémentaire des monuments historiques sont exécutés conformément aux règles en vigueur pour la conservation
-des monuments historiques.
+La modification d'un plan de sauvegarde et de mise en valeur par application de l'article L. 313-1 (alinéa 4) a lieu suivant
+les modalités ci-après définies.
 
-Après l'approbation du plan, la surveillance du caractère historique et esthétique du secteur sauvegardé et des travaux
-susceptibles d'y être entrepris est assurée par l'architecte des bâtiments de France.
+L'initiative de la modification appartient concurremment au préfet et au maire ou, s'il existe un établissement public
+groupant plusieurs communes et ayant compétence en matière d'urbanisme, au président de cet établissement.
+
+Après avis de la commission locale du secteur sauvegardé et consultation des services publics non représentés au sein de
+cette commission, dans la mesure où ils sont concernés, le projet de modification est soumis à enquête publique, puis à une
+délibération prise par le conseil municipal ou, s'il existe un établissement  public groupant plusieurs communes et ayant
+compétence en matière d'urbanisme, par l'organe délibérant de cet établissement. La délibération est réputée favorable
+[*silence*] si elle n'intervient pas dans le délai de trois mois.
+
+La commission nationale des secteurs sauvegardés émet un avis sur le projet de modification dans le délai de deux mois à
+compter de la réception du dossier. A défaut de réponse dans ce délai, elle est réputée favorable.
+
+La modification est approuvée par arrêté conjoint du ministre chargé de l'architecture et du ministre chargé de l'urbanisme
+en l'absence d'opposition du conseil municipal ou de l'organe délibérant de l'établissement public groupant plusieurs
+communes et ayant compétence en matière d'urbanisme ou par arrêté des mêmes ministres et du ministre de l'intérieur en cas
+d'opposition du conseil municipal ou de l'organe délibérant de l'établissement public.
+
+l'acte modifiant le plan fait l'objet des mesures de publicité et d'information du public mentionnées aux articles R. 123-12
+et R. 123-13.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°63-691 1963-07-13 ART. 20
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*322-32 (V)
 	  - Code de l'urbanisme - art. R*322-33 (V)
 	  - Code de l'urbanisme - art. R313-7 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme R123-12
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+##### Révision du plan de sauvegarde.
+
+###### Article R313-20-1
+
+La révision de tout ou partie d'un plan de sauvegarde et de mise en valeur a lieu dans les formes prévues pour son
+établissement et suivant les modalités ci-après définies.
+
+Elle est ordonnée par arrêté conjoint du ministre chargé de l'architecture et du ministre chargé de l'urbanisme sur la
+demande, ou après avis, soit du ou des conseils municipaux intéressés, soit des organes délibérants des établissements
+publics groupant les communes intéressées et ayant compétence en matière d'urbanisme. Cet arrêté est publié au Journal
+officiel.
+
+Pendant la période de révision, qui court de la date de publication de l'arrêté interministériel susvisé jusqu'à la date à
+laquelle le nouveau plan est rendu public, le plan de sauvegarde et de mise en valeur demeure en vigueur. Les mesures de
+sauvegarde prévues aux articles R. 123-26 et R. 123-28 peuvent être appliquées selon les modalités définies à l'article R.
+313-13 (alinéa 2).
+
+Pendant cette même période, le préfet peut, après avis conforme de l'architecte des bâtiments de France, et sauf dans les
+espaces boisés classés, accorder les autorisations qui sont demandées pour des travaux publics ou privés non conformes aux
+dispositions du plan de sauvegarde et de mise en valeur mis en révision, s'il constate que ces travaux sont compatibles avec
+les dispositions du plan de sauvegarde et de mise en valeur en cours d'élaboration.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-13 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme R123-28
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+##### Mise à jour du plan de sauvegarde.
+
+###### Article R313-20-2
+
+Le plan de sauvegarde et de mise en valeur est tenu à jour dans les conditions définies à l'article R. 123-36. Toutefois, les
+dispositions du b de cet article ne sont pas applicables.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme R123-36
 
 	**Codifié par**:
 
@@ -27393,38 +27904,6 @@ ministre des affaires culturelles et du ministre chargé de l'urbanisme.
 
 
 #### Restauration immobilière.
-
-###### Article R313-24
-
-Le ministre chargé de l'urbanisme [*autorité compétente*] fait procéder à l'enquête prescrite à l'article L. 313-4, dans les
-formes prévues au titre Ier du décret n° 59-701 du 6 juin 1959 modifié. Toutefois le dossier soumis à enquête comprend
-seulement [*contenu*] :
-
-Une notice explicative indiquant notamment l'objet de l'opération ;
-
-Le plan de situation ;
-
-L'indication du périmètre envisagé.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°59-701 1959-06-06 TITRE I
-	  - Code de l'urbanisme - art. L313-4 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°64-1156 1964-11-17 ART. 1
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme R312-1
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
 
 ###### Article R313-32
 
@@ -30076,44 +30555,37 @@ promenades, parcs ou jardins accessibles au public.
 
 ### Secteurs sauvegardes
 
-#### Plan permanent de sauvegarde et de mise en valeur.
+#### Effets du plan de sauvegarde et de mise en valeur
 
-###### Article R313-11
+##### Mesures applicables entre la délimitation du secteur sauvegarde et la publication du plan de sauvegarde et de mise en valeur.
 
-Les conditions architecturales selon lesquelles est assurée la conservation des immeubles et du cadre urbain dans lequel ces
-immeubles se trouvent sont définies par le ministre des affaires culturelles.
+###### Article R313-13
+
+Pendant la période comprise entre la publication de l'acte délimitant le secteur et celle de l'acte décidant de rendre public
+le plan de sauvegarde et de mise en valeur, les demandes de permis de construire concernant les immeubles compris dans le
+secteur sauvegardé sont soumises par l'autorité chargée d'instruire la demande à l'architecte des bâtiments de France. Ce
+dernier lui fait connaître son avis dans le délai maximum d'un mois.
+
+En cas d'avis défavorable, l'autorité chargée d'instruire la demande propose au préfet de surseoir à statuer. Si l'architecte
+des bâtiments de France estime que la délivrance du permis de construire doit être soumise à l'observation de certaines
+conditions, l'autorité chargée d'instruire la demande ne peut proposer à l'autorité compétente de délivrer le permis de
+construire qu'en subordonnant cette délivrance aux conditions exprimées.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°63-691 1963-07-13 ART. 11
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L313-1 (M)
 
 	**Cité par**:
 
-	  - Code de l'urbanisme - art. R313-13 (V)
-	  - Code de l'urbanisme - art. R313-15 (M)
+	  - Code de l'urbanisme - art. R*313-14 (M)
+	  - Code de l'urbanisme - art. R313-12 (M)
+	  - Code de l'urbanisme - art. R313-15 (V)
+	  - Code de l'urbanisme - art. R313-17-2 (Ab)
+	  - Code de l'urbanisme - art. R313-25 (M)
+	  - Code de l'urbanisme - art. R421-38-9 (Ab)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R313-12
-
-L'architecte chargé d'élaborer le plan permanent de sauvegarde et de mise en valeur et de veiller à son exécution est désigné
-par le maire de la ou des communes intéressées ou à défaut, par le préfet, après l'agrément conjoint du ministre des affaires
-culturelles et du ministre chargé de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°63-691 1963-07-13 ART. 12
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-13 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-20-1 (M)
 
 	**Codifié par**:
 
@@ -34053,27 +34525,29 @@ cas de récidive, outre la peine d'amende, un emprisonnement de dix jours à un 
 	  - Code de l'urbanisme R422-3
 
 
-### Déclaration préalable de travaux
+### Permis de démolir
 
-#### Désignation des parties du territoire ou le permis de construire n'est pas exigé.
+#### Régime général
+
+##### La demande
 
 ###### Article R*430-2
 
-Dans les communes régies par un plan d'urbanisme approuvé en vertu du décret n. 58-1463 du 31 décembre 1958, modifié, seules
-peuvent être désignées, par application de l'article L. 430-1 (2. - a) les parties du territoire pour lesquelles des
-coefficients provisoires d'occupation du sol ont été fixés. Cette désignation intervient après consultation d'une conférence
-entre tous les services intéressés.
+Le dossier joint à la demande comprend [*contenu*] le plan de situation et précise :
+
+a) Les conditions actuelles d'utilisation ou d'occupation du bâtiment ;
+
+b) La surface de plancher hors oeuvre nette telle qu'elle est définie à l'article R. 112-2 ;
+
+c) Les motifs de l'opération projetée ;
+
+d) En cas de démolition partielle, la nature et l'importance des travaux nécessaires.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°58-1463 1958-12-31
-	  - Code de l'urbanisme - art. L430-1 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°69-452 1969-05-19 ART. 2
+	  - Code de l'urbanisme R112-2
 
 	**Codifié par**:
 
@@ -34082,15 +34556,11 @@ entre tous les services intéressés.
 
 ###### Article R*430-3
 
-La désignation d'une zone d'aménagement concerté en application de l'article L. 430-1 (2. - b) est subordonnée à la
-définition du programme de construction par la collectivité publique intéressée et à l'approbation du plan d'aménagement de
-la zone par le préfet.
+Lorsque le bâtiment se trouve situé dans les zones ou périmètres mentionnés à l'article L. 430-1 (b à e), la demande est
+complétée [*contenu*] par l'indication de la date approximative de construction du bâtiment et par des documents
+photographiques faisant apparaître les conditions de son insertion dans les lieux environnants.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-452 1969-05-19 ART. 3
 
 	**Cite**:
 
@@ -34103,51 +34573,485 @@ la zone par le préfet.
 
 ###### Article R*430-4
 
-Lorsqu'un fait ou une décision entraîne, en vertu des articles L. 430-1 ou L. 430-2 le rétablissement de l'exigence du permis
-de construire, un arrêté préfectoral constate cette modification. Cet arrêté est pris sans l'avis préalable du maire et n'a
-pas à être précédé, le cas échéant, de la consultation de la conférence entre les services prévue à l'article R. 430-2.
+La demande et le dossier sont établis en trois [*nombre*] exemplaires.
+
+Toutefois, lorsque le bâtiment est inscrit sur l'inventaire supplémentaire des monuments historiques ou qu'il est en instance
+de classement en application de l'article 9 de la loi du 2 mai 1930, la demande et le dossier doivent être établis en quatre
+exemplaires.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-452 1969-05-19 ART. 4
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L430-1 (Ab)
-	  - Code de l'urbanisme - art. L430-2 (Ab)
-	  - Code de l'urbanisme R430-2
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°77-738 1977-07-07 8 JUILLET 1977
 
 
 ###### Article R*430-5
 
-Toute demande de permis de construire qui n'a pas fait l'objet d'une décision à la date à laquelle la partie du territoire où
-le terrain se trouve situé est désignée dans les conditions fixées à l'article R. 430-1 continue d'être instruite dans les
-conditions prévues par les articles R. 421-1 à R. 421-43. Toutefois, le pétitionnaire peut la transformer en déclaration
-[*préalable de travaux*] au sens de l'article L. 430-3 en complétant son dossier, dans les formes prévues à la section II ci-
-après par la certification et l'engagement prévus à l'article L. 430-3 (b et c) et s'il y a lieu les décisions et contrats
-mentionnés aux articles R. 430-11 et R. 430-12.
+L'un des exemplaires de la demande est adressé par pli recommandé avec demande d'avis de réception postal [*condition de
+forme*] au maire de la commune du lieu de situation du bâtiment ou remis contre décharge à la mairie.
+
+Lorsque l'immeuble est inscrit sur l'inventaire supplémentaire des monuments historiques, l'un des exemplaires est adressé
+par pli recommandé avec demande d'avis de réception postal au ministre chargé des monuments historiques ou remis contre
+décharge dans les locaux du ministère. Cet envoi fait courir le délai de quatre mois pendant lequel le propriétaire ne peut
+procéder à aucune modification de l'immeuble en application de l'article 2 (5è alinéa) de la loi du 31 décembre 1913.
+
+Les autres exemplaires, accompagnés d'une pièce justificative de l'envoi ou du dépôt de l'exemplaire destiné au maire ou au
+ministre chargé des monuments historiques sont adressés par pli recommandé avec demande d'avis de réception postal au
+directeur départemental de l'équipement ou remis contre décharge dans les locaux de la direction.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-452 1969-05-19 ART. 5
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L430-3 (Ab)
-	  - Code de l'urbanisme R421-1 à R421-43
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
+	**Créé par**:
+
+	  - Décret n°77-738 1977-07-07 8 JUILLET 1977
+
+	**Cite**:
+
+	  - Loi   1913-12-31 ART. 2 AL. 5
+
+
+##### L'instruction
+
+###### Article R*430-7
+
+Dans le mois de la réception de l'exemplaire de la demande qui lui est destiné, le maire fait connaître son avis au directeur
+départemental de l'équipement. S'il est défavorable, cet avis doit être motivé et communiqué au préfet. Il est réputé
+favorable s'il n'est pas intervenu dans le délai prévu ci-dessus [*silence*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°84-224 1984-03-29 ART. 6 JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L430-1 (Ab)
+
+
+###### Article R*430-8
+
+Si le dossier est incomplet, le directeur départemental de l'équipement, dans les quinze jours de la réception de la demande,
+invite, par lettre recommandée avec demande d'avis de réception postal [*condition de forme*], le demandeur à fournir les
+pièces complémentaires dans les conditions prévues à l'article R. 430-5. Le délai d'instruction [*point de départ*] part de
+la réception des pièces complétant le dossier.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°84-224 1984-03-29 ART. 6 JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
+
+	**Cite**:
+
+	  - Code de l'urbanisme R430-5
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*430-9
+
+Le directeur départemental de l'équipement procède à l'instruction de la demande [*autorité compétente*].
+
+Sauf lorsque l'obligation du permis de démolir résulte uniquement de l'application des dispositions de l'article L. 430-1 A,
+il transmet un exemplaire de la demande de l'architecte des bâtiments de France dans les quinze jours suivant sa réception ou
+celle des pièces complémentaires.
+
+Il transmet dans le même délai un exemplaire de la demande au ministre chargé des monuments historiques et des sites lorsque
+le bâtiment est en instance de classement en application de l'article 9 de la loi du 2 mai 1930 ou lorsqu'il ne peut être
+modifié sans autorisation ministérielle en application des articles 17 ou 28 de la même loi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°84-224 1984-03-29 ART. 6 JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
+
+	**Cite**:
+
+	  - Code de l'urbanisme L430-1 A
+	  - Loi n°1930-05-02 ART. 17, 28
+	  - Loi n°1930-05-02 ART. 9
+
+
+###### Article R*430-10
+
+L'architecte des bâtiments de France et le ministre chargé des monuments historiques et des sites disposent d'un délai de
+deux mois pour faire connaître leur avis au directeur départemental de l'équipement.
+
+Toutefois, lorsque le bâtiment est inscrit à l'inventaire supplémentaire des monuments historiques, le ministre dispose d'un
+délai de trois mois ; le délai court, dans ce cas, à compter de la réception de la demande qui lui a été adressée directement
+par le pétitionnaire.
+
+L'avis est réputé favorable s'il n'a pas été donné [*silence*] dans les délais prescrits aux alinéas précédents, sauf si
+l'affaire a été évoquée avant l'expiration de ces délais, dans les conditions prévues à l'article R. 430-14.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme R430-14
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°84-224 1984-03-29 ART. 6 JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
+
+
+###### Article R*430-11
+
+Le directeur départemental de l'équipement formule un avis sur la demande et le transmet au préfet avec l'ensemble du
+dossier.
+
+Si cet avis est favorable, il peut être assorti de prescriptions ; s'il est défavorable, il doit être motivé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-224 1984-03-29 ART. 21, ART. 22 : Modalites d'application
+	  - SPEC_APPLI: Décret n°84-224 du 29 mars 1984 - art. 21 (M)
+
+	**Abrogé par**:
+
+	  - Décret n°84-224 1984-03-29 ART. 6 JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
+
+
+##### La décision
+
+###### Article R*430-12
+
+La décision est prise par le préfet [*autorité compétente*]. Le directeur départemental de l'équipement ne peut la signer par
+délégation du préfet s'il a émis un avis contraire à celui du maire.
+
+Le préfet agit par délégation du ministre chargé du logement pour l'application de l'article 11 de la loi n. 48-1360 du 1er
+septembre 1948.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Loi n°48-1360 1948-09-01 ART. 11
+
+	**Créé par**:
+
+	  - Décret n°77-738 1977-07-07 8 JUILLET 1977
+
+
+###### Article R*430-13
+
+Lorsque l'immeuble est inscrit sur l'inventaire supplémentaire des monuments historiques, situé dans le champ de visibilité
+d'un édifice classé ou inscrit, protégé au titre des articles 4, 9, 17 ou 28 de la loi du 2 mai 1930 [*monument historique*]
+ou compris dans un secteur sauvegardé, la décision du préfet doit être conforme à l'avis du ministre chargé des monuments
+historiques et des sites ou de son délégué.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Loi   1930-05-02 ART. 4, 9, 17, 28
+
+
+###### Article R*430-15
+
+L'autorité compétente pour statuer sur la demande se prononce par arrêté. Si la décision comporte rejet total ou partiel de
+la demande, ou si elle est assortie de prescriptions, elle doit être motivée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*430-18
+
+Mention du permis de démolir doit être affichée sur le terrain de manière visible de l'extérieur, par les soins de son
+bénéficiaire, dès la notification de la décision d'octroi et pendant toute la durée du chantier.
+
+Il en est de même d'une copie du certificat prévu à l'article R. 430-17 en cas de permis tacite.
+
+En outre, dans les huit jours de la délivrance expresse ou tacite du permis de démolir, un extrait du permis ou une copie du
+certificat visé à l'alinéa précédent est publié par voie d'affichage à la mairie pendant deux mois. L'exécution de cette
+formalité fait l'objet d'une mention au registre chronologique des actes de publication et de notification des arrêtés du
+maire prévu à l'article R. 122-11 du code des communes.
+
+L'inobservation de la formalité d'affichage sur le terrain est punie d'une amende de 600 F à 2000 F.
+
+Un arrêté conjoint du ministre chargé de l'urbanisme et du ministre chargé du logement règle les formes de l'affichage.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme R430-17, R122-11
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*430-19
+
+Tout recours hiérarchique dirigé contre une décision prise sur une demande de permis de démolir doit être présenté
+conformément aux dispositions du présent article.
+
+Lorsque l'immeuble est soumis au régime du permis de démolir exclusivement en application des dispositions de l'article L.
+430-1 A, le recours est adressé au ministre chargé du logement.
+
+Lorsque l'immeuble est soumis au régime du permis de démolir exclusivement en application des dispositions de l'article L.
+430-1 b à f, le recours est adressé simultanément au ministre chargé des monuments historiques et des sites, au ministre
+chargé de l'urbanisme et au ministre chargé du logement, qui statuent par arrêté du conjoint.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme L430-1 D
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*430-20
+
+Le permis de démolir est périmé si la démolition n'est pas entreprise dans le délai de cinq ans à compter de la notification
+visée à l'article R. 430-16 ou de la délivrance tacite du permis de démolir. Il en est de même si les travaux sont
+interrompus pendant un délai supérieur à cinq années.
+
+Le délai de validité du permis de démolir est suspendu, le cas échéant, pendant la durée du sursis à exécution de la décision
+portant octroi dudit permis ainsi que, en cas d'annulation du permis de démolir prononcée par jugement du tribunal
+administratif frappé d'appel, jusqu'à la décision rendue par le Conseil d'Etat.
+
+Pour les autorisations de démolir délivrées antérieurement à la date de publication du décret n. 77-738 du 7 juillet 1977 au
+Journal officiel, cette date constitue le point de départ du délai de cinq ans mentionné à l'alinéa 1 ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°77-738 1977-07-07
+	  - Code de l'urbanisme R430-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+#### Règles applicables aux territoires des communes disposant d'une organisation technique suffisante.
+
+###### Article R*430-21
+
+Dans les communes où il est fait application de l'article R. 421-22, les dispositions de la section I du présent titre sont
+applicables, sous réserve des dispositions des articles R. 430-22 à R. 430-25.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°84-224 1984-03-29 ART. 18 JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-224 1984-03-29 ART. 21, ART. 22 : Modalités d'application
+	  - SPEC_APPLI: Décret n°84-224 du 29 mars 1984 - art. 21 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R421-22 (M)
+	  - Code de l'urbanisme R430-25
+
+
+###### Article R*430-22
+
+Tous les exemplaires de la demande sont adressés au maire, à l'exception de celui qui est destiné au ministre chargé des
+monuments historiques lorsque le bâtiment est inscrit à l'inventaire supplémentaire des monuments historiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°84-224 1984-03-29 ART. 18 JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-224 1984-03-29 ART. 21, ART. 22 : Modalités d'application
+	  - SPEC_APPLI: Décret n°84-224 du 29 mars 1984 - art. 21 (M)
+
+
+###### Article R*430-23
+
+Le maire procède à l'instruction de la demande après avoir invité le demandeur, le cas échéant, à compléter son dossier
+[*autorité compétente*].
+
+Lorsque l'obligation du permis de démolir résulte des dispositions de l'article L. 430-1 a, le maire transmet un exemplaire
+de la demande au directeur départemental de l'équipement dans les quinze jours suivant sa réception ou celle des pièces
+complémentaires. Le directeur départemental de l'équipement dispose d'un délai de deux mois pour faire connaître son avis au
+maire. L'avis est réputé favorable s'il n'a pas été donné dans ce délai [*silence*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°84-224 1984-03-29 ART. 18 JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-224 1984-03-29 ART. 21, ART. 22 : Modalités d'application
+	  - SPEC_APPLI: Décret n°84-224 du 29 mars 1984 - art. 21 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme L430-1 A
+
+
+###### Article R*430-24
+
+La décision est prise par le maire [*autorité compétente*] au lieu et place du préfet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°84-224 1984-03-29 ART. 18 JORF 31 MARS 1984 en vigueur le 1ER AVRIL 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-224 1984-03-29 ART. 21, ART. 22 : Modalités d'application
+	  - SPEC_APPLI: Décret n°84-224 du 29 mars 1984 - art. 21 (M)
+
+
+###### Article R*430-25
+
+Le certificat prévu à l'article R. 430-17 est délivré par le maire.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°84-224 1984-03-29 ART. 18 JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-224 1984-03-29 ART. 21, ART. 22 : Modalités d'application
+	  - SPEC_APPLI: Décret n°84-224 du 29 mars 1984 - art. 21 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme R430-17
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+#### Dispositions particulières aux immeubles menaçant ruine.
+
+###### Article R*430-26
+
+Lorsqu'un immeuble menaçant ruine est inscrit sur l'inventaire supplémentaire des monuments historiques, est situé dans le
+champ de visibilité d'un édifice classé ou inscrit ou est protégé au titre des articles 4, 9, 17 ou 28 de la loi du 2 mai
+1930, sa réparation ou sa démolition ne peut être ordonnée par le maire conformément aux articles 303 et 304 du code de
+l'urbanisme et de l'habitation qu'après avis de l'architecte des bâtiments de France. Cet avis est réputé délivré en
+l'absence de réponse dans le délai de huit jours [*silence*].
+
+L'architecte des bâtiments de France est invité à assister à l'expertise prévue à l'article 304 du code de l'urbanisme et de
+l'habitation.
+
+Si l'immeuble entre dans l'une des catégories mentionnées au premier alinéa ci-dessus après l'ouverture de la procédure
+administrative de péril, l'architecte des bâtiments de France est informé par le maire de l'état de cette procédure et est
+invité à assister à l'expertise si celle-ci n'a pas encore eu lieu.
+
+En cas de péril imminent donnant lieu à application de la procédure prévue à l'article 305 du code de l'urbanisme et de
+l'habitation, le maire en informe l'architecte des bâtiments de France en même temps qu'il adresse l'avertissement au
+propriétaire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme 305
+	  - Loi   1930-05-02 ART. 4, 9, 17, 28
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+#### Dispositions particulières aux immeubles insalubres.
+
+###### Article R*430-27
+
+Lorsqu'un immeuble insalubre est inscrit sur l'inventaire supplémentaire des monuments historiques, est situé dans le champ
+de visibilité d'un édifice classé ou inscrit ou est protégé au titre des articles 4, 9, 17 ou 28 de la loi du 2 mai 1930, sa
+démolition ne peut être ordonnée par le préfet en application de l'article L. 28 du code de la santé publique qu'après avis
+de l'architecte des bâtiments de France. Cet avis est réputé délivré en l'absence de réponse dans le délai de quinze jours
+[*silence*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L28 (M)
+	  - Loi   1930-05-02 ART. 4, 9, 17, 28
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+### Déclaration préalable de travaux
 
 #### Contenu et forme de la déclaration préalable
 
@@ -34179,162 +35083,6 @@ de l'engagement dont elle doit être assortie, en vertu de l'article L. 430-3 (b
 	  - Décret n°73-1023 1973-11-08
 
 
-###### Article R*430-7
-
-Le projet visé au A de l'article L. 430-3 est constitué [*contenu*] par le plan de situation du terrain, le plan de masse des
-constructions coté dans les trois dimensions et les plans des façades. L'arrêté ministériel [*fixant le modèle de la
-déclaration préalable*] prévu à l'article R. 430-6 précise les indications qui doivent être portées sur ces documents et
-l'échelle de ces indications.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-451 1969-05-19 ART. 2
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L430-3 (Ab)
-	  - Code de l'urbanisme R430-6
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*430-8
-
-Lorsqu'il s'agit de constructions édifiées par les organismes d'habitations à loyer modéré, l'accord du maire de la commune
-sur le territoire de laquelle elles doivent être édifiées doit être joint à la déclaration.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-451 1969-05-19 ART. 3
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*430-9
-
-Lorsque les constructions projetées sont partiellement ou totalement soumises à l'agrément prévu à l'article L. 510-1, la
-décision d'agrément est jointe à la déclaration.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-451 1969-05-19 ART. 4
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L510-1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*430-11
-
-Lorsque les constructions projetées sont soumises à l'avis de la commission consultative départementale de la protection
-civile, en vertu soit du décret n. 67-1063 du 15 novembre 1967 et des articles R. 421-47 à R. 421-52, soit du décret n.
-73-1007 du 31 octobre 1973, cet avis est joint à la déclaration.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°67-1063 1967-11-15
-	  - Code de l'urbanisme - art. R421-47 (M)
-	  - Code de l'urbanisme - art. R421-48 (M)
-	  - Code de l'urbanisme - art. R421-49 (M)
-	  - Code de l'urbanisme - art. R421-50 (M)
-	  - Code de l'urbanisme - art. R421-51 (MMN)
-	  - Code de l'urbanisme R421-52
-	  - Décret n°73-1007 1973-10-31
-
-	**Anciens textes**:
-
-	  - Décret n°69-451 1969-05-19 ART. 6
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme R430-5
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*430-12
-
-Lorsque l'édification des constructions est subordonnée à l'obtention d'une dérogation aux prescriptions des plans
-d'urbanisme, des plans d'occupation des sols ou des règlements et cahiers des charges des lotissements ou à des dispositions
-réglementaires relatives à l'urbanisme et à la construction, cette dérogation est sollicitée du préfet préalablement à la
-déclaration. La décision octroyant la dérogation intervient par arrêté motivé du préfet et doit être notifiée au demandeur
-dans le délai de deux mois suivant le dépôt de la demande. Le défaut de notification dans ce délai vaut rejet de la demande.
-Cette décision implicite peut être, dans les deux mois, déférée au ministre chargé de l'urbanisme dont la décision peut,
-seule, dans ce cas, faire l'objet d'un recours contentieux.
-
-La décision octroyant la dérogation est jointe à la déclaration.
-
-Sauf disposition expresse contraire, elle ne peut être valablement produite à l'appui d'une telle déclaration que dans
-l'année de la date à laquelle elle est intervenue.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-451 1969-05-19 ART. 7
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme R430-5
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*430-13
-
-Lorsque l'édification des constructions est subordonnée à l'institution sur des terrains voisins pour l'application des
-dispositions relatives à l'urbanisme, soit d'une servitude dite de cour commune établie par accord amiable ou par décision
-judiciaire dans les conditions prévues par les articles R. 451-1 à R. 451-7, soit d'une servitude de minoration de densité
-dans les conditions prévues à l'article 26-1 du décret n. 58-1463 du 31 décembre 1958 sur les plans d'urbanisme, modifié, ou
-à l'article L. 332-5 b, les contrats ou décisions relatifs à l'institution de ces servitudes sont joints à la déclaration.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°58-1463 1958-12-31 ART. 26-1
-	  - Code de l'urbanisme - art. L332-5 (Ab)
-	  - Code de l'urbanisme - art. R451-1 (M)
-	  - Code de l'urbanisme - art. R451-2 (M)
-	  - Code de l'urbanisme - art. R451-3 (M)
-	  - Code de l'urbanisme - art. R451-4 (M)
-	  - Code de l'urbanisme - art. R451-5 (Ab)
-	  - Code de l'urbanisme - art. R451-6 (Ab)
-	  - Code de l'urbanisme - art. R451-7 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°69-451 1969-05-19 ART. 8
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme R430-10
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ###### Article R*430-14
 
 Sous réserve de l'application de l'article R. 430-15, la déclaration et le dossier qui l'accompagne sont établis en deux
@@ -34352,38 +35100,6 @@ directeur départemental de l'équipement.
 	**Cite**:
 
 	  - Code de l'urbanisme R430-15
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*430-15
-
-L'arrêté du préfet pris en application de l'article R. 421-22 a pour effet de rendre applicables sur le territoire de la
-commune [*organisation technique suffisante*] intéressée les dispositions des alinéas ci-après au lieu et place de celles de
-l'article R. 430-14.
-
-La déclaration et le dossier qui l'accompagne sont établis en deux exemplaires.
-
-Ces exemplaires sont adressés au maire de la commune dans laquelle les constructions doivent être édifiées, sous pli
-recommandé avec demande d'avis de réception postal [*condition de forme*] ou déposés contre décharge à la mairie. Le maire
-transmet l'un des exemplaires au directeur départemental de l'équipement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-451 1969-05-19 ART. 9-I
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R421-22 (M)
-	  - Code de l'urbanisme R430-14
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme R430-14
 
 	**Codifié par**:
 
@@ -34442,220 +35158,6 @@ Le droit de visite prévu à l'article L. 460-1 peut être exercé dès l'ouvert
 
 	  - Code de l'urbanisme - art. L460-1 (M)
 	  - Code de l'urbanisme R430-16 AL. 3
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-#### Contenu et forme de la déclaration.
-
-###### Article R*430-10
-
-Le cas échéant, les éléments nécessaires au calcul de la redevance [*construction locaux à usage bureaux et à usage
-industriel*] instituée par l'article L. 520-1 sont également joints à la déclaration.
-
-//DECR.0276 : Si les constructions projetées ont soit une densité supérieure au plafond légal défini à l'article L. 112-1,
-soit une densité supérieure à celle du coefficient d'occupation du sol sans que le dépassement de ce coefficient fasse
-l'objet de justification de la nature de celles visées à l'article R. 430-13, la déclaration préalable à la construction doit
-être complétée par les éléments nécessaires au calcul du versement lié au dépassement du plafond légal ou de la participation
-prévue à l'article L. 332-1 ainsi que, le cas échéant, par les indications mentionnées à l'article R. 333-3//.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-451 1969-05-19 ART. 5
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L112-1 (M)
-	  - Code de l'urbanisme - art. L332-1 (M)
-	  - Code de l'urbanisme - art. L520-1 (M)
-	  - Code de l'urbanisme - art. R333-3 (M)
-	  - Code de l'urbanisme R430-13
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-#### Services publics administratifs habilités à établir les projets de construction pour lesquels le permis de construire n'est pas exigé.
-
-###### Article R*430-18
-
-Peuvent être habilités au sens de l'article L. 430-3, à condition que la qualification nécessaire leur soit reconnue dans les
-conditions prévues ci-après, les services publics administratifs, civils ou militaires, qui habituellement étudient des
-projets de construction et en dirigeant la réalisation, lorsqu'ils interviennent pour le compte des collectivités publiques
-dont ils dépendent, dans la limite des attributions qui leur sont confiées par la loi ou par des textes réglementaires.
-
-La qualification des services est reconnue et leur habilitation prononcée en conséquence par un arrêté conjoint du ministre
-chargé de l'urbanisme, du ministre des affaires culturelles et du ministre intéressé.
-
-L'arrêté prononçant l'habilitation porte désignation des agents responsables du service, compétents pour établir la
-certification prévue à l'article L. 430-3 b.
-
-Il peut être mis fin dans la même forme à cette habilitation.
-
-Le pouvoir de décision institué à l'alinéa 2 du présent article peut être délégué au préfet de région.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L430-3 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°69-451 1969-05-11 ART. 13
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-#### Personnes physiques ou morales compétentes pour établir les projets de construction pour lesquels le permis de construire n'est pas exigé
-
-###### Article R*430-19
-
-A titre provisoire et en attendant l'intervention de nouvelles dispositions législatives et réglementaires relatives aux
-personnes physiques ou morales appelées à exercer des missions dans le domaine de l'architecture et de la construction, la
-reconnaissance de compétence prévue à l'article L. 430-3 est réglée par les dispositions de la présente section.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-451 1969-05-19 ART. 14
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L430-3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*430-20
-
-Pour être reconnues compétentes au sens de l'article L. 430-3, les personnes physiques visées audit article doivent remplir
-les conditions suivantes :
-
-1. Etre titulaire d'un des diplômes d'enseignement supérieur ou reconnus équivalents qui figurent sur une liste établie par
-arrêté conjoint du ministre chargé de l'urbanisme, du ministre des affaires culturelles et du ministre de l'éducation
-nationale ;
-
-2. Justifier de huit années de pratique professionnelle continue au cours desquelles, sous leur propre responsabilité, elles
-ont étudié de façon satisfaisante un volume minimum de construction fixé par un arrêté conjoint du ministre des affaires
-culturelles et du ministre chargé de l'urbanisme et en ont dirigé la réalisation, conformément aux règles de l'art ;
-
-3. Présenter les garanties de moralité nécessaires.
-
-La reconnaissance est prononcée pour l'ensemble du territoire par un arrêté du préfet de la région où l'intéressé a son
-domicile, sur la proposition conjointe du chef du service régional de l'équipement et du conservateur régional des bâtiments
-de France et après avis, en ce qui concerne les conditions à remplir en vertu du 2. ci-dessus, d'une commission consultative
-régionale dont la composition est prévue à l'article R. 430-21.
-
-IL peut être mis fin dans la même forme à cette reconnaissance par le préfet qui l'avait prononcée, l'intéressé ayant été au
-préalable invité à présenter ses observations.
-
-A titre exceptionnel, les personnes qui ne sont pas titulaires d'un des diplômes visés au 1. ci-dessus peuvent être reconnues
-compétentes par une décision conjointe du ministre chargé de l'urbanisme, du ministre des affaires culturelles et du ministre
-chargé de l'industrie, après consultation de la commission régionale prévue à l'alinéa 2 ci-dessus.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-451 du 19 mai 1969 - art. 15, v. init.
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L430-3 (Ab)
-	  - Code de l'urbanisme R430-21
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme R430-22
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*430-21
-
-La commission [*consultative*] régionale prévue à l'article R. 430-20 est ainsi composée :
-
-1. Membres de droit :
-
-Le préfet de région, président, ou son représentant ;
-
-Le chef du service régional de l'équipement, vice-président, ou son représentant ;
-
-Le conservateur régional des bâtiments de France ou son représentant ;
-
-Le représentant du ministre chargé de l'industrie.
-
-2. Un magistrat de l'ordre judiciaire en activité désigné par le premier président de la cour d'appel dans le ressort de
-laquelle se trouve le chef-lieu de la région ;
-
-3. Personnalités désignées par arrêté du préfet de région :
-
-Une personnalité exerçant des responsabilités à la tête d'un organisme maître d'ouvrages ;
-
-Deux architectes-conseils du ministère compétent en matière d'urbanisme, en fonction dans la région ;
-
-Une personnalité chargée d'un enseignement intéressant l'architecture ou l'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-451 1969-05-19 ART. 16
-
-	**Cite**:
-
-	  - Code de l'urbanisme R430-20
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-#### Personnes physiques ou morales compétentes pour établir les projets pour lesquels le permis de construire n'est pas exigé.
-
-###### Article R*430-22
-
-Pour être reconnues compétentes au sens de l'article L. 430-3, les personnes morales visées audit article doivent remplir les
-conditions suivantes :
-
-1. Consacrer l'une de leurs activités principales, à l'étude de projets de construction et à la direction de leur
-réalisation ;
-
-2. Confier le soin d'établir en leur nom la certification prévue à l'article L. 430-3 (b) à des personnes physiques qui
-exercent leur activité principale pour le compte desdites personnes morales et satisfont aux conditions prévues à l'article
-R. 430-20 (1., 2. et 3.), les huit années de pratique professionnelle pouvant toutefois s'entendre d'une activité exercée en
-qualité de salarié ;
-
-3. Présenter les garanties suffisantes.
-
-La reconnaissance est prononcée, après avis de la commission consultative régionale du siège social de la personne morale,
-par arrêté conjoint du ministre chargé de l'urbanisme et du ministre des affaires culturelles. Il peut être mis fin dans la
-même forme à cette reconnaissance, le représentant légal ou statutaire de la personne morale intéressée ayant été au
-préalable invité à présenter ses observations.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-451 1969-05-19 ART. 17
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L430-3 (Ab)
-	  - Code de l'urbanisme L430-3, R430-20
 
 	**Codifié par**:
 
