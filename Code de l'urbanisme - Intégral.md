@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1995-01-24
+Version Consolidée au 1995-02-03
 
 # Partie législative
 
@@ -1697,49 +1697,36 @@ Un décret fixe les modalités d'application du présent article.
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
-###### Article L121-9
+###### Article L121-8-1
 
-Il est institué, dans chaque département, une commission de conciliation en matière d'élaboration de schémas directeurs, de
-schémas de secteur, de plans d'occupation des sols et de tout document d'urbanisme opposable aux tiers élaboré par la
-commune. Elle est composée à parts égales d'élus communaux désignés par les maires du département et des personnes qualifiées
-désignées par le représentant de l'Etat. Elle élit en son sein un président qui doit être un élu local.
-
-La commission peut être saisie par les personnes publiques associées qui ont émis un avis défavorable au projet de document
-d'urbanisme qui leur a été soumis. Elle entend alors les parties intéressées et, à leur demande, les représentants des
-associations mentionnées à l'article 40 de la loi n° 76-629 du 10 juillet 1976 relative à la protection de la nature ou à
-l'article L. 121-8 du présent code. Elle formule, en tant que de besoin, des propositions alternatives au plus tard un mois
-après l'achèvement de la mise à la disposition du public ou de l'enquête publique portant sur ces documents. Ces propositions
-sont publiques.
-
-Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
+Les organismes de gestion des parcs naturels régionaux sont consultés, à leur demande, pour l'élaboration des schémas
+directeurs et des plans d'occupation des sols.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - Loi n°76-629 du 10 juillet 1976 - art. 40 (Ab)
-	  - Loi n°83-8 1983-01-07 art. 39
-	  - Loi n°83-663 1983-07-22
-	  - Code de l'urbanisme - art. L121-8 (M)
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 	**Créé par**:
 
-	  - Loi n°83-8 du 7 janvier 1983 - art. 39 () JORF 9 janvier 1983
+	  - Loi n°95-101 du 2 février 1995 - art. 47 () JORF 3 février 1995
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Décret n°83-851 1983-09-23
-	  - TXT_SOURCE: Code de l'urbanisme - art. R*121-10 (VT)
-	  - TXT_SOURCE: Code de l'urbanisme - art. R*121-11 (VT)
-	  - TXT_SOURCE: Code de l'urbanisme - art. R*121-12 (VT)
-	  - TXT_SOURCE: Code de l'urbanisme - art. R*121-2 (M)
-	  - TXT_SOURCE: Code de l'urbanisme - art. R*121-3 (M)
-	  - TXT_SOURCE: Code de l'urbanisme - art. R*121-4 (M)
-	  - TXT_SOURCE: Code de l'urbanisme - art. R*121-5 (M)
-	  - TXT_SOURCE: Code de l'urbanisme - art. R*121-6 (VT)
-	  - TXT_SOURCE: Code de l'urbanisme - art. R*121-7 (VT)
-	  - TXT_SOURCE: Code de l'urbanisme - art. R*121-8 (VT)
-	  - TXT_SOURCE: Code de l'urbanisme - art. R*121-9 (VT)
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
+
+
+###### Article L121-9
+
+Les organismes de gestion des parcs naturels régionaux sont consultés, à leur demande, pour l'élaboration des schémas
+directeurs et des plans d'occupation des sols.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°95-101 du 2 février 1995 - art. 47 () JORF 3 février 1995
 
 	**Cité par**:
 
@@ -1755,6 +1742,20 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 	  - Code général des collectivités territoriales - art. L4424-13 (VD)
 	  - Code général des collectivités territoriales - art. L4424-15 (V)
 	  - Code général des collectivités territoriales - art. L4424-9 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de l'urbanisme - art. R*121-10 (VT)
+	  - TXT_SOURCE: Code de l'urbanisme - art. R*121-11 (VT)
+	  - TXT_SOURCE: Code de l'urbanisme - art. R*121-12 (VT)
+	  - TXT_SOURCE: Code de l'urbanisme - art. R*121-2 (M)
+	  - TXT_SOURCE: Code de l'urbanisme - art. R*121-3 (M)
+	  - TXT_SOURCE: Code de l'urbanisme - art. R*121-4 (M)
+	  - TXT_SOURCE: Code de l'urbanisme - art. R*121-5 (M)
+	  - TXT_SOURCE: Code de l'urbanisme - art. R*121-6 (VT)
+	  - TXT_SOURCE: Code de l'urbanisme - art. R*121-7 (VT)
+	  - TXT_SOURCE: Code de l'urbanisme - art. R*121-8 (VT)
+	  - TXT_SOURCE: Code de l'urbanisme - art. R*121-9 (VT)
 
 	**Codifié par**:
 
@@ -3780,15 +3781,15 @@ au code de l'urbanisme sont applicables.
 Les plans d'occupation des sols [*contenu*] doivent comporter en annexe les servitudes d'utilité publique affectant
 l'utilisation du sol et qui figurent sur une liste dressée par décret en Conseil d'Etat.
 
-Le représentant de l'Etat peut mettre le maire ou le président de l'établissement public compétent en demeure d'annexer au
-plan d'occupation des sols les servitudes mentionnées à l'alinéa précédent. Si cette formalité n'a pas été effectuée dans le
-délai de trois mois, le représentant de l'Etat y procède d'office.
+Le représentant de l'Etat est tenu de mettre le maire ou le président de l'établissement public compétent en demeure
+d'annexer au plan d'occupation des sols les servitudes mentionnées à l'alinéa précédent. Si cette formalité n'a pas été
+effectuée dans le délai de trois mois, le représentant de l'Etat y procède d'office.
 
 Après l'expiration d'un délai d'un an à compter, soit de l'approbation du plan, soit, s'il s'agit d'une servitude nouvelle,
 de son institution, seules les servitudes annexées au plan peuvent être opposées aux demandes d'autorisation d'occupation du
 sol. Dans le cas où le plan a été approuvé ou la servitude, instituée avant la publication du décret établissant ou
-complétant la liste visée à l'alinéa premier, le délai [*point de départ*] d'un an court à compter de cette publication
-[*publicité*].
+complétant la liste visée à l'alinéa premier, le délai [*point de départ*] d'un an court à compter de cette
+publication[*publicité*].
 
 **Liens relatifs à cet article**
 
@@ -3838,13 +3839,9 @@ complétant la liste visée à l'alinéa premier, le délai [*point de départ*]
 	  - Code rural - art. L112-2 (V)
 	  - Code rural - art. R152-33 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°83-8 du 7 janvier 1983 - art. 55 () JORF 9 JANVIER 1983
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+	  - Loi n°95-101 du 2 février 1995 - art. 88 () JORF 3 février 1995
 
 	**Codifié par**:
 
@@ -5556,26 +5553,42 @@ son ouverture au public dans les conditions prévues à l'article L. 142-10 ;
 - pour sa participation à l'acquisition de terrains par le Conservatoire de l'espace littoral et des rivages lacustres, par
 une commune ou par un établissement public de coopération intercommunale compétent, ainsi qu'à l'entretien des terrains
 acquis par l'une ou l'autre de ces personnes publiques ou par l'agence des espaces verts de la région d'Ile-de-France dans
-l'exercice du droit de préemption, par délégation ou par substitution, prévu à l'article L. 142-3.    Le produit de la taxe
-peut également être utilisé :    - pour l'aménagement et l'entretien d'espaces naturels, boisés ou non, appartenant aux
-collectivités locales ou à leurs établissements publics et ouverts au public, ou appartenant à des propriétaires privés à la
-condition qu'ils aient fait l'objet d'une convention passée en application de l'article L. 130-5 ;    - pour l'acquisition,
-l'aménagement et la gestion des sentiers figurant sur un plan départemental des itinéraires de promenade et de randonnée,
-établi dans les conditions prévues à l'article 56 de la loi n° 83-663 du 22 juillet 1983 complétant la loi n° 83-8 du 7
-janvier 1983 relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat, ainsi que
-des chemins et servitudes de halage et de marchepied des voies d'eau domaniales concédées qui ne sont pas ouvertes à la
-circulation générale et pour l'acquisition, par voie amiable ou par exercice du droit de préemption mentionné à l'article L.
-142-3, l'aménagement et la gestion des chemins le long des autres cours d'eau et plans d'eau.
+l'exercice du droit de préemption, par délégation ou par substitution, prévu à l'article L. 142-3.
 
-Cette taxe est perçue sur la totalité du territoire du département.    Elle est établie sur la construction, la
-reconstruction et l'agrandissement des bâtiments. Son assiette est définie conformément à l'article 1585 D du code général
-des impôts. Sont toutefois exclus du champ de la taxe :    a) les bâtiments à usage agricole ou forestier liés à
-l'exploitation ;    b) les bâtiments qui sont destinés à être affectés à un service public ou d'utilité publique et dont la
-liste est fixée par décret en Conseil d'Etat prévu au 1° du paragraphe I de l'article 1585 C du code général des impôts ;
-c) les bâtiments édifiés par les propriétaires d'une habitation familiale reconstituant leurs biens expropriés ; d) les
-immeubles classés parmi les monuments historiques ou inscrits à l'inventaire supplémentaire des monuments historiques ;    e)
-les bâtiments reconstruits après sinistre dans les conditions fixées au paragraphe II de l'article 1585 D du code général des
-impôts.
+Le produit de la taxe peut également être utilisé :
+
+- pour l'aménagement et l'entretien d'espaces naturels, boisés ou non, appartenant aux collectivités locales ou à leurs
+établissements publics et ouverts au public, ou appartenant à des propriétaires privés à la condition qu'ils aient fait
+l'objet d'une convention passée en application de l'article L. 130-5 ;
+
+- pour l'acquisition, l'aménagement et la gestion des sentiers figurant sur un plan départemental des itinéraires de
+promenade et de randonnée, établi dans les conditions prévues à l'article 56 de la loi n° 83-663 du 22 juillet 1983
+complétant la loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les départements,
+les régions et l'Etat, ainsi que des chemins et servitudes de halage et de marchepied des voies d'eau domaniales concédées
+qui ne sont pas ouvertes à la circulation générale et pour l'acquisition, par voie amiable ou par exercice du droit de
+préemption mentionné à l'article L. 142-3, l'aménagement et la gestion des chemins le long des autres cours d'eau et plans
+d'eau.
+
+Cette taxe est perçue sur la totalité du territoire du département.
+
+Elle est établie sur la construction, la reconstruction et l'agrandissement des bâtiments et sur les installations et travaux
+divers autorisés en application de l'article L.442-1. Sont toutefois exclus du champ de la taxe :
+
+a) les bâtiments et les installations et travaux divers à usage agricole ou forestier liés à l'exploitation ;
+
+b) les bâtiments qui sont destinés à être affectés à un service public ou d'utilité publique et dont la liste est fixée par
+décret en Conseil d'Etat prévu au 1° du paragraphe I de l'article 1585 C du code général des impôts ;
+
+c) les bâtiments édifiés par les propriétaires d'une habitation familiale reconstituant leurs biens expropriés ;
+
+d) les immeubles classés parmi les monuments historiques ou inscrit à l'inventaire supplémentaire des monuments historiques ;
+
+e) les bâtiments et les installations et travaux divers reconstruits après sinistre dans les conditions fixées au paragraphe
+II de l'article 1585 D du code général des impôts.
+
+f) Les installations et travaux divers qui sont destinés à être affectés à un service public ou d'utilité publique et
+réalisés par l'Etat, les collectivités locales ou leurs groupements ou l'un des services et organismes enumérés par le décret
+pris pour l'application du 1° du I de l'article 1585 C du code général des imp<cb>ts.
 
 Le conseil général peut exonérer de la taxe départementale des espaces naturels sensibles, les locaux à usage d'habitation
 principale édifiés pour leur compte ou à titre de prestation de services par les organismes mentionnés à l'article L. 411-2
@@ -5584,7 +5597,9 @@ du code de la construction et de l'habitation et par les sociétés d'économie 
 prépondérant au moyen de prêts ouvrant droit au bénéfice des dispositions prévues au titre V du livre III du code de la
 construction et de l'habitation.
 
-Il peut également exonérer de ladite taxe des locaux artisanaux situés dans les communes de moins de deux mille habitants.
+Il peut également exonérer de ladite taxe des locaux artisanaux et industriels situés dans les communes de moins de deux
+mille habitants.
+
 Dans les départements d'outre-mer, le conseil général peut exonérer de la taxe :
 
 - les locaux à usage d'habitation principale à caractère social financés à l'aide de prêts aidés par l'Etat, et édifiés par
@@ -5599,21 +5614,31 @@ La taxe est assise sur la valeur de l'ensemble immobilier déterminée conformé
 du code général des impôts. Par délibération, le conseil général en fixe le taux, qui peut varier suivant les catégories de
 construction, sans pouvoir excéder 2 p. 100.
 
+Lorsqu'elle est établie sur les installations et travaux divers, la taxe est assise sur la superficie des terrains faisant
+l'objet de l'autorisation. Son taux est fixé par délibération du conseil général dans la limite de 10 F par mètre carré.
+Cette limite et le taux fixé par la délibération du conseil général sont modifiés au 1er juillet de chaque année en fonction
+de l'évolution de l'indice du coût de la construction publié par l'Institut national de la statistique et des études
+économiques. L'indice de référence est, pour la réévaluation de la limite de 10 F, celui du quatrième trimestre de l'année
+1994 et, pour celle du taux, l'indice du trimestre précédant la délibération du conseil général ayant fixé le taux.
+
 La taxe constitue, du point de vue fiscal, un élément du prix de revient de l'ensemble immobilier.
 
 La taxe est perçue au profit du département en tant que recette grevée d'affectation spéciale.
+
+</cb>
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
+	  - CGI 1585 C, 1585 D, 1585
 	  - Loi n°83-8 1983-01-07
 	  - Loi n°83-597 1983-07-07
 	  - Loi n°83-663 1983-07-22 art. 56
-	  - CGI 1585 D, 1585 C
 	  - Code de l'urbanisme - art. L130-5 (M)
 	  - Code de l'urbanisme - art. L142-1 (M)
 	  - Code de l'urbanisme - art. L142-10 (V)
+	  - Code de l'urbanisme - art. L442-1 (M)
 	  - Code de la construction et de l'habitation. - art. L411-2 (M)
 
 	**Cité par**:
@@ -5640,7 +5665,7 @@ La taxe est perçue au profit du département en tant que recette grevée d'affe
 
 	**Modifié par**:
 
-	  - Loi n°92-3 du 3 janvier 1992 - art. 32 () JORF 4 janvier 1992
+	  - Loi n°95-101 du 2 février 1995 - art. 39 () JORF 3 février 1995
 
 	**Liens**:
 
@@ -5657,21 +5682,15 @@ La taxe est perçue au profit du département en tant que recette grevée d'affe
 
 ###### Article L142-1
 
-Afin de préserver la qualité des sites, des paysages et des milieux naturels, et selon les principes posés à l'article L.
-110, le département est compétent pour élaborer et mettre en oeuvre une politique de protection, de gestion et d'ouverture au
-public des espaces naturels sensibles, boisés ou non.
+Afin de préserver la qualité des sites, des paysages, des milieux naturels et d'assurer la sauvegarde des habitats naturels
+selon les principes posés à l'article L. 110, le département est compétent pour élaborer et mettre en oeuvre une politique de
+protection, de gestion et d'ouverture au public des espaces naturels sensibles, boisés ou non.
 
 La politique du département prévue à l'alinéa précédent doit être compatible avec les orientations des schémas directeurs et
 des chartes intercommunales de développement et d'aménagement, lorsqu'ils existent, ainsi que des prescritions nationales ou
 particulières à certaines parties du territoire fixées en application de l'article L. 111-1-1.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance 58-997 1958-10-23 ART. 21
-	  - Code de l'urbanisme - art. L110 (M)
-	  - Code de l'urbanisme - art. L111-1-1 (M)
 
 	**Cité par**:
 
@@ -5694,19 +5713,21 @@ particulières à certaines parties du territoire fixées en application de l'ar
 	  - Code de l'urbanisme - art. R142-24 (M)
 	  - Code rural - art. L243-4 (M)
 
-	**Modifié par**:
-
-	  - Loi n°85-729 du 18 juillet 1985 - art. 12 ()
-
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°86-516 du 14 mars 1986 - art. 10 (M)
-	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L130-3 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme l110, l111-1-1
 
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Modifié par**:
+
+	  - Loi n°95-101 du 2 février 1995 - art. 39 () JORF 3 février 1995
 
 
 ###### Article L142-3
@@ -5736,17 +5757,26 @@ Les échanges d'immeubles ruraux situés dans les zones de préemption définies
 prévues au titre 1er du livre Ier du code rural ne sont pas soumis à ce droit.
 
 Au cas où le Conservatoire de l'espace littoral et des rivages lacustres est territorialement compétent, celui-ci ou, à
-défaut, la commune, peut se substituer au département si celui-ci n'exerce pas le droit de préemption. Au cas où le
-conservatoire n'est pas compétent, la commune peut se substituer au département si celui-ci n'exerce pas son droit de
-préemption.
+défaut, la commune, peut se substituer au département si celui-ci n'exerce pas le droit de préemption. Sur le territoire d'un
+parc national ou d'un parc naturel régional et dans les réserves naturelles dont la gestion leur est confiée, l'établissement
+public chargé du parc national ou du parc naturel régional ou, à défaut, la commune peut se substituer au département et, le
+cas échéant, au Conservatoire de l'espace littoral et des rivages lacustres, si ceux-ci n'exercent pas leur droit de
+préemption. Pour un parc naturel régional, l'exercice de ce droit de préemption est subordonné à l'accord explicite du
+département. Au cas où ni le conservatoire ni l'établissement public chargé d'un parc national ou d'un parc naturel régional
+n'est compétent, la commune peut se substituer au département si celui-ci n'exerce pas son droit de préemption.
 
 Lorsque la commune fait partie d'un établissement public de coopération intercommunale y ayant vocation, elle peut, en accord
 avec cet établissement, lui déléguer ce droit.
 
 Le département peut déléguer son droit de préemption à l'occasion de l'aliénation d'un bien soumis à ce droit ou sur un ou
 plusieurs secteurs de la zone de préemption au Conservatoire de l'espace littoral et des rivages lacustres, lorsque celui-ci
-est territorialement compétent, à l'Etat, à une collectivité territoriale ou à l'Agence des espaces verts de la région d'Ile-
-de-France. Les biens acquis entrent dans le patrimoine du délégataire.
+est territorialement compétent, à l'établissement public chargé d'un parc national ou à celui chargé d'un parc naturel
+régional pour tout ou partie de la zone de préemption qui se trouve sur le territoire du parc ou dans les réserves naturelles
+dont la gestion leur est confiée, à l'Etat, à une collectivité territoriale ou à l'Agence des espaces verts de la région
+d'Ile-de-France. Les biens acquis entrent dans le patrimoine du délégataire.
+
+Si, à son expiration, le décret de classement d'un parc naturel régional n'est pas renouvelé, les biens que ce parc a acquis
+par exercice de ce droit de préemption deviennent propriété du département.
 
 Dans les articles L. 142-1 et suivants, l'expression "titulaire du droit de préemption" s'entend également du délégataire en
 application du précédent alinéa, s'il y a lieu.
@@ -5805,15 +5835,11 @@ application du précédent alinéa, s'il y a lieu.
 
 	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 12 ()
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
+	  - Loi n°95-101 du 2 février 1995 - art. 41 () JORF 3 février 1995
 
 	**Cite**:
 
-	  - Code de l'urbanisme L142-1 et s.
+	  - Code de l'urbanisme - art. L142-1 (M)
 
 
 ###### Article L142-4
@@ -6103,11 +6129,11 @@ terrains en tant qu'espaces naturels.
 
 ###### Article L142-11
 
-A compter de la décision du département de percevoir la taxe départementale des espaces naturels sensibles, le représentant
-de l'Etat dans le département peut, par arrêté pris sur proposition du conseil général et après avis du conseil municipal, et
-en l'absence de plan d'occupation des sols rendu public, déterminer les bois, forêts et parcs, qu'ils soient soumis ou non à
-des habitations, dont la préservation est nécessaire et auxsquels est applicable le régime des espaces boisés classés défini
-par l'article L. 130-1 et les textes pris pour son application.
+A compter de la décision du département de percevoir la taxe départementale des espaces naturels sensibles, le président du
+conseil général peut, par arrêté pris sur proposition du conseil général, après délibération des communes concernées et en
+l'absence de plan d'occupation des sols opposable, déterminer les bois, forêts et parcs, qu'ils soient soumis ou non au
+régime forestier, enclos ou non, attenants ou non à des habitations, dont la préservation est nécessaire et auxquels est
+applicable le régime des espaces boisés classés défini par l'article L. 130-1 et les textes pris pour son application.
 
 Le même arrêté ou un arrêté ultérieur pris dans les mêmes formes peut édicter les mesures nécessaires à la protection des
 sites et paysages compris dans une zone de préemption délimitée en application de l'article L. 142-3 et prévoir notamment
@@ -6119,13 +6145,9 @@ approuvé sur le territoire considéré.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 12 ()
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-514 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
+	  - Loi n°95-101 du 2 février 1995 - art. 39 () JORF 3 février 1995
 
 	**Cite**:
 
@@ -6803,19 +6825,19 @@ a) En cas d'exécution de travaux ou d'utilisation du sol en méconnaissance des
 à L. 111-1-4, L111-3 et L. 111-5-2 ainsi que par les règlements pris pour leur application ;
 
 b) En cas de coupes et d'abattages d'arbres effectués en infraction aux dispositions du cinquième alinéa de l'article L.
-130-1, sur les territoires des communes, parties de communes ou ensemble de communes où l'établissement d'un plan
+130-1 , sur les territoires des communes, parties de communes ou ensemble de communes où l'établissement d'un plan
 d'occupation des sols a été prescrit mais où ce plan n'a pas encore été rendu public ;
 
 c) En cas d'exécution de travaux ou d'utilisation du sol en infraction aux dispositions de l'article L. 142-11 relatif à la
-protection des espaces naturels sensibles des départements sensibles ;
+protection des espaces naturels sensibles des départements ;
 
 d) En cas d'exécution de travaux ou d'utilisation du sol en infraction aux prescriptions architecturales ou aux règles
 particulières édictées dans une zone d'environnement protégé en application de l'article L. 143-1 (alinéa 2).
 
-Toute association, soit reconnue d'utilité publique, soit régulièrement déclarée depuis trois ans au moins et agréée, se
-proposant par ses statuts d'agir pour la protection et l'amélioration du cadre de vie et de l'environnement, peut exercer les
-droits reconnus à la partie civile en ce qui concerne les faits constituant une infraction aux alinéas premier et second du
-présent article et portant un préjudice direct ou indirect aux intérêts collectifs qu'elle a pour objet de défendre.
+Toute association agréée de protection de l'environnement en application des dispositions de l'article L. 252-1  du code
+rural, peut exercer les droits reconnus à la partie civile en ce qui concerne les faits constituant une infraction aux
+alinéas premier et second du présent article et portant un préjudice direct ou indirect aux intérêts collectifs qu'elle a
+pour objet de défendre.
 
 Un décret en Conseil d'Etat fixe les conditions dans lesquelles les associations visées à l'alinéa précédent pourront être
 agréées. Dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, la procédure d'agrément est applicable aux
@@ -6833,7 +6855,6 @@ constituant une infraction aux dispositions du présent article.
 	  - TXT_SOURCE: Décret n°77-760 du 7 juillet 1977 - art. 9 (Ab)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L111-1 (M)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L111-3 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R160-1 (V)
 
 	**Cité par**:
 
@@ -6863,20 +6884,23 @@ constituant une infraction aux dispositions du présent article.
 
 	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 2 () JORF 19 juillet 1985
+	  - Loi n°95-101 du 2 février 1995 - art. 7 () JORF 3 février 1995
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L111-3 (M)
 	  - Code de l'urbanisme - art. L111-5-2 (M)
 	  - Code de l'urbanisme - art. L124-1 (M)
+	  - Code de l'urbanisme - art. L130-1 (M)
+	  - Code de l'urbanisme - art. L142-11 (M)
 	  - Code de l'urbanisme - art. L143-1 (M)
 	  - Code de l'urbanisme - art. L480-4 (M)
-	  - Code de l'urbanisme L124-1, L150-1, L480-1 à L480-9, L480-4, L111-1 à L111-1-4, L111-3, L111-5-2, L143-1
+	  - Code de l'urbanisme L124-1, L150-1, L480-1 à L480-9, L480-4, L111-1 à L111-1-4, L111-3, L111-5-2, L130-1, L142-11, L143-1
+	  - Code rural L252-1
 
 	**Anciens textes**:
 
-	  - Code de l'urbanisme 103 AL. 1
+	  - Code de l'urbanisme 83, 103 al. 1
 
 	**Codifié par**:
 
@@ -17251,11 +17275,22 @@ l'ordonnance au 1er octobre 2007.
 
 ###### Article L441-3
 
-L'autorisation d'édifier une clôture peut être refusée lorsque celle-ci fait obstacle à la libre circulation des piétons
-admise par les usages locaux.
+L'autorité compétente en matière de permis de construire peut faire opposition à l'édification d'une clôture lorsque celle-ci
+fait obstacle à la libre circulation des piétons admise par les usages locaux.
 
-Cette autorisation peut être accordée sous réserve de l'observation de prescriptions spéciales concernant la nature, la
-hauteur ou l'aspect extérieur de la clôture.
+L'édification d'une clôture peut faire l'objet, de la part de l'autorité compétente de prescriptions spéciales concernant la
+nature, la hauteur ou l'aspect extérieur de la clôture pour des motifs d'urbanisme et d'environnement.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
 
 **Liens relatifs à cet article**
 
@@ -17265,12 +17300,8 @@ hauteur ou l'aspect extérieur de la clôture.
 
 	**Modifié par**:
 
-	  - Loi n°83-8 du 7 janvier 1983 - art. 68 () JORF 9 JANVIER 1983
-	  - Loi n°83-663 du 22 juillet 1983 - art. 105 () JORF 23 JUILLET 1983
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+	  - Loi n°86-13 du 6 janvier 1986 - art. 6 () JORF 7 janvier 1986
+	  - Loi n°95-101 du 2 février 1995 - art. 82 () JORF 3 février 1995
 
 
 #### Chapitre II : Installations et travaux divers.
@@ -17414,6 +17445,11 @@ prescriptions.
 En cas de carence de l'autorité compétente, le préfet de département peut se substituer à elle après mise en demeure restée
 sans effet.
 
+Si l'une des zones visées au présent article est couverte par un plan de prévention des risques naturels prévisibles établi
+en application de la loi n° 87-565 du 22 juillet 1987 relative à l'organisation de la sécurité civile, à la protection de la
+forêt contre l'incendie et à la prévention des risques majeurs, les prescriptions fixées en application du présent article
+doivent être compatibles avec celles définies par ce plan.
+
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
@@ -17422,9 +17458,13 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
+	**Cite**:
+
+	  - Loi n°87-565 1987-07-22
+
 	**Modifié par**:
 
-	  - Loi n°93-24 du 8 janvier 1993 - art. 7 () JORF 9 janvier 1993
+	  - Loi n°95-101 du 2 février 1995 - art. 22 () JORF 3 février 1995
 
 	**Cité par**:
 
@@ -17975,13 +18015,13 @@ construction ou des travaux au permis de construire accordé.
 
 Lorsque l'autorité administrative et, au cas où il est compétent pour délivrer les autorisations, le maire ou le président de
 l'établissement public de coopération intercommunale compétent ont connaissance d'une infraction de la nature de celles que
-prévoient les articles L. 160-1 et L. 480-4, sont tenus d'en faire dresser procès verbal.
+prévoient les articles L. 160-1 et L. 480-4, ils sont tenus d'en faire dresser procès verbal.
 
 Copie du procès-verbal constatant une infraction est transmise sans délai au ministère public.
 
-Toute association remplissant les conditions fixées par l'article L. 160-1 (3e alinéa) peut exercer les droits reconnus à la
-partie civile en ce qui concerne les faits constituant une infraction à l'alinéa 1er du présent article et portant un
-préjudice direct ou indirect aux intérêts collectifs qu'elle a pour objet de défendre.
+Toute association agréée de protection de l'environnement en application des dispositions de l'article  L.252-1 du code rural
+peut exercer les droits reconnus à la partie civile en ce qui concerne les faits constituant une infraction à l'alinéa 1er du
+présent article et portant un préjudice direct ou indirect aux intérêts collectifs qu'elle a pour objet de défendre.
 
 La commune peut exercer les droits reconnus à la partie civile, en ce qui concerne les faits commis sur son territoire et
 constituant une infraction à l'alinéa premier du présent article.
@@ -18031,19 +18071,12 @@ constituant une infraction à l'alinéa premier du présent article.
 
 	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985
+	  - Loi n°95-101 du 2 février 1995 - art. 7 () JORF 3 février 1995
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L480-2 (M)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L480-4 (M)
 	  - PILOTE_SUIVEUR: Code du patrimoine - art. L641-2 (VD)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L480-4 (M)
-	  - Loi n°1913-12-31
-	  - Loi n°1930-05-02
 
 	**Anciens textes**:
 
