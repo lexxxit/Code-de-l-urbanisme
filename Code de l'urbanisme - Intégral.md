@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1982-07-01
+Version Consolidée au 1982-07-07
 
 # Partie législative
 
@@ -2666,18 +2666,20 @@ La taxe constitue du point de vue fiscal un élément du prix de revient de l'en
 
 ###### Article L142-3
 
-Sont exonérés de la redevance créée par l'article L. 142-2 :
+A l'intérieur des périmètres sensibles le préfet peut, par arrêté pris après avis du conseil municipal, de la commission
+départementale d'urbanisme et de la commission départementale des sites, perspectives et paysages, et avant même que
+l'établissement d'un plan d'occupation des sols ait été prescrit, déterminer les bois, forêts et parcs, qu'ils soient soumis
+ou non au régime forestier, enclos ou non, attenants ou non à des habitations, dont la préservation est nécessaire et
+auxquels est applicable le régime des espaces boisés classés défini par l'article L. 130-1 et les textes pris pour son
+application.
 
-a) Les lotissements prévus à l'article L. 142-2 (alinéa 2) lorsqu'ils ne sont pas destinés à l'habitation, lorsqu'ils sont
-réalisés par l'Etat, les départements, les communes, les établissements publics sans caractère industriel ou commercial, ou
-lorsqu'ils sont destinés exclusivement à la construction de logements financée avec l'aide de la législation sur les H.L.M. ;
+Le même arrêté ou un arrêté ultérieur pris dans les mêmes formes peut édicter les mesures nécessaires à la protection des
+sites et des paysages compris dans le périmètre sensible et prévoir notamment l'interdiction de construire ou de démolir, et
+celle d'exécuter certains travaux, constructions ou installations affectant l'utilisation du sol à l'exception des travaux
+visant à l'amélioration des exploitations agricoles.
 
-b) Les constructions prévues à l'article L. 142-2 (6è alinéa) lorsqu'elles sont édifiées par l'Etat, les départements, les
-communes, des établissements publics sans caractère industriel ou commercial ainsi que par des organismes d'H.L.M. ou
-lorsqu'elles ont fait l'objet d'une demande de permis de construire présentée entre le 1er janvier 1959 et le 24 décembre
-1960.
-
-La redevance est recouvrée comme en matière de produits départementaux.
+Les arrêtés prévus aux alinéas précédents cessent d'être applicables dès qu'un plan d'occupation des sols est rendu public ou
+approuvé sur le territoire considéré ou qu'une zone d'environnement protégé y est créée.
 
 **Liens relatifs à cet article**
 
@@ -2685,9 +2687,9 @@ La redevance est recouvrée comme en matière de produits départementaux.
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
-	**Anciens textes**:
+	**Créé par**:
 
-	  - Loi n°60-1384 1960-12-23 ART. 65 V ET VI FINANCES
+	  - Décret n°76-1285 1976-12-31 ART. 31 JORF 1 JANVIER 1977
 
 	**Cité par**:
 
@@ -2735,9 +2737,20 @@ La redevance est recouvrée comme en matière de produits départementaux.
 	  - Code rural - art. L243-4 (Ab)
 	  - Code rural et de la pêche maritime - art. L143-7-1 (VT)
 
+	**Modifié par**:
+
+	  - Décret n°81-534 1981-05-12 ART. 2 JORF 15 MAI 1981 date d'entrée en vigueur ART. 38 MODIFIE 1 JUILLET 1982
+	  - Décret n°82-584 1982-06-29 ART. 1 JORF 7 JUILLET 1982
+
 	**Liens**:
 
+	  - SPEC_APPLI: Décret n°86-516 du 14 mars 1986 - art. 10 (M)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L142-5 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L160-4 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L130-1 (M)
 
 
 ###### Article L142-4
@@ -8838,6 +8851,74 @@ trouve situé le terrain.
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
+###### Article L315-4
+
+Lorsque l'approbation d'un plan d'urbanisme ou d'occupation des sols aura été prononcée postérieurement à une autorisation de
+lotissement, l'autorité administrative peut modifier tout ou partie des documents, et notamment le cahier des charges du
+lotissement, pour les mettre en concordance avec le plan d'urbanisme ou d'occupation des sols.
+
+La décision de l'autorité administrative est prise après enquête publique, avis de la commission départementale d'urbanisme
+et délibération du conseil municipal.
+
+Lorsque le plan d'urbanisme ou le plan d'occupation des sols n'est pas encore approuvé, l'enquête publique afférente au
+projet de modification visé au premier alinéa du présent article peut être effectuée en même temps que l'enquête publique sur
+ledit plan. //LOI 1285 du 31 décembre 1976 : dans le cas où le lotissement a été créé depuis plus de vingt ans et comporte au
+moins cinquante lots, l'enquête publique prévue au deuxième alinéa du présent article fait l'objet d'une décision
+administrative affichée en mairie et à l'intérieur du lotissement et publiée dans au moins deux journaux locaux.
+
+Dans tous les autres cas, notification de l'ouverture de l'enquête publique est adressée par lettre recommandée à chacun des
+propriétaires des lots, selon les règles en vigueur en matière d'expropriation.
+
+Dans le cas où le lotissement a été autorisé postérieurement à la date d'entrée en vigueur du décret prévu à l'article L.
+315-1 (alinéa 1er), le règlement du lotissement, s'il en a été établi un, peut après la vente du dernier lot ou cinq ans
+après l'autorisation de lotir, être incorporé au plan d'occupation des sols rendu public ou approuvé par décision de
+l'autorité administrative prise sur la demande ou après avis du conseil municipal de la commune. Le régime juridique des
+plans d'occupation des sols est applicable aux dispositions ainsi incorporées//.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-1253 1967-12-30 ART. 39 loi d'orientation foncière
+
+	**Modifié par**:
+
+	  - Loi n°76-1285 1976-12-31 ART. 26 JORF 1 JANVIER 1977
+	  - Décret n°81-534 1981-05-12 ART. 2 JORF 15 MAI 1981 date d'entrée en vigueur ART. 38 MODIFIE 1 JUILLET 1982
+	  - Décret n°82-584 1982-06-29 ART. 1 JORF 7 JUILLET 1982
+
+	**Cité par**:
+
+	  - Décret n°85-453 du 23 avril 1985 - art. 2 (M)
+	  - Code de l'urbanisme - art. L315-5 (Ab)
+	  - Code de l'urbanisme - art. L315-8 (Ab)
+	  - Code de l'urbanisme - art. L315-9 (M)
+	  - Code de l'urbanisme - art. L322-4 (M)
+	  - Code de l'urbanisme - art. L340-1 (M)
+	  - Code de l'urbanisme - art. L480-10 (V)
+	  - Code de l'urbanisme - art. R*315-13 (M)
+	  - Code de l'urbanisme - art. R*315-39 (Ab)
+	  - Code de l'urbanisme - art. R*315-47 (Ab)
+	  - Code de l'urbanisme - art. R315-29 (M)
+	  - Code de l'urbanisme - art. R315-51 (Ab)
+	  - Code de l'urbanisme - art. R611-5 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L315-1 (Ab)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L322-4 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R315-49 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme R315-47
+
+	**Cite**:
+
+	  - Code de l'urbanisme L315-1 AL. 1
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
 #### Amélioration de certains lotissements
 
 ##### Prêts des caisses départementales
@@ -10438,6 +10519,48 @@ les gares et les aérodromes.//
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+### Permis de construire à titre précaire.
+
+###### Article L423-1
+
+/M/Lorsqu'une parcelle est réservée par un projet d'aménagement pour une voie publique, un espace libre public ou un service
+public/M/loi 1285 du 31 décembre 1976 :
+
+Lorsqu'un emplacement est réservé par un plan d'occupation des sols rendu public ou approuvé, ou un document d'urbanisme en
+tenant lieu, pour un ouvrage public, une voie publique, une installation d'intérêt général ou un espace vert// et que la
+construction à édifier a un caractère précaire, le permis de construire peut exceptionnellement être accordé, sur avis
+favorable de la commission départementale d'urbanisme et de la collectivité intéressée à l'opération.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Cité par**:
+
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 73 (VD)
+	  - Ordonnance n°2011-1539 du 16 novembre 2011 - art. 5 (VD)
+	  - Loi n°2012-955 du 6 août 2012 - art. 2 (V)
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 88 (V)
+	  - Code de l'urbanisme - art. L123-1-11-1 (Ab)
+	  - Code de l'urbanisme - art. L740-1 (VT)
+	  - Code de l'urbanisme - art. R*123-32 (Ab)
+	  - Code de l'urbanisme - art. R*423-1 (Ab)
+	  - Code de l'urbanisme - art. R611-5 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°76-1285 1976-12-31 ART. 20 JORF 1 JANVIER 1977
+	  - Décret n°81-534 1981-05-12 ART. 2 JORF 15 MAI 1981 date d'entrée en vigueur ART. 38 MODIFIE 1 JUILLET 1982
+	  - Décret n°82-584 1982-06-29 ART. 1 JORF 7 JUILLET 1982
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. L123-2-1 (T)
+	  - Code de l'urbanisme 93
 
 
 ### Permis de démolir.
@@ -13012,6 +13135,51 @@ salubrité ou à la sécurité publique.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R111-3
+
+La construction sur des terrains exposés à un risque /a/naturel/a/décr. 755// tel que : inondation, érosion, affaissement,
+éboulement, avalanches, peut, si elle est autorisée, être subordonnée à des conditions spéciales.
+
+Ces terrains sont délimités par arrêté préfectoral pris après consultation des services intéressés et enquête dans les formes
+prévues par le décret n° 59-701 du 6 juin 1959 relatif à la procédure d'enquête préalable à la déclaration d'utilité publique
+et avis du conseil municipal et de la commission départementale d'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°59-701 1959-06-06
+
+	**Anciens textes**:
+
+	  - Décret n°61-1298 1961-11-30 ART. 3
+	  - Code de l'urbanisme - art. R110-3 (T)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cité par**:
+
+	  - Décret n°77-1281 du 22 novembre 1977 - art. Annexe (V)
+	  - Décret n°81-534 du 12 mai 1981 - art. 5 (Ab)
+	  - Loi n°87-565 du 22 juillet 1987 - art. 40-6 (Ab)
+	  - Décret n°90-918 du 11 octobre 1990 - art. 2 (M)
+	  - Décret n°93-351 du 15 mars 1993 - art. 6 (Ab)
+	  - Code de l'environnement - art. L562-6 (V)
+	  - Code de l'urbanisme - art. *R111-1 (VT)
+	  - Code de l'urbanisme - art. R611-5 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°81-534 1981-05-12 ART. 20 JORF 15 MAI 1981 date d'entrée en vigueur ART. 38 MODIFIE 1 JUILLET 1982
+	  - Décret n°82-584 1982-06-29 ART. 1 JORF 7 JUILLET 1982
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R111-1 (M)
 
 
 ###### Article R111-4
@@ -15900,6 +16068,55 @@ de sa compétence ainsi que, le cas échéant, les annexes correspondantes menti
 	  - Code de l'urbanisme - art. R313-4 (M)
 
 
+###### Article R*123-5
+
+Le projet de plan est communiqué par le préfet à ceux des services publics qui ne sont pas représentés au sein du groupe de
+travail prévu à l'article R. 123-4 et qu'il y a lieu de consulter sur le projet. Faute de réponse dans les deux mois du jour
+où ils ont été saisis [*délai*], leur avis est réputé favorable [*silence acquiescement tacite*]. L'ensemble des avis ainsi
+recueillis est soumis au groupe de travail.
+
+//DECR. 736 : lorsqu'il est envisagé au cours de l'élaboration du plan d'occupation des sols de faire application de
+l'article L. 123-2, les zones [*protection des paysages*] dans lesquelles le transfert des possibilités de construction prévu
+par cet article pourra s'appliquer sont délimitées par arrêté du préfet, en cas d'avis favorable de la commission
+départementale d'urbanisme, et par arrêté du ministre chargé de l'urbanisme, en cas d'avis défavorable de cette commission.
+Peuvent seules être délimitées les zones qui constituent un paysage de qualité à l'exclusion des parties de territoire
+présentant un intérêt pour le développement des exploitations agricoles ou forestières.
+
+L'arrêté de délimitation peut être modifié ou abrogé suivant la procédure définie à l'alinéa précédent.
+
+L'arrêté de délimitation, tout arrêté ultérieur qui le modifie ou l'abroge, est notifié au président du groupe de travail
+ainsi qu'au maire de la commune intéressée ou, s'il existe un établissement public groupant plusieurs communes et ayant
+compétence en matière d'urbanisme, au président de cet établissement//.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-1016 1970-10-28 ART. 5
+
+	**Modifié par**:
+
+	  - Décret n°81-534 1981-05-12 art. 20 JORF 15 mai 1981 date d'entrée en vigueur art. 38 modifié 1 juillet 1982
+	  - Décret n°82-584 1982-06-29 art. 1 JORF 7 juillet 1982
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L123-2 (M)
+	  - Code de l'urbanisme R123-4
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*141-4 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme R123-8
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ###### Article R*123-6
 
 Le projet de plan élaboré dans les conditions prévues aux articles précédents est soumis par le préfet à la délibération des
@@ -17373,6 +17590,66 @@ un schéma directeur portant sur l'ensemble de la région parisienne, des schém
 	  - Loi n°64-707 du 10 juillet 1964 - art. 1, v. init.
 
 
+###### Article R*141-3
+
+/M/Les schémas directeurs d'aménagement et d'urbanisme et les schémas de secteur sont établis en conformité avec le schéma
+directeur de la région parisienne, sous l'autorité du préfet de la région parisienne assisté du chef du service régional de
+l'équipement.
+
+/M/DECR.0433 : Les schémas directeurs d'aménagement et d'urbanisme et les schémas de secteur doivent être compatibles avec le
+schéma directeur de la région parisienne. Ils sont établis sous l'autorité du préfet de la région, assisté du chef du service
+régional de l'équipement. Ils peuvent être approuvés avant que n'intervienne l'approbation du schéma directeur de la région.
+Dans ce cas, l'approbation ultérieure du schéma régional entraînera, le cas échéant, modification des schémas directeurs et
+des schémas de secteur dans leurs dispositions incompatibles avec le schéma régional ; ces modifications seront constatées
+par arrêté du préfet de la région parisienne//.
+
+Les dispositions des articles R. 122-1 à R. 122-21 et de l'article R. 613-2 [*consultation du comité d'aménagement de la
+région parisienne*] leur sont applicables sous réserve des dispositions suivantes :
+
+a) L'élaboration conjointe tant du schéma directeur que des schémas de secteur de la ville de Paris s'effectue, par
+dérogation aux dispositions des articles R. 122-8 à R. 122-11, au sein des services et des organismes placés sous l'autorité
+du préfet de Paris avec la participation de représentants du conseil de Paris et avec le concours des services publics
+intéressés ;
+
+En outre, le conseil de Paris est tenu informé des études entreprises et de leurs résultats ; les options relatives aux
+perspectives de développement et aux partis d'aménagement de la ville lui sont soumises ;
+
+Lorsque le conseil municipal de Paris et le conseil d'administration du district de la région parisienne ont émis leur avis
+dans les conditions prévues à l'article R. 122-13, les projets de schéma directeur et de schémas de secteur de la ville de
+Paris sont soumis à l'approbation des autorités compétentes par le préfet de la région parisienne ;
+
+b) En ce qui concerne les schémas autres que ceux visés au a ci-dessus :
+
+Le préfet de la région parisienne, sur proposition des préfets, arrête la liste des communes ou ensembles de communes
+concernés par l'établissement d'un schéma directeur d'aménagement et d'urbanisme. Les listes et les modifications qui peuvent
+leur être apportées sont communiquées aux maires des communes intéressées et publiées dans deux journaux diffusés dans le
+département [*publicité*] ;
+
+Lorsque les conseils municipaux ou les organes délibérant visés à l'article R. 122-13 ainsi que le conseil d'administration
+du district ont émis leur avis, le préfet de la région parisienne soumet les projets de schémas directeurs et de schémas de
+secteur à l'approbation des autorités compétentes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CODE DE L'URBANISME R613-2, R122-8 à R122-11, R122-13
+
+	**Anciens textes**:
+
+	  - Décret n°69-551 1969-05-28 ART. 23
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°75-433 1975-06-02 ART. 2 JORF 4 JUIN 1975
+	  - Décret n°81-534 1981-05-12 ART. 22 JORF 15 MAI 1981 date d'entrée en vigueur ART. 38 MODIFIE 1 JUILLET 1982
+	  - Décret n°82-584 1982-06-29 ART. 1 JORF 7 JUILLET 1982
+
+
 ###### Article R*141-4
 
 Dans la région parisienne, les projets de schémas qui, au 6 juin 1969 [*date limite*], ont été présentés au conseil
@@ -17397,6 +17674,40 @@ assemblées délibérantes des communes ou groupements de communes intéressés.
 
 
 ##### Plans d'occupation des sols.
+
+###### Article R*141-5
+
+L'élaboration conjointe du ou des plans d'occupation des sols de Paris prévue à l'article R. 123-4 s'effectue au sein des
+services et des organismes placés sous l'autorité du préfet de Paris avec la participation de représentants du conseil de
+Paris et avec le concours des services publics intéressés.
+
+Le projet de plan est communiqué par le préfet à ceux des services publics qui ne sont pas représentés au sein du groupe de
+travail constitué en application du précédent alinéa et qu'il y a lieu de consulter sur le projet. Faute de réponse dans les
+deux mois [*délai*] du jour où ils ont été saisis, leur avis [*tacite*] est réputé favorable. L'ensemble des avis ainsi
+recueillis est soumis au groupe de travail.
+
+Il est procédé à la consultation du conseil de Paris dans les conditions prévues à l'article R. 123-6 et, le cas échéant, à
+celle du comité d'aménagement de la région parisienne ainsi qu'il est dit à l'article R. 613-2.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-1016 1970-10-28 ART. 4-II ET 5
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°81-534 1981-05-12 ART. 22 JORF 15 MAI 1981 date d'entrée en vigueur ART. 38 MODIFIE 1 JUILLET 1982
+	  - Décret n°82-584 1982-06-29 ART. 1 JORF 7 JUILLET 1982
+
+	**Cite**:
+
+	  - Code de l'urbanisme R123-6
+
 
 ###### Article R*141-6
 
@@ -17447,6 +17758,46 @@ de l'aviation civile.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+#### Dispositions particulières à Paris et à Région Parisienne
+
+##### Schéma directeur.
+
+###### Article R*141-2
+
+Le schéma directeur de la région parisienne visé à l'article L. 141-1 est établi sous la responsabilité du préfet de la
+région parisienne avec la participation de représentants du conseil d'administration du district, du comité consultatif
+économique et social et des préfets des départements ; la procédure d'établissement de ce schéma est conduite par le chef du
+service régional de l'équipement, avec le concours des chefs des services de l'Etat.
+
+Il est approuvé par décret ou par décret en Conseil d'Etat lorsqu'un ou plusieurs conseils généraux, représentant un quart au
+moins de la population totale du territoire concerné, ou le conseil d'administration du district font connaître leur avis
+défavorable.
+
+Ces décrets sont pris sur le rapport des ministres énumérés au A de l'article R. 122-14, après avis du conseil de Paris, des
+conseils généraux, du conseil d'administration du district de la région parisienne et consultation du comité d'aménagement de
+la région parisienne, ainsi qu'il est dit à l'article R. 613-2.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°69-551 1969-05-28 ART. 22
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°81-534 1981-05-12 ART. 22 JORF 15 MAI 1981 date d'entrée en vigueur ART. 38 MODIFIE 1 JUILLET 1982
+	  - Décret n°82-584 1982-06-29 ART. 1 JORF 7 JUILLET 1982
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L141-1 (M)
+	  - Code de l'urbanisme R613-2
 
 
 #### Protection du caractère de certaines départements
@@ -17565,46 +17916,150 @@ Lorsque tous les avis requis sont par la suite recueillis, le préfet peut modif
 
 ###### Article R142-3
 
-Les préfets pourront, par arrêté notifié aux propriétaires intéressés pris après avis de la commission départementale
-d'urbanisme et de la commission départementale des sites, déterminer les espaces boisés, non soumis au régime forestier, dont
-la préservation est nécessaire, en vue de les soumettre, dès avant l'approbation des plans d'urbanisme, au régime prévu aux
-articles R. 130-1 à R. 130-3.
+Le préfet saisit la commission départementale d'urbanisme, la commission départementale des sites, perspectives et paysages,
+et les conseils municipaux des communes intéressées d'un projet tendant à l'application des mesures de protection prévues à
+l'article L. 142-3.
 
-Les infractions aux dispositions du précédent alinéa sont punies des peines prévues par l'article /M/R. 130-1/M/DECR.0897 :
-R. 130-13//.
+Le projet détermine, selon les cas :
 
-Les arrêtés prévus à l'alinéa 1er du présent article cessent d'être applicables à l'égard des terrains qui ne sont pas
-classés comme espaces boisés par un plan d'urbanisme approuvé.
+- les bois, forêts et parcs soumis au régime des espaces boisés en application de l'alinéa 1 de l'article L. 142-3 ;
+
+- les sites et paysages soumis à une protection particulière en application de l'alinéa 2 du même article ; pour ceux-ci, le
+projet prévoit également les règles d'utilisation du sol, notamment les mesures limitant les ouvertures de chemins et les
+adductions d'eau, lorsque ces mesures sont appliquées par des particuliers et n'ont pas pour objet d'assurer la desserte des
+bâtiments existants ou d'améliorer des exploitations agricoles.
+
+Les avis [*tacite*] des conseils municipaux doivent être transmis à l'autorité de tutelle dans les trois mois à compter du
+jour où ils ont été demandés. Ils sont réputés favorables si aucune réponse n'a été donnée dans ce délai.
+
+Au vu des avis recueillis, le préfet fixe par arrêté les mesures de protection.
+
+Sans préjudice des mesures de publicité de cet arrêté prévues par l'article R. 142-4-1 ci-après, un dossier comportant cet
+arrêté et un document graphique est tenu à la disposition du public dans les mairies des communes intéressées, à la
+préfecture et à la direction départementale de l'équipement.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°81-534 1981-05-12 ART. 21 JORF 15 MAI 1981 date d'entrée en vigueur ART. 38 MODIFIE 1 JUILLET 1982
+	  - Décret n°82-584 1982-06-29 ART. 1 JORF 7 JUILLET 1982
 
 	**Cité par**:
 
 	  - Décret n°81-534 du 12 mai 1981 - art. 5 (Ab)
 	  - Code de l'urbanisme - art. R142-1 (M)
-	  - Code de l'urbanisme - art. R142-4-1 (Ab)
 	  - Code de l'urbanisme - art. R611-5 (Ab)
 
 	**Liens**:
 
+	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*130-1 (M)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*130-2 (M)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*130-3 (M)
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R130-1 (M)
-	  - Code de l'urbanisme - art. R130-13 (M)
-	  - Code de l'urbanisme - art. R130-2 (M)
-	  - Code de l'urbanisme - art. R130-3 (M)
+	  - Code de l'urbanisme - art. L142-3 (M)
+	  - Code de l'urbanisme - art. R142-4-1 (Ab)
 
 	**Anciens textes**:
 
 	  - Décret n°59-768 1959-06-26 ART. 2
 
+
+###### Article R142-3-1
+
+A l'intérieur des périmètres sensibles le préfet peut, par arrêté pris après avis du conseil municipal, de la commission
+départementale d'urbanisme et de la commission départementale des sites, perspectives et paysages, déterminer les secteurs
+auxquels est applicable le régime du permis de démolir défini par les articles L. 430-1 à L. 430-9 et les textes pris pour
+leur application.
+
+**Liens relatifs à cet article**
+
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°77-758 1977-07-07 ART. 3 JORF 7 JUILLET 1977
+
+	**Modifié par**:
+
+	  - Décret n°81-534 1981-05-12 ART. 21 JORF 15 MAI 1981 date d'entrée en vigueur ART. 38 MODIFIE 1 JUILLET 1982
+	  - Décret n°82-584 1982-06-29 ART. 1 JORF 7 JUILLET 1982
+
+	**Cité par**:
+
+	  - Décret n°81-534 du 12 mai 1981 - art. 5 (Ab)
+	  - Code de l'urbanisme - art. R142-4-1 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°86-516 du 14 mars 1986 - art. 7 () JORF 16 mars 1986 en vigueur le   1er juin 1987
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R142-4-1 (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme L430-1 à L430-9
+
+
+###### Article R142-4
+
+Par application des dispositions de l'article 2 du décret n° 59-275 du 7 février 1959, toute personne physique ou morale qui
+se propose de recevoir soit d'une manière habituelle, soit d'une manière occasionnelle, sur un terrain lui appartenant ou
+dont elle a la disposition, plus de dix campeurs ou de trois abris de camping à la fois, est tenue d'en demander
+l'autorisation au préfet. Les terrains de camping autorisés en application du présent alinéa sont soumis au droit
+d'inspection prévu à l'article 4 du décret mentionné ci-dessus.
+
+Par anticipation sur les dispositions d'un plan d'occupation des sols rendu public, le préfet peut, par arrêté pris après
+avis de la commission départementale d'urbanisme, de la commission départementale de l'action touristique et de la commission
+départementale des sites, interdire ou soumettre à des conditions particulières l'ouverture des terrains visés à l'alinéa ci-
+dessus et destinés à être utilisés de manière habituelle comme terrains de camping.
+
+Sera puni d'un emprisonnement de dix jours à un mois et d'une amende de 1200 à 3000 F quiconque aura ouvert un terrain de
+camping sans être muni de l'autorisation prévue à l'alinéa 1er ci-dessus, ou après la suspension ou le retrait de cette
+autorisation. Sera puni de la même peine quiconque aura entravé l'exercice du droit d'inspection prévu au même alinéa.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°59-275 1959-02-07 ART. 2 ET 4
+
+	**Anciens textes**:
+
+	  - Décret n°59-768 1959-06-26 ART. 3
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°80-547 1980-07-18 ART. 2 JORF 23 JUILLET 1980
+	  - Décret n°81-534 1981-05-12 ART. 21 ET ART. 25 JORF 15 MAI 1981 date d'entrée en vigueur ART. 38 MODIFIE 1 JUILLET 1982
+	  - Décret n°82-584 1982-06-29 ART. 1 JORF 7 JUILLET 1982
+
+	**Cité par**:
+
+	  - Décret n°81-534 du 12 mai 1981 - art. 5 (Ab)
+	  - Décret n°81-534 du 12 mai 1981 - art. 6 (Ab)
+	  - Code de l'urbanisme - art. R142-1 (M)
+	  - Code de l'urbanisme - art. R611-5 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R142-4-1 (Ab)
 
 
 ###### Article R142-4-1
@@ -22455,6 +22910,50 @@ ministre chargé de l'architecture.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+##### Sous-section 2 : Instruction du plan de sauvegarde et de mise en valeur
+
+###### Article R313-9
+
+Le plan de sauvegarde et de mise en valeur, éventuellement modifié pour tenir compte des avis émis en application de
+l'article précédent, accompagné des avis émis en application de l'article précédent et des résultats de l'enquête, est soumis
+à la commission nationale des secteurs sauvegardés. Pour les immeubles ou ensembles urbains protégés au titre de la loi du 2
+mai 1930 sur les sites et compris dans les limites du secteur sauvegardé la consultation de cette commission se substitue aux
+consultations des commissions départementales et supérieure des sites.
+
+A la demande du ministre chargé de l'architecture, la commission supérieure des monuments historiques ou sa délégation
+permanente peut être consultée sur les dispositions du plan de sauvegarde et de mise en valeur touchant les immeubles
+protégés au titre de la loi du 31 décembre 1913 et compris dans les limites d'un secteur sauvegardé.
+
+Le plan de sauvegarde et de mise en valeur, éventuellement modifié pour tenir compte des avis émis, est approuvé par décret
+en Conseil d'Etat sur le rapport conjoint du ministre chargé de l'architecture, du ministre chargé de l'urbanisme et du
+ministre de l'intérieur *autorité compétente*.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°77-737 1977-07-07 art. 1 JORF 8 juillet 1977
+
+	**Modifié par**:
+
+	  - Décret n°81-534 1981-05-12 art. 24 JORF 15 mai 1981 date d'entrée en vigueur art. 38 modifié 1 juillet 1982
+	  - Décret n°82-584 1982-06-29 art. 1 JORF 7 juillet 1982
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-6 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R313-8 (M)
+	  - Loi n°1913-12-31
+	  - Loi n°1930-05-02
 
 
 #####    Sous-section 3 : Contenu du plan de sauvegarde et de mise en valeur
@@ -30995,6 +31494,44 @@ fixe la liste de ces documents.
 	  - Décret n°73-1023 1973-11-08
 
 
+##### Modifications apportées aux documents du lotissement et subdivisions de lots provenant d'un lotissement.
+
+###### Article R*315-47
+
+La décision de l'autorité administrative prévue à l'article L. 315-4 (alinéas 1 et 2) est prise par le préfet [*autorité
+compétente*].
+
+Si les modifications aux documents régissant le lotissement résultant de la décision du préfet rendent nécessaires des
+travaux d'équipement, l'entrée en vigueur de ces modifications est subordonnée, à défaut de la prise en charge des travaux
+par la collectivité ou par les constructeurs, à la création, dans les conditions prévues au 7° de l'article 1er et au titre
+III de la loi du 21 juin 1865, ou par l'article L. 322-2 (1°) du présent code, d'une association syndicale de propriétaires
+groupant les propriétaires des lots intéressés auxdits travaux [*conditions*].
+
+L'arrêté modificatif est publié au fichier immobilier avec indication, le cas échéant, de la condition de son entrée en
+vigueur [*publicité*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°77-860 1977-07-26 ART. 1 JORF 29 JUILLET 1977 date d'entrée en vigueur 1 JANVIER 1978
+
+	**Modifié par**:
+
+	  - Décret n°81-534 1981-05-12 ART. 20 JORF 15 MAI 1981 date d'entrée en vigueur ART. 38 MODIFIE 1 JUILLET 1982
+	  - Décret n°82-584 1982-06-29 ART. 1 JORF 7 JUILLET 1982
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L322-2 (M)
+	  - Code de l'urbanisme L315-4 AL. 1 ET 2
+	  - Loi   1865-06-21 ART. 1 ET TITRE III
+
+
 ##### Modifications apportées aux documents du lotissement et subdivisions de Lots provenant du lotissement.
 
 ###### Article R315-48
@@ -33208,6 +33745,72 @@ stationnement des caravanes.
 
 
 #####  Section 3 : Dispositions applicables dans les zones soumises à un risque naturel ou technologique prévisible
+
+###### Article R443-9
+
+/M/La création de terrains aménagés en vue du stationnement des caravanes est interdite/M/    DECR. 694 4 septembre 1980 :
+
+Le stationnement des caravanes ainsi que la création de terrains aménagés à cet effet sont interdits ://    1. Dans les sites
+classés ou inscrits, dans les zones définies au 3. de l'article 1er de la loi du 31 décembre 1913 sur les monuments
+historiques, autour d'un monument historique classé ou inscrit ou proposé pour le classement, dans les zones de protection
+établies en application de l'article 17 de la loi du 2 mai 1930 sur la protection des monuments naturels et des sites. Sauf
+en ce qui concerne les sites classés ou proposés pour le classement, des dérogations à l'interdiction peuvent être accordées
+par le préfet après avis de l'architecte des bâtiments de France et, si le préfet le juge utile, de la commission
+départementale des sites ; en ce qui concerne les sites classés, des dérogations peuvent être accordées par le ministre des
+affaires culturelles ou, s'il s'agit de sites naturels, par le ministre chargé de la protection de la nature et de
+l'environnement après avis de la commission départementale des sites et, si ce ministre le juge utile, de la commission
+régionale des opérations immobilières, de l'architecture et des espaces protégés ou de la commission supérieure des sites.
+
+2. Dans les bois, forêts et parcs classés par un plan d'urbanisme ou un plan d'occupation des sols comme espaces boisés à
+conserver, sous réserve de l'application éventuelle des articles L. 130-1 à L. 130-3.
+
+3. Sauf avis favorable du conseil départemental d'hygiène dans un rayon de moins de 200 mètres [*distance*] des points d'eau
+captée pour la consommation, sans préjudice des dispositions relatives aux périmètres de protection déterminés conformément
+au décret n° 67-1093 du 15 décembre 1967 portant règlement d'administration publique pour l'application de l'article L. 20 du
+Code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°67-1093 1967-12-15
+	  - Code de la santé publique - art. L20 (M)
+	  - Code de l'urbanisme - art. L130-1 (M)
+	  - Code de l'urbanisme - art. L130-2 (M)
+	  - Code de l'urbanisme - art. L130-3 (M)
+	  - Loi   1913-12-31 ART. 1
+	  - Loi   1930-05-02 ART. 17
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-694 1980-09-04 ART. 13 : Les propriétaires de terrains de camping et de caravanes autorisés antérieurement à la publication du présent décret disposent d'un délai de trois ans pour mettre leurs installations en conformité avec les dispositi
+	  - SPEC_APPLI: Les détenteurs d'emplacements à l'intérieur de ces terrains disposent du même délai
+
+	**Modifié par**:
+
+	  - Décret n°80-694 1980-09-04 ART. 9 JORF 7 SEPTEMBRE 1980
+	  - Décret n°81-534 1981-05-12 ART. 23 ET ART. 26 JORF 15 MAI 1981 date d'entrée en vigueur ART. 38 1 JUILLET 1982
+	  - Décret n°82-584 1982-06-29 ART. 1 JORF 7 JUILLET 1982
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R125-15 (V)
+	  - Code de l'environnement - art. R365-2 (M)
+	  - Code de l'urbanisme - art. R*443-13 (Ab)
+	  - Code de l'urbanisme - art. R*443-4 (M)
+	  - Code de l'urbanisme - art. R*443-7-2 (Ab)
+	  - Code de l'urbanisme - art. R*444-4 (M)
+	  - Code de l'urbanisme - art. R443-7 (M)
+	  - Code du tourisme. - art. D331-7 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. R440-16 (T)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
 
 ###### Article R443-10
 
@@ -36345,6 +36948,43 @@ caractères apparents dans deux journaux régionaux ou locaux diffusés dans tou
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R421-56
+
+Conformément à l'article 10 du décret n. 69-825 du 28 août 1969, la commission régionale des opérations immobilières, de
+l'architecte et des espaces protégés peut être consultée sur les plans généraux d'organisation des grands ensembles
+immobiliers dont le préfet de région a à connaître ainsi que sur les projets autres que ceux visés à l'article 5 (4.) dudit
+décret, de construction d'immeubles de dimensions ou de caractéristiques exceptionnelles qui sont transmis au préfet de
+région par les préfets.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Anciens textes**:
+
+	  - Décret n°69-825 du 28 août 1969 - art. 10 (Ab)
+
+	**Cite**:
+
+	  - Décret n°69-825 du 28 août 1969 - art. 10 (Ab)
+	  - Décret n°69-825 du 28 août 1969 - art. 5 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°81-534 1981-05-12 ART. 37 JORF 15 MAI 1981 date d'entrée en vigueur ART. 38 MODIFIE 1 JUILLET 1982
+	  - Décret n°83-1261 1983-12-30 ART. 40 II JORF 7 JANVIER 1984 date d'entrée en vigueur 1 AVRIL 1984
+
+	**Modifié par**:
+
+	  - Décret n°82-584 1982-06-29 ART. 1 JORF 7 JUILLET 1982
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*613-5 (Ab)
+
+
 ###### Article R421-57
 
 Conformément aux dispositions de l'article 3 du décret n. 60-1161 du 2 novembre 1960, le directeur départemental de
@@ -36537,41 +37177,6 @@ cas de récidive, outre la peine d'amende, un emprisonnement de dix jours à un 
 	**Cite**:
 
 	  - Code de l'urbanisme R422-3
-
-
-#### Permis de construire à titre précaire
-
-###### Article R*423-1
-
-Le permis de construire délivré en application de l'article L. 423-1 ne peut être accordé que sur avis favorable de la
-commission départementale des sites et de l'environnement [*conditions*].
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°81-534 1981-05-12 ART. 29 JORF 15 MAI 1981 date d'entrée en vigueur ART. 38 MODIFIE 1 JUILLET 1982
-
-	**Abrogé par**:
-
-	  - Décret n°82-584 1982-06-29 ART. 1 JORF 7 JUILLET 1982
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L423-1 (M)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*431-35 (VD)
-	  - Code de l'urbanisme - art. R*431-5 (VD)
-	  - Code de l'urbanisme - art. R*441-1 (VD)
-	  - Code de l'urbanisme - art. R*441-9 (VD)
-	  - Code de l'urbanisme - art. R451-1 (VD)
-	  - Code du patrimoine. - art. R621-88 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 ### Permis de démolir
@@ -37368,6 +37973,47 @@ Le préfet peut annuler ou réformer dans le délai d'un mois la décision du ma
 	**Cite**:
 
 	  - Code de l'urbanisme - art. R443-10 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R443-3
+
+Pour les motifs indiqués à l'article R. 443-10 le préfet peut, par arrêté pris sur la demande ou après avis de la ou des
+communes intéressées et après consultation de la commission départementale de l'action touristique, et éventuellement de la
+commission départementale des sites, interdire dans certaines zones le stationnement des caravanes, quelle qu'en soit la
+durée, en dehors des terrains aménagés.
+
+Toutefois, lorsqu'il n'y a pas de terrains aménagés, cette interdiction ne s'applique pas aux caravanes à usage professionnel
+ni à celles qui constituent l'habitat permanent de leurs utilisateurs ; l'arrêté préfectoral mentionné ci-dessus peut
+seulement limiter le stationnement desdites caravanes à une durée qui peut varier selon les périodes de l'année sans être
+inférieure à deux jours ni supérieure à quinze jours.
+
+Le ministre chargé de l'urbanisme fixe, par arrêté publié au Journal officiel, les conditions dans lesquelles est établie la
+signalisation nécessaire pour porter à la connaissance des usagers la réglementation prévue par les deux alinéas qui
+précèdent. Cette réglementation n'est opposable aux usagers que si les mesures de signalisation ont été effectivement prises.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°81-534 1981-05-12 ART. 23 ET ART. 25 JORF 15 MAI 1981 date d'entrée en vigueur ART. 38 MODIFIE 1 JUILLET 1982
+	  - Décret n°82-584 1982-06-29 ART. 1 JORF 7 JUILLET 1982
+
+	**Cité par**:
+
+	  - Décret n°81-534 du 12 mai 1981 - art. 6 (Ab)
+	  - Code de l'urbanisme - art. A443-1 (Ab)
+	  - Code de l'urbanisme - art. R*443-10 (M)
+	  - Code de l'urbanisme - art. R*443-7-3 (Ab)
+	  - Code de l'urbanisme - art. R*444-4 (Ab)
+	  - Code de l'urbanisme - art. R443-14 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. R440-10 (T)
 
 	**Codifié par**:
 
@@ -39849,6 +40495,556 @@ fonctions dans les conditions fixées aux articles R. 160-1 à R. 160-3.
 ## LIVRE VI : Organismes consultatifs et dispositions diverses
 
 ### Titre Ier : Organismes consultatifs
+
+#### Chapitre Ier : Commissions départementales d'urbanisme.
+
+###### Article R611-1
+
+Une commission consultative dite "Commission départementale d'urbanisme", instituée dans chaque département, est appelée à
+émettre son avis sur les affaires qui lui sont soumises par le préfet du département où siège cette commission. Le préfet
+saisit cette commission soit de lui-même, soit à la demande du directeur départemental de l'équipement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°81-534 1981-05-12 ART. 37 JORF 15 MAI 1981 date d'entrée en vigueur ART. 38 MODIFIE 1 JUILLET 1982
+	  - Décret n°86-984 1986-08-19 ART. 7 XLIV JORF 27 AOUT 1986
+
+	**Créé par**:
+
+	  - Décret n°82-584 1982-06-29 ART. 1 JORF 7 JUILLET 1982
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme 7 AL. 1
+
+
+###### Article R611-2
+
+La commission départementale d'urbanisme est présidée par le préfet ou par le fonctionnaire appelé réglementairement à le
+suppléer.
+
+Elle comprend les membres ci-après énumérés.
+
+1. Le directeur départemental de l'équipement ;
+
+Le directeur départemental de l'agriculture ;
+
+Le directeur départemental de l'action sanitaire et sociale ;
+
+L'architecte des Bâtiments de France ou, à défaut, l'architecte en chef des monuments historiques ;
+
+L'inspecteur départemental de la jeunesse et des sports ;
+
+Le directeur des services d'archives départementaux ;
+
+Le représentant du ministre des affaires culturelles.
+
+2. Deux membres du conseil général ;
+
+Trois maires, dont un au moins d'une commune rurale ;
+
+Deux membres du conseil départemental d'hygiène ;
+
+Quatre personnalités particulièrement qualifiées dont /M/un membre des sociétés d'histoire et d'art du département/M/
+DECR.0760 ART. 24 : trois membres dirigeants des associations reconnues d'utilité publique mentionnées à l'article L. 160-1
+ou agréées en application du titre 1er du décret n. 77-760 du 7 juillet 1977 ;
+
+Quatre suppléants sont désignés dans les mêmes conditions//.
+
+Les membres mentionnés au 2. ci-dessus sont désignés pour trois ans par arrêté du préfet, pris après avis du directeur
+départemental de l'équipement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cité par**:
+
+	  - Décret n°64-250 du 14 mars 1964 - art. Annexe. (Ab)
+	  - Code de l'urbanisme - art. A611-3 (Ab)
+	  - Code de l'urbanisme - art. R611-3 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°77-760 1977-07-07 ART. 24 JORF 10 JUILLET 1977 date d'entrée en vigueur ART. 27 1 JANVIER 1978
+
+	**Cite**:
+
+	  - Décret n°77-760 1977-07-07 TITRE I
+	  - Code de l'urbanisme - art. L160-1 (M)
+
+	**Abrogé par**:
+
+	  - Décret n°81-534 1981-05-12 ART. 37 JORF 15 MAI 1981 date d'entrée en vigueur ART. 38 MODIFIE 1 JUILLET 1982
+	  - Décret n°86-984 1986-08-19 ART. 7 XLIV JORF 27 AOUT 1986
+
+	**Créé par**:
+
+	  - Décret n°82-584 1982-06-29 ART. 1 JORF 7 JUILLET 1982
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme 8
+
+
+###### Article R611-3
+
+Les délégués des administrations publiques qui ne sont pas représentées en permanence au sein de la commission ont accès aux
+séances ; ces délégués ont voix consultative.
+
+Lorsqu'elle est appelée à donner son avis sur un plan d'occupation des sols, la commission entend le ou les maires de la ou
+des communes intéressées.
+
+La commission peut entendre toutes les personnes qualifiées qu'elle croit devoir convoquer.
+
+Les conditions de fonctionnement des commissions départementales d'urbanisme sont déterminées par arrêté concerté du ministre
+chargé de l'urbanisme et du ministre de l'intérieur, qui fixe notamment les conditions dans lesquelles sont remplacés, en cas
+d'empêchement, les membres énumérés au paragraphe 1. de l'article R. 611-2.
+
+Des rapporteurs peuvent être nommés auprès de la commission par arrêté du préfet pris après avis du directeur départemental
+de l'équipement.
+
+Le secrétariat de la commission est assuré par les services de la préfecture du département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cité par**:
+
+	  - Décret n°64-250 du 14 mars 1964 - art. Annexe. (Ab)
+	  - Code de l'urbanisme - art. A611-2 (Ab)
+	  - Code de l'urbanisme - art. A611-4 (Ab)
+	  - Code de l'urbanisme - art. A611-6 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°81-534 1981-05-12 ART. 37 JORF 15 MAI 1981 date d'entrée en vigueur ART. 38 MODIFIE 1 JUILLET 1982
+	  - Décret n°86-984 1986-08-19 ART. 7 XLIV JORF 27 AOUT 1986
+
+	**Modifié par**:
+
+	  - Décret n°82-584 1982-06-29 ART. 1 JORF 7 JUILLET 1982
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R611-2 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme 9
+
+
+###### Article R611-4
+
+Les commissions départementales d'urbanisme peuvent être temporairement réunies en une commission interdépartementale pour
+l'étude des questions intéressant plusieurs départements.
+
+La réunion est prescrite par un arrêté du ministre chargé de l'urbanisme.
+
+La présidence de la commission est assurée par un préfet désigné, en accord avec le ministre de l'intérieur, par arrêté du
+ministre chargé de l'urbanisme.
+
+S'il y a lieu de réunir plus de deux commissions départementales, l'arrêté prescrivant la réunion peut décider que ces
+commissions seront représentées chacune par une délégation dont il détermine le nombre des membres et qui est élue au sein de
+chaque commission.
+
+La commission interdépartementale se réunit sur convocation de son président, qui en fait assurer le secrétariat par les
+services de sa préfecture.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cité par**:
+
+	  - Décret n°64-250 du 14 mars 1964 - art. Annexe. (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°81-534 1981-05-12 ART. 37 JORF 15 MAI 1981 date d'entrée en vigueur ART. 38 MODIFIE 1 JUILLET 1982
+	  - Décret n°86-984 1986-08-19 ART. 7 XLIV JORF 27 AOUT 1986
+
+	**Modifié par**:
+
+	  - Décret n°82-584 1982-06-29 ART. 1 JORF 7 JUILLET 1982
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme 10
+
+
+#### Chapitre II : Conférence permanente du permis de construire.
+
+###### Article R612-1
+
+Dans chaque département, il est créé une conférence permanente du permis de construire dont la composition est fixée par
+arrêté ministériel.
+
+Les membres de la conférence sont désignés par arrêté préfectoral.
+
+La conférence permanente comprend les représentants des ministères intéressés à l'instruction des demandes. Elle peut
+s'adjoindre toute personne susceptible de l'informer utilement sur le projets soumis à son examen, et notamment le maire de
+la commune intéressée. La conférence permanente du permis de construire est présidée par le préfet ou son représentant et se
+réunit sur convocation de son président au moins deux fois par mois, à moins qu'il n'y ait aucune affaire à porter à son
+ordre du jour. L'ordre du jour est arrêté par le préfet sur proposition du directeur départemental de l'équipement.
+
+La conférence délibère valablement, quel que soit le nombre des membres présents [*quorum*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°61-1036 1961-09-13 ART. 22 BIS, TER
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°81-534 1981-05-12 ART. 30 JORF 15 MAI 1981 date d'entrée en vigueur ART. 38 MODIFIE 1 JUILLET 1982
+
+	**Modifié par**:
+
+	  - Décret n°82-584 1982-06-29 ART. 1 JORF 7 JUILLET 1982
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R421-16 (Ab)
+
+
+###### Article R612-2
+
+L'avis de la conférence permanente du permis de construire tient lieu de l'avis de la commission départementale d'urbanisme
+prévu par l'article R. 111-20 ou par les règlements accompagnant les plans d'urbanisme ou les plans d'occupation des sols de
+toute nature, lorsqu'il y a lieu d'apprécier l'opportunité d'accorder des dérogations d'importance mineure auxdits règlements
+définies par arrêté préfectoral sur proposition de la commission départementale d'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°61-1036 1961-09-13 ART. 22 QUINQUIES
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°81-534 1981-05-12 ART. 20 JORF 15 MAI 1981 date d'entrée en vigueur ART. 38 MODIFIE 1 JUILLET 1982
+	  - Décret n°82-584 1982-06-29 ART. 1 JORF 7 JUILLET 1982
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R110-20 (T)
+	  - Code de l'urbanisme - art. R111-20 (M)
+
+
+#### Chapitre III : Comité d'aménagement de la région parisienne.
+
+###### Article R*613-1
+
+Le comité d'aménagement de la région parisienne institué auprès du ministre chargé de l'urbanisme est compétent pour la
+région parisienne, telle qu'elle est définie par l'article 1er de la loi n. 64-707 du 10 juillet 1964.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°64-707 du 10 juillet 1964 - art. 1, v. init.
+
+	**Anciens textes**:
+
+	  - Décret n°69-429 1969-05-10 ART. 2
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°81-534 1981-05-12 ART. 37 JORF 15 MAI 1981 date d'entrée en vigueur ART. 38 MODIFIE 1 JUILLET 1982
+	  - Décret n°86-984 1986-08-19 art. 7 XLIV JORF 27 AOUT 1986
+
+	**Modifié par**:
+
+	  - Décret n°82-584 1982-06-29 ART. 1 JORF 7 JUILLET 1982
+
+
+###### Article R*613-3
+
+Sur proposition du préfet de la région et par une délibération expresse prise en assemblée plénière du comité, les
+conférences permanentes du permis de construire de chaque département de la région parisienne peuvent être habilitées à
+exercer certaines attributions du comité d'aménagement de la région parisienne en matière de dérogation aux plans d'urbanisme
+applicables dans les limites de leur compétence territoriale.
+
+L'instruction de ces demandes de dérogation est alors assurée à l'initiative du préfet du département intéressé, suivant la
+procédure prescrite pour la consultation des conférences permanentes du permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°69-429 1969-05-10 ART. 4
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°81-534 1981-05-12 ART. 37 JORF 15 MAI 1981 date d'entrée en vigueur ART. 38 MODIFIE 1 JUILLET 1982
+	  - Décret n°86-984 1986-08-19 art. 7 XLIV JORF 27 AOUT 1986
+
+	**Modifié par**:
+
+	  - Décret n°82-584 1982-06-29 ART. 1 JORF 7 JUILLET 1982
+
+
+###### Article R*613-4
+
+Le comité d'aménagement de la région parisienne peut être consulté, à l'initiative du préfet de la région, sur toutes les
+questions intéressant l'urbanisme dans la région parisienne, et notamment sur :
+
+1. Les schémas directeurs d'aménagement et d'urbanisme, schémas de secteur et plans d'occupation des sols dans les cas non
+prévus à l'article R. 613-2 ;
+
+2. La détermination des périmètres des zones d'aménagement concerté ;
+
+3. Les modalités de compensation ou d'autorisation de construire prévues en ce qui concerne les espaces boisés et les sites
+naturels par les articles L. 130-1 à L. 130-3.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°69-429 1969-05-10 ART. 5
+
+	**Abrogé par**:
+
+	  - Décret n°81-534 1981-05-12 ART. 37 JORF 15 MAI 1981 date d'entrée en vigueur ART. 38 MODIFIE 1 JUILLET 1982
+	  - Décret n°86-984 1986-08-19 art. 7 XLIV JORF 27 AOUT 1986
+
+	**Créé par**:
+
+	  - Décret n°82-584 1982-06-29 ART. 1 JORF 7 JUILLET 1982
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L130-1 (M)
+	  - Code de l'urbanisme - art. L130-2 (M)
+	  - Code de l'urbanisme - art. L130-3 (M)
+	  - Code de l'urbanisme R613-2
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*613-5
+
+Conformément à l'article 44 du décret n° 69-825 du 28 août 1969, les compétences dévolues par /M/les articles R. 333-6 et R.
+421-56/M/DECR. 267 ART. 25 : L'article R. 421-56// aux commissions régionales des opérations immobilières, de l'architecture
+et des espaces protégés sont exercées dans la région parisienne par le comité d'aménagement de la région parisienne.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Anciens textes**:
+
+	  - Décret n°69-825 du 28 août 1969 - art. 44 (Ab)
+
+	**Cite**:
+
+	  - Décret n°69-825 du 28 août 1969 - art. 44 (Ab)
+	  - Code de l'urbanisme - art. R333-6 (Ab)
+	  - Code de l'urbanisme - art. R421-56 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°76-267 1976-03-25 ART. 25 JORF 27 MARS 1976
+
+	**Abrogé par**:
+
+	  - Décret n°81-534 1981-05-12 ART. 37 JORF 15 MAI 1981 date d'entrée en vigueur ART. 38 MODIFIE 1 JUILLET 1982
+	  - Décret n°83-1261 1983-12-30 ART. 46 III 20 JORF 7 JANVIER 1984 date d'entrée en vigueur 1 AVRIL 1984
+
+	**Créé par**:
+
+	  - Décret n°82-584 1982-06-29 ART. 1 JORF 7 JUILLET 1982
+
+
+###### Article R*613-6
+
+Le comité est présidé par le ministre chargé de l'urbanisme ou par le préfet de la région parisienne ou, en leur absence, par
+le vice-président.
+
+Il comprend :          
+
+1. Deux membres du Conseil d'Etat élus par l'assemblée générale du Conseil d'Etat ; l'un deux, ayant au moins le grade de
+conseiller d'Etat, est vice-président du comité ;
+
+2. Deux représentants du ministre chargé de l'urbanisme parmi lesquels le directeur de l'aménagement foncier et de
+l'urbanisme ou son représentant, un représentant de chacun des ministres de l'intérieur, de l'économie et des finances, de
+l'éducation nationale, de l'agriculture, de la santé publique, des transports, de la jeunesse et des sports, des affaires
+culturelles, de l'industrie, des armées et de la protection de la nature et de l'environnement ;
+
+3. Deux conseillers de Paris ;
+
+Sept conseillers généraux représentant respectivement les départements des Hauts-de-Seine, de la Seine-Saint-Denis, du Val-
+de-Marne, de l'Essone, des Yvelines, du Val-d'Oise et de Seine-et-Marne et exerçant un mandat de maire dans le département
+qu'ils représentent ;
+
+/M/Trois membres du conseil d'administration du district de la région parisienne/M/DECR.0760 ART. 25 : Trois membres du
+Conseil régional d'Ile-de-France//.
+
+Les membres mentionnés au 3. ci-dessus sont désignés par chacun des conseils dont ils sont membres.
+
+Douze suppléants sont désignés dans les mêmes conditions ;
+
+4. Neuf personnalités particulièrement qualifiées en raison de leurs fonctions, de leurs études ou de leurs travaux dont :
+
+Un médecin ou hygiéniste ;
+
+/M/Deux membres du comité consultatif économique et social de la région parisienne ;
+
+Deux urbanistes dont au moins un architecte ;
+
+Deux membres des groupements qui se proposent d'assurer la conservation ou de favoriser la connaissance des richesses
+artistiques, historiques ou naturelles/M/DECR.0760 ART. 26 :
+
+Deux membres du comité économique et social de la région d'Ile-de-France ;
+
+Deux urbanistes dont au moins un architecte ;
+
+Trois membres dirigeants des associations reconnues d'utilité publique mentionnées à l'article L.160-1 ou agréées en
+application du titre 1er du décret n. 77-760 du 7 juillet 1977 ;
+
+Trois suppléants sont désignés dans les mêmes conditions//.
+
+Les membres mentionnés au 4. ci-dessus sont désignés pour trois ans par le ministre chargé de l'urbanisme après consultation
+du préfet de la région parisienne.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Anciens textes**:
+
+	  - Décret n°69-825 du 28 août 1969 - art. 7 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°77-760 1977-07-07 ART. 25 JORF 10 JUILLET 1977 date d'entrée en vigueur ART. 26 1 JANVIER 1978
+	  - Décret n°82-584 1982-06-29 ART. 1 JORF 7 JUILLET 1982
+
+	**Cite**:
+
+	  - Décret n°77-760 1977-07-07 TITRE I
+	  - Code de l'urbanisme - art. L160-1 (M)
+
+	**Abrogé par**:
+
+	  - Décret n°81-534 1981-05-12 ART. 37 JORF 15 MAI 1981 date d'entrée en vigueur ART. 38 MODIFIE 1 JUILLET 1982
+	  - Décret n°86-984 1986-08-19 art. 7 XLIV JORF 27 AOUT 1986
+
+
+###### Article R*613-7
+
+Les préfets des départements de la région parisienne et le préfet de police, ou leurs représentants, peuvent assister aux
+séances du comité. Ils y participent avec voix délibérative pour les affaires de leur compétence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Anciens textes**:
+
+	  - Décret n°69-825 du 28 août 1969 - art. 8 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°81-534 1981-05-12 ART. 37 JORF 15 MAI 1981 date d'entrée en vigueur ART. 38 MODIFIE 1 JUILLET 1982
+	  - Décret n°86-984 1986-08-19 art. 7 XLIV JORF 27 AOUT 1986
+
+	**Modifié par**:
+
+	  - Décret n°82-584 1982-06-29 ART. 1 JORF 7 JUILLET 1982
+
+
+###### Article R*613-8
+
+Le comité est saisi par le préfet de la région parisienne. Les conditions de fonctionnement du comité d'aménagement de la
+région parisienne sont déterminées par un arrêté conjoint du ministre chargé de l'urbanisme et du ministre de l'intérieur.
+Cet arrêté peut diviser le comité en plusieurs sections et instituer dans son sein une commission permanente. Les
+représentants des différents ministres ou des préfets intéressés ont accès à ces sections ou à la commission permanente avec
+voix consultative lorsqu'ils ne font pas partie de ces sections ou de cette commission permanente en qualité de membres. Les
+sections agissent comme organismes d'études. La commission permanente peut recevoir délégation du comité pour émettre des
+avis au nom du comité. Le ministre chargé de l'urbanisme peut décider que l'avis définitif sera donné par le comité lui-même
+en séance plénière. Des rapporteurs et conseillers techniques peuvent être nommés auprès du comité et de sa commission
+permanente par le ministre chargé de l'urbanisme. Le secrétariat du comité est assuré par le service régional chargé de
+l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°69-825 1969-08-28 ART. 9
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°81-534 1981-05-12 ART. 37 JORF 15 MAI 1981 date d'entrée en vigueur ART. 38 MODIFIE 1 JUILLET 1982
+	  - Décret n°86-984 1986-08-19 art. 7 XLIV JORF 27 AOUT 1986
+
+	**Modifié par**:
+
+	  - Décret n°82-584 1982-06-29 ART. 1 JORF 7 JUILLET 1982
+
+
+###### Article R*613-9
+
+Les dispositions du présent chapitre ne peuvent être modifiées que par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°81-534 1981-05-12 ART. 37 JORF 15 MAI 1981 date d'entrée en vigueur ART. 38 MODIFIE 1 JUILLET 1982
+	  - Décret n°86-984 1986-08-19 art. 7 XLIV JORF 27 AOUT 1986
+
+	**Modifié par**:
+
+	  - Décret n°82-584 1982-06-29 ART. 1 JORF 7 JUILLET 1982
+
 
 #### Chapitre V : Fonds d'aménagement urbain
 
