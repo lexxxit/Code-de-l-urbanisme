@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2003-09-03
+Version Consolidée au 2003-10-03
 
 # Partie législative
 
@@ -11456,13 +11456,29 @@ b) Dans les autres communes, au nom de l'Etat.
 
 La demande d'autorisation de lotir précise le projet architectural et paysager du futur lotissement, qui doit comprendre des
 dispositions relatives à l'environnement et à la collecte des déchets. Les dispositions du présent alinéa ne sont pas
-applicables aux projets de lotissement comportant un nombre de lots inférieur à un seuil défini par décret en Conseil d'Etat.
+applicables aux projets de lotissement comportant un nombre de lots constructibles inférieur à un seuil défini par décret en
+Conseil d'Etat.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 27 () JORF 14 décembre 2000
+	  - Loi n°2003-590 du 2 juillet 2003 - art. 75 () JORF 3 octobre 2003
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 22 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
 
 	**Cite**:
 
@@ -15313,6 +15329,44 @@ l'ordonnance au 1er octobre 2007.
 	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
+###### Article L421-1-1
+
+L'implantation d'une installation produisant de l'électricité à partir de l'énergie mécanique du vent d'une hauteur
+supérieure ou égale à 12 mètres est subordonnée à l'obtention d'un permis de construire.
+
+La hauteur de l'installation est définie comme celle du mât et de la nacelle de l'ouvrage, à l'exclusion de l'encombrement
+des pales.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Créé par**:
+
+	  - Loi n°2003-590 du 2 juillet 2003 - art. 98 () JORF 3 octobre 2003
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L553-1 (Ab)
+
+
 ###### Article L421-2
 
 Le permis de construire est instruit et délivré dans les formes, conditions et délais déterminés par un décret en Conseil
@@ -15391,13 +15445,12 @@ le maître d'ouvrage qui les utilise.
 
 ###### Article L421-2-1
 
-Dans les communes où une carte communale ou un plan local d'urbanisme a été approuvé, le permis est délivré par le maire au
-nom de la commune. Toutefois, lors de sa délibération approuvant la carte communale, le conseil municipal peut décider que
-les permis de construire sont délivrés au nom de l'Etat. Lorsqu'une commune fait partie d'un établissement public de
-coopération intercommunale, elle peut, en accord avec cet établissement, lui déléguer cette compétence qui est alors exercée
-par le président de l'établissement public au nom de l'établissement. Cette délégation de pouvoir doit être confirmée dans
-les mêmes formes après chaque renouvellement du conseil municipal ou après l'élection d'un nouveau président de
-l'établissement public.
+Dans les communes où un plan local d'urbanisme a été approuvé, le permis de construire est délivré par le maire au nom de la
+commune. Il en est de même dans les communes où une carte communale a été approuvée si le conseil municipal en a décidé
+ainsi. Lorsqu'une commune fait partie d'un établissement public de coopération intercommunale, elle peut, en accord avec cet
+établissement, lui déléguer cette compétence qui est alors exercée par le président de l'établissement public au nom de
+l'établissement. Cette délégation de pouvoir doit être confirmée dans les mêmes formes après chaque renouvellement du conseil
+municipal ou après l'élection d'un nouveau président de l'établissement public.
 
 Le transfert de compétence au maire agissant au nom de la commune est définitif.
 
@@ -15415,12 +15468,25 @@ b) Les ouvrages de production, de transport, de distribution et de stockage d'é
 radioactives ; un décret en Conseil d'Etat détermine la nature et l'importance de ces ouvrages ;
 
 c) Les constructions, installations ou travaux réalisés à l'intérieur des périmètres des opérations d'intérêt national dans
-les conditions définies par décret en Conseil d'Etat.
+les conditions définies par décret en Conseil d'Etat ;
+
+d) Les logements construits par des sociétés de construction dans lesquelles l'Etat détient la majorité du capital.
 
 Pendant la durée d'application d'un arrêté préfectoral pris sur le fondement de l'article L. 302-9-1 du code de la
 construction et de l'habitation, les autorisations ou les actes relatifs à l'utilisation et à l'occupation du sol concernant
 les opérations ayant fait l'objet de la convention prévue au même article sont délivrés ou établis au nom de l'Etat par le
 préfet, après avis du maire ou du président de l'établissement public de coopération intercommunale compétent.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
 
 **Liens relatifs à cet article**
 
@@ -15468,19 +15534,20 @@ préfet, après avis du maire ou du président de l'établissement public de coo
 
 	**Modifié par**:
 
-	  - Loi n°2001-1168 du 11 décembre 2001 - art. 24 () JORF 12 décembre 2001
+	  - Loi n°2003-590 du 2 juillet 2003 - art. 68 () JORF 3 octobre 2003
+	  - Loi n°2006-872 du 13 juillet 2006 - art. 8 () JORF 16 octobre 2006
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Code de l'urbanisme - art. L421-2-7 (M)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L302-9-1 (M)
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
 
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L302-9-1 (M)
 
 
 ###### Article L421-2-2
@@ -18637,6 +18704,71 @@ l'ordonnance au 1er octobre 2007.
 	**Anciens textes**:
 
 	  - Code de l'urbanisme 103
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L480-4-1
+
+Les personnes morales peuvent être déclarées responsables dans les conditions prévues par l'article 121-2 du code pénal des
+infractions définies aux articles L. 160-1, L. 316-2, L. 316-3, L. 316-4, L. 430-4-2, L. 480-3, L. 480-4, L. 480-12 et L.
+510-2 du présent code.
+
+Les peines encourues par les personnes morales sont les suivantes :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
+
+2° Les peines mentionnées aux 2°, 3°, 4°, 5° et 9° de l'article 131-39 du code pénal.
+
+L'interdiction mentionnée au 2° de l'article 131-39 du même code porte sur l'activité dans l'exercice ou à l'occasion de
+laquelle l'infraction a été commise.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2003-590 2003-07-02 art. 60 1° JORF 3 octobre 2003
+
+	**Transféré par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 18 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+	  - Code de l'urbanisme - art. L160-1 (M)
+	  - Code de l'urbanisme - art. L316-2 (M)
+	  - Code de l'urbanisme - art. L316-3 (M)
+	  - Code de l'urbanisme - art. L316-4 (M)
+	  - Code de l'urbanisme - art. L430-4-2 (M)
+	  - Code de l'urbanisme - art. L480-12 (M)
+	  - Code de l'urbanisme - art. L480-3 (M)
+	  - Code de l'urbanisme - art. L480-4 (M)
+	  - Code de l'urbanisme - art. L510-2 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L480-4-2 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L480-4-2 (V)
+	  - Code de l'urbanisme - art. L740-6 (VT)
 
 	**Codifié par**:
 
