@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1976-01-13
+Version Consolidée au 1976-03-26
 
 # Partie législative
 
@@ -19655,6 +19655,36 @@ Les dispositions du présent chapitre ne peuvent être modifiées que par décre
 	**Abrogé par**:
 
 	  - Décret n°2011-1900 du 20 décembre 2011 - art. 1
+
+
+#### Chapitre II : Associations foncières urbaines
+
+###### Article R*322-1
+
+Les associations foncières urbaines ayant pour objet les opérations prévues à l'article L. 322-2 (1., 2. et 5.) sont soumises
+aux dispositions du décret du 18 décembre 1927 modifié portant règlement d'administration publique pour l'exécution de la loi
+du 21 juin 1865 et à celles des sous-sections I à IV de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-02-26 ART. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L322-2 (M)
+	  - Décret  1927-12-18
+	  - Loi   1865-06-21
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*322-2 (V)
+	  - Code de l'urbanisme - art. R*730-1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ### Titre III : Dispositions financières
