@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1998-10-13
+Version Consolidée au 1998-12-30
 
 # Partie législative
 
@@ -53633,7 +53633,7 @@ d'enseignement ou de bureaux ;
 5. Lorsqu'elles portent sur l'utilisation de bureaux et de leurs annexes de toute nature achevés à la date du 31 décembre
 1994 ou dont la déclaration d'ouverture de chantier prévue à l'article R. 421-40 a été déposée en mairie au plus tard à cette
 même date. La présente disposition n'est applicable qu'aux opérations d'utilisation pour lesquelles les actes juridiques dont
-l'utilisation dépend sont définitivement passés au plus tard le 31 décembre 1998.
+l'utilisation dépend sont définitivement passés au plus tard le 31 décembre 1999.
 
 6. Lorsqu'elles portent sur des locaux d'internat à usage scolaire ou sur des résidences universitaires.
 
@@ -53654,7 +53654,7 @@ hors oeuvre nette inférieure à 200 mètres carrés.
 
 	**Modifié par**:
 
-	  - Décret n°95-690 du 9 mai 1995 - art. 5 () JORF 11 mai 1995
+	  - Décret n°98-1248 du 28 décembre 1998 - art. 1 () JORF 30 décembre 1998
 
 	**Cité par**:
 
