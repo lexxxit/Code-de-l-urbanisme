@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1980-08-06
+Version Consolidée au 1980-09-07
 
 # Partie législative
 
@@ -33399,6 +33399,63 @@ décembre 1913, lorsqu'elle est donnée avec l'accord de l'architecte des bâtim
 	  - Code de l'urbanisme - art. R443-2 (T)
 
 
+#### CHAPITRE IV : Habitations légères de loisirs
+
+###### Article R*444-1
+
+Les dispositions du présent chapitre sont applicables dans toutes les communes, même si celles-ci sont dotées d'un plan
+d'occupation des sols rendu public ou approuvé ou d'un des documents d'urbanisme en tenant lieu.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*423-2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-694 1980-09-04 ART. 13 : Les propriétaires de terrains de camping et de caravanes autorisés antérieurement à la publication du présent décret disposent d'un délai de trois ans pour mettre leurs installations en conformité avec les dispositi
+	  - SPEC_APPLI: Les détenteurs d'emplacements à l'intérieur de ces terrains disposent du même délai
+
+	**Créé par**:
+
+	  - Décret n°80-694 1980-09-04 art. 11 JORF 7 septembre 1980
+
+
+###### Article R*444-2
+
+Sont dénommées habitations légères de loisirs au sens du présent code des constructions à usage non professionnel,
+démontables ou transportables et répondant aux conditions fixées par l'article R. 111-16 du code de la construction et de
+l'habitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-694 1980-09-04 ART. 13 : Les propriétaires de terrains de camping et de caravanes autorisés antérieurement à la publication du présent décret disposent d'un délai de trois ans pour mettre leurs installations en conformité avec les dispositi
+	  - SPEC_APPLI: Les détenteurs d'emplacements à l'intérieur de ces terrains disposent du même délai
+
+	**Créé par**:
+
+	  - Décret n°80-694 1980-09-04 art. 11 JORF 7 septembre 1980
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R111-16 (M)
+
+
 ### TITRE V : Dispositions diverses
 
 #### CHAPITRE I : Dispositions propres à certaines utilisations de surfaces bâties
@@ -37150,41 +37207,6 @@ lieu de l'autorisation prévue aux articles R. 443-6 et suivants.
 	  - Décret n°73-1023 1973-11-08
 
 
-###### Article R443-14
-
-Sera puni d'une amende de 160 à 600 F quiconque aura fait ou laissé stationner sur un terrain une ou plusieurs caravanes
-pendant une durée supérieure à trois mois, sans qu'ait été obtenue l'autorisation prévue à l'article R. 443-4 ou après le
-retrait ou l'expiration de celle-ci.
-
-Sera puni d'une amende de 600 à 1000 F quiconque recevra un groupe de caravanes en violation de l'article R. 443-6.
-
-Sera puni d'une amende de 80 à 160 F quiconque aura fait ou laissé stationner une caravane en contravention à l'arrêté
-préfectoral prévu à l'article R. 443-3.
-
-Dans tous les cas, l'amende sera appliquée autant de fois qu'il y aura eu de caravanes en stationnement irrégulier et autant
-de fois qu'il y aura eu de journées de stationnement irrégulier [*sanction*].
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°80-694 1980-09-04 ART. 10 JORF 7 SEPTEMBRE 1980
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R440-21 (T)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R443-1 (T)
-	  - Code de l'urbanisme - art. R443-3 (M)
-	  - Code de l'urbanisme - art. R443-6 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ###### Article R443-15
 
 Des fonctionnaires désignés par le préfet et porteurs d'un ordre de mission ou d'une commission sont habilités à inspecter
@@ -37238,6 +37260,67 @@ l'autorisation de son propriétaire ou utilisateur, se sera introduit dans une c
 
 ##### Stationnement en dehors des terrains aménagés.
 
+###### Article R*443-4
+
+Tout stationnement pendant plus de trois mois par an, consécutifs ou non, d'une caravane est subordonné à l'obtention par le
+propriétaire du terrain sur lequel elle est située, ou par toute autre personne ayant la jouissance du terrain, d'une
+autorisation délivrée par le maire au nom de l'Etat. Toutefois en ce qui concerne les caravanes qui constituent l'habitat
+permanent de leurs utilisateurs, l'autorisation n'est nécessaire que si le stationnement de plus de trois mois est continu
+[*durée*].
+
+Cette autorisation n'est pas nécessaire si le stationnement a lieu :
+
+a) Sur les terrains aménagés pour la réception collective des caravanes, en application des articles R. 443-6 à R. 443-9 ;
+
+b) Sur les terrains de camping régulièrement aménagés et classés où sont admis à la fois des campeurs et caravanes en
+application du décret du 9 février 1968 ;
+
+c) A l'intérieur des opérations prévues à l'article R. 444-3b ;
+
+d) Sur les terrains aménagés en application de l'article R. 443-13 ;
+
+e) Dans les bâtiments et remises et sur les terrains où est implantée la construction constituant la résidence de
+l'utilisateur.
+
+Un arrêté du ministre chargé de l'urbanisme fixe le modèle de la demande d'autorisation mentionnée au premier alinéa du
+présent article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°68-134 1968-02-09
+	  - Code de l'urbanisme - art. R443-13 (M)
+	  - Code de l'urbanisme - art. R443-6 (M)
+	  - Code de l'urbanisme - art. R443-7 (M)
+	  - Code de l'urbanisme - art. R443-8 (M)
+	  - Code de l'urbanisme - art. R443-9 (M)
+	  - Code de l'urbanisme R444-3 b
+
+	**Modifié par**:
+
+	  - Décret n°80-694 1980-09-04 ART. 5 JORF 7 SEPTEMBRE 1980
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. A443-3 (Ab)
+	  - Code de l'urbanisme - art. A443-4 (M)
+	  - Code de l'urbanisme - art. R*441-11 (M)
+	  - Code de l'urbanisme - art. R*443-10 (M)
+	  - Code de l'urbanisme - art. R442-11 (M)
+	  - Code de l'urbanisme - art. R442-2 (M)
+	  - Code de l'urbanisme - art. R442-3 (M)
+	  - Code de l'urbanisme - art. R443-11 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. R440-11 (T)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ###### Article R*443-5
 
 La demande d'autorisation est adressée au maire soit par lettre recommandée avec demande d'avis de réception, soit par dépôt
@@ -37268,41 +37351,6 @@ Le préfet peut annuler ou réformer dans le délai d'un mois la décision du ma
 	**Cite**:
 
 	  - Code de l'urbanisme - art. R443-10 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R443-4
-
-Tout stationnement pendant plus de trois mois [*durée*] d'une caravane est subordonné à l'obtention, par le propriétaire du
-terrain sur lequel elle est située ou par toute autre personne ayant la jouissance de celui-ci, d'une autorisation délivrée
-par le maire au nom de l'Etat.
-
-Cette autorisation n'est toutefois pas nécessaire si le stationnement a lieu sur un terrain considéré comme aménagé au sens
-du présent chapitre : terrain autorisé pour la réception collective des caravanes, terrain de camping régulièrement ouvert et
-exploité où sont admis à la fois des campeurs et des caravaniers.
-
-Un arrêté du ministre chargé de l'urbanisme fixe le modèle de la demande d'autorisation mentionnée au premier alinéa du
-présent article.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A443-3 (Ab)
-	  - Code de l'urbanisme - art. A443-4 (M)
-	  - Code de l'urbanisme - art. R*441-11 (M)
-	  - Code de l'urbanisme - art. R*443-10 (M)
-	  - Code de l'urbanisme - art. R442-11 (M)
-	  - Code de l'urbanisme - art. R442-2 (M)
-	  - Code de l'urbanisme - art. R442-3 (M)
-	  - Code de l'urbanisme - art. R443-11 (Ab)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R440-11 (T)
 
 	**Codifié par**:
 
@@ -38047,6 +38095,73 @@ la protection de la nature.
 	  - Code de l'urbanisme - art. R442-10 (Ab)
 
 
+#### Habitations légères de loisirs
+
+###### Article R*444-3
+
+Les habitations légères de loisirs ne peuvent être implantées que dans les conditions suivantes :
+
+a) Dans les terrains de camping aménagés, les terrains autorisés pour la réception collective des caravanes, les villages de
+vacances classés, les dépendances des maisons familiales de vacances agréées, conformément à la réglementation applicable à
+ces modes d'hébergement, à la condition que le nombre des habitations légères soit inférieur à trente-cinq ;
+
+b) Dans les terrains affectés spécialement à cet usage, si l'opération comporte l'implantation d'au moins trente-cinq
+habitations légères. Dans ce cas, le permis de construire impose la réalisation, par le constructeur, d'installations
+communes dans les conditions définies par un arrêté conjoint des ministres chargés de l'économie, de l'urbanisme, de la santé
+publique et du tourisme.
+
+Dans les deux cas, que le terrain soit destiné à être exploité par location ou par cession d'emplacements, le permis de
+construire impose au constructeur l'obligation d'assurer ou de faire assurer la gestion des parties communes. Le bénéficiaire
+du permis de construire ne peut en commencer l'exploitation, par location d'emplacements ou cession de terrain, qu'après
+avoir obtenu le certificat de conformité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°80-694 1980-09-04 ART. 11 JORF 7 SEPTEMBRE 1980
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-694 1980-09-04 ART. 13 : Les propriétaires de terrains de camping et de caravanes autorisés antérieurement à la publication du présent décret disposent d'un délai de trois ans pour mettre leurs installations en conformité avec les dispositi
+	  - SPEC_APPLI: Les détenteurs d'emplacements à l'intérieur de ces terrains disposent du même délai
+
+
+###### Article R*444-4
+
+Dans le cas où l'opération mentionnée à l'article R. 443-3 b ci-dessus comporte à la fois l'implantation d'habitations
+légères de loisirs et le stationnement de caravanes, le permis de construire tient lieu de l'autorisation prévue aux articles
+R. 443-6 à R. 443-9. Il impose la délimitation des espaces et fixe le nombre maximum d'emplacements réservés au stationnement
+des caravanes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°80-694 1980-09-04 ART. 11 JORF 7 SEPTEMBRE 1980
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-694 1980-09-04 ART. 13 : Les propriétaires de terrains de camping et de caravanes autorisés antérieurement à la publication du présent décret disposent d'un délai de trois ans pour mettre leurs installations en conformité avec les dispositi
+	  - SPEC_APPLI: Les détenteurs d'emplacements à l'intérieur de ces terrains disposent du même délai
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R443-6 (M)
+	  - Code de l'urbanisme - art. R443-7 (M)
+	  - Code de l'urbanisme - art. R443-8 (M)
+	  - Code de l'urbanisme - art. R443-9 (M)
+	  - Code de l'urbanisme R444-3 b
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 #### Dispositions diverses
 
 ###### Article R445-2
@@ -38307,6 +38422,50 @@ intéressée, sur simple requête de celle-ci.
 	**Cite**:
 
 	  - Code de l'urbanisme - art. R460-5 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+### Sanctions
+
+###### Article R*480-7
+
+Dans les opérations prévues à l'article R. 444-3 b [*habitations légères de loisirs*], dans les terrains aménagés pour le
+stationnement des caravanes et le camping, constitue une atteinte à la tenue décente des propriétés foncières, au sens de
+l'article L. 111-1, premier alinéa, le fait :
+
+D'entreposer ou d'ajouter, tant sur les emplacements que sur les parties communes, des objets usagés, des abris de bois, de
+tôle ou d'autres matériaux ;
+
+De laisser en état de délabrement des habitations légères de loisirs ou les véhicules ;
+
+De ne pas entretenir la végétation.
+
+Le maire ou, à défaut, le préfet peut ordonner la fermeture temporaire de l'exploitation et ordonner l'évacuation des
+emplacements si les prescriptions de sécurité et d'hygiène ne sont pas respectées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°80-694 1980-09-04 ART. 12 JORF 7 SEPTEMBRE 1980
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°80-694 1980-09-04 ART. 13 : Les propriétaires de terrains de camping et de caravanes autorisés antérieurement à la publication du présent décret disposent d'un délai de trois ans pour mettre leurs installations en conformité avec les dispositi
+	  - SPEC_APPLI: Les détenteurs d'emplacements à l'intérieur de ces terrains disposent du même délai
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L111-1 (M)
+	  - Code de l'urbanisme R444-3 b
+
+	**Cité par**:
+
+	  - Code du tourisme. - art. D331-6 (V)
+	  - Code du tourisme. - art. D333-3-1 (V)
 
 	**Codifié par**:
 
