@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1989-06-15
+Version Consolidée au 1989-06-19
 
 # Partie législative
 
@@ -23742,6 +23742,57 @@ moins de la population totale du territoire concerné, ou le conseil régional f
 	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 
+#####  Section 2 : Schémas directeurs, schémas de secteurs, plans d'occupation des sols et plans d'aménagement de zone en région d'Ile-de-France.
+
+###### Article R*141-3
+
+Pour l'élaboration des schémas directeurs et des schémas de secteur, le préfet communique au président de l'établissement
+public de coopération intercommunale compétent les éléments mentionnés à l'article R. 122-6 et, en outre, les éléments
+d'information transmis par le préfet de la région relatifs à la mise en œuvre des principes d'aménagement fixés au niveau
+régional tels qu'ils résultent notamment du schéma directeur de la région d'Ile-de-France.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme R122-6
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°89-381 1989-06-15 art. 1 JORF 19 juin 1989
+
+
+###### Article R*141-4
+
+Pour l'élaboration des plans d'occupation des sols, en l'absence de schéma directeur ou de schéma de secteur approuvé, le
+préfet communique au maire ou au président de l'établissement public de coopération intercommunale compétent les éléments
+mentionnés à l'article R. 123-5 et, en outre, les éléments d'information transmis par le préfet de la région relatifs à la
+mise en oeuvre des principes d'aménagement fixés au niveau régional tels qu'ils résultent notamment du schéma directeur de la
+région d'Ile-de-France.
+
+Pour l'élaboration des plans d'aménagement de zone en l'absence de schéma directeur ou de schéma de secteur approuvé, le
+préfet communique les éléments mentionnés à l'alinéa précédent à la personne publique qui a pris l'initiative de la création
+de la zone.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme R123-5
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°89-381 1989-06-15 art. 1 I, II JORF 19 juin 1989
+
+
 #####  Section 3 : Plans d'occupation des sols des communes de Paris, Marseille, Lyon ou des communes issues d'une fusion comportant une ou plusieurs communes associées
 
 ###### Article R*141-5
@@ -23806,55 +23857,6 @@ des sols soumis à l'enquête publique ou tenu à la disposition du public.
 	**Modifié par**:
 
 	  - Décret n°86-984 1986-08-19 art. 4 JORF 27 août 1986
-
-
-#### Chapitre I : Dispositions particulières à la région d'Ile-de-France, Paris, Marseille, Lyon et autres communes issues d'une fusion comportant une ou plusieurs communes associées
-
-#####  Section 2 : Schémas directeurs, schémas de secteur et P. O. S. en région Ile-de-France.
-
-###### Article R*141-3
-
-Pour l'élaboration des schémas directeurs et des schémas de secteur, le préfet communique au président de l'établissement
-public de coopération intercommunale compétent les éléments mentionnés à l'article R. 122-6 et, en outre, les éléments
-d'information transmis par le préfet de la région relatifs à la mise en œuvre des principes d'aménagement fixés au niveau
-régional tels qu'ils résultent notamment du schéma directeur de la région d'Ile-de-France.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme R122-6
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°86-984 1986-08-19 art. 3 JORF 27 août 1986) M(Décret 88-199 1988-02-29 art. 1 JORF 2 mars 1988
-
-
-###### Article R*141-4
-
-Pour l'élaboration des plans d'occupation des sols, en l'absence de schéma directeur ou de schéma de secteur approuvé, le
-préfet communique au maire ou au président de l'établissement public de coopération intercommunale compétent les éléments
-mentionnés à l'article R. 123-5 et, en outre, les éléments d'information transmis par le préfet de la région relatifs à la
-mise en oeuvre des principes d'aménagement fixés au niveau régional tels qu'ils résultent notamment du schéma directeur de la
-région d'Ile-de-France.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°86-984 1986-08-19 art. 3 JORF 27 août 1986) M(Décret 88-199 1988-02-29 art. 1 JORF 2 mars 1988
-
-	**Cite**:
-
-	  - Code de l'urbanisme R123-5
 
 
 #### Chapitre II : Espaces naturels sensibles des départements
@@ -29379,7 +29381,8 @@ Lorsque le programme des équipements publics comporte des équipements dont la 
 normalement à d'autres collectivités ou établissements publics, le dossier doit comprendre les pièces faisant état de
 l'accord de ces personnes publiques sur le principe de la réalisation de ces équipements, les modalités de leur incorporation
 dans leur patrimoine et, le cas échéant, sur leur participation au financement. Ce dossier, accompagné, sauf lorsque la zone
-est créée à l'initiative de la création de la zone, est adressé au maire et au commissaire de la République du département.
+est créée à l'initiative de de la création de la zone, est adressé au maire au préfet du département et, en région d'Ile-de-
+France, au préfet de la région.
 
 **Liens relatifs à cet article**
 
@@ -29393,11 +29396,7 @@ est créée à l'initiative de la création de la zone, est adressé au maire et
 
 	**Modifié par**:
 
-	  - Décret n°86-517 du 14 mars 1986 - art. 11 () JORF 16 mars 1986 en vigueur le 1er avril 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 26 (V)
+	  - Décret n°89-381 1989-06-15 art. 2 I JORF 15 juin 1989
 
 
 ###### Article R*311-12
@@ -29704,24 +29703,17 @@ président du conseil régional et au président du conseil général qui, dans 
 font respectivement savoir si la région ou le département souhaite être associé à l'élaboration du projet de plan
 d'aménagement de zone.
 
-Dans un délai de trois mois à compter de la publication de l'acte ayant créé la zone, le commissaire de la République porte à
-la connaissance de la personne publique qui a pris l'initiative de la création de la zone les éléments mentionnés à l'article
-R. 123-5. Lorsque la zone n'a pas été créée à l'initiative de la commune ou de l'établissement public de coopération
-intercommunale compétent, il adresse copie de ces éléments au maire ou au président de l'établissement public.
+Dans un délai de trois mois à compter de la publication de l'acte ayant créé la zone, le préfet porte à la connaissance de la
+personne publique qui a pris l'initiative de la création de la zone les éléments mentionnés à l'article R. 123-5 ou, en
+région d'Ile-de-France, les éléments mentionnés à l'article R141-4. Lorsque la zone n'a pas été créée à l'initiative de la
+commune ou de l'établissement public de coopération intercommunale compétent, il adresse copie de ces éléments au maire ou au
+président de l'établissement public.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°86-517 du 14 mars 1986 - art. 10 () JORF 16 mars 1986 en vigueur le 1er avril 1986) M(Décret 88-199 1988-02-29 art. 1 JORF 2 mars 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 26 (V)
+	  - Décret n°2001-261 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
 
 	**Cité par**:
 
@@ -29729,7 +29721,15 @@ intercommunale compétent, il adresse copie de ces éléments au maire ou au pr�
 
 	**Cite**:
 
-	  - Code de l'urbanisme R123-5
+	  - Code de l'urbanisme R123-5, R141-4
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°89-381 1989-06-15 art. 1 III JORF 15 juin 1989
 
 
 #####  Section 6 : Suppression ou modification d'une zone d'aménagement concerté
@@ -31935,9 +31935,6 @@ publique, l'autorité ou le service chargé de l'instruction de la demande consu
 cette voie, sauf lorsque le plan d'occupation des sols ou le document d'urbanisme en tenant lieu réglemente de façon
 spécifique les conditions d'accès à ladite voie.
 
-Dans la région Ile-de-France, le commissaire de la République de la région est consulté pour toute demande d'autorisation de
-création d'un lotissement à usage industriel, commercial ou de bureaux ayant une superficie supérieure à un hectare.
-
 Les personnes publiques, services ou commissions consultés en application des alinéas précédents, qui n'ont pas fait
 connaître leur réponse dans le délai d'un mois à dater de la réception de la demande d'avis [*point de départ*], sont réputés
 avoir émis un avis favorable. Ce délai est porté à deux mois lorsqu'il est procédé  à la consultation de la commission
@@ -31960,20 +31957,12 @@ Il propose les prescriptions auxquelles peut être subordonnée la délivrance d
 
 	**Cite**:
 
-	  - Loi n°76-629 1976-07-10
-	  - Loi n°83-8 1983-01-07 ART. 71
 	  - Code de l'urbanisme - art. L315-6 (M)
 	  - Code rural 35
 	  - Loi n°1913-12-31
 	  - Loi n°1930-05-02
-
-	**Modifié par**:
-
-	  - Décret n°85-452 1985-04-23 art. 10 JORF 24 avril 1985
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°85-452 1985-04-23 art. 14 : application dans le temps
+	  - Loi n°76-629 1976-07-10
+	  - Loi n°83-8 1983-01-07 ART. 71
 
 	**Cité par**:
 
@@ -31983,6 +31972,10 @@ Il propose les prescriptions auxquelles peut être subordonnée la délivrance d
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°89-381 1989-06-15 art. 3 JORF 15 juin 1989
 
 
 ###### Article R*315-18-1
@@ -42834,11 +42827,6 @@ régime en vigueur avant l'intervention du décret n° 77-860 du 26 juillet 1977
 réglementaires relatives à l'urbanisme ou aux servitudes d'utilité publique affectant l'utilisation du sol ainsi que, le cas
 échéant, les demandes de dérogation aux règles générales de construction.
 
-Le commissaire de la République de la région d'Ile-de-France est consulté par l'autorité ou le service chargé de
-l'instruction de la demande avant la délivrance du permis de construire portant sur un groupe d'habitations de plus de 1000
-logements et la construction de locaux à usage industriel ou commercial ou de bureaux dont la superficie de planchers est
-supérieure à 200 mètres carrés hors oeuvre au total.
-
 Lorsque la délivrance du permis de construire aurait pour effet la création ou la modification d'un accès à une voie
 publique, l'autorité ou le service chargé de l'instruction de la demande consulte l'autorité ou le service gestionnaire de
 cette voie, sauf lorsque le plan d'occupation des sols ou le document d'urbanisme en tenant lieu réglemente de façon
@@ -42855,10 +42843,6 @@ favorable. Ce délai est porté à deux mois en ce qui concerne les commissions 
 
 	  - Loi n°73-1193 1973-12-27 ART. 26 AL. 2
 	  - Décret n°77-860 1977-07-26
-
-	**Modifié par**:
-
-	  - Décret n°86-984 1986-08-19 art. 7 XXV JORF 27 août 1986
 
 	**Cité par**:
 
@@ -42877,6 +42861,10 @@ favorable. Ce délai est porté à deux mois en ce qui concerne les commissions 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°89-381 1989-06-15 art. 3 JORF 15 juin 1989
 
 
 ###### Article R421-13
