@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1993-11-19
+Version Consolidée au 1994-01-01
 
 # Partie législative
 
@@ -57170,25 +57170,25 @@ Ces architectes assurent les missions qui leur sont confiées par le ministre ch
 
 ###### Article A614-2
 
-" Les architectes-conseils de l'équipement peuvent percevoir des honoraires dont le montant, fixé par le ministre chargé de
+Les architectes-conseils de l'équipement peuvent percevoir des honoraires dont le montant, fixé par le ministre chargé de
 l'urbanisme, comprend les deux éléments ci-après :
 
-" 1° Une rémunération forfaitaire de 1 925 F par vacation d'une journée. Le taux moyen servant au calcul des crédits est fixé
-à 3 850 F par mois ;
+1. Une rémunération forfaitaire de 2 062 F par vacation d'une journée ;
 
-" 2° Une indemnité forfaitaire de déplacement dont les montants mensuels, variables en fonction des sujétions des intéressés,
-sont fixés dans la limite de 2 585 F, ce plafond pouvant atteindre exceptionnellement 3 128 F. Le taux moyen servant au
-calcul des crédits est fixé à 1 294 F par mois. "
+2. Une indemnité forfaitaire de déplacement dont le montant unitaire, variable en fonction des sujétions des intéressés, est
+fixé dans la limite de 2 769 F sur le territoire métropolitain, ce plafond pouvant atteindre exceptionnellement 3 350 F, et
+dans la limite des taux des indemnités forfaitaires prévues pour le règlement des frais de déplacement des personnes civiles
+pour les départements d'outre-mer.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1991-01-28 art. 1 JORF 2 février 1991 en vigueur le 1er janvier 1991
+	  - Arrêté 1994-03-23 art. 1 JORF 6 avril 1994 en vigueur le 1er janvier 1994
 
 	**Liens**:
 
-	  - SPEC_APPLI: Arrêté 1991-01-28 art. 3
+	  - SPEC_APPLI: Arrêté 1994-03-23 art. 3
 
 	**Codifié par**:
 
