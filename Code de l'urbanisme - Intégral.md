@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1985-07-19
+Version Consolidée au 1985-07-25
 
 # Partie législative
 
@@ -5892,10 +5892,6 @@ du 22 juin 1982 relative aux droits et obligations des locataires et des bailleu
 
 	  - Loi n°85-526 1985-06-22 art. 75
 
-
-### Titre II : Réserves foncières et concession de l'usage de certains terrains urbains.
-
-####  Chapitre Ier : Réserves foncières
 
 ### Titre III : Départements d'outre-mer.
 
@@ -12022,67 +12018,6 @@ prises en application de l'article L. 121-12.
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
-#### Secteurs sauvegardés
-
-###### Article L313-3
-
-Les opérations de conservation, de restauration et de mise en valeur des secteurs sauvegardés sont réalisées conformément aux
-dispositions ci-après.
-
-Ces opérations peuvent être décidées et exécutées soit dans les conditions fixées par les /M/articles R. 312-1 à R. 312-13
-relatifs à la rénovation urbaine,/M/LOI  1285 ART. 22 :
-
-dispositions relatives à la rénovation urbaines,// soit à l'initiative d'un ou plusieurs propriétaires groupés ou non en
-association syndicale. Dans ce cas, ce ou ces propriétaires y sont spécialement autorisés dans des conditions qui seront
-fixées par un règlement d'administration publique qui précisera notamment les engagements exigés d'eux quant à la nature et à
-l'importance des travaux.
-
-Les immeubles acquis par l'organisme de rénovation ne peuvent, après restauration, être cédés de gré à gré qu'aux conditions
-d'un cahier des charges type approuvé par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°48-1360 du 1 septembre 1948 - art. 3 (V)
-	  - Décret n°53-960 du 30 septembre 1953 - art. 38-1 (Ab)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L24-1 (V)
-	  - Code de commerce. - art. L145-18 (M)
-	  - Code de commerce. - art. L145-6 (M)
-	  - Code de commerce. - art. L911-9 (M)
-	  - Code de commerce. - art. L921-9 (M)
-	  - Code de commerce. - art. L931-12 (M)
-	  - Code de commerce. - art. L941-12 (M)
-	  - Code de commerce. - art. L951-8 (M)
-	  - Code de l'urbanisme - art. L313-14 (V)
-	  - Code de l'urbanisme - art. L313-4 (M)
-	  - Code de l'urbanisme - art. L313-5 (V)
-	  - Code de l'urbanisme - art. L313-6 (V)
-	  - Code de l'urbanisme - art. L313-7 (V)
-	  - Code de l'urbanisme - art. R*322-32 (V)
-	  - Code de l'urbanisme - art. R313-25 (M)
-	  - Code de la construction et de l'habitation. - art. R*421-4 (M)
-	  - Code de la construction et de l'habitation. - art. R*421-73 (M)
-	  - Code du patrimoine. - art. L641-1 (VD)
-
-	**Anciens textes**:
-
-	  - Loi n°62-903 1962-08-04 art. 3
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L313-4 (M)
-	  - PILOTE_SUIVEUR: Code du patrimoine - art. L641-1 (VD)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R312-1 A R312-13
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-
 #### Lotissements
 
 ###### Article L315-1
@@ -12618,43 +12553,6 @@ favorable de la commission départementale d'urbanisme et de la collectivité in
 	  - Code de l'urbanisme 93
 
 
-### Permis de démolir.
-
-###### Article L430-2
-
-Dans les cas mentionnés à l'article L. 430-1, quiconque désire démolir en tout ou partie un bâtiment à quelque usage qu'il
-soit affecté, doit, au préalable, obtenir un permis de démolir. Cette obligation s'impose aux collectivités publiques,
-établissements publics et aux concessionnaires de services publics de l'Etat, des départements et des communes comme aux
-personnes privées.
-
-Est assimilée à une démolition [*définition*] l'exécution de tout travail qui aurait pour effet de rendre l'utilisation des
-locaux impossible ou dangereuse.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°2002-89 du 16 janvier 2002 - art. 1 (Ab)
-	  - Décret n°2004-490 du 3 juin 2004 - art. 4 (M)
-	  - Code de l'urbanisme - art. L123-2 (M)
-	  - Code de l'urbanisme - art. L430-1 (Ab)
-	  - Code de l'urbanisme - art. L430-3 (M)
-	  - Code de l'urbanisme - art. L430-9 (Ab)
-	  - Code de l'urbanisme - art. L480-4 (V)
-	  - Code de l'urbanisme - art. R*123-13 (V)
-	  - Code de l'urbanisme - art. R*332-1 (M)
-	  - Code de l'urbanisme - art. R*430-1 (M)
-	  - Code de l'urbanisme - art. R*430-4 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L430-1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-
 ### Dispositions relatives aux modes particuliers d'utilisation du sol.
 
 #### Autorisations de clôture.
@@ -12694,60 +12592,6 @@ l'autorisation prévue à l'alinéa Ier du présent article.
 	  - Code de l'urbanisme - art. R*441-3 (M)
 	  - Code de l'urbanisme - art. R442-6 (M)
 	  - Code général des collectivités territoriales - art. R1614-18 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-
-### Infractions.
-
-###### Article L480-5
-
-En cas de condamnation pour une infraction prévue aux articles L. 160-1 et L. 480-4, le tribunal, au vu des observations
-écrites ou après audition du fonctionnaire compétent, statue //LOI  1285 ART. 47 :, même en l'absence d'avis en ce sens dudit
-fonctionnaire,// soit sur la mise en conformité des lieux ou celle des ouvrages avec les règlements, l'autorisation
-administrative ou le permis de construire, soit sur la démolition des ouvrages ou la réaffectation du sol en vue du
-rétablissement des lieux dans leur état antérieur.
-
-//LOI  1285 ART. 47 : Le tribunal pourra ordonner la publication de tout ou partie du jugement de condamnation, aux frais du
-délinquant, dans deux journaux régionaux ou locaux diffusés dans tout le département, ainsi que son affichage dans les lieux
-qu'il indiquera//.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 77
-	  - Code de l'environnement - art. L331-28 (VD)
-	  - Code de l'environnement - art. L332-27 (VD)
-	  - Code de l'environnement - art. L341-19 (VT)
-	  - Code de l'environnement - art. L515-24 (V)
-	  - Code de l'environnement - art. L562-5 (V)
-	  - Code de l'urbanisme - art. L160-1 (M)
-	  - Code de l'urbanisme - art. L470-1 (Ab)
-	  - Code de l'urbanisme - art. L480-10 (Ab)
-	  - Code de l'urbanisme - art. L480-6 (V)
-	  - Code de l'urbanisme - art. L740-6 (VT)
-	  - Code de l'urbanisme - art. R480-4 (V)
-	  - Code du patrimoine - art. L624-3 (V)
-	  - Code du patrimoine - art. L630-1 (Ab)
-	  - Code du patrimoine - art. L641-1 (VD)
-	  - Code du travail - art. L263-8 (AbD)
-	  - Code du travail - art. L4744-1 (VD)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L480-4 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L480-4 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L480-6 (M)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 104
 
 	**Codifié par**:
 
@@ -22114,7 +21958,7 @@ public [*publicité*].
 	  - Décret n°83-666 1983-07-22 ART. 2 JORF 24 JUILLET 1983
 
 
-#### Protection du caractère de certaines départements
+#### Protection du caractère de certains départements
 
 ##### Périmètres sensibles.
 
@@ -22122,41 +21966,38 @@ public [*publicité*].
 
 Les dispositions de la présence section sont applicables selon les modalités fixées à l'article R. 142-2 :
 
-I - Dans les départements des Alpes-Maritimes, de l'Aude, des Boûches-du-Rhône, de la Corse, du Gard, de l'Hérault, des
+I - Dans les départements des Alpes-Maritimes, de l'Aude, des Bouches-du-Rhône, de la Corse, du Gard, de l'Hérault, des
 Pyrénées-Orientales et du Var ;
 
-II - Dans les départements du Calvados, de la Charente-Maritime, des Côtes-du-Nord, du Finistère, de la Gironde, d'Ile-et-
+II - Dans les départements du Calvados, de la Charente-Maritime, des Côtes-du-Nord, du Finistère, de la Gironde, d'Ille-et-
 Vilaine, des Landes, de la Loire-Atlantique, de la Manche, du Morbihan, du Nord, du Pas-de-Calais, des Pyrénées-Atlantiques
 et de la Vendée.
 
 III - Dans les départements de l'Essonne, d'Indre-et-Loire, de Loir-et-Cher, du Loiret, de la Savoie et de la Haute-Savoie.
 
-IV - DECR. 93 24 JANVIER 1979 :
+IV- Dans les départements de l'Isère, du Jura, de la Moselle et du Bas-Rhin.
 
-Dans les départements de l'Isère, du Jura, de la Moselle et du Bas-Rhin.
+V - Dans les départements de la Seine-Maritime et de la Somme.
 
-V - Décret 339 18 Avril 1979 :
+VI - Dans les départements de la Côte-d'Or, du Doubs, de la Nièvre, du Puy-de-Dôme, de Saône-et-Loire et de l'Yonne.
 
-Dans les départements de la Seine-Maritime et de la Somme.
-
-VI - DECR. 389 21 MAI 1980 :
-
-Dans les départements de la Côte-d'Or, du Doubs, de la Nièvre, du Puy-de-Dôme, de Saône-et-Loire et de l'Yonne.
-
-Les dispositions des articles R. 142-2 à R. 142-5 ainsi que la liste des départements auxquels lesdits articles sont
-applicables ne peuvent être modifiées ou complétées que par décret pris en forme de règlement d'administration publique.
-
-NOTA : DECR. 621 du 31 JUILLET 1980 :
-
-Dans les textes réglementaires en vigueur à la date de publication du présent décret, tout renvoi à un règlement
-d'administration publique ou à un décret en forme de règlement d'administration publique est remplacé par un renvoi à un
-décret en Conseil d'Etat.
+VII - Dans les départements de l'Aube, de l'Indre, et des Yvelines    Les dispositions des articles R. 142-2 à R. 142-5 ainsi
+que la liste des départements auxquels lesdits articles sont applicables ne peuvent être modifiées ou complétées que par
+décret pris en forme de règlement d'administration publique.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
 	**Modifié par**:
 
-	  - Décret n°79-93 1979-01-24 ART. 1 JORF 2 FEVRIER 1979
+	  - Décret n°85-769 1985-07-17 art. 1 JORF 25 juillet 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
 
 	**Cité par**:
 
@@ -22171,14 +22012,6 @@ décret en Conseil d'Etat.
 	  - Code de l'urbanisme - art. R142-4 (M)
 	  - Code de l'urbanisme - art. R142-5 (MMN)
 
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-#### Protection du caractère de certains départements
-
-##### Périmètres sensibles.
 
 ###### Article R142-2
 
