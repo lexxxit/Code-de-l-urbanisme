@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1991-01-01
+Version Consolidée au 1991-04-27
 
 # Partie législative
 
@@ -27052,38 +27052,20 @@ l'article R. 160-26. "
 
 A. - Energie.
 
-a) Electricité et gaz.
+a) Electricité et gaz.    Périmètres à l'intérieur desquels ont été instituées des servitudes en application :
 
-Périmètres à l'intérieur desquels ont été instituées des servitudes en application :
-
-De l'article 12 modifié de la loi du 15 juin 1906 ;
-
-De l'article 298 de la loi de finances du 13 juillet 1925 ;
-
-De l'article 35 de la loi n° 46-628 du 8 avril 1946 modifiée ;
-
-De l'article 25 du décret n° 64-481 du 23 janvier 1964.
-
+De l'article 12 modifié de la loi du 15 juin 1906 ;    De l'article 298 de la loi de finances du 13 juillet 1925 ;    De
+l'article 35 de la loi n° 46-628 du 8 avril 1946 modifiée ;    De l'article 25 du décret n° 64-481 du 23 janvier 1964.
 Périmètres de protection institués en application de l'article 7 de l'ordonnance n° 58-1132 du 25 novembre 1958 relative au
-stockage souterrain de gaz.
-
-b) Energie hydraulique.
-
-Périmètres auxquels s'applique la servitude de submersion et d'occupation temporaire instituée par l'article 4 de la loi du
-16 octobre 1919.
-
-c) Hydrocarbures.
-
-Servitudes relatives à la construction et à l'exploitation de pipe-lines d'intérêt général instituées en application de
-l'article 11 de la loi n° 58-336 du 29 mars 1958 et du décret n° 59-645 du 16 mai 1959 pris pour l'application dudit article
-11.
-
+stockage souterrain de gaz.       b) Energie hydraulique.    Périmètres auxquels s'applique la servitude de submersion et
+d'occupation temporaire instituée par l'article 4 de la loi du 16 octobre 1919.       c) Hydrocarbures.    Servitudes
+relatives à la construction et à l'exploitation de pipe-lines d'intérêt général instituées en application de l'article 11 de
+la loi n° 58-336 du 29 mars 1958 et du décret n° 59-645 du 16 mai 1959 pris pour l'application dudit article 11.
 Servitudes relatives aux périmètres de protection instituées en application de l'article 6 de l'ordonnance n° 58-1332 du 23
 décembre 1958 relative aux stockages souterrains d'hydrocarbures liquides ou liquéfiés, modifiée par la loi de finances
-rectificative pour 1972 (n° 72-1147 du 23 décembre 1972).
-
-d) Chaleur : servitudes relatives aux canalisations de transport et de distribution de chaleur instituées en application de
-la loi n° 80-531 du 15 juillet 1980 relative aux économies d'énergie et à l'utilisation de la chaleur.
+rectificative pour 1972 (n° 72-1147 du 23 décembre 1972).       d) Chaleur : servitudes relatives aux canalisations de
+transport et de distribution de chaleur instituées en application de la loi n° 80-531 du 15 juillet 1980 relative aux
+économies d'énergie et à l'utilisation de la chaleur.
 
 B. - Mines et carrières.
 
@@ -27110,45 +27092,24 @@ canaux d'irrigation et émissaires d'assainissement instituées en application d
 Servitudes d'écoulement des eaux nuisibles attachées aux travaux d'assainissement des terres par le drainage instituées en
 application des articles 135 à 138 du code rural.
 
-D. - Communications.
+D. - Communications.       a) Cours d'eau.    Servitudes de halage et de marchepied instituées par les articles 15, 16 et 28
+du code du domaine public fluvial et de la navigation intérieure et par l'article 424 du code rural.       b) Navigation
+maritime.
 
-a) Cours d'eau.
+Champs de vue et servitudes instituées ou maintenues en application de la loi n° 87-954 du 27 novembre 1987 relative à la
+visibilité des amers, des feux et des phares et au champ de vue des centres de surveillance de la navigation maritime.
 
-Servitudes de halage et de marchepied instituées par les articles 15, 16 et 28 du code du domaine public fluvial et de la
-navigation intérieure et par l'article 424 du code rural.
+c) Voies ferrées et aérotrains.    Zones auxquelles s'appliquent les servitudes instituées par :
 
-b) Navigation maritime.
-
-Champs de vue auxquels s'appliquent les servitudes instituées par :
-
-La loi du 18 juillet 1895 concernant la détermination et la conservation des postes électro-sémaphoriques, modifiée par la
-loi du 27 mai 1933 ;
-
-La loi n° 57-262 du 2 mars 1957 étendant aux amers et aux phares les dispositions de la loi du 18 juillet 1895 modifiée.
-
-c) Voies ferrées et aérotrains.
-
-Zones auxquelles s'appliquent les servitudes instituées par :
-
-La loi du 15 juillet 1845 sur la police des chemins de fer ;
-
-L'article 6 du décret du 30 octobre 1935 modifié portant création de servitudes de visibilité sur les voies publiques ;
-
-La loi n° 66-1066 du 31 décembre 1966 établissant des servitudes au profit des lignes de transport public par véhicules
-guidés sur coussins d'air (aérotrains) ;
-
-d) Réseau routier.
-
-Servitudes instituées en application de l'article 3 du décret du 30 octobre 1935 portant création de servitudes de visibilité
-sur les voies publiques.
-
-Servitudes grevant les terrains nécessaires aux routes nationales et aux autoroutes instituées en application de l'ordonnance
-n° 58-1311 du 23 décembre 1958 et du décret n° 58-1316 du 23 décembre 1958.
-
-Servitudes attachées à l'alignement des voies nationales, départementales ou communales.
-
-Servitudes relatives aux interdictions d'accès grevant les propriétés limitrophes des routes express et des déviations
-d'agglomérations en application des articles 4 et 5 de la loi n° 69-7 du 3 janvier 1969.
+La loi du 15 juillet 1845 sur la police des chemins de fer ;    L'article 6 du décret du 30 octobre 1935 modifié portant
+création de servitudes de visibilité sur les voies publiques ;    La loi n° 66-1066 du 31 décembre 1966 établissant des
+servitudes au profit des lignes de transport public par véhicules guidés sur coussins d'air (aérotrains) ;       d) Réseau
+routier.    Servitudes instituées en application de l'article 3 du décret du 30 octobre 1935 portant création de servitudes
+de visibilité sur les voies publiques.    Servitudes grevant les terrains nécessaires aux routes nationales et aux autoroutes
+instituées en application de l'ordonnance n° 58-1311 du 23 décembre 1958 et du décret n° 58-1316 du 23 décembre 1958.
+Servitudes attachées à l'alignement des voies nationales, départementales ou communales.    Servitudes relatives aux
+interdictions d'accès grevant les propriétés limitrophes des routes express et des déviations d'agglomérations en application
+des articles 4 et 5 de la loi n° 69-7 du 3 janvier 1969.
 
 e) Circulation aérienne.
 
@@ -27186,14 +27147,8 @@ l'article L. 65-1 du code des postes et télécommunications.
 
 	**Cite**:
 
-	  - Code des postes et télécommunications L48 AL. 2, L65-1
-	  - Code des postes et télécommunications L54, L55, L56
-	  - Code des postes et télécommunications L57 à L62
-	  - Code des postes et télécommunications R21 à R26
-	  - Loi n°46-628 1946-04-08 ART. 35
-	  - Loi n°49-1060 1949-08-02
-	  - Loi n°51-712 1951-06-07
-	  - Loi n°57-262 1957-03-02
+	  - CODE DE L'URBANISME ANNEXE A L'ARTICLE R.126-1 11
+	  - Loi n°46-628 1946-04-08 art. 35
 	  - Loi n°58-336 du 29 mars 1958 - art. 11 (M)
 	  - Ordonnance n°58-1132 du 25 novembre 1958 - art. 7 (Ab)
 	  - Ordonnance 58-1311 1958-12-23
@@ -27201,88 +27156,38 @@ l'article L. 65-1 du code des postes et télécommunications.
 	  - Ordonnance n°58-1332 du 23 décembre 1958 - art. 6 (Ab)
 	  - Décret n°59-645 1959-05-16
 	  - Loi n°62-904 1962-08-04
-	  - Décret n°63-82 1963-02-04
 	  - Loi n°65-498 1965-06-29
 	  - Loi n°66-1066 1966-12-31
-	  - Loi n°69-7 1969-01-03 ART. 4 et 5
-	  - Loi n°72-1147 1972-12-23 finances rectificatives
+	  - Loi n°69-7 du 3 janvier 1969 - art. 4 (Ab)
+	  - Loi n°69-7 du 3 janvier 1969 - art. 5 (Ab)
+	  - Loi n°72-1147 1972-12-23
 	  - Loi n°80-531 1980-07-15
-	  - Loi n°85-30 1985-01-09 ART. 53
-	  - Code minier 71, 72, 73
-	  - Code de l'aviation civile - art. D244-1 (V)
-	  - Code de l'aviation civile - art. D244-2 (V)
-	  - Code de l'aviation civile - art. D244-3 (V)
-	  - Code de l'aviation civile - art. D244-4 (V)
+	  - Loi n°85-30 1985-01-09 art. 53
+	  - Loi n°87-954 1987-11-27
+	  - Code minier 71 à 73
 	  - Code de l'aviation civile - art. L281-1 (M)
-	  - Code de l'aviation civile - art. R241-1 (V)
-	  - Code de l'aviation civile - art. R241-2 (M)
-	  - Code de l'aviation civile - art. R243-3 (V)
 	  - Code de l'aviation civile - art. R244-1 (M)
 	  - Code de l'aviation civile - art. R245-1 (M)
-	  - Code des postes et télécommunications R27 à R39
+	  - Code de l'aviation civile L281-1, R241-1 à R243-3, R245-1, R244-1, D244-1 à D244-4
+	  - Code des postes et télécommunications L54 à L56, R21 à R26, L57 à L62, R27 à R39, L48, L65-1
 	  - Code du domaine public fluvial 15, 16, 28
-	  - Code rural 128-6, 128-7, 128-9
-	  - Code rural 135, 136, 137, 138, 424
-	  - Code rural 138-1
-	  - Décret n°1935-10-30 ART. 6, ART. 5
-	  - Décret n°1950-07-08
+	  - Code rural 128-7, 128-9, 128-6, 138-1, 135 à 138, 424
+	  - Décret n°1935-10-30 art. 6, art. 3
 	  - Décret n°64-158 1964-02-15
-	  - Décret n°64-481 1964-01-23 ART. 25
+	  - Décret n°64-481 1964-01-23 art. 25
 	  - Loi n°1845-07-15
-	  - Loi n°1895-07-18
-	  - Loi n°1919-10-16 ART. 4
-	  - Loi n°1925-07-13 ART. 298
-	  - Loi n°1933-05-27
+	  - Loi n°1906-06-15
+	  - Loi n°1919-10-16 art. 4
+	  - Loi n°1925-07-13 art. 298
 	  - Loi n°1941-07-08
-	  - Loi n°1966-06-15 ART. 12
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 	**Modifié par**:
 
-	  - Décret n°87-984 1986-08-19 ART. 7 XIV JORF 27 AOUT 1986
-
-
-### Servitudes relatives à la Défense Nationale
-
-###### Article III
-
-Servitudes attachées à la sécurité de la navigation et à la défense des côtes instituées en application de la loi du 11
-juillet 1933.
-
-Zones et polygones d'isolement créés en application de la loi du 8 août 1929 concernant les servitudes autour des magasins et
-établissements servant à la conservation, à la manipulation ou à la fabrication des poudres, munitions, artifices ou
-explosifs.
-
-Servitudes concernant l'établissement de terrains d'atterrissage destinés en partie ou en totalité à l'armée de l'air
-instituées en application du décret du 30 octobre 1935.
-
-Servitudes relatives aux fortifications, places fortes, postes et ouvrages militaires instituées en application des lois du 8
-juillet 1791, 17 juillet 1819 et 10 juillet 1851.
-
-Servitudes aux abords des champs de tir créées en application de l'article 25 de la loi du 13 juillet 1927.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°1935-10-30
-	  - Loi n°1791-07-08
-	  - Loi n°1819-07-07
-	  - Loi n°1851-07-10
-	  - Loi n°1927-07-13 ART. 25
-	  - Loi n°1929-08-08
-	  - Loi n°1933-07-11
+	  - Décret n°91-400 du 25 avril 1991 - art. 4 () JORF 27 avril 1991
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°77-861 1977-07-26 ART. 1 JORF 29 JUILLET 1977
 
 
 ### Servitudes relatives à la salubrité et à la sécurité publique
