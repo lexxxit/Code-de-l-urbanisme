@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1992-12-29
+Version Consolidée au 1992-12-30
 
 # Partie législative
 
@@ -28238,33 +28238,41 @@ Périmètres de protection installés autour des établissements de conchylicult
 en application de l'article 2 du décret du 30 octobre 1935 sur la protection des eaux potables et les établissements
 ostréicoles.
 
-B. - Sécurité publique.    Plans des surfaces submersibles établis en application des articles 48 à 54 du code du domaine
-public fluvial et de la navigation intérieure.    Servitudes instituées, en ce qui concerne la Loire et ses affluents, par
-les articles 55 et suivants du code du domaine public fluvial et de la navigation intérieure.    Servitudes résultant des
-plans d'exposition aux risques naturels prévisibles et instituées en application de l'article 5-1, 1er alinéa, de la loi n°
-82-600 du 13 juillet 1982.    Servitudes résultant de l'application des articles 7-1 à 7-4 de la loi n° 76-663 du 19 juillet
-1976. "
+B. - Sécurité publique.
+
+Plans des surfaces submersibles établis en application des articles 48 à 54 du code du domaine public fluvial et de la
+navigation intérieure.
+
+Servitudes instituées, en ce qui concerne la Loire et ses affluents, par les articles 55 et suivants du code du domaine
+public fluvial et de la navigation intérieure.
+
+Servitudes résultant des plans d'exposition aux risques naturels prévisibles et instituées en application de l'article 5-1,
+1er alinéa, de la loi n° 82-600 du 13 juillet 1982.
+
+Servitudes résultant de l'application des articles 7-1 à 7-4 de la loi n° 76-663 du 19 juillet 1976.
+
+Servitudes d'inondation pour la rétention des crues du Rhin résultant de l'application de la loi n° 91-1385 du 31 décembre
+1991 portant dispositions diverses en matière de transports.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°76-663 du 19 juillet 1976 - art. 7-1 (Ab)
-	  - Loi n°76-663 du 19 juillet 1976 - art. 7-2 (M)
-	  - Loi n°76-663 du 19 juillet 1976 - art. 7-3 (Ab)
-	  - Loi n°76-663 du 19 juillet 1976 - art. 7-4 (Ab)
+	  - Code du domaine public fluvial 48 à 54, 55
+	  - Décret n°1935-10-30 art. 2
+	  - Loi n°76-663 1976-07-19 art. 7-1 à 7-4
+	  - Loi n°82-600 du 13 juillet 1982 - art. 5-1 (Ab)
+	  - Loi n°91-1385 1991-12-31
 	  - CODE DES COMMUNES. - art. L361-1 (M)
 	  - CODE DES COMMUNES. - art. L361-4 (M)
-	  - Code du domaine public fluvial 48, 49, 50, 51, 52, 53, 54, 55 et suivants
-	  - Décret n°1935-10-30 ART. 2
-
-	**Modifié par**:
-
-	  - Décret n°89-837 1989-11-14 ART. 6 JORF 16 novembre 1989
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°92-1364 du 23 décembre 1992 - art. 7 () JORF 30 décembre 1992
 
 
 ## Livre II : Préemption et réserves foncières
