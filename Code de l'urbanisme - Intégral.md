@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1984-03-29
+Version Consolidée au 1984-03-31
 
 # Partie législative
 
@@ -20355,48 +20355,6 @@ notamment des possibilités de construction.
 	  - Décret n°73-1023 1973-11-08
 
 
-#### Compensations entre terrains boisés et terrains à bâtir et autorisation de construire sur une partie d'un terrain classé.
-
-###### Article R*130-8
-
-Le décret prévu au troisième alinéa de l'article L. 130-2 du code de l'urbanisme désigne la personne publique bénéficiaire de
-la cession gratuite du terrain, approuve les dispositions proposées par celle-ci en vue de préserver le terrain qui lui est
-cédé, de l'aménager et de l'entretenir dans l'intérêt du public, délimite la partie du terrain classé sur laquelle porte
-l'autorisation de construire et prononce le déclassement de cette partie de terrain.//DECRET 1141 : Ce décret tient lieu,
-pour la partie déclassée, de l'autorisation de défrichement prévue à l'article 157 du code forestier//.
-
-Sans préjudice des dispositions de la première partie du présent code, et notamment des titres II à VIII inclus du livre IV,
-le même décret fixe les possibilités de construction accordées en application de l'article L. 130-2.
-
-Le décret mentionné ci-dessus fait l'objet d'une mention au Journal officiel de la République française. Le préfet fait en
-outre insérer cette mention, aux frais du pétitionnaire, dans deux journaux régionaux ou locaux diffusés dans le département.
-
-L'autorisation ne produit ses effets qu'après le transfert de propriété qui doit intervenir au plus tard dans les deux ans
-qui suivent la publication dudit décret. Le plan d'occupation des sols est alors mis à jour conformément à l'article R.
-123-36.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code forestier 157
-	  - Code de l'urbanisme - art. L130-2 (M)
-	  - Code de l'urbanisme R123-36
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L130-2 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. R*130-17 (VT)
-	  - Code de l'urbanisme R130-17
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 #### Dispositions diverses.
 
 ###### Article R*130-11
@@ -37307,6 +37265,39 @@ et du ministre chargé des armées.
 ### Titre IV : Dispositions relatives aux modes particuliers d'utilisation du sol.
 
 #### CHAPITRE II : Installations et travaux divers
+
+#####  Section 4 : Décision
+
+#####  Paragraphe 2 : Dispositions particulières applicables dans les communes où un plan d'occupation des sols a été approuvé.
+
+###### Article R*442-6-1
+
+Dans les communes où un plan d'occupation des sols a été approuvé, la décision est prise par le maire, au nom de la commune,
+ou par le président de l'établissement public de coopération intercommunale, au nom de cet établissement [*autorité
+compétente*].
+
+Toutefois, elle est prise dans les conditions prévues au paragraphe 3 de la présente section dans les cas mentionnés au
+quatrième alinéa de l'article L. 421-2-1 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-226 1984-03-29 ART. 33, ART. 34 : modalités d'application
+	  - SPEC_APPLI: Décret n°84-226 du 29 mars 1984 - art. 33 (M)
+
+	**Créé par**:
+
+	  - Décret n°84-226 1984-03-29 art. 22 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L421-2-1 (M)
+
 
 #####  Section 6 : Dispositions particulières
 
