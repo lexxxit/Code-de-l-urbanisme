@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1985-02-21
+Version Consolidée au 1985-04-24
 
 # Partie législative
 
@@ -28883,6 +28883,48 @@ d'un certificat d'urbanisme portant sur chacun des terrains devant provenir de l
 	  - Décret n°73-1023 1973-11-08
 
 
+#### CHAPITRE 5 : Lotissements et divisions de propriété
+
+#####  Section 3 : instruction des demandes
+
+##### Paragraphe 1 : Dispositions applicables dans l'ensemble des communes
+
+###### Article R*315-21-1
+
+Le demandeur ne peut bénéficier d'une autorisation de lotir tacite dans les cas ci-après énumérés [*autorisation expresse*] :
+
+a) Lorsque le projet est situé dans le champ de visibilité d'un édifice classé ou inscrit.
+
+b) Lorsque le projet est situé dans un site classé, en instance de classement, ou inscrit ou dans une zone de protection
+créée par décret en application des articles 17 ou 28 de la loi du 2 mai 1930.
+
+c) Lorsque le projet est situé dans une zone de protection du patrimoine architectural et urbain.
+
+d) Lorsque le projet est situé dans un territoire en instance de classement ou classé en réserve naturelle.    e) Lorsque le
+projet de lotissement fait partie des catégories d'aménagements, d'ouvrages ou travaux soumis à enquête publique en
+application du décret n° 85-453 du 23 avril 1985.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°83-630 1983-07-12
+	  - SPEC_APPLI: Décret n°85-452 1985-04-23 art. 14 II
+
+	**Modifié par**:
+
+	  - Décret n°85-452 1985-04-23 art. 12 JORF 24 avril 1985
+
+	**Cite**:
+
+	  - Décret n°85-453 1985-04-23
+	  - Loi n°1930-05-02 ART. 17, ART. 28
+
+
 #### CHAPITRE VI : Sanctions relatives aux lotissements
 
 ###### Article R316-1
@@ -36776,39 +36818,6 @@ un mois en application de l'article R. 315-18 ou  lorsque le projet est soumis �
 	  - Code de l'urbanisme - art. R315-16 (M)
 
 
-###### Article R*315-21-1
-
-Le demandeur ne peut bénéficier d'une autorisation de lotir tacite dans les cas ci-après énumérés [*autorisation expresse*] :
-
-a) Lorsque le projet est situé dans le champ de visibilité d'un édifice classé ou inscrit.
-
-b) Lorsque le projet est situé dans un site classé, en instance de classement, ou inscrit ou dans une zone de protection
-créée par décret en application des articles 17 ou 28 de la loi du 2 mai 1930.
-
-c) Lorsque le projet est situé dans une zone de protection du patrimoine architectural et urbain.
-
-d) Lorsque le projet est situé dans un territoire en instance de classement ou classé en réserve naturelle.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-228 1984-03-29 ART. 33, ART. 34 : modalités d'application
-	  - SPEC_APPLI: Décret n°84-228 du 29 mars 1984 - art. 33 (M)
-
-	**Créé par**:
-
-	  - Décret n°84-228 1984-03-29 ART. 5, ART. 11 JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
-
-	**Cite**:
-
-	  - Loi n°1930-05-02 ART. 17, ART. 28
-
-
 ##### Décision.
 
 ##### Dispositions générales.
@@ -39934,6 +39943,72 @@ demandeur comme il est dit à l'article R. 421-8 (2. alinéa).
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R421-18
+
+Sous réserve de ce qui est dit aux alinéas 2 et suivants du présent article et aux articles R. 421-38-2 et suivants, le délai
+d'instruction, dont le point de départ est prévu aux articles R. 421-12 et R. 421-13 ou, le cas échéant, R. 421-14 est fixé à
+deux mois.
+
+Le délai d'instruction est porté à trois mois si la demande concerne la construction soit de plus de 200 logements, soit de
+locaux à usage industriel ou commercial ou à usage de bureaux dont la superficie de planchers hors oeuvre est égale ou
+supérieure à 2.000 mètres carrés au total.
+
+Le délai d'instruction est majoré d'un mois lorsqu'il y a lieu de consulter un ou plusieurs services ou autorités dépendant
+de ministres ou personnes publiques autres que ceux chargés de l'instruction ou de la prise de décision ou de consulter une
+commission départementale ou régionale.
+
+Le délai d'instruction est également majoré d'un mois lorsqu'il y a lieu d'instruire une dérogation ou une adaptation
+mineure.
+
+Le délai d'instruction est porté à cinq mois lorsque le projet est soumis à enquête publique, lorsqu'il y a lieu de consulter
+une commission nationale ou lorsque la demande concerne la construction de locaux à usage commercial assujettis à
+l'autorisation de la commission départementale d'urbanisme commercial ; en cas de recours formulé dans les conditions prévues
+à l'article 32 de la loi n. 73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat contre la décision de
+cette commission, ce délai est majoré de quatre mois.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°73-1193 du 27 décembre 1973 - art. 32 (M)
+	  - Code de l'urbanisme - art. R421-13 (M)
+	  - Code de l'urbanisme - art. R421-38 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-452 1985-04-23 art. 14 : application dans le temps
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-19 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-31 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R440-2 (Ab)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R440-3 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°85-452 1985-04-23 art. 8 JORF 24 avril 1985
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. A441-4 (V)
+	  - Code de l'urbanisme - art. R*421-14 (M)
+	  - Code de l'urbanisme - art. R*421-38-8 (Ab)
+	  - Code de l'urbanisme - art. R*441-8 (Ab)
+	  - Code de l'urbanisme - art. R421-12 (M)
+	  - Code de l'urbanisme - art. R421-19 (M)
+	  - Code de l'urbanisme - art. R421-20 (M)
+	  - Code de l'urbanisme - art. R421-25 (M)
+	  - Code de l'urbanisme - art. R421-31 (M)
+	  - Code de l'urbanisme - art. R440-2 (Ab)
+	  - Code de l'urbanisme - art. R440-3 (Ab)
+
+	**Anciens textes**:
+
+	  - Décret n°70-446 1970-05-26 ART. 15
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ###### Article R421-20
 
 Si, au cours de l'instruction du dossier, il s'avère que le délai retenu pour l'application de l'article R. 421-12 doit être
@@ -42570,6 +42645,58 @@ mois, au moins, à la mairie de chaque commune intéressée.
 	  - Décret n°73-1023 1973-11-08
 
 
+### TITRE IV : dispositions relatives aux modes particuliers            d'utilisation du sol.&lt;F&gt; CHAPITRE III : Camping et stationnement des caravanes
+
+####  Section 2 : terrains aménagés pour l'accueil des campeurs et des caravanes
+
+##### paragraphe 1 : Terrains aménagés permanents.
+
+###### Article R*443-7-2
+
+Les conditions de dépôt, de transmission et d'instruction de la demande d'autorisation d'aménager un terrain de camping ou de
+caravanage sont régies conformément aux dispositions des articles R. 421-8 à R. 421-10, R. 421-12 à R. 421-17, R. 421-19 à R.
+421-28 et R. 421-38-1 à R. 421-38-19.
+
+Outre les consultations énumérées à l'article R. 421-15, la demande d'autorisation d'aménager est soumise pour avis à la
+commission départementale de l'action touristique. Faute de réponse de cette commission dans le délai de deux mois à compter
+du dépôt de la demande, son avis est réputé favorable.
+
+Le délai d'instruction des demandes d'autorisation d'aménager un terrain de camping et de caravanage est fixé à trois mois à
+compter de la date de décharge du dépôt de la demande complète, ou de l'avis de réception postal de son envoi [*point de
+départ*]. Toutefois, ce délai est porté à cinq mois lorsque le projet est soumis à enquête publique, lorsqu'il y a lieu de
+consulter une commission nationale, ou lorsqu'en application de l'article R. 421-38-4 ou de l'article R. 421-38-6,
+l'architecte des bâtiments de France a fait connaître son intention d'utiliser un délai supérieur à un mois ou que le dossier
+est évoqué par le ministre compétent.
+
+Faute pour l'autorité compétente d'avoir adressé notification de la décision dans le délai d'instruction prévu à l'alinéa
+précédent, l'autorisation est réputée accordée, sauf dans les cas énumérés à l'article R. 421-19 et au 2° de l'article R.
+443-9, où l'autorisation ne peut être obtenue de façon tacite.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°85-452 1985-04-23 art. 13 JORF 24 avril 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-452 1985-04-23 art. 14 II : application dans le temps
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R421-10 (M)
+	  - Code de l'urbanisme - art. R421-15 (M)
+	  - Code de l'urbanisme - art. R421-38-4 (M)
+	  - Code de l'urbanisme - art. R421-38-6 (M)
+	  - Code de l'urbanisme - art. R421-8 (M)
+	  - Code de l'urbanisme - art. R421-9 (M)
+	  - Code de l'urbanisme R421-12 à R421-17
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ### TITRE V : Dispositions diverses
 
 #### CHAPITRE I : Dispositions propres à certaines utilisations de surfaces bâties
@@ -43532,138 +43659,6 @@ demandes d'avis qui n'ont pas donné lieu à une réponse expresse.
 	**Anciens textes**:
 
 	  - Décret n°70-446 1970-05-26 ART. 13-1
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R421-18
-
-Sous réserve de ce qui est dit aux alinéas 2 et suivants du présent article et aux articles R. 421-38-2 et suivants, le délai
-d'instruction, dont le point de départ est prévu aux articles R. 421-12 et R. 421-13 ou, le cas échéant, R. 421-14 est fixé à
-deux mois.
-
-Le délai d'instruction est porté à trois mois si la demande concerne la construction soit de plus de 200 logements, soit de
-locaux à usage industriel ou commercial ou à usage de bureaux dont la superficie de planchers hors oeuvre est égale ou
-supérieure à 2.000 mètres carrés au total.
-
-Le délai d'instruction est majoré d'un mois lorsqu'il y a lieu de consulter un ou plusieurs services ou autorités dépendant
-de ministres ou personnes publiques autres que ceux chargés de l'instruction ou de la prise de décision ou de consulter une
-commission départementale ou régionale.
-
-Le délai d'instruction est également majoré d'un mois lorsqu'il y a lieu d'instruire une dérogation ou une adaptation
-mineure.
-
-//DECR.0158 art. 2: Le délai d'instruction est porté à six mois lorsqu'il y a lieu de consulter une commission nationale ou
-lorsque la demande concerne la construction de locaux à usage commercial assujettis à l'autorisation de la commission
-départementale d'urbanisme commercial ; en cas de recours formulé dans les conditions prévues à l'article 32 de la loi n.
-73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat contre la décision de cette commission, ce délai est
-majoré de quatre mois//.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°73-1193 du 27 décembre 1973 - art. 32 (M)
-	  - Code de l'urbanisme - art. R421-13 (M)
-	  - Code de l'urbanisme - art. R421-38 (M)
-
-	**Modifié par**:
-
-	  - Décret n°83-1261 1983-12-30 ART. 9, ART. 10, ART. 14 JORF 7 JANVIER 1984
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A441-4 (V)
-	  - Code de l'urbanisme - art. R*421-14 (M)
-	  - Code de l'urbanisme - art. R*421-38-8 (Ab)
-	  - Code de l'urbanisme - art. R*441-8 (Ab)
-	  - Code de l'urbanisme - art. R421-12 (M)
-	  - Code de l'urbanisme - art. R421-19 (M)
-	  - Code de l'urbanisme - art. R421-20 (M)
-	  - Code de l'urbanisme - art. R421-25 (M)
-	  - Code de l'urbanisme - art. R421-31 (M)
-	  - Code de l'urbanisme - art. R440-2 (Ab)
-	  - Code de l'urbanisme - art. R440-3 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-19 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-31 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R440-2 (Ab)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R440-3 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°70-446 1970-05-26 ART. 15
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R421-19
-
-Le constructeur ne peut bénéficier d'un permis de construire tacite dans les cas ci-après énumérés :
-
-a) Lorsque les travaux ont pour effet de changer la destination d'une construction existante et que cette modification est
-soumise à autorisation du commissaire de la République en vertu de l'article L. 621-7 du code de la construction et de
-l'habitation ;
-
-b) Lorsque le permis de construire intéresse un immeuble adossé à un immeuble classé ;
-
-c) Lorsque la construction est située dans le champ de visibilité d'un édifice classé ou inscrit ;
-
-d) Lorsque la construction se trouve dans un site classé ou en instance de classement ou inscrit, ou dans une zone de
-protection créée par décret en application des articles 17 ou 28 de la loi du 2 mai 1930 ;
-
-e) Lorsque le projet est situé dans une zone de protection du patrimoine architectural et urbain ;
-
-f) Lorsque la construction est située dans un territoire en instance de classement ou classé en réserve naturelle.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°83-1261 1983-12-30 art. 9, art. 10, art. 15, art. 46-7 JORF 7 janvier 1984 date d'entrée en vigueur 1 avril 1984
-
-	**Cité par**:
-
-	  - Arrêté du 6 juillet 2010 - art. Annexe I (VD)
-	  - Arrêté du 6 juillet 2010 - art. Annexe unique tableau A (VD)
-	  - Décret n°2016-1491 du 4 novembre 2016 - art. (V)
-	  - Code de l'environnement - art. R125-14 (V)
-	  - Code de l'urbanisme - art. *R421-18 (V)
-	  - Code de l'urbanisme - art. *R421-20 (VD)
-	  - Code de l'urbanisme - art. *R421-23 (V)
-	  - Code de l'urbanisme - art. A421-2 (Ab)
-	  - Code de l'urbanisme - art. A421-3-1 (T)
-	  - Code de l'urbanisme - art. R*111-35 (VT)
-	  - Code de l'urbanisme - art. R*111-40 (VT)
-	  - Code de l'urbanisme - art. R*421-12 (M)
-	  - Code de l'urbanisme - art. R*421-14 (M)
-	  - Code de l'urbanisme - art. R*424-18 (V)
-	  - Code de l'urbanisme - art. R*441-6-5 (T)
-	  - Code de l'urbanisme - art. R*443-7-2 (Ab)
-	  - Code de l'urbanisme - art. R111-45 (V)
-	  - Code de l'urbanisme - art. R111-50 (V)
-	  - Code de l'urbanisme - art. R142-1-1 (Ab)
-	  - Code de l'urbanisme - art. R421-25 (M)
-	  - Code de l'urbanisme - art. R440-2 (Ab)
-	  - Code de l'urbanisme - art. R440-3 (Ab)
-	  - Code de l'urbanisme - art. R442-2 (V)
-	  - Code de l'urbanisme - art. R442-4-9 (Ab)
-	  - Code du tourisme. - art. D331-5 (V)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-18 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme L621-7
-	  - Loi  1930-05-02 ART. 17, 28
 
 	**Codifié par**:
 
@@ -44795,53 +44790,6 @@ demande intéresse un projet comportant moins de 200 emplacements.
 	  - Décret n°84-227 1984-03-29 ART. 1, ART. 10, ART. 11, ART. 12 JORF
 
 
-###### Article R*443-7-2
-
-Les conditions de dépôt, de transmission et d'instruction de la demande d'autorisation d'aménager un terrain de camping ou de
-caravanage sont régies conformément aux dispositions des articles R. 421-8 à R. 421-10, R. 421-12 à R. 421-16, R. 421-19 à R.
-421-28 et R. 421-38-1 à R. 421-38-19.
-
-Outre les consultations énumérées à l'article R. 421-15, la demande d'autorisation d'aménager est soumise pour avis à la
-commission départementale de l'action touristique. Faute de réponse de cette commission dans le délai de deux mois à compter
-du dépôt de la demande, son avis est réputé favorable.
-
-Le délai d'instruction des demandes d'autorisation d'aménager un terrain de camping et de caravanage est fixé à trois mois à
-compter de la date de décharge du dépôt de la demande complète, ou de l'avis de réception postal de son envoi [*point de
-départ*]. Toutefois, ce délai est porté à cinq mois lorsqu'il y a lieu de consulter une commission nationale ou lorsque, en
-application de l'article R. 421-38-4 ou de l'article R. 421-38-6, l'architecte des bâtiments de France a fait connaître son
-intention d'utiliser un délai supérieur à un mois ou que le dossier est évoqué par le ministre compétent.
-
-Faute pour l'autorité compétente d'avoir adressé notification de la décision dans le délai d'instruction prévu à l'alinéa
-précédent, l'autorisation est réputée accordée, sauf dans les cas énumérés à l'article R. 421-19 et au 2° de l'article R.
-443-9, où l'autorisation ne peut être obtenue de façon tacite.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984)
-	  - SPEC_APPLI: Décret n°84-227 1984-03-29 ART. 27, ART. 28 : Modalités d'application
-	  - SPEC_APPLI: Décret n°84-227 du 29 mars 1984 - art. 27 (V)
-
-	**Créé par**:
-
-	  - Décret n°84-227 1984-03-29 ART. 1, ART. 10, ART. 11, ART. 12 JORF
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R421-10 (M)
-	  - Code de l'urbanisme - art. R421-15 (M)
-	  - Code de l'urbanisme - art. R421-38-4 (M)
-	  - Code de l'urbanisme - art. R421-38-6 (M)
-	  - Code de l'urbanisme - art. R421-8 (M)
-	  - Code de l'urbanisme - art. R421-9 (M)
-	  - Code de l'urbanisme R421-38-1 à R421-38-19
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ###### Article R*443-7-3
 
 L'autorisation d'aménager un terrain de camping et de caravanage fixe le nombre maximum d'emplacements réservés aux tentes et
@@ -45058,6 +45006,89 @@ A la zone d'aménagement de Fos, dans le périmètre défini par arrêté du min
 
 	  - SPEC_APPLI: Décret n°83-1261 1983-12-30 ART. 49, ART. 50 : Modalités d'application
 	  - SPEC_APPLI: Décret n°83-1261 du 30 décembre 1983 - art. 49 (M)
+
+
+## CHAPITRE IV :Règles relatives à l'acte de construire et à divers mode              d'utilisation du sol
+
+### TITRE II : Permis de construire
+
+#### CHAPITRE I : Régime général
+
+#####  Section 3 : Instruction de la demande
+
+##### Paragraphe 1 : Dispositions applicables dans l'ensemble des communes.
+
+###### Article R421-19
+
+Le constructeur ne peut bénéficier d'un permis de construire tacite dans les cas ci-après énumérés :
+
+a) Lorsque les travaux ont pour effet de changer la destination d'une construction existante et que cette modification est
+soumise à autorisation du commissaire de la République en vertu de l'article L. 631-7 du code de la construction et de
+l'habitation ;
+
+b) Lorsque le permis de construire intéresse un immeuble adossé à un immeuble classé ;
+
+c) Lorsque la construction est située dans le champ de visibilité d'un édifice classé ou inscrit ;
+
+d) Lorsque la construction se trouve dans un site classé ou en instance de classement ou inscrit, ou dans une zone de
+protection créée par décret en application des articles 17 ou 28 de la loi du 2 mai 1930 ;
+
+e) Lorsque le projet est situé dans une zone de protection du patrimoine architectural et urbain ;
+
+f) Lorsque la construction est située dans un territoire en instance de classement ou classé en réserve naturelle.
+
+g) Lorsque la construction fait partie des catégories d'aménagements, d'ouvrages ou de travaux soumis à enquête publique en
+application du décret n° 85-453 du 23 avril 1985.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°83-630 1983-07-12
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-18 (M)
+	  - SPEC_APPLI: Décret n°85-452 1985-04-24 art. 14 II : application dans le temps
+
+	**Modifié par**:
+
+	  - Decret 85-452 1985-04-23 art. 9 JORF 24 avril 1985
+
+	**Cite**:
+
+	  - Décret n°85-453 1985-04-23
+	  - Code de l'urbanisme L631-7
+	  - Loi  1930-05-02 ART. 17, 28
+
+	**Cité par**:
+
+	  - Arrêté du 6 juillet 2010 - art. Annexe I (VD)
+	  - Arrêté du 6 juillet 2010 - art. Annexe unique tableau A (VD)
+	  - Décret n°2016-1491 du 4 novembre 2016 - art. (V)
+	  - Code de l'environnement - art. R125-14 (V)
+	  - Code de l'urbanisme - art. *R421-18 (V)
+	  - Code de l'urbanisme - art. *R421-20 (VD)
+	  - Code de l'urbanisme - art. *R421-23 (V)
+	  - Code de l'urbanisme - art. A421-2 (Ab)
+	  - Code de l'urbanisme - art. A421-3-1 (T)
+	  - Code de l'urbanisme - art. R*111-35 (VT)
+	  - Code de l'urbanisme - art. R*111-40 (VT)
+	  - Code de l'urbanisme - art. R*421-12 (M)
+	  - Code de l'urbanisme - art. R*421-14 (M)
+	  - Code de l'urbanisme - art. R*424-18 (V)
+	  - Code de l'urbanisme - art. R*441-6-5 (T)
+	  - Code de l'urbanisme - art. R*443-7-2 (Ab)
+	  - Code de l'urbanisme - art. R111-45 (V)
+	  - Code de l'urbanisme - art. R111-50 (V)
+	  - Code de l'urbanisme - art. R142-1-1 (Ab)
+	  - Code de l'urbanisme - art. R421-25 (M)
+	  - Code de l'urbanisme - art. R440-2 (Ab)
+	  - Code de l'urbanisme - art. R440-3 (Ab)
+	  - Code de l'urbanisme - art. R442-2 (V)
+	  - Code de l'urbanisme - art. R442-4-9 (Ab)
+	  - Code du tourisme. - art. D331-5 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ## Règles relatives à l'acte de construire et à certains modes d'utilisation du sol
