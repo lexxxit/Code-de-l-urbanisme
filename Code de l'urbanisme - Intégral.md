@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1996-11-27
+Version Consolidée au 1996-11-29
 
 # Partie législative
 
@@ -54348,72 +54348,6 @@ Mauregard, Le Mesnil-Amelot, Mitry-Mory et Villeparisis.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-
-### TITRE III : Implantation hors de la région Ile-de-France de certaines activités.
-
-###### Article R530-1
-
-Les décisions par lesquelles le ministre de l'économie et des finances accorde conformément à l'article L. 530-1 des prêts,
-des bonifications d'intérêt ou la garantie [*aide*] de l'Etat pour faciliter le financement des opérations de
-décentralisation sont prises après avis du conseil de direction du fonds de développement économique et social institué par
-l'article 1er du décret n. 55-875 du 30 juin 1955.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Cite**:
-
-	  - Décret n°55-875 du 30 juin 1955 - art. 1 (Ab)
-	  - Code de l'urbanisme - art. L530-1 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°96-1022 du 27 novembre 1996 - art. 8 () JORF 29 novembre 1996
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R530-5 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 152-6
-
-
-###### Article R530-2
-
-Le conseil de direction [*fonds de développement économique et social*] peut, dans ce domaine, déléguer partie de ses
-attributions à un comité spécialisé comprenant [*composition*] :
-
-1. Un président nommé par arrêté des ministres chargés de l'industrie, du travail, de l'urbanisme, de l'économie et des
-finances, du Plan ;
-
-2. Un représentant du ministre chargé de l'industrie ;
-
-3. Un représentant du ministre chargé du travail ;
-
-4. Un représentant du ministre chargé de l'urbanisme ;
-
-5. Deux représentants désignés par le ministre de l'économie et des finances ;
-
-6. Un représentant du ministre chargé du Plan.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°96-1022 du 27 novembre 1996 - art. 8 () JORF 29 novembre 1996
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 152-7
 
 
 ### Titre III : Implantation hors de la région parisienne de certaines activités
