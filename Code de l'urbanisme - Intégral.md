@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1979-02-02
+Version Consolidée au 1979-05-30
 
 # Partie législative
 
@@ -41022,11 +41022,16 @@ sous le contrôle de ces collectivités et établissements.
 ###### Article A331-1
 
 Par délégation du comité de gestion du fonds national d'aménagement foncier et d'urbanisme, le préfet de région peut, dans la
-limite de l'enveloppe qui lui est attribuée, octroyer des bonifications d'intérêt pour le préfinancement d'acquisitions
-foncières et d'équipements d'infrastructure dans les zones d'aménagement concerté pour lesquelles il est habilité à prendre
-les décisions visées à l'article R. 311-12
+limite de l'enveloppe qui lui est attribuée, octroyer des bonifications d'intérêt pour le financement d'acquisitions
+foncières et d'équipements d'infrastructure dans les opérations d'aménagement mentionnées au premier alinéa de l'article L.
+321-1, à l'exclusion des opérations réalisées par l'Etat, par les établissements publics d'aménagement des villes nouvelles
+et par l'établissement public d'aménagement de la défense.
 
 **Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
 
 	**Codifié par**:
 
@@ -41034,7 +41039,7 @@ les décisions visées à l'article R. 311-12
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. A331-1 (Ab)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. A331-1 (M)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*311-12 (M)
 
 	**Cité par**:
@@ -41044,20 +41049,27 @@ les décisions visées à l'article R. 311-12
 
 	**Cite**:
 
-	  - Code de l'urbanisme R311-2
+	  - Code de l'urbanisme L321-1 AL. 1
 
 
 ###### Article A331-2
 
-Le préfet de région sur rapport du chef de service régional de l'équipement et après avis du trésorier-payeur général de
-région, fixe, pour chaque opération, le montant de l'autorisation de prêts bonifiables. Cette autorisation de prêts doit être
-égale au découvert maximum du plan de trésorerie.
+Les dispositions de l'article précédent sont applicables aux zones d'habitation et aux zones industrielles créées, en
+application de l'article R. 321-1, avant le 1er janvier 1977.
 
 **Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
 
 	**Codifié par**:
 
 	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Cite**:
+
+	  - CODE DE L'URBANISME R321-1, A331
 
 	**Cité par**:
 
@@ -41067,10 +41079,14 @@ région, fixe, pour chaque opération, le montant de l'autorisation de prêts bo
 
 ###### Article A331-3
 
-Dans la limite de cette autorisation et par délégation du comité de gestion, le préfet détermine le montant des prêts
-bonifiés susceptibles d'être contractés, en fonction des besoins de trésorerie de l'opération pour l'année considérée.
+Le préfet de région prend sa décision sur le rapport du directeur régional de l'équipement et après avis du trésorier-payeur
+général de région et du préfet du département concerné.
 
 **Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
 
 	**Codifié par**:
 
@@ -41084,11 +41100,16 @@ bonifiés susceptibles d'être contractés, en fonction des besoins de trésorer
 
 ###### Article A331-4
 
-Les règles générales concernant le taux des bonifications d'intérêt, les caractéristiques et la durée des emprunts ainsi que
-les modalités de leur remboursement sont déterminées par le comité de gestion qui définit, en outre, les conditions selon
-lesquelles est exercé le contrôle des décisions prises par le préfet de région et le préfet.
+Sous réserve des dispositions de l'article R. 331-6, les règles générales concernant le taux des bonifications d'intérêt, les
+caractéristiques et la durée des emprunts ainsi que les modalités de leur remboursement sont déterminées par le comité de
+gestion, qui définit, en outre, les conditions selon lesquelles est exercé le contrôle des décisions prises par le préfet de
+région.
 
 **Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
 
 	**Codifié par**:
 
@@ -41098,6 +41119,10 @@ lesquelles est exercé le contrôle des décisions prises par le préfet de rég
 
 	  - Code de l'urbanisme - art. A331-5 (Ab)
 	  - Code de l'urbanisme - art. A331-6 (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme R331-6
 
 
 ###### Article A331-5
