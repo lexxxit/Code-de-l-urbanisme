@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2002-05-05
+Version Consolidée au 2002-11-01
 
 # Partie législative
 
@@ -24842,136 +24842,86 @@ rendue indispensable par des nécessités techniques.
 
 ###### Article R147-1
 
-La valeur de l'indice psophique représentant le niveau d'exposition totale au bruit des avions en chaque point de
-l'environnement d'un aérodrome est calculée à l'aide de la formule ci-après :
+La valeur de l'indice de bruit, Lden, représentant le niveau d'exposition totale au bruit des avions en chaque point de
+l'environnement d'un aérodrome, exprimée en décibels (dB), est calculée à l'aide de la formule ci-après :
 
-(formule non reproduite, voir JO du 22 mai 1987 page 5594)
+L
+  <sub>den</sub> = 10 x 1g 1/24 [12 x 10 L
+  <sub>d</sub>/10 + 4 x L
+  <sub>e</sub> + 5/10 + 8 x 10 L
+  <sub>n</sub> + 10/10]
 
 avec :
 
-n = nombre de mouvements diurnes (6 H - 22 H) ;
+L
+  <sub>d</sub> = niveau sonore moyen à long terme pondéré A tel que défini dans ISO 1996-2:1987, déterminé sur l'ensemble des
+périodes de jour d'une année. La période de jour s'étend de 6 heures à 18 heures ;
 
-p = nombre de mouvements nocturnes (22 H - 6 H) ;
+L
+  <sub>e</sub> = niveau sonore moyen à long terme pondéré A tel que défini dans ISO 1996-2:1987, déterminé sur l'ensemble des
+périodes de soirée d'une année. La période de soirée s'étend de 18 heures à 22 heures ;
 
-Ni = niveau de bruit en PNdB du i ème avion, entre 6 H et 22 H ;
-
-Nj = niveau de bruit en PNdB du j ème avion, entre 22 H et 6 H.
+L
+  <sub>n</sub> = niveau sonore moyen à long terme pondéré A tel que défini dans ISO 1996-2:1987, déterminé sur l'ensemble des
+périodes de nuit d'une année. La période de nuit s'étend de 22 heures à 6 heures le lendemain.
 
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
+	  - Décret n°94-236 du 18 mars 1994 - art. 1 (Ab)
+	  - Décret n°2006-361 du 24 mars 2006 - art. 3 (Ab)
 	  - Arrêté du 4 avril 2006 - art. 3 (VT)
 	  - Code de l'environnement - art. R571-58 (M)
 	  - Code de l'environnement - art. R572-4 (M)
 	  - Code de l'urbanisme - art. R*712-1 (Ab)
-	  - Décret n°94-236 du 18 mars 1994 - art. 1 (Ab)
-	  - Décret n°2006-361 du 24 mars 2006 - art. 3 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2002-626 du 26 avril 2002 - art. 1 () JORF 28 avril 2002 en vigueur le 1er novembre 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Nouveaux textes**:
+
+	  - Code de l'environnement - art. R571-58 (M)
+	  - Code de l'urbanisme - art. R112-1 (V)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°87-340 1987-05-21 art. 1 JORF 22 mai 1987
 
 
 ###### Article R147-2
 
-La zone de bruit fort A est la zone comprise à l'intérieur de la courbe isopsophique 96.
+La zone de bruit fort A est la zone comprise à l'intérieur de la courbe d'indice Lden 70.
 
-La zone de bruit fort B est la zone comprise entre les courbes isopsophiques 96 et 89.
+La zone de bruit fort B est la zone comprise entre la courbe d'indice Lden 70 et la courbe d'indice Lden 62. Toutefois, pour
+les aérodromes mis en service avant la publication du décret n° 2002-626 du 26 avril 2002 fixant les conditions
+d'établissement des plans d'exposition au bruit et des plans de gêne sonore des aérodromes et modifiant le code de
+l'urbanisme, la valeur de l'indice servant à la délimitation de la limite extérieure de la zone B est comprise entre 65 et
+62.
 
-La zone de bruit modéré C est la zone comprise entre la courbe isopsophique 89 et la courbe isopsophique correspondant à une
-valeur de l'indice psophique choisie entre 84 et 72.
+La zone de bruit modéré C est la zone comprise entre la limite extérieure de la zone B et la courbe correspondant à une
+valeur de l'indice Lden choisie entre 57 et 55.
 
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°97-607 du 31 mai 1997 - art. 4 () JORF 1er juin 1997
-
-
-###### Article R147-3
-
-Pour l'application du deuxième alinéa de l'article L. 147-4, la modulation de l'indice psophique déterminant la limite
-extérieure de la zone C se fera à l'intérieur d'une plage allant de la valeur 72 à la valeur 69.
+La zone D est la zone comprise entre la limite extérieure de la zone C et la courbe d'indice Lden 50.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°97-607 du 31 mai 1997 - art. 5 () JORF 1er juin 1997
-
-	**Abrogé par**:
-
-	  - Décret n°2002-626 du 26 avril 2002 - art. 1 () JORF 28 avril 2002 en vigueur le 1er novembre 2002
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L147-4 (V)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R147-4 (Ab)
+	  - Décret n°2002-626 2002-04-26
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R147-4
-
-Pour la mise en oeuvre des dispositions du second alinéa de l'article L. 147-4, relatives à la modulation de l'indice servant
-à la détermination de la limite extérieure de la zone C, le préfet de la région peut, sur proposition ou après consultation
-du conseil régional, établir, pour la région concernée ou pour certaines parties de cette région, des propositions visant à
-fixer pour la limite extérieure de ladite zone une valeur d'indice d'exposition totale au bruit des avions compatible avec
-les dispositions de l'article R. 147-3.
-
-Le préfet de la région communique les propositions aux préfets des départements concernés, qui les adressent aux maires des
-communes intéressées, le cas échéant aux présidents des établissements publics de coopération intercommunale compétents,
-ainsi qu'aux commissions consultatives de l'environnement.
-
-Les conseils municipaux, le cas échéant les organes délibérants des établissements publics de coopération intercommunale
-compétents et les commissions consultatives de l'environnement disposent d'un délai de deux mois pour émettre un avis. A
-défaut de réponse dans le délai imparti, cet avis est réputé favorable.
-
-Le préfet de la région saisit pour avis le conseil régional des propositions visées au premier alinéa et lui communique les
-résultats des précédentes consultations. Le conseil régional dispose d'un délai de trois mois pour formuler son avis. A
-défaut de réponse dans ce délai, son avis est réputé favorable.
-
-La valeur de l'indice psophique fixant pour la région concernée ou pour certaines parties de cette région la limite
-extérieure de la zone C est approuvée par décret.
-
-Mention de ce décret est publiée au Journal officiel de la République française.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°87-340 1987-05-21 art. 1 JORF 22 mai 1987
 
 	**Modifié par**:
 
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
-
-	**Abrogé par**:
-
 	  - Décret n°2002-626 du 26 avril 2002 - art. 1 () JORF 28 avril 2002 en vigueur le 1er novembre 2002
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L147-4 (V)
-	  - Code de l'urbanisme - art. R147-3 (M)
 
 
 #####  Section 2 : Etablissement des plans d'exposition au bruit des aérodromes
@@ -24980,26 +24930,40 @@ Mention de ce décret est publiée au Journal officiel de la République frança
 
 Le rapport de présentation prévu au premier alinéa de l'article L. 147-4 ne comporte pas les éléments qui seraient de nature
 à entraîner la divulgation de secrets de la défense nationale, lorsque le plan d'exposition au bruit concerne un aérodrome
-dont le ministère chargé de la défense est affectataire à titre exclusif, principal ou secondaire.
+dont le ministère chargé de la défense est affectataire à titre exclusif, principal ou secondaire. 
 
 Le plan d'exposition au bruit est établi à l'échelle du 1/25 000 et fait apparaître le tracé des limites des zones de bruit
-dites A, B et C. Il rappelle les valeurs d'indices retenues pour définir les zones A et B et précise la valeur d'indice
-servant à définir la limite extérieure de la zone C..
+dites A, B, C et, le cas échéant, D. Il rappelle les valeurs d'indice retenues pour définir les zones A et D et précise la
+valeur d'indice servant à définir la limite extérieure des zones B et C. Il prend en compte l'ensemble des hypothèses à
+court, moyen et long terme de développement et d'utilisation de l'aérodrome concerné.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°87-340 1987-05-21 art. 1 JORF 22 mai 1987
 
 	**Cité par**:
 
 	  - Arrêté du 13 juin 2008 - art. Annexe II (V)
 	  - Arrêté du 28 décembre 2012 - art. Annexe II (V)
 
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L147-4
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R112-4 (V)
+	  - Code de l'urbanisme - art. R112-6 (V)
+
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°2002-626 du 26 avril 2002 - art. 2 () JORF 28 avril 2002 en vigueur le 1er novembre 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 
 ###### Article R147-6
@@ -25015,23 +24979,33 @@ Elle est prise avec l'accord exprès du ministre chargé de l'aviation civile, e
 la catégorie des investissements d'intérêt national lorsque le ministère de la défense n'en est pas l'affectataire principal,
 et pour les aérodromes situés en territoire étranger dont les nuisances de bruit affectent le territoire français.
 
+Sans préjudice du pouvoir du préfet de décider la mise en révision du plan d'exposition au bruit d'un aérodrome en
+application du premier alinéa du présent article, la commission consultative de l'environnement, lorsqu'elle existe, examine
+tous les cinq ans au moins la pertinence des prévisions ayant servi à l'établissement du plan au regard de l'activité
+aérienne constatée. Elle peut proposer au préfet sa mise en révision.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°87-340 1987-05-21 art. 1 JORF 22 mai 1987
 
 	**Modifié par**:
 
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°2002-626 du 26 avril 2002 - art. 2 () JORF 28 avril 2002 en vigueur le 1er novembre 2002
 
 	**Cité par**:
 
 	  - Décret n°2012-1470 du 26 décembre 2012 - art. 3 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R112-8 (V)
+	  - Code de l'urbanisme - art. R112-9 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R147-7
@@ -25040,6 +25014,10 @@ La décision d'établir ou de réviser le plan d'exposition au bruit est notifi�
 d'exposition au bruit, aux maires des communes concernées et, s'il y a lieu, aux présidents des établissements publics de
 coopération intercommunale compétents. Mention en est insérée en caractères apparents dans deux journaux à diffusion
 régionale ou locale dans le département.
+
+La commission consultative de l'environnement, lorsqu'elle existe, est consultée par le préfet sur les valeurs de l'indice
+Lden à prendre en compte pour déterminer la limite extérieure de la zone C et, le cas échéant, celle de la zone B dans le
+projet susmentionné avant qu'intervienne la décision d'établir ou de réviser un plan d'exposition au bruit.
 
 Cette décision fait l'objet d'un affichage pendant un mois dans chacune des mairies concernées et, s'il y a lieu, aux sièges
 des établissements publics de coopération intercommunale compétents.
@@ -25051,51 +25029,65 @@ favorable.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2002-626 du 26 avril 2002 - art. 2 () JORF 28 avril 2002 en vigueur le 1er novembre 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R112-10 (V)
+	  - Code de l'urbanisme - art. R112-11 (V)
+	  - Code de l'urbanisme - art. R112-12 (V)
+	  - Code de l'urbanisme - art. R112-13 (V)
+
 	**Cité par**:
 
-	  - Code de l'urbanisme - art. R147-8 (V)
+	  - Code de l'urbanisme - art. R147-8 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Créé par**:
-
-	  - Décret n°87-340 1987-05-21 art. 1 JORF 22 mai 1987
-
-	**Modifié par**:
-
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
-
 
 ###### Article R147-8
 
-Dès réception des avis ou, à défaut, dès l'expiration du délai mentionné au dernier alinéa de l'article R. 147-7 le préfet
-saisit la commission consultative de l'environnement, lorsqu'elle existe, du projet de plan d'exposition au bruit accompagné
-des avis des conseils municipaux et, le cas échéant, des organes délibérants des établissements publics de coopération
-intercommunale compétents.
+Dès réception des avis ou, à défaut, dès l'expiration du délai mentionné au dernier alinéa de l'article R. 147-7, le projet
+de plan d'exposition au bruit accompagné des avis des conseils municipaux et, le cas échéant, des organes délibérants des
+établissements publics de coopération intercommunale compétents est transmis pour avis par le préfet à :
 
-La commission consultative de l'environnement dispose d'un délai de deux mois à compter de la date de la saisine pour
-formuler son avis sur le projet communiqué. A défaut de réponse dans ce délai, cet avis est réputé favorable. Lorsque
-plusieurs départements sont concernés le délai court à compter de la date de la dernière saisine de la commission.
+- l'Autorité de contrôle des nuisances sonores aéroportuaires pour les aérodromes visés au 3 de l'article 266 septies du code
+des douanes, qui recueille au préalable l'avis de la commission consultative de l'environnement concernée ;
+
+- la commission consultative de l'environnement, lorsqu'elle existe, pour les autres aérodromes.
+
+La commission consultative de l'environnement dispose d'un délai de deux mois à compter de la date de la saisine, soit par le
+préfet, soit par l'Autorité de contrôle des nuisances sonores aéroportuaires, pour formuler son avis sur le projet
+communiqué.
+
+L'Autorité de contrôle des nuisances sonores aéroportuaires dispose d'un délai de quatre mois à compter de la date de la
+saisine par le préfet pour émettre son avis sur le projet communiqué.
+
+Lorsque plusieurs départements sont concernés, le délai court à compter de la date de la dernière saisine. A défaut de
+réponse dans les délais impartis, ces avis sont réputés favorables.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2002-626 du 26 avril 2002 - art. 2 () JORF 28 avril 2002 en vigueur le 1er novembre 2002
+
 	**Cite**:
 
+	  - Code des douanes - art. 266 septies (M)
 	  - Code de l'urbanisme - art. R147-7 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°87-340 1987-05-21 art. 1 JORF 22 mai 1987
-
-	**Modifié par**:
-
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 
 ###### Article R147-9
