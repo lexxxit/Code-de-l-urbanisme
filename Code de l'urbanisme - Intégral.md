@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1987-10-23
+Version Consolidée au 1987-10-31
 
 # Partie législative
 
@@ -20719,6 +20719,106 @@ respective de ces zones.
 	  - Décret n°83-813 1983-09-09 ART. 3 JORF 11 SEPTEMBRE 1983 date d'entrée en vigueur  1 OCTOBRE 1983
 
 
+###### Article R*123-18
+
+I - Les documents graphiques doivent faire apparaître les zones urbaines et les zones naturelles.
+
+Ces zones, à l'intérieur desquelles s'appliquent les règles prévues à l'article R. 123-21 et s'il y a lieu, les coefficients
+d'occupation des sols définis à l'article R. 123-22 sont :
+
+1. Les zones urbaines, dites "Zones U", dans lesquelles les capacités des équipements publics existants ou en cours de
+réalisation permettent d'admettre immédiatement des constructions et, éventuellement, à l'intérieur de ces zones, la
+localisation des terrains cultivés à protéger et inconstructibles en application de l'article L. 123-1 (9°) ;
+
+2. Les zones naturelles, équipées ou non, dans lesquelles les règles et coefficients mentionnés ci-dessus peuvent exprimer
+l'interdiction de construire.
+
+Ces zones naturelles comprennent en tant que de besoin :
+
+a)  Les zones d'urbanisation future, dites "Zones NA", qui peuvent être urbanisées à l'occasion soit d'une modification du
+plan d'occupation des sols soit de la création d'une zone d'aménagement concerté ou de la réalisation d'opérations
+d'aménagement ou de construction compatibles avec un aménagement cohérent de la zone tel qu'il est défini par le règlement ;
+
+b) Les zones, dites "Zones NB", desservies partiellement par des équipements qu'il n'est pas prévu de renforcer et dans
+lesquelles des constructions ont déjà été édifiées ;
+
+c) Les zones de richesses naturelles, dites "Zones NC", à protéger en raison notamment de la valeur agricole des terres ou de
+la richesse du sol ou du sous-sol ;
+
+d) Les zones, dites "Zones ND", à protéger en raison, d'une part, de l'existence de risques ou de nuisances, d'autre part, de
+la qualité des sites, des milieux naturels, des paysages et de leur intérêt, notamment du point de vue esthétique, historique
+ou écologique ; à l'intérieur des zones qui constituent un paysage de qualité et à l'exclusion des parties de territoire
+présentant un intérêt pour le développement des exploitations agricoles ou forestières sont indiqués ceux des secteurs où est
+applicable le transfert des possibilités de construction prévu à l'article L. 123-2.
+
+3. Ces zones urbaines ou naturelles comprennent, le cas échéant :
+
+a) Les espaces boisés classés à conserver ou à créer ;
+
+b) Les zones d'activités spécialisées ;
+
+c) Lorsqu'il y a lieu d'imposer des prescriptions architecturales, les secteurs pour lesquels un plan de masse coté à trois
+dimensions définit des disciplines spéciales.
+
+II - Les documents graphiques font apparaître, s'il y a lieu :
+
+1° Toute partie de zone où les nécessités du fonctionnement des services publics, de l'hygiène, de la protection contre les
+nuisances et de la préservation des ressources naturelles ou l'existence de risques naturels tels que : inondations, érosion,
+affaissements, éboulements, avalanches ou de risques technologiques, justifient que soient interdites ou soumises à des
+conditions spéciales les constructions et installations de toute nature, permanentes ou non, les plantations, dépôts,
+affouillements, forages et exhaussements des sols ;
+
+2° Le tracé et les caractéristiques des voies de circulation à conserver, à modifier ou à créer, y compris les rues ou
+sentiers piétonniers et les pistes cyclables ; les zones qui sont ou peuvent être aménagées en vue de la pratique du ski et
+les secteurs réservés aux remontées mécaniques.
+
+3° Les emplacements réservés aux voies et ouvrages publics, aux installations d'intérêt général et aux espaces verts ;
+
+4° Les zones ou secteurs dans lesquels, pour des motifs d'urbanisme ou d'architecture, la reconstruction sur place ou
+l'aménagement de bâtiments existants peut être imposé ou autorisé avec une densité au plus égale à celle qui était
+initialement bâtie, nonobstant le ou les coefficients d'occupation du sol fixés pour la zone ou le secteur ;
+
+5° Les zones ou secteurs à l'intérieur desquels l'autorité compétente pour délivrer l'autorisation de construire peut
+subordonner cette autorisation à la démolition de tout ou partie des bâtiments existants sur le terrain où l'implantation de
+la construction est envisagée ;
+
+6° Les quartiers, rues, monuments, sites et secteurs à protéger ou à mettre en valeur pour des motifs d'ordre esthétique,
+historique ou écologique, et notamment les zones dans lesquelles la démolition des immeubles est subordonnée à la délivrance
+d'un permis de démolir.
+
+Un arrêté du ministre chargé de l'urbanisme détermine la légende des différentes servitudes mentionnées aux I et II et
+pouvant figurer sur les documents graphiques du plan d'occupation des sols.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-1016 1970-10-28 art. 18 I
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 48 Code de l'urbanisme L123-1
+
+	**Modifié par**:
+
+	  - Décret n°87-885 du 30 octobre 1987 - art. 8 () JORF 31 octobre 1987
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R123-23 (V)
+	  - Code de l'urbanisme - art. A123-1 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L123-1 (M)
+	  - Code de l'urbanisme - art. L123-2 (M)
+	  - Code de l'urbanisme R123-21, R123-22, L123-1, L123-2
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ###### Article R*123-19
 
 Sont en outre reportés, s'il en existe, sur les documents graphiques, à titre d'information :
@@ -20910,6 +21010,62 @@ Un arrêté du ministre chargé de l'urbanisme fixe la forme de présentation du
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*123-22
+
+1. Sous réserve de ce qui est dit au 4. ci-dessous, le coefficient d'occupation du sol [*définition*] est le rapport
+exprimant le nombre de mètres carrés de plancher hors oeuvre susceptibles d'être construits par mètre carré de sol. Pour une
+même zone ou partie de zone, des coefficients différents peuvent être fixés suivant la nature, la destination et les
+modalités de l'occupation ou de l'utilisation su sol.
+
+2. Le coefficient d'occupation du sol s'applique à la superficie du terrain qui fait l'objet de la demande d'autorisation de
+construire ou de lotir, y compris, le cas échéant, les terrains cédés gratuitement dans les conditions fixées par les
+articles R. 332-15 et R. 332-16. La surface des bâtiments existants conservés sur le terrain, appréciée comme il est dit à
+l'article L. 111-5, est déduite des possibilités de construction.
+
+Les emplacements réservés visés à l'article R. 123-18 (II 3) sont déduits de la superficie prise en compte pour le calcul des
+possibilités de construction. Toutefois, le propriétaire d'un terrain dont une partie est comprise dans un de ces
+emplacements et qui accepte de céder gratuitement cette partie à la collectivité bénéficiaire de la réserve peut être
+autorisé à reporter sur la partie restante de son terrain un droit de construire correspondant à tout ou partie du
+coefficient d'occupation du sol affectant la superficie du terrain qu'il cède gratuitement à la collectivité. Cette
+autorisation est instruite et, le cas échéant, accordée comme en matière de dérogations.
+
+3. Le coefficient d'occupation des sols appliqué à la superficie, déterminée comme il est dit ci-dessus au 2., fixe, sous
+réserve des autres règles du plan d'occupation des sols et des servitudes grevant l'utilisation du sol, une surface maximum
+de plancher hors oeuvre nette susceptible d'être édifiée qui est calculée selon les règles fixées à l'article R. 112-2.
+
+4. Lorsque le sol est destiné à une autre utilisation que la construction d'immeubles collectifs d'habitation, le premier
+terme du rapport défini au 1. ci-dessus peut être exprimé en unités autres que le mètre carré de plancher fixées par le
+règlement en application de l'article R. 123-21 (2 e).
+
+5. Le règlement peut désigner des zones ou parties de zones où le coefficient d'occupation du sol pourra être dépassé en
+application des articles L. 123-1 et L. 332-1. Le dépassement peut être imposé en raison des prescriptions d'architecture.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-1016 1970-10-28 ART. 20
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L111-5 (M)
+	  - Code de l'urbanisme - art. L123-1 (M)
+	  - Code de l'urbanisme - art. L332-1 (M)
+	  - Code de l'urbanisme R332-15, R332-16, L111-5, R123-18, R112-2, R123-21, L123-1, L332-1
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 du 23 septembre 1983 - art. 1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°87-885 du 30 octobre 1987 - art. 6 () JORF 31 octobre 1987
 
 
 ###### Article R*123-23
@@ -24474,163 +24630,7 @@ raison de la suspension de la servitude ou de la modification de son tracé ou d
 
 #### Plans d'occupation des sols
 
-##### Contenu du plan d'occupation des sols.
-
-###### Article R*123-22
-
-1. Sous réserve de ce qui est dit au 4. ci-dessous, le coefficient d'occupation du sol [*définition*] est le rapport
-exprimant le nombre de mètres carrés de plancher hors oeuvre susceptibles d'être construits par mètre carré de sol. Pour une
-même zone ou partie de zone, des coefficients différents peuvent être fixés suivant la nature, la destination et les
-modalités de l'occupation ou de l'utilisation su sol.
-
-2. Le coefficient d'occupation du sol s'applique à la superficie du terrain qui fait l'objet de la demande d'autorisation de
-construire, y compris, le cas échéant, les terrains cédés gratuitement dans les conditions fixées par les articles R. 332-15
-et R. 332-16. La surface des bâtiments existants conservés sur le terrain, appréciée comme il est dit à l'article L. 111-5,
-est déduite des possibilités de construction.
-
-Les emplacements réservés visés à l'article R. 123-18 (II 3) sont déduits de la superficie prise en compte pour le calcul des
-possibilités de construction. Toutefois, le propriétaire d'un terrain dont une partie est comprise dans un de ces
-emplacements et qui accepte de céder gratuitement cette partie à la collectivité bénéficiaire de la réserve peut être
-autorisé à reporter sur la partie restante de son terrain un droit de construire correspondant à tout ou partie du
-coefficient d'occupation du sol affectant la superficie du terrain qu'il cède gratuitement à la collectivité. Cette
-autorisation est instruite et, le cas échéant, accordée comme en matière de dérogations.
-
-3. Le coefficient d'occupation des sols appliqué à la superficie, déterminée comme il est dit ci-dessus au 2., fixe, sous
-réserve des autres règles du plan d'occupation des sols et des servitudes grevant l'utilisation du sol, une surface maximum
-de plancher hors oeuvre nette susceptible d'être édifiée qui est calculée selon les règles fixées à l'article R. 112-2.
-
-4. Lorsque le sol est destiné à une autre utilisation que la construction d'immeubles collectifs d'habitation, le premier
-terme du rapport défini au 1. ci-dessus peut être exprimé en unités autres que le mètre carré de plancher fixées par le
-règlement en application de l'article R. 123-21 (2 e).
-
-5. Le règlement peut désigner des zones ou parties de zones où le coefficient d'occupation du sol pourra être dépassé en
-application des articles L. 123-1 et L. 332-1. Le dépassement peut être imposé en raison des prescriptions d'architecture.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1016 1970-10-28 ART. 20
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L111-5 (M)
-	  - Code de l'urbanisme - art. L123-1 (M)
-	  - Code de l'urbanisme - art. L332-1 (M)
-	  - Code de l'urbanisme R123-18 II 3, R332-16, L111-5, R123-21, L123-1, L332-1, R332-15, R112-2
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°83-813 1983-09-09 ART. 3 JORF 11 SEPTEMBRE 1983 date d'entrée en vigueur 1 OCTOBRE 1983
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°83-851 du 23 septembre 1983 - art. 1 (V)
-
-
 #### Plan d'occupation des sols
-
-##### Contenu du plan d'occupation des sols.
-
-###### Article R*123-18
-
-I - Les documents graphiques doivent faire apparaître les zones urbaines et les zones naturelles.
-
-Ces zones, à l'intérieur desquelles s'appliquent les règles prévues à l'article R. 123-21 et s'il y a lieu, les coefficients
-d'occupation des sols définis à l'article R. 123-22 sont :
-
-1. Les zones urbaines, dites "Zones U", dans lesquelles les capacités des équipements publics existants ou en cours de
-réalisation permettent d'admettre immédiatement des constructions et, éventuellement, à l'intérieur de ces zones, la
-localisation des terrains cultivés à protéger et inconstructibles en application de l'article L. 123-1 (9°) ;    2. Les zones
-naturelles, équipées ou non, dans lesquelles les règles et coefficients mentionnés ci-dessus peuvent exprimer l'interdiction
-de construire.
-
-Ces zones naturelles comprennent en tant que de besoin :
-
-a)  Les zones d'urbanisation future, dites "Zones NA", qui peuvent être urbanisées à l'occasion soit d'une modification du
-plan d'occupation des sols soit de la création d'une zone d'aménagement concerté ou de la réalisation d'opérations
-d'aménagement ou de construction compatibles avec un aménagement cohérent de la zone tel qu'il est défini par le règlement ;
-
-b) Les zones, dites "Zones NB", desservies partiellement par des équipements qu'il n'est pas prévu de renforcer et dans
-lesquelles des constructions ont déjà été édifiées ;
-
-c) Les zones de richesses naturelles, dites "Zones NC", à protéger en raison notamment de la valeur agricole des terres ou de
-la richesse du sol ou du sous-sol ;
-
-d) Les zones, dites "Zones ND", à protéger en raison, d'une part, de l'existence de risques ou de nuisances, d'autre part, de
-la qualité des sites, des milieux naturels, des paysages et de leur intérêt, notamment du point de vue esthétique, historique
-ou écologique ; à l'intérieur des zones qui constituent un paysage de qualité et à l'exclusion des parties de territoire
-présentant un intérêt pour le développement des exploitations agricoles ou forestières sont indiqués ceux des secteurs où est
-applicable le transfert des possibilités de construction prévu à l'article L. 123-2.    3. Ces zones urbaines ou naturelles
-comprennent, le cas échéant :
-
-a) Les espaces boisés classés à conserver ou à créer ;
-
-b) Les zones d'activités spécialisées ;
-
-c) Lorsqu'il y a lieu d'imposer des prescriptions architecturales, les secteurs pour lesquels un plan de masse coté à trois
-dimensions définit des disciplines spéciales.
-
-II - Les documents graphiques font apparaître, s'il y a lieu :
-
-1° Toute partie de zone où les nécessités du fonctionnement des services publics, de l'hygiène, de la protection contre les
-nuisances et de la préservation des ressources naturelles ou l'existence de risques naturels que : inondations, érosion,
-affaissements, éboulements, avalanches, justifient que soient interdites ou soumises à des conditions spéciales les
-constructions et installations de toute nature, permanentes ou non, les plantations, dépôts, affouillements, forages et
-exhaussements des sols ;
-
-2° Le tracé et les caractéristiques des voies de circulation à conserver, à modifier ou à créer, y compris les rues ou
-sentiers piétonniers et les pistes cyclables ; les zones qui sont ou peuvent être aménagées en vue de la pratique du ski et
-les secteurs réservés aux remontées mécaniques.    3° Les emplacements réservés aux voies et ouvrages publics, aux
-installations d'intérêt général et aux espaces verts ;
-
-4° Les zones ou secteurs dans lesquels, pour des motifs d'urbanisme ou d'architecture, la reconstruction sur place ou
-l'aménagement de bâtiments existants peut être imposé ou autorisé avec une densité au plus égale à celle qui était
-initialement bâtie, nonobstant le ou les coefficients d'occupation du sol fixés pour la zone ou le secteur ;
-
-5° Les zones ou secteurs à l'intérieur desquels l'autorité compétente pour délivrer l'autorisation de construire peut
-subordonner cette autorisation à la démolition de tout ou partie des bâtiments existants sur le terrain où l'implantation de
-la construction est envisagée ;
-
-6° Les quartiers, rues, monuments, sites et secteurs à protéger ou à mettre en valeur pour des motifs d'ordre esthétique,
-historique ou écologique, et notamment les zones dans lesquelles la démolition des immeubles est subordonnée à la délivrance
-d'un permis de démolir.
-
-Un arrêté du ministre chargé de l'urbanisme détermine la légende des différentes servitudes mentionnées aux I et II et
-pouvant figurer sur les documents graphiques du plan d'occupation des sols.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1016 1970-10-28 ART. 18 I
-
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 ART. 48 (Code de l'urbanisme L123-1)
-
-	**Modifié par**:
-
-	  - Décret n°86-192 1986-02-05 ART. 2 JORF 11 février 1986
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. R123-23 (V)
-	  - Code de l'urbanisme - art. A123-1 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L123-2 (M)
-	  - Code de l'urbanisme R123-22
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
 
 ### Espaces boisés
 
@@ -29310,6 +29310,49 @@ Il propose les prescriptions auxquelles peut être subordonnée la délivrance d
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R*315-19
+
+Le délai d'instruction d'une demande d'autorisation de lotir, dont le point de départ est prévu aux articles R. 315-15 et R.
+315-16, ou le cas échéant à l'article R. 315-17, est fixé à trois mois. Il est toutefois porté à cinq mois lorsque le projet
+de lotissement donne lieu à enquête publique, est soumis à l'avis de services, autorités ou commissions disposant d'un délai
+supérieur à un mois en application de l'article R. 315-18, ou que l'avis d'une commission nationale doit être recueilli.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°87-885 du 30 octobre 1987 - art. 1 () JORF 31 octobre 1987
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°87-885 du 30 octobre 1987 - art. 7 (V)
+
+	**Cité par**:
+
+	  - Décret n°87-885 du 30 octobre 1987 - art. 7 (V)
+	  - Code de l'urbanisme - art. R*315-15 (M)
+	  - Code de l'urbanisme - art. R*315-20 (Ab)
+	  - Code de l'urbanisme - art. R*315-21 (M)
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R315-16 (M)
+	  - Code de l'urbanisme - art. R315-17 (M)
+	  - Code de l'urbanisme - art. R315-18 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ###### Article R*315-20
 
 Si, au cours de l'instruction du dossier, il s'avère que le délai retenu pour l'application de l'article R. 315-15 doit être
@@ -29349,6 +29392,41 @@ NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 	**Abrogé par**:
 
 	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+
+###### Article R*315-21-1
+
+Le demandeur ne peut bénéficier d'une autorisation de lotir tacite dans les cas ci-après énumérés[*autorisation expresse*] :
+
+a) Lorsque le projet est situé dans le champ de visibilité d'un édifice classé ou inscrit.
+
+b) Lorsque le projet est situé dans un site classé, en instance de classement, ou inscrit ou dans une zone de protection
+créée par décret en application des articles 17 ou 28 de la loi du 2 mai 1930.
+
+c) Lorsque le projet est situé dans une zone de protection du patrimoine architectural et urbain.
+
+d) Lorsque le projet est situé dans un territoire en instance de classement ou classé en réserve naturelle.
+
+e) Lorsque le projet de lotissement fait partie des catégories d'aménagements, d'ouvrages ou travaux soumis à enquête
+publique en application du décret n° 85-453 du 23 avril 1985.
+
+f) Lorsqu'il est fait application des dispositions de l'article R. 315-33.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Décret n°85-453 1985-04-23
+	  - Code de l'urbanisme R315-33
+	  - Loi n°1930-05-02 ART. 17, ART. 28
+
+	**Modifié par**:
+
+	  - Décret n°87-885 du 30 octobre 1987 - art. 2 () JORF 31 octobre 1987
 
 
 #####  Paragraphe 2 : Dispositions applicables dans les communes où un plan d'occupation des sols a été approuvé.
@@ -29541,6 +29619,83 @@ lieux avoisinants, aux sites ou aux paysages naturels ou urbains.
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R*315-29
+
+L'autorisation de lotir porte sur la composition d'ensemble du lotissement, sur les modalités de la division en lots ainsi
+que sur la surface de plancher hors oeuvre nette maximale dont la construction est autorisée dans l'ensemble du lotissement.
+Elle impose en tant que de besoin [*contenu*] :
+
+a) L'exécution par le lotisseur, le cas échéant par tranches, compte tenu notamment du programme de travaux présenté par lui
+et selon des modalités éventuellement précisées par des documents graphiques, de tous travaux nécessaires à la viabilité et à
+l'équipement du lotissement, notamment en ce qui concerne la voirie, l'alimentation en eau, gaz et électricité, les réseaux
+de télécommunication, l'évacuation et le traitement des matières usées, l'éclairage, les aires de stationnement, les espaces
+collectifs, les aires de jeux et les espaces plantés ;
+
+b) L'obligation pour le lotisseur d'informer l'association syndicale mentionnée à l'article R. 315-6 de la date retenue pour
+la réception des travaux visés au a ci-dessus, et ultérieurement de lui communiquer les procès-verbaux de réception des
+travaux et de levée des réserves ;
+
+c) Le respect des documents graphiques, notamment la délimitation des terrains réservés à des équipements publics ou privés
+et la localisation des constructions ;
+
+d) Un règlement fixant les règles d'urbanisme applicables dans le lotissement qui comprend tout ou partie des règles
+contenues dans le règlement d'un plan d'occupation des sols en application de l'article R. 123-21 ;
+
+e) Les participations aux dépenses d'équipements publics dans les conditions prévues à l'article L. 332-12 .
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°87-885 du 30 octobre 1987 - art. 6 ()
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L332-12 (M)
+	  - Code de l'urbanisme R123-21, L332-12, R315-6
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*315-30 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*315-29-1
+
+La surface de plancher hors oeuvre nette maximale autorisée est répartie entre les différents lots soit par l'autorité
+compétente à l'occasion de la délivrance de l'autorisation de lotir, soit par le lotisseur à l'occasion de la vente ou de la
+location des lots.
+
+Lorsque la répartition est effectuée par le lotisseur, celui-ci fournit aux attributaires de lots, en vue de sa mention dans
+l'acte de vente ou de location, l'indication de la surface hors oeuvre nette constructible sur le lot.
+
+Lorsqu'un coefficient d'occupation des sols est applicable, la surface de plancher hors oeuvre nette maximale autorisée ne
+peut être supérieure à celle qui résulte de l'application de ce coefficient à la totalité du terrain faisant l'objet de la
+demande d'autorisation de lotir. Elle peut être répartie librement entre les différents lots, sans tenir compte de
+l'application du coefficient d'occupation des sols à la superficie de chaque lot.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°87-885 du 30 octobre 1987 - art. 6 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+
 ###### Article R*315-30
 
 L'arrêté d'autorisation du lotissement devient caduc si les travaux d'aménagement ne sont pas commencés dans un délai de dix-
@@ -29659,6 +29814,75 @@ transmise dans les conditions prévues à l'article L. 421-2-4.
 
 #####  Section 5 : Cession des lots et édification des constructions
 
+###### Article R*315-32
+
+Sous réserve de l'application de l'article R. 315-33, aucune mutation entre vifs ou location concernant des terrains bâtis ou
+non bâtis compris dans un lotissement ne peut être effectuée avant l'intervention de l'arrêté autorisant le lotissement et
+l'exécution des prescriptions imposées au lotisseur par ledit arrêté.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°87-885 du 30 octobre 1987 - art. 3 () JORF 31 octobre 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+
+###### Article R*315-33
+
+L'arrêté d'autorisation de lotir ou un arrêté ultérieur pris dans les conditions prévues au paragraphe 2 ou 3 de la section
+IV du présent chapitre autorise sur sa demande le lotisseur à procéder à la vente ou à la location des lots avant l'exécution
+de tout ou partie des travaux prescrits, dans l'une ou l'autre des hypothèses suivantes:
+
+a) Le demandeur sollicite l'autorisation de différer, en vue d'éviter la dégradation des voies pendant la construction des
+bâtiments, la réalisation du revêtement définitif desdites voies, l'aménagement des trottoirs, la pose de leurs bordures, la
+mise en place des équipements dépendants de ces trottoirs  ainsi que les plantations prescrites.
+
+Dans ce cas, cette autorisation est subordonnée à l'engagement du demandeur de terminer les travaux dans les délais que fixe
+l'arrêté et, si le lotisseur n'est pas une collectivité publique, à la consignation à cette fin, en compte bloqué, d'une
+somme équivalente à leur coût, fixé par ledit arrêté, ou à la production d'une garantie d'achèvement desdits travaux établie
+conformément à l'article R. 315-34. Le déblocage de la somme représentative du montant des travaux peut être autorisé en
+fonction de leur degré d'avancement par l'autorité qui a accordé l'autorisation de lotir.
+
+b) Le lotisseur justifie d'une garantie d'achèvement des travaux établie conformément à l'article R. 315-34.
+
+Dans ce cas, l'arrêté fixe la date à laquelle l'organisme garant prévu à l'article R. 315-34 devra mettre les sommes
+nécessaires au financement des travaux à la disposition de l'une des personnes visées à l'article R. 315-37.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°87-885 du 30 octobre 1987 - art. 3 () JORF 31 octobre 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme R315-34, R315-37
+
+
 ###### Article R*315-34
 
 La garantie de l'achèvement des travaux est donnée par une banque, un établissement financier ou une société de caution
@@ -29695,6 +29919,88 @@ NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 	  - Loi n°1917-03-13
 
 
+###### Article R*315-36
+
+L'autorité compétente délivre sur papier libre, sans frais et en double exemplaire, à la requête du bénéficiaire de
+l'autorisation et dans le délai maximum d'un mois à compter de cette requête, un certificat constatant qu'en exécution des
+prescriptions de l'arrêté d'autorisation ont été achevés selon le cas :
+
+a) Soit l'ensemble des travaux du lotissement ;
+
+b) Soit l'ensemble de ces travaux, exception faite des travaux de finition lorsque l'exécution différée de ces derniers a été
+autorisée en application de l'article R. 315-33 a ;
+
+c) Soit les travaux de finition mentionnés au b ci-dessus.
+
+En cas d'inexécution de tout ou partie des prescriptions imposées, le requérant est avisé dans le même délai par l'autorité
+compétente des motifs pour lesquels le certificat mentionné au premier alinéa ne peut être délivré.
+
+A défaut de réponse dans le délai d'un mois mentionné au premier alinéa, le bénéficiaire de l'autorisation peut requérir, par
+pli recommandé avec demande d'avis de réception postal, l'autorité compétente de délivrer le certificat.
+
+La décision de l'autorité compétente doit être notifiée dans le mois de cette réquisition. A l'expiration de ce dernier
+délai, si aucune notification n'est intervenue, le certificat est réputé accordé. Mention de ce certificat ou de son
+obtention tacite doit figurer dans l'acte portant mutation ou location.
+
+Le certificat prévu au premier alinéa ci-dessus est délivré dans les conditions prévues aux paragraphes 2 ou 3 de la section
+4 du présent chapitre. Le dossier de l'autorisation de lotissement est transmis à l'autorité compétente à la date de la
+requête, si cette autorité est différente de celle qui a délivré l'autorisation de lotir.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°87-885 du 30 octobre 1987 - art. 4 () JORF 31 octobre 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme R315-33
+
+
+###### Article R*315-36-1
+
+Lorsque l'autorisation prévue à l'article R. 315-33 a été délivrée au vu d'une garantie d'achèvement, la requête mentionnée
+au troisième alinéa de l'article R. 315-36 est présentée conjointement par le bénéficiaire de l'autorisation et par
+l'organisme garant. Ceux-ci justifient qu'ils ont préalablement informé les acquéreurs des lots de leur intention de requérir
+l'autorité compétente, en leur précisant que la délivrance du certificat est sollicitée pour obtenir, en application du
+premier alinéa de l'article R. 315-38, la levée de la garantie d'achèvement des travaux correspondants et en joignant à cette
+information le texte des articles R. 315-36, R. 315-36-1 et R. 315-38.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°87-885 du 30 octobre 1987 - art. 4 () JORF 31 octobre 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme R315-33, R315-36, R315-38, R315-36-1
+
+
 ###### Article R*315-38
 
 Les garanties prévues à l'article R. 315-33 prennent fin à l'achèvement des travaux.
@@ -29715,6 +30021,70 @@ NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 	**Cite**:
 
 	  - Code de l'urbanisme R315-33
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*315-39
+
+Une autorisation d'occuper ou d'utiliser le sol ne peut être accordée que pour un projet conforme aux prescriptions de
+l'arrêté d'autorisation de lotir éventuellement modifié dans les conditions mentionnées aux articles L. 315-3, L. 315-4 et L.
+315-7.
+
+Lorsque le projet respecte les dispositions d'urbanisme du plan d'occupation des sols ou du document d'urbanisme en tenant
+lieu ou, à défaut, les règles générales d'urbanisme édictées aux articles R. 111-2 à R. 111-24, en vigueur au jour de
+l'autorisation de lotir, l'autorisation d'occuper ou d'utiliser le sol ne peut être refusée ou assortie de prescriptions
+spéciales sur le fondement de dispositions d'urbanisme intervenues postérieurement. Le présent alinéa s'applique aux
+décisions intervenues avant l'expiration d'un délai de cinq ans à compter de la date d'achèvement du lotissement.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°87-885 du 30 octobre 1987 - art. 5 () JORF 31 octobre 1987
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L315-3 (M)
+	  - Code de l'urbanisme - art. L315-4 (M)
+	  - Code de l'urbanisme - art. L315-7 (Ab)
+	  - Code de l'urbanisme L315-3, L315-4, L315-7, R111-2 à R111-24
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*315-39-1
+
+L'autorisation d'occuper ou d'utiliser le sol peut être sollicitée mais ne peut être accordée avant l'obtention du certificat
+prévu à l'article R. 315-36.
+
+Toutefois, lorsque le lotisseur a été autorisé, en application des dispositions de l'article R. 315-33 b, à procéder à la
+vente ou à la location des lots avant exécution des travaux, l'autorisation d'occuper ou d'utiliser le sol peut être délivrée
+dans les six mois précédant la date fixée en application de l'article R. 315-33 b dès lors qu'est jointe à la demande une
+attestation par laquelle le lotisseur certifie, sous sa responsabilité, que les plates-formes des voies desservant le terrain
+faisant l'objet de la demande et les réseaux compris sous celles-ci ont été réalisés.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°87-885 du 30 octobre 1987 - art. 5 () JORF 31 octobre 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme R315-36, R315-33
 
 	**Codifié par**:
 
@@ -30208,48 +30578,6 @@ NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L111-5-2 (M)
-
-
-#### CHAPITRE 5 : Lotissements et divisions de propriété
-
-#####  Section 3 : instruction des demandes
-
-##### Paragraphe 1 : Dispositions applicables dans l'ensemble des communes
-
-###### Article R*315-21-1
-
-Le demandeur ne peut bénéficier d'une autorisation de lotir tacite dans les cas ci-après énumérés [*autorisation expresse*] :
-
-a) Lorsque le projet est situé dans le champ de visibilité d'un édifice classé ou inscrit.
-
-b) Lorsque le projet est situé dans un site classé, en instance de classement, ou inscrit ou dans une zone de protection
-créée par décret en application des articles 17 ou 28 de la loi du 2 mai 1930.
-
-c) Lorsque le projet est situé dans une zone de protection du patrimoine architectural et urbain.
-
-d) Lorsque le projet est situé dans un territoire en instance de classement ou classé en réserve naturelle.    e) Lorsque le
-projet de lotissement fait partie des catégories d'aménagements, d'ouvrages ou travaux soumis à enquête publique en
-application du décret n° 85-453 du 23 avril 1985.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°83-630 1983-07-12
-	  - SPEC_APPLI: Décret n°85-452 1985-04-23 art. 14 II
-
-	**Modifié par**:
-
-	  - Décret n°85-452 1985-04-23 art. 12 JORF 24 avril 1985
-
-	**Cite**:
-
-	  - Décret n°85-453 1985-04-23
-	  - Loi n°1930-05-02 ART. 17, ART. 28
 
 
 #### CHAPITRE VI : Sanctions relatives aux lotissements
@@ -36917,156 +37245,7 @@ administratifs nécessaires au paiement des subventions.
 
 ##### Instruction des demandes
 
-##### Dispositions applicables dans l'ensemble des communes
-
-###### Article R*315-19
-
-Sous réserve de ce qui est dit aux alinéas 2 et 3 du présent article, le délai d'instruction, dont le point de départ est
-prévu aux articles R. 315-15 et R. 315-16 ou le cas échéant, à l'article R. 315-17 est fixé à trois mois lorsque le nombre de
-lots destinés à l'implantation des bâtiments, faisant l'objet de la demande n'est pas supérieur à cinq et à cinq mois dans
-les autres cas.
-
-Le délai est majoré de deux mois lorsque le projet de lotissement est soumis à une enquête publique.
-
-A moins qu'il ne soit supérieur par application des alinéas ci-dessus, le délai d'instruction est fixé uniformément à cinq
-mois lorsque le projet est soumis à l'avis des services, autorités ou commissions disposant pour cela d'un délai supérieur à
-un mois en application de l'article R. 315-18 ou  lorsque le projet est soumis à l'avis d'une commission nationale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°84-228 1984-03-29 ART. 5 ART. 9 JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-885 du 30 octobre 1987 - art. 7 (V)
-
-	**Cité par**:
-
-	  - Décret n°87-885 du 30 octobre 1987 - art. 7 (V)
-	  - Code de l'urbanisme - art. R*315-15 (M)
-	  - Code de l'urbanisme - art. R*315-20 (Ab)
-	  - Code de l'urbanisme - art. R*315-21 (M)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L121-9 (M)
-	  - Code de l'urbanisme - art. R315-16 (M)
-
-
-##### Décision.
-
-##### Dispositions générales.
-
-###### Article R*315-29
-
-L'autorisation de lotir porte sur la composition d'ensemble du lotissement, sur les modalités de la division en lots ainsi
-que sur la surface de plancher hors oeuvre nette maximale dont la construction est autorisée dans l'ensemble du lotissement.
-Elle impose en tant que de besoin [*contenu*] :
-
-a) L'exécution par le lotisseur, le cas échéant par tranches, compte tenu notamment du programme de travaux présenté par lui
-et selon des modalités éventuellement précisées par des documents graphiques, de tous travaux nécessaires à la viabilité et à
-l'équipement du lotissement, notamment en ce qui concerne la voirie, l'alimentation en eau, gaz et électricité, les réseaux
-de télécommunication, l'évacuation et le traitement des matières usées, l'éclairage, les aires de stationnement, les espaces
-collectifs, les aires de jeux et les espaces plantés ;
-
-b) L'obligation pour le lotisseur d'informer l'association syndicale mentionnée à l'article R. 315-6 de la date retenue pour
-la réception des travaux visés au a ci-dessus, et ultérieurement de lui communiquer les procès-verbaux de réception des
-travaux et de levée des réserves ;
-
-c) Le respect des documents graphiques, notamment la délimitation des terrains réservés à des équipements publics ou privés
-et la localisation des constructions ;
-
-d) Un règlement fixant les règles d'urbanisme applicables dans le lotissement qui comprend tout ou partie des règles
-contenues dans le règlement d'un plan d'occupation des sols en application de l'article R. 123-21 ;
-
-e) Les participations aux dépenses d'équipements publics dans les conditions prévues à l'article L. 332-12 ;
-
-f) L'obligation pour le lotisseur de fournir aux attributaires de lots, au moment de la conclusion de l'acte de vente ou de
-location une attestation mentionnant la surface hors oeuvre nette constructible sur le lot.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°86-517 du 14 mars 1986 - art. 51 () JORF 16 mars 1986 en vigueur le 1er juillet 1986
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L332-12 (M)
-	  - Code de l'urbanisme R123-21, L332-12, R315-6
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*315-30 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ##### Cession des lots et édification des constructions.
-
-###### Article R*315-32
-
-Aucune mutation entre vifs ou location concernant des terrains bâtis ou non bâtis compris dans un lotissement ne peut être
-effectuée avant l'intervention de l'arrêté autorisant le lotissement et l'exécution des prescriptions imposées au lotisseur
-par ledit arrêté.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*315-33
-
-Par dérogation aux dispositions de l'article R. 315-32, l'arrêté d'autorisation de lotir ou un arrêté ultérieur pris dans les
-conditions prévues au paragraphe 2 ou 3 de la section IV du présent chapitre peut  prévoir la faculté pour le lotisseur de
-procéder à la vente ou à la location des lots avant l'exécution de tout ou partie des travaux prescrits, dans l'une ou
-l'autre des hypothèses suivantes :
-
-a) Le demandeur sollicite l'autorisation de différer, en vue d'éviter la dégradation des voies pendant la construction des
-bâtiments, la réalisation du revêtement définitif desdites voies, l'aménagement des trottoirs, la pose de leurs bordures, la
-mise en place des équipements dépendants de ces trottoirs  ainsi que les plantations prescrites.
-
-Dans ce cas, cette dérogation est subordonnée à l'engagement du demandeur de terminer les travaux dans les délais que fixe
-l'arrêté et, si le lotisseur n'est pas une collectivité publique, à la consignation à cette fin, en compte bloqué, d'une
-somme équivalente à leur coût, fixé par ledit arrêté, ou à la production d'une garantie d'achèvement desdits travaux établie
-conformément à l'article R. 315-34. Le déblocage de la somme représentative du montant des travaux peut être autorisé en
-fonction de leur degré d'avancement par l'autorité qui a accordé l'autorisation de lotir.
-
-b) Le lotisseur justifie d'une garantie d'achèvement des travaux établie conformément à l'article R.315-34.
-
-Dans ce cas, l'arrêté accordant cette dérogation fixe la date à laquelle l'organisme garant prévu à l'article R. 315-34 devra
-mettre les sommes nécessaires au financement des travaux à la disposition de l'une des personnes visées à l'article R.
-315-37.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°84-228 1984-03-29 ART. 17 JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-228 1984-03-29 ART. 33, ART. 34 : Modalités d'application
-	  - SPEC_APPLI: Décret n°84-228 du 29 mars 1984 - art. 33 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R315-32
-
 
 ###### Article R*315-35
 
@@ -37087,42 +37266,6 @@ Soit par le préfet ou le maire de la commune.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*315-36
-
-L'autorité compétente  délivre sur papier libre, sans frais et en double exemplaire, à la requête du bénéficiaire de
-l'autorisation et dans le délai maximum d'un mois à compter de cette requête         a) Soit un certificat mentionnant
-l'exécution des prescriptions imposées dans l'arrêté d'autorisation, exception faite, le cas échéant, des travaux de
-finition, lorsque l'exécution différée de ces derniers a été autorisée en application de l'article R. 315-33 (a) ;
-
-b) Soit un certificat mentionnant l'obtention de la garantie d'achèvement des travaux.
-
-Mention de l'un ou de l'autre de ces certificats doit figurer dans l'acte portant mutation ou  location.
-
-Les certificats prévus au premier alinéa ci-dessus sont délivrés dans les conditions prévues aux paragraphes 2 ou 3 de la
-section IV du présent chapitre. le dossier de l'autorisation de lotissement est transmis à l'autorité compétente à la date de
-la requette, si cette autorité est différente de celle qui a délivré l'autorisation de lotir.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme R315-33
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme R315-8
-	  - SPEC_APPLI: Décret n°84-228 1984-03-29 ART. 33, ART. 34 : Modalités d'application
-	  - SPEC_APPLI: Décret n°84-228 du 29 mars 1984 - art. 33 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°84-228 1984-03-29 ART. 19 JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
 
 
 ###### Article R*315-37
@@ -37153,45 +37296,6 @@ préfectoral en vertu de l'article R. 315-33.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*315-39
-
-Le permis de construire ne peut être accordé que pour des projets conformes aux prescriptions de l'arrêté d'autorisation.
-
-Il peut être sollicité, mais ne peut être accordé avant qu'ait été délivré le certificat prévu à l'article R315-36
-[*exécution des prescriptions, obtention de la garantie d'achèvement*].
-
-Dans les dix-huit mois [*délai*] à compter de la date de délivrance dudit certificat, le permis de construire ne peut être
-refusé sur le fondement des règles intervenues postérieurement à l'arrêté autorisant le lotissement sous réserve de
-l'application de celles résultant de la mise en concordance prévue au premier alinéa de l'article L. 315-4.
-
-Toutefois, lorsque le lotisseur a été autorisé à procéder à la vente ou à la location des lots avant l'exécution des travaux
-par un arrêté pris en application de l'article R. 315-33 b, le permis de construire pourra être délivré, six mois avant la
-date fixée par ledit arrêté, dès lors qu'est jointe à la demande de permis de construire, une attestation par laquelle le
-lotisseur certifie, sous sa responsabilité, que les plateformes des voies ainsi que ceux des réseaux compris sous celles-ci
-ont été réalisées. Le constructeur veille sous sa responsabilité à ce que l'activité liée à son chantier de construction ne
-cause pas de dommage aux travaux d'aménagement déjà réalisés par le lotisseur et ne gêne pas leur achèvement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°84-228 1984-03-29 ART. 21 JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-228 1984-03-29 ART. 33, ART. 34 : modalités d'application
-	  - SPEC_APPLI: Décret n°84-228 du 29 mars 1984 - art. 33 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L315-4 (M)
-	  - Code de l'urbanisme R315-33 b
 
 
 ##### Dispositions diverses.
@@ -38475,6 +38579,31 @@ démolir.
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R421-3-5
+
+Lorsqu'il s'agit de constructions à édifier sur un terrain inclus dans un lotissement où la surface hors oeuvre nette a été
+répartie par le lotisseur en application du deuxième alinéa de l'article R. 315-29-1, la demande de permis de construire est
+accompagnée de la justification de la surface hors oeuvre nette attribuée au terrain. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°87-885 du 30 octobre 1987 - art. 6 ()
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme R315-29-1
+
+
 ###### Article R421-4
 
 Le cas échéant, figurent dans la demande tous les éléments nécessaires au calcul des différentes impositions dont la
@@ -39122,6 +39251,30 @@ les conditions prévues au paragraphe 1 et au présent paragraphe.
 	  - Code de l'urbanisme - art. R421-36 (M)
 	  - Code de l'urbanisme - art. R421-38-4 (M)
 	  - Code de l'urbanisme - art. R421-42 (Ab)
+
+
+###### Article R*421-26-1
+
+Dans le cas prévu à l'article 18 de la loi n° 83-636 du 13 juillet 1983, où le projet de construction, situé dans le
+périmètre d'urbanisation d'une agglomération nouvelle, se trouve dans une zone d'aménagement concerté ou dans un lotissement
+de plus de trente logements ou constitue une opération groupée de plus de trente logements, le président de la communauté ou
+du syndicat d'agglomération nouvelle et le maire font chacun connaître leur avis au responsable du service de l'Etat dans le
+département, chargé de l'urbanisme, dans les conditions prévues à l'article R. 421-26.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Loi n°83-636 1983-07-13 art. 18
+	  - Code de l'urbanisme - art. R421-26 (M)
+
+	**Créé par**:
+
+	  - Décret n°87-885 du 30 octobre 1987 - art. 10 () JORF 31 octobre 1987
 
 
 ###### Article R*421-28
@@ -41379,79 +41532,6 @@ de l'autorité compétente sur la clôture projetée.
 	  - Décret n°73-1023 1973-11-08
 
 
-#### CHAPITRE I : Clôtures.
-
-###### Article R*441-12
-
-L'autorisation d'édifier une clôture accordée au titre de l'une des dispositions législatives indiquées ci-après tient lieu
-de l'autorisation exigée par l'article L. 441-2 :
-
-Articles 9, 12 ou 13 bis de la loi du 31 décembre 1913 sur les monuments historiques ;
-
-Articles 9, 12, 17 ou 28 de la loi du 2 mai 1930 sur les sites ;
-
-Article 21, 23 ou 27 de la loi du 10 juillet 1976 relative à la protection de la nature.
-
-Article L. 313-2 du présent code.
-
-Les dispositions du présent article ne s'appliquent qu'au cas où l'autorisation exigée par l'article L. 441-2 est délivrée au
-nom de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°86-514 du 14 mars 1986 - art. 4 () JORF 16 mars 1986
-
-	**Abrogé par**:
-
-	  - Décret n°87-885 du 30 octobre 1987 - art. 11 ()
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L312-2 (Ab)
-	  - Code de l'urbanisme - art. L441-2 (M)
-	  - Loi n°1913-12-31 ART. 9, 12, 13 bis
-	  - Loi n°1930-05-02 ART. 9, 12, 17, 28
-	  - Loi n°76-629 du 10 juillet 1976 - art. 21 (Ab)
-	  - Loi n°76-629 du 10 juillet 1976 - art. 23 (Ab)
-	  - Loi n°76-629 du 10 juillet 1976 - art. 27 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*441-13
-
-Conformément aux dispositions de l'article 71 de la loi n° 83-8 du 7 janvier 1983, l'autorisation d'édifier une clôture
-prévue à l'article L. 441-2 tient lieu de l'autorisation spéciale exigée pour les travaux projetés dans le périmètre des
-zones de protection du patrimoine architectural et urbain instituées en application de l'article 70 de la loi n° 83-8 du 7
-janvier 1983.
-
-Dans ce cas, la décision est prise dans les conditions prévues à l'article R. 421-38-6-II.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Cite**:
-
-	  - Loi n°83-8 1983-01-07 ART. 70, ART. 71
-	  - Code de l'urbanisme - art. L441-2 (M)
-	  - Code de l'urbanisme R421-38-6 II
-
-	**Modifié par**:
-
-	  - Décret n°86-514 du 14 mars 1986 - art. 4 () JORF 16 mars 1986
-
-	**Abrogé par**:
-
-	  - Décret n°87-885 du 30 octobre 1987 - art. 11 ()
-
-
 #### CHAPITRE II : Installations et travaux divers
 
 #####  Section 1 : Champ d'application de la règlementation
@@ -41741,6 +41821,45 @@ Le délai d'instruction part de la réception desdites pièces.
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R442-4-7
+
+Le service chargé de l'instruction de la demande procède au nom de l'autorité compétente pour statuer à cette instruction et
+recueille auprès des personnes publiques, services et commissions intéressés par le projet d'installations ou de travaux les
+accords, avis ou décisions prévus par les lois ou règlements en vigueur.
+
+Il instruit, au besoin d'office, les adaptations mineures au plan d'occupation des sols ou au document d'urbanisme en tenant
+lieu, aux prescriptions des règlements des lotissements ainsi qu'aux cahiers des charges des lotissements autorisés sous le
+régime en vigueur avant l'intervention du décret n° 77-860 du 26 juillet 1977, ou les dérogations aux dispositions
+réglementaires relatives à l'urbanisme ou aux servitudes d'utilité publique affectant l'utilisation du sol.
+
+Les services, personnes publiques ou commissions consultés font connaître leur avis dans les conditions et délais fixés au
+dernier alinéa de l'article R. 421-15.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°77-860 1977-07-26
+	  - Code de l'urbanisme - art. R421-15 (M)
+
+	**Modifié par**:
+
+	  - Décret n°87-885 du 30 octobre 1987 - art. 11 () JORF 31 octobre 1987
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. R*441-6-3 (T)
+	  - Code de l'urbanisme R441-6-3
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*442-6-4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ###### Article R442-4-8
 
 La notification de la décision doit intervenir dans un délai de deux mois à compter de l'avis de réception postal ou de la
@@ -42002,6 +42121,48 @@ non recommandé.
 
 	  - Code de l'urbanisme - art. R*442-14 (Ab)
 	  - Code de l'urbanisme - art. R442-10 (Ab)
+
+
+###### Article R442-6
+
+L'autorisation ne peut être délivrée que si les installations ou travaux satisfont aux dispositions législatives et
+réglementaires en vigueur pour le mode d'occupation prévu et notamment à celles du plan d'occupation des sols rendu public ou
+approuvé, ou du document d'urbanisme en tenant lieu.
+
+Cette autorisation peut être refusée ou subordonnée à l'observation de prescriptions spéciales, notamment à la création de
+marges de reculement, de plantations ou de clôtures, si les installations ou travaux, par leur situation, leur nature ou leur
+aspect, sont de nature à porter atteinte :
+
+A la salubrité, à la sécurité ou à la tranquillité publique ;
+
+Au caractère ou à l'intérêt des lieux avoisinants ;
+
+Aux sites, aux paysages naturels ou urbains, à la conservation des perspectives monumentales ou aux vestiges ou sites
+archéologiques.
+
+A l'exercice des activités agricoles et forestières ou à la conservation des milieux naturels, de la faune ou de la flore.
+
+Il en est de même si les installations ou travaux impliquent la réalisation par la commune d'équipements nouveaux non prévus.
+
+Lorsque la prescription spéciale imposée en vertu des alinéas précédents consiste en la création de clôtures celles-ci sont
+édifiées sans déclaration préalable.
+
+L'autorisation peut n'être ordonnée que pour une durée limitée ou à titre précaire. Dans ce cas, elle peut être subordonnée à
+l'engagement du pétitionnaire d'enlever à ses frais les installations autorisées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°87-885 du 30 octobre 1987 - art. 11 () JORF 31 octobre 1987
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R445-13 (Ab)
 
 
 #####  Paragraphe 2 : Dispositions particulières applicables dans les communes où un plan d'occupation des sols a été approuvé.
@@ -43684,6 +43845,41 @@ NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 	  - Code de l'urbanisme - art. L421-2-1 (M)
 
 
+###### Article R*490-2
+
+Le conseil municipal ou l'organe délibérant de l'établissement public de coopération intercommunale peut décider de confier
+par voie de convention l'instruction des autorisations et actes relatifs à l'occupation du sol à une collectivité
+territoriale, à un groupement de collectivités territoriales ou au service de l'Etat dans le département, chargé de
+l'urbanisme.
+
+Cette convention peut être dénoncée à tout moment par l'une ou l'autre des parties à l'issue d'un préavis de six mois.
+
+Elle porte sur l'ensemble de la procédure d'instruction des autorisations ou actes dont il s'agit, de l'examen de la
+recevabilité de la demande ou de la déclaration au projet de décision.
+
+La convention d'instruction prévoit notamment les conditions et délais de transmission des dossiers, les obligations
+réciproques des parties en matière de classement, d'archivage des dossiers et d'établissement des statistiques. Elle précise
+en outre les conditions de signature des actes concernés.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°87-885 du 30 octobre 1987 - art. 12 () JORF 31 octobre 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+
 ###### Article R*490-6
 
 Un arrêté du ministre chargé de l'urbanisme fixe les éléments à fournir par le demandeur d'une autorisation ou d'un acte
@@ -43993,56 +44189,6 @@ Un arrêté conjoint du ministre chargé de l'urbanisme et du ministre chargé d
 
 ##### Procédure d'autorisation
 
-##### Décision
-
-##### Dispositions générales.
-
-###### Article R442-6
-
-L'autorisation ne peut être délivrée que si les installations ou travaux satisfont aux dispositions législatives et
-réglementaires en vigueur pour le mode d'occupation prévu et notamment à celles du plan d'occupation des sols rendu public ou
-approuvé, ou du document d'urbanisme en tenant lieu.
-
-Cette autorisation peut être refusée ou subordonnée à l'observation de prescriptions spéciales, notamment à la création de
-marges de reculement, de plantations ou de clôtures, si les installations ou travaux, par leur situation, leur nature ou leur
-aspect, sont de nature à porter atteinte :
-
-A la salubrité, à la sécurité ou à la tranquillité publique ;
-
-Au caractère ou à l'intérêt des lieux avoisinants ;
-
-Aux sites, aux paysages naturels ou urbains, à la conservation des perspectives monumentales ou aux vestiges ou sites
-archéologiques.
-
-A l'exercice des activités agricoles et forestières ou à la conservation des milieux naturels, de la faune ou de la flore.
-
-Il en est de même si les installations ou travaux impliquent la réalisation par la commune d'équipements nouveaux non prévus.
-
-Lorsque la prescription spéciale imposée en vertu des alinéas précédents consiste en la création de clôtures, cette
-prescription tient lieu de l'autorisation exigée par l'article L. 441-2.
-
-L'autorisation peut n'être ordonnée que pour une durée limitée ou à titre précaire. Dans ce cas, elle peut être subordonnée à
-l'engagement du pétitionnaire d'enlever à ses frais les installations autorisées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°86-192 1986-02-05 art. 3 JORF 11 février 1986
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L441-2 (M)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R445-13 (Ab)
-
-
 ##### Formalités postérieures à la délivrance de l'autorisation.
 
 ###### Article R442-8
@@ -44130,83 +44276,9 @@ maires.
 	  - Décret n°84-226 1984-03-29 ART. 31 JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
 
 
-### Dispositions communes au titre III du livre 1er au chapitre V du titre 1er du livre III et aux titres I à IV et VI du présent livre.
-
-###### Article R*490-2
-
-Le conseil municipal ou l'organe délibérant de l'établissement public de coopération intercommunale peut décider de confier
-par voie de convention l'instruction des autorisations et actes relatifs à l'occupation du sol à une collectivité
-territoriale, à un groupement de collectivités territoriales ou au service de l'Etat dans le département, chargé de
-l'urbanisme.
-
-La convention prévue à l'alinéa précédent concerne obligatoirement l'ensemble des autorisations et actes délivrés sur le
-territoire de la commune pendant la durée de la convention et relevant de la compétence de la commune ou de l'établissement
-public de coopération intercommunale.
-
-Cette convention peut être dénoncée à tout moment par l'une ou l'autre des parties à l'issue d'un préavis de six mois
-[*durée*].
-
-Elle s'applique à toutes les demandes déposées durant sa période de validité.
-
-Elle porte sur l'ensemble de la procédure d'instruction des autorisations ou actes dont il s'agit, de l'examen de la
-recevabilité de la demande ou de la déclaration au projet de décision.
-
-La convention d'instruction prévoit notamment les conditions et délais de transmission des dossiers, les obligations
-réciproques des parties en matière de classement, d'archivage des dossiers et d'établissement des statistiques. Elle précise
-en outre les conditions de signature des actes concernés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°83-1261 1983-12-30 ART. 39 JORF 7 JANVIER 1984 date d'entrée en vigueur 1 AVRIL 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°83-1261 1983-12-30 ART. 49, ART. 50 : Modalités d'application
-	  - SPEC_APPLI: Décret n°83-1261 du 30 décembre 1983 - art. 49 (M)
-
-
 ## Règles relatives à l'acte de construire et à certains modes d'utilisation du sol
 
 ### Dispositions relatives aux modes particuliers d'utilisation du sol
-
-#### Clotures.
-
-###### Article R*441-7-2
-
-L'arrêté par lequel le maire ou le président de l'établissement public de coopération intercommunale statue sur les demandes
-d'autorisation d'édifier une clôture est complété, avant notification au demandeur, par une mention certifiant que la
-décision est transmise dans les conditions prévues à l'article L. 421-2-4 du présent code.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-226 1984-03-29 ART. 33, ART. 34 : modalités d'application
-	  - SPEC_APPLI: Décret n°84-226 du 29 mars 1984 - art. 33 (M)
-
-	**Modifié par**:
-
-	  - Décret n°86-514 du 14 mars 1986 - art. 4 () JORF 16 MARS 1986   date d'entrée en vigueur 1 mai 1986
-	  - Décret n°86-514 du 14 mars 1986 - art. 5 () JORF 16 MARS 1986   date d'entrée en vigueur 1 mai 1986
-
-	**Abrogé par**:
-
-	  - Décret n°87-885 du 30 octobre 1987 - art. 11 ()
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L421-2-4 (M)
-
 
 #### Installations et travaux divers
 
@@ -44253,180 +44325,6 @@ code du domaine public fluvial et de la navigation intérieure et des textes pri
 
 	  - Code de l'urbanisme R441-6-5
 	  - Code du domaine public fluvial 50
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-## LIVRE IV : Règles relatives à l'acte de construire et à certains mode            d'utilisation du sol
-
-### TITRE IV : Dispositions relatives aux modes particuliers            d'utilisation du sol
-
-#### CHAPITRE I : Clôture
-
-###### Article R*441-7-1
-
-Dans les communes où un plan d'occupation des sols a été approuvé, la décision est prise par le maire, au nom de la commune,
-ou par le président de l'établissement public de coopération intercommunale, au nom de cet établissement [*autorité
-compétente*].
-
-Toutefois, elle est prise dans les conditions prévues au paragraphe 3 de la présente section [*maire au nom de l'Etat,
-commissaire de la République*] dans les cas mentionnés au quatrième alinéa de l'article L. 421-2-1 du présent code.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°86-514 du 14 mars 1986 - art. 4 () JORF 16 mars 1986
-
-	**Abrogé par**:
-
-	  - Décret n°87-885 du 30 octobre 1987 - art. 11 ()
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L421-2-1 (M)
-	  - Code de l'urbanisme R441-7-4 à R441-7-6
-
-
-###### Article R*441-7-3
-
-Outre la transmission prévue à l'article L. 421-2-4, copie de la décision est transmise, lorsqu'elle est prise au nom de
-l'établissement public de coopération intercommunale, au maire de la commune.
-
-En cas d'autorisation tacite, le commissaire de la République reçoit, sans délai, le dossier et les pièces d'instruction en
-l'état.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°86-514 du 14 mars 1986 - art. 4 () JORF 16 mars 1986
-
-	**Abrogé par**:
-
-	  - Décret n°87-885 du 30 octobre 1987 - art. 11 ()
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L421-2-4 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*441-7-4
-
-Dans les communes où un plan d'occupation des sols n'a pas été approuvé, la décision est prise par le maire au nom de
-l'Etat ; toutefois, elle est prise par le commissaire de la République dans les cas suivants [*autorité compétente*] :
-
-1° Lorsque le maire et le responsable du service de l'Etat dans le département, chargé de l'urbanisme, ont émis des avis en
-sens contraire ;
-
-2° Lorsqu'une dérogation ou une adaptation mineure aux dispositions mentionnées au deuxième alinéa de l'article R. 441-6-3
-est nécessaire ; dans ce cas, la décision d'octroi de l'autorisation doit indiquer les motifs de la dérogation accordée ;
-
-3° Lorsque le projet se situe dans un périmètre déterminé où le commissaire de la République exerce les pouvoirs de police
-généralement impartis au maire par l'article L. 131-2 du code des communes, notamment dans le cas prévu à l'article L. 213-2
-du code de l'aviation civile ;
-
-4° Lorsque l'installation qui fait l'objet de la demande d'autorisation entre dans le champ d'application de l'article 50 du
-code du domaine public fluvial et de la navigation intérieure et des textes pris pour son application ;
-
-5° Lorsqu'il y a lieu de prendre une décision de sursis à statuer.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du domaine public fluvial 50
-	  - CODE DES COMMUNES. - art. L131-2 (M)
-	  - Code de l'urbanisme R441-6-3
-	  - Code de l'aviation civile - art. L213-2 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°86-514 du 14 mars 1986 - art. 4 () JORF 16 mars 1986
-
-	**Abrogé par**:
-
-	  - Décret n°87-885 du 30 octobre 1987 - art. 11 ()
-
-
-###### Article R*441-7-5
-
-Copie de la décision est transmise au maire, s'il n'en est pas l'auteur, au président de l'établissement public de
-coopération intercommunale, le cas échéant, et au responsable du service de l'Etat dans le département, chargé de
-l'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°86-514 du 14 mars 1986 - art. 3 () JORF 16 mars 1986
-
-	**Abrogé par**:
-
-	  - Décret n°87-885 du 30 octobre 1987 - art. 11 ()
-
-
-#### CHAPITRE II : Installations et travaux divers
-
-#####  Section 3 : Instruction de la demande
-
-##### Paragraphe 1 : Dispositions applicables dans l'ensemble des communes
-
-###### Article R442-4-7
-
-Le service chargé de l'instruction de la demande procède au nom de l'autorité compétente pour statuer à cette instruction et
-recueille auprès des personnes publiques, services et commissions intéressés par le projet de clôture les accords, avis ou
-décisions prévus par les lois ou règlements en vigueur.
-
-Il instruit, au besoin d'office, les adaptations mineures au plan d'occupation des sols ou au document d'urbanisme en tenant
-lieu, aux prescriptions des règlements des lotissements ainsi qu'aux cahiers des charges des lotissements autorisés sous le
-régime en vigueur avant l'intervention du décret n° 77-860 du 26 juillet 1977, ou les dérogations aux dispositions
-réglementaires relatives à l'urbanisme ou aux servitudes d'utilité publique affectant l'utilisation du sol.
-
-Les services, personnes publiques ou commissions consultés font connaître leur avis dans les conditions et délais fixés au
-dernier alinéa de l'article R. 421-15.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°77-860 1977-07-26
-	  - Code de l'urbanisme - art. R421-15 (M)
-
-	**Créé par**:
-
-	  - Décret n°86-514 1986-03-14 ar. 5 II JORF 16 mars 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-514 du 14 mars 1986 - art. 11 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R*441-6-3 (T)
-	  - Code de l'urbanisme R441-6-3
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*442-6-4 (Ab)
 
 	**Codifié par**:
 
