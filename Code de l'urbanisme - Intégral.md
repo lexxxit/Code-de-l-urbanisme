@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1988-12-31
+Version Consolidée au 1989-01-01
 
 # Partie législative
 
@@ -19370,16 +19370,24 @@ véhicules ;
 d) Des surfaces de planchers hors oeuvre des bâtiments affectés au logement des récoltes, des animaux ou du matériel agricole
 ainsi que des surfaces des serres de production.
 
+e) D'une surface égale à 5 p. 100 des surfaces hors oeuvre affectées à l'habitation telles qu'elles résultent le cas échéant
+de l'application des a, b, et c ci-dessus.
+
 Sont également déduites de la surface hors oeuvre dans le cas de la réfection d'un immeuble à usage d'habitation et dans la
 limite de cinq mètres carrés par logement les surfaces de planchers affectées à la réalisation de travaux tendant à
-l'amélioration de l'hygiène des locaux et celles résultant de la fermeture des balcons, loggias et surfaces non closes
-situées en rez-de-chaussée.
+l'amélioration de l'hygiène des locaux et celles résultant de la fermeture de balcons, loggias et surfaces non closes situées
+en rez-de-chaussée.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°87-1016 1987-12-14 art. 1 JORF 19 décembre 1987
+	  - Décret n°88-1151 1988-12-26 art. 1 JORF 28 décembre 1988 en vigueur le 1er janvier 1989
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°88-1151 1988-12-26 art. 2 :
+	  - SPEC_APPLI: Les dispositions de l'article 1er du présent décret entrent en vigueur le 1er janvier 1989
 
 	**Cité par**:
 
@@ -56091,24 +56099,24 @@ du ministre de l'intérieur.
 
 ###### Article A614-2
 
-Les architectes conseils de l'équipement peuvent percevoir des honoraires dont le montant, fixé par le ministre chargé de
+" Les architectes-conseils de l'équipement peuvent percevoir des honoraires dont le montant, fixé par le ministre chargé de
 l'urbanisme, comprend les deux éléments ci-après :
 
-1° Une rémunération forfaitaire de 3 956 F par mois ;
+" 1° Une rémunération forfaitaire de 3 675 F par mois ;
 
-2° Une indemnité forfaitaire de déplacement dont les montants mensuels, variables en fonction des sujétions des intéressés,
-sont fixés dans la limite de 2 415 F, ce plafond pouvant atteindre exceptionnellement 2 922 F. Le taux moyen servant au
-calcul des crédits est fixé à 1 208 F par mois.
+" 2° Une indemnité forfaitaire de déplacement dont les montants mensuels, variables en fonction des sujétions des intéressés,
+sont fixés dans la limite de 2 468 F, ce plafond pouvant atteindre exceptionnellement 2 986 F. Le taux moyen servant au
+calcul des crédits est fixé à 1 235 F par mois. "
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté  1987-01-12 art. 1 JORF 31 janvier 1987 en vigueur    le 1er janvier 1987
 
 	**Liens**:
 
 	  - SPEC_APPLI: Arrêté  1987-01-12 art. 3
+
+	**Modifié par**:
+
+	  - Arrêté 1989-01-19 art. 1 JORF 24 janvier 1989 en vigueur le 1er janvier 1989
 
 	**Codifié par**:
 
