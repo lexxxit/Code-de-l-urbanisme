@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1993-03-28
+Version Consolidée au 1993-10-29
 
 # Partie législative
 
@@ -44448,7 +44448,8 @@ moins de 40 mètres cubes de volume ;
 7. Les terrasses dont la hauteur au-dessus du sol n'excède pas 0,60 mètre ;
 
 8. Les poteaux, pylônes, candélabres ou éoliennes d'une hauteur inférieure ou égale à 12 mètres au-dessus du sol, ainsi que
-les antennes d'émission ou de réception de signaux radio-électriques dont aucune dimension n'excède 4 mètres ;
+les antennes d'émission ou de réception de signaux radio-électriques dont aucune dimension n'excède 4 mètres et, dans le cas
+où l'antenne comporte un réflecteur, lorsque aucune dimension de ce dernier n'excède un mètre;
 
 9. Sans préjudice du régime propre aux clôtures, les murs d'une hauteur inférieure à 2 mètres ;
 
@@ -44479,7 +44480,7 @@ dépasse pas 1,50 mètre au-dessus du sol.
 
 	**Modifié par**:
 
-	  - Décret n°86-72 1986-01-15 art. 2 JORF 16 janvier 1986
+	  - Décret n°93-1195 du 22 octobre 1993 - art. 1 () JORF 29 octobre 1993
 
 	**Nouveaux textes**:
 
