@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1997-07-15
+Version Consolidée au 1997-12-31
 
 # Partie législative
 
@@ -45021,26 +45021,11 @@ Sauf dans les cas prévus à l'article R. 421-19, si aucune décision n'a été 
 deux mois prévu au premier alinéa de l'article R. 421-18, la lettre de mise en demeure, accompagnée de son avis de réception
 postal, vaut, dans ce cas, permis de construire dans les conditions prévues au deuxième alinéa de l'article R. 421-12.
 
-Lorsque le projet a précédemment fait l'objet d'une enquête publique réalisée en application de l'article 23-3 du décret n°
-93-306 du 9 mars 1993 modifié et que l'avis de mise à l'enquête indiquait que celle-ci portait également sur la construction
-projetée, il n'y a pas lieu à une nouvelle enquête au titre du permis de construire.
-
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°83-1261 1983-12-30 ART. 49, ART. 50 : Modalités d'application
-	  - SPEC_APPLI: Décret n°83-1261 du 30 décembre 1983 - art. 49 (M)
-
-	**Cite**:
-
-	  - Décret n°93-306 1993-03-09 art. 23-3
-	  - Code de l'urbanisme - art. R421-12 (M)
-	  - Code de l'urbanisme - art. R421-19 (M)
 
 	**Modifié par**:
 
-	  - Décret n°96-1018 du 26 novembre 1996 - art. 22 () JORF 27 novembre 1996
+	  - Décret n°97-1314 du 30 décembre 1997 - art. 1 () JORF 31 décembre 1997
 
 	**Cité par**:
 
@@ -45051,6 +45036,11 @@ projetée, il n'y a pas lieu à une nouvelle enquête au titre du permis de cons
 	  - Code de l'urbanisme - art. R*421-39 (Ab)
 	  - Code de l'urbanisme - art. R421-18 (M)
 	  - Code de l'urbanisme - art. R421-24 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R421-12 (M)
+	  - Code de l'urbanisme - art. R421-19 (M)
 
 	**Codifié par**:
 
@@ -45168,7 +45158,7 @@ demandeur comme il est dit à l'article R. 421-8 (2. alinéa).
 
 ###### Article R421-17
 
-Lorsque le projet est soumis à enquête publique dans les conditions prévues par les chapitres I et II du décret n° 85-453 du
+Lorsque le projet est soumis à enquête publique dans les condition prévues par les chapitres I et II du décret n° 85-453 du
 23 avril 1985, celle-ci est organisée par le préfet lorsque le permis de construire est délivré au nom de l'Etat, et par le
 maire ou le président de l'établissement public de coopération intercommunale dans les autres cas. Le service chargé de
 l'instruction de la demande transmet à l'autorité compétente pour ouvrir l'enquête publique le dossier complet de demande de
@@ -45188,6 +45178,10 @@ projetée, il n'y a pas lieu à nouvelle enquête au titre du permis de construi
 enquête ait été complété par des pièces devant figurer au dossier de demande de permis de construire, à l'exclusion de celles
 mentionnées à l'article R. 421-3-1 du présent code.
 
+Lorsque le projet a précédemment fait l'objet d'une enquête publique réalisée en application de l'article 23-3 du décret n°
+93-306 du 9 mars 1993 modifié et que l'avis de mise à l'enquête indiquait que celle-ci portait également sur la construction
+projetée, il n'y a pas lieu à une nouvelle enquête au titre du permis de construire.
+
 **Liens relatifs à cet article**
 
 	**Liens**:
@@ -45195,13 +45189,10 @@ mentionnées à l'article R. 421-3-1 du présent code.
 	  - SPEC_APPLI: Décret n°85-452 1985-04-23 art. 14 II : application dans le temps
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-41 (M)
 
-	**Créé par**:
-
-	  - Décret n°85-452 1985-04-23 art. 7 JORF 24 avril 1985
-
 	**Cite**:
 
-	  - Décret n°85-453 1985-04-23 art. 1 à art. 21
+	  - Décret n°85-453 1985-04-23
+	  - Décret n°93-306 1993-03-09 art. 23-3
 	  - Code forestier - art. R*312-1 (M)
 	  - Code forestier - art. R311-3-1 (Ab)
 	  - Code de l'urbanisme - art. R421-3-1 (M)
@@ -45210,7 +45201,7 @@ mentionnées à l'article R. 421-3-1 du présent code.
 
 	**Modifié par**:
 
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°97-1314 du 30 décembre 1997 - art. 2 () JORF 31 décembre 1997
 
 	**Cité par**:
 
@@ -45223,7 +45214,7 @@ mentionnées à l'article R. 421-3-1 du présent code.
 
 	**Anciens textes**:
 
-	  - Décret n°70-446 1970-05-26 ART. 14
+	  - Décret n°70-446 1970-05-26 art. 14
 
 	**Codifié par**:
 
