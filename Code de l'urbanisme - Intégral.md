@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2003-12-31
+Version Consolidée au 2004-02-05
 
 # Partie législative
 
@@ -20863,19 +20863,18 @@ d'écrans de verdure ou à l'observation d'une marge de reculement.
 
 ###### Article R111-25
 
-Les dispositions des articles R. 111-1 à R. 111-24 [*refus, condition octroi permis de construire*] prises pour l'application
-de l'article L. 111-1 [*règles générales d'utilisation du sol*] ne peuvent être modifiées que par décret en Conseil d'Etat
-pris sur le rapport du ministre chargé de l'urbanisme. Lorsque leur département est intéressé, le garde des sceaux, ministre
-de la justice, le ministre de l'intérieur, le ministre chargé des armées, le ministre de l'économie et des finances, le
-ministre chargé de l'industrie, le ministre chargé du commerce, le ministre de l'agriculture, le ministre chargé des
-monuments historiques et des sites, le ministre de l'éducation nationale, le ministre des transports, le ministre des postes
-et télécommunications et le ministre de la santé publique sont consultés.
+Les dispositions des articles R. 111-1 à R. 111-24 prises pour l'application de l'article L. 111-1 ne peuvent être modifiées
+que par décret en Conseil d'Etat pris sur le rapport du ministre chargé de l'urbanisme. Lorsque leur département est
+intéressé, le garde des sceaux, ministre de la justice, le ministre de l'intérieur, le ministre de la défense, le ministre de
+l'économie et des finances, le ministre chargé de l'industrie, le ministre chargé du commerce, le ministre de l'agriculture,
+le ministre chargé des monuments historiques et des sites, le ministre de l'éducation nationale, le ministre des transports,
+le ministre des postes et télécommunications et le ministre de la santé publique sont consultés.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°86-984 1986-08-19 art. 7 III JORF 27 aout 1986
+	  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 	**Cite**:
 
@@ -20893,7 +20892,7 @@ et télécommunications et le ministre de la santé publique sont consultés.
 	**Anciens textes**:
 
 	  - Code de l'urbanisme - art. R110-25 (T)
-	  - Code de l'urbanisme 91 AL. 1
+	  - Code de l'urbanisme 91 al. 1
 
 	**Codifié par**:
 
@@ -44375,11 +44374,11 @@ cas elle est de la compétence du maire, au nom de l'Etat ;
 sauvegarde et de mise en valeur ait été rendu public ;
 
 13° Pour les constructions qui, en raison de leur emplacement à proximité d'un ouvrage militaire, sont soumises à
-l'autorisation du ministre chargé des armées, en vertu du décret du 10 août 1853, de la loi du 18 juillet 1895 ou de la loi
-du 11 juillet 1933 ;
+l'autorisation du ministre de la défense, en vertu du décret du 10 août 1853, de la loi du 18 juillet 1895 ou de la loi du 11
+juillet 1933 ;
 
 14° Pour les constructions qui, en raison de leur situation à l'intérieur d'un polygone d'isolement, sont soumises à
-l'autorisation du ministre chargé des armées en vertu de l'article 5 de la loi du 8 août 1929.
+l'autorisation du ministre de la défense en vertu de l'article 5 de la loi du 8 août 1929.
 
 15° Lorsque le projet de construction, situé dans le périmètre d'urbanisation d'une agglomération nouvelle, se trouve dans
 une zone d'aménagement concerté ou dans un lotissement de plus de trente logements ou constitue une opération groupée de plus
@@ -44387,6 +44386,14 @@ de trente logements, si le maire, le président de la communauté ou du syndicat
 service de l'Etat dans le département, chargé de l'urbanisme, ont émis des avis en sens contraire.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 	**Cite**:
 
@@ -44421,10 +44428,6 @@ service de l'Etat dans le département, chargé de l'urbanisme, ont émis des av
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°2001-260 du 27 mars 2001 - art. 3 () JORF 28 mars 2001
 
 
 ###### Article R*421-37
@@ -44892,17 +44895,12 @@ conditions prévues à l'article 3 de ce décret.
 ###### Article R*421-38-11
 
 Lorsque la construction est, en raison de son emplacement à proximité d'un ouvrage militaire, soumise à l'autorisation du
-ministre chargé des armées, en vertu du décret du 10 août 1853, de la loi du 18 juillet 1895 ou de la loi du 11 juillet 1933,
-le permis de construire ne peut être délivré [*conditions*] qu'avec l'accord de ce ministre ou de son délégué. Cet accord
-[*tacite, silence*] est réputé donné faute de réponse dans un délai d'un mois suivant la transmission de la demande de permis
-de construire par l'autorité chargée de son instruction.
+ministre de la défense, en vertu du décret du 10 août 1853, de la loi du 18 juillet 1895 ou de la loi du 11 juillet 1933, le
+permis de construire ne peut être délivré qu'avec l'accord de ce ministre ou de son délégué. Cet accord est réputé donné
+faute de réponse dans un délai d'un mois suivant la transmission de la demande de permis de construire par l'autorité chargée
+de son instruction.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°81-788 1981-08-12 art. 5 JORF 19 août 1981
-	  - Décret n°83-1261 1983-12-30 art. 22 JORF 7 janvier 1984 date d'entrée en vigueur 1 avril 1984
 
 	**Cité par**:
 
@@ -44918,29 +44916,39 @@ de construire par l'autorité chargée de son instruction.
 
 	  - Décret n°73-1023 1973-11-08
 
+	**Modifié par**:
+
+	  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
 
 ###### Article R*421-38-12
 
 Lorsque la construction est, en raison de sa situation à l'intérieur d'un polygone d'isolement, soumise à l'autorisation du
-ministre chargé des armées en vertu de l'article 5 de la loi du 8 août 1929, le permis de construire ne peut être délivré
-[*conditions*] qu'avec l'accord du ministre ou de son délégué. Cet accord[*tacite, silence*] est réputé donné faute de
-réponse dans un délai d'un mois suivant la transmission de la demande de permis de construire par l'autorité chargée de son
-instruction.
+ministre de la défense en vertu de l'article 5 de la loi du 8 août 1929, le permis de construire ne peut être délivré qu'avec
+l'accord du ministre ou de son délégué. Cet accord est réputé donné faute de réponse dans un délai d'un mois suivant la
+transmission de la demande de permis de construire par l'autorité chargée de son instruction.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°81-788 1981-08-12 art. 6 JORF 19 août 1981
-	  - Décret n°83-1261 1983-12-30 art. 22 JORF 7 janvier 1984 date d'entrée en vigueur 1 avril 1984
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R421-32 (M)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R421-32 (M)
 
 	**Cite**:
 
@@ -44951,17 +44959,19 @@ instruction.
 
 Lorsque la construction est susceptible, en raison de son emplacement et de sa hauteur, de constituer un obstacle à la
 navigation aérienne et qu'elle est soumise pour ce motif à l'autorisation du ministre chargé de l'aviation civile et du
-ministre chargé des armées, en vertu de l'article R. 244-1 du code de l'aviation civile, le permis de construire ne peut être
-délivré [*conditions*] qu'avec l'accord des ministres intéressés ou de leurs délégués. Cet accord [*tacite, silence*] est
-réputé donné faute de réponse dans un délai d'un mois suivant la transmission de la demande de permis de construire par
-l'autorité chargée de son instruction.
+ministre de la défense, en vertu de l'article R. 244-1 du code de l'aviation civile, le permis de construire ne peut être
+délivré qu'avec l'accord des ministres intéressés ou de leurs délégués. Cet accord est réputé donné faute de réponse dans un
+délai d'un mois suivant la transmission de la demande de permis de construire par l'autorité chargée de son instruction.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°81-788 1981-08-12 art. 7 JORF 19 août 1981
-	  - Décret n°83-1261 1983-12-30 art. 22 JORF 7 janvier 1984 date d'entrée en vigueur 1 avril 1984
+	  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 	**Cite**:
 
@@ -45726,7 +45736,7 @@ de portée générale ou particulière du ministre compétent.
 
 Sont également exemptées de permis de construire les installations situées à l'intérieur des arsenaux de la marine, des
 aérodromes militaires et des grands camps figurant sur une liste fixée par arrêté conjoint du ministre chargé de l'urbanisme
-et du ministre chargé des armées.
+et du ministre de la défense.
 
 **Liens relatifs à cet article**
 
@@ -45737,6 +45747,10 @@ et du ministre chargé des armées.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 
 ###### Article R*422-2
