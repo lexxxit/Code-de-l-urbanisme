@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1996-11-29
+Version Consolidée au 1997-01-01
 
 # Partie législative
 
@@ -13,15 +13,11 @@ Le territoire français est le patrimoine commun de la nation. Chaque collectivi
 garant dans le cadre de ses compétences. Afin d'aménager le cadre de vie, d'assurer sans discrimination aux populations
 résidentes et futures des conditions d'habitat, d'emploi, de services et de transports répondant à la diversité de ses
 besoins et de ses ressources, de gérer le sol de façon économe, d'assurer la protection des milieux naturels et des paysages
-de prévenir les risques naturels prévisibles et les risques technologiques et de promouvoir l'équilibre entre les populations
-résidant dans les zones urbaines et rurales, les collectivités publiques harmonisent, dans le respect réciproque de leur
-autonomie, leurs prévisions et leurs décisions d'utilisation de l'espace.
+ainsi que la sécurité et la salubrité publiques et de promouvoir l'équilibre entre les populations résidant dans les zones
+urbaines et rurales et de rationaliser la demande de déplacements, les collectivités publiques harmonisent, dans le respect
+réciproque de leur autonomie, leurs prévisions et leurs décisions d'utilisation de l'espace.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi - art. 5 ()
 
 	**Cité par**:
 
@@ -46,13 +42,13 @@ autonomie, leurs prévisions et leurs décisions d'utilisation de l'espace.
 	  - Code général des collectivités territoriales - art. L4251-1 (VD)
 	  - Code général des collectivités territoriales - art. L4424-9 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de l'urbanisme 91
+	  - Loi n°96-1236 du 30 décembre 1996 - art. 17 (V) JORF 1er janvier 1997
 
 	**Codifié par**:
 
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 ####  Chapitre Ier : Règles générales de l'urbanisme.
@@ -322,36 +318,35 @@ conformément au premier alinéa du présent article.
 
 ###### Article L111-1-4
 
-Les directives d'aménagement national qui sont déjà intervenues en application de l'article L. 111-1 du présent code valent,
-pour une durée de quatre ans à compter de la date d'entrée en vigueur de l'article L. 111-1-1, prescriptions d'aménagement au
-sens de l'article L. 111-1-1. Dans le même délai, les plans d'occupation des sols peuvent être rendus compatibles avec ces
-directives dans les conditions prévues à l'article L. 123-7-1.
+En dehors des espaces urbanisés des communes, les constructions ou installations sont interdites dans une bande de cent
+mètres de part et d'autre de l'axe des autoroutes, des routes express et des déviations au sens du code de la voirie routière
+et de soixante-quinze mètres de part et d'autre de l'axe des autres routes classées à grande circulation.
 
-Les dispositions de la directive d'aménagement national du 25 août 1979 relative à la protection et à l'aménagement du
-littoral cessent de produire leurs effets :
+Cette interdiction ne s'applique pas :
 
-- à la date de publication de la loi n° 86-2 du 3 janvier 1986 relative à l'aménagement, la protection et la mise en valeur
-du littoral, pour les communes riveraines des mers et océans, des étangs salés et des plans d'eau intérieurs d'une superficie
-supérieure à 1.000 hectares ;
+- aux constructions ou installations liées ou nécessaires aux infrastructures routières ;
 
-- à la date de publication du décret prévu par l'article 2 de la loi n° 86-2 du 3 janvier 1986 précitée et, au plus tard, à
-l'issue du délai fixé par le premier alinéa du présent article, pour les communes figurant à ce décret.
+- aux services publics exigeant la proximité immédiate des infrastructures routières ;
+
+- aux bâtiments d'exploitation agricole ;
+
+- aux réseaux d'intérêt public.
+
+Elle ne s'applique pas non plus à l'adaptation, la réfection ou l'extension de constructions existantes.
+
+Les dispositions des alinéas précédents ne s'appliquent pas dès lors que les règles concernant ces zones, contenues dans le
+plan d'occupation des sols, ou dans un document d'urbanisme en tenant lieu, sont justifiées et motivées au regard notamment
+des nuisances, de la sécurité, de la qualité architecturale, ainsi que de la qualité de l'urbanisme et des paysages.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Liens**:
 
-	  - Loi n°86-2 du 3 janvier 1986 - art. 2 (M)
-	  - Code de l'urbanisme - art. L111-1 (M)
-	  - Code de l'urbanisme - art. L111-1-1 (M)
-	  - Code de l'urbanisme - art. L123-7-1 (M)
-	  - DIRECTIVE 1977-09-22
-	  - DIRECTIVE 1977-11-22
-	  - DIRECTIVE 1979-08-25
+	  - SPEC_APPLI: Loi n°95-101 1995-02-02 art. 52 II
 
 	**Modifié par**:
 
-	  - Loi n°86-2 du 3 janvier 1986 - art. 7 () JORF 4 janvier 1986
+	  - Loi n°95-101 du 2 février 1995 - art. 52 (V) JORF 3 février 1995 en vigueur le 1er janvier 1997
 
 	**Cité par**:
 
@@ -1782,23 +1777,19 @@ directeurs et des plans d'occupation des sols.
 
 ###### Article L121-10
 
-" Les documents d'urbanisme déterminent les conditions permettant, d'une part, de limiter l'utilisation de l'espace, de
-préserver les activités agricoles, de protéger les espaces forestiers, les sites et paysages naturels ou urbains, de prévenir
-les risques naturels prévisibles et les risques technologiques et, d'autre part, de prévoir suffisamment d'espaces
-constructibles pour les activités économiques et d'intérêt général, ainsi que pour la satisfaction des besoins présents et
-futurs en matière d'habitat. "
+Les documents d'urbanisme déterminent les conditions permettant, d'une part, de limiter l'utilisation de l'espace, de
+maîtriser les besoins de déplacements , de préserver les activités agricoles, de protéger les espaces forestiers, les sites
+et paysages naturels ou urbains, de prévenir les risques naturels prévisibles et les risques technologiques ainsi que les
+pollutions et nuissances de toute nature et, d'autre part, de prévoir suffisamment d'espaces constructibles pour les
+activités économiques et d'intérêt général, ainsi que pour la satisfaction des besoins présents et futurs en matière
+d'habitat.
 
 Les dispositions du présent article valent loi d'aménagement et d'urbanisme au sens de l'article L. 111-1-1 du présent code.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Loi - art. 6 ()
-
 	**Cité par**:
 
-	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 5 (V)
 	  - Ordonnance n°2005-868 du 28 juillet 2005 - art. 5 (V)
 	  - Code de l'environnement - art. L122-4 (VT)
 	  - Code de l'environnement - art. L123-2 (VT)
@@ -1817,6 +1808,7 @@ Les dispositions du présent article valent loi d'aménagement et d'urbanisme au
 	  - Code général des collectivités territoriales - art. L4424-13 (VD)
 	  - Code général des collectivités territoriales - art. L4424-14 (V)
 	  - Code général des collectivités territoriales - art. L4433-7 (M)
+	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 5 (V)
 
 	**Cite**:
 
@@ -1825,6 +1817,10 @@ Les dispositions du présent article valent loi d'aménagement et d'urbanisme au
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Modifié par**:
+
+	  - Loi n°96-1236 du 30 décembre 1996 - art. 17 (V) JORF 1er janvier 1997
 
 
 ###### Article L121-12
@@ -1880,27 +1876,28 @@ la liste des opérations d'intérêt national visées aux articles L. 111-1-2 et
 
 ###### Article L122-1
 
-"Les schémas directeurs fixent les orientations fondamentales de l'aménagement des territoires intéressés, compte tenu de
+Les schémas directeurs fixent les orientations fondamentales de l'aménagement des territoires intéressés, compte tenu de
 l'équilibre qu'il convient de préserver entre l'extension urbaine, l'exercice des activités agricoles, des autres activités
-économiques et la préservation des sites et paysages naturels ou urbains. Ils prennent en considération l'existence de
+économiques et la préservation de la qualité de l'air, des milieux, sites et paysages naturels ou urbains. Ils prennent en
+considération l'impact des pollutions et nuissances de toute nature induites par ces orientations ainsi que l'existence de
 risques naturels prévisibles et de risques technologiques.
 
-" Ils déterminent la destination générale des sols et, en tant que de besoin, la nature et le tracé des grands équipements
+Ils déterminent la destination générale des sols et, en tant que de besoin, la nature et le tracé des grands équipements
 d'infrastructure, en particulier de transport, la localisation des services et activités les plus importants.
 
-" Au regard des prévisions en matière d'habitat, d'emploi et d'équipements, ils fixent les orientations générales de
+Au regard des prévisions en matière d'habitat, d'emploi et d'équipements, ils fixent les orientations générales de
 l'extension de l'urbanisation et de la restructuration des espaces urbanisés. Ils définissent la capacité d'accueil des
 espaces urbanisés ou à urbaniser en tenant compte notamment de l'équilibre entre emploi et habitat ainsi que des moyens de
 transport et de la gestion des eaux.
 
-" Les schémas directeurs prennent en compte les programmes de l'Etat ainsi que ceux des collectivités locales et des
+Les schémas directeurs prennent en compte les programmes de l'Etat ainsi que ceux des collectivités locales et des
 établissements et services publics. Ils orientent et harmonisent pour l'organisation de l'espace les programmes et les
 prévisions mentionnés ci-dessus.
 
-" Pour leur exécution, ils peuvent être complétés en certaines de leurs parties par des schémas de secteur qui en détaillent
-et précisent le contenu.
+Pour leur exécution, ils peuvent être complétés en certaines de leurs parties par des schémas de secteur qui en détaillent et
+précisent le contenu.
 
-" Les programmes et les décisions administratives qui les concernent doivent être compatibles avec leurs dispositions. "
+Les programmes et les décisions administratives qui les concernent doivent être compatibles avec leurs dispositions.
 
 **Liens relatifs à cet article**
 
@@ -1935,7 +1932,7 @@ et précisent le contenu.
 
 	**Modifié par**:
 
-	  - Loi n°92-3 du 3 janvier 1992 - art. 38 () JORF 4 janvier 1992
+	  - Loi n°96-1236 du 30 décembre 1996 - art. 17 (V) JORF 1er janvier 1997
 
 
 ###### Article L122-1-1
@@ -2485,24 +2482,24 @@ schéma conformément à l'article L. 122-5.
 
 Les plans d'occupation des sols fixent, dans le cadre des orientations des schémas directeurs ou des schémas de secteur, s'il
 en existe, les règles générales et les servitudes d'utilisation des sols, qui peuvent notamment comporter l'interdiction de
-construire.
+construire [*contenu*].
 
 Les plans d'occupation des sols doivent, à cette fin, en prenant en compte la préservation de la qualité des paysages et la
 maîtrise de leur évolution :
 
 1° Délimiter des zones urbaines ou à urbaniser prenant notamment en compte les besoins en matière d'habitat, d'emploi, de
 services et de transport des populations actuelles et futures. La délimitation de ces zones prend en considération la valeur
-agronomique des sols, les structures agricoles, les terrains produisant des denrées de qualité supérieure, l'existence de
-risques naturels prévisibles et de risques technologiques, la présence d'équipements spéciaux importants. Les plans
-d'occupation des sols déterminent l'affectation des sols selon l'usage principal qui doit en être fait ou la nature des
-activités dominantes qui peuvent y être exercées.
+agronomique des sols, les structures agricoles, les terrains produisant des denrées de qualité supérieure, les orientations
+des plans de déplacements urbains s'ils existent, l'existence de risques naturels prévisibles et de risques technologiques,
+la présence d'équipements spéciaux importants. Les plans d'occupation des sols déterminent l'affectation des sols selon
+l'usage principal qui doit en être fait ou la nature des activités dominantes qui peuvent y être exercées.
 
 2° définir, en fonction des situations locales, les règles concernant le droit d'implanter des constructions, leur
 destination et leur nature.
 
-Ils peuvent, en outre :
+Ils peuvent, en outre [*contenu variable*] :
 
-3° déterminer des règles concernant l'aspect extérieur des constructions, leurs dimensions et l'aménagement de leurs abords ;
+3° déterminer des règles concernant l'aspect extérieur des constructions, leurs dimensions et l'aménagement de leurs abords
 
 4° fixer pour chaque zone ou partie de zone, en fonction notamment de la capacité des équipements collectifs existants ou en
 cours de réalisation et de la nature des constructions à édifier, un ou des coefficients d'occupation des sols qui
@@ -2511,14 +2508,16 @@ déterminent, éventuellement pour chaque nature de construction, la densité de
 5° délimiter les zones ou parties de zones dans lesquelles la reconstruction sur place ou l'aménagement de bâtiments
 existants pourra, pour des motifs d'urbanisme ou d'architecture, être imposé ou autorisé avec une densité au plus égale à
 celle qui était initialement bâtie, nonobstant les règles fixées au 4° ci-dessus et fixer la destination principale des îlots
-ou immeubles à restaurer ou à réhabiliter ;
+ou immeubles à restaurer ou à réhabiliter ;.
 
 6° préciser le tracé et les caractéristiques des voies de circulation à conserver, à modifier ou à créer, y compris les rues
 ou sentiers piétonniers et les pistes cyclables et délimiter les zones qui sont ou peuvent être aménagées en vue de la
 pratique du ski et les secteurs réservés aux remontées mécaniques en indiquant, le cas échéant, les équipements et
-aménagements qui peuvent y être prévus ;    7° Identifier et localiser les éléments de paysage et délimiter les quartiers,
-rues, monuments, sites et secteurs à protéger ou à mettre en valeur pour des motifs d'ordre esthétique, historique ou
-écologique et définir, le cas échéant, les prescriptions de nature à assurer leur protection.
+aménagements qui peuvent y être prévus ;
+
+7° Identifier et localiser les éléments de paysage et délimiter les quartiers, rues, monuments, sites et secteurs à protéger
+ou à mettre en valeur pour des motifs d'ordre esthétique, historique ou écologique et définir, le cas échéant, les
+prescriptions de nature à assurer leur protection.
 
 8° fixer les emplacements réservés aux voies et ouvrages publics, aux installations d'intérêt général ainsi qu'aux espaces
 verts ;
@@ -2530,8 +2529,8 @@ verts ;
 ou partie des bâtiments existants sur le terrain où l'implantation de la construction est envisagée.
 
 11° Délimiter les zones dans lesquelles pourront s'implanter les magasins de commerce de détail dont l'octroi du permis de
-construire ou la réalisation est soumis à autorisation préalable de la commission d'équipement commercial par l'article L.
-451-5 du présent code.
+construire ou la réalisation est soumis à autorisation préalable de la commission départementale d'urbanisme commercial par
+l'article L. 451-5 du présent code.
 
 12° Délimiter les zones visées à l'article L. 372-3 du code des communes.
 
@@ -2545,7 +2544,7 @@ des constructions avoisinantes.
 
 Les plans d'occupation des sols doivent être compatibles dans les conditions fixées par l'article L. 111-1-1 avec les
 orientations des schémas directeurs et des schémas de secteur ou les directives territoriales d'aménagement ou les lois
-d'aménagement ou d'urbanisme , et respecter les servitudes d'utilité publique affectant l'utilisation du sol ainsi que les
+d'aménagement ou d'urbanisme, et respecter les servitudes d'utilité publique affectant l'utilisation du sol ainsi que les
 dispositions nécessaires à la mise en oeuvre de projets d'intérêt général relevant de l'Etat, de la région, du département ou
 d'autres intervenants. Ils prennent en considération les dispositions des programmes locaux de l'habitat lorsqu'ils existent.
 
@@ -2627,7 +2626,7 @@ d'autres intervenants. Ils prennent en considération les dispositions des progr
 
 	**Modifié par**:
 
-	  - Loi n°95-115 du 4 février 1995 - art. 5 () JORF 5 février 1995
+	  - Loi n°96-1236 du 30 décembre 1996 - art. 17 (V) JORF 1er janvier 1997
 
 	**Cite**:
 
@@ -6866,22 +6865,41 @@ caractère paysager des mornes.
 
 ###### Article L156-3
 
-Dans les parties actuellement urbanisées de la commune :
+I. - Les terrains situés dans les parties actuellement urbanisées de la commune comprises dans la bande littorale définie à
+l'article L. 156-2 sont préservés lorsqu'ils sont à l'usage de plages, d'espaces boisés, de parcs ou de jardins publics. Il
+en est de même des espaces restés naturels situés dans les parties actuellement urbanisées de la bande littorale précitée,
+sauf si un intérêt public exposé au plan d'occupation des sols justifie une autre affectation.
 
-1° Les terrains compris dans la bande littorale définie à l'article L. 156-2 sont préservés lorsqu'ils sont à usage de
-plages, d'espaces boisés, de parcs ou de jardins publics. Il en est de même des parties restées naturelles de la zone sauf si
-un intérêt public exposé au plan d'occupation des sols justifie une autre affectation ;    2° Les secteurs de la zone des
-cinquante pas géomètriques situés au droit des parties actuellement urbanisées peuvent, dès lors qu'ils sont déjà équipés ou
-occupés à la date de promulgation de la loi n° 86-2 du 3 janvier 1986 précitée, être délimités par le plan d'occupation des
-sols pour être affectés à des services publics, à des activités exigeant la proximité immédiate de la mer ou à des opérations
-de résorption de l'habitat insalubre.
+II. - Les secteurs de la zone dite des cinquante pas géométriques situés dans les parties actuellement urbanisées de la
+commune ou au droit de ces parties peuvent, dès lors qu'ils sont déjà équipés ou occupés à la date de publication de la loi
+n° 96-1241 du 30 décembre 1996 relative à l'aménagement, la protection et la mise en valeur de la zone dite des cinquante pas
+géométriques dans les départements d'outre-mer et sous réserve de la préservation des plages, des espaces boisés, des parcs
+ou des jardins publics, être délimités par le plan d'occupation des sols pour être affectés à des services publics, des
+équipements collectifs, des opérations de réaménagement de quartier, de logement à caractère social et de résorption de
+l'habitat insalubre, des commerces, des structures artisanales, des équipements touristiques et hôteliers ainsi qu'à toute
+autre activité économique dont la localisation à proximité de la mer est justifiée par son usage ou par une nécessité
+économique de desserte par voie maritime. Des mesures compensatoires devront alors être mises en oeuvre permettant le
+maintien de l'équilibre du milieu marin et terrestre.
+
+Ces installations organisent ou préservent l'accès et la libre circulation le long du rivage.
+
+III. - Sont autorisées, dans les secteurs visés au II ci-dessus, l'adaptation, la réfection et l'extension limitée des
+constructions existantes.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
+	  - Loi n°96-1241 1996-12-30
 	  - Code de l'urbanisme - art. L156-2 (M)
-	  - Loi n°86-2 1986-01-03
+
+	**Modifié par**:
+
+	  - Loi n°96-1241 du 30 décembre 1996 - art. 10 () JORF 1er janvier 1997
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 	**Cité par**:
 
@@ -6891,13 +6909,44 @@ de résorption de l'habitat insalubre.
 	  - Code général de la propriété des personnes publ... - art. L5112-4-1 (V)
 	  - Code général de la propriété des personnes publ... - art. R5112-3 (V)
 
-	**Codifié par**:
 
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+###### Article L156-4
+
+I. - Les secteurs occupés par une urbanisation diffuse à la date de publication de la loi n° 96-1241 du 30 décembre 1996
+précitée, situés dans la bande littorale définie à l'article L. 156-2 et à proximité des parties actuellement urbanisées de
+la commune, peuvent, sous réserve de leur identification dans le chapitre particulier du schéma régional valant schéma de
+mise en valeur de la mer et de la préservation des plages et des espaces boisés ainsi que des parcs et jardins publics, être
+affectés à des services publics, des équipements collectifs, des commerces, des structures artisanales, des équipements
+touristiques et hôteliers.
+
+Des mesures compensatoires devront alors être mises en oeuvre permettant le maintien de l'équilibre du milieu marin et
+terrestre.
+
+Ces installations organisent ou préservent l'accès et la libre circulation le long du rivage.
+
+II. - Sont autorisées dans les secteurs occupés par une urbanisation diffuse à la date de publication de la loi n° 96-1241 du
+30 décembre 1996 précitée, situés dans la bande littorale définie à l'article L. 156-2, l'adaptation, la réfection et
+l'extension limitée des constructions existantes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°96-1241 1996-12-30
+	  - Code de l'urbanisme - art. L156-2 (M)
 
 	**Créé par**:
 
-	  - Loi n°86-2 du 3 janvier 1986 - art. 35 () JORF 4 janvier 1986
+	  - Loi n°96-1241 du 30 décembre 1996 - art. 12 () JORF 1er janvier 1997
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. R170 (Ab)
+	  - Code général de la propriété des personnes publ... - art. R5112-3 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ### Titre VI : Sanctions et servitudes.
@@ -9383,9 +9432,9 @@ l'article L. 213-11.
 
 Il est établi, dans chaque zone d'aménagement concerté, un plan d'aménagement de zone compatible avec les orientations du
 schéma directeur, s'il en existe un. Ce plan prend en considération les dispositions du programme local de l'habitat
-lorsqu'il existe. Il comporte tout ou partie des éléments énumérés aux articles L. 123-1 et L. 130-1. et précise les mesures
-destinées à préserver la qualité des paysages. Il est élaboré par la personne publique qui a pris l'initiative de la création
-de la zone.
+lorsqu'il existe et les orientations du plan de déplacements urbains lorsqu'il existe. Il comporte tout ou partie des
+éléments énumérés aux articles L. 123-1 et L. 130-1. et précise les mesures destinées à préserver la qualité des paysages. Il
+est élaboré par la personne publique qui a pris l'initiative de la création de la zone.
 
 Sont associés à cette élaboration l'Etat et la commune et, à leur demande, et dans les formes que la personne publique qui a
 prix l'initiative de la création de la zone détermine, la région et le département ; l'autorité compétente pour créer la zone
@@ -9426,6 +9475,10 @@ département ou d'autres intervenants, et correspondant aux définitions prises 
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
 	**Cité par**:
 
 	  - Décret n°77-1141 du 12 octobre 1977 - art. Annexe III (Ab)
@@ -9446,22 +9499,20 @@ département ou d'autres intervenants, et correspondant aux définitions prises 
 
 	**Modifié par**:
 
-	  - Loi n°95-115 du 4 février 1995 - art. 5 () JORF 5 février 1995
+	  - Loi n°96-1236 du 30 décembre 1996 - art. 17 (V) JORF 1er janvier 1997
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code de l'urbanisme - art. L111-1-1 (M)
-	  - Code de l'urbanisme - art. L121-12 (Ab)
-	  - Code de l'urbanisme - art. L123-1 (M)
-	  - Code de l'urbanisme - art. L130-1 (M)
+	  - Loi n°2000-1208 2000-12-13 art. 7 3° JORF 14 décembre 2000 en vigueur le 1er avril 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-1208 du 13 décembre 2000 - art. 43 (V)
+	  - SPEC_APPLI: Décret n°2001-261 du 27 mars 2001 - art. 3 (V)
 
 	**Anciens textes**:
 
 	  - Code de l'urbanisme - art. L311-4-1 (T)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L311-4-1
@@ -16141,32 +16192,33 @@ l'ordonnance au 1er octobre 2007.
 
 Le permis de construire ne peut être accordé que si les constructions projetées sont conformes aux dispositions législatives
 et réglementaires concernant l'implantation des constructions, leur destination, leur nature, leur architecture, leurs
-dimensions leur assainissement et l'aménagement de leurs abords et si le demandeur s'engage à respecter les règles générales
+dimensions, leur assainissement et l'aménagement de leurs abords et si le demandeur s'engage à respecter les règles générales
 de construction prises en application du chapitre Ier du titre Ier du livre Ier du code de la construction et de
-l'habitation. "
+l'habitation.
 
 En outre, pour les immeubles de grande hauteur ou les établissements recevant du public, le permis de construire ne peut être
-délivré que si les constructions ou les travaux projetés sont conformes aux règles de sécurité propres à cet type d'immeubles
+délivré que si les constructions ou les travaux projetés sont conformes aux règles de sécurité propres à ce type d'immeubles
 ou d'établissements, que les locaux concernés soient ou non à usage d'habitation.
 
 Pour les établissements recevant du public, le permis de construire ne peut être délivré que si les constructions ou les
-travaux projetés sont conformes aux dispositions de l'article L. 111-7 du code de la construction et de l'habitation. "
+travaux projetés sont conformes aux dispositions de l'article L. 111-7 du code de la construction et de l'habitation.
 
----Lorsque le pétitionnaire ne peut satisfaire lui-même aux obligations imposées par un plan d'occupation des sols ou par un
+Lorsque le pétitionnaire ne peut satisfaire lui-même aux obligations imposées par un plan d'occupation des sols ou par un
 plan de sauvegarde et de mise en valeur rendu public ou approuvé en matière de réalisation d'aires de stationnement, il peut
 être tenu quitte de ces obligations soit en justifiant, pour les places qu'il ne peut réaliser lui-même, de l'obtention d'une
 concession à long terme dans un parc public de stationnement existant ou en cours de réalisation, soit en versant une
 participation, fixée par délibération du conseil municipal ou de l'organe délibérant de l'établissement public groupant
 plusieurs communes et exerçant la compétence définie à l'article 4-12. de la loi n. 66-1069 du 31 décembre 1966, en vue de la
-réalisation de parcs publics de stationnement dont la construction est prévue.
+réalisation de parcs publics de stationnement dont la construction est prévue ou de la réalisation des travaux necessaires à
+la desserte des constructions par des transports collectifs urbains.
 
-Le montant de cette participation ne peut excéder 50.000 F par place de stationnement ; cette valeur, fixée par référence à
+Le montant de cette participation ne peut excéder 50000 F par place de stationnement ; cette valeur, fixée par référence à
 l'indice du coût de la construction du quatrième trimestre 1985 publié par l'Institut national de la statistique et des
 études économiques, est modifiée au 1er novembre de chaque année en fonction de l'indice connu à cette date.
 
 Un Décret en Conseil d'Etat détermine les conditions d'application des quatrième et cinquième alinéa du présent article et
 précise notamment les modalités d'établissement, de liquidation et de recouvrement de la participation prévue au quatrième
-alinéa , ainsi que les sanctions et garanties y afférentes.
+alinéa, ainsi que les sanctions et garanties y afférentes.
 
 **Liens relatifs à cet article**
 
@@ -16177,7 +16229,7 @@ alinéa , ainsi que les sanctions et garanties y afférentes.
 
 	**Modifié par**:
 
-	  - Loi n°92-3 du 3 janvier 1992 - art. 38 () JORF 4 janvier 1992
+	  - Loi n°96-1236 du 30 décembre 1996 - art. 17 (V) JORF 1er janvier 1997
 
 	**Cité par**:
 
