@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2000-06-22
+Version Consolidée au 2000-07-06
 
 # Partie législative
 
@@ -235,8 +235,9 @@ autorisées, en dehors des parties actuellement urbanisées de la commune :
 
 1° L'adaptation, la réfection ou l'extension des constructions existantes ;
 
-2° Les constructions et installations nécessaires à des équipements collectifs, à l'exploitation agricole, à la mise en
-valeur des ressources naturelles et à la réalisation d'opérations d'intérêt national ;
+2° Les constructions et installations nécessaires à des équipements collectifs, à la réalisation d'aires d'acceuil ou de
+terrains de passage des gens du voyage, à l'exploitation agricole, à la mise en valeur des ressources naturelles et à la
+réalisation d'opérations d'intérêt national ;
 
 3° Les constructions et installations incompatibles avec le voisinage des zones habitées et l'extension mesurée des
 constructions et installations existantes.
@@ -270,7 +271,7 @@ ou aux directives territoriales d'aménagement précisant leur modalités d'appl
 
 	**Modifié par**:
 
-	  - Loi n°95-115 du 4 février 1995 - art. 5 () JORF 5 février 1995
+	  - Loi n°2000-614 2000-07-05 art. 8 1° JORF 6 juillet 2000
 
 	**Codifié par**:
 
@@ -1825,14 +1826,23 @@ maîtriser les besoins de déplacements , de préserver les activités agricoles
 et paysages naturels ou urbains, de prévenir les risques naturels prévisibles et les risques technologiques ainsi que les
 pollutions et nuissances de toute nature et, d'autre part, de prévoir suffisamment d'espaces constructibles pour les
 activités économiques et d'intérêt général, ainsi que pour la satisfaction des besoins présents et futurs en matière
-d'habitat.
+d'habitat, y compris ceux des gens du voyage.
 
 Les dispositions du présent article valent loi d'aménagement et d'urbanisme au sens de l'article L. 111-1-1 du présent code.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2000-614 2000-07-05 art. 8 2° JORF 6 juillet 2000
+
+	**Abrogé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
+
 	**Cité par**:
 
+	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 5 (V)
 	  - Ordonnance n°2005-868 du 28 juillet 2005 - art. 5 (V)
 	  - Code de l'environnement - art. L122-4 (VT)
 	  - Code de l'environnement - art. L123-2 (VT)
@@ -1851,7 +1861,6 @@ Les dispositions du présent article valent loi d'aménagement et d'urbanisme au
 	  - Code général des collectivités territoriales - art. L4424-13 (VD)
 	  - Code général des collectivités territoriales - art. L4424-14 (V)
 	  - Code général des collectivités territoriales - art. L4433-7 (M)
-	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 5 (V)
 
 	**Cite**:
 
@@ -1860,10 +1869,6 @@ Les dispositions du présent article valent loi d'aménagement et d'urbanisme au
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Modifié par**:
-
-	  - Loi n°96-1236 du 30 décembre 1996 - art. 17 (V) JORF 1er janvier 1997
 
 
 ###### Article L121-12
@@ -17960,6 +17965,44 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 	  - Code de l'urbanisme - art. R*443-10 (V)
 	  - Code de l'urbanisme - art. R*443-8-3 (Ab)
 	  - Code de l'urbanisme - art. R443-9 (V)
+
+
+###### Article L443-3
+
+Dans les zones constructibles, des terrains bâtis ou non bâtis peuvent être aménagés afin de permettre l'installation de
+caravanes constituant l'habitat permanent de leurs utilisateurs. L'autorisation d'aménagement est délivrée dans les formes,
+conditions et délais définis par le décret en Conseil d'Etat mentionné à l'article L. 443-1.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Créé par**:
+
+	  - Loi n°2000-614 2000-07-05 art. 8 3° JORF 6 juillet 2000
+
+	**Cité par**:
+
+	  - Loi n°2000-614 du 5 juillet 2000 - art. 1 (VD)
+	  - Loi n°2000-614 du 5 juillet 2000 - art. 9 (M)
+	  - Code de l'urbanisme - art. R443-11 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L443-1 (M)
 
 
 #### Chapitre V : Remontées mécaniques et aménagements de domaine skiable.
