@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1986-02-19
+Version Consolidée au 1986-03-02
 
 # Partie législative
 
@@ -16579,8 +16579,8 @@ décret en Conseil d'Etat et au plus tard le 1er juillet 2007.
 Dans des conditions qui seront fixées par décret en Conseil d'Etat et pour les régions déterminées par ledit décret, la
 construction, la reconstitution, l'extension, le changement d'utilisateur ou d'utilisation de locaux ou installations ou de
 leurs annexes servant à des activités industrielles, commerciales, professionnelles, administratives, techniques,
-scientifiques ou d'enseignement ne relevant pas de l'Etat ou de son contrôle peuvent être soumis à un agrément du ministre
-chargé de l'urbanisme.
+scientifiques ou d'enseignement ne relevant pas de l'Etat ou de son contrôle peuvent être soumis à un agrément de l'autorité
+administrative.
 
 Les sanctions de l'article L. 480-4 sont applicables en cas de défaut d'agrément ou d'infractions aux conditions fixées par
 ledit décret ou par la décision d'agrément.
@@ -16589,6 +16589,10 @@ Le maintien d'une des installations précitées au-delà du délai fixé par la 
 accordé à titre temporaire, est puni dans les mêmes conditions.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°86-288 1986-02-28 art. 1 JORF 2 mars 1986
 
 	**Cité par**:
 
@@ -47728,64 +47732,6 @@ code du domaine public fluvial et de la navigation intérieure et des textes pri
 
 ## Implantation des services, établissements et entreprises
 
-### Dispositions administratives générales.
-
-###### Article R*510-2
-
-L'agrément institué à l'article R. 510-1 [*Région parisienne*] est accordé ou refusé :
-
-Soit par un comité de décentralisation placé auprès du ministre chargé de l'aménagement du territoire, lorsque l'opération
-est réalisée par un service ou établissement qui relève de l'Etat ou d'une collectivité publique ou qui est soumis à leur
-contrôle ; en cas de décision défavorable, le ministre intéressé peut saisir le Premier ministre, qui décide, après avis du
-ministre chargé de l'urbanisme et du ministre de l'économie et des finances ;
-
-Soit par le ministre chargé de l'urbanisme [*autorité compétente*] sur avis du comité de décentralisation précité, dans les
-autres cas.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-944 1967-10-24 art. 2
-
-	**Cite**:
-
-	  - Code de l'urbanisme R510-1
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*510-10
-
-La décision accordant l'agrément [*Région parisienne*] fixe un délai de validité pendant lequel doit intervenir, selon le
-cas, soit le dépôt de la demande de permis de construire , soit la passation des actes juridiques dont l'utilisation des
-locaux et installations dépend, soit l'utilisation effective des locaux et installations. 
-
-A l'expiration dudit délai, et sauf prolongation accordée, suivant la distinction prévue à l'article R. 510-2, par le comité
-de décentralisation ou par le ministre chargé de l'urbanisme, l'agrément est caduc.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-944 1967-10-24 ART. 10
-
-	**Modifié par**:
-
-	  - Décret n°83-1261 1983-12-30 ART. 46 III 16 JORF 7 JANVIER 1984 date d'entrée en vigueur 1 AVRIL 1984
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L430-3 (Ab)
-	  - Code de l'urbanisme R510-2
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ### Dispositions financières concernant la région parisienne
 
 #### Montant des redevances.
@@ -48183,6 +48129,37 @@ l'utilisation. Les transferts à titre gratuit sont exclus du champ d'applicatio
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R*510-2
+
+L'agrément institué à l'article R. 510-1 [*Région parisienne*] est accordé ou refusé :
+
+Soit par un comité de décentralisation placé auprès du ministre chargé de l'aménagement du territoire, lorsque l'opération
+est réalisée par un service ou établissement qui relève de l'Etat ou d'une collectivité publique ou qui est soumis à leur
+contrôle ; en cas de décision défavorable, le ministre intéressé peut saisir le Premier ministre qui décide, après avis du
+ministre chargé de l'aménagement du territoire et du ministre de l'économie et des finances.
+
+Soit par le ministre chargé de l'aménagement du territoire, sur sur avis du comité de décentralisation mentionné ci-dessus,
+dans les autres cas.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-944 1967-10-24 ART. 2
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°86-288 1986-02-28 art. 2 JORF 2 mars 1986
+
+	**Cite**:
+
+	  - Code de l'urbanisme R510-1
+
+
 ###### Article R*510-3
 
 Le comité de décentralisation [*Région parisienne*] institué à l'article R. 510-2 est composé de quinze membres au moins,
@@ -48364,6 +48341,34 @@ employé.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*510-10
+
+La décision accordant l'agrément [*Région parisienne*] fixe un délai de validité pendant lequel doit intervenir, selon le
+cas, soit le dépôt de la demande de permis de construire , soit la passation des actes juridiques dont l'utilisation des
+locaux et installations dépend, soit l'utilisation effective des locaux et installations.
+
+A l'expiration dudit délai et sauf prolongation accordée suivant la distinction prévue à l'article R. 510-2, par le comité de
+décentralisation ou par le ministre chargé de l'aménagement du territoire, l'agrément est caduc.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-944 1967-10-24 ART. 10
+
+	**Cite**:
+
+	  - Code de l'urbanisme R510-2
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°86-288 1986-02-28  art. 3 JORF 2 mars 1986
 
 
 ###### Article R*510-11
@@ -52636,40 +52641,42 @@ l'utilisation du sol.
 Le comité de décentralisation placé auprès du ministre chargé de l'aménagement du territoire institué par l'article R. 510-2
 est ainsi composé :
 
-1° Le représentant du ministre chargé de l'aménagement du territoire ;
+1° - le représentant du ministre chargé de l'aménagement du territoire ;
 
-Le représentant du ministre chargé de l'urbanisme ;
+- le représentant du ministre chargé de l'urbanisme ;
 
-Le représentant du ministre chargé de l'emploi ;
+- le représentant du ministre chargé de la recherche ;
 
-Le représentant du garde des sceaux, ministre de la justice ;
+- le représentant du ministre de l'intérieur ;
 
-Le représentant du ministre de l'intérieur ;
+- le représentant du ministre chargé du budget ;
 
-Le représentant du ministre de l'économie et des finances ;
+- le représentant du ministre chargé de l'industrie ;
 
-Le représentant du ministre de l'industrie ;
+- le représentant du commissaire de la République de la région d'Ile-de-France ;
 
-Le représentant du ministre de l'agriculture ;
+- le représentant du secrétaire général du groupe central des villes nouvelles.
 
-Le représentant du préfet de la région d'Ile-de-France ;
+2° Sept personnalités, dont deux fonctionnaires au moins, choisies en fonction de leur compétence ou de leur connaissance des
+problèmes d'aménagement du territoire.
 
-Le représentant du préfet de l'Oise. /M/2° Sept personnalités dont deux fonctionnaires au moins choisies en fonction de leur
-compétence administrative, industrielle, ou de leur connaissance des problèmes d'aménagement du territoire de la région
-d'Ile-de-France/M/.
+Ces personnalités sont nommées par arrêté du Premier ministre, sur proposition du ministre chargé de l'aménagement du
+territoire et du ministre chargé de l'urbanisme.
 
-ARR. 24 octobre 1980 :
+Leur mandat, renouvelable une fois, a une durée de trois ans.
 
-2° Dix personnalités, dont quatre fonctionnaires au moins, choisies en fonction de leur compétence administrative,
-industrielle ou de leur connaissance des problèmes d'aménagement du territoire de la région d'Ile-de-France.//    Ces
-personnalités sont nommées par arrêté du Premier ministre sur proposition du ministre chargé de l'aménagement du territoire
-et du ministre chargé de l'urbanisme.
+3° Pour toutes les affaires intéressant les services et établissements publics de l'Etat, le représentant du secrétaire
+général du Gouvernement.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Arrêté 1986-02-28 art. 1 JORF 2 mars 1986
+
 	**Codifié par**:
 
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+	  - Décret n°77-38 1977-01-03 JORF 18 janvier 1977
 
 	**Cité par**:
 
@@ -52682,16 +52689,15 @@ et du ministre chargé de l'urbanisme.
 
 ###### Article A510-2
 
-Participent également avec voix délibérative aux travaux et débats du comité [*de décentralisation, composition*] :
-
-1° Pour chaque affaire inscrite à l'ordre du jour, le représentant de la direction compétente du ministre de tutelle
-intéressé ainsi que la personne désignée par ce ministre pour suivre de façon permanente les problèmes de la localisation des
-activités relevant de son département, soumises à son contrôle et à sa tutelle.
-
-2° Pout toutes les affaires intéressant les services des administrations centrales de l'Etat, le représentant du ministre de
-la fonction publique et le représentant du secrétaire général du Gouvernement.
+Pour chaque affaire soumise au comité, la direction compétente du ministère de tutelle intéressé est avisée de l'inspection
+de l'affaire à l'ordre du jour. Le représentant de cette direction est entendu par le comité, sur sa demande ou sur la
+demande du président du comité.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1986-02-28 art. 1 JORF 2 mars 1986
 
 	**Codifié par**:
 
@@ -52700,101 +52706,12 @@ la fonction publique et le représentant du secrétaire général du Gouvernemen
 
 ###### Article A510-3
 
-Le président du comité [*de décentralisation*] est nommé par arrêté du Premier ministre sur proposition du ministre chargé de
-l'aménagement du territoire, et du ministre chargé de l'urbanisme.
+Le président du comité [*de décentralisation*] est nommé par arrêté du Premier ministre, sur proposition du ministre chargé
+de l'aménagement du territoire et du ministre chargé de l'urbanisme.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-
-###### Article A510-4
-
-Le comité de décentralisation comprend une section permanente ainsi composée :
-
-Le président du comité de décentralisation ;
-
-Le représentant du ministre chargé de l'aménagement du territoire ;
-
-Le représentant du ministre chargé de l'urbanisme ;
-
-Le représentant du préfet de la région d'Ile-de-France.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-
-###### Article A510-5
-
-La section permanente prépare les délibérations du comité [*de décentralisation*]. Elle peut prendre elle-même des décisions
-ou émettre des avis favorables sur les demandes d'agréments portant sur des surfaces développées de planchers inférieures à
-1000 mètres carrés.
-
-ARR. 24 octobre 1980 :
-
-Après consultation du ministère de tutelle intéressé, la section permanente peut également émettre un avis favorable sur les
-demandes présentées par les entreprises industrielles indépendantes dont l'effectif n'excède pas cent personnes. En ce cas,
-l'avis du ministère de tutelle et l'avis des membres de la section permanente pourront, le cas échéant, être recueillis par
-consultation écrite [*attributions*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-
-###### Article A510-6
-
-Le secrétariat du comité de décentralisation est assuré par le ministère chargé de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 janvier 1977
-
-
-###### Article A510-7
-
-La délégation du territoire et à l'action régionale et les départements ministériels intéressés sont chargés d'instruire les
-affaires soumises au comité.
-
-La délégation à l'aménagement du territoire et à l'action régionale désigne le cas échéant des rapporteurs nommés par arrêté
-du Premier ministre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-
-###### Article A510-8
-
-Pour l'examen des affaires intéressant le secteur des institutions financières, il est créé au sein du comité de
-décentralisation une section des institutions financières.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 janvier 1977
-
-
-###### Article A510-9
-
-La section des institutions financières examine et approuve les projets de programmes pluri-annuels présentés par les
-personnes physiques ou morales du secteur des banques et assurances.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Arrêté 1986-02-28  art. 1 JORF 2 mars 1986
 
@@ -52803,47 +52720,73 @@ personnes physiques ou morales du secteur des banques et assurances.
 	  - Décret n°77-38 1977-01-03 JORF 18 janvier 1977
 
 
-###### Article A510-10
+###### Article A510-4
 
-La section des institutions financières est ainsi composée :
+Le comité de décentralisation comprend une section permanente ainsi composée :
 
-Le président du comité de décentralisation qui en assure la présidence ;
+- le président du comité de décentralisation ;
 
-Un représentant du ministre chargé de l'aménagement du territoire ;
+- le représentant du ministre chargé de l'aménagement du territoire ;
 
-Un représentant du ministre chargé de l'urbanisme ;
+- le représentant du ministre chargé de l'urbanisme ;
 
-Deux représentants du ministre de l'économie et des finances, dont un représentant la direction du ministère intéressée ;
+- le représentant du ministre chargé de l'industrie ;
 
-Trois personnalités choisies en fonction de leur compétence dans le domaine des institutions financières.
+- le représentant du commissaire de la République de la région d'Ile-de-France ;
+
+- un membre du comité nommé par arrêté du Premier ministre pour une durée d'un an renouvelable parmi les personnalités
+désignées en application du paragraphe 2° de l'article A. 510-1.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Arrêté 1986-02-28  art. 1 JORF 2 mars 1986
+
 	**Abrogé par**:
 
-	  - Arrêté 1986-02-28 art. 1 jorf 2 mars 1986
+	  - Arrêté 1995-05-09 art. 3 JORF 11 mai 1995
 
 	**Codifié par**:
 
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+	  - Décret n°77-38 1977-01-03 JORF 18 janvier 1977
 
-	**Cité par**:
+	**Cite**:
 
-	  - Code de l'urbanisme - art. A510-12 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. A510-12 (Ab)
+	  - Code de l'urbanisme - art. A510-1 (M)
 
 
-###### Article A510-11
+###### Article A510-5
 
-Sont appelés à participer aux travaux et débats de la section des institutions financières les préfets intéressés, et
-notamment le préfet de la région d'Ile-de-France.
+La section permanente prépare les délibérations du comité.
+
+Par délégation du comité, elle peut prendre des décisions ou émettre des avis sur les demandes d'agrément portant :
+
+- sur des surfaces développées de planchers inférieures à certains plafonds ;
+
+- sur des créations ou extensions de petites et moyennes entreprises industrielles.
 
 **Liens relatifs à cet article**
 
-	**Abrogé par**:
+	**Modifié par**:
+
+	  - Arrêté 1986-02-28  art. 1 JORF 2 mars 1986) A(Arrêté 1995-05-09 art. 3 JORF 11 mai 1995
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 janvier 1977
+
+
+###### Article A510-6
+
+Les moyens administratifs nécessaires au fonctionnement du secrétariat du comité de décentralisation sont mis à la
+disposition du président du comité par le ministre chargé de l'urbanisme.
+
+Les dossiers de demande d'agrément ou d'avis sont déposés auprès du secrétariat du comité.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
 
 	  - Arrêté 1986-02-28 art. 1 JORF 2 mars 1986
 
@@ -52852,28 +52795,49 @@ notamment le préfet de la région d'Ile-de-France.
 	  - Décret n°77-38 1977-01-03 JORF 18 janvier 1977
 
 
-###### Article A510-12
+###### Article A510-7
 
-Les trois personnalités visées à l'article A. 510-10 sont membres du comité de décentralisation pour les affaires du secteur
-des institutions financières.
+La délégation  à l'aménagement du territoire et à l'action régional et les départements ministériels intéressés sont chargés
+d'instruire les affaires soumises au comité.
+
+La délégation à l'aménagement du territoire et à l'action régionale et la préfecture de la région d'Ile-de-France rapportent
+lesdites affaires devant le comité.
+
+Des rapporteurs particuliers peuvent être nommés par arrêté du Premier ministre, sur proposition du ministre chargé de
+l'aménagement du territoire.
 
 **Liens relatifs à cet article**
 
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Arrêté 1986-02-28 art. 1 JORF 2 mars 1986
 
 	**Codifié par**:
 
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+	  - Décret n°77-38 1977-01-03 JORF 18 janvier 1977
+
+
+###### Article A510-8
+
+Les dispositions des articles A. 510-1 à A. 510-7 ne peuvent être modifiées que par arrêté du Premier ministre.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1986-02-28 art. 1 JORF 2 mars 1986
+
+	**Abrogé par**:
+
+	  - Arrêté 2007-11-12 art. 1 JORF 14 novembre 2007
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 janvier 1977
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. A510-10 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. A510-10 (Ab)
+	  - Code de l'urbanisme A510-1 à A510-7
 
 
 ### Titre  II : Dispositions financières concernant la région d'Ile-de-France
