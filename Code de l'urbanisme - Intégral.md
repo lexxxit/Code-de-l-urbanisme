@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2001-07-01
+Version Consolidée au 2001-07-11
 
 # Partie législative
 
@@ -4065,17 +4065,17 @@ Les dispositions de l'article L. 127-1 sont rendues applicables dans la commune 
 ###### Article L130-1
 
 Les plans locaux d'urbanisme peuvent classer comme espaces boisés, les bois, forêts, parcs à conserver, à protéger ou à
-créer, qu'ils soient soumis ou non au régime forestier, enclos ou non, attenant ou non à des habitations. Ce classement peut
+créer, qu'ils relèvent ou non du régime forestier, enclos ou non, attenant ou non à des habitations. Ce classement peut
 s'appliquer également à des arbres isolés, des haies ou réseaux de haies, des plantations d'alignements.
 
 Le classement interdit tout changement d'affectation ou tout mode d'occupation du sol de nature à compromettre la
 conservation, la protection ou la création des boisements.
 
 Nonobstant toutes dispositions contraires, il entraîne le rejet de plein droit de la demande d'autorisation de défrichement
-prévue à l'article 157 du code forestier.
+prévue aux chapitres Ier et II du titre Ier livre III du code forestier.
 
 Il est fait exception à ces interdictions pour l'exploitation des produits minéraux importants pour l'économie nationale ou
-régionale, et dont les gisements ont fait l'objet d'une reconnaissance par un plan d'occupation des sols rendu public
+régionale, et dont les gisements ont fait l'objet d'une reconnaissance par un plan d'occupation des sols rendu public ou
 approuvé avant le 10 juillet 1973 ou par le document d'urbanisme en tenant lieu approuvé avant la même date. Dans ce cas,
 l'autorisation ne peut être accordée que si le pétitionnaire s'engage préalablement à réaménager le site exploité et si les
 conséquences de l'exploitation, au vu de l'étude d'impact, ne sont pas dommageables pour l'environnement. Un décret en
@@ -4087,11 +4087,14 @@ d'arbres sont soumis à autorisation préalable, sauf dans les cas suivants :
 
 - S'il est fait application des dispositions des livres I et II du code forestier ;
 
-- S'il est fait application d'un plan simple de gestion approuvé, conformément aux dispositions de l'article 6 de la loi n°
-63-810 du 6 août 1963 ;
+- S'il est fait application d'un plan simple de gestion approuvé, conformément à l'article L. 222-1 du code forestier ;
 
 - Si les coupes entrent dans le cadre d'une autorisation par catégories définies par arrêté préfectoral, après avis du centre
 régional de la propriété forestière.
+
+La décision prescrivant l'élaboration d'un plan local d'urbanisme peut également soumettre à l'autorisation préalable prévue
+aux quatre alinéas précédents, sur tout ou partie du territoire concerné par ce plan, les coupes ou abattages d'arbres
+isolés, de haies ou réseaux de haies et de plantations d'alignement.
 
 L'autorisation de coupe et d'abattage d'arbres est délivrée dans les formes, conditions et délais déterminés par décret en
 Conseil d'Etat :
@@ -4170,17 +4173,16 @@ b) Dans les autres communes, au nom de l'Etat.
 
 	**Cite**:
 
-	  - Loi n°63-810 1963-08-06 art. 6
 	  - Loi n°82-213 1982-03-02
-	  - Code forestier 157
+	  - Code forestier - art. L222-1 (M)
 	  - Code de l'urbanisme - art. L421-2-4 (M)
 	  - Code de l'urbanisme - art. L421-9 (M)
 	  - Code de l'urbanisme L421-2-1 à L421-2-8, L421-2-4, L421-9
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 2000-12-13 art. 202 III, VIII, IX JORF 14 décembre 2000
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
+	  - Loi n°2001-602 du 9 juillet 2001 - art. 29 () JORF 11 juillet 2001
+	  - Loi n°2001-602 du 9 juillet 2001 - art. 47 () JORF 11 juillet 2001
 
 	**Anciens textes**:
 
@@ -4359,19 +4361,28 @@ d'aménagement établi en application de la législation antérieure à ces déc
 
 ###### Article L130-5
 
-Les collectivités territoriales et leurs groupements sont habilités à passer, avec les propriétaires de bois, parcs et
-espaces naturels situés sur leur territoire, des conventions tendant à l'ouverture au public desdits bois, parcs et espaces
-naturels. A cette occasion, ces collectivités peuvent allouer des subventions d'entretien aux propriétaires et assumer des
-prestations en nature telles que travaux d'entretien et de gardiennage.
+Les collectivités territoriales ou leurs groupements peuvent passer avec les propriétaires de bois, parcs et espaces naturels
+des conventions tendant à l'ouverture au public de ces bois, parcs et espaces naturels. Dans le cas où les bois, parcs et
+espaces naturels sont situés dans des territoires excédant les limites territoriales de la collectivité contractante ou du
+groupement, le projet est soumis pour avis à la ou aux collectivités intéressées ou à leur groupement. Cet avis est réputé
+favorable si un refus n'est pas intervenu dans un délai de trois mois. Dans ce cadre, ces collectivités peuvent prendre en
+charge tout ou partie du financement des dépenses d'aménagement, d'entretien, de réparation et des coûts d'assurances
+nécessités par l'ouverture au public de ces espaces. Les conventions peuvent également prévoir le versement au propriétaire
+d'une rémunération pour service rendu.
+
+Les collectivités territoriales et leurs groupements peuvent passer, dans les mêmes conditions, des conventions pour
+l'exercice des sports de nature, notamment en application du titre III de la loi n° 84-610 du 16 juillet 1984 relative à
+l'organisation et à la promotion des activités physiques et sportives.
 
 Les mêmes dispositions sont applicables au conservatoire de l'espace littoral et des rivages lacustres dans les territoires
-définis à l'article 1er de la loi n. 75-602 du 10 juillet 1975.
+définis à l'article 1er de la loi n° 75-602 du 10 juillet 1975.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°75-602 du 10 juillet 1975 - art. 1 (M)
+	  - Loi n°84-610 1984-07-16
 
 	**Cité par**:
 
@@ -4385,6 +4396,11 @@ définis à l'article 1er de la loi n. 75-602 du 10 juillet 1975.
 	  - Code du tourisme. - art. L343-9 (V)
 	  - Code forestier - art. L380-1 (VT)
 	  - Code général des collectivités territoriales - art. R4413-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2001-602 2001-07-09 art. 4 II 2°, 3°, 4° JORF 11 juillet 2001
+	  - Loi n°2001-602 du 9 juillet 2001 - art. 4 (V) JORF 11 juillet 2001
 
 	**Anciens textes**:
 
@@ -5212,7 +5228,7 @@ l'exercice du droit de préemption, par délégation ou par substitution, prévu
 
 Le produit de la taxe peut également être utilisé :
 
-- pour l'aménagement et l'entretien d'espaces naturels, boisés ou non, appartenant aux collectivités locales ou à leurs
+- pour l'aménagement et l'entretien d'espaces naturels, boisés ou non, appartenant aux collectivités publiques ou à leurs
 établissements publics et ouverts au public, ou appartenant à des propriétaires privés à la condition qu'ils aient fait
 l'objet d'une convention passée en application de l'article L. 130-5 ;
 
@@ -5222,7 +5238,12 @@ complétant la loi n° 83-8 du 7 janvier 1983 relative à la répartition de com
 les régions et l'Etat, ainsi que des chemins et servitudes de halage et de marchepied des voies d'eau domaniales concédées
 qui ne sont pas ouvertes à la circulation générale et pour l'acquisition, par voie amiable ou par exercice du droit de
 préemption mentionné à l'article L. 142-3, l'aménagement et la gestion des chemins le long des autres cours d'eau et plans
-d'eau.
+d'eau ;
+
+- pour l'acquisition par un département, une commune, un établissement public de coopération intercommunale ou le
+Conservatoire de l'espace littoral et des rivages lacustres, de bois et forêts ou de droits sociaux donnant vocation à
+l'attribution en propriété ou en jouissance de bois et forêts, sous réserve de leur ouverture au public dans les conditions
+prévues à l'article L. 142-10.
 
 Cette taxe est perçue sur la totalité du territoire du département.
 
@@ -5243,7 +5264,7 @@ II de l'article 1585 D du code général des impôts.
 
 f) Les installations et travaux divers qui sont destinés à être affectés à un service public ou d'utilité publique et
 réalisés par l'Etat, les collectivités locales ou leurs groupements ou l'un des services et organismes enumérés par le décret
-pris pour l'application du 1° du I de l'article 1585 C du code général des imp<cb>ts.
+pris pour l'application du 1° du I de l'article 1585 C du code général des impôts.
 
 Le conseil général peut exonérer de la taxe départementale des espaces naturels sensibles, les locaux à usage d'habitation
 principale édifiés pour leur compte ou à titre de prestation de services par les organismes mentionnés à l'article L. 411-2
@@ -5281,16 +5302,14 @@ La taxe constitue, du point de vue fiscal, un élément du prix de revient de l'
 La taxe est perçue au profit du département en tant que recette grevée d'affectation spéciale et a le caractère d'une recette
 de fonctionnement.
 
-</cb>
-
 **Liens relatifs à cet article**
 
 	**Cite**:
 
+	  - CGI 1585 C, 1585 D
 	  - Loi n°83-8 1983-01-07
 	  - Loi n°83-597 1983-07-07
 	  - Loi n°83-663 1983-07-22 art. 56
-	  - CGI 1585 C, 1585 D, 1585
 	  - Code de l'urbanisme - art. L130-5 (M)
 	  - Code de l'urbanisme - art. L142-1 (M)
 	  - Code de l'urbanisme - art. L142-10 (V)
@@ -5329,7 +5348,8 @@ de fonctionnement.
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 53 () JORF 14 décembre 2000
+	  - Loi n°2001-602 du 9 juillet 2001 - art. 10 () JORF 11 juillet 2001
+	  - Loi n°2001-602 du 9 juillet 2001 - art. 4 (V) JORF 11 juillet 2001
 
 	**Codifié par**:
 
@@ -5796,7 +5816,7 @@ terrains en tant qu'espaces naturels.
 
 A compter de la décision du département de percevoir la taxe départementale des espaces naturels sensibles, le président du
 conseil général peut, par arrêté pris sur proposition du conseil général, après délibération des communes concernées et en
-l'absence de plan local d'urbanisme opposable, déterminer les bois, forêts et parcs, qu'ils soient soumis ou non au régime
+l'absence de plan local d'urbanisme opposable, déterminer les bois, forêts et parcs, qu'ils relèvent ou non du régime
 forestier, enclos ou non, attenants ou non à des habitations, dont la préservation est nécessaire et auxquels est applicable
 le régime des espaces boisés classés défini par l'article L. 130-1 et les textes pris pour son application.
 
@@ -5806,14 +5826,14 @@ l'interdiction de construire ou de démolir, et celle d'exécuter certains trava
 l'utilisation du sol, à l'exception des travaux visant à l'amélioration des exploitations agricoles.
 
 Les arrêtés prévus aux alinéas précédents cessent d'être applicables dès qu'un plan d'occupation des sols est rendu public ou
-dès  qu'un plan local d'urbanisme est approuvé sur le territoire considéré.
+dès qu'un plan local d'urbanisme est approuvé sur le territoire considéré.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 2000-12-13 art. 202 III, XVI JORF 14 décembre 2000
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
+	  - Loi n°2001-602 du 9 juillet 2001 - art. 47 () JORF 11 juillet 2001
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
 
 	**Cite**:
 
