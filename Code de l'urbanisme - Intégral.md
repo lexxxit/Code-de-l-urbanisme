@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2003-10-03
+Version Consolidée au 2003-12-31
 
 # Partie législative
 
@@ -4610,137 +4610,6 @@ Des décrets en Conseil d'Etat fixeront, en tant que de besoin, les modalités d
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 
-### TITRE IV : Dispositions particulières à certaines parties du territoire
-
-#### Chapitre VII : Dispositions particulières aux zones de bruit des aérodromes.
-
-###### Article L147-3
-
-Pour l'application des prescriptions édictées par le présent chapitre, un plan d'exposition au bruit est établi pour chacun
-des aérodromes mentionnés à l'article L. 147-2. Ce plan est établi par l'autorité administrative, après consultation :
-
-- des communes intéressées ;
-
-- de l'Autorité de contrôle des nuisances sonores aéroportuaires pour les aérodromes visés au 3 de l'article 266 septies du
-code des douanes, qui recueille au préalable l'avis de la commission consultative de l'environnement concernée ;
-
-- de la commission consultative de l'environnement concernée, lorsqu'elle existe, pour les autres aérodromes.
-
-Il est soumis à enquête publique suivant les modalités de la loi n° 83-630 du 12 juillet 1983 relative à la démocratisation
-des enquêtes publiques et à la protection de l'environnement.
-
-Un décret en Conseil d'Etat fixe les conditions dans lesquelles il est établi et tenu à la disposition du public.
-
-Le plan d'exposition au bruit est annexé au plan local d'urbanisme, au plan de sauvegarde et de mise en valeur et à la carte
-communale dont les dispositions doivent être compatibles avec les prescriptions définies à l'article L. 147-5.
-
-Les plans d'exposition au bruit existants rendus disponibles pour l'application de la directive d'aménagement national
-relative à la construction dans les zones de bruit des aérodromes valent, dans l'attente de leur révision, plan d'exposition
-au bruit au titre de la loi n° 85-696 du 11 juillet 1985. Cette révision intervient selon les conditions fixées par le décret
-en Conseil d'Etat prévu au troisième alinéa du présent article.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-	**Cite**:
-
-	  - Loi n°83-630 1983-07-12
-	  - Loi n°85-696 1985-07-11
-	  - Code des douanes - art. 266 septies (M)
-	  - Code de l'urbanisme - art. L147-2 (V)
-	  - Code de l'urbanisme - art. L147-5 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°87-339 du 21 mai 1987
-	  - TXT_SOURCE: Décret n°87-339 du 21 mai 1987 - art. 1 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°87-339 du 21 mai 1987 - art. 1 (Ab)
-	  - Décret n°87-341 du 21 mai 1987 - art. 4 (Ab)
-	  - Arrêté du 9 janvier 1995 - art. 5 (Ab)
-	  - Arrêté du 30 mai 1996 - art. 8 (VD)
-	  - Arrêté du 25 avril 2003 - art. 5 (V)
-	  - Arrêté du 25 avril 2003 - art. 7 (V)
-	  - Arrêté du 11 janvier 2016 - art. 2
-	  - Code de l'environnement - art. R571-59 (M)
-	  - Code de l'environnement - art. R571-73 (M)
-	  - Code de l'urbanisme - art. R147-9 (VT)
-
-	**Modifié par**:
-
-	  - Loi n°2000-1208 2000-12-13 art. 202 III, XXIV JORF 14 décembre 2000
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
-
-
-###### Article L147-5
-
-Dans les zones définies par le plan d'exposition au bruit, l'extension de l'urbanisation et la création ou l'extension
-d'équipements publics sont interdites lorsqu'elles conduisent à exposer immédiatement ou à terme de nouvelles populations aux
-nuisances de bruit. A cet effet :
-
-1° Les constructions à usage d'habitation sont interdites dans ces zones à l'exception :
-
-- de celles qui sont nécessaires à l'activité aéronautique ou liées à celle-ci ;
-
-- dans les zones B et C et dans les secteurs déjà urbanisés situés en zone A, des logements de fonction nécessaires aux
-activités industrielles ou commerciales admises dans la zone et des constructions directement liées ou nécessaires à
-l'activité agricole ;
-
-- en zone C, des constructions individuelles non groupées situées dans des secteurs déjà urbanisés et desservis par des
-équipements publics dès lors qu'elles n'entraînent qu'un faible accroissement de la capacité d'accueil d'habitants exposés
-aux nuisances.
-
-2° La rénovation, la réhabilitation, l'amélioration, l'extension mesurée ou la reconstruction des constructions existantes
-peuvent être admises lorsqu'elles n'entraînent pas un accroissement de la capacité d'accueil d'habitants exposés aux
-nuisances ;
-
-3° Dans les zones A et B, les équipements publics ou collectifs ne sont admis que lorsqu'ils sont nécessaires à l'activité
-aéronautique ou indispensables aux populations existantes ;
-
-4° Les plans d'exposition au bruit peuvent délimiter une zone D à l'intérieur de laquelle les constructions sont autorisées
-mais doivent faire l'objet des mesures d'isolation acoustique prévues à l'article L. 147-6. La délimitation d'une zone D est
-obligatoire pour les aérodromes visés au 3 de l'article 266 septies du code des douanes ;
-
-5° A l'intérieur des zones C, les plans d'exposition au bruit peuvent délimiter des secteurs où, pour permettre le
-renouvellement urbain des quartiers ou villages existants, des opérations de réhabilitation et de réaménagement urbain
-peuvent être autorisées, à condition qu'elles n'entraînent pas d'augmentation de la population soumise aux nuisances sonores.
-Postérieurement à la publication des plans d'exposition au bruit, à la demande de la commune ou de l'établissement public de
-coopération intercommunale compétent en matière de plan local d'urbanisme, de tels secteurs peuvent également être délimités
-par arrêté préfectoral pris après enquête publique.
-
-Le contrat de location d'immeuble à usage d'habitation ayant pour objet un bien immobilier situé dans l'une des zones de
-bruit définies par un plan d'exposition au bruit comporte une clause claire et lisible précisant la zone de bruit où se
-trouve localisé ledit bien.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 30 mai 1996 - art. 5 (VD)
-	  - Arrêté du 11 janvier 2016 - art. 2
-	  - Code de l'urbanisme - art. L147-3 (V)
-	  - Code de l'urbanisme - art. L147-4-1 (VT)
-	  - Code de l'urbanisme - art. L147-7 (VT)
-
-	**Modifié par**:
-
-	  - Loi n°2003-590 du 2 juillet 2003 - art. 28 () JORF 3 juillet 2003
-
-	**Cite**:
-
-	  - Code des douanes - art. 266 septies (M)
-	  - Code de l'urbanisme - art. L147-6 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-
 ### Titre IV : Dispositions particulières à certaines parties du territoire
 
 #### Chapitre Ier : Dispositions particulières à Paris et à la région d'Ile-de-France
@@ -6808,6 +6677,72 @@ administrative.
 	  - TXT_SOURCE: Décret n°88-315 du 28 mars 1988 - art. 1 (V)
 
 
+###### Article L147-3
+
+Pour l'application des prescriptions édictées par le présent chapitre, un plan d'exposition au bruit est établi pour chacun
+des aérodromes mentionnés à l'article L. 147-2. Ce plan est établi par l'autorité administrative, après consultation :
+
+- des communes intéressées ;
+
+- de l'Autorité de contrôle des nuisances sonores aéroportuaires pour les aérodromes mentionnés au I de l'article 1609
+quatervicies A du code général des impôts, qui recueille au préalable l'avis de la commission consultative de l'environnement
+concernée ;
+
+- de la commission consultative de l'environnement concernée, lorsqu'elle existe, pour les autres aérodromes. 
+
+Il est soumis à enquête publique suivant les modalités de la loi n° 83-630 du 12 juillet 1983 relative à la démocratisation
+des enquêtes publiques (1) et à la protection de l'environnement. 
+
+Un décret en Conseil d'Etat fixe les conditions dans lesquelles il est établi et tenu à la disposition du public. 
+
+Le plan d'exposition au bruit est annexé au plan local d'urbanisme, au plan de sauvegarde et de mise en valeur et à la carte
+communale dont les dispositions doivent être compatibles avec les prescriptions définies à l'article L. 147-5. 
+
+Les plans d'exposition au bruit existants rendus disponibles pour l'application de la directive d'aménagement national
+relative à la construction dans les zones de bruit des aérodromes valent, dans l'attente de leur révision, plan d'exposition
+au bruit au titre du code de l'environnement. Cette révision intervient selon les conditions fixées par le décret en Conseil
+d'Etat prévu au troisième alinéa du présent article.
+
+**Nota:**
+
+(1) : La loi n° 83-630 du 12 juillet 1983 a été abrogée par l'ordonnance 2000-914 et incorporée au code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°83-630 1983-07-12
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1609 quatervicies A (V)
+	  - Code de l'urbanisme - art. L147-2 (V)
+	  - Code de l'urbanisme - art. L147-5 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°87-339 du 21 mai 1987
+	  - TXT_SOURCE: Décret n°87-339 du 21 mai 1987 - art. 1 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°87-339 du 21 mai 1987 - art. 1 (Ab)
+	  - Décret n°87-341 du 21 mai 1987 - art. 4 (Ab)
+	  - Arrêté du 9 janvier 1995 - art. 5 (Ab)
+	  - Arrêté du 30 mai 1996 - art. 8 (VD)
+	  - Arrêté du 25 avril 2003 - art. 5 (V)
+	  - Arrêté du 25 avril 2003 - art. 7 (V)
+	  - Arrêté du 11 janvier 2016 - art. 2
+	  - Code de l'environnement - art. R571-59 (M)
+	  - Code de l'environnement - art. R571-73 (M)
+	  - Code de l'urbanisme - art. R147-9 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Modifié par**:
+
+	  - Loi - art. 19 (V) JORF 31 décembre 2003
+
+
 ###### Article L147-4
 
 Le plan d'exposition au bruit, qui comprend un rapport de présentation et des documents graphiques, définit, à partir des
@@ -6849,6 +6784,70 @@ l'intérieur d'une plage de valeurs fixées par le décret prévu à l'alinéa p
 
 	  - Code de l'urbanisme - art. L112-7 (VD)
 	  - Code de l'urbanisme - art. L112-8 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L147-5
+
+Dans les zones définies par le plan d'exposition au bruit, l'extension de l'urbanisation et la création ou l'extension
+d'équipements publics sont interdites lorsqu'elles conduisent à exposer immédiatement ou à terme de nouvelles populations aux
+nuisances de bruit. A cet effet :
+
+1° Les constructions à usage d'habitation sont interdites dans ces zones à l'exception :
+
+- de celles qui sont nécessaires à l'activité aéronautique ou liées à celle-ci ;
+
+- dans les zones B et C et dans les secteurs déjà urbanisés situés en zone A, des logements de fonction nécessaires aux
+activités industrielles ou commerciales admises dans la zone et des constructions directement liées ou nécessaires à
+l'activité agricole ;
+
+- en zone C, des constructions individuelles non groupées situées dans des secteurs déjà urbanisés et desservis par des
+équipements publics dès lors qu'elles n'entraînent qu'un faible accroissement de la capacité d'accueil d'habitants exposés
+aux nuisances.
+
+2° La rénovation, la réhabilitation, l'amélioration, l'extension mesurée ou la reconstruction des constructions existantes
+peuvent être admises lorsqu'elles n'entraînent pas un accroissement de la capacité d'accueil d'habitants exposés aux
+nuisances ;
+
+3° Dans les zones A et B, les équipements publics ou collectifs ne sont admis que lorsqu'ils sont nécessaires à l'activité
+aéronautique ou indispensables aux populations existantes ;
+
+4° Les plans d'exposition au bruit peuvent délimiter une zone D à l'intérieur de laquelle les constructions sont autorisées
+mais doivent faire l'objet des mesures d'isolation acoustique prévues à l'article L. 147-6. La délimitation d'une zone D est
+obligatoire pour les aérodromes mentionnés au I de l'article 1609 quatervicies A du code général des impôts ;
+
+5° A l'intérieur des zones C, les plans d'exposition au bruit peuvent délimiter des secteurs où, pour permettre le
+renouvellement urbain des quartiers ou villages existants, des opérations de réhabilitation et de réaménagement urbain
+peuvent être autorisées, à condition qu'elles n'entraînent pas d'augmentation de la population soumise aux nuisances sonores.
+Postérieurement à la publication des plans d'exposition au bruit, à la demande de la commune ou de l'établissement public de
+coopération intercommunale compétent en matière de plan local d'urbanisme, de tels secteurs peuvent également être délimités
+par arrêté préfectoral pris après enquête publique.
+
+Le contrat de location d'immeuble à usage d'habitation ayant pour objet un bien immobilier situé dans l'une des zones de
+bruit définies par un plan d'exposition au bruit comporte une clause claire et lisible précisant la zone de bruit où se
+trouve localisé ledit bien.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 30 mai 1996 - art. 5 (VD)
+	  - Arrêté du 11 janvier 2016 - art. 2
+	  - Code de l'urbanisme - art. L147-3 (V)
+	  - Code de l'urbanisme - art. L147-4-1 (VT)
+	  - Code de l'urbanisme - art. L147-7 (VT)
+
+	**Modifié par**:
+
+	  - Loi - art. 19 (V) JORF 31 décembre 2003
+
+	**Cite**:
+
+	  - CGI 1609 quatervicies A
+	  - Code de l'urbanisme - art. L147-6 (V)
 
 	**Codifié par**:
 
