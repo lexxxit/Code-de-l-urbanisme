@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1973-12-01
+Version Consolidée au 1974-02-27
 
 # Partie législative
 
@@ -26563,6 +26563,37 @@ En outre, les demandes de permis de construire de l'espèce seront accompagnées
 
 
 ##### Dispositions diverses
+
+###### Article R421-53
+
+Conformément à l'article 22 du décret n. 73-1007 du 31 octobre 1973 le respect de la réglementation relative à la protection
+contre les risques d'incendie et de panique dans les établissements recevant du public est assuré par le permis de
+construire, dans tous les cas où les travaux à exécuter entrent dans le champ des prévisions de l'article L. 421-1.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°54-481 1954-08-13 ART. 13
+
+	**Cite**:
+
+	  - Décret n°73-1007 1973-10-31 ART. 22
+	  - Code de l'urbanisme - art. L421-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cité par**:
+
+	  - Décret n°94-86 du 26 janvier 1994 - art. 7 (V)
+	  - Code de l'urbanisme - art. R460-3 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L421-1 (M)
+
 
 ###### Article R421-54
 
