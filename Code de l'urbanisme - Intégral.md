@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1999-01-01
+Version Consolidée au 1999-04-09
 
 # Partie législative
 
@@ -20138,6 +20138,14 @@ correspondant aux besoins de l'immeuble à construire ;
 b) A la réalisation de voies privées ou de tous autres aménagements particuliers nécessaires au respect des conditions de
 sécurité mentionnées au deuxième alinéa ci-dessus.
 
+Il ne peut être exigé la réalisation de plus d'une aire de stationnement par logement lors de la construction de logements
+locatifs financés avec un prêt aidé par l'Etat.
+
+L'obligation de réaliser des aires de stationnement n'est pas applicable aux travaux de transformation ou d'amélioration de
+bâtiments affectés à des logements locatifs financés avec un prêt aidé par l'Etat, y compris dans le cas où ces travaux
+s'accompagnent de la création de surface hors oeuvre nette, dans la limite d'un plafond de 50 % de la surface hors oeuvre
+nette existant avant le commencement des travaux.
+
 Le nombre des accès sur les voies publiques peut être limité dans l'intérêt de la sécurité. En particulier, lorsque le
 terrain est desservi par plusieurs voies, les constructions peuvent n'être autorisées que sous réserve que l'accès soit
 établi sur la voie où la gêne pour la circulation sera la moindre.
@@ -20148,6 +20156,10 @@ terrain est desservi par plusieurs voies, les constructions peuvent n'être auto
 
 	  - Décret n°61-1298 1961-11-30 ART. 4
 	  - Code de l'urbanisme - art. R110-4 (T)
+
+	**Modifié par**:
+
+	  - Décret n°99-266 du 1 avril 1999 - art. 1 () JORF 9 avril 1999
 
 	**Cité par**:
 
@@ -23189,7 +23201,11 @@ b) Edicter les prescriptions relatives à l'emprise au sol des constructions, à
 extérieur ;
 
 c) Edicter les prescriptions relatives aux obligations imposées en matière de réalisation d'aires de stationnement, d'espaces
-verts et d'aires de jeux et de loisirs ;
+verts et d'aires de jeux et de loisirs. Toutefois, lorsque le règlement édicte des prescriptions relatives aux obligations
+imposées en matière de réalisation d'aires de stationnement, ces obligations ne sont pas applicables aux travaux de
+transformation ou d'amélioration de bâtiments affectés à des logements locatifs financés avec un prêt aidé par l'Etat, y
+compris dans le cas où ces travaux s'accompagnent de la création de surface hors oeuvre nette, dans la limite d'un plafond de
+50 % de la surface hors oeuvre nette existant avant le commencement des travaux ;
 
 d) Fixer les cas dans lesquels la démolition de tout ou partie d'un immeuble ou d'un groupe d'immeubles compris à l'intérieur
 d'une zone définie à l'article R. 123-18 (II, 6°) peut être interdite ou soumise à des prescriptions spéciales ;
@@ -23221,13 +23237,9 @@ Un arrêté du ministre chargé de l'urbanisme fixe la forme de présentation du
 
 	  - Décret n°70-1016 1970-10-28 ART. 19
 
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 48 (Code de l'urbanisme L123-1)
-
 	**Modifié par**:
 
-	  - Décret n°98-913 du 12 octobre 1998 - art. 35 () JORF 13 octobre 1998
+	  - Décret n°99-266 du 1 avril 1999 - art. 2 () JORF 9 avril 1999
 
 	**Cité par**:
 
