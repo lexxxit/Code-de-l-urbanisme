@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2001-12-12
+Version Consolidée au 2001-12-14
 
 # Partie législative
 
