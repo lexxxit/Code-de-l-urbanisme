@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1973-11-13
+Version Consolidée au 1973-11-23
 
 # Partie législative
 
@@ -12721,6 +12721,38 @@ publique.
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R130-3
+
+Les dispositions des articles R. 130-1 et R. 130-2 ne peuvent être modifiées que par décret pris en forme de règlement
+d'administration publique.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°76-629 du 10 juillet 1976 - art. 2 (M)
+	  - Code de l'urbanisme - art. R130-2 (M)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*130-1 (M)
+	  - Code de l'urbanisme - art. R*130-4 (M)
+	  - Code de l'urbanisme - art. R142-3 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R*130-2 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*130-2 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R130-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 #### Modalités d'application.
 
 ###### Article R130-4
@@ -14239,6 +14271,30 @@ demandes de communication peuvent être adressées aux maires des communes inté
 	  - Code de l'urbanisme - art. R*421-14 (M)
 	  - Code de l'urbanisme - art. R*431-5 (M)
 	  - Code de l'urbanisme - art. R*431-6 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+## Règles générales d'aménagement et d'urbanisme Espaces boisés
+
+### Modalités d'application.
+
+###### Article R130-7
+
+Les coupes rases doivent être suivies, dans un délai maximum de cinq ans, de travaux de reboisement, à défaut de régénération
+naturelle.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-1059 1959-09-07 ART. 4
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R*130-16 (V)
 
 	**Codifié par**:
 
@@ -16638,6 +16694,28 @@ disponibilités en caisse et celui des créances exigibles ;
 	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
 
 
+###### Article R317-31
+
+Le dossier ainsi constitué [*demande de prêts*] est soumis pour avis au directeur départemental de l'équipement.
+
+Il est ensuite communiqué par le préfet au conseil municipal de la ou des communes intéressées qui fait connaître si la ou
+les communes entendent participer financièrement aux travaux.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°54-609 1954-06-04 ART. 27
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
+
+
 ###### Article R317-32
 
 La caisse départementale peut, soit déterminer immédiatement le chiffre maximum du prêt à consentir à l'association
@@ -16912,6 +16990,43 @@ fixe les dates limites de commencement et d'achèvement des travaux.
 	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
 
 
+###### Article R317-42
+
+Les prêts consentis par la caisse départementale sont versés aux associations syndicales dans les mêmes conditions que les
+subventions.
+
+Les subventions et les prêts sont réglés soit en totalité après achèvement des travaux, soit au prorata des dépenses
+justifiées. Il n'est tenu compte ni des variations de prix intervenues depuis l'établissement du devis, ni du montant des
+marchés dans la mesure où il excéderait le montant du devis.
+
+Afin de compléter, le cas échéant, en cours d'exécution des travaux, les moyens de financement primitivement arrêtés, le
+préfet procède comme il est dit à l'article R. 317-33. Si les ressources nouvelles obtenues s'avèrent insuffisantes, une
+subvention complémentaire peut être demandée. Si elle n'est pas accordée, le syndicat est invité à opter entre une réduction
+des travaux et un rajustement des taxes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°54-609 1954-06-04 ART. 32
+
+	**Abrogé par**:
+
+	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R317-33 (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R317-33 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ###### Article R317-43
 
 Un arrêté concerté entre le ministre de l'économie et des finances, le ministre de l'intérieur et le ministre chargé de
@@ -17141,6 +17256,27 @@ ou du défaut de conciliation.
 	**Anciens textes**:
 
 	  - Décret n°54-609 1954-06-04 ART. 41
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
+
+
+###### Article R317-52
+
+Il est tenu un registre, coté et paraphé par le préfet ou son délégué, des procès-verbaux du comité de conciliation. Les
+procès-verbaux des réunions sont signés du président et du secrétaire. Le registre est communiqué sans déplacement aux
+parties intéressées.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°54-609 1954-06-04 ART. 42
 
 	**Codifié par**:
 
@@ -19643,6 +19779,31 @@ La signature par le préfet de la convention vaut promesse d'attribution de subv
 	**Anciens textes**:
 
 	  - Décret n°70-1225 1970-12-23 ART. 3
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 18 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 26 (V)
+
+
+###### Article R311-24
+
+Lorsque le plan d'aménagement de zone prévoit la réalisation d'ensembles intégrés réunissant plusieurs équipements relevant
+de la compétence de différents ministres, les études nécessaires peuvent être confiées à des hommes de l'art spécialement
+rémunérés par l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-1225 1970-12-23 ART. 4
 
 	**Codifié par**:
 
