@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1975-07-11
+Version Consolidée au 1976-01-03
 
 # Partie législative
 
@@ -158,90 +158,527 @@ Les schémas directeurs et les schémas de secteur approuvés sont tenus à la d
 
 ###  Titre Ier : Règles générales d'utilisation du sol.
 
-###### Article L110-1
+####  Chapitre Ier : Règles générales de l'urbanisme.
 
-(texte non reproduit).
+###### Article L111-1
+
+Les règles générales applicables, en dehors de la production agricole en matière d'utilisation du sol, notamment en ce qui
+concerne la localisation, la desserte, l'implantation et l'architecture des constructions, le mode de clôture et la tenue
+décente des propriétés foncières et des constructions, sont déterminées par des décrets en Conseil d'Etat.
+
+Ces décrets en Conseil d'Etat peuvent prévoir les conditions dans lesquelles des dérogations aux règles qu'ils édictent sont
+apportées dans certains territoires.
+
+Les règles générales mentionnées ci-dessus s'appliquent dans toutes les communes à l'exception des territoires dotés d'un
+plan d'occupation des sols rendu public ou approuvé, ou du document en tenant lieu. Un décret en Conseil d'Etat fixe celles
+de ces règles qui sont ou peuvent néanmoins demeurer applicables sur les territoires couverts par ces documents.
 
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
-	  - Décret n°73-378 du 27 mars 1973 - art. 26 (Ab)
+	  - Loi n°82-659 du 30 juillet 1982 - art. 10 (M)
+	  - Loi n°85-30 du 9 janvier 1985 - art. 99 (V)
+	  - Code de l'urbanisme - art. L111-1-3 (Ab)
+	  - Code de l'urbanisme - art. L111-1-4 (M)
+	  - Code de l'urbanisme - art. L111-6 (M)
+	  - Code de l'urbanisme - art. L123-19 (VT)
 	  - Code de l'urbanisme - art. L123-2 (M)
+	  - Code de l'urbanisme - art. L124-1 (VT)
+	  - Code de l'urbanisme - art. L141-4 (VT)
+	  - Code de l'urbanisme - art. L147-1 (VT)
+	  - Code de l'urbanisme - art. L160-1 (VT)
 	  - Code de l'urbanisme - art. L160-4 (M)
+	  - Code de l'urbanisme - art. L710-10 (VT)
 	  - Code de l'urbanisme - art. R*440-25 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. L111-1 (M)
-	  - Code de l'urbanisme - art. L111-1 (VT)
+	  - Code de l'urbanisme - art. R*480-7 (V)
+	  - Code de l'urbanisme - art. R111-25 (M)
+	  - Code de l'urbanisme - art. R160-1 (VT)
+	  - Code de l'urbanisme - art. R445-2 (M)
+	  - Code de la construction et de l'habitation. - art. L111-3 (V)
 
 	**Anciens textes**:
 
+	  - Code de l'urbanisme - art. L110-1 (T)
 	  - Code de l'urbanisme 91
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L111-6 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L160-1 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L160-4 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R160-1 (V)
 
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
-###### Article L110-2
+###### Article L111-2
 
-(texte non reproduit).
+Les propriétés riveraines des voies spécialisées non ouvertes à la circulation générale et, notamment, des autoroutes, pistes
+pour cyclistes et sentiers de touristes ne jouissent pas des droits reconnus aux riverains des voies publiques.
+
+Les dispositions applicables auxdites voies et notamment les conditions dans lesquelles l'exercice de certains droits pourra
+être accordé aux riverains sont déterminées, soit par l'acte déclarant d'utilité publique l'ouverture de la voie, soit par
+des règlements d'administration publique.
 
 **Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. L111-2 (M)
-	  - Code de l'urbanisme - art. L111-2 (VT)
 
 	**Anciens textes**:
 
-	  - Code de l'urbanisme 78
+	  - Code de l'urbanisme - art. L110-2 (T)
+	  - Code de l'urbanisme 152
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-
-###### Article L110-3
-
-(texte non reproduit).
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. L111-3 (M)
-	  - Code de l'urbanisme - art. L111-3 (V)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R160-1 (V)
 
 	**Cité par**:
 
-	  - Code de l'urbanisme - art. L160-4 (M)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 92
+	  - Code du domaine de l'Etat et des collectivités pub - art. L213-3 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
-###### Article L110-4
+###### Article L111-3
 
-(texte non reproduit).
+Ainsi qu'il est dit à l'article 92 du code de l'urbanisme et de l'habitation, un décret en Conseil d'Etat, pris sur le
+rapport du ministre du logement et de la reconstruction, du ministre de l'intérieur et du ministre de la santé publique et de
+la population, fixe les règles générales de construction applicables aux bâtiments d'habitation. Les dispositions dudit
+décret se substituent de plein droit aux dispositions contraires ou divergentes des règlements départementaux ou communaux.
+
+En outre des décrets en Conseil d'Etat pris sur le rapport du ministre de l'équipement et du ministre de l'industrie et de la
+recherche, après avis du comité consultatif de l'utilisation de l'énergie, fixent : 
+
+1. Les règles de construction et d'aménagement applicables aux locaux de toute nature quant à leurs caractéristiques
+d'isolation thermique et les catégories de locaux qui seront soumis en tout ou partie aux dispositions du présent alinéa ; 
+
+2. Les caractères définissant les normes d'équipement, de fonctionnement et de contrôle des installations destinées à en
+assurer le chauffage ou le conditionnement d'air et les catégories d'installations qui seront soumises en tout ou partie aux
+dispositions du présent alinéa.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Code de l'urbanisme et de l'habitation 92
+
+	**Modifié par**:
+
+	  - Décret n°76-267 1976-03-25 JORF 27 mars 1976 Rectificatif JORF 13 juin 1976
+
 	**Anciens textes**:
 
-	  - Loi n°67-1253 1967-12-30 ART. 46 loi d'orientation foncière
+	  - Code de l'urbanisme - art. L110-3 (T)
+	  - Code de l'urbanisme 92
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L160-1 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L160-4 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R160-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L160-1 (VT)
+	  - Code de l'urbanisme - art. L160-4 (M)
+	  - Code de l'urbanisme - art. L331-7 (V)
+	  - Code de l'urbanisme - art. L421-3 (M)
+	  - Code de l'urbanisme - art. R421-6 (Ab)
+	  - Code général des impôts, CGI. - art. 1605 nonies (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L111-4
+
+Ainsi qu'il est dit à l'article 46 de la loi n. 67-1253 du 30 décembre 1967 d'orientation foncière, modifié par l'article 6
+de la loi n. 74-908 du 29 octobre 1974, les règles prévues à l'article 92 du code de l'urbanisme et de l'habitation
+s'imposent [*obligation*] aux personnes qui construisent ou font construire des habitations ainsi qu'aux architectes,
+techniciens, entrepreneurs et autres personnes responsables de l'exécution de ces constructions.
+
+Les architectes, techniciens, entrepreneurs ou autres personnes responsables de l'exécution de constructions ayant donné
+lieu, postérieurement au 30 décembre 1967, à une condamnation réprimant les infractions aux règles applicables en matière
+d'urbanisme et de construction ne seront plus admis, temporairement ou définitivement, à prêter leurs services à l'Etat, aux
+départements et aux communes, ainsi qu'aux établissements publics et organismes relevant de ces collectivités. L'exclusion
+temporaire ou définitive [*sanction*] est prononcée après avis d'une commission, dans des conditions fixées par décret en
+Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°67-1253 1967-12-30 art. 46 modifie
+	  - Loi n°74-908 1974-10-29 art. 6 ml1
+	  - Code de l'urbanisme et de l'habitation 92
+
+	**Anciens textes**:
+
+	  - Loi n°67-1253 du 30 décembre 1967 - art. 46, v. init.
+	  - Code de l'urbanisme - art. L110-4 (T)
+
+	**Modifié par**:
+
+	  - Décret n°76-267 1976-03-25 JORF 27 mars 1976 Rectificatif JORF 13 juin 1976
+
+	**Abrogé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L122-1-5 (M)
+	  - Code de l'urbanisme - art. R*410-10 (V)
+	  - Code de l'urbanisme - art. R*441-6-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L111-5
+
+Il ne peut plus être construit sur toute partie détachée d'un terrain dont la totalité des droits de construire, compte tenu
+notamment du coefficient d'occupation du sol en vigueur, a été précédemment utilisée.
+
+Lorsqu'une partie est détachée d'un terrain dont les droits de construire n'ont été que partiellement utilisés, il ne peut y
+être construit que dans la limite des droits qui n'ont pas été utilisés avant la division.
+
+Toute convention entraînant le détachement ou faisant suite au détachement d'une partie d'un terrain qui provient d'une
+parcelle ou d'un ensemble de parcelles supportant une construction ou un groupe de constructions et qui appartient à un même
+propriétaire ou à une même indivision doit, à peine de nullité, être précédée de la délivrance d'un certificat d'urbanisme
+portant, selon le cas, sur cette parcelle ou sur cet ensemble de parcelles. Cette convention doit reproduire les indications
+énoncées dans le certificat d'urbanisme et faire l'objet de la publicité prévue à l'article 28 du décret n. 55-22 du 4
+janvier 1955 portant réforme de la publicité foncière.
+
+//LOI  1285 ART. 2 : Un décret en Conseil d'Etat détermine les conditions dans lesquelles le contrôle exercé par l'autorité
+administrative au titre des dispositions du présent code sur les divisions ou cessions de terrains, peut tenir lieu de la
+procédure prévue à l'alinéa 3 du présent article//.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°55-22 1955-01-04 ART. 28
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L332-19 (Ab)
+	  - Code de l'urbanisme - art. R*123-22 (M)
+	  - Code de l'urbanisme - art. R*160-4 (Ab)
+	  - Code de l'urbanisme - art. R*160-5 (Ab)
+	  - Code de l'urbanisme - art. R*410-1 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme R160-4
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+#### Chapitre II : Plafond légal de densité.
+
+###### Article L112-1
+
+Le droit de construire est attaché à la propriété du sol. Il s'exerce dans le respect des dispositions législatives et
+réglementaires relatives à l'utilisation du sol.
+
+Le rapport entre la surface de plancher d'une construction et la surface de terrain sur laquelle cette construction est ou
+doit être implantée définit la densité de construction.
+
+Une densité égale à 1 constitue la limite légale de densité. Pour la ville de Paris, ce chiffre est fixé à 1,5.
+
+Au-delà de cette limite, appelée "plafond légal de densité", l'exercice du droit de construire relève de la collectivité dans
+les conditions fixées par les dispositions du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Cité par**:
+
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 65 (V)
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 50 (V)
+	  - Code minier (nouveau) - art. L264-1 (V)
+	  - Code de l'urbanisme - art. L112-2 (V)
+	  - Code de l'urbanisme - art. L113-2 (Ab)
+	  - Code de l'urbanisme - art. L331-35 (V)
+	  - Code de l'urbanisme - art. L710-1 (VT)
+	  - Code de l'urbanisme - art. R*332-1 (Ab)
+	  - Code de l'urbanisme - art. R*333-23 (Ab)
+	  - Code de l'urbanisme - art. R*430-10 (M)
+	  - Code de l'urbanisme - art. R331-19 (VD)
+	  - Code de l'urbanisme - art. R331-20 (VD)
+	  - Code général des collectivités territoriales - art. L4433-8 (V)
+	  - Code général des impôts, CGI. - art. 1585 C (VT)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. L112-7 (T)
+
+
+###### Article L112-2
+
+L'édification d'une construction d'une densité excédant le plafond légal est subordonnée au versement par le bénéficiaire de
+l'autorisation de construire d'une somme égale à la valeur du terrain dont l'acquisition serait nécessaire pour que la
+densité de la construction n'excède pas ce plafond.
+
+L'attribution, expresse ou tacite, du permis de construire entraîne pour le bénéficiaire de l'autorisation de construire
+l'obligation d'effectuer ce versement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2008-735 du 28 juillet 2008 - art. 52 (V)
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 2020 (Ab)
+	  - Code de l'urbanisme - art. L112-3 (VT)
+	  - Code de l'urbanisme - art. L112-4 (M)
+	  - Code de l'urbanisme - art. L112-7 (M)
+	  - Code de l'urbanisme - art. L113-2 (Ab)
+	  - Code de l'urbanisme - art. L331-36 (M)
+	  - Code de l'urbanisme - art. L331-46 (M)
+	  - Code de l'urbanisme - art. L332-6-1 (M)
+	  - Code de l'urbanisme - art. L333-12 (Ab)
+	  - Code de l'urbanisme - art. L333-13 (Ab)
+	  - Code de l'urbanisme - art. L333-14 (Ab)
+	  - Code de l'urbanisme - art. L333-2 (Ab)
+	  - Code de l'urbanisme - art. L333-7 (Ab)
+	  - Code de l'urbanisme - art. L333-8 (Ab)
+	  - Code de l'urbanisme - art. L333-9-1 (Ab)
+	  - Code de l'urbanisme - art. R*332-1 (Ab)
+	  - Code de l'urbanisme - art. R*332-13 (Ab)
+	  - Code de l'urbanisme - art. R*333-1 (Ab)
+	  - Code de l'urbanisme - art. R*333-14 (Ab)
+	  - Code de l'urbanisme - art. R*333-17 (Ab)
+	  - Code de l'urbanisme - art. R*333-18 (Ab)
+	  - Code de l'urbanisme - art. R*333-20 (Ab)
+	  - Code de l'urbanisme - art. R*333-21 (Ab)
+	  - Code de l'urbanisme - art. R*333-22 (Ab)
+	  - Code de l'urbanisme - art. R*333-24 (Ab)
+	  - Code de l'urbanisme - art. R*333-27 (Ab)
+	  - Code de l'urbanisme - art. R*333-3 (Ab)
+	  - Code général des impôts, CGI. - art. 1723 decies (Ab)
+	  - Code général des impôts, CGI. - art. 1723 duodecies (Ab)
+	  - Code général des impôts, CGI. - art. 1723 nonies (Ab)
+	  - Code général des impôts, CGI. - art. 1723 octies (Ab)
+	  - Code général des impôts, CGI. - art. 1723 terdecies (Ab)
+	  - Code général des impôts, CGI. - art. 302 septies B (M)
+	  - Livre des procédures fiscales - art. L133 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L112-3
+
+Lorsqu'une construction nouvelle est édifiée sur un terrain qui comprend un bâtiment qui n'est pas destiné à être démoli, la
+densité est calculée en ajoutant sa surface de plancher à celle de la construction nouvelle.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*333-1 (Ab)
+	  - Code de l'urbanisme - art. R*333-14 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L112-4
+
+Lorsqu'une construction est édifiée sur un terrain qui, à la date d'entrée en vigueur du titre Ier de la loi n. 75-1328 du 31
+décembre 1975 comportait déjà un ou des bâtiments ayant une surface de plancher supérieure au plafond légal de densité, le
+versement n'est dû qu'à concurrence de la surface de plancher excédant la surface déjà construite.
+
+Toutefois, les dispositions de l'alinéa précédent ne sont pas applicables aux bâtiments ayant fait l'objet d'un arrêté de
+péril ou d'insalubrité.
+
+La reconstruction ultérieure d'un bâtiment pour lequel le versement prévu à l'article L. 112-2 a été effectué ne peut donner
+lieu à un nouveau versement qu'à concurrence de la densité excédant celle du bâtiment initialement construit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Cite**:
+
+	  - Loi n°75-1328 1975-12-31 TITRE I
+	  - Code de l'urbanisme - art. L112-2 (M)
+
+
+###### Article L112-5
+
+Lorsqu'une construction est édifiée sur une partie détachée d'un terrain déjà bâti, la densité est calculée, par rapport à
+l'ensemble du terrain primitif, en ajoutant à la surface de plancher existante, celle de la construction nouvelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L112-6
+
+Les modalités d'établissement et d'affectation du versement résultant du dépassement du plafond légal de densité sont
+déterminées par les articles L. 333-1 à L. 333-16.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme L333-1 à L333-16
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L112-7
+
+Des décrets en Conseil d'Etat déterminent, en tant que de besoin, les modalités d'application du présent chapitre et,
+notamment, les conditions dans lesquelles est déterminée la surface de plancher développée hors oeuvre, prise en compte pour
+l'application du plafond légal de densité institué par l'article L. 112-2.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1585 C (M)
 
 	**Nouveaux textes**:
 
-	  - Code de l'urbanisme - art. L111-4 (Ab)
+	  - Code de l'urbanisme - art. L112-1 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L112-2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+#### Chapitre III : Dispositions transitoires.
+
+###### Article L113-1
+
+Ne sont pas soumises aux dispositions du chapitre II [*plafond légal de densité*] du présent titre les constructions régies
+par les dispositions des articles 25 et 26 de la loi n. 70-612 du 10 juillet 1970 [*suppression habitat insalubre*], ainsi
+que celles réalisées dans les zones à urbaniser en priorité ou dans les zones créées avant l'institution des zones
+d'aménagement concerté et qui ont été exclues du champ d'application de la taxe locale d'équipement par arrêté du préfet.
+
+Il en est de même : Des constructions réalisées dans les zones de résorption de l'habitat insalubre, d'aménagement ou de
+rénovation, créées avant le 1er novembre 1975 [*date limite*] et dont le bilan financier aura été approuvé avant le 1er
+novembre 1976 ; Des constructions réalisées dans les zones de résorption de l'habitat insalubre, d'aménagement ou de
+rénovation dont la création a été demandée avant le 1er novembre 1975, par délibération du conseil municipal ou de l'organe
+délibérant de l'établissement public groupant plusieurs communes et ayant compétence en matière d'urbanisme, à la condition :
+a) Que l'organisme chargé de l'aménagement de la zone et la commune ou le groupement de communes aient acquis, antérieurement
+au 1er novembre 1975 par des actes ayant date certaine, des terrains représentant au moins le tiers de la surface de la
+zone ; b) Que le bilan financier soit approuvé avant le 1er novembre 1976.
+
+Les dispositions des alinéas précédents cessent d'être applicables en cas de suppression de la zone ou une fois sa
+réalisation achevée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°70-612 du 10 juillet 1970 - art. 25 (T)
+	  - Loi n°70-612 du 10 juillet 1970 - art. 26 (T)
+	  - Code de l'urbanisme L112-1 à L112-7
+
+	**Abrogé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
+
+	**Cité par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 50 (M)
+	  - Code de l'urbanisme - art. L113-2 (Ab)
+	  - Code de l'urbanisme - art. R318-13 (V)
+	  - Code rural - art. L180-2 (MMN)
+	  - Code rural et de la pêche maritime - art. L111-2-1 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L113-2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L113-2
+
+Les dispositions du chapitre II [*plafond légal densité*] du présent titre sont applicables aux permis de construire délivrés
+et aux déclarations préalables déposées après la date d'entrée en vigueur du titre Ier de la loi n. 75-1328 du 31 décembre
+1975. Dans les zones visées à l'article L. 333-8 [*aménagement concerté, rénovation urbaine, résorption habitat insalubre*],
+elles ne sont applicables qu'aux conventions d'aménagement et aux traités de concession signés postérieurement à cette date,
+sous réserve des dispositions de l'article L. 113-1.
+
+Elles ne sont pas applicables aux demandes de permis de construire déposées avant le 1er novembre 1975, ou à celles déposées
+avant le 1er avril 1976 lorsque l'ensemble des terrains qu'elles concernent a fait l'objet d'une mutation ayant acquis date
+certaine avant le 1er novembre 1975, soumise au régime de la taxe sur la valeur ajoutée ou aux dispositions des articles 1032
+ou 1042 du code général des impôts.
+
+Pour les permis de construire délivrés entre la date d'entrée en vigueur du titre Ier de la loi n. 75-1328 du 31 décembre
+1975 et le 30 juin 1976, et concernant les constructions dont la densité excède le plafond légal défini à l'article L. 112-1,
+le constructeur ne sera tenu de payer que 25 p. 100 du montant du versement fixé conformément à l'article L. 112-2. A compter
+du 1er juillet 1976 ce pourcentage est augmenté de 5 p. 100 tous les mois jusqu'à ce qu'il atteigne 100 p. 100 [*taux plein,
+1 septembre 1977*].
+
+Dans le cas de la délivrance d'un permis de construire à la suite de l'annulation pour excès de pouvoir ou du retrait d'une
+décision de refus de permis de construire ou de sursis à statuer le montant du versement sera fixé à la somme qui aurait été
+due par le constructeur si le permis de construire avait été délivré à la date d'intervention de la décision illégale de
+refus ou de sursis à statuer.
+
+Les dispositions des alinéas 2, 3 et 4 du présent article ne sont pas applicables dans les zones visées aux articles L. 333-7
+et L. 333-8.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1032, 1042
+	  - Loi n°75-1328 1975-12-31
+	  - Code de l'urbanisme - art. L112-1 (M)
+	  - Code de l'urbanisme - art. L112-2 (M)
+	  - Code de l'urbanisme - art. L113-1 (Ab)
+	  - Code de l'urbanisme - art. L333-7 (M)
+	  - Code de l'urbanisme - art. L333-8 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
+
+	**Cité par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 50 (M)
+	  - Code de l'urbanisme - art. L113-3 (VT)
+	  - Code de l'urbanisme - art. L113-5 (Ab)
+	  - Code de l'urbanisme - art. L113-6 (V)
+	  - Code de l'urbanisme - art. R*332-1 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L113-1 (Ab)
 
 	**Codifié par**:
 
@@ -2094,6 +2531,79 @@ d'occupation des sols rendu public ou approuvé ou du document qui en tient lieu
 
 
 ## Livre II : Préemption et réserves foncières
+
+###  Titre Ier : Droits de préemption
+
+#### Chapitre IV : Dispositions diverses communes aux zones d'intervention foncière, aux zones d'aménagement différé et aux périmètres provisoires de zones d'aménagement différé. 
+
+###### Article L214-1
+
+Pour l'application des chapitres Ier, II et III du présent titre, sont considérés comme des établissement publics groupant
+plusieurs communes et ayant compétence en matière d'urbanisme, les établissements publics qui, en vertu de la loi ou de leurs
+statuts, sont compétents pour l'élaboration des documents d'urbanisme et la réalisation de zones d'aménagement concerté.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 JUILLET 1985
+
+	**Cité par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 9 (V)
+	  - Décret n°2007-1827 du 26 décembre 2007 (V)
+	  - Décret n°2008-1470 du 30 décembre 2008 - art. 1 (V)
+	  - Décret n°2016-1491 du 4 novembre 2016 - art. (V)
+	  - Code de commerce - art. L145-2 (V)
+	  - Code de commerce - art. L750-1-1 (V)
+	  - Code de l'urbanisme - art. *R214-1 (V)
+	  - Code de l'urbanisme - art. *R214-10 (V)
+	  - Code de l'urbanisme - art. *R214-8 (V)
+	  - Code de l'urbanisme - art. A214-1 (V)
+	  - Code de l'urbanisme - art. L214-2 (V)
+	  - Code de l'urbanisme - art. R*214-3 (V)
+	  - Code de l'urbanisme - art. R*214-4 (V)
+	  - Code de l'urbanisme - art. R*214-7 (V)
+	  - Code général des collectivités territoriales - art. L2122-22 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme L211-1 A L213-4
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L214-2
+
+En cas d'acquisition d'un bien par voie de préemption, le prix du bien devra être réglé par le titulaire du droit de
+préemption ou son délégué, au plus tard dix mois après sa décision d'acquérir le bien au prix indiqué par le vendeur ou
+accepté par celui-ci, ou six mois après la décision définitive de la juridiction de l'expropriation.
+
+/M/A défaut de paiement à l'expiration du délai prévu à l'alinéa précédent, le bien est rétrocédé de plein droit au
+propriétaire qui peut l'aliéner librement/M/LOI  1285 ART. 55: En l'absence de paiement, ou, s'il y a obstacle au paiement,
+de consignation de la somme due à l'expiration du délai prévu à l'alinéa précédent, le titulaire du droit de préemption est
+tenu sur demande du propriétaire, de lui rétrocéder le bien acquis par voie de préemption ; la demande doit être faite à
+peine de forclusion dans les trois mois de l'expiration du délai imparti pour le paiement ou la consignation. Le propriétaire
+peut alors aliéner librement le bien ainsi rétrocédé//.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 JUILLET 1977
+
+	**Cité par**:
+
+	  - Code de commerce - art. L145-2 (V)
+	  - Code de l'urbanisme - art. *R214-11 (V)
+	  - Code de l'urbanisme - art. *R214-16 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
 
 ### Titre II : Réserves foncières et concession de l'usage de certains terrains urbains.
 
@@ -5843,6 +6353,82 @@ réservés visés à l'article L. 123-9.
 
 #####  Section 1 : Participation en cas de dépassement du coefficient d'occupation des sols.
 
+###### Article L332-2
+
+La participation mentionnée à l'article L. 332-1 est égale [*montant*] à la valeur de la surface supplémentaire de terrain
+qui aurait été nécessaire pour l'édification de la construction si le coefficient d'occupation du sol avait été respecté.
+
+Cette valeur est celle du terrain déterminée comme si les possibilités maximales de construction qu'il peut supporter
+résultaient de la seule application du coefficient d'occupation du sol. Elle est déclarée par le constructeur lorsqu'il
+demande le permis de construire. En l'absence de déclaration, le dossier de permis de construire est considéré comme
+incomplet et ne peut être instruit.
+
+A défaut d'accord amiable entre l'administration et le constructeur, il est procédé conformément aux articles L. 333-1 et L.
+333-2.
+
+Par dérogation aux dispositions des premier et deuxième alinéas du présent article, aucune participation n'est due pour la
+partie de la surface supplémentaire de terrain qui fait l'objet du versement prévu à l'article L. 112-2 [*pour dépassement du
+plafond légal de densité*], y compris dans les cas visés à l'article L. 113-2 (alinéa 3).
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L332-5 (Ab)
+	  - Code de l'urbanisme - art. L332-6 (M)
+	  - Code de l'urbanisme - art. L340-1 (M)
+	  - Code de l'urbanisme - art. R*332-1 (M)
+	  - Code de l'urbanisme - art. R421-4 (M)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme 21 II
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L332-3
+
+La participation est perçue au profit [*bénéficiaire*] de la commune ou, s'il en existe un, de l'établissement public
+groupant plusieurs communes et ayant compétence en matière d'urbanisme [*district urbain, communauté urbaine, syndicat de
+communes*]. Elle doit recevoir l'affectation prévue à l'article L. 333-3.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L332-27 (VT)
+	  - Code de l'urbanisme - art. L332-6 (M)
+	  - Code de l'urbanisme - art. L340-1 (M)
+	  - Code de l'urbanisme - art. R*332-1 (M)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme  21 III
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L333-3 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L333-3 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
 ###### Article L332-4
 
 La participation constitue, du point de vue fiscal, un élément du prix de revient du terrain sur lequel est édifiée la
@@ -5908,6 +6494,599 @@ application des dispositions de l'article L. 332-2.
 	**Anciens textes**:
 
 	  - Code de l'urbanisme 21 IV
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+#### Chapitre III : Versement résultant du dépassement du plafond légal de densité.
+
+###### Article L333-1
+
+Lors du dépôt de la demande de permis de construire relatif à une construction d'une densité excédant le plafond légal de
+densité, le demandeur doit déclarer la valeur du terrain sur lequel la construction doit être édifiée.
+
+En l'absence de déclaration, le dossier de permis de construire est considéré comme incomplet et ne peut être instruit.
+
+La valeur du terrain est appréciée à la date du dépôt de la demande de permis de construire.
+
+L'administration peut contester la valeur qui lui est soumise. Elle doit notifier par écrit au constructeur la valeur qu'elle
+estime devoir être retenue. En cas de désaccord persistant entre l'administration et le constructeur, la valeur du terrain
+est fixée par la juridiction compétente en matière d'expropriation saisie par la partie la plus diligente.
+
+L'existence d'un désaccord sur la valeur du terrain à retenir est sans effet sur la délivrance du permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L112-6 (VT)
+	  - Code de l'urbanisme - art. R421-4 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L333-2
+
+Le montant du versement défini à l'article L. 112-2 est dû par le bénéficiaire de l'autorisation de construire. En cas de
+désaccord sur la valeur du terrain, il est provisoirement arrêté, puis mis en recouvrement sur la base de l'estimation
+administrative.
+
+Il doit être effectué à la recette des impôts de la situation des biens en trois fractions légales.
+
+Le paiement du premier tiers est exigible à l'expiration du délai de trois mois à compter de la délivrance du permis de
+construire, celui du deuxième à l'expiration d'un délai de six mois à compter de ladite délivrance, et celui du troisième à
+l'expiration d'un délai de dix-huit mois à compter de la même date.
+
+Après décision définitive de la juridiction de l'expropriation, il est procédé, selon le cas, à la mise en recouvrement d'une
+somme complémentaire ou à la restitution du montant excédentaire. Le paiement du complément doit intervenir en même temps que
+le paiement de la troisième partie du versement ou, au plus tard, dans les six mois de la notification de l'avis de mise en
+recouvrement du complément.
+
+La juridiction de l'expropriation doit se prononcer dans les six mois de sa saisine ; en cas d'appel de sa décision, la
+juridiction d'appel doit statuer dans les six mois de l'appel.
+
+Le montant donnant lieu à restitution est majoré des intérêts au taux légal courus depuis la date à laquelle la première
+fraction du versement a été acquittée.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 384 C (M)
+	  - Code de l'urbanisme - art. L331-46 (M)
+	  - Code de l'urbanisme - art. R*333-6 (Ab)
+	  - Code de l'urbanisme - art. R332-31 (Ab)
+	  - Code général des impôts, CGI. - art. 1723 octies (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L112-2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L333-3
+
+Les trois quarts du produit des versements au double du plafond légal sont attribués [*bénéficiaire*] à la commune ou, s'il
+en existe un, à l'établissement public groupant plusieurs communes et ayant compétence en matière d'urbanisme [*district
+urbain, syndicat de communes, communauté urbaine*], sur le territoire desquels se trouve située la construction.
+
+Les sommes ainsi versées sont inscrites à la section d'investissement du budget de la commune ou de l'établissement public
+groupant plusieurs communes et doivent être affectées au financement :
+
+a) De la constitution d'espaces verts publics ;
+
+b) D'acquisitions foncières en vue de la réalisation de logements sociaux et d'équipements collectifs ;
+
+c) Des acquisitions réalisées dans les zones d'intervention foncière et dans les zones d'aménagement différé ;
+
+d) Des dépenses faites ou des subventions attribuées pour la restauration d'édifices classés ou inscrits ainsi que pour la
+réhabilitation d'immeubles anciens compris dans un secteur sauvegardé, dans un périmètre de restauration immobilière, ou dans
+un site classé ou inscrit, dans la mesure ou l'occupation de ces locaux répond à des conditions fixées par décret en Conseil
+d'Etat ;
+
+e) De la construction d'immeubles d'habitation à usage locatif par les offices publics et les sociétés d'habitation à loyer
+modéré ainsi que par les organismes qui procèdent au logement des travailleurs immigrés.
+
+Les sommes collectées au titre des dispositions qui précèdent devront être versées aux communes ou aux établissements publics
+groupant plusieurs communes, pour la part leur revenant dans les trois mois suivant leur encaissement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°92-689 du 21 juillet 1992 - art. 1 (V)
+	  - CODE DES COMMUNES. - art. L231-9 (M)
+	  - Code de l'urbanisme - art. L332-3 (Ab)
+	  - Code de l'urbanisme - art. L333-5 (Ab)
+	  - Code de l'urbanisme - art. L333-6 (Ab)
+	  - Code de l'urbanisme - art. R*332-12 (M)
+	  - Code de l'urbanisme - art. R*333-12 (Ab)
+	  - Code de l'urbanisme - art. R*333-28 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L332-3 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L333-10 (Ab)
+	  - TXT_ASSOCIE: Code de l'urbanisme R332-12
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L333-4
+
+Dans la région parisienne, les communes ou les établissements publics groupant plusieurs communes ne reçoivent que la moitié
+du produit visé à l'article L. 333-3 (1er alinéa).
+
+Le quart de ce même produit est attribué [*bénéficiaire*] au district de la région parisienne qui doit l'affecter, pour la
+moitié au moins au financement :
+
+a) D'actions concourant à la mise en oeuvre d'une politique sociale de l'habitat en vue notamment de permettre aux
+populations aux ressources modestes de rester ou de revenir dans les centres villes ;
+
+b) De la constitution d'espaces verts publics.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°82-1126 1982-12-29 ART. 31 II : dans la région d'Ile-de-France, le quart du produit des versements dus au titre des densités de constructions supérieures au plafond légal concernant les permis de construire délivrés avant le 31 décembre 1982 rest
+
+	**Abrogé par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 31 () JORF 30 DECEMBRE 1982
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L333-10 (Ab)
+	  - Code de l'urbanisme L333-3 AL. 1
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L333-5 (M)
+	  - Code de l'urbanisme - art. R*333-28 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L333-5
+
+Par exception aux dispositions des articles L. 333-3 et L. 333-4, sont attribuées [*bénéficiaire*] en totalité à la commune
+ou à l'établissement public groupant plusieurs communes et ayant compétence en matière d'urbanisme, [*district urbain,
+syndicat de communes, communauté urbaine*] les sommes versées à concurrence de la densité comprise entre le plafond légal et
+une densité double de ce plafond :
+
+a) Par les organismes [*d'habitation à loyer modéré*] visés à l'article 159 du code de l'urbanisme et de l'habitation pour
+les constructions réalisées en application de l'article 153 du même code ;
+
+b) Par les sociétés immobilières créées dans les départements d'outre-mer en application de la loi n° 46-860 du 30 avril
+1946, pour la construction d'immeubles à caractère social ;
+
+c) Au titre d'opérations de rénovation urbaine ou de résorption de l'habitat insalubre, que celles-ci soient réalisées
+directement par les communes ou les établissements publics groupant plusieurs communes et ayant compétence en matière
+d'urbanisme ou qu'elles soient confiées par convention à des organismes habilités soumis à la tutelle de la puissance
+publique, à la condition que ces opérations comprennent un pourcentage de logements sociaux et d'équipements collectifs à
+caractère social, fixé par les décrets prévus à l'article L. 333-16.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°46-860 1946-04-30
+	  - Code de l'urbanisme - art. L333-16 (Ab)
+	  - Code de l'urbanisme - art. L333-3 (M)
+	  - Code de l'urbanisme - art. L333-4 (Ab)
+	  - Code de l'urbanisme 159
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*333-28 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L333-6
+
+Le quart restant du produit mentionné à l'article L. 333-3, alinéa premier, ainsi que la totalité du produit des versements
+effectués au titre des densités excédant le double du plafond légal seront versés [*bénéficiaire*] au fonds d'équipement des
+collectivités locales, créé par la loi de finances rectificative n. 75-853 du 13 septembre 1975 et feront l'objet d'une
+comptabilisation particulière.
+
+Les sommes ainsi comptabilisées seront employées dans des conditions qui seront fixées par la loi prévue à l'article 13-III
+de la loi du 13 septembre 1975 susvisée. Elles ne pourront être utilisées pour financer un remboursement de la taxe à la
+valeur ajoutée supportée par les collectivités locales sur leurs investissements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Cite**:
+
+	  - Loi n°75-853 1975-09-13
+	  - Code de l'urbanisme - art. L333-3 (M)
+
+	**Cité par**:
+
+	  - Loi n°76-1232 du 29 décembre 1976 - art. 54 (Ab)
+	  - CODE DES COMMUNES. - art. L235-13 (Ab)
+	  - CODE DES COMMUNES. - art. L235-15 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°82-1126 1982-12-29 ART. 31 II : dans la région d'Ile-de-France, le quart du produit des versements dus au titre des densités de constructions supérieures au plafond légal concernant les permis de construire délivrés avant le 31 décembre 1982 rest
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L333-6 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 31 () JORF 30 DECEMBRE 1982
+
+
+###### Article L333-7
+
+Lorsque la réalisation d'une zone d'aménagement concerté, d'une zone de rénovation urbaine ou d'une zone de résorption de
+l'habitat insalubre est effectuée en régie directe par la commune, un établissement public groupant plusieurs communes ou un
+établissement public y ayant vocation, le versement prévu à l'article L. 112-2 est à la charge [*redevable*] du bénéficiaire
+de l'autorisation de construire. Toutefois, la densité des constructions existantes et la surface prise en compte pour
+déterminer si les constructions nouvelles dépassent le plafond légal de densité, ainsi que la valeur des terrains, sont
+appréciées globalement pour l'ensemble de la zone.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L112-2 (M)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L113-2 (Ab)
+	  - Code de l'urbanisme - art. L311-1 (V)
+	  - Code de l'urbanisme - art. L333-16 (Ab)
+	  - Code de l'urbanisme - art. L333-9 (Ab)
+	  - Code de l'urbanisme - art. R*333-16 (Ab)
+	  - Code de l'urbanisme - art. R332-37 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L311-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L333-8
+
+Lorsque la réalisation d'une zone d'aménagement concerté, d'une zone de rénovation urbaine ou d'une zone de résorption de
+l'habitat insalubre n'est pas effectuée en régie directe, le versement prévu à l'article L. 112-2 est dû [*redevable*] non
+par le constructeur mais par l'organisme chargé de l'aménagement de la zone. La densité des constructions existantes et la
+surface prise en compte pour déterminer si les constructions nouvelles dépassent le plafond légal de densité, ainsi que la
+valeur des terrains, sont appréciées globalement pour l'ensemble de la zone par la convention d'aménagement ou le traité de
+concession. Si la commune ou l'établissement public groupant plusieurs communes et ayant compétence en matière d'urbanisme
+[*district urbain, syndicat de communes, communauté urbaine*] sur le territoire duquel est réalisée la zone n'est pas partie
+à cette convention ou à ce traité, l'avis du conseil municipal ou de l'organe délibérant de l'établissement public est
+recueilli avant la fixation de la densité des constructions.
+
+Le montant du versement peut être révisé dans les mêmes formes que celles prévues à l'alinéa précédent, lorsque les
+conditions de réalisation de l'opération sont modifiées.
+
+Le paiement est effectué par l'aménageur à la recette des impôts de la situation des biens dans les conditions fixées par la
+convention d'aménagement ou le traité de concession. Il constitue pour l'aménageur une dépense inscrite au bilan financier
+prévisionnel de la zone.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L112-2 (M)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L113-2 (Ab)
+	  - Code de l'urbanisme - art. L311-1 (V)
+	  - Code de l'urbanisme - art. L333-16 (Ab)
+	  - Code de l'urbanisme - art. L333-9 (Ab)
+	  - Code de l'urbanisme - art. R*333-16 (Ab)
+	  - Code de l'urbanisme - art. R*333-31 (Ab)
+	  - Code de l'urbanisme - art. R332-37 (Ab)
+	  - Code général des impôts, CGI. - art. 1723 nonies (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L311-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L333-9
+
+Les dispositions des articles L. 333-7 et L. 333-8 cessent d'être applicables à compter de la suppression de la zone [*ZAC,
+rénovation urbaine, habitat insalubre*] ou de son achèvement.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L332-7 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L332-8 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L333-7 (M)
+	  - Code de l'urbanisme - art. L333-8 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L333-10
+
+Le tribunal de grande instance de la situation de l'immeuble, statuant soit en matière correctionnelle en application de
+l'article L. 480-5 du code de l'urbanisme, soit en matière civile dans le cas visé à l'article L. 480-6 du même code, peut
+ordonner la démolition, totale ou partielle [*sanction*], d'une construction dont la densité excède le plafond légal :
+
+a) Qui a été édifiée sans autorisation ;
+
+b) Qui a été édifiée en infraction aux obligations résultant de l'autorisation.
+
+Dans tous les cas où il n'y aura pas démolition, et sans préjudice des sanctions prévues à l'article L. 480-4 du code de
+l'urbanisme, le constructeur sera tenu [*obligation*] d'effectuer un versement dont le montant sera trois fois celui qui
+aurait été dû si la construction avait été régulièrement autorisée.
+
+Ce versement, qui constitue une créance du Trésor immédiatement exigible en totalité, est attribué conformément aux articles
+L. 333-3, L. 333-4 et L. 333-6.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L333-3 (M)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L333-4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L333-11
+
+A défaut de paiement dans les délais impartis, l'indemnité de retard prévue au premier alinéa de l'article 1727 du code
+général des impôts est due par le redevable du versement.
+
+Le recouvrement, tant de la créance du Trésor que de l'indemnité de retard, est poursuivi dans les conditions fixées aux
+articles 1915 à 1918 du code précité. Il est garanti par le privilège du Trésor prévu à l'article 1929-1 du même code et, à
+défaut d'un engagement solidaire contracté dans le délai d'un mois à compter de la date de la délivrance de l'autorisation de
+construire par une ou plusieurs personnes physiques ou morales agréées comme caution par le comptable des impôts, par un
+hypothèque légale portant sur le terrain et sur les constructions.
+
+Sont tenus solidairement au versement prévu à l'article L. 112-2 :
+
+a) Les banques, établissements financiers ou sociétés de caution mutuelle qui sont garants de l'achèvement de la
+construction ;
+
+b) Les titulaires successifs de l'autorisation de construire ainsi que leurs ayants-cause autres que les personnes qui ont
+acquis les droits sur l'immeuble à construire en vertu d'un contrat régi par la loi n. 67-3 du 3 janvier 1967 relative aux
+ventes d'immeubles à construire.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 384 ter (P)
+	  - Code de l'urbanisme - art. R*332-6 (Ab)
+	  - Code de l'urbanisme - art. R*333-3 (Ab)
+	  - Code général des impôts, CGI. - art. 1723 decies (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme R332-6
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Abrogé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
+
+
+###### Article L333-12
+
+Le versement prévu à l'article L. 112-2 constitue, au point de vue fiscal, un élément du prix de revient du terrain sur
+lequel est édifiée la construction.
+
+Il donne lieu à l'application d'un prélèvement pour frais d'assiette et de perception qui reçoit l'affectation prévue à
+l'article 1646 du code général des impôts. Le taux de ce prélèvement, fixé par décret en Conseil d'Etat, ne peut excéder 2 p.
+100 de la valeur à laquelle il s'applique et décroît avec l'augmentation de celle-ci.
+
+L'action en recouvrement du versement dont dispose l'administration peut être exercée jusqu'à l'expiration de la quatrième
+année suivant celle au cours de laquelle le permis de construire a été délivré comme tacitement accordé. La prescription de
+l'action de l'administration est interrompue dans les conditions indiquées à l'article 1975 du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1646, 1975
+	  - Code de l'urbanisme - art. L112-2 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1723 undecies (M)
+	  - Code de l'urbanisme - art. L333-13 (Ab)
+	  - Code de l'urbanisme - art. R*333-10 (Ab)
+	  - Code de l'urbanisme - art. R*333-8 (Ab)
+	  - Code de l'urbanisme - art. R*333-9 (Ab)
+	  - Code général des impôts, CGI. - art. 1723 duodecies (Ab)
+	  - Code général des impôts, CGI. - art. 302 septies B (M)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 384 E (P)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 384 F (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L333-13
+
+L'annulation du permis de construire ou l'intervention d'un acte administratif constatant la péremption du permis entraîne de
+plein droit la restitution au constructeur du montant du versement effectué, à l'exception du prélèvement [*pour frais
+d'assiette et de perception*] visé à l'article L. 333-12. Il en est de même, en cas de démolition ordonnée par autorité de
+justice pour violation d'une servitude de droit privé, d'une construction édifiée après délivrance d'un permis de construire
+qui a donné lieu au versement visé à l'article L. 112-2.
+
+L'expropriation pour cause d'utilité publique d'un terrain pour lequel le constructeur a effectué le versement prévu à
+l'article L. 112-2 mais sur lequel les constructions prévues n'ont pas encore été réalisées, entraîne de plein droit la
+restitution prévue à l'alinéa précédent. Dans ce cas, à cette restitution qui est exclusive de toute indemnité de ce chef au
+titre du droit de l'expropriation, doit être ajouté le paiement par l'expropriant des intérêts au taux légal qui ont couru
+entre la date de publication de l'acte déclarant d'utilité publique l'opération et celle de la restitution.
+
+Lorsque, par suite de la délivrance d'un permis de construire modificatif, la surface développée hors oeuvre de la
+construction initialement autorisée est réduite, le montant du versement prévu à l'article L. 112-2 est rèduit à due
+concurrence. Au cas où un versement excédentaire aurait été opéré, l'excédent sera restitué au constructeur à l'exception du
+prélèvement visé à l'article L. 333-12.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 384 F (M)
+	  - Code de l'urbanisme - art. R*333-9 (M)
+	  - Code général des impôts, CGI. - art. 1723 duodecies (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L112-2 (M)
+	  - Code de l'urbanisme - art. L333-12 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme R333-9
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L333-14
+
+Sans préjudice des règles posées en matière de poursuites par l'article 1917 (alinéa 3) du code général des impôts, les
+litiges relatifs au versement prévu à l'article L. 112-2 sont, à l'exception de ceux relatifs à la détermination de la valeur
+vénale, de la compétence des tribunaux administratifs.
+
+Sauf lorsqu'elles concernent la valeur vénale du terrain, les réclamations sont présentées, instruites et jugées selon les
+règles de procédure applicables en matière de contributions directes.
+
+L'administration compétente pour statuer sur les réclamations et produire ses observations sur les recours contentieux autres
+que ceux relatifs à la détermination de la valeur vénale du terrain et au recouvrement, est celle de l'équipement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1917 AL. 3
+	  - Code de l'urbanisme - art. L112-2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Abrogé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1723 terdecies (Ab)
+
+
+###### Article L333-15
+
+Pour l'application des dispositions du présent chapitre, sont considérés comme des établissements publics groupant plusieurs
+communes et ayant compétence en matière d'urbanisme, les établissements publics qui, en vertu de la loi ou de leurs statuts,
+sont compétents pour l'élaboration des documents d'urbanisme et la réalisation de zones d'aménagement concerté.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 384 septies (P)
+	  - Code de l'urbanisme - art. R*332-11 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L333-16
+
+Des décrets en Conseil d'Etat déterminent, en tant que de besoin, les modalités d'application du présent chapitre et,
+notamment, les conditions dans lesquelles sera calculée la surface des terrains prise en compte pour l'application du plafond
+légal de densité dans les zones visées aux articles L. 333-7 et L. 333-8 [*ZAC, rénovation urbaine, habitat insalubre*]
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L332-7 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L332-8 (M)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L333-5 (Ab)
+	  - Code général des impôts, CGI. - art. 1723 quaterdecies (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L333-7 (M)
+	  - Code de l'urbanisme - art. L333-8 (M)
 
 	**Codifié par**:
 
@@ -7127,85 +8306,7 @@ Cette dotation sera imputée sur les ressources du fonds national d'aménagement
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
-#### Participation des constructeurs et les lotisseurs
-
-##### Participation en cas de dépassement du coefficient d'occupation du sol.
-
-###### Article L332-2
-
-La participation mentionnée à l'article L. 322-1 est égale à 90 p. 100 [*taux*] de la valeur de la surface supplémentaire de
-terrain qui aurait été nécessaire pour l'édification de la construction si le coefficient d'occupation du sol avait été
-respecté.
-
-Cette valeur est celle du terrain déterminée comme si les possibilités maximales de construction qu'il peut supporter
-résultaient de la seule application du coefficient d'occupation du sol ; elle est déclarée par le constructeur lorsqu'il
-demande le permis de construire ou lorsqu'il fait usage de la procédure prévue à l'article L. 430-3 [*déclaration préalable
-de travaux*]. A défaut de déclaration, elle est estimée par l'autorité administrative.
-
-En cas de désaccord entre l'autorité administrative et le redevable sur la valeur vénale indiquée à l'alinéa précédent,
-celle-ci est fixée par la juridiction compétente en matière d'indemnité d'expropriation.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L332-1 (M)
-	  - Code de l'urbanisme - art. L430-3 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L332-5 (Ab)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. L332-5 (Ab)
-	  - Code de l'urbanisme - art. L332-6 (M)
-	  - Code de l'urbanisme - art. L340-1 (M)
-	  - Code de l'urbanisme - art. R*332-1 (M)
-	  - Code de l'urbanisme - art. R421-4 (M)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 21 II
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-
 #### Participation des constructeurs et des lotisseurs
-
-##### Participation en cas de dépassement du coéfficient d'occupation du sol.
-
-###### Article L332-3
-
-La participation est perçue au profit [*bénéficiaire*] des collectivités locales ou, s'il en existe, des établissement ayant
-participé au financement des équipements qui contribuent à accroître la capacité de la zone considérée ;
-
-La participation a le caractère d'une recette extraordinaire affectée aux acquisitions foncières et aux dépenses d'équipement
-Son utilisation doit être approuvée par l'autorité de tutelle.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. L332-27 (VT)
-	  - Code de l'urbanisme - art. L332-6 (M)
-	  - Code de l'urbanisme - art. L340-1 (M)
-	  - Code de l'urbanisme - art. R*332-1 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L333-3 (M)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 21 III
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
 
 ##### Participation en cas d'institution de la taxe locale d'équipement ou de renonciation à sa perception.
 
@@ -7472,37 +8573,6 @@ nécessaires à l'application dans les départements d'outre-mer des articles L.
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. L730-1 (VT)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-
-###### Article L340-2
-
-Les dispositions des articles L. 332-6 à L. 332-9 peuvent être étendues aux départements d'outre-mer par décret en Conseil
-d'Etat avec les adaptations éventuellement nécessaires.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-581 1971-07-16 ART. 21-I
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. L213-2 (V)
-	  - Code de l'urbanisme - art. L730-7 (VT)
-	  - Code de l'urbanisme - art. R340-1 (V)
-	  - Code de l'urbanisme - art. R340-3 (V)
-	  - Code de la construction et de l'habitation. - art. L302-7 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L332-6 (M)
-	  - Code de l'urbanisme - art. L332-7 (M)
-	  - Code de l'urbanisme - art. L332-8 (M)
-	  - Code de l'urbanisme - art. L332-9 (M)
 
 	**Codifié par**:
 
