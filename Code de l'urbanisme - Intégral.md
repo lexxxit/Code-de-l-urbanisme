@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2001-12-14
+Version Consolidée au 2002-01-01
 
 # Partie législative
 
@@ -11883,9 +11883,20 @@ l'ordonnance au 1er octobre 2007.
 
 ###### Article L316-2
 
-Sera punie d'une amende de 120000 F et, en cas de récidive, d'une amende de 300000 F toute personne qui aura vendu ou loué
-des terrains bâtis ou non bâtis compris dans un lotissement sans être munie d'une autorisation délivrée par l'autorité
-compétente ou sans s'être conformée aux prescriptions imposées par ladite autorisation *infraction*.
+Sera punie d'une amende de 18 000 euros et, en cas de récidive, d'une amende de 45 000 euros toute personne qui aura vendu ou
+loué des terrains bâtis ou non bâtis compris dans un lotissement sans être munie d'une autorisation délivrée par l'autorité
+compétente ou sans s'être conformée aux prescriptions imposées par ladite autorisation.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
 
 **Liens relatifs à cet article**
 
@@ -11896,10 +11907,16 @@ compétente ou sans s'être conformée aux prescriptions imposées par ladite au
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 22 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
 
 	**Cité par**:
 
@@ -11919,16 +11936,27 @@ d'autorisation et rappeler que le projet autorisé est déposé à la mairie. La
 non conforme aux prescriptions dudit arrêté ou susceptible de causer une méprise dans l'esprit de l'acquéreur sur les charges
 et conditions auxquelles le lotisseur entend subordonner la vente ou la location des lots.
 
-L'arrêté d'autorisation et le cahier des charges fixanr les conditions de vente ou de location des lots sont remis à
+L'arrêté d'autorisation et le cahier des charges fixant les conditions de vente ou de location des lots sont remis à
 l'acquéreur lors de la signature de la promesse de vente ou de l'acte de vente ainsi qu'au preneur lors de la signature des
-engagements de location ils doivent leur avoir été communiqués préalablement.
+engagements de location ; ils doivent leur avoir été communiqués préalablement.
 
 Les actes mentionnent que ces formalités ont été effectuées.
 
-Toute infraction aux dispositions du présent article est passible d'une amende de 120000 F. En cas de récidive, l'amende est
-de 300000 F.
+Toute infraction aux dispositions du présent article est passible d'une amende de 18 000 euros. En cas de récidive, l'amende
+est de 45 000 euros.
 
-Aucun acompte ne peut être accepté avant l'intervention de l'arrêté d'autorisation, sous peine d'une amende de 200000 F.
+Aucun acompte ne peut être accepté avant l'intervention de l'arrêté d'autorisation, sous peine d'une amende de 30 000 euros.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
 
 **Liens relatifs à cet article**
 
@@ -11943,10 +11971,16 @@ Aucun acompte ne peut être accepté avant l'intervention de l'arrêté d'autori
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 22 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
 
 	**Cité par**:
 
@@ -12008,16 +12042,16 @@ l'ordonnance au 1er octobre 2007.
 Sans préjudice, le cas échéant, de l'application de peines plus fortes prévues aux articles 433-7 et 433-8 du code pénal,
 quiconque met obstacle à l'exercice du droit appartenant, pour l'application de la réglementation en matière de lotissements,
 au préfet, au maire, au directeur départemental de l'équipement ou à leurs délégués, de procéder à tout moment à la visite
-des lieux et aux vérifications qu'ils jugent utiles, sera puni d'une amende de 25000 F. En outre, un emprisonnement de un
+des lieux et aux vérifications qu'ils jugent utiles, sera puni d'une amende de 3 750 euros. En outre, un emprisonnement de un
 mois pourra être prononcé.
 
-Si les vérifications faites révèlent qu les travaux exécutés ne sont pas conformes aux prescriptions de l'arrêté
+Si les vérifications faites révèlent que les travaux exécutés ne sont pas conformes aux prescriptions de l'arrêté
 d'autorisation, il est dressé procès-verbal de l'infraction.
 
 Lorsque les prescriptions imposées par l'arrêté d'autorisation n'auront pas été respectées, le tribunal pourra prononcer les
 peines prévues à l'article L. 316-2 et en outre impartir un délai au lotisseur pour mettre les travaux en conformité avec
-lesdites prescriptions, sous peine d'une astreinte de 50 à 500 F par jour de retard; l'astreinte prononcée court à partir de
-l'expiration dudit délai [*point de départ*] jusqu'au jour où les travaux sont définitivement achevés.
+lesdites prescriptions, sous peine d'une astreinte de 7,5 à 75 euros par jour de retard ; l'astreinte prononcée court à
+partir de l'expiration dudit délai jusqu'au jour où les travaux sont définitivement achevés.
 
 L'autorité compétente pour autoriser la création d'un lotissement peut faire effectuer les travaux d'office aux frais et
 risques financiers du lotisseur si, à l'expiration du délai fixé par le jugement, les travaux n'ont pas été mis en conformité
@@ -12029,20 +12063,32 @@ la ou des communes aux caisses desquelles sont versées les sommes recouvrées.
 Après l'achèvement des travaux le tribunal peut autoriser le reversement d'une partie des astreintes si le lotisseur établit
 qu'il a été empêché d'observer, par des circonstances indépendantes de sa volonté, le délai qui lui avait été imparti.
 
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 22 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
 
 	**Cite**:
 
@@ -12051,6 +12097,10 @@ qu'il a été empêché d'observer, par des circonstances indépendantes de sa v
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. L480-4-1 (T)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 #### Chapitre VIII : Dispositions relatives à certaines opérations
@@ -13820,14 +13870,10 @@ syndicats mixtes concernés.
 L'établissement public peut recevoir des dotations financières prélevées sur l'excédent du produit de la taxe d'aide au
 commerce et à l'artisanat, prévue au 2° de l'article 3 de la loi n° 72-657 du 13 juillet 1972 instituant des mesures en
 faveur de certaines catégories de commerçants et d'artisans âgés. Le prélèvement effectué sur l'excédent constaté au 31
-décembre 1995 est fixé à 130 millions de francs. Les prélèvements effectués sur les excédents ultérieurs seront fixés par
+décembre 1995 est fixé à 19,82 millions d'euros. Les prélèvements effectués sur les excédents ultérieurs seront fixés par
 décret sur la base du montant du prélèvement initial.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 	**Cité par**:
 
@@ -13849,12 +13895,18 @@ décret sur la base du montant du prélèvement initial.
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 90 () JORF 14 décembre 2000
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°2003-53 du 17 janvier 2003
 	  - TXT_SOURCE: Décret n°2003-53 du 17 janvier 2003 - art. 1 (V)
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 ###### Article L325-2
@@ -15504,12 +15556,12 @@ dispositions contenues dans le plan local d'urbanisme relatives à la réalisati
 
 A défaut de pouvoir réaliser l'obligation prévue au quatrième alinéa, le pétitionnaire peut être tenu de verser à la commune
 une participation fixée par le conseil municipal, en vue de la réalisation de parcs publics de stationnement. Le montant de
-cette participation ne peut excéder 80 000 F par place de stationnement. Cette valeur, fixée à la date de promulgation de la
-loi n° 2000-1208 du 13 décembre 2000 relative à la solidarité et au renouvellement urbains, est modifiée au 1er novembre de
-chaque année en fonction de l'indice du coût de la construction publié par l'Institut national de la statistique et des
+cette participation ne peut excéder 12 195 euros par place de stationnement. Cette valeur, fixée à la date de promulgation de
+la loi n° 2000-1208 du 13 décembre 2000 relative à la solidarité et au renouvellement urbains, est modifiée au 1er novembre
+de chaque année en fonction de l'indice du coût de la construction publié par l'Institut national de la statistique et des
 études économiques.
 
-Un Décret en Conseil d'Etat détermine les conditions d'application des quatrième et cinquième alinéa du présent article et
+Un décret en Conseil d'Etat détermine les conditions d'application des quatrième et cinquième alinéas du présent article et
 précise notamment les modalités d'établissement, de liquidation et de recouvrement de la participation prévue au quatrième
 alinéa, ainsi que les sanctions et garanties y afférentes.
 
@@ -15537,6 +15589,17 @@ stationnement pour trois fauteuils.
 Les dispositions des deux alinéas précédents ne font pas obstacle aux travaux de réfection et d'amélioration ou à l'extension
 limitée des bâtiments commerciaux existant à la date d'entrée en vigueur de la loi n° 2000-1208 du 13 décembre 2000 précitée.
 
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -15549,8 +15612,7 @@ limitée des bâtiments commerciaux existant à la date d'entrée en vigueur de 
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 2000-12-13 art. 34 I, II III JORF 14 décembre 2000
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 34 () JORF 14 décembre 2000
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -15575,6 +15637,11 @@ limitée des bâtiments commerciaux existant à la date d'entrée en vigueur de 
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103-97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974-98 1998-05-03
 
 
 ###### Article L421-4
@@ -16667,9 +16734,9 @@ l'ordonnance au 1er octobre 2007.
 Les infractions aux dispositions de l'article précédent sont constatées selon les modalités de l'article L. 480-1 du présent
 code.
 
-Les méconnaissances des obligations imposées par l'article L. 430-4-1 sont sanctionnées d'une amende de 25000 F. La
+Les méconnaissances des obligations imposées par l'article L. 430-4-1 sont sanctionnées d'une amende de 3 750 euros. La
 réinstallation de la plaque commémorative est prononcée par le tribunal et assortie d'une astreinte dont le montant ne peut
-être inférieur à 500 F.
+être inférieur à 75 euros.
 
 En outre, en cas de perte ou de destruction de la plaque commémorative au cours des travaux, le tribunal ordonne, à la charge
 du maître d'ouvrage, la gravure et l'installation d'une nouvelle plaque apposée dans les conditions du deuxième alinéa de
@@ -16679,19 +16746,32 @@ Toute association telle que définie à l'article 2-4 du code de procédure pén
 civile en ce qui concerne les faits constituant une infraction à l'article L. 430-4-1 du présent code et portant un préjudice
 direct ou indirect aux intérêts collectifs qu'elle a pour objet de défendre.
 
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - TXT_SOURCE: Règlement CE 1103-97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974-98 1998-05-03
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
 
 	**Cite**:
 
@@ -16705,6 +16785,10 @@ direct ou indirect aux intérêts collectifs qu'elle a pour objet de défendre.
 	  - Code de l'urbanisme - art. L422-3 (M)
 	  - Code de l'urbanisme - art. L422-5 (M)
 	  - Code de l'urbanisme - art. L480-4-1 (T)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 ###### Article L430-5
@@ -16833,29 +16917,53 @@ NOTA : (1) Lire L. 313-2 du code de l'urbanisme.
 ###### Article L430-9
 
 Sans préjudice des sanctions édictées par le présent code, la loi du 31 décembre 1913, la loi du 2 mai 1930 et l'article 59
-modifié de la loi n. 48-1360 du 1er septembre 1948, toute personne qui aura enfreint les dispositions de l'article L. 430-2
+modifié de la loi n° 48-1360 du 1er septembre 1948, toute personne qui aura enfreint les dispositions de l'article L. 430-2
 ou qui ne se sera pas conformée aux conditions ou obligations imposées par le permis de démolir sera condamnée à une amende
-civile de 2000 à 500 000 F.
+civile de 300 à 75 000 euros.
 
-cette amende sera prononcée à la requête du ministère public par le président du tribunal de grande instance du lieu de
-l'immeuble statuant comme en matière de référé ; le produit en sera versé pour moitié à l'agence nationale pour
-l'amélioration de l'habitat et pour l'autre moitié à la caisse nationale des monuments historiques et des sites.
+Cette amende sera prononcée à la requête du ministère public par le président du tribunal de grande instance du lieu de
+l'immeuble statuant comme en matière de référé ; le produit en sera versé pour moitié à l'agence nationale de l'habitat et
+pour l'autre moitié à la caisse nationale des monuments historiques et des sites.
 
 En cas d'infraction aux dispositions du deuxième alinéa de l'article L. 430-2 les locaux devront être remis en état et
 réaffectés à leur usage antérieur dans un délai de six mois ou dans le délai éventuellement imparti par le juge. Passé ce
 délai, l'administration pourra procéder aux frais du contrevenant à l'exécution des travaux nécessaires.
 
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L430-2 (Ab)
-	  - Loi n°1913-12-31
-	  - Loi n°48-1360 du 1 septembre 1948 - art. 59 (M)
 
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Cite**:
+
+	  - Loi n°1913-12-31
+	  - Loi n°48-1360 du 1 septembre 1948 - art. 59 (M)
+	  - Code de l'urbanisme - art. L430-2 (Ab)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103-97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974-98 1998-05-03
 
 
 ### TITRE IV : Dispositions relatives aux modes particuliers d'utilisation du sol
@@ -17993,15 +18101,22 @@ l'ordonnance au 1er octobre 2007.
 
 ###### Article L480-3
 
-En cas de continuation des travaux nonobstant la décision judiciaire ou l'arrêté en ordonnant l'interruption[*infraction*],
-une amende de 500000 F et un emprisonnement de trois mois, ou l'une de ces deux peines seulement, sont prononcés par le
-tribunal contre les personnes visées à l'article L. 480-4 (2. alinéa).
+En cas de continuation des travaux nonobstant la décision judiciaire ou l'arrêté en ordonnant l'interruption, une amende de
+75 000 euros et un emprisonnement de trois mois, ou l'une de ces deux peines seulement, sont prononcés par le tribunal contre
+les personnes visées à l'article L. 480-4 (2è alinéa).
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 	**Cité par**:
 
@@ -18024,14 +18139,20 @@ tribunal contre les personnes visées à l'article L. 480-4 (2. alinéa).
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - TXT_SOURCE: Règlement CE 1103-97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974-98 1998-05-03
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Anciens textes**:
 
 	  - Code de l'urbanisme 102-1
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L480-4
@@ -18039,10 +18160,10 @@ tribunal contre les personnes visées à l'article L. 480-4 (2. alinéa).
 L'exécution de travaux ou l'utilisation du sol en méconnaissance des obligations imposées par les titres Ier, II, IV et VI du
 présent livre, par les règlements pris pour son application ou par les autorisations délivrées en conformité avec leurs
 dispositions, exception faite des infractions relatives à l'affichage des autorisations ou déclarations concernant des
-travaux, constructions ou installations, est punie d'une amende comprise entre 8 000 F et un montant qui ne peut excéder,
-soit, dans le cas de construction d'une surface de plancher, une somme égale à 40 000 F par mètre carré de surface
-construite, démolie ou rendue inutilisable au sens de l'article L.430-2, soit, dans les autres cas, un montant de 2 000 000
-F. En cas de récidive, outre la peine d'amende ainsi définie un emprisonnement de six mois pourra être prononcé.
+travaux, constructions ou installations, est punie d'une amende comprise entre 1 200 euros et un montant qui ne peut excéder,
+soit, dans le cas de construction d'une surface de plancher, une somme égale à 6 000 euros par mètre carré de surface
+construite, démolie ou rendue inutilisable au sens de l'article L. 430-2, soit, dans les autres cas, un montant de 300 000
+euros. En cas de récidive, outre la peine d'amende ainsi définie un emprisonnement de six mois pourra être prononcé.
 
 Les peines prévues à l'alinéa précédent peuvent être prononcées contre les utilisateurs du sol, les bénéficiaires des
 travaux, les architectes, les entrepreneurs ou autres personnes responsables de l'exécution desdits travaux.
@@ -18054,6 +18175,17 @@ les autorisations visées au premier alinéa ;
 
 2. En cas d'inobservation, par les bénéficiaires d'autorisations accordées pour une durée limitée ou à titre précaire, des
 délais impartis pour le rétablissement des lieux dans leur état antérieur ou la réaffectation du sol à son ancien usage.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
 
 **Liens relatifs à cet article**
 
@@ -18094,10 +18226,12 @@ délais impartis pour le rétablissement des lieux dans leur état antérieur ou
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - TXT_SOURCE: Règlement CE 1103-97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974-98 1998-05-03
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -18209,8 +18343,8 @@ La demande précitée est recevable jusqu'au jour où l'action publique se serai
 ###### Article L480-7
 
 Le tribunal impartit au bénéficiaire des travaux irréguliers ou de l'utilisation irrégulière du sol un délai pour l'exécution
-de l'ordre de démolition, de mise en conformité ou de réaffectation ; il peut assortir sa décision d'une astreinte de  50 F à
-500 F [*montant*] par jour de retard.
+de l'ordre de démolition, de mise en conformité ou de réaffectation ; il peut assortir sa décision d'une astreinte de  7,5
+euros à 75 euros par jour de retard.
 
 Au cas où le délai n'est pas observé, l'astreinte prononcée, qui ne peut être révisée que dans le cas prévu au troisième
 alinéa du présent article, court à partir de l'expiration dudit délai jusqu'au jour où l'ordre a été complètement exécuté
@@ -18239,6 +18373,10 @@ lui a été imparti.
 	  - Code de l'urbanisme - art. L480-4-1 (V)
 	  - Code rural - art. R*242-47 (Ab)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 	**Anciens textes**:
 
 	  - Code de l'urbanisme 104-2
@@ -18246,6 +18384,11 @@ lui a été imparti.
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L480-8
@@ -18343,10 +18486,19 @@ l'ordonnance au 1er octobre 2007.
 ###### Article L480-12
 
 Sans préjudice de l'application, le cas échéant, des peines plus fortes prévues aux articles 433-7 et 433-8 du code pénal,
-quiconque aura mis obstacle à l'exercice du droit de visite [*infraction*] prévu à l'article L. 460-1 sera puni d'une amende
-de 25 000 F.
+quiconque aura mis obstacle à l'exercice du droit de visite prévu à l'article L. 460-1 sera puni d'une amende de 3 750 euros.
+En outre un emprisonnement de un mois pourra être prononcé.
 
-En outre un emprisonnement d'un mois [*durée*] pourra être prononcé.
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
 
 **Liens relatifs à cet article**
 
@@ -18367,27 +18519,29 @@ En outre un emprisonnement d'un mois [*durée*] pourra être prononcé.
 	  - Code du patrimoine. - art. L642-4 (V)
 	  - Loi n°1941-05-26. du 26 mai 1941 - art. 7 (Ab)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L152-4 (M)
-
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
-	  - Code pénal 209 à 233
+	  - Code pénal - art. 433-7 (M)
+	  - Code pénal - art. 433-8 (M)
 	  - Code de l'urbanisme - art. L460-1 (M)
 
 	**Anciens textes**:
 
 	  - Code de l'urbanisme 100
 
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L152-4 (M)
+	  - TXT_SOURCE: Règlement CE 1103-97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974-98 1998-05-03
+
 	**Codifié par**:
 
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 ###### Article L480-13
@@ -18706,8 +18860,8 @@ d'achèvement des travaux ou de la constatation de l'achèvement de ces travaux.
 ###### Article L520-3
 
 Le montant de la redevance due par mètre carré de surface utile de plancher peut varier selon les périmètres considérés, sans
-pouvoir excéder 1 600 F. Ce montant et ces périmètres sont fixés par décret en Conseil d'Etat en fonction du taux d'emploi et
-de son évolution.
+pouvoir excéder 244 euros. Ce montant et ces périmètres sont fixés par décret en Conseil d'Etat en fonction du taux d'emploi
+et de son évolution.
 
 **Liens relatifs à cet article**
 
@@ -18717,7 +18871,7 @@ de son évolution.
 
 	**Modifié par**:
 
-	  - Loi n°88-1193 du 29 décembre 1988 - art. 48 () JORF 30 décembre 1988
+	  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -22514,30 +22668,39 @@ Le coût foncier imputé à la partie des constructions ayant la destination de 
 les conditions fixées par l'article L. 127-1, la densité résultant du coefficient d'occupation des sols ne peut excéder le
 montant obtenu par l'application du barème ci-après à la surface hors oeuvre nette de cette partie des constructions :
 
-1. Dans les communes de la zone 1 définie à l'article R. 127-3, 1 350 F (T.T.C.) par mètre carré de plancher hors oeuvre net
-des maisons d'habitation individuelle et 900 F (T.T.C.) par mètre carré de plancher hors oeuvre net des autres constructions
-à usage d'habitation ;
+1. Dans les communes de la zone 1 définie à l'article R. 127-3, 205 euros (T.T.C.) par mètre carré de plancher hors oeuvre
+net des maisons d'habitation individuelle et 140 euros (T.T.C.) par mètre carré de plancher hors oeuvre net des autres
+constructions à usage d'habitation ;
 
-2. Dans les communes de la zone 2 définie au même article, 900 F (T.T.C.) par mètre carré de plancher hors oeuvre net des
-maisons d'habitation individuelle et 600 F (T.T.C.) par mètre carré de plancher hors oeuvre net des autres constructions à
+2. Dans les communes de la zone 2 définie au même article, 140 euros (T.T.C.) par mètre carré de plancher hors oeuvre net des
+maisons d'habitation individuelle et 90 euros (T.T.C.) par mètre carré de plancher hors oeuvre net des autres constructions à
 usage d'habitation ;
 
-3. Dans les communes de la zone 3 définie au même article, 450 F (T.T.C.) par mètre carré de plancher hors oeuvre net des
-maisons d'habitation individuelle et 300 F (T.T.C.) par mètre carré de plancher hors oeuvre net des autres constructions à
+3. Dans les communes de la zone 3 définie au même article, 70 euros (T.T.C.) par mètre carré de plancher hors oeuvre net des
+maisons d'habitation individuelle et 45 euros (T.T.C.) par mètre carré de plancher hors oeuvre net des autres constructions à
 usage d'habitation ;
 
-4. Dans les communes des départements d'outre-mer, 360 F (T.T.C.) par mètre carré de plancher hors oeuvre net des
+4. Dans les communes des départements d'outre-mer, 55 euros (T.T.C.) par mètre carré de plancher hors oeuvre net des
 constructions à usage d'habitation.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 96-26 CE 1996-04-29
+	  - TXT_SOURCE: Directive 98-76 CE 1998-10-01
+	  - SPEC_APPLI: Décret n°2001-1327 2001-12-28 art. 5 : champ d'application
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 2866/98 1998-12-31
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-676 du 9 mai 1995 - art. 2 () JORF 10 mai 1995
+	  - Décret n°2001-1327 du 28 décembre 2001 - art. 1 () JORF 29 décembre 2001 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -25393,10 +25556,10 @@ pour assurer la coordination dans le massif.
 ###### Article R145-10
 
 Le renforcement des remontées mécaniques ou leur extension est considéré comme unité touristique nouvelle lorsque les
-dépenses de construction et d'installation correspondantes, effectuées en une ou plusieurs tranches, excèdent 17 500 000
-francs. Toutefois, le remplacement d'une remontée mécanique ne constitue pas une unité touristique nouvelle lorsque, d'une
-part, les lieux de départ et d'arrivée sont inchangés et que, d'autre part, le débit horaire maximum de la nouvelle
-installation est inférieur au triple de celui de l'ancien équipement.
+dépenses de construction et d'installation correspondantes, effectuées en une ou plusieurs tranches, excèdent 2300000 euros.
+Toutefois, le remplacement d'une remontée mécanique ne constitue pas une unité touristique nouvelle lorsque, d'une part, les
+lieux de départ et d'arrivée sont inchangés et que, d'autre part, le débit horaire maximum de la nouvelle installation est
+inférieur au triple de celui de l'ancien équipement.
 
 Le montant du seuil financier fixé à l'alinéa précédent est révisé tous les deux ans par arrêté du ministre chargé des
 transports en fonction de l'indice I :
@@ -25408,18 +25571,20 @@ consommation.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Arrêté 1997-01-16 art. 1 JORF 25 janvier 1997
-
 	**Liens**:
 
 	  - TXT_SOURCE: Arrêté du 10 mai 1990
 	  - TXT_SOURCE: Arrêté du 10 mai 1990 - art. 1 ()
 	  - TXT_SOURCE: Arrêté du 14 septembre 1994
 	  - TXT_SOURCE: Arrêté du 14 septembre 1994 - art. 1 (V)
+	  - TXT_SOURCE: Directive 96-26 CE 1996-04-29
+	  - TXT_SOURCE: Directive 98-76 CE 1998-10-01
+	  - SPEC_APPLI: Décret n°2001-1327 2001-12-28 art. 5 : champ d'application
 	  - TXT_SOURCE: Arrêté du 6 février 2002
 	  - TXT_SOURCE: Arrêté du 6 février 2002 - art. 1 (V)
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 2866/98 1998-12-31
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 	**Cité par**:
 
@@ -25430,6 +25595,10 @@ consommation.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°2001-1327 du 28 décembre 2001 - art. 1 () JORF 29 décembre 2001 en vigueur le 1er janvier 2002
 
 
 #### Chapitre VI : Dispositions particulières au littoral
@@ -28258,46 +28427,46 @@ lieu, ayant fait l'objet d'une enquête publique, la création de plus de 5 000 
 la restauration, dans les conditions définies à l'article L. 313-4-1, d'un ensemble de bâtiments ayant au moins cette
 surface ;
 
-2. La réalisation d'un investissement routier dans une partie urbanisée d'une commune d'un montant supérieur à 12 000 000 F,
-et conduisant à la création de nouveaux ouvrages ou à la modification d'assiette d'ouvrages existants ;
+2. La réalisation d'un investissement routier dans une partie urbanisée d'une commune d'un montant supérieur à 1 900 000
+euros, et conduisant à la création de nouveaux ouvrages ou à la modification d'assiette d'ouvrages existants ;
 
 3. La transformation d'une voie existante en aire piétonne d'une superficie supérieure à 3 000 mètres carrés ou la
 suppression d'une aire piétonne d'une même superficie ;
 
 4. La création d'une gare ferroviaire ou routière de voyageurs, de marchandises ou de transit ou l'extension de son emprise,
-lorsque le montant des travaux dépasse 12 000 000 F ;
+lorsque le montant des travaux dépasse 1 900 000 euros ;
 
 5. Les travaux de modification de gabarit, de détournement ou de couverture de cours d'eau dans une partie urbanisée d'une
-commune, lorsque le montant des travaux dépasse 12 000 000 F ;
+commune, lorsque le montant des travaux dépasse 1 900 000 euros ;
 
 6. Les travaux de construction ou d'extension d'infrastructures portuaires des ports fluviaux situés dans une partie
-urbanisée d'une commune, lorsque le montant de ces travaux dépasse 12 000 000 F, ainsi que la création d'un port fluvial de
-plaisance d'une capacité d'accueil supérieure à 150 places ou l'extension d'un port de plaisance portant sur au moins 150
+urbanisée d'une commune, lorsque le montant de ces travaux dépasse 1 900 000 euros, ainsi que la création d'un port fluvial
+de plaisance d'une capacité d'accueil supérieure à 150 places ou l'extension d'un port de plaisance portant sur au moins 150
 places ;
 
 7. Dans une partie urbanisée d'une commune, la création d'un port maritime de commerce, de pêche ou de plaisance, les travaux
-d'extension de la surface des plans d'eau abrités des ports maritimes de commerce ou de pêche d'un montant supérieur à 12 000
-000 F, ainsi que les travaux ayant pour effet d'accroître de plus de 10 p. 100 la surface du plan d'eau abrité des ports
+d'extension de la surface des plans d'eau abrités des ports maritimes de commerce ou de pêche d'un montant supérieur à 1 900
+000 euros, ainsi que les travaux ayant pour effet d'accroître de plus de 10 p. 100 la surface du plan d'eau abrité des ports
 maritimes de plaisance ;
 
 8. Les ouvrages et travaux sur une emprise de plus de 2 000 mètres carrés réalisés sur une partie de rivage, de lais ou
 relais de la mer située en dehors des ports et au droit d'une partie urbanisée d'une commune.
 
-**Nota:**
-
-Nota: Les dispositions de l'article 3 du décret 2000-1272 du 26 décembre 2000 sont applicables aux demandes de permis de
-construire, d'autorisation de lotir ou d'approbation de programmes de travaux de restauration immobilière présentées après le
-29 avril 2000.
-
 **Liens relatifs à cet article**
 
 	**Liens**:
 
+	  - TXT_SOURCE: Directive 98-76 CE 1998-10-01
 	  - SPEC_APPLI: Décret n°2000-1272 du 26 décembre 2000 - art. 3 ()
+	  - SPEC_APPLI: Décret n°2001-1327 2001-12-28 art. 5 : champ d'application
+	  - TXT_SOURCE: Directive 96-26 CE 1996-04-29
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 2866/98 1998-12-31
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 	**Modifié par**:
 
-	  - Décret n°2001-260 du 27 mars 2001 - art. 3 () JORF 28 mars 2001
+	  - Décret n°2001-1327 du 28 décembre 2001 - art. 1 () JORF 29 décembre 2001 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -38134,7 +38303,7 @@ Les ressources de l'établissement comprennent notamment :
 - les contributions qui lui sont apportées par les collectivités locales, établissements publics et sociétés nationales ainsi
 que toutes autres personnes morales publiques ou privées intéressées et qui peuvent comprendre des ressources affectées ;
 
-- le produit des emprunts qu'il est autorisé à contracter, dans la limite d'un plafond de 130 millions de francs ;
+- le produit des emprunts qu'il est autorisé à contracter, dans la limite d'un plafond de 20 millions d'euros ;
 
 - la rémunération de ses prestations de services ;
 
@@ -38146,17 +38315,26 @@ que toutes autres personnes morales publiques ou privées intéressées et qui p
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-1327 2001-12-28 art. 5 : champ d'application
+	  - TXT_SOURCE: Directive 96-26 CE 1996-04-29
+	  - TXT_SOURCE: Directive 98-76 CE 1998-10-01
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 2866/98 1998-12-31
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L325-1 (V)
+
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-130 du 12 février 1997 - art. 1 () JORF 13 février 1997
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L325-1 (M)
+	  - Décret n°2001-1327 du 28 décembre 2001 - art. 1 () JORF 29 décembre 2001 en vigueur le 1er janvier 2002
 
 
 ###### Article R325-9
@@ -38789,19 +38967,6 @@ l'Etat verse des provisions sur sa participation, telle qu'elle est prévue conf
 
 #### Chapitre II : Participation des constructeurs et des lotisseurs
 
-#####  Section 1 : Participation en cas de dépassement du coefficient d'occupation des sols
-
-###### Article R*332-2
-
-Pour le calcul de la participation, il est fait abstraction des fractions de sommes inférieures à 10 F.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 #####  Section 1 : Participation en cas de dépassement du coefficient d'occupation du sol
 
 ###### Article R*332-1
@@ -38857,6 +39022,34 @@ NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 	  - Code de l'urbanisme - art. L112-2 (M)
 	  - Code de l'urbanisme - art. L113-2 (Ab)
 	  - Code de l'urbanisme L332-1 à L332-5, R123-22, L112-1, L112-2, L113-2
+
+
+###### Article R*332-2
+
+Pour le calcul de la participation, il est fait abstraction des fractions de sommes inférieures à 1,52 euro.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article R*332-3
@@ -39622,60 +39815,82 @@ Dans tous les cas, l'inscription mentionne la date à laquelle elle est portée 
 
 ###### Article R*333-1
 
-Le montant du versement lié au dépassement plafond légal de densité est calculé selon la formule suivante :
+Le montant du versement lié au dépassement plafond légal de densité est calculé selon la formule suivante : 
 
-Pa = v ((Sa + Sb - Sc - (KSd)/K)
+Pa = v ((Sa + Sb-Sc-(KSd)/ K) 
 
-dans laquelle :
+dans laquelle : 
 
-Pa représente le montant du versement ;
+Pa représente le montant du versement ; 
 
-v la valeur au mètre carré du terrain considéré comme nu et libre     Sa : la surface de plancher de la construction
-projetée, calculée comme il est dit à l'article R. 112-2, à l'exclusion de la surface correspondant aux immeubles exonérés en
+v la valeur au mètre carré du terrain considéré comme nu et libre Sa : la surface de plancher de la construction projetée,
+calculée comme il est dit à l'article R. 112-2, à l'exclusion de la surface correspondant aux immeubles exonérés en
 application des troisième et quatrième alinéas de l'article L. 112-2 et à l'exclusion de la surface correspondant à la partie
-des constructions exonérée en application de l'article L. 127-1 ;
+des constructions exonérée en application des articles L. 127-1 et L. 128-1 ; 
 
 Sb la surface de plancher, calculée comme il est dit à l'article R. 112-2, des constructions implantées sur le même terrain
 qui ne sont pas destinées à être démolies, à l'exclusion de la surface correspondant aux immeubles exonérés et mentionnés aux
-deuxième et troisième alinéas de l'article L. 112-3 ;
+deuxième et troisième alinéas de l'article L. 112-3 ; 
 
 Sc la partie de la surface de plancher, calculée comme il est dit à l'article R. 112-2, des constructions non exonérées en
 application des troisième et quatrième alinéas de l'article L. 112-2, implantées sur le même terrain, qui excède le plafond
-légal de densité, que ces constructions soient ou non destinées à être démolies ;
+légal de densité, que ces constructions soient ou non destinées à être démolies ; 
 
-Sd la surface du terrain ;
+Sd la surface du terrain ; 
 
-K le plafond légal de densité en vigueur sur le territoire de la commune à la date de délivrance du permis de construire.
+K le plafond légal de densité en vigueur sur le territoire de la commune à la date de délivrance du permis de construire. 
 
 Pour le calcul du versement lié au dépassement du plafond légal de densité, il est fait abstraction des sommes inférieures à
-10 F.
+1,52 euro.
+
+**Nota:**
+
+Décret 2007-18 du 5 janvier 2007 art. 14 : Les dispositions du chapitre III du titre III du livre III du code de l'urbanisme
+relatives au plafond légal de densité, dans leur rédaction antérieure à l'entrée en vigueur du présent décret, demeurent
+applicables dans les communes où un plafond légal de densité était institué le 31 décembre 1999 et dont le conseil municipal
+ou l'organe délibérant de l'établissement public de coopération intercommunale compétent n'a pas décidé de supprimer le
+plafond légal de densité ou d'instaurer la participation pour voirie et réseaux définie par l'article L. 332-11-1 du code de
+l'urbanisme.
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - SPEC_APPLI: Date de fin de vigueur indéterminée
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
 	**Modifié par**:
 
-	  - Décret n°95-676 du 9 mai 1995 - art. 3 () JORF 10 mai 1995
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 7 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
+	  - Décret n°2016-6 du 5 janvier 2016 - art. 2
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L112-2 (M)
-	  - Code de l'urbanisme - art. L112-3 (M)
-	  - Code de l'urbanisme - art. L127-1 (M)
-	  - Code de l'urbanisme R112-2, L112-2, L127-1, L112-3
+	  - Code de l'urbanisme - art. L112-2
+	  - Code de l'urbanisme - art. L112-3
+	  - Code de l'urbanisme - art. L127-1
+	  - Code de l'urbanisme - art. R*112-2
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*333-22 (Ab)
+	  - Code de l'urbanisme - art. R*333-27 (Ab)
 	  - Code de l'urbanisme - art. R*333-7 (Ab)
 	  - Code de l'urbanisme - art. R333-6 (Ab)
 
 	**Nouveaux textes**:
 
 	  - Code de l'urbanisme - art. R335-1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*333-3
@@ -40084,21 +40299,48 @@ l'urbanisme.
 
 ###### Article R*333-10
 
-Le taux de prélèvement pour frais d'assiette et de perception prévu par l'article L. 333-12 (alinéa 2) est égal à 2 p. 100
-pour la fraction du versement n'excédant pas 200 000 F, à 1,5 p. 100 pour la fraction supérieure à 200 000 F et n'excédant
-pas 400 000 F ; à 1 p. 100 pour la fraction supérieure à 400 000 F.
+Le taux de prélèvement pour frais d'assiette et de perception prévu par l'article L. 333-12 (alinéa 2) est égal à 2 % pour la
+fraction du versement n'excédant pas 30 490 euros, à 1,5 % pour la fraction supérieure à 30 490 euros et n'excédant pas 60
+980 euros ; à 1 % pour la fraction supérieure à 60 980 euros. 
 
 Le prélèvement ainsi liquidé est réparti en quotes-parts égales sur chaque fraction du versement.
 
+**Nota:**
+
+Décret 2007-18 du 5 janvier 2007 art. 14 : Les dispositions du chapitre III du titre III du livre III du code de l'urbanisme
+relatives au plafond légal de densité, dans leur rédaction antérieure à l'entrée en vigueur du présent décret, demeurent
+applicables dans les communes où un plafond légal de densité était institué le 31 décembre 1999 et dont le conseil municipal
+ou l'organe délibérant de l'établissement public de coopération intercommunale compétent n'a pas décidé de supprimer le
+plafond légal de densité ou d'instaurer la participation pour voirie et réseaux définie par l'article L. 332-11-1 du code de
+l'urbanisme.
+
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Liens**:
 
-	  - Code de l'urbanisme L333-12 AL. 2
+	  - SPEC_APPLI: Date de fin de vigueur indéterminée
+	  - TXT_SOURCE: Directive 96-26 CE 1996-04-29
+	  - TXT_SOURCE: Directive 98-76 CE 1998-10-01
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 2866/98 1998-12-31
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°2001-1327 du 28 décembre 2001 - art. 1 () JORF 29 décembre 2001 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
+	  - Décret n°2016-6 du 5 janvier 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L333-12
 
 
 ###### Article R*333-11
@@ -52248,35 +52490,35 @@ lesquelles la redevance est liquidée par le ministre chargé de l'urbanisme et 
 
 ###### Article R*520-12
 
-Le montant de la redevance[*pour construction de bureaux*] instituée par l'article L. 520-1 est de :
+Le montant de la redevance instituée par l'article L. 520-1 est de : 
 
-1° 1 600 F par mètre carré dans :
+1° 244 euros par mètre carré dans :
 
-- la partie de Paris comprenant les arrondissements suivants :
+- la partie de Paris comprenant les arrondissements suivants : 
 
 1er, 2e, 3e, 4e, 6e, 7e, 8e, 9e, 14e, 15e, 16e et 17e ;
 
-- les communes ci-après du département des Hauts-de-Seine :
+- les communes ci-après du département des Hauts-de-Seine : 
 
 Asnières, Bois-Colombes, Boulogne-Billancourt, Châtillon, Colombes, Clichy, Courbevoie, Garches, Issy-les-Moulineaux, La
 Garenne-Colombes, Gennevilliers, Levallois-Perret, Malakoff, Marnes-la-Coquette, Nanterre, Neuilly-sur-Seine, Puteaux, Rueil-
-Malmaison, Saint-Cloud, Sèvres, Suresnes, Vanves, Vaucresson et Ville-d'Avray.
+Malmaison, Saint-Cloud, Sèvres, Suresnes, Vanves, Vaucresson et Ville-d'Avray. 
 
-2° 1 000 F par mètre carré dans :
+2° 152 euros par mètre carré dans :
 
-- les communes ci-après du département des Hauts-de-Seine :
+- les communes ci-après du département des Hauts-de-Seine : 
 
 Bagneux, Bourg-la-Reine, Chaville, Clamart, Fontenay-aux-Roses, Meudon, Montrouge, Le Plessis-Robinson et Sceaux ;
 
-- les communes ci-après du département des Yvelines :
+- les communes ci-après du département des Yvelines : 
 
-Bougival, Carrières-sur-Seine, La Celle-Saint-Cloud, Chatou, Croissy-sur-Seine, Le Mesnil-le-Roi, Montesson et Le Vésinet.
+Bougival, Carrières-sur-Seine, La Celle-Saint-Cloud, Chatou, Croissy-sur-Seine, Le Mesnil-le-Roi, Montesson et Le Vésinet. 
 
-3° 400 F par mètre carré dans :
+3° 61 euros par mètre carré dans :
 
 - les arrondissements de Paris non visés au 1° ci-dessus ;
 
-- les communes ci-après du département des Hauts-de-Seine :
+- les communes ci-après du département des Hauts-de-Seine : 
 
 Antony, Châtenay-Malabry et Villeneuve-la-Garenne ;
 
@@ -52286,7 +52528,7 @@ Plaisance et Noisy-le-Grand ;
 - le département du Val-de-Marne, à l'exception des communes de Bry-sur-Marne, Mandres-les-Roses, Marolles-en-Brie, Périgny,
 La Queue-en-Brie, Santeny et Villiers-sur-Marne ;
 
-- les communes ci-après du département des Yvelines :
+- les communes ci-après du département des Yvelines : 
 
 Achères, Aigremont, Les Alluets-le-Roi, Andrésy, Bailly, Carrières-sous-Poissy, Chambourcy, Chanteloup-les-Vignes, Chavenay,
 Le Chesnay, Crespières, Davron, L'Etang-la-Ville, Feucherolles, Fontenay-le-Fleury, Fourqueux, Houilles, Jouy-en-Josas,
@@ -52294,7 +52536,7 @@ Louveciennes, Maisons-Laffitte, Mareil-Marly, Marly-le-Roi, Medan, Morainvillier
 Port-Marly, Rennemoulin, Rocquencourt, Saint-Cyr-l'Ecole, Saint-Germain-en-Laye, Saint-Nom-la-Bretêche, Sartrouville, Triel-
 sur-Seine, Vélizy-Villacoublay, Verneuil-sur-Seine, Vernouillet, Versailles, Villennes-sur-Seine, Villepreux et Viroflay ;
 
-- les communes ci-après du département de l'Essonne :
+- les communes ci-après du département de l'Essonne : 
 
 Athis-Mons, Bièvres, Boussy-Saint-Antoine, Brunoy, Bures-sur-Yvette, Chilly-Mazarin, Crosne, Draveil, Epinay-sous-Sénart,
 Epinay-sur-Orge, Gif-sur-Yvette, Gometz-le-Châtel, Igny, Juvisy-sur-Orge, Longjumeau, Massy, Montgeron, Morangis, Morsang-
@@ -52302,7 +52544,7 @@ sur-Orge, Orsay, Palaiseau, Paray-Vieille-Poste, Quincy-sous-Sénart, Savigny-su
 Buisson, Vigneux-sur-Seine, Villebon-sur-Yvette, Villemoisson-sur-Orge, Villiers-sur-Orge, Viry-Châtillon, Wissous et
 Yerres ;
 
-- les communes ci-après du département du Val-d'Oise :
+- les communes ci-après du département du Val-d'Oise : 
 
 Andilly, Argenteuil, Arnouville-lès-Gonesse, Beauchamp, Bessancourt, Bezons, Bonneuil-en-France, Bouqueval, Chennevières-lès-
 Louvres, Deuil-la-Barre, Eaubonne, Enghien-les-Bains, Epiais-les-Louvres, Ermont, Franconville, Garges-lès-Gonesse, Gonesse,
@@ -52310,31 +52552,36 @@ Goussainville, Groslay, Louvres, Margency, Montlignon, Montmagny, Montmorency, L
 Gratien, Saint-Leu-la-Forêt, Saint-Prix, Sannois, Sarcelles, Soisy-sous-Montmorency, Taverny, Le Thillay, Vaudherland,
 Vemars, Villeron et Villiers-le-Bel ;
 
-- les communes ci-après du département de Seine-et-Marne :
+- les communes ci-après du département de Seine-et-Marne : 
 
 Mauregard, Le Mesnil-Amelot, Mitry-Mory et Villeparisis.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L520-1 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de l'urbanisme L520-1 Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Directive 96-26 CE 1996-04-29
+	  - TXT_SOURCE: Directive 98-76 CE 1998-10-01
+	  - SPEC_APPLI: Décret n°2001-1327 2001-12-28 art. 5 : champ d'application
+	  - TXT_SOURCE: Règlement CE 2866/98 1998-12-31
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+
 	**Anciens textes**:
 
 	  - Décret n°72-274 1972-04-11 ART. 1
 
-	**Modifié par**:
-
-	  - Décret n°89-86 1989-02-10 art. 1 JORF 11 février 1989
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L520-1 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de l'urbanisme - art. L520-1 (M)
-
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°2001-1327 du 28 décembre 2001 - art. 1 () JORF 29 décembre 2001 en vigueur le 1er janvier 2002
 
 
 ### Titre III : Implantation hors de la région parisienne de certaines activités
@@ -53121,15 +53368,30 @@ chargé de l'urbanisme.
 
 ###### Article A332-1
 
-Le montant forfaitaire au mètre carré hors oeuvre de l'indemnité globale et unique due en application de l'article R. 332-16
+Le montant forfaitaire au mètre carré hors œuvre de l'indemnité globale et unique due en application de l'article R. 332-16
 aux constructeurs et aux lotisseurs pour la mise à la disposition des distributeurs d'électricité et de gaz d'un local
-destiné à l'installation d'un poste de transformation du courant électrique ou d'un poste de détente de gaz est fixé à 700 F.
+destiné à l'installation d'un poste de transformation du courant électrique ou d'un poste de détente de gaz est fixé à 106,71
+euros.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*332-16 (V)
+	  - Code de l'urbanisme R332-16
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ## LIVRE IV : Règles relatives à l'acte de construire et à divers modes d'utilisation du sol
