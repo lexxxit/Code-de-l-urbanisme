@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1982-12-30
+Version Consolidée au 1983-01-09
 
 # Partie législative
 
@@ -7,147 +7,257 @@ Version Consolidée au 1982-12-30
 
 ### Prévisions et règles d'urbanisme
 
-#### Schémas directeurs d'amènagement et d'urbanisme.
+#### Dispositions générales communes aux schémas directeurs et aux plans d'occupation des sols.
 
-###### Article L122-1
+###### Article L121-10
 
-Les schémas directeurs d'aménagement et d'urbanisme [*définition*] fixent les orientations fondamentales de l'aménagement des
-territoires intéressés, notamment en ce qui concerne l'extension des agglomérations.
+Les documents d'urbanisme déterminent les conditions permettant, d'une part, de limiter l'utilisation de l'espace, de
+préserver les activités agricoles, de protéger les espaces forestiers, les sites et les paysages et, d'autre part, de prévoir
+suffisamment de zones réservées aux activités économiques et d'intérêt général, et de terrains constructibles pour la
+satisfaction des besoins présents et futurs en matière de logement.
 
-Compte tenu des relations entre ces agglomérations et les régions avoisinantes, et de l'équilibre qu'il convient de préserver
-entre l'extension urbaine, l'exercice d'activités agricoles, l'existence d'exploitations agricoles spécialisées et la
-conservation des massifs boisés et des sites naturels, ces schémas directeurs déterminent, en particulier, la destination
-générale des sols, le traçé des grands équipements d'infrastructure, l'organisation générale des transports, la localisation
-des services et activités les plus importantes ainsi que les zones préférentielles d'extension et de rénovation [*contenu*].
-
-Pour leur exécution, ils peuvent être complétés, en certaines de leurs parties, par des schémas de secteur qui en détaillent
-et précisent le contenu.
-
-Les schémas directeurs et les schémas de secteur orientent et coordonnent les programmes de l'Etat, des collectivités locales
-et des établissements et services publics, établis dans le cadre du Plan de développement économique et social. Les
-programmes et les décisions administratives qui les concernent doivent être compatibles avec leurs dispositions [*effets*].
+Les dispositions du présent article valent prescription nationale au sens de l'article L. 111-1-1 du présent code.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Cité par**:
-
-	  - Loi n°83-8 du 7 janvier 1983 - art. 57 (VT)
-	  - Décret n°84-617 du 17 juillet 1984 - art. 17 (Ab)
-	  - Décret n°84-617 du 17 juillet 1984 - art. 25 (Ab)
-	  - Loi n°95-115 du 4 février 1995 - art. 22 (M)
-	  - Décret n°2000-909 du 19 septembre 2000 - art. 4 (V)
-	  - Décret n°2002-1369 du 20 novembre 2002 - art. 1 (Ab)
-	  - Code du cinéma et de l'image animée - art. L212-12 (V)
-	  - Décret n°2015-986 du 31 juillet 2015 - art. 1 (V)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L24-1 (V)
-	  - Code de commerce. - art. R751-18 (V)
-	  - Code de commerce. - art. R751-20 (V)
-	  - Code de l'environnement - art. L555-16 (VD)
-	  - Code de l'environnement - art. R333-13 (V)
-	  - Code de l'urbanisme - art. L112-2 (M)
-	  - Code de l'urbanisme - art. L122-13 (VT)
-	  - Code de l'urbanisme - art. L122-16 (VT)
-	  - Code de l'urbanisme - art. L122-8 (V)
-	  - Code de l'urbanisme - art. L122-8-1 (V)
-	  - Code de l'urbanisme - art. L150-1 (VT)
-	  - Code de l'urbanisme - art. R*122-1 (V)
-	  - Code de l'urbanisme - art. R*122-2 (V)
-	  - Code de l'urbanisme - art. R*122-5 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 12 AL. 1 2 3 ET 4
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme R122-20
-
-
-###### Article L122-2
-
-Les schémas directeurs et les schémas de secteur sont élaborés conjointement par les services de l'Etat //Loi 502 4 juillet
-1980 :
-
-notamment ceux qui ont la charge de l'agriculture l'industrie et l'urbanisme// et les communes intéressées ou, lorsqu'ils
-existent, les établissements publics groupant lesdites communes et ayant compétence en matière d'urbanisme.
-
-Ils sont approuvés après délibération prise par les conseils municipaux desdites communes ou les organes compétents desdits
-établissements publics. Cette délibération est réputée prise si elle n'intervient pas dans un délai de trois mois.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°80-502 du 4 juillet 1980 - art. 74 () JORF 5 JUILLET 1980
+	  - Loi n°83-8 du 7 janvier 1983 - art. 37 () JORF 9 JANVIER 1983
 
 	**Cité par**:
 
-	  - Code de l'environnement - art. L341-16 (V)
-	  - Code de l'urbanisme - art. L122-1-4 (Ab)
-	  - Code de l'urbanisme - art. L122-2-1 (VT)
-	  - Code de l'urbanisme - art. L122-3 (M)
-	  - Code de l'urbanisme - art. L122-5 (M)
-	  - Code de l'urbanisme - art. L122-6 (M)
-	  - Code de l'urbanisme - art. R122-28 (Ab)
-	  - Code du patrimoine. - art. L630-1 (VT)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 12 AL. 5 ET 6
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-
-###### Article L122-3
-
-L'approbation des schémas directeurs et des schémas de secteur ne peut résulter que d'un décret en Conseil d'Etat :
-
-Lorsqu'un quart au moins des conseils municipaux susvisés ou un ou plusieurs de ces conseils représentant plus du quart
-[*nombre*] de la population totale du territoire concerné par un schéma directeur ou un schéma de secteur font connaître leur
-opposition dans des conditions déterminées par les décrets prévus à l'article L. 125-1 :
-
-Lorsque les organes compétents d'un ou plusieurs des établissements publics [*syndicat de communes, district urbain,
-communauté urbaine*] mentionnés au deuxième alinéa de l'article L. 122-2, représentant un quart au moins de la population
-totale du territoire concerné, font connaître leur opposition dans les mêmes conditions.
-
-Les schémas directeurs et les schémas de secteur approuvés sont tenus à la disposition du public [*publicité*].
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°95-115 du 4 février 1995 - art. 22 (M)
-	  - Code de l'urbanisme - art. L122-1-4 (Ab)
-	  - Code de l'urbanisme - art. L122-18 (VT)
-	  - Code de l'urbanisme - art. L122-4-3 (VT)
-	  - Code de l'urbanisme - art. L122-5 (M)
-	  - Code de l'urbanisme - art. L123-1-7 (VT)
-	  - Code de l'urbanisme - art. L145-4 (M)
-	  - Code de l'urbanisme - art. R*122-12 (V)
-	  - Code de l'urbanisme - art. R*122-14 (VT)
-	  - Code de l'urbanisme - art. R*122-19 (M)
-	  - Code de l'urbanisme - art. R*122-22 (Ab)
-	  - Code de l'urbanisme - art. R*122-3-1 (VT)
-	  - Code de l'urbanisme - art. R*613-2 (Ab)
+	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 5 (V)
+	  - Ordonnance n°2005-868 du 28 juillet 2005 - art. 5 (V)
+	  - Code de l'environnement - art. L122-4 (VT)
+	  - Code de l'environnement - art. L123-2 (VT)
+	  - Code de l'environnement - art. R414-19 (V)
+	  - Code de l'urbanisme - art. L121-11 (VT)
+	  - Code de l'urbanisme - art. L121-12 (VT)
+	  - Code de l'urbanisme - art. L121-13 (VT)
+	  - Code de l'urbanisme - art. L123-12-2 (Ab)
+	  - Code de l'urbanisme - art. L123-13-1 (VD)
+	  - Code de l'urbanisme - art. L123-19 (M)
+	  - Code de l'urbanisme - art. L710-5 (VT)
+	  - Code de l'urbanisme - art. R*121-16 (VT)
+	  - Code de l'urbanisme - art. R*122-25 (M)
+	  - Code de l'urbanisme - art. R*123-17 (M)
+	  - Code de l'urbanisme - art. R*123-2-1 (VT)
+	  - Code général des collectivités territoriales - art. L4424-13 (VD)
+	  - Code général des collectivités territoriales - art. L4424-14 (V)
+	  - Code général des collectivités territoriales - art. L4433-7 (M)
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L125-1 (M)
-	  - Code de l'urbanisme L122-2 AL. 2
+	  - Code de l'urbanisme - art. L111-1-1 (M)
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Code de l'urbanisme 12 AL. 8 ET SUIVANTS
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+#### Schémas directeurs.
+
+###### Article L122-1-1
+
+Le schéma directeur [*contenu*] ou le schéma de secteur est élaboré ou révisé à l'initiative de communes présentant une
+communauté d'intérêts économiques et sociaux.
+
+Le périmètre du schéma directeur ou du schéma de secteur tient notamment compte des groupements de communes existants ainsi
+que des périmètres déjà définis en matière de chartes intercommunales, de plan d'aménagement rural, de schéma directeur
+d'aménagement et d'urbanisme et d'agglomération nouvelle. Le périmètre est arrêté par le représentant de l'Etat, sur
+proposition des conseils municipaux des deux tiers au moins des communes intéressées représentant plus de la moitié de la
+population totale de celles-ci ou des conseils municipaux d'au moins la moitié des communes intéressées représentant plus des
+deux tiers de la population totale et après consultation des départements, ainsi que des régions pour les ensembles de
+communes qui dépassent 100000 habitants.
+
+Les communes confient l'élaboration ou la révision du schéma directeur ou du schéma de secteur, soit à un établissement
+public de coopération intercommunale existant ayant compétence en la matière dans le périmètre visé au troisième alinéa du
+présent article, soit à un syndicat intercommunal d'études et de programmation qu'elles créent à cet effet.
+
+L'établissement public de coopération intercommunale associe à cette élaboration l'Etat et, à leur demande, la région, le
+département, les autres établissements publics de coopération intercommunale concernés et les organismes mentionnés aux
+articles L. 121-4 et L. 121-7. Le président de l'établissement public compétent peut recueillir l'avis de tout organisme ou
+association ayant compétence en matière de construction, d'aménagement ou d'urbanisme.
+
+Le représentant de l'Etat porte à la connaissance de l'établissement public les dispositions nécessaires à la mise en oeuvre
+des projets d'intérêt général de l'Etat, de la région, du département ou d'autres intervenants lorsqu'ils correspondent aux
+définitions prises en application de l'article L. 121-12 et communique toutes informations utiles à l'élaboration du schéma
+directeur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 42 () JORF 9 JANVIER 1983
+
+	**Cité par**:
+
+	  - Loi n°83-636 du 13 juillet 1983 - art. 17 (Ab)
+	  - Code de l'environnement - art. R*244-15 (Ab)
+	  - Code de l'urbanisme - art. L121-11 (M)
+	  - Code de l'urbanisme - art. L121-12 (Ab)
+	  - Code de l'urbanisme - art. L122-1-2 (Ab)
+	  - Code de l'urbanisme - art. L122-1-3 (Ab)
+	  - Code de l'urbanisme - art. L122-1-4 (M)
+	  - Code de l'urbanisme - art. L122-18 (V)
+	  - Code de l'urbanisme - art. L145-4 (M)
+	  - Code de l'urbanisme - art. R*122-3 (M)
+	  - Code général des collectivités territoriales - art. L5333-2 (M)
+	  - Code rural - art. R244-15 (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L121-4 (M)
+	  - Code de l'urbanisme - art. L121-7 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L122-1-2
+
+Le projet de schéma directeur ou de schéma de secteur est adopté par délibération de l'organe délibérant de l'établissement
+public de coopération intercommunale puis soumis pour avis aux conseils municipaux des communes intéressées ainsi qu'aux
+personnes publiques mentionnées au cinquième alinéa de l'article L. 122-1-1. Ces avis [*tacite*] sont réputés favorables
+s'ils n'interviennent pas dans un délai de trois mois après transmission du projet de schéma. Le projet, auquel sont annexés
+les avis des personnes publiques consultées, est ensuite mis à la disposition du public pendant un mois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 44 () JORF 9 JANVIER 1983
+
+	**Cité par**:
+
+	  - Loi n°83-636 du 13 juillet 1983 - art. 17 (Ab)
+	  - Code de l'urbanisme - art. L122-1-3 (Ab)
+	  - Code de l'urbanisme - art. L124-3 (M)
+	  - Code de l'urbanisme - art. L145-5 (M)
+	  - Code de l'urbanisme - art. L600-1 (M)
+	  - Code général des collectivités territoriales - art. L5333-2 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme L122-1-1 AL. 5
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L122-1-3
+
+A l'issue du délai de mise à disposition du public prévu à l'article L. 122-1-2 et après que la commission de conciliation a
+publié, si elle a été saisie, ses propositions, le schéma directeur ou le schéma de secteur, éventuellement modifié pour
+tenir compte des résultats de la conciliation, des observations du public ou des avis des communes ou des personnes publiques
+concernées, est approuvé par l'organe délibérant de l'établissement public de coopération intercommunale. Il est transmis
+pour information aux personnes publiques associées à l'élaboration du schéma.
+
+Cette délibération devient exécutoire dans le délai de quarante-cinq jours suivant sa transmission au représentant de l'Etat,
+sauf si dans ce délai celui-ci a notifié les modifications qu'il estime nécessaire d'apporter au schéma lorsque les
+dispositions de celui-ci ne sont pas compatibles avec les prescriptions prises en application de l'article L. 111-1-1 ou
+compromettent gravement la mise en oeuvre de projets d'intérêt général relevant de l'Etat, de la région, du département ou
+d'autres intervenants et correspondant aux définitions prises en application de l'article L. 121-12, ou lorsqu'une commune
+membre, dont l'un des intérêts essentiels est compromis par les dispositions du schéma directeur ou du schéma de secteur,
+fait usage de la procédure prévue aux alinéas suivants. Le représentant de l'Etat [*obligation*] est tenu de motiver les
+modifications qu'il a demandées.
+
+Lorsque dans un délai de quinze jours après l'approbation du schéma directeur ou du schéma de secteur, le conseil municipal
+de l'une des communes membres estime que le schéma approuvé est de nature à compromettre l'un de ses intérêts essentiels en
+lui imposant notamment des nuisances ou des contraintes excessives, il le fait connaître à l'établissement public et au
+représentant de l'Etat par une délibération motivée.
+
+Le représentant de l'Etat notifie, s'il l'estime nécessaire, dans un délai de quinze jours à l'établissement public les
+modifications qu'il convient d'apporter au schéma directeur ou au schéma de secteur pour tenir compte de la délibération du
+conseil municipal. Si l'établissement public refuse d'apporter les modifications demandées et après une délibération du
+conseil municipal de la commune concernée demandant le retrait, le représentant de l'Etat, par dérogation à l'article L.
+163-16 du code des communes, constate le retrait de la commune de l'établissement public et du périmètre défini à l'article
+L. 122-1-1 du présent code.
+
+Si le représentant de l'Etat n'estime pas nécessaire d'apporter au schéma directeur ou au schéma de secteur les modifications
+demandées par la commune, celle-ci peut saisir le collège des élus locaux institué au sein de la commission de conciliation.
+Dans un délai de quinze jours, le collège des élus notifie les modifications qu'il convient d'apporter au schéma directeur ou
+au schéma de secteur. Si l'établissement public refuse d'apporter les modifications demandées, le représentant de l'Etat
+constate le retrait de la commune de l'établissement public et du périmètre défini à l'article L. 122-1-1.
+
+Dans les cas prévus aux deux alinéas précédents, les dispositions du schéma directeur ou du schéma de secteur ne s'appliquent
+pas à la commune qui a exercé son droit de retrait.
+
+L'établissement public dispose, lorsqu'il a été fait application des dispositions du deuxième alinéa, d'un délai de six mois
+pour approuver le schéma directeur ou le schéma de secteur avec les modifications demandées ; à défaut, le schéma peut être
+arrêté par le représentant de l'Etat dans le département, qui ne peut modifier le schéma approuvé par l'établissement public
+que pour tenir compte des modifications qu'il a demandées.
+
+Les schémas directeurs ou les schémas de secteur approuvés ou arrêtés sont tenus à la disposition du public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Créé par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 45 () JORF 9 JANVIER 1983
+
+	**Cité par**:
+
+	  - Loi n°83-636 du 13 juillet 1983 - art. 17 (Ab)
+	  - Loi n°85-30 du 9 janvier 1985 - art. 74 (V)
+	  - Code de l'urbanisme - art. L121-12 (Ab)
+	  - Code de l'urbanisme - art. L122-1-4 (M)
+	  - Code de l'urbanisme - art. R*122-12 (M)
+	  - Code général des collectivités territoriales - art. L5333-2 (M)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L163-16 (M)
+	  - Code de l'urbanisme - art. L111-1-1 (M)
+	  - Code de l'urbanisme - art. L122-1-1 (M)
+	  - Code de l'urbanisme - art. L122-1-2 (M)
+
+
+###### Article L122-1-4
+
+Lorsque l'élaboration ou la modification d'un schéma directeur ou d'un schéma de secteur est rendue nécessaire pour
+l'application locale des prescriptions prises en application de l'article L. 111-1-1 ou pour la réalisation d'un projet
+d'intérêt général relevant de l'Etat, de la région, du département ou d'autres intervenants et correspondant aux définitions
+prises en application de l'article L. 121-12, elle peut être demandée par les représentants de l'Etat.
+
+Si, dans un délai de deux ans à compter de cette demande, le schéma n'a pas été approuvé dans les conditions définies par les
+articles L. 122-1-1 à L. 122-1-3, le représentant de l'Etat peut, par arrêté motivé, décider son élaboration et procéder à
+son établissement dans les conditions prévues aux articles L. 122-2 et L. 122-3.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°83-8 1983-01-07 ART. 46
+	  - Loi n°83-663 1983-07-22
+	  - Code de l'urbanisme - art. L111-1-1 (M)
+	  - Code de l'urbanisme - art. L121-12 (Ab)
+	  - Code de l'urbanisme - art. L122-1-1 (M)
+	  - Code de l'urbanisme - art. L122-1-3 (M)
+
+	**Créé par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 46 () JORF 9 JANVIER 1983
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code de l'urbanisme R122-14
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+
+	**Cité par**:
+
+	  - Décret n°84-617 du 17 juillet 1984 - art. 17 (Ab)
+	  - Code de l'urbanisme - art. L122-2 (M)
+	  - Code de l'urbanisme - art. L122-3 (M)
+	  - Code de l'urbanisme - art. L122-5 (M)
+	  - Code de l'urbanisme - art. L145-12 (M)
+	  - Code de l'urbanisme - art. R*122-14 (Ab)
+	  - Code de l'urbanisme - art. R*122-15 (Ab)
 
 	**Codifié par**:
 
@@ -157,6 +267,61 @@ Les schémas directeurs et les schémas de secteur approuvés sont tenus à la d
 ## Livre Ier : Règles générales d'aménagement et d'urbanisme
 
 ###  Titre Ier : Règles générales d'utilisation du sol.
+
+###### Article L110
+
+Le territoire français est le patrimoine commun de la nation. Chaque collectivité publique en est le gestionnaire et le
+garant dans le cadre de ses compétences. Afin d'aménager le cadre de vie, de gérer le sol de façon économe, d'assurer la
+protection des milieux naturels et des paysages et de promouvoir l'équilibre entre les populations résidant dans les zones
+urbaines et rurales, les collectivités publiques harmonisent, dans le respect réciproque de leur autonomie, leurs prévisions
+et leurs décisions d'utilisation de l'espace.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°83-8 1983-01-07 ART. 35, ART. 39, ART. 2
+	  - Loi n°83-663 1983-07-22
+
+	**Créé par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 35 () JORF 9 JANVIER 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+
+	**Cité par**:
+
+	  - Loi n°95-115 du 4 février 1995 - art. 2 (V)
+	  - Loi n°2010-597 du 3 juin 2010 - art. 21 (V)
+	  - Loi n°2010-597 du 3 juin 2010 - art. 21-1 (V)
+	  - Code de l'urbanisme - art. L111-1-2 (VT)
+	  - Code de l'urbanisme - art. L111-1-3 (Ab)
+	  - Code de l'urbanisme - art. L122-1 (Ab)
+	  - Code de l'urbanisme - art. L122-1-1 (VT)
+	  - Code de l'urbanisme - art. L122-11 (VD)
+	  - Code de l'urbanisme - art. L122-11-1 (VT)
+	  - Code de l'urbanisme - art. L123-1 (VT)
+	  - Code de l'urbanisme - art. L123-12 (VT)
+	  - Code de l'urbanisme - art. L124-2 (VT)
+	  - Code de l'urbanisme - art. L142-1 (M)
+	  - Code de l'urbanisme - art. L710-1 (VT)
+	  - Code de l'urbanisme - art. R*122-2 (M)
+	  - Code de l'urbanisme - art. R*122-3 (V)
+	  - Code de l'urbanisme - art. R*123-3 (V)
+	  - Code de l'urbanisme - art. R*124-2 (VT)
+	  - Code général des collectivités territoriales - art. L4251-1 (VD)
+	  - Code général des collectivités territoriales - art. L4424-9 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme 91
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
 
 ####  Chapitre Ier : Règles générales de l'urbanisme.
 
@@ -212,6 +377,244 @@ de ces règles qui sont ou peuvent néanmoins demeurer applicables sur les terri
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L111-1-1
+
+En complément des règles générales instituées en application de l'article L. 111-1, des prescriptions nationales ou des
+prescriptions particulières à certaines parties du territoire sont fixées en application de lois d'aménagement et
+d'urbanisme.
+
+Les régions territorialement intéressées peuvent proposer l'élaboration de prescriptions particulières et sont consultées
+lors de la préparation des lois et des décrets fixant leurs conditions d'application. Les schémas directeurs, les schémas de
+secteur, les plans d'occupation des sols et les documents d'urbanisme en tenant lieu doivent être compatibles avec leurs
+dispositions.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°73-1193 du 27 décembre 1973 - art. 28 (Ab)
+	  - Loi n°82-659 du 30 juillet 1982 - art. 10 (Ab)
+	  - Loi n°83-8 du 7 janvier 1983 - art. 34 ter (Ab)
+	  - Loi n°83-8 du 7 janvier 1983 - art. 57 (M)
+	  - Décret n°83-1122 du 22 décembre 1983 - art. 2 (Ab)
+	  - Décret n°84-711 du 17 juillet 1984 - art. 4 (Ab)
+	  - Loi n°84-747 du 2 août 1984 - art. 4 (Ab)
+	  - Loi n°85-30 du 9 janvier 1985 - art. 74 (V)
+	  - Loi n°85-729 du 18 juillet 1985 - art. 42 (VD)
+	  - Décret n°86-1252 du 5 décembre 1986 - art. 3 (V)
+	  - Loi n°93-24 du 8 janvier 1993 - art. 1 (Ab)
+	  - Loi n°95-115 du 4 février 1995 - art. 3 (V)
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 13 (VD)
+	  - Loi n°2011-665 du 15 juin 2011 - art. 1 (V)
+	  - Loi n°2014-1545 du 20 décembre 2014 - art. 13 (VT)
+	  - Code de commerce. - art. L720-3 (Ab)
+	  - Code de l'environnement - art. L331-3 (VT)
+	  - Code de l'environnement - art. L333-1 (V)
+	  - Code de l'environnement - art. L350-1 (V)
+	  - Code de l'environnement - art. L371-3 (V)
+	  - Code de l'environnement - art. R333-13 (M)
+	  - Code de l'urbanisme - art. L111-1-1 (M)
+	  - Code de l'urbanisme - art. L111-1-2 (M)
+	  - Code de l'urbanisme - art. L111-1-3 (M)
+	  - Code de l'urbanisme - art. L111-1-4 (M)
+	  - Code de l'urbanisme - art. L121-1 (V)
+	  - Code de l'urbanisme - art. L121-10 (Ab)
+	  - Code de l'urbanisme - art. L122-1-1 (Ab)
+	  - Code de l'urbanisme - art. L122-1-13 (VT)
+	  - Code de l'urbanisme - art. L122-1-2 (VT)
+	  - Code de l'urbanisme - art. L122-1-3 (Ab)
+	  - Code de l'urbanisme - art. L122-1-4 (Ab)
+	  - Code de l'urbanisme - art. L122-11 (VD)
+	  - Code de l'urbanisme - art. L122-11-1 (VT)
+	  - Code de l'urbanisme - art. L122-15-1 (VT)
+	  - Code de l'urbanisme - art. L122-16 (VT)
+	  - Code de l'urbanisme - art. L122-6 (M)
+	  - Code de l'urbanisme - art. L123-1 (M)
+	  - Code de l'urbanisme - art. L123-1-10 (VT)
+	  - Code de l'urbanisme - art. L123-12 (VT)
+	  - Code de l'urbanisme - art. L123-14 (V)
+	  - Code de l'urbanisme - art. L123-14-1 (VT)
+	  - Code de l'urbanisme - art. L123-7-1 (Ab)
+	  - Code de l'urbanisme - art. L124-3 (M)
+	  - Code de l'urbanisme - art. L141-1 (V)
+	  - Code de l'urbanisme - art. L142-1 (VT)
+	  - Code de l'urbanisme - art. L144-1 (M)
+	  - Code de l'urbanisme - art. L144-2 (M)
+	  - Code de l'urbanisme - art. L144-3 (M)
+	  - Code de l'urbanisme - art. L144-5 (Ab)
+	  - Code de l'urbanisme - art. L145-2 (M)
+	  - Code de l'urbanisme - art. L145-7 (M)
+	  - Code de l'urbanisme - art. L146-1 (VT)
+	  - Code de l'urbanisme - art. L147-4 (VT)
+	  - Code de l'urbanisme - art. L150-1 (VT)
+	  - Code de l'urbanisme - art. L311-4 (M)
+	  - Code de l'urbanisme - art. R*111-27 (VT)
+	  - Code de l'urbanisme - art. R*111-29 (VT)
+	  - Code de l'urbanisme - art. R*122-2 (VT)
+	  - Code de l'urbanisme - art. R*122-25 (M)
+	  - Code de l'urbanisme - art. R*123-17 (M)
+	  - Code de l'urbanisme - art. R*123-2 (M)
+	  - Code de l'urbanisme - art. R*123-24 (M)
+	  - Code général des collectivités territoriales - art. L4424-11 (V)
+	  - Code général des collectivités territoriales - art. L4433-8 (V)
+	  - Code général des collectivités territoriales - art. R1614-42 (M)
+	  - Code général des collectivités territoriales - art. R1614-50 (M)
+
+	**Créé par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 36 () JORF 9 JANVIER 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L111-1-2
+
+En l'absence de plan d'occupation des sols opposable aux tiers, ou de tout document d'urbanisme en tenant lieu, seules sont
+autorisées, en dehors des parties actuellement urbanisées de la commune :
+
+1° L'adaptation, la réfection ou l'extension des constructions existantes ;
+
+2° Les constructions et installations nécessaires à des équipements collectifs, à l'exploitation agricole, à la mise en
+valeur des ressources naturelles et à la réalisation d'opérations d'intérêt national ;
+
+3° Les constructions et installations incompatibles avec le voisinage des zones habitées et l'extension mesurée des
+constructions et installations existantes.
+
+Une construction ou une installation autre que celles mentionnées aux alinéas précédents peut être autorisée, sur demande
+motivée du conseil municipal, justifiée par l'intérêt de la commune, lorsque le représentant de l'Etat estime que le projet
+n'est pas contraire aux objectifs visés à l'article L. 110 et aux lois d'aménagement et d'urbanisme mentionnées à l'article
+L. 111-1-1.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-8 1983-01-07 ART. 38 II : L'article L111-1-2 du code de l'urbanisme est applicable aux communes qui n'ont pas prescrit l'élaboration d'un plan d'occupation des sols, les dispositions de cet article prendront effet un an après l'entrée en vigue
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L124-4 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 38 (V) JORF 9 JANVIER 1983
+
+	**Cité par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 38 (V)
+	  - Arrêté du 4 août 2006 - art. 7 (VT)
+	  - Arrêté du 5 mars 2014 - art. 6 (VD)
+	  - Loi n°2014-366 du 24 mars 2014 - art. 140 (V)
+	  - Code de l'urbanisme - art. L110 (M)
+	  - Code de l'urbanisme - art. L111-1-3 (Ab)
+	  - Code de l'urbanisme - art. L121-12 (Ab)
+	  - Code de l'urbanisme - art. L124-4 (M)
+	  - Code de l'urbanisme - art. L143-1 (M)
+	  - Code de l'urbanisme - art. L145-3 (VT)
+	  - Code de l'urbanisme - art. L145-5 (VT)
+	  - Code de l'urbanisme - art. L710-1 (VT)
+	  - Code de l'urbanisme - art. R*490-5 (Ab)
+	  - Code général des impôts, CGI. - art. 1605 nonies (V)
+	  - Code général des impôts, CGI. - art. 257 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 331 K ter (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L111-1-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L111-1-3
+
+Dans les communes qui ont prescrit l'élaboration d'un plan d'occupation des sols, une construction ou une installation peut,
+nonobstant les dispositions de l'article L. 111-1-2, être autorisée par le représentant de l'Etat si le conseil municipal a,
+conjointement avec lui, précisé les modalités d'application des règles prises en application de l'article L. 111-1 sur le
+territoire de la commune.
+
+Le projet ne doit pas être contraire aux objectifs visés à l'article L. 110 et aux lois d'aménagement et d'urbanisme
+mentionnées à l'article L. 111-1 du présent code.    Les dispositions du présent article ne peuvent s'appliquer sur le
+territoire d'une commune que pendant une durée maximale non renouvelable de deux ans à compter de la date à laquelle le
+conseil municipal a précisé les modalités d'application de l'article L. 111-1, conformément au premier alinéa de cet article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 38 (V) JORF 9 JANVIER 1983
+
+	**Cité par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 38 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L13-15 (VT)
+	  - Code de l'urbanisme - art. L110 (M)
+	  - Code de l'urbanisme - art. L124-3 (VT)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L111-1 (M)
+	  - Code de l'urbanisme - art. L111-1-1 (M)
+	  - Code de l'urbanisme - art. L111-1-2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L111-1-4
+
+Les directives d'aménagement national qui sont déjà intervenues en application de l'article L. 111-1 du présent code valent,
+pour une durée de deux ans à compter de la date d'entrée en vigueur de l'article L. 111-1-1, prescriptions d'aménagement au
+sens de l'article L. 111-1-1. Dans le même délai, les plans d'occupation des sols peuvent être rendus compatibles avec ces
+directives dans les conditions prévues à l'article L. 123-7-1.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°83-8 1983-01-07 ART. 36, ART. 53, ART. 73
+	  - Loi n°83-663 1983-07-22
+	  - Code de l'urbanisme - art. L111-1 (M)
+	  - Code de l'urbanisme - art. L111-1-1 (M)
+	  - Code de l'urbanisme - art. L123-1 (M)
+	  - Code de l'urbanisme - art. L123-7-1 (M)
+	  - Code de l'urbanisme - art. R111-15 (M)
+	  - Code de l'urbanisme R122-14
+	  - DIRECTIVE 1977-09-22
+	  - DIRECTIVE 1977-11-22
+	  - DIRECTIVE 1979-08-25
+
+	**Créé par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 73 () JORF 9 JANVIER 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+
+	**Cité par**:
+
+	  - Loi n°95-101 du 2 février 1995 - art. 52 (V)
+	  - Code de l'environnement - art. L341-16 (V)
+	  - Code de l'urbanisme - art. L111-1-4 (M)
+	  - Code de l'urbanisme - art. L122-1-5 (M)
+	  - Code de l'urbanisme - art. L123-4 (M)
+	  - Code de l'urbanisme - art. R*123-1 (VT)
+	  - Code de l'urbanisme - art. R*123-3 (M)
+	  - Code de l'urbanisme - art. R*124-1 (VT)
+	  - Code du patrimoine. - art. L630-1 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L111-2
@@ -353,18 +756,27 @@ Toute convention entraînant le détachement ou faisant suite au détachement d'
 parcelle ou d'un ensemble de parcelles supportant une construction ou un groupe de constructions et qui appartient à un même
 propriétaire ou à une même indivision doit, à peine de nullité, être précédée de la délivrance d'un certificat d'urbanisme
 portant, selon le cas, sur cette parcelle ou sur cet ensemble de parcelles. Cette convention doit reproduire les indications
-énoncées dans le certificat d'urbanisme et faire l'objet de la publicité prévue à l'article 28 du décret n. 55-22 du 4
+énoncées dans le certificat d'urbanisme et faire l'objet de la publicité prévue à l'article 28 du décret n° 55-22 du 4
 janvier 1955 portant réforme de la publicité foncière.
 
-//LOI  1285 ART. 2 : Un décret en Conseil d'Etat détermine les conditions dans lesquelles le contrôle exercé par l'autorité
-administrative au titre des dispositions du présent code sur les divisions ou cessions de terrains, peut tenir lieu de la
-procédure prévue à l'alinéa 3 du présent article//.
+Un décret en conseil d'Etat détermine les conditions dans lesquelles le contrôle exercé par l'autorité compétente au titre
+des dispositions du présent code sur les divisions ou cessions de terrains, peut tenir lieu de la procédure prévue à l'alinéa
+3 du présent article.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Décret n°55-22 1955-01-04 ART. 28
+
+	**Modifié par**:
+
+	  - Loi n°83-8 1983-01-07 ART. 75 2 JORF 9 JANVIER 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+	  - TXT_ASSOCIE: Code de l'urbanisme R160-4
 
 	**Cité par**:
 
@@ -373,10 +785,6 @@ procédure prévue à l'alinéa 3 du présent article//.
 	  - Code de l'urbanisme - art. R*160-4 (Ab)
 	  - Code de l'urbanisme - art. R*160-5 (Ab)
 	  - Code de l'urbanisme - art. R*410-1 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme R160-4
 
 	**Codifié par**:
 
@@ -454,8 +862,8 @@ L. 123-7 et L. 313-2 (alinéa 2).
 
 Le sursis à statuer doit être motivé et ne peut excéder deux ans.
 
-Lorsqu'une décision de sursis a été prise en application des articles visés à l'article L. 111-7, l'autorité administrative
-ne peut, à l'expiration du délai de validité du sursis ordonné, opposer à une même demande d'autorisation un nouveau sursis
+Lorsqu'une décision de sursis a été prise en application des articles visés à l'article L. 111-7, l'autorité compétente ne
+peut, à l'expiration du délai de validité du sursis ordonné, opposer à une même demande d'autorisation un nouveau sursis
 fondé sur le même motif que le sursis initial.
 
 Si des motifs différents rendent possible l'intervention d'une décision de sursis à statuer par application d'une disposition
@@ -463,11 +871,21 @@ législative autre que celle qui a servi de fondement au sursis initial, la dur�
 cas excéder trois ans.
 
 A l'expiration du délai de validité du sursis à statuer, une décision doit, sur simple confirmation par l'intéressé de sa
-demande, être prise par l'autorité administrative chargée de la délivrance de l'autorisation, dans le délai de deux mois
-suivant cette confirmation. A défaut de notification de la décision dans ce dernier délai, l'autorisation est considérée
-comme accordée dans les termes où elle avait été demandée.
+demande, être prise par l'autorité compétente chargée de la délivrance de l'autorisation, dans le délai de deux mois suivant
+cette confirmation. A défaut de notification de la décision dans ce dernier délai, l'autorisation est considérée comme
+accordée dans les termes où elle avait été demandée.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°83-8 1983-01-07 ART. 75 2 JORF 9 JANVIER 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L111-7 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L123-5 (M)
 
 	**Cité par**:
 
@@ -484,11 +902,6 @@ comme accordée dans les termes où elle avait été demandée.
 	  - Code rural - art. L123-20 (M)
 	  - Code rural ancien - art. 7 (Ab)
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L111-7 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L123-5 (M)
-
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L111-7 (M)
@@ -502,8 +915,8 @@ comme accordée dans les termes où elle avait été demandée.
 
 ###### Article L111-9
 
-L'autorité administrative peut surseoir à statuer dans les conditions définies à l'article L. 111-8 dès la date d'ouverture
-de l'enquête préalable à la déclaration d'utilité publique d'une opération, sur les demandes d'autorisation concernant des
+L'autorité compétente peut surseoir à statuer dans les conditions définies à l'article L. 111-8 dès la date d'ouverture de
+l'enquête préalable à la déclaration d'utilité publique d'une opération, sur les demandes d'autorisation concernant des
 travaux, constructions ou installations à réaliser sur des terrains devant être compris dans cette opération.
 
 **Liens relatifs à cet article**
@@ -511,7 +924,7 @@ travaux, constructions ou installations à réaliser sur des terrains devant êt
 	**Cité par**:
 
 	  - Code de l'expropriation pour cause d'utilité pu... - art. L241-1 (VD)
-	  - Code de l'urbanisme - art. L111-11 (M)
+	  - Code de l'urbanisme - art. L111-11 (VT)
 	  - Code de l'urbanisme - art. L111-7 (VT)
 	  - Code de l'urbanisme - art. L111-8 (M)
 	  - Code de l'urbanisme - art. L230-3 (VD)
@@ -519,21 +932,39 @@ travaux, constructions ou installations à réaliser sur des terrains devant êt
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L111-7 (M)
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
 
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Modifié par**:
+
+	  - Loi n°83-8 1983-01-07 art. 75 2 JORF 9 janvier 1983
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 
 ###### Article L111-10
 
 Lorsque des travaux, des constructions ou des installations sont susceptibles de compromettre ou de rendre plus onéreuse
 l'exécution de travaux publics, le sursis à statuer peut être opposé, dans les conditions définies à l'article L. 111-8, dès
-lors que la mise à l'étude d'un projet de travaux publics a été prise en considération par l'autorité administrative et que
-les terrains affectés par ce projet ont été délimités. Le sursis à statuer ne peut être prononcé que si l'acte décidant la
-prise en considération a été publié avant le dépôt de la demande d'autorisation.
+lors que la mise à l'étude d'un projet de travaux publics a été prise en considération par l'autorité compétente et que les
+terrains affectés par ce projet ont été délimités. Le sursis à statuer ne peut être prononcé que si l'acte décidant la prise
+en considération a été publié avant le dépôt de la demande d'autorisation.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°83-8 1983-01-07 ART. 75 2 JORF 9 JANVIER 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L111-7 (M)
 
 	**Cité par**:
 
@@ -547,10 +978,6 @@ prise en considération a été publié avant le dépôt de la demande d'autoris
 	  - Code de l'urbanisme - art. R*123-19 (M)
 	  - Code de l'urbanisme - art. R111-26-1 (M)
 	  - Code de l'urbanisme - art. R421-55 (T)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L111-7 (M)
 
 	**Codifié par**:
 
@@ -917,19 +1344,19 @@ et L. 333-8.
 
 ###### Article L121-1
 
-Les prévisions et règles d'urbanisme s'expriment par des schémas directeurs d'aménagement et d'urbanisme et par des plans
-d'occupation des sols.
+Les prévisions et règles d'urbanisme s'expriment par des schémas directeurs et par des plans d'occupation des sols.
 
 Schémas et plans peuvent concerner des communes ou des parties ou ensembles de communes.
 
-Dans les cantons dont la population totale est inférieure à 10000 habitants [*nombre*], la mise à l'étude de plans
-d'occupation des sols entraîne la mise à l'étude de plans d'aménagement rural.
-
-Les communes désignées dans les conditions fixées par les décrets prévus à l'article L. 125-1 sont tenues [*obligation*]
-d'avoir, soit un schéma directeur d'aménagement et d'urbanisme et un plan d'occupation des sols, soit seulement un plan
-d'occupation des sols [*champ d'application*].
+Dans les cantons dont la population totale est inférieure à 10 000 habitants, la mise à l'étude de plans d'occupation des
+sols entraîne la mise à l'étude de plans d'aménagement rural.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 49 () JORF 9 janvier 1983
+	  - Loi n°83-8 du 7 janvier 1983 - art. 75 () JORF 9 janvier 1983
 
 	**Cité par**:
 
@@ -964,9 +1391,10 @@ d'occupation des sols [*champ d'application*].
 	  - Code général des collectivités territoriales - art. L1614-9 (V)
 	  - Code général des collectivités territoriales - art. L4424-9 (V)
 
-	**Cite**:
+	**Liens**:
 
-	  - Code de l'urbanisme - art. L125-1 (M)
+	  - SPEC_APPLI: Loi n°83-663 1983-07-22
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
 
 	**Anciens textes**:
 
@@ -1030,62 +1458,27 @@ cas échéant, des contributions volontaires des collectivités locales et des �
 	  - Décret n°73-1022 1973-11-08 JORF 13 N0VEMBRE 1973
 
 
-###### Article L121-3
-
-Des établissements publics d'études et de recherches peuvent être chargés des études d'urbanisme, et notamment de
-l'élaboration des schémas d'aménagement et d'urbanisme et des plans d'occupation des sols.
-
-Leur conseil d'administration est composé notamment de représentants de l'Etat et, pour plus de la moitié [*quorum*], de
-représentants des communes et des départements désignés par leurs conseils municipaux et leurs conseils généraux. Toutefois,
-s'il existe des établissements publics [*syndicat de communes, district urbain, communauté urbaine*] groupant lesdites
-communes et ayant compétence en matière d'urbanisme, des représentants de ces établissements, désignés par leurs conseils
-d'administration, sont substitués aux représentants des communes.
-
-Les règles de fonctionnement de ces établissements pourront comporter des adaptations des règles générales applicables aux
-établissements de caractère administratif, notamment en ce qui concerne le contrôle financier, les règles de présentation et
-de modification du budget, la passation des marchés, la situation juridique et les règles de gestion du personnel.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°83-8 1983-01-07 ART. 75 3 JORF 9 JANVIER 1983
-
-	**Cité par**:
-
-	  - Décret n°2015-524 du 12 mai 2015 (V)
-	  - Code de l'urbanisme - art. L150-1 (M)
-	  - Code de l'urbanisme - art. L710-3 (VT)
-	  - Code de l'urbanisme - art. R*122-8 (M)
-	  - Code de la construction et de l'habitation. - art. L441-2-8 (V)
-	  - Livre des procédures fiscales - art. L135 B (V)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 23
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme R122-8
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-
 ###### Article L121-4
 
 Après consultation des organisations professionnelles, les chambres de commerce et d'industrie et les chambres de métiers
-participent à l'établissement des schémas directeurs d'aménagement et d'urbanisme.
+sont associées à leur demande à l'établissement des schémas directeurs.
 
-Les rapports annexes des schémas directeurs d'aménagement et d'urbanisme fixent, à titre prévisionnel, l'importance et la
-localisation des zones préférentielles d'implantation des différents équipements commerciaux et artisanaux.
+Les rapports annexes des schémas directeurs fixent, à titre prévisionnel, l'importance et la localisation des zones
+préférentielles d'implantation des différents équipements commerciaux et artisanaux.
+
+Nota : Voir commentaires de septembre 1983 de l'article 75 I de la loi 8 du 7 janvier 1983, modifiée par la loi 663 du 22
+juillet 1983, sous l'article L. 121-1 du code de l'Urbanisme.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°76-267 1976-03-25 JORF 27 MARS 1976 Rectificatif JORF 13 JUIN 1976
+	  - Loi n°83-8 1983-01-07 art. 75 I 1, 4 JORF 9 janvier 1983
+	  - Loi n°83-8 du 7 janvier 1983 - art. 75 () JORF 9 janvier 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
 
 	**Cité par**:
 
@@ -1166,15 +1559,22 @@ peuvent être réalisées à l'initiative des chambres de commerce et d'industri
 
 ###### Article L121-6
 
-Les chambres de commerce et d'industrie et les chambres de métiers sont associées à l'élaboration des plans d'occupation des
-sols en ce qu'ils concernent l'implantation des équipements commerciaux et artisanaux. Elles assurent les liaisons avec les
-organisations professionnelles intéressées.
+Les chambres de commerce et d'industrie et les chambres de métiers sont associées à leur demande, à l'élaboration des plans
+d'occupation des sols en ce qu'ils concernent l'implantation des équipements commerciaux et artisanaux. Elles assurent les
+liaisons avec les organisations professionnelles intéressées.
+
+[*Nota : Voir commentaires de septembre 1983 de l'article 75 I de la loi 8 du 7 janvier 1983 modifiée par la loi 663 du 22
+juillet 1983 sous l'article L. 121-1 du code de l'Urbanisme*].
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°76-267 1976-03-25 JORF 27 MARS 1976 Rectificatif JORF 13 JUIN 1976
+	  - Loi n°83-8 du 7 janvier 1983 - art. 75 () JORF 9 janvier 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
 
 	**Cité par**:
 
@@ -1191,10 +1591,15 @@ organisations professionnelles intéressées.
 
 ###### Article L121-7
 
-Les chambres d'agriculture sont, à leur demande, associées à l'élaboration des schémas directeurs d'aménagement et
-d'urbanisme et des plans d'occupation des sols.
+Les chambres d'agriculture sont, à leur demande, associées à l'élaboration des schémas directeurs et des plans d'occupation
+des sols.
 
 Elles assurent la liaison avec les organisations professionnelles intéressées.
+
+**Nota:**
+
+Nota : Voir commentaires de septembre 1983 de l'article 75 I de la loi 8 du 7 janvier 1983 modifiée par la loi 663 du 22
+juillet 1983 sous l'article L. 121-1 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
@@ -1213,6 +1618,14 @@ Elles assurent la liaison avec les organisations professionnelles intéressées.
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Modifié par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 75 () JORF 9 janvier 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
 
 
 ###### Article L121-8
@@ -1277,57 +1690,264 @@ demande, pour l'élaboration des plans d'occupation des sols.
 	  - TXT_ASSOCIE: Code de l'urbanisme R123-4
 
 
+###### Article L121-9
+
+Il est institué, dans chaque département, une commission de conciliation en matière d'élaboration de schémas directeurs, de
+schémas de secteur, de plans d'occupation des sols et de tout document d'urbanisme opposable aux tiers élaboré par la
+commune. Elle est composée à parts égales d'élus communaux désignés par les maires du département et des personnes qualifiées
+désignées par le représentant de l'Etat. Elle élit en son sein un président qui doit être un élu local.
+
+La commission peut être saisie par les personnes publiques associées qui ont émis un avis défavorable au projet de document
+d'urbanisme qui leur a été soumis. Elle entend alors les parties intéressées et, à leur demande, les représentants des
+associations mentionnées à l'article 40 de la loi n° 76-629 du 10 juillet 1976 relative à la protection de la nature ou à
+l'article L. 121-8 du présent code. Elle formule, en tant que de besoin, des propositions alternatives au plus tard un mois
+après l'achèvement de la mise à la disposition du public ou de l'enquête publique portant sur ces documents. Ces propositions
+sont publiques.
+
+Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°76-629 du 10 juillet 1976 - art. 40 (Ab)
+	  - Loi n°83-8 1983-01-07 art. 39
+	  - Loi n°83-663 1983-07-22
+	  - Code de l'urbanisme - art. L121-8 (M)
+
+	**Créé par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 39 () JORF 9 janvier 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+	  - TXT_SOURCE: Code de l'urbanisme - art. R*121-10 (VT)
+	  - TXT_SOURCE: Code de l'urbanisme - art. R*121-11 (VT)
+	  - TXT_SOURCE: Code de l'urbanisme - art. R*121-12 (VT)
+	  - TXT_SOURCE: Code de l'urbanisme - art. R*121-2 (M)
+	  - TXT_SOURCE: Code de l'urbanisme - art. R*121-3 (M)
+	  - TXT_SOURCE: Code de l'urbanisme - art. R*121-4 (M)
+	  - TXT_SOURCE: Code de l'urbanisme - art. R*121-5 (M)
+	  - TXT_SOURCE: Code de l'urbanisme - art. R*121-6 (VT)
+	  - TXT_SOURCE: Code de l'urbanisme - art. R*121-7 (VT)
+	  - TXT_SOURCE: Code de l'urbanisme - art. R*121-8 (VT)
+	  - TXT_SOURCE: Code de l'urbanisme - art. R*121-9 (VT)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L113-4 (VT)
+	  - Code de l'urbanisme - art. R*121-1 (V)
+	  - Code de l'urbanisme - art. R*121-3 (Ab)
+	  - Code de l'urbanisme - art. R*121-4 (VT)
+	  - Code de l'urbanisme - art. R*121-4-1 (V)
+	  - Code de l'urbanisme - art. R*123-10 (M)
+	  - Code de l'éducation - art. R211-5 (M)
+	  - Code général des collectivités territoriales - art. L1331-1 (Ab)
+	  - Code général des collectivités territoriales - art. L4251-2 (VD)
+	  - Code général des collectivités territoriales - art. L4424-13 (VD)
+	  - Code général des collectivités territoriales - art. L4424-15 (V)
+	  - Code général des collectivités territoriales - art. L4424-9 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L121-12
+
+Des décrets en Conseil d'Etat précisent la nature des projets d'intérêt général visés aux articles L. 122-1-1, L. 122-1-3, L.
+122-1-4, L. 123-1, L. 123-7-1, ainsi que la qualité des intervenants mentionnés aux mêmes articles. Ils précisent également
+la liste des opérations d'intérêt national visées aux articles L. 111-1-2 et L. 421-2-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 47 () JORF 9 janvier 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+	  - TXT_SOURCE: Code de l'urbanisme - art. R*121-13 (VT)
+
+	**Cité par**:
+
+	  - Décret n°87-193 du 24 mars 1987 - art. 2 (V)
+	  - Code de l'environnement - art. L123-10 (VT)
+	  - Code de l'environnement - art. L123-14 (VT)
+	  - Code de l'environnement - art. R123-8 (VD)
+	  - Code de l'environnement - art. R123-9 (M)
+	  - Code de l'urbanisme - art. L121-14 (VT)
+	  - Code de l'urbanisme - art. L122-1-1 (Ab)
+	  - Code de l'urbanisme - art. L122-1-3 (Ab)
+	  - Code de l'urbanisme - art. L122-1-4 (Ab)
+	  - Code de l'urbanisme - art. L122-6 (M)
+	  - Code de l'urbanisme - art. L311-4 (M)
+	  - Code de l'urbanisme - art. R*121-13 (M)
+	  - Code de l'urbanisme - art. R*123-5 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L111-1-2 (M)
+	  - Code de l'urbanisme - art. L123-1 (M)
+	  - Code de l'urbanisme - art. L123-7-1 (M)
+	  - Code de l'urbanisme - art. L421-2-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+#### Chapitre II : Schémas directeurs.
+
+###### Article L122-2
+
+Dans les cas prévus au deuxième alinéa de l'article L. 122-1-4 les schémas directeurs et les schémas de secteur sont élaborés
+conjointement par les services de l'Etat, notamment ceux qui ont la charge de l'agriculture, l'industrie et l'urbanisme et
+les communes intéressées ou, lorsqu'ils existent, les établissements publics groupant lesdites communes et ayant compétence
+en matière d'urbanisme. La région et le département peuvent être associés à cette élaboration.
+
+Ils sont approuvés après délibération prise par les conseils municipaux desdites communes ou les organes compétents desdits
+établissements publics. Cette délibération est réputée prise si elle n'intervient pas dans un délai de trois mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Modifié par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 75 () JORF 9 janvier 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L341-16 (V)
+	  - Code de l'urbanisme - art. L122-1-4 (Ab)
+	  - Code de l'urbanisme - art. L122-2-1 (VT)
+	  - Code de l'urbanisme - art. L122-3 (M)
+	  - Code de l'urbanisme - art. L122-5 (M)
+	  - Code de l'urbanisme - art. L122-6 (M)
+	  - Code de l'urbanisme - art. R122-28 (Ab)
+	  - Code du patrimoine. - art. L630-1 (VT)
+
+
+###### Article L122-3
+
+Dans les cas prévus au deuxième alinéa de l'article L. 122-1-4 l'approbation des schémas directeurs et des schémas de secteur
+ne peut résulter que d'un décret en conseil d'Etat :
+
+Lorsqu'un quart au moins des conseils municipaux susvisés ou un ou plusieurs de ces conseils représentant plus du quart
+[*nombre*] de la population totale du territoire concerné par un schéma directeur ou un schéma de secteur font connaître leur
+opposition dans des conditions déterminées par les décrets prévus à l'article L. 125-1 ;
+
+Lorsque les organes compétents d'un ou plusieurs des établissements publics [*syndicat de communes, district urbain,
+communauté urbaine*] mentionnés au deuxième alinéa de l'article L. 122-2, représentant un quart au moins de la population
+totale du territoire concerné, font connaître leur opposition dans les mêmes conditions.
+
+Les schémas directeurs et les schémas de secteur approuvés sont tenus à la disposition du public.[*publicité*]
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 75 () JORF 9 janvier 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+	  - TXT_ASSOCIE: Code de l'urbanisme R122-19
+
+	**Cité par**:
+
+	  - Loi n°95-115 du 4 février 1995 - art. 22 (M)
+	  - Code de l'urbanisme - art. L122-1-4 (Ab)
+	  - Code de l'urbanisme - art. L122-18 (VT)
+	  - Code de l'urbanisme - art. L122-4-3 (VT)
+	  - Code de l'urbanisme - art. L122-5 (M)
+	  - Code de l'urbanisme - art. L123-1-7 (VT)
+	  - Code de l'urbanisme - art. L145-4 (M)
+	  - Code de l'urbanisme - art. R*122-12 (V)
+	  - Code de l'urbanisme - art. R*122-14 (VT)
+	  - Code de l'urbanisme - art. R*122-19 (M)
+	  - Code de l'urbanisme - art. R*122-22 (Ab)
+	  - Code de l'urbanisme - art. R*122-3-1 (VT)
+	  - Code de l'urbanisme - art. R*613-2 (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L122-2 (M)
+	  - Code de l'urbanisme - art. L125-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
 #### Chapitre III : Plans d'occupation des sols.
 
 ###### Article L123-1
 
-Les plans d'occupation des sols fixent, dans le cadre des orientations des schémas directeurs, s'il en existe, les règles
-générales et les servitudes d'utilisation des sols, qui peuvent notamment comporter l'interdiction de construire.
+Les plans d'occupation des sols fixent, dans le cadre des orientations des schémas directeurs ou des schémas de secteur, s'il
+en existe, les règles générales et les servitudes d'utilisation des sols, qui peuvent notamment comporter l'interdiction de
+construire.
 
-En particulier :
+A cette fin, ils doivent :
 
-1. Ils délimitent des zones urbaines en prenant notamment en considération la valeur agronomique des sols ainsi que les
-structures agricoles et l'existence de zones de terrains produisant des denrées de qualité supérieure ou comportant des
-équipements spéciaux importants ;
+1° délimiter des zones urbaines en prenant notamment en considération la valeur agronomique des sols ainsi que les structures
+agricoles et l'existence de zones de terrain produisant des denrées de qualité supérieure et des zones comportant des
+équipements spéciaux importants et déterminer des zones d'affectation des sols selon l'usage principal qui doit en être fait
+ou la nature des activités dominantes qui peuvent y être exercées ;
 
-2. Ils déterminent des zones d'affectation des sols selon l'usage principal qui doit en être fait ou la nature des activités
-dominantes qui peuvent y être exercées ;
+2° définir, en fonction des situations locales, les règles concernant le droit d'implanter des constructions, leur
+destination et leur nature.
 
-3. Ils fixent, pour chaque zone ou partie de zone, en fonction notamment de la capacité des équipements collectifs existants
-ou en cours de réalisation et de la nature des constructions à édifier, un ou des coefficients d'occupation des sols qui
+Ils peuvent, en outre :
+
+3° déterminer des règles concernant l'aspect extérieur des constructions, leurs dimensions et l'aménagement de leurs abords ;
+
+4° fixer pour chaque zone ou partie de zone, en fonction notamment de la capacité des équipements collectifs existants ou en
+cours de réalisation et de la nature des constructions à édifier, un ou des coefficients d'occupation des sols qui
 déterminent, éventuellement pour chaque nature de construction, la densité de construction qui y est admise ;
 
-3. bis Ils délimitent les zones ou parties de zone dans lesquelles la reconstruction sur place ou l'aménagement de bâtiments
+5° délimiter les zones ou parties de zones dans lesquelles la reconstruction sur place ou l'aménagement de bâtiments
 existants pourra, pour des motifs d'urbanisme ou d'architecture, être imposé ou autorisé avec une densité au plus égale à
-celle qui était initialement bâtie, nonobstant les règles fixées au 3. ci-dessus ;
+celle qui était initialement bâtie, nonobstant les règles fixées au 4° ci-dessus ;
 
-4. Ils précisent le tracé et les caractéristiques des voies de circulation à conserver, à modifier ou à créer, y compris les
-rues ou sentiers piétonniers et les pistes cyclables ;
+6° préciser le tracé et les caractéristiques des voies de circulation à conserver, à modifier ou à créer, y compris les rues
+ou sentiers piétonniers et les pistes cyclables ;
 
-5. Ils délimitent les quartiers, rues, monuments, sites et secteurs à protéger ou à mettre en valeur pour des motifs d'ordre
+7° délimiter les quartiers, rues, monuments, sites et secteurs à protéger ou à mettre en valeur pour des motifs d'ordre
 esthétique, historique ou écologique ;
 
-5. bis Ils délimitent les secteurs dans lesquels la délivrance du permis de construire peut être subordonnée à la démolition
-de tout ou partie des bâtiments existants sur le terrain où l'implantation de la construction est envisagée ;
+8° fixer les emplacements réservés aux voies et ouvrages publics, aux installations d'intérêt général ainsi qu'aux espaces
+verts ;
 
-6. Ils fixent les emplacements réservés aux voies et ouvrages publics, aux installations d'intérêt général ainsi qu'aux
-espaces verts ;
+9° localiser, dans les zones urbaines, les terrains cultivés à protéger et inconstructibles quels que soient les équipements
+éventuels qui les desservent.
 
-6. bis Ils localisent, dans les zones urbaines, les terrains cultivés à protéger et inconstructibles quels que soient les
-équipements éventuels qui les desservent ;
-
-7. Ils définissent les règles concernant le droit d'implanter des constructions, leur destination, leur nature, leur aspect
-extérieur, leurs dimensions et l'aménagement de leurs abords.
-
-Les règles mentionnées au 7. ci-dessus peuvent prévoir des normes de construction différentes de celles qui résultent de
+Les règles mentionnées au 2° ci-dessus peuvent prévoir des normes de construction différentes de celles qui résultent de
 l'application du coefficient d'occupation du sol, soit en raison des prescriptions d'urbanisme ou d'architecture, soit en
 raison de l'existence de projets tendant à renforcer la capacité des équipements collectifs.
 
-Les plans d'occupation des sols peuvent ne contenir qu'une partie des éléments énumérés dans le présent article.
-
-Les règles et servitudes définies par un plan d'occupation des sols ne peuvent faire l'objet d'aucune dérogation à
+Les règles et servitudes définies par un plan d'occupation des sols ne peuvent faire l'objet d'aucune dérogation, à
 l'exception des adaptations mineures rendues nécessaires par la nature du sol, la configuration des parcelles ou le caractère
 des constructions avoisinantes.
+
+Les plans d'occupation des sols doivent être compatibles avec les prescriptions prises en application de l'article L. 111-1-1
+et les orientations des schémas directeurs et des schémas de secteur, s'ils existent, et respecter les servitudes d'utilité
+publique affectant l'utilisation du sol ainsi que les dispositions nécessaires à la mise en oeuvre de projets d'intérêt
+général relevant de l'Etat, de la région, du département ou d'autres intervenants. Ils prennent en considération les
+orientations définies par les chartes intercommunales.
 
 **Liens relatifs à cet article**
 
@@ -1405,22 +2025,25 @@ des constructions avoisinantes.
 	  - Code du tourisme. - art. L342-18 (V)
 	  - Code du tourisme. - art. L342-23 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de l'urbanisme 13
+	  - Loi n°83-8 du 7 janvier 1983 - art. 48 () JORF 9 JANVIER 1983
 
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L111-1-1 (M)
+
 
 ###### Article L123-2
 
 Dans les zones à protéger en raison de la qualité de leurs paysages dont la définition est fixée par les décrets prévus à
-l'article L. 125-1 et dont la délimitation est préalablement fixée par l'autorité administrative, les plans d'occupation des
-sols peuvent déterminer les conditions dans lesquelles les possibilités de construction résultant du coefficient d'occupation
-du sol fixé pour l'ensemble de la zone pourront, avec l'accord de l'autorité administrative, être transférées en vue de
-favoriser un regroupement des constructions sur d'autres terrains situés dans un ou plusieurs secteurs de la même zone.
+l'article L. 125-1, les plans d'occupation des sols peuvent déterminer les conditions dans lesquelles les possibilités de
+construction résultant du coefficient d'occupation du sol fixé pour l'ensemble de la zone pourront, être transférées en vue
+de favoriser un regroupement des constructions sur d'autres terrains situés dans un ou plusieurs secteurs de la même zone.
 
 Dans ces secteurs, les constructions ne sont autorisées qu'après de tels transferts, les possibilités de construire propres
 aux terrains situés dans ces secteurs s'ajoutant alors aux possibilités transférées ; la densité maximum de construction
@@ -1428,9 +2051,17 @@ desdits secteurs est fixée par le plan.
 
 En cas de transfert, la totalité du terrain dont les possibilités de construction sont transférées est frappée de plein droit
 d'une servitude administrative d'interdiction de construire constatée par un acte authentique publié au bureau des
-hypothèques. Cette servitude ne peut être levée que par décret pris sur avis conforme du Conseil d'Etat.
+hypothèques. Cette servitude ne peut être levée que par décret pris sur avis conforme du conseil d'Etat.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 75 () JORF 9 janvier 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
 
 	**Cité par**:
 
@@ -1467,27 +2098,42 @@ hypothèques. Cette servitude ne peut être levée que par décret pris sur avis
 
 ###### Article L123-3
 
-Les plans d'occupation des sols sont élaborés conjointement par les services de l'Etat et les communes intéressées ou,
-lorsqu'ils existent, les établissements publics groupant lesdites communes et ayant compétence en matière d'urbanisme.
+Le plan d'occupation des sols est élaboré à l'initiative et sous la responsabilité de la commune.
 
-Les plans d'occupation des sols sont soumis pour avis aux conseils municipaux desdites communes ou aux organes compétents
-desdits établissements publics. Cet avis est réputé favorable s'il n'intervient pas dans un délai de trois mois.
+Après délibération du conseil municipal, une commune peut confier l'élaboration d'un plan d'occupation des sols à un
+établissement public de coopération intercommunale.
 
-Les plans d'occupation des sols sont alors rendus publics, cette publication devant comporter en annexe le texte des avis
-donnés conformément à l'alinéa qui précède.
+Sont associés à cette élaboration l'Etat et, à leur demande et dans les formes que la commune ou l'établissement public
+détermine, la région, le département et les organismes mentionnés aux articles L. 121-6 et L. 121-7 ; le maire ou le
+président de l'établissement public peut recueillir l'avis de tout organisme ou association ayant compétence en matière de
+construction, d'aménagement ou d'urbanisme.
 
-Ils sont ensuite soumis à enquête publique, puis à une délibération prise par les conseils municipaux ou les organes
-compétents susvisés. Cette délibération est réputée prise si elle n'intervient pas dans un délai de trois mois.
+Au vu de la décision prescrivant l'élaboration d'un plan d'occupation des sols, le représentant de l'Etat porte à la
+connaissance de la commune ou de l'établissement public compétent les prescriptions, servitudes et dispositions mentionnées
+au dernier alinéa de l'article L. 123-1, et lui communique toute autre information qu'il juge utile à l'élaboration du plan.
 
-Les plans d'occupation des sols sont alors approuvés dans les conditions fixées par les décrets prévus à l'article L. 125-1.
+Le conseil municipal ou l'organe délibérant de l'établissement public compétent arrête le projet de plan d'occupation des
+sols. Celui-ci est alors soumis pour avis aux personnes publiques associées à son élaboration ainsi que, à leur demande, aux
+communes limitrophes et aux établissements publics de coopération intercommunale directement intéressés. Ces personnes
+donnent un avis dans les limites de leurs compétences propres, au plus tard trois mois après transmission du projet de plan ;
+à défaut, ces avis sont réputés favorables.
 
-Lorsqu'une opposition émane d'une commune groupant plus de 50000 habitants, de plusieurs communes groupant plus de 50000
-habitants ou d'un établissement public groupant des communes dont la population globale excède ce chiffre, l'approbation ne
-peut résulter que d'un décret en Conseil d'Etat.
+Lorsque le projet de plan d'occupation des sols est arrêté par l'organe délibérant de l'établissement public groupant les
+communes et ayant compétence en matière d'urbanisme, il est également soumis pour accord aux conseils municipaux des communes
+membres. Les conseils municipaux doivent faire connaître leur accord ou leur désaccord dans un délai de trois mois ; à
+défaut, l'accord est réputé donné.
 
-Les plans d'occupation des sols approuvés sont tenus à la disposition du public.
+Dans les communes couvertes par un schéma directeur ou un schéma de secteur approuvé ou arrêté, le projet de plan
+d'occupation des sols est rendu public par le maire ou le président de l'établissement public compétent avec en annexe les
+avis ou les accords des personnes publiques consultées. Le plan d'occupation des sols rendu public est opposable à toute
+personne publique ou privée pour l'exécution de tous travaux, constructions, plantations, affouillements ou exhaussements des
+sols, pour la création de lotissements et l'ouverture des installations classées.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 50 () JORF 9 JANVIER 1983
 
 	**Cité par**:
 
@@ -1506,18 +2152,95 @@ Les plans d'occupation des sols approuvés sont tenus à la disposition du publi
 	  - Code de l'urbanisme - art. R311-6 (VD)
 	  - Code rural - art. R244-15 (Ab)
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L123-4 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme R123-10
-
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L125-1 (M)
+	  - Code de l'urbanisme - art. L121-6 (M)
+	  - Code de l'urbanisme - art. L121-7 (M)
+	  - Code de l'urbanisme - art. L123-1 (M)
 
 	**Anciens textes**:
 
-	  - Code de l'urbanisme 14 AL. 1 A 7
+	  - Code de l'urbanisme 14 AL. 1 à AL. 7
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme L123-4
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L123-3-1
+
+Le plan d'occupation des sols rendu public est soumis à enquête publique par le maire ou par le président de l'établissement
+public de coopération intercommunale.
+
+Après l'enquête publique, le plan d'occupation des sols, éventuellement modifié, est approuvé par délibération du conseil
+municipal ou de l'organe délibérant de l'établissement public.
+
+Les plans d'occupation des sols rendus publics ou approuvés sont tenus à la disposition du public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Créé par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 51 () JORF 9 janvier 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+	  - SPEC_APPLI: Loi n°2000-1208 du 13 décembre 2000 - art. 43 (V)
+	  - SPEC_APPLI: Décret n°2001-260 du 27 mars 2001 - art. 6 (V)
+
+	**Cité par**:
+
+	  - Décret n°85-453 du 23 avril 1985 - art. 2 (M)
+	  - Code de l'urbanisme - art. L123-4 (M)
+	  - Code de l'urbanisme - art. L313-1 (M)
+	  - Code de l'urbanisme - art. L600-1 (M)
+	  - Code de la voirie routière - art. L141-3 (V)
+	  - Code rural - art. L411-57 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 4 () JORF 14 décembre 2000 en vigueur le 1er avril 2001
+
+
+###### Article L123-3-2
+
+Dans les communes non couvertes par un schéma directeur ou un schéma de secteur approuvé par l'établissement public de
+coopération intercommunale ou arrêté par l'Etat, l'acte rendant le plan d'occupation des sols ou sa modification opposable
+aux tiers devient exécutoire dans le délai d'un mois suivant sa transmission au représentant de l'Etat sauf si, dans ce
+délai, celui-ci a notifié à la commune des modifications qu'il estime nécessaire d'apporter à ce plan, lorsque certaines de
+ses dispositions sont illégales, de nature à compromettre la réalisation d'un schéma directeur, d'un schéma de secteur ou
+d'un schéma de mise en valeur de la mer en cours d'établissement, insuffisantes pour permettre la maîtrise de l'urbanisation
+future, ou ont fait apparaître des incompatibilités manifestes avec l'utilisation ou l'affectation des sols des communes
+voisines.
+
+Les dispositions du plan d'occupation des sols rendu public ou sa modification sont inopposables aux tiers tant que la
+commune ou l'établissement public de coopération intercommunale n'a pas apporté les modifications demandées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 52 () JORF 9 JANVIER 1983
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L123-3 (M)
+	  - Code de l'urbanisme - art. L123-4 (M)
+	  - Code de l'urbanisme - art. L313-1 (M)
+	  - Code de l'urbanisme - art. R*123-10 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de l'urbanisme - art. R*123-10 (M)
 
 	**Codifié par**:
 
@@ -1528,15 +2251,22 @@ Les plans d'occupation des sols approuvés sont tenus à la disposition du publi
 
 La révision des plans d'occupation des sols a lieu dans les formes prévues pour leur établissement.
 
-Toutefois, un plan approuvé peut également être modifié suivant les règles posées aux alinéas 1er, 4, 5 et 6 de l'article L.
-123-3, à la condition qu'il ne soit pas porté atteinte à son économie générale et que la modification ne concerne pas les
-espaces boisés classés.
+Toutefois, un plan d'occupation des sols peut également être modifié par délibération du conseil municipal après enquête
+publique à la condition qu'il ne soit pas porté atteinte à son économie générale et que la modification ne concerne pas les
+espaces boisés classés ou ne comporte pas de graves risques de nuisance.
 
-A compter de la décision administrative ordonnant la mise en révision d'un plan d'occupation des sols, il peut être fait une
-application anticipée des dispositions du plan en cours d'élaboration dans les conditions définies par les décrets prévus à
-l'article L. 125-1.
+Lorsqu'un plan d'occupation des sols a été mis en révision, il peut être fait une application anticipée des dispositions du
+plan en cours d'élaboration, à compter de la décision arrêtant le projet de plan, sauf dans les communes non couvertes par un
+schéma directeur approuvé si le représentant de l'Etat s'y oppose, lorsque certaines de ses dispositions sont illégales, de
+nature à compromettre la réalisation d'un schéma directeur, d'un schéma de secteur ou d'un schéma de mise en valeur de la mer
+en cours d'établissement, insuffisantes pour permettre la maîtrise de l'urbanisation future, ou ont fait apparaître des
+incompatibilités manifestes avec l'utilisation ou l'affectation des sols des communes voisines.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 54 () JORF 9 JANVIER 1983
 
 	**Cité par**:
 
@@ -1556,28 +2286,46 @@ l'article L. 125-1.
 
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L123-3 (M)
 
-	**Cite**:
+	**Codifié par**:
 
-	  - Code de l'urbanisme - art. L125-1 (M)
-	  - Code de l'urbanisme L123-3 AL. 1, 4, 5 ET 6
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
-	**Anciens textes**:
 
-	  - Code de l'urbanisme 14 AL. 8
+###### Article L123-4-1
+
+Un plan d'occupation des sols ne peut être abrogé. En cas d'annulation par voie juridictionnelle d'un plan d'occupation des
+sols, concernant tout ou partie du territoire intéressé par le plan, l'autorité compétente [*obligation*] est tenue
+d'élaborer sans délai un nouveau plan d'occupation des sols.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°73-1022 1973-11-08 13 NOVEMBRE 1973
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Créé par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 49 () JORF 9 janvier 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+	  - SPEC_APPLI: Loi n°2000-1208 du 13 décembre 2000 - art. 43 (V)
+	  - SPEC_APPLI: Décret n°2001-260 du 27 mars 2001 - art. 6 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 4 () JORF 14 décembre 2000 en vigueur le 1er avril 2001
 
 
 ###### Article L123-5
 
 Lorsque l'établissement d'un plan d'occupation des sols est prescrit, ou lorsque la révision d'un plan approuvé a été
-ordonnée, l'autorité administrative peut décider de surseoir à statuer, dans les conditions et délai prévus à l'article L.
-111-8, sur les demandes d'autorisation concernant des constructions, installations ou opérations qui seraient de nature à
+ordonnée, l'autorité compétente peut décider de surseoir à statuer, dans les conditions et délai prévus à l'article L. 111-8,
+sur les demandes d'autorisation concernant des constructions, installations ou opérations qui seraient de nature à
 compromettre ou à rendre plus onéreuse l'exécution du futur plan.
 
-L'acte par lequel est prescrit l'établissement d'un plan d'occupation des sols ou l'acte par lequel est ordonnée la révision
+L'acte par lequel est prescrit l'établissement d'un plan d'occupation des sols ou l'acte par lequel est ordonnée la revision
 d'un plan d'occupation des sols approuvé fait l'objet d'une publicité dans les conditions déterminées par les décrets prévus
 à l'article L. 125-1.
 
@@ -1588,7 +2336,15 @@ classés.
 Si l'approbation du plan n'intervient pas dans un délai de trois ans à compter du jour où le plan a été rendu public, celui-
 ci cesse d'être opposable aux tiers.
 
+Lorsqu'un plan d'occupation des sols rendu public se substitue aux dispositions d'un plan antérieurement approuvé et mis en
+révision, l'absence d'approbation dans le délai de trois ans mentionné à l'alinéa précédent remet en vigueur l'ancien plan
+approuvé.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 49 () JORF 9 JANVIER 1983
 
 	**Liens**:
 
@@ -1611,13 +2367,13 @@ ci cesse d'être opposable aux tiers.
 	  - Code de l'urbanisme - art. R421-30 (M)
 	  - Code du patrimoine - art. R621-12 (V)
 
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L125-1 (M)
-
 	**Anciens textes**:
 
 	  - Code de l'urbanisme 15
+
+	**Cite**:
+
+	  - Code de l'urbanisme L125-1
 
 	**Codifié par**:
 
@@ -1628,18 +2384,27 @@ ci cesse d'être opposable aux tiers.
 
 Dans les zones d'aménagement concerté créées en application de l'article L. 311-1, les dispositions du plan d'occupation des
 sols rendu public ou approuvé, à moins que l'acte de création de la zone ne décide de les maintenir en vigueur, cessent
-d'être applicables à compter de la publication de l'acte portant approbation du plan d'aménagement de zone, à l'exception de
+d'être applicables à compter  de la publication de l'acte portant approbation du plan d'aménagement de zone, à l'exception de
 celles qui sont relatives aux espaces boisés classés .
 
-L'achèvement de l'aménagement de la zone est constaté par une décision de l'autorité administrative prise sur la demande ou
-après avis des organes délibérants des communes ou des établissements publics groupant lesdites communes et ayant compétence
-en matière d'urbanisme. Cette décision abroge l'acte de création de la zone d'aménagement concerté, prononce l'incorporation
-au plan d'occupation des sols du plan d'aménagement de la zone et des dispositions destinées à assurer l'unité d'urbanisme et
+L'achèvement de l'aménagement de la zone est constaté par une décision de l'autorité compétente prise sur la demande ou après
+avis des organes délibérants des communes ou des établissements publics groupant lesdites communes et ayant compétence en
+matière d'urbanisme. Cette décision abroge l'acte de création de la zone d'aménagement concerté, prononce l'incorporation au
+plan d'occupation des sols du plan d'aménagement de la zone et des dispositions destinées à assurer l'unité d'urbanisme et
 d'architecture dans la zone incluse dans les cahiers des charges de concession et les cahiers des charges de cession de
 terrains approuvés, et fixe les modalités de cette incorporation. Le territoire à l'intérieur du périmètre considéré est
 alors soumis au régime juridique des plans d'occupation des sols tel qu'il est défini par le présent code.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°83-8 1983-01-07 art. 75 2 JORF 9 janvier 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L124-2 (M)
 
 	**Cité par**:
 
@@ -1673,17 +2438,9 @@ alors soumis au régime juridique des plans d'occupation des sols tel qu'il est 
 	  - Code du patrimoine. - art. L641-1 (V)
 	  - Code général des collectivités territoriales - art. L4251-5 (VD)
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L124-2 (M)
-
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L311-1 (M)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 16 AL. 1
 
 	**Codifié par**:
 
@@ -1692,15 +2449,20 @@ alors soumis au régime juridique des plans d'occupation des sols tel qu'il est 
 
 ###### Article L123-7
 
-L'autorité administrative peut surseoir à statuer  sur les demandes d'autorisation concernant des constructions,
-installations ou opérations intéressant les périmètres  définis à l'article précédent. Le sursis à statuer ne peut excéder
-deux ans.
-
-/A/Si, à l'expiration de ce délai, l'autorisation est refusée au propriétaire d'un terrain compris dans le périmètre, ledit
-terrain est considéré, à compter de la date de ce refus, comme un terrain réservé, par un plan d'occupation des sols au sens
-de l'article L. 123-9/A/LOI 1285 ART. 59//.
+L'autorité compétente peut surseoir à statuer  sur les demandes d'autorisation concernant des constructions, installations ou
+opérations intéressant les périmètres  définis à l'article précédent. Le sursis à statuer ne peut excéder deux ans.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°83-8 1983-01-07 art. 75 2 JORF 9 janvier 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L111-7 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L124-2 (M)
 
 	**Cité par**:
 
@@ -1715,22 +2477,53 @@ de l'article L. 123-9/A/LOI 1285 ART. 59//.
 	  - Code de l'urbanisme - art. R421-30 (M)
 	  - Code du patrimoine. - art. L641-1 (V)
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L111-7 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L124-2 (M)
-
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L123-6 (M)
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Code de l'urbanisme 16 AL. 3 ET 4
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L123-7-1
+
+Après mise en demeure de la commune ou de l'établissement public de coopération intercommunale non suivie d'effet dans les
+six mois, le représentant de l'Etat peut prescrire et approuver, après avis du conseil municipal ou de l'organe délibérant de
+l'établissement public et enquête publique, la révision ou la modification du plan d'occupation des sols afin que celui-ci
+soit compatible avec les prescriptions nouvelles prises en application de l'article L. 111-1-1 ou avec les orientations d'un
+schéma directeur ou d'un schéma de secteur, approuvé ou arrêté postérieurement à l'approbation du plan, ou pour permettre la
+réalisation d'un nouveau projet d'intérêt général relevant de l'Etat, de la région, du département ou d'autres intervenants
+et correspondant aux définitions prises en application de l'article L. 121-12.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Créé par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 53 () JORF 9 JANVIER 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+
+	**Cité par**:
+
+	  - Décret n°84-617 du 17 juillet 1984 - art. 17 (Ab)
+	  - Décret n°85-453 du 23 avril 1985 - art. 2 (M)
+	  - Code de l'urbanisme - art. L111-1-4 (M)
+	  - Code de l'urbanisme - art. L121-12 (Ab)
+	  - Code de l'urbanisme - art. L123-4 (M)
+	  - Code de l'urbanisme - art. L313-1 (M)
+	  - Code de l'urbanisme - art. R123-35-1 (Ab)
+	  - Code de l'urbanisme - art. R123-35-1-1 (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L111-1-1 (M)
 
 
 ###### Article L123-8
@@ -1862,40 +2655,6 @@ relative à l'expropriation.
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
-###### Article L123-10
-
-Les plans d'occupation des sols doivent comporter [*contenu*] en annexe les servitudes d'utilité publique affectant
-l'utilisation du sol et qui figurent sur une liste dressée par décret en Conseil d'Etat.
-
-Après l'expiration d'un délai d'un an à compter [*point de départ*] soit de l'approbation du plan, soit, s'il s'agit d'une
-servitude nouvelle, de son institution, seules les servitudes annexées au plan [*publicité*] peuvent être opposées aux
-demandes d'autorisation d'occupation du sol. Dans le cas où le plan a été approuvé ou la servitude instituée avant la
-publication du décret établissant ou complétant la liste visée à l'alinéa premier, le délai d'un an court à compter de cette
-publication.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°82-600 du 13 juillet 1982 - art. 5 (M)
-	  - Code de l'urbanisme - art. L123-11 (M)
-	  - Code de l'urbanisme - art. L123-23 (VT)
-	  - Code de l'urbanisme - art. R*123-19 (VT)
-	  - Code de l'urbanisme - art. R*123-20 (M)
-	  - Code de l'urbanisme - art. R*123-21 (V)
-	  - Code de l'urbanisme - art. R*123-24 (VT)
-	  - Code de l'urbanisme - art. R*160-23 (M)
-	  - Code forestier - art. R411-10 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Abrogé par**:
-
-	  - Loi n°83-8 1983-01-09 ART. 75 I 7 JORF 9 JANVIER 1983
-
-
 ###### Article L123-11
 
 Les dispositions destinées à assurer l'unité d'urbanisme et d'architecture dans une zone à urbaniser en priorité qui sont
@@ -1933,8 +2692,7 @@ Dans les zones d'habitation et dans les zones industrielles, créées avant l'in
 dispositions destinées à assurer l'unité d'urbanisme et d'architecture dans la zone considérée qui sont incluses dans les
 cahiers des charges de concession et dans les cahiers des charges de cession de terrains approuvés doivent, postérieurement à
 la fin de la concession, être incorporées [*contenu*] au plan d'occupation des sols, s'il en existe un, par une décision de
-l'autorité administrative. Le régime juridique des plans d'occupation des sols est applicable aux dispositions ainsi
-incorporées.
+l'autorité compétente. Le régime juridique des plans d'occupation des sols est applicable aux dispositions ainsi incorporées.
 
 Lorsque l'établissement d'un plan d'occupation des sols n'a pas été prescrit ou si le plan d'occupation des sols n'est pas
 rendu public ou approuvé au moment de la fin de la concession, les dispositions des cahiers des charges destinées à assurer
@@ -1946,6 +2704,14 @@ l'article L. 123-11.
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Modifié par**:
+
+	  - Loi n°83-8 1983-01-07 ART. 75 2 JORF 9 JANVIER 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
 
 	**Cité par**:
 
@@ -1963,7 +2729,7 @@ l'article L. 123-11.
 	  - Code de l'urbanisme - art. L318-9 (V)
 
 
-#### Chapitre IV : Dispositions transitoires relatives aux projets d'aménagement, aux plans d'urbanisme et aux coefficients provisoires d'occupation du sol. 
+#### Chapitre IV : Dispositions transitoires.
 
 ###### Article L124-1
 
@@ -1971,11 +2737,24 @@ Les dispositions suivantes sont applicables aux plans d'urbanisme établis en ap
 58-1463 du 31 décembre 1958 modifié et aux projets d'aménagement établis en application de la législation antérieure à ces
 dispositions.
 
-Les projets d'aménagement approuvés ainsi que les plans d'urbanisme rendus publics avant le 1er juillet 1970, ou approuvés
-avant le 1er juillet 1971 continuent à produire leurs effets. Ils sont tenus à la dispositions du public.
+Les projets d'aménagement approuvés ainsi que les plans d'urbanisme approuvés avant le 1er juillet 1971 continuent à produire
+leurs effets. Ils sont tenus à la disposition du public.
 
-Toutefois, les projets d'aménagement et les plans d'urbanisme directeurs et de détail devront être remplacés par des plans
-d'occupation des sols rendus publics avant le 1er janvier 1975.
+Toutefois :
+
+a) Les projets d'aménagement et les plans d'urbanisme directeurs et de détail devront être remplacés par des plans
+d'occupation des sols rendus publics avant le 1er juillet 1978. Toutefois, lorsque dans une commune le maire a été habilité,
+au lieu et place de l'Etat, à exercer le pouvoir d'instruire certaines demandes d'autorisation en matière d'occupation ou
+d'utilisation du sol, la date du 1er juillet 1978 est remplacée par celle du 1er juillet 1980.
+
+b) Les plans sommaires d'urbanisme devront être remplacés par des plans d'occupation des sols rendus publics avant le 1er
+janvier 1981. Ils pourront, jusqu'à cette date et sauf en ce qui concerne les espaces boisés classés, faire l'objet de
+modifications par arrêté préfectoral publié, pris sur la demande ou avec l'accord du conseil municipal intéressé et après
+enquête publique.
+
+Les dispositions des deux alinéas qui précèdent s'appliquent aux plans d'urbanisme qui ont été approuvés avant le 1er juillet
+1971, même si ces plans ont été prescrits ou mis en révision entre le 30 décembre 1967 et le 5 novembre 1970, ou si l'acte
+décidant de les rendre publics, signé avant le 1er juillet 1970, n'a été publié qu'après cette date.
 
 **Liens relatifs à cet article**
 
@@ -1983,13 +2762,19 @@ d'occupation des sols rendus publics avant le 1er janvier 1975.
 
 	  - Décret n°58-1463 1958-12-31
 
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
 	**Anciens textes**:
 
 	  - Loi n°67-1253 1967-12-30 ART. 2 I loi d'orientation foncière
+
+	**Modifié par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 75 ()
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L125-1 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme R124-1
 
 	**Cité par**:
 
@@ -1999,23 +2784,21 @@ d'occupation des sols rendus publics avant le 1er janvier 1975.
 	  - Code de l'urbanisme - art. R*124-1 (Ab)
 	  - Code de l'urbanisme - art. R*124-2 (Ab)
 
-	**Liens**:
+	**Codifié par**:
 
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L125-1 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme R124-1
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L124-2
 
 Les dispositions des articles L. 123-6 et L. 123-7 sont applicables en cas de création de zones d'aménagement concerté sur le
 territoire des communes, ensembles de communes ou parties de communes auxquels s'applique soit un projet d'aménagement
-approuvé en application de la loi n. 324 du 15 juin 1943, soit un plan d'urbanisme approuvé ou rendu public en application du
-décret n. 58-1463 du 31 décembre 1958 modifié, ou pour lesquels ont été fixés des coefficients provisoires d'occupation des
-sols en application de l'article L. 124-3.
+approuvé en application de la loi n. 324 du 15 juin 1943, soit un plan d'urbanisme approuvé en application du décret n.
+58-1463 du 31 décembre 1958 modifié.
 
-Les dispositions de l'article L. 123-8 et les textes pris pour son application sont applicables à un plan d'urbanisme
-approuvé, lorsque doit être prononcée la déclaration d'utilité publique d'une opération qui n'est pas compatible avec les
-prescriptions de ce plan.
+Les dispositions de l'article L. 123-8 et les textes pris pour son application sont applicables à un projet d'aménagement ou
+à un plan d'urbanisme approuvé lorsque doit être prononcée la déclaration d'utilité publique d'une opération qui n'est pas
+compatible avec les prescriptions de ce plan.
 
 Les dispositions de l'article L. 123-9 et les textes pris pour son application sont rendus applicables aux terrains réservés
 par un plan d'urbanisme approuvé pour des voies, ouvrages publics, installations d'intérêt général ou des espaces verts.
@@ -2025,11 +2808,10 @@ par un plan d'urbanisme approuvé pour des voies, ouvrages publics, installation
 	**Cite**:
 
 	  - Décret n°58-1463 1958-12-31
-	  - Loi n°43-324 1943-06-15
 	  - Code de l'urbanisme - art. L123-6 (M)
 	  - Code de l'urbanisme - art. L123-7 (M)
 	  - Code de l'urbanisme - art. L123-8 (M)
-	  - Code de l'urbanisme - art. L124-3 (Ab)
+	  - Loi n°43-324 1943-06-15
 
 	**Codifié par**:
 
@@ -2038,6 +2820,19 @@ par un plan d'urbanisme approuvé pour des voies, ouvrages publics, installation
 	**Anciens textes**:
 
 	  - Loi n°67-1253 1967-12-30 ART. 2 II AL. 1, ART. 2 III, ART. 2 IV loi d'orientation foncière
+
+	**Modifié par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 75 ()
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L123-6 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L123-7 (V)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L123-8 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L123-9 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L125-1 (M)
 
 	**Cité par**:
 
@@ -2053,23 +2848,72 @@ par un plan d'urbanisme approuvé pour des voies, ouvrages publics, installation
 	  - Code de l'urbanisme - art. R*124-6 (VT)
 	  - Code du patrimoine - art. R621-94 (M)
 
-	**Liens**:
 
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L123-6 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L123-7 (V)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L123-8 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L123-9 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L125-1 (M)
+###### Article L124-3
 
+Les schémas directeurs, les schémas de secteur et les plans d'occupation des sols sont, selon les cas, rendus publics,
+approuvés, modifiés ou révisés suivant les modalités résultant de la loi n° 83-8 du 7 janvier 1983 relative à la répartition
+de compétences entre les communes, les départements, les régions et l'Etat, sans qu'il y ait lieu cependant de renouveler les
+actes de la procédure d'élaboration qui sont intervenus dans les conditions prévues par la législation antérieure.
 
-#### Chapitre V : Dispositions diverses.
-
-###### Article L125-1
-
-Un décret en Conseil d'Etat détermine, en tant que de besoin, les modalités d'application du présent titre à l'exception des
-articles L. 124-1, L. 124-2 et L. 124-4.
+Le représentant de l'Etat est tenu de porter à la connaissance de l'autorité désormais compétente pour continuer les
+procédures engagées en matière de schéma directeur, de schéma de secteur ou de plan d'occupation des sols soit les
+prescriptions prises en application de l'article L. 111-1-1 et les dispositions visées à l'article L. 122-1-1, soit les
+prescriptions, servitudes et dispositions visées à l'article L. 123-1.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°83-8 1983-01-07
+	  - Code de l'urbanisme - art. L111-1-1 (M)
+	  - Code de l'urbanisme - art. L122-1-2 (M)
+	  - Code de l'urbanisme - art. L123-1 (M)
+
+	**Créé par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 74 () JORF 9 janvier 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L124-2 (M)
+	  - Code de l'urbanisme - art. L150-1 (M)
+	  - Code de l'urbanisme - art. R*332-14 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L124-4
+
+Les dispositions de l'article L. 111-1-2 ne sont pas applicables, pour une durée de quatre ans à compter de l'entrée en
+vigueur de la section 2 du titre II de la loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences, entre les
+communes, les départements, les régions et l'Etat, dans les communes qui, dans un délai d'un an à compter de cette même date,
+ont arrêté un projet de plan d'occupation des sols.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L111-1-2 (M)
+	  - SPEC_APPLI: Loi n°83-8 1983-01-07 art. 38 I : l'article L124-04 du code de l'urbanisme est applicable aux communes qui ont prescrit l'élaboration d'un plan d'occupation des sols
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L111-1-2 (M)
+	  - Loi n°83-8 1983-01-03 art. 35 à art. 75
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L125-1 (M)
+	  - Code de l'urbanisme - art. L143-1 (M)
+	  - Loi n°83-8 du 7 janvier 1983 - art. 38 (V)
 
 	**Codifié par**:
 
@@ -2077,7 +2921,25 @@ articles L. 124-1, L. 124-2 et L. 124-4.
 
 	**Anciens textes**:
 
-	  - Loi n°67-1253 1967-12-30 ART. 3 AL. 4 loi d'orientation foncière
+	  - Loi n°71-581 1971-07-16 art. 2
+
+	**Modifié par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 38 (V) JORF 9 janvier 1983
+
+
+#### Chapitre V : Dispositions diverses.
+
+###### Article L125-1
+
+Un décret en Conseil d'Etat détermine, en tant que de besoin, les modalités d'application du présent titre à l'exception des
+articles L. 124-1, L. 124-2.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 75 () JORF 9 janvier 1983
 
 	**Cité par**:
 
@@ -2094,7 +2956,6 @@ articles L. 124-1, L. 124-2 et L. 124-4.
 
 	  - Code de l'urbanisme - art. L124-1 (M)
 	  - Code de l'urbanisme - art. L124-2 (M)
-	  - Code de l'urbanisme - art. L124-4 (Ab)
 
 	**Liens**:
 
@@ -2102,6 +2963,15 @@ articles L. 124-1, L. 124-2 et L. 124-4.
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L124-2 (M)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L124-4 (Ab)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*124-2 (M)
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Abrogé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
 
 
 ###### Article L125-2
@@ -2130,6 +3000,84 @@ articles L. 121-12 et L. 121-26 du Code des Communes.
 	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
+#### Chapitre VI : Servitudes d'utilité publique affectant l'utilisation du sol.
+
+###### Article L126-1
+
+Les plans d'occupation des sols [*contenu*] doivent comporter en annexe les servitudes d'utilité publique affectant
+l'utilisation du sol et qui figurent sur une liste dressée par décret en Conseil d'Etat.
+
+Le représentant de l'Etat peut mettre le maire ou le président de l'établissement public compétent en demeure d'annexer au
+plan d'occupation des sols les servitudes mentionnées à l'alinéa précédent. Si cette formalité n'a pas été effectuée dans le
+délai de trois mois, le représentant de l'Etat y procède d'office.
+
+Après l'expiration d'un délai d'un an à compter, soit de l'approbation du plan, soit, s'il s'agit d'une servitude nouvelle,
+de son institution, seules les servitudes annexées au plan peuvent être opposées aux demandes d'autorisation d'occupation du
+sol. Dans le cas où le plan a été approuvé ou la servitude, instituée avant la publication du décret établissant ou
+complétant la liste visée à l'alinéa premier, le délai [*point de départ*] d'un an court à compter de cette publication
+[*publicité*].
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 1 (V)
+	  - Loi n°76-663 du 19 juillet 1976 - art. 7-3 (Ab)
+	  - Loi n°83-8 du 7 janvier 1983 - art. 70 (Ab)
+	  - Décret n°84-304 du 25 avril 1984 - art. 7 (Ab)
+	  - Loi n°87-565 du 22 juillet 1987 - art. 40-4 (Ab)
+	  - Ordonnance no 92-1068 du 1er octobre 1992 portant  - art. 3 (Ab)
+	  - Décret n°2007-487 du 30 mars 2007 - art. 16 (Ab)
+	  - Décret n°2007-487 du 30 mars 2007 - art. 39 (Ab)
+	  - Décret n°2007-487 du 30 mars 2007 - art. 51 (Ab)
+	  - Loi n°2013-569 du 1er juillet 2013 - art. 1 (V)
+	  - Ordonnance n°2016-128 du 10 février 2016 - art. 38
+	  - Code de l'environnement - art. L214-4-1 (VT)
+	  - Code de l'environnement - art. L350-2 (Ab)
+	  - Code de l'environnement - art. L515-10 (VD)
+	  - Code de l'environnement - art. L515-16-6 (V)
+	  - Code de l'environnement - art. L515-23 (V)
+	  - Code de l'environnement - art. L555-27 (VD)
+	  - Code de l'environnement - art. L562-4 (V)
+	  - Code de l'environnement - art. L655-3 (Ab)
+	  - Code de l'environnement - art. R*242-13 (Ab)
+	  - Code de l'environnement - art. R332-13 (M)
+	  - Code de l'urbanisme - art. L123-1-11-1 (Ab)
+	  - Code de l'urbanisme - art. L128-1 (VT)
+	  - Code de l'urbanisme - art. L129-2 (VT)
+	  - Code de l'urbanisme - art. L141-5 (VT)
+	  - Code de l'urbanisme - art. L710-1 (VT)
+	  - Code de l'urbanisme - art. R*123-14 (VT)
+	  - Code de l'urbanisme - art. R*123-20 (M)
+	  - Code de l'urbanisme - art. R*123-22 (VT)
+	  - Code de l'urbanisme - art. R*123-24 (M)
+	  - Code de l'urbanisme - art. R*123-36 (Ab)
+	  - Code de l'urbanisme - art. R*160-23 (Ab)
+	  - Code de l'urbanisme - art. R*442-23 (V)
+	  - Code de la santé publique - art. R1321-13-2 (V)
+	  - Code du patrimoine - art. L621-2 (VD)
+	  - Code du patrimoine - art. L621-30 (V)
+	  - Code du patrimoine - art. R621-58 (V)
+	  - Code du patrimoine - art. R621-95 (M)
+	  - Code du patrimoine. - art. L621-30-1 (Ab)
+	  - Code du patrimoine. - art. L642-2 (V)
+	  - Code du patrimoine. - art. R621-8 (M)
+	  - Code rural - art. L112-2 (V)
+	  - Code rural - art. R152-33 (M)
+
+	**Créé par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 55 () JORF 9 JANVIER 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
 ### Titre III : Espaces boisés.
 
 ###### Article L130-1
@@ -2148,22 +3096,26 @@ régionale, et dont les gisements ont fait l'objet d'une reconnaissance par un p
 approuvé avant le 10 juillet 1973 [*date limite*] ou par le document d'urbanisme en tenant lieu approuvé avant la même date.
 Dans ce cas, l'autorisation ne peut être accordée que si le pétitionnaire s'engage préalablement à réaménager le site
 exploité et si les conséquences de l'exploitation, au vu de l'étude d'impact, ne sont pas dommageables pour l'environnement.
-Un décret en Conseil d'Etat détermine les conditions d'application du présent alinéa.
+Un décret en conseil d'Etat détermine les conditions d'application du présent alinéa.
 
 Dans les bois, forêts ou parcs situés sur le territoire de communes où l'établissement d'un plan d'occupation des sols a été
-prescrit mais où ce plan n'a pas encore été rendu public, ainsi que dans tout espace boisé classé, les coupes et abattages
+prescrit mais ou ce plan n'a pas encore été rendu public, ainsi que dans tout espace boisé classé, les coupes et abattages
 d'arbres sont soumis à autorisation préalable, sauf dans les cas suivants :
 
 - S'il est fait application des dispositions des livres I et II du code forestier ;
 
-- S'il est fait application d'un plan simple de gestion approuvé, conformément aux dispositions de l'article 6 de la loi n.
+- S'il est fait application d'un plan simple de gestion approuvé, conformément aux dispositions de l'article 6 de la loi n°
 63-810 du 6 août 1963 ;
 
 - Si les coupes entrent dans le cadre d'une autorisation par catégories définies par arrêté préfectoral, après avis du centre
 régional de la propriété forestière.
 
-Les modalités d'application des deux alinéas précédents sont déterminées par les décrets [*en conseil d'état*] prévus à
-l'article L. 130-6.
+L'autorisation de coupe et d'abattage d'arbres est délivrée au nom de la commune, de l'établissement public de coopération
+intercommunale ou de l'Etat, selon les cas et modalités prévus aux articles L. 421-2-1 à L. 421-2-8, dans les formes,
+conditions et délais déterminés par décret en Conseil d'Etat. Toutefois, par dérogation aux dispositions de la loi n° 82-213
+du 2 mars 1982 modifiée, relative aux droits et libertés des communes, des départements et des régions, et à l'article L.
+421-2-4, la décision ne devient exécutoire que quinze jours après qu'il a été procédé à sa notification et à sa transmission
+au représentant de l'Etat. Les dispositions de l'article L. 421-9 lui sont applicables.
 
 **Liens relatifs à cet article**
 
@@ -2230,14 +3182,15 @@ l'article L. 130-6.
 
 	**Cite**:
 
-	  - Loi n°63-810 1963-08-06 ART. 6
-	  - Code forestier 157
-	  - Code de l'urbanisme - art. L130-6 (V)
-	  - Code forestier LIVRES I ET II
+	  - Loi n°63-810 1963-08-06
+	  - Loi n°82-213 1982-03-02
+	  - Code forestier 15
+	  - Code de l'urbanisme - art. L421-9 (M)
+	  - Code de l'urbanisme L421-2-1 à L421-2-8, L421-9
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L130-4 (V)
+	  - Loi n°83-8 du 7 janvier 1983 - art. 68 () JORF 9 JANVIER 1983
 
 	**Anciens textes**:
 
@@ -2251,9 +3204,9 @@ l'article L. 130-6.
 ###### Article L130-2
 
 Pour sauvegarder les bois et parcs et, en général, tous espaces boisés et sites naturels situés dans les agglomérations ou
-leurs environs [*espaces verts*] et pour en favoriser l'aménagement, l'Etat //LOI  1285 : les départements,// les communes ou
-les établissements publics ayant pour objet la réalisation d'opérations d'urbanisme peuvent offrir, à titre de compensation,
-un terrain à bâtir aux propriétaires qui consentent à leur céder gratuitement un terrain classé par un plan d'occupation des
+leurs environs [*espaces verts*] et pour en favoriser l'aménagement, l'Etat, les départements, les communes ou les
+établissements publics ayant pour objet la réalisation d'opérations d'urbanisme peuvent offrir, à titre de compensation, un
+terrain à bâtir aux propriétaires qui consentent à leur céder gratuitement un terrain classé par un plan d'occupation des
 sols approuvé ou rendu public comme espace boisé à conserver, à protéger ou à créer. Cette offre ne peut être faite si la
 dernière acquisition à titre onéreux dont le terrain classé a fait l'objet n'a pas date certaine depuis cinq ans au moins.
 
@@ -2261,12 +3214,12 @@ Il peut également, aux mêmes fins, être accordé au propriétaire une autoris
 classé n'excédant pas un dixième de la superficie dudit terrain, si la dernière acquisition à titre onéreux dont ce terrain a
 fait l'objet à date certaine depuis cinq ans au moins.
 
-Cette autorisation, qui doit être compatible avec les dispositions du schéma directeur d'aménagement et d'urbanisme, ne peut
-être donnée que par décret pris sur le rapport du ministre chargé de l'urbanisme, du ministre de l'intérieur et du ministre
-de l'agriculture. La portion de terrain cédée par le propriétaire ne peut faire l'objet d'un changement d'affectation
-qu'après autorisation donnée dans les mêmes conditions. L'application des dispositions du présent alinéa est subordonnée à
-l'accord de la ou des communes sur le territoire desquelles est situé le terrain classé, dans les conditions déterminées par
-les décrets [*en conseil d'état*] prévus à l'article L. 130-6.
+Cette autorisation, qui doit être compatible avec les dispositions du schéma directeur, ne peut être donnée que par décret
+pris sur le rapport du ministre chargé de l'urbanisme, du ministre de l'intérieur et du ministre de l'agriculture. La portion
+de terrain cédée par le propriétaire ne peut faire l'objet d'un changement d'affectation qu'après autorisation donnée dans
+les mêmes conditions. L'application des dispositions du présent alinéa est subordonnée à l'accord de la ou des communes sur
+le territoire desquelles est situé le terrain classé, dans les conditions déterminées par les décrets [*en Conseil d'Etat*]
+prévus à l'article L. 130-6.
 
 La valeur du terrain à bâtir offert en compensation ou le surcroît de valeur pris, du fait de l'autorisation de construire,
 par la partie du terrain classé conservée par le propriétaire, ne doit pas dépasser la valeur du terrain cédé à la
@@ -2297,8 +3250,13 @@ collectivité.
 	  - Code général des impôts, CGI. - art. 1594 F quinquies (V)
 	  - Code général des impôts, CGI. - art. 261 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 75 () JORF 9 janvier 1983
+
 	**Liens**:
 
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L130-3 (M)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L130-4 (V)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R130-10 (M)
@@ -2310,7 +3268,7 @@ collectivité.
 
 	**Anciens textes**:
 
-	  - Code de l'urbanisme 19 II AL. 1, 2 ET 3
+	  - Code de l'urbanisme 19 AL. 1, 2 et 3
 
 	**Codifié par**:
 
@@ -2472,24 +3430,24 @@ Des décrets en Conseil d'Etat fixeront, en tant que de besoin, les modalités d
 
 ###### Article L141-1
 
-Le schéma directeur portant sur l'ensemble de la région parisienne, telle qu'elle est définie à l'article 1er de la loi n.
-64-707 du 10 juillet 1964, est approuvé après avis du conseil d'administration du district de la région parisienne et des
-conseils généraux des départements intéressés. Cet avis est réputé favorable s'il n'intervient pas dans un délai de trois
+Le schéma directeur portant sur l'ensemble de la région d'Ile-de-France, telle qu'elle est définie à l'article 1er de la loi
+n° 64-707 du 10 juillet 1964, est approuvé après avis du conseil d'administration du district de la région d'Ile-de-France et
+des conseils généraux des départements intéressés. Cet avis est réputé favorable s'il n'intervient pas dans un délai de trois
 mois.
 
-Le schéma directeur de la région parisienne ne peut être approuvé que par décret en Conseil d'Etat lorsqu'un ou plusieurs
-conseils généraux, représentant un quart au moins de la population totale du territoire concerné, ou le conseil
+Le schéma directeur de la région d'Ile-de-France ne peut être approuvé que par décret en Conseil d'Etat lorsqu'un ou
+plusieurs conseils généraux, représentant un quart au moins de la population totale du territoire concerné, ou le conseil
 d'administration du district font connaître leur avis défavorable.
 
+Le schéma directeur de la région d'Ile-de-France a les mêmes effets que les prescriptions définies en application de
+l'article L. 111-1-1.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 	**Cite**:
 
 	  - Loi n°64-707 du 10 juillet 1964 - art. 1, v. init.
+	  - Code de l'urbanisme - art. L111-1-1 (M)
 
 	**Cité par**:
 
@@ -2505,31 +3463,17 @@ d'administration du district font connaître leur avis défavorable.
 	  - Code de l'urbanisme - art. R*613-2 (Ab)
 	  - Code des transports - art. L1214-10 (VD)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de l'urbanisme 12 AL. 7 ET 8
+	  - Loi n°83-8 du 7 janvier 1983 - art. 75 () JORF 9 JANVIER 1983
 
+	**Liens**:
 
-###### Article L141-3
-
-Les dispositions du projet d'aménagement de la région parisienne approuvé par la loi du 28 août 1941, applicables en
-l'absence de plan d'urbanisme directeur ou de détail approuvé ou de plan d'occupation des sols rendu public ou approuvé,
-cesseront de produire effet le 1er janvier 1976.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. L328-2 (V)
-	  - Loi n°2007-254 du 27 février 2007 - art. 3 (V)
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
 
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Cite**:
-
-	  - Loi   1941-08-28
 
 
 #### CHAPITRE II : Protection de certains départements. 
@@ -2846,26 +3790,10 @@ présent chapitre.
 
 ###### Article L143-1
 
-Dans les communes ou parties de communes qui ne sont pas dotées d'un projet d'aménagement approuvé, d'un plan d'urbanisme
-approuvé ou d'un plan d'occupation des sols rendu public ou approuvé, notamment dans celles qui font l'objet d'un aménagement
-rural, l'autorité administrative peut, sur la demande ou après avis de l'organe délibérant de la commune ou du groupement de
-communes ayant compétence en matière d'urbanisme intéressés et, si elle existe, après avis de la commission du plan
-d'aménagement rural, instituer, après enquête publique, des zones d'environnement protégé. Ces zones ont notamment pour objet
-la protection de l'espace rural, des activités agricoles et des paysages.
-
-Dans ces zones, l'occupation et l'utilisation du sol, à l'exception des travaux visant à l'amélioration des exploitations
-agricoles et forestières, sont soumises à des prescriptions architecturales et à des règles particulières mentionnées par la
-décision administrative de création. Ces règles peuvent comporter, après avis ou sur proposition de la commission visée à
-l'article 1er bis du code rural, l'interdiction de construire ou de démolir ou celle d'exécuter certains travaux ou
-installations affectant l'utilisation du sol et, pour les bois, forêts ou parcs, rendre applicable le régime des espaces
-boisés classés prévu par l'article L. 130-1 et les textes pris pour son application.
-
-Toutefois, les coupes et abattages d'arbres seront dispensés de l'autorisation prévue au cinquième alinéa de l'article L.
-130-1 à l'exception de celles des coupes rases qui ne constituent pas un mode normal d'exploitation.
-
-Lorsque l'établissement d'un plan d'occupation des sols est prescrit sur un territoire couvert par une zone d'environnement
-protégé, l'acte rendant public le plan d'occupation des sols met fin pour le territoire qu'il concerne à l'existence de la
-zone.
+Les communes disposent d'un délai de deux ans pour substituer aux dispositions des zones d'environnement protégé instituées
+avant l'entrée en vigueur de la loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes,
+les départements, les régions et l'Etat, un plan d'occupation des sols opposable aux tiers. A l'issue de ce délai, ces zones
+d'environnement protégé cessent de produire leurs effets.
 
 **Liens relatifs à cet article**
 
@@ -2873,9 +3801,13 @@ zone.
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°76-1285 1976-12-31 JORF 1 JANVIER 1977 rectificatif JORF 7 AVRIL 1977
+	  - Loi n°83-8 du 7 janvier 1983 - art. 56 () JORF 9 JANVIER 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
 
 	**Cité par**:
 
@@ -2887,7 +3819,6 @@ zone.
 	  - Décret n°2015-1701 du 18 décembre 2015 - art. 2 (V)
 	  - Code de l'urbanisme - art. L122-1 (Ab)
 	  - Code de l'urbanisme - art. L122-1-15 (VT)
-	  - Code de l'urbanisme - art. L143-1 (M)
 	  - Code de l'urbanisme - art. L143-2 (VT)
 	  - Code de l'urbanisme - art. L143-3 (VT)
 	  - Code de l'urbanisme - art. L143-4 (VT)
@@ -2911,13 +3842,256 @@ zone.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L130-1 (M)
-	  - Code rural 1 BIS
+	  - Code de l'urbanisme - art. L111-1-2 (M)
+	  - Code de l'urbanisme - art. L124-4 (Ab)
+	  - Code de l'urbanisme - art. L143-1 (M)
+
+
+#### CHAPITRE IV : Dispositions particulières à la région de Corse.
+
+###### Article L144-1
+
+Ainsi qu'il est dit à l'article 9 de la loi n° 82-659 du 30 juillet 1982 portant statut particulier de la région de Corse :
+compétences, la région de Corse adopte un schéma d'aménagement de la Corse qui fixe les orientations fondamentales en matière
+de protection, de mise en valeur et de développement de son territoire.
+
+Le schéma détermine, en outre, la destination générale des différentes parties de l'île, l'implantation des grands
+équipements d'infrastructure et la localisation préférentielle des activités industrielles, artisanales, agricoles et
+touristiques ainsi que des extensions urbaines.
+
+Ce schéma est établi par la région de Corse dans les conditions définies aux articles ci-après.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Cite**:
+
+	  - Loi n°82-659 1982-07-30 art. 9
+	  - Code de l'urbanisme - art. L111-1-1 (M)
+	  - Code de l'urbanisme - art. L144-2 (M)
+	  - Code de l'urbanisme - art. L144-3 (M)
+	  - Code de l'urbanisme - art. L144-4 (M)
+
+	**Créé par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 75 () JORF 9 JANVIER 1983
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L143-2 (MMN)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L160-4 (M)
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L122-2 (M)
+
+
+###### Article L144-2
+
+Ainsi qu'il est dit à l'article 10 de la loi n° 82-659 du 30 juillet 1982 portant statut particulier de la région de Corse :
+
+compétences, modifié par le paragraphe II de l'article 75 de la loi n° 83-8 du 7 janvier 1983 relative à la répartition de
+compétences entre les communes, les départements, les régions et l'Etat, le schéma d'aménagement de la Corse doit respecter :
+
+Les règles générales d'aménagement et d'urbanisme à caractère obligatoire prévues par le présent code, en particulier les
+prescriptions d'aménagement prévues à l'article L. 111-1-1, ainsi que celles qui sont prévues par la loi d'orientation
+agricole n° 80-502 du 4 juillet 1980 ;
+
+Les servitudes d'utilité publique et les dispositions nécessaires à la mise en oeuvre d'opérations d'intérêt national ;
+
+La législation en matière de protection des sites et des paysages ainsi qu'en matière de protection des monuments classés ou
+inscrits.
+
+Le schéma d'aménagement de la Corse prend en compte les programmes de l'Etat et harmonise ceux des collectivités locales et
+de leurs établissements et services publics.
+
+Le schéma d'aménagement de la Corse a les mêmes effets que les prescriptions définies en application de l'article  L.
+111-1-1.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°80-502 1980-07-04
+	  - Loi n°82-659 du 30 juillet 1982 - art. 10 (M)
+	  - Loi n°83-8 1983-01-07 ART. 75 PAR. II
+	  - Loi n°83-663 1983-07-22
+	  - Code de l'urbanisme - art. L111-1-1 (M)
+
+	**Créé par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 75 () JORF 9 JANVIER 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L144-1 (M)
+	  - Code de l'urbanisme - art. L144-4 (Ab)
+	  - Code de l'urbanisme - art. R*144-2 (Ab)
+	  - Code de l'urbanisme - art. R*144-6 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L144-3
+
+Ainsi qu'il est dit à l'article 11 de la loi n° 82-659 du 30 juillet 1982 portant statut particulier de la région de Corse :
+
+compétences, le schéma d'aménagement de la Corse est élaboré par la région de Corse, ou sous son contrôle, par un
+établissement public régional ayant compétence en matière d'urbanisme, selon une procédure déterminée par décret en Conseil
+d'Etat.
+
+Des représentants des départements et des communes et le représentant de l'Etat dans la région sont associés à cette
+élaboration. Les chambres d'agriculture, les chambres de commerce et d'industrie et les chambres de métiers le sont
+également, à leur demande. Elles assurent les liaisons avec les organisations professionnelles intéressées.
+
+Avant son adoption par l'assemblée, le projet de schéma d'aménagement de la Corse, assorti des avis des conseils consultatifs
+régionaux, est mis à la disposition du public pendant deux mois.
+
+Le schéma d'aménagement de la Corse est approuvé par décret en Conseil d'Etat.
+
+A défaut d'adoption selon la procédure définie ci-dessus dans un délai de dix-huit mois, le schéma est élaboré et arrêté par
+l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Cite**:
+
+	  - Loi n°82-659 du 30 juillet 1982 - art. 11 (M)
+	  - Loi n°83-8 1983-01-07 ART. 75-III
+	  - Loi n°83-663 1983-07-22
+	  - Code de l'urbanisme - art. L111-1-1 (M)
+
+	**Créé par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 75 () JORF 9 JANVIER 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L144-1 (M)
+	  - Code de l'urbanisme - art. R*144-12 (M)
+	  - Code de l'urbanisme - art. R*144-5 (M)
+
+
+###### Article L144-4
+
+Ainsi qu'il est dit à l'article 12 de la loi n° 82-659 du 30 juillet 1982 portant statut particulier de la région de Corse :
+
+compétences, la région de Corse procède aux modifications du schéma d'aménagement de la Corse demandées par le représentant
+de l'Etat pour assurer sa conformité aux règles visées à l'article L. 144-2. Si la procédure de révision n'a pas abouti dans
+un délai de six mois à compter de la demande adressée au président de l'assemblée de Corse il y est procédé par décret en
+Conseil d'Etat.
+
+En cas d'urgence, constatée par décret en conseil des ministres, il y est procédé sans délai.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Cite**:
+
+	  - Loi n°82-659 du 30 juillet 1982 - art. 12 (Ab)
+	  - Code de l'urbanisme - art. L144-2 (M)
+
+	**Créé par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 75 () JORF 9 JANVIER 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L144-1 (M)
+
+
+### Titre IV : Dispositions particulières à certaines parties du territoire
+
+#### Chapitre Ier : Dispositions particulières à Paris et à la région d'Ile-de-France
+
+#####  Section 1 : Schéma directeur.
+
+###### Article L141-2
+
+Des décrets en Conseil d'Etat fixeront, en tant que de besoin, les modalités d'application de l'article L. 141-1 ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Modifié par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 75 () JORF 9 janvier 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+
+	**Abrogé par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 11
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L141-1
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L171-1 (VD)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme 24
+
+
+###### Article L141-3
+
+Les dispositions du projet d'aménagement de la région d'Ile-de-France approuvé par la loi du 28 août 1941, applicables en
+l'absence de plan d'urbanisme directeur ou de détail approuvé ou de plan d'occupation des sols rendu public ou approuvé,
+cesseront de produire effet le 1er janvier 1976.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Modifié par**:
+
+	  - Loi n°83-8 1983-01-07 art. 75 10 JORF 9 janvier 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+
+	**Abrogé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
+
+	**Cité par**:
+
+	  - Loi n°2007-254 du 27 février 2007 - art. 3 (V)
+	  - Code de l'urbanisme - art. L328-2 (V)
 
 
 ### Titre V : Application aux départements d'outre-mer
@@ -3298,6 +4472,112 @@ L. 160-6 (alinéa 5), pourra, à titre exceptionnel, être réduite.
 	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
+## Prévisions et règles d'urbanisme
+
+### Dispositions générales communes aux schémas directeurs et aux plans d'occupation des sols
+
+###### Article L121-11
+
+Le syndicat intercommunal d'études et de programmation [*attributions*] est un établissement public qui, dans les cas visés
+au quatrième alinéa de l'article L. 122-1-1, est chargé par des communes d'élaborer ou de modifier, dans un délai maximum de
+trois ans, un schéma directeur ou un schéma de secteur. A l'expiration du délai mentionné ci-dessus, le syndicat
+intercommunal d'études et de programmation est dissous.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°83-8 1983-01-07 ART. 43
+	  - Loi n°83-663 1983-07-22
+	  - Code de l'urbanisme - art. L122-1-1 (M)
+
+	**Créé par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 43 () JORF 9 JANVIER 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+
+	**Cité par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 74 (V)
+	  - Code de l'urbanisme - art. L123-19 (M)
+	  - Code de l'urbanisme - art. R*122-3 (M)
+	  - Code général des collectivités territoriales - art. L4424-9 (V)
+	  - Code rural - art. L181-3 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+### Schémas directeurs d'aménagement et d'urbanisme
+
+###### Article L122-1
+
+Les schémas directeurs [*contenu*] fixent les orientations fondamentales de l'aménagement des territoires intéressés, compte
+tenu de l'équilibre qu'il convient de préserver entre l'extension urbaine, l'exercice des activités agricoles, des autres
+activités économiques et la préservation des sites naturels.
+
+Les schémas directeurs prennent en compte les programmes de l'Etat ainsi que ceux des collectivités locales et des
+établissements et services publics, notamment ceux qui résultent de chartes intercommunales. Ils les orientent et les
+harmonisent pour l'organisation de l'espace.
+
+Ils déterminent la destination générale des sols, et, en tant que de besoin, la nature et le tracé des grands équipements
+d'infrastructure, en particulier de transport, la localisation des services et activités les plus importants ainsi que les
+zones préférentielles d'extension et de rénovation.
+
+Pour leur exécution, ils peuvent être complétés en certaines de leurs parties par des schémas de secteur qui en détaillent et
+précisent le contenu.
+
+Les programmes et les décisions administratives qui les concernent doivent être compatibles avec leurs dispositions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Cite**:
+
+	  - Loi n°83-8 1983-01-07 ART. 41
+	  - Loi n°83-663 1983-07-22
+
+	**Modifié par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 75 ()
+
+	**Cité par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 57 (VT)
+	  - Décret n°84-617 du 17 juillet 1984 - art. 17 (Ab)
+	  - Décret n°84-617 du 17 juillet 1984 - art. 25 (Ab)
+	  - Loi n°95-115 du 4 février 1995 - art. 22 (M)
+	  - Décret n°2000-909 du 19 septembre 2000 - art. 4 (V)
+	  - Décret n°2002-1369 du 20 novembre 2002 - art. 1 (Ab)
+	  - Code du cinéma et de l'image animée - art. L212-12 (V)
+	  - Décret n°2015-986 du 31 juillet 2015 - art. 1 (V)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L24-1 (V)
+	  - Code de commerce. - art. R751-18 (V)
+	  - Code de commerce. - art. R751-20 (V)
+	  - Code de l'environnement - art. L555-16 (VD)
+	  - Code de l'environnement - art. R333-13 (V)
+	  - Code de l'urbanisme - art. L112-2 (M)
+	  - Code de l'urbanisme - art. L122-13 (VT)
+	  - Code de l'urbanisme - art. L122-16 (VT)
+	  - Code de l'urbanisme - art. L122-8 (V)
+	  - Code de l'urbanisme - art. L122-8-1 (V)
+	  - Code de l'urbanisme - art. L150-1 (VT)
+	  - Code de l'urbanisme - art. R*122-1 (V)
+	  - Code de l'urbanisme - art. R*122-2 (V)
+	  - Code de l'urbanisme - art. R*122-5 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+
+
 ## Livre II : Préemption et réserves foncières
 
 ###  Titre Ier : Droits de préemption
@@ -3401,21 +4681,31 @@ vue de l'acquisition de terrains destinés à la création ou à l'aménagement 
 
 ###### Article L221-1
 
-L'Etat, les collectivités locales, /M/les communautés urbaines, les districts et les syndicats de collectivités locales ayant
-compétence en matière d'urbanisme/M/LOI  1285 : ou leurs groupements ayant compétence en matière d'urbanisme, les syndicats
-mixtes et les établissements publics d'aménagement visés à l'article L. 321-1// sont habilités à acquérir des immeubles, au
-besoin par voie d'expropriation, pour constituer des réserves foncières  en prévision de l'extension d'agglomérations, de
-l'aménagement des espaces naturels entourant ces agglomérations et de la création de villes nouvelles ou de stations de
-tourisme. Lorsqu'il existe un schéma directeur d'aménagement et d'urbanisme, il ne peut y avoir d'acquisitions que pour la
-réalisation des objectifs de ce schéma.
+L'Etat, les collectivités locales, ou leurs groupements ayant compétence en matière d'urbanisme, les syndicats mixtes et les
+établissements publics d'aménagement visés à l'article  L. 321-1 sont habilités à acquérir des immeubles, au besoin par voie
+d'expropriation, pour constituer des réserves foncières  en prévision de l'extension d'agglomérations, de l'aménagement des
+espaces naturels entourant ces agglomérations et de la création de villes nouvelles ou de stations de tourisme. Lorsqu'il
+existe un schéma directeur, il ne peut y avoir d'acquisitions que pour la réalisation des objectifs de ce schéma.
 
 Les mêmes dispositions sont applicables en vue de la rénovation urbaine et de l'aménagement de villages.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
 	**Anciens textes**:
 
-	  - Loi n°67-1253 1967-12-30 ART. 11 loi d'orientation foncière
+	  - Loi n°67-1253 1967-12-30 ART. 11 Loi d'orientation foncière
+
+	**Modifié par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 75 () JORF 9 JANVIER 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
 
 	**Cité par**:
 
@@ -3438,10 +4728,6 @@ Les mêmes dispositions sont applicables en vue de la rénovation urbaine et de 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L321-1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L221-2
@@ -5440,6 +6726,115 @@ et complétée par décret en Conseil d'Etat compte tenu des dispositions des ar
 
 #####  Section 1 : Secteurs sauvegardés
 
+###### Article L313-1
+
+Des secteurs dits "secteurs sauvegardés", lorsque ceux-ci présentent un caractère historique, esthétique ou de nature à
+justifier la conservation, la restauration et la mise en valeur de tout ou partie d'un ensemble d'immeubles, peuvent être
+créés et délimités.
+
+a) Par décision de l'autorité administrative sur avis favorable ou sur proposition de la ou des communes intéressées ;
+
+b) Par décret en Conseil d'Etat, en cas d'avis défavorable de la ou des communes intéressées.
+
+Dans les secteurs sauvegardés, il est établi un plan de sauvegarde et de mise en valeur auquel sont applicables les
+dispositions législatives relatives au plan d'occupation des sols, à l'exception de celles des articles L. 123-3, L. 123-3-1,
+L. 123-3-2 et L. 123-4, L. 123-6, L. 123-7-1, L. 123-8 et L. 130-2, alinéas 2, 3 et 4. Le plan de sauvegarde et de mise en
+valeur est rendu public par l'autorité administrative après consultation du conseil municipal de la commune intéressée et
+avis de la commission nationale des secteurs sauvegardés. Il est soumis à enquête publique avant son approbation. Celle-ci ne
+peut résulter que d'un décret en Conseil d'Etat pris après avis de la commission nationale des secteurs sauvegardés
+[*attributions*].
+
+Le plan comporte notamment [*contenu*] l'indication des immeubles ou parties d'immeubles dont la démolition, l'enlèvement, la
+modification ou l'altération sont interdits, ainsi que l'indication des immeubles ou parties d'immeubles dont la démolition
+ou la modification pourra être imposée par l'autorité administrative à l'occasion d'opérations d'aménagement publiques ou
+privées.
+
+La révision des plans de sauvegarde et de mise en valeur a lieu dans les formes prévues pour leur établissement. Toutefois,
+un plan approuvé peut également être modifié par arrêté conjoint du ministre chargé de l'urbanisme et du ministre chargé de
+l'architecture, après enquête publique, avis de la commission nationale des secteurs sauvegardés et délibération du conseil
+municipal ou de l'organe délibérant de l'établissement public regroupant plusieurs communes et ayant compétence en matière
+d'urbanisme, à la condition qu'il ne soit pas porté atteinte à son économie générale.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 75 () JORF 9 janvier 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-11 (M)
+	  - PILOTE_SUIVEUR: Code du patrimoine - art. L641-1 (VD)
+
+	**Cité par**:
+
+	  - Décret n°85-453 du 23 avril 1985 - art. 2 (M)
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 26-1 (V)
+	  - Arrêté du 2 septembre 2008 - art. 3 (V)
+	  - Décret n°2015-986 du 31 juillet 2015 - art. 1 (V)
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 114 (V)
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 74
+	  - Code de l'environnement - art. R*242-13 (Ab)
+	  - Code de l'environnement - art. R122-17 (VD)
+	  - Code de l'environnement - art. R123-2 (V)
+	  - Code de l'environnement - art. R332-13 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L24-1 (VT)
+	  - Code de l'urbanisme - art. *R111-1 (VT)
+	  - Code de l'urbanisme - art. L211-1 (V)
+	  - Code de l'urbanisme - art. L322-2 (V)
+	  - Code de l'urbanisme - art. L340-1 (V)
+	  - Code de l'urbanisme - art. L430-3 (M)
+	  - Code de l'urbanisme - art. L480-13 (M)
+	  - Code de l'urbanisme - art. R*111-42 (VT)
+	  - Code de l'urbanisme - art. R*123-13 (VT)
+	  - Code de l'urbanisme - art. R*123-14 (Ab)
+	  - Code de l'urbanisme - art. R*123-19 (M)
+	  - Code de l'urbanisme - art. R*211-1 (V)
+	  - Code de l'urbanisme - art. R*421-15 (Ab)
+	  - Code de l'urbanisme - art. R*421-28 (M)
+	  - Code de l'urbanisme - art. R*433-1 (VD)
+	  - Code de l'urbanisme - art. R111-1 (M)
+	  - Code de l'urbanisme - art. R111-33 (M)
+	  - Code de l'urbanisme - art. R151-52 (V)
+	  - Code de l'urbanisme - art. R313-1 (M)
+	  - Code de l'urbanisme - art. R313-11 (V)
+	  - Code de l'urbanisme - art. R313-14 (V)
+	  - Code de l'urbanisme - art. R313-16 (M)
+	  - Code de l'urbanisme - art. R313-19 (Ab)
+	  - Code de l'urbanisme - art. R313-2 (M)
+	  - Code de l'urbanisme - art. R313-33 (V)
+	  - Code de l'urbanisme - art. R313-37 (V)
+	  - Code de l'urbanisme - art. R313-4 (M)
+	  - Code de l'urbanisme - art. R313-5 (V)
+	  - Code de l'urbanisme - art. R313-7 (V)
+	  - Code de l'urbanisme - art. R462-7 (M)
+	  - Code de la construction et de l'habitation. - art. D511-13-2 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*111-18-10 (M)
+	  - Code de la construction et de l'habitation. - art. R111-19-10 (M)
+	  - Code de la construction et de l'habitation. - art. R511-2-1 (Ab)
+	  - Code du patrimoine - art. L611-1 (VD)
+	  - Code du patrimoine. - art. L641-1 (VD)
+	  - Code général des impôts, CGI. - art. 156 (VT)
+	  - Code général des impôts, CGI. - art. 199 tervicies (V)
+	  - Code général des impôts, CGI. - art. 31 (VT)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L123-3 (M)
+	  - Code de l'urbanisme - art. L123-3-1 (Ab)
+	  - Code de l'urbanisme - art. L123-3-2 (M)
+	  - Code de l'urbanisme - art. L123-4 (M)
+	  - Code de l'urbanisme - art. L123-6 (M)
+	  - Code de l'urbanisme - art. L123-7-1 (M)
+	  - Code de l'urbanisme - art. L123-8 (M)
+	  - Code de l'urbanisme - art. L130-2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
 ###### Article L313-2
 
 A compter de la décision administrative ou du décret en Conseil d'Etat délimitant un secteur sauvegardé, tout travail ayant
@@ -6380,6 +7775,48 @@ l'ordonnance au 1er octobre 2007.
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
+#### Chapitre V : Lotissements et divisions de propriété.
+
+###### Article L315-3
+
+Lorsque les deux tiers [*majorité*] des propriétaires détenant ensemble les trois quarts au moins de la superficie d'un
+lotissement ou les trois quarts des propriétaires détenant au moins les deux tiers de ladite superficie le demandent ou
+l'acceptent, l'autorité compétente peut prononcer la modification de tout ou partie des documents, et notamment du cahier des
+charges concernant ce lotissement, lorsque cette modification est compatible avec la réglementation d'urbanisme applicable au
+secteur où se trouve situé le terrain.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°83-8 1983-01-07 ART. 72 2 JORF 9 JANVIER 1983
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L315-2-1 (Ab)
+	  - Code de l'urbanisme - art. L315-5 (Ab)
+	  - Code de l'urbanisme - art. L315-8 (Ab)
+	  - Code de l'urbanisme - art. L315-9 (M)
+	  - Code de l'urbanisme - art. L322-4 (V)
+	  - Code de l'urbanisme - art. L340-1 (VT)
+	  - Code de l'urbanisme - art. L480-10 (V)
+	  - Code de l'urbanisme - art. R*315-31 (M)
+	  - Code de l'urbanisme - art. R*315-39 (Ab)
+	  - Code de l'urbanisme - art. R*315-45 (Ab)
+	  - Code de l'urbanisme - art. R*442-25 (V)
+	  - Code de l'urbanisme - art. R315-28 (M)
+	  - Code de l'urbanisme - art. R315-48 (Ab)
+	  - Code de l'urbanisme - art. R315-51 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L322-4 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
 #### Chapitre VI : Sanctions pénales relatives aux lotissements.
 
 ###### Article L316-1
@@ -6419,10 +7856,9 @@ l'ordonnance au 1er octobre 2007.
 
 ###### Article L316-2
 
-Sera punie d'une amende de /M/500 à 50.000 F /M/LOI 1285 ART. 41 : 2000 à 100.000 F// et, en cas de récidive, d'une amende
-de /M/de 1000 F à 100.000 F/M/LOI 1285 ART. 41 : 3000 à 300.000 F// toute personne qui aura vendu ou loué des terrains bâtis
-ou non bâtis compris dans un lotissement sans être munie d'une autorisation délivrée par arrêté préfectoral ou sans s'être
-conformée aux prescriptions imposées par ledit arrêté [*infraction*].
+Sera punie d'une amende de 2000 à 120000 F et, en cas de récidive, d'une amende de 3000 à 300000 F toute personne qui aura
+vendu ou loué des terrains bâtis ou non bâtis compris dans un lotissement sans être munie d'une autorisation délivrée par
+autorité compétente ou sans s'être conformée aux prescriptions imposées par ladite autorisation [*infraction*].
 
 **Liens relatifs à cet article**
 
@@ -6430,9 +7866,13 @@ conformée aux prescriptions imposées par ledit arrêté [*infraction*].
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Ordonnance 58-1448 1958-12-31 ART. 2
+	  - Loi n°83-8 du 7 janvier 1983 - art. 75 () JORF 9 JANVIER 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
 
 	**Cité par**:
 
@@ -6479,44 +7919,48 @@ Aucun acompte ne peut être accepté avant l'intervention de l'arrêté d'autori
 Sans préjudice, le cas échéant, de l'application de peines plus fortes prévues aux articles 209 à 233 du code pénal,
 quiconque met obstacle à l'exercice du droit appartenant, pour l'application de la réglementation en matière de lotissements,
 au préfet, au maire, au directeur départemental de l'équipement ou à leurs délégués, de procéder à tout moment à la visite
-des lieux et aux vérifications qu'ils jugent utiles, sera puni d'une amende de /M/600 F à 3.000 F/M/LOI  1285  ART. 41 :
-2.000 à 6.000 F//. En outre, un emprisonnement de onze jours à un mois pourra être prononcé.
+des lieux et aux vérifications qu'ils jugent utiles, sera puni d'une amende de 2000 à 15000 F. En outre, un emprisonnement de
+onze jours à un mois pourra être prononcé.
 
 Si les vérifications faites relèvent que les travaux exécutés ne sont pas conformes aux prescriptions de l'arrêté
 d'autorisation, il est dressé procès-verbal de l'infraction.
 
 Lorsque les prescriptions imposées par l'arrêté d'autorisation n'auront pas été respectées, le tribunal pourra prononcer les
 peines prévues à l'article L. 316-2 et en outre impartir un délai au lotisseur pour mettre les travaux en conformité avec
-lesdites prescriptions, sous peine d'une astreinte de /M/10 f à 100 F/M/LOI  1285 ART. 41 : 50 à 500 F// par jour de retard
-l'astreinte prononcée court à partir de l'expiration dudit délai [*point de départ*] jusqu'au jour où les travaux sont
-définitivement achevés [*durée*].
+lesdites prescriptions, sous peine d'une astreinte de 50 à 500 F par jour de retard. L'astreinte prononcée court à partir de
+l'expiration dudit délai [*point de départ*] jusqu'au jour où les travaux sont définitivement achevés [*durée*].
 
-Le préfet peut faire effectuer les travaux d'office aux frais et risques du lotisseur si, à l'expiration du délai fixé par le
-jugement, les travaux n'ont pas été mis en conformité avec les prescriptions de l'arrêté d'autorisation.
+L'autorité compétente pour autoriser la création d'un lotissement peut faire effectuer les travaux d'office aux frais et
+risques financiers du lotisseur si, à l'expiration du délai fixé par le jugement, les travaux n'ont pas été mis en conformité
+avec les prescriptions de l'arrêté d'autorisation.
 
-Les astreintes prononcées sont recouvrées par les comptables directs du Trésor sur la réquisition du préfet pour le compte de
+Les astreintes prononcées sont recouvrées par les comptables directs du trésor sur la réquisition du préfet pour le compte de
 la ou des communes aux caisses desquelles sont versées les sommes recouvrées.
 
-Après l'achèvement des travaux le tribunal peut autoriser le reversement d'une partie des astreintes si le lotisseur établit
+Après achèvement des travaux le tribunal peut autoriser le reversement d'une partie des astreintes si le lotisseur établit
 qu'il a été empêché d'observer, par des circonstances indépendantes de sa volonté, le délai qui lui avait été imparti.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Ordonnance 58-1448 1958-12-31 ART. 4
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Modifié par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 75 () JORF 9 JANVIER 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
 
 	**Cite**:
 
-	  - Code pénal 209 A 233
+	  - Code pénal 209 à 233
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. L480-4-1 (T)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 #### Chapitre VII : Amélioration de certains lotissements
@@ -8463,109 +9907,6 @@ public ou approuvé, ce document tient lieu de plan d'aménagement de la zone.
 
 #### Secteurs sauvegardés
 
-###### Article L313-1
-
-Des secteurs dits "Secteurs sauvegardés", lorsque ceux-ci présentent un caractère historique, esthétique ou de nature à
-justifier la conservation, la restauration et la mise en valeur de tout ou partie d'un ensemble d'immeubles, peuvent être
-créés et délimités.
-
-a) Par décision de l'autorité administrative sur avis favorable ou sur proposition de la ou des communes intéressées ;
-
-b) Par décret en Conseil d'Etat, en cas d'avis défavorable de la ou d'une des communes intéressées.
-
-Dans les secteurs sauvegardés, il est établi, par décret en Conseil d'Etat, un plan permanent de sauvegarde et de mise en
-valeur /C/LOI 1285 ART. 21 : auquel sont applicables les dispositions législatives relatives aux plans d'occupation des sols,
-à l'exception de celles des articles L. 123-3 (alinéas 1, 5 et 6), L. 123-4, L. 123-6, L.123-8 et L. 130-2 (alinéas 2, 3 et
-4). Le plan de sauvegarde et de mise en valeur est rendu public après avis de la commission nationale des secteurs
-sauvegardés. L'approbation d'un plan de sauvegarde et de mise en valeur ne peut résulter que d'un décret en Conseil d'Etat,
-après avis de la commission nationale des secteurs sauvegardés.
-
-Le plan comporte notamment l'indication des immeubles ou parties d'immeubles dont la démolition, l'enlèvement, la
-modification ou l'altération sont interdits, ainsi que l'indication des immeubles ou parties d'immeubles dont la démolition
-ou la modification pourra être imposée par l'autorité administrative à l'occasion d'opérations d'aménagement publiques ou
-privées.
-
-La révision des plans de sauvegarde et de mise en valeur a lieu dans les formes prévues pour leur établissement. Toutefois,
-un plan approuvé peut également être modifié par arrêté conjoint du ministre chargé de l'urbanisme et du ministre chargé de
-l'architecture, après enquête publique, avis de la commission nationale des secteurs sauvegardés et délibération du conseil
-municipal ou de l'organe délibérant de l'établissement public regroupant plusieurs communes et ayant compétence en matière
-d'urbanisme, à la condition qu'il ne soit pas porté atteinte à son économie générale//.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°62-903 1962-08-04 ART. 1
-
-	**Cité par**:
-
-	  - Décret n°85-453 du 23 avril 1985 - art. 2 (M)
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 26-1 (V)
-	  - Arrêté du 2 septembre 2008 - art. 3 (V)
-	  - Décret n°2015-986 du 31 juillet 2015 - art. 1 (V)
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 114 (V)
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 74
-	  - Code de l'environnement - art. R*242-13 (Ab)
-	  - Code de l'environnement - art. R122-17 (VD)
-	  - Code de l'environnement - art. R123-2 (V)
-	  - Code de l'environnement - art. R332-13 (V)
-	  - Code de l'expropriation pour cause d'utilité pu... - art. L24-1 (VT)
-	  - Code de l'urbanisme - art. *R111-1 (VT)
-	  - Code de l'urbanisme - art. L211-1 (V)
-	  - Code de l'urbanisme - art. L322-2 (V)
-	  - Code de l'urbanisme - art. L340-1 (V)
-	  - Code de l'urbanisme - art. L430-3 (M)
-	  - Code de l'urbanisme - art. L480-13 (M)
-	  - Code de l'urbanisme - art. R*111-42 (VT)
-	  - Code de l'urbanisme - art. R*123-13 (VT)
-	  - Code de l'urbanisme - art. R*123-14 (Ab)
-	  - Code de l'urbanisme - art. R*123-19 (M)
-	  - Code de l'urbanisme - art. R*211-1 (V)
-	  - Code de l'urbanisme - art. R*421-15 (Ab)
-	  - Code de l'urbanisme - art. R*421-28 (M)
-	  - Code de l'urbanisme - art. R*433-1 (VD)
-	  - Code de l'urbanisme - art. R111-1 (M)
-	  - Code de l'urbanisme - art. R111-33 (M)
-	  - Code de l'urbanisme - art. R151-52 (V)
-	  - Code de l'urbanisme - art. R313-1 (M)
-	  - Code de l'urbanisme - art. R313-11 (V)
-	  - Code de l'urbanisme - art. R313-14 (V)
-	  - Code de l'urbanisme - art. R313-16 (M)
-	  - Code de l'urbanisme - art. R313-19 (Ab)
-	  - Code de l'urbanisme - art. R313-2 (M)
-	  - Code de l'urbanisme - art. R313-33 (V)
-	  - Code de l'urbanisme - art. R313-37 (V)
-	  - Code de l'urbanisme - art. R313-4 (M)
-	  - Code de l'urbanisme - art. R313-5 (V)
-	  - Code de l'urbanisme - art. R313-7 (V)
-	  - Code de l'urbanisme - art. R462-7 (M)
-	  - Code de la construction et de l'habitation. - art. D511-13-2 (Ab)
-	  - Code de la construction et de l'habitation. - art. R*111-18-10 (M)
-	  - Code de la construction et de l'habitation. - art. R111-19-10 (M)
-	  - Code de la construction et de l'habitation. - art. R511-2-1 (Ab)
-	  - Code du patrimoine - art. L611-1 (VD)
-	  - Code du patrimoine. - art. L641-1 (VD)
-	  - Code général des impôts, CGI. - art. 156 (VT)
-	  - Code général des impôts, CGI. - art. 199 tervicies (V)
-	  - Code général des impôts, CGI. - art. 31 (VT)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L123-4 (M)
-	  - Code de l'urbanisme - art. L123-6 (M)
-	  - Code de l'urbanisme - art. L123-8 (M)
-	  - Code de l'urbanisme L130-2 AL. 2, 3 ET 4
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-11 (M)
-	  - PILOTE_SUIVEUR: Code du patrimoine - art. L641-1 (VD)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-
 ###### Article L313-3
 
 Les opérations de conservation, de restauration et de mise en valeur des secteurs sauvegardés sont réalisées conformément aux
@@ -8758,60 +10099,22 @@ de nul effet, même si elle est postérieure à la vente ou à la location.
 	  - Ordonnance 58-1447 1958-12-31 ART. 5
 
 
-###### Article L315-3
-
-Lorsque les deux tiers des propriétaires détenant ensemble les trois quarts au moins de la superficie d'un lotissement ou les
-trois quarts des propriétaires détenant au moins les deux tiers de ladite superficie le demandent ou l'acceptent, l'autorité
-administrative peut prononcer la modification de tout ou partie des documents, et notamment du cahier des charges concernant
-ce lotissement, lorsque cette modification est compatible avec la réglementation d'urbanisme applicable au secteur où se
-trouve situé le terrain.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°67-1253 1967-12-30 ART. 38 loi d'orientation foncière
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. L315-2-1 (Ab)
-	  - Code de l'urbanisme - art. L315-5 (Ab)
-	  - Code de l'urbanisme - art. L315-8 (Ab)
-	  - Code de l'urbanisme - art. L315-9 (M)
-	  - Code de l'urbanisme - art. L322-4 (V)
-	  - Code de l'urbanisme - art. L340-1 (VT)
-	  - Code de l'urbanisme - art. L480-10 (V)
-	  - Code de l'urbanisme - art. R*315-31 (M)
-	  - Code de l'urbanisme - art. R*315-39 (Ab)
-	  - Code de l'urbanisme - art. R*315-45 (Ab)
-	  - Code de l'urbanisme - art. R*442-25 (V)
-	  - Code de l'urbanisme - art. R315-28 (M)
-	  - Code de l'urbanisme - art. R315-48 (Ab)
-	  - Code de l'urbanisme - art. R315-51 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L322-4 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-
 ###### Article L315-4
 
 Lorsque l'approbation d'un plan d'urbanisme ou d'occupation des sols aura été prononcée postérieurement à une autorisation de
-lotissement, l'autorité administrative peut modifier tout ou partie des documents, et notamment le cahier des charges du
+lotissement, l'autorité compétente peut modifier tout ou partie des documents, et notamment le cahier des charges du
 lotissement, pour les mettre en concordance avec le plan d'urbanisme ou d'occupation des sols.
 
-La décision de l'autorité administrative est prise après enquête publique, avis de la commission départementale d'urbanisme
-et délibération du conseil municipal.
+La décision de l'autorité compétente est prise après enquête publique, avis de la commission départementale d'urbanisme et
+délibération du conseil municipal.
 
 Lorsque le plan d'urbanisme ou le plan d'occupation des sols n'est pas encore approuvé, l'enquête publique afférente au
 projet de modification visé au premier alinéa du présent article peut être effectuée en même temps que l'enquête publique sur
-ledit plan. //LOI 1285 du 31 décembre 1976 : dans le cas où le lotissement a été créé depuis plus de vingt ans et comporte au
-moins cinquante lots, l'enquête publique prévue au deuxième alinéa du présent article fait l'objet d'une décision
-administrative affichée en mairie et à l'intérieur du lotissement et publiée dans au moins deux journaux locaux.
+ledit plan.
+
+Dans le cas où le lotissement a été créé depuis plus de vingt ans et comporte au moins cinquante lots, l'enquête publique
+prévue au deuxième alinéa du présent article fait l'objet d'une décision de l'autorité compétente affichée en mairie et à
+l'intérieur du lotissement et publiée dans au moins deux journaux locaux.
 
 Dans tous les autres cas, notification de l'ouverture de l'enquête publique est adressée par lettre recommandée à chacun des
 propriétaires des lots, selon les règles en vigueur en matière d'expropriation.
@@ -8819,20 +10122,22 @@ propriétaires des lots, selon les règles en vigueur en matière d'expropriatio
 Dans le cas où le lotissement a été autorisé postérieurement à la date d'entrée en vigueur du décret prévu à l'article L.
 315-1 (alinéa 1er), le règlement du lotissement, s'il en a été établi un, peut après la vente du dernier lot ou cinq ans
 après l'autorisation de lotir, être incorporé au plan d'occupation des sols rendu public ou approuvé par décision de
-l'autorité administrative prise sur la demande ou après avis du conseil municipal de la commune. Le régime juridique des
-plans d'occupation des sols est applicable aux dispositions ainsi incorporées//.
+l'autorité compétente prise sur la demande ou après avis du conseil municipal de la commune. Le régime juridique des plans
+d'occupation des sols est applicable aux dispositions ainsi incorporées.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°67-1253 1967-12-30 ART. 39 loi d'orientation foncière
-
 	**Modifié par**:
 
-	  - Loi n°76-1285 1976-12-31 ART. 26 JORF 1 JANVIER 1977
-	  - Décret n°81-534 1981-05-12 ART. 2 JORF 15 MAI 1981 date d'entrée en vigueur ART. 38 MODIFIE 1 JUILLET 1982
-	  - Décret n°82-584 1982-06-29 ART. 1 JORF 7 JUILLET 1982
+	  - Loi n°83-8 1983-01-07 ART. 75 2 JORF 9 JANVIER 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L315-1 (Ab)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L322-4 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R315-49 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme R315-47
 
 	**Cité par**:
 
@@ -8850,13 +10155,6 @@ plans d'occupation des sols est applicable aux dispositions ainsi incorporées//
 	  - Code de l'urbanisme - art. R315-51 (Ab)
 	  - Code de l'urbanisme - art. R611-5 (Ab)
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L315-1 (Ab)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L322-4 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R315-49 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme R315-47
-
 	**Cite**:
 
 	  - Code de l'urbanisme L315-1 AL. 1
@@ -8864,6 +10162,32 @@ plans d'occupation des sols est applicable aux dispositions ainsi incorporées//
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+#### Lotissement
+
+###### Article L315-1-1
+
+Les autorisations et actes relatifs au lotissement sont délivrés au nom de la commune, de l'établissement public de
+coopération intercommunale ou de l'Etat, selon les cas et modalités prévus aux articles L. 421-2-1 à L. 421-2-8, dans les
+formes, conditions et délais déterminés par décret en Conseil d'Etat.
+
+Les dispositions de l'article L. 421-9 leur sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L421-9 (M)
+	  - Code de l'urbanisme L421-2-1 à L421-2-8, L421-9
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Créé par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 68 () JORF 9 JANVIER 1983
 
 
 #### Amélioration de certains lotissements
@@ -10046,10 +11370,10 @@ de deux ans suivant la date du sinistre//.
 
 ###### Article L410-1
 
-Le certificat d'urbanisme indique [*contenu*], en fonction du motif de la demande, si, compte tenu des dispositions
-d'urbanisme et des limitations administratives au droit de propriété applicables à un terrain, ainsi que de l'état des
-équipements publics existants ou prévus, et sous réserve de l'application éventuelle des dispositions législatives et
-réglementaires relatives aux zones d'aménagement concerté, ledit terrain peut :
+Le certificat d'urbanisme indique, en fonction du motif de la demande, si, compte tenu des dispositions d'urbanisme et des
+limitations administratives au droit de propriété applicables à un terrain, ainsi que de l'état des équipements publics
+existants ou prévus, et sous réserve de l'application éventuelle des dispositions législatives et réglementaires relatives
+aux zones d'aménagement concerté, ledit terrain peut :
 
 a) Etre affecté à la construction ;
 
@@ -10062,13 +11386,15 @@ certificat d'urbanisme en fait expressément la réserve.
 
 Si la demande formulée en vue de réaliser l'opération projetée sur le terrain, notamment la demande de permis de construire
 prévue à l'article L. 421-1 ou la déclaration préalable de travaux prévue à l'article L. 430-3 est déposée dans le délai de
-six mois à compter de [*point de départ*] la délivrance d'un certificat d'urbanisme et respecte les dispositions d'urbanisme
-mentionnée par ledit certificat, celles-ci ne peuvent être remises en cause.
+six mois à compter de la délivrance d'un certificat d'urbanisme et respecte les dispositions d'urbanisme mentionnées par
+ledit certificat, celles-ci ne peuvent être remises en cause.
 
 Dans le cas visé au b ci-dessus, le délai visé à l'alinéa précédent peut être majoré ; il est alors fixé par le certificat
 d'urbanisme.
 
-Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+Le certificat d'urbanisme est délivré au nom de la commune, de l'établissement public de coopération intercommunale ou de
+l'Etat, selon les cas et modalités prévus aux articles L. 421-2-1 à L. 421-2-8, dans les formes, conditions et délais
+déterminés par décret en Conseil d'Etat. Les dispositions de l'article L. 421-9 lui sont applicables.
 
 **Liens relatifs à cet article**
 
@@ -10106,18 +11432,16 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 	  - Code de l'urbanisme - art. R*410-9 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 331 K ter (V)
 
+	**Modifié par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 68 () JORF 9 JANVIER 1983
+
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L421-1 (M)
+	  - Code de l'urbanisme - art. L421-9 (M)
 	  - Code de l'urbanisme - art. L430-3 (Ab)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 83-2
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme R410-1
+	  - Code de l'urbanisme L421-2-1 à L421-2-8, L421-9, L421-1, L430-3
 
 	**Codifié par**:
 
@@ -10222,8 +11546,9 @@ hauteur et sa délivrance est précédée de l'accord de l'autorité chargée de
 
 ###### Article L421-2
 
-Le permis de construire est délivré au nom de l'Etat dans les formes, conditions et délais déterminés par un règlement
-d'administration publique.
+Le permis de construire est instruit et délivré au nom de la commune ou au nom de l'établissement public de coopération
+intercommunale, ou au nom de l'Etat selon les cas et modalités prévus aux articles L. 421-2-1 à L. 421-2-8 dans les formes,
+conditions et délais déterminés par un décret en Conseil d'Etat.
 
 Conformément aux dispositions de l'article 3 de la loi n° 77-2 du 3 janvier 1977 sur l'architecture, la demande de permis de
 construire ne peut être instruite que si la personne qui désire entreprendre des travaux soumis à une autorisation de
@@ -10239,10 +11564,10 @@ Loi 1153 du 29 décembre 1981 :
 Conformément aux dispositions de l'article 4 de la loi n° 77-2 du 3 janvier 1977 sur l'architecture, par dérogation au
 deuxième alinéa ci-dessus, ne sont pas tenues de recourir à un architecte les personnes physiques qui déclarent vouloir
 édifier ou modifier, pour elles-mêmes, une construction de faible importance dont les caractéristiques, et notamment la
-surface maximale de plancher, sont déterminées par décret en Conseil d'Etat. Ces caractéristiques peuvent être différentes
+surface maximale de plancher, sont déterminées par décret en conseil d'Etat. Ces caractéristiques peuvent être différentes
 selon la destination des constructions.
 
-Le recours à l'architecte n'est pas non plus obligatoire pour les travaux soumis au permis de construire, qui concernent
+Le recours à l'architecte n'est pas non plus obligatoire pour les travaux soumis au permis de construire qui concernent
 exclusivement l'aménagement et l'équipement des espaces intérieurs des constructions et vitrines commerciales ou qui sont
 limités à des reprises n'entraînant pas de modifications visibles de l'extérieur.
 
@@ -10251,26 +11576,26 @@ construction et leurs variantes, industrialisées ou non, susceptibles d'utilisa
 commercialisation, être établis par un architecte dans les conditions prévues à l'article 3 de ladite loi et ce quel que soit
 le maître d'ouvrage qui les utilise.
 
-Nota : Loi 514 du 7 juillet 1980 :
+Nota : Loi 514 du 7 juillet 1980.
 
 Dans les lois en vigueur à la date de publication de la présente loi, tout renvoi à un règlement d'administration publique ou
-à un décret en forme de règlement d'administration publique est remplacé par un renvoi à un décret en Conseil d'Etat.
+à un décret en forme de règlement d'administration publique est remplacé par un renvoi à un décret en conseil d'Etat.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 	**Cite**:
 
 	  - Loi n°77-2 1977-01-03 ART. 3, ART. 4, ART. 5
 	  - Loi n°77-2 du 3 janvier 1977 - art. 4 (M)
 	  - Loi n°77-2 du 3 janvier 1977 - art. 5 (V)
+	  - Loi n°80-514 1980-07-07
+	  - Loi n°81-1153 1981-12-29
+	  - Code de l'urbanisme - art. L421-2-1 (M)
+	  - Code de l'urbanisme - art. L421-2-8 (Ab)
 
 	**Modifié par**:
 
-	  - Loi n°81-1153 1981-12-29 ART. 2 JORF 30 DECEMBRE 1981
+	  - Loi n°83-8 du 7 janvier 1983 - art. 58
 
 	**Cité par**:
 
@@ -10288,6 +11613,149 @@ Dans les lois en vigueur à la date de publication de la présente loi, tout ren
 	  - Code du patrimoine. - art. R524-27-1 (VD)
 	  - Code du sport. - art. R331-24-1 (V)
 	  - Code du sport. - art. R331-26 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L421-2-1
+
+Dans les communes où un plan d'occupation des sols a été approuvé et est devenu exécutoire, le permis est délivré par le
+maire au nom de la commune. Lorsqu'une commune fait partie d'un établissement public de coopération intercommunale, elle
+peut, en accord avec cet établissement, lui déléguer cette compétence qui est alors exercée par le président de
+l'établissement public au nom de l'établissement. Cette délégation de pouvoir doit être confirmée dans les mêmes formes après
+chaque renouvellement du conseil municipal ou après l'élection d'un nouveau président de l'établissement public.
+
+Le transfert de compétence au maire agissant au nom de la commune est définitif.
+
+Sont toutefois délivrées par l'Etat, après avis du maire ou du président de l'établissement public compétent, les
+autorisations qui concernent :
+
+a) les constructions et installations réalisées pour le compte de l'Etat, de la région, du département, de leurs
+établissements publics et concessionnaires ainsi que pour le compte d'Etats étrangers ou d'organisations internationales ;
+
+b) les ouvrages de production, de transport, de distribution et de stockage d'énergie, ainsi que ceux utilisant des matières
+nucléaires ; un décret en Conseil d'Etat détermine la nature et l'importance de ces ouvrages ;
+
+c) les constructions et installations réalisées à l'intérieur des périmètres d'opérations d'intérêt national.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°82-213 du 2 mars 1982 - art. 2 (Ab)
+	  - Décret n°83-1261 du 30 décembre 1983 - art. 49 (V)
+	  - Décret n°84-221 du 29 mars 1984 - art. 2 (Ab)
+	  - Décret n°84-226 du 29 mars 1984 - art. 33 (V)
+	  - Code de l'urbanisme - art. A424-4 (M)
+	  - Code de l'urbanisme - art. L121-12 (Ab)
+	  - Code de l'urbanisme - art. L421-2 (M)
+	  - Code de l'urbanisme - art. L421-2-4 (Ab)
+	  - Code de l'urbanisme - art. R*130-9 (Ab)
+	  - Code de l'urbanisme - art. R*315-25 (Ab)
+	  - Code de l'urbanisme - art. R*315-31-1 (Ab)
+	  - Code de l'urbanisme - art. R*410-19 (M)
+	  - Code de l'urbanisme - art. R*410-20 (M)
+	  - Code de l'urbanisme - art. R*410-21 (M)
+	  - Code de l'urbanisme - art. R*410-5 (M)
+	  - Code de l'urbanisme - art. R*410-6 (M)
+	  - Code de l'urbanisme - art. R*410-7 (M)
+	  - Code de l'urbanisme - art. R*421-33 (Ab)
+	  - Code de l'urbanisme - art. R*422-11 (Ab)
+	  - Code de l'urbanisme - art. R*422-6 (Ab)
+	  - Code de l'urbanisme - art. R*422-7 (Ab)
+	  - Code de l'urbanisme - art. R*422-9 (Ab)
+	  - Code de l'urbanisme - art. R*430-10-5 (Ab)
+	  - Code de l'urbanisme - art. R*430-15-1 (Ab)
+	  - Code de l'urbanisme - art. R*441-6-9 (T)
+	  - Code de l'urbanisme - art. R*441-7-1 (Ab)
+	  - Code de l'urbanisme - art. R*442-6-1 (Ab)
+	  - Code de l'urbanisme - art. R*443-5-2 (Ab)
+	  - Code de l'urbanisme - art. R*443-7-4 (Ab)
+	  - Code de l'urbanisme - art. R*460-4-1 (Ab)
+	  - Code de l'urbanisme - art. R*490-1 (Ab)
+	  - Code de l'urbanisme - art. R*490-5 (Ab)
+	  - Code de l'urbanisme - art. R421-24 (M)
+	  - Code de l'urbanisme - art. R442-4-13 (Ab)
+	  - Code de l'urbanisme - art. R520-6 (M)
+	  - Code de l'éducation - art. R211-6 (M)
+	  - Code général des collectivités territoriales - art. L2131-2 (M)
+	  - Code général des collectivités territoriales - art. R1614-53 (M)
+	  - Livre des procédures fiscales - art. L255 A (M)
+
+	**Créé par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 59 () JORF 9 JANVIER 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de l'urbanisme - art. L421-2-7 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L421-2-3
+
+Lorsque le permis de construire n'est pas délivré au nom de l'Etat, un exemplaire de la demande est transmis au représentant
+de l'Etat par l'autorité compétente pour le délivrer dans la semaine qui suit le dépôt.
+
+Lorsque le permis de construire est délivré par le représentant de l'Etat, un exemplaire de la demande est transmis au maire
+de la commune concernée ou au président de l'établissement public compétent dans la semaine qui suit le dépôt.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 62 () JORF 9 JANVIER 1983
+
+	**Cité par**:
+
+	  - Décret n°2002-89 du 16 janvier 2002 - art. 3 (Ab)
+	  - Décret n°2004-490 du 3 juin 2004 - art. 8 (M)
+	  - Code de l'urbanisme - art. A520-2 (VT)
+	  - Code de l'urbanisme - art. R*130-2 (M)
+	  - Code de l'urbanisme - art. R*315-11 (Ab)
+	  - Code de l'urbanisme - art. R*410-3 (M)
+	  - Code de l'urbanisme - art. R*430-5 (Ab)
+	  - Code de l'urbanisme - art. R*441-5 (T)
+	  - Code de l'urbanisme - art. R421-9 (M)
+	  - Code de l'urbanisme - art. R442-4-2 (Ab)
+	  - Code de l'urbanisme - art. R460-2 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de l'urbanisme - art. L421-2-7 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L421-2-6
+
+Le maire ou le président de l'établissement public compétent peut disposer gratuitement et en tant que de besoin des services
+extérieurs de l'Etat pour instruire les demandes de permis de construire sur lesquelles il a compétence pour statuer. Pendant
+la durée de cette mise à disposition, les services et les personnels agissent en concertation permanente avec le maire ou le
+président de l'établissement public qui leur adresse toutes instructions nécessaires pour l'exécution des tâches qu'il leur
+confie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Créé par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 61 () JORF 9 JANVIER 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+	  - SPEC_APPLI: Code de l'urbanisme - art. L421-2-7 (M)
 
 
 ###### Article L421-3
@@ -10381,6 +11849,50 @@ nécessaires par l'existence d'installations classées.
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L421-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L421-9
+
+L'Etat, la commune ou l'établissement public de coopération intercommunale lorsqu'il ou elle défère à un tribunal
+administratif une décision relative à un permis de construire et assortit son recours d'une demande de sursis à exécution,
+peut demander qu'il soit fait application des dispositions prévues aux troisième, quatrième et cinquième alinéas de l'article
+3 de la loi n° 82-213 du 2 mars 1982 modifiée relative aux droits et libertés des communes, des départements et des régions.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Loi n°80-502 1980-07-04 ART. 75-II JORF 5 JUILLET 1980
+
+	**Cité par**:
+
+	  - Loi n°80-502 du 4 juillet 1980 - art. 75 (V)
+	  - Code de l'urbanisme - art. L130-1 (M)
+	  - Code de l'urbanisme - art. L315-1-1 (Ab)
+	  - Code de l'urbanisme - art. L410-1 (M)
+	  - Code de l'urbanisme - art. L421-2-7 (M)
+	  - Code de l'urbanisme - art. L430-4 (Ab)
+	  - Code de l'urbanisme - art. L441-4 (Ab)
+	  - Code de l'urbanisme - art. L442-1 (M)
+	  - Code de l'urbanisme - art. L443-1 (M)
+	  - Code de l'urbanisme - art. L460-2 (Ab)
+	  - Code des tribunaux administratifs et des cours adm - art. L24 (Ab)
+
+	**Cite**:
+
+	  - Loi n°82-213 1982-03-02 ART. 3
+
+	**Modifié par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 66 () JORF 9 JANVIER 1983
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de justice administrative. - art. L554-10 (V)
 
 	**Codifié par**:
 
@@ -10703,12 +12215,27 @@ monuments historiques et les dispositions de la loi du 2 mai 1930 sur les sites.
 
 ###### Article L430-4
 
-Le permis de démolir est délivré au nom de l'Etat dans les formes et conditions déterminées par un décret en Conseil d'Etat.
+Le permis de démolir est délivré au nom de la commune, de l'établissement public de coopération intercommunale ou de l'Etat,
+selon les cas et modalités prévus aux articles L. 421-2-1 à L. 421-2-8, dans les formes, conditions et délais déterminés par
+décret en Conseil d'Etat. Toutefois, par dérogation aux dispositions de la loi n° 82-213 du 2 mars 1982 modifiée relative aux
+droits et libertés des communes, des départements et des régions et à l'article L. 421-2-4, la décision ne devient exécutoire
+que quinze jours après qu'il a été procédé à sa notification et à sa transmission au représentant de l'Etat. Les dispositions
+de l'article L. 421-9 lui sont applicables.
 
 L'absence de notification de la décision de l'administration dans un délai de quatre mois à compter de [*point de départ*] la
 réception de la demande équivaut à l'octroi [*tacite*] du permis de démolir.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°82-213 1982-03-02
+	  - Code de l'urbanisme - art. L421-9 (M)
+	  - Code de l'urbanisme L421-2-1 à L421-2-8, L421-9
+
+	**Modifié par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 68 () JORF 9 janvier 1983
 
 	**Cité par**:
 
@@ -10752,31 +12279,6 @@ son délégué, qui peut subordonner cet accord au respect de certaines conditio
 
 ### Dispositions relatives aux modes particuliers d'utilisation du sol.
 
-###### Article L441-4
-
-L'autorisation d'édifier une clôture est délivrée au nom de l'Etat dans les formes, conditions et délais déterminés par un
-décret en Conseil d'Etat. Ce décret précise notamment les cas dans lesquels l'obtention des autorisations ou avis conformes
-exigés par la législation relative aux monuments historiques ou aux sites tiendra lieu de l'autorisation prévue au premier
-alinéa de l'article L. 441-2."
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°2017-252 du 27 février 2017 (V)
-	  - Code de l'urbanisme - art. R*445-2 (T)
-	  - Code de l'urbanisme - art. R*446-2 (Ab)
-	  - Code de l'urbanisme - art. R. 441-4-2 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L441-2 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-
 #### Autorisation de clôtures.
 
 ###### Article L441-1
@@ -10812,6 +12314,125 @@ d) Dans les communes figurant sur la liste dressée à cet effet par décision d
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L441-2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L441-4
+
+L'autorisation d'édifier une clôture est délivrée au nom de la commune, de l'établissement public de coopération
+intercommunale ou de l'Etat, selon les cas et modalités prévus aux articles L. 421-2-1 à L. 421-2-8, dans les formes,
+conditions et délais déterminés par décret en Conseil d'Etat. Les dispositions de l'article L. 421-9 lui sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 68 () JORF 9 JANVIER 1983
+
+	**Cité par**:
+
+	  - Décret n°2017-252 du 27 février 2017 (V)
+	  - Code de l'urbanisme - art. R*445-2 (T)
+	  - Code de l'urbanisme - art. R*446-2 (Ab)
+	  - Code de l'urbanisme - art. R. 441-4-2 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L421-9 (M)
+	  - Code de l'urbanisme L421-2-1 à L421-2-8, L421-9
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+#### Installations et travaux divers
+
+###### Article L442-1
+
+L'autorisation des installations et travaux divers est délivrée au nom de la commune, de l'établissement public de
+coopération intercommunale ou de l'Etat, selon les cas et modalités prévus aux articles L. 421-2-1 à L. 421-2-8, dans les
+formes, conditions et délais déterminés par décret en Conseil d'Etat.
+
+Les dispositions de l'article L. 421-9 lui sont applicables.
+
+Un décret en Conseil d'Etat détermine les types d'installations et de travaux divers pour lesquels la délivrance de
+l'autorisation prévue au premier alinéa est obligatoire.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 27 (VD)
+	  - Décret n°85-453 du 23 avril 1985 - art. Annexe (Ab)
+	  - Loi n°91-2 du 3 janvier 1991 - art. 2 (Ab)
+	  - Décret n°2008-1086 du 23 octobre 2008 - art. 126 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1599 B (M)
+	  - Code de l'environnement - art. L362-3 (M)
+	  - Code de l'urbanisme - art. L*142-2 (M)
+	  - Code de l'urbanisme - art. L442-1-1 (V)
+	  - Code de l'urbanisme - art. R*441-11 (Ab)
+	  - Code de l'urbanisme - art. R*442-11-1 (Ab)
+	  - Code de l'urbanisme - art. R*442-12 (M)
+	  - Code de l'urbanisme - art. R*442-9 (M)
+	  - Code de l'urbanisme - art. R*445-2 (T)
+	  - Code de l'urbanisme - art. R*446-2 (Ab)
+	  - Code de l'urbanisme - art. R442-3 (M)
+	  - Code de l'urbanisme - art. R445-14 (Ab)
+	  - Code de l'urbanisme - art. R445-5 (Ab)
+	  - Code du patrimoine. - art. L621-32 (M)
+	  - Code forestier (nouveau) - art. L134-6 (VD)
+
+	**Créé par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 68 () JORF 9 JANVIER 1983
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L421-9 (M)
+	  - Code de l'urbanisme L421-2-1 à L421-2-8, L421-9
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+#### Camping et stationnement de caravanes
+
+###### Article L443-1
+
+Les autorisations et actes relatifs à l'aménagement de terrains de camping et au stationnement de caravanes sont délivrés au
+nom de la commune, de l'établissement public de coopération intercommunale ou de l'Etat, selon les cas et modalités prévus
+aux articles L. 421-2-1 à L. 421-2-8, dans les formes, conditions et délais déterminés par décret en Conseil d'Etat.
+
+Les dispositions de l'article L. 421-9 leur sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 68 () JORF 9 JANVIER 1983
+
+	**Cité par**:
+
+	  - Loi n°2000-614 du 5 juillet 2000 - art. 9 (M)
+	  - Code de l'urbanisme - art. L111-6 (M)
+	  - Code de l'urbanisme - art. L443-3 (M)
+	  - Code de l'urbanisme - art. R*441-11 (Ab)
+	  - Code de l'urbanisme - art. R*442-11 (M)
+	  - Code de l'urbanisme - art. R*445-2 (T)
+	  - Code de l'urbanisme - art. R*446-2 (Ab)
+	  - Code du tourisme. - art. L331-1 (VD)
+	  - Code forestier (nouveau) - art. L134-6 (VD)
+	  - Code forestier - art. L322-3 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L421-9 (M)
+	  - Code de l'urbanisme L421-2-1 à L421-2-8, L421-9
 
 	**Codifié par**:
 
@@ -10864,13 +12485,24 @@ mêmes conditions, s'assurer que l'alignement, et, s'il y a lieu, le nivellement
 
 ###### Article L460-2
 
-A leur achèvement, la conformité des travaux avec le permis de construire est constatée par un certificat, dont les modalités
-de délivrance sont définies par décret en conseil d'état.
+A leur achèvement, la conformité des travaux avec le permis de construire est constatée par un certificat. Le certificat de
+conformité est délivré au nom de la commune, de l'établissement public de coopération intercommunale ou de l'Etat, selon les
+cas et modalités prévus aux articles L. 421-2-1 à L. 421-2-8, dans les formes, conditions et délais déterminés par décret en
+Conseil d'Etat. Les dispositions de l'article L. 421-9 lui sont applicables.
 
 Le décret prévu à l'alinéa précédent pourra déterminer les cas où, en raison de la faible importance des travaux, l'obtention
 du certificat de conformité n'est pas exigée.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 68 () JORF 9 JANVIER 1983
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L421-9 (M)
+	  - Code de l'urbanisme L421-2-1 à L421-2-8, L421-9
 
 	**Liens**:
 
@@ -11159,6 +12791,229 @@ La demande précitée est recevable jusqu'au jour où l'action publique se serai
 ### Titre II : Permis de construire
 
 #### Chapitre I : Régime général.
+
+###### Article L421-2-2
+
+Pour l'exercice de sa compétence, le maire ou le président de l'établissement public de coopération intercommunale
+recueille ;
+
+a) L'accord ou l'avis des autorités ou commissions compétentes, notamment dans les cas prévus aux quatrième et cinquième
+alinéas de l'article L. 421-1 ;
+
+b) L'avis conforme du représentant de l'Etat lorsque la construction projetée est située :
+
+Sur une partie du territoire communal non couverte par un plan d'occupation des sols, un plan d'aménagement de zone ou un
+plan de sauvegarde et de mise en valeur, opposable aux tiers ;
+
+Dans un périmètre où des mesures de sauvegarde prévues par l'article L. 111-7 peuvent être appliquées, lorsque ce périmètre a
+été institué à l'initiative d'une personne autre que la commune.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°83-8 1983-01-07 art. 60
+	  - Loi n°83-663 1983-07-22
+	  - Code de l'urbanisme - art. L111-7 (M)
+	  - Code de l'urbanisme L421-1 al. 4 et al. 5, L111-7
+
+	**Créé par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 60 () JORF 9 janvier 1983
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L421-2-7 (Ab)
+	  - Code de l'urbanisme - art. R*315-23 (Ab)
+	  - Code de l'urbanisme - art. R*410-6 (M)
+	  - Code de l'urbanisme - art. R*421-22 (M)
+	  - Code de l'urbanisme - art. R*430-10-3 (Ab)
+	  - Code de l'urbanisme - art. R*441-6-7 (T)
+	  - Code de l'urbanisme - art. R442-4-11 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de l'urbanisme - art. L421-2-7 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L421-2-4
+
+Les permis de construire délivrés par le maire ou le président de l'établissement public de coopération intercommunale,
+lorsqu'il a reçu compétence dans les conditions prévues à l'article L. 421-2-1, sont exécutoires de plein droit dès lors
+qu'il a été procédé à leur notification et à leur transmission au représentant de l'Etat, ainsi qu'il est dit à l'article 2,
+paragraphes I et II de la loi n° 82-213 du 2 mars 1982 modifiée, relative aux droits et libertés des communes, des
+départements et des régions.
+
+Les actes transmis sont accompagnés des dossiers et des pièces d'instruction ayant servi à leur délivrance.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°82-213 1982-03-02 art. 2 par. I, par. II
+	  - Code de l'urbanisme - art. L421-2-1 (M)
+
+	**Créé par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 63 () JORF 9 janvier 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+	  - SPEC_APPLI: Code de l'urbanisme - art. L421-2-7 (M)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L130-1 (M)
+	  - Code de l'urbanisme - art. R*130-10 (Ab)
+	  - Code de l'urbanisme - art. R*315-31-2 (Ab)
+	  - Code de l'urbanisme - art. R*315-31-3 (Ab)
+	  - Code de l'urbanisme - art. R*315-49-1 (Ab)
+	  - Code de l'urbanisme - art. R*410-20 (M)
+	  - Code de l'urbanisme - art. R*410-21 (M)
+	  - Code de l'urbanisme - art. R*421-34 (Ab)
+	  - Code de l'urbanisme - art. R*421-35 (Ab)
+	  - Code de l'urbanisme - art. R*424-2 (M)
+	  - Code de l'urbanisme - art. R*430-15-2 (Ab)
+	  - Code de l'urbanisme - art. R*430-15-3 (Ab)
+	  - Code de l'urbanisme - art. R*441-7-2 (Ab)
+	  - Code de l'urbanisme - art. R*441-7-3 (Ab)
+	  - Code de l'urbanisme - art. R*442-6-2 (Ab)
+	  - Code de l'urbanisme - art. R*442-6-3 (Ab)
+	  - Code de l'urbanisme - art. R*460-4-1 (Ab)
+	  - Code de l'urbanisme - art. R421-9 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L421-2-5
+
+Si le maire ou le président de l'établissement public de coopération intercommunale est intéressé à la délivrance du permis
+de construire, soit en son nom personnel, soit comme mandataire, le conseil municipal de la commune ou l'organe délibérant de
+l'établissement public désigne un autre de ses membres pour délivrer le permis de construire.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Créé par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 64 () JORF 9 janvier 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+	  - SPEC_APPLI: Code de l'urbanisme - art. L421-2-7 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+
+
+###### Article L421-2-7
+
+Pour les communes dont le plan d'occupation des sols a été approuvé avant la date d'entrée en vigueur de la section 2 du
+titre II de la loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les départements,
+les régions et l'Etat, les dispositions des articles L. 421-2-1 à L. 421-2-6, L. 421-2-8 et L. 421-9, entrent en vigueur le
+premier jour du sixième mois suivant cette date. Pour les autres communes, ces dispositions entrent en vigueur le premier
+jour du sixième mois suivant la date à laquelle la délibération d'approbation du plan d'occupation des sols est devenue
+exécutoire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°83-8 1983-01-07
+	  - Code de l'urbanisme - art. L123-2 (M)
+	  - Code de l'urbanisme - art. L421-2-8 (Ab)
+	  - Code de l'urbanisme - art. L421-9 (M)
+	  - Code de l'urbanisme L123-2, L421-2-1 à L421-2-6, L421-2-8, L421-9
+	  - Loi n°83-663 1983-01-07
+
+	**Créé par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 67 () JORF 9 janvier 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+	  - SPEC_APPLI: Code de l'urbanisme - art. L421-2-1 (M)
+	  - SPEC_APPLI: Code de l'urbanisme - art. L421-2-2 (Ab)
+	  - SPEC_APPLI: Code de l'urbanisme - art. L421-2-3 (M)
+	  - SPEC_APPLI: Code de l'urbanisme - art. L421-2-4 (M)
+	  - SPEC_APPLI: Code de l'urbanisme - art. L421-2-5 (Ab)
+	  - SPEC_APPLI: Code de l'urbanisme - art. L421-2-6 (M)
+	  - SPEC_APPLI: Code de l'urbanisme - art. L421-2-8 (Ab)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*410-6 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L421-2-8
+
+Les demandes de permis de construire sur lesquelles il n'a pas été statué à la date du transfert de compétences continuent
+d'être instruites et font l'objet de décisions dans les conditions prévues par les dispositions en vigueur au moment de leur
+dépôt.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Créé par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 67 () JORF 9 janvier 1983 rectificatif JORF 6 mars 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+	  - SPEC_APPLI: Code de l'urbanisme - art. L421-2-7 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L421-2 (M)
+	  - Code de l'urbanisme - art. L421-2-7 (M)
+
 
 ###### Article L421-4
 
@@ -14340,17 +16195,17 @@ besoin de modifier les actes ayant prescrit leur établissement ou ordonné leur
 
 #### CHAPITRE V : Dispositions diverses.
 
-###### Article R125-1
+###### Article R*125-1
 
-Conformément à l'article 4 (1er, 2. et 3. alinéa) du décret n. 72-289 du 17 avril 1972, la mission interministérielle pour la
-protection et l'aménagement de l'espace naturel méditerranéen veille [*attributions*] à ce que les actions entreprises en
-matière d'aménagement du territoire, d'urbanisme ou d'équipements publics, tant par les administrations de l'Etat que par les
-collectivités locales et les organismes publics ou privés agissant avec l'aide de l'Etat ou sous son contrôle, soient
-compatibles avec le maintien des équilibres naturels fondamentaux de la zone méditerranéenne.
+Conformément à l'article 4 (1er, 2ème et 3ème alinéa) du décret N° 72-289 du 17 avril 1972, la mission interministérielle
+pour la protection et l'aménagement de l'espace naturel méditerranéen veille [*attributions*] à ce que les actions
+entreprises en matière d'aménagement du territoire, d'urbanisme ou d'équipements publics, tant par les administrations de
+l'Etat que par les collectivités locales et les organismes publics ou privés agissant avec l'aide de l'Etat ou sous son
+contrôle, soient compatibles avec le maintien des équilibres naturels fondamentaux de la zone méditerranéenne.
 
 A ce titre, lui sont communiqués les projets concernant les schémas généraux constituant directive nationale d'aménagement du
-territoire, les schémas directeurs d'aménagement et d'urbanisme, les plans d'aménagement ruraux concernant les secteurs
-compris dans la zone de compétence de la mission.
+territoire, les schémas directeurs, les plans d'aménagement ruraux concernant les secteurs compris dans la zone de compétence
+de la mission.
 
 Pour les zones où le maintien des équilibres naturels fondamentaux est particulièrement fragile, la mission peut demander
 communication des projets concernant les équipements publics importants ou les autres documents d'urbanisme, notamment les
@@ -14358,19 +16213,29 @@ plans d'occupation des sols.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°72-289 1972-04-17 ART. 4 AL. 1, 2, 3
+	  - Décret n°72-289 1972-04-17 art. 4 al. 1, 2, 3
 	  - Décret n°72-289 du 17 avril 1972 - art. 2 (V)
 	  - Décret n°72-289 du 17 avril 1972 - art. 3 (V)
 
-	**Cite**:
+	**Anciens textes**:
 
-	  - Décret n°72-289 1972-04-17 ART.4 AL. 1, 2 ET 3
+	  - Décret n°72-289 1972-04-17 art. 4 al. 1, 2, 3
+	  - Décret n°72-289 du 17 avril 1972 - art. 2 (V)
+	  - Décret n°72-289 du 17 avril 1972 - art. 3 (V)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 75 () JORF 9 janvier 1983
+
+	**Abrogé par**:
+
+	  - Décret n°98-913 du 12 octobre 1998 - art. 41 (V) JORF 13 octobre 1998
 
 	**Cité par**:
 
@@ -17455,14 +19320,10 @@ appartenant à l'Etat, à des collectivités locales ou à des particuliers.
 
 ###### Article R*141-1
 
-Dans la région parisienne, telle qu'elle est définie par l'article 1er de la loi n. 64-707 du 10 juillet 1964, il est établi
+Dans la région parisienne, telle qu'elle est définie par l'article 1er de la loi n° 64-707 du 10 juillet 1964, il est établi
 un schéma directeur portant sur l'ensemble de la région parisienne, des schémas directeurs et des schémas de secteur.
 
 **Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R300-17 (V)
 
 	**Anciens textes**:
 
@@ -17476,19 +19337,23 @@ un schéma directeur portant sur l'ensemble de la région parisienne, des schém
 
 	  - Loi n°64-707 du 10 juillet 1964 - art. 1, v. init.
 
+	**Modifié par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 75 () JORF 9 JANVIER 1983
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R300-17 (V)
+
 
 ###### Article R*141-3
 
-/M/Les schémas directeurs d'aménagement et d'urbanisme et les schémas de secteur sont établis en conformité avec le schéma
-directeur de la région parisienne, sous l'autorité du préfet de la région parisienne assisté du chef du service régional de
-l'équipement.
-
-/M/DECR.0433 : Les schémas directeurs d'aménagement et d'urbanisme et les schémas de secteur doivent être compatibles avec le
-schéma directeur de la région parisienne. Ils sont établis sous l'autorité du préfet de la région, assisté du chef du service
-régional de l'équipement. Ils peuvent être approuvés avant que n'intervienne l'approbation du schéma directeur de la région.
-Dans ce cas, l'approbation ultérieure du schéma régional entraînera, le cas échéant, modification des schémas directeurs et
-des schémas de secteur dans leurs dispositions incompatibles avec le schéma régional ; ces modifications seront constatées
-par arrêté du préfet de la région parisienne//.
+Les schémas directeurs et les schémas de secteur doivent être compatibles avec le schéma directeur de la région parisienne.
+Ils sont établis sous l'autorité du préfet de la région, assisté du chef du service régional de l'équipement. Ils peuvent
+être approuvés avant que n'intervienne l'approbation du schéma directeur de la région. Dans ce cas, l'approbation ultérieure
+du schéma régional entraînera, le cas échéant, modification des schémas directeurs et des schémas de secteur dans leurs
+dispositions incompatibles avec le schéma régional ; ces modifications seront constatées par arrêté du préfet de la région
+parisienne.
 
 Les dispositions des articles R. 122-1 à R. 122-21 et de l'article R. 613-2 [*consultation du comité d'aménagement de la
 région parisienne*] leur sont applicables sous réserve des dispositions suivantes :
@@ -17499,7 +19364,7 @@ du préfet de Paris avec la participation de représentants du conseil de Paris 
 intéressés ;
 
 En outre, le conseil de Paris est tenu informé des études entreprises et de leurs résultats ; les options relatives aux
-perspectives de développement et aux partis d'aménagement de la ville lui sont soumises ;
+perspectives de développement et aux parties d'aménagement de la ville lui sont soumises ;
 
 Lorsque le conseil municipal de Paris et le conseil d'administration du district de la région parisienne ont émis leur avis
 dans les conditions prévues à l'article R. 122-13, les projets de schéma directeur et de schémas de secteur de la ville de
@@ -17508,11 +19373,10 @@ Paris sont soumis à l'approbation des autorités compétentes par le préfet de
 b) En ce qui concerne les schémas autres que ceux visés au a ci-dessus :
 
 Le préfet de la région parisienne, sur proposition des préfets, arrête la liste des communes ou ensembles de communes
-concernés par l'établissement d'un schéma directeur d'aménagement et d'urbanisme. Les listes et les modifications qui peuvent
-leur être apportées sont communiquées aux maires des communes intéressées et publiées dans deux journaux diffusés dans le
-département [*publicité*] ;
+concernés par l'établissement d'un schéma directeur. Les listes et les modifications qui peuvent leur être apportées sont
+communiquées aux maires des communes intéressées et publiées dans deux journaux diffusés dans le département [*publicité*] ;
 
-Lorsque les conseils municipaux ou les organes délibérant visés à l'article R. 122-13 ainsi que le conseil d'administration
+Lorsque les conseils municipaux ou les organes délibérants visés à l'article R. 122-13 ainsi que le conseil d'administration
 du district ont émis leur avis, le préfet de la région parisienne soumet les projets de schémas directeurs et de schémas de
 secteur à l'approbation des autorités compétentes.
 
@@ -17532,9 +19396,7 @@ secteur à l'approbation des autorités compétentes.
 
 	**Modifié par**:
 
-	  - Décret n°75-433 1975-06-02 ART. 2 JORF 4 JUIN 1975
-	  - Décret n°81-534 1981-05-12 ART. 22 JORF 15 MAI 1981 date d'entrée en vigueur ART. 38 MODIFIE 1 JUILLET 1982
-	  - Décret n°82-584 1982-06-29 ART. 1 JORF 7 JUILLET 1982
+	  - Loi n°83-8 du 7 janvier 1983 - art. 75 () JORF 9 JANVIER 1983
 
 
 ###### Article R*141-4
@@ -19423,6 +21285,38 @@ le cas échéant, des contributions volontaires des collectivités locales et de
 	**Abrogé par**:
 
 	  - Décret n°86-984 1986-08-19 art. 5 JORF 27 août 1986
+
+
+##### Contenu de la zone d'environnement protégé.
+
+###### Article R*143-15
+
+Le rapport de présentation :
+
+a) Expose les perspectives d'évolution de la zone d'environnement protégé et indique les conditions dans lesquelles sont
+prises en compte, par le règlement et les documents graphiques, les préoccupations d'ordre architectural et les
+préoccupations d'environnement ;
+
+b) Justifie de la compatibilité de la zone avec le schéma directeur, le plan d'aménagement  rural et les zones ou périmètres
+délimités en application des articles 52-1 et 52-2 du code rural ;
+
+c) Justifie des dispositions retenues en matière d'occupation et d'utilisation du sol, compte-tenu des activités prévues et
+des paysages et milieux naturels à protéger.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 52-1
+	  - Code rural 52-2
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°83-8 1983-01-07 art. 75I 1 JORF 9 janvier 1983
 
 
 ### Sanctions.
@@ -41155,22 +43049,22 @@ signature à ses subordonnés en ce qui concerne les matières relevant en propr
 
 ###### Article A121-1
 
-Les prix de vente des documents d'urbanisme (plans d'urbanisme directeur et de détail, schémas directeurs d'aménagement et
-d'urbanisme, schémas de secteur, plans d'occupation des sols, plans d'aménagement de zone, plans permanents de sauvegarde et
-de mise en valeur), des études d'urbanisme et des brochures diverses s'y rapportant, publiés par les services du ministère
-chargé de l'urbanisme, sont fixés ainsi qu'il suit :
+Les prix de vente des documents d'urbanisme (plans d'urbanisme directeur et de détail, schémas directeurs, schémas de
+secteur, plans d'occupation des sols, plans d'aménagement de zone, plans permanents de sauvegarde et de mise en valeur), des
+études d'urbanisme et des brochures diverses s'y rapportant, publiés par les services du ministère chargé de l'urbanisme,
+sont fixés ainsi qu'il suit :
 
-Textes (format 21 x 29,7 impression), la page : 0,06 F ;
+Textes (format 21 X 29,7 impression), la page : 0,06 F ;
 
-Plans (format 41 x 56), dessin exécuté au trait, couleurs, conformes aux instructions, le plan : 1,60 F.
-
-Pour les dimensions différentes, le prix sera fixé au prorata de la surface.
-
-Photos, impression en noir, pleine page (format 21 x 29,7), par planche : 0,25 F.
+Plans (format 41 X 56), dessin exécuté au trait, couleurs, conformes aux instructions, le plan : 1,60 F.
 
 Pour les dimensions différentes, le prix sera fixé au prorata de la surface.
 
-Dessins, impression sur une page (format 21 x 29,7) :
+Photos, impression en noir, pleine page (format 21 X 29,7), par planche : 0,25 F.
+
+Pour les dimensions différentes, le prix sera fixé au prorata de la surface.
+
+Dessins, impression sur une page (format 21 X 29,7) :
 
 En noir, 0,15 F ;
 
@@ -41182,17 +43076,25 @@ Pour les dimensions différentes, le prix sera fixé au prorata de la surface.
 
 Reproduction type Ozalid, à partir d'un calque :
 
-Format 0,65 mètre carré et au-dessous...........   4,50 F ;
+Format 0,65 mètre carré et au-dessous               4,50 F ;
 
-Format de 0,70 mètre carré à 0,90 mètre carré...   9    F ;
+Format de 0,70 mètre carré à 0,90 mètre carré       9    F ;
 
-Format au-dessus de 0,95 mètre carré............  13,50 F.
+Format au-dessus de 0,95 mètre carré               13,50 F.
 
 **Liens relatifs à cet article**
 
+	**Abrogé par**:
+
+	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
+
 	**Codifié par**:
 
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+	  - Décret n°77-38 1977-01-03 JORF 18 janvier 1977
+
+	**Modifié par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 75 () JORF 9 JANVIER 1983
 
 	**Cité par**:
 
