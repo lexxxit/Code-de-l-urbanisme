@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1989-02-11
+Version Consolidée au 1989-06-15
 
 # Partie législative
 
@@ -29730,41 +29730,6 @@ intercommunale compétent, il adresse copie de ces éléments au maire ou au pr�
 	**Cite**:
 
 	  - Code de l'urbanisme R123-5
-
-
-#####  Section 5 : Dispositions spéciales à certaines régions.
-
-###### Article R311-30
-
-En région d'Ile-de-France, lorsque l'opération porte sur un terrain de plus de 10 hectares, ou sur une opération de plus de
-1.000 logements, ou sur la création d'une zone à usage industriel, commercial ou de bureaux de plus d'un hectare, l'autorité
-compétente pour créer la zone transmet le dossier de création au commissaire de la République de la région d'Ile-de-France.
-
-Lorsqu'une zone d'aménagement concerté est prévue dans une commune non couverte par le schéma directeur d'aménagement et
-d'urbanisme de la région d'Ile-de-France et qu'elle relève de la compétence du commissaire de la République du département,
-celui-ci recueille préalablement l'avis du commissaire de la République de la région d'Ile-de-France.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Cite**:
-
-	  - Décret n°66-614 du 10 août 1966 - art. 15 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°66-614 du 10 août 1966 - art. 15 (V)
-
-	**Modifié par**:
-
-	  - Décret n°86-517 du 14 mars 1986 - art. 19 () JORF 16 mars 1986 en vigueur le 1er avril 1986) A(Décret 89-381 1989-06-09 art. 2 II JORF 15 juin 1989
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 26 (V)
 
 
 #####  Section 6 : Suppression ou modification d'une zone d'aménagement concerté
