@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1980-09-09
+Version Consolidée au 1981-02-08
 
 # Partie législative
 
@@ -22739,6 +22739,60 @@ valeur.
 
 ##### Sous-section 6 : Dispositions diverses
 
+###### Article R313-21
+
+La commission nationale des secteurs sauvegardés est composée de la façon suivante :
+
+Un président nommé pour une durée de trois ans renouvelable par arrêté du ministre chargé de l'architecture et du ministre
+chargé de l'urbanisme ;
+
+Un représentant du ministre chargé de l'architecture ;
+
+Un représentant du ministre chargé de l'urbanisme ;
+
+Un représentant du ministre chargé de la construction ;
+
+Un représentant du ministre chargé de la culture ;
+
+Un représentant du ministre de l'intérieur ;
+
+Un représentant du ministre du budget ;
+
+Un représentant du ministre chargé du tourisme ;
+
+Un représentant du délégué à l'aménagement du territoire et à l'action régionale ;
+
+Quatorze membres désignés pour une durée de trois ans renouvelable par arrêté conjoint du ministre chargé de l'architecture
+et du ministre chargé de l'urbanisme, parmi les personnalités qualifiées par leur expérience professionnelle ou par l'intérêt
+qu'elles portent à l'urbanisme ou à la sauvegarde des ensembles urbains.
+
+Le maire de chaque commune intéressée ou, s'il existe un établissement public groupant plusieurs communes et ayant compétence
+en matière d'urbanisme, le président de cet établissement est appelé à participer aux délibérations de la commission
+nationale des secteurs sauvegardés avec voix consultative sur toute question relative au plan de sauvegarde et de mise en
+valeur qui intéresse, selon le cas, la commune ou l'établissement public de regroupement.
+
+Les conditions de fonctionnement de la commission nationale sont fixées, en tant que de besoin, par arrêté conjoint du
+ministre chargé de l'architecture et du ministre chargé de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°81-118 1981-02-05 art. 1 JORF 8 février 1981
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°81-118 1981-02-05 art. 2 Les propositions et avis régulièrement formulés par la commission nationale des secteurs sauvegardés dans sa composition antérieure à la publication du présent décret demeurent valables pour l'application des articles
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R313-1 (M)
+
+
 ###### Article R313-22
 
 Indépendamment des attributions définies par la présente section, la commission nationale des secteurs sauvegardés délibère
@@ -30045,58 +30099,6 @@ dispositions du b de cet article ne sont pas applicables.
 	**Cite**:
 
 	  - Code de l'urbanisme R123-36
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-##### Dispositions diverses.
-
-###### Article R313-21
-
-La commission nationale des secteurs sauvegardés est composée de la façon suivante :
-
-Un président, nommé pour une durée de trois ans renouvelable, par arrêté conjoint du ministre /M/des affaires culturelles/M/
-DECR.0737 : chargé de l'architecture// et du ministre chargé de l'urbanisme ;
-
-Deux représentants du ministre /M/des affaires culturelles /M/DECR.0737 : chargé de l'architecture// ;
-
-Deux représentants du ministre chargé de l'urbanisme ;
-
-Un représentant du ministre de l'intérieur ;
-
-Un représentant du ministre de l'économie et des finances ;
-
-Un représentant du délégué à l'aménagement du territoire ;
-
-Un représentant du commissaire au tourisme ;
-
-Six membres désignés pour une durée de trois ans renouvelable, par arrêté conjoint du ministre /M/des affaires culturelles/M/
-DECR.0737 : chargé de l'architecture// et du ministre chargé de l'urbanisme, parmi les personnalités qualifiées par leur
-expérience professionnelle ou par l'intérêt qu'elles portent à l'urbanisme ou à la sauvegarde des ensembles urbains.
-
-//DECR.0737 le maire de chaque commune intéressée ou, s'il existe un établissement public groupant plusieurs communes et
-ayant compétence en matière d'urbanisme, le président de cet établissement est appelé à participer aux délibérations de la
-commission nationale des secteurs sauvegardés avec voix consultative sur toute question relative au plan de sauvegarde et de
-mise en valeur qui intéresse, selon le cas, la commune ou l'établissement public de regroupement// .
-
-Les conditions de fonctionnement de la commission nationale sont fixées, en tant que de besoin, par arrêté conjoint du
-ministre des affaires culturelles et du ministre chargé de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°63-691 1963-07-13 ART. 2
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R313-1 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-1 (M)
 
 	**Codifié par**:
 
