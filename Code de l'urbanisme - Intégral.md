@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2003-02-11
+Version Consolidée au 2003-05-11
 
 # Partie législative
 
@@ -49506,13 +49506,16 @@ ainsi que la densité des constructions existantes et à créer.
 
 Le dossier joint à la demande d'autorisation d'exécution des travaux est composé des pièces ci-après :
 
-a) Un mémoire descriptif de l'installation indiquant notamment ses caractéristiques principales, l'emplacement et la nature
-des ouvrages projetés, sa capacité de transport, l'identité et la qualité du maître d'oeuvre et celles des spécialistes dont
-il s'entoure pour l'assister dans sa mission, ainsi que la répartition entre eux des fonctions et des tâches techniques ;
+a) Un mémoire descriptif de l'installation indiquant notamment les caractéristiques principales et la capacité de transport
+de l'installation, la nature des ouvrages ou des modifications substantielles projetées et leur emplacement, l'identité et la
+qualité du maître d'oeuvre et celles des spécialistes dont il s'entoure pour l'assister dans sa mission, ainsi que la
+répartition entre eux des fonctions et des tâches techniques et, le cas échéant, l'identité et la qualité de l'expert ou de
+l'organisme qualifié agréé dans les conditions prévues à l'article 7 du décret n° 2003-425 du 9 mai 2003 relatif à la
+sécurité des transports publics guidés ;
 
 b) Une note sur les mesures de préservation et de réhabilitation du milieu naturel prévues ;
 
-c) L'échéancier prévu pour la construction de l'installation ;
+c) L'échéancier prévu pour la construction ou la modification substantielle de l'installation ;
 
 d) Un plan de situation à une échelle comprise entre 1/5 000 et 1/25 000 comportant le tracé du projet ;
 
@@ -49527,7 +49530,8 @@ programme des essais à effectuer en vue de corroborer les hypothèses retenues 
 
 h) Une note sur les dispositions de principe envisagées pour l'évacuation des usagers de la remontée mécanique ;
 
-i) Une note sur les risques naturels prévisibles et les dispositions principales prévues pour y faire face ;
+i) Une note sur les risques naturels et technologiques prévisibles et les dispositions principales prévues pour y faire
+face ;
 
 j) L'étude ou la notice d'impact prévue, selon le cas, par l'article 2 ou 4 du décret n° 77-1141 du 12 octobre 1977.
 
@@ -49552,6 +49556,12 @@ d) Lorsque les travaux projetés sont soumis à l'avis de la commission consulta
 la sécurité et de l'accessibilité ou de la commission de sécurité compétente en vertu des articles R. 123-13 ou R. 123-22 du
 code de la construction et de l'habitation, les plans et documents nécessaires à la formulation de cet avis.
 
+e) Dans le cas d'une remontée mécanique empruntant un tunnel d'une longueur de plus de 300 mètres, le rapport d'un expert ou
+d'un organisme qualifié agréé dans les conditions prévues à l'article 7 du décret n° 2003-425 du 9 mai 2003 relatif à la
+sécurité des transports publics guidés, présentant les conditions d'exploitation de la remontée mécanique au regard des
+risques naturels et technologiques susceptibles d'affecter l'ouvrage et son avis sur la conception et l'exploitation de la
+remontée mécanique au regard de ces risques.
+
 Le dossier est complété, selon le cas :
 
 1° Pour les travaux qui auraient nécessité un permis de construire, par :
@@ -49574,11 +49584,16 @@ déclaration de travaux constitue le fait générateur.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
 	**Cite**:
 
 	  - Décret n°77-1141 du 12 octobre 1977 - art. 2 (M)
 	  - Décret n°77-1141 du 12 octobre 1977 - art. 4 (Ab)
 	  - Loi n°85-30 1985-01-09 art. 53
+	  - Décret n°2003-425 2003-05-09 art. 7
 	  - Code forestier - art. L311-1 (M)
 	  - Code forestier - art. L312-1 (M)
 	  - Code de l'urbanisme - art. L130-1 (M)
@@ -49586,13 +49601,9 @@ déclaration de travaux constitue le fait générateur.
 	  - Code de la construction et de l'habitation R123-13, R123-22
 	  - Code de la construction et de l'habitation. - art. R*123-22 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°88-635 1988-05-06 art. 2, art. 3 JORF 8 mai 1988
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
+	  - Décret n°2003-425 2003-05-07 art. 52 JORF 11 mai 2003
 
 
 ###### Article R445-3
@@ -49617,6 +49628,10 @@ précédent d'un délai supplémentaire qui ne peut, en tout état de cause, exc
 pièces. Il fait connaître sa décision à l'autorité compétente pour statuer qui notifie au demandeur la prolongation du délai
 d'instruction qui en résulte.
 
+Lorsque la remontée mécanique comporte un tunnel d'une longueur de plus de 300 mètres, le préfet doit, préalablement à
+l'émission de son avis conforme, recueillir l'avis de la commission consultative départementale de sécurité et
+d'accessibilité. Dans ce cas, le délai accordé au préfet pour émettre son avis est majoré d'un mois.
+
 Faute pour l'autorité compétente d'avoir adressé notification de la décision dans le délai d'instruction prévu aux alinéas
 précédents, l'autorisation est réputée accordée, sauf dans les cas énumérés à l'article R. 421-19 et pour les projets
 nécessitant une dérogation aux règles techniques et de sécurité définies en application de l'article 9 de la loi n° 82-1153
@@ -49627,22 +49642,26 @@ et pour lesquels l'autorisation ne peut être obtenue de façon tacite.
 
 	**Cite**:
 
-	  - Loi n°82-1153 du 30 décembre 1982 - art. 30 (V)
 	  - Code de l'urbanisme - art. L445-1 (M)
 	  - Code de l'urbanisme - art. R421-39 (M)
 	  - Code de l'urbanisme R421-8 à R421-28, R421-32 à R421-38, R421-38-1 à R421-38-19, R421-39, R421-40 et R421-53, L445-1
-
-	**Créé par**:
-
-	  - Décret n°88-635 1988-05-06 art. 2, art. 3 JORF 8 mai 1988
+	  - Loi n°82-1153 du 30 décembre 1982 - art. 30 (V)
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R445-7 (Ab)
 
+	**Modifié par**:
+
+	  - Décret n°2003-425 2003-05-07 art. 53 JORF 11 mai 2003
+
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
 ###### Article R445-4
@@ -49801,14 +49820,18 @@ aménagements concernés par l'appareil. Cet avis conforme doit être donné de 
 compter de la réception de la demande. Le préfet arrête éventuellement les prescriptions auxquelles doit être subordonnée
 l'exploitation de l'appareil.
 
+Lorsque la remontée mécanique comporte un tunnel d'une longueur de plus de 300 mètres, le préfet doit, préalablement à
+l'émission de son avis conforme, recueillir l'avis de la commission consultative départementale de sécurité et
+d'accessibilité. Dans ce cas, le délai accordé au préfet pour émettre son avis est majoré d'un mois.
+
 Le délai d'instruction de la demande d'autorisation de mise en exploitation est fixé à trois mois à compter de la date de la
 décharge du dépôt de la demande complète ou de l'avis de réception postal de son envoi.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°88-635 1988-05-06 art. 2, art. 4 JORF 8 mai 1988
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 	**Cite**:
 
@@ -49824,6 +49847,10 @@ décharge du dépôt de la demande complète ou de l'avis de réception postal d
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R445-9 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2003-425 2003-05-07 art. 53 JORF 11 mai 2003
 
 	**Codifié par**:
 
