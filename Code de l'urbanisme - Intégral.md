@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1977-10-13
+Version Consolidée au 1977-12-01
 
 # Partie législative
 
@@ -22264,6 +22264,34 @@ l'ordre de mission. Le propriétaire ou son représentant peut toujours assister
 	  - Décret n°73-1023 1973-11-08
 
 
+#####  Section 4 : Prestation de serment des hommes de l'art
+
+###### Article R313-38
+
+En application de l'article L. 313-12, les fonctionnaires et agents commissionnés par le ministre chargé des monuments et des
+sites prêtent le serment prévu à l'article R. 160-1. Les articles R. 160-2 et R. 160-3 leur sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L313-12 (V)
+	  - Code de l'urbanisme - art. R160-1 (V)
+	  - Code de l'urbanisme - art. R160-2 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R313-40 (Ab)
+
+	**Anciens textes**:
+
+	  - Décret n°64-1085 1964-10-21 art. 5
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 #### CHAPITRE VI : Sanctions relatives aux lotissements
 
 ###### Article R316-1
@@ -28968,46 +28996,6 @@ Toutefois, le délai d'un an visé à l'alinéa 1er dudit article est porté à 
 	  - Décret n°73-1023 1973-11-08
 
 
-#### Prestation de serment des hommes de l'art.
-
-###### Article R313-39
-
-En cas de changement de résidence les intéressés sont dispensés de prêter à nouveau serment.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°64-167 1964-02-31 ART. 2
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R313-40
-
-Les fonctionnaires et agents mentionnés à l'article R. 313-38 sont commissionnés par le ministre dont ils dépendent. Ils
-doivent être porteurs de leur commission au cours de l'accomplissement de leur mission.
-
-La mention de la prestation de serment est apposée sur cette commission par le greffier du tribunal d'instance devant lequel
-le serment a été reçu.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°64-167 1964-02-21 ART. 3
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R313-38 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 #### Opérations d'urbanisation.
 
 ###### Article R314-2
@@ -31556,39 +31544,6 @@ construire qu'en subordonnant cette délivrance aux conditions exprimées.
 
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-13 (M)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-20-1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-### Restauration immobilière et secteurs sauvegardés
-
-#### Prestation de serment des hommes de l'art.
-
-###### Article R313-38
-
-En application de l'article L. 313-12 les membres du corps de l'inspection générale de la construction, les directeurs
-départementaux de l'équipement, les inspecteurs de l'urbanisme intégrés au non dans le corps des urbanistes de l'Etat, les
-conservateurs régionaux et les architectes des bâtiments de France prêtent avant d'entrer en fonctions le serment suivant
-devant le juge d'instance de leur résidence :
-
-"Je jure de bien et fidèlement remplir la mission qui m'est impartie et de ne rien révéler ou utiliser de ce qui sera porté à
-ma connaissance à l'occasion de l'exercice de cette mission."
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°64-167 1964-02-21 ART. 1
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L313-12 (V)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R313-40 (Ab)
 
 	**Codifié par**:
 
