@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2004-08-22
+Version Consolidée au 2004-10-13
 
 # Partie législative
 
@@ -26798,8 +26798,9 @@ Dès réception des avis ou, à défaut, dès l'expiration du délai mentionné 
 de plan d'exposition au bruit accompagné des avis des conseils municipaux et, le cas échéant, des organes délibérants des
 établissements publics de coopération intercommunale compétents est transmis pour avis par le préfet à :
 
-- l'Autorité de contrôle des nuisances sonores aéroportuaires pour les aérodromes visés au 3 de l'article 266 septies du code
-des douanes, qui recueille au préalable l'avis de la commission consultative de l'environnement concernée ;
+- l'Autorité de contrôle des nuisances sonores aéroportuaires pour les aérodromes mentionnés au I de l'article 1609
+quatervicies A du code général des impôts, qui recueille au préalable l'avis de la commission consultative de l'environnement
+concernée ;
 
 - la commission consultative de l'environnement, lorsqu'elle existe, pour les autres aérodromes.
 
@@ -26815,18 +26816,18 @@ réponse dans les délais impartis, ces avis sont réputés favorables.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2002-626 du 26 avril 2002 - art. 2 () JORF 28 avril 2002 en vigueur le 1er novembre 2002
-
 	**Cite**:
 
-	  - Code des douanes - art. 266 septies (M)
+	  - CGI 1609 quatervicies A
 	  - Code de l'urbanisme - art. R147-7 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°2004-1079 du 11 octobre 2004 - art. 1 () JORF 13 octobre 2004
 
 
 ###### Article R147-9
