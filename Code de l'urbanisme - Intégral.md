@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2004-10-13
+Version Consolidée au 2004-11-16
 
 # Partie législative
 
@@ -42238,7 +42238,7 @@ interventions financières des contributeurs suivants : l'Etat, les collectivit�
 
 ###### Article R340-2
 
-I. - Pour l'accomplissement de leur mission, les fonds régionaux d'aménagement foncier et urbain disposent notamment des
+I.-Pour l'accomplissement de leur mission, les fonds régionaux d'aménagement foncier et urbain disposent notamment des
 ressources suivantes :
 
 - des subventions allouées par l'Etat, le conseil général et le conseil régional ;
@@ -42249,17 +42249,22 @@ ressources suivantes :
 
 - des éventuels remboursements de subventions ;
 
-- des produits financiers de la gestion de trésorerie des fonds.
+- des produits financiers de la gestion de trésorerie des fonds. 
 
-Les contributeurs ne peuvent avoir recours à un emprunt auprès de la Caisse des dépôts et consignations pour assurer les
-ressources des fonds.
-
-II. - Les emplois des fonds sont constitués par les avances sur subventions ou subventions allouées aux collectivités, aux
+II.-Les emplois des fonds sont constitués par les avances sur subventions ou subventions allouées aux collectivités, aux
 établissements publics, aux sociétés d'économie mixte d'aménagement ou de construction ainsi qu'aux organismes HLM mentionnés
 à l'article L. 411-2 du code de la construction et de l'habitation et les organismes et sociétés, agréés par le préfet à cet
 effet, qui assurent la maîtrise d'ouvrage de logements sociaux.
 
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2004-1207 du 8 novembre 2004 - art. 1 () JORF 16 novembre 2004
 
 	**Cité par**:
 
@@ -42267,42 +42272,41 @@ effet, qui assurent la maîtrise d'ouvrage de logements sociaux.
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L411-2 (M)
+	  - Code de la construction et de l'habitation. - art. L411-2 (V)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°2002-666 du 29 avril 2002 - art. 1 () JORF 2 mai 2002
 
 
 ###### Article R340-3
 
-La Caisse des dépôts et consignations est l'institution financière visée à l'article L. 340-2. Elle est chargée, à ce titre,
-de regrouper, de gérer et de verser les subventions et avances sur subventions prévues à l'article R. 340-2 aux bénéficiaires
-énumérés à ce même article.
+L'institution financière mentionnée au troisième alinéa de l'article L. 340-2 est chargée de regrouper les fonds, de gérer et
+de verser les subventions et avances sur subventions prévues à l'article R. 340-2 aux bénéficiaires énumérés au II de ce même
+article. 
 
-Sur la base d'une convention-cadre, chaque contributeur au fonds régional d'aménagement foncier et urbain signe avec la
-Caisse des dépôts et consignations une convention qui précise les modalités d'approvisionnement des fonds ainsi que de
-versement des subventions et des avances sur subventions, les conditions de gestion de la caisse, les moyens de contrôle
-ainsi que de compte rendu de la situation comptable du fonds.
+Les contributeurs ne peuvent avoir recours à un emprunt auprès de cette même institution financière pour assurer les
+ressources des fonds régionaux d'aménagement foncier et urbain. 
+
+Sur la base d'une convention-cadre, chaque contributeur au fonds régional d'aménagement foncier et urbain signe avec cette
+institution financière une convention qui précise les modalités d'approvisionnement des fonds ainsi que de versement des
+subventions et des avances sur subventions, les conditions de gestion de l'institution, les moyens de contrôle ainsi que de
+compte rendu de la situation comptable des fonds régionaux d'aménagement foncier et urbain.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2004-1207 du 8 novembre 2004 - art. 2 () JORF 16 novembre 2004
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L340-2 (V)
+	  - Code de l'urbanisme - art. R340-2 (V)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°2002-666 du 29 avril 2002 - art. 1 () JORF 2 mai 2002
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L340-2 (Ab)
-	  - Code de l'urbanisme - art. R340-2 (M)
 
 
 ###### Article R340-4
