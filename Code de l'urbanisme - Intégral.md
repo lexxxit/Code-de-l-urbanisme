@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1980-09-07
+Version Consolidée au 1980-09-09
 
 # Partie législative
 
@@ -41628,6 +41628,21 @@ Les dispositions de l'article A. 331-7 ne peuvent être modifiées que par arrê
 	**Cite**:
 
 	  - Code de l'urbanisme - art. A331-7 (Ab)
+
+
+#### Chapitre  II : Participation des constructeurs et des lotisseurs
+
+###### Article A332-1
+
+Le montant forfaitaire au mètre carré hors oeuvre de l'indemnité globale et unique due en application de l'article R. 332-16
+aux constructeurs et aux lotisseurs pour la mise à la disposition des distributeurs d'électricité et de gaz d'un local
+destiné à l'installation d'un poste de transformation du courant électrique ou d'un poste de détente de gaz est fixé à 700 F.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
 #### CHAPITRE V : Aide à la création et à l'aménagement d'espaces verts.
