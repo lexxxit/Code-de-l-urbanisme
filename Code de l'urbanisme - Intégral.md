@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1985-10-01
+Version Consolidée au 1985-10-19
 
 # Partie législative
 
@@ -7865,6 +7865,71 @@ L'autorisation énonce les prescriptions auxquelles le propriétaire doit se con
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
+###### Article L313-3
+
+Les opérations de conservation, de restauration et de mise en valeur des secteurs sauvegardés peuvent être menées soit à
+l'initiative des collectivités publiques, soit à l'initiative d'un ou plusieurs propriétaires, groupés ou non en association
+syndicale. Dans ce dernier cas, ce ou ces propriétaires y sont spécialement autorisés dans les conditions fixées par un
+décret en Conseil d'Etat qui précise notamment les engagements exigés d'eux quant à la nature et à l'importance des travaux.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°48-1360 du 1 septembre 1948 - art. 3 (V)
+	  - Décret n°53-960 du 30 septembre 1953 - art. 38-1 (Ab)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L24-1 (V)
+	  - Code de commerce. - art. L145-18 (M)
+	  - Code de commerce. - art. L145-6 (M)
+	  - Code de commerce. - art. L911-9 (M)
+	  - Code de commerce. - art. L921-9 (M)
+	  - Code de commerce. - art. L931-12 (M)
+	  - Code de commerce. - art. L941-12 (M)
+	  - Code de commerce. - art. L951-8 (M)
+	  - Code de l'urbanisme - art. L313-14 (V)
+	  - Code de l'urbanisme - art. L313-4 (M)
+	  - Code de l'urbanisme - art. L313-5 (V)
+	  - Code de l'urbanisme - art. L313-6 (V)
+	  - Code de l'urbanisme - art. L313-7 (V)
+	  - Code de l'urbanisme - art. R*322-32 (V)
+	  - Code de l'urbanisme - art. R313-25 (M)
+	  - Code de la construction et de l'habitation. - art. R*421-4 (M)
+	  - Code de la construction et de l'habitation. - art. R*421-73 (M)
+	  - Code du patrimoine. - art. L641-1 (VD)
+
+	**Anciens textes**:
+
+	  - Loi n°62-903 1962-08-04 art. 3
+
+	**Modifié par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 16 () JORF 19 octobre 1985
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 11 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L313-4 (M)
+	  - PILOTE_SUIVEUR: Code du patrimoine - art. L641-1 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
 #####  Section 2 : Restauration immobilière
 
 ###### Article L313-4
@@ -7984,6 +8049,95 @@ l'ordonnance au 1er octobre 2007.
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L313-4 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L313-4-2
+
+Lorsque la commune fait partie d'un établissement public de coopération intercommunale y ayant vocation, elle peut, en accord
+avec cet établissement, lui déléguer les attributions qui lui sont conférées par la présente section.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°65-557 du 10 juillet 1965 - art. 24 (V)
+	  - Code de commerce - art. L145-18 (V)
+	  - Code de commerce - art. L145-6 (V)
+	  - Code de commerce - art. L911-9 (V)
+	  - Code de commerce - art. L921-9 (VT)
+	  - Code de commerce - art. L931-12 (V)
+	  - Code de l'urbanisme - art. R313-28 (V)
+
+	**Créé par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 16 () JORF 19 octobre 1985
+
+	**Transféré par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 11 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L313-4-3 (M)
+	  - Code de l'urbanisme - art. L313-4-3 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L313-4-3
+
+Un décret en Conseil d'Etat précise, en tant que de besoin, les conditions et modalités d'application de la présente section
+et notamment les conditions d'établissement du contrat mentionné à l'article L. 313-4-1.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 16 () JORF 19 octobre 1985
+
+	**Transféré par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 11 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L313-4-1 (M)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. L313-4-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L313-4-4 (V)
 
 	**Codifié par**:
 
@@ -8651,6 +8805,73 @@ Un décret en Conseil d'Etat précise, en tant que de besoin, les conditions d'a
 
 
 #### Chapitre V : Lotissements.
+
+###### Article L315-1
+
+Les règles générales applicables aux opérations ayant pour objet ou ayant eu pour effet la division d'une ou plusieurs
+propriétés foncières en vue de l'implantation de bâtiments sont déterminées par les dispositions du présent chapitre et par
+un décret en Conseil d'Etat. 
+
+En cas d'inobservation de la réglementation applicable aux lotissements, la nullité des ventes et locations concernant les
+terrains compris dans un lotissement peut être prononcée à la requête des propriétaires ou du maire ou du représentant de
+l'Etat dans le département aux frais et dommages du lotisseur et ce sans préjudice des réparations civiles, s'il y a lieu.
+Toutefois, les ventes et locations des parcelles pour lesquelles le permis de construire a été accordé ne peuvent plus être
+annulées.
+
+L'action en justice née de la violation de la réglementation applicable aux lotissements se prescrit par dix ans à compter de
+la publication des actes portant transfert de propriété à la publicité foncière. Passé ce délai, la non-observation de la
+réglementation applicable aux lotissements ne peut plus être opposée.
+
+Toutefois, lorsque l'acte portant transfert de propriété a été publié à la publicité foncière avant la publication de la loi
+n° 85-729 du 18 juillet 1985 relative à la définition et à la mise en oeuvre de principes d'aménagement, la prescription
+antérieure continue à courir selon son régime ; mais, en tout état de cause, elle est acquise à l'expiration du délai de dix
+ans qui suit la publication de ladite loi.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance n°58-1447 du 31 décembre 1958 - art. 4, v. init.
+
+	**Cite**:
+
+	  - Loi n°85-729 1985-07-18
+	  - Code de l'urbanisme - art. L332-7 (M)
+
+	**Modifié par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 18 () JORF 19 octobre 1985
+	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 octobre 1985
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 22 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L111-5-2 (M)
+	  - Code forestier - art. L322-3 (VT)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L315-4 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L332-7 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
 
 ###### Article L315-5
 
@@ -12020,46 +12241,6 @@ prises en application de l'article L. 121-12.
 
 #### Lotissements
 
-###### Article L315-1
-
-//LOI  1285 ART. 24 ET 25 : Les règles générales applicables aux opérations ayant pour objet ou ayant eu pour effet la
-division d'une ou plusieurs propriétés foncières en vue de l'implantation de bâtiments sont déterminées par les dispositions
-du présent chapitre et par un décret en Conseil d'Etat.
-
-Le décret prévu à l'alinéa précédent fixe également les conditions dans lesquelles, sous réserve de l'application de
-l'article L 332-7, les lotisseurs contribuent à la réalisation des équipements publics, rendus nécessaires par la création
-des lotissements, sous la forme de l'exécution de travaux, d'apport de terrains ou de participation financière//.
-
-En cas d'inobservation de la réglementation applicable aux lotissements, la nullité des ventes et locations concernant les
-terrains compris dans un lotissement peut être prononcée à la requête des propriétaires ou du préfet aux frais et dommages du
-lotisseur et ce sans préjudice des réparations civiles, s'il y a lieu. Toutefois, les ventes et locations des parcelles pour
-lesquelles le permis de construire a été accordé ne peuvent plus être annulées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Anciens textes**:
-
-	  - Ordonnance n°58-1447 du 31 décembre 1958 - art. 4, v. init.
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. L111-5-2 (M)
-	  - Code forestier - art. L322-3 (VT)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L315-4 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L332-7 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L332-7 (M)
-
-
 ###### Article L315-2
 
 Toute renonciation à la clause d'interdiction d'édifier des constructions à usage d'habitation, d'industrie, de commerce ou
@@ -13776,6 +13957,60 @@ la loi du 2 mai 1930, demeurent régis par les dispositions particulières de ce
 	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
+###### Article L430-2
+
+Dans les cas mentionnés à l'article L. 430-1, quiconque désire démolir en tout ou partie un bâtiment à quelque usage qu'il
+soit affecté, doit, au préalable, obtenir un permis de démolir. Cette obligation s'impose aux collectivités publiques,
+établissements publics et aux concessionnaires de services publics de l'Etat, des régions, des départements et des communes
+comme des personnes privées.
+
+Est assimilée à une démolition l'exécution de tout travail qui aurait pour effet de rendre l'utilisation des locaux
+impossible ou dangereuse.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2004-490 du 3 juin 2004 - art. 4 (M)
+	  - Code de l'urbanisme - art. L123-2 (M)
+	  - Code de l'urbanisme - art. L430-1 (Ab)
+	  - Code de l'urbanisme - art. L430-3 (M)
+	  - Code de l'urbanisme - art. L430-9 (Ab)
+	  - Code de l'urbanisme - art. L480-4 (V)
+	  - Code de l'urbanisme - art. R*123-13 (V)
+	  - Code de l'urbanisme - art. R*332-1 (M)
+	  - Code de l'urbanisme - art. R*430-1 (M)
+	  - Code de l'urbanisme - art. R*430-4 (M)
+	  - Décret n°2002-89 du 16 janvier 2002 - art. 1 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L430-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Modifié par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 octobre 1985
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+
+
 ###### Article L430-3
 
 Par dérogation aux dispositions de l'article L. 430-2, peuvent être réalisées, sans l'octroi préalable du permis de démolir :
@@ -13904,6 +14139,49 @@ demande équivaut à l'octroi [*tacite*] du permis de démolir.
 	  - Code de l'urbanisme - art. R*430-15-2 (Ab)
 	  - Code de l'urbanisme - art. R*430-7-1 (Ab)
 	  - Code du patrimoine. - art. L621-34 (Ab)
+
+
+###### Article L430-4-1
+
+Lorsque le permis de démolir porte sur un immeuble ou partie d'immeuble, support d'une plaque commémorative, celle-ci est,
+durant les travaux de démolition, conservée par le maître d'ouvrage.
+
+A l'occasion des travaux d'aménagement de l'espace ainsi libéré le maître d'ouvrage réinstalle la plaque en un lieu visible
+de la chaussée.
+
+Ces opérations sont déclarées auprès du maire de la commune.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 27 () JORF 19 octobre 1985
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L422-1 (M)
+	  - Code de l'urbanisme - art. L422-3 (M)
+	  - Code de l'urbanisme - art. L422-5 (M)
+	  - Code de l'urbanisme - art. L430-4-2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 ###### Article L430-4-2
@@ -37076,58 +37354,6 @@ l'autorisation [*tacite*] est réputée accordée.
 
 	  - Code de l'urbanisme - art. R313-12 (M)
 	  - Code de l'urbanisme - art. R313-17-1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-#### Restauration immobilière et secteurs sauvegardés
-
-##### Instruction du plan de sauvegarde et de mise en valeur.
-
-###### Article R*313-8
-
-Après avoir été rendu public, le plan est soumis par arrêté du commissaire de la République à une enquête publique dans les
-formes prévues à l'article R. 123-11.
-
-Le commissaire de la République peut, par un même arrêté, rendre public le plan, prescrire l'enquête publique prévue au
-précédent alinéa et, s'il y a lieu, prescrire l'enquête en vue de la déclaration d'utilité publique des opérations ou
-acquisitions prévues à ce plan ou de certaines d'entre elles.
-
-Dans ce cas, le commissaire enquêteur ou la commission d'enquête est saisi de l'ensemble des procédures. Au vu des résultats
-de l'enquête et après avis de la commission locale du secteur sauvegardé, le plan est soumis par le commissaire de la
-République au conseil municipal ou à l'organe délibérant de l'établissement public compétent en la matière qui doit se
-prononcer dans les mêmes délais et conditions qu'à l'article précédent sur les documents qui lui sont présentés.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: 1 OCTOBRE 1983)
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 ART. 75 I (Code de l'urbanisme L313-1)
-	  - SPEC_APPLI: Décret n°83-851 1983-09-23 ART. 1 : Date d'entrée en vigueur
-
-	**Anciens textes**:
-
-	  - Décret n°63-691 1963-07-13 ART. 8 AL. 2
-
-	**Modifié par**:
-
-	  - Décret n°83-813 1983-09-09 ART. 11 JORF 11 SEPTEMBRE 1983 date d'entrée en vigueur
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. R*131-4 (Ab)
-	  - Code de l'urbanisme - art. R313-18 (M)
-	  - Code de l'urbanisme - art. R313-19 (M)
-	  - Code de l'urbanisme - art. R313-4 (M)
-	  - Code de l'urbanisme - art. R313-6 (M)
-	  - Code de l'urbanisme - art. R313-9 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R123-11
 
 	**Codifié par**:
 
