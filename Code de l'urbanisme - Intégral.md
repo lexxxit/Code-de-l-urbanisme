@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2003-01-05
+Version Consolidée au 2003-02-11
 
 # Partie législative
 
@@ -53004,19 +53004,16 @@ euros.
 
 ###### Article A410-1
 
-La demande de certificat d'urbanisme prévue à l'article R. 410-1 est établie conformément au modèle annexé au présent
-article.
-
-**Nota:**
-
-Nota : L'imprimé de demande de certificat d'urbanisme est enregistré au C.E.R.F.A. sous le numéro 46-0377 (imprimé A.M. 390).
-Il peut être obtenu auprès des mairies ou des directions départementales de l'équipement.
+La demande de certificat d'urbanisme prévue à l'article R. 410-1 du code de l'urbanisme est établie conformément au modèle
+annexé au présent article, enregistré à la commission pour les simplifications administratives sous le numéro 12107. Il peut
+être obtenu auprès des mairies ou des directions départementales de l'équipement et est accessible sur le site internet du
+ministère de l'équipement, du logement, des transports, du tourisme et de la mer.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1989-01-06 art. 3 I JORF 4 février 1989
+	  - Arrêté 2002-12-17 art. 1 JORF 11 février 2003
 
 	**Codifié par**:
 
