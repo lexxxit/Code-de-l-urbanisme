@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1995-01-10
+Version Consolidée au 1995-01-24
 
 # Partie législative
 
@@ -436,6 +436,43 @@ dispositions du présent alinéa.
 	  - Code de l'urbanisme - art. L421-3 (M)
 	  - Code de l'urbanisme - art. R421-6 (Ab)
 	  - Code général des impôts, CGI. - art. 1605 nonies (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L111-3-1
+
+Les études préalables à la réalisation des projets d'aménagement, des équipements collectifs et des programmes de
+construction, entrepris par une collectivité publique ou nécessitant une autorisation administrative et qui, par leur
+importance, leur localisation ou leurs caractéristiques propres peuvent avoir des incidences sur la protection des personnes
+et des biens contre les menaces et les agressions, doivent comporter une étude de sécurité publique permettant d'en apprécier
+les conséquences. Sans préjudice de circonstances particulières, l'importance du projet est appréciée notamment par référence
+à la surface des catégories de locaux dont la construction est envisagée, à la densité des constructions avoisinantes, aux
+caractéristiques de la délinquance et aux besoins en équipements publics qu'ils génèrent.
+
+Un décret en Conseil d'Etat précise les modalités d'application du présent article. Il détermine :
+
+- les conditions dans lesquelles les préoccupations en matière de sécurité publique sont prises en compte dans les procédures
+réglementaires existantes ;
+
+- les projets d'aménagement, les équipements collectifs et les programmes de construction soumis à l'obligation mentionnée au
+premier alinéa ;
+
+- le contenu de l'étude de sécurité publique, portant au minimum sur les risques que peut entraîner le projet pour la
+protection des personnes et des biens contre la délinquance et sur les mesures envisagées pour les prévenir.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°95-73 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L160-1 (V)
+	  - Code de l'urbanisme - art. R111-48 (VT)
 
 	**Codifié par**:
 
@@ -3812,6 +3849,83 @@ complétant la liste visée à l'alinéa premier, le délai [*point de départ*]
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+#### Chapitre VII : Dispositions favorisant la diversité de l'habitat.
+
+###### Article L127-1
+
+Le dépassement de la norme résultant de l'application du coefficient d'occupation des sols est autorisé, dans la limite de 20
+p. 100 de ladite norme et dans le respect des autres règles du plan d'occupation des sols, sous réserve :
+
+- d'une part, que la partie de la construction en dépassement ait la destination de logements à usage locatif bénéficiant
+d'un concours financier de l'Etat au sens du 3° de l'article L. 351-2 du code de la construction et de l'habitation ou, dans
+les départements d'outre-mer, la destination de logements locatifs sociaux bénéficiant pour leur construction d'un concours
+financier de l'Etat ;
+
+- et, d'autre part, que le coût foncier imputé à ces logements locatifs sociaux n'excède pas un montant fixé par décret en
+Conseil d'Etat selon les zones géographiques.
+
+La partie de la construction en dépassement n'est assujettie ni à la participation pour dépassement du coefficient
+d'occupation des sols, ni au versement résultant du dépassement du plafond légal de densité.
+
+La mise en oeuvre du permis de construire est subordonnée à l'obtention de la décision d'octroi du concours financier de
+l'Etat et au respect des conditions de cette dernière. Copie de cette décision doit être notifiée, avant l'ouverture du
+chantier, à l'autorité compétente en matière de permis de construire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°95-74 du 21 janvier 1995 - art. 10 () JORF 24 janvier 1995
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L123-1-1 (T)
+	  - Code de l'urbanisme - art. L123-1-11 (VT)
+	  - Code de l'urbanisme - art. L123-13-2 (VT)
+	  - Code de l'urbanisme - art. L123-13-3 (VT)
+	  - Code de l'urbanisme - art. L127-2 (Ab)
+	  - Code de l'urbanisme - art. L128-3 (M)
+	  - Code de l'urbanisme - art. R*123-13 (V)
+	  - Code de l'urbanisme - art. R*127-1 (Ab)
+	  - Code de l'urbanisme - art. R*127-2 (VT)
+	  - Code de l'urbanisme - art. R*333-1 (Ab)
+	  - Code de l'urbanisme - art. R*421-39-1 (Ab)
+	  - Code de l'urbanisme - art. R*431-17 (V)
+	  - Code de l'urbanisme - art. R421-2-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. L302-1 (VT)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L127-2
+
+Les dispositions de l'article L. 127-1 sont rendues applicables dans la commune par décision de son conseil municipal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Créé par**:
+
+	  - Loi n°95-74 du 21 janvier 1995 - art. 10 () JORF 24 janvier 1995
+
+	**Abrogé par**:
+
+	  - Loi n°2009-323 du 25 mars 2009 - art. 40 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L127-1
 
 
 ### Titre III : Espaces boisés.
@@ -13181,28 +13295,26 @@ s'opposent au retrait.
 
 Les recettes du budget de l'établissement public foncier comprennent notamment :
 
-" 1° Le produit des impôts directs mentionnés à l'article 1607 bis du code général des impôts ;
+1° Le produit des impôts directs mentionnés à l'article 1607 bis du code général des impôts ;
 
-" 2° La participation prévue aux articles L. 332-17 et suivants du présent code et la contribution prévue à l'article L.
-302-7 du code de la construction et de l'habitation ;
+2° La contribution prévue à l'article L. 302-7 du code de la construction et de l'habitation ;
 
-" 3° Le produit des dons et legs.
+3° Le produit des dons et legs.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 1607 bis
-	  - Code de l'urbanisme l332-17
 	  - Code de la construction et de l'habitation. - art. L302-7 (M)
+
+	**Modifié par**:
+
+	  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
 
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-	**Créé par**:
-
-	  - Loi - art. 27 () JORF 19 juillet 1991
 
 
 ###### Article L324-7
@@ -13808,19 +13920,13 @@ lieu à la participation instituée dans les secteurs d'aménagement définis à
 
 3° La réalisation des équipements propres mentionnées à l'article L. 332-15.
 
-4° La participation à la diversité de l'habitat prévue à l'article L. 332-17.
-
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°93-122 du 29 janvier 1993 - art. 57 () JORF 30 janvier 1993
 
 	**Cité par**:
 
+	  - Décret n°91-1201 du 27 novembre 1991 - art. ANNEXE (V)
 	  - Arrêté du 10 juin 1996 - art. ANNEXE I (VT)
 	  - Arrêté du 13 mars 1986 - art. 3 (Ab)
-	  - Décret n°91-1201 du 27 novembre 1991 - art. ANNEXE (V)
 	  - Code de l'environnement - art. L332-27 (VT)
 	  - Code de l'urbanisme - art. L332-12 (M)
 	  - Code de l'urbanisme - art. L332-13 (M)
@@ -13829,7 +13935,6 @@ lieu à la participation instituée dans les secteurs d'aménagement définis à
 	  - Code de l'urbanisme - art. L332-6-1 (V)
 	  - Code de l'urbanisme - art. L332-7 (M)
 	  - Code de l'urbanisme - art. L332-8 (M)
-	  - Code de l'urbanisme - art. L332-9 (M)
 	  - Code de l'urbanisme - art. L340-2 (Ab)
 	  - Code de l'urbanisme - art. L730-1 (VT)
 	  - Code de l'urbanisme - art. R*315-29 (M)
@@ -13837,12 +13942,14 @@ lieu à la participation instituée dans les secteurs d'aménagement définis à
 	  - Code de l'urbanisme - art. R421-38-7 (Ab)
 	  - Code général des collectivités territoriales - art. L2331-5 (V)
 
+	**Modifié par**:
+
+	  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
+
 	**Cite**:
 
 	  - CGI 1585 A
-	  - Code de l'urbanisme - art. L322-6-1 (M)
-	  - Code de l'urbanisme - art. L332-17 (Ab)
-	  - Code de l'urbanisme L332-9, L322-6-1, l332-15, L332-17
+	  - Code de l'urbanisme - art. L332-9 (M)
 
 	**Codifié par**:
 
@@ -14167,9 +14274,9 @@ réclamées par les constructeurs qui en auront définitivement supporté la cha
 
 ###### Article L332-12
 
-Les dispositions des articles L. 332-6 et L. 332-7 sont sont applicables dans les conditions suivantes aux lotisseurs ainsi
-qu'aux personnes aménageant des terrains destinés à l'accueil d'habitations légères de loisir et aux associations foncières
-urbaines de remembrement autorisées ou constituées d'office.
+Les dispositions des articles L. 332-6 et L. 332-7 sont applicables dans les conditions suivantes aux lotisseurs ainsi qu'aux
+personnes aménageant des terrains destinés à l'accueil d'habitations légères de loisir et aux associations foncières urbaines
+de remembrement autorisées ou constituées d'office.
 
 Peuvent être mis à la charge du lotisseur, de la personne aménageant un terrain destiné à l'accueil d'habitation légères de
 loisir ou de l'association foncière urbaine par l'autorisation de lotir, par l'autorisation d'aménager, ou par l'acte
@@ -14182,19 +14289,22 @@ b) La participation pur dépassement du coefficient d'occupation des sols dans l
 c) La participation spécifique pour équipements publics exceptionnels dans les conditions prévues à l'article L. 332-8 ;
 
 d) Une participation forfaitaire représentative de la participation prévue à l'article L. 332-9 et des contributions
-énumérées aux a, b, d et e du 2° et au 3° de l'article L. 332-6-1 ;
-
-e) Un versement représentatif de la participation à la diversité de l'habitat prévue à l'article L. 332-17.
+énumérées aux a, b, d et e du 2° et au 3° de l'article L. 332-6-1.
 
 Il ne peut être perçu sur les constructeurs aucune des contributions ou participations qui ont été mises à la charge du
 lotisseur, de la personne ayant aménagé le terrain destiné à l'accueil d'habitations légères de loisir, ou de l'association
 foncière urbaine de remembrement.
 
+**Nota:**
+
+NOTA : Les articles L. 332-1 et L. 333-9-1 du code de l'urbanisme sont abrogés par la loi n° 2000-1208 du 13 décembre 2000
+(SRU).
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°93-122 du 29 janvier 1993 - art. 56 () JORF 30 janvier 1993
+	  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
 
 	**Cite**:
 
@@ -14331,448 +14441,6 @@ Un décret en Conseil d'Etat détermine, en tant que de besoin, les conditions d
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 52 (V)
-
-
-#####  Section 4 : Participation à la diversité de l'habitat.
-
-###### Article L332-17
-
-Les communes ou les établissements publics de coopération intercommunale compétents en matière d'urbanisme, dont le
-territoire est couvert par un programme local de l'habitat adopté conformément aux articles L. 302-1 et suivants du code de
-la construction et de l'habitation, peuvent, pour faciliter la réalisation de logements à usage locatif au sens du 3° de
-l'article L. 351-2 du code de la construction et de l'habitation et faisant l'objet d'un concours financier de l'Etat, et
-pour contribuer ainsi à la diversité de l'offre de logements, décider qu'à l'occasion des opérations soumises à permis de
-construire une participation, appelée participation à la diversité de l'habitat, sera mise à la charge des constructeurs sur
-tout ou partie de leur territoire. La décision doit être motivée.
-
-" L'assiette de la participation est constituée par le produit de la valeur du terrain par mètre carré de surface hors oeuvre
-nette constructible, diminuée d'un montant forfaitaire, par la surface hors oeuvre nette de l'opération diminuée de 170
-mètres carrés.
-
-" Pour l'application de l'alinéa précédent :
-
-" a) La surface hors oeuvre nette constructible est celle qui résulte de l'application du coefficient d'occupation des sols
-au terrain concerné ; en l'absence de coefficient d'occupation des sols, elle est égale à la superficie du terrain ;
-
-" b) Le montant forfaitaire est fixé à 600 F dans les départements autres que ceux de la région Ile-de-France. Il est porté à
-900 F dans les départements de la région Ile-de-France. Il est actualisé au 1er janvier de chaque année en fonction de
-l'évolution de l'indice du coût de la construction publié par l'Institut national de la statistique et des études
-économiques.
-
-" Le taux de la participation, qui ne peut excéder 15 p. 100, est fixé par la délibération qui l'a institué.
-
-" Pour les opérations de construction comprenant une surface de logements en accession à la propriété aidée par l'Etat,
-mentionnés au 1° de l'article L. 351-2 du code de la construction et de l'habitation, et de logements à usage locatif
-mentionnés au 3° de l'article L. 351-2 du même code et faisant l'objet d'un concours financier de l'Etat, ainsi que pour les
-opérations de construction de logements loués pendant une durée minimale de neuf ans à un prix inférieur à un plafond fixé
-par décret, le taux est diminué du rapport entre cette surface et la superficie hors oeuvre nette de l'opération.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi - art. 16 () JORF 19 juillet 1991
-
-	**Abrogé par**:
-
-	  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
-
-	**Cité par**:
-
-	  - CODE DES COMMUNES. - art. L253-2 (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 302 septies B (M)
-	  - Code de l'urbanisme - art. L332-12 (M)
-	  - Code de l'urbanisme - art. L332-18 (Ab)
-	  - Code de l'urbanisme - art. L332-6 (M)
-	  - Code de l'urbanisme - art. R*341-1 (Ab)
-	  - Code de l'urbanisme - art. R332-26 (Ab)
-	  - Code de l'urbanisme - art. R332-27 (Ab)
-	  - Code de l'urbanisme - art. R332-36 (Ab)
-	  - Code de l'urbanisme - art. R332-40 (Ab)
-	  - Code de la construction et de l'habitation. - art. L302-8 (M)
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L302-1 (M)
-	  - Code de la construction et de l'habitation. - art. L351-2 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-
-###### Article L332-18
-
-Ne sont pas soumises à la participation :
-
-" a) Les constructions de logements en accession à la propriété aidée par l'Etat et de logements à usage locatif, mentionnés
-respectivement aux 1° et 3° de l'article L. 351-2 du code de la construction et de l'habitation, ainsi que les constructions
-de logements loués pendant une durée minimale de neuf ans à un prix inférieur à un plafond fixé par décret ;
-
-" b) Les constructions réalisées à l'occasion d'une action ou opération d'aménagement telles que définies à l'article L.
-300-1 du présent code, lorsque le programme global de construction comprend une surface de logements tels que définis au
-septième alinéa de l'article L. 332-17 et lorsque la part de ces logements dans la surface totale construite est au moins
-égale au taux de la participation à la diversité de l'habitat ;
-
-" c) Les constructions édifiées par ou pour le compte de l'Etat, des collectivités locales et de leurs groupements ou par des
-établissements publics administratifs, ou dans le cadre de concessions ou de mandats donnés par ces organismes, lorsqu'elles
-sont affectées à un service public ou d'utilité générale et qu'elles ne sont pas productives de revenus ;
-
-" d) Les constructions édifiées par des organismes sans but lucratif à caractère sanitaire, social, éducatif, sportif ou
-culturel ou par des organisations syndicales de salariés reconnues représentatives au plan national selon les critères prévus
-à l'article L. 133-2 du code du travail.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi - art. 16 () JORF 19 juillet 1991
-
-	**Abrogé par**:
-
-	  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
-
-	**Cite**:
-
-	  - Code du travail - art. L133-2 (M)
-	  - Code de l'urbanisme - art. L300-1 (M)
-	  - Code de l'urbanisme - art. L332-17 (Ab)
-	  - Code de la construction et de l'habitation. - art. L351-2 (M)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. L332-20 (Ab)
-	  - Code de l'urbanisme - art. L332-25 (Ab)
-	  - Code de l'urbanisme - art. R332-26 (Ab)
-	  - Code de l'urbanisme - art. R332-29 (Ab)
-	  - Code de l'urbanisme - art. R332-30 (Ab)
-	  - Code de l'urbanisme - art. R332-32 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-
-###### Article L332-19
-
-Les constructeurs assujettis à la participation à la diversité de l'habitat s'en libèrent par paiement ou par dation :
-
-" a) Soit d'une partie du terrain d'implantation de l'opération faisant l'objet de la demande, permettant la construction de
-logements locatifs sociaux ; la superficie des terrains cédés est prise en compte pour le calcul des possibilités de
-construire ; par dérogation, les dispositions des deux premiers alinéas de l'article L. 111-5 du présent code ne s'appliquent
-pas à la partie cédée ;
-
-" b) Soit d'un terrain constructible sur le territoire de la commune, permettant la construction de logements locatifs
-sociaux ;
-
-" c) Soit de locaux vacants existant sur le territoire de la commune pouvant être utilisés, si nécessaire après travaux, en
-tant que logements locatifs sociaux.
-
-" La dation des terrains ou des locaux a un caractère libératoire si leur valeur est au moins égale à 70 p. 100 du montant
-qui aurait été celui de la participation si cette dernière avait été acquittée sous forme de contribution financière.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi - art. 16 () JORF 19 juillet 1991
-
-	**Abrogé par**:
-
-	  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L111-5 (M)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. L332-22 (Ab)
-	  - Code de l'urbanisme - art. R*160-5 (Ab)
-	  - Code de l'urbanisme - art. R332-31 (Ab)
-	  - Code de l'urbanisme - art. R332-33 (Ab)
-	  - Code de l'urbanisme - art. R332-39 (Ab)
-	  - Code de la construction et de l'habitation. - art. L302-8 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-
-###### Article L332-20
-
-La valeur du terrain d'implantation de l'opération de construction ou celle du terrain ou du local qu'il est envisagé
-d'apporter en règlement de la participation à la diversité de l'habitat est déclarée par le demandeur du permis de construire
-lors du dépôt de la demande, laquelle précise, en outre, la situation, la superficie et les caractéristiques du terrain ou du
-logement cédé. Dans les cas prévus aux a et b de l'article L. 332-18, le demandeur fournit les pièces justifiant le respect
-de l'objectif de diversité de l'habitat par l'opération.
-
-" En l'absence de déclaration ou des pièces prévues à l'alinéa précédent, le dossier de permis de construire est considéré
-comme incomplet et ne peut être instruit.
-
-" Les valeurs mentionnées au premier alinéa sont appréciées à la date du dépôt de la demande de permis de construire.
-
-" Le directeur des services fiscaux est consulté par le service chargé de l'instruction de la demande de permis de construire
-en vue d'émettre un avis sur la valeur déclarée par le demandeur du permis de construire.
-
-" L'avis du directeur des services fiscaux, donné dans le délai d'un mois, constitue l'évaluation administrative.
-
-" Si cette évaluation administrative est différente de la valeur déclarée par l'intéressé, la personne publique qui a
-institué la participation à la diversité de l'habitat doit la notifier par écrit au constructeur. La notification est
-assortie de l'avis du directeur des services fiscaux.
-
-" A défaut d'accord du pétitionnaire sur l'évaluation qui lui a été notifiée, la valeur du terrain ou du local est fixée par
-la juridiction compétente en matière d'expropriation saisie par la partie la plus diligente.
-
-" L'existence d'un désaccord sur les valeurs mentionnées au premier alinéa est sans incidence sur la délivrance du permis de
-construire.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi - art. 16 () JORF 19 juillet 1991
-
-	**Abrogé par**:
-
-	  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L332-18 (Ab)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R332-28 (Ab)
-	  - Code de l'urbanisme - art. R421-4 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-
-###### Article L332-21
-
-La contribution financière versée en règlement de la participation à la diversité de l'habitat est perçue par la personne
-publique qui l'a instituée. Son produit est affecté, dans un délai maximal de trois ans, à l'acquisition de terrains, de
-locaux ou de logements destinés à la réalisation de logements locatifs sociaux sur le territoire de la commune ou de
-l'établissement public de coopération intercommunale, soit directement par le bénéficiaire de la participation à la diversité
-de l'habitat, soit par un établissement public créé en application des articles L. 321-1 ou L. 324-1, soit par un organisme
-d'habitations à loyer modéré au sens de l'article L. 411-2 du code de la construction et de l'habitation, soit par une
-société d'économie mixte locale de construction ou d'aménagement.
-
-" Toutefois, les communes dans lesquelles le nombre de logements sociaux au sens du 3° de l'article L. 351-2 du code de la
-construction et de l'habitation représente plus de 20 p. 100 des résidences principales au sens du II de l'article 1411 du
-code général des impôts peuvent utiliser, dans les conditions définies à l'alinéa précédent, ce produit pour la réalisation
-de logements loués pendant une durée minimale de neuf ans à un prix inférieur à un plafond fixé par décret.
-
-" La réalisation des logements sur les terrains ou dans les locaux ci-dessus mentionnés doit intervenir dans un délai de cinq
-ans à compter du versement de la participation.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1411
-	  - Code de l'urbanisme - art. L321-1 (M)
-	  - Code de l'urbanisme - art. L324-1 (M)
-	  - Code de la construction et de l'habitation. - art. L351-2 (M)
-	  - Code de la construction et de l'habitation. - art. L411-2 (M)
-
-	**Créé par**:
-
-	  - Loi - art. 16 () JORF 19 juillet 1991
-
-	**Abrogé par**:
-
-	  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. L332-23 (Ab)
-	  - Code de l'urbanisme - art. R*341-2 (Ab)
-	  - Code de l'urbanisme - art. R332-35 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-
-###### Article L332-22
-
-La dation de terrains ou de locaux faite en application de l'article L. 332-19 s'effectue au profit de la commune ou de
-l'établissement public de coopération intercommunale qui a institué la participation.
-
-" Le maire ou le président de l'établissement public peut également mettre à disposition ou donner par bail à construction
-les terrains ou les logements reçus à une personne morale ayant vocation à réaliser des logements locatifs sociaux en vue de
-la réalisation de tels logements.
-
-" La réalisation effective des logements locatifs sociaux doit intervenir dans un délai maximal de cinq ans à compter de la
-dation.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi - art. 16 () JORF 19 juillet 1991 Rectificatif JORF du 29 octobre 1991
-
-	**Abrogé par**:
-
-	  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L332-19 (Ab)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. L332-23 (Ab)
-	  - Code de l'urbanisme - art. L332-26 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-
-###### Article L332-23
-
-Les biens qui n'auraient pas été affectés à la réalisation de logements dans les conditions prévues aux articles L. 332-21 et
-L. 332-22 peuvent être transférés gratuitement, par le juge de l'expropriation saisi par le représentant de l'Etat, à une
-autre personne morale en vue de cette réalisation.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L332-21 (Ab)
-	  - Code de l'urbanisme - art. L332-22 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-	**Créé par**:
-
-	  - Loi - art. 16 () JORF 19 juillet 1991
-
-	**Abrogé par**:
-
-	  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
-
-
-###### Article L332-24
-
-Les modalités d'établissement, de liquidation, de recouvrement et de restitution de la participation, lorsqu'elle est versée
-sous forme de contribution financière, ainsi que les sanctions, privilèges, sûretés et garanties y afférents, sont ceux
-prévus en matière de versement pour dépassement du plafond légal de densité par les articles L. 333-1 à L. 333-16.
-
-" Le montant de la participation à la diversité de l'habitat est déduit du versement pour dépassement du plafond légal de
-densité ou de la participation pour dépassement du coefficient d'occupation des sols, lorsque l'une ou l'autre de ces
-contributions est due.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R332-37 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme l333-1 à l333-16
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-	**Créé par**:
-
-	  - Loi - art. 16 () JORF 19 juillet 1991
-
-	**Abrogé par**:
-
-	  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
-
-
-###### Article L332-25
-
-Dans les cas prévus à l'article L. 332-18, la constatation par l'administration que les constructions réalisées ne
-correspondent pas aux conditions ayant justifié l'exonération de la participation rend le constructeur redevable de celle-ci
-à compter de la date de cette constatation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-	**Créé par**:
-
-	  - Loi - art. 16 () JORF 19 juillet 1991
-
-	**Abrogé par**:
-
-	  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L332-18 (Ab)
-
-
-###### Article L332-26
-
-Les communes, les établissements publics de coopération intercommunale, les organismes d'habitations à loyer modéré et les
-personnes morales attributaires tiennent à jour un registre des terrains ou locaux mentionnés à l'article L. 332-22.
-
-" Les organismes d'habitations à loyer modéré et les personnes morales attributaires rendent compte chaque année de
-l'utilisation des fonds ou des biens aux communes concernées ou à l'établissement public de coopération intercommunale. Ce
-rapport est tenu à la disposition du public.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-	**Créé par**:
-
-	  - Loi - art. 16 () JORF 19 juillet 1991
-
-	**Abrogé par**:
-
-	  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L332-22 (Ab)
-
-
-###### Article L332-27
-
-La participation à la diversité de l'habitat est applicable aux demandes de permis de construire déposées six mois après
-l'entrée en vigueur de ladite participation dans la commune et au plus tôt le 1er janvier 1995.
-
-Un décret en Conseil d'Etat détermine, en tant que de besoin, les conditions d'application de la présente section, notamment
-celle nécessitée par la situation particulière des départements d'outre-mer. Il peut notamment préciser les conditions dans
-lesquelles les logements évolutifs sociaux en accession à la propriété peuvent être assimilés, pour l'application de la
-présente section dans les départements d'outre-mer, à des logements locatifs.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-	**Modifié par**:
-
-	  - Loi n°94-112 du 9 février 1994 - art. 6 (V) JORF 10 février 1994
-
-	**Cité par**:
-
-	  - Loi n°94-112 du 9 février 1994 - art. 6 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
 
 
 #####  Section 5 : Dispositions diverses
@@ -14973,26 +14641,7 @@ Ces versements sont inscrits au budget de la commune de l'établissement public 
 alinéas précédents et les sommes collectées à ce titre devront être versées à leurs bénéficiaires dans les trois mois suivant
 leur encaissement.
 
-Le produit des versements perçu par la commune ou, le cas échéant, par l'établissement public de coopération intercommunale
-compétent en matière d'urbanisme, est affecté à la réalisation des objectifs de la participation à la diversité de l'habitat
-définis à l'article L. 332-21 du présent code.
-
-" Toutefois, les communes dans lesquelles le nombre de logements sociaux au sens du 3° de l'article L. 351-2 du code de la
-construction et de l'habitation représente plus de 20 p. 100 des résidences principales au sens du II de l'article 1411 du
-code général des impôts peuvent utiliser le produit de ces versements pour la réalisation de logements loués pendant une
-durée minimale de neuf ans à un prix inférieur à un plafond fixé par décret. "
-
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1411
-	  - Code de l'urbanisme l332-21
-	  - Code de la construction et de l'habitation. - art. L351-2 (M)
-
-	**Modifié par**:
-
-	  - Loi - art. 43 ()
 
 	**Cité par**:
 
@@ -15005,10 +14654,13 @@ durée minimale de neuf ans à un prix inférieur à un plafond fixé par décre
 	  - Code de l'urbanisme - art. R*333-12 (Ab)
 	  - Code de l'urbanisme - art. R*333-28 (Ab)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L332-3 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme R332-12
+	  - Loi n°95-74 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
+
+	**Abrogé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
 
 	**Codifié par**:
 
