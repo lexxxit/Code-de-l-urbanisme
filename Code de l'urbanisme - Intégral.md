@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1982-07-07
+Version Consolidée au 1982-12-04
 
 # Partie législative
 
@@ -12335,22 +12335,19 @@ des constructions.
 
 ###### Article L520-1
 
-Dans les zones comprises dans la limite de la région parisienne [*champ d'application*]  telle qu'elle a été définie par
-l'article 1er de la loi n. 64-707 du 10 juillet 1964 portant réorganisation de cette région et qui seront délimitées
-respectivement, pour les locaux à usage de bureaux et pour les locaux à usage industriel, par décret en Conseil d'Etat, il
-est perçu une redevance à l'occasion de la construction de ces bureaux et locaux ainsi que de leurs annexes dont la
-détermination est comprise dans le règlement d'administration publique prévu à l'article L. 520-11.
+Dans les zones comprises dans les limites de la région d'Ile-de-France telles qu'elles ont été fixées par l'article premier
+de la loi n° 76-394 du 6 mai 1976 et qui seront déterminées par décret en Conseil d'Etat, il est perçu une redevance à
+l'occasion de la construction de locaux à usage de bureaux et de locaux de recherche ainsi que de leurs annexes.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°60-790 1960-08-02 ART. 1
-
 	**Cite**:
 
-	  - Loi n°64-707 du 10 juillet 1964 - art. 1, v. init.
-	  - Code de l'urbanisme - art. L520-11 (M)
+	  - Loi n°76-394 du 6 mai 1976 - art. 1 (M)
+
+	**Modifié par**:
+
+	  - Loi n°82-1020 1982-12-03 art. 1 JORF 4 décembre 1982
 
 	**Liens**:
 
@@ -12383,28 +12380,29 @@ détermination est comprise dans le règlement d'administration publique prévu 
 
 ###### Article L520-2
 
-La redevance est due par la personne physique ou morale [*redevable*] qui est propriétaire des locaux à la date de l'émission
-du titre de perception. Le titre de perception doit être émis dans les deux ans qui suivent [*délai, point de départ*] soit
-la délivrance du permis de construire, soit le dépôt de la déclaration [*préalable de travaux*] visée à l'article L. 430-3.
+La redevance est due par la personne physique ou morale qui est propriétaire des locaux à la date de l'émission de l'avis de
+mise en recouvrement. L'avis de mise en recouvrement doit être émis dans les deux ans qui suivent soit la délivrance du
+permis de construire, soit le dépôt des déclarations prévues par les articles L. 520-9 et R. 422-3, soit, à défaut, le début
+des travaux.
 
-Si le titre de perception est émis avant l'achèvement de la construction, il peut être établi au nom du maître de l'ouvrage
-qui pourra demander remboursement de son montant au propriétaire des locaux.
+Si l'avis de mise en recouvrement est émis avant l'achèvement de la construction, il peut être établi au nom du maître de
+l'ouvrage qui pourra demander remboursement de son montant au propriétaire des locaux.
 
 A défaut de paiement par les débiteurs désignés aux alinéas précédents, le recouvrement peut être poursuivi sur les
 propriétaires successifs des locaux.
 
 Toutefois, ces poursuites ne peuvent être engagées après l'expiration d'un délai d'un an à compter de la déclaration
-d'achèvement des travaux.
+d'achèvement des travaux ou de la constatation de l'achèvement de ces travaux.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
 	**Anciens textes**:
 
-	  - Loi n°60-790 1960-08-02 ART. 2
+	  - Loi n°60-790 1960-08-02 art. 2
+
+	**Modifié par**:
+
+	  - Loi n°82-1020 1982-12-03 art. 2, art. 3 JORF 4 décembre 1982
 
 	**Cité par**:
 
@@ -12413,22 +12411,31 @@ d'achèvement des travaux.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L430-3 (Ab)
+	  - Code de l'urbanisme - art. L520-9 (M)
+	  - Code de l'urbanisme L520-9, R422-3
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L520-3
 
-Le montant de la redevance due par mètre carré de surface utile de plancher peut varier selon les périmètres considérés sans
-pouvoir excéder 200 F pour les locaux à usage industriel, 500 F pour les locaux à usage de bureaux.
+Le montant de la redevance due par mètre carré de surface utile de plancher peut varier selon les périmètres considérés, sans
+pouvoir excéder 1300 F.
 
-Ce montant et ces périmètres sont fixés par décret en Conseil d'Etat, sur avis du conseil d'administration du district de la
-région parisienne, en fonction du taux d'emploi et de son évolution.
+Ce montant et ces périmètres sont fixés par décret en conseil d'Etat, sur avis du conseil régional de la région d'Ile-de-
+France, en fonction du taux d'emploi et de son évolution.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°60-790 1960-08-02 ART. 3
+
+	**Modifié par**:
+
+	  - Loi n°82-1020 1982-12-03 ART. 4, ART. 5 I JORF 4 DECEMBRE 1982
 
 	**Cité par**:
 
@@ -12458,13 +12465,13 @@ région parisienne, en fonction du taux d'emploi et de son évolution.
 
 Le produit de la redevance est :
 
-a) Rattaché à concurrence de 50 p. 100 selon la procédure de fonds de concours, à un chapitre du budget des services du
-Premier ministre, afin d'être affecté hors de la région parisienne à des actions facilitant l'implantation d'activités
+a) rattaché à concurrence de 50 p. 100 selon la procédure de fonds de concours, à un chapitre du budget des services du
+premier ministre, afin d'être affecté hors de la région d'Ile-de-France à des actions facilitant l'implantation d'activités
 industrielles ou tertiaires ;
 
-b) Attribué à concurrence de 50 p. 100 au district de la région parisienne pour être pris en recette au budget d'équipement
-du district, en vue du financement d'équipements nécessaires au desserrement d'activités industrielles ou tertiaires dans
-certaines parties de la région parisienne.
+b) attribue à concurrence de 50 p. 100 à la région d'Ile-de-France pour être pris en recette au budget d'équipement de la
+région, en vue du financement d'équipements nécessaires au desserrement d'activités industrielles ou tertiaires dans
+certaines parties de la région d'Ile-de-France .
 
 **Liens relatifs à cet article**
 
@@ -12480,42 +12487,39 @@ certaines parties de la région parisienne.
 
 	  - Loi n°76-394 du 6 mai 1976 - art. 28 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°82-1020 1982-12-03 ART. 5 II, III JORF 4 DECEMBRE 1982
+
 
 ###### Article L520-5
 
-La redevance est calculée sur la surface utile du plancher autorisée par le permis de construire ou figurant dans les
-documents annexés à la déclaration préalable susceptible dans certains cas d'en tenir lieu. Le montant de la redevance est
-arrêté par décision de l'autorité administrative.
+La redevance est calculée sur la surface utile de plancher prévue pour la construction ; son montant est arrêté par décision
+de l'autorité administrative.
 
-Toutefois, en ce qui concerne les extensions de locaux à usage industriel ou de bureaux situés dans des zones autres que
-celles où sont applicables les taux les plus élevés fixés par le décret pris en application de l'article L. 520-3, la
-redevance, à condition que le siège social de l'entreprise considérée s'y trouve situé, n'est due que du jour où le total de
-la surface de plancher construite postérieurement au 4 août 1960 excède mille mètres carrés ou 50 p. 100 des surfaces de
-plancher de l'établissement existant à la date du 4 août 1960.
+La redevance est réduite à la demande du redevable si celui-ci établit que la surface de plancher prévue n'a pas été
+entièrement construite.
 
-La redevance est réduite, à la demande du redevable, si celui-ci établit que la surface de plancher autorisée n'a pas été
-entièrement construite. Elle est supprimée à la demande du redevable si celui-ci établit que la construction n'a pas été
-entreprise et s'il renonce au bénéfice soit du permis de construire, soit de la déclaration de construction visée à l'article
-L. 430-3.
+Elle est supprimée, à la demande du redevable, si celui-ci établit que la construction n'a pas été entreprise et s'il renonce
+au bénéfice du permis de construire ou de la déclaration prévue par l'article R. 422-3.
 
-Les litiges relatives à l'assiette et à la liquidation de la redevance sont de la compétence des tribunaux administratifs.
+Les litiges relatifs à l'assiette et à la liquidation de la redevance sont de la compétence des tribunaux administratifs.
 
 La redevance est recouvrée par l'administration des domaines dans les mêmes conditions que les créances domaniales.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Code de l'urbanisme R422-3
+
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°60-790 1960-08-02 ART. 5
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L430-3 (Ab)
-	  - Code de l'urbanisme - art. L520-3 (M)
+	  - Loi n°82-1020 1982-12-03 art. 6 JORF 4 décembre 1982
 
 
 ###### Article L520-6
@@ -12549,21 +12553,26 @@ en exonération de la redevance une superficie de plancher utile équivalente à
 
 ###### Article L520-7
 
-Sont exclus du champ d'application du présent chapitre :
+Sont exclus du champ d'application du présent titre :
 
 Les bureaux qui font partie d'un local principal d'habitation ;
 
 Les locaux affectés au service public et appartenant à l'Etat, aux collectivités territoriales, aux établissements publics ne
 présentant pas un caractère industriel ou commercial ainsi que ceux qui sont utilisés par des organismes de sécurité sociale
 ou d'allocations familiales et qui appartiennent à ces organismes ou à des sociétés civiles constituées exclusivement entre
-des organismes ;
+ces organismes ;
 
-Les garages autres que ceux qui constituent les annexes d'un établissement industriel ;
+Les garages ;
+
+Dans les établissements industriels, les locaux à usage de bureaux dépendants de locaux de production, et les locaux à usage
+de bureaux d'une superficie inférieure à 1 000 mètres carrés indépendants des locaux de production ;
+
+Les locaux de recherche compris dans les établissements industriels ;
 
 Les bureaux utilisés par les membres des professions libérales et les officiers ministériels ;
 
 Les locaux affectés aux groupements constitués dans les formes prévues par l'article 10 de la loi du 1er juillet 1901
-relative au contrat d'association. [*exonération*].
+relative au contrat d'association.
 
 **Liens relatifs à cet article**
 
@@ -12578,52 +12587,36 @@ relative au contrat d'association. [*exonération*].
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
-	**Cite**:
-
-	  - Loi   1901-07-01 ART. 10
-
 	**Anciens textes**:
 
-	  - Loi n°60-790 1960-08-02 ART. 7-1
+	  - Loi n°60-790 1960-08-02 art. 7-1
 
+	**Modifié par**:
 
-###### Article L520-8
-
-Les bureaux compris dans les établissements industriels sont soumis au même régime que ceux-ci [*champ d'application*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°60-790 1960-08-02 ART. 7-II
-
-	**Abrogé par**:
-
-	  - Loi n°82-1020 1982-12-03 ART. 12 JORF 4 DECEMBRE 1982
-
-	**Cité par**:
-
-	  - Loi n°2015-1786 du 29 décembre 2015 - art. 50 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+	  - Loi n°82-1020 1982-12-03 art. 7, art. 11 JORF 4 décembre 1982
 
 
 ###### Article L520-9
 
-Est assimilé, pour l'application du présent chapitre, à la construction de locaux à usage de bureaux ou à usage industriel le
-fait de transformer en de tels locaux des locaux précédemment affectés à un autre usage [*champ d'application*].
+Est assimilé, pour l'application du présent titre, à la construction de locaux à usage de bureaux ou de locaux de recherches
+le fait de transformer en de tels locaux des locaux précédemment affectés à un autre usage [*champ d'application*].
 
 Les transformations de locaux visées au présent article devront à défaut d'une demande de permis de construire, faire l'objet
-d'une déclaration dont les modalités seront déterminées par le règlement d'administration publique prévu à l'article L.
-520-11.
+d'une déclaration dont les modalités seront déterminées par le décret en conseil d'Etat prévu à l'article L. 520-11.
+
+Lorsque l'agrément prévu par l'article L. 510-1 autorise la transformation de locaux soumis à redevance en locaux d'une
+catégorie soumise à une redevance d'un taux plus élevé que précédemment, la redevance due est arrêtée sous déduction du
+montant de la redevance versée au titre de l'usage antérieur.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°60-790 1960-08-02 ART. 9
+
+	**Modifié par**:
+
+	  - Loi n°82-1020 1982-12-03 Art. 8, Art. 9 JORF 4 DECEMBRE 1982
 
 	**Cité par**:
 
@@ -12640,6 +12633,7 @@ d'une déclaration dont les modalités seront déterminées par le règlement d'
 
 	**Cite**:
 
+	  - Code de l'urbanisme - art. L510-1 (M)
 	  - Code de l'urbanisme - art. L520-11 (M)
 
 	**Codifié par**:
@@ -12674,16 +12668,20 @@ lequel est édifiée ladite construction.
 
 ###### Article L520-11
 
-Un règlement d'administration publique déterminera les conditions d'application du présent chapitre et notamment les
-majorations de la redevance applicables, d'une part, en cas de retard, dans le paiement dans la limite de 1 p. 100 par mois,
-à compter de l'échéance fixée dans le titre de perception, d'autre part, en cas d'infraction aux dispositions du présent
-chapitre ou des textes pris pour son application, dans la limite du montant de la redevance éludée.
+Un décret en Conseil d'Etat déterminera les conditions d'application du présent titre et notamment les majorations de la
+redevance applicables, d'une part, en cas de retard, dans le paiement dans la limite de 1 % par mois, à compter de l'échéance
+fixée dans l'avis de mise en recouvrement, d'autre part, en cas d'infraction aux dispositions du présent chapitre ou des
+textes pris pour son application, dans la limite du montant de la redevance éludée.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°60-790 1960-08-02 ART. 12
+	  - Loi n°60-790 1960-08-02 art. 12
+
+	**Modifié par**:
+
+	  - Loi n°82-1020 1982-12-03 art. 10, art. 11 JORF 4 décembre 1982
 
 	**Cité par**:
 
@@ -12697,64 +12695,6 @@ chapitre ou des textes pris pour son application, dans la limite du montant de l
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-
-###### Article L520-12
-
-Les dispositions de la loi n. 60-790 du 2 août 1960, dans leur rédaction antérieure à la loi n. 71-537 du 7 juillet 1971,
-demeurent applicables aux primes à la suppression des locaux à usage de bureaux ou de locaux à usage industriel et de leurs
-annexes demandées avant le 8 juillet 1971. Les primes afférentes à ces demandes seront liquidées et payées conformément
-auxdites dispositions.
-
-Toutefois le paiement des primes différées portant sur des surfaces de plancher inférieures à 500 mètres carrés ou 25 p. 100
-de la surface utile de l'établissement ne sera dû que si les suppressions ou transformations de locaux permettent d'atteindre
-l'un ou l'autre de ces seuils avant le 31 décembre 1974.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Cite**:
-
-	  - Loi n°60-790 1960-08-02
-	  - Loi n°71-537 1971-07-07
-
-	**Anciens textes**:
-
-	  - Loi n°71-537 1971-07-07 ART. 8
-
-	**Abrogé par**:
-
-	  - Loi n°82-1020 1982-12-03 ART. 12 JORF 4 DECEMBRE 1982
-
-
-###### Article L520-13
-
-Les majorations de redevances pouvant résulter de l'application de l'article L. 520-3 ne sont dues ni pour les constructions
-industrielles ou à usage de bureaux ayant fait l'objet, antérieurement au 7 juillet 1971, d'un permis de construire ou de la
-déclaration préalable susceptible d'en tenir lieu ou d'une décision d'agrément, à condition que ce dernier ait été demandé
-avant le 1er janvier 1971, ni pour les constructions ayant fait l'objet d'une demande de permis de construire ou d'une
-demande d'accord préalable déposée avant le 1er janvier 1971.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 11 NOVEMBRE 1973
-
-	**Anciens textes**:
-
-	  - Loi n°71-537 1971-07-07 ART. 9
-
-	**Abrogé par**:
-
-	  - Loi n°82-1020 1982-12-03 ART. 12 JORF 4 DECEMBRE 1982
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L520-3 (M)
 
 
 ### Titre III : Implantation hors de la région parisienne de certaines activités
