@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1994-02-10
+Version Consolidée au 1994-03-01
 
 # Partie législative
 
@@ -6748,25 +6748,33 @@ constituant une infraction aux dispositions du présent article.
 
 Toute personne qui effectue, à la demande et pour le compte d'une collectivité publique, les études nécessaires à la
 préparation de documents d'urbanisme est tenue au secret professionnel. Les infractions sont passibles des sanctions prévues
-à l'article 378 du code pénal.
+à l'article 226-13 du code pénal.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 	**Anciens textes**:
 
 	  - Ordonnance 58-1449 1958-12-31 ART. 5
 
-	**Cite**:
-
-	  - Code pénal 378
-
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R160-1 (V)
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Cite**:
+
+	  - Code pénal - art. 226-13
 
 
 ###### Article L160-3
@@ -10948,9 +10956,9 @@ l'ordonnance au 1er octobre 2007.
 
 ###### Article L316-2
 
-Sera punie d'une amende de 2000 à 120000 F et, en cas de récidive, d'une amende de 3000 à 300000 F toute personne qui aura
-vendu ou loué des terrains bâtis ou non bâtis compris dans un lotissement sans être munie d'une autorisation délivrée par
-autorité compétente ou sans s'être conformée aux prescriptions imposées par ladite autorisation [*infraction*].
+Sera punie d'une amende de 120000 F et, en cas de récidive, d'une amende de 300000 F toute personne qui aura vendu ou loué
+des terrains bâtis ou non bâtis compris dans un lotissement sans être munie d'une autorisation délivrée par l'autorité
+compétente ou sans s'être conformée aux prescriptions imposées par ladite autorisation *infraction*.
 
 **Liens relatifs à cet article**
 
@@ -10958,13 +10966,13 @@ autorité compétente ou sans s'être conformée aux prescriptions imposées par
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
-	**Modifié par**:
-
-	  - Loi n°83-8 du 7 janvier 1983 - art. 75 () JORF 9 JANVIER 1983
-
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Cité par**:
 
@@ -10973,28 +10981,27 @@ autorité compétente ou sans s'être conformée aux prescriptions imposées par
 
 ###### Article L316-3
 
-" Aucune promesse de vente ou de location ne peut être consentie avant l'arrêté d'autorisation prévu par la réglementation en
+Aucune promesse de vente ou de location ne peut être consentie avant l'arrêté d'autorisation prévu par la réglementation en
 matière de lotissement.
 
-" Toute publicité, sous quelque forme que ce soit, doit mentionner de manière explicite que l'arrêté d'autorisation a été ou
+Toute publicité, sous quelque forme que ce soit, doit mentionner de manière explicite que l'arrêté d'autorisation a été ou
 non délivré.
 
-" Lorsque l'autorisation a été obtenue, la publicité, quelle qu'en soit la forme, doit faire connaître la date de l'arrêté
+Lorsque l'autorisation a été obtenue, la publicité, quelle qu'en soit la forme, doit faire connaître la date de l'arrêté
 d'autorisation et rappeler que le projet autorisé est déposé à la mairie. La publicité ne doit comporter aucune indication
 non conforme aux prescriptions dudit arrêté ou susceptible de causer une méprise dans l'esprit de l'acquéreur sur les charges
-et conditions auxquelles le lotisseur entend subordonner la vente ou la location des lots. "
+et conditions auxquelles le lotisseur entend subordonner la vente ou la location des lots.
 
-L' arrêté d'autorisation et le cahier des charges fixanr les conditions de vente ou de location des lots sont remis à
+L'arrêté d'autorisation et le cahier des charges fixanr les conditions de vente ou de location des lots sont remis à
 l'acquéreur lors de la signature de la promesse de vente ou de l'acte de vente ainsi qu'au preneur lors de la signature des
-engagements de locations ils doivent leur avoir été communiqués préalablement.
+engagements de location ils doivent leur avoir été communiqués préalablement.
 
-Les actes mentionnent que ces formalités ont été effectuées .
+Les actes mentionnent que ces formalités ont été effectuées.
 
-Toute infraction aux dispositions du présent article est passible d'une amende de 2.000 à 100.000 F. En cas de récidive,
-l'amende est de 3.000 à 300.000 F.
+Toute infraction aux dispositions du présent article est passible d'une amende de 120000 F. En cas de récidive, l'amende est
+de 300000 F.
 
-Aucun acompte ne peut être accepté avant l'intervention de l'arrêté d'autorisation, sous peine d'une amende de 2.000 à
-200.000 F.
+Aucun acompte ne peut être accepté avant l'intervention de l'arrêté d'autorisation, sous peine d'une amende de 200000 F.
 
 **Liens relatifs à cet article**
 
@@ -11004,7 +11011,7 @@ Aucun acompte ne peut être accepté avant l'intervention de l'arrêté d'autori
 
 	**Anciens textes**:
 
-	  - Ordonnance 58-1448 1958-12-31 ART. 3
+	  - Ordonnance 58-1448 1958-12-31 art. 3
 
 	**Liens**:
 
@@ -11012,7 +11019,7 @@ Aucun acompte ne peut être accepté avant l'intervention de l'arrêté d'autori
 
 	**Modifié par**:
 
-	  - Loi n°94-112 du 9 février 1994 - art. 17 () JORF 10 février 1994
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Cité par**:
 
@@ -17276,27 +17283,34 @@ l'ordonnance au 1er octobre 2007.
 
 ###### Article L430-4-2
 
-Les infractions aux dispositions de l'article précédant sont constatées selon les modalités de l'article L. 480-1 du présent
+Les infractions aux dispositions de l'article précédent sont constatées selon les modalités de l'article L. 480-1 du présent
 code.
 
-Les méconnaissances des obligations imposées par l'article  L. 430-4-1 sont sanctionnées d'une amende de 2000 F à 15000 F.
+Les méconnaissances des obligations imposées par l'article L. 430-4-1 sont sanctionnées d'une amende de 25000 F. La
+réinstallation de la plaque commémorative est prononcée par le tribunal et assortie d'une astreinte dont le montant ne peut
+être inférieur à 500 F.
 
-La réinstallation de la plaque commémorative est prononcée par le tribunal et assortie d'une astreinte dont le montant ne
-peut être inférieur à 500 F.
-
-En outre, en cas de perte ou de destruction de la plaque commémorative au cours des travaux, le tribunal ordonne , à la
-charge du mâitre d'ouvrage, la gravure et l'installation d'une nouvelle plaque apposée dans les conditions du deuxième alinéa
-de l'article L. 430-4-1.
+En outre, en cas de perte ou de destruction de la plaque commémorative au cours des travaux, le tribunal ordonne, à la charge
+du maître d'ouvrage, la gravure et l'installation d'une nouvelle plaque apposée dans les conditions du deuxième alinéa de
+l'article L. 430-4-1.
 
 Toute association telle que définie à l'article 2-4 du code de procédure pénale peut exercer les droits reconnus à la partie
 civile en ce qui concerne les faits constituant une infraction à l'article L. 430-4-1 du présent code et portant un préjudice
-direct ou indirect aux intérêts collectifs qu' elle a pour objet de défendre
+direct ou indirect aux intérêts collectifs qu'elle a pour objet de défendre.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 27 () JORF 19 juillet 1985
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Cite**:
 
@@ -17310,10 +17324,6 @@ direct ou indirect aux intérêts collectifs qu' elle a pour objet de défendre
 	  - Code de l'urbanisme - art. L422-3 (M)
 	  - Code de l'urbanisme - art. L422-5 (M)
 	  - Code de l'urbanisme - art. L480-4-1 (T)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 ###### Article L430-5
@@ -18473,11 +18483,15 @@ l'ordonnance au 1er octobre 2007.
 
 ###### Article L480-3
 
-En cas de continuation des travaux nonobstant la décision judiciaire ou l'arrêté en ordonnant l'interruption [*infraction*],
-une amende de 2.000 à 500.000 F [*montant*] et un emprisonnement de quinze jours à trois mois [*durée*] , ou l'une de ces
-deux peines seulement, sont prononcés par le tribunal contre les personnes visées à l'article L. 480-4 (2. alinéa).
+En cas de continuation des travaux nonobstant la décision judiciaire ou l'arrêté en ordonnant l'interruption[*infraction*],
+une amende de 500000 F et un emprisonnement de trois mois, ou l'une de ces deux peines seulement, sont prononcés par le
+tribunal contre les personnes visées à l'article L. 480-4 (2. alinéa).
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 	**Cité par**:
 
@@ -18497,28 +18511,28 @@ deux peines seulement, sont prononcés par le tribunal contre les personnes vis�
 	  - Code rural - art. L242-23 (Ab)
 	  - Loi n°1930-05-02 du 2 mai 1930 - art. 21 (Ab)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
 	**Anciens textes**:
 
 	  - Code de l'urbanisme 102-1
 
-	**Cite**:
-
-	  - Code de l'urbanisme L480-4 AL. 2
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
 
 ###### Article L480-4
 
-L'exécution de travaux ou l'utilisation du sol en méconnaissance des obligations imposées par les titres Ier, II, III, IV et
-VI du présent livre, par les règlements pris pour son application ou par les autorisations délivrées en conformité avec leurs
+L'exécution de travaux ou l'utilisation du sol en méconnaissance des obligations imposées par les titres Ier, II, IV et VI du
+présent livre, par les règlements pris pour son application ou par les autorisations délivrées en conformité avec leurs
 dispositions, exception faite des infractions relatives à l'affichage des autorisations ou déclarations concernant des
-travaux, constructions ou installations, est punie d'une amende comprise entre 8000 F et un montant qui ne peut excéder,
-soit, dans le cas de construction d'une surface de plancher, une somme égale à 40.000 F par mètre carré de surface
+travaux, constructions ou installations, est punie d'une amende comprise entre 8 000 F et un montant qui ne peut excéder,
+soit, dans le cas de construction d'une surface de plancher, une somme égale à 40 000 F par mètre carré de surface
 construite, démolie ou rendue inutilisable au sens de l'article L.430-2, soit, dans les autres cas, un montant de 2 000 000
-F. En cas de récidive, outre la peine d'amende ainsi définie un emprisonnement de un à six mois pourra être prononcé.
+F. En cas de récidive, outre la peine d'amende ainsi définie un emprisonnement de six mois pourra être prononcé.
 
 Les peines prévues à l'alinéa précédent peuvent être prononcées contre les utilisateurs du sol, les bénéficiaires des
 travaux, les architectes, les entrepreneurs ou autres personnes responsables de l'exécution desdits travaux.
@@ -18573,7 +18587,7 @@ délais impartis pour le rétablissement des lieux dans leur état antérieur ou
 
 	**Modifié par**:
 
-	  - Loi n°93-121 du 27 janvier 1993 - art. 86 () JORF 30 janvier 1993
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Cite**:
 
@@ -18818,12 +18832,11 @@ l'ordonnance au 1er octobre 2007.
 
 ###### Article L480-12
 
-Sans préjudice de l'application, le cas échéant, des peines plus fortes que prévues aux articles 209 à 233 du code pénal,
-quiconque aura mis obstacle à l'exercice du droit de visite prévu à l'article L. 460-1 sera puni d'une amende de 2000 à 15000
-F  (1).
+Sans préjudice de l'application, le cas échéant, des peines plus fortes prévues aux articles 433-7 et 433-8 du code pénal,
+quiconque aura mis obstacle à l'exercice du droit de visite [*infraction*] prévu à l'article L. 460-1 sera puni d'une amende
+de 25 000 F.
 
-En outre un emprisonnement de onze jours à un mois pourra être prononcé. (1) Taux résultant de la loi 85-835 du 7 aout 1985
-art. 8.
+En outre un emprisonnement d'un mois [*durée*] pourra être prononcé.
 
 **Liens relatifs à cet article**
 
@@ -18844,19 +18857,19 @@ art. 8.
 	  - Code du patrimoine. - art. L642-4 (V)
 	  - Loi n°1941-05-26. du 26 mai 1941 - art. 7 (Ab)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+	  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L152-4 (M)
+
 	**Modifié par**:
 
-	  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 aout 1985 en vigueur le 1er octobre 1985
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Cite**:
 
 	  - Code pénal 209 à 233
 	  - Code de l'urbanisme - art. L460-1 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R440-24 (Ab)
-	  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L152-4 (M)
 
 	**Anciens textes**:
 
@@ -25015,17 +25028,22 @@ sections I et II du présent titre.
 
 ###### Article R*130-22
 
-Sans préjudice des sanctions édictées par le présent code, le code forestier, toute infraction aux dispositions de l'article
-R. 130-13 ci-dessus sera punie des peines prévues pour les contraventions de la cinquième classe.
+Sans préjudice des sanctions édictées par le présent code et le code forestier, toute infraction aux dispositions de
+l'article R. 130-13 ci-dessus sera punie des peines prévues pour les contraventions de la cinquième classe.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°84-229 du 29 mars 1984 - art. 5 () JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
+	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 4 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 	**Cite**:
 
+	  - Code pénal - art. 131-13 (M)
 	  - Code de l'urbanisme - art. R130-13 (M)
 
 	**Anciens textes**:
@@ -28574,28 +28592,36 @@ raison de la suspension de la servitude ou de la modification de son tracé ou d
 	  - Décret n°73-1023 1973-11-08
 
 
-###### Article R160-33
+###### Article R*160-33
 
-Sera punie de l'amende prévue pour les contraventions de la 5e classe toute personne qui aura enfreint les dispositions de
-l'article R. 160-25 ou fait obstacle à leur application.
+Sera punie de l'amende prévue pour les contraventions de la cinquème classe toute personne qui aura enfreint les dispositions
+de l'article R. 160-25 ou fait obstacle à leur application. 
 
-" Sera punie d'une amende prévue pour les contraventions de la 4e classe toute personne qui aura enfreint les dispositions de
-l'article R. 160-26. "
+Sera punie d'une amende pour les contraventions de la quatrième classe toute personne qui aura enfreint les dispositions de
+l'article R. 160-26.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*160-25 (VT)
+	  - Code de l'urbanisme - art. R*160-26 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R121-32 (V)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°90-481 du 12 juin 1990 - art. 1 () JORF 14 juin 1990
-	  - Décret n°90-481 du 12 juin 1990 - art. 4 () JORF 14 juin 1990
-
-	**Cite**:
-
-	  - Code de l'urbanisme R160-25, R160-26
 
 
 ## Liste des servitudes d'utilité publique affectant l'utilisation du sol
@@ -32796,12 +32822,19 @@ l'ordre de mission. Le propriétaire ou son représentant peut toujours assister
 
 Les propriétaires, locataires ou occupants ou gardiens d'immeubles visés par les articles L. 313-1 à L. 313-14 et
 généralement toutes personnes qui s'opposeront à la visite des lieux par les hommes de l'art dans les conditions prévues à la
-présente section seront punis d'une amende de 3000 F à 6000 F. En cas de récidive l'amende pourra être portée de 6000 F à
-12000 F (1). 
-
-(1) Taux résultant du décret 89-989 du 29 décembre 1989 art. 1
+présente section seront punis de l'amende prévue pour les contravention de la 4e classe. En cas de récidive, l'amende pourra
+être portée à celle prévue pour les contraventions de la 5e classe.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L313-1 (VT)
+	  - Code de l'urbanisme - art. L313-14 (V)
 
 	**Anciens textes**:
 
@@ -32810,15 +32843,6 @@ présente section seront punis d'une amende de 3000 F à 6000 F. En cas de réci
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°85-956 1985-09-11 art. 1, art. 3 JORF 12 septembre 1985 en vigueur le 1er octobre
-	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
-
-	**Cite**:
-
-	  - CODE DE L'URBANISME L313-1 à L313-14
 
 
 #####  Section 4 : Prestation de serment des hommes de l'art
@@ -34790,7 +34814,7 @@ NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 Mention de l'autorisation de lotir doit être affichée sur le terrain, de manière visible de l'extérieur, par les soins de son
 bénéficiaire, dès la notification de la décision d'octroi et pendant toute la durée du chantier.
 
-Il en est de même d'une copie de la lettre prévue à l'article R. 315-15, ou, le cas échéant d'une copie de l'avis de
+il en est de même d'une copie de la lettre prévue à l'article R. 315-15, ou, le cas échéant d'une copie de l'avis de
 réception postal de la lettre de mise en demeure prévu à l'article R. 315-17 et d' une copie de l'avis de réception prévu à
 l'article R. 315-21 lorsque l'autorisation sollicitée est réputée accordée.
 
@@ -34799,8 +34823,8 @@ ou une copie de la lettre mentionnée à l'alinéa précédent est publiée par 
 L'exécution de cette formalité fait l'objet d'une mention au registre chronologique des actes de publication et de
 notification des arrêtés du maire prévue à l'article R. 122-11 du code des communes.
 
-L'inobservation de la formalité d'affichage sur le terrain est punie de l'amende prévue pour les contraventions de la
-cinquième classe.
+L'inobservation de la formalité d'affichage sur le terrain est punie de l'amende prévue par le 5° de l'article 131-13 du code
+pénal pour les contraventions de la cinquième classe.
 
 Un exemplaire de l'arrêté d'autorisation et des pièces annexées est mis à la disposition du public à la mairie de la commune.
 
@@ -34809,9 +34833,14 @@ intéressé peut prendre connaissance.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
 	**Cite**:
 
 	  - Code des communes R122-11
+	  - Code pénal - art. 131-13 (M)
 	  - Code de l'urbanisme - art. R315-15 (M)
 	  - Code de l'urbanisme - art. R315-17 (M)
 	  - Code de l'urbanisme - art. R315-21 (M)
@@ -34819,10 +34848,6 @@ intéressé peut prendre connaissance.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°88-471 1988-04-28 art. 2 II JORF 30 avril 1988
 
 
 ###### Article R*315-43
@@ -35522,6 +35547,36 @@ NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 
 
 #### CHAPITRE VI : Sanctions relatives aux lotissements
+
+###### Article R*316-2
+
+Sera puni de l'amende prévue pour les contraventions de la cinquième classe tout propriétaire de terrain ou toute personne en
+ayant la jouissance qui aura enfreint les dispositions de l'article R. 315-54. En cas de récidive, outre l'amende prévue ci-
+dessus, une peine d'emprisonnement de deux mois pourra être prononcée.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code pénal - art. 131-13 (M)
+	  - Code de l'urbanisme R315-54
+
 
 ###### Article R316-1
 
@@ -47278,30 +47333,23 @@ de la lettre visée à l'alinéa précédent est publié par voie d'affichage à
 L'exécution de cette formalité fait l'objet d'une mention au registre chronologique des actes de publication et de
 notification des arrêtés du maire prévu à l'article R. 722-11 du code des communes.
 
-L'inobservation de la formalité d'affichage sur le terrain est punie de l'amende prévue pour les contraventions de la
-cinquième classe.
+L'inobservation de la formalité d'affichage sur le terrain est punie de l'amende prévue par le 5° de l'article 131-13 du code
+pénal pour les contraventions de la cinquième classe.
 
-" Un arrêté du ministre chargé de l'urbanisme règle les formes de l'affichage et fixe la liste des pièces du dossier dont
-tout intéressé peut prendre connaissance. "
+Un arrêté du ministre chargé de l'urbanisme règle les formes de l'affichage et fixe la liste des pièces du dossier dont tout
+intéressé peut prendre connaissance.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°83-1261 1983-12-30 ART. 49, ART. 50 : Modalités d'application
-	  - SPEC_APPLI: Décret n°83-1261 du 30 décembre 1983 - art. 49 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-22 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-32 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-33 (M)
-
 	**Modifié par**:
 
-	  - Décret n°88-471 1988-04-28 art. 2 III JORF 30 avril 1988
+	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
 
 	**Cite**:
 
-	  - CODE DES COMMUNES. - art. R421-14 (Ab)
-	  - Code des communes R122-11, R421-14
+	  - Code des communes R722-11
+	  - Code pénal - art. 131-13 (M)
+	  - Code de l'urbanisme - art. R421-14 (M)
 
 	**Cité par**:
 
@@ -47309,6 +47357,12 @@ tout intéressé peut prendre connaissance. "
 	  - Code de l'urbanisme - art. R313-31 (Ab)
 	  - Code de l'urbanisme - art. R445-3 (Ab)
 	  - Code de l'urbanisme - art. R490-7 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-22 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-32 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-33 (M)
 
 	**Anciens textes**:
 
@@ -48082,41 +48136,42 @@ compétente pour prendre la décision de prescriptions ;
 Dans les huit jours de la réception de la déclaration en mairie, le maire procède à l'affichage de cette déclaration avec
 indication de la date à partir de laquelle les travaux pourront, en l'absence d'opposition, être exécutés.
 
-" Dès la date à partir de laquelle les travaux peuvent être exécutés et pendant une durée de deux mois, mention qu'il n'a pas
+Dès la date à partir de laquelle les travaux peuvent être exécutés et pendant une durée de deux mois, mention qu'il n'a pas
 été formé d'opposition ou, le cas échéant, mention de la notification de prescriptions est portée sur l'exemplaire affiché en
 mairie.
 
-" L'exécution de cette dernière formalité d'affichage fait l'objet d'une mention au registre chronologique des actes de
+L'exécution de cette dernière formalité d'affichage fait l'objet d'une mention au registre chronologique des actes de
 publication et de notification des arrêtés du maire prévu à l'article R. 122-11 du code des communes.
 
-" Dès la date à partir de laquelle les travaux peuvent être exécutés, mention qu'il n'a pas été formé d'opposition ou, le cas
+Dès la date à partir de laquelle les travaux peuvent être exécutés, mention qu'il n'a pas été formé d'opposition ou, le cas
 échéant, mention de la notification de prescriptions doit être affichée sur le terrain, par les soins du déclarant, de
 manière visible de l'extérieur, pendant au moins deux mois et pendant toute la durée du chantier si celle-ci est supérieure à
 deux mois.
 
-" L'inobservation de la formalité d'affichage sur le terrain est punie de l'amende prévue pour les contraventions de la 5e
-classe.
+L'inobservation de la formalité d'affichage sur le terrain est punie de l'amende prévue par le 5° de l'article 131-13 du code
+pénal pour les contraventions de la cinquième classe.
 
-" Un arrêté du ministre chargé de l'urbanisme règle les formes de l'affichage et fixe la liste des pièces du dossier dont
-tout intéressé peut prendre connaissance.
+Un arrêté du ministre chargé de l'urbanisme règle les formes de l'affichage et fixe la liste des pièces du dossier dont tout
+intéressé peut prendre connaissance.
 
-" Si les travaux ayant fait l'objet d'une déclaration ne sont pas entrepris dans le délai de deux ans à compter de la date à
+Si les travaux ayant fait l'objet d'une déclaration ne sont pas entrepris dans le délai de deux ans à compter de la date à
 partir de laquelle ils peuvent être effectués ou si les travaux sont interrompus pendant un délai supérieur à une année, les
-effets de la déclaration sont caducs. "
+effets de la déclaration sont caducs.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
 	**Modifié par**:
 
-	  - Décret n°88-471 1988-04-28 art. 1 JORF 30 avril 1988
+	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
 
 	**Cite**:
 
 	  - Code des communes R122-11
+	  - Code pénal - art. 131-13 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*422-11
@@ -49343,24 +49398,29 @@ demeure prévue à l'article R. 430-8-1 et d'une copie de l'avis de réception o
 En outre, dans les huit jours de la délivrance expresse ou tacite du permis de démolir, un extrait du permis ou une copie de
 la lettre visée à l'alinéa précédent est publié par voie d'affichage à la mairie pendant deux mois. L'exécution de cette
 formalité fait l'objet d'une mention au registre chronologique des actes de publication et de notification des arrêtés du
-maire prévu à l'article R. 122-11 du code des communes.         L'inobservation de la formalité d'affichage sur le terrain
-est punie de l'amende prévue pour les contraventions de la cinquième classe.    " Un arrêté du ministre chargé de l'urbanisme
-règle les formes de l'affichage et fixe la liste des pièces du dossier dont tout intéressé peut prendre connaissance. "
+maire prévu à l'article R. 122-11 du code des communes.
+
+L'inobservation de la formalité d'affichage sur le terrain est punie de l'amende prévue par le 5° de l'article 131-13 du code
+pénal pour les contraventions de la cinquième classe.
+
+Un arrêté du ministre chargé de l'urbanisme règle les formes de l'affichage et fixe la liste des pièces du dossier dont tout
+intéressé peut prendre connaissance.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
 
 	**Cite**:
 
 	  - Code des communes R122-11
+	  - Code pénal - art. 131-13 (M)
 	  - Code de l'urbanisme R430-7-1, R430-8-1
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°88-471 1988-04-28 art. 2 IV JORF 30 avril 1988
 
 
 ###### Article R*430-19
@@ -50729,31 +50789,34 @@ Mention de l'autorisation d'installations et travaux divers doit être affichée
 l'extérieur, par les soins de son bénéficiaire, dès la notification de la décision d'octroi pendant au moins deux mois et
 pendant toute la durée du chantier si celle-ci est supérieure à deux mois.
 
-" Il en est de même, lorsque aucune décision n'a été prise à l'égard de la demande dans le délai imparti, d'une copie de la
+Il en est de même, lorsque aucune décision n'a été prise à l'égard de la demande dans le délai imparti, d'une copie de la
 lettre de notification du délai d'instruction prévue à l'article R. 442-4-4 ou d'une copie de l'avis de réception postal ou
 de la décharge de la lettre de mise en demeure prévue à l'article R. 442-4-6 et d'une copie de l'avis de réception ou de la
 décharge du dépôt de la demande.
 
-" En outre, dans les huit jours de la délivrance expresse ou tacite de l'autorisation d'installations et de travaux divers,
-un extrait de l'autorisation ou une copie de la lettre visée à l'alinéa précédent est publié par voie d'affichage à la mairie
+En outre, dans les huit jours de la délivrance expresse ou tacite de l'autorisation d'installations et de travaux divers, un
+extrait de l'autorisation ou une copie de la lettre visée à l'alinéa précédent est publié par voie d'affichage à la mairie
 pendant deux mois. L'exécution de cette formalité fait l'objet d'une mention au registre chronologique des actes de
 publication et de notification des arrêtés du maire prévu à l'article R. 122-11 du code des communes.
 
-" L'inobservation de la formalité d'affichage sur le terrain est punie de l'amende prévue pour les contraventions de la
-cinquième classe.
+L'inobservation de la formalité d'affichage sur le terrain est punie de l'amende prévue au 5° de l'article 131-13 du code
+pénal pour les contraventions de la cinquième classe.
 
-" Un arrêté du ministre chargé de l'urbanisme règle les formes de l'affichage et fixe la liste des pièces du dossier dont
-tout intéressé peut prendre connaissance. "
+Un arrêté du ministre chargé de l'urbanisme règle les formes de l'affichage et fixe la liste des pièces du dossier dont tout
+intéressé peut prendre connaissance.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
 	**Modifié par**:
 
-	  - Décret n°88-471 1988-04-28 art. 3 JORF 30 avril 1988
+	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Cite**:
+
+	  - Code des communes R122-11
+	  - Code pénal - art. 131-13 (M)
+	  - Code de l'urbanisme - art. R442-4-4 (Ab)
+	  - Code de l'urbanisme - art. R442-4-6 (Ab)
 
 	**Cité par**:
 
@@ -50761,11 +50824,9 @@ tout intéressé peut prendre connaissance. "
 	  - Code de l'urbanisme - art. A442-2 (Ab)
 	  - Code de l'urbanisme - art. R490-7 (Ab)
 
-	**Cite**:
+	**Codifié par**:
 
-	  - Code de l'urbanisme - art. R442-4-4 (Ab)
-	  - Code de l'urbanisme - art. R442-4-6 (Ab)
-	  - Code de l'urbanisme R122-11, R442-4-6, R442-4-4
+	  - Décret n°73-1023 1973-11-08
 
 
 #####  Section 6 : Dispositions particulières
@@ -51923,24 +51984,35 @@ lieu de l'autorisation prévue aux articles R. 443-7 et suivants.
 
 ###### Article R*443-15
 
-les membres de la commission départementale d'action touristique ou les fonctionnaires désignés par le ministre chargé du
+Les membres de la commission départementale d'action touristique ou les fonctionnaires désignés par le ministre chargé du
 tourisme ou par le préfet ou par le maire et porteurs d'un ordre de mission ou d'une commission sont habilités à inspecter
-même inopinément, les terrains aménagés pour le camping et le caravanage en application des articles R. 443-7,
+même inopinément, les terrains aménagés pour le camping et le caravanage en application des articles R. 443-7, R. 443-8-1 et
+R. 443-8-2 ou qui auraient dû l'être, et ceux sur lesquels se trouvent des caravanes dont le stationnement a été autorisé ou
+aurait dû l'être.
 
-R. 443-8-1 et R. 443-8-2 ou qui auraient dû l'être, et ceux sur lesquels se trouvent des caravanes dont le stationnement a
-été autorisé ou aurait dû l'être. 
-
-Sera puni d'une amende de 600 F à 1000 F et pourra l'être, en outre, d'un emprisonnement pendant huit jours au plus,
-quiconque aura entravé l'exercice du droit d'inspection desdits terrains.
+Sera puni de l'amende prévue pour les contraventions de la cinquième classe, quiconque aura entravé l'exercice du droit
+d'inspection desdits terrains.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
 	**Cité par**:
 
+	  - Décret n°68-134 du 9 février 1968 - art. 12 (Ab)
 	  - Arrêté du 11 janvier 1993 - art. 10 (Ab)
 	  - Arrêté du 15 novembre 1985 - art. 10 (Ab)
 	  - Code du tourisme. - art. R331-10 (M)
-	  - Décret n°68-134 du 9 février 1968 - art. 12 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 	**Anciens textes**:
 
@@ -51949,51 +52021,36 @@ quiconque aura entravé l'exercice du droit d'inspection desdits terrains.
 	**Cite**:
 
 	  - Code de l'urbanisme - art. R443-7 (M)
-	  - Code de l'urbanisme R443-8-2
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°84-227 1984-03-29 ART. 1 ART. 15 ART. 20 JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-227 1984-03-29 ART. 27, ART. 28 : Modalités d'application
-	  - SPEC_APPLI: Décret n°84-227 du 29 mars 1984 - art. 27 (V)
+	  - Code de l'urbanisme R443-7, R443-8-1, R443-8-2
 
 
 ###### Article R*443-16
 
 Sans préjudice de l'article 184 du Code pénal, sera puni de l'amende prévue pour les contraventions de la cinquième classe
 celui qui, sans l'autorisation de son propriétaire ou de son utilisateur, ouvrira une tente, une caravane, ou d'une manière
-générale, un abri de camping ou y pénétrera.
+générale, un abri de camping ou y pénétrera[*sanctions*].
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°84-227 1984-03-29 ART. 1 ART. 15 ART. 21 JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
+	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Décret n°84-227 1984-03-29 ART. 27, ART. 28 : Modalités d'application
-	  - SPEC_APPLI: Décret n°84-227 du 29 mars 1984 - art. 27 (V)
+	  - Décret n°2006-1229 du 6 octobre 2006 - art. 5 () JORF 7 octobre 2006
 
 	**Cite**:
 
 	  - Code pénal 184
 
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R440-23 (T)
-
 	**Nouveaux textes**:
 
 	  - Code du tourisme. - art. R331-11 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. R440-23 (T)
 
 	**Codifié par**:
 
@@ -53461,11 +53518,23 @@ effectués par le propriétaire ou l'exploitant.
 
 ###### Article R480-1
 
-Sans préjudice de l'application de l'article L. 160-1 ou de l'article L. 480-4, sera puni d'une amende de 1000 F à 2000 F,
-toute personne qui aura enfreint les dispositions des articles R. 442-1 à R. 442-7 et R. 442-10 ou qui n'aura pas respecté
-les conditions auxquelles les autorisations délivrées auront été subordonnées.
+Sans préjudice de l'application de l'article L. 160-1 ou de l'article L. 480-4, sera puni de l'amende prévue pour les
+contraventions de la cinquième classe, toute personne qui aura enfreint les dispositions des articles R. 442-1 à R. 442-7 et
+R. 442-10 ou qui n'aura pas respecté les conditions auxquelles les autorisations délivrées auront été subordonnées.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 	**Cité par**:
 
@@ -53476,10 +53545,9 @@ les conditions auxquelles les autorisations délivrées auront été subordonné
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L160-1 (M)
 	  - Code de l'urbanisme - art. L480-4 (M)
 	  - Code de l'urbanisme - art. R442-10 (Ab)
-	  - Code de l'urbanisme R442-1 à R442-7
+	  - Code de l'urbanisme L480-4, R442-1 à R442-7, R442-10
 
 	**Codifié par**:
 
@@ -53488,9 +53556,13 @@ les conditions auxquelles les autorisations délivrées auront été subordonné
 
 ###### Article R480-2
 
-Toute infraction aux dispositions de l'article R. 421-49 concernant les immeubles de grande hauteur  sera punie d'une amende
-de 3000 à 6000 F. En cas de récidive, la peine d'amende pourra être portée de 6000 F à 12000 F [*montant (1)*]. [*(1) Taux
-résultant du décret 89-989 du 29 décembre 1989 art. 1*]
+Toute infraction aux dispositions de l'article R. 421-49 concernant les immeubles de grande hauteur sera punie de l'amende
+prévue pour les contraventions de la 5° classe. En cas de récidive, la peine d'amende pourra être portée à celle prévue pour
+les contraventions de la 5° classe en récidive.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 
 **Liens relatifs à cet article**
 
@@ -53504,9 +53576,11 @@ résultant du décret 89-989 du 29 décembre 1989 art. 1*]
 
 	**Modifié par**:
 
-	  - Décret n°83-1261 1983-12-30 ART. 46, art. 19 JORF 7 JANVIER 1984 en vigueur le 1er AVRIL 1984
-	  - Décret n°85-956 1985-09-11 art. 1, art. 2, art. 3 JORF 12 septembre 1985 en vigueur le 1er octobre 1985
-	  - Décret n°89-989 du 29 décembre 1989 - art. 1 (V) JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 	**Cité par**:
 
