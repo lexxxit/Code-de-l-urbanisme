@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1983-07-29
+Version Consolidée au 1983-09-11
 
 # Partie législative
 
@@ -16115,6 +16115,46 @@ Il est accompagné d'un rapport de présentation ainsi que des annexes visées �
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R*123-23
+
+A l'intérieur des zones d'aménagement concerté créées en application de l'article L. 311-1, le plan d'aménagement de la zone
+fixe en conformité avec les orientations du schéma directeur, s'il en existe un, les règles générales et les servitudes
+d'utilisation du sol, sauf lorsque l'acte créant la zone a décidé de maintenir en vigueur les prescriptions du plan
+d'occupation des sols.
+
+Les dispositions du plan d'aménagement de la zone ainsi que les règles particulières édictées par les cahiers des charges des
+cessions de terrains approuvés par le préfet sont incorporées au plan d'occupation des sols, suivant les modalités fixées par
+l'article L. 123-6 (alinéa 2).
+
+Les dispositions destinées à assurer l'unité d'urbanisme et d'architecture dans une zone à urbaniser en priorité sont
+incorporées au plan d'occupation des sols par la décision qui supprime la zone ou en constate l'achèvement.
+
+Les dispositions destinées à assurer l'unité d'urbanisme et d'architecture dans les zones d'habitation et dans les zones
+industrielles créées avant l'institution des zones d'aménagement concerté sont incorporées au plan d'occupation des sols
+suivant les modalités fixées à l'article L. 123-12.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-1016 1970-10-28 ART. 21
+
+	**Modifié par**:
+
+	  - Décret n°83-812 1983-09-09 ART. 11 JORF 11 SEPTEMBRE 1983
+	  - Décret n°83-8 1983-01-07 art. 75 I JORF 9 janvier 1983
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L123-12 (M)
+	  - Code de l'urbanisme - art. L311-1 (M)
+	  - Code de l'urbanisme L123-6 AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 #####  Section 4 : Effets du plan d'occupation des sols
 
 #####  Paragraphe 1 : Mesures de sauvegarde.
@@ -19209,36 +19249,6 @@ application des articles L. 123-1 et L. 332-1. Le dépassement peut être impos�
 	  - Décret n°73-1023 1973-11-08
 
 
-###### Article R*123-23
-
-Les dispositions du plan d'occupation des sols cessent d'être applicables à l'intérieur des périmètres des zones
-d'aménagement concerté visées aux articles L. 123-6, L. 123-7 et L. 311-1 et dans les conditions fixées par les articles R.
-311-1 à R. 311-8.
-
-Les règles générales et les servitudes d'utilisation des sols sont fixées par le plan d'aménagement de la zone prévu à
-l'article R. 311-10.
-
-Les dispositions du plan d'aménagement de la zone sont ultérieurement incorporées au plan d'occupation des sols par une
-décision du préfet.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1016 1970-10-28 ART. 21
-
-	**Cite**:
-
-	  - CODE DE L'URBANISME L123-6, L123-7, L311-1, R311-1 à R311-8, R311-10
-	  - Code de l'urbanisme - art. L123-6 (M)
-	  - Code de l'urbanisme - art. L123-7 (M)
-	  - Code de l'urbanisme - art. L311-1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ###### Article R*123-24
 
 Les annexes comprennent :
@@ -20072,14 +20082,14 @@ appartenant à l'Etat, à des collectivités locales ou à des particuliers.
 
 ### Dispositions spéciales à certaines parties du territoire
 
-#### Dispositions particulières à Paris et à la Région Parisienne
+#### Dispositions applicables à Paris, dans la région parisienne, à Marseille, à Lyon et aux communes issues d'une fusion comportant une ou plusieurs communes associées
 
-##### Schéma directeur.
+##### Schéma directeur
 
 ###### Article R*141-1
 
 Dans la région parisienne, telle qu'elle est définie par l'article 1er de la loi n° 64-707 du 10 juillet 1964, il est établi
-un schéma directeur portant sur l'ensemble de la région parisienne, des schémas directeurs et des schémas de secteur.
+un schéma directeur portant sur l'ensemble de la région parisienne des schémas directeurs et des schémas de secteur.
 
 **Liens relatifs à cet article**
 
@@ -20097,16 +20107,12 @@ un schéma directeur portant sur l'ensemble de la région parisienne, des schém
 
 	**Modifié par**:
 
-	  - Loi n°83-8 du 7 janvier 1983 - art. 75 () JORF 9 JANVIER 1983
+	  - Décret n°83-812 1983-09-09 ART. 11 JORF 11 SEPTEMBRE 1983
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R300-17 (V)
 
-
-#### Dispositions applicables à Paris, dans la région parisienne, à Marseille, à Lyon et aux communes issues d'une fusion comportant une ou plusieurs communes associées
-
-##### Schéma directeur
 
 ###### Article R*141-2
 
@@ -21927,6 +21933,39 @@ Le dossier de la zone d'environnement protégé comprend         - Un rapport de
 	  - Décret n°86-984 1986-08-19 art. 5 JORF 27 août 1986
 
 
+###### Article R*143-15
+
+Le rapport de présentation :
+
+a) expose les perspectives d'évolution de la zone d'environnement protégé et indique les conditions dans lesquelles sont
+prises en compte, par le règlement et les documents graphiques, les préoccupations d'ordre architectural et les
+préoccupations d'environnement ;
+
+b) justifie de la compatibilité de la zone avec le schéma directeur, le plan d'aménagement rural et les zones ou périmètres
+délimités en application des articles 52-1 et 52-2 du code rural ;
+
+c) justifie des dispositions retenues en matière d'occupation et d'utilisation du sol, compte tenu des activités prévues et
+des paysages et milieux naturels à protéger.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 52-1
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°86-984 1986-08-19 art. 5 JORF 27 août 1986
+
+	**Modifié par**:
+
+	  - Loi n°83-812 1983-09-09 art. 11 JORF 11 septembre 1983
+
+
 ###### Article R*143-16
 
 Les documents graphiques font apparaître :
@@ -22160,38 +22199,6 @@ le cas échéant, des contributions volontaires des collectivités locales et de
 	**Abrogé par**:
 
 	  - Décret n°86-984 1986-08-19 art. 5 JORF 27 août 1986
-
-
-##### Contenu de la zone d'environnement protégé.
-
-###### Article R*143-15
-
-Le rapport de présentation :
-
-a) Expose les perspectives d'évolution de la zone d'environnement protégé et indique les conditions dans lesquelles sont
-prises en compte, par le règlement et les documents graphiques, les préoccupations d'ordre architectural et les
-préoccupations d'environnement ;
-
-b) Justifie de la compatibilité de la zone avec le schéma directeur, le plan d'aménagement  rural et les zones ou périmètres
-délimités en application des articles 52-1 et 52-2 du code rural ;
-
-c) Justifie des dispositions retenues en matière d'occupation et d'utilisation du sol, compte-tenu des activités prévues et
-des paysages et milieux naturels à protéger.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 52-1
-	  - Code rural 52-2
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°83-8 1983-01-07 art. 75I 1 JORF 9 janvier 1983
 
 
 ### Sanctions.
@@ -25434,6 +25441,33 @@ Il est accompagné d'un rapport de présentation ainsi que des annexes énumér�
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*311-10-1
+
+Le rapport de présentation [*contenu*] :
+
+a) Expose comment le programme retenu pour l'opération tient compte des perspectives de développement démographique et
+économique de la commune ou, s'il en existe un, du groupement de communes intéressé ;
+
+b) Justifie de la compatibilité des dispositions figurant dans le plan d'aménagement de zone avec celles du schéma directeur
+ou du schéma de secteur, s'il en existe un ;
+
+c) Indique les grandes options d'urbanisme retenues à l'occasion de l'élaboration du plan ainsi que les conditions dans
+lesquelles les préoccupations d'environnement sont prises en compte par ce plan ;
+
+d) Présente le programme des équipements publics à réaliser dans la zone.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°83-8 1983-01-07 art. 75 I 1 JORF 9 janvier 1983
+	  - Décret n°83-812 1983-09-09 art. 11 JORF 11 SEPTEMBRE 1983
 
 
 ###### Article R*311-10-2
@@ -43739,6 +43773,54 @@ région parisienne, telle qu'elle est définie par l'article 1er de la loi n. 64
 	  - Décret n°82-584 1982-06-29 ART. 1 JORF 7 JUILLET 1982
 
 
+###### Article R*613-2
+
+Le comité d'aménagement de la région parisienne doit être consulté :
+
+1. Sur le schéma directeur de la région parisienne ;
+
+2. Sur les schémas directeurs,  ou les schémas de secteur, concernant la ville de Paris, les communes, parties ou ensembles
+de communes de la région parisienne, ainsi que sur les plans d'occupation des sols concernant tout ou partie de la ville de
+Paris ou des communes de la région parisienne, lorsque ces collectivités locales ou les établissements publics groupant
+lesdites communes et ayant compétence en matière d'urbanisme ont manifesté leur opposition dans les conditions prévues aux
+articles L. 122-3, L. 123-3 et L. 141-1 ;
+
+3. Sur toutes les questions qui, sous réserve des dispositions du présent chapitre, sont obligatoirement soumises aux
+commissions départementales d'urbanisme en application des lois et règlements en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°69-429 1969-05-10 ART. 3
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L122-3 (M)
+	  - Code de l'urbanisme - art. L123-3 (M)
+	  - Code de l'urbanisme - art. L141-1 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme R613-4
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°82-584 1982-06-29 ART. 1 JORF 7 JUILLET 1982
+
+	**Modifié par**:
+
+	  - Décret n°83-812 1983-09-09 ART. 11 JORF 11 SEPTEMBRE 1983
+
+	**Abrogé par**:
+
+	  - Décret n°86-984 1986-08-19 art. 7 XLIV JORF 27 AOUT 1986
+
+
 ###### Article R*613-3
 
 Sur proposition du préfet de la région et par une délibération expresse prise en assemblée plénière du comité, les
@@ -44335,6 +44417,60 @@ domaine de la protection de la nature et de l'environnement et de l'amélioratio
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L121-8 (V)
+
+
+#### CHAPITRE II : Schémas directeurs.
+
+###### Article A122-1
+
+La liste des villes dont le schéma directeur est approuvé par décret est fixée comme suit :
+
+Paris, Bordeaux, Clermont-Ferrand, Dijon, Lille, Lyon, Saint-Etienne, Grenoble, Marseille, Metz, Nancy, Nantes, Saint-
+Nazaire, Nice, Rennes, Rouen, Strasbourg et Toulouse.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Modifié par**:
+
+	  - Décret n°83-812 1983-09-09 ART. 11 JORF 11 SEPTEMBRE 1983
+	  - Loi n°83-8 1983-01-03 art. 75 I JORF 9 janvier 1983
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. A122-2 (Ab)
+
+
+###### Article A122-2
+
+Les dispositions de l'article A. 122-1 ne peuvent être modifiées que par arrêté conjoint du ministre chargé de l'urbanisme,
+du ministre de l'intérieur et du ministre chargé de l'aménagement du territoire.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Modifié par**:
+
+	  - Loi n°83-8 1983-01-07 art. 75-1 JORF 9 janvier 1983
+	  - Décret n°83-812 1983-09-09 art. 11 JORF 11 septembre 1983
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. A122-1 (Ab)
 
 
 #### Chapitre  III : Plans d'occupation des sols
