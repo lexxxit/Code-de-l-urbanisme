@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1987-04-25
+Version Consolidée au 1987-05-22
 
 # Partie législative
 
@@ -20600,6 +20600,68 @@ suivant les modalités fixées à l'article L. 123-12.
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R*123-24
+
+Les annexes comprennent :
+
+1. La liste des emplacements réservés, mentionnés à l'article R. 123-18 (II 3), leur destination, leur superficie et
+l'indication des collectivités, services et organismes publics bénéficiaires ;
+
+2. La liste des opérations déclarées d'utilité publique à l'occasion de l'approbation du plan d'occupation des sols ;
+
+3. Les éléments ci-après relatifs aux réseaux d'eau et d'assainissement et au système d'élimination des déchets :
+
+a) Les schémas des réseaux d'eau et d'assainissement existants ;
+
+b) Une note technique accompagnée d'un plan décrivant les caractéristiques essentielles de ces réseaux en leur état futur et
+justifiant les emplacements retenus pour :
+
+Le captage, le traitement et le stockage des eaux destinées à la consommation ;
+
+Les stations d'épuration des eaux usées ;
+
+Les usines de traitement des déchets ;
+
+c) Une note technique traitant du système d'élimination des déchets.
+
+4. Les servitudes d'utilité publique soumises aux dispositions de l'article L. 126-1 ainsi que les bois ou forêts soumis au
+régime forestier ;
+
+5. Les directives d'aménagement national applicables en vertu de l'article R. 111-15 ainsi que les prescriptions nationales
+ou particulières prises en application de l'article L. 111-1-1.
+
+6. La liste des lotissements dont les règles d'urbanisme ont été maintenues en application de l'alinéa 2 de l'article L.
+315-2-1.
+
+7. Le plan d'exposition au bruit d'un aérodrome , établi en application des articles L. 147-1 à L. 147-6.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-1016 1970-10-28 ART. 22
+
+	**Modifié par**:
+
+	  - Décret n°87-340 1987-05-21 art. 2 JORF 22 mai 1987
+
+	**Cite**:
+
+	  - CODE DE L'URBANISME R123-18, L126-1, R111-15, L111-1-1, L315-2-1, L147-1 à L147-6
+	  - Code de l'urbanisme - art. L111-1-1 (M)
+	  - Code de l'urbanisme - art. L126-1 (M)
+	  - Code de l'urbanisme - art. L315-2-1 (M)
+	  - Code de l'urbanisme - art. R111-15 (M)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*123-25 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 #####  Section 4 : Effets du plan d'occupation des sols
 
 #####  Paragraphe 1 : Mesures de sauvegarde.
@@ -22436,6 +22498,147 @@ la concurrence et de la consommation.
 	  - Décret n°73-1023 1973-11-08
 
 
+#### Chapitre VII : Dispositions particulières aux zones de bruit des aérodromes
+
+#####  Section 1 : Détermination des valeurs d'indices à prendre en compte pour la délimitation des zones de bruit des aérodromes
+
+###### Article R147-1
+
+La valeur de l'indice psophique représentant le niveau d'exposition totale au bruit des avions en chaque point de
+l'environnement d'un aérodrome est calculée à l'aide de la formule ci-après :
+
+(formule non reproduite, voir JO du 22 mai 1987 page 5594)
+
+avec :
+
+n = nombre de mouvements diurnes (6 H - 22 H) ;
+
+p = nombre de mouvements nocturnes (22 H - 6 H) ;
+
+Ni = niveau de bruit en PNdB du i ème avion, entre 6 H et 22 H ;
+
+Nj = niveau de bruit en PNdB du j ème avion, entre 22 H et 6 H.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 4 avril 2006 - art. 3 (VT)
+	  - Code de l'environnement - art. R571-58 (M)
+	  - Code de l'environnement - art. R572-4 (M)
+	  - Code de l'urbanisme - art. R*712-1 (Ab)
+	  - Décret n°94-236 du 18 mars 1994 - art. 1 (Ab)
+	  - Décret n°2006-361 du 24 mars 2006 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°87-340 1987-05-21 art. 1 JORF 22 mai 1987
+
+
+###### Article R147-2
+
+La zone de bruit fort A est la zone comprise à l'intérieur de la courbe isopsophique 96.
+
+La zone de bruit fort B est la zone comprise entre les courbes isopsophiques 96 et 89.
+
+La zone de bruit modéré C est la zone comprise entre la courbe isopsophique 89 et la courbe isopsophique correspondant à une
+valeur de l'indice psophique [IP] choisie entre 84 et 78.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°87-340 1987-05-21 art. 1 JORF 22 mai 1987
+
+
+###### Article R147-3
+
+Pour l'application du deuxième alinéa de l'article L. 147-4, la modulation de l'indice psophique déterminant la limite
+extérieure de la zone C se fera à l'intérieur d'une plage allant de la valeur 86 à la valeur 75.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°87-340 1987-05-21 art. 1 JORF 22 mai 1987
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L147-4 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R147-4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+#####  Section 2 : Etablissement des plans d'exposition au bruit des aérodromes
+
+###### Article R147-5
+
+Le rapport de présentation prévu au premier alinéa de l'article L. 147-4 ne comporte pas les éléments qui seraient de nature
+à entraîner la divulgation de secrets de la défense nationale, lorsque le plan d'exposition au bruit concerne un aérodrome
+dont le ministère chargé de la défense est affectataire à titre exclusif, principal ou secondaire.
+
+Le plan d'exposition au bruit est établi à l'échelle du 1/25 000 et fait apparaître le tracé des limites des zones de bruit
+dites A, B et C. Il rappelle les valeurs d'indices retenues pour définir les zones A et B et précise la valeur d'indice
+servant à définir la limite extérieure de la zone C..
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°87-340 1987-05-21 art. 1 JORF 22 mai 1987
+
+	**Cité par**:
+
+	  - Arrêté du 13 juin 2008 - art. Annexe II (V)
+	  - Arrêté du 28 décembre 2012 - art. Annexe II (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R147-11
+
+En cas de révision du plan d'exposition au bruit, ce plan demeure en vigueur jusqu'à la date à laquelle l'approbation de la
+révision a fait l'objet des mesures de publicité mentionnées à l'article R. 147-10.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°87-340 1987-05-21 art. 1 JORF 22 mai 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R112-7 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R147-10 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ### Titre V : Départements d'outre-mer.
 
 ###### Article R150-1
@@ -23343,66 +23546,6 @@ application des articles L. 123-1 et L. 332-1. Le dépassement peut être impos�
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°83-851 du 23 septembre 1983 - art. 1 (V)
-
-
-###### Article R*123-24
-
-Les annexes comprennent :
-
-1. La liste des emplacements réservés, mentionnés à l'article R. 123-18 (II 3), leur destination, leur superficie et
-l'indication des collectivités, services et organismes publics bénéficiaires ;
-
-2. La liste des opérations déclarées d'utilité publique à l'occasion de l'approbation du plan d'occupation des sols ;
-
-3. Les éléments ci-après relatifs aux réseaux d'eau et d'assainissement et au système d'élimination des déchets :
-
-a) Les schémas des réseaux d'eau et d'assainissement existants ;
-
-b) Une note technique accompagnée d'un plan décrivant les caractéristiques essentielles de ces réseaux en leur état futur et
-justifiant les emplacements retenus pour :
-
-Le captage, le traitement et le stockage des eaux destinées à la consommation ;
-
-Les stations d'épuration des eaux usées ;
-
-Les usines de traitement des déchets ;
-
-c) Une note technique traitant du système d'élimination des déchets.
-
-4. Les servitudes d'utilité publique soumises aux dispositions de l'article L. 126-1 ainsi que les bois ou forêts soumis au
-régime forestier ;
-
-5. Les directives d'aménagement national applicables en vertu de l'article R. 111-15 ainsi que les prescriptions nationales
-ou particulières prises en application de l'article L. 111-1-1.
-
-6. La liste des lotissements dont les règles d'urbanisme ont été maintenues en application de l'alinéa 2 de l'article L.
-315-2-1.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1016 1970-10-28 ART. 22
-
-	**Modifié par**:
-
-	  - Décret n°86-514 du 14 mars 1986 - art. 8 () JORF 16 mars 1986
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L111-1-1 (M)
-	  - Code de l'urbanisme - art. L126-1 (M)
-	  - Code de l'urbanisme - art. L315-2-1 (M)
-	  - Code de l'urbanisme - art. R111-15 (M)
-	  - Code de l'urbanisme R123-18 II 3
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*123-25 (V)
 
 
 #### Plan d'occupation des sols
@@ -38295,65 +38438,6 @@ fixe la liste de ces documents.
 	  - Décret n°73-1023 1973-11-08
 
 
-### Dispositions financières
-
-#### Versement résultant du dépassement du plafond légal de densité.
-
-###### Article R*333-4
-
-La valeur du mètre carré du terrain est déclarée à l'occasion de la demande de permis de construire ou de la déclaration
-préalable à la construction par l'auteur de cette demande ou de cette déclaration.
-
-En cas de carence de l'intéressé, il n'y a pas lieu pour l'autorité administrative d'instruire la demande de permis de
-construire ou d'assurer l'affichage de la déclaration préalable.
-
-L'intéressé en est informé par le directeur départemental de l'équipement ou, en cas d'application de l'article R. 421-22,
-par le maire.
-
-Le directeur des services fiscaux est consulté par l'autorité compétente pour l'instruction de la demande de permis de
-construire en vue d'émettre un avis sur la déclaration de la valeur du mètre carré de terrain souscrite par l'auteur de cette
-demande. Cet avis doit être émis par le directeur des services fiscaux dans le délai d'un mois suivant la réception de la
-demande d'avis.
-
-Il constitue l'estimation administrative.
-
-L'existence d'un désaccord entre le maire et l'administration sur l'estimation de la valeur du terrain ne donne pas
-compétence au préfet pour statuer sur la demande de permis de construire.
-
-Si l'administration retient une valeur différente de celle déclarée par l'intéressé, celui-ci en est informé, par lettre
-recommandée avec demande d'avis de réception [*condition de forme*], soit par le directeur départemental de l'équipement,
-soit par le maire en cas d'application de l'article R. 421-22, au plus tard avant la délivrance du permis de construire.
-
-En cas de désaccord entre l'administration et le pétitionnaire ou le déclarant sur la valeur du terrain, la juridiction
-compétente en matière d'expropriation est saisie, à l'initiative de la partie la plus diligente, par lettre recommandée
-adressée au secrétariat de cette juridiction. Celle-ci statue selon la procédure instituée par le chapitre III de
-l'ordonnance n. 58-997 du 23 octobre 1958.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance 58-997 1958-10-23 CHAPITRE III
-	  - Code de l'urbanisme - art. R421-22 (M)
-	  - Code de l'urbanisme R332-5
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*332-3 (Ab)
-	  - Code de l'urbanisme - art. R*333-21 (V)
-	  - Code de l'urbanisme - art. R*333-7 (M)
-	  - Code de l'urbanisme - art. R332-28 (Ab)
-	  - Code de l'urbanisme - art. R421-4 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. R335-4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ## Livre IV : Régime applicable aux constructions, aménagements et démolitions
 
 ### Titre IV : Dispositions propres aux aménagements
@@ -44886,8 +44970,8 @@ sens contraire ;
 
 8° Dans les cas prévus au 1° de l'article R. 490-3 et à l'article R. 490-4 ;
 
-9° Pour les constructions susceptibles d'être exposées au bruit autour des aérodromes et comprises dans les secteurs définis
-par arrêté du commissaire de la République ;
+9° Pour les constructions comprises dans les zones délimitées par le plan d'exposition au bruit d'un aérodrome approuvé par
+arrêté  du commissaire de la République ;
 
 10° Pour les constructions pour lesquelles un changement de destination doit être autorisé en application de l'article L.
 631-7 du code de la construction et de l'habitation ;
@@ -44907,10 +44991,6 @@ l'autorisation du ministre chargé des armées en vertu de l'article 5 de la loi
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°83-1261 1983-12-30 ART. 17, ART. 20 JORF 7 JANVIER 1984 date d'entrée en vigueur 1 AVRIL 1984
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°83-1261 1983-12-30 ART. 49, ART. 50 : Modalités d'application
@@ -44922,6 +45002,10 @@ l'autorisation du ministre chargé des armées en vertu de l'article 5 de la loi
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-25 (M)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-31 (M)
 
+	**Modifié par**:
+
+	  - Décret n°87-340 1987-05-21 art. 2 JORF 22 mai 1987
+
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*421-32 (Ab)
@@ -44931,7 +45015,7 @@ l'autorisation du ministre chargé des armées en vertu de l'article 5 de la loi
 	**Cite**:
 
 	  - Code de l'urbanisme - art. R421-38-8 (M)
-	  - Code de l'urbanisme L421-3 AL. 3, AL. 4
+	  - Code de l'urbanisme R490-4
 	  - Code de la construction et de l'habitation. - art. L631-7 (M)
 	  - Décret n°1853-08-10
 	  - Loi n°1895-07-18
