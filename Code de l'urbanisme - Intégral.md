@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1988-04-30
+Version Consolidée au 1988-05-08
 
 # Partie législative
 
@@ -26554,10 +26554,6 @@ raison de la suspension de la servitude ou de la modification de son tracé ou d
 	  - Décret n°73-1023 1973-11-08
 
 
-## Règles générales d'aménagement et d'urbanisme
-
-### Espaces boisés
-
 ## Liste des servitudes d'utilité publique affectant l'utilisation du sol
 
 ### Servitudes relatives à la conservation du patrimoine
@@ -49372,6 +49368,676 @@ caravanes.
 	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
+#### CHAPITRE V : Remontées mécaniques et aménagements de domaine skiable
+
+#####  Section 1 : Remontées mécaniques
+
+#####    Sous-section 1 : Autorisation d'exécution des travaux
+
+###### Article R445-1
+
+La demande d'autorisation d'exécution des travaux portant sur la réalisation des remontées mécaniques mentionnées à l'article
+45 de la loi n° 85-30 du 9 janvier 1985 relative au développement et à la protection de la montagne est présentée par le
+maître d'ouvrage.
+
+Pour les travaux entrant dans le champ d'application du permis de construire, elle tient lieu de la demande de permis de
+construire, ou de la déclaration des travaux qui en sont exemptés. Dans ces cas, la demande précise l'identité et la qualité
+de l'auteur du projet, la localisation et la superficie des terrains d'implantation des constructions, la nature des travaux
+ainsi que la densité des constructions existantes et à créer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Décret n°85-20 1985-01-04 art. 45
+
+	**Créé par**:
+
+	  - Décret n°88-635 1988-05-06 art. 2, art. 3 JORF 8 mai 1988
+
+	**Cité par**:
+
+	  - Décret n°2003-426 du 9 mai 2003 - art. 4 (V)
+	  - Code de l'urbanisme - art. R445-15 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+
+###### Article R445-2
+
+Le dossier joint à la demande d'autorisation d'exécution des travaux est composé des pièces ci-après :
+
+a) Un mémoire descriptif de l'installation indiquant notamment ses caractéristiques principales, l'emplacement et la nature
+des ouvrages projetés, sa capacité de transport, l'identité et la qualité du maître d'oeuvre et celles des spécialistes dont
+il s'entoure pour l'assister dans sa mission, ainsi que la répartition entre eux des fonctions et des tâches techniques ;
+
+b) Une note sur les mesures de préservation et de réhabilitation du milieu naturel prévues ;
+
+c) L'échéancier prévu pour la construction de l'installation ;
+
+d) Un plan de situation à une échelle comprise entre 1/5 000 et 1/25 000 comportant le tracé du projet ;
+
+e) Un profil en long comportant en particulier la représentation de tous les obstacles traversés ou survolés par
+l'installation, l'indication des pentes transversales importantes ainsi que la figuration du profil des câbles et de la
+trajectoire des véhicules à vide et en charge prévus ;
+
+f) La note de calcul correspondant au profil en long de l'installation ;
+
+g) La liste des éventuelles dérogations à la réglementation technique et de sécurité demandées et, s'il y a lieu, le
+programme des essais à effectuer en vue de corroborer les hypothèses retenues et vérifier les calculs ;
+
+h) Une note sur les dispositions de principe envisagées pour l'évacuation des usagers de la remontée mécanique ;
+
+i) Une note sur les risques naturels prévisibles et les dispositions principales prévues pour y faire face ;
+
+j) L'étude ou la notice d'impact prévue, selon le cas, par l'article 2 ou 4 du décret n° 77-1141 du 12 octobre 1977.
+
+Le dossier comporte en outre :
+
+a) Dans le cas où les terrains concernés par le projet ne sont pas inclus dans le périmètre d'une opération déclarée
+d'utilité publique en vue d'une expropriation pour la réalisation du projet ou n'ont pas fait l'objet d'une demande de la
+commune au préfet en vue de l'institution de la servitude prévue à l'article 53 de la loi n° 85-30 du 9 janvier 1985 relative
+au développement et à la protection de la montagne, l'accord de chacun des propriétaires des terrains concernés par le projet
+ou un titre habilitant le maître de l'ouvrage à réaliser le projet sur le terrain et, le cas échéant, l'autorisation
+d'occuper le domaine public ;
+
+b) Pour les travaux nécessitant la coupe ou l'abattage d'arbres soumis à l'autorisation prévue à l'article L. 130-1 du
+présent code ou aux articles L. 311-1 ou L. 312-1 du code forestier, une attestation selon laquelle l'autorisation de coupe
+ou d'abattage d'arbres et, le cas échéant, l'autorisation de défrichement ont été demandées. Lorsque ces autorisations ont
+été préalablement obtenues, elles sont jointes à la demande ;
+
+c) Lorsque les travaux projetés nécessitent la démolition de bâtiments soumis au régime du permis de démolir prévu par
+l'article L. 430-1, la justification du dépôt de la demande de permis de démolir ;
+
+d) Lorsque les travaux projetés sont soumis à l'avis de la commission consultative départementale de la protection civile, de
+la sécurité et de l'accessibilité ou de la commission de sécurité compétente en vertu des articles R. 123-13 ou R. 123-22 du
+code de la construction et de l'habitation, les plans et documents nécessaires à la formulation de cet avis.
+
+Le dossier est complété, selon le cas :
+
+1° Pour les travaux qui auraient nécessité un permis de construire, par :
+
+a) Le plan de masse des constructions à édifier ou à modifier, côté dans les trois dimensions, ainsi que les plans des
+façades. Lorsque la demande concerne la construction de bâtiments ou d'ouvrages devant être desservis par des équipements
+publics, le plan de masse indique le tracé de ces équipements et les modalités selon lesquelles les bâtiments ou ouvrages y
+seront raccordés. A défaut d'équipements publics, le plan de masse indique les équipements privés prévus, notamment pour
+l'alimentation en eau et l'assainissement ;
+
+b) Le cas échéant, tous éléments nécessaires au calcul des différentes impositions dont la délivrance du permis de construire
+constitue le fait générateur ;
+
+2° Pour les travaux exemptés de permis de construire, par :
+
+a) Le plan de masse et une représentation de l'aspect extérieur des constructions à édifier ou à modifier ;
+
+b) Le cas échéant, tous éléments nécessaires au calcul des différentes impositions dont le défaut d'opposition sur la
+déclaration de travaux constitue le fait générateur.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°77-1141 du 12 octobre 1977 - art. 2 (M)
+	  - Décret n°77-1141 du 12 octobre 1977 - art. 4 (Ab)
+	  - Loi n°85-30 1985-01-09 art. 53
+	  - Code forestier - art. L311-1 (M)
+	  - Code forestier - art. L312-1 (M)
+	  - Code de l'urbanisme - art. L130-1 (M)
+	  - Code de l'urbanisme - art. L430-1 (Ab)
+	  - Code de la construction et de l'habitation R123-13, R123-22
+	  - Code de la construction et de l'habitation. - art. R*123-22 (M)
+
+	**Créé par**:
+
+	  - Décret n°88-635 1988-05-06 art. 2, art. 3 JORF 8 mai 1988
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R445-3
+
+Les conditions de dépôt et d'instruction de la demande et les conditions de délivrance et de validité de l'autorisation
+d'exécution des travaux sont régies par les dispositions des articles R. 421-8 à R. 421-28 et R. 421-32 à R. 421-38.
+
+Lorsque les travaux entrent dans le champ d'application du permis de construire, les dispositions des articles R. 421-38-1 à
+R. 421-38-19, R. 421-39, R. 421-40 et R. 421-53 sont également applicables.
+
+Pour l'application des dispositions du quatrième alinéa de l'article L. 445-1, la demande est soumise au préfet ; celui-ci
+arrête éventuellement les réserves et les prescriptions auxquelles doit être subordonnée l'autorisation. A défaut de réponse
+dans le délai de deux mois à compter de sa consultation, le préfet est réputé avoir donné un avis favorable.
+
+Si, dans ce délai de deux mois, le préfet estime que des pièces complémentaires nécessaires à la formulation de son avis
+conforme doivent lui être fournies, il le fait connaître, par décision motivée, à l'autorité compétente pour statuer.
+L'autorité compétente invite alors le demandeur, par lettre recommandée avec demande d'avis de réception postal, à fournir
+ces pièces complémentaires dans les conditions prévues à l'article R. 421-9 et lui fait connaître que le délai d'instruction
+de la demande est suspendu jusqu'à la production de ces pièces. Dès réception des pièces complémentaires, le préfet peut, par
+décision motivée fondée notamment sur des préoccupations de sécurité, prolonger le délai de consultation prévu à l'alinéa
+précédent d'un délai supplémentaire qui ne peut, en tout état de cause, excéder deux mois à compter de la réception de ces
+pièces. Il fait connaître sa décision à l'autorité compétente pour statuer qui notifie au demandeur la prolongation du délai
+d'instruction qui en résulte.
+
+Faute pour l'autorité compétente d'avoir adressé notification de la décision dans le délai d'instruction prévu aux alinéas
+précédents, l'autorisation est réputée accordée, sauf dans les cas énumérés à l'article R. 421-19 et pour les projets
+nécessitant une dérogation aux règles techniques et de sécurité définies en application de l'article 9 de la loi n° 82-1153
+du 30 décembre 1982 ainsi que pour les projets faisant appel à des techniques qui n'ont pas fait l'objet d'une réglementation
+et pour lesquels l'autorisation ne peut être obtenue de façon tacite.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°82-1153 du 30 décembre 1982 - art. 30 (V)
+	  - Code de l'urbanisme - art. L445-1 (M)
+	  - Code de l'urbanisme - art. R421-39 (M)
+	  - Code de l'urbanisme R421-8 à R421-28, R421-32 à R421-38, R421-38-1 à R421-38-19, R421-39, R421-40 et R421-53, L445-1
+
+	**Créé par**:
+
+	  - Décret n°88-635 1988-05-06 art. 2, art. 3 JORF 8 mai 1988
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R445-7 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R445-4
+
+S'il y a lieu, l'autorisation de coupe ou d'abattage d'arbres prévue à l'article L. 130-1 et l'autorisation de défrichement
+prévue aux articles L. 311-1 ou L. 312-1 du code forestier doivent avoir été obtenues préalablement à la délivrance de
+l'autorisation d'exécution des travaux et la servitude prévue à l'article 53 de la loi n° 85-30 du 9 janvier 1985 relative au
+développement et à la protection de la montagne doit avoir été préalablement instituée.
+
+L'autorisation peut prévoir les conditions dans lesquelles tout ou partie de l'installation devra être démontée, soit
+temporairement soit définitivement, et les conditions de remise des lieux en état.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°85-30 1985-01-09 art. 53
+	  - Code forestier - art. L311-1 (M)
+	  - Code forestier - art. L312-1 (M)
+	  - Code de l'urbanisme - art. L130-1 (M)
+
+	**Créé par**:
+
+	  - Décret n°88-635 1988-05-06 art. 2, art. 3 JORF 8 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R445-5
+
+Lorsque les travaux envisagés sont également soumis à l'autorisation des installations et travaux divers prévue à l'article
+L. 442-1, l'autorisation d'exécution des travaux prévue à l'article L. 445-1 tient lieu de l'autorisation des installations
+et travaux divers.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°88-635 1988-05-06 art. 2, art. 3 JORF 8 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L442-1 (M)
+	  - Code de l'urbanisme - art. L445-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+##### Sous-section 2 : Autorisation de mise en exploitation des remontées mécaniques
+
+###### Article R445-6
+
+La demande d'autorisation de mise en exploitation des remontées mécaniques est présentée par le maître d'ouvrage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°88-635 1988-05-06 art. 2, art. 4 JORF 8 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+
+###### Article R445-7
+
+Le dossier joint à la demande comprend :
+
+1° Une déclaration du maître d'oeuvre attestant que le projet a été réalisé et vérifié conformément aux spécifications
+techniques du projet autorisé, à la réglementation technique et de sécurité en vigueur et aux prescriptions imposées par
+l'autorisation d'exécution des travaux ;
+
+2° S'il s'agit d'une installation autre qu'un téléski, une attestation du contrôleur technique mentionné à l'article 5 du
+décret n° 87-815 du 5 octobre 1987 relatif au contrôle technique et de sécurité de l'Etat sur les remontées mécaniques, et
+chargé par le maître d'ouvrage de contrôler la conception et l'exécution des fondations, ancrages et superstructures, à
+l'exclusion des parties mobiles ou sujettes à l'usure ;
+
+3° Le dossier de récolement comprenant notamment les notes de calculs, les plans d'exécution et tous documents justificatifs
+relatifs à l'installation et à la bonne exécution du projet ;
+
+4° La désignation de l'exploitant ;
+
+5° Les propositions pour :
+
+a) Un règlement d'exploitation et un règlement de police particuliers ;
+
+b) Un plan d'évacuation des usagers, le cas échéant ;
+
+c) Le programme des essais définis par les règles techniques et de sécurité mentionnées à l'article R. 445-3, cinquième
+alinéa ;
+
+d) Les consignes pour le personnel d'exploitation ;
+
+6° Une attestation d'assurance garantissant la responsabilité civile de l'exploitant.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 18 avril 1989 - art. 6 (V)
+	  - Arrêté du 7 août 2006 - art. 2 (Ab)
+	  - Code du tourisme. - art. R342-7 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R445-3 (M)
+	  - Décret n°87-815 du 5 octobre 1987 - art. 5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°88-635 1988-05-06 art. 2, art. 4 JORF 8 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+
+###### Article R445-8
+
+Les conditions de dépôt et d'instruction de la demande et les conditions de délivrance et de validité de l'autorisation de
+mise en exploitation des remontées mécaniques sont régies par les dispositions des articles R. 421-8, R. 421-9 (trois
+premiers alinéas), R. 421-12 (premier alinéa), R. 421-21, R. 421-23 à R. 421-28, R. 421-33, R. 421-34, R. 421-35 (premier
+alinéa) et R. 421-36 à R. 421-38.
+
+Si le dossier est incomplet, l'autorité compétente pour statuer invite, dans les quinze jours de la réception de la demande,
+par lettre recommandée avec demande d'avis de réception postal, le demandeur à fournir les pièces complémentaires dans les
+conditions prévues à l'article R. 421-9. Lorsque ces pièces ont été produites, il est fait application de l'article R.
+421-12, premier alinéa. Le délai d'instruction part de la réception des pièces complétant le dossier.
+
+L'autorité compétente s'assure en particulier, s'il y a lieu par un récolement des travaux, que ceux-ci ont été réalisés
+conformément aux prescriptions définies dans l'arrêté d'autorisation d'exécution des travaux.
+
+Elle recueille l'avis conforme du préfet prévu à l'article L. 445-1, au titre de la sécurité des installations et des
+aménagements concernés par l'appareil. Cet avis conforme doit être donné de façon expresse et dans le délai de deux mois à
+compter de la réception de la demande. Le préfet arrête éventuellement les prescriptions auxquelles doit être subordonnée
+l'exploitation de l'appareil.
+
+Le délai d'instruction de la demande d'autorisation de mise en exploitation est fixé à trois mois à compter de la date de la
+décharge du dépôt de la demande complète ou de l'avis de réception postal de son envoi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°88-635 1988-05-06 art. 2, art. 4 JORF 8 mai 1988
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R421-12 (M)
+	  - Code de l'urbanisme - art. R421-21 (M)
+	  - Code de l'urbanisme - art. R421-33 (M)
+	  - Code de l'urbanisme - art. R421-34 (M)
+	  - Code de l'urbanisme - art. R421-35 (M)
+	  - Code de l'urbanisme - art. R421-8 (M)
+	  - Code de l'urbanisme - art. R421-9 (M)
+	  - Code de l'urbanisme R421-8, R421-9, R421-12, R421-21, R421-23 à R421-28, R421-33, R421-34, R421-35, R421-36 à R421-38
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R445-9 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R445-9
+
+La mise en exploitation peut être autorisée à titre provisoire aux conditions de fonctionnement et de sécurité fixées par le
+préfet en fonction des caractéristiques de l'appareil.
+
+La durée de cette mise en exploitation provisoire ne peut excéder un an, renouvelable une fois. Dans ce cas, le délai
+d'instruction prévu à l'article R. 445-8, cinquième alinéa, est suspendu jusqu'à la date d'expiration de l'autorisation
+provisoire. Seule l'autorisation de mise en exploitation définitive tient lieu du certificat de conformité prévu à l'article
+L. 460-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°88-635 1988-05-06 art. 2, art. 4 JORF 8 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L460-2 (M)
+	  - Code de l'urbanisme - art. R445-8 (M)
+
+
+#####  Section 2 : Aménagements de domaine skiable
+
+###### Article R445-10
+
+La demande d'autorisation d'aménagement des pistes de ski alpin est présentée par le maître d'ouvrage.
+
+Dans le cas où les terrains concernés par le projet ne sont pas inclus dans le périmètre d'une opération déclarée d'utilité
+publique en vue d'une expropriation pour la réalisation du projet ou n'ont pas fait l'objet d'une demande de la commune au
+préfet en vue de l'institution de la servitude prévue à l'article 53 de la loi n° 85-30 du 9 janvier 1985 relative au
+développement et à la protection de la montagne, la demande est accompagnée de l'accord de chacun des propriétaires des
+terrains concernés par le projet ou un titre habilitant le maître de l'ouvrage à réaliser le projet sur le terrain et, le cas
+échéant, l'autorisation d'occuper le domaine public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Loi n°85-30 1985-01-09 art. 53
+
+	**Créé par**:
+
+	  - Décret n°88-635 1988-05-06 art. 2, art. 5 JORF 8 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+
+###### Article R445-11
+
+La demande comporte un plan de situation du projet dans le domaine skiable, la délimitation sur le plan cadastral des travaux
+faisant l'objet de la demande et les références cadastrales des parcelles concernées ; elle indique l'identité des
+propriétaires apparents.
+
+Elle comprend une note descriptive des travaux envisagés indiquant leur nature, les aménagements complémentaires de remise en
+état ou de réhabilitation et leurs délais de réalisation. Cette note est accompagnée d'un plan d'exécution coté.
+
+Elle comporte, selon le cas, l'étude d'impact prévue à l'article 2 du décret n° 77-1141 du 12 octobre 1977 ou la notice
+d'impact prévue à l'article 4 de ce décret, qui précise les mesures de remise en état ou de réhabilitation mentionnées à
+l'alinéa précédent.
+
+Lorsque le projet nécessite la coupe ou l'abattage d'arbres soumis à l'autorisation prévue à l'article L. 130-1 du présent
+code ou aux articles L. 311-1 ou L. 312-1 du code forestier, la demande est complétée par l'attestation selon laquelle
+l'autorisation de coupe ou d'abattage d'arbres et, le cas échéant, l'autorisation de défrichement ont été demandées. Lorsque
+ces autorisations ont été préalablement obtenues, elles sont jointes à la demande.
+
+La demande d'autorisation d'aménagement des pistes de ski alpin tient lieu de la demande d'autorisation des installations et
+travaux divers prévue à l'article R. 442-4 pour les travaux soumis à ladite autorisation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°77-1141 du 12 octobre 1977 - art. 2 (M)
+	  - Code forestier - art. L311-1 (M)
+	  - Code forestier - art. L312-1 (M)
+	  - Code de l'urbanisme - art. L130-1 (M)
+	  - Code de l'urbanisme - art. R442-4 (M)
+
+	**Créé par**:
+
+	  - Décret n°88-635 1988-05-06 art. 2, art. 5 JORF 8 mai 1988
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R445-12
+
+Les conditions de dépôt et d'instruction de la demande et les conditions de délivrance et de validité de l'autorisation
+d'aménagement des pistes de ski alpin sont régies par les dispositions des articles R. 421-8, R. 421-9, R. 421-12 à R.
+421-15, R. 421-18 à R. 421-28, R. 421-32 à R. 421-38 et R. 421-40.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°88-635 1988-05-06 art. 2, art. 5 JORF 8 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R421-8 (M)
+	  - Code de l'urbanisme - art. R421-9 (M)
+	  - Code de l'urbanisme R421-8, R421-9, R421-12 à R421-15, R421-18 à R421-28, R421-32 à R421-38
+
+
+###### Article R445-13
+
+L'autorisation d'aménagement des pistes de ski alpin ne peut être délivrée que si les aménagements satisfont aux dispositions
+législatives et réglementaires qui leur sont applicables en matière d'utilisation du sol, notamment celles mentionnées à
+l'article R. 442-6 (quatre premiers alinéas).
+
+S'il y a lieu, l'autorisation de coupe ou d'abattage d'arbres prévue à l'article L. 130-1 et l'autorisation de défrichement
+prévue aux articles L. 311-1 ou L. 312-1 du code forestier doivent avoir été obtenues préalablement à la délivrance de
+l'autorisation, et la servitude prévue à l'article 53 de la loi n° 85-30 du 9 janvier 1985 relative au développement et à la
+protection de la montagne doit avoir été préalablement instituée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Loi n°85-30 1985-01-09 art. 53
+	  - Code forestier - art. L311-1 (M)
+	  - Code forestier - art. L312-1 (M)
+	  - Code de l'urbanisme - art. L130-1 (M)
+	  - Code de l'urbanisme - art. R442-6 (M)
+
+	**Créé par**:
+
+	  - Décret n°88-635 1988-05-06 art. 2, art. 5 JORF 8 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+
+###### Article R445-14
+
+Lorsque les travaux d'aménagement de pistes sont soumis à l'autorisation des installations et travaux divers prévue à
+l'article L. 442-1, l'autorisation d'aménagement prévue à l'article L. 445-2 tient lieu de l'autorisation des installations
+et travaux divers.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°88-635 1988-05-06 art. 2, art. 5 JORF 8 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L442-1 (M)
+	  - Code de l'urbanisme - art. L445-2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+#####  Section 3 : Dispositions diverses
+
+###### Article R445-15
+
+Un arrêté des ministres chargés de l'urbanisme et des transports fixe le modèle de la demande d'autorisation d'exécution des
+travaux portant sur la réalisation des remontées mécaniques prévue à l'article R. 445-1 et de la demande d'autorisation
+d'aménagement des pistes de ski alpin prévue à l'article R. 445-10.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°88-635 1988-05-06 art. 2, art. 6 JORF 8 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R445-1 (T)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R445-16
+
+Pour l'application du présent chapitre, le préfet peut déléguer sa signature au responsable du service de l'Etat dans le
+département chargé de l'urbanisme et au responsable du service de l'Etat dans le département chargé du contrôle des remontées
+mécaniques ou aux subordonnés de ceux-ci, sauf dans les cas prévus au 6° de l'article R. 421-36 et à l'article R. 421-38
+(deuxième alinéa).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme R421-36 à R421-38
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°88-635 1988-05-06 art. 2, art. 5 JORF 8 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+
+#### CHAPITRE VI : Dispositions diverses
+
+###### Article R*446-2
+
+Les dispositions des chapitres I à V du présent titre, prises pour l'application des articles L. 441-4, L. 442-1  et L.
+443-1, et L. 445-1 ne peuvent être modifiées que par décret en conseil d'Etat pris sur le rapport du ministre chargé de
+l'urbanisme après avis des ministres désignés à l'article R.  111-25, dans la mesure où leur département est concerné.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-226 1984-03-29 ART. 33, ART. 34 : Modalités d'application
+	  - SPEC_APPLI: Décret n°84-226 du 29 mars 1984 - art. 33 (M)
+
+	**Créé par**:
+
+	  - Décret n°88-635 1988-05-06 art. 1 JORF 8 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L441-4 (M)
+	  - Code de l'urbanisme - art. L442-1 (M)
+	  - Code de l'urbanisme - art. L443-1 (M)
+	  - Code de l'urbanisme - art. L445-1 (M)
+	  - Code de l'urbanisme - art. R111-25 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R446-1
+
+Les dispositions du présent titre ne font pas obstacle aux pouvoir de police des préfets et des maires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°88-635 1988-05-06 art. 1 II JORF 8 mai 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. R445-1 (T)
+
+
 ### TITRE V : Dispositions diverses
 
 #### CHAPITRE I : Dispositions propres à certaines utilisations de surfaces bâties
@@ -50353,66 +51019,6 @@ d) A l'aménagement de la zone de Fos-sur-Mer, dans un périmètre défini par d
 ## Règles relatives à l'acte de construire et à divers modes d'utilisation du sol
 
 ### Dispositions relatives aux modes particuliers d'utilisation du sol
-
-#### Dispositions diverses
-
-###### Article R*445-2
-
-Les dispositions des chapitres I à IV du présent titre, prises pour l'application des articles L. 441-4, L. 442-1  et L.
-443-1 ne peuvent être modifiées que par décret en conseil d'Etat pris sur le rapport du ministre chargé de l'urbanisme après
-avis des ministres désignés à l'article R. 111-25, dans la mesure où leur département est concerné.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°84-226 1984-03-29 ART. 32 JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-226 1984-03-29 ART. 33, ART. 34 : Modalités d'application
-	  - SPEC_APPLI: Décret n°84-226 du 29 mars 1984 - art. 33 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L441-4 (M)
-	  - Code de l'urbanisme - art. L442-1 (M)
-	  - Code de l'urbanisme - art. L443-1 (M)
-	  - Code de l'urbanisme - art. R111-25 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme R446-2
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R445-1
-
-Les dispositions du présent titre ne font pas  obstacle aux pouvoirs de police des commissaires de la République et des
-maires.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R445-15 (Ab)
-	  - Décret n°2003-426 du 9 mai 2003 - art. 4 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. R446-1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°84-226 1984-03-29 ART. 31 JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
-
 
 ## Livre V : Implantation des services, établissements et entreprises
 
@@ -53356,32 +53962,6 @@ et du ministre de l'économie et des finances.
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. A335-4 (Ab)
-
-
-## REGLES RELATIVES A L'ACTE DE CONSTRUIRE ET A DIVERS MODES  D'UTILISATION DU SOL
-
-### PERMIS DE DEMOLIR
-
-#### REGIME GENERAL
-
-##### DECISION .
-
-###### Article A430-3
-
-L'affichage du permis de démolir sur le terrain est assuré par les soins de son bénéficiaire sur un panneau rectangulaire
-dont les dimensions sont supérieures à 80 cm.
-
-Ce panneau indique le nom, la raison sociale ou la dénomination dudit bénéficiaire, la date et le numéro du permis de
-démolir ; il précise s'il s'agit d'une démolition totale ou partielle ; il mentionne l'adresse de la mairie où aura été
-effectué l'affichage d'un extrait de ce même permis et où pourra être consulté le registre en faisant foi.
-
-Ces renseignements doivent demeurer lisibles de la voie publique pendant toute la durée des travaux de démolition.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
 ## LIVRE IV : Règles relatives à l'acte de construire et à divers modes d'utilisation du sol
