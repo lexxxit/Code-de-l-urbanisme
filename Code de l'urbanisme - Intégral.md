@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1987-12-31
+Version Consolidée au 1988-01-06
 
 # Partie législative
 
@@ -1741,6 +1741,46 @@ Les dispositions du présent article valent loi d'aménagement et d'urbanisme au
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L121-11
+
+Le syndicat intercommunal d'études et de programmation est un établissement public qui, dans les cas visés au quatrième
+alinéa de l'article L. 122-1-1, est chargé par des communes d'élaborer ou de modifier un schéma directeur ou un schéma de
+secteur. Lorsque le syndicat intercommunal d'études et de programmation  est parvenu au terme de sa mission, et au plus tard
+cinq ans à compter de sa création, il est dissous de plein droit.
+
+Pour les syndicats existant à la date d'entrée en vigueur de la loi n° 88-13 du 5 janvier 1988, qui n'auraient pas achevé
+leur mission au terme du délai maximum de trois ans initialement fixé pour l'exécution de celle-ci, ce délai est prorogé
+jusqu'à l'adoption du document qu'ils sont chargés d'élaborer, à moins que plus d'un tiers des conseils municpaux ne s'oppose
+à la prorogration. La durée de cette prorogation ne peut en tout état de cause être supérieure à deux ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Cite**:
+
+	  - Loi n°88-13 1988-01-05
+	  - Code de l'urbanisme L122-1-1 al. 4
+
+	**Modifié par**:
+
+	  - Loi n°88-13 du 5 janvier 1988 - art. 29 () JORF 6 janvier 1988
+
+	**Abrogé par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 74 (V) JORF 8 février 1992
+
+	**Cité par**:
+
+	  - Loi n°92-125 du 6 février 1992 - art. 74 (V)
+	  - Code de l'urbanisme - art. L123-19 (M)
+	  - Code de l'urbanisme - art. R*122-3 (M)
+	  - Code général des collectivités territoriales - art. L4424-9 (V)
+	  - Code rural - art. L181-3 (V)
 
 
 ###### Article L121-12
@@ -6826,46 +6866,6 @@ L. 160-6 (alinéa 5), pourra, à titre exceptionnel, être réduite.
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-
-## Prévisions et règles d'urbanisme
-
-### Dispositions générales communes aux schémas directeurs et aux plans d'occupation des sols
-
-###### Article L121-11
-
-Le syndicat intercommunal d'études et de programmation [*attributions*] est un établissement public qui, dans les cas visés
-au quatrième alinéa de l'article L. 122-1-1, est chargé par des communes d'élaborer ou de modifier, dans un délai maximum de
-trois ans, un schéma directeur ou un schéma de secteur. A l'expiration du délai mentionné ci-dessus, le syndicat
-intercommunal d'études et de programmation est dissous.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°83-8 1983-01-07 ART. 43
-	  - Loi n°83-663 1983-07-22
-	  - Code de l'urbanisme - art. L122-1-1 (M)
-
-	**Créé par**:
-
-	  - Loi n°83-8 du 7 janvier 1983 - art. 43 () JORF 9 JANVIER 1983
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°83-851 1983-09-23
-
-	**Cité par**:
-
-	  - Loi n°92-125 du 6 février 1992 - art. 74 (V)
-	  - Code de l'urbanisme - art. L123-19 (M)
-	  - Code de l'urbanisme - art. R*122-3 (M)
-	  - Code général des collectivités territoriales - art. L4424-9 (V)
-	  - Code rural - art. L181-3 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ## Livre II : Préemption et réserves foncières
