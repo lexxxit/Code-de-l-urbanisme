@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2002-01-01
+Version Consolidée au 2002-01-03
 
 # Partie législative
 
@@ -1968,16 +1968,41 @@ Lorsqu'une commune ou un établissement public de coopération intercommunale se
 l'article L. 122-4 dans les conditions définies par le code général des collectivités territoriales, la décision de retrait
 emporte réduction du périmètre du schéma de cohérence territoriale.
 
+Toutefois, par dérogation aux dispositions des articles L. 5214-21, L. 5215-22 et L. 5216-7 du code général des collectivités
+territoriales, lorsque le périmètre d'une communauté urbaine, d'une communauté d'agglomération ou d'une communauté de
+communes compétente en matière de schéma de cohérence territoriale est entièrement compris dans celui d'un schéma de
+cohérence territoriale, la communauté est substituée de plein droit à ses communes membres ou à l'établissement public de
+coopération intercommunale dont elle est issue dans l'établissement public prévu à l'article L. 122-4. Ni les attributions de
+l'établissement public ni le périmètre dans lequel il exerce ses compétences ne sont modifiés.
+
+Lorsque le périmètre d'une communauté urbaine, d'une communauté d'agglomération ou d'une communauté de communes compétente en
+matière de schéma de cohérence territoriale n'est pas entièrement compris dans celui d'un schéma de cohérence territoriale,
+la communauté devient, au terme d'un délai de six mois, membre de plein droit de l'établissement public prévu à l'article L.
+122-4 et le périmètre du schéma est étendu en conséquence, sauf lorsque l'organe délibérant de la communauté s'est prononcé,
+dans ce délai, contre son appartenance à cet établissement public ou si, dans ce même délai, l'établissement public chargé de
+l'élaboration du schéma s'oppose à l'extension. Dans l'un ou l'autre de ces cas, la délibération de la communauté ou
+l'opposition de l'établissement public emporte réduction du périmètre du schéma de cohérence territoriale.
+
+Lorsque le périmètre d'une communauté mentionnée à l'alinéa précédent comprend des communes appartenant à plusieurs schémas
+de cohérence territoriale, la communauté devient, au terme d'un délai de six mois, membre de plein droit de l'établissement
+public prévu à l'article L. 122-4 sur le territoire duquel est comprise la majorité de sa population, sauf lorsque l'organe
+délibérant de la communauté s'est prononcé dans ce délai contre son appartenance à cet établissement public ou pour son
+appartenance à l'établissement public d'un des autres schémas. Les communes appartenant à la communauté sont retirées des
+établissements publics prévus à l'article L. 122-4 dont la communauté n'est pas devenue membre. Ce retrait emporte réduction
+du périmètre des schémas de cohérence territoriale correspondants.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 3 () JORF 14 décembre 2000 en vigueur le 1er avril 2001
+	  - Loi n°2002-1 du 2 janvier 2002 - art. 18 () JORF 3 janvier 2002
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Loi n°2000-1208 du 13 décembre 2000 - art. 43 (V)
-	  - SPEC_APPLI: Décret n°2001-260 du 27 mars 2001 - art. 6 (V)
+	  - Code général des collectivités territoriales - art. L5214-21 (M)
+	  - Code général des collectivités territoriales - art. L5215-22 (M)
+	  - Code général des collectivités territoriales - art. L5216-7 (Ab)
+	  - Code de l'urbanisme - art. L122-4 (M)
 
 	**Cité par**:
 
@@ -1987,10 +2012,6 @@ emporte réduction du périmètre du schéma de cohérence territoriale.
 	  - Code de l'urbanisme - art. R*122-12 (V)
 	  - Code de l'urbanisme - art. R*122-14 (Ab)
 	  - Code de l'urbanisme - art. R*122-15 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L122-4 (M)
 
 	**Codifié par**:
 
@@ -3638,6 +3659,12 @@ Les plans d'occupation des sols approuvés avant l'entrée en vigueur de la loi 
 soumis au régime juridique défini par le présent chapitre. Toutefois, les dispositions de l'article L. 123-1, dans sa
 rédaction antérieure à cette loi, leur demeurent applicables jusqu'à leur prochaine révision.
 
+Les dispositions de l'article L. 123-1, dans sa rédaction antérieure à la loi n° 2000-1208 du 13 décembre 2000 précitée, leur
+demeurent également applicables dans le cas où ils font l'objet, selon les modalités définies par le troisième alinéa de
+l'article L. 123-13, d'une révision d'urgence concernant un projet présentant un caractère d'intérêt général, à condition que
+cette révision d'urgence soit approuvée avant le 1er janvier 2004 et que la commune ait préalablement prescrit une révision
+générale.
+
 Les plans d'occupation des sols rendus publics avant l'entrée en vigueur de la loi n° 2000-1208 du 13 décembre 2000 précitée
 demeurent opposables dans les conditions définies par le dernier alinéa de l'article L. 123-5 dans sa rédaction antérieure à
 cette loi. Leur approbation reste soumise au régime antérieur à ladite loi à condition qu'elle intervienne dans un délai d'un
@@ -3664,10 +3691,6 @@ de six mois mentionné au dernier alinéa de l'article L. 123-4 dans sa rédacti
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
 	**Cite**:
 
 	  - Loi n°2000-1208 2000-12-13
@@ -3679,14 +3702,9 @@ de six mois mentionné au dernier alinéa de l'article L. 123-4 dans sa rédacti
 	  - Code de l'urbanisme - art. L123-6 (M)
 	  - Code de l'urbanisme - art. L300-2 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 4 () JORF 14 décembre 2000 en vigueur le 1er avril 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2000-1208 du 13 décembre 2000 - art. 43 (V)
-	  - SPEC_APPLI: Décret n°2001-260 du 27 mars 2001 - art. 6 (V)
+	  - Loi n°2002-1 du 2 janvier 2002 - art. 19 () JORF 3 janvier 2002
 
 	**Cité par**:
 
@@ -3698,6 +3716,10 @@ de six mois mentionné au dernier alinéa de l'article L. 123-4 dans sa rédacti
 	  - Code général des collectivités territoriales - art. L1614-9 (V)
 	  - Code général des collectivités territoriales - art. R1614-41 (M)
 	  - Code général des collectivités territoriales - art. R1614-48 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L123-20
