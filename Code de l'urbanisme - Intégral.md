@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1994-07-27
+Version Consolidée au 1994-08-18
 
 # Partie législative
 
@@ -24471,6 +24471,61 @@ prescriptions particulières.
 
 ##### I : Dispositions générales.
 
+###### Article R*130-5
+
+Sous réserve des dispositions de l'article R. 130-1, toute coupe ou abattage d'arbres compris dans un espace boisé classé est
+subordonné à une autorisation expresse. Si celle-ci n'est pas prononcée dans les quatre mois de la saisine, l'accord est
+réputé refusé.
+
+L'autorité compétente pour statuer sur la demande se prononce par arrêté.
+
+L'autorisation peut être subordonnée à des prescriptions spéciales concernant notamment la technique de gestion, le respect
+de certains peuplements, l'obligation de procéder à des reboisements ou à des plantations de remplacement.
+
+La décision est notifiée au demandeur par lettre recommandée accompagnée, lorsque la décision est négative ou assortie de
+prescriptions, d'une demande d'avis de réception postal.
+
+L'autorisation est valable deux ans. Elle peut toutefois, si la coupe ou l'abattage n'ont pu être pratiqués au cours des
+années pour lesquelles l'autorisation a été donnée, être prolongée d'une année.
+
+Les coupes rases doivent être suivies dans les cinq ans de travaux de reboisement, à défaut de régénération naturelle.
+
+L'autorisation est publiée par voie d'affichage à la mairie pendant deux mois. Dans les zones urbaines, elle est en outre
+préalablement portée à la connaissance du public, par apposition de la décision de l'autorité compétente sur un panneau
+implanté à la limite du terrain boisé concerné et visible d'une voie ouverte au public.
+
+Un arrêté du ministre chargé de l'urbanisme règle le contenu et les formes de l'affichage et fixe la liste des pièces du
+dossier dont tout intéressé peut prendre connaissance.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°94-701 du 16 août 1994 - art. 2 () JORF 18 août 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 4 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. A130-2 (V)
+	  - Code de l'urbanisme - art. R490-7 (Ab)
+	  - Code forestier - art. R412-9 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R*130-14 (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R130-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ###### Article R*130-6
 
 En cas d'octroi de l'autorisation, la personne morale mentionnée au 1er alinéa de l'article R. 130-2 *bénéficiaire,
@@ -24671,59 +24726,6 @@ de l'article L. 130-1.
 	**Nouveaux textes**:
 
 	  - Code de l'urbanisme - art. R*130-21 (VT)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-####  Section 2 : Utilisation du sol, défrichements, coupe et d'abbatage d'arbres dans les espaces boisés classés
-
-#####  Paragraphe 3 : Décision.
-
-###### Article R*130-5
-
-Sous réserve des dispositions de l'article R. 130-1, toute coupe ou abattage d'arbres compris dans un espace boisé classé est
-subordonné à une autorisation expresse. Si celle-ci n'est pas prononcée dans les quatre mois de la saisine, l'accord est
-réputé refusé.
-
-L'autorité compétente pour statuer sur la demande se prononce par arrêté.
-
-L'autorisation peut être subordonnée à des prescriptions spéciales concernant notamment la technique de gestion, le respect
-de certains peuplements, l'obligation de procéder à des reboisements ou à des plantations de remplacement.
-
-La décision est notifiée au demandeur par lettre recommandée accompagnée, lorsque la décision est négative ou assortie de
-prescriptions, d'une demande d'avis de réception postal [*conditions de forme*].
-
-L'autorisation est valable deux ans [*durée, péremption*]. Elle peut toutefois, si la coupe ou l'abattage n'ont pu être
-pratiqués au cours des années pour lesquelles l'autorisation a été donnée, être prolongée d'une année.
-
-Les coupes rases doivent être suivies dans les cinq ans de travaux de reboisement, à défaut de régénération naturelle
-[*delai*].    L'autorisation est publiée par voie d'affichage à la mairie pendant deux mois [*durée*]. Dans les zones
-urbaines, elle est en outre préalablement portée à la connaissance du public, [*publicité*] par apposition de la décision de
-l'autorité compétente sur un panneau implanté à la limite du terrain boisé concerné et visible d'une voie ouverte au public.
-" Un arrêté du ministre chargé de l'urbanisme règle les formes de l'affichage et fixe la liste des pièces du dossier dont
-tout intéressé peut prendre connaissance. "
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°88-471 1988-04-28 art. 2 I JORF 30 avril 1988
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A130-2 (V)
-	  - Code de l'urbanisme - art. R490-7 (Ab)
-	  - Code forestier - art. R412-9 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. R*130-14 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R130-1 (M)
 
 	**Codifié par**:
 
@@ -34842,7 +34844,7 @@ NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 Mention de l'autorisation de lotir doit être affichée sur le terrain, de manière visible de l'extérieur, par les soins de son
 bénéficiaire, dès la notification de la décision d'octroi et pendant toute la durée du chantier.
 
-il en est de même d'une copie de la lettre prévue à l'article R. 315-15, ou, le cas échéant d'une copie de l'avis de
+Il en est de même d'une copie de la lettre prévue à l'article R. 315-15, ou, le cas échéant d'une copie de l'avis de
 réception postal de la lettre de mise en demeure prévu à l'article R. 315-17 et d' une copie de l'avis de réception prévu à
 l'article R. 315-21 lorsque l'autorisation sollicitée est réputée accordée.
 
@@ -34851,19 +34853,27 @@ ou une copie de la lettre mentionnée à l'alinéa précédent est publiée par 
 L'exécution de cette formalité fait l'objet d'une mention au registre chronologique des actes de publication et de
 notification des arrêtés du maire prévue à l'article R. 122-11 du code des communes.
 
-L'inobservation de la formalité d'affichage sur le terrain est punie de l'amende prévue par le 5° de l'article 131-13 du code
-pénal pour les contraventions de la cinquième classe.
+L'inobservation de la formalité d'affichage sur le terrain est punie de l'amende prévue pour les contraventions de la
+cinquième classe*sanction*.
 
 Un exemplaire de l'arrêté d'autorisation et des pièces annexées est mis à la disposition du public à la mairie de la commune.
 
-Un arrêté du ministre chargé de l'urbanisme règle les formes de l'affichage et fixe la liste des pièces du dossier dont tout
-intéressé peut prendre connaissance.
+Un arrêté du ministre chargé de l'urbanisme règle le contenu et les formes de l'affichage et fixe la liste des pièces du
+dossier dont tout intéressé peut prendre connaissance.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
+	  - Décret n°94-701 du 16 août 1994 - art. 2 () JORF 18 août 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 	**Cite**:
 
@@ -47397,25 +47407,29 @@ de mise en demeure prévue à l'article R. 421-14 et d'une copie de l'avis de r�
 demande.
 
 En outre, dans les huit jours de la délivrance expresse ou tacite du permis de construire, un extrait du permis ou une copie
-de la lettre visée à l'alinéa précédent est publié par voie d'affichage à la mairie pendant deux mois [*publicité*].
+de la lettre visée à l'alinéa précédent est publié par voie d'affichage à la mairie pendant deux mois *publicité*.
 L'exécution de cette formalité fait l'objet d'une mention au registre chronologique des actes de publication et de
-notification des arrêtés du maire prévu à l'article R. 722-11 du code des communes.
+notification des arrêtés du maire prévu à l'article R. 122-11 du code des communes.
 
 L'inobservation de la formalité d'affichage sur le terrain est punie de l'amende prévue par le 5° de l'article 131-13 du code
 pénal pour les contraventions de la cinquième classe.
 
-Un arrêté du ministre chargé de l'urbanisme règle les formes de l'affichage et fixe la liste des pièces du dossier dont tout
-intéressé peut prendre connaissance.
+Un arrêté du ministre chargé de l'urbanisme règle le contenu et les formes de l'affichage et fixe la liste des pièces du
+dossier dont tout intéressé peut prendre connaissance.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
+	  - Décret n°94-701 du 16 août 1994 - art. 2 () JORF 18 août 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 	**Cite**:
 
-	  - Code des communes R722-11
+	  - Code des communes R122-11
 	  - Code pénal - art. 131-13 (M)
 	  - Code de l'urbanisme - art. R421-14 (M)
 
@@ -48201,8 +48215,8 @@ compétente pour prendre la décision de prescriptions ;
 
 ###### Article R*422-10
 
-Dans les huit jours de la réception de la déclaration en mairie, le maire procède à l'affichage de cette déclaration avec
-indication de la date à partir de laquelle les travaux pourront, en l'absence d'opposition, être exécutés.
+Dans les huit jours de la réception*délai* de la déclaration en mairie, le maire procède à l'affichage*publicité* de cette
+déclaration avec indication de la date à partir de laquelle les travaux pourront, en l'absence d'opposition, être exécutés.
 
 Dès la date à partir de laquelle les travaux peuvent être exécutés et pendant une durée de deux mois, mention qu'il n'a pas
 été formé d'opposition ou, le cas échéant, mention de la notification de prescriptions est portée sur l'exemplaire affiché en
@@ -48216,21 +48230,17 @@ Dès la date à partir de laquelle les travaux peuvent être exécutés, mention
 manière visible de l'extérieur, pendant au moins deux mois et pendant toute la durée du chantier si celle-ci est supérieure à
 deux mois.
 
-L'inobservation de la formalité d'affichage sur le terrain est punie de l'amende prévue par le 5° de l'article 131-13 du code
-pénal pour les contraventions de la cinquième classe.
+L'inobservation de la formalité d'affichage sur le terrain est punie de l'amende*sanction* prévue pour les contraventions de
+la cinquième classe.
 
-Un arrêté du ministre chargé de l'urbanisme règle les formes de l'affichage et fixe la liste des pièces du dossier dont tout
-intéressé peut prendre connaissance.
+Un arrêté du ministre chargé de l'urbanisme règle le contenu et les formes de l'affichage et fixe la liste des pièces du
+dossier dont tout intéressé peut prendre connaissance.
 
 Si les travaux ayant fait l'objet d'une déclaration ne sont pas entrepris dans le délai de deux ans à compter de la date à
 partir de laquelle ils peuvent être effectués ou si les travaux sont interrompus pendant un délai supérieur à une année, les
 effets de la déclaration sont caducs.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
 
 	**Cite**:
 
@@ -48240,6 +48250,14 @@ effets de la déclaration sont caducs.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°94-701 du 16 août 1994 - art. 2 () JORF 18 août 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
 ###### Article R*422-11
@@ -49464,21 +49482,25 @@ lettre prévue à l'article R. 430-7-1 ou d'une copie de l'avis de réception po
 demeure prévue à l'article R. 430-8-1 et d'une copie de l'avis de réception ou de la décharge du dépôt de la demande.
 
 En outre, dans les huit jours de la délivrance expresse ou tacite du permis de démolir, un extrait du permis ou une copie de
-la lettre visée à l'alinéa précédent est publié par voie d'affichage à la mairie pendant deux mois. L'exécution de cette
-formalité fait l'objet d'une mention au registre chronologique des actes de publication et de notification des arrêtés du
-maire prévu à l'article R. 122-11 du code des communes.
+la lettre visée à l'alinéa précédent est publié par voie d'affichage à la mairie pendant deux mois *publicité*. L'exécution
+de cette formalité fait l'objet d'une mention au registre chronologique des actes de publication et de notification des
+arrêtés du maire prévu à l'article R. 122-11 du code des communes.
 
-L'inobservation de la formalité d'affichage sur le terrain est punie de l'amende prévue par le 5° de l'article 131-13 du code
-pénal pour les contraventions de la cinquième classe.
+L'inobservation de la formalité d'affichage sur le terrain est punie de l'amende prévue pour les contraventions de la
+cinquième classe*sanction*.
 
-Un arrêté du ministre chargé de l'urbanisme règle les formes de l'affichage et fixe la liste des pièces du dossier dont tout
-intéressé peut prendre connaissance.
+Un arrêté du ministre chargé de l'urbanisme règle le contenu et les formes de l'affichage et fixe la liste des pièces du
+dossier dont tout intéressé peut prendre connaissance.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
+	  - Décret n°94-701 du 16 août 1994 - art. 2 () JORF 18 août 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 	**Cite**:
 
@@ -50867,17 +50889,17 @@ extrait de l'autorisation ou une copie de la lettre visée à l'alinéa précéd
 pendant deux mois. L'exécution de cette formalité fait l'objet d'une mention au registre chronologique des actes de
 publication et de notification des arrêtés du maire prévu à l'article R. 122-11 du code des communes.
 
-L'inobservation de la formalité d'affichage sur le terrain est punie de l'amende prévue au 5° de l'article 131-13 du code
-pénal pour les contraventions de la cinquième classe.
+L'inobservation de la formalité d'affichage sur le terrain est punie de l'amende prévue pour les contraventions de la
+cinquième classe.
 
-Un arrêté du ministre chargé de l'urbanisme règle les formes de l'affichage et fixe la liste des pièces du dossier dont tout
-intéressé peut prendre connaissance.
+Un arrêté du ministre chargé de l'urbanisme règle le contenu et les formes de l'affichage et fixe la liste des pièces du
+dossier dont tout intéressé peut prendre connaissance.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
+	  - Décret n°94-701 du 16 août 1994 - art. 2 () JORF 18 août 1994
 
 	**Cite**:
 
@@ -55054,9 +55076,68 @@ fonctions dans les conditions fixées aux articles R. 160-1 à R. 160-3.
 	  - Décret n°73-1023 1973-11-08
 
 
-## LIVRE VI : Organismes consultatifs et dispositions diverses
+## Livre VI : Dispositions relatives au contentieux de l'urbanisme et dispositions diverses
 
-### Titre II : Dispositions diverses.
+###### Article R*600-1
+
+Les dispositions de l'article L. 600-3 s'appliquent aux déférés du préfet et aux recours contentieux enregistrés à compter du
+1er octobre 1994. Elles s'appliquent aux recours administratifs parvenus à leur destinataire à compter de cette même date.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°94-701 du 16 août 1994 - art. 1 () JORF 18 août 1994
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de justice administrative - art. R411-7 (Ab)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. A424-17 (V)
+	  - Code de l'urbanisme - art. R*424-15 (V)
+	  - Code de l'urbanisme - art. R*760-1 (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L600-3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*600-2
+
+La notification du recours à l'auteur de la décision et, s'il y a lieu, au titulaire de l'autorisation est réputée accomplie
+à la date d'envoi de la lettre recommandée avec accusé de réception. Cette date est établie par le certificat de dépôt de la
+lettre recommandée auprès des services postaux.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°94-701 du 16 août 1994 - art. 1 () JORF 18 août 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2000-389 du 4 mai 2000 - art. 4 () JORF 7 mai 2000 en vigueur le 1er janvier 2001
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. A424-17 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L600-3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+### Titre II : Dispositions diverses
 
 ###### Article R*620-1
 
@@ -55065,17 +55146,17 @@ signature à ses subordonnés en ce qui concerne les matières relevant en propr
 
 **Liens relatifs à cet article**
 
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*760-1 (Ab)
+
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°80-559 1980-06-26 ART. 7 JORF 20 JUILLET 1980
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*760-1 (Ab)
+	  - Décret n°94-701 du 16 août 1994 - art. 1 () JORF 18 août 1994
 
 
 # Partie réglementaire - Arrêtés
