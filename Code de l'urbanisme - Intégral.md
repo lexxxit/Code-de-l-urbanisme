@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1993-01-23
+Version Consolidée au 1993-01-30
 
 # Partie législative
 
@@ -2394,10 +2394,10 @@ services et de transport des populations actuelles et futures. La délimitation 
 agronomique des sols, les structures agricoles, les terrains produisant des denrées de qualité supérieure, l'existence de
 risques naturels prévisibles et de risques technologiques, la présence d'équipements spéciaux importants. Les plans
 d'occupation des sols déterminent l'affectation des sols selon l'usage principal qui doit en être fait ou la nature des
-activités dominantes qui peuvent y être exercées.
+activités dominantes qui peuvent y être exercées ;
 
 2° définir, en fonction des situations locales, les règles concernant le droit d'implanter des constructions, leur
-destination et leur nature. 
+destination et leur nature.
 
 Ils peuvent, en outre :
 
@@ -2415,24 +2415,21 @@ ou immeubles à restaurer ou à réhabiliter ;
 6° préciser le tracé et les caractéristiques des voies de circulation à conserver, à modifier ou à créer, y compris les rues
 ou sentiers piétonniers et les pistes cyclables et délimiter les zones qui sont ou peuvent être aménagées en vue de la
 pratique du ski et les secteurs réservés aux remontées mécaniques en indiquant, le cas échéant, les équipements et
-aménagements qui peuvent y être prévus ;
-
-7° Identifier et délimiter les quartiers, rues, monuments, sites, éléments de paysage et secteurs à protéger ou à mettre en
-valeur pour des motifs d'ordre esthétique, historique ou écologique et définir, le cas échéant, les prescriptions de nature à
-assurer leur protection ;
+aménagements qui peuvent y être prévus ;    7° Identifier et délimiter les quartiers, rues, monuments, sites, éléments de
+paysage et secteurs à protéger ou à mettre en valeur pour des motifs d'ordre esthétique, historique ou écologique et définir,
+le cas échéant, les prescriptions de nature à assurer leur protection ;.
 
 8° fixer les emplacements réservés aux voies et ouvrages publics, aux installations d'intérêt général ainsi qu'aux espaces
 verts ;
 
 9° localiser, dans les zones urbaines, les terrains cultivés à protéger et inconstructibles quels que soient les équipements
-éventuels qui les desservent ;
+éventuels qui les desservent.
 
-10° Délimiter les secteurs dans lesquels la délivrance du permis de construire peut être subordonnée à la démolition de tout
-ou partie des bâtiments existants sur le terrain où l'implantation de la construction est envisagée ;
-
-11° Délimiter les zones dans lesquelles pourront s'implanter les magasins de commerce de détail dont l'octroi du permis de
-construire ou la réalisation est soumis à autorisation préalable de la commission départementale d'urbanisme commercial par
-l'article L. 451-5 du présent code ;
+10° Délimiter les secteurs dans lesquels la délivrance du permis de construire peut être surbordonnée à la démolition de tout
+ou partie des bâtiments existants sur le terrain où l'implantation de la construction est envisagée.    11° Délimiter les
+zones dans lesquelles pourront s'implanter les magasins de commerce de détail dont l'octroi du permis de construire ou la
+réalisation est soumis à autorisation préalable de la commission d'équipement commercial par l'article L. 451-5 du présent
+code.
 
 12° Délimiter les zones visées à l'article L. 372-3 du code des communes.
 
@@ -2528,7 +2525,7 @@ dispositions des programmes locaux de l'habitat lorsqu'ils existent.
 
 	**Modifié par**:
 
-	  - Loi n°93-24 du 8 janvier 1993 - art. 3 () JORF 9 janvier 1993
+	  - Loi n°93-122 du 29 janvier 1993 - art. 36 (V) JORF 30 janvier 1993
 
 	**Cite**:
 
@@ -9246,6 +9243,31 @@ prises en application de l'article L. 121-12.
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
+###### Article L311-4-1
+
+Seul le coût des équipements publics réalisés dans l'intérêt principal des usagers des constructions à édifier dans la zone
+d'aménagement concerté peut être mis à la charge des constructeurs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°93-122 du 29 janvier 1993 - art. 55 () JORF 30 janvier 1993
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L311-4 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L332-30 (M)
+	  - Code de l'urbanisme - art. R*332-41 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
 ###### Article L311-5
 
 Les chambres de commerce et d'industrie et les chambres de métiers sont associées à l'élaboration des plans d'aménagement de
@@ -13771,32 +13793,27 @@ application des dispositions de l'article L. 332-2.
 Les bénéficiaires d'autorisations de construire ne peuvent être tenus que des obligations suivantes :
 
 1° Le versement de la taxe locale d'équipement prévue à l'article 1585 A du code général des impôts ou de la participation
-instituée dans les secteurs d'aménagement définis à l'article L. 332-9 ;    2° Le versement des contributions aux dépenses
-d'équipements publics mentionnées à l'article L. 332-6-1. Toutefois ces contributions telles qu'elles sont définies aux 2° et
-3° dudit article ne peuvent porter sur les équipements publics donnant lieu à la participation instituée dans les secteurs
-d'aménagement définis à l'article L. 332-9 ;    3° La réalisation des équipements propres mentionnées à l'article L. 332-15.
-4° La participation à la diversité de l'habitat prévue à l'article L. 332-17. "
+instituée dans les secteurs d'aménagement définis à l'article L. 332-9 ;
 
-Les taxes ou contributions qui sont obtenues ou imposées en violation des dispositions du présent article sont réputées sans
-cause ; les sommes versées ou celles qui correspondent au coût des prestations fournies sont sujettes à répétition. L'action
-en répétition se prescrit par cinq ans à compter du dernier versement des taxes ou contributions ou de l'obtention des
-prestations indûment exigées. Les sommes à rembourser portent intérêt au taux légal.
+2° Le versement des contributions aux dépenses d'équipements publics mentionnées à l'article L. 332-6-1. Toutefois ces
+contributions telles qu'elles sont définies aux 2° et 3° dudit article ne peuvent porter sur les équipements publics donnant
+lieu à la participation instituée dans les secteurs d'aménagement définis à l'article L. 332-9 ;
+
+3° La réalisation des équipements propres mentionnées à l'article L. 332-15.
+
+4° La participation à la diversité de l'habitat prévue à l'article L. 332-17.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 52 (V)
-
 	**Modifié par**:
 
-	  - Loi - art. 17 ()
+	  - Loi n°93-122 du 29 janvier 1993 - art. 57 () JORF 30 janvier 1993
 
 	**Cité par**:
 
-	  - Décret n°91-1201 du 27 novembre 1991 - art. ANNEXE (V)
 	  - Arrêté du 10 juin 1996 - art. ANNEXE I (VT)
 	  - Arrêté du 13 mars 1986 - art. 3 (Ab)
+	  - Décret n°91-1201 du 27 novembre 1991 - art. ANNEXE (V)
 	  - Code de l'environnement - art. L332-27 (VT)
 	  - Code de l'urbanisme - art. L332-12 (M)
 	  - Code de l'urbanisme - art. L332-13 (M)
@@ -13829,35 +13846,34 @@ prestations indûment exigées. Les sommes à rembourser portent intérêt au ta
 
 Les contributions aux dépenses d'équipements publics prévus au 2° de l'article L. 332-6 sont les suivantes :
 
-1° a) La participation pour dépassement du coefficient d'occupation des sols prévue à l'article L. 332-1 ;
+1° a) La participation pour dépassement du coefficient d'occupation des sols prévue à l'article L. 332-1 ; 
 
-b) Le versement pour dépassement du plafond légal de densité prévu à l'article L. 112-2 ;
+b) Le versement pour dépassement du plafond légal de densité prévu à l'article L. 112-2 ;       
 
-c) La taxe départementale des espaces naturels sensibles prévue à l'article L. 142-2 ;
+c) La taxe départementale des espaces naturels sensibles prévue à l'article L. 142-2 ;       
 
 d) La taxe pour le financement des dépenses des conseils d'architecture, d'urbanisme et de l'environnement prévue à l'article
-1599 B du code général des impôts ;
+1599 B du code général des impôts ;       
 
-e) La taxe spéciale d'équipement prévue à l'article 1599 OB du code général des impôts.
+e) La taxe spéciale d'équipement prévue à l'article 1599 OB du code général des impôts. 
 
-2° a) La participation pour raccordement à l'égout prévue à l'article L. 35-4 du code de la santé publique ;
+2° a) La participation pour raccordement à l'égout prévue à l'article L. 35-4 du code de la santé publique ; 
 
 b) La participation destinée à la réalisation de parcs publics de stationnement prévue au troisième alinéa de l'article L.
-421-3 ;
+421-3 ;    
 
-c) La participation spécifique pour la réalisation d'équipements publics exceptionnels prévue à l'article L. 332-8 ;
+c) La participation spécifique pour la réalisation d'équipements publics exceptionnels prévue à l'article L. 332-8 ;    
 
 d) La participation demandée pour la réalisation des équipements des services publics industriels ou commerciaux concédés,
-affermés ou exploités en régie dès lors que ces équipements sont rendus nécessaires par la réalisation de l'opération ;
+affermés ou exploités en régie réalisés dans l'intérêt principal des usagers des constructions à édifier dans cette
+opération ; 
 
 e) Les cessions gratuites de terrains destinés à être affectés à certains usages publics qui, dans la limite de 10 p. 100 de
 la superficie du terrain auquel s'applique la demande, peuvent être exigées des bénéficiaires d'autorisations portant sur la
-création de nouveaux bâtiments ou de nouvelles surfaces construites ;
-
-3° La participation des riverains prévue par la législation applicable dans les départements du Haut-Rhin, du Bas-Rhin et de
-la Moselle, celle-ci pouvant être actualisée pour tenir compte du délai écoulé entre la date de réalisation des travaux
-concernés et le montant de perception de cette participation. Elle peut également inclure les frais de premier établissement
-de l'éclairage public.
+création de nouveaux bâtiments ou de nouvelles surfaces construites ;    3° La participation des riverains prévue par la
+législation applicable dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle, celle-ci pouvant être actualisée
+pour tenir compte du délai écoulé entre la date de réalisation des travaux concernés et le montant de perception de cette
+participation. Elle peut également inclure les frais de premier établissement de l'éclairage public.
 
 **Liens relatifs à cet article**
 
@@ -13869,14 +13885,6 @@ de l'éclairage public.
 	  - Code de l'urbanisme - art. L142-2 (M)
 	  - Code de l'urbanisme - art. L332-1 (M)
 	  - Code de l'urbanisme - art. L332-8 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 52 (V)
-
-	**Modifié par**:
-
-	  - Loi n°86-1318 du 30 décembre 1986 - art. 32 () JORF du 31 décembre 1986
 
 	**Cité par**:
 
@@ -13906,6 +13914,10 @@ de l'éclairage public.
 	  - Code général des collectivités territoriales - art. L2543-7 (Ab)
 	  - Code général des collectivités territoriales - art. L5215-32 (VT)
 	  - Livre des procédures fiscales - art. L255 A (V)
+
+	**Modifié par**:
+
+	  - Loi n°93-122 du 29 janvier 1993 - art. 56 () JORF 30 janvier 1993
 
 	**Codifié par**:
 
@@ -13983,10 +13995,9 @@ laquelle incombent ces équipements ou de son concessionnaire.
 
 ###### Article L332-9
 
-Dans les secteurs du territoire de la commune où un programme d'aménagement d'ensemble a été approuvé par le conseil
-municipal, celui-ci peut mettre à la charge des bénéficiaires d'autorisations de construire tout ou partie des dépenses de
-réalisation des équipements publics correspondant aux besoins des habitants actuels ou futurs du secteur concerné et rendus
-nécessaires par la mise en oeuvre du programme d'aménagement.
+" Dans les secteurs de la commune où un programme d'aménagement d'ensemble a été approuvé par le conseil municipal, il peut
+être mis à la charge des constructeurs tout ou partie du coût des équipements publics réalisés dans l'intérêt principal des
+usagers des constructions à édifier dans le secteur concerné. "
 
 Dans les communes où la taxe locale d'équipement est instituée, les constructions édifiées dans ces secteurs sont exclues du
 champ d'application de la taxe.
@@ -13997,17 +14008,17 @@ des constructeurs, ainsi que les critères de répartition de celle-ci entre les
 délibération fait l'objet d'un affichage en mairie. Une copie de cette délibération est jointe à toute délivrance de
 certificat d'urbanisme.
 
+" Sont exonérées de la participation prévue au présent article les constructions édifiées dans une zone d'aménagement
+concerté lorsque leur terrain d'assiette a fait l'objet d'une cession, location ou concession d'usage consentie par
+l'aménageur de la zone ou d'une convention par laquelle le propriétaire du terrain s'engage à participer à la réalisation de
+ladite zone. "
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 23 () JORF 19 juillet 1985 en vigueur le 1er juillet 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 52 (V)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L332-6 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L332-7 (M)
+	  - Loi n°93-122 du 29 janvier 1993 - art. 55 () JORF 30 janvier 1993
+	  - Loi n°93-122 du 29 janvier 1993 - art. 58 () JORF 30 janvier 1993
 
 	**Cité par**:
 
@@ -14045,6 +14056,11 @@ certificat d'urbanisme.
 	  - Code général des collectivités territoriales - art. L5215-32 (V)
 	  - Code général des impôts, CGI. - art. 1585 C (VT)
 	  - Loi n°1871-08-10. du 10 août 1871 - art. 61 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L332-6 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L332-7 (M)
 
 	**Codifié par**:
 
@@ -14137,19 +14153,20 @@ réclamées par les constructeurs qui en auront définitivement supporté la cha
 
 Les dispositions des articles L. 332-6 et L. 332-7 sont sont applicables dans les conditions suivantes aux lotisseurs ainsi
 qu'aux personnes aménageant des terrains destinés à l'accueil d'habitations légères de loisir et aux associations foncières
-urbaines de remembrement autorisées ou constituées d'office.    Peuvent être mis à la charge du lotisseur, de la personne
-aménageant un terrain destiné à l'accueil d'habitation légères de loisir ou de l'association foncière urbaine par
-l'autorisation de lotir, par l'autorisation d'aménager, ou par l'acte administratif approuvant le plan de remembrement :
+urbaines de remembrement autorisées ou constituées d'office.
 
-a) Le versement pour dépassement du plafond légal de densité dans les conditions prévues à l'article L. 333-9-1 ; 
+Peuvent être mis à la charge du lotisseur, de la personne aménageant un terrain destiné à l'accueil d'habitation légères de
+loisir ou de l'association foncière urbaine par l'autorisation de lotir, par l'autorisation d'aménager, ou par l'acte
+administratif approuvant le plan de remembrement :
 
-b) La participation pur dépassement du coefficient d'occupation des sols dans les conditions prévues à l'article L.
-332-1 ;    
+a) Le versement pour dépassement du plafond légal de densité dans les conditions prévues à l'article L. 333-9-1 ;
 
-c) La participation spécifique pour équipements publics exceptionnels dans les conditions prévues à l'article L. 332-8 ;    
+b) La participation pur dépassement du coefficient d'occupation des sols dans les conditions prévues à l'article L. 332-1 ;
 
-d) Une participation forfaitaire représentative de la taxe locale d'équipement ou de la participation prévue à l'article L.
-332-9 et des contributions énumérées aux c et d du 1°, aux a, b, d et e du 2° et au 3° de l'article L. 332-6-1 ; 
+c) La participation spécifique pour équipements publics exceptionnels dans les conditions prévues à l'article L. 332-8 ;
+
+d) Une participation forfaitaire représentative de la participation prévue à l'article L. 332-9 et des contributions
+énumérées aux a, b, d et e du 2° et au 3° de l'article L. 332-6-1 ;
 
 e) Un versement représentatif de la participation à la diversité de l'habitat prévue à l'article L. 332-17.
 
@@ -14159,19 +14176,20 @@ foncière urbaine de remembrement.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 52 (V)
-
 	**Modifié par**:
 
-	  - Loi - art. 17 ()
+	  - Loi n°93-122 du 29 janvier 1993 - art. 56 () JORF 30 janvier 1993
 
 	**Cite**:
 
+	  - Code de l'urbanisme - art. L332-1 (M)
 	  - Code de l'urbanisme - art. L332-17 (Ab)
 	  - Code de l'urbanisme - art. L332-6 (M)
+	  - Code de l'urbanisme - art. L332-6-1 (M)
 	  - Code de l'urbanisme - art. L332-7 (M)
+	  - Code de l'urbanisme - art. L332-8 (M)
+	  - Code de l'urbanisme - art. L332-9 (M)
+	  - Code de l'urbanisme - art. L333-9-1 (Ab)
 
 	**Cité par**:
 
@@ -14735,6 +14753,109 @@ l'application de la présente section dans les départements d'outre-mer, à des
 	**Cité par**:
 
 	  - Loi n°94-112 du 9 février 1994 - art. 6 (V)
+
+
+#####  Section 5 : Dispositions diverses
+
+###### Article L332-28
+
+Les contributions mentionnées ou prévues au 2° de l'article L. 332-6-1 et à l'article L. 332-9 sont prescrites, selon le cas,
+par l'autorisation de construire, l'autorisation de lotir, l'autorisation d'aménager un terrain destiné à l'accueil
+d'habitations légères de loisir ou l'acte approuvant un plan de remembrement. Cette autorisation ou cet acte en constitue le
+fait générateur. Il en fixe le montant, la superficie s'il s'agit d'un apport de terrains ou les caractéristiques générales
+s'il s'agit des travaux mentionnés au premier alinéa de l'article L. 332-10.
+
+Toutefois, en ce qui concerne les participations demandées pour la réalisation des services publics industriels ou
+commerciaux concédés, affermés ou exploités en régie, le fait générateur est constitué par la demande de raccordement au
+réseau géré dans le cadre du service concerné, si elle est antérieure à l'autorisation ou à l'acte visé au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°93-122 du 29 janvier 1993 - art. 57 () JORF 30 janvier 1993
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. A424-3 (V)
+	  - Code de l'urbanisme - art. A424-5 (V)
+	  - Code de l'urbanisme - art. L332-29 (V)
+	  - Code de l'urbanisme - art. L332-30 (V)
+	  - Code de l'urbanisme - art. R*424-7 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L332-10 (V)
+	  - Code de l'urbanisme - art. L332-6-1 (M)
+	  - Code de l'urbanisme - art. L332-9 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L332-29
+
+Les contributions prescrites par l'autorisation ou l'acte mentionné à l'article L. 332-28 ainsi que celles exigées dans le
+cadre de la réalisation des zones d'aménagement concerté sont inscrites sur un registre mis à la disposition du public en
+mairie. Un décret en Conseil d'Etat détermine, en tant que de besoin, les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Cité par**:
+
+	  - Loi n°78-753 du 17 juillet 1978 - art. 21 (VT)
+	  - Loi n°78-753 du 17 juillet 1978 - art. 5-1 (Ab)
+	  - Code de l'urbanisme - art. L332-30 (V)
+	  - Code des relations entre le public et l'adminis... - art. L342-2 (VT)
+
+	**Créé par**:
+
+	  - Loi n°93-122 du 29 janvier 1993 - art. 57 () JORF 30 janvier 1993
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L332-28 (M)
+
+
+###### Article L332-30
+
+Les taxes et contributions de toute nature qui sont obtenues ou imposées en violation des dispositions des articles L.
+311-4-1 et L. 332-6 sont réputées sans cause ; les sommes versées ou celles qui correspondent au coût de prestations fournies
+sont sujettes à répétition. L'action en répétition se prescrit par cinq ans à compter du dernier versement ou de l'obtention
+des prestations indûment exigées.
+
+Les acquéreurs successifs de biens ayant fait l'objet des autorisations mentionnées à l'article L. 332-28 ou situés dans une
+zone d'aménagement concerté peuvent également exercer l'action en répétition prévue à l'alinéa précédent. Pour ces personnes,
+l'action en répétition se prescrit par cinq ans à compter de l'inscription sur le registre prévu à l'article L. 332-29
+attestant que le dernier versement a été opéré ou la prestation obtenue.
+
+Les sommes à rembourser au titre des deux alinéas précédents portent intérêt au taux légal majoré de cinq points.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°93-122 du 29 janvier 1993 - art. 57 () JORF 30 janvier 1993
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L311-4-1 (M)
+	  - Code de l'urbanisme - art. L332-28 (M)
+	  - Code de l'urbanisme - art. L332-29 (V)
+	  - Code de l'urbanisme - art. L332-6 (M)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L332-15 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 #### Chapitre III : Versement résultant du dépassement du plafond légal de densité.
@@ -17800,85 +17921,6 @@ spéciaux importants.
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
-#####  Section 3 : Création et construction de magasins de grande surface.
-
-###### Article L451-5
-
-Ainsi qu'il est dit à l'article 29 de la loi n. 73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat :
-préalablement à l'octroi du permis de construire, s'il y a lieu, et avant réalisation, si le permis de construire n'est pas
-exigé, sont soumis pour autorisation à la commission départementale d'urbanisme commercial les projets :
-
-1. De constructions nouvelles entraînant création de magasins de commerce de détail d'une surface de plancher hors oeuvre
-supérieure à 3.000 mètres carrés, ou d'une surface de vente supérieure à 1.500 mètres carrés, les surfaces précitées étant
-ramenées, respectivement, à 2.000 et 1.000 mètres carrés dans les communes dont la population est inférieure à 40.000
-habitants ;
-
-2. D'extension de magasins ou d'augmentation des surfaces de vente des établissements commerciaux ayant déjà atteint les
-surfaces prévues au 1. ci-dessus ou devant les atteindre ou les dépasser par la réalisation du projet si celui-ci porte sur
-une surface de vente supérieure à 200 mètres carrés ;
-
-3. De transformation d'immeubles existants en établissements de commerce de détail dont la surface de plancher hors oeuvre ou
-la surface de vente est égale ou supérieure aux surfaces définies au 1. ci-dessus.
-
-Lorsque le projet subit des modifications substantielles dans la nature du commerce ou des surfaces de vente, le préfet
-saisit à nouveau la commission départementale d'urbanisme commercial qui doit alors statuer dans un délai de deux mois.
-
-L'autorisation préalable requise pour les réalisations définies au 1. ci-dessus n'est ni cessible ni transmissible.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Cite**:
-
-	  - Loi n°73-1193 1973-12-27 ART. 29
-
-	**Anciens textes**:
-
-	  - Loi n°73-1193 1973-12-27 ART. 29
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. L123-1 (M)
-	  - Code de l'urbanisme - art. L451-6 (Ab)
-
-
-###### Article L451-6
-
-Ainsi qu'il est dit à l'article 32 de la loi n. 73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat, la
-commission départementale d'urbanisme commercial doit statuer sur les demandes d'autorisation visées à l'article L. 451-5
-dans un délai de trois mois, à compter du [*point de départ*] dépôt de chaque demande, et ses décisions doivent être motivées
-en se référant notamment aux dispositions de l'article 28 de ladite loi. Passé ce délai, l'autorisation [*tacite*] est
-réputée accordée. Les commissaires auront connaissance des demandes déposées au moins un mois avant d'avoir à statuer.
-
-A l'initiative du préfet, du tiers des membres de la commission ou à celle du demandeur, la décision de la commission
-départementale peut, dans le délai de deux mois de sa notification ou de son intervention implicite, faire l'objet d'un
-recours auprès du ministre du commerce et de l'artisanat qui, après avis de la commission nationale d'urbanisme commercial
-prévue à l'article 33 de la loi n. 73-1193, se prononce dans un délai de trois mois.
-
-Avant l'expiration du délai de recours ou, en cas de recours, avant la décision en appel du ministre chargé du commerce et de
-l'artisanat, le permis de construire ne peut être accordé ni la réalisation entreprise.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Cite**:
-
-	  - Loi n°73-1193 1973-12-27 ART. 28
-	  - Loi n°73-1193 du 27 décembre 1973 - art. 32 (M)
-	  - Loi n°73-1193 du 27 décembre 1973 - art. 33 (M)
-	  - Code de l'urbanisme - art. L451-5 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°73-1193 du 27 décembre 1973 - art. 32 (M)
-
-
 #### Chapitre I : Dispositions propres à certaines utilisations des surfaces bâties
 
 #####  Section 1 : Cours communes.
@@ -17981,6 +18023,133 @@ l'ordonnance au 1er octobre 2007.
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973)
+
+
+#####  Section 3 : Création et construction de magasins de grande surface.
+
+###### Article L451-5
+
+Ainsi qu'il est dit à l'article L. 720-5 du code de commerce :
+
+"I. Sont soumis à une autorisation d'exploitation commerciale les projets ayant pour objet :
+
+1. La création d'un magasin de commerce de détail d'une surface de vente supérieure à 300 mètres carrés, résultant soit d'une
+construction nouvelle, soit de la transformation d'un immeuble existant ;
+
+2. L'extension de la surface de vente d'un magasin de commerce de détail ayant déjà atteint le seuil des 300 mètres carrés ou
+devant le dépasser par la réalisation du projet. Est considérée comme une extension l'utilisation supplémentaire de tout
+espace couvert ou non, fixe ou mobile, et qui n'entrait pas dans le cadre de l'article L. 310-2 ;
+
+3. La création ou l'extension d'un ensemble commercial tel que défini à l'article L. 720-6 d'une surface de vente totale
+supérieure à 300 mètres carrés ou devant dépasser ce seuil par la réalisation du projet ;
+
+4. La création ou l'extension de toute installation de distribution au détail de combustibles et de carburants, quelle qu'en
+soit la surface de vente, annexée à un magasin de commerce de détail mentionné au 1° ci-dessus ou à un ensemble commercial
+mentionné au 3° ci-dessus et située hors du domaine public des autoroutes et routes express.
+
+Les dispositions relatives aux installations de distribution de combustibles sont précisées par décret.
+
+Lorsque le projet subit des modifications substantielles dans la nature du commerce ou des surfaces de vente, le préfet
+saisit à nouveau la commission d'équipement commercial qui doit alors statuer dans un délai de deux mois. 
+
+L'autorisation préalable requise pour les réalisations définies au 1. ci-dessus n'est ni cessible ni transmissible" (1).
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
+
+(1) Les dispositions de l'article L. 720-5 du code de commerce sont désormais codifiées sous l'article L. 752-1 du même code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Cite**:
+
+	  - Loi n°73-1193 1973-12-27 art. 29
+	  - Ordonnance 2005-1527 2005-12-08
+	  - Code de commerce. - art. L720-5 (M)
+	  - Code de l'urbanisme 41
+
+	**Anciens textes**:
+
+	  - Loi n°73-1193 1973-12-27 art. 29
+
+	**Modifié par**:
+
+	  - Loi n°93-122 du 29 janvier 1993 - art. 36 (V) JORF 30 janvier 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L123-1 (M)
+	  - Code de l'urbanisme - art. L451-6 (Ab)
+
+
+###### Article L451-6
+
+Ainsi qu'il est dit à l'article L. 720-10 du code de commerce, la commission départementale d'équipement commercial doit
+statuer sur les demandes d'autorisation visées à l'article L. 451-5 dans un délai de trois mois, à compter du dépôt de chaque
+demande, et ses décisions doivent être motivées en se référant notamment aux dispositions de l'article L. 720-3 dudit code.
+Passé ce délai, l'autorisation est réputée accordée. Les commissaires auront connaissance des demandes déposées au moins un
+mois avant d'avoir à statuer. 
+
+A l'initiative du préfet, du tiers des membres de la commission ou à celle du demandeur, la décision de la commission
+départementale peut, dans le délai de deux mois de sa notification ou de son intervention implicite, faire l'objet d'un
+recours auprès du ministre du commerce et de l'artisanat qui, après avis de la commission nationale d'équipement commercial
+prévue à l'article L. 720-11 du code de commerce, se prononce dans un délai de trois mois. 
+
+Avant l'expiration du délai de recours ou, en cas de recours, avant la décision en appel du ministre chargé du commerce et de
+l'artisanat, le permis de construire ne peut être accordé ni la réalisation entreprise.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°73-1193 du 27 décembre 1973 - art. 32 (M)
+
+	**Modifié par**:
+
+	  - Loi n°93-122 du 29 janvier 1993 - art. 36 (V) JORF 30 janvier 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de commerce. - art. L720-10 (M)
+	  - Code de commerce. - art. L720-11 (Ab)
+	  - Code de commerce. - art. L720-3 (M)
+	  - Code de commerce. - art. L720-5 (M)
+	  - Code de l'urbanisme - art. L451-5 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 ### Titre VI : Contrôle.
@@ -18363,10 +18532,10 @@ deux peines seulement, sont prononcés par le tribunal contre les personnes vis�
 L'exécution de travaux ou l'utilisation du sol en méconnaissance des obligations imposées par les titres Ier, II, III, IV et
 VI du présent livre, par les règlements pris pour son application ou par les autorisations délivrées en conformité avec leurs
 dispositions, exception faite des infractions relatives à l'affichage des autorisations ou déclarations concernant des
-travaux, constructions ou installations, est punie d'une amende comprise entre 2.000 F et un montant qui ne peut excéder
-soit, dans le cas de construction d'une surface de plancher, une somme égale à 10.000 F par mètre carré de la construction ou
-de la partie de la construction réalisée en infraction, soit, dans le cas contraire, un montant de 500.000 F. En cas de
-récidive, outre la peine d'amende ainsi définie un emprisonnement de un mois à six mois pourra être prononcé.
+travaux, constructions ou installations, est punie d'une amende comprise entre 8000 F et un montant qui ne peut excéder,
+soit, dans le cas de construction d'une surface de plancher, une somme égale à 40.000 F par mètre carré de surface
+construite, démolie ou rendue inutilisable au sens de l'article L.430-2, soit, dans les autres cas, un montant de 2 000 000
+F. En cas de récidive, outre la peine d'amende ainsi définie un emprisonnement de un à six mois pourra être prononcé.
 
 Les peines prévues à l'alinéa précédent peuvent être prononcées contre les utilisateurs du sol, les bénéficiaires des
 travaux, les architectes, les entrepreneurs ou autres personnes responsables de l'exécution desdits travaux.
@@ -18415,15 +18584,17 @@ délais impartis pour le rétablissement des lieux dans leur état antérieur ou
 	  - Code du travail - art. L4744-1 (VD)
 	  - Loi n°1930-05-02 du 2 mai 1930 - art. 21 (Ab)
 
-	**Modifié par**:
-
-	  - Loi n°86-13 du 6 janvier 1986 - art. 7 () JORF 7 janvier 1986
-
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L480-1 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L480-2 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L480-5 (M)
+	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
+
+	**Modifié par**:
+
+	  - Loi n°93-121 du 27 janvier 1993 - art. 86 () JORF 30 janvier 1993
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L430-2 (Ab)
 
 	**Anciens textes**:
 
@@ -43648,12 +43819,13 @@ accompagnée de la justification de la surface hors oeuvre nette attribuée au t
 ###### Article R421-4
 
 Le cas échéant, figurent dans la demande tous les éléments nécessaires au calcul des différentes impositions dont la
-délivrance du permis de construire constitue le fait générateur.
+délivrance du permis de construire constitue le fait générateur. 
 
-Lorsqu'il s'agit de constructions à usage commercial assujetties à l'autorisation de la commission départementale d'urbanisme
-commercial en vertu de l'article 29 de la loi n. 73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat, la
-demande de permis de construire est complétée par la copie de la lettre adressée par le commissaire de la République au
-demandeur de l'autorisation précitée lorsque le dossier joint à la demande d'autorisation a été reconnu complet [*contenu*].
+Lorsqu'il s'agit de constructions à usage commercial assujetties à l'autorisation de la commission d'équipement commercial en
+vertu de l'article 29 de la loi n. 73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat,
+
+la demande de permis de construire est complétée par la copie de la lettre adressée par le préfet au demandeur de
+l'autorisation précitée lorsque le dossier joint à la demande d'autorisation a été reconnu complet [*contenu*].
 
 **Liens relatifs à cet article**
 
@@ -43667,7 +43839,7 @@ demandeur de l'autorisation précitée lorsque le dossier joint à la demande d'
 
 	**Modifié par**:
 
-	  - Décret n°83-1261 1983-12-30 ART. 1, ART. 2, ART. 47 JORF 7 JANVIER 1984 date d'entrée en vigueur 1 AVRIL 1984
+	  - Loi n°93-122 du 29 janvier 1993 - art. 36 (V) JORF 30 janvier 1993
 
 	**Cité par**:
 
@@ -44242,26 +44414,27 @@ mentionnées à l'article R. 421-3-1 du présent code.
 
 ###### Article R421-18
 
-Sous réserve de ce qui est dit aux alinéas 2 et suivants du présent article et aux articles R. 421-38-2 et suivants, le délai
-d'instruction, dont le point de départ est prévu aux articles R. 421-12 et R. 421-13 ou, le cas échéant, R. 421-14 est fixé à
-deux mois.
+Sous réserve de ce qui est dit aux alinéas 2 et suivants du présent article et aux articles R. 421-38-2 et suivants,
+
+le délai d'instruction, dont le point de départ est prévu aux articles R. 421-12 et R. 421-13 ou, le cas échéant, R. 421-14
+est fixé à deux mois. 
 
 Le délai d'instruction est porté à trois mois si la demande concerne la construction soit de plus de 200 logements, soit de
 locaux à usage industriel ou commercial ou à usage de bureaux dont la superficie de planchers hors oeuvre est égale ou
-supérieure à 2.000 mètres carrés au total.
+supérieure à 2.000 mètres carrés au total. 
 
 Le délai d'instruction est majoré d'un mois lorsqu'il y a lieu de consulter un ou plusieurs services ou autorités dépendant
 de ministres ou personnes publiques autres que ceux chargés de l'instruction ou de la prise de décision ou de consulter une
-commission départementale ou régionale.
+commission départementale ou régionale. 
 
 Le délai d'instruction est également majoré d'un mois lorsqu'il y a lieu d'instruire une dérogation ou une adaptation
-mineure.
+mineure. 
 
 Le délai d'instruction est porté à cinq mois lorsque le projet est soumis à enquête publique, lorsqu'il y a lieu de consulter
 une commission nationale ou lorsque la demande concerne la construction de locaux à usage commercial assujettis à
-l'autorisation de la commission départementale d'urbanisme commercial ; en cas de recours formulé dans les conditions prévues
-à l'article 32 de la loi n. 73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat contre la décision de
-cette commission, ce délai est majoré de quatre mois.
+l'autorisation de la commission d'équipement commercial ; en cas de recours formulé dans les conditions prévues à l'article
+32 de la loi n. 73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat contre la décision de cette
+commission, ce délai est majoré de quatre mois.
 
 **Liens relatifs à cet article**
 
@@ -44281,7 +44454,7 @@ cette commission, ce délai est majoré de quatre mois.
 
 	**Modifié par**:
 
-	  - Décret n°85-452 1985-04-23 art. 8 JORF 24 avril 1985
+	  - Loi n°93-122 du 29 janvier 1993 - art. 36 (V) JORF 30 janvier 1993
 
 	**Cité par**:
 
