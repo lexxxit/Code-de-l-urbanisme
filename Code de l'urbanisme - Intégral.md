@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1977-07-14
+Version Consolidée au 1977-07-22
 
 # Partie législative
 
@@ -39823,6 +39823,30 @@ Les dispositions des articles A. 335-1 à A. 335-6 ne peuvent être modifiées q
 
 ## REGLES RELATIVES A L'ACTE DE CONSTRUIRE ET A DIVERS MODES  D'UTILISATION DU SOL
 
+### PERMIS DE DEMOLIR
+
+#### REGIME GENERAL
+
+##### DECISION .
+
+###### Article A430-3
+
+L'affichage du permis de démolir sur le terrain est assuré par les soins de son bénéficiaire sur un panneau rectangulaire
+dont les dimensions sont supérieures à 80 cm.
+
+Ce panneau indique le nom, la raison sociale ou la dénomination dudit bénéficiaire, la date et le numéro du permis de
+démolir ; il précise s'il s'agit d'une démolition totale ou partielle ; il mentionne l'adresse de la mairie où aura été
+effectué l'affichage d'un extrait de ce même permis et où pourra être consulté le registre en faisant foi.
+
+Ces renseignements doivent demeurer lisibles de la voie publique pendant toute la durée des travaux de démolition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+
 ### DISPOSITIONS RELATIVES AUX MODES PARTICULIERS  D'UTILISATION DU SOL
 
 #### INSTALLATIONS DIVERSES .
@@ -40960,6 +40984,74 @@ Les dispositions du présent chapitre ne peuvent être modifiées que par arrêt
 	  - Arrêté du 28 décembre 1977 art. 1, v. init.
 
 
+### TITRE III : Permis de démolir
+
+####  Section 1 : Régime général
+
+###### Article A430-2
+
+Toute demande de permis de démolir concernant un bâtiment comportant un ou plusieurs logements soumis à la loi n. 48-1360 du
+1er septembre 1948 modifiée est accompagnée d'une copie du projet ou de la convention de relogement des locataires ou
+occupants ainsi que d'une notice indiquant le nombre de locataires ou occupants à reloger, le nombre de relogements
+provisoires et définitifs et, au cas de relogement définitif, les caractéristiques du local offert à chacun d'eux (adresse,
+habitabilité, montant du loyer, nature juridique de la location).
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1989-01-06 art. 7 I JORF 4 février 1989
+
+	**Abrogé par**:
+
+	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Loi n°48-1360 1948-09-01
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+
+#####    Sous-section 1 : Présentation de la demande.
+
+###### Article A430-1
+
+La demande de permis de démolir prévue à l'article R. 430-6, est établie conformément au modèle joint en annexe au présent
+code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Cité par**:
+
+	  - Arrêté du 29 octobre 1993 - art. 1 (V)
+	  - Arrêté du 29 octobre 1993 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme R430-6
+
+
+####  Section 4 : Formalités postérieures à la délivrance du permis de de démolir.
+
+###### Article A430-4
+
+A l'issue de l'affichage à la mairie d'un extrait de la décision accordant le permis de démolir et jusqu'à l'achèvement des
+travaux de démolition, toute personne intéressée peut consulter le registre en attestant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+
 ### Titre IV : Dispositions relatives aux modes particuliers d'utilisation du sol.
 
 ###### Article A440-6
@@ -41848,17 +41940,19 @@ Les dispositions de la présente section ne peuvent être modifiées que par arr
 
 ###### Article A612-5
 
-Sont membres de la conférence permanente du permis de construire de la ville de Paris :
+Sont membres de la conférence permanente du permis de construire du département de Paris :
 
 Le préfet de Paris ou le secrétaire général, président ;
 
-Les directeurs chargés, à la préfecture de Paris, des affaires concernant l'urbanisme, l'habitation, la santé publique, les
-beaux-arts, la jeunesse et les sports, l'enseignement, l'architecture, les questions domaniales et les services techniques ;
-Le président de la section permanente de la commission départementale des sites ;
+Le directeur de l'urbanisme et des équipements de la préfecture de Paris ;
+
+Le directeur départemental de l'action sanitaire et sociale ;
+
+Le président de la délégation permanente de la commission départementale des sites ;
 
 L'inspecteur général des monuments historiques ;
 
-Le directeur de la division Urbanisme du service régional de l'équipement de la région d'Ile-de-France ;
+L'inspecteur d'académie ;
 
 Le directeur de l'hygiène et de la sécurité publique de la préfecture de police ;
 
