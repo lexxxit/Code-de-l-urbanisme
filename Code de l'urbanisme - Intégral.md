@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1982-12-04
+Version Consolidée au 1982-12-30
 
 # Partie législative
 
@@ -592,7 +592,16 @@ réglementaires relatives à l'utilisation du sol.
 Le rapport entre la surface de plancher d'une construction et la surface de terrain sur laquelle cette construction est ou
 doit être implantée définit la densité de construction.
 
-Une densité égale à 1 constitue la limite légale de densité. Pour la ville de Paris, ce chiffre est fixé à 1,5.
+Une densité égale à 1 constitue la limite légale de densité.    Pour la ville de Paris, ce chiffre est fixé à 1,5.
+
+Toutefois, sur le territoire de l'ensemble des communes faisant partie d'un groupement de communes ayant compétence en
+matière d'élaboration de documents d'urbanisme ou en matière d'aménagement urbain ou, à défaut de l'existence d'un tel
+groupement, sur le territoire des communes de plus de 50000 habitants, la limite légale de densité peut être modifiée sans
+pouvoir être inférieure à un, ni supérieure à deux. Pour la ville de Paris, ces chiffres sont respectivement 1,5 et 3. Cette
+décision ne peut intervenir que dans un délai de six mois à compter de la date de l'élection ou de la désignation de l'organe
+délibérant compétent. La décision des communes de plus de 50000 habitants doit être précédée d'une information sur le projet
+des communes limitrophes. La décision du groupement de communes est prise à la majorité des deux tiers des communes
+représentant la moitié de la population ou de la moitié des communes représentant les deux tiers de la population.
 
 Au-delà de cette limite, appelée "plafond légal de densité", l'exercice du droit de construire relève de la collectivité dans
 les conditions fixées par les dispositions du présent chapitre.
@@ -602,6 +611,10 @@ les conditions fixées par les dispositions du présent chapitre.
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 31 () JORF 30 DECEMBRE 1982
 
 	**Cité par**:
 
@@ -634,7 +647,20 @@ densité de la construction n'excède pas ce plafond.
 L'attribution, expresse ou tacite, du permis de construire entraîne pour le bénéficiaire de l'autorisation de construire
 l'obligation d'effectuer ce versement.
 
+Toutefois, cette obligation n'est pas applicable aux immeubles édifiés par l'Etat, les régions, les départements ou les
+communes, ni aux immeubles édifiés par les établissements publics administratifs à vocation culturelle, scientifique,
+d'enseignement, de santé ou d'assistance, lorsqu'ils sont affectés à un service public ou d'utilité générale et qu'ils ne
+sont pas productifs de revenus.
+
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 31 () JORF 30 DECEMBRE 1982
 
 	**Cité par**:
 
@@ -675,10 +701,6 @@ l'obligation d'effectuer ce versement.
 	  - Code général des impôts, CGI. - art. 302 septies B (M)
 	  - Livre des procédures fiscales - art. L133 (V)
 
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
 
 ###### Article L112-3
 
@@ -699,12 +721,9 @@ densité est calculée en ajoutant sa surface de plancher à celle de la constru
 
 ###### Article L112-4
 
-Lorsqu'une construction est édifiée sur un terrain qui, à la date d'entrée en vigueur du titre Ier de la loi n. 75-1328 du 31
+Lorsqu'une construction est édifiée sur un terrain qui, à la date d'entrée en vigueur au titre 1er de la loi n° 75-1328 du 31
 décembre 1975 comportait déjà un ou des bâtiments ayant une surface de plancher supérieure au plafond légal de densité, le
 versement n'est dû qu'à concurrence de la surface de plancher excédant la surface déjà construite.
-
-Toutefois, les dispositions de l'alinéa précédent ne sont pas applicables aux bâtiments ayant fait l'objet d'un arrêté de
-péril ou d'insalubrité.
 
 La reconstruction ultérieure d'un bâtiment pour lequel le versement prévu à l'article L. 112-2 a été effectué ne peut donner
 lieu à un nouveau versement qu'à concurrence de la densité excédant celle du bâtiment initialement construit.
@@ -717,8 +736,16 @@ lieu à un nouveau versement qu'à concurrence de la densité excédant celle du
 
 	**Cite**:
 
-	  - Loi n°75-1328 1975-12-31 TITRE I
+	  - Loi n°75-1328 1975-12-31
 	  - Code de l'urbanisme - art. L112-2 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°82-1126 1982-12-29 art. 31 II : dans la région d'Ile-de-France, le quart du produit des versements dus au titre des densités de constructions supérieures au plafond légal concernant les permis de construire délivrés avant le 31 décembre 1982 rest
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 31 () JORF 30 décembre 1982
 
 
 ###### Article L112-5
@@ -7726,31 +7753,21 @@ fraction du versement a été acquittée.
 
 ###### Article L333-3
 
-Les trois quarts du produit des versements au double du plafond légal sont attribués [*bénéficiaire*] à la commune ou, s'il
-en existe un, à l'établissement public groupant plusieurs communes et ayant compétence en matière d'urbanisme [*district
-urbain, syndicat de communes, communauté urbaine*], sur le territoire desquels se trouve située la construction.
+Les trois quarts du produit des versements dus au titre des densités de construction supérieures au plafond légal sont
+attribués à la commune ou, s'il en existe un, à l'établissement public groupant plusieurs communes et ayant compétence en
+matière d'urbanisme, sur le territoire desquels se trouve située la construction.
 
-Les sommes ainsi versées sont inscrites à la section d'investissement du budget de la commune ou de l'établissement public
-groupant plusieurs communes et doivent être affectées au financement :
+Le quart restant est attribué au département.
 
-a) De la constitution d'espaces verts publics ;
-
-b) D'acquisitions foncières en vue de la réalisation de logements sociaux et d'équipements collectifs ;
-
-c) Des acquisitions réalisées dans les zones d'intervention foncière et dans les zones d'aménagement différé ;
-
-d) Des dépenses faites ou des subventions attribuées pour la restauration d'édifices classés ou inscrits ainsi que pour la
-réhabilitation d'immeubles anciens compris dans un secteur sauvegardé, dans un périmètre de restauration immobilière, ou dans
-un site classé ou inscrit, dans la mesure ou l'occupation de ces locaux répond à des conditions fixées par décret en Conseil
-d'Etat ;
-
-e) De la construction d'immeubles d'habitation à usage locatif par les offices publics et les sociétés d'habitation à loyer
-modéré ainsi que par les organismes qui procèdent au logement des travailleurs immigrés.
-
-Les sommes collectées au titre des dispositions qui précèdent devront être versées aux communes ou aux établissements publics
-groupant plusieurs communes, pour la part leur revenant dans les trois mois suivant leur encaissement.
+Ces versements sont inscrits au budget de la commune de l'établissement public ou du département bénéficiaires en vertu des
+alinéas précédents et les sommes collectées à ce titre devront être versées à leurs bénéficiaires dans les trois mois suivant
+leur encaissement.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 31 () JORF 30 DECEMBRE 1982
 
 	**Cité par**:
 
@@ -7766,46 +7783,7 @@ groupant plusieurs communes, pour la part leur revenant dans les trois mois suiv
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L332-3 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L333-10 (Ab)
 	  - TXT_ASSOCIE: Code de l'urbanisme R332-12
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-
-###### Article L333-4
-
-Dans la région parisienne, les communes ou les établissements publics groupant plusieurs communes ne reçoivent que la moitié
-du produit visé à l'article L. 333-3 (1er alinéa).
-
-Le quart de ce même produit est attribué [*bénéficiaire*] au district de la région parisienne qui doit l'affecter, pour la
-moitié au moins au financement :
-
-a) D'actions concourant à la mise en oeuvre d'une politique sociale de l'habitat en vue notamment de permettre aux
-populations aux ressources modestes de rester ou de revenir dans les centres villes ;
-
-b) De la constitution d'espaces verts publics.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°82-1126 1982-12-29 ART. 31 II : dans la région d'Ile-de-France, le quart du produit des versements dus au titre des densités de constructions supérieures au plafond légal concernant les permis de construire délivrés avant le 31 décembre 1982 rest
-
-	**Abrogé par**:
-
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 31 () JORF 30 DECEMBRE 1982
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L333-10 (Ab)
-	  - Code de l'urbanisme L333-3 AL. 1
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. L333-5 (M)
-	  - Code de l'urbanisme - art. R*333-28 (M)
 
 	**Codifié par**:
 
@@ -7814,13 +7792,12 @@ b) De la constitution d'espaces verts publics.
 
 ###### Article L333-5
 
-Par exception aux dispositions des articles L. 333-3 et L. 333-4, sont attribuées [*bénéficiaire*] en totalité à la commune
-ou à l'établissement public groupant plusieurs communes et ayant compétence en matière d'urbanisme, [*district urbain,
-syndicat de communes, communauté urbaine*] les sommes versées à concurrence de la densité comprise entre le plafond légal et
-une densité double de ce plafond :
+Par exception aux dispositions de l'article L. 333-3, sont attribuées en totalité à la commune ou à l'établissement public
+groupant plusieurs communes et ayant compétence en matière d'urbanisme les sommes versées au titre du dépassement du plafond
+légal de densité ;
 
-a) Par les organismes [*d'habitation à loyer modéré*] visés à l'article 159 du code de l'urbanisme et de l'habitation pour
-les constructions réalisées en application de l'article 153 du même code ;
+a) Par les organismes visés à l'article L. 411-2 du code de la construction et de l'habitation et par les sociétés d'économie
+mixte pour les constructions réalisées en application de l'article L. 411-1 du même code ;
 
 b) Par les sociétés immobilières créées dans les départements d'outre-mer en application de la loi n° 46-860 du 30 avril
 1946, pour la construction d'immeubles à caractère social ;
@@ -7838,8 +7815,16 @@ caractère social, fixé par les décrets prévus à l'article L. 333-16.
 	  - Loi n°46-860 1946-04-30
 	  - Code de l'urbanisme - art. L333-16 (Ab)
 	  - Code de l'urbanisme - art. L333-3 (M)
-	  - Code de l'urbanisme - art. L333-4 (Ab)
-	  - Code de l'urbanisme 159
+	  - Code de la construction et de l'habitation. - art. L411-1 (M)
+	  - Code de la construction et de l'habitation. - art. L411-2 (M)
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 31 () JORF 30 décembre 1982
+
+	**Abrogé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
 
 	**Cité par**:
 
@@ -7848,44 +7833,6 @@ caractère social, fixé par les décrets prévus à l'article L. 333-16.
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-
-###### Article L333-6
-
-Le quart restant du produit mentionné à l'article L. 333-3, alinéa premier, ainsi que la totalité du produit des versements
-effectués au titre des densités excédant le double du plafond légal seront versés [*bénéficiaire*] au fonds d'équipement des
-collectivités locales, créé par la loi de finances rectificative n. 75-853 du 13 septembre 1975 et feront l'objet d'une
-comptabilisation particulière.
-
-Les sommes ainsi comptabilisées seront employées dans des conditions qui seront fixées par la loi prévue à l'article 13-III
-de la loi du 13 septembre 1975 susvisée. Elles ne pourront être utilisées pour financer un remboursement de la taxe à la
-valeur ajoutée supportée par les collectivités locales sur leurs investissements.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Cite**:
-
-	  - Loi n°75-853 1975-09-13
-	  - Code de l'urbanisme - art. L333-3 (M)
-
-	**Cité par**:
-
-	  - Loi n°76-1232 du 29 décembre 1976 - art. 54 (Ab)
-	  - CODE DES COMMUNES. - art. L235-13 (Ab)
-	  - CODE DES COMMUNES. - art. L235-15 (Ab)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°82-1126 1982-12-29 ART. 31 II : dans la région d'Ile-de-France, le quart du produit des versements dus au titre des densités de constructions supérieures au plafond légal concernant les permis de construire délivrés avant le 31 décembre 1982 rest
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L333-6 (Ab)
-
-	**Abrogé par**:
-
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 31 () JORF 30 DECEMBRE 1982
 
 
 ###### Article L333-7
