@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1998-07-31
+Version Consolidée au 1998-10-13
 
 # Partie législative
 
@@ -19895,14 +19895,14 @@ contradictoire, octroyer ou refuser le sursis à exécution d'une décision.
 ###### Article R*111-1
 
 Les dispositions du présent chapitre ne sont pas applicables dans les territoires dotés d'un plan d'occupation des sols rendu
-public ou approuvé, ou d'un document d'urbanisme en tenant lieu, à l'exception des articles R. 111-2, R. 111-3, R.111-3-2,
-R.111-4, R.111-14-2, R.111-15, R. 111-21.
+public ou approuvé, ou d'un document d'urbanisme en tenant lieu, à l'exception des articles R. 111-2, R. 111-3-2, R. 111-4,
+R. 111-14-2, R. 111-15, R. 111-21.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°93-614 du 26 mars 1993 - art. 14 () JORF 28 mars 1993
+	  - Décret n°98-913 du 12 octobre 1998 - art. 1 () JORF 13 octobre 1998
 
 	**Liens**:
 
@@ -19930,7 +19930,6 @@ R.111-4, R.111-14-2, R.111-15, R. 111-21.
 	  - Code de l'urbanisme - art. R111-15 (M)
 	  - Code de l'urbanisme - art. R111-2 (M)
 	  - Code de l'urbanisme - art. R111-21 (M)
-	  - Code de l'urbanisme - art. R111-3 (M)
 	  - Code de l'urbanisme - art. R111-3-2 (Ab)
 	  - Code de l'urbanisme - art. R111-4 (M)
 
@@ -19995,18 +19994,19 @@ d'un site ou de vestiges archéologiques.
 
 ###### Article **R111-14-1
 
-Le permis de construire peut être refusé ou n'être accordé [*conditions*] que sous réserve de l'observation de prescriptions
-spéciales si les constructions sont de nature, par leur localisation ou leur destination :
+Le permis de construire peut être refusé ou n'être accordé que sous réserve de l'observation de prescriptions spéciales si
+les constructions sont de nature, par leur localisation ou leur destination :
 
 a) A favoriser une urbanisation dispersée incompatible avec la vocation des espaces naturels environnants, en particulier
 lorsque ceux-ci sont peu équipés ;
 
-b) A remettre en cause l'aménagement des périmètres d'action forestière et des zones dégradées visées aux 2. et 3. de
-l'article 52-1 du code rural ;
+b) A remettre en cause l'aménagement des périmètres d'action forestière et des zones dégradées visées aux 2° et 3° de
+l'article L. 126-1 du code rural ;
 
 c) A compromettre les activités agricoles ou forestières, notamment en raison de la valeur agronomique des sols, des
-structures agricoles, de l'existence de terrains produisant des denrées de qualité supérieure ou comportant des équipements
-spéciaux importants ;
+structures agricoles, de l'existence de terrains objets d'une délimitation au titre d'une appellation d'origine contrôlée ou
+d'une indication géographique protégée ou comportant des équipements spéciaux importants, ainsi que de périmètres
+d'aménagements fonciers et hydrauliques.
 
 d) A compromettre la mise en valeur des substances visées à l'article 2 du code minier ou des matériaux de carrières inclus
 dans les zones définies aux articles 109 et suivants du même code.
@@ -20015,26 +20015,34 @@ dans les zones définies aux articles 109 et suivants du même code.
 
 	**Cite**:
 
-	  - Code minier 2
-	  - Code rural 52-1 AL. 2 et 3
-
-	**Cité par**:
-
-	  - Code rural - art. R*641-70 (Ab)
-	  - Décret n°77-1281 du 22 novembre 1977 - art. Annexe (V)
+	  - Code rural L126-1
+	  - Code minier 2, 109
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Cité par**:
+
+	  - Décret n°77-1281 du 22 novembre 1977 - art. Annexe (V)
+	  - Code rural - art. R*641-70 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°98-913 du 12 octobre 1998 - art. 4 () JORF 13 octobre 1998
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 1 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
 ###### Article R*111-15
 
 Le permis de construire peut être refusé ou n'être accordé [*conditions*] que sous réserve de l'observation de prescriptions
 spéciales lorsque, par leur importance, leur situation, et leur affectation, des constructions contrarieraient l'action
-d'aménagement du territoire et d'urbanisme telle qu'elle résulte de directives d'aménagement national approuvées par décret,
-et notamment des dispositions des schémas directeurs intéressant les agglomérations nouvelles approuvés avant le 1er octobre
-1983 ou, postérieurement à cette date, dans les conditions prévues au b du deuxième alinéa de l'article R. 122-22.
+d'aménagement du territoire et d'urbanisme telle qu'elle résulte des dispositions des schémas directeurs intéressant les
+agglomérations nouvelles approuvés avant le 1er octobre 1983 ou, postérieurement à cette date, dans les conditions prévues au
+b du deuxième alinéa de l'article R. 122-22.
 
 **Liens relatifs à cet article**
 
@@ -20042,10 +20050,6 @@ et notamment des dispositions des schémas directeurs intéressant les agglomér
 
 	  - Décret n°61-1298 1961-11-30 ART. 15
 	  - Code de l'urbanisme - art. R110-15 (T)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 	**Liens**:
 
@@ -20067,18 +20071,24 @@ et notamment des dispositions des schémas directeurs intéressant les agglomér
 
 	**Modifié par**:
 
-	  - Décret n°86-984 1986-08-19 art. 7 I JORF 27 aout 1986
+	  - Décret n°98-913 du 12 octobre 1998 - art. 5 () JORF 13 octobre 1998
 
 	**Cite**:
 
-	  - Code de l'urbanisme R122-22 al. 2 b
+	  - Code de l'urbanisme R122-22
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R111-2
 
 Le permis de construire peut être refusé ou n'être accordé que [*condition octroi*] sous réserve de l'observation de
 prescriptions spéciales si les constructions, par leur situation ou leurs dimensions, sont de nature à porter atteinte à la
-salubrité ou à la sécurité publique.
+salubrité ou à la sécurité publique. Il en est de même si les constructions projetées, par leur implantation à proximité
+d'autres installations, leurs caractéristiques ou leur situation, sont de nature à porter atteinte à la salubrité ou à la
+sécurité publique.
 
 **Liens relatifs à cet article**
 
@@ -20086,6 +20096,10 @@ salubrité ou à la sécurité publique.
 
 	  - Décret n°61-1298 1961-11-30 ART. 2
 	  - Code de l'urbanisme - art. R110-2 (T)
+
+	**Modifié par**:
+
+	  - Décret n°98-913 du 12 octobre 1998 - art. 2 () JORF 13 octobre 1998
 
 	**Cité par**:
 
@@ -20142,19 +20156,24 @@ terrain est desservi par plusieurs voies, les constructions peuvent n'être auto
 
 ###### Article R111-5
 
-A. - Sous réserve de ce qui est prévu à l'alinéa C ci-après, le permis de construire ne peut être accordé [*refus*] pour une
+A. - Sous réserve de ce qui est prévu à l'alinéa C ci-après, le permis de construire ne peut être accordé pour une
 construction destinée à l'habitation si elle doit être édifiée à moins de :
 
-Cinquante mètres [*distance*] de part et d'autre de l'axe des autoroutes ;
+- cinquante mètres de part et d'autre de l'axe des autoroutes ;
 
-Trente-cinq mètres de part et d'autre de l'axe des grands itinéraires ainsi que de l'axe des routes assimilées ou des voies
-inscrites sur une liste publiée par décret [*grande circulation*] pris à l'initiative conjointe du ministre chargé de
-l'urbanisme et du ministre chargé de l'équipement, s'il s'agit de routes nationales, du ministre de l'intérieur et du
-ministre chargé de l'urbanisme s'il s'agit d'autres voies. B. - Ces dispositions cessent de s'appliquer à l'intérieur des
-parties agglomérées, des villes et bourgs. Sera retenue comme limite des parties agglomérées la limite de l'agglomération
-telle qu'elle est déterminée et matérialisée en application du code de la route. C. - Des dérogations aux règles de recul
-définies ci-dessus peuvent être autorisées, en raison notamment d'une topographie particulière, par le préfet, sur
-proposition du directeur départemental de l'équipement.
+- trente-cinq mètres de part et d'autre de l'axe des routes classées à grande circulation en application de l'article R. 1 du
+code de la route (NOTA).
+
+B - Ces dispositions cessent de s'appliquer à l'intérieur des parties agglomérées, des villes et bourgs. Sera retenue comme
+limite des parties agglomérées la limite de l'agglomération telle qu'elle est déterminée et materialisée en application du
+Code de la route.
+
+C - Des dérogations aux règles de recul définies ci-dessus peuvent être autorisées, en raison notamment d'une topographie
+particulière, par le préfet, sur proposition du directeur départemental de l'équipement.
+
+**Nota:**
+
+NOTA : L'article R. 1 du code de la route a été codifié sous les articles L. 110-3, R. 110-1 et R. 110-2 du même code.
 
 **Liens relatifs à cet article**
 
@@ -20162,6 +20181,14 @@ proposition du directeur départemental de l'équipement.
 
 	  - Décret n°61-1298 1961-11-30 ART. 5
 	  - Code de l'urbanisme - art. R110-5 (T)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°98-913 du 12 octobre 1998 - art. 3 () JORF 13 octobre 1998
 
 	**Liens**:
 
@@ -20171,9 +20198,9 @@ proposition du directeur départemental de l'équipement.
 
 	  - Code de l'urbanisme - art. R111-6 (V)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°73-1023 1973-11-08
+	  - Code de la route R1
 
 
 ###### Article R111-6
@@ -20715,55 +20742,20 @@ et télécommunications et le ministre de la santé publique sont consultés.
 	  - Décret n°73-1023 1973-11-08
 
 
-###### Article R111-26
-
-La liste des voies prévues aux articles R. 111-4 (2.) et R. 111-5 A comprend l'ensemble des voies "à grande circulation"
-classées comme telles par décrets pris en application du code de la route, et notamment son article R. 26.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°62-1259 1962-10-24 ART. 1
-	  - Code de l'urbanisme - art. R110-26 (T)
-
-	**Abrogé par**:
-
-	  - Décret n°98-913 du 12 octobre 1998 - art. 7 (V) JORF 13 octobre 1998
-
-	**Cité par**:
-
-	  - Décret n°98-913 du 12 octobre 1998 - art. 7 (V)
-	  - Code de l'urbanisme - art. R*710-1 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R111-4 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R111-5 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R111-4 2.
-	  - Code de la route R26
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ###### Article R111-26-1
 
 La décision de prise en considération de la mise à l'étude d'un projet de travaux publics ou d'une opération d'aménagement
-fait l'objet d'une mention en caractères apparents dans deux journaux régionaux ou locaux diffusés dans tout le département.
-Lorsque la décision relève du préfet, elle est en outre publiée au Recueil des actes administratifs du département.
+fait l'objet d'une mention en caractères apparents dans deux journaux diffusés dans le département. Lorsque la décision
+relève du préfet, elle est en outre publiée au Recueil des actes administratifs du département.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°62-1259 1962-10-24 ART. 1
+	  - Décret n°62-1259 1962-10-24 art. 1
+	  - Code de l'urbanisme - art. R110-26 (T)
+	  - Code de l'urbanisme - art. R421-55 (M)
 	  - Code de l'urbanisme - art. R421-55 (T)
-	  - Code de l'urbanisme R110-26 Code de l'urbanisme R421-55
 
 	**Codifié par**:
 
@@ -20771,8 +20763,11 @@ Lorsque la décision relève du préfet, elle est en outre publiée au Recueil d
 
 	**Modifié par**:
 
-	  - Décret n°86-984 1986-08-19 art. 7 IV JORF 27 aout 1986
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°98-913 du 12 octobre 1998 - art. 6 () JORF 13 octobre 1998
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 1 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
 ###### Article R111-26-2
@@ -20802,36 +20797,6 @@ l'article L. 111-8, confirmer sa demande ; en l'absence d'une telle indication, 
 
 	  - Code de l'urbanisme - art. L111-7 (M)
 	  - code de l'urbanisme L111-7, L111-8 AL. 4
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-##### Section 5 : Directives d'aménagement national.
-
-###### Article R111-27
-
-Est approuvée la directive d'aménagement national ci-annexée relative à la protection et à l'aménagement du littoral. Les
-dispositions du chapitre II de ladite directive sont opposables aux tiers, conformément à l'article R. 111-15 du code de
-l'urbanisme.
-
-La présente directive est applicable dans les communes du littoral et riveraines des lacs et étangs figurant sur la liste
-annexée au présent article (non reproduite, voir JO du 26/08/1979 p. 2100).
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°98-913 du 12 octobre 1998 - art. 7 (V) JORF 13 octobre 1998
-
-	**Cité par**:
-
-	  - Décret n°98-913 du 12 octobre 1998 - art. 7 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R111-15 (M)
 
 	**Codifié par**:
 
@@ -21330,20 +21295,27 @@ compétente et ayant fait l'objet d'une publication.
 Ne peuvent constituer des projets d'intérêt général, les projets réalisés à l'initiative des collectivités locales
 responsables de l'élaboration du document d'urbanisme concerné.
 
+Le projet d'ouvrage, de travaux ou de protection est qualifié de projet d'intérêt général par le préfet en vue de sa prise en
+compte dans le document d'urbanisme concerné.
+
 Ont la qualité d'intervenants, au sens de l'article L. 121-12 du présent code, l'Etat, les régions, les départements, les
 communes, les groupements de collectivités, les établissements publics et les autres personnes ayant la capacité
 d'exproprier.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°83-811 1983-09-09 art. 1 JORF 11 septembre 1983 date d'entrée en vigueur  1 octobre 1983
+	  - Décret n°73-1023 1973-11-08
 
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°83-851 1983-09-23 ART. 1 : Date d'entrée en vigueur
 	  - TXT_SOURCE: Code de l'urbanisme - art. L121-12 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°98-913 du 12 octobre 1998 - art. 8 () JORF 13 octobre 1998
 
 	**Cité par**:
 
@@ -21352,10 +21324,6 @@ d'exproprier.
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L121-12 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 #### Chapitre II : Schémas directeurs
@@ -21444,11 +21412,8 @@ schéma de secteur.
 
 ###### Article R*122-3
 
-L'établissement public de coopération intercommunale [*définition*] auquel, en vertu de l'article L. 122-1-1, les communes
-peuvent confier l'élaboration du schéma directeur ou du schéma de secteur est, soit un établissement public de coopération
-intercommunale existant à la date de l'arrêté fixant le périmètre du schéma et ayant compétence en la matière dans ce
-périmètre, soit un syndicat intercommunal d'études et de programmation régi par les dispositions de l'article L. 121-11 et
-créé à cette fin par les communes.
+L'élaboration du schéma directeur ou du schéma de secteur est confiée à un établissement public de coopération intercommunale
+ayant compétence en la matière dans le périmètre fixé conformément au dernier alinéa de l'article R. 122-2.
 
 Lorsque les communes confient l'élaboration du schéma directeur ou du schéma de secteur à un syndicat mixte, dans les
 conditions prévues au cinquième alinéa de l'article L. 122-1-1, ce syndicat dispose, pour l'application de la présente
@@ -21456,29 +21421,28 @@ section, des mêmes pouvoirs qu'un établissement public de coopération interco
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 42 (Code de l'urbanisme L122-1-1)
-	  - SPEC_APPLI: Décret n°83-851 1983-09-23 ART. 1 : Date d'entrée en vigueur
-
-	**Créé par**:
-
-	  - Décret n°83-812 1983-09-09 art. 1, art. 3 JORF 11 septembre 1983 date d'entrée en vigueur  1 octobre 1983
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L121-11 (M)
-	  - Code de l'urbanisme L122-1-1 al. 5, L121-11
-
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23 ART. 1 : Date d'entrée en vigueur
+
+	**Modifié par**:
+
+	  - Décret n°98-913 du 12 octobre 1998 - art. 9 () JORF 13 octobre 1998
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L122-1-1 (M)
+	  - Code de l'urbanisme R122-2, L122-1-1
+
 
 ###### Article R*122-4
 
-L'organe délibérant de l'établissement public de coopération intercommunale décide d'engager la procédure d'élaboration du
-schéma directeur ou du schéma de secteur.
+L'organe délibérant de l'établissement public de coopération intercommunale prescrit l'élaboration du schéma directeur ou du
+schéma de secteur.
 
 Il fixe par la même délibération les modalités de l'association des personnes publiques, autres que l'Etat, à l'élaboration
 du schéma. Il désigne les services ou organismes chargés des études nécessaires à son élaboration.
@@ -21491,12 +21455,11 @@ du schéma. Il désigne les services ou organismes chargés des études nécessa
 
 	**Liens**:
 
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 42 (Code de l'urbanisme L122-1-1)
 	  - SPEC_APPLI: Décret n°83-851 1983-09-23 art. 1 : Date d'entrée en vigueur
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-812 1983-09-09 art. 1, art. 3 JORF 11 septembre 1983 date d'entrée en vigueur 1 octobre 1983
+	  - Décret n°98-913 du 12 octobre 1998 - art. 10 () JORF 13 octobre 1998
 
 
 ###### Article R*122-5
@@ -21529,10 +21492,13 @@ et la conservation des documents nécessaires à l'association de l'Etat dans l'
 
 ###### Article R*122-6
 
-Dans un délai de deux mois à compter de la transmission de la délibération prévue à l'article R. 122-4, le préfet communique
-au président de l'établissement public de coopération intercommunale toutes informations utiles à l'élaboration du schéma et
-porte à sa connaissance les projets d'intérêt général, au sens de l'article L. 122-1-1, et, éventuellement parmi les
-dispositions prévues aux articles R. 122-25 et R. 122-26, celles qui sont nécessaires à la mise en oeuvre de ces projets.
+Dans un délai de trois mois à compter de la transmission de la délibération prévue à l'article R. 122-4, le préfet porte à la
+connaissance du président de l'établissement public de coopération intercommunale les directives territoriales d'aménagement
+ou les lois d'aménagement et d'urbanisme ainsi que les projets d'intérêt général, au sens de l'article L. 121-12, et
+éventuellement, parmi les dispositions prévues aux articles R. 122-25 et R. 122-26, celles qui sont nécessaires à la mise en
+oeuvre de ces projets. Il porte également à la connaissance du président de l'établissement public toutes informations utiles
+à l'élaboration du schéma, notamment l'obligation, conformément à l'article L. 112-2 du code rural, de consulter la carte des
+terres agricoles approuvée.
 
 Au cours de l'élaboration du schéma, le préfet communique au président de l'établissement public dans les meilleurs délais
 les projets et informations nouveaux.
@@ -21542,26 +21508,21 @@ elles n'ont pas été confirmées dans la même forme pour une égale durée.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
 	**Liens**:
 
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 42 (Code de l'urbanisme L122-1-1)
 	  - SPEC_APPLI: Décret n°83-851 1983-09-23 art. 1 : Date d'entrée en vigueur
-
-	**Créé par**:
-
-	  - Décret n°83-812 1983-09-09 art. 1, art. 3 JORF 11 septembre 1983 date d'entrée en vigueur  1 octobre 1983
 
 	**Modifié par**:
 
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°98-913 du 12 octobre 1998 - art. 11 () JORF 13 octobre 1998
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*141-3 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*122-7
@@ -21569,7 +21530,10 @@ elles n'ont pas été confirmées dans la même forme pour une égale durée.
 La délibération prévue à l'article R. 122-4 est notifiée aux présidents du conseil général et du conseil régional du ou des
 départements et régions concernés par le projet de schéma directeur ou de schéma de secteur ainsi qu'aux présidents de
 chambres de commerce et d'industrie, de chambres de métiers et de chambres d'agriculture et aux présidents des autres
-établissements publics de coopération intercommunale également concernés.
+établissements publics de coopération intercommunale également concernés. Le cas échéant, elle est aussi notifiée aux
+présidents des sections régionales de la conchyliculture et, lorsque tout ou partie du territoire concerné par le schéma
+directeur ou de secteur est situé dans un parc national, ou sa zone périphérique, compris dans un massif de montagne, au
+directeur de l'établissement public du parc.
 
 Dans un délai de deux mois à compter de la transmission de cette délibération, leurs destinataires font connaître au
 président de l'établissement public de coopération intercommunale si les collectivités et personnes publiques mentionnées à
@@ -21578,22 +21542,21 @@ modalités prévues à l'article R. 122-4 et, dans l'affirmative, désignent à 
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
 	**Liens**:
 
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 42 (Code de l'urbanisme L122-1-1)
 	  - SPEC_APPLI: Décret n°83-851 1983-09-23 art. 1 : Date d'entrée en vigueur
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-812 1983-09-09 art. 1, art. 3 JORF 11 septembre 1983 date d'entrée en vigueur  1 octobre 1983
+	  - Décret n°98-913 du 12 octobre 1998 - art. 12 () JORF 13 octobre 1998
 
 	**Cite**:
 
 	  - Code de l'urbanisme R122-4
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*122-8
@@ -21632,28 +21595,25 @@ mentionnés au second alinéa de l'article R. 122-4.
 ###### Article R*122-9
 
 Le président de l'établissement public de coopération intercommunale entend, à leur demande, les présidents des associations
-mentionnées à l'article L. 121-8 ou leurs représentants.
+mentionnées à l'article L. 121-8 ou leurs représentants ainsi que les présidents des organismes de gestion des parcs naturels
+régionaux ou leurs représentants.
 
-Il peut recueillir l'avis de tout organisme ou association ayant compétence en matière de construction, d'aménagement ou
-d'urbanisme et entendre toute personne qualifiée.
+Il peut recueillir l'avis de tout organisme ou association ayant compétence en matière de construction, d'aménagement,
+d'urbanisme ou d'environnement et entendre toute personne qualifiée.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L121-8 (M)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 42 (Code de l'urbanisme L122-1-1)
-
 	**Modifié par**:
 
-	  - Décret n°96-717 du 9 août 1996 - art. 2 () JORF 14 août 1996
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L121-8 (M)
+	  - Décret n°98-913 du 12 octobre 1998 - art. 13 () JORF 13 octobre 1998
 
 
 ###### Article R*122-10
@@ -21662,14 +21622,17 @@ Le projet de schéma directeur ou de schéma de secteur, arrêté par l'organe d
 coopération intercommunale est soumis pour avis par son président simultanément aux conseils municipaux des communes membres
 concernées, au préfet et aux organes délibérants des personnes publiques autres que l'Etat associées à son élaboration et, en
 zone de montagne lorsque le projet comporte des dispositions relatives à la création d'une ou plusieurs unités touristiques
-nouvelles, à la commission spécialisée du comité de massif. Faute de réponse dans un délai de trois mois à compter de la
-transmission du projet, leur avis est réputé favorable.
+nouvelles, à la commission spécialisée du comité de massif. Lorsque le projet de schéma comporte une réduction grave des
+terres agricoles, il est soumis pour avis, dans les mêmes conditions, à la commission départementale d'orientation de
+l'agriculture et à la chambre d'agriculture, en application de l'article L. 112-3 du code rural. Faute de réponse dans un
+délai de trois mois à compter de la transmission du projet, leur avis est réputé favorable.
 
 Lorsqu'il en fait la demande au président de l'établissement public de coopération intercommunale, le président d'une
-association mentionnée à l'article L. 121-8 reçoit communication du projet de schéma directeur ou de schéma de secteur ou est
-invité à en prendre connaissance au lieu désigné à cet effet. Il peut faire connaître ses observations écrites sur le projet
-de schéma directeur ou de schéma de secteur dans le délai d'un mois courant à compter de la réception du projet de schéma
-directeur ou de schéma de secteur ou de la date à laquelle il a pris connaissance de celui-ci.
+association mentionnée à l'article L. 121-8 ou le président de l'organisme de gestion d'un parc naturel régional reçoit
+communication du projet de schéma directeur ou de schéma de secteur ou est invité à en prendre connaissance au lieu désigné à
+cet effet. Il peut faire connaître ses observations écrites sur le projet de schéma directeur ou de schéma de secteur dans le
+délai d'un mois courant à compter de la réception du projet de schéma directeur ou de schéma de secteur ou de la date à
+laquelle il a pris connaissance de celui-ci.
 
 Lorsque le préfet constate que le projet de schéma directeur ou de schéma de secteur arrêté compromet gravement la mise en
 oeuvre d'un projet d'intérêt général déjà communiqué à l'établissement public de coopération intercommunale, il porte à la
@@ -21679,29 +21642,31 @@ réalisation desquels il concourt et, dans la mesure du possible, l'échéancier
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°98-913 du 12 octobre 1998 - art. 14 () JORF 13 octobre 1998
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L121-8 (M)
+	  - Code de l'urbanisme L121-8, R122-25, R122-26
+	  - Code rural L112-3
+
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 42 (Code de l'urbanisme L122-1-1)
-
-	**Modifié par**:
-
-	  - Décret n°96-717 du 9 août 1996 - art. 2 () JORF 14 août 1996
-
 
 ###### Article R*122-11
 
-Le projet de schéma directeur ou de schéma de secteur arrêté, accompagné des avis exprimés à la suite des constatations
-prévues au premier alinéa et au deuxième alinéa de l'article R. 122-10 et des communications du commissaire de la République
-mentionnées au troisième alinéa du même article, est mis par décision du président de l'établissement à la disposition du
-public pendant un mois au siège de l'établissement et dans les mairies des communes concernées.
+Le projet de schéma directeur ou de schéma de secteur arrêté, accompagné des avis exprimés à la suite des consultations
+prévues au premier alinéa et au deuxième alinéa de l'article R. 122-10 et des communications du préfet mentionnées au
+troisième alinéa du même article, est mis par décision du président de l'établissement à la disposition du public pendant un
+mois au siège de l'établissement et dans les mairies des communes concernées.
 
 Cette décision est affichée au siège de l'établissement public et dans les mairies des communes pendant la même durée de un
-mois. Mention en est insérée en caractères apparents dans deux journaux régionaux ou locaux diffusés dans le ou les
-départements concernés huit jours au moins avant la date à compter de laquelle le projet est mis à la disposition du public.
+mois. Mention en est insérée en caractères apparents dans deux journaux diffusés dans le ou les départements concernés huit
+jours au moins avant la date à compter de laquelle le projet est mis à la disposition du public.
 
 La décision fixe :
 
@@ -21711,13 +21676,13 @@ b) Les modalités suivant lesquelles le public peut en prendre connaissance et f
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Codifié par**:
 
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 42 (Code de l'urbanisme L122-1-1)
+	  - Décret n°73-1023 1973-11-08
 
 	**Modifié par**:
 
-	  - Décret n°96-717 du 9 août 1996 - art. 2 () JORF 14 août 1996
+	  - Décret n°98-913 du 12 octobre 1998 - art. 15 () JORF 13 octobre 1998
 
 	**Cité par**:
 
@@ -21726,10 +21691,6 @@ b) Les modalités suivant lesquelles le public peut en prendre connaissance et f
 	**Cite**:
 
 	  - Code de l'urbanisme R122-10
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*122-12
@@ -21749,10 +21710,6 @@ publiques associées à son élaboration.
 La délibération de l'organe délibérant de l'établissement public approuvant le schéma directeur ou le schéma de secteur est
 exécutoire dans les conditions fixées à l'article L. 122-1-3.
 
-Le préfet ne peut notifier à l'établissement public des demandes de modification du schéma, en application du a) du second
-alinéa de l'article L. 122-1-3, que pour ceux des projets d'intérêt général qui ont été portés à la connaissance de
-l'établissement public conformément à l'article R. 122-10.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -21761,16 +21718,11 @@ l'établissement public conformément à l'article R. 122-10.
 
 	**Liens**:
 
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 42 (Code de l'urbanisme L122-1-1)
-	  - SPEC_APPLI: Décret n°83-851 1983-09-23 art. 1 : Date d'entrée en vigueur
-
-	**Créé par**:
-
-	  - Décret n°83-812 1983-09-09 art. 1, art. 3 JORF 11 septembre 1983 date d'entrée en vigueur  1 octobre 1983
+	  - SPEC_APPLI: Décret n°83-851 du 23 septembre 1983 - art. 1 (V)
 
 	**Modifié par**:
 
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°98-913 du 12 octobre 1998 - art. 16 () JORF 13 octobre 1998
 
 	**Cite**:
 
@@ -21788,20 +21740,19 @@ Le schéma directeur ou le schéma de secteur approuvé est tenu à la dispositi
 de coopération intercommunale, dans les mairies des communes membres concernées ainsi qu'à la préfecture du ou des
 départements concernés.
 
-Mention des lieux où le schéma peut être consulté est insérée en caractères apparents dans deux journaux régionaux ou locaux
-diffusés dans le ou les départements concernés et affichée au siège de l'établissement public ainsi que dans les mairies des
+Mention des lieux où le schéma peut être consulté est insérée en caractères apparents dans deux journaux diffusés dans le ou
+les départements concernés et affichée pendant un mois au siège de l'établissement public ainsi que dans les mairies des
 communes membres concernées.
 
 **Liens relatifs à cet article**
 
 	**Liens**:
 
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 42 (Code de l'urbanisme L122-1-1)
-	  - SPEC_APPLI: Décret n°83-851 1983-09-23 art. 1 : Date d'entrée en vigueur
+	  - SPEC_APPLI: Décret n°83-851 du 23 septembre 1983 - art. 1 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-812 1983-09-09 art. 1, art. 3 JORF 11 septembre 1983 date d'entrée en vigueur  1 octobre 1983
+	  - Décret n°98-913 du 12 octobre 1998 - art. 17 () JORF 13 octobre 1998
 
 	**Cité par**:
 
@@ -21818,9 +21769,14 @@ communes membres concernées.
 ###### Article R*122-14
 
 Le schéma directeur ou le schéma de secteur approuvé est modifié dans les formes prévues pour son établissement à l'exception
-du cas prévu au second alinéa de l'article L. 122-1-4.
+du cas prévu au second alinéa de l'article L. 122-1-4 et des cas prévus à l'article L. 122-5.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L122-1-4 (M)
+	  - Code de l'urbanisme - art. L122-5 (M)
 
 	**Codifié par**:
 
@@ -21828,62 +21784,62 @@ du cas prévu au second alinéa de l'article L. 122-1-4.
 
 	**Liens**:
 
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 42 (Code de l'urbanisme L122-1-1)
-	  - SPEC_APPLI: Décret n°83-851 1983-09-23 art. 1 : Date d'entrée en vigueur
+	  - SPEC_APPLI: Décret n°83-851 du 23 septembre 1983 - art. 1 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-812 1983-09-09 art. 1, art. 3 JORF 11 septembre 1983 date d'entrée en vigueur  1 octobre 1983
+	  - Décret n°98-913 du 12 octobre 1998 - art. 18 () JORF 13 octobre 1998
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code de l'urbanisme L122-1-4 al. 2
+	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
 
 
 #####  Section 3 : Etablissement des schémas directeurs et des schémas de secteur décidé par l'Etat.
 
 ###### Article R*122-15
 
-Lorsque, en application de l'article L. 122-1-4, l'élaboration ou la modification d'un schéma directeur ou d'un schéma de
-secteur est décidée par arrêté motivé du préfet, l'ensemble de la procédure est conduite [*autorité compétente*] :
+Lorsque, en application du deuxième alinéa de l'article L. 122-1-4 et de l'article L. 122-5 , l'élaboration ou la
+modification d'un schéma directeur ou d'un schéma de secteur est décidée par arrêté motivé du préfet, l'ensemble de la
+procédure est conduite [*autorité compétente*] :
 
 a) Sous l'autorité du préfet du département, par le service de l'Etat chargé de l'urbanisme dans le département, lorsque le
 territoire concerné est situé à l'intérieur d'un même département ;
 
-b) Sous l'autorité de l'un des préfets des départements concernés, par le service de l'Etat chargé de l'urbanisme dans le
+b) Sous l'autorité de l'un des préfet des départements concernés, par le service de l'Etat chargé de l'urbanisme dans le
 département, lorsque le territoire couvert par le schéma appartient à plusieurs départements situés ou non à l'intérieur
 d'une même région. Le préfet sous l'autorité duquel est conduite l'ensemble de la procédure est désigné par arrêté conjoint
-des préfets des départements concernés ;
+des préfet des départements concernés ;
 
 c) Sous l'autorité du préfet de région, lorsque le ministre chargé de l'urbanisme le décide, dans le cas où le schéma
 directeur ou le schéma de secteur intèressé des territoires sur lesquels doivent être réalisées des agglomérations nouvelles.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
 	**Liens**:
 
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 42 (Code de l'urbanisme L122-1-1)
-	  - SPEC_APPLI: Décret n°83-851 1983-09-23 art. 1 : Date d'entrée en vigueur
-
-	**Créé par**:
-
-	  - Décret n°83-812 1983-09-09 art. 1, art. 4 JORF 11 septembre 1983 date d'entrée en vigueur  16 octobre 1983
+	  - SPEC_APPLI: Décret n°83-851 du 23 septembre 1983 - art. 1 (V)
 
 	**Modifié par**:
 
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°98-913 du 12 octobre 1998 - art. 19 () JORF 13 octobre 1998
+
+	**Abrogé par**:
+
+	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L122-1-4 (M)
+	  - Code de l'urbanisme - art. L122-5 (M)
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*122-14 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*122-16
@@ -21894,12 +21850,18 @@ ou, le cas échéant, l'établissement public de coopération intercommunale com
 A cette fin :
 
 Le préfet chargé de conduire la procédure constitue par arrêté une commission dénommée "commission locale d'aménagement et
-d'urbanisme" et en fixe les modalités de fonctionnement. Cette commission comprend des représentants élus des communes ou de
-l'établissement public de coopération intercommunale compétent, des représentants des services de l'Etat, notamment, ceux
-chargés de l'agriculture, de l'industrie et de l'urbanisme et, sur leur demande, des représentants de la ou des régions et
-départements concernés. Lorsque, en raison de leur nombre, les communes ne peuvent être toutes représentées directement au
-sein de la commission, celles d'entre elles qui ne le sont pas sont réunies en un ou plusieurs groupes pour désigner leurs
-représentants à la commission.
+d'urbanisme" et en fixe les modalités de fonctionnement. Cette commission comprend des représentant élus du ou des
+établissements publics de coopération intercommunale compétents et de celles des communes comprises dans le périmètre qui
+n'ont pas transfére leurs compétence d'urbanisme à un tel établissement public de coopération intercommunale , des
+représentants des services de l'Etat, notamment, ceux chargés de l'agriculture, de l'industrie et de l'urbanisme et, sur leur
+demande, des représentants de la ou des régions et départements concernés. Lorsque, en raison de leur nombre, les communes ne
+peuvent être toutes représentées directement au sein de la commission, celles d'entre elles qui ne le sont pas sont réunies
+en un ou plusieurs groupes pour désigner leurs représentants à la commission.
+
+Les représentants élus des communes ou de l'établissement public de coopération intercommunale compétent ainsi que les
+représentants élus des régions et départements sont désignés par leur assemblée délibérante. En même temps que chaque élu
+membre de la commission est désigné, selon les mêmes modalités, un suppléant ayant vocation à le remplacer, en cas d'absence
+ou d'empêchement pour quelque cause que ce soit.
 
 Mention de l'arrêté du préfet constituant la commission locale d'aménagement et d'urbanisme et définissant les modalités de
 fonctionnement de celle-ci est insérée au recueil des actes administratifs du ou des départements concernés.
@@ -21912,38 +21874,40 @@ fonctionnement de celle-ci est insérée au recueil des actes administratifs du 
 
 	**Liens**:
 
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 42 (Code de l'urbanisme L122-1-1)
-	  - SPEC_APPLI: Décret n°83-851 1983-09-23 art. 1 : Date d'entrée en vigueur
+	  - SPEC_APPLI: Décret n°83-851 du 23 septembre 1983 - art. 1 (V)
 
 	**Modifié par**:
 
-	  - Décret n°95-995 du 5 septembre 1995 - art. 1 () JORF 9 septembre 1995
+	  - Décret n°98-913 du 12 octobre 1998 - art. 20 () JORF 13 octobre 1998
+
+	**Abrogé par**:
+
+	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
 
 
 ###### Article R*122-17
 
 Les chambres de commerce et d'industrie, les chambres de métiers et les chambres d'agriculture intéressées sont associées, en
-ce qui les concerne, aux travaux de la commission.
+ce qui les concerne, aux travaux de la commission. Il en est de même pour l'établissement public d'un parc national lorsque
+tout ou partie du territoire concerné par un schéma directeur ou de secteur est situé dans un parc national ou sa zone
+périphérique, compris dans un massif de montagne.
 
 La commission consulte, à leur demande, dans les conditions prévues au deuxième alinéa de l'article R. 122-10, les
-associations mentionnées à l'article L. 121-8..
+associations mentionnées à l'article L. 121-8. ainsi que les organismes de gestion des parcs naturels régionaux.
 
 La commission peut en outre recueillir l'avis de toutes personnes qualifiées et de tout organisme ou association ayant
-compétence en matière de construction, d'aménagement ou d'urbanisme.
+compétence en matière de construction, d'aménagement, d'urbanisme ou d'environnement.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 42 (Code de l'urbanisme L122-1-1)
-
 	**Modifié par**:
 
-	  - Décret n°96-717 du 9 août 1996 - art. 2 () JORF 14 août 1996
+	  - Décret n°98-913 1998-10-12 art. 21 I, II, III JORF 13 octobre 1998
+	  - Décret n°98-913 du 12 octobre 1998 - art. 21 () JORF 13 octobre 1998
+
+	**Abrogé par**:
+
+	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
 
 	**Cité par**:
 
@@ -21954,62 +21918,75 @@ compétence en matière de construction, d'aménagement ou d'urbanisme.
 	  - Code de l'urbanisme - art. L121-8 (M)
 	  - Code de l'urbanisme R122-10, L121-8
 
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
 
 ###### Article R*122-18
 
-La commission [*locale d'aménagement et d'urbanisme attributions*] est saisie d'un programme d'étude. Les options relatives
-aux perspectives et au parti d'aménagement lui sont soumises. Elle est tenue régulièrement informée des études et leurs
-résultats lui sont communiqués. En outre, elle organise l'information des populations intéressées.
+La commission [*locale d'aménagement et d'urbanisme attributions*] est saisie d'un programme d'étude. Le cas échéant, elle
+consulte, conformément aux dispositions de l'article L. 112-2 du code rural, la carte des terres agricoles approuvée. Les
+options relatives aux perspectives et au parti d'aménagement lui sont soumises. Elle est tenue régulièrement informée des
+études et leurs résultats lui sont communiqués. En outre, elle organise l'information des populations intéressées.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural L112-2
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 42 (Code de l'urbanisme L122-1-1)
-
 	**Modifié par**:
 
-	  - Décret n°95-995 du 5 septembre 1995 - art. 3 () JORF 9 septembre 1995
+	  - Décret n°98-913 du 12 octobre 1998 - art. 22 () JORF 13 octobre 1998
+
+	**Abrogé par**:
+
+	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
 
 
 ###### Article R*122-20
 
 Le projet de schéma directeur ou de schéma de secteur est communiqué par le préfet à ceux des services publics qui ne sont
-pas représentés au sein de la commission prévue à l'article R. 122-16 et qu'il y a lieu de consulter sur le projet. Faute de
-réponse dans le délai de d'un mois à compter de cette transmission, leur avis est réputé favorable.
+pas représentés au sein de la commission prévue à l'article R. 122-16 et qu'il y a lieu de consulter sur le projet ainsi qu'à
+la commission départementale d'orientation de l'agriculture et à la chambre d'agriculture, en application de l'article L.
+112-3 du code rural, lorsque le projet de schéma directeur ou de schéma de secteur comporte une réduction grave des terres
+agricoles. Faute de réponse dans le délai de d'un mois à compter de cette transmission, leur avis est réputé favorable.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 42 (Code de l'urbanisme L122-1-1)
-
-	**Modifié par**:
-
-	  - Décret n°95-995 du 5 septembre 1995 - art. 4 () JORF 9 septembre 1995
-
 	**Cite**:
 
+	  - Code rural L112-3
 	  - Code de l'urbanisme R122-16
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
+	**Modifié par**:
+
+	  - Décret n°98-913 du 12 octobre 1998 - art. 23 () JORF 13 octobre 1998
+
+	**Abrogé par**:
+
+	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
+
 
 ###### Article R*122-21
 
 Le projet de schéma directeur ou de schéma de secteur [*élaboration*] éventuellement modifié pour tenir compte des avis des
-services consultés en application de l'article précédent est soumis par le commissaire de la République aux communes
-intéressées ainsi que, le cas échéant, à l'établissement public de coopération intercommunale compétent.
+services consultés en application de l'article précédent est soumis par le préfet à l'établissement public de coopération
+intercommunale ou aux établissements publics de coopération intercommunale compétents et à celles des communes comprises dans
+le périmètre qui n'ont pas transféré leurs compétences d'urbanisme à un tel établissement public de coopération
+intercommunale que, le cas échéant, à l'établissement public de coopération intercommunale compétent.
 
-Les conseils municipaux ainsi que, le cas échéant, l'organe délibérant de cet établissement public se prononcent dans un
-délai de trois mois ; s'ils entendent faire connaître leur opposition, celle-ci doit être expressément formulée dans leur
-délibération.
+Les conseils municipaux ou l'organe délibérant de cet établissement public se prononcent dans un délai de trois mois ; s'ils
+entendent faire connaître leur opposition, celle-ci doit être expressément formulée dans leur délibération.
 
 **Liens relatifs à cet article**
 
@@ -22019,16 +21996,15 @@ délibération.
 
 	**Liens**:
 
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 42 (Code de l'urbanisme L122-1-1)
-	  - SPEC_APPLI: Décret n°83-851 1983-09-23 art. 1 : Date d'entrée en vigueur
+	  - SPEC_APPLI: Décret n°83-851 du 23 septembre 1983 - art. 1 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-812 1983-09-09 art. 1, art. 4 JORF 11 septembre 1983 date d'entrée en vigueur 16 octobre 1983
+	  - Décret n°98-913 du 12 octobre 1998 - art. 24 () JORF 13 octobre 1998
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code de l'urbanisme R122-20
+	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
 
 
 ###### Article R*122-22
@@ -22148,9 +22124,12 @@ d) L'indication des principales phases de réalisation du parti retenu et la dé
 urbanisés ou à urbaniser en tenant compte notamment de l'équilibre entre l'emploi et l'habitat ainsi que des moyens de
 transport ;
 
-e) La justification de la compatibilité du schéma directeur avec les lois d'aménagement et d'urbanisme et les prescriptions
-prises pour leur application à l'article L. 111-1-1 ainsi que la justification que ces dispositions ne compromettent pas la
-mise en oeuvre d'un projet d'intérêt général.
+e) La justification de la compatibilité du schéma directeur avec les directives territoriales d'aménagement et en l'absence
+de ces directives avec les lois d'aménagement et d'urbanisme ; la justification, en outre, de sa compatibilité avec un schéma
+de mise en valeur de la mer, avec les directives de protection et de mise en valeur des paysages ainsi qu'avec les
+orientations et les mesures de la charte d'un parc naturel régional, lorsque l'autorité compétente pour approuver le schéma a
+adhéré, après accord des communes concernées, à la charte ; la justification enfin que ses dispositions ne compromettent pas
+la mise en oeuvre d'un projet d'intérêt général.
 
 II. - Les documents graphiques font apparaître :
 
@@ -22181,25 +22160,25 @@ Un arrêté du ministre chargé de l'urbanisme détermine la légende des docume
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
 	**Modifié par**:
 
-	  - Décret n°92-966 du 10 septembre 1992 - art. 1 () JORF 11 septembre 1992
+	  - Décret n°98-913 du 12 octobre 1998 - art. 25 () JORF 13 octobre 1998
+
+	**Abrogé par**:
+
+	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
 
 	**Cité par**:
 
 	  - Code de l'environnement - art. R126-1 (M)
 
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L111-1-1 (M)
-
 	**Anciens textes**:
 
 	  - Code de l'urbanisme R122-5
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*122-26
@@ -22403,7 +22382,7 @@ d'occupation des sols.
 
 Elle fait l'objet pendant un mois d'un affichage en mairie ou au siège de l'établissement public de coopération
 intercommunale compétent et, dans ce cas, aux mairies des communes membres concernées. Mention en est insérée en caractères
-apparents dans deux journaux régionaux ou locaux diffusés dans le département.
+apparents dans deux journaux diffusés dans le département.
 
 **Liens relatifs à cet article**
 
@@ -22413,12 +22392,11 @@ apparents dans deux journaux régionaux ou locaux diffusés dans le département
 
 	**Liens**:
 
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 50 (Code de l'urbanisme L123-3)
 	  - SPEC_APPLI: Décret n°83-851 1983-09-23 art. 1 : Date d'entrée en vigueur
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-813 1983-09-09 art. 2 JORF 11 septembre 1983 date d'entrée en vigueur 1 octobre 1983
+	  - Décret n°98-913 du 12 octobre 1998 - art. 40 () JORF 13 octobre 1998
 
 
 ###### Article R*123-4
@@ -22460,17 +22438,18 @@ dans sa mise en oeuvre.
 ###### Article R*123-5
 
 Dans un délai de trois mois à compter de la transmission de la délibération prescrivant l'établissement du plan d'occupation
-des sols, le préfet porte à la connaissance du maire, les prescriptions nationales ou particulières et les servitudes
-d'utilité publique applicables au territoire concerné ainsi que les projets d'intérêt général au sens de l'article L. 121-12
-et, éventuellement parmi les dispositions relatives au contenu du plan d'occupation des sols, prévues aux articles R. 123-15
-à R. 123-24, celles qui sont nécessaires à la mise en oeuvre de ces projets. En outre, il porte à sa connaissance les
-objectifs minima à atteindre en matière de politique locale de l'habitat, en tenant compte du programme local de l'habitat
-lorsqu'il existe.
+des sols, le préfet porte à la connaissance du maire, les directives territoriales d'aménagement ou les lois d'aménagement et
+d'urbanisme et les servitudes d'utilité publique applicables au territoire concerné ainsi que les projets d'intérêt général
+au sens de l'article L. 121-12 et, éventuellement parmi les dispositions relatives au contenu du plan d'occupation des sols,
+prévues aux articles R. 123-15 à R. 123-24, celles qui sont nécessaires à la mise en oeuvre de ces projets. En outre, il
+porte à sa connaissance les objectifs minima à atteindre en matière de politique locale de l'habitat, en tenant compte du
+programme local de l'habitat lorsqu'il existe.
 
-Il porte également à sa connaissance toute autre information qu'il juge utile à l'élaboration du plan. Au cours de
-l'élaboration du plan, le préfet communique au maire dans les meilleurs délais les prescriptions nationales ou particulières,
-les servitudes d'utilité publique nouvellement instituées ou modifiées ainsi que tout élément nouveau d'information
-concernant les projets d'intérêt général.
+Il porte également à sa connaissance toute autre information qu'il juge utile à l'élaboration du plan notamment l'obligation,
+conformément à l'article L. 112-2 du code rural, de consulter la carte des terres agricoles approuvée. Au cours de
+l'élaboration du plan, le préfet communique au maire dans les meilleurs délais les directives territoriales d'aménagement ou
+les lois d'aménagement et d'urbanisme , les servitudes d'utilité publique nouvellement instituées ou modifiées ainsi que tout
+élément nouveau d'information concernant les projets d'intérêt général.
 
 Les communications relatives aux projets d'intérêt général deviennent caduques à l'expiration d'un délai de trois ans si
 elles n'ont pas été confirmées dans la même forme pour une égale durée.
@@ -22479,20 +22458,21 @@ elles n'ont pas été confirmées dans la même forme pour une égale durée.
 
 	**Liens**:
 
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 50 (Code de l'urbanisme L123-3)
 	  - SPEC_APPLI: Décret n°83-851 1983-09-23 art. 1 : Date d'entrée en vigueur
 
 	**Modifié par**:
 
-	  - Décret n°92-966 du 10 septembre 1992 - art. 2 () JORF 11 septembre 1992
+	  - Décret n°98-913 du 12 octobre 1998 - art. 26 () JORF 13 octobre 1998
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L121-12 (Ab)
+	  - Code de l'urbanisme L121-12, R123-15 à R123-24
+	  - Code rural L112-2
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*141-4 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R123-15 à R123-24
 
 	**Codifié par**:
 
@@ -22503,21 +22483,23 @@ elles n'ont pas été confirmées dans la même forme pour une égale durée.
 
 La délibération prescrivant l'établissement du plan d'occupation des sols est notifiée par le maire aux présidents du conseil
 régional et du conseil général des régions et départements concernés, aux présidents de la chambre de commerce et
-d'industrie, de la chambre de métiers, de la chambre d'agriculture, aux maires des communes limitrophes et aux présidents des
-établissements publics de coopération intercommunale directement intéressés en raison de leur objet et de leur ressort
-territorial et lorsque tout ou partie du territoire concerné par le plan est situé dans un parc national compris dans un
-massif de montagne ou en zone périphérique, au directeur de l'établissement public du parc.
+d'industrie, de la chambre de métiers, de la chambre d'agriculture, le cas échéant, aux présidents des sections régionales de
+la conchyliculture, aux maires des communes limitrophes et aux présidents des établissements publics de coopération
+intercommunale directement intéressés en raison de leur objet et de leur ressort territorial et lorsque tout ou partie du
+territoire concerné par le plan est situé dans un parc national compris dans un massif de montagne ou en zone périphérique,
+au directeur de l'établissement public du parc.
 
 Dans un délai de deux mois à compter de la transmission de cette délibération, les présidents du conseil régional, du conseil
-général, des chambres de commerce et d'industrie, des chambres de métiers, des chambres d'agriculture, et lorsque tout ou
-partie du territoire concerné par le plan est situé dans un parc national compris dans un massif de montagne ou en zone
-périphérique, le directeur de l'établissement public du parc font connaître au maire s'ils veulent être associés à
-l'élaboration du plan d'occupation des sols selon les modalités prévues à l'article R. 123-3 et, dans l'affirmative,
-désignent à cet effet leurs représentants.
+général, des chambres de commerce et d'industrie, des chambres de métiers, des chambres d'agriculture, des sections
+régionales de la conchyliculture et lorsque tout ou partie du territoire concerné par le plan est situé dans un parc national
+compris dans un massif de montagne ou en zone périphérique, le directeur de l'établissement public du parc font connaître au
+maire si ces collectivités et personnes publiques ont décidé d'être associées à l'élaboration du plan d'occupation des sols
+selon les modalités prévues à l'article R. 123-3 et, dans l'affirmative, font connaitre à cet effet les représentants que ces
+collectivités et personnes publiques ont designés.
 
 Dans le même délai, les maires des communes limitrophes et les présidents des établissements publics de coopération
-intercommunale directement intéressés font savoir s'ils veulent être consultés sur le projet de plan d'occupation des sols
-lorsqu'il aura été arrêté.
+intercommunale directement intéressés font savoir si ces communes ou établissements publics de coopération intercommunale ont
+décidé d'être consultés sur le projet de plan d'occupation des sols lorsqu'il aura été arrêté.
 
 **Liens relatifs à cet article**
 
@@ -22525,13 +22507,10 @@ lorsqu'il aura été arrêté.
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 50 (Code de l'urbanisme L123-3)
-
 	**Modifié par**:
 
-	  - Décret n°86-52 1986-01-10 art. 3 1°, 2°, JORF 14janvier 1986
+	  - Décret n°98-913 1998-10-12 art. 27 I, II, III JORF 13 octobre 1998
+	  - Décret n°98-913 du 12 octobre 1998 - art. 27 () JORF 13 octobre 1998
 
 	**Cite**:
 
@@ -22553,26 +22532,17 @@ des sols.
 
 Cet arrêté fait l'objet pendant un mois d'un affichage en mairie ou au siège de l'établissement public de coopération
 intercommunale compétent et, dans ce cas, aux mairies des communes membres concernées. Mention en est insérée en caractères
-apparents dans deux journaux régionaux ou locaux diffusés dans le département.
+apparents dans deux journaux diffusés dans le département.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
 	**Liens**:
 
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 50 (Code de l'urbanisme L123-3)
 	  - SPEC_APPLI: Décret n°83-851 1983-09-23 art. 1 : Date d'entrée en vigueur
-
-	**Créé par**:
-
-	  - Décret n°83-813 1983-09-09 art. 2 JORF 11 septembre 1983 date d'entrée en vigueur  1 octobre 1983
 
 	**Modifié par**:
 
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°98-913 du 12 octobre 1998 - art. 40 () JORF 13 octobre 1998
 
 	**Cité par**:
 
@@ -22582,42 +22552,48 @@ apparents dans deux journaux régionaux ou locaux diffusés dans le département
 
 	  - Code de l'urbanisme R123-4, R123-6
 
-
-###### Article R*123-8
-
-Le maire entend à leur demande les présidents des associations mentionnées à l'article L. 121-8 ou leurs représentants.
-
-Il peut recueillir l'avis de tout organisme ou association défini à l'article L. 123-3 (3è alinéa) et décider d'entendre
-toute personne qualifiée.
-
-En zone de montagne, il consulte la commission communale ou intercommunale d'aménagement foncier
-
-**Liens relatifs à cet article**
-
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Liens**:
 
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 50 (Code de l'urbanisme L123-3)
+###### Article R*123-8
+
+Le maire entend à leur demande les présidents des associations mentionnées à l'article L. 121-8 ou leurs représentants ainsi
+que les présidents des organismes de gestion des parcs naturels régionaux ou leurs représentants.
+
+Il peut recueillir l'avis de tout organisme ou association défini à l'article L. 123-3 (3è alinéa) et décider d'entendre
+toute personne qualifiée.
+
+En zone de montagne, là ou elle existe, conformément aux dispositions des articles L. 121-2 et L. 121-4 du code rural , il
+consulte la commission communale ou intercommunale d'aménagement foncier.
+
+**Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°96-717 du 9 août 1996 - art. 3 () JORF 14 août 1996
+	  - Décret n°98-913 1998-10-12 art. 28 I, II JORF 13 octobre 1998
+	  - Décret n°98-913 du 12 octobre 1998 - art. 28 () JORF 13 octobre 1998
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L121-8 (M)
 	  - Code de l'urbanisme - art. L123-3 (M)
+	  - Code rural L121-2, L121-4
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*123-9
 
 Le projet de plan d'occupation des sols arrêté par délibération du conseil municipal est communiqué par le maire pour avis,
 en ce qui les concerne, aux personnes publiques associées à l'élaboration du plan, et sur leur demande, aux communes
-limitrophes et aux établissements publics de coopération intercommunale directement intéressés. Leur avis est réputé
-favorable faute de réponse dans un délai de trois mois à compter de la transmission.
+limitrophes et aux établissements publics de coopération intercommunale directement intéressés. Lorsque le projet de plan
+d'occupation des sols comporte une réduction grave des terres agricoles, il est également soumis pour avis à la commission
+départementale d'orientation de l'agriculture et à la chambre d'agriculture, en application de l'article R. 112-3 du code
+rural. Leur avis est réputé favorable faute de réponse dans un délai de trois mois à compter de la transmission.
 
 Lorsque le préfet constate que le projet de plan d'occupation des sols arrêté ne permet pas la mise en oeuvre d'un projet
 d'intérêt général déjà communiqué à la commune, il porte à la connaissance de celle-ci, parmi les dispositions prévues aux
@@ -22629,20 +22605,13 @@ Dans le cas où le projet de plan a été arrêté par l'organe délibérant de 
 à qui a été confiée l'élaboration du plan d'occupation des sols, il doit être soumis pour accord aux conseils municipaux des
 communes membres concernées ; faute de réponse dans un délai de trois mois, l'accord est réputé donné.
 
-Lorsqu'il en fait la demande au maire, le président d'une association mentionnée à l'article L. 121-8 reçoit communication du
-projet de plan d'occupation des sols ou est invité à en prendre connaissance au lieu désigné à cet effet. Il peut faire
-connaître ses observations écrites sur le projet de plan d'occupation des sols dans un délai d'un mois courant à compter de
-la reception du projet de plan d'occupation des sols ou de la date à laquelle il a pris connaissance de celui-ci.
+Lorsqu'il en fait la demande au maire, le président d'une association mentionnée à l'article L. 121-8 ou le président de
+l'organisme de gestion d'un parc naturel régional reçoit communication du projet de plan d'occupation des sols ou est invité
+à en prendre connaissance au lieu désigné à cet effet. Il peut faire connaître ses observations écrites sur le projet de plan
+d'occupation des sols dans un délai d'un mois courant à compter de la reception du projet de plan d'occupation des sols ou de
+la date à laquelle il a pris connaissance de celui-ci.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 50 (Code de l'urbanisme L123-3)
-
-	**Modifié par**:
-
-	  - Décret n°96-717 du 9 août 1996 - art. 3 () JORF 14 août 1996
 
 	**Cité par**:
 
@@ -22661,10 +22630,15 @@ la reception du projet de plan d'occupation des sols ou de la date à laquelle i
 
 	  - Code de l'urbanisme - art. L121-8 (M)
 	  - Code de l'urbanisme R123-15 à R123-24, L121-8
+	  - Code rural R112-3
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°98-913 du 12 octobre 1998 - art. 29 () JORF 13 octobre 1998
 
 
 ###### Article R*123-10
@@ -22674,28 +22648,25 @@ Lorsque les avis ou accords mentionnés à l'article R. 123-9 ont été recueill
 propositions de la commission de conciliation instituée par l'article L. 121-9, est rendu public par arrêté du maire.
 
 Le plan d'occupation des sols rendu public comporte en annexe les avis des personnes publiques consultées mentionnées aux 1er
-et 3é alinéas de l'article R. 123-9 et des associations mentionnées à l'article L. 121-8 ayant présenté des observations, les
-communications du préfet, ainsi que la liste des autres personnes consultées au cours de l'élaboration du plan d'occupation
-des sols.
+et 3é alinéas de l'article R. 123-9, des associations mentionnées à l'article L. 121-8 et des organismes de gestion des parcs
+naturels régionaux ayant présenté des observations, les communications du préfet, ainsi que la liste des autres personnes
+consultées au cours de l'élaboration du plan d'occupation des sols.
 
 L'arrêté rendant public le plan d'occupation des sols fait l'objet pendant un mois d'un affichage en mairie ou au siège de
 l'établissement public de coopération intercommunale compétent et, dans ce cas, aux mairies des communes membres concernées.
-Mention en est insérée en caractères apparents dans deux journaux régionaux ou locaux diffusés dans le département.
+Mention en est insérée en caractères apparents dans deux journaux diffusés dans le département.
 
 L'arrêté rendant public le plan d'occupation des sols n'est exécutoire qu'après accomplissement des mesures de publicité
 mentionnées ci-dessus, et, dans les communes non couvertes par un schéma directeur ou un schéma de secteur approuvé, que dans
-les conditions prévues par l'article L. 123-3-2.
+les conditions prévues par l'article L. 123-3-2. Pour l'affichage en mairie, la date à prendre en considération est celle du
+premier jour où il est effectué.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 50 (Code de l'urbanisme L123-3)
-	  - TXT_SOURCE: Code de l'urbanisme - art. L123-3-2 (M)
-
 	**Modifié par**:
 
-	  - Décret n°96-717 du 9 août 1996 - art. 3 () JORF 14 août 1996
+	  - Décret n°98-913 du 12 octobre 1998 - art. 30 () JORF 13 octobre 1998
+	  - Décret n°98-913 du 12 octobre 1998 - art. 40 () JORF 13 octobre 1998
 
 	**Cite**:
 
@@ -22743,9 +22714,9 @@ d'enquête ;
 enquêteur ou de la commission d'enquête.
 
 Un avis portant ces indications à la connaissance du public est, par les soins du maire, publié en caractères apparents dans
-deux journaux régionaux ou locaux diffusés dans le département, quinze jours au moins avant le début de l'enquête et rappelé
-de même dans les huit premiers jours de celle-ci. Il est publié par voie d'affiches et éventuellement par tous autres
-procédés dans la ou les communes membres concernées.
+deux journaux diffusés dans le département, quinze jours au moins avant le début de l'enquête et rappelé de même dans les
+huit premiers jours de celle-ci. Il est publié par voie d'affiches et éventuellement par tous autres procédés dans la ou les
+communes membres concernées.
 
 L'enquête s'ouvre selon le cas :
 
@@ -22766,8 +22737,8 @@ président de la commission d'enquête. Le commissaire enquêteur ou la commissi
 ou annexées aux registres, établit un rapport qui relate le déroulement de l'enquête et rédige des conclusions motivées, en
 précisant si elles sont favorables ou défavorables. Le commissaire enqueteur ou le président de la commission d'enquête
 adresse le dossier accompagné du rapport et des conclusions au maire dans le délai d'un mois à compter de la date de clôture
-de l'enquête. Copie du rapport et des conclusions est communiquée par le maire au commissaire de la République et au
-président du tribunal administratif.
+de l'enquête. Copie du rapport et des conclusions est communiquée par le maire au préfet et au président du tribunal
+administratif.
 
 Le rapport et les conclusions sont tenus à la disposition du public à la mairie ou, le cas échéant, au siège de
 l'établissement public compétent et aux mairies des communes concernées.
@@ -22780,14 +22751,7 @@ l'établissement public compétent et aux mairies des communes concernées.
 
 	**Liens**:
 
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 50 (Code de l'urbanisme L123-3)
-	  - TXT_SOURCE: Loi n°83-630 1983-07-12
 	  - SPEC_APPLI: Décret n°85-452 1985-04-23 art. 14 : application dans le temps
-
-	**Modifié par**:
-
-	  - Décret n°85-452 1985-04-23 art. 1 JORF 24 avril 1985 en vigueur le 1er octobre 1985
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 	**Cite**:
 
@@ -22797,6 +22761,10 @@ l'établissement public compétent et aux mairies des communes concernées.
 	  - Décret n°85-453 du 23 avril 1985 - art. 19 (Ab)
 	  - Décret n°85-453 du 23 avril 1985 - art. 8 (Ab)
 	  - Décret n°85-453 du 23 avril 1985 - art. 9 (M)
+
+	**Modifié par**:
+
+	  - Décret n°98-913 du 12 octobre 1998 - art. 40 () JORF 13 octobre 1998
 
 	**Cité par**:
 
@@ -22810,21 +22778,18 @@ Le plan d'occupation des sols, éventuellement modifié pour tenir compte des r�
 propositions de la commission de conciliation, donne lieu, dans les conditions fixées au premier alinéa de l'article R.
 123-9, à la consultation des services de l'Etat et des personnes publiques associées si le maire estime que la nature et
 l'importance des modifications envisagées justifient cette consultation. Le plan, accompagné par les avis des personnes
-publiques et des associations mentionnées au deuxième alinéa de l'article R. 123-10, est ensuite transmis au conseil
-municipal, qui l'approuve par délibération.
+publiques, des associations et des organismes de gestion des parcs naturels régionaux ainsi que par les communications du
+préfet mentionnés au deuxième alinéa de l'article R. 123-10, est ensuite transmis au conseil municipal, qui l'approuve par
+délibération.
 
 La délibération approuvant le plan d'occupation des sols fait l'objet des mesures de publicité mentionnées au 3è alinéa de
 l'article R. 123-10. Elle est exécutoire dans les conditions fixées au dernier alinéa du même article.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 50 (Code de l'urbanisme L123-3)
-
 	**Modifié par**:
 
-	  - Décret n°96-717 du 9 août 1996 - art. 3 () JORF 14 août 1996
+	  - Décret n°98-913 du 12 octobre 1998 - art. 31 () JORF 13 octobre 1998
 
 	**Cité par**:
 
@@ -22871,9 +22836,9 @@ Le plan d'occupation des sols rendu public et le plan approuvé sont tenus à la
 échéant, au siège de l'établissement public de coopération intercommunale compétent et dans les mairies des communes membres
 concernées, ainsi que, dans tous les cas, à la préfecture.
 
-Mention des lieux où les documents peuvent être consultés est insérée dans deux journaux régionaux ou locaux diffusés dans le
-département et affichée à la mairie ou au siège de l'établissement public de coopération intercommunale compétent et, dans ce
-cas, aux mairies des communes membres concernées.
+Mention des lieux où les documents peuvent être consultés est insérée dans deux journaux diffusés dans le département et
+affichée à la mairie ou au siège de l'établissement public de coopération intercommunale compétent et, dans ce cas, aux
+mairies des communes membres concernées.
 
 **Liens relatifs à cet article**
 
@@ -22883,12 +22848,11 @@ cas, aux mairies des communes membres concernées.
 
 	**Liens**:
 
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 50 (Code de l'urbanisme L123-3)
 	  - SPEC_APPLI: Décret n°83-851 1983-09-23 art. 1 : Date d'entrée en vigueur
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-813 1983-09-09 art. 2 JORF 11 septembre 1983 date d'entrée en vigueur 1 octobre 1983
+	  - Décret n°98-913 du 12 octobre 1998 - art. 40 () JORF 13 octobre 1998
 
 	**Cité par**:
 
@@ -22900,13 +22864,15 @@ cas, aux mairies des communes membres concernées.
 
 ###### Article R*123-16
 
-Le plan d'occupation des sols comprend :
+Un plan d'occupation des sols comprend :
 
-1. Un ou plusieurs documents graphiques ;
+1° Un rapport de présentation ;
 
-2. Un règlement.
+2° Un règlement ;
 
-Il est accompagné d'un rapport de présentation ainsi que des annexes visées à l'article R. 123-24.
+3° Un ou plusieurs documents graphiques ;
+
+4° Des annexes.
 
 **Liens relatifs à cet article**
 
@@ -22914,13 +22880,13 @@ Il est accompagné d'un rapport de présentation ainsi que des annexes visées �
 
 	  - Décret n°70-1016 1970-10-28 art. 16
 
-	**Cite**:
-
-	  - Code de l'urbanisme R123-24
-
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°98-913 du 12 octobre 1998 - art. 32 () JORF 13 octobre 1998
 
 
 ###### Article R*123-17
@@ -22931,23 +22897,26 @@ Le rapport de présentation :
 sociale, ainsi que celles relatives à l'habitat, à l'emploi, aux équipements publics, aux services et aux moyens de
 transports ;.
 
-2. Analyse, en fonction de la sensibilité du milieu, l'etat initial du site et de l'environnement et les incidences de la
-mise en oeuvre du plan d'occupation des sols sur leur évolution ainsi que les mesures prises pour leur préservation et leur
-mise en valeur ;
+2. Analyse, en fonction de la sensibilité du milieu, l'état initial du site, de l'environnement et du paysage et les
+incidences de la mise en oeuvre du plan d'occupation des sols sur leur évolution ainsi que les mesures prises pour leur
+préservation et leur mise en valeur ;
 
 3. Détermine les perspectives d'évolution des parties urbanisées de la commune ainsi que les conditions permettant à la
 commune de maîtriser son urbanisation future et énumère, le cas échéant, les moyens utiles à la mise en oeuvre des options
 définies au plan d'occupation des sols, en particulier en matière d'habitat pour respecter les objectifs de diversité de
 l'habitat tels qu'ils résultent de la loi n° 91-662 du 13 juillet 1991.
 
-4. Justifie que les dispositions du plan d'occupation des sols son compatibles avec les lois d'aménagement et d'urbanisme et
-les prescriptions prises pour leur application , respectent les servitudes d'utilité publique et ne compromettent pas la mise
-en oeuvre des projets d'intérêt général ;
+4. Justifie que les dispositions du plan d'occupation des sols respectent les servitudes d'utilité publique et ne
+compromettent pas la mise en oeuvre des projets d'intérêt général ;
 
-5. Justifie de la compatibilité des dispositions du plan d'occupation des sols avec les orientations du schéma directeur ou
-du schéma de secteur ou du schéma de mise en valeur de la mer et de la prise en considération du programme local de
-l'habitat, lorsqu'il existe. Il justifie en outre de la prise en considération du programme de référence élaboré en
-application des articles L. 123-11 et L. 123-13 .
+5. Justifie, dans les conditions prévues par l'article L. 111-1-1, de la compatibilité des dispositions du plan d'occupation
+des sols avec les orientations du schéma directeur ou du schéma de secteur, ou avec les directives territoriales
+d'aménagement ou avec les lois d'aménagement et d'urbanisme ; il justifie en outre de la compatibilité avec un schéma de mise
+en valeur de la mer, de la compatibilité avec les directives de protection et de mise en valeur des paysages ainsi que de la
+compatibilité avec les orientations et les mesures de la charte d'un parc naturel régional, lorsque l'autorité compétente
+pour approuver le plan d'occupation des sols a adhéré à la charte après accord de la commune concernée ; il justifie enfin de
+la prise en considération du programme local de l'habitat lorsqu'il existe. Il justifie en outre de la prise en considération
+du programme de référence élaboré en application des articles L. 123-11 et L. 123-13 .
 
 6. Comporte la superficie des différents types de zones urbaines et de zones naturelles ainsi que des espaces boisés classés
 au titre de l'article L. 130-1 et en cas de révision ou de modification d'un plan déjà existant, fait apparaître l'évolution
@@ -22959,21 +22928,17 @@ respective de ces zones.
 
 	  - Décret n°70-1016 1970-10-28 art. 17
 
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 48 (Code de l'urbanisme L123-1)
-
-	**Modifié par**:
-
-	  - Décret n°92-966 du 10 septembre 1992 - art. 3 () JORF 11 septembre 1992
-
 	**Cite**:
 
+	  - Loi n°91-662 1991-07-13
 	  - Code de l'urbanisme - art. L111-1-1 (M)
-	  - Code de l'urbanisme - art. L121-10 (M)
 	  - Code de l'urbanisme - art. L123-11 (M)
 	  - Code de l'urbanisme - art. L123-13 (Ab)
 	  - Code de l'urbanisme - art. L130-1 (M)
+
+	**Modifié par**:
+
+	  - Décret n°98-913 du 12 octobre 1998 - art. 33 () JORF 13 octobre 1998
 
 	**Codifié par**:
 
@@ -23019,7 +22984,7 @@ a) Les espaces boisés classés à conserver ou à créer ;
 b) Les zones d'activités spécialisées ;
 
 c) Lorsqu'il y a lieu d'imposer des prescriptions architecturales, les secteurs pour lesquels un plan de masse coté à trois
-dimensions définit des disciplines spéciales.
+dimensions définit des régles spéciales.
 
 II - Les documents graphiques font apparaître, s'il y a lieu :
 
@@ -23043,9 +23008,9 @@ initialement bâtie, nonobstant le ou les coefficients d'occupation du sol fixé
 subordonner cette autorisation à la démolition de tout ou partie des bâtiments existants sur le terrain où l'implantation de
 la construction est envisagée ;
 
-6° Les quartiers, rues, monuments, sites et secteurs à protéger ou à mettre en valeur pour des motifs d'ordre esthétique,
-historique ou écologique, et notamment les zones dans lesquelles la démolition des immeubles est subordonnée à la délivrance
-d'un permis de démolir.
+6° Les éléments de paysage, quartiers, rues, monuments, sites et secteurs à protéger ou à mettre en valeur pour des motifs
+d'ordre esthétique, historique ou écologique, et notamment les secteurs dans lesquels la démolition des immeubles est
+subordonnée à la délivrance d'un permis de démolir.
 
 Un arrêté du ministre chargé de l'urbanisme détermine la légende des différentes servitudes mentionnées aux I et II et
 pouvant figurer sur les documents graphiques du plan d'occupation des sols.
@@ -23056,13 +23021,9 @@ pouvant figurer sur les documents graphiques du plan d'occupation des sols.
 
 	  - Décret n°70-1016 1970-10-28 art. 18 I
 
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 48 Code de l'urbanisme L123-1
-
 	**Modifié par**:
 
-	  - Décret n°87-885 du 30 octobre 1987 - art. 8 () JORF 31 octobre 1987
+	  - Décret n°98-913 du 12 octobre 1998 - art. 34 () JORF 13 octobre 1998
 
 	**Cité par**:
 
@@ -23237,6 +23198,9 @@ f) Fixer la destination principale des îlots ou immeubles à restaurer ou à r�
 g) Edicter les prescriptions relatives aux équipements et aménagement qui peuvent être autorisés dans les zones qui sont ou
 peuvent être aménagées en vue de la pratique du ski et les secteurs réservés aux remontées mécaniques.
 
+h) Edicter les prescriptions de nature à assurer la protection des éléments de paysage, quartiers, rues, monuments, sites et
+secteurs à protéger ou à mettre en valeur.
+
 3° Pour les zones dans lesquelles s'applique le transfert des possibilités de construction prévu à l'article L. 123-2, le
 règlement fixe les modalités de ce transfert et notamment la superficie minimale du terrain au profit duquel le transfert est
 effectué, ainsi que la densité minimale de construction exigée pour que le droit de construire puisse être reconnu sur ce
@@ -23253,17 +23217,13 @@ Un arrêté du ministre chargé de l'urbanisme fixe la forme de présentation du
 
 	  - Décret n°70-1016 1970-10-28 ART. 19
 
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
 	**Liens**:
 
 	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 48 (Code de l'urbanisme L123-1)
 
 	**Modifié par**:
 
-	  - Décret n°92-966 du 10 septembre 1992 - art. 5 () JORF 11 septembre 1992
+	  - Décret n°98-913 du 12 octobre 1998 - art. 35 () JORF 13 octobre 1998
 
 	**Cité par**:
 
@@ -23277,6 +23237,10 @@ Un arrêté du ministre chargé de l'urbanisme fixe la forme de présentation du
 	  - Code de l'urbanisme - art. L332-1 (M)
 	  - Code de l'urbanisme R123-18, L123-1, L332-1, L123-2
 
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
 
 ###### Article R*123-22
 
@@ -23286,9 +23250,10 @@ même zone ou partie de zone, des coefficients différents peuvent être fixés 
 modalités de l'occupation ou de l'utilisation su sol.
 
 2. Le coefficient d'occupation du sol s'applique à la superficie du terrain qui fait l'objet de la demande d'autorisation de
-construire ou de lotir, y compris, le cas échéant, les terrains cédés gratuitement dans les conditions fixées par les
-articles R. 332-15 et R. 332-16. La surface des bâtiments existants conservés sur le terrain, appréciée comme il est dit à
-l'article L. 111-5, est déduite des possibilités de construction.
+construire ou de lotir, y compris, le cas échéant, aux terrains classés comme espaces boisés en application de l'article L.
+130-1 et aux terrains cédés gratuitement dans les conditions fixées par les articles R. 332-15 et R. 332-16. La surface des
+bâtiments existants conservés sur le terrain, appréciée comme il est dit à l'article L. 111-5, est déduite des possibilités
+de construction.
 
 Les emplacements réservés visés à l'article R. 123-18 (II 3) sont déduits de la superficie prise en compte pour le calcul des
 possibilités de construction. Toutefois, le propriétaire d'un terrain dont une partie est comprise dans un de ces
@@ -23314,24 +23279,25 @@ application des articles L. 123-1 et L. 332-1. Le dépassement peut être impos�
 
 	  - Décret n°70-1016 1970-10-28 ART. 20
 
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L111-5 (M)
-	  - Code de l'urbanisme - art. L123-1 (M)
-	  - Code de l'urbanisme - art. L332-1 (M)
-	  - Code de l'urbanisme R332-15, R332-16, L111-5, R123-18, R112-2, R123-21, L123-1, L332-1
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°83-851 du 23 septembre 1983 - art. 1 (V)
 
 	**Modifié par**:
 
-	  - Décret n°87-885 du 30 octobre 1987 - art. 6 () JORF 31 octobre 1987
+	  - Décret n°98-913 du 12 octobre 1998 - art. 36 () JORF 13 octobre 1998
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L111-5 (M)
+	  - Code de l'urbanisme - art. L123-1 (M)
+	  - Code de l'urbanisme - art. L130-1 (M)
+	  - Code de l'urbanisme - art. L332-1 (M)
+	  - Code de l'urbanisme L130-1, R332-15, R332-16, L111-5, R123-18, R112-2, R123-21, L123-1, L332-1
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*123-23
@@ -23371,11 +23337,11 @@ Les annexes comprennent :
 1. La liste des emplacements réservés, mentionnés à l'article R. 123-18 (II 3), leur destination, leur superficie et
 l'indication des collectivités, services et organismes publics bénéficiaires ;
 
-2. La liste des opérations déclarées d'utilité publique à l'occasion de l'approbation du plan d'occupation des sols ;
+*2.  abrogé*    3. Les éléments ci-après relatifs aux réseaux d'eau et d'assainissement et au système d'élimination des
+déchets :
 
-3. Les éléments ci-après relatifs aux réseaux d'eau et d'assainissement et au système d'élimination des déchets :
-
-a) Les schémas des réseaux d'eau et d'assainissement existants ;
+a) Les schémas des réseaux d'eau et d'assainissement existants ainsi que les zones qui ont été délimitées en application de
+l'article L. 2224-10 du code général des collectivités territoriales.
 
 b) Une note technique accompagnée d'un plan décrivant les caractéristiques essentielles de ces réseaux en leur état futur et
 justifiant les emplacements retenus pour :
@@ -23391,8 +23357,8 @@ c) Une note technique traitant du système d'élimination des déchets.
 4. Les servitudes d'utilité publique soumises aux dispositions de l'article L. 126-1 ainsi que les bois ou forêts soumis au
 régime forestier ;
 
-5. Les directives d'aménagement national applicables en vertu de l'article R. 111-15 ainsi que les prescriptions nationales
-ou particulières prises en application de l'article L. 111-1-1.
+5. L'indication du lieu où le schéma directeur et les directives territoriales d'aménagement prises en application de
+l'article L. 111-1-1 du code de l'urbanisme, s'ils existent, peuvent être consultés.
 
 6. La liste des lotissements dont les règles d'urbanisme ont été maintenues en application de l'alinéa 2 de l'article L.
 315-2-1.
@@ -23414,27 +23380,28 @@ forêt contre l'incendie et à la prévention des risques majeurs.
 
 	  - Décret n°70-1016 1970-10-28 art. 22
 
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
 	**Cite**:
 
 	  - Loi n°87-565 du 22 juillet 1987 - art. 40-2 (Ab)
 	  - Loi n°92-1444 1992-12-31 art. 13
+	  - Code général des collectivités territoriales - art. L2224-10 (M)
 	  - Code de l'urbanisme - art. L111-1-1 (M)
 	  - Code de l'urbanisme - art. L126-1 (M)
 	  - Code de l'urbanisme - art. L315-2-1 (M)
-	  - Code de l'urbanisme - art. R111-15 (M)
-	  - Code de l'urbanisme R123-18, L126-1, R111-15, L111-1-1, L315-2-1, L147-1 à L147-6
+	  - Code de l'urbanisme R123-18, L126-1, L111-1-1, L315-2-1, L147-1 à L147-6
 
 	**Modifié par**:
 
-	  - Décret n°95-1089 1995-10-05 art. 10 II JORF 11 octobre 1995
+	  - Décret n°98-913 1998-10-12 art. 37 I, II, III JORF 13 octobre 1998
+	  - Décret n°98-913 du 12 octobre 1998 - art. 37 () JORF 13 octobre 1998
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*123-25 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 #####  Section 4 : Effets du plan d'occupation des sols
@@ -23815,7 +23782,7 @@ que l'Etat associées à la révision du plan d'occupation des sols.
 La délibération fait l'objet pendant un mois d'un affichage en mairie ou au siège de l'établissement public de coopération
 intercommunale compétent et dans les mairies des communes membres concernées. Les dispositions qu'elle a adoptées sont tenues
 à la disposition du public dans les conditions prévues au cinquième alinéa ci-dessus. Mention de la délibération et des lieux
-où le dossier peut être consulté est insérée dans deux journaux régionaux ou locaux diffusés dans le département.
+où le dossier peut être consulté est insérée dans deux journaux diffusés dans le département.
 
 Le délai de six mois pendant lequel la délibération demeure en vigueur en application du dernier alinéa de l'article L. 123-4
 court à compter de la date à laquelle cette délibération est devenue exécutoire.
@@ -23828,8 +23795,11 @@ court à compter de la date à laquelle cette délibération est devenue exécut
 
 	**Modifié par**:
 
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
-	  - Décret n°86-283 1987-04-22 art. 1 I, II JORF 25 avril 1987
+	  - Décret n°98-913 du 12 octobre 1998 - art. 40 () JORF 13 octobre 1998
+
+	**Abrogé par**:
+
+	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
 
 	**Cite**:
 
@@ -23873,8 +23843,15 @@ compatibilité du plan d'occupation des sols est effectuée selon les modalités
 
 Le préfet informe de la nature de l'opération et de ses implications sur le plan d'occupation des sols, le maire ou le
 président de l'établissement public de coopération intercommunale, ainsi que les présidents du conseil régional, du conseil
-général et des organismes consulaires. Lorsqu'il en fait la demande au préfet, le président d'une association mentionnée à
-l'article L. 121-8 est consulté dans les conditions prévues au dernier alinéa de l'article R. 123-9.
+général et des organismes consulaires. Il informe également, le cas échéant, les présidents des sections régionales de la
+conchyliculture et, lorsque tout ou partie du territoire concerné par le plan d'occupation des sols est situé dans un parc
+national ou sa zone périphérique compris dans un massif de montagne, le directeur de l'établissement public de ce parc.
+Lorsqu'il en fait la demande au préfet, le président d'une association mentionnée à l'article L. 121-8 ou le président d'un
+organisme de gestion d'un parc régional est consulté dans les conditions prévues au dernier alinéa de l'article R. 123-9.
+
+Lorsque le projet comporte une réduction grave des terres agricoles, il est soumis pour avis à la commission départementale
+d'orientation de l'agriculture et à la chambre d'agriculture en application de l'article L. 112-3 du code rural. Leur avis
+est réputé favorable faute de réponse dans un délai d'un mois.
 
 Simultanément, le préfet ouvre, par arrêté, l'enquête publique portant à la fois sur l'utilité publique de l'opération et sur
 la mise en compatibilité du P.O.S.. Cette enquête s'ouvre et s'effectue conformément aux dispositions des articles R. 11-14-1
@@ -23882,18 +23859,31 @@ et suivants du code de l'expropriation pour cause d'utilité publique ou des tex
 préalable à la déclaration d'utilité publique régie par la loi du 12 juillet 1983.
 
 Après la remise des conclusions de l'enquête par le commissaire enquêteur ou le président de la commission d'enquête, le
-commissaire de la République, réunit, pour examiner le projet de mise en compatibilité du P.O.S., les personnes mentionnées
-au deuxième alinéa du présent article, ou leurs représentants, ainsi que les services de l'Etat intéressés.
+préfet, réunit, pour examiner le projet de mise en compatibilité du P.O.S., les personnes mentionnées au deuxième alinéa du
+présent article, ou leurs représentants, ainsi que les services de l'Etat intéressés.
 
 Le dossier de mise en compatibilité du P.O.S., le rapport et les conclusions du commissaire enquêteur ou de la commission
-d'enquête ainsi que le procès-verbal de la réunion prévue à l'alinéa précédent sont soumis, pour avis, par le commissaire de
-la République au conseil municipal ou à l'organe délibérant de l'établissement public de coopération intercommunale, qui doit
-se prononcer dans un délai de deux mois. S'il n'est pas intervenu dans ce délai, l'avis est réputé donné.
+d'enquête ainsi que le procès-verbal de la réunion prévue à l'alinéa précédent sont soumis, pour avis, par le préfet au
+conseil municipal ou à l'organe délibérant de l'établissement public de coopération intercommunale, qui doit se prononcer
+dans un délai de deux mois. S'il n'est pas intervenu dans ce délai, l'avis est réputé donné.
 
 Lorsqu'une déclaration d'utilité publique qui emporte approbation des nouvelles dispositions du plan d'occupation des sols ne
 relève pas de la compétence du préfet, elle est contresignée ou cosignée par le ministre chargé de l'urbanisme.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural L112-3
+	  - Loi n°83-630 1983-07-12
+	  - Code de l'urbanisme - art. L121-8 (M)
+	  - Code de l'urbanisme - art. L123-8 (M)
+	  - Code de l'urbanisme L123-8, L121-8, R123-9
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 	**Cité par**:
 
@@ -23906,18 +23896,12 @@ relève pas de la compétence du préfet, elle est contresignée ou cosignée pa
 
 	**Modifié par**:
 
-	  - Décret n°96-717 du 9 août 1996 - art. 3 () JORF 14 août 1996
+	  - Décret n°98-913 1998-10-12 art. 39 I, II JORF 13 octobre 1998
+	  - Décret n°98-913 du 12 octobre 1998 - art. 39 () JORF 13 octobre 1998
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code de l'urbanisme - art. L121-8 (M)
-	  - Code de l'urbanisme - art. L123-8 (M)
-	  - Code de l'urbanisme L123-8, L121-8, R123-9
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
+	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
 
 
 ###### Article R*123-36
@@ -23986,10 +23970,15 @@ préfet ou prescrite par ce dernier si, dans un délai d'un mois à compter de l
 alinéa, la commune ne lui a pas fait connaître qu'elle entendait opérer la révision ou la modification du plan d'occupation
 des sols, ou si, dans un délai de six mois à compter de cette même notification, la modification ou la révision engagée par
 la commune n'a pas été approuvée. L'arrêté du préfet est publié au recueil des actes administratifs de la préfecture. Mention
-en est insérée en caractères apparents dans deux journaux régionaux ou locaux diffusés dans le département.
+en est insérée en caractères apparents dans deux journaux diffusés dans le département.
 
-Le projet de modification ou de révision élaboré par le préfet est soumis par ce dernier à une enquête publique dans les
-formes prévues à l'article R. 123-11, le préfet étant toutefois substitué au maire pour l'application de cet article.
+Lorsque le projet comporte une réduction grave des terres agricoles, il est soumis pour avis à la commission départementale
+d'orientation de l'agriculture et à la chambre d'agriculture en application de l'article L. 112-3 du code rural. Leur avis
+est réputé favorable faute de réponse dans un délai d'un mois.
+
+Le projet de modification ou de révision élaboré par le préfet éventuellement modifié pour tenir compte, le cas échéant, des
+avis recueillis est soumis par ce dernier à une enquête publique dans les formes prévues à l'article R. 123-11, le préfet
+étant toutefois substitué au maire pour l'application de cet article.
 
 Ce projet, accompagné des conclusions du commissaire enquêteur ou de la commission d'enquête ainsi que du rapport du service
 de l'Etat chargé de conduire l'instruction, est soumis ensuite par le préfet au conseil municipal qui doit se prononcer dans
@@ -23997,33 +23986,34 @@ un délai de deux mois. La délibération du conseil municipal est réputée fav
 
 Lorsque l'avis mentionné à l'alinéa précédant a été recueilli ou est réputé acquis, la modification ou la révision du plan
 d'occupation des sols, tenant éventuellement compte des résultats de l'enquête et de cet avis, est approuvée par arrêté du
-préfet. Cet arrêté fait l'objet des mesures de publicité et d'information du public fixées au quatrième alinéa du présent
-article et à l'article R. 123-14.
+commissaire d la République. Cet arrêté fait l'objet des mesures de publicité et d'information du public fixées au quatrième
+alinéa du présent article et à l'article R. 123-14.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°83-630 1983-07-12
-	  - TXT_SOURCE: Loi n°83-663 1983-07-22 art. 100 (Code de l'urbanisme L123-4)
-
 	**Modifié par**:
 
-	  - Décret n°87-885 du 30 octobre 1987 - art. 9 () JORF 31 octobre 1987
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°98-913 1998-10-12 art. 38 I, II, art. 40 JORF 13 octobre 1998
+	  - Décret n°98-913 du 12 octobre 1998 - art. 38 () JORF 13 octobre 1998
+	  - Décret n°98-913 du 12 octobre 1998 - art. 40 () JORF 13 octobre 1998
+
+	**Abrogé par**:
+
+	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L123-7-1 (M)
-	  - Code de l'urbanisme R123-11, L123-7-1, R123-4, R123-9, R123-14
+	  - Code de l'urbanisme L123-7-1, R123-34, R123-35, R123-9, R123-11, R123-14
+	  - Code rural L112-3
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R123-35-1-1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R123-35-1-1
@@ -24055,168 +24045,6 @@ mesures de publicité et d'information du public fixées au quatrième alinéa d
 	  - Code de l'urbanisme - art. L123-7-1 (M)
 	  - Code de l'urbanisme - art. R*123-35-1 (M)
 	  - Code de l'urbanisme L123-7-1, R123-35-1, R123-14
-
-
-#### Chapitre IV : Dispositions transitoires relatives aux projets d'aménagement et aux plans d'urbanisme.
-
-###### Article R*124-1
-
-Les groupements d'urbanisme constitués en application de l'article 7 du décret n. 58-1463 du 31 décembre 1958 cesseront
-d'exister à compter de la date de publication du décret n. 75-433 du 2 juin 1975. Les dispositions de l'article L. 124-1
-demeurent applicables aux plans établis au titre de ces groupements.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°58-1463 1958-12-31 art. 7
-	  - Code de l'urbanisme - art. L124-1 (M)
-	  - Décret n°75-433 1975-06-02
-
-	**Abrogé par**:
-
-	  - Décret n°98-913 du 12 octobre 1998 - art. 41 (V) JORF 13 octobre 1998
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*710-1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*124-2
-
-Le remplacement des projets d'aménagement et des plans d'urbanisme par des plans d'occupation des sols, tel qu'il est prévu à
-l'article L. 124-1, s'opère dans les conditions ci-après :
-
-I - La mise en révision des projets d'aménagement et des plans d'urbanisme entrant dans le champ d'application de l'article
-L. 124-1 peut être ordonnée par arrêté du préfet sur la demande, ou après avis, soit du ou des conseils municipaux
-intéressés, soit des organismes délibérants des établissements publics groupant les communes intéressées et ayant compétence
-en matière d'urbanisme. Cet arrêté est publié au recueil des actes administratifs du département et inséré dans deux journaux
-régionaux ou locaux diffusés dans tout le département. Il vaut prescription de l'établissement du plan d'occupation des sols
-pour le territoire qu'il concerne.
-
-II - L'arrêté prescrivant l'établissement d'un plan d'occupation des sols dans les conditions fixées par les articles R.
-123-1 et R. 123-3 vaut, dans les limites territoriales auxquelles il s'applique, mise en révision des projets d'aménagement
-ou des plans d'urbanisme des collectivités qui en étaient pourvues lorsque ces projets ou plans entrent dans le champ
-d'application de l'article L. 124-1.
-
-III - Lorsque la mise en révision d'un projet d'aménagement ou d'un plan d'urbanisme a pour objet ou pour effet :
-
-1. De supprimer une protection édictée :
-
-a) En faveur des espaces boisés ;
-
-b) en raison : - des risques de nuisances ; - de la qualité des sites des paysages ou des milieux naturels ; - de la valeur
-agricole des terres ; - de la richesse du sol ou du sous-sol.
-
-2. De réduire l'emprise ou la portée de la protection visée au a ou de réduire de façon sensible l'emprise ou la portée des
-protections visées au b ; - le plan d'occupation du sol ne peut être rendu public sans autorisation donnée sur ce point par
-le ministre chargé de l'urbanisme. Cette autorisation, qui précise la zone ou les secteurs sur lesquels la protection peut
-être réduite ou supprimée, revêt la forme d'un arrêté qui fait l'objet d'une mention au Journal officiel.
-
-Lorsque la modification apportée aux secteurs faisant l'objet d'une protection particulière a été ordonnée par le ministre
-chargé de l'urbanisme antérieurement à la publication du décret n. 76-25 du 6 janvier 1976, les dispositions de l'alinéa
-précédent ne sont pas applicables.
-
-IV - Les projets d'aménagement et les plans d'urbanisme faisant l'objet des dispositions qui précèdent demeurent en vigueur
-jusqu'à la publication des arrêtés rendant publics les plans d'occupation des sols qui les remplacent. Toutefois, dès la date
-de publication des arrêtés prévus par les I et II ci-dessus, les mesures de sauvegarde instituées par les articles R. 123-26
-à R. 123-29 peuvent être appliquées. Dès la même date, en outre, le préfet peut, sauf dans les zones et secteurs protégés
-visés par le III ci-dessus, accorder les autorisations qui sont demandées pour des travaux publics ou privés non conformes
-aux dispositions du projet d'aménagement ou du plan d'urbanisme s'il estime que ces travaux sont compatibles avec les
-dispositions du plan d'occupation des sols en cours d'élaboration.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Cite**:
-
-	  - Décret n°76-25 1976-01-06
-	  - Code de l'urbanisme - art. L124-1 (M)
-	  - Code de l'urbanisme L124-1, R123-1, R123-3, R123-26 à R123-29
-
-	**Abrogé par**:
-
-	  - Décret n°98-913 du 12 octobre 1998 - art. 41 (V) JORF 13 octobre 1998
-
-
-###### Article R*124-3
-
-Les plans d'urbanisme et projets d'aménagement dont l'établissement a été prescrit ou la révision ordonnée antérieurement au
-30 décembre 1967 [*date limite*] et qui n'ont pu être rendus publics avant le 1er juillet 1970 ou approuvés avant le 1er
-juillet 1971 peuvent, à la condition que leur présentation et leur contenu soient rendus conformes aux dispositions des
-articles R. 123-15 à R. 123-24 être instruits, rendus publics puis approuvés comme plans d'occupation des sols suivant les
-formes et procédures instituées par le chapitre III du présent titre ou par les articles R. 141-5 et R. 141-6 sans qu'il soit
-besoin de modifier les actes ayant prescrit leur établissement ou ordonné leur révision.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme R123-15 à R123-24, R141-5, R141-6
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°98-913 du 12 octobre 1998 - art. 41 (V) JORF 13 octobre 1998
-
-
-#### CHAPITRE V : Dispositions diverses.
-
-###### Article R*125-1
-
-Conformément à l'article 4 (1er, 2ème et 3ème alinéa) du décret N° 72-289 du 17 avril 1972, la mission interministérielle
-pour la protection et l'aménagement de l'espace naturel méditerranéen veille [*attributions*] à ce que les actions
-entreprises en matière d'aménagement du territoire, d'urbanisme ou d'équipements publics, tant par les administrations de
-l'Etat que par les collectivités locales et les organismes publics ou privés agissant avec l'aide de l'Etat ou sous son
-contrôle, soient compatibles avec le maintien des équilibres naturels fondamentaux de la zone méditerranéenne.
-
-A ce titre, lui sont communiqués les projets concernant les schémas généraux constituant directive nationale d'aménagement du
-territoire, les schémas directeurs, les plans d'aménagement ruraux concernant les secteurs compris dans la zone de compétence
-de la mission.
-
-Pour les zones où le maintien des équilibres naturels fondamentaux est particulièrement fragile, la mission peut demander
-communication des projets concernant les équipements publics importants ou les autres documents d'urbanisme, notamment les
-plans d'occupation des sols.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°72-289 1972-04-17 art. 4 al. 1, 2, 3
-	  - Décret n°72-289 du 17 avril 1972 - art. 2 (V)
-	  - Décret n°72-289 du 17 avril 1972 - art. 3 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°72-289 1972-04-17 art. 4 al. 1, 2, 3
-	  - Décret n°72-289 du 17 avril 1972 - art. 2 (V)
-	  - Décret n°72-289 du 17 avril 1972 - art. 3 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Loi n°83-8 du 7 janvier 1983 - art. 75 () JORF 9 janvier 1983
-
-	**Abrogé par**:
-
-	  - Décret n°98-913 du 12 octobre 1998 - art. 41 (V) JORF 13 octobre 1998
-
-	**Cité par**:
-
-	  - Décret n°98-913 du 12 octobre 1998 - art. 41 (V)
 
 
 #### Chapitre VI : Servitudes d'utilité publique affectant l'utilisation du sol.
@@ -25264,42 +25092,6 @@ de trois ans partant de la fin de l'année au cours de laquelle ils auraient dû
 	**Abrogé par**:
 
 	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
-
-
-###### Article R130-24
-
-Conformément à l'article 7 du décret n° 72-289 du 17 avril 1972, la commission spéciale chargée, au sein de la mission
-interministérielle pour la protection et l'aménagement de l'espace naturel méditerranéen, de la définition du programme
-d'action et d'aménagement visant la protection et la reconstitution des massifs boisés est saisie, pour avis,
-[*attributions*] de tout projet d'aliénation, de concession ou de location à long terme d'espaces naturels boisés ou non
-appartenant à l'Etat, aux établissements publics ou aux collectivités locales, de tout projet de déboisement de forêts
-appartenant à l'Etat, à des collectivités locales ou à des particuliers.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Cite**:
-
-	  - Décret n°72-289 du 17 avril 1972 - art. 7 (V)
-
-	**Créé par**:
-
-	  - Décret n°84-229 du 29 mars 1984 - art. 5 () JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
-
-	**Abrogé par**:
-
-	  - Décret n°98-913 du 12 octobre 1998 - art. 42 (V) JORF 13 octobre 1998
-
-	**Cité par**:
-
-	  - Décret n°98-913 du 12 octobre 1998 - art. 42 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R130-16 (M)
 
 
 ### Titre IV : Dispositions spéciales à certaines parties du territoire
