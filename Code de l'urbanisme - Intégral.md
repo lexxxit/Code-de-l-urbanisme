@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1995-02-03
+Version Consolidée au 1995-02-05
 
 # Partie législative
 
@@ -113,14 +113,36 @@ de ces règles qui sont ou peuvent néanmoins demeurer applicables sur les terri
 
 ###### Article L111-1-1
 
-En complément des règles générales instituées en application de l'article L. 111-1, des prescriptions nationales ou des
-prescriptions particulières à certaines parties du territoire sont fixées en application de lois d'aménagement et
+Des lois d'aménagement et d'urbanisme fixent des dispositions nationales ou particulières à certaines parties du territoire.
+
+Des directives territoriales d'aménagement peuvent fixer, sur certaines parties du territoire, les orientations fondamentales
+de l'Etat en matière d'aménagement et d'équilibre entre les perspectives de développement, de protection et de mise en valeur
+des territoires. Elles fixent les principaux objectifs de l'Etat en matière de localisation des grandes infrastructures de
+transport et des grands équipements, ainsi qu'en matière de préservation des espaces naturels, des sites et des paysages. Ces
+directives peuvent également préciser pour les territoires concernés les modalités d'application des lois d'aménagement et
+d'urbanisme, adaptées aux particularités géographiques locales. Elles prennent en compte les orientations générales du schéma
+national mentionné à l'article 2 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement
+du territoire.
+
+Les directives territoriales d'aménagement sont élaborées sous la responsabilité de l'Etat et à son initiative.
+
+Les projets de directives sont élaborés en association avec les régions, les départements, les communes chefs-lieux
+d'arrondissement ainsi que les communes de plus de 20 000 habitants et les groupements de communes compétents en matière
+d'aménagement de l'espace ou d'urbanisme intéressés et les comités de massifs. Leur avis est réputé favorable s'il n'est pas
+intervenu dans un délai de trois mois à compter de leur saisine. Les directives éventuellement modifiées pour tenir compte de
+ces avis sont approuvées par décret en Conseil d'Etat.
+
+Les schémas directeurs et les schémas de secteur doivent être compatibles avec les directives territoriales d'aménagement et,
+en l'absence de ces directives, avec les lois d'aménagement et d'urbanisme.
+
+Les plans d'occupation des sols et les documents d'urbanisme en tenant lieu doivent être compatibles avec les orientations
+des schémas directeurs et des schémas de secteur institués par le présent code. En l'absence de ces schémas, ils doivent être
+compatibles avec les directives territoriales d'aménagement et, en l'absence de ces dernières, avec les lois d'aménagement et
 d'urbanisme.
 
-Les régions territorialement intéressées peuvent proposer l'élaboration de prescriptions particulières et sont consultées
-lors de la préparation des lois et des décrets fixant leurs conditions d'application. Les schémas directeurs, les schémas de
-secteur, les plans d'occupation des sols et les documents d'urbanisme en tenant lieu doivent être compatibles avec leurs
-dispositions.
+Les dispositions des directives territoriales d'aménagement qui précisent les modalités d'application des articles L. 145-1
+et suivants sur les zones de montagne et des articles L. 146-1 et suivants sur les zones littorales s'appliquent aux
+personnes et opérations qui y sont mentionnées.
 
 **Liens relatifs à cet article**
 
@@ -194,17 +216,18 @@ dispositions.
 	  - Code général des collectivités territoriales - art. R1614-42 (M)
 	  - Code général des collectivités territoriales - art. R1614-50 (M)
 
-	**Créé par**:
+	**Cite**:
 
-	  - Loi n°83-8 du 7 janvier 1983 - art. 36 () JORF 9 JANVIER 1983
+	  - Loi n°95-115 du 4 février 1995 - art. 2 (M)
+	  - Code de l'urbanisme - art. L145-1 (M)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+	  - Loi n°95-115 du 4 février 1995 - art. 4 () JORF 5 février 1995
 
 	**Codifié par**:
 
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 ###### Article L111-1-2
@@ -223,8 +246,8 @@ constructions et installations existantes.
 4° Les constructions ou installations, sur délibération motivée du conseil municipal, si celui-ci considère que l'intérêt de
 la commune le justifie, dès lors qu'elles ne portent pas atteinte à la sauvegarde des espaces naturels et des paysages, à la
 salubrité et à la sécurité publique, qu'elles n'entraînent pas un surcroît important de dépenses publiques et que le projet
-n'est pas contraire aux objectifs visés à l'article L. 110 et aux lois d'aménagement et d'urbanisme mentionnées à l'article
-L. 111-1-1.
+n'est pas contraire aux objectifs visés à l'article L. 110 et aux dispositions des chapitres V et VI du titre IV du livre Ier
+ou aux directives territoriales d'aménagement précisant leur modalités d'application.
 
 **Liens relatifs à cet article**
 
@@ -249,15 +272,7 @@ L. 111-1-1.
 
 	**Modifié par**:
 
-	  - Loi n°86-972 du 19 août 1986 - art. 1 () JORF 22 aout 1986
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L111-1-1 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L124-4 (Ab)
+	  - Loi n°95-115 du 4 février 1995 - art. 5 () JORF 5 février 1995
 
 	**Codifié par**:
 
@@ -271,8 +286,8 @@ représentant de l'Etat ou par le maire au nom de l'Etat si le conseil municipal
 l'Etat, précisé les modalités d'application des règles générales d'urbanisme prises en application de l'article L. 111-1 sur
 tout ou partie du territoire de la commune.
 
-Le projet ne doit pas être contraire aux objectifs visés à l'article L. 110 et aux lois d'aménagement et d'urbanisme
-mentionnées à l'article L. 111-1-1 du présent Code.
+Le projet ne doit pas être contraire aux objectifs visés à l'article L. 110 et aux dispositions des chapitres V et VI du
+titre IV du livre Ier et aux directives territoriales d'aménagement précisant leurs modalités d'application du présent code.
 
 Les dispositions du présent article  peuvent s'appliquer sur le territoire d'une commune pendant une durée maximale de quatre
 ans à compter de la date à laquelle le conseil municipal a précisé les modalités d'application de l'article L. 111-1,
@@ -289,12 +304,15 @@ conformément au premier alinéa du présent article.
 
 	**Modifié par**:
 
-	  - Loi n°86-972 du 19 août 1986 - art. 1 () JORF 22 aôut 1986
+	  - Loi n°95-115 du 4 février 1995 - art. 5 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L111-1 (M)
-	  - Code de l'urbanisme - art. L111-1-1 (M)
 	  - Code de l'urbanisme - art. L111-1-2 (M)
 
 	**Codifié par**:
@@ -1935,8 +1953,10 @@ moins la moitié des communes intéressées représentant plus des deux tiers de
 départements, ainsi que des régions pour les ensembles de communes qui dépassent 100000 habitants. Dans les régions de
 Guadeloupe, de Guyane, de Martinique et de la Réunion, le conseil régional et le conseil général sont consultés, quel que
 soit le nombre d'habitants de l'ensemble des communes regroupées dans le périmètre du schéma directeur ou du schéma de
-secteur.    Les communes confient dans le périmètre mentionné au troisième alinéa du présent article et dans les mêmes
-conditions de majorité leurs compétences en matière de schéma directeur ou de schéma de secteur :
+secteur.
+
+Les communes confient dans le périmètre mentionné au troisième alinéa du présent article et dans les mêmes conditions de
+majorité leurs compétences en matière de schéma directeur ou de schéma de secteur :
 
 - soit à un établissement public de coopération intercommunale ;
 
@@ -1950,10 +1970,11 @@ département, les autres établissements publics de coopération intercommunale 
 articles L. 121-4 et L. 121-7. Le président de l'établissement public compétent peut recueillir l'avis de tout organisme ou
 association ayant compétence en matière de construction, d'aménagement, d'urbanisme ou d'environnement.
 
-Le représentant de l'Etat porte à la connaissance de l'établissement public les dispositions nécessaires à la mise en oeuvre
-des projets d'intérêt général de l'Etat, de la région, du département ou d'autres intervenants lorsqu'ils correspondent aux
-définitions prises en application de l'article L. 121-12 et communique toutes informations utiles à l'élaboration du schéma
-directeur.
+Le représentant de l'Etat porte à la connaissance de l'établissement public les diectives territoriales d'aménagement prévues
+par l'article L. 111-1-1 ou, en l'absence de celles-ci, les lois d'aménagement et d'urbanisme ainsi que les dispositions
+nécessaires à la mise en oeuvre des projets d'intérêt général de l'Etat, de la région, du département ou d'autres
+intervenants lorsqu'ils correspondent aux définitions prises en application de l'article L. 121-12 et communique toutes
+informations utiles à l'élaboration du schéma directeur.
 
 **Liens relatifs à cet article**
 
@@ -1973,10 +1994,20 @@ directeur.
 
 	**Modifié par**:
 
-	  - Loi n°94-112 du 9 février 1994 - art. 20 () JORF 10 février 1994
+	  - Loi n°95-115 du 4 février 1995 - art. 5 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 3 () JORF 14 décembre 2000 en vigueur le 1er avril 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-1208 du 13 décembre 2000 - art. 43 (V)
+	  - SPEC_APPLI: Décret n°2001-260 du 27 mars 2001 - art. 6 (V)
 
 	**Cite**:
 
+	  - Code de l'urbanisme - art. L111-1-1 (M)
 	  - Code de l'urbanisme - art. L121-12 (Ab)
 	  - Code de l'urbanisme - art. L121-4 (M)
 	  - Code de l'urbanisme - art. L121-7 (M)
@@ -2050,19 +2081,18 @@ ou le schéma de secteur devient exécutoire soixante jours après la transmissi
 sauf si dans ce délai :
 
 a) Le représentant de l'Etat a notifié des modifications qu'il estime nécessaire d'apporter au schéma lorsque les
-dispositions de celui-ci ne sont pas compatibles avec les prescriptions prises en application de l'article L. 111-1-1, ou
-compromettent gravement la mise en oeuvre de projets d'intérêt général relevant de l'Etat, de la région, du département ou
-d'autres intervenants et correspondant aux définitions formulées en application de l'article L. 121-12. Le représentant de
-l'Etat est tenu de motiver les modifications qu'il demande.
+dispositions de celui-ci ne sont pas compatibles avec les directives territoriales d'aménagement et, en l'absence de celles-
+ci, avec les lois d'aménagement et d'urbanisme mentionnées à l'article L. 111-1-1, ou compromettent gravement la mise en
+oeuvre de projets d'intérêt général relevant de l'Etat, de la région, du département ou d'autres intervenants et
+correspondant aux définitions formulées en application de l'article L. 121-12. Le représentant de l'Etat est tenu de motiver
+les modifications qu'il demande.
 
 L'établissement public dispose alors, à compter de l'expiration du délai de soixante jours, de six mois pour approuver le
 schéma directeur ou le schéma de secteur avec les modifications demandées ; à défaut, le représentant de l'Etat dans le
 département constate par arrêté que le schéma directeur ou le schéma de secteur devient exécutoire, tel que résultant, d'une
 part, de la délibération de l'organe de l'établissement public de coopération intercommunale approuvant le schéma directeur
 ou le schéma de secteur et, d'autre part, des modifications demandées par le représentant de l'Etat en application des
-dispositions de l'alinéa précédent du présent
-
-article ;
+dispositions de l'alinéa précédent du présent article ;
 
 b) Le représentant de l'Etat ou le collège des élus constitué au sein de la commission de conciliation a notifié les
 modifications demandées par une commune membre lorsqu'elle estime que l'un de ses intérêts essentiels est compromis par les
@@ -2077,9 +2107,11 @@ fait connaître à l'établissement public et au représentant de l'Etat par une
 Le représentant de l'Etat notifie, s'il l'estime nécessaire, dans un délai de quinze jours à l'établissement public les
 modifications qu'il convient d'apporter au schéma directeur ou au schéma de secteur pour tenir compte de la délibération du
 conseil municipal. Le représentant de l'Etat est tenu de motiver les modifications qu'il demande. Si l'établissement public
-n'a pas approuvé dans un délai de six mois les modifications demandées et après une délibération du conseil municipal de la
-commune concernée demandant le retrait, le représentant de l'Etat, par dérogation à l'article L. 163-16 du code des communes,
-constate le retrait de la commune de l'établissement public et du périmètre défini à l'article L. 122-1-1 du présent code.
+n'a pas approuvé dans un délai de
+
+six mois les modifications demandées et après une délibération du conseil municipal de la commune concernée, demandant le
+retrait, le représentant de l'Etat, par dérogation à l'article L. 163-16 du code des communes, constate le retrait de la
+commune de l'établissement public et du périmètre défini à l'article L. 122-1-1 du présent code.
 
 Si le représentant de l'Etat n'a pas notifié dans le délai prévu à l'alinéa précédent les modifications demandées par la
 commune, celle-ci peut saisir le collège des élus locaux institué au sein de la commission de conciliation, quinze jours au
@@ -2096,6 +2128,10 @@ Les schémas directeurs ou les schémas de secteur approuvés sont tenus à la d
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
 	**Cité par**:
 
 	  - Loi n°83-636 du 13 juillet 1983 - art. 17 (Ab)
@@ -2107,7 +2143,16 @@ Les schémas directeurs ou les schémas de secteur approuvés sont tenus à la d
 
 	**Modifié par**:
 
-	  - Loi n°83-663 du 22 juillet 1983 - art. 95 () JORF 23 JUILLET 1983
+	  - Loi n°95-115 du 4 février 1995 - art. 5 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 3 () JORF 14 décembre 2000 en vigueur le 1er avril 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-1208 du 13 décembre 2000 - art. 43 (V)
+	  - SPEC_APPLI: Décret n°2001-260 du 27 mars 2001 - art. 6 (V)
 
 	**Cite**:
 
@@ -2116,18 +2161,14 @@ Les schémas directeurs ou les schémas de secteur approuvés sont tenus à la d
 	  - Code de l'urbanisme - art. L122-1-1 (M)
 	  - Code de l'urbanisme - art. L122-1-2 (M)
 
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
 
 ###### Article L122-1-4
 
 Lorsque l'élaboration ou la modification d'un schéma directeur ou d'un schéma de secteur par un établissement public de
-coopération intercommunale est rendue nécessaire pour l'application locale des prescriptions prises en application de
-l'article L. 111-1-1 ou pour la réalisation d'un projet d'intérêt général relevant de l'Etat, de la région, du département ou
-d'autres intervenants et correspondant aux définitions prises en application de l'article L. 121-12, elle peut être demandée
-par les représentants de l'Etat.
+coopération intercommunale est rendue nécessaire pour l'application locale des directives territoriales d'aménagement et, en
+leur absence, des lois d'aménagement et d'urbanisme mentionnées à l'article L. 111-1-1 ou pour la réalisation d'un projet
+d'intérêt général relevant de l'Etat, de la région, du département ou d'autres intervenants et correspondant aux définitions
+prises en application de l'article L. 121-12, elle peut être demandée par les représentants de l'Etat.
 
 Si, dans un délai de deux ans à compter de cette demande, le schéma n'a pas été approuvé dans les conditions définies par les
 articles L. 122-1-1 à L. 122-1-3, le représentant de l'Etat peut, par arrêté motivé, décider son élaboration et procéder à
@@ -2148,13 +2189,21 @@ son établissement dans les conditions prévues aux articles L. 122-2 et L. 122-
 
 	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985
+	  - Loi n°95-115 du 4 février 1995 - art. 5 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 3 () JORF 14 décembre 2000 en vigueur le 1er avril 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-1208 du 13 décembre 2000 - art. 43 (V)
+	  - SPEC_APPLI: Décret n°2001-260 du 27 mars 2001 - art. 6 (V)
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L111-1-1 (M)
-	  - Code de l'urbanisme - art. L122-1-1 (M)
-	  - Code de l'urbanisme - art. L122-1-3 (M)
+	  - Code de l'urbanisme L111-1-1, L121-12, L122-1-1 à L122-1-3, L122-2, L122-3
 
 	**Codifié par**:
 
@@ -2392,8 +2441,8 @@ d'urbanisme ; cet avis est réputé donné s'il n'est pas intervenu dans un dél
 En cas de modification d'un schéma directeur, il peut être fait application des orientations en cours d'établissement
 intéressant les programmes de l'Etat, des collectivités locales et des établissements et services publics ainsi que les
 décisions qui les concernent, dès lors que ces orientations ne sont pas susceptibles de compromettre la réalisation d'un
-projet d'intérêt général au sens de l'article L. 121-12 ou l'application des lois d'aménagement et d'urbanisme prévues à
-l'article L. 111-1-1.
+projet d'intérêt général au sens de l'article L. 121-12 ou l'application des directives territoriales d'aménagement et, en
+leur absence, des lois d'aménagement et d'urbanisme prévues à l'article L. 111-1-1.
 
 Les programmes et décisions concernés font l'objet, à la demande des autorités compétentes intéressées et dans les conditions
 définies par décret en Conseil d'Etat, d'un accord du représentant de l'Etat après avis, selon le cas, soit de
@@ -2406,9 +2455,9 @@ schéma conformément à l'article L. 122-5.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985
+	  - Loi n°95-115 du 4 février 1995 - art. 5 () JORF 5 février 1995
 
 	**Cite**:
 
@@ -2494,11 +2543,11 @@ Les règles et servitudes définies par un plan d'occupation des sols ne peuvent
 l'exception des adaptations mineures rendues nécessaires par la nature du sol, la configuration des parcelles ou le caractère
 des constructions avoisinantes.
 
-Les plans d'occupation des sols doivent être compatibles avec les prescriptions prises en application de l'article L. 111-1-1
-et les orientations des schémas directeurs et des schémas de secteur, s'ils existent, et respecter les servitudes d'utilité
-publique affectant l'utilisation du sol ainsi que les dispositions nécessaires à la mise en oeuvre de projets d'intérêt
-général relevant de l'Etat, de la région, du département ou d'autres intervenants. Ils prennent en considération les
-dispositions des programmes locaux de l'habitat lorsqu'ils existent.
+Les plans d'occupation des sols doivent être compatibles dans les conditions fixées par l'article L. 111-1-1 avec les
+orientations des schémas directeurs et des schémas de secteur ou les directives territoriales d'aménagement ou les lois
+d'aménagement ou d'urbanisme , et respecter les servitudes d'utilité publique affectant l'utilisation du sol ainsi que les
+dispositions nécessaires à la mise en oeuvre de projets d'intérêt général relevant de l'Etat, de la région, du département ou
+d'autres intervenants. Ils prennent en considération les dispositions des programmes locaux de l'habitat lorsqu'ils existent.
 
 **Liens relatifs à cet article**
 
@@ -2578,7 +2627,7 @@ dispositions des programmes locaux de l'habitat lorsqu'ils existent.
 
 	**Modifié par**:
 
-	  - Loi n°94-112 du 9 février 1994 - art. 6 (V) JORF 10 février 1994
+	  - Loi n°95-115 du 4 février 1995 - art. 5 () JORF 5 février 1995
 
 	**Cite**:
 
@@ -2689,9 +2738,10 @@ construction, d'aménagement ou d'urbanisme. En zone de montagne, la commission 
 des sols.
 
 Au vu de la décision prescrivant l'élaboration d'un plan d'occupation des sols, le représentant de l'Etat porte à la
-connaissance de la commune ou de l'établissement public compétent les prescriptions, servitudes et dispositions mentionnées
-au dernier alinéa de l'article L. 123-1, précise les objectifs minima à atteindre en matière de politique locale de l'habitat
-et lui communique toute autre information qu'il juge utile à l'élaboration du plan.
+connaissance de la commune ou de l'établissement public compétent les directives territoriales d'aménagement ou, en l'absence
+de celles-ci, les lois d'aménagement ou d'urbanisme, servitudes et dispositions mentionnées au dernier alinéa de l'article L.
+123-1, précise les objectifs minima à atteindre en matière de politique locale de l'habitat et lui communique toute autre
+information qu'il juge utile à l'élaboration du plan.
 
 Le conseil municipal ou l'organe délibérant de l'établissement public compétent arrête le projet de plan d'occupation des
 sols. Celui-ci est alors soumis pour avis aux personnes publiques associées à son élaboration ainsi que, à leur demande, aux
@@ -2728,13 +2778,7 @@ avec en annexe les avis ou les accords des personnes publiques consultées.
 
 	**Modifié par**:
 
-	  - Loi - art. 9 ()
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L121-6 (M)
-	  - Code de l'urbanisme - art. L121-7 (M)
-	  - Code de l'urbanisme - art. L123-1 (M)
+	  - Loi n°95-115 du 4 février 1995 - art. 5 () JORF 5 février 1995
 
 	**Anciens textes**:
 
@@ -2839,7 +2883,7 @@ espaces boisés classés ou ne comporte pas de graves risques de nuisance.
 
 Toutefois, lorsque la modification ne concerne que la suppression ou la réduction d'un emplacement réservé inscrit au plan
 d'occupation des sols au bénéfice d'une commune ou d'un établissement public de coopération intercommunale, il n'y a pas lieu
-de procéder à une enquête publique. Cette disposition n'est applicable  que pour les térrains non acquis par la commune ou
+de procéder à une enquête publique. Cette disposition n'est applicable  que pour les terrains non acquis par la commune ou
 l'établissement public de coopération intercommunale.
 
 A compter de la décision prescrivant la révision d'un plan d'occupation des sols, le conseil municipal peut décider de faire
@@ -2849,16 +2893,17 @@ en Conseil d'Etat, dès lors que cette application :
 a) N'est pas incompatible avec les dispositions d'un schéma directeur ou d'un schéma de secteur approuvé ou en cours
 d'établissement ;
 
-b) N'est pas de nature à compromettre la réalisation d'un projet d'intêret général au sens de l'article L. 121-12 ou
-l'application des lois d'aménagement et d'urbanisme prévues à l'article L. 111-1-1 ;
+b) N'est pas de nature à compromettre la réalisation d'un projet d'intêret général au sens de l'article L.121-12 ou
+l'application des directives territoriales d'aménagement et en leur absence, des lois d'aménagement et d'urbanisme prévues à
+l'article L.111-1-1 ;
 
 c) N'a pas pour objet ou pour effet de supprimer une protection édictée en faveur d'un espace boisé ou de réduire de façon
 sensible une protection édictée en raison de la valeur agricole des terres, de risques de nuisance, de la qualité des sites,
 des paysages ou des milieux naturels.
 
 La délibération du conseil municipal prévoyant l'application anticipée des nouvelles dispositions devient éxécutoire dans un
-délai d'un mois suivant sa transmission au représentant de l'Etat. Cette délibération est valable six mois. Elle peut être
-renouvelée.
+délai d'un mois suivant sa transmission au représentant de l'Etat. Cette délibération est valable six mois [*durée*]. Elle
+peut être renouvelée.
 
 **Liens relatifs à cet article**
 
@@ -2878,7 +2923,7 @@ renouvelée.
 
 	**Modifié par**:
 
-	  - Loi n°86-1290 du 23 décembre 1986 - art. 67 () JORF 24 Décembre 1986
+	  - Loi n°95-115 du 4 février 1995 - art. 5 () JORF 5 février 1995
 
 	**Cite**:
 
@@ -3096,10 +3141,11 @@ opérations intéressant les périmètres  définis à l'article précédent. Le
 
 ###### Article L123-7-1
 
-Lorsqu'un plan d'occupation des sols doit être révisé ou modifié pour être rendu compatible avec les prescriptions nouvelles
-prises en application de l'article L. 111-1-1 ou avec les orientations d'un schéma directeur ou d'un schéma de secteur,
-approuvé ou arrêté postérieurement à l'approbation du plan, ou pour permettre la réalisation d'un nouveau projet d'intérêt
-général, le représentant de l'Etat en informe la commune ou l'établissement public de coopération intercommunale.
+Lorsqu'un plan d'occupation des sols doit être révisé ou modifié pour être rendu compatible, dans les conditions prévues par
+l'article L. 111-1-1, avec les orientations d'un schéma directeur ou d'un schéma de secteur, approuvé ou arrêté
+postérieurement à l'approbation du plan, ou avec les directives territoriales d'aménagement, ou avec les lois d'aménagement
+ou d'urbanisme, ou pour permettre la réalisation d'un nouveau projet d'intérêt général, le représentant de l'Etat en informe
+la commune ou l'établissement public de coopération intercommunale.
 
 Dans un délai d'un mois, la commune ou l'établissement public fait connaître au représentant de l'Etat s'il entend opérer la
 révision ou la modification nécessaire. Dans la négative ou à défaut de réponse dans ce délai, le représentant de l'Etat peut
@@ -3117,9 +3163,15 @@ compétente et les rendre publiques.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+	  - SPEC_APPLI: Loi n°2000-1208 du 13 décembre 2000 - art. 43 (V)
+	  - SPEC_APPLI: Décret n°2001-260 du 27 mars 2001 - art. 6 (V)
 
 	**Cité par**:
 
@@ -3134,15 +3186,15 @@ compétente et les rendre publiques.
 
 	**Modifié par**:
 
-	  - Loi n°87-565 du 22 juillet 1987 - art. 26 () JORF 23 juillet 1987
+	  - Loi n°95-115 du 4 février 1995 - art. 5 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 4 () JORF 14 décembre 2000 en vigueur le 1er avril 2001
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L111-1-1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L123-8
@@ -4278,58 +4330,6 @@ Des décrets en Conseil d'Etat fixeront, en tant que de besoin, les modalités d
 
 ### TITRE IV : Dispositions particulières à certaines parties du territoire
 
-#### CHAPITRE I : Dispositions particulières à Paris et à la région d'Ile-de-France
-
-#####  Section 1 : Schéma directeur.
-
-###### Article L141-1
-
-Le schéma directeur portant sur l'ensemble de la région d'Ile-de-France, telle qu'elle est définie à l'article 1er de la loi
-n° 64-707 du 10 juillet 1964, est approuvé après avis du conseil d'administration du district de la région d'Ile-de-France et
-des conseils généraux des départements intéressés. Cet avis est réputé favorable s'il n'intervient pas dans un délai de trois
-mois.
-
-Le schéma directeur de la région d'Ile-de-France ne peut être approuvé que par décret en Conseil d'Etat lorsqu'un ou
-plusieurs conseils généraux, représentant un quart au moins de la population totale du territoire concerné, ou le conseil
-d'administration du district font connaître leur avis défavorable.
-
-Le schéma directeur de la région d'Ile-de-France a les mêmes effets que les prescriptions définies en application de
-l'article L. 111-1-1.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°64-707 du 10 juillet 1964 - art. 1, v. init.
-	  - Code de l'urbanisme - art. L111-1-1 (M)
-
-	**Cité par**:
-
-	  - Loi n°82-1153 du 30 décembre 1982 - art. 28-3 (V)
-	  - Loi n°2011-665 du 15 juin 2011 - art. 1 (V)
-	  - Code de l'environnement - art. L350-1 (VD)
-	  - Code de l'urbanisme - art. L122-2 (VT)
-	  - Code de l'urbanisme - art. L141-1-1 (M)
-	  - Code de l'urbanisme - art. L141-1-2 (VT)
-	  - Code de l'urbanisme - art. L141-1-3 (VT)
-	  - Code de l'urbanisme - art. L141-2 (Ab)
-	  - Code de l'urbanisme - art. R*141-2 (VT)
-	  - Code de l'urbanisme - art. R*613-2 (Ab)
-	  - Code des transports - art. L1214-10 (VD)
-
-	**Modifié par**:
-
-	  - Loi n°83-8 du 7 janvier 1983 - art. 75 () JORF 9 JANVIER 1983
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°83-851 1983-09-23
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-
 #### Chapitre III : Protection de certaines communes.
 
 ###### Article L143-1
@@ -4445,32 +4445,44 @@ vigueur jusqu'à l'approbation du plan d'aménagement et de développement durab
 
 Le schéma d'aménagement de la Corse doit respecter :
 
-" 1° Les règles générales d'aménagement et d'urbanisme à caractère obligatoire prévues au livre Ier, en particulier les
-prescriptions nationales prises en application de l'article L. 111-1-1, ainsi que celles qui sont prévues par la loi
-d'orientation agricole n° 80-502 du 4 juillet 1980 ;
+1° Les règles générales d'aménagement et d'urbanisme à caractère obligatoire prévues au livre Ier, ainsi que les
+prescriptions prévues aux articles  L. 111-1-1 à L. 112-13 du code rural.
 
-" 2° Les servitudes d'utilité publique affectant l'utilisation du sol et les dispositions nécessaires à la mise en oeuvre
+2° Les servitudes d'utilité publique affectant l'utilisation du sol et les dispositions nécessaires à la mise en oeuvre
 d'opérations d'intérêt national ;
 
-" 3° La législation en matière de protection des sites et des paysages ainsi qu'en matière de protection des monuments
-classés ou inscrits.
+3° La législation en matière de protection des sites et des paysages ainsi qu'en matière de protection des monuments classés
+ou inscrits.
 
-" Le schéma d'aménagement de la Corse prend en compte les programmes de l'Etat et harmonise ceux des collectivités locales et
+Le schéma d'aménagement de la Corse prend en compte les programmes de l'Etat et harmonise ceux des collectivités locales et
 de leurs établissements et services publics.
 
-" Le schéma d'aménagement de la Corse vaut schéma de mise en valeur de la mer, tel qu'il est défini par l'article 57 de la
-loi n° 83-8 du 7 janvier 1983 précitée, notamment en ce qui concerne les orientations fondamentales de la protection, de
+Le schéma d'aménagement de la Corse vaut schéma de mise en valeur de la mer, tel qu'il est défini par l'article 57 de la loi
+n° 83-8 du 7 janvier 1983 précitée, notamment en ce qui concerne les orientations fondamentales de la protection, de
 l'aménagement et de l'exploitation du littoral. Les dispositions correspondantes sont regroupées dans un chapitre
 individualisé au sein du schéma d'aménagement. Ces dispositions doivent avoir recueilli l'accord du représentant de l'Etat
 préalablement à la mise à disposition du public de l'ensemble du projet de schéma d'aménagement.
+
+**Nota:**
+
+Loi 2002-92 2002-01-22 art. 13 I : Les articles L. 144-1 à L. 144-6 du code de l'urbanisme sont abrogés. Toutefois, le schéma
+d'aménagement de la Corse et le plan de développement applicables à la date de publication de la présente loi restent en
+vigueur jusqu'à l'approbation du plan d'aménagement et de développement durable de Corse.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°80-502 1980-07-04
 	  - Loi n°83-8 1983-01-07 art. 57
-	  - Code de l'urbanisme - art. L111-1-1 (M)
+	  - Code rural L111-1-1 à L112-13
+
+	**Modifié par**:
+
+	  - Loi n°95-115 du 4 février 1995 - art. 5 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Loi n°2002-92 du 22 janvier 2002 - art. 13 () JORF 23 janvier 2002
 
 	**Cité par**:
 
@@ -4482,10 +4494,6 @@ préalablement à la mise à disposition du public de l'ensemble du projet de sc
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Modifié par**:
-
-	  - Loi n°91-428 1991-05-14 art. 59 JORF 14 mai 1991
 
 	**Liens**:
 
@@ -4590,7 +4598,8 @@ vigueur jusqu'à l'approbation du plan d'aménagement et de développement durab
 
 ###### Article L144-5
 
-Le schéma d'aménagement de la Corse a les mêmes effets que les prescriptions définies en application de l'article L. 111-1-1.
+Le schéma d'aménagement de la Corse a les mêmes effets que les directives territoriales d'aménagement définies en application
+de l'article L. 111-1-1.
 
 Les schémas directeurs, les plans d'occupation des sols ou les documents d'urbanisme en tenant lieu doivent être mis en
 compatibilité avec lui.
@@ -4603,15 +4612,15 @@ compatibilité avec lui.
 
 	**Codifié par**:
 
-	  - Décret n°73-1022 1973-11-08
-
-	**Créé par**:
-
-	  - Loi n°91-428 1991-05-14 art. 59 JORF 14 mai 1991
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°91-428 1991-05-14 art. 87 JORF 14 mai 1991
+	  - SPEC_APPLI: Loi n°91-428 1991-05-14 art. 87
+
+	**Modifié par**:
+
+	  - Loi n°95-115 du 4 février 1995 - art. 5 () JORF 5 février 1995
 
 
 ###### Article L144-6
@@ -4661,17 +4670,18 @@ Corse.
 Les conditions d'utilisation et de protection de l'espace montagnard sont fixées par le présent chapitre qui a le caractère
 de loi d'aménagement et d'urbanisme au sens de l'article L. 111-1-1.
 
-"Elles sont applicables à toute personne publique ou privée pour l'exécution de tous travaux, constructions, défrichements,
-plantations, installations et travaux divers, pour l'ouverture des carrières, la recherche et l'exploitation des minerais, la
-création de lotissements et l'ouverture de terrains de camping ou de stationnement de caravanes, la réalisation de remontées
-mécaniques et l'aménagement de pistes, l'établissement de clôtures et les installations classées pour la protection de
-l'environnement.
+Les directives territoriales d'aménagement précisant les modalités d'application des dispositions du présent chapitre ou, en
+leur absence, lesdites dispositions sont applicables à toute personne publique ou privée pour l'exécution de tous travaux,
+constructions, défrichements, plantations, installations et travaux divers, pour l'ouverture des carrières, la recherche et
+l'exploitation des minerais, la création de lotissements et l'ouverture de terrains de camping ou de stationnement de
+caravanes, la réalisation de remontées mécaniques et l'aménagement de pistes, l'établissement de clôtures et les
+installations classées pour la protection de l'environnement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°85-30 du 9 janvier 1985 - art. 72 () JORF 10 janvier 1985
+	  - Loi n°95-115 du 4 février 1995 - art. 5 () JORF 5 février 1995
 
 	**Cite**:
 
@@ -4687,7 +4697,7 @@ l'environnement.
 	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
-#####  Section 1 : Principes d'aménagement et de zone de montagne.
+#####  Section 1 : Principes d'aménagement et de protection en zone de montagne.
 
 ###### Article L145-3
 
@@ -4703,9 +4713,10 @@ d'alpage existants lorsque la destination est liée à une activité professionn
 II. - Les documents et décisions relatifs à l'occupation des sols comportent les dispositions propres à préserver les
 espaces, paysages et milieux caractéristiques du patrimoine naturel et culturel montagnard.
 
-III. - L'urbanisation doit se réaliser en continuité avec les bourgs et villages existants, sauf si le respect des
-dispositions prévues aux I et II ci-dessus ou la protection contre les risques naturels imposent la délimitation de hameaux
-nouveaux intégrés à l'environnement.
+III. - Sous réserve de la réfection ou de l'extension limitée des construction existantes et des installations ou équipements
+d'intérêt public incompatibles avec le voisinage des zones habitées, l'urbanisation doit se réaliser en continuité avec les
+bourgs, villages et hameaux existants, sauf si le respect des dispositions prévues aux I et II ci-dessus ou la protection
+contre les risques naturels imposent la délimitation de hameaux nouveaux intégrés à l'environnement.
 
 La capacité d'accueil des espaces destinés à l'urbanisation doit être compatible avec la préservation des espaces naturels et
 agricoles mentionnés aux I et II du présent article.
@@ -4722,7 +4733,7 @@ naturels.
 
 	**Modifié par**:
 
-	  - Loi n°94-112 du 9 février 1994 - art. 21 () JORF 10 février 1994
+	  - Loi n°95-115 du 4 février 1995 - art. 5 () JORF 5 février 1995
 
 	**Cité par**:
 
@@ -4740,6 +4751,30 @@ naturels.
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code du tourisme. - art. L342-6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L145-4
+
+Le périmètre du schéma directeur ou du schéma de secteur tient compte de la communauté d'intérêts économiques et sociaux à
+l'échelle d'une vallée, d'un pays, d'un massif local ou d'une entité géographique constituant une unité d'aménagement
+cohérent.
+
+Le périmètre est arrêté par le représentant de l'Etat dans les conditions définies au troisième alinéa de l'article L.
+122-1-1 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°85-30 du 9 janvier 1985 - art. 72 () JORF 10 janvier 1985
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L122-1-1 (M)
 
 	**Codifié par**:
 
@@ -4764,9 +4799,9 @@ paysage et des caractéristiques propres à cet espace sensible.
 Lorsqu'un schéma directeur ou un schéma de secteur est établi pour l'ensemble des communes riveraines, ou un plan
 d'occupation des sols si le plan d'eau est situé à l'intérieur du territoire administratif d'une seule commune, les
 dispositions du présent article peuvent également être adaptées pour permettre la délimitation, à titre exceptionnel, de
-hameaux nouveaux intégrés à l'environnement. En l'absence des prescriptions particulières visées à l'article L. 145-7, le
-schéma directeur ou le schéma de secteur est alors élaboré dans les conditions prévues au deuxième alinéa de l'article L.
-122-1-2.
+hameaux nouveaux intégrés à l'environnement. En l'absence des directives territoriales d'aménagement visées à l'article L.
+145-7, le schéma directeur ou le schéma de secteur est alors élaboré dans les conditions prévues au deuxième alinéa de
+l'article L. 122-1-2.
 
 Les ministres chargés de l'urbanisme et de l'environnement peuvent, à titre exceptionnel, autoriser l'implantation, sur les
 rives d'un plan d'eau artificiel existant à la date de publication de la loi n° 94-112 du 9 février 1994 portant diverses
@@ -4787,7 +4822,7 @@ des communes riveraines des plans d'eau situés partiellement ou totalement en z
 
 	**Modifié par**:
 
-	  - Loi n°94-112 du 9 février 1994 - art. 7 () JORF 10 février 1994
+	  - Loi n°95-115 du 4 février 1995 - art. 5 () JORF 5 février 1995
 
 	**Cité par**:
 
@@ -4811,42 +4846,38 @@ des communes riveraines des plans d'eau situés partiellement ou totalement en z
 
 ###### Article L145-7
 
-" I. - Les prescriptions particulières prévues par l'article L. 111-1-1 prises en application du présent chapitre sont
-établies pour chacun des massifs définis à l'article 5 de la loi n° 85-30 du 9 janvier 1985 précitée et peuvent :
+I. - Les directives territoriales d'aménagement prévues par l'article L. 111-1-1 prises en application du présent chapitre
+sont établies pour chacun des massifs définis à l'article 5 de la loi n° 85-30 du 9 janvier 1985 précitée et peuvent :
 
-" 1° Adapter en fonction de la sensibilité des milieux concernés les seuils et critères des études d'impact spécifiques aux
+1° Adapter en fonction de la sensibilité des milieux concernés les seuils et critères des études d'impact spécifiques aux
 zones de montagne fixés en application de l'article 2 de la loi n° 76-629 du 10 juillet 1976 relative à la protection de la
 nature ainsi que les seuils et critères d'enquête publique spécifiques aux zones de montagne fixés en application de
 l'article premier de la loi n° 83-630 du 12 juillet 1983 relative à la démocratisation des enquêtes publiques et à la
 protection de l'environnement ;
 
-" 2° Désigner les espaces, paysages et milieux  les plus remarquables du patrimoine naturel et culturel montagnard, notamment
+2° Désigner les espaces, paysages et milieux  les plus remarquables du patrimoine naturel et culturel montagnard, notamment
 les gorges, grottes, glaciers, lacs, tourbières, marais, lieux de pratique de l'alpinisme, de l'escalade et du canoé-kayak,
 cours d'eau de première catégorie au sens du 10° de l'article 437 du code rural et leurs abords, et définir les modalités de
 leur préservation ;
 
-" 3° Préciser en fonction des particularités de chaque massif les conditions d'application du paragraphe III de l'article L.
-145-3 du présent code.
+3° Préciser en fonction des particularités de chaque massif et dans les conditions prévues à l'article L.111-1-1 les
+modalités d'application du paragraphe III de l'article L. 145-3 du présent code.
 
-" Ces prescriptions sont établies par décret en Conseil d'Etat après avis ou sur proposition des conseils régionaux
-intéressés et du comité de massif prévu à l'article 7 de la loi n° 85-30 du 9 janvier 1985 précitée.
+Ces directives sont établies par décret en Conseil d'Etat après avis ou sur proposition des conseils régionaux intéressés et
+du comité de massif prévu à l'article 7 de la loi n° 85-30 du 9 janvier 1985 précitée.
 
-" II. - Les comités de massif peuvent élaborer des recommandations particulières à certaines zones sensibles et, notamment
-aux secteurs de haute montagne.
+II. - Les comités de massif peuvent élaborer des recommandations particulières à certaines zones sensibles et, notamment aux
+secteurs de haute montagne.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°76-629 du 10 juillet 1976 - art. 2 (M)
-	  - Loi n°83-630 du 12 juillet 1983 - art. 1, v. init.
-	  - Loi n°85-30 1985-01-09 art. 7, art. 5
+	  - Loi n°83-630 1983-07-12
+	  - Loi n°85-30 1985-01-09 art. 5, art. 7
 	  - Code de l'urbanisme - art. L145-3 (M)
-	  - Code rural 437 10°
-
-	**Créé par**:
-
-	  - Loi n°85-30 du 9 janvier 1985 - art. 72 () JORF 10 janvier 1985
+	  - Code rural 437
 
 	**Cité par**:
 
@@ -4860,31 +4891,10 @@ aux secteurs de haute montagne.
 	  - Code de l'urbanisme - art. R*111-27 (VT)
 	  - Code de l'urbanisme - art. R*121-14 (VT)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-
-#####  Section 1 : Principes d'aménagement et de protection en zone de montagne.
-
-###### Article L145-4
-
-Le périmètre du schéma directeur ou du schéma de secteur tient compte de la communauté d'intérêts économiques et sociaux à
-l'échelle d'une vallée, d'un pays, d'un massif local ou d'une entité géographique constituant une unité d'aménagement
-cohérent.
-
-Le périmètre est arrêté par le représentant de l'Etat dans les conditions définies au troisième alinéa de l'article L.
-122-1-1 du présent code.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°85-30 du 9 janvier 1985 - art. 72 () JORF 10 janvier 1985
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L122-1-1 (M)
+	  - Loi n°95-115 1995-02-04 art. 5 XVII, XVIII JORF 5 février 1995
+	  - Loi n°95-115 du 4 février 1995 - art. 5 () JORF 5 février 1995
 
 	**Codifié par**:
 
@@ -5030,29 +5040,27 @@ protection et la mise en valeur du littoral ;
 auprès du représentant de l'Etat dans le département. La liste de ces communes est fixée par décret en Conseil d'Etat, après
 avis du conservatoire de l'espace littoral et des rivages lacustres.
 
-Les prescriptions particulières prévues à l'article L. 111-1-1 peuvent préciser les conditions d'application du présent
-chapitre. Ces prescriptions sont établies par décret en Conseil d'Etat après avis ou sur proposition des conseils régionaux
-intéressés et après avis des départements et des communes ou groupements de communes concernés.
+Les directives territoriales d'aménagement prévues à l'article L. 111-1-1 peuvent préciser les modalités d'application du
+présent chapitre. Ces directives sont établies par décret en Conseil d'Etat après avis ou sur proposition des conseils
+régionaux intéressés et après avis des départements et des communes ou groupements de communes concernés.
 
-Les dispositions du présent chapitre sont applicables à toute personne publique ou privée pour l'exécution de tous travaux,
-constructions, défrichements, plantations, installations et travaux divers, la création de lotissements et l'ouverture de
-terrains de camping ou de stationnement de caravanes, l'établissement de clôtures, pour l'ouverture de carrières, la
-recherche et l'exploitation de minerais. Elles sont également applicables aux installations classées pour la protection de
+Les directives territoriales d'aménagement précisant les modalités d'application du présent chapitre ou, en leur absence,
+lesdites dispositions sont applicables à toute personne publique ou privée pour l'exécution de tous travaux, constructions,
+défrichements, plantations, installations et travaux divers, la création de lotissements et l'ouverture de terrains de
+camping ou de stationnement de caravanes, l'établissement de clôtures, pour l'ouverture de carrières, la recherche et
+l'exploitation de minerais. Elles sont également applicables aux installations classées pour la protection de
 l'environnement.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 	**Cite**:
 
 	  - Loi n°86-2 du 3 janvier 1986 - art. 2 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°86-2 du 3 janvier 1986 - art. 3 () JORF 4 janvier 1986
+	  - Loi n°95-115 1995-02-04 art. 5 XIX, XX, XXI JORF 5 février 1995
+	  - Loi n°95-115 du 4 février 1995 - art. 5 () JORF 5 février 1995
 
 	**Cité par**:
 
@@ -5063,6 +5071,10 @@ l'environnement.
 	  - Code général des collectivités territoriales - art. L4424-11 (V)
 	  - Code général des collectivités territoriales - art. R1614-42 (M)
 	  - Code général des collectivités territoriales - art. R1614-50 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 ###### Article L146-2
@@ -5471,6 +5483,82 @@ aéronautique ou indispensables aux populations existantes.
 
 #####  Section 1 : Schéma directeur.
 
+###### Article L141-1
+
+La région d'Ile-de-France élabore en association avec l'Etat un schéma directeur portant sur l'ensemble de cette région.
+
+Le schéma directeur de la région d'Ile-de-France doit respecter les règles générales d'aménagement et d'urbanisme à caractère
+obligatoire prévues au présent livre ainsi que les servitudes d'utilité publique affectant l'utilisation des sols et les
+dispositions nécessaires à la mise en oeuvre de projets d'intérêt général relevant de l'Etat et d'opérations d'intérêt
+national. Il doit également prendre en compte les orientations du schéma national d'aménagement et de développement du
+territoire institué à l'article 2 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement
+du territoire et les schémas sectoriels institués par le chapitre V du titre Ier de la même loi.
+
+Ce schéma détermine notamment la destination générale de différentes parties du territoire, les moyens de protection et de
+mise en valeur de l'environnement, la localisation des grandes infrastructures de transport et des grands équipements. Il
+détermine également la localisation préférentielle des extensions urbaines, ainsi que des activités industrielles,
+artisanales, agricoles, forestières et touristiques.
+
+Pour l'élaboration de ce schéma, le conseil régional recueille les propositions des conseils généraux des départementaux
+intéressés, du conseil économique et social régional et des chambres consulaires. A l'issue de cette élaboration, le projet
+leur est soumis pour avis.
+
+Avant son adoption par le conseil régional, le projet de schéma directeur, assorti de l'avis des conseils généraux
+intéressés, du conseil économique et social régional et des chambres consulaires, est mis à la disposition du public pendant
+deux mois.
+
+Le schéma directeur est approuvé par décret en Conseil d'Etat. L'initiative de l'élaboration du schéma directeur appartient
+soit à la région, soit à l'Etat.
+
+La procédure de révision du schéma directeur est ouverte par un décret en Conseil d'Etat, qui détermine l'objet de la
+révision. Cette dernière est effectuée par la région d'Ile-de-France, en association avec l'Etat, selon les règles fixées aux
+quatrième et cinquième alinéas du présent article. Elle est approuvée par décret en Conseil d'Etat.
+
+Si la procédure de révision du schéma directeur de la région d'Ile-de-France n'a pas abouti dans un délai d'un an à compter
+de la demande adressée au président du conseil régional par le représentant de l'Etat pour assurer sa conformité aux règles
+prévues au deuxième alinéa du présent article, il y est procédé par décret en Conseil d'Etat. Toutefois, en cas d'urgence
+constatée par décret en conseil des ministres, il y est procédé sans délai par décret en Conseil d'Etat.
+
+Le schéma directeur de la région d'Ile-de-France a les mêmes effets que les directives territoriales d'aménagement définies
+en application de l'article L. 111-1-1. Il doit être compatible avec ces directives lorsqu'elles s'appliquent sur tout ou
+partie du territoire régional. En outre, il tient lieu de schéma régional au sens de l'article 34 de la loi n° 83-8 du 7
+janvier 1983 relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat.
+
+**Nota:**
+
+Au sixième alinéa, au lieu de "conseils généraux des départementaux" lire "conseils généraux des départements".
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°82-1153 du 30 décembre 1982 - art. 28-3 (V)
+	  - Loi n°2011-665 du 15 juin 2011 - art. 1 (V)
+	  - Code de l'environnement - art. L350-1 (VD)
+	  - Code de l'urbanisme - art. L122-2 (VT)
+	  - Code de l'urbanisme - art. L141-1-1 (M)
+	  - Code de l'urbanisme - art. L141-1-2 (VT)
+	  - Code de l'urbanisme - art. L141-1-3 (VT)
+	  - Code de l'urbanisme - art. L141-2 (Ab)
+	  - Code de l'urbanisme - art. R*141-2 (VT)
+	  - Code de l'urbanisme - art. R*613-2 (Ab)
+	  - Code des transports - art. L1214-10 (VD)
+
+	**Cite**:
+
+	  - Loi n°83-8 1983-01-07 art. 34
+	  - Loi n°95-115 du 4 février 1995 - art. 2 (M)
+	  - Code de l'urbanisme - art. L111-1-1 (M)
+
+	**Modifié par**:
+
+	  - Loi n°95-115 du 4 février 1995 - art. 40 () JORF 5 février 1995
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
 ###### Article L141-2
 
 Des décrets en Conseil d'Etat fixeront, en tant que de besoin, les modalités d'application de l'article L. 141-1 ci-dessus.
@@ -5687,8 +5775,9 @@ selon les principes posés à l'article L. 110, le département est compétent p
 protection, de gestion et d'ouverture au public des espaces naturels sensibles, boisés ou non.
 
 La politique du département prévue à l'alinéa précédent doit être compatible avec les orientations des schémas directeurs et
-des chartes intercommunales de développement et d'aménagement, lorsqu'ils existent, ainsi que des prescritions nationales ou
-particulières à certaines parties du territoire fixées en application de l'article L. 111-1-1.
+des chartes intercommunales de développement et d'aménagement, lorsqu'ils existent, ou avec les directives territoriales
+d'aménagement mentionnées à l'article L. 111-1-1 ou, en l'absence de directive territoriale d'aménagement, avec les lois
+d'aménagement et d'urbanisme prévues au même article.
 
 **Liens relatifs à cet article**
 
@@ -5713,21 +5802,22 @@ particulières à certaines parties du territoire fixées en application de l'ar
 	  - Code de l'urbanisme - art. R142-24 (M)
 	  - Code rural - art. L243-4 (M)
 
+	**Modifié par**:
+
+	  - Loi n°95-115 du 4 février 1995 - art. 5 () JORF 5 février 1995
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L110 (M)
+	  - Code de l'urbanisme - art. L111-1-1 (M)
+
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L130-3 (M)
 
-	**Cite**:
-
-	  - Code de l'urbanisme l110, l111-1-1
-
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Modifié par**:
-
-	  - Loi n°95-101 du 2 février 1995 - art. 39 () JORF 3 février 1995
 
 
 ###### Article L142-3
@@ -9286,7 +9376,7 @@ Il est établi, dans chaque zone d'aménagement concerté, un plan d'aménagemen
 schéma directeur, s'il en existe un. Ce plan prend en considération les dispositions du programme local de l'habitat
 lorsqu'il existe. Il comporte tout ou partie des éléments énumérés aux articles L. 123-1 et L. 130-1. et précise les mesures
 destinées à préserver la qualité des paysages. Il est élaboré par la personne publique qui a pris l'initiative de la création
-de la zone. "
+de la zone.
 
 Sont associés à cette élaboration l'Etat et la commune et, à leur demande, et dans les formes que la personne publique qui a
 prix l'initiative de la création de la zone détermine, la région et le département ; l'autorité compétente pour créer la zone
@@ -9305,7 +9395,7 @@ dossier du plan d'aménagement de zone soumis à l'enquête comprend les pièces
 cause d'utilité publique, l'enquête prévue ci-dessus vaut enquête préalable à la déclaration d'utilité publique des travaux
 nécessaires à l'aménagement de la zone.
 
-Lorsque la commune est dotée d'un plan d'occupation des sols opposables aux tiers, l'autorité compétente peut, par dérogation
+Lorsque la commune est dotée d'un plan d'occupation des sols opposable aux tiers, l'autorité compétente peut, par dérogation
 aux dispositions des deuxième et troisième alinéas du présent article, soumettre directement à enquête publique un projet de
 plan d'aménagement de zone, à condition que ce projet ne porte pas atteinte à l'économie générale du plan d'occupation des
 sols, ne concerne pas les espaces boisés classés et ne comporte pas de graves risques de nuisances.
@@ -9319,11 +9409,11 @@ public ou approuvé, ce document tient lieu de plan d'aménagement de la zone.
 Après mise en demeure non suivie d'effet dans les six mois de la personne qui a élaboré le plan d'aménagement de zone et de
 l'autorité compétente pour approuver ledit plan, le représentant de l'Etat dans le département peut élaborer et approuver,
 après avis du conseil municipal ou de l'organe délibérant de l'établissement public de coopération intercommunale compétent
-et enquête publique, la modification du plan d'aménagement de zone afin que celui-ci soit compatible avec les prescriptions
-nouvelles prises en application de l'article L. 111-1-1 ou avec les orientations d'un schéma directeur ou d'un schéma de
-secteur approuvé ou arrêté postérieurement à l'approbation du plan, ou pour permettre la réalisation d'un nouveau projet
-d'intérêt général relevant de l'Etat, de la région, du département ou d'autres intervenants, et correspondant aux définitions
-prises en application de l'article L. 121-12.
+et enquête publique, la modification du plan d'aménagement de zone afin que celui-ci soit compatible, dans les conditions
+prévues par l'article L. 111-1-1, avec les orientations d'un schéma directeur ou d'un schéma de secteur approuvé ou arrêté
+postérieurement à l'approbation du plan, ou avec les directives territoriales d'aménagement, ou avec les lois d'aménagement
+et d'urbanisme, ou pour permettre la réalisation d'un nouveau projet d'intérêt général relevant de l'Etat, de la région, du
+département ou d'autres intervenants, et correspondant aux définitions prises en application de l'article L. 121-12.
 
 **Liens relatifs à cet article**
 
@@ -9345,13 +9435,16 @@ prises en application de l'article L. 121-12.
 	  - Code général de la propriété des personnes publ... - art. L5112-6-1 (V)
 	  - Code général des collectivités territoriales - art. L2122-22 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°93-24 1993-01-08 art. 3 II
-
 	**Modifié par**:
 
-	  - Loi n°93-24 du 8 janvier 1993 - art. 5 (V) JORF 9 janvier 1993
+	  - Loi n°95-115 du 4 février 1995 - art. 5 () JORF 5 février 1995
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L111-1-1 (M)
+	  - Code de l'urbanisme - art. L121-12 (Ab)
+	  - Code de l'urbanisme - art. L123-1 (M)
+	  - Code de l'urbanisme - art. L130-1 (M)
 
 	**Anciens textes**:
 
@@ -18635,23 +18728,48 @@ décret en Conseil d'Etat et au plus tard le 1er juillet 2007.
 
 ###### Article L510-1
 
-Dans des conditions qui seront fixées par décret en Conseil d'Etat et pour les régions déterminées par ledit décret, la
-construction, la reconstitution, l'extension, le changement d'utilisateur ou d'utilisation de locaux ou installations ou de
-leurs annexes servant à des activités industrielles, commerciales, professionnelles, administratives, techniques,
+I. - La construction, la reconstruction, l'extension, le changement d'utilisateur ou d'utilisation de locaux ou installations
+ou de leurs annexes servant à des activités industrielles, commerciales, professionnelles, administratives, techniques,
 scientifiques ou d'enseignement ne relevant pas de l'Etat ou de son contrôle peuvent être soumis à un agrément de l'autorité
 administrative.
 
-Les sanctions de l'article L. 480-4 sont applicables en cas de défaut d'agrément ou d'infractions aux conditions fixées par
-ledit décret ou par la décision d'agrément.
+La décision d'agrément prend en compte les orientations définies par la politique d'aménagement et de développement du
+territoire national et par la politique de la ville, ainsi que la nécessité d'un équilibre entre les constructions destinées
+à l'habitation et celles destinées aux activités mentionnées à l'alinéa précédent.
 
-Le maintien d'une des installations précitées au-delà du délai fixé par la décision d'agrément, lorsque l'agrément est
-accordé à titre temporaire, est puni dans les mêmes conditions.
+II. - Une commune ou un établissement public de coopération intercommunale compétent en matière d'aménagement et d'urbanisme
+peut, pour le territoire qui le concerne, conclure, avec le représentant de l'Etat dans le département, une convention ayant
+pour objet de définir les modalités locales du respect des objectifs mentionnés au second alinéa du I. Dans ce cas, la
+décision d'agrément, relative à la construction, la reconstruction ou l'extension des locaux, installations et annexes
+mentionnées au premier alinéa du I, relève du représentant de l'Etat dans le département, sous réserve du respect des termes
+de cette convention par l'autre partie.
+
+III. - Dans la région d'Ile-de-France, la construction, la reconstruction ou l'extension des locaux, installations et annexes
+mentionnées au premier alinéa du I sont, à compter du 1er janvier 1995, soumises à la procédure d'agrément, dans les
+conditions prévues aux I et II et dans le respect des directives territoriales d'aménagement applicables à cette région ainsi
+que de son schéma directeur.
+
+IV. - Un décret en Conseil d'Etat détermine les conditions de mise en oeuvre du présent article et les zones et opérations
+auxquelles il s'applique.
+
+Ce décret fixe également les conditions dans lesquelles les maires des communes ou les présidents des établissements publics,
+qui sont mentionnés au II, peuvent, par délégation et exclusivement dans le cadre d'une convention mentionnée au II, mettre
+en oeuvre la décision d'agrément mentionnée au même II.
+
+V. - Un bilan de l'agrément est établi à l'expiration de chaque contrat de plan, dans les zones où cette procédure est
+instituée.
+
+VI. - Les sanctions de l'article L. 480-4 sont applicables en cas de défaut d'agrément ou d'infractions aux conditions fixées
+par le décret mentionné au IV ou par la décision d'agrément.
+
+Le maintien d'une des installations mentionnées au premier alinéa du I au-delà du délai fixé par la décision d'agrément,
+lorsque l'agrément est accordé à titre temporaire, est puni dans les mêmes conditions.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°86-288 1986-02-28 art. 1 JORF 2 mars 1986
+	  - Loi n°95-115 du 4 février 1995 - art. 41 () JORF 5 février 1995
 
 	**Cité par**:
 
@@ -18669,11 +18787,6 @@ accordé à titre temporaire, est puni dans les mêmes conditions.
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L480-4 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L510-2 (V)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L510-4 (V)
 
 	**Anciens textes**:
 
