@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1988-08-05
+Version Consolidée au 1988-12-17
 
 # Partie législative
 
@@ -44052,8 +44052,8 @@ construire ne peut être délivré qu'avec son accord exprès.
 
 I. - Lorsque la construction se trouve dans un site classé ou en instance de classement, ou dans une zone de protection créée
 par décret en application des articles 17 ou 28 de la loi du 2 mai 1930, le permis de construire ne peut être délivré qu'avec
-l'accord exprès du ministre chargé des monuments historiques et des sites ou de son délégué, ou de l'autorité mentionnée dans
-le décret instituant la zone de protection.
+l'accord exprès de l'autorité compétente en application du décret 88-1124 du 15 décembre 1988 , ou de l'autorité mentionnée
+dans le décret instituant la zone de protection.
 
 II. - Lorsque la construction se trouve dans une zone de protection du patrimoine architectural et urbain, le permis de
 construire ne peut être délivré qu'avec l'accord de l'architecte des bâtiments de France. Cet accord [*tacite*] est réputé
@@ -44075,28 +44075,29 @@ qu'avec son accord exprès.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Codifié par**:
 
-	  - Décret n°83-1261 1983-12-30 ART. 22, ART. 26 JORF 7 JANVIER 1984 date d'entrée en vigueur 1 AVRIL 1984
+	  - Décret n°73-1023 1973-11-08
 
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°83-1261 1983-12-30 ART. 49, ART. 50 : Modalités d'application
 	  - SPEC_APPLI: Décret n°83-1261 du 30 décembre 1983 - art. 49 (M)
 
+	**Cite**:
+
+	  - Décret n°88-1124 1988-12-15
+	  - Loi n°1930-05-02 art. 17, art. 28
+
+	**Modifié par**:
+
+	  - Décret n°88-1124 du 15 décembre 1988 - art. 5 () JORF 17 décembre 1988
+
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*442-11-1 (Ab)
 	  - Code de l'urbanisme - art. R*443-7-2 (Ab)
 	  - Code de l'urbanisme - art. R421-38-8 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Cite**:
-
-	  - Loi n°1930-05-02 ART. 17, ART. 28
 
 
 ###### Article R*421-38-8
@@ -51054,10 +51055,6 @@ d) A l'aménagement de la zone de Fos-sur-Mer, dans un périmètre défini par d
 
 	  - Décret n°86-669 1986-03-18 art. 2 JORF 20 mars 1986
 
-
-## Règles relatives à l'acte de construire et à divers modes d'utilisation du sol
-
-### Dispositions relatives aux modes particuliers d'utilisation du sol
 
 ## Livre V : Implantation des services, établissements et entreprises
 
