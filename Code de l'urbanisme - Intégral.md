@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1986-01-01
+Version Consolidée au 1986-01-04
 
 # Partie législative
 
@@ -367,15 +367,31 @@ pour une durée de quatre ans à compter de la date d'entrée en vigueur de l'ar
 sens de l'article L. 111-1-1. Dans le même délai, les plans d'occupation des sols peuvent être rendus compatibles avec ces
 directives dans les conditions prévues à l'article L. 123-7-1.
 
+Les dispositions de la directive d'aménagement national du 25 août 1979 relative à la protection et à l'aménagement du
+littoral cessent de produire leurs effets :
+
+- à la date de publication de la loi n° 86-2 du 3 janvier 1986 relative à l'aménagement, la protection et la mise en valeur
+du littoral, pour les communes riveraines des mers et océans, des étangs salés et des plans d'eau intérieurs d'une superficie
+supérieure à 1.000 hectares ;
+
+- à la date de publication du décret prévu par l'article 2 de la loi n° 86-2 du 3 janvier 1986 précitée et, au plus tard, à
+l'issue du délai fixé par le premier alinéa du présent article, pour les communes figurant à ce décret.
+
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+	  - Loi n°86-2 du 3 janvier 1986 - art. 2 (M)
+	  - Code de l'urbanisme - art. L111-1 (M)
+	  - Code de l'urbanisme - art. L111-1-1 (M)
+	  - Code de l'urbanisme - art. L123-7-1 (M)
+	  - DIRECTIVE 1977-09-22
+	  - DIRECTIVE 1977-11-22
+	  - DIRECTIVE 1979-08-25
 
 	**Modifié par**:
 
-	  - Loi n°85-696 1985-07-11 art. 3 JORF 12 juillet 1985
+	  - Loi n°86-2 du 3 janvier 1986 - art. 7 () JORF 4 janvier 1986
 
 	**Cité par**:
 
@@ -388,12 +404,6 @@ directives dans les conditions prévues à l'article L. 123-7-1.
 	  - Code de l'urbanisme - art. R*123-3 (M)
 	  - Code de l'urbanisme - art. R*124-1 (VT)
 	  - Code du patrimoine. - art. L630-1 (VT)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L111-1 (M)
-	  - Code de l'urbanisme - art. L111-1-1 (M)
-	  - Code de l'urbanisme - art. L123-7-1 (M)
 
 	**Codifié par**:
 
@@ -1558,6 +1568,29 @@ juillet 1983 sous l'article L. 121-1 du code de l'urbanisme.
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+
+
+###### Article L121-7-1
+
+Les sections régionales de la conchyliculture sont, à leur demande, associées à l'élaboration des schémas directeurs et des
+plans d'occupation des sols des communes littorales au sens de l'article 2 de la loi n° 86-2 du 3 janvier 1986 relative à
+l'aménagement, la protection et la mise en valeur du littoral.
+
+Elles assurent la liaison avec les organisations professionnelles intéressées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Cite**:
+
+	  - Loi n°86-2 du 3 janvier 1986 - art. 2 (M)
+
+	**Créé par**:
+
+	  - Loi n°86-2 du 3 janvier 1986 - art. 8 () JORF 4 janvier 1986) A(Loi 2000-1208 2000-12-13 art. 202 XXXIX JORF 14 décembre 2000
 
 
 ###### Article L121-8
@@ -4813,6 +4846,345 @@ demander la modification du schéma en application des dispositions de l'article
 	  - PILOTE_SUIVEUR: Code du tourisme. - art. L342-6 (V)
 
 
+#### CHAPITRE VI : Dispositions particulières au littoral.
+
+###### Article L146-1
+
+Les dispositions du présent chapitre ont valeur de loi d'aménagement et d'urbanisme au sens de l'article L. 111-1-1. Elles
+déterminent les conditions d'utilisation des espaces terrestres, maritimes et lacustres :
+
+- dans les communes littorales définies à l'article 2 de la loi n° 86-2 du 3 janvier 1986 relative à l'aménagement, la
+protection et la mise en valeur du littoral ;
+
+- dans les communes qui participent aux équilibres économiques et écologiques littoraux, lorsqu'elles en font la demande
+auprès du représentant de l'Etat dans le département. La liste de ces communes est fixée par décret en Conseil d'Etat, après
+avis du conservatoire de l'espace littoral et des rivages lacustres.
+
+Les prescriptions particulières prévues à l'article L. 111-1-1 peuvent préciser les conditions d'application du présent
+chapitre. Ces prescriptions sont établies par décret en Conseil d'Etat après avis ou sur proposition des conseils régionaux
+intéressés et après avis des départements et des communes ou groupements de communes concernés.
+
+Les dispositions du présent chapitre sont applicables à toute personne publique ou privée pour l'exécution de tous travaux,
+constructions, défrichements, plantations, installations et travaux divers, la création de lotissements et l'ouverture de
+terrains de camping ou de stationnement de caravanes, l'établissement de clôtures, pour l'ouverture de carrières, la
+recherche et l'exploitation de minerais. Elles sont également applicables aux installations classées pour la protection de
+l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Cite**:
+
+	  - Loi n°86-2 du 3 janvier 1986 - art. 2 (M)
+
+	**Créé par**:
+
+	  - Loi n°86-2 du 3 janvier 1986 - art. 3 () JORF 4 janvier 1986
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L111-1-1 (VT)
+	  - Code de l'urbanisme - art. R*146-3 (VT)
+	  - Code du tourisme. - art. L331-1 (V)
+	  - Code général des collectivités territoriales - art. L4251-1 (VD)
+	  - Code général des collectivités territoriales - art. L4424-11 (V)
+	  - Code général des collectivités territoriales - art. R1614-42 (M)
+	  - Code général des collectivités territoriales - art. R1614-50 (V)
+
+
+###### Article L146-2
+
+Pour déterminer la capacité d'accueil des espaces urbanisés ou à urbaniser, les documents d'urbanisme doivent tenir compte :
+
+- de la préservation des espaces et milieux mentionnés à l'article L. 146-6 ;
+
+- de la protection des espaces nécessaires au maintien ou au développement des activités agricoles, pastorales, forestières
+et maritimes ;
+
+- des conditions de fréquentation par le public des espaces naturels, du rivage et des équipements qui y sont liés.
+
+Dans les espaces urbanisés, ces dispositions ne font pas obstacle à la réalisation des opérations de rénovation des quartiers
+ou de réhabilitation de l'habitat existant, ainsi qu'à l'amélioration, l'extension ou la reconstruction des constructions
+existantes.
+
+les schémas directeurs et les plans d'occupation des sols doivent prévoir des espaces naturels présentant le caractère d'une
+coupure d'urbanisation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Créé par**:
+
+	  - Loi n°86-2 du 3 janvier 1986 - art. 3 () JORF 4 janvier 1986
+
+	**Cité par**:
+
+	  - Code forestier (nouveau) - art. L143-3 (VD)
+	  - Ordonnance n°2012-787 du 31 mai 2012 - art. 7 (V)
+	  - Code de l'urbanisme - art. L711-1 (VT)
+	  - Code de l'urbanisme - art. L711-2 (VT)
+	  - Code de l'urbanisme - art. L711-3 (VT)
+	  - Code forestier - art. L432-1 (VT)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L146-6 (M)
+
+
+###### Article L146-4
+
+I - L'extension de l'urbanisation doit se réaliser soit en continuité avec les agglomérations et villages existants, soit en
+hameaux nouveaux intégrés à l'environnement.
+
+II - L'extension limitée de l'urbanisation des espaces proches du rivage ou des rives des plans d'eau intérieurs désignés à
+l'article 2 de la loi n° 86-2 du 3 janvier 1986 précitée doit être justifiée et motivée, dans le plan d'occupation des sols,
+selon des critères liés à la configuration des lieux ou à l'accueil d'activités économiques exigeant la proximité immédiate
+de l'eau.
+
+Toutefois, ces critères ne sont pas applicables lorsque l'urbanisation est conforme aux dispositions d'un schéma directeur ou
+d'un schéma d'aménagement régional ou compatible avec celles d'un schéma de mise en valeur de la mer.
+
+En l'absence de ces documents, l'urbanisation peut être réalisée avec l'accord du représentant de l'Etat dans le département.
+Cet accord est donné après que la commune a motivé sa demande et après avis de la commission départementale des sites
+appréciant l'impact de l'urbanisation sur la nature. Les communes intéressées peuvent également faire connaître leur avis
+dans un délai de deux mois suivant le dépôt de la demande d'accord. Le plan d'occupation des sols ou le plan d'aménagement de
+zone doit respecter les dispositions de cet accord.
+
+III - En dehors des espaces urbanisés, les constructions ou installations sont interdites sur une bande littorale de cent
+mètres à compter de la limite haute du rivage ou des plus hautes eaux pour les plans d'eau intérieurs désignés à l'article 2
+de la loi n° 86-2 du 3 janvier 1986 précitée.
+
+Cette interdiction ne s'applique pas aux constructions ou installations nécessaires à des services publics ou à des activités
+économiques exigeant la proximité immédiate de l'eau. Leur réalisation est toutefois soumise à enquête publique suivant les
+modalités de la loi n° 83-630 du 12 juillet 1983 relative à la démocratisation des enquêtes publiques et à la protection de
+l'environnement.
+
+Le plan d'occupation des sols peut porter la largeur de la bande littorale visée au premier alinéa du présent paragraphe à
+plus de cent mètres, lorsque des motifs liés à la sensibilité des milieux ou à l'érosion des côtes le justifient.
+
+IV - Les dispositions des paragraphes II et III ci-dessus s'appliquent aux rives des estuaires les plus importants, dont la
+liste est fixée par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°83-630 1983-07-12
+	  - Loi n°86-2 du 3 janvier 1986 - art. 2 (M)
+
+	**Cité par**:
+
+	  - Décret n°85-453 du 23 avril 1985 - art. Annexe (Ab)
+	  - Décret n°2004-311 du 29 mars 2004 - art. 2 (V)
+	  - Ordonnance n°2012-787 du 31 mai 2012 - art. 7 (V)
+	  - Décret n°2014-1299 du 23 octobre 2014 - art. (V)
+	  - Code de l'environnement - art. Annexe I à l'article R123-1 (V)
+	  - Code de l'environnement - art. L341-16 (V)
+	  - Code de l'urbanisme - art. L144-6 (Ab)
+	  - Code de l'urbanisme - art. L145-1 (V)
+	  - Code de l'urbanisme - art. L146-5 (VT)
+	  - Code de l'urbanisme - art. L146-6-1 (VT)
+	  - Code de l'urbanisme - art. L146-7 (VT)
+	  - Code de l'urbanisme - art. L146-9 (VT)
+	  - Code de l'urbanisme - art. L156-2 (VT)
+	  - Code de l'urbanisme - art. L480-13 (M)
+	  - Code de l'urbanisme - art. L711-3 (VT)
+	  - Code de l'urbanisme - art. R*146-3 (VT)
+	  - Code de l'urbanisme - art. R*156-1 (VT)
+	  - Code de l'urbanisme - art. R*711-4 (Ab)
+	  - Code du patrimoine. - art. L630-1 (VT)
+	  - Code général des collectivités territoriales - art. L4424-10 (V)
+	  - Code général des collectivités territoriales - art. L4424-12 (V)
+
+	**Créé par**:
+
+	  - Loi n°86-2 du 3 janvier 1986 - art. 3 () JORF 4 janvier 1986
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°2004-311 du 29 mars 2004
+	  - TXT_SOURCE: Décret n°2004-311 du 29 mars 2004 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°2004-311 du 29 mars 2004 - art. 2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L146-5
+
+L'aménagement et l'ouverture de terrains de camping ou de stationnement de caravanes en dehors des espaces urbanisés sont
+subordonnés à la délimitation de secteurs prévus à cet effet par le plan d'occupation des sols.
+
+Ils respectent les dispositions du présent chapitre relatives à l'extension de l'urbanisation et ne peuvent, en tout état de
+cause, être installés dans la bande littorale définie à l'article L. 146-4.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L146-4 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Créé par**:
+
+	  - Loi n°86-2 du 3 janvier 1986 - art. 3 () JORF 4 janvier 1986
+
+
+###### Article L146-6
+
+Les documents et décisions relatifs à la vocation des zones ou à l'occupation et à l'utilisation des sols préservent les
+espaces terrestres et marins, sites et paysages remarquables ou caractéristiques du patrimoine naturel et culturel du
+littoral, et les milieux nécessaires au maintien des équilibres biologiques. Un décret fixe la liste des espaces et milieux à
+préserver, comportant notamment, en fonction de l'intérêt écologique qu'ils présentent, les dunes et les landes côtières, les
+plages et lidos, les forêts et zones boisées côtières, les îlots inhabités, les parties naturelles des estuaires, des rias ou
+abers et des caps, les marais, les vasières, les zones humides et milieux temporairement immergés ainsi que les zones de
+repos, de nidification et de gagnage de l'avifaune désignée par la directive européenne n° 79-409 du 2 avril 1979 concernant
+la conservation des oiseaux sauvages et, dans les départements d'outre-mer, les récifs coralliens, les lagons et les
+mangroves.
+
+Toutefois, des aménagements légers peuvent y être implantés lorsqu'ils sont nécessaires à leur gestion, à leur mise en valeur
+notamment économique ou, le cas échéant, à leur ouverture au public. Un décret définit la nature et les modalités de
+réalisation de ces aménagements.
+
+En outre, la réalisation de travaux ayant pour objet la conservation ou la protection de ces espaces et milieux peut être
+admise, après enquête publique suivant les modalités de la loi n° 83-630 du 12 juillet 1983 précitée.
+
+Le plan d'occupation des sols doit classer en espaces boisés, au titre de l'article L. 130-1 du présent code, les parcs et
+ensembles boisés existants les plus significatifs de la commune ou du groupement de communes, après consultation de la
+commission départementale des sites.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret du 28 juin 1930 - art. 1 (V)
+	  - Décret du 28 juin 1930 - art. 5 (V)
+	  - Décret n°85-453 du 23 avril 1985 - art. Annexe (Ab)
+	  - Décret n°2006-608 du 26 mai 2006 - art. 2 (Ab)
+	  - Décret n°2006-608 du 26 mai 2006 - art. 3 (Ab)
+	  - Décret n°2006-608 du 26 mai 2006 - art. 8 (Ab)
+	  - Ordonnance n°2012-787 du 31 mai 2012 - art. 7 (V)
+	  - Code de l'environnement - art. Annexe I à l'article R123-1 (V)
+	  - Code de l'environnement - art. L341-16 (V)
+	  - Code de l'urbanisme - art. L144-6 (Ab)
+	  - Code de l'urbanisme - art. L146-2 (VT)
+	  - Code de l'urbanisme - art. L711-3 (M)
+	  - Code de l'urbanisme - art. L711-4 (VT)
+	  - Code de l'urbanisme - art. R*146-2 (VT)
+	  - Code de l'urbanisme - art. R*421-22 (M)
+	  - Code de l'urbanisme - art. R146-1 (VT)
+	  - Code de l'urbanisme - art. R421-2 (M)
+	  - Code de l'urbanisme - art. R442-2 (M)
+	  - Code du patrimoine. - art. L630-1 (VT)
+	  - Code général de la propriété des personnes publ... - art. L5331-6 (V)
+	  - Code général de la propriété des personnes publ... - art. R2124-16 (V)
+	  - Code général de la propriété des personnes publ... - art. R2124-19 (V)
+	  - Code général de la propriété des personnes publ... - art. R2124-26 (V)
+	  - Code général des collectivités territoriales - art. L4424-10 (V)
+	  - Code général des collectivités territoriales - art. L4424-12 (V)
+	  - Code général des impôts, CGI. - art. 199 octovicies (V)
+	  - Code général des impôts, CGI. - art. 31 (V)
+	  - Code général des impôts, CGI. - art. 793 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 tervicies (M)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 281 G (V)
+
+	**Cite**:
+
+	  - Loi n°83-630 1983-07-12
+	  - Code de l'urbanisme - art. L130-1 (M)
+	  - Directive 79-409 1979-04-02
+
+	**Créé par**:
+
+	  - Loi n°86-2 du 3 janvier 1986 - art. 3 () JORF 4 janvier 1986
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L146-7
+
+La réalisation de nouvelles routes est organisée par les dispositions du présent article.
+
+Les nouvelles routes de transit sont localisées à une distance minimale de 2.000 mètres du rivage.
+
+La création de nouvelles routes sur les plages, cordons lagunaires, dunes ou en corniche est interdite.
+
+Les nouvelles routes de desserte locale ne peuvent être établies sur le rivage, ni le longer.
+
+Toutefois, les dispositions des deuxième, troisième et quatrième alinéas ne s'appliquent pas en cas de contraintes liées à la
+configuration des lieux ou, le cas échéant, à l'insularité. La commission départementale des sites est alors consultée sur
+l'impact de l'implantation de ces nouvelles routes sur la nature.
+
+En outre, l'aménagement des routes dans la bande littorale définie à l'article L. 146-4 est possible dans les espaces
+urbanisés ou lorsqu'elles sont nécessaires à des services publics ou à des activités économiques exigeant la proximité
+immédiate de l'eau.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°86-2 du 3 janvier 1986 - art. 3 () JORF 4 janvier 1986
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L144-6 (Ab)
+	  - Code du patrimoine. - art. L630-1 (VT)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L146-4 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L146-8
+
+Les installations, constructions, aménagements de nouvelles routes et ouvrages nécessaires à la sécurité maritime et
+aérienne, à la défense nationale, à la sécurité civile et ceux nécessaires au fonctionnement des aérodromes et des services
+publics portuaires autres que les ports de plaisance ne sont pas soumis aux dispositions du présent chapitre lorsque leur
+localisation répond à une nécessité technique impérative [*dérogation*]
+
+Les opérations engagées ou prévues dans les périmètres de l'opération d'aménagement du littoral du Languedoc-Roussillon,
+définis par les schémas d'aménagement antérieurs tels qu'ils ont été définitivement fixés en 1984 et dont l'achèvement a été
+ou sera, avant le 1er juin 1986, confié, à titre transitoire, aux sociétés d'économie mixte titulaires des anciennes
+concessions, ne sont pas soumises aux dispositions du présent chapitre jusqu'à la date limite fixée par chaque convention et,
+au plus tard, jusqu'au 31 décembre 1989 [*dispositions transitoire*]
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°86-2 du 3 janvier 1986 - art. 3 () JORF 4 janvier 1986
+
+	**Cité par**:
+
+	  - Arrêté du 20 juillet 2009 (V)
+	  - Arrêté du 11 février 2010 (V)
+	  - Arrêté du 6 septembre 2011 - art. 2 (V)
+	  - Arrêté du 23 mars 2012 - art. 2 (V)
+	  - Arrêté du 26 juillet 2012 - art. 3 (V)
+	  - Arrêté du 20 février 2013 - art. 2 (V)
+	  - Décret n°2014-1299 du 23 octobre 2014 - art. (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
 #### Chapitre VII : Dispositions particulières aux zones de bruit des aérodromes.
 
 ###### Article L147-1
@@ -5173,6 +5545,73 @@ Un décret en Conseil d'Etat précise les conditions d'application de la présen
 	  - PILOTE_SUIVEUR: Code du tourisme. - art. L342-6 (V)
 
 
+#### Chapitre VI : Dispositions particulières au littoral.
+
+###### Article L146-3
+
+Les opérations d'aménagement admises à proximité du rivage organisent ou préservent le libre accès du public à celui-ci.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L121-7 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Créé par**:
+
+	  - Loi n°86-2 du 3 janvier 1986 - art. 3 () JORF 4 janvier 1986
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+
+###### Article L146-9
+
+I ― Dans les communes riveraines des plans d'eau d'une superficie supérieure à 1.000 hectares et incluses dans le champ
+d'application de la loi n° 85-30 du 9 janvier 1985 relative au développement et à la protection de la montagne,
+l'autorisation prévue à l'article L. 145-11 vaut accord du représentant de l'Etat dans le département au titre du paragraphe
+II de l'article L. 146-4. 
+
+II ― Dans les espaces proches du rivage des communes riveraines de la mer et incluses dans le champ d'application de la loi
+n° 85-30 du 9 janvier 1985 précitée, les dispositions prévues à l'article L. 145-3 et à la section II du chapitre V du
+présent titre ne sont pas applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Cite**:
+
+	  - Loi n°85-30 du 9 janvier 1985
+	  - Code de l'urbanisme - art. L145-11
+	  - Code de l'urbanisme - art. L145-3 (VT)
+	  - Code de l'urbanisme - art. L146-4
+
+	**Créé par**:
+
+	  - Loi n°86-2 du 3 janvier 1986 - art. 3 () JORF 4 janvier 1986
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L121-13 (VD)
+	  - Code de l'urbanisme - art. L121-2 (VD)
+
+	**Cité par**:
+
+	  - Code du tourisme. - art. L331-1 (V)
+
+
 #### Chapitre VII : dispositions particulières aux zones de bruit des aérodromes.
 
 ###### Article L147-2
@@ -5323,6 +5762,119 @@ d'Etat avec les adaptations éventuellement nécessaires.
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+#### Chapitre VI : Dispositions particulières au littoral dans les départements d'outre-mer.
+
+###### Article L156-1
+
+Les dispositions du chapitre VI du titre IV du livre Ier sont applicables aux communes littorales des départements d'outre-
+mer définies à l'article 2 de la loi n° 86-2 du 3 janvier 1986 précitée, sous réserve des dispositions ci-après.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Cite**:
+
+	  - Loi n°86-2 du 3 janvier 1986 - art. 2 (V)
+
+	**Créé par**:
+
+	  - Loi n°86-2 du 3 janvier 1986 - art. 35 () JORF 4 janvier 1986
+
+
+###### Article L156-2
+
+Les dispositions des paragraphes II et III de l'article L. 146- [*extension limitée del'urbanisation des espaces proches du
+rivage, dérogations*] ne sont pas applicables. Les dispositions suivantes leur sont substituées.
+
+Dans les espaces proches du rivage :
+
+- l'extension de l'urbanisation n'est admise que dans les secteurs déjà occupés par une urbanisation diffuse ;
+
+- des opérations d'aménagement ne peuvent être autorisées que si elles ont été préalablement prévues par le chapitre
+particulier du schéma régional valant schéma de mise en valeur de la mer.
+
+Il est déterminé une bande littorale comprise entre le rivage de la mer et la limite supérieure de la réserve domaniale dite
+des cinquante pas géométriques définie à l'article L. 86 du code du domaine de l'Etat. A défaut de délimitation ou lorsque la
+réserve domaniale n'a pas été instituée, cette bande présente une largeur de 81,20 mètres à compter de la limite haute du
+rivage.
+
+En dehors des espaces urbanisés, les terrains situés dans la bande littorle définie à l'alinéa précédent sont réservés aux
+installations nécessaires à des services publics, à des activités économiques ou à des équipements collectifs, lorsqu'ils
+sont liés à l'usage de la mer. Ces installations organisent ou préservent l'accès et la libre circulation le long du rivage.
+
+Dans tous les cas, des espaces naturels ouverts sur le rivage et présentant le caractère d'une coupure d'urbanisation sont
+ménagés entre les zones urbanisables.
+
+Les constructions et aménagements sur les pentes proches du littoral sont interdits quand leur implantation porte atteinte au
+caractère paysager des mornes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°86-2 du 3 janvier 1986 - art. 35 () JORF 4 janvier 1986
+
+	**Cité par**:
+
+	  - Décret n°2014-1299 du 23 octobre 2014 - art. (V)
+	  - Code de l'environnement - art. L341-16 (V)
+	  - Code de l'urbanisme - art. L156-1 (VT)
+	  - Code de l'urbanisme - art. L156-3 (VT)
+	  - Code de l'urbanisme - art. L156-4 (VD)
+	  - Code de l'urbanisme - art. R*156-1 (VT)
+	  - Code du patrimoine. - art. L630-1 (VT)
+	  - Code du tourisme. - art. L361-3 (V)
+	  - Code général de la propriété des personnes publ... - art. L5112-4-1 (V)
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L86 (Ab)
+	  - Code de l'urbanisme - art. L146-4 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L156-3
+
+Dans les parties actuellement urbanisées de la commune :
+
+1° Les terrains compris dans la bande littorale définie à l'article L. 156-2 sont préservés lorsqu'ils sont à usage de
+plages, d'espaces boisés, de parcs ou de jardins publics. Il en est de même des parties restées naturelles de la zone sauf si
+un intérêt public exposé au plan d'occupation des sols justifie une autre affectation ;    2° Les secteurs de la zone des
+cinquante pas géomètriques situés au droit des parties actuellement urbanisées peuvent, dès lors qu'ils sont déjà équipés ou
+occupés à la date de promulgation de la loi n° 86-2 du 3 janvier 1986 précitée, être délimités par le plan d'occupation des
+sols pour être affectés à des services publics, à des activités exigeant la proximité immédiate de la mer ou à des opérations
+de résorption de l'habitat insalubre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L156-2 (M)
+	  - Loi n°86-2 1986-01-03
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. L89 (Ab)
+	  - Code du domaine de l'Etat - art. R170 (Ab)
+	  - Code général de la propriété des personnes publ... - art. L5111-5 (V)
+	  - Code général de la propriété des personnes publ... - art. L5112-4-1 (V)
+	  - Code général de la propriété des personnes publ... - art. R5112-3 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Créé par**:
+
+	  - Loi n°86-2 du 3 janvier 1986 - art. 35 () JORF 4 janvier 1986
 
 
 ### Titre VI : Sanctions et servitudes.
@@ -5539,21 +6091,22 @@ d'occupation des sols rendu public ou approuvé ou du document qui en tient lieu
 ###### Article L160-6
 
 Les propriétés privées riveraines du domaine public maritime sont grevées sur une bande de trois mètres de largeur d'une
-servitude destinée à assurer exclusivement le passage des piétons. 
+servitude destinée à assurer exclusivement le passage des piétons.
 
-L'autorité administrative peut, par décision motivée prise après avis du ou des conseils municipaux intéressées et au vu du
+L'autorité administrative peut, par décision motivée prise après avis du ou des conseils municipaux intéressés et au vu du
 résultat d'une enquête publique effectuée comme en matière d'expropriation :
 
 a) Modifier le tracé ou les caractéristiques de la servitude, afin, d'une part, d'assurer, compte tenu notamment de la
 présence d'obstacles de toute nature, la continuité du cheminement des piétons ou leur libre accès au rivage de la mer,
-d'autre part, de tenir compte des chemins ou règles locales préexistants ;
+d'autre part, de tenir compte des chemins ou règles locales préexistants ; le tracé modifié peut grever exceptionnellement
+des propriétés non riveraines du domaine public maritime ;
 
 b) A titre exceptionnel, la suspendre.
 
-Sauf dans le cas où l'institution de la servitude est le seul moyen d'assurer le libre accès des piétons au rivage de la mer,
-la servitude instituée aux alinéas 1 et 2 ci-dessus ne peut grever les terrains situés à moins de quinze mètres des bâtiments
-à usage d'habitation édifiés avant le 1er janvier 1976, ni grever des terrains attenants à des maisons d'habitation et clos
-de murs au 1er janvier 1976.
+Sauf dans le cas où l'institution de la servitude est le seul moyen d'assurer la continuité du cheminement des piétons ou
+leur libre accès au rivage de la mer, la servitude instituée aux alinéas 1 et 2 ci-dessus ne peut grever les terrains situés
+à moins de quinze mètres des bâtiments à usage d'habitation édifiés avant le 1er janvier 1976, ni grever des terrains
+attenants à des maisons d'habitation et clos de murs au 1er janvier 1976.
 
 **Liens relatifs à cet article**
 
@@ -5564,6 +6117,7 @@ de murs au 1er janvier 1976.
 	  - Code de l'urbanisme - art. L150-1 (VT)
 	  - Code de l'urbanisme - art. L160-6-1 (VT)
 	  - Code de l'urbanisme - art. L160-7 (VT)
+	  - Code de l'urbanisme - art. L160-8 (VT)
 	  - Code de l'urbanisme - art. R* 150-4 (VT)
 	  - Code de l'urbanisme - art. R*126-1, Annexe (V)
 	  - Code de l'urbanisme - art. R*160-11 (VT)
@@ -5577,31 +6131,101 @@ de murs au 1er janvier 1976.
 	  - Code de l'urbanisme - art. R*160-9 (VT)
 	  - Code du tourisme. - art. L341-15 (V)
 
+	**Modifié par**:
+
+	  - Loi n°86-2 du 3 janvier 1986 - art. 4 () JORF 4 janvier 1986
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code de l'environnement - art. L321-10 (VT)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L160-8 (V)
 
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L121-31 (VD)
+	  - Code de l'urbanisme - art. L121-32 (VD)
+	  - Code de l'urbanisme - art. L121-33 (VD)
+
 	**Codifié par**:
 
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L160-6-1
+
+Une servitude de passage des piétons, transversale au rivage peut être instituée sur les voies et chemins privés d'usage
+collectif existants, à l'exception de ceux réservés à un usage professionnel selon la procédure prévue au deuxième alinéa de
+l'article L. 160-6.
+
+Cette servitude a pour but de relier la voirie publique au rivage de la mer ou aux sentiers d'accès immédiat à celui-ci, en
+l'absence d voie publique située à moins de cinq cent mètres et permettant l'accès au rivage.
+
+Les dispositions de l'article L. 160-7 sont applicables à cette servitude.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°86-2 du 3 janvier 1986 - art. 5 () JORF 4 janvier 1986
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de l'environnement - art. L321-10 (VT)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L160-6 (M)
+	  - Code de l'urbanisme - art. L160-7 (M)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*126-1, Annexe (V)
+	  - Code de l'urbanisme - art. R*160-16 (VT)
+	  - Code de l'urbanisme - art. R*160-16-1 (VT)
+	  - Code de l'urbanisme - art. R*160-26 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 ###### Article L160-7
 
 La servitude instituée par l'article L. 160-6 n'ouvre un droit à indemnité que s'il en résulte pour le propriétaire un
-dommage direct, matériel et certain.
+dommage direct, matériel et certain. 
 
 La demande d'indemnité doit, à peine de forclusion, parvenir à l'autorité compétente dans le délai de six mois à compter de
-la date où le dommage a été causé.
+la date où le dommage a été causé. 
 
 L'indemnité est fixée soit à l'amiable, soit, en cas de désaccord, dans les conditions définies au deuxième alinéa de
-l'article L. 160-5.
+l'article L. 160-5. 
 
 Le montant de l'indemnité de privation de jouissance est calculé compte tenu de l'utilisation habituelle antérieure du
-terrain.
+terrain. 
+
+La responsabilité civile des propriétaires des terrains, voies et chemins grevés par les servitudes définies aux articles L.
+160-6 et L. 160-6-1 ne saurait être engagée au titre de dommages causés ou subis par les bénéficiaires de ces servitudes.
+
+**Nota:**
+
+Conformément à l'article 13 33° de l'ordonnance n° 2015-1174 du 23 septembre 2015, l'abrogation du deuxième alinéa de
+l'article L. 160-7 ne prendra effet qu'à compter de la publication des dispositions réglementaires du livre Ier du code de
+l'urbanisme.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°86-2 du 3 janvier 1986 - art. 6 () JORF 4 janvier 1986
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 13
 
 	**Liens**:
 
@@ -5609,18 +6233,26 @@ terrain.
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L160-5 (VT)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L160-8 (V)
 
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L121-35 (VD)
+	  - Code de l'urbanisme - art. L121-36 (VD)
+	  - Code de l'urbanisme - art. L121-37 (VD)
+	  - Code de l'urbanisme - art. R121-29 (V)
+
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L160-5 (M)
-	  - Code de l'urbanisme - art. L160-6 (M)
+	  - Code de l'urbanisme - art. L160-5 (VT)
+	  - Code de l'urbanisme - art. L160-6
+	  - Code de l'urbanisme - art. L160-6-1 (VT)
 
 	**Cité par**:
 
-	  - Code de l'urbanisme - art. L160-6-1 (VT)
+	  - Code de l'urbanisme - art. L160-8 (VT)
 
 	**Codifié par**:
 
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 ###### Article L160-8
