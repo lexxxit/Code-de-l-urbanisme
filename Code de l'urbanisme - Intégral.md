@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1983-10-16
+Version Consolidée au 1983-12-31
 
 # Partie législative
 
@@ -11681,88 +11681,6 @@ hauteur et sa délivrance est précédée de l'accord de l'autorité chargée de
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
-###### Article L421-2-1
-
-Dans les communes où un plan d'occupation des sols a été approuvé, le permis est délivré par le maire au nom de la commune.
-Lorsqu'une commune fait partie d'un établissement public de coopération intercommunale, elle peut, en accord avec cet
-établissement, lui déléguer cette compétence qui est alors exercée par le président de l'établissement public au nom de
-l'établissement. Cette délégation de pouvoir doit être confirmée dans les mêmes formes après chaque renouvellement du conseil
-municipal ou après l'élection d'un nouveau président de l'établissement public.
-
-Le transfert de compétence au maire agissant au nom de la commune est définitif.
-
-Pour l'instruction des documents visés au présent titre, le maire ou, s'il est compétent, le président de l'établissement
-public de coopération intercommunale peut déléguer sa signature aux agents chargés de l'instruction des demandes.
-
-Sont toutefois délivrés ou établis au nom de l'Etat, après avis du maire ou du président de l'établissement public compétent,
-les autorisations ou actes relatifs à l'utilisation et à l'occupation du sol concernant :
-
-a) Les constructions, installations ou travaux réalisés pour le compte de l'Etat, de la région, du département, de leurs
-établissements publics et concessionnaires ainsi que pour le compte d'Etats étrangers ou d'organisations internationales ;
-
-b) Les ouvrages de production, de transport, de distribution et de stockage d'énergie, ainsi que ceux utilisant des matières
-radioactives ; un décret en Conseil d'Etat détermine la nature et l'importance de ces ouvrages ;
-
-c) Les constructions, installations ou travaux réalisés à l'intérieur des périmètres des opérations d'intérêt national dans
-les conditions définies par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°82-213 du 2 mars 1982 - art. 2 (Ab)
-	  - Décret n°83-1261 du 30 décembre 1983 - art. 49 (V)
-	  - Décret n°84-221 du 29 mars 1984 - art. 2 (Ab)
-	  - Décret n°84-226 du 29 mars 1984 - art. 33 (V)
-	  - Code de l'urbanisme - art. A424-4 (M)
-	  - Code de l'urbanisme - art. L121-12 (Ab)
-	  - Code de l'urbanisme - art. L421-2 (M)
-	  - Code de l'urbanisme - art. L421-2-4 (Ab)
-	  - Code de l'urbanisme - art. R*130-9 (Ab)
-	  - Code de l'urbanisme - art. R*315-25 (Ab)
-	  - Code de l'urbanisme - art. R*315-31-1 (Ab)
-	  - Code de l'urbanisme - art. R*410-19 (M)
-	  - Code de l'urbanisme - art. R*410-20 (M)
-	  - Code de l'urbanisme - art. R*410-21 (M)
-	  - Code de l'urbanisme - art. R*410-5 (M)
-	  - Code de l'urbanisme - art. R*410-6 (M)
-	  - Code de l'urbanisme - art. R*410-7 (M)
-	  - Code de l'urbanisme - art. R*421-33 (Ab)
-	  - Code de l'urbanisme - art. R*422-11 (Ab)
-	  - Code de l'urbanisme - art. R*422-6 (Ab)
-	  - Code de l'urbanisme - art. R*422-7 (Ab)
-	  - Code de l'urbanisme - art. R*422-9 (Ab)
-	  - Code de l'urbanisme - art. R*430-10-5 (Ab)
-	  - Code de l'urbanisme - art. R*430-15-1 (Ab)
-	  - Code de l'urbanisme - art. R*441-6-9 (T)
-	  - Code de l'urbanisme - art. R*441-7-1 (Ab)
-	  - Code de l'urbanisme - art. R*442-6-1 (Ab)
-	  - Code de l'urbanisme - art. R*443-5-2 (Ab)
-	  - Code de l'urbanisme - art. R*443-7-4 (Ab)
-	  - Code de l'urbanisme - art. R*460-4-1 (Ab)
-	  - Code de l'urbanisme - art. R*490-1 (Ab)
-	  - Code de l'urbanisme - art. R*490-5 (Ab)
-	  - Code de l'urbanisme - art. R421-24 (M)
-	  - Code de l'urbanisme - art. R442-4-13 (Ab)
-	  - Code de l'urbanisme - art. R520-6 (M)
-	  - Code de l'éducation - art. R211-6 (M)
-	  - Code général des collectivités territoriales - art. L2131-2 (M)
-	  - Code général des collectivités territoriales - art. R1614-53 (M)
-	  - Livre des procédures fiscales - art. L255 A (M)
-
-	**Modifié par**:
-
-	  - Loi n°83-663 du 22 juillet 1983 - art. 103 () JORF 23 JUILLET 1983
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de l'urbanisme - art. L421-2-7 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-
 ###### Article L421-2-6
 
 Le maire ou le président de l'établissement public compétent peut disposer gratuitement et en tant que de besoin des services
@@ -12719,6 +12637,89 @@ Dans les lois en vigueur à la date de publication de la présente loi, tout ren
 	  - Code du patrimoine. - art. R524-27-1 (VD)
 	  - Code du sport. - art. R331-24-1 (V)
 	  - Code du sport. - art. R331-26 (V)
+
+
+###### Article L421-2-1
+
+Dans les communes où un plan d'occupation des sols a été approuvé, le permis est délivré par le maire au nom de la commune
+[*autorité compétente*]. Lorsqu'une commune fait partie d'un établissement public de coopération intercommunale, elle peut,
+en accord avec cet établissement, lui déléguer cette compétence qui est alors exercée par le président de l'établissement
+public au nom de l'établissement. Cette délégation de pouvoir doit être confirmée dans les mêmes formes après chaque
+renouvellement du conseil municipal ou après l'élection d'un nouveau président de l'établissement public.
+
+Le transfert de compétence au maire agissant au nom de la commune est définitif.
+
+Pour l'instruction des documents visés au présent titre, le maire ou, s'il est compétent, le président de l'établissement
+public de coopération intercommunale peut déléguer sa signature aux agents chargés de l'instruction des demandes.
+
+Sont toutefois délivrés ou établis, au nom de l'Etat, par le maire ou le représentant de l'Etat dans le département après
+avis du maire ou du président de l'établissement public compétent, les autorisations ou actes relatifs à l'utilisation et à
+l'occupation du sol concernant :
+
+a) Les constructions, installations ou travaux réalisés pour le compte de l'Etat, de la région, du département, de leurs
+établissements publics et concessionnaires ainsi que pour le compte d'Etats étrangers ou d'organisations internationales ;
+
+b) Les ouvrages de production, de transport, de distribution et de stockage d'énergie, ainsi que ceux utilisant des matières
+radioactives ; un décret en Conseil d'Etat détermine la nature et l'importance de ces ouvrages ;
+
+c) Les constructions, installations ou travaux réalisés à l'intérieur des périmètres des opérations d'intérêt national dans
+les conditions définies par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°82-213 du 2 mars 1982 - art. 2 (Ab)
+	  - Décret n°83-1261 du 30 décembre 1983 - art. 49 (V)
+	  - Décret n°84-221 du 29 mars 1984 - art. 2 (Ab)
+	  - Décret n°84-226 du 29 mars 1984 - art. 33 (V)
+	  - Code de l'urbanisme - art. A424-4 (M)
+	  - Code de l'urbanisme - art. L121-12 (Ab)
+	  - Code de l'urbanisme - art. L421-2 (M)
+	  - Code de l'urbanisme - art. L421-2-4 (Ab)
+	  - Code de l'urbanisme - art. R*130-9 (Ab)
+	  - Code de l'urbanisme - art. R*315-25 (Ab)
+	  - Code de l'urbanisme - art. R*315-31-1 (Ab)
+	  - Code de l'urbanisme - art. R*410-19 (M)
+	  - Code de l'urbanisme - art. R*410-20 (M)
+	  - Code de l'urbanisme - art. R*410-21 (M)
+	  - Code de l'urbanisme - art. R*410-5 (M)
+	  - Code de l'urbanisme - art. R*410-6 (M)
+	  - Code de l'urbanisme - art. R*410-7 (M)
+	  - Code de l'urbanisme - art. R*421-33 (Ab)
+	  - Code de l'urbanisme - art. R*422-11 (Ab)
+	  - Code de l'urbanisme - art. R*422-6 (Ab)
+	  - Code de l'urbanisme - art. R*422-7 (Ab)
+	  - Code de l'urbanisme - art. R*422-9 (Ab)
+	  - Code de l'urbanisme - art. R*430-10-5 (Ab)
+	  - Code de l'urbanisme - art. R*430-15-1 (Ab)
+	  - Code de l'urbanisme - art. R*441-6-9 (T)
+	  - Code de l'urbanisme - art. R*441-7-1 (Ab)
+	  - Code de l'urbanisme - art. R*442-6-1 (Ab)
+	  - Code de l'urbanisme - art. R*443-5-2 (Ab)
+	  - Code de l'urbanisme - art. R*443-7-4 (Ab)
+	  - Code de l'urbanisme - art. R*460-4-1 (Ab)
+	  - Code de l'urbanisme - art. R*490-1 (Ab)
+	  - Code de l'urbanisme - art. R*490-5 (Ab)
+	  - Code de l'urbanisme - art. R421-24 (M)
+	  - Code de l'urbanisme - art. R442-4-13 (Ab)
+	  - Code de l'urbanisme - art. R520-6 (M)
+	  - Code de l'éducation - art. R211-6 (M)
+	  - Code général des collectivités territoriales - art. L2131-2 (M)
+	  - Code général des collectivités territoriales - art. R1614-53 (M)
+	  - Livre des procédures fiscales - art. L255 A (M)
+
+	**Modifié par**:
+
+	  - Loi n°83-1186 du 29 décembre 1983 - art. 29 () JORF 31 décembre 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de l'urbanisme - art. L421-2-7 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L421-2-2
