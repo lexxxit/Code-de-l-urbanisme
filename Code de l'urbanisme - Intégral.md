@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1998-12-30
+Version Consolidée au 1998-12-31
 
 # Partie législative
 
@@ -1174,8 +1174,7 @@ Des décrets en Conseil d'Etat déterminent, en tant que de besoin, les modalit�
 définissent notamment la surface de plancher développée hors oeuvre d'une construction et les conditions dans lesquelles sont
 exclus de cette surface les combles et sous-sols non aménageables pour l'habitation ou pour d'autres activités, les balcons,
 loggias et terrasses, les aires de stationnement, les surfaces nécessaires aux aménagements en vue de l'amélioration de
-l'hygiène des locaux et à l'isolation thermique ou acoustique, ainsi que les surfaces annexes aux bâtiments d'exploitation
-agricole.
+l'hygiène des locaux et à l'isolation thermique ou acoustique, ainsi que les surfaces des bâtiments d'exploitation agricole.
 
 La même définition est retenue en ce qui concerne l'établissement de l'assiette de la taxe locale d'équipement.
 
@@ -1183,7 +1182,11 @@ La même définition est retenue en ce qui concerne l'établissement de l'assiet
 
 	**Modifié par**:
 
-	  - Loi n°86-1290 du 23 décembre 1986 - art. 66 () JORF 24 décembre 1986
+	  - Loi - art. 116 () JORF 31 décembre 1998
+
+	**Transféré par**:
+
+	  - Loi n°2000-1208 2000-12-13 art. 50 III JORF 14 décembre 2000
 
 	**Cité par**:
 
@@ -1191,6 +1194,7 @@ La même définition est retenue en ce qui concerne l'établissement de l'assiet
 
 	**Nouveaux textes**:
 
+	  - Code de l'urbanisme - art. L112-1 (M)
 	  - Code de l'urbanisme - art. L112-1 (V)
 
 	**Codifié par**:
