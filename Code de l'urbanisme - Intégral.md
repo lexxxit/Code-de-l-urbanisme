@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1986-03-16
+Version Consolidée au 1986-03-20
 
 # Partie législative
 
@@ -38480,8 +38480,6 @@ répondre aux conditions susvisées.
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R312-16 (Ab)
 
 
-#### Secteurs sauvegardes
-
 #### Opérations d'urbanisation.
 
 ###### Article R314-2
@@ -45878,51 +45876,6 @@ caravanes.
 	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
-### TITRE IV : Dispositions relatives aux modes particulièrs disposition du sol
-
-#### Chapitre I : Autorisation des clôtures.
-
-###### Article R*441-1
-
-Les dispositions du présent chapitre sont applicables dans les communes ou parties de communes énumérées à l'article L.
-441-1.
-
-La liste des communes prévue au d de l'article L. 441-1 est établie par arrêté du commissaire de la République,  pris sur
-proposition du responsable du service de l'Etat dans le département, chargé de l'urbanisme, après avis du maire de chaque
-commune intéressée. Cet arrêté est publié au recueil des actes administratifs du département et mention en est faite en
-caractères apparents dans deux journaux régionaux ou locaux diffusés dans tout le département. Les effets juridiques attachés
-à cet arrêté ont pour point de départ l'exécution de ces mesures de publicité.
-
-L'arrêté visé à l'alinéa ci-dessus est tenu à la disposition du public dans les locaux de la préfecture, de la direction
-départementale de l'équipement et de la mairie des communes intéressées. Il est en outre affiché pendant une durée de deux
-mois, au moins, à la mairie de chaque commune intéressée.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°84-226 1984-03-29 ART. 1 JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-226 1984-03-29 ART. 33, ART. 34 : Modalites d'application
-	  - SPEC_APPLI: Décret n°84-226 du 29 mars 1984 - art. 33 (M)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. *R442-3 (V)
-	  - Code de l'urbanisme - art. A441-4 (V)
-	  - Code de l'urbanisme - art. R300-16 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L441-1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ### TITRE IV : dispositions relatives aux modes particuliers            d'utilisation du sol.&lt;F&gt; CHAPITRE III : Camping et stationnement des caravanes
 
 ####  Section 2 : terrains aménagés pour l'accueil des campeurs et des caravanes
@@ -46606,6 +46559,40 @@ NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 	**Abrogé par**:
 
 	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+
+### TITRE IX : Dispositions communes au titre III du livre Ier, au chapitre V du titre Ier du livre III et aux titres I à IV et VI du présent livre.
+
+###### Article R*490-5
+
+Sont opérations d'intérêt national au sens des articles L. 421-2-1 c et L. 111-1-2 les travaux relatifs :
+
+a) Aux agglomérations nouvelles régies par la loi n° 83-636 du 13 juillet 1983, dans leur périmètre d'urbanisation défini en
+application des articles 3 et 4 de ladite loi ;
+
+b) A l'aménagement de la Défense, dans un périmètre défini par arrêté du ministre chargé de l'urbanisme à l'intérieur du
+périmètre de compétence de l'établissement public pour l'aménagement de la Défense ;
+
+c) Aux domaines industrialo-portuaires d'Antifer, du Verdon et de Dunkerque, dans les périmètres respectifs des ports
+autonomes du Havre, de Bordeaux et de Dunkerque ;
+
+d) A l'aménagement de la zone de Fos-sur-Mer, dans un périmètre défini par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Loi n°83-636 1983-07-13 art. 3, art. 4
+	  - Code de l'urbanisme - art. L111-1-2 (M)
+	  - Code de l'urbanisme - art. L421-2-1 (M)
+
+	**Modifié par**:
+
+	  - Décret n°86-669 1986-03-18 art. 2 JORF 20 mars 1986
 
 
 ## Règles relatives à l'acte de construire et à divers modes d'utilisation du sol
@@ -47428,95 +47415,6 @@ champ d'application de l'article L. 430-1 A, il exerce ce pouvoir conjointement 
 
 ### Dispositions relatives aux modes particuliers d'utilisation du sol
 
-#### Autorisation des clôtures.
-
-##### Présentation dépot et transmission de la demande.
-
-###### Article R*441-5
-
-Tous les exemplaires de la demande et du dossier  d'autorisation d'édifier une cloture sont  adressés, par pli recommandé
-avec demande d'avis de réception postal [*condition de forme*] au maire de la commune dans laquelle la clôture est envisagée,
-ou déposé contre décharge à la mairie.
-
-Le maire affecte un numéro d'enregistrement à la demande dans des conditions prévues par arrêté du ministre chargé de
-l'urbanisme.
-
-Les exemplaires de la demande et du dossier d'autorisation d'édifier une cloture font l'objet des transmissions prévues à
-l'article L. 421-2-3. Toutefois, dans le cas prévu au 1er dudit article, seul le formulaire de demande est transmis au
-commissaire de la République.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°84-226 1984-03-29 ART. 2, ART. 3 JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
-
-	**Transféré par**:
-
-	  - Décret n°86-514 du 14 mars 1986 - art. 5 () JORF 16 mars 1986
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L421-2-3 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. R442-4-2 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°226 1984-03-29 ART. 33, ART. 34 : Modalités d'application
-	  - SPEC_APPLI: Décret n°86-514 1986-03-154 art. 11
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-##### Instruction de la demande
-
-##### Dispositions applicables dans l'ensemble des communes.
-
-###### Article R*441-6
-
-Si le dossier est complet, l'autorité compétente pour statuer fait connaître au demandeur, dans les quinze jours de la
-réception de la demande en mairie, par une lettre de notification adréssée par pli recommandé avec demande d'avis de
-réception postal, le numéro  d'enregistrement de ladite demande et la date avant laquelle, compte tenu des délais
-d'instruction fixés en application de l'article R. 441-8, la décision devra lui être notifiée [*délai*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-226 1984-03-29 ART. 33, ART. 34 : Modalités d'application
-	  - SPEC_APPLI: Décret n°84-226 du 29 mars 1984 - art. 33 (M)
-	  - SPEC_APPLI: Décret n°86-514 du 14 mars 1986 - art. 11 (V)
-
-	**Modifié par**:
-
-	  - Décret n°84-226 1984-03-29 ART. 4 ART. 5 JORF 31 MARS 1984 date d'entrée en vigueur 1 avril 1984
-
-	**Transféré par**:
-
-	  - Décret n°86-514 du 14 mars 1986 - art. 5 () JORF 16 mars 1986
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*441-10 (VD)
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. R442-4-4 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R441-8
-
-
 #### Installations et travaux divers
 
 ##### Procédure d'autorisation
@@ -47699,45 +47597,6 @@ en outre les conditions de signature des actes concernés.
 	  - SPEC_APPLI: Décret n°83-1261 du 30 décembre 1983 - art. 49 (M)
 
 
-###### Article R*490-5
-
-Sont opérations d'intérêt national [*définition*] au sens des articles L. 421-2-1 c et L. 111-1-2, les travaux relatifs aux
-agglomérations nouvelles créées en application des dispositions de la loi n° 70-610 du 10 juillet 1970 modifiée par la loi du
-20 décembre 1977, dans leur périmètre d'urbanisation ;
-
-A la zone d'aménagement délimitée par le périmètre de l'établissement public pour l'aménagement de la Défense créé par le
-décret n° 58-815 du 9 septembre 1958 modifié ;
-
-Aux domaines industrialo-portuaires d'Antifer, du Verdon et de Dunkerque, dans les périmètres respectifs des ports autonomes
-du Havre, de Bordeaux et de Dunkerque ;
-
-A la zone d'aménagement de Fos, dans le périmètre défini par arrêté du ministre de l'équipement du 15 juillet 1974.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1974-07-15
-	  - Décret n°58-815 1958-09-09
-	  - Loi n°70-610 1970-07-10
-	  - Loi n°77-1394 1977-12-20
-	  - Code de l'urbanisme - art. L111-1-2 (M)
-	  - Code de l'urbanisme - art. L421-2-1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°83-1261 1983-12-30 ART. 39 JORF 7 JANVIER 1984 date d'entrée en vigueur 1 AVRIL 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°83-1261 1983-12-30 ART. 49, ART. 50 : Modalités d'application
-	  - SPEC_APPLI: Décret n°83-1261 du 30 décembre 1983 - art. 49 (M)
-
-
 ## CHAPITRE IV :Règles relatives à l'acte de construire et à divers mode              d'utilisation du sol
 
 ### TITRE II : Permis de construire
@@ -47826,52 +47685,6 @@ application du décret n° 85-453 du 23 avril 1985.
 ### Dispositions relatives aux modes particuliers d'utilisation du sol
 
 #### Autorisation de clôture
-
-##### Instruction de la demande
-
-##### Dispositions applicables dans l'ensemble des communes
-
-###### Article R*441-6-1
-
-Si le dossier est incomplet, l'autorité compétente pour statuer fait connaître au demandeur, dans les quinze jours de la
-réception de la demande en mairie, par une lettre adressée par pli recommandé avec demande d'avis de réception postal, la
-liste des pièces obligatoires manquantes que celui-ci est invité à fournir dans les conditions prévues à l'article R. 441-5.
-Lorsque ces pièces ont été produites, il est fait application des dispositions de l'article R. 441-6.
-
-Le délai d'instruction part de la réception desdites pièces [*point de départ*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°84-226 1984-03-29 ART. 2, ART. 4, ART. 6 JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-226 1984-03-29 ART. 33, ART. 34 : modalités d'application
-	  - SPEC_APPLI: Décret n°84-226 du 29 mars 1984 - art. 33 (M)
-	  - SPEC_APPLI: Décret n°86-514 1985-03-14  art. 11
-
-	**Transféré par**:
-
-	  - Décret n°86-514 du 14 mars 1986 - art. 5 () JORF 16 mars 1986
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*441-10 (VD)
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. R442-4-5 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R441-5
-
 
 ##### Décision
 
