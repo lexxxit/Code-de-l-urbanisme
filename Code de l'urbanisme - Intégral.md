@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1999-06-11
+Version Consolidée au 1999-06-29
 
 # Partie législative
 
@@ -120,13 +120,15 @@ d'urbanisme, adaptées aux particularités géographiques locales. Elles prennen
 national mentionné à l'article 2 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement
 du territoire.
 
-Les directives territoriales d'aménagement sont élaborées sous la responsabilité de l'Etat et à son initiative.
+Les directives territoriales d'aménagement sont élaborées sous la responsabilité de l'Etat, à son initiative ou, le cas
+échéant, sur la demande d'une région, après consultation du conseil économique et social régional.
 
 Les projets de directives sont élaborés en association avec les régions, les départements, les communes chefs-lieux
 d'arrondissement ainsi que les communes de plus de 20 000 habitants et les groupements de communes compétents en matière
 d'aménagement de l'espace ou d'urbanisme intéressés et les comités de massifs. Leur avis est réputé favorable s'il n'est pas
-intervenu dans un délai de trois mois à compter de leur saisine. Les directives éventuellement modifiées pour tenir compte de
-ces avis sont approuvées par décret en Conseil d'Etat.
+intervenu dans un délai de trois mois à compter de leur saisine. Les projets de directives territoriales d'aménagement
+assortis des avis des conseils régionaux et des conseils généraux intéressés sont mis à la disposition du public pendant deux
+mois. Les directives éventuellement modifiées pour tenir compte de ces avis sont approuvées par décret en Conseil d'Etat.
 
 Les schémas directeurs et les schémas de secteur doivent être compatibles avec les directives territoriales d'aménagement et,
 en l'absence de ces directives, avec les lois d'aménagement et d'urbanisme.
@@ -219,7 +221,7 @@ personnes et opérations qui y sont mentionnées.
 
 	**Modifié par**:
 
-	  - Loi n°95-115 du 4 février 1995 - art. 4 () JORF 5 février 1995
+	  - Loi n°99-533 du 25 juin 1999 - art. 47 () JORF 29 juin 1999
 
 	**Codifié par**:
 
@@ -1451,6 +1453,35 @@ l'établissement public qui leur adresse toutes instructions nécessaires pour l
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L121-3
+
+Les communes, les établissements publics de coopération intercommunale et les collectivités territoriales peuvent créer avec
+l'Etat et les établissements publics ou autres organismes qui contribuent à l'aménagement et au développement de leur
+territoire des organismes de réflexion et d'études appelés "agences d'urbanisme". Ces agences ont notamment pour mission de
+suivre les évolutions urbaines, de participer à la définition des politiques d'aménagement et de développement et de préparer
+les projets d'agglomération dans un souci d'harmonisation des politiques publiques. Elles peuvent prendre la forme
+d'association.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2015-524 du 12 mai 2015 (V)
+	  - Code de l'urbanisme - art. L150-1 (M)
+	  - Code de l'urbanisme - art. L710-3 (VT)
+	  - Code de l'urbanisme - art. R*122-8 (M)
+	  - Code de la construction et de l'habitation. - art. L441-2-8 (V)
+	  - Livre des procédures fiscales - art. L135 B (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Créé par**:
+
+	  - Loi n°99-533 du 25 juin 1999 - art. 48 () JORF 29 juin 1999
 
 
 ###### Article L121-4
@@ -5518,12 +5549,21 @@ aéronautique ou indispensables aux populations existantes.
 
 La région d'Ile-de-France élabore en association avec l'Etat un schéma directeur portant sur l'ensemble de cette région.
 
+Le schéma directeur de la région d'Ile-de-France a pour objectif de maîtriser la croissance urbaine et démographique et
+l'utilisation de l'espace tout en garantissant le rayonnement international de cette région. Il précise les moyens à mettre
+en oeuvre pour corriger les disparités spatiales, sociales et économiques de la région, coordonner l'offre de déplacement et
+préserver les zones rurales et naturelles afin d'assurer les conditions d'un développement durable de la région.
+
+Les dispositions de l'alinéa précédent prennent effet à la première révision du schéma directeur de la région d'Ile-de-France
+selon les modalités prévues au huitième alinéa du présent article suivant la promulgation de la loi n° 99-533 du 25 juin 1999
+d'orientation pour l'aménagement et le développement durable du territoire.
+
 Le schéma directeur de la région d'Ile-de-France doit respecter les règles générales d'aménagement et d'urbanisme à caractère
 obligatoire prévues au présent livre ainsi que les servitudes d'utilité publique affectant l'utilisation des sols et les
 dispositions nécessaires à la mise en oeuvre de projets d'intérêt général relevant de l'Etat et d'opérations d'intérêt
-national. Il doit également prendre en compte les orientations du schéma national d'aménagement et de développement du
-territoire institué à l'article 2 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement
-du territoire et les schémas sectoriels institués par le chapitre V du titre Ier de la même loi.
+national. Il doit également prendre en compte les orientations des schémas des services collectifs institués à l'article 2 de
+la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire et les schémas
+sectoriels institués par le chapitre V du titre Ier de la même loi.
 
 Ce schéma détermine notamment la destination générale de différentes parties du territoire, les moyens de protection et de
 mise en valeur de l'environnement, la localisation des grandes infrastructures de transport et des grands équipements. Il
@@ -5579,11 +5619,13 @@ Au sixième alinéa, au lieu de "conseils généraux des départementaux" lire "
 
 	  - Loi n°83-8 1983-01-07 art. 34
 	  - Loi n°95-115 du 4 février 1995 - art. 2 (M)
+	  - Loi n°99-533 1999-06-25
 	  - Code de l'urbanisme - art. L111-1-1 (M)
 
 	**Modifié par**:
 
-	  - Loi n°95-115 du 4 février 1995 - art. 40 () JORF 5 février 1995
+	  - Loi n°99-533 du 25 juin 1999 - art. 3 (V) JORF 29 juin 1999
+	  - Loi n°99-533 du 25 juin 1999 - art. 50 () JORF 29 juin 1999
 
 	**Codifié par**:
 
