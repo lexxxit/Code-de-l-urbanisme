@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1986-01-07
+Version Consolidée au 1986-01-14
 
 # Partie législative
 
@@ -18755,6 +18755,41 @@ ayant compétence en matière de construction, d'aménagement ou d'urbanisme et 
 	  - Décret n°83-812 1983-09-09 ART. 1, ART. 3 JORF 11 SEPTEMBRE 1983 date d'entrée en vigueur  1 OCTOBRE 1983
 
 
+###### Article R*122-10
+
+Le projet de schéma directeur ou de schéma de secteur [*élaboration*], arrêté par l'organe délibérant de l'établissement
+public de coopération intercommunale est soumis pour avis par son président simultanément aux conseils municipaux des
+communes membres concernées, au commissaire de la République et aux organes délibérants des personnes publiques autres que
+l'Etat associées à son élaboration et, en zone de montagne lorsque le projet comporte des dispositions relatives à la
+création d'une ou plusieurs unités touristiques nouvelles, à la commission spécialisée du comité de massif. Faute de réponse
+dans un délai de trois mois à compter de la transmission du projet, leur avis est réputé favorable.
+
+Lorsque le commissaire de la République constate que le projet de schéma directeur ou de schéma de secteur arrêté compromet
+gravement la mise en oeuvre d'un projet d'intérêt général déjà communiqué à l'établissement public de coopération
+intercommunale, il porte à la connaissance de ce dernier, parmi les dispositions prévues aux articles R. 122-25 et R. 122-26,
+celles qui sont nécessaires à la mise en oeuvre de projet d'intérêt général. Cette communication précise la situation du
+projet, les objectifs à la réalisation desquels il concourt et, dans la mesure du possible, l'échéancier prévisionnel de sa
+réalisation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°83-8 1983-01-07 ART. 42 (Code de l'urbanisme L122-1-1)
+
+	**Modifié par**:
+
+	  - Décret n°86-52 1986-01-10 ART. 2 JORF 14 janvier 1986
+
+	**Cite**:
+
+	  - Code de l'urbanisme R122-25
+
+
 ###### Article R*122-11
 
 Le projet de schéma directeur ou de schéma de secteur [*élaboration*] arrêté, accompagné des avis exprimés à la suite des
@@ -19081,6 +19116,78 @@ l'article R. 122-13[*publicité*].
 
 #####  Section 4 : Contenu des schémas directeurs et des schémas de secteur.
 
+###### Article R*122-25
+
+Un schéma directeur se compose  d'un rapport et de documents graphiques.
+
+I. - Le rapport présente :
+
+a) Une analyse de la situation existante et les principales perspectives d'aménagement du territoire considéré, compte tenu,
+d'une part, des évolutions démographiques, économiques, sociales et culturelles et, d'autre part, de ses relations avec les
+territoires avoisinants.
+
+b) Le parti d'aménagement adopté et sa justification, compte tenu, notamment, des perspectives visées au a ci-dessus, de
+l'équilibre qu'il convient de préserver entre le développement urbain et l'aménagement rural et de l'utilisation optimale des
+grands équipements existants ou prévus.
+
+c) L'indication des principales phases de réalisation du parti retenu.
+
+d) L'analyse de l'état initial de l'environnement et la mesure dans laquelle le schéma prend en compte le souci de sa
+préservation.
+
+e) La justification de la compatibilité des dispositions du schéma directeur avec l'article L121-10 et avec les lois et
+prescriptions mentionnées à l'article L111-1-1, ainsi que la justification que ces dispositions ne compromettent pas la mise
+en oeuvre des projets d'intérêt général.
+
+II. - Les documents graphiques font apparaître :
+
+La destination générale des sols ;
+
+Les zones d'extension des agglomérations ainsi que les secteurs de restructuration et de rénovation ;
+
+Les espaces agricoles et forestiers ainsi que    les espaces libres ou boisés à maintenir ou à créer ;
+
+Les principaux sites urbains ou naturels à protéger ;
+
+La localisation des principales activités et des équipements publics ou d'intérêt général les plus importants ;
+
+L'organisation générale de la circulation et des transports avec le tracé des principales infrastructures de voirie et, le
+cas échéant, de moyens de transport en site propre ;
+
+Les éléments essentiels des réseaux d'eau et d'assainissement ainsi que du système d'élimination des déchets ;
+
+Eventuellement, les périmètres des zones devant faire l'objet de schémas de secteur.
+
+L'un des documents fait ressortir les éléments essentiels de la première phase de réalisation du parti d'aménagement.
+
+En zone de montagne, l'implantation et l'organisation générale des unités touristiques nouvelles.
+
+Un arrêté du ministre chargé de l'urbanisme détermine la légende des documents graphiques mentionnés au II ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°86-52 1986-01-10 art. 2 2° JORF 14 janvier 1986
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R126-1 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L111-1-1 (M)
+	  - Code de l'urbanisme - art. L121-10 (M)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme R122-5
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ###### Article R*122-26
 
 Le schéma de secteur, établi dans le cadre des orientations fixées par le schéma directeur, se compose de documents
@@ -19286,6 +19393,73 @@ elles n'ont pas été confirmées dans la même forme pour une égale durée.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*123-6
+
+La délibération prescrivant l'établissement du plan d'occupation des sols est notifiée par le maire aux présidents du conseil
+régional et du conseil général des régions et départements concernés, aux présidents de la chambre de commerce et
+d'industrie, de la chambre de métiers, de la chambre d'agriculture, aux maires des communes limitrophes et aux présidents des
+établissements publics de coopération intercommunale directement intéressés en raison de leur objet et de leur ressort
+territorial et lorsque tout ou partie du territoire concerné par le plan est situé dans un parc national compris dans un
+massif de montagne ou en zone périphérique, au directeur de l'établissement public du parc.
+
+Dans un délai de deux mois à compter de la transmission de cette délibération, les présidents du conseil régional, du conseil
+général, des chambres de commerce et d'industrie, des chambres de métiers, des chambres d'agriculture, et lorsque tout ou
+partie du territoire concerné par le plan est situé dans un parc national compris dans un massif de montagne ou en zone
+périphérique, le directeur de l'établissement public du parc font connaître au maire s'ils veulent être associés à
+l'élaboration du plan d'occupation des sols selon les modalités prévues à l'article R. 123-3 et, dans l'affirmative,
+désignent à cet effet leurs représentants.
+
+Dans le même délai, les maires des communes limitrophes et les présidents des établissements publics de coopération
+intercommunale directement intéressés font savoir s'ils veulent être consultés sur le projet de plan d'occupation des sols
+lorsqu'il aura été arrêté.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 50 (Code de l'urbanisme L123-3)
+
+	**Modifié par**:
+
+	  - Décret n°86-52 1986-01-10 art. 3 1°, 2°, JORF 14janvier 1986
+
+	**Cite**:
+
+	  - Code de l'urbanisme R123-3
+
+
+###### Article R*123-8
+
+Le maire entend à leur demande les présidents des associations agréées en application de l'article L. 121-8 ou leurs
+représentants.
+
+Il peut recueillir l'avis de tout organisme ou association défini à l'article L. 123-3 (3è alinéa) et décider d'entendre
+toute personne qualifiée.    En zone de montagne, il consulte la commission communale ou intercommunale d'aménagement foncier
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°83-8 1983-01-07 ART. 50 (Code de l'urbanisme L123-3)
+
+	**Modifié par**:
+
+	  - Décret n°86-52 1986-01-10 art. 3 3° JORF 14 janvier 1986
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L121-8 (M)
+	  - Code de l'urbanisme L123-3 AL. 3
 
 
 ###### Article R*123-9
@@ -19557,6 +19731,82 @@ R. 123-19 se fait suivant la procédure de mise à jour prévue à l'article R. 
 
 	  - Code de l'urbanisme - art. L126-1 (M)
 	  - Code de l'urbanisme L126-1, R123-19, R123-36
+
+
+###### Article R*123-21
+
+Le règlement fixe les règles applicables aux terrains compris dans les diverses zones du territoire couvert par le plan.
+
+1° A cette fin, il doit :
+
+a) Déterminer l'affectation dominante des sols par zones selon les catégories prévues à l'article R. 123-18 en précisant
+l'usage principal qui peut en être fait, et s'il y a lieu, la nature des activités qui peuvent y être interdites ou soumises
+à des conditions particulières, telles que l'ouverture ou l'extension d'établissements industriels, l'exploitation de
+carrières, les opérations d'affouillement ou d'exhaussement des sols, les défrichements, coupes et abattages d'arbres ainsi
+que les divers modes d'occupation du sol qui font l'objet d'une réglementation ;
+
+b) Edicter, en fonction des situations locales, les prescriptions relatives à l'implantation des constructions par rapport
+aux voies, aux limites séparatives et autres constructions.
+
+2° Le règlement peut, en outre :
+
+a) Edicter les prescriptions relatives à l'accès, à la desserte, à l'équipement en réseaux divers et, le cas échéant, aux
+dimensions et à la surface des terrains ;
+
+b) Edicter les prescriptions relatives à l'emprise au sol des constructions, à leur hauteur et, le cas échéant, à leur aspect
+extérieur ;
+
+c) Edicter les prescriptions relatives aux obligations imposées en matière de réalisation d'aires de stationnement, d'espaces
+verts et d'aires de jeux et de loisirs ;
+
+d) Fixer les cas dans lesquels la démolition de tout ou partie d'un immeuble ou d'un groupe d'immeubles compris à l'intérieur
+d'une zone définie à l'article R. 123-18 (II, 6°) peut être interdite ou soumise à des prescriptions spéciales ;
+
+e) Fixer le ou les coefficients d'occupation des sols de chaque zone ou partie de zone et les conditions dans lesquelles ces
+coefficients peuvent être éventuellement dépassés en application des articles L. 123-1 et L. 332-1.
+
+f) Edicter les prescriptions relatives aux équipements et aménagement qui peuvent être autorisés dans les zones qui sont ou
+peuvent être aménagées en vue de la pratique du ski et les secteurs réservés aux remontées mécaniques.
+
+3° Pour les zones dans lesquelles s'applique le transfert des possibilités de construction prévu à l'article L. 123-2, le
+règlement fixe les modalités de ce transfert et notamment la superficie minimale du terrain au profit duquel le transfert est
+effectué, ainsi que la densité minimale de construction exigée pour que le droit de construire puisse être reconnu sur ce
+même terrain.
+
+Pour les secteurs prévus par l'article R. 123-18 (I, 3°) pour lesquels un plan de masse coté à trois dimensions définit des
+disciplines spéciales, les prescriptions architecturales figurent sur ce plan de masse.
+
+Un arrêté du ministre chargé de l'urbanisme fixe la forme de présentation du règlement du plan d'occupation des sols.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-1016 1970-10-28 ART. 19
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°83-8 1983-01-07 ART. 48 (Code de l'urbanisme L123-1)
+
+	**Modifié par**:
+
+	  - Décret n°86-52 1986-01-10 art. 3 4° JORF 14 janvier 1986
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R123-23 (V)
+	  - Code de l'urbanisme - art. A123-2 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L123-1 (M)
+	  - Code de l'urbanisme - art. L123-2 (M)
+	  - Code de l'urbanisme - art. L332-1 (M)
+	  - Code de l'urbanisme R123-18 II 6
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*123-23
@@ -21096,6 +21346,109 @@ public prévues à l'article R. 144-13.
 	  - Code de l'urbanisme R144-14
 
 
+#### Chapitre V : Dispositions particulières aux zones de montagne
+
+###### Article R145-1
+
+Dans le cas prévu à l'article L. 145-11 du code de l'urbanisme, la demande d'autorisation de créer une unité touristique
+nouvelle est présentée par la commune ou les communes ou le groupement de communes sur le territoire desquelles s'étend
+l'emprise du projet ; elle peut porter simultanément sur plusieurs opérations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-52 1986-01-10 art. 1 JORF 14 janvier 1986
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L145-11 (M)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R145-9 (M)
+	  - Code du tourisme. - art. D342-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R145-2
+
+La demande est accompagnée d'un dossier constitué par un rapport et des documents graphiques décrivant [*contenu*]:
+
+1° L'état du site et de son environnement, celui du bâti, des infrastructures et des équipements touristiques existants avec
+leurs conditions de fréquentation ainsi que les principales caractéristiques de l'économie locale ;
+
+2° Les caractéristiques principales du projet et, notamment, de la demande à satisfaire, des produits touristiques visés, des
+modes d'exploitation et de promotion des hébergements et des équipements touristiques ;
+
+3° Les risques naturels auxquels le projet peut être exposé ainsi que leurs mesures nécessaires pour en assurer la
+prévention ;
+
+4° Les effets prévisibles du projet sur l'économie agricole, les peuplements forestiers et l'environnement ainsi que les
+mesures de protection et de réhabilitation à prévoir et l'estimation de leur coût ;
+
+5° Les conditions générales de l'équilibre économique et financier du projet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-52 1986-01-10 art. 1 JORF 14 janvier 1986
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R145-1 (VT)
+	  - Code de l'urbanisme - art. R145-5 (VT)
+	  - Code de l'urbanisme - art. R145-7 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R145-10
+
+Le renforcement des remontées mécaniques ou leur extension est considéré comme unité touristique nouvelle lorsque les
+dépenses de construction et d'installation correspondantes, effectuées en une ou plusieurs tranches, excèdent quinze millions
+de francs. Toutefois, le remplacement d'une remontée mécanique ne constitue pas une unité touristique nouvelle lorsque, d'une
+part, les lieux de départ et d'arrivée sont inchangés et que, d'autre part, le débit horaire maximum de la nouvelle
+installation est inférieur au triple de celui de l'ancien équipement.
+
+Le montant du seuil financier fixé à l'alinéa précédent est révisé tous les deux ans par arrêté du ministre chargé des
+transports en fonction de l'indice I :
+
+I = 0,2 TP 02 + 0,8 TP 13 TP 02 et TP 13 étant les indices nationaux des prix de génie civil publiés au Bulletin officiel de
+la concurrence et de la consommation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-52 1986-01-10 art. 1 JORF 14 janvier 1986
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 10 mai 1990
+	  - TXT_SOURCE: Arrêté du 10 mai 1990 - art. 1 ()
+	  - TXT_SOURCE: Arrêté du 14 septembre 1994
+	  - TXT_SOURCE: Arrêté du 14 septembre 1994 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 6 février 2002
+	  - TXT_SOURCE: Arrêté du 6 février 2002 - art. 1 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 14 septembre 1994 - art. 1 (V)
+	  - Arrêté du 6 février 2002 - art. 1 (V)
+	  - Code de l'urbanisme - art. R145-1 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ### Titre V : Départements d'outre-mer.
 
 ###### Article R150-1
@@ -21873,121 +22226,6 @@ raison de la suspension de la servitude ou de la modification de son tracé ou d
 
 ### Prévisions et règles d'urbanisme
 
-#### Schémas directeurs
-
-##### Etablissement des schémas directeurs et des schémas de secteur par des établissements publics de coopération intercommunale.
-
-###### Article R*122-10
-
-Le projet de schéma directeur ou de schéma de secteur [*élaboration*], arrêté par l'organe délibérant de l'établissement
-public de coopération intercommunale est soumis pour avis par son président simultanément aux conseils municipaux des
-communes membres concernées, au commissaire de la République et aux organes délibérants des personnes publiques autres que
-l'Etat associées à son élaboration. Faute de réponse dans un délai de trois mois à compter de la transmission du projet, leur
-avis est réputé favorable.
-
-Lorsque le commissaire de la République constate que le projet de schéma directeur ou de schéma de secteur arrêté compromet
-gravement la mise en oeuvre d'un projet d'intérêt général déjà communiqué à l'établissement public de coopération
-intercommunale, il porte à la connaissance de ce dernier, parmi les dispositions prévues aux articles R. 122-25 et R. 122-26,
-celles qui sont nécessaires à la mise en oeuvre de projet d'intérêt général. Cette communication précise la situation du
-projet, les objectifs à la réalisation desquels il concourt et, dans la mesure du possible, l'échéancier prévisionnel de sa
-réalisation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 ART. 42 (Code de l'urbanisme L122-1-1)
-	  - SPEC_APPLI: Décret n°83-851 1983-09-23 ART. 1 : Date d'entrée en vigueur
-
-	**Créé par**:
-
-	  - Décret n°83-812 1983-09-09 ART. 1, ART. 3 JORF 11 SEPTEMBRE 1983 date d'entrée en vigueur  1 OCTOBRE 1983
-
-	**Cite**:
-
-	  - Code de l'urbanisme R122-26
-
-
-##### Contenu des schémas directeurs et des schémas de secteur.
-
-###### Article R*122-25
-
-Un schéma directeur se compose  d'un rapport et de documents graphiques.
-
-I. - Le rapport présente :
-
-a) Une analyse de la situation existante et les principales perspectives d'aménagement du territoire considéré, compte tenu,
-d'une part, des évolutions démographiques, économiques, sociales et culturelles et, d'autre part, de ses relations avec les
-territoires avoisinants.
-
-b) Le parti d'aménagement adopté et sa justification, compte tenu, notamment, des perspectives visées au a ci-dessus, de
-l'équilibre qu'il convient de préserver entre le développement urbain et l'aménagement rural et de l'utilisation optimale des
-grands équipements existants ou prévus.
-
-c) L'indication des principales phases de réalisation du parti retenu.
-
-d) L'analyse de l'état initial de l'environnement et la mesure dans laquelle le schéma prend en compte le souci de sa
-préservation.
-
-e) La justification de la compatibilité des dispositions du schéma directeur avec l'article L121-10 et avec les lois et
-prescriptions mentionnées à l'article L111-1-1, ainsi que la justification que ces dispositions ne compromettent pas la mise
-en oeuvre des projets d'intérêt général.
-
-II. - Les documents graphiques font apparaître :
-
-La destination générale des sols ;
-
-Les zones d'extension des agglomérations ainsi que les secteurs de restructuration et de rénovation ;
-
-Les espaces agricoles et forestiers ainsi que    les espaces libres ou boisés à maintenir ou à créer ;
-
-Les principaux sites urbains ou naturels à protéger ;
-
-La localisation des principales activités et des équipements publics ou d'intérêt général les plus importants ;
-
-L'organisation générale de la circulation et des transports avec le tracé des principales infrastructures de voirie et, le
-cas échéant, de moyens de transport en site propre ;
-
-Les éléments essentiels des réseaux d'eau et d'assainissement ainsi que du système d'élimination des déchets ;
-
-Eventuellement, les périmètres des zones devant faire l'objet de schémas de secteur.
-
-L'un des documents fait ressortir les éléments essentiels de la première phase de réalisation du parti d'aménagement.
-
-Un arrêté du ministre chargé de l'urbanisme détermine la légende des documents graphiques mentionnés au II ci-dessus.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°83-812 1983-09-09 ART. 6 JORF 11 SEPTEMBRE 1983 date d'entrée en vigueur 1 OCTOBRE 1983
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°83-851 du 23 septembre 1983 - art. 1 (V)
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. R126-1 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L111-1-1 (M)
-	  - Code de l'urbanisme - art. L121-10 (M)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme R122-5
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 #### Plans d'occupation des sols
 
 ##### Contenu du plan d'occupation des sols.
@@ -22337,72 +22575,6 @@ Lorsque le plan d'occupation des sols est approuvé par décret en Conseil d'Eta
 
 ##### Elaboration du plan d'occupation des sols.
 
-###### Article R*123-6
-
-La délibération prescrivant l'établissement du plan d'occupation des sols est notifiée par le maire aux présidents du conseil
-régional et du conseil général des régions et départements concernés, aux présidents de la chambre de commerce et
-d'industrie, de la chambre de métiers, de la chambre d'agriculture, aux maires des communes limitrophes et aux présidents des
-établissements publics de coopération intercommunale directement intéressés en raison de leur objet et de leur ressort
-territorial.
-
-Dans un délai de deux mois à compter de la transmission de cette délibération, les présidents du conseil régional, du conseil
-général, des chambres de commerce et d'industrie, des chambres de métiers, des chambres d'agriculture font connaître au maire
-s'ils veulent être associés à l'élaboration du plan d'occupation des sols selon les modalités prévues à l'article R. 123-3
-et, dans l'affirmative, désignent à cet effet leurs représentants.
-
-Dans le même délai, les maires des communes limitrophes et les présidents des établissements publics de coopération
-intercommunale directement intéressés font savoir s'ils veulent être consultés sur le projet de plan d'occupation des sols
-lorsqu'il aura été arrêté.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 ART. 50 (Code de l'urbanisme L123-3)
-	  - SPEC_APPLI: Décret n°83-851 1983-09-23 ART. 1 : Date d'entrée en vigueur
-
-	**Créé par**:
-
-	  - Décret n°83-813 1983-09-09 ART. 2 JORF 11 SEPTEMBRE 1983 date d'entrée en vigueur  1 OCTOBRE 1983
-
-	**Cite**:
-
-	  - Code de l'urbanisme R123-3
-
-
-###### Article R*123-8
-
-Le maire entend à leur demande les présidents des associations agréées en application de l'article L. 121-8 ou leurs
-représentants.
-
-Il peut recueillir l'avis de tout organisme ou association défini à l'article L. 123-3 (3è alinéa) et décider d'entendre
-toute personne qualifiée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 ART. 50 (Code de l'urbanisme L123-3)
-	  - SPEC_APPLI: Décret n°83-851 1983-09-23 ART. 1 : Date d'entrée en vigueur
-
-	**Créé par**:
-
-	  - Décret n°83-813 1983-09-09 ART. 2 JORF 11 SEPTEMBRE 1983 date d'entrée en vigueur  1 OCTOBRE 1983
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L121-8 (M)
-	  - Code de l'urbanisme L123-3 AL. 3
-
-
 ###### Article R*123-11
 
 Le plan d'occupation des sols rendu public est soumis par le maire à enquête publique dans les conditions fixées par la loi
@@ -22559,9 +22731,9 @@ constructions et installations de toute nature, permanentes ou non, les plantati
 exhaussements des sols ;
 
 2° Le tracé et les caractéristiques des voies de circulation à conserver, à modifier ou à créer, y compris les rues ou
-sentiers piétonniers et les pistes cyclables ;
-
-3° Les emplacements réservés aux voies et ouvrages publics, aux installations d'intérêt général et aux espaces verts ;
+sentiers piétonniers et les pistes cyclables ; les zones qui sont ou peuvent être aménagées en vue de la pratique du ski et
+les secteurs réservés aux remontées mécaniques.    3° Les emplacements réservés aux voies et ouvrages publics, aux
+installations d'intérêt général et aux espaces verts ;
 
 4° Les zones ou secteurs dans lesquels, pour des motifs d'urbanisme ou d'architecture, la reconstruction sur place ou
 l'aménagement de bâtiments existants peut être imposé ou autorisé avec une densité au plus égale à celle qui était
@@ -22591,11 +22763,10 @@ pouvant figurer sur les documents graphiques du plan d'occupation des sols.
 	**Liens**:
 
 	  - TXT_SOURCE: Loi n°83-8 1983-01-07 ART. 48 (Code de l'urbanisme L123-1)
-	  - SPEC_APPLI: Décret n°83-851 1983-09-23 ART. 1 : Date d'entrée en vigueur
 
 	**Modifié par**:
 
-	  - Décret n°83-813 1983-09-09 ART. 3 JORF 11 SEPTEMBRE 1983 date d'entrée en vigueur  1 OCTOBRE 1983
+	  - Décret n°86-52 1986-01-10 ART. 3 4° JORF 14 janvier 1986
 
 	**Cité par**:
 
@@ -22605,81 +22776,7 @@ pouvant figurer sur les documents graphiques du plan d'occupation des sols.
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L123-2 (M)
-	  - Code de l'urbanisme R123-21
-
-
-###### Article R*123-21
-
-Le règlement fixe les règles applicables aux terrains compris dans les diverses zones du territoire couvert par le plan.
-
-1° A cette fin, il doit :
-
-a) Déterminer l'affectation dominante des sols par zones selon les catégories prévues à l'article R. 123-18 en précisant
-l'usage principal qui peut en être fait, et s'il y a lieu, la nature des activités qui peuvent y être interdites ou soumises
-à des conditions particulières, telles que l'ouverture ou l'extension d'établissements industriels, l'exploitation de
-carrières, les opérations d'affouillement ou d'exhaussement des sols, les défrichements, coupes et abattages d'arbres ainsi
-que les divers modes d'occupation du sol qui font l'objet d'une réglementation ;
-
-b) Edicter, en fonction des situations locales, les prescriptions relatives à l'implantation des constructions par rapport
-aux voies, aux limites séparatives et autres constructions.
-
-2° Le règlement peut, en outre :
-
-a) Edicter les prescriptions relatives à l'accès, à la desserte, à l'équipement en réseaux divers et, le cas échéant, aux
-dimensions et à la surface des terrains ;
-
-b) Edicter les prescriptions relatives à l'emprise au sol des constructions, à leur hauteur et, le cas échéant, à leur aspect
-extérieur ;
-
-c) Edicter les prescriptions relatives aux obligations imposées en matière de réalisation d'aires de stationnement, d'espaces
-verts et d'aires de jeux et de loisirs ;
-
-d) Fixer les cas dans lesquels la démolition de tout ou partie d'un immeuble ou d'un groupe d'immeubles compris à l'intérieur
-d'une zone définie à l'article R. 123-18 (II, 6°) peut être interdite ou soumise à des prescriptions spéciales ;
-
-e) Fixer le ou les coefficients d'occupation des sols de chaque zone ou partie de zone et les conditions dans lesquelles ces
-coefficients peuvent être éventuellement dépassés en application des articles L. 123-1 et L. 332-1.
-
-3° Pour les zones dans lesquelles s'applique le transfert des possibilités de construction prévu à l'article L. 123-2, le
-règlement fixe les modalités de ce transfert et notamment la superficie minimale du terrain au profit duquel le transfert est
-effectué, ainsi que la densité minimale de construction exigée pour que le droit de construire puisse être reconnu sur ce
-même terrain.
-
-Pour les secteurs prévus par l'article R. 123-18 (I, 3°) pour lesquels un plan de masse coté à trois dimensions définit des
-disciplines spéciales, les prescriptions architecturales figurent sur ce plan de masse.
-
-Un arrêté du ministre chargé de l'urbanisme fixe la forme de présentation du règlement du plan d'occupation des sols.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1016 1970-10-28 ART. 19
-
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 ART. 48 (Code de l'urbanisme L123-1)
-	  - SPEC_APPLI: Décret n°83-851 1983-09-23 ART. 1 : Date d'entrée en vigueur
-
-	**Modifié par**:
-
-	  - Décret n°83-813 1983-09-09 ART. 3 JORF 11 SEPTEMBRE 1983 date d'entrée en vigueur  1 OCTOBRE 1983
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. R123-23 (V)
-	  - Code de l'urbanisme - art. A123-2 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L123-1 (M)
-	  - Code de l'urbanisme - art. L123-2 (M)
-	  - Code de l'urbanisme - art. L332-1 (M)
-	  - Code de l'urbanisme R123-18 II 6
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
+	  - Code de l'urbanisme L123-1 9
 
 
 #### Dispositions transitoires relatives aux projets d'aménagement et aux plans d'urbanisme
