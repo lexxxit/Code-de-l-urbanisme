@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1985-07-25
+Version Consolidée au 1985-10-01
 
 # Partie législative
 
@@ -18594,64 +18594,6 @@ deuxième alinéa de l'article R. 123-14.
 	  - Code de l'urbanisme L123-4 AL. 1
 
 
-###### Article R*123-35-1
-
-Lorsqu'elle est prescrite en application de l'article L. 123-7-1 par le commissaire de la République, la modification ou la
-révision d'un plan d'occupation des sols approuvé a lieu suivant les modalités ci-après définies.
-
-Le commissaire de la République met en demeure, par arrêté, le maire de modifier ou de réviser le plan d'occupation des sols
-dans les conditions définies selon les cas aux articles R. 123-34 ou
-
-R. 123-35.
-
-Lorsque cette mise en demeure a pour objet de permettre la réalisation d'un nouveau projet d'intérêt général, elle est
-accompagnée de la communication prévue au deuxième alinéa de l'article R. 123-9.
-
-Si, dans un délai de six mois à compter de la notification de l'arrêté prévu au deuxième alinéa, la modification ou la
-révision n'a pas été approuvée, la modification ou la révision du plan d'occupation des sols peut, selon le cas, être prise à
-l'initiative du commissaire de la République ou prescrite par ce dernier. L'arrêté du commissaire de la République
-prescrivant la mise en révision du plan d'occupation des sols est publié au recueil des actes administratifs du département.
-Mention en est insérée en caractères apparents dans deux journaux régionaux ou locaux diffusés dans le département.
-
-Le projet de modification ou de révision élaboré par le commissaire de la République est soumis par ce dernier à une enquête
-publique dans les formes prévues à l'article R. 123-11.
-
-Ce projet, accompagné des conclusions du commissaire enquêteur ou de la commission d'enquête ainsi que du rapport du service
-de l'Etat chargé de conduire l'instruction, est soumis ensuite par le commissaire de la République au conseil municipal qui
-doit se prononcer dans un délai de deux mois. La délibération du conseil municipal est réputée favorable si elle n'est pas
-intervenue dans ce délai.
-
-Lorsque l'avis mentionné à l'alinéa précédant a été recueilli ou est réputé acquis, la modification ou la révision du plan
-d'occupation des sols, tenant éventuellement compte des résultats de l'enquête et de cet avis est approuvée par arrêté du
-commissaire de la République [*autorité compétente*]. Cet arrêté fait l'objet des mesures de publicité et d'information du
-public fixées au quatrième alinéa du présent article et à l'article R. 123-14.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: 1 OCTOBRE 1983)
-	  - TXT_SOURCE: Loi n°83-663 1983-07-22 ART. 100 (Code de l'urbanisme L123-4)
-	  - SPEC_APPLI: Décret n°83-851 1983-09-23 ART. 1 : Date d'entrée en vigueur
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°83-813 1983-09-09 ART. 5 JORF 11 SEPTEMBRE 1983 date d'entrée en vigueur
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L123-7-1 (M)
-	  - Code de l'urbanisme R123-14
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R123-35-1-1 (Ab)
-
-
 ###### Article R*123-35-2
 
 Pendant la période de modification ou de révision du plan d'occupation des sols qui court de la date de publication de la
@@ -18675,6 +18617,76 @@ est approuvé, le plan d'occupation des sols demeure en vigueur.
 	**Abrogé par**:
 
 	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
+
+
+###### Article R*123-35-3
+
+Lorsque l'utilite publique d'une opération doit être déclarée dans les conditions prévues à l'article L. 123-8, les
+dispositions du premier alinéa de l'article R. 123-34 ne sont pas applicables à la modification du plan d'occupation des sols
+rendu public ou approuvé ; cette modification est effectuée selon les modalités définies ci-après :
+
+Le commissaire de la République informe le maire ou le président de l'établissement public de coopération intercommunale de
+la nature du projet et l'invite à réunir le conseil municipal ou l'organe délibérant de l'établissement public pour que
+celui-ci fixe les modalités de l'association des personnels publiques à la modification du plan d'occupation des sols. Cette
+délibération fait l'objet de mesures de publicité prévues au dernier alinéa de l'article R. 123-3 et d'une transmission au
+commissaire de la République.
+
+Simultanément, le commissaire de la République invite les présidents du conseil régional, du conseil général, de la chambre
+de commerce et d'industrie, de la chambre des métiers et de la chambre d'agriculture à lui faire connaître, dans un délai de
+deux mois à compter de leur saisine, s'ils veulent être associés à la modification du plan d'occupation des sols et, dans
+l'affirmative, à désigner à cet effet leurs représentants.
+
+Il publie par arrêté la liste des personnes publiques et des services de l'Etat associés à la modification du plan
+d'occupation des sols. Mention de cet arrêté est insérée en caractères apparents dans deux journaux régionaux ou locaux
+diffusés dans le département.
+
+Parallèlement, le commissaire de la République ouvre par arrêté une enquête publique portant à la fois sur l'utilité publique
+de l'opération projetée et sur la modification du plan d'occupation des sols. Cette enquête s'ouvre et se déroule
+conformément aux dispositions des articles R. 11-14-1 et suivants du code de l'expropriation pour cause d'utilité publique ou
+des textes prévoyant une procédure propre d'enquête préalable à la déclaration d'utilité publique régie par la loi du 12
+juillet 1983.
+
+Après la remise des conclusions de l'enquête par le commissaire enquêteur ou le président de la commission d'enquête, le
+commissaire de la République met en oeuvre les modalités de l'association déterminées par le conseil municipal ou l'organe
+délibérant de l'établissement public de coopération intercommunale.
+
+Si un mois après la clôture de l'enquête, aucune délibération fixant les modalités de l'association prévue au deuxième alinéa
+du présent article n'a été transmise au commissaire de la République, celui-ci ou son représentant, accompagné des
+représentants des personnes publiques associées, est entendu à sa demande par le conseil municipal.
+
+Le dossier de modification du plan d'occupation des sols, le rapport et les conclusions du commissaire enquêteur ou de la
+commission d'enquête ainsi que tout document rendant compte de l'association sont soumis ensuite pour avis par le commissaire
+de la République au conseil municipal ou à l'organe délibérant de l'établissement public qui doit se prononcer dans un délai
+de deux mois. S'il n'est pas intervenu à l'expiration de ce délai, l'avis est réputé donné.
+
+Lorsqu'une déclaration d'utilité publique emportant modification du plan d'occupation des sols ne relève pas de la compétence
+du commissaire de la République, elle est contresignée ou consignée par le ministre chargé de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°70-492 du 11 juin 1970 - art. 6 (V)
+	  - Décret n°70-492 du 11 juin 1970 - art. 7 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°83-663 1983-07-22 ART. 100 (Code de l'urbanisme L123-4)
+	  - SPEC_APPLI: Décret n°85-452 1985-04-23 art. 1 : Date d'entrée en vigueur
+
+	**Créé par**:
+
+	  - Décret n°85-452 1985-04-23 art. 3 JORF 24 avril 1985 en vigueur le 1er octobre 1985
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L123-8 (M)
+	  - Code de l'urbanisme L123-8, R123-34, R123-3
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*123-36
@@ -18732,6 +18744,62 @@ aux greffes des mêmes tribunaux.
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*126-2 (VT)
+
+
+###### Article R123-35-1
+
+Lorsqu'elle est prescrite en application de l'article L. 123-7-1 par le commissaire de la République, la modification ou la
+révision d'un plan d'occupation des sols approuvé a lieu suivant les modalités ci-après définies.
+
+Le commissaire de la République met en demeure, par arrêté, le maire de modifier ou de réviser le plan d'occupation des sols
+dans les conditions définies selon les cas aux articles R. 123-34 ou
+
+R. 123-35.
+
+Lorsque cette mise en demeure a pour objet de permettre la réalisation d'un nouveau projet d'intérêt général, elle est
+accompagnée de la communication prévue au deuxième alinéa de l'article R. 123-9.
+
+Si, dans un délai de six mois à compter de la notification de l'arrêté prévu au deuxième alinéa, la modification ou la
+révision n'a pas été approuvée, la modification ou la révision du plan d'occupation des sols peut, selon le cas, être prise à
+l'initiative du commissaire de la République ou prescrite par ce dernier. L'arrêté du commissaire de la République
+prescrivant la mise en révision du plan d'occupation des sols est publié au recueil des actes administratifs du département.
+Mention en est insérée en caractères apparents dans deux journaux régionaux ou locaux diffusés dans le département.
+
+Le projet de modification ou de révision élaboré par le commissaire de la République est soumis par ce dernier à une enquête
+publique dans les formes prévues à l'article R. 123-11, le commissaire de la République étant toutefois substitué au maire
+pour l'application de cet article.    Ce projet, accompagné des conclusions du commissaire enquêteur ou de la commission
+d'enquête ainsi que du rapport du service de l'Etat chargé de conduire l'instruction, est soumis ensuite par le commissaire
+de la République au conseil municipal qui doit se prononcer dans un délai de deux mois. La délibération du conseil municipal
+est réputée favorable si elle n'est pas intervenue dans ce délai.
+
+Lorsque l'avis mentionné à l'alinéa précédant a été recueilli ou est réputé acquis, la modification ou la révision du plan
+d'occupation des sols, tenant éventuellement compte des résultats de l'enquête et de cet avis est approuvée par arrêté du
+commissaire de la République [*autorité compétente*]. Cet arrêté fait l'objet des mesures de publicité et d'information du
+public fixées au quatrième alinéa du présent article et à l'article R. 123-14.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°83-663 1983-07-22 ART. 100 (Code de l'urbanisme L123-4) Loi 83-630 1983-07-12
+	  - SPEC_APPLI: Décret n°85-452 1985-04-23 art. 14 : application dans le temps
+
+	**Modifié par**:
+
+	  - Décret n°85-452 1985-04-23 art. 2 JORF 24 avril 1985 en vigueur le 1er octobre 1985
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L123-7-1 (M)
+	  - Code de l'urbanisme R123-11, L123-7-1, R123-4, R123-9, R123-14
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R123-35-1-1 (Ab)
 
 
 #### Chapitre IV : Dispositions transitoires relatives aux projets d'aménagement et aux plans d'urbanisme.
@@ -27183,6 +27251,50 @@ L'acte constatant l'achèvement de la zone fait l'objet des mesures de publicit�
 	  - Décret n°2001-261 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
 
 
+#### CHAPITRE I : Zones d'aménagement concertée
+
+##### Section 2 : Réalisation des zones d'aménagement concerté
+
+###### Article R*311-12
+
+Le commissaire de la République  transmet pour avis le projet de plan d'aménagement de zone à la chambre de commerce et
+d'industrie et à la chambre de métiers intéressées. Ces établissements publics disposent d'un délai d'un mois pour faire
+connaître leurs observations éventuelles.
+
+Le projet de plan d'aménagement de zone est soumis à une enquête publique dans les formes prévues par les articles R. 11-14-1
+et suivants du code de l'expropriation pour cause d'utilité publique.
+
+L'enquête publique effectuée en application de l'alinéa précédent vaut enquête préalable à la déclaration d'utilité publique
+des opérations, acquisitions ou expropriations prévues au plan d'aménagement.
+
+Le projet de plan d'aménagement de zone et les conclusions du commissaire enquêteur ou de la commission d'enquête sont soumis
+pour avis par le commissaire de la République au conseil municipal de la commune ou à l'organe délibérant de l'établissement
+public groupant plusieurs communes et ayant compétence en matière d'urbanisme. Cette formalité n'est pas obligatoire si la
+commune ou l'établissement public de regroupement a pris l'initiative de la création de la zone et si l'avis du commissaire
+enquêteur ou de la commission d'enquête est favorable.
+
+L'avis est réputé favorable [*silence*] s'il n'est pas intervenu dans un délai de deux mois. Si le conseil municipal ou
+l'organe délibérant entend faire connaître son opposition, celle-ci doit être expressément formulée.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*318-18 (V)
+
+	**Cite**:
+
+	  - Code de l'expropriation pour cause d'utilité publique R11-4-1 et s.
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°85-452 1985-04-23 art. 4 JORF 24 avril 1985 en vigueur le 1er octobre 1985
+
+
 #### Chapitre III : Restauration immobilière et secteurs sauvegardés
 
 #####  Section 1 : Secteurs sauvegardés
@@ -27702,6 +27814,58 @@ valeur.
 
 
 ##### Sous-section 5 : Modification, révision et mise à jour du plan de sauvegarde
+
+###### Article R313-20
+
+La modification d'un plan de sauvegarde et de mise en valeur par application de l'article L. 313-1 (alinéa 4) a lieu suivant
+les modalités ci-après définies.
+
+L'initiative de la modification appartient concurremment au préfet et au maire ou, s'il existe un établissement public
+groupant plusieurs communes et ayant compétence en matière d'urbanisme, au président de cet établissement.
+
+Après avis de la commission locale du secteur sauvegardé et consultation des services publics non représentés au sein de
+cette commission, dans la mesure où ils sont concernés, le projet de modification est soumis à enquête publique selon les
+modalités définies par les chapitres I et II du décret n° 85-453 du 23 avril 1985, puis à une délibération prise par le
+conseil municipal ou, s'il existe un établissement public groupant plusieurs communes et ayant compétence en matière
+d'urbanisme, par l'organe délibérant de cet établissement. La délibération est réputée favorable [*silence*] si elle
+n'intervient pas dans le délai de trois mois.
+
+La commission nationale des secteurs sauvegardés émet un avis sur le projet de modification dans le délai de deux mois à
+compter de la réception du dossier. A défaut de réponse dans ce délai, elle est réputée favorable.
+
+La modification est approuvée par arrêté conjoint du ministre chargé de l'architecture et du ministre chargé de l'urbanisme
+en l'absence d'opposition du conseil municipal ou de l'organe délibérant de l'établissement public groupant plusieurs
+communes et ayant compétence en matière d'urbanisme ou par arrêté des mêmes ministres et du ministre de l'intérieur en cas
+d'opposition du conseil municipal ou de l'organe délibérant de l'établissement public.
+
+L'acte modifiant le plan fait l'objet des mesures de publicité mentionnées à l'article R. 313-10.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°85-452 1985-04-23 ART. 6 : application dans le temps
+
+	**Modifié par**:
+
+	  - Décret n°85-452 1985-04-23 art. 6 JORF 24 avril 1985 en vigueur du 1er octobre 1985
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*322-32 (V)
+	  - Code de l'urbanisme - art. R*322-33 (V)
+	  - Code de l'urbanisme - art. R313-7 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R313-10 (M)
+	  - Code de l'urbanisme L313-1 AL. 4
+	  - Décret n°453 1985-04-23 chapitre I, chapitre II
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
 
 ###### Article R313-20-1
 
@@ -35278,42 +35442,6 @@ ministériels intéressés.
 	  - Décret n°73-1023 1973-11-08
 
 
-###### Article R*311-12
-
-Le préfet transmet pour avis le projet de plan d'aménagement de zone à la chambre de commerce et d'industrie et à la chambre
-de métiers intéressées. Ces établissements publics disposent d'un délai d'un mois pour faire connaître leurs observations
-éventuelles.
-
-Le projet de plan d'aménagement de zone est soumis à une enquête publique dans les formes prévues par les articles R. 11-4 et
-suivants du code de l'expropriation pour cause d'utilité publique.
-
-L'enquête publique effectuée en application de l'alinéa précédent vaut enquête préalable à la déclaration d'utilité publique
-des opérations, acquisitions ou expropriations prévues au plan d'aménagement.
-
-Le projet de plan d'aménagement de zone et les conclusions du commissaire enquêteur ou de la commission d'enquête sont soumis
-pour avis par le préfet au conseil municipal de la commune ou à l'organe délibérant de l'établissement public groupant
-plusieurs communes et ayant compétence en matière d'urbanisme. Cette formalité n'est pas obligatoire si la commune ou
-l'établissement public de regroupement a pris l'initiative de la création de la zone et si l'avis du commissaire enquêteur ou
-de la commission d'enquête est favorable.
-
-L'avis est réputé favorable [*silence*] s'il n'est pas intervenu dans un délai de deux mois. Si le conseil municipal ou
-l'organe délibérant entend faire connaître son opposition, celle-ci doit être expressément formulée.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*318-18 (V)
-
-	**Cite**:
-
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-4 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ###### Article R*311-13
 
 Le préfet approuve le programme des équipements publics, après avoir :
@@ -37004,58 +37132,6 @@ prononcer dans les mêmes délais et conditions qu'à l'article précédent sur 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-
-##### Modification du plan de sauvegarde.
-
-###### Article R313-20
-
-La modification d'un plan de sauvegarde et de mise en valeur par application de l'article L. 313-1 (alinéa 4) a lieu suivant
-les modalités ci-après définies.
-
-L'initiative de la modification appartient concurremment au préfet et au maire ou, s'il existe un établissement public
-groupant plusieurs communes et ayant compétence en matière d'urbanisme, au président de cet établissement.
-
-Après avis de la commission locale du secteur sauvegardé et consultation des services publics non représentés au sein de
-cette commission, dans la mesure où ils sont concernés, le projet de modification est soumis à enquête publique, puis à une
-délibération prise par le conseil municipal ou, s'il existe un établissement  public groupant plusieurs communes et ayant
-compétence en matière d'urbanisme, par l'organe délibérant de cet établissement. La délibération est réputée favorable
-[*silence*] si elle n'intervient pas dans le délai de trois mois.
-
-La commission nationale des secteurs sauvegardés émet un avis sur le projet de modification dans le délai de deux mois à
-compter de la réception du dossier. A défaut de réponse dans ce délai, elle est réputée favorable.
-
-La modification est approuvée par arrêté conjoint du ministre chargé de l'architecture et du ministre chargé de l'urbanisme
-en l'absence d'opposition du conseil municipal ou de l'organe délibérant de l'établissement public groupant plusieurs
-communes et ayant compétence en matière d'urbanisme ou par arrêté des mêmes ministres et du ministre de l'intérieur en cas
-d'opposition du conseil municipal ou de l'organe délibérant de l'établissement public.
-
-L'acte modifiant le plan fait l'objet des mesures de publicité mentionnées à l'article R. 313-10.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°83-813 1983-09-09 ART. 11 JORF 11 SEPTEMBRE 1983 date d'entrée en vigueur 1 OCTOBRE 1983
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°83-851 du 23 septembre 1983 - art. 1 (V)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*322-32 (V)
-	  - Code de l'urbanisme - art. R*322-33 (V)
-	  - Code de l'urbanisme - art. R313-7 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R313-10 (M)
-	  - Code de l'urbanisme L313-1 AL. 4
 
 
 #### Opérations d'urbanisation.
