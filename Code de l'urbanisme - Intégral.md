@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1976-03-26
+Version Consolidée au 1976-03-27
 
 # Partie législative
 
@@ -841,6 +841,122 @@ de modification du budget, la passation des marchés, la situation juridique et 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'urbanisme R122-8
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L121-4
+
+Après consultation des organisations professionnelles, les chambres de commerce et d'industrie et les chambres de métiers
+participent à l'établissement des schémas directeurs d'aménagement et d'urbanisme.
+
+Les rapports annexes des schémas directeurs d'aménagement et d'urbanisme fixent, à titre prévisionnel, l'importance et la
+localisation des zones préférentielles d'implantation des différents équipements commerciaux et artisanaux.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°76-267 1976-03-25 JORF 27 MARS 1976 Rectificatif JORF 13 JUIN 1976
+
+	**Cité par**:
+
+	  - Loi n°2014-366 du 24 mars 2014 - art. 129 (V)
+	  - Code de commerce. - art. L711-2 (V)
+	  - Code de l'artisanat - art. 23 (VT)
+	  - Code de l'environnement - art. R333-14 (M)
+	  - Code de l'urbanisme - art. L121-6 (VT)
+	  - Code de l'urbanisme - art. L122-1-1 (Ab)
+	  - Code de l'urbanisme - art. L122-11 (VD)
+	  - Code de l'urbanisme - art. L122-14-1 (VT)
+	  - Code de l'urbanisme - art. L122-14-2 (VT)
+	  - Code de l'urbanisme - art. L122-14-3 (VT)
+	  - Code de l'urbanisme - art. L122-15 (VT)
+	  - Code de l'urbanisme - art. L122-16-1 (VT)
+	  - Code de l'urbanisme - art. L122-18 (VT)
+	  - Code de l'urbanisme - art. L122-6 (VT)
+	  - Code de l'urbanisme - art. L122-7 (V)
+	  - Code de l'urbanisme - art. L122-8 (VT)
+	  - Code de l'urbanisme - art. L123-13 (VT)
+	  - Code de l'urbanisme - art. L123-13-1 (VT)
+	  - Code de l'urbanisme - art. L123-13-2 (VT)
+	  - Code de l'urbanisme - art. L123-13-3 (VT)
+	  - Code de l'urbanisme - art. L123-14-2 (VT)
+	  - Code de l'urbanisme - art. L123-16 (VT)
+	  - Code de l'urbanisme - art. L123-6 (VT)
+	  - Code de l'urbanisme - art. L123-8 (VT)
+	  - Code de l'urbanisme - art. L141-10 (VT)
+	  - Code de l'urbanisme - art. R*122-7 (VT)
+	  - Code rural - art. L511-3 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L121-5
+
+Les études économiques nécessaires à la préparation des documents prévisionnels d'organisation commerciale et artisanale
+peuvent être réalisées à l'initiative des chambres de commerce et d'industrie et des chambres de métiers.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°76-267 1976-03-25 JORF 27 mars 1976 rectificatif JORF 13 juin 1976
+
+	**Cité par**:
+
+	  - Loi n°78-753 du 17 juillet 1978 - art. 21 (VT)
+	  - Décret n°86-1252 du 5 décembre 1986 - art. 10 (V)
+	  - Code de l'environnement - art. R581-40 (V)
+	  - Code de l'urbanisme - art. L121-6 (VT)
+	  - Code de l'urbanisme - art. L122-6-2 (M)
+	  - Code de l'urbanisme - art. L122-8 (VD)
+	  - Code de l'urbanisme - art. L123-10 (VT)
+	  - Code de l'urbanisme - art. R*121-5 (VT)
+	  - Code de l'urbanisme - art. R*122-11 (V)
+	  - Code de l'urbanisme - art. R*122-11-1 (Ab)
+	  - Code de l'urbanisme - art. R*122-11-2 (Ab)
+	  - Code de l'urbanisme - art. R*122-11-3 (Ab)
+	  - Code de l'urbanisme - art. R*122-13 (VT)
+	  - Code de l'urbanisme - art. R*122-13-1 (VT)
+	  - Code de l'urbanisme - art. R*122-13-2 (VT)
+	  - Code de l'urbanisme - art. R*122-13-3 (VT)
+	  - Code de l'urbanisme - art. R*123-21 (VT)
+	  - Code de l'urbanisme - art. R*123-21-1 (Ab)
+	  - Code de l'urbanisme - art. R*123-23 (T)
+	  - Code de l'urbanisme - art. R*123-23-1 (T)
+	  - Code de l'urbanisme - art. R*123-23-2 (T)
+	  - Code de l'urbanisme - art. R*123-23-3 (T)
+	  - Code de l'urbanisme - art. R*123-23-4 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L121-6
+
+Les chambres de commerce et d'industrie et les chambres de métiers sont associées à l'élaboration des plans d'occupation des
+sols en ce qu'ils concernent l'implantation des équipements commerciaux et artisanaux. Elles assurent les liaisons avec les
+organisations professionnelles intéressées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°76-267 1976-03-25 JORF 27 MARS 1976 Rectificatif JORF 13 JUIN 1976
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L122-9 (VD)
+	  - Code de l'urbanisme - art. L123-3 (M)
+	  - Code de l'urbanisme - art. L123-8 (M)
+	  - Code de l'urbanisme - art. R*121-6 (VT)
+	  - Code général des collectivités territoriales - art. R1614-44 (V)
 
 	**Codifié par**:
 
@@ -3799,6 +3915,37 @@ nécessaires à l'application dans les départements d'outre-mer des articles L.
 
 ###  Titre Ier : Opérations d'aménagement
 
+####  Chapitre Ier : Zones d'aménagement concerté
+
+###### Article L311-5
+
+Les chambres de commerce et d'industrie et les chambres de métiers sont associées à l'élaboration des plans d'aménagement de
+zone en ce qu'ils concernent l'implantation des équipements commerciaux et artisanaux. Elles assurent les liaisons avec les
+organisations professionnelles intéressées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L311-6
+
+Un décret en Conseil d'Etat fixe en tant que de besoin les modalités d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L311-4 (M)
+	  - Décret n°2012-1089 du 27 septembre 2012 - art. 3 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
 #### Chapitre II : Rénovation urbaine.
 
 ###### Article L312-1
@@ -5827,6 +5974,58 @@ Les conditions d'application des articles L. 318-5 et L. 318-6 sont fixées par 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
+#####  Section 3 : Dispositions particulières aux commerçants et artisans
+
+###### Article L318-8
+
+Ainsi qu'il est dit à l'article 52, alinéa 1er, de la loi n° 73-1193 du 27 décembre 1973 d'orientation du commerce et de
+l'artisanat, les commerçants et artisans dont la situation est compromise de façon irrémédiable du fait d'une opération
+d'équipement collectif engagée par une collectivité publique ou un organisme en dépendant, et en priorité, du fait d'une
+opération de rénovation urbaine, peuvent recevoir une aide pour leur reconversion lorsqu'ils ne bénéficient pas d'une
+indemnisation directe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Anciens textes**:
+
+	  - Loi n°73-1193 1973-12-27 art. 52 al. 1
+
+	**Cite**:
+
+	  - Loi n°73-1193 du 27 décembre 1973 - art. 52 (V)
+
+
+#####  Section 4 : Dispositions particulières.
+
+###### Article L318-9
+
+Ainsi qu'il est dit à l'article 22 de la loi n. 75-988 du 29 octobre 1975 relative au développement de l'éducation physique
+et du sport, un décret fixe les conditions dans lesquelles l'aménagement des zones industrielles et des zones d'habitation
+doit comprendre des équipements sportifs.
+
+Le rapport entre les espaces consacrés à l'industrie et à l'habitation d'une part, aux équipements sportifs d'autre part,
+doit être fixé en tenant compte des risques de pollution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Cite**:
+
+	  - Loi n°75-988 1975-10-29 art. 22
+
+	**Anciens textes**:
+
+	  - Loi n°75-988 1975-10-29 art. 22
+	  - Code de l'urbanisme - art. L123-12 (T)
+
+
 ### Titre II : Organismes d'exécution
 
 #### Chapitre II : Associations foncières urbaines
@@ -7264,35 +7463,6 @@ territorial//.
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
-###### Article L311-2
-
-Un décret en Conseil d'Etat fixera en tant que de besoin les modalités d'application de l'article L. 311-1.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1722 quater (V)
-	  - Code de l'urbanisme - art. L111-7 (VT)
-	  - Code de l'urbanisme - art. L213-1 (VD)
-	  - Code de l'urbanisme - art. L230-1 (V)
-	  - Code de l'urbanisme - art. L230-3 (VD)
-	  - Code de l'urbanisme - art. L424-1 (V)
-	  - Code de l'urbanisme - art. R*311-4 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L311-1 (M)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 24
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-
 #### Secteurs sauvegardés
 
 ###### Article L313-1
@@ -8235,6 +8405,39 @@ dues aux propriétaires, locataires ou occupants de ces constructions sont fixé
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'urbanisme R322-31
+
+
+#### Chambres de commerce et d'industrie et chambres des métiers
+
+###### Article L323-1
+
+Ainsi qu'il est dit à l'article 27 de la loi n. 73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat, dans
+le cadre des opérations d'urbanisme, les chambres de commerce et d'industrie ou les chambres de métiers peuvent, en accord
+avec la collectivité locale ou l'organisme constructeur, réaliser, en qualité de maître d'ouvrage, toute forme d'équipement
+commercial et artisanal répondant à des préoccupations économiques et sociales, au profit de commerçants et artisans, en vue
+de leur installation ou de la reconversion de leur activité ou de leur transfert.
+
+Elles peuvent notamment faciliter l'accès des commerçants et artisans à la propriété du fonds, et éventuellement des locaux,
+sans apport initial en capital.
+
+Les emprunts contractés par les chambres de commerce et d'industrie et les chambres de métiers pour la réalisation des
+opérations visées ci-dessus peuvent être garantis par les collectivités locales. Les chambres de commerce et d'industrie, les
+chambres de métiers et leurs assemblées permanentes peuvent contracter des emprunts auprès de la caisse des dépôts et
+consignations et de la caisse d'aide à l'équipement des collectivités locales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Cite**:
+
+	  - Loi n°73-1193 du 27 décembre 1973 - art. 27 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°73-1193 du 27 décembre 1973 - art. 27 (Ab)
 
 
 ### Dispositions financières
@@ -9847,6 +10050,34 @@ permis de construire en tient lieu s'il est revêtu du visa de l'architecte des 
 	  - Loi n°1913-12-31 art. 13 bis
 
 
+###### Article L421-7
+
+Les chambres de commerce et d'industrie et les chambres de métiers sont informées de tout projet immobilier comportant la
+construction, en une ou plusieurs tranches, de cinq cents logements ou plus, ce minimum étant ramené à deux cents pour les
+communes de moins de 30000 habitants. Elles assurent les liaisons avec les organisations professionnelles intéressées.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Cité par**:
+
+	  - Décret n°59-36 du 5 janvier 1959 - art. 9 (Ab)
+
+
 #### Chapitre III : Permis de construire à titre précaire.
 
 ###### Article L423-2
@@ -10039,6 +10270,49 @@ l'ordonnance au 1er octobre 2007.
 
 
 #####  Section 3 : Création et construction de magasins de grande surface.
+
+###### Article L451-5
+
+Ainsi qu'il est dit à l'article 29 de la loi n. 73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat :
+préalablement à l'octroi du permis de construire, s'il y a lieu, et avant réalisation, si le permis de construire n'est pas
+exigé, sont soumis pour autorisation à la commission départementale d'urbanisme commercial les projets :
+
+1. De constructions nouvelles entraînant création de magasins de commerce de détail d'une surface de plancher hors oeuvre
+supérieure à 3.000 mètres carrés, ou d'une surface de vente supérieure à 1.500 mètres carrés, les surfaces précitées étant
+ramenées, respectivement, à 2.000 et 1.000 mètres carrés dans les communes dont la population est inférieure à 40.000
+habitants ;
+
+2. D'extension de magasins ou d'augmentation des surfaces de vente des établissements commerciaux ayant déjà atteint les
+surfaces prévues au 1. ci-dessus ou devant les atteindre ou les dépasser par la réalisation du projet si celui-ci porte sur
+une surface de vente supérieure à 200 mètres carrés ;
+
+3. De transformation d'immeubles existants en établissements de commerce de détail dont la surface de plancher hors oeuvre ou
+la surface de vente est égale ou supérieure aux surfaces définies au 1. ci-dessus.
+
+Lorsque le projet subit des modifications substantielles dans la nature du commerce ou des surfaces de vente, le préfet
+saisit à nouveau la commission départementale d'urbanisme commercial qui doit alors statuer dans un délai de deux mois.
+
+L'autorisation préalable requise pour les réalisations définies au 1. ci-dessus n'est ni cessible ni transmissible.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Cite**:
+
+	  - Loi n°73-1193 1973-12-27 ART. 29
+
+	**Anciens textes**:
+
+	  - Loi n°73-1193 1973-12-27 ART. 29
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L123-1 (M)
+	  - Code de l'urbanisme - art. L451-6 (Ab)
+
 
 ###### Article L451-6
 
@@ -14176,6 +14450,34 @@ de trois ans partant de la fin de l'année au cours de laquelle ils auraient dû
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R130-16
+
+Conformément à l'article 7 du décret n. 72-289 du 17 avril 1972, la commission spéciale chargée, au sein de la mission
+interministérielle pour la protection et l'aménagement de l'espace naturel méditerranéen, de la définition du programme
+d'action et d'aménagement visant la protection et la reconstitution des massifs boisés est saisie, pour avis,
+[*attributions*] de tout projet d'aliénation, de concession ou de location à long terme d'espaces naturels boisés ou non
+appartenant à l'Etat, aux établissements publics ou aux collectivités locales, de tout projet de déboisement de forêts
+appartenant à l'Etat, à des collectivités locales ou à des particuliers.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. R*130-7 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R130-24 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Décret n°72-289 du 17 avril 1972 - art. 7 (V)
 
 
 ### Dispositions spéciales à certaines parties du territoire
@@ -19687,6 +19989,223 @@ du 21 juin 1865 et à celles des sous-sections I à IV de la présente section.
 	  - Décret n°73-1023 1973-11-08
 
 
+#####  Section 1 : Dispositions générales
+
+###### Article R*322-3
+
+Au projet d'acte d'association soumis à l'enquête, prévu à l'article 6 du décret du 18 décembre 1927, doivent être joints :
+
+1. L'engagement souscrit par une personne publique ou privée d'acquérir les immeubles ou, en cas d'immeubles en copropriété,
+les fractions de ces immeubles qui auront fait l'objet d'un délaissement à moins que le projet d'acte d'association ne
+prévoie que l'association y sera engagée ;
+
+2. L'avis du maire sur le principe de l'opération envisagée.
+
+Lorsqu'un des immeubles compris dans le périmètre envisagé est régi par la loi n. 65-557 du 10 juillet 1965 fixant le statut
+de la copropriété des immeubles bâtis, la notification prévue à l'article 7 du décret du 18 décembre 1927 est faite à chacun
+des copropriétaires.
+
+Lorsqu'un immeuble compris dans le périmètre envisagé est en indivision, l'ensemble des indivisaires est compté pour un seul
+propriétaire.
+
+L'autorisation préfectorale prévue à l'article 11 du décret du 18 décembre 1927 est subordonnée aux conditions de majorité
+prescrites à l'article L. 322-3.
+
+//DECR.0863 ART. 19 : l'acte constitutif de l'association est publié au fichier immobilier dans les conditions et délais
+prévus par les décrets n. 55-22 du 4 janvier 1955 et 55-1350 du 14 octobre 1955// .
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°1927-12-18 ART. 6, 7 ET 11
+	  - Décret n°55-22 1955-01-04
+	  - Décret n°55-1350 1955-10-14
+	  - Loi n°65-557 1965-07-10
+	  - Code de l'urbanisme - art. L322-3 (M)
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-02-26 ART. 3
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*322-25 (V)
+	  - Code de l'urbanisme - art. R*322-31 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme R322-31
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*322-4
+
+A moins que sa nomination ne résulte de l'acte d'association, le conseil des syndics d'une association autorisée nomme un
+directeur [*attributions*] qui, sous la surveillance du président :
+
+Exécute les décisions du conseil des syndics et de l'assemblée générale ;
+
+Prépare le budget et le compte administratif des opérations de l'association ;
+
+Assure le paiement des dépenses.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-02-26 ART. 4
+
+	**Abrogé par**:
+
+	  - Décret n°86-517 du 14 mars 1986 - art. 30 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+
+
+#####  Section 2 : Dispositions concernant les associations foncières urbaines de remembrement
+
+##### Paragraphe 2 : Redistribution parcellaire et fixation de l'état nouveau
+
+###### Article R*322-12
+
+La juridiction de l'expropriation est saisie par les intéressés par lettre recommandée avec demande d'avis de réception
+adressée au secrétariat de la juridiction. Les requérants doivent simultanément adresser une copie de cette lettre au
+président de l'association qui dispose alors d'un délai de quinze jours pour transmettre au juge le projet de remembrement.
+
+Il est ensuite procédé comme en matière d'expropriation. Les réclamations des intéressés et la décision motivée du conseil
+des syndics sont soumises aux mêmes règles de procédure que les demandes, offres et mémoires prévus au chapitre III du décret
+n° 859-1335 du 20 novembre 1959.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°59-1335 1959-11-20
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-02-26 ART. 12
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*322-28-2 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme R322-26
+
+
+###### Article R*322-16
+
+Avant l'intervention de l'arrêté préfectoral prévu à l'article R. 322-17, le président de l'association se conforme aux
+dispositions prises en application de l'article 29 du décret n° 55-1350 du 14 octobre 1955 modifié pour assurer la
+concordance du cadastre et du fichier immobilier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 29 (V)
+	  - Code de l'urbanisme - art. R*322-17 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-02-26 ART. 16
+
+
+##### Dispositions concernant les associations foncières urbaines de remembrement
+
+#####  Section 2 : Redistribution parcellaire et fixation de l'état nouveau
+
+###### Article R*322-11
+
+A l'issue de l'enquête, le préfet renvoie le dossier au président de l'association et porte à sa connaissance les
+observations présentées.
+
+Si le conseil des syndics ne peut donner satisfaction aux intéressés, le président transmet l'ensemble du dossier avec ses
+propositions au président de la commission consultative prévue à l'article L. 322-6.
+
+Cette commission entend, une fois au moins, les intéressés qui en font la demande, ainsi que le président et le directeur de
+l'association.
+
+Dans les deux mois de sa saisine [*délai*], elle donne son avis motivé au président de l'association.
+
+La décision motivée, prise consécutivement à cet avis par le conseil des syndics, est, ainsi que ledit avis, notifiée aux
+intéressés par lettre recommandée avec demande d'avis de réception [*condition de forme*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-02-26 ART. 11
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L322-6 (M)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*322-14 (V)
+	  - Code de l'urbanisme - art. R*322-28-2 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme R322-26
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+#####  Section 4 : Commission consultative.
+
+###### Article R322-34
+
+Dès la création dans le département de la première association foncière urbaine ayant pour objet le remembrement ou le
+groupement de parcelles conformément aux articles L. 322-1 à L. 322-10 susvisé, la commission consultative prévue à l'article
+L. 322-6 est constituée à l'initiative du préfet.
+
+Elle comprend [*composition*] :
+
+un juge de l'expropriation, président ;
+
+Un notaire ;
+
+Un géomètre-expert ;
+
+Le directeur des services fiscaux du département ou son représentant ;
+
+Le directeur départemental de l'équipement ou son représentant.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme L322-1 à L322-10
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Anciens textes**:
+
+	  - Décret n°74-204 1974-02-26 ART. 1
+
+
 ### Titre III : Dispositions financières
 
 #### CHAPITRE I : Fonds national d'aménagement foncier et d'urbanisme (F.N.A.F.U.)
@@ -24057,6 +24576,454 @@ supérieure.
 	  - Code de l'urbanisme 78-1
 
 
+#### Associations foncières urbaines
+
+##### Dispositions concernant les associations foncières urbaines de remembrement
+
+##### Redistribution parcellaire et fixation de l'état nouveau.
+
+###### Article R*322-8
+
+Le projet de remembrement est établi dans l'intérêt commun eu égard aux possibilités d'utilisation du sol à l'intérieur du
+périmètre de remembrement.
+
+Les documents d'urbanisme indiquant ces possibilités d'utilisation du sol ainsi éventuellement que les disciplines
+d'architecture à respecter par les constructeurs doivent être tenus à la disposition des associés au secrétariat de
+l'association.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-02-26 ART. 8
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*322-17 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*322-10
+
+L'enquête publique prévue à l'article L. 322-6 a lieu dans les formes prévues par le titre II du décret n. 59-701 du 6 juin
+1959.
+
+Le dossier mis à l'enquête comporte au moins [*contenu*] :
+
+1° Le plan et l'état parcellaires avant remembrement désignant les immeubles, conformément à l'article 7 du décret n° 55-22
+du 4 janvier 1955 modifié avec l'indication des charges, servitudes et autres droits réels grevant les parcelles et les
+bâtiments ;
+
+2° Une notice rappelant les dispositions des articles L. 322-6 et R. 322-9 ;
+
+3° Une notice sur le mode d'évaluation des valeurs des parcelles avant remembrement ;
+
+4° Un état des valeurs des parcelles avant remembrement et des quotes-parts de ces valeurs en cas de copropriété ;
+
+5° Un état des constructions à démolir ;
+
+6° Le plan et l'état parcellaires après remembrement désignant les immeubles conformément à l'article 7 du décret n° 55-22 du
+4 janvier 1955 modifié avec l'indication des charges, servitudes et autres droits réels à maintenir, reporter ou instituer ;
+
+7° Une notice sur le mode d'évaluation des valeurs des parcelles après remembrement ;
+
+8° Un état des valeurs des parcelles après remembrement ou des quotes-parts de ces valeurs en cas de copropriété ;
+
+9° Le tableau comparatif par propriétaires avant et après remembrement des valeurs respectives des parcelles ou des quotes-
+parts de ces valeurs en cas de copropriété, avec l'indication des soultes ;
+
+10° Un état des terrains faisant l'objet avant remembrement d'une affectation à des usages publics et un état des terrains à
+affecter après remembrement à ces mêmes usages ;
+
+11° Un état des dépenses faites ou à faire comprenant, le cas échéant, le coût d'acquisition et de démolition des bâtiments
+ou ouvrages dont la destruction est indispensable au remembrement et les propositions d'indemnisation en ce qui concerne les
+droits réels et personnels éteints en application de l'article L. 322-6.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°55-22 du 4 janvier 1955 - art. 7 (M)
+	  - Décret n°59-701 1959-06-06 TITRE II
+	  - Code de l'urbanisme - art. L322-6 (M)
+	  - Code de l'urbanisme R322-9
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-02-26 ART. 10
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*322-14 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme R322-14
+
+
+###### Article R*322-14
+
+Le conseil des syndics peut décider de scinder l'instruction du projet de remembrement en deux étapes de manière que la
+fixation définitive des valeurs des parcelles anciennes puisse intervenir avant la mise à l'enquête du projet de
+redistribution parcellaire.
+
+Dans ce cas, il saisit le préfet aux fins d'ouverture d'une première enquête sur la fixation des valeurs des parcelles
+anciennes. Le dossier mis à l'enquête comporte [*contenu*] les pièces énumérées aux 1° à 5° et 11° de l'article R. 322-10.
+
+La seconde enquête porte sur la redistribution parcellaire et les valeurs des nouvelles parcelles. Elle est ouverte lorsque
+les valeurs des parcelles anciennes ont fait l'objet de décisions définitives. Le dossier mis à l'enquête comporte les pièces
+énumérées aux 6° à 10° de l'article R. 322-10.
+
+En cas d'observations formulées au cours de l'une ou de l'autre de ces enquêtes, il est procédé comme il est dit aux articles
+R. 322-11 à R. 322-13.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme R322-12
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-03-26 ART. 14
+
+
+###### Article R*322-15
+
+Le plan de remembrement [*définition*] arrêté par le conseil des syndics après rectification, le cas échéant, en exécution de
+décisions judiciaires devenues définitives, comprend [*contenu*] :
+
+1° Les plans et états parcellaires nouveaux désignant les immeubles conformément à l'article 7 du décret n. 55-22 du 4
+janvier 1955 modifié et indiquant le cas échéant les bâtiments ou ouvrages à conserver ;
+
+2° Un tableau pour chaque propriétaire des parcelles ou quotes-parts de parcelles avant et après remembrement, avec
+l'indication des soultes ; dans le cas où des créanciers hypothécaires ou privilégiés ont été révélés avant la clôture de
+l'enquête ce tableau doit faire apparaître les concordances nécessaires à l'application de l'article R. 322-9 ;
+
+3° Le cas échéant, un état des droits réels qui seront éteints par l'arrêté préfectoral prévu à l'article R. 322-17 moyennant
+indemnité due par l'association ;
+
+4° Le cas échéant, un état des droits réels, à l'exception des privilèges et hypothèques, reportés ou attribués sur les
+parcelles après remembrement ;
+
+5° Le cas échéant, un état des bâtiments ou ouvrages, d'une part, à conserver, d'autre part, restant à détruire par
+l'association.
+
+Le tableau et les états mentionnés aux 2° à 5° ci-dessus sont, en vue de la publicité foncière, soumis à des règles de forme
+précisées à l'article R. 322-20.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°55-22 du 4 janvier 1955 - art. 7 (M)
+	  - Code de l'urbanisme R322-9
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-02-26 ART. 15
+
+	**Créé par**:
+
+	  - Décret n°76-267 1976-03-25 JORF 27 MARS 1976 rectificatif JORF 1976-06-13
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*322-17 (V)
+	  - Code de l'urbanisme - art. R*322-20 (VD)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme R322-20
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*322-17
+
+Le plan de remembrement défini à l'article R. 322-15 est envoyé au préfet qui, dans les huit jours, le transmet au maire en
+vue de recueillir son avis motivé. Faute d'être parvenu au préfet dans le délai d'un mois, cet avis est réputé [*silence*]
+favorable.
+
+Le préfet, par arrêté :
+
+Approuve le plan de remembrement de l'association foncière urbaine, qui demeure annexé à l'arrêté ;
+
+Prononce les transferts et attributions de propriété ainsi que les reports et attributions de droits réels qui résultent de
+ce plan ;
+
+Prononce la clôture des opérations de remembrement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-02-26 ART. 17
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*322-15 (V)
+	  - Code de l'urbanisme - art. R*322-16 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme R322-15
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+##### Redistribution parcellaire et fixation et l'état nouveau.
+
+###### Article R*322-18
+
+L'arrêté préfectoral est remis sur émargement au président de l'association le jour même de sa signature en vue des mesures
+de publicité foncière prévues au paragraphe III de la présente sous-section.
+
+Il est, en outre, publié au Recueil des actes administratifs et, pendant un délai de deux mois à compter de cette
+publication, toute personne intéressée peut prendre connaissance du plan de remembrement approuvé qui est déposé en mairie.
+
+Le président de l'association notifie, par lettre recommandée avec demande d'avis de réception [*condition de forme*], aux
+titulaires de droits réels autres que les créanciers hypothécaires ou privilégiés l'extrait du plan de remembrement approuvé
+par le préfet qui les concerne.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-02-26 ART. 18
+
+	**Cite**:
+
+	  - Code de l'urbanisme R322-22
+
+
+##### Mesures de publicité foncière.
+
+###### Article R*322-20
+
+A la date de clôture des opérations de remembrement et nonobstant tout recours juridictionnel, le président de l'association
+requiert le conservateur des hypothèques de publier l'arrêté préfectoral qui prononce les transferts et attributions de
+propriété et les reports et attributions de droits réels.
+
+A cet effet, il dépose, outre une copie, trois expéditions certifiées exactement collationnées, dont l'une est établie sur
+une formule du modèle arrêté par le directeur général des impôts et le directeur de l'aménagement foncier et de l'urbanisme,
+de l'arrêté ainsi que du tableau et des états prévus aux 2° et 5° de l'article R. 322-15 annexés audit arrêté.
+
+La désignation des immeubles est faite conformément à l'article 7 du décret n. 55-22 du 4 janvier 1955 modifié.
+
+La désignation des propriétaires et des autres titulaires de droits réels est faite conformément aux articles 5 et 6 du
+décret n. 55-22 du 4 janvier 1955 modifié et certifiée dans les conditions prévues aux articles 38, 81 et 82 du décret n.
+55-1350 du 14 octobre 1955 modifié sous peine de refus de dépôt.
+
+Pour assurer le renouvellement de la publicité prévu à l'article L. 322-6 l'énumération des droits réels reportés est
+complétée sous la même sanction, par l'indication des actes ou décisions judiciaires qui leur ont donné naissance, avec les
+références (date, volume, numéro) des formalités exécutées à la conservation des hypothèques.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°55-22 1955-01-04 ART. 7, 6 ET 5
+	  - Décret n°55-22 du 4 janvier 1955 - art. 7 (M)
+	  - Décret n°55-1350 1955-10-14 ART. 38, 81 ET 82
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 38 (M)
+	  - Code de l'urbanisme - art. L322-6 (M)
+	  - Code de l'urbanisme R322-15
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-02-26 ART. 20
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*322-15 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+##### Dispositions concernant les associations foncières urbaines de groupement de parcelles
+
+##### Dispositions générales.
+
+###### Article R*322-25
+
+Le groupement de parcelles doit être réalisé dans l'intérêt commun eu égard aux possibilités d'utilisation du sol à
+l'intérieur du périmètre de l'opération.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-02-26 ART. 26
+
+
+##### Dispositions applicables en cas de bail à construction.
+
+###### Article R*322-27
+
+Le projet d'acte d'association soumis à l'enquête prévue à l'article 6 du décret du 18 décembre 1927 doit préciser les
+pouvoirs conférés à l'association pour la passation du bail à construction et son exécution, notamment dans le cas prévue à
+l'article 5 de la loi n. 64-1247 du 16 décembre 1964.
+
+A ce projet doivent être joints [*contenu*], en sus des pièces mentionnées à l'article 10 de la loi du 21 juin 1865 et à
+l'article R. 322-3 :
+
+Une notice décrivant les principales caractéristiques du ou des immeubles dont la construction est envisagée ;
+
+Le certificat d'urbanisme délivré en application de l'article L. 410-1 (b) ;
+
+Le projet de bail à construction ;
+
+Une notice sur le mode d'évaluation des parcelles avant groupement ;
+
+Le cas échéant, le projet d'état descriptif de division portant répartition des différents lots et fixant la quote-part des
+parties communes afférentes à chaque lot et le projet de règlement de copropriété ;
+
+Le cas échéant, une notice sur les constructions à démolir par l'association foncière urbaine en application de l'article
+L.322-6.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret  1927-12-18 ART. 6
+	  - Loi n°64-1247 1964-12-16 ART. 5
+	  - Code de l'urbanisme - art. L322-6 (M)
+	  - Code de l'urbanisme - art. L410-1 (M)
+	  - Code de l'urbanisme R322-3
+	  - Loi n°1865-06-21 ART. 10
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-02-26 ART. 28
+
+
+###### Article R*322-28
+
+S'il est stipulé dans le bail à construction un loyer périodique payable en espèces, l'association le répartit entre ses
+membres au prorata des valeurs des parcelles avant groupement.
+
+Par dérogation, le cas échéant, à l'article 23 du décret n. 62-1587 du 29 décembre 1962 sur la comptabilité publique, il peut
+y avoir compensation dans les mains du receveur, pour chaque associé, entre les charges lui incombant et la quote-part des
+recettes lui revenant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Décret n°62-1587 du 29 décembre 1962 - art. 23 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-02-26 ART. 29
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*322-28-1 (V)
+
+
+##### Dispositions applicables en cas d'apport.
+
+###### Article R*322-30
+
+Dans le cas de groupement de parcelles pour en faire apport à une société constituée en vue de l'attribution d'immeubles aux
+associés par fractions divises, à une société coopérative de construction ou à une société d'économie mixte de construction
+régie par le décret n. 60-553 du 1er juin 1960, le projet d'acte d'association soumis à l'enquête, prévu à l'article 6 du
+décret du 18 décembre 1927, doit préciser les pouvoirs conférés à l'association pour représenter les associés en vue de la
+réalisation du transfert de propriété par apport à la société.
+
+A ce projet, doivent être joints [*contenu*], en sus des pièces mentionnées à l'article 10 de la loi du 21 juin 1865 et à
+l'article R. 322-3 :
+
+Une notice décrivant les principales caractéristiques du ou des immeubles dont la construction est envisagée par la société
+au profit de laquelle l'apport doit être réalisé ;
+
+Le certificat d'urbanisme délivré en application de l'article L. 410-1 (b) ;
+
+Les statuts de la société qui bénéficiera de l'apport ;
+
+Le contrat de promotion immobilière conforme aux dispositions du titre IV de la loi n. 71-579 du 16 juillet 1971 modifiée ;
+
+Une notice sur le mode d'évaluation des parcelles avant groupement ;
+
+Une notice précisant les conditions de rémunération de l'apport par l'attribution aux membres de l'association de parts ou
+d'actions de la société, évaluant les lots auxquels ces parts donnent vocation et indiquant les conditions d'attribution des
+locaux correspondants dans l'immeuble à construire ;
+
+Le cas échéant, une notice sur les constructions à démolir par l'association foncière urbaine en application de l'article L.
+322-6.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°1927-12-18 ART. 6
+	  - Décret n°60-553 1960-06-01
+	  - Loi n°71-579 1971-07-16 TITRE IV
+	  - Code de l'urbanisme - art. L322-6 (M)
+	  - Code de l'urbanisme - art. L410-1 (M)
+	  - Code de l'urbanisme R322-3
+	  - Loi n°1865-06-21 ART. 10
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-02-26 ART. 31
+
+
+##### Commission consultative.
+
+###### Article R322-37
+
+L'arrêté du préfet portant constitution de la commission est publié au recueil des actes administratifs du département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Anciens textes**:
+
+	  - Décret n°74-204 1974-02-26 ART. 4
+
+
 #### Sociétés civiles foncières.
 
 ###### Article R322-41
@@ -24961,7 +25928,107 @@ l'article 61 du décret n° 59-1335 du 20 novembre 1959 modifié.
 	  - Décret n°86-517 du 14 mars 1986 - art. 53 () JORF 16 mars 1986 en vigueur le 1er juillet 1986
 
 
+## LIVRE III : Aménagement foncier TITRE II : Organismes d'exécution
+
+### CHAPITRE II : Associations foncières urbaines
+
+####  Section 2 : Dispositions concernant les associations foncières urbaines de remembrement constituées d'office.
+
+###### Article R*322-23
+
+Lorsqu'il peut être fait application de l'article L. 322-4 (1.) le projet d'arrêté préfectoral portant constitution d'office
+d'une association foncière urbaine est joint au dossier d'enquête [*contenu*] sur la constitution de l'association autorisée
+en vue de recueillir les observations éventuelles des intéressés.
+
+A ce projet, qui comporte les indications mentionnées à l'article 74 du décret du 18 décembre 1927, sont joints :
+
+Une notice explicative justifiant l'application de l'article L. 322-4 (1.) accompagnée, le cas échéant, des extraits du plan
+d'urbanisme ou du plan d'occupation des sols et du règlement d'urbanisme applicables ;
+
+Une estimation du coût de l'opération.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L322-4 (M)
+	  - Décret  1927-12-18 ART. 74
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-02-26 ART. 23
+
+
 ## Aménagement foncier Organismes d'exécution
+
+### Associations foncières urbaines
+
+#### Dispositions concernant les associations foncières urbaines de groupement de parcelles
+
+##### Dispositions générales.
+
+###### Article R*322-26
+
+Avant la passation du bail à construction ou la réalisation de l'apport, l'association foncière urbaine doit évaluer
+définitivement les valeurs des parcelles avant groupement pour fixer les droits de chaque associé dans l'indivision. En cas
+de difficultés, le conseil des syndics transmet l'ensemble du dossier avec ses propositions au président de la commission
+consultative prévue à l'article L. 322-6. Il est ensuite procédé comme il est dit aux articles R. 322-11 à R. 322-13.
+
+Le président de l'association requiert le conservateur des hypothèques de publier la convention d'indivision immobilière,
+modifiée le cas échéant en exécution des décisions judiciaires devenues définitives.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-02-26 ART. 27
+
+	**Créé par**:
+
+	  - Décret n°76-267 1976-03-25 JORF 27 MARS 1976 rectificatif JORF 1976-06-13
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L322-6 (M)
+	  - Code de l'urbanisme R322-13
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*322-28-2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+##### Dispositions applicables en cas de bail à construction.
+
+###### Article R*322-29
+
+L'association foncière urbaine ne peut être dissoute avant le terme du bail à construction et, lorsque le bail prévoit que
+les associés deviendront propriétaires en fin de bail des constructions édifiées, avant l'adoption définitive de l'état
+descriptif de division et du règlement de copropriété dont le président de l'association doit assurer la publication
+conformément aux dispositions du décret n. 55-22 du 4 janvier 1955 et du décret n. 55-1350 du 14 octobre 1955.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°55-22 1955-01-04
+	  - Décret n°55-1350 1955-10-14
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-02-26 ART. 30
+
 
 ### Sociétés civiles foncières.
 
@@ -27870,25 +28937,24 @@ compétente*].
 
 ###### Article R421-57
 
-Les dispositions de la section I du présent chapitre prises pour l'application de l'article L. 421-2 [*délivrance permis de
-construire*] ne peuvent être modifiées que par un règlement d'administration publique pris sur le rapport du ministre chargé
-de l'urbanisme et après avis des ministres désignés à l'article R. 110-25 dans la mesure où leur département est intéressé.
+Conformément aux dispositions de l'article 3 du décret n. 60-1161 du 2 novembre 1960, le directeur départemental de
+l'équipement peut soumettre pour avis au délégué régional au tourisme les demandes de permis de construire, en raison de leur
+intérêt au point de vue touristique ou des atteintes que l'attribution de ces permis pourrait porter à l'intégrité du
+patrimoine touristique.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L421-2 (M)
-	  - Code de l'urbanisme - art. R110-25 (T)
-	  - Code de l'urbanisme - art. R111-25 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. R421-58 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Décret n°60-1161 du 2 novembre 1960 - art. 3 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°83-1261 1983-12-30 ART. 40 II JORF 7 JANVIER 1984 date d'entrée en vigueur 1 AVRIL 1984
 
 
 #### Régime spécial
