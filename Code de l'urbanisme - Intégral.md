@@ -1,59 +1,7 @@
 # Code de l'urbanisme  
-Version Consolidée au 1987-06-02
+Version Consolidée au 1987-07-23
 
 # Partie législative
-
-## Règles générales d'aménagement et d'urbanisme
-
-### Prévisions et règles d'urbanisme
-
-#### Dispositions générales communes aux schémas directeurs et aux plans d'occupation des sols.
-
-###### Article L121-10
-
-Les documents d'urbanisme déterminent les conditions permettant, d'une part, de limiter l'utilisation de l'espace, de
-préserver les activités agricoles, de protéger les espaces forestiers, les sites et les paysages et, d'autre part, de prévoir
-suffisamment de zones réservées aux activités économiques et d'intérêt général, et de terrains constructibles pour la
-satisfaction des besoins présents et futurs en matière de logement.
-
-Les dispositions du présent article valent loi d'aménagement et d'urbanisme au sens de l'article L. 111-1-1 du présent code.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°83-663 du 22 juillet 1983 - art. 90 () JORF 23 JUILLET 1983
-
-	**Cité par**:
-
-	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 5 (V)
-	  - Ordonnance n°2005-868 du 28 juillet 2005 - art. 5 (V)
-	  - Code de l'environnement - art. L122-4 (VT)
-	  - Code de l'environnement - art. L123-2 (VT)
-	  - Code de l'environnement - art. R414-19 (V)
-	  - Code de l'urbanisme - art. L121-11 (VT)
-	  - Code de l'urbanisme - art. L121-12 (VT)
-	  - Code de l'urbanisme - art. L121-13 (VT)
-	  - Code de l'urbanisme - art. L123-12-2 (Ab)
-	  - Code de l'urbanisme - art. L123-13-1 (VD)
-	  - Code de l'urbanisme - art. L123-19 (M)
-	  - Code de l'urbanisme - art. L710-5 (VT)
-	  - Code de l'urbanisme - art. R*121-16 (VT)
-	  - Code de l'urbanisme - art. R*122-25 (M)
-	  - Code de l'urbanisme - art. R*123-17 (M)
-	  - Code de l'urbanisme - art. R*123-2-1 (VT)
-	  - Code général des collectivités territoriales - art. L4424-13 (VD)
-	  - Code général des collectivités territoriales - art. L4424-14 (V)
-	  - Code général des collectivités territoriales - art. L4433-7 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L111-1-1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
 
 ## Livre Ier : Règles générales d'aménagement et d'urbanisme
 
@@ -63,9 +11,9 @@ Les dispositions du présent article valent loi d'aménagement et d'urbanisme au
 
 Le territoire français est le patrimoine commun de la nation. Chaque collectivité publique en est le gestionnaire et le
 garant dans le cadre de ses compétences. Afin d'aménager le cadre de vie, de gérer le sol de façon économe, d'assurer la
-protection des milieux naturels et des paysages et de promouvoir l'équilibre entre les populations résidant dans les zones
-urbaines et rurales, les collectivités publiques harmonisent, dans le respect réciproque de leur autonomie, leurs prévisions
-et leurs décisions d'utilisation de l'espace.
+protection des milieux naturels et des paysages de prévenir les risques naturels prévisibles et les risques technologiques et
+de promouvoir l'équilibre entre les populations résidant dans les zones urbaines et rurales, les collectivités publiques
+harmonisent, dans le respect réciproque de leur autonomie, leurs prévisions et leurs décisions d'utilisation de l'espace.
 
 **Liens relatifs à cet article**
 
@@ -74,13 +22,13 @@ et leurs décisions d'utilisation de l'espace.
 	  - Loi n°83-8 1983-01-07 ART. 35, ART. 39, ART. 2
 	  - Loi n°83-663 1983-07-22
 
-	**Créé par**:
-
-	  - Loi n°83-8 du 7 janvier 1983 - art. 35 () JORF 9 JANVIER 1983
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+
+	**Modifié par**:
+
+	  - Loi n°87-565 du 22 juillet 1987 - art. 22 () JORF 23 juillet 1987
 
 	**Cité par**:
 
@@ -1743,6 +1691,53 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
+###### Article L121-10
+
+Les documents d'urbanisme déterminent les conditions permettant, d'une part, de limiter l'utilisation de l'espace, de
+préserver les activités agricoles, de protéger les espaces forestiers, les sites et les paysages, de prévenir les risques
+naturels prévisibles et les risques technologiques et, d'autre part, de prévoir suffisamment de zones réservées aux activités
+économiques et d'intérêt général, et de terrains constructibles pour la satisfaction des besoins présents et futurs en
+matière de logement.
+
+Les dispositions du présent article valent loi d'aménagement et d'urbanisme au sens de l'article L. 111-1-1 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°87-565 du 22 juillet 1987 - art. 22 () JORF 23 juillet 1987
+
+	**Cité par**:
+
+	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 5 (V)
+	  - Ordonnance n°2005-868 du 28 juillet 2005 - art. 5 (V)
+	  - Code de l'environnement - art. L122-4 (VT)
+	  - Code de l'environnement - art. L123-2 (VT)
+	  - Code de l'environnement - art. R414-19 (V)
+	  - Code de l'urbanisme - art. L121-11 (VT)
+	  - Code de l'urbanisme - art. L121-12 (VT)
+	  - Code de l'urbanisme - art. L121-13 (VT)
+	  - Code de l'urbanisme - art. L123-12-2 (Ab)
+	  - Code de l'urbanisme - art. L123-13-1 (VD)
+	  - Code de l'urbanisme - art. L123-19 (M)
+	  - Code de l'urbanisme - art. L710-5 (VT)
+	  - Code de l'urbanisme - art. R*121-16 (VT)
+	  - Code de l'urbanisme - art. R*122-25 (M)
+	  - Code de l'urbanisme - art. R*123-17 (M)
+	  - Code de l'urbanisme - art. R*123-2-1 (VT)
+	  - Code général des collectivités territoriales - art. L4424-13 (VD)
+	  - Code général des collectivités territoriales - art. L4424-14 (V)
+	  - Code général des collectivités territoriales - art. L4433-7 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L111-1-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
 ###### Article L121-12
 
 Des décrets en Conseil d'Etat précisent la nature des projets d'intérêt général visés aux articles L. 122-1-1, L. 122-1-3, L.
@@ -1793,6 +1788,60 @@ la liste des opérations d'intérêt national visées aux articles L. 111-1-2 et
 
 
 #### Chapitre II : Schémas directeurs.
+
+###### Article L122-1
+
+Les schémas directeurs [*contenu*] fixent les orientations fondamentales de l'aménagement des territoires intéressés, compte
+tenu de l'équilibre qu'il convient de préserver entre l'extension urbaine, l'exercice des activités agricoles, des autres
+activités économiques et la préservation des sites naturels. Ils prennent en considération l'existence de risques naturels
+prévisibles et de risques technologiques.    Les schémas directeurs prennent en compte les programmes de l'Etat ainsi que
+ceux des collectivités locales et des établissements et services publics, notamment ceux qui résultent de chartes
+intercommunales. Ils les orientent et les harmonisent pour l'organisation de l'espace.
+
+Ils déterminent la destination générale des sols, et, en tant que de besoin, la nature et le tracé des grands équipements
+d'infrastructure, en particulier de transport, la localisation des services et activités les plus importants ainsi que les
+zones préférentielles d'extension et de rénovation.
+
+Pour leur exécution, ils peuvent être complétés en certaines de leurs parties par des schémas de secteur qui en détaillent et
+précisent le contenu.
+
+Les programmes et les décisions administratives qui les concernent doivent être compatibles avec leurs dispositions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Cité par**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 57 (VT)
+	  - Décret n°84-617 du 17 juillet 1984 - art. 17 (Ab)
+	  - Décret n°84-617 du 17 juillet 1984 - art. 25 (Ab)
+	  - Loi n°95-115 du 4 février 1995 - art. 22 (M)
+	  - Décret n°2000-909 du 19 septembre 2000 - art. 4 (V)
+	  - Décret n°2002-1369 du 20 novembre 2002 - art. 1 (Ab)
+	  - Code du cinéma et de l'image animée - art. L212-12 (V)
+	  - Décret n°2015-986 du 31 juillet 2015 - art. 1 (V)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L24-1 (V)
+	  - Code de commerce. - art. R751-18 (V)
+	  - Code de commerce. - art. R751-20 (V)
+	  - Code de l'environnement - art. L555-16 (VD)
+	  - Code de l'environnement - art. R333-13 (V)
+	  - Code de l'urbanisme - art. L112-2 (M)
+	  - Code de l'urbanisme - art. L122-13 (VT)
+	  - Code de l'urbanisme - art. L122-16 (VT)
+	  - Code de l'urbanisme - art. L122-8 (V)
+	  - Code de l'urbanisme - art. L122-8-1 (V)
+	  - Code de l'urbanisme - art. L150-1 (VT)
+	  - Code de l'urbanisme - art. R*122-1 (V)
+	  - Code de l'urbanisme - art. R*122-2 (V)
+	  - Code de l'urbanisme - art. R*122-5 (V)
+
+	**Modifié par**:
+
+	  - Loi n°87-565 du 22 juillet 1987 - art. 22 () JORF 23 juillet 1987
+
 
 ###### Article L122-1-1
 
@@ -2296,10 +2345,10 @@ construire.
 
 A cette fin, ils doivent :
 
-1° délimiter des zones urbaines en prenant notamment en considération la valeur agronomique des sols ainsi que les structures
-agricoles et l'existence de zones de terrain produisant des denrées de qualité supérieure et des zones comportant des
-équipements spéciaux importants et déterminer des zones d'affectation des sols selon l'usage principal qui doit en être fait
-ou la nature des activités dominantes qui peuvent y être exercées ;
+1° Délimiter des zones urbaines ou à urbaniser en prenant notamment en considération la valeur agronomique des sols, les
+structures agricoles, les terrains produisant des denrées de qualité supérieure, l'existence de risques naturels prévisibles
+et de risques technologiques, la présence d'équipements spéciaux importants et déterminer des zones d'affectation des sols
+selon l'usage principal qui doit en être fait ou la nature des activités dominantes qui peuvent y être exercées ; ".
 
 2° définir, en fonction des situations locales, les règles concernant le droit d'implanter des constructions, leur
 destination et leur nature. 
@@ -2423,15 +2472,13 @@ orientations définies par les chartes intercommunales.
 	  - Code du tourisme. - art. L342-18 (V)
 	  - Code du tourisme. - art. L342-23 (V)
 
-	**Cite**:
-
-	  - Loi n°83-8 1983-01-07 ART. 48
-	  - Loi n°83-663 1983-07-22
-	  - Code de l'urbanisme - art. L111-1-1 (M)
-
 	**Modifié par**:
 
-	  - Loi n°85-30 1985-01-09 art. 52-I JORF 10 janvier 1985
+	  - Loi n°87-565 du 22 juillet 1987 - art. 22 () JORF 23 juillet 1987
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L111-1-1 (M)
 
 	**Codifié par**:
 
@@ -2905,23 +2952,26 @@ opérations intéressant les périmètres  définis à l'article précédent. Le
 
 ###### Article L123-7-1
 
-Après mise en demeure de la commune ou de l'établissement public de coopération intercommunale non suivie d'effet dans les
-six mois, le représentant de l'Etat peut prescrire et approuver, après avis du conseil municipal ou de l'organe délibérant de
-l'établissement public et enquête publique, la révision ou la modification du plan d'occupation des sols afin que celui-ci
-soit compatible avec les prescriptions nouvelles prises en application de l'article L. 111-1-1 ou avec les orientations d'un
-schéma directeur ou d'un schéma de secteur, approuvé ou arrêté postérieurement à l'approbation du plan, ou pour permettre la
-réalisation d'un nouveau projet d'intérêt général relevant de l'Etat, de la région, du département ou d'autres intervenants
-et correspondant aux définitions prises en application de l'article L. 121-12.
+Lorsqu'un plan d'occupation des sols doit être révisé ou modifié pour être rendu compatible avec les prescriptions nouvelles
+prises en application de l'article L. 111-1-1 ou avec les orientations d'un schéma directeur ou d'un schéma de secteur,
+approuvé ou arrêté postérieurement à l'approbation du plan, ou pour permettre la réalisation d'un nouveau projet d'intérêt
+général, le représentant de l'Etat en informe la commune ou l'établissement public de coopération intercommunale.
+
+Dans un délai d'un mois, la commune ou l'établissement public fait connaître au représentant de l'Etat s'il entend opérer la
+révision ou la modification nécessaire. Dans la négative ou à défaut de réponse dans ce délai, le représentant de l'Etat peut
+engager et approuver, après avis du conseil municipal ou de l'organe délibérant de l'établissement public et enquête
+publique, la révision ou la modification du plan. Il en est de même si l'intention exprimée de la commune ou de
+l'établissement public de procéder à la révision ou à la modification n'est pas suivie, dans un délai de six mois à compter
+de la notification initiale du représentant de l'Etat, d'une délibération approuvant le projet correspondant.
+
+Lorsqu'un plan d'occupation des sols a été rendu public, le représentant de l'Etat peut mettre en demeure le maire ou le
+président de l'établissement public de coopération intercommunale de rendre publiques de nouvelles dispositions du plan pour
+permettre la réalisation d'un nouveau projet d'intérêt général. Si ces dispositions n'ont pas été rendues publiques dans un
+délai de trois mois à compter de cette demande par le maire ou le président de l'établissement public, après avis du conseil
+municipal ou de l'organe délibérant de l'établissement public, le représentant de l'Etat peut se substituer à l'autorité
+compétente et les rendre publiques.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Créé par**:
-
-	  - Loi n°83-8 du 7 janvier 1983 - art. 53 () JORF 9 JANVIER 1983
 
 	**Liens**:
 
@@ -2938,9 +2988,17 @@ et correspondant aux définitions prises en application de l'article L. 121-12.
 	  - Code de l'urbanisme - art. R123-35-1 (Ab)
 	  - Code de l'urbanisme - art. R123-35-1-1 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°87-565 du 22 juillet 1987 - art. 26 () JORF 23 juillet 1987
+
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L111-1-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L123-8
@@ -6803,72 +6861,6 @@ intercommunal d'études et de programmation est dissous.
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-
-### Schémas directeurs d'aménagement et d'urbanisme
-
-###### Article L122-1
-
-Les schémas directeurs [*contenu*] fixent les orientations fondamentales de l'aménagement des territoires intéressés, compte
-tenu de l'équilibre qu'il convient de préserver entre l'extension urbaine, l'exercice des activités agricoles, des autres
-activités économiques et la préservation des sites naturels.
-
-Les schémas directeurs prennent en compte les programmes de l'Etat ainsi que ceux des collectivités locales et des
-établissements et services publics, notamment ceux qui résultent de chartes intercommunales. Ils les orientent et les
-harmonisent pour l'organisation de l'espace.
-
-Ils déterminent la destination générale des sols, et, en tant que de besoin, la nature et le tracé des grands équipements
-d'infrastructure, en particulier de transport, la localisation des services et activités les plus importants ainsi que les
-zones préférentielles d'extension et de rénovation.
-
-Pour leur exécution, ils peuvent être complétés en certaines de leurs parties par des schémas de secteur qui en détaillent et
-précisent le contenu.
-
-Les programmes et les décisions administratives qui les concernent doivent être compatibles avec leurs dispositions.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Cite**:
-
-	  - Loi n°83-8 1983-01-07 ART. 41
-	  - Loi n°83-663 1983-07-22
-
-	**Modifié par**:
-
-	  - Loi n°83-8 du 7 janvier 1983 - art. 75 ()
-
-	**Cité par**:
-
-	  - Loi n°83-8 du 7 janvier 1983 - art. 57 (VT)
-	  - Décret n°84-617 du 17 juillet 1984 - art. 17 (Ab)
-	  - Décret n°84-617 du 17 juillet 1984 - art. 25 (Ab)
-	  - Loi n°95-115 du 4 février 1995 - art. 22 (M)
-	  - Décret n°2000-909 du 19 septembre 2000 - art. 4 (V)
-	  - Décret n°2002-1369 du 20 novembre 2002 - art. 1 (Ab)
-	  - Code du cinéma et de l'image animée - art. L212-12 (V)
-	  - Décret n°2015-986 du 31 juillet 2015 - art. 1 (V)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L24-1 (V)
-	  - Code de commerce. - art. R751-18 (V)
-	  - Code de commerce. - art. R751-20 (V)
-	  - Code de l'environnement - art. L555-16 (VD)
-	  - Code de l'environnement - art. R333-13 (V)
-	  - Code de l'urbanisme - art. L112-2 (M)
-	  - Code de l'urbanisme - art. L122-13 (VT)
-	  - Code de l'urbanisme - art. L122-16 (VT)
-	  - Code de l'urbanisme - art. L122-8 (V)
-	  - Code de l'urbanisme - art. L122-8-1 (V)
-	  - Code de l'urbanisme - art. L150-1 (VT)
-	  - Code de l'urbanisme - art. R*122-1 (V)
-	  - Code de l'urbanisme - art. R*122-2 (V)
-	  - Code de l'urbanisme - art. R*122-5 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°83-851 1983-09-23
 
 
 ## Livre II : Préemption et réserves foncières
@@ -14237,41 +14229,6 @@ confie.
 	  - SPEC_APPLI: Code de l'urbanisme - art. L421-2-7 (M)
 
 
-###### Article L421-8
-
-En dehors des zones couvertes par un plan d'occupation des sols rendu public ou approuvé, le préfet [*autorité compétente*]
-peut, par arrêté pris dans des conditions fixées par décret en Conseil d'Etat, délimiter un périmètre à l'intérieur duquel
-l'exécution de travaux de la nature de ceux visés à l'article L. 421-1 est soumise à des règles particulières rendues
-nécessaires par l'existence d'installations classées.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Ordonnance n°58-1132 du 25 novembre 1958 - art. 8 bis (Ab)
-	  - Ordonnance n°58-1332 du 23 décembre 1958 - art. 8 bis (Ab)
-	  - Loi n°70-1324 du 31 décembre 1970 - art. 4 bis (Ab)
-	  - Loi n°76-663 du 19 juillet 1976 - art. 14 (Ab)
-	  - Arrêté du 11 août 1983 - art. ANNEXE ART. 2 (V)
-	  - Arrêté du 11 août 1983 - art. ANNEXE ART. 28 (V)
-	  - Code de l'environnement - art. L514-6 (M)
-	  - Code de l'urbanisme - art. L480-14 (V)
-	  - Code de l'urbanisme - art. R*421-52 (Ab)
-	  - Code minier - art. *104-3 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L421-1 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L421-1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-
 ## Livre IV : Règles relatives à l'acte de construire et à divers modes d'utilisation du sol
 
 ### Titre I : Certificat d'urbanisme.
@@ -15151,6 +15108,49 @@ l'ordonnance au 1er octobre 2007.
 	**Cité par**:
 
 	  - Décret n°59-36 du 5 janvier 1959 - art. 9 (Ab)
+
+
+###### Article L421-8
+
+En dehors des zones couvertes par un plan d'occupation des sols rendu public ou approuvé, le préfet [*autorité compétente*]
+peut, par arrêté pris dans des conditions fixées par décret en Conseil d'Etat, délimiter un périmètre à l'intérieur duquel
+l'exécution de travaux de la nature de ceux visés à l'article L. 421-1 est soumise à des règles particulières rendues
+nécessaires par l'existence d'installations classées.
+
+Ces dispositions ne sont pas applicables aux installations classées bénéficiant de l'application des articles 7-1 à 7-4 de la
+loi n° 76-663 du 19 juillet 1976 relative aux installations classées pour la protection de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°58-1132 du 25 novembre 1958 - art. 8 bis (Ab)
+	  - Ordonnance n°58-1332 du 23 décembre 1958 - art. 8 bis (Ab)
+	  - Loi n°70-1324 du 31 décembre 1970 - art. 4 bis (Ab)
+	  - Loi n°76-663 du 19 juillet 1976 - art. 14 (Ab)
+	  - Arrêté du 11 août 1983 - art. ANNEXE ART. 2 (V)
+	  - Arrêté du 11 août 1983 - art. ANNEXE ART. 28 (V)
+	  - Code de l'environnement - art. L514-6 (M)
+	  - Code de l'urbanisme - art. L480-14 (V)
+	  - Code de l'urbanisme - art. R*421-52 (Ab)
+	  - Code minier - art. *104-3 (M)
+
+	**Cite**:
+
+	  - Loi n°76-663 1976-07-19 art. 7-1 à 7-4
+	  - Code de l'urbanisme - art. L421-1 (M)
+
+	**Modifié par**:
+
+	  - Loi n°87-565 du 22 juillet 1987 - art. 24 () JORF 23 juillet 1987
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L421-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L421-9
@@ -46183,36 +46183,6 @@ dans le domaine de la protection de la nature et de l'environnement et de l'amé
 
 ## Livre  II : Préemption et réserves foncières
 
-### TITRE Ier : DROIT DE PREEMPTION
-
-#### Chapitre  II : Zones d'aménagement différé
-
-###### Article A212-1
-
-Les demandes formulées en application des articles L. 212-3 et R. 212-4 doivent être établies conformément au modèle annexé à
-l'article A. 213-1.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1987-05-11 art. 2 JORF 2 juin 1987
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A212-3 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. A213-1 (V)
-	  - Code de l'urbanisme - art. L212-3 (V)
-	  - Code de l'urbanisme - art. R212-4 (V)
-
-
 ### Titre  Ier : Droits de préemption
 
 #### Chapitre  Ier : Droit de préemption urbain
@@ -46244,6 +46214,32 @@ l'article A. 213-1.
 
 
 #### Chapitre  II : Zones d'aménagement différé
+
+###### Article A212-1
+
+Les demandes formulées en application des articles L. 212-3 et R. 212-4 doivent être établies conformément au modèle annexé à
+l'article A. 213-1.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1987-05-11 art. 2 JORF 2 juin 1987
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. A212-3 (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. A213-1 (V)
+	  - Code de l'urbanisme - art. L212-3 (V)
+	  - Code de l'urbanisme - art. R212-4 (V)
+
 
 #### Chapitre  III : Dispositions communes au droit de préemption urbain et aux zones d'aménagement différé
 
