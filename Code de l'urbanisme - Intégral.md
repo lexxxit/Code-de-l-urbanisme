@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1983-10-01
+Version Consolidée au 1983-10-16
 
 # Partie législative
 
@@ -16655,6 +16655,30 @@ populations intéressées.
 	  - Décret n°83-812 1983-09-09 ART. 1, ART. 4 JORF 11 SEPTEMBRE 1983 date d'entrée en vigueur  16 OCTOBRE 1983
 
 
+###### Article R*122-19
+
+Les modalités de fonctionnement de la commission [*locale d'aménagement et d'urbanisme*] sont fixées par arrêté du
+commissaire de la République chargé de conduire la procédure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°83-812 1983-09-09 ART. 1, ART. 4 JORF 11 SEPTEMBRE 1983 date d'entrée en vigueur  16 OCTOBRE 1983
+
+	**Abrogé par**:
+
+	  - Décret n°95-955 1995-09-05 art. 4 JORF 7 septembre 1995
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°83-8 1983-01-07 ART. 42 (Code de l'urbanisme L122-1-1)
+
+
 ###### Article R*122-20
 
 Le projet de schéma directeur ou de schéma de secteur [*élaboration*] est communiqué par le commissaire de la République à
@@ -16842,10 +16866,6 @@ d) Les grands travaux d'équipement.
 
 	  - Code de l'urbanisme R122-20
 
-
-#### CHAPITRE II : Schémas directeurs d'aménagement et d'urbanisme
-
-#####  Section 3 : Etablissement des schémas directeurs et des schémas de secteur décidé par l'Etat.
 
 #### Chapitre III : Plans d'occupation des sols
 
@@ -19133,231 +19153,6 @@ raison de la suspension de la servitude ou de la modification de son tracé ou d
 
 ### Prévisions et règles d'urbanisme
 
-#### Schémas directeurs d'aménagement et d'urbanisme
-
-##### Etablissement des schémas directeurs et des schémas de secteurs.
-
-###### Article R*122-2
-
-Toute agglomération de plus de 10000 [*nombre*] habitants doit [*obligation*] faire l'objet d'un schéma directeur ou être
-incluse dans un tel schéma [*champ d'application*].
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R300-17 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°69-551 1969-05-28 ART. 2
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°83-812 1983-09-09 ART. 2 JORF 11 SEPTEMBRE 1983 date d'entrée en vigueur 1 OCTOBRE 1983
-
-
-##### Contenu des schémas directeurs et des schémas de secteur.
-
-###### Article R*122-5
-
-Un schéma directeur d'aménagement et d'urbanisme se compose d'un rapport et de documents graphiques.
-
-I. - Le rapport présente :
-
-a) L'analyse de la situation existante et les principales perspectives du développement démographique et économique du
-territoire considéré, compte tenu de ses relations avec les territoires avoisinants ;
-
-b) Le parti d'aménagement adopté et sa justification, compte tenu, notamment, des perspectives visées au a ci-dessus, de
-l'équilibre qu'il convient de préserver entre le développement urbain et l'aménagement rural et de l'utilisation optimale des
-grands équipements existants ou prévus ;
-
-c) L'indication des principales phases de réalisation du parti retenu.:
-
-//DECRET 1141 :
-
-d) L'analyse de l'état initial de l'environnement et la mesure dans laquelle le schéma prend en compte le souci de sa
-préservation//.
-
-II. - Les documents graphiques font apparaître :
-
-La destination générale des sols ;
-
-Les zones d'extension des agglomérations ainsi que les secteurs de restructuration et de rénovation ;
-
-Les principaux espaces libres ou boisés à maintenir ou à créer ;
-
-Les principaux sites urbains ou naturels à protéger ;
-
-La localisation des principales activités et des équipements publics ou d'intérêt général les plus importants ;
-
-L'organisation générale de la circulation et des transports avec le tracé des principales infrastructures de voirie et, le
-cas échéant, de moyens de transport en site propre ;
-
-Les éléments essentiels des réseaux d'eau et d'assainissement ainsi que du système d'élimination des déchets ;
-
-Eventuellement, les périmètres des zones devant faire l'objet de schémas de secteur.
-
-L'un des documents fait ressortir les éléments essentiels de la première phase de réalisation du parti d'aménagement.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme R122-25
-
-	**Anciens textes**:
-
-	  - Décret n°69-551 1969-05-28 ART. 5
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*122-6
-
-Le schéma de secteur, établi dans le cadre des orientations fixées par le schéma directeur, se compose de documents
-graphiques qui précisent et détaillent, pour le secteur considéré, tout ou partie des éléments mentionnés à l'article R.
-122-5-II et d'un rapport qui justifie ces dispositions.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*141-3 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme R122-26
-
-	**Cite**:
-
-	  - Code de l'urbanisme R122-5 II
-
-	**Anciens textes**:
-
-	  - Décret n°69-551 1969-05-28 ART. 6
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-##### Procédure d'élaboration et d'approbation des schémas
-
-##### Schémas directeurs.
-
-###### Article R*122-8
-
-Le schéma directeur d'aménagement et d'urbanisme est élaboré conjointement par les services de l'Etat et les communes
-intéressées ou, le cas échéant, les établissements publics [*syndicat de communes, district urbain, communauté urbaine*]
-groupant lesdites communes et ayant compétence en matière d'urbanisme.
-
-A cette fin :
-
-Le préfet [*attributions*] chargé de conduire la procédure constitue une commission comprenant [*composition*] des
-représentants élus des communes ou établissements publics susvisés et des représentants des services de l'Etat. Lorsque, en
-raison de leur nombre, les communes ne peuvent être toutes représentées directement au sein de cette commission, celles
-d'entre elles qui ne le sont pas sont réunies en un ou plusieurs groupes pour désigner leurs représentants à la commission
-[*mixte*] ;
-
-Le préfet définit, en accord avec les représentants des communes ou des établissements publics susvisés, les modalités de
-participation de leurs services à l'élaboration du schéma directeur.
-
-Dans le cas où l'élaboration du schéma directeur est confiée à un établissement public d'études et de recherches créé en
-application de l'article L. 121-3, le conseil d'administration de cet établissement est représenté au sein de la commission.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-551 1969-05-28 ART. 8
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°83-812 1983-09-09 ART. 3 JORF 11 SEPTEMBRE 1983 date d'entrée en vigueur 1 OCTOBRE 1983
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L121-3 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme R122-17
-
-
-###### Article R*122-12
-
-Le projet de schéma directeur d'aménagement et d'urbanisme est communiqué par le préfet à ceux des services publics non
-représentés au sein de la commission [*mixte*] prévue à l'article R. 122-8 qu'il y a lieu de consulter sur le projet. Ils
-sont appelés à donner leur avis dans un délai de deux mois à compter [*point de départ*] du jour où ils ont été saisis.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°83-812 1983-09-09 ART. 3 JORF 11 SEPTEMBRE 1983 date d'entrée en vigueur 1 OCTOBRE 1983
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*122-13 (V)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme R122-18
-
-	**Cite**:
-
-	  - Code de l'urbanisme R122-8
-
-	**Anciens textes**:
-
-	  - Décret n°69-551 1969-05-28 ART. 12
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*122-15
-
-Le schéma directeur d'aménagement et d'urbanisme approuvé est tenu à la disposition du public [*publicité*] à la préfecture,
-à la direction départementale de l'équipement ainsi que dans les mairies des communes intéressées ou au siège des
-établissements publics [*syndicat de communes, district urbain, communauté urbaine*] groupant les communes et ayant
-compétence en matière d'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°83-812 1983-09-09 ART. 4 JORF 11 SEPTEMBRE 1983 date d'entrée en vigueur 1 OCTOBRE 1983
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*122-14 (VT)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme R122-18
-
-	**Anciens textes**:
-
-	  - Décret n°69-551 1969-05-28 ART. 15
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 #### Schémas directeurs
 
 ##### Etablissement des schémas directeurs et des schémas de secteur par des établissements publics de coopération intercommunale.
@@ -19474,84 +19269,6 @@ Un arrêté du ministre chargé de l'urbanisme détermine la légende des docume
 
 
 #### Plans d'occupation des sols
-
-##### Instruction du plan d'occupation des sols.
-
-###### Article R*123-4
-
-Le plan d'occupation des sols est élaboré conjointement par les services de l'Etat et les communes intéressées ou, le cas
-échéant, les établissements publics [*syndicat de communes, district urbain, communauté urbaine*] groupant lesdites communes
-et ayant compétence en matière d'urbanisme.
-
-A cette fin, le préfet sous l'autorité [*compétente*] duquel est conduite la procédure constitue un groupe de travail
-comprenant [*composition*] des représentants élus des communes ou établissements publics intéressés et des représentants des
-services de l'Etat. Le préfet définit, en accord avec les représentants des communes ou des établissements publics, les
-modalités de participation de leurs services à l'élaboration du plan d'occupation des sols.
-
-//DECR.0736 : Sont associés, avec voix consultative, aux travaux du groupe, le ou les représentants désignés par la chambre
-de commerce et d'industrie et la chambre des métiers. Il en est de même du ou des représentants de la chambre d'agriculture,
-lorsque celle-ci en a fait la demande au préfet. Il ne peut y avoir plus de deux [*nombre*] représentants par établissement
-public.
-
-Le groupe de travail entend, sur sa demande, le président d'une association [*locale d'usagers*] agréée en application de
-l'article L. 121-8 ou son représentant. Il peut décider d'entendre toute personne qualifiée.//    Chacun des chefs de service
-de l'Etat, membre du groupe de travail, présente à ce dernier un rapport particulier relatif aux problèmes et aux équipements
-de sa compétence ainsi que, le cas échéant, les annexes correspondantes mentionnées à l'article R. 123-24.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1016 1970-10-28 ART. 4 I
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°83-813 1983-09-09 ART. 2 JORF 11 SEPTEMBRE 1983 date d'entrée en vigueur 1 OCTOBRE 1983
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L121-8 (M)
-	  - Code de l'urbanisme R123-24
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R313-4 (M)
-
-
-###### Article R*123-7
-
-Lorsque les avis mentionnés aux articles R. 123-5 et R. 123-6 ont été recueillis ou sont réputés acquis, le plan
-éventuellement modifié pour tenir compte de ces avis est rendu public [*publicité*] par le préfet [*autorité compétente*].
-Toutefois, le ministre chargé de l'urbanisme peut décider d'évoquer l'affaire pour prendre cette décision.
-
-//DECR.0736 : Cette publication comporte en annexe les avis émis en application de l'article R. 123-6.//
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1016 1970-10-28 ART. 7
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*123-21-1 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R123-6
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°83-813 1983-09-09 ART. 2 JORF 11 SEPTEMBRE 1983 date d'entrée en vigueur 1 OCTOBRE 1983
-
 
 ##### Contenu du plan d'occupation des sols.
 
@@ -22986,42 +22703,6 @@ e) De transfert de propriété opéré dans le cadre d'une opération de remembr
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-
-## Règles générales d'aménagement et d'urbanisme Prévisions et règles d'urbanisme
-
-### Schémas directeurs d'aménagement et d'urbanisme
-
-#### Procédure d'élaboration et d'approbation des schémas
-
-##### Schémas de secteur.
-
-###### Article R*122-19
-
-Les schémas de secteur sont approuvés :
-
-a) Par décret en Conseil d'Etat, pris sur le rapport du ministre chargé de l'urbanisme, du ministre chargé de l'équipement,
-du ministre de l'intérieur et du ministre des transports, dans les cas énumérés à l'article L. 122-3.
-
-b) Par le préfet dans les autres cas.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-551 1969-05-28 ART. 19
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°83-812 1983-09-09 ART. 4 JORF 11 SEPTEMBRE 1983 date d'entrée en vigueur 1 OCTOBRE 1983
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L122-3 (M)
 
 
 ## Liste des servitudes d'utilité publique affectant l'utilisation du sol
@@ -34096,126 +33777,6 @@ répondre aux conditions susvisées.
 
 #### Secteurs sauvegardes
 
-##### Instruction du plan de sauvegarde et de mise en valeur.
-
-###### Article R313-5
-
-L'instruction du plan de sauvegarde et de mise en valeur est conduite sous l'autorité du préfet. Un architecte chargé de
-proposer un plan de sauvegarde et de mise en valeur est désigné, après agrément conjoint du ministre chargé de l'architecture
-et du ministre chargé de l'urbanisme, par le maire ou, s'il existe un établissement public groupant plusieurs communes et
-ayant compétence en matière d'urbanisme par le président de cet établissement ; à défaut de décision du maire ou du président
-de l'établissement public, l'architecte est désigné par le préfet.
-
-Le projet élaboré par l'architecte est soumis à une commission locale du secteur sauvegardé constituée par arrêté du préfet
-et qui comprend [*composition*] des représentants élus des communes ou établissements publics intéressés et des représentants
-de l'Etat. Sont associés aux travaux de cette commission l'architecte chargé du plan et des personnes qualifiées en matière
-de sauvegarde et de mise en valeur des quartiers anciens.
-
-Les dispositions de l'article R. 123-4 (alinéas 3 et 4) sont applicables aux travaux de la commission locale du secteur
-sauvegardé.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L313-2 (M)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R313-4 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R123-4 AL. 3 et 4
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R313-6
-
-Le projet de plan est communiqué par le préfet à ceux des services de l'Etat qui ne sont pas représentés au sein de la
-commission locale du secteur sauvegardé et qu'il y a lieu de consulter sur le projet, selon les modalités fixées par
-l'article R. 123-5.
-
-Les associations [*locales d'usagers*] agréées en application de l'article L. 121-8 sont consultées sur le plan dans les
-conditions définies à l'article R. 123-5-1.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L121-8 (M)
-	  - Code de l'urbanisme R123-5-1
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R313-16 (M)
-	  - Code de l'urbanisme - art. R313-18 (M)
-	  - Code de l'urbanisme - art. R313-4 (M)
-	  - Code de l'urbanisme - art. R313-9 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-8 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R313-7
-
-Le projet de plan élaboré dans les conditions prévues aux articles précédents est soumis par le préfet à la délibération du
-conseil municipal de la commune intéressée ou, s'il existe un établissement public groupant plusieurs communes et ayant
-compétence en matière d'urbanisme, de l'organe délibérant de cet établissement, selon les modalités définies à l'article R.
-123-6.
-
-Après avoir été soumis à l'avis de la commission nationale des secteurs sauvegardés, le plan est rendu public par arrêté du
-préfet. Toutefois, le ministre chargé de l'urbanisme et le ministre chargé de l'architecture peuvent décider d'évoquer
-l'affaire pour prendre cette décision.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*313-14 (M)
-	  - Code de l'urbanisme - art. R*313-8 (M)
-	  - Code de l'urbanisme - art. R313-18 (M)
-	  - Code de l'urbanisme - art. R313-4 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R123-6
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-##### Instructions du plan de sauvegarde et de mise en valeur.
-
-###### Article R313-10
-
-L'acte rendant public ou approuvant un plan de sauvegarde et de mise en valeur fait l'objet des mesures de publicité et
-d'information du public mentionnées aux articles R. 123-12 et 123-13.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R313-20 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R123-13
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ##### Effets du plan de sauvegarde et de mise en valeur
 
 ##### Mesures applicables entre la délimitation du secteur sauvegarde et la publication du plan de sauvegarde et de mise en valeur.
@@ -34245,24 +33806,6 @@ l'autorisation [*tacite*] est réputée accordée.
 
 	  - Code de l'urbanisme - art. R313-12 (M)
 	  - Code de l'urbanisme - art. R313-17-1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-##### Mise à jour du plan de sauvegarde.
-
-###### Article R313-20-2
-
-Le plan de sauvegarde et de mise en valeur est tenu à jour dans les conditions définies à l'article R. 123-36. Toutefois, les
-dispositions du b de cet article ne sont pas applicables.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme R123-36
 
 	**Codifié par**:
 
