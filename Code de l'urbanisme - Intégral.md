@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1985-01-10
+Version Consolidée au 1985-01-15
 
 # Partie législative
 
@@ -45838,43 +45838,6 @@ code du domaine public fluvial et de la navigation intérieure et des textes pri
 
 ### Dispositions administratives générales.
 
-###### Article R*510-1
-
-Dans la zone comprenant la région parisienne, telle qu'elle est définie par la loi n. 64-707 du 10 juillet 1964 ainsi que
-dans les communes du département de l'Oise appartenant aux cantons de Creil, Neuilly-en-Thelle, Pont-Sainte-Maxence, Senlis
-et Nanteuil-le-Haudoin sont soumis à agrément toute opération entreprise par une personne physique ou morale tendant à la
-construction, la reconstruction ou l'extension des locaux ou installations ou de leurs annexes mentionnés aux articles R.
-510-5 et R. 510-6 ainsi que tout changement d'utilisateur ou d'utilisation desdits locaux [*usage administratif,industriel,
-technique, scientifique, scolaire, universitaire, culturel, social, militaire, professionnel, commercial*].
-
-Les opérations visées à l'alinéa 1er du présent article sont soumises à agrément quelle que soit l'affectation des locaux
-existants et indépendamment de la qualité de leur propriétaire et quelles que soient les conditions juridiques de
-l'utilisation. Les transferts à titre gratuit sont exclus du champ d'application du présent titre.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°64-707 1964-07-10
-	  - Code de l'urbanisme R510-5
-
-	**Anciens textes**:
-
-	  - Décret n°67-944 1967-10-24 ART. 1
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*510-2 (VD)
-	  - Code de l'urbanisme - art. R*510-5 (V)
-	  - Code de l'urbanisme - art. R*510-9 (V)
-	  - Code du cinéma et de l'image animée - art. R212-8 (V)
-	  - Code du cinéma et de l'image animée - art. R212-9 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ###### Article R*510-2
 
 L'agrément institué à l'article R. 510-1 [*Région parisienne*] est accordé ou refusé :
@@ -45896,147 +45859,6 @@ autres cas.
 	**Cite**:
 
 	  - Code de l'urbanisme R510-1
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*510-4
-
-Sont notamment compris dans le champ d'application du présent titre [*agrément Région Parisienne*] les services et
-établissements qui relèvent de l'Etat ou d'une collectivité publique ou qui sont soumis à leur contrôle, et en particulier
-les établissements publics à caractère industriel et commercial, les entreprises nationalisées et les sociétés d'économie
-mixte dans lesquelles l'Etat ou une collectivité publique possède la majorité du capital social, les organismes soumis au
-contrôle de la commission de vérification des comptes des entreprises publiques ainsi que ceux visés par le décret n. 51-583
-du 19 mai 1951 portant transfert à la Cour des comptes de certaines attributions de la commission de vérification des comptes
-des entreprises publiques.
-
-Toutefois, les opérations entreprises par les collectivités locales sur leur territoire pour les besoins de leurs propres
-services publics sont exclues du champ d'application du présent titre.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°51-583 1951-05-19
-
-	**Anciens textes**:
-
-	  - Décret n°67-944 1967-10-24 ART. 4
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*510-1 (V)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme R510-6
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*510-5
-
-Pour les services ou établissements [*Région Parisienne Etat, collectivité publique*] soumis aux dispositions du présent
-titre en vertu de l'article R. 510-4, les locaux ou installations faisant l'objet d'opérations dont la réalisation est
-soumise à agrément sont :
-
-1. Les locaux ou installations à usage administratif, industriel, technique, scientifique, scolaire, universitaire, culturel,
-social ou militaire y compris les locaux affectés à la recherche ;
-
-2. Les bureaux à usage administratif, militaire, professionnel, commercial, technique, scientifique, universitaire, culturel
-ou social ;
-
-3. Les installations à usage d'entrepôt ;
-
-4. Les locaux de toute nature, construits en annexe des installations et locaux mentionnés au 1, 2, 3 ci-dessus, y compris
-les locaux de magasinage, de bureau, de garage pour les véhicules de service ou d'exploitation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-944 1967-10-24 ART. 5
-
-	**Abrogé par**:
-
-	  - decret 85-47 1985-01-14 art. 3 jorf 15 janvier 1985
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*510-15 (V)
-	  - Code de l'urbanisme - art. R*510-2 (VD)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R510-4
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme R510-7
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*510-6
-
-1. Les locaux ou installations, ainsi que leurs annexes de toute nature à usage industriel, technique, scientifique et
-notamment ceux affectés à la recherche au sens de l'article R. 520-1 du présent code      Toutefois, l'opération envisagée
-n'est soumise à agrément que si elle porte sur une superficie développée de plancher supérieure à 1 500 mètres carrés ou si
-elle doit conduire l'utilisateur à disposer à l'intérieur de la zone définie à l'article R. 510-1 et pour les usages
-susmentionnés, d'une superficie développée de planchers supérieure à 1 500 mètres carrés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-944 1967-10-24 ART. 6
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*510-1 (V)
-	  - Code du cinéma et de l'image animée - art. R212-8 (V)
-	  - Code du cinéma et de l'image animée - art. R212-9 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R510-4
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme R510-7
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*510-7
-
-L'agrément n'est pas exigé pour les locaux à caractère social affectés à l'usage collectif du personnel, notamment pour les
-cantines, vestiaires, installations sanitaires, services médicaux [*Région parisienne*].
-
-Les locaux de cette catégorie ne peuvent sans agrément être utilisés pour l'un des usages indiqués aux articles R. 510-5 et
-R. 510-6.
-
-Nonobstant les dispositions du premier alinéa du présent article, l'agrément est exigé pour les locaux d'internat à usage
-scolaire, pour les résidences universitaires, ainsi que pour toutes les opérations financées sur fonds publics intéressant le
-logement des étudiants.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-944 1967-10-24 ART. 7
-
-	**Cite**:
-
-	  - Code de l'urbanisme R510-5
 
 	**Codifié par**:
 
@@ -46427,6 +46249,48 @@ d'activités de Melun et de Meaux, délimités par un trait rouge sur les plans 
 
 ### Titre Ier : Dispositions administratives générales
 
+###### Article R*510-1
+
+Dans la région Ile-de-France, telle qu'elle est définie par la loi n. 76-394 du 6 mai 1976, sont soumis à agrément, sous
+réserve des exceptions prévues aux articles R. 510-4, R. 510-6 et R. 510-7, toute opération entreprise par toute personne
+physique ou morale de droit public ou de droit privé tendant à la construction, la reconstruction, la réhabilitation ou
+l'extension de tous locaux ou installations servant à des activités industrielles, commerciales, professionnelles,
+administratives, techniques, scientifiques ou d'enseignement ainsi que tout changement d'utilisateur ou d'utilisation desdits
+locaux.
+
+Les opérations visées à l'alinéa 1er du présent article sont soumises à agrément quelle que soit l'affectation des locaux
+existants et indépendamment de la qualité de leur propriétaire et quelles que soient les conditions juridiques de
+l'utilisation. Les transferts à titre gratuit sont exclus du champ d'application du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°64-707 1964-07-10
+	  - Loi n°76-394 1976-05-06
+	  - Code de l'urbanisme R510-6
+
+	**Anciens textes**:
+
+	  - Décret n°67-944 1967-10-24 ART. 1
+
+	**Modifié par**:
+
+	  - Décret n°85-47 1985-01-14 art. 1 JORF 15 janvier 1985
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*510-2 (VD)
+	  - Code de l'urbanisme - art. R*510-5 (V)
+	  - Code de l'urbanisme - art. R*510-9 (V)
+	  - Code du cinéma et de l'image animée - art. R212-8 (V)
+	  - Code du cinéma et de l'image animée - art. R212-9 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ###### Article R*510-3
 
 Le comité de décentralisation [*Région parisienne*] institué à l'article R. 510-2 est composé de quinze membres au moins,
@@ -46452,6 +46316,118 @@ chargé de l'urbanisme.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*510-4
+
+Les opérations entreprises par les collectivités locales sur leur territoire pour les besoins de leurs propres services
+publics sont exclues du champ d'application du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-944 1967-10-24 ART. 4
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°85-47 1985-01-14 art. 2 JORF 15 janvier 1985
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*510-1 (V)
+
+
+###### Article R*510-6
+
+Ne sont pas soumises à l'agrément prévu à l'article R. 510-1, pour les personnes physiques ou morales autres que l'Etat et
+ses établissements publics à caractère administratif, les opérations répondant à l'une des hypothèses suivantes :
+
+1° Lorsqu'elles sont réalisées dans les agglomérations nouvelles délimitées en application de la loi n° 83-636 du 13 juillet
+1983 portant modification du statut des agglomérations nouvelles, ou dans les communes situées à l'intérieur du périmètre
+d'un établissement public d'aménagement de ville nouvelle et ayant passé convention avec l'Etat en application de l'article
+10 de la même loi ;
+
+2° Lorsqu'elles ont trait à la construction d'ensembles de bureaux non affectés destinés à la vente ou à la location, ainsi
+qu'à la reconstruction ou à la réhabilitation de bureaux sans extension de surface ;
+
+3° Lorsqu'elles portent sur des surfaces affectées à des magasins de vente, sous réserve des dispositions du 5° ci-après ;
+
+4° Lorsqu'elles portent sur des locaux ou installations, ainsi que leurs annexes de toute nature à usage industriel,
+technique, scientifique et notamment ceux affectés à la recherche au sens de l'article 520-1 du présent code et que ces
+locaux ou installations ont une superficie développée de plancher inférieure à 3000 m2 ou que l'extension envisagée ajoutée,
+le cas échéant, aux opérations réalisées, sans qu'un agrément fût nécessaire, au cours des douze mois précédents, n'excède
+pas cette superficie.
+
+5° Lorsqu'elles portent sur des locaux d'enseignement supérieur et des bureaux à usage commercial, professionnel,
+administratif, technique ou scientifique et leurs annexes de toute nature, distincts de ceux visés au 4° ci-dessus, et que
+ces locaux ont une superficie de planchers inférieure à 2000 m2 ou que l'extension envisagée ajoutée, le cas échéant, aux
+opérations réalisées, sans qu'un agrément fût nécessaire, au cours des douze mois précédents, n'excède pas cette superficie ;
+
+6° Lorsqu'elles ont trait à des installations à usage d'entrepôt, si elles portent sur une superficie développée de plancher
+inférieur à 5000 m2 et qu'elles ne conduisent pas l'exploitant ou l'utilisateur à disposer à l'intérieur de la zone définie à
+l'article R. 510-1 d'une superficie de plancher supérieure au total à 5000 m2.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-944 1967-10-24 ART. 6
+
+	**Cite**:
+
+	  - Loi n°83-636 du 13 juillet 1983 - art. 10 (Ab)
+	  - Code de l'urbanisme R510-4
+
+	**Modifié par**:
+
+	  - Décret n°85-47 1985-01-14 art. 4 JORF 15 janvier 1985
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*510-1 (V)
+	  - Code du cinéma et de l'image animée - art. R212-8 (V)
+	  - Code du cinéma et de l'image animée - art. R212-9 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme R510-7
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*510-7
+
+L'agrément n'est pas exigé pour les locaux à caractère social affectés à l'usage collectif du personnel, notamment pour les
+cantines, vestiaires, installations sanitaires, services médicaux [*Région parisienne*].
+
+Nonobstant les dispositions du premier alinéa du présent article, l'agrément est exigé pour les locaux d'internat à usage
+scolaire, pour les résidences universitaires, ainsi que pour toutes les opérations financées sur fonds publics intéressant le
+logement des étudiants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-944 1967-10-24 ART. 7
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°85-47 1985-01-14 art. 5 JORF 15 janvier 1985
+
+	**Abrogé par**:
+
+	  - Décret n°95-690 du 9 mai 1995 - art. 6 () JORF 11 mai 1985
 
 
 ###### Article R*510-8
