@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1985-06-01
+Version Consolidée au 1985-07-12
 
 # Partie législative
 
@@ -480,7 +480,7 @@ conseil municipal a précisé les modalités d'application de l'article L. 111-1
 ###### Article L111-1-4
 
 Les directives d'aménagement national qui sont déjà intervenues en application de l'article L. 111-1 du présent code valent,
-pour une durée de deux ans à compter de la date d'entrée en vigueur de l'article L. 111-1-1, prescriptions d'aménagement au
+pour une durée de quatre ans à compter de la date d'entrée en vigueur de l'article L. 111-1-1, prescriptions d'aménagement au
 sens de l'article L. 111-1-1. Dans le même délai, les plans d'occupation des sols peuvent être rendus compatibles avec ces
 directives dans les conditions prévues à l'article L. 123-7-1.
 
@@ -492,7 +492,7 @@ directives dans les conditions prévues à l'article L. 123-7-1.
 
 	**Modifié par**:
 
-	  - Loi n°85-30 du 9 janvier 1985 - art. 75 () JORF 10 janvier 1985
+	  - Loi n°85-696 1985-07-11 art. 3 JORF 12 juillet 1985
 
 	**Cité par**:
 
@@ -4581,6 +4581,150 @@ demander la modification du schéma en application des dispositions de l'article
 	  - PILOTE_SUIVEUR: Code du tourisme. - art. L342-6 (V)
 
 
+#### Chapitre VII : Dispositions particulières aux zones de bruit des aérodromes.
+
+###### Article L147-1
+
+Au voisinage des aérodromes, les conditions d'utilisation des sols exposés aux nuisances dues au bruit des aéronefs sont
+fixées par le présent chapitre, dont les dispositions, qui valent loi d'aménagement et d'urbanisme au sens de l'article L.
+111-1-1, complètent les règles générales instituées en application de l'article L. 111-1.
+
+Les schémas directeurs, les schémas de secteur, les plans d'occupation des sols et les documents d'urbanisme en tenant lieu
+doivent être compatibles avec ces dispositions.
+
+Les dispositions du présent chapitre sont opposables à toute personne publique ou privée pour l'exécution de tous travaux,
+constructions, affouillements ou exhaussements des sols, pour la création de lotissements et l'ouverture des installations
+classées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Créé par**:
+
+	  - Loi n°85-696 1985-07-11 art. 1 JORF 12 juillet 1985
+
+	**Cité par**:
+
+	  - Arrêté du 4 avril 2006 - art. 3 (VT)
+	  - Code de l'environnement - art. R571-66 (M)
+	  - Code de l'urbanisme - art. L111-1-1 (VT)
+	  - Code de l'urbanisme - art. L712-1 (VT)
+	  - Code de l'urbanisme - art. R*123-14 (VT)
+	  - Code de la construction et de l'habitation. - art. L302-5 (VT)
+	  - Code général des collectivités territoriales - art. R1614-42 (M)
+	  - Code général des collectivités territoriales - art. R1614-50 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L111-1 (M)
+	  - Code de l'urbanisme L111-1, l111-1-1
+
+
+###### Article L147-3
+
+Pour l'application des prescriptions édictées par le présent chapitre, un plan d'exposition au bruit est établi par
+l'autorité administrative, après consultation des communes intéressées et de la commission consultative de l'environnement
+concernée lorsqu'elle existe, pour chacun des aérodromes mentionnés à l'article L. 147-2.
+
+Il est soumis à enquête publique suivant les modalités de la loi n° 83-630 du 12 juillet 1983 relative à la démocratisation
+des enquêtes publiques et à la protection de l'environnement.
+
+Un décret en Conseil d'Etat fixe les conditions dans lesquelles il est établi et tenu à la disposition du public.
+
+Le plan d'exposition au bruit est annexé au plan d'occupation des sols, dont les dispositions doivent être compatibles avec
+les prescriptions définies à l'article L. 147-5.
+
+Les plans d'exposition au bruit existants rendus disponibles pour l'application de la directive d'aménagement national
+relative à la construction dans les zones de bruit des aérodromes valent, dans l'attente de leur révision, plan d'exposition
+au bruit au titre de la loi n° 85-696 du 11 juillet 1985. Cette révision intervient selon les conditions fixées par le décret
+en Conseil d'Etat prévu au troisième alinéa du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°83-630 1983-07-12
+	  - Loi n°85-696 1985-07-11
+	  - Code de l'urbanisme - art. L147-2 (V)
+	  - Code de l'urbanisme - art. L147-5 (M)
+
+	**Créé par**:
+
+	  - Loi n°85-696 1985-07-11 art. 1 JORF 12 juillet 1985
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°87-339 du 21 mai 1987
+	  - TXT_SOURCE: Décret n°87-339 du 21 mai 1987 - art. 1 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°87-339 du 21 mai 1987 - art. 1 (Ab)
+	  - Décret n°87-341 du 21 mai 1987 - art. 4 (Ab)
+	  - Arrêté du 9 janvier 1995 - art. 5 (Ab)
+	  - Arrêté du 30 mai 1996 - art. 8 (VD)
+	  - Arrêté du 25 avril 2003 - art. 5 (V)
+	  - Arrêté du 25 avril 2003 - art. 7 (V)
+	  - Arrêté du 11 janvier 2016 - art. 2
+	  - Code de l'environnement - art. R571-59 (M)
+	  - Code de l'environnement - art. R571-73 (M)
+	  - Code de l'urbanisme - art. R147-9 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L147-5
+
+Dans les zones définies par le plan d'exposition au bruit, l'extension de l'urbanisation et la création ou l'extension
+d'équipements publics sont interdites lorsqu'elles conduisent à exposer immédiatement ou à terme de nouvelles populations aux
+nuisances de bruit. A cet effet :
+
+1° Les constructions à usage d'habitation sont interdites dans ces zones à l'exception :
+
+- de celles qui sont nécessaires à l'activité aéronautique ou liées à celle-ci ;
+
+- dans les zones B et C et dans les secteurs déjà urbanisés situés en zone A, des logements de fonction nécessaires aux
+activités industrielles ou commerciales admises dans la zone et des constructions directement liées ou nécessaires à
+l'activité agricole ;
+
+- en zone C, des constructions individuelles non groupées situées dans des secteurs déjà urbanisés et desservis par des
+équipements publics dès lors qu'elles n'entraînent qu'un faible accroissement de la capacité d'accueil d'habitants exposés
+aux nuisances.
+
+2° Les opérations de rénovation des quartiers ou de réhabilitation de l'habitat existant, ainsi que l'amélioration,
+l'extension mesurée ou la reconstruction des constructions existantes, ne peuvent être admises que lorsqu'elles n'entraînent
+pas un accroissement de la capacité d'accueil d'habitants exposés aux nuisances, elles peuvent, en outre, être admises dans
+les secteurs déjà urbanisés et desservis par des équipements publics de la zone C lorsqu'elles n'entraînent qu'un faible
+accroissement de la capacité d'accueil d'habitants exposés aux nuisances.
+
+3° Dans les zones A et B, les équipements publics ou collectifs ne sont admis que lorsqu'ils sont nécessaires à l'activité
+aéronautique ou indispensables aux populations existantes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°85-696 1985-07-11 art. 1 JORF 12 juillet 1985
+
+	**Cité par**:
+
+	  - Arrêté du 30 mai 1996 - art. 5 (VD)
+	  - Arrêté du 11 janvier 2016 - art. 2
+	  - Code de l'urbanisme - art. L147-3 (V)
+	  - Code de l'urbanisme - art. L147-4-1 (VT)
+	  - Code de l'urbanisme - art. L147-6 (VT)
+	  - Code de l'urbanisme - art. L147-7 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
 ### Titre IV : Dispositions particulières à certaines parties du territoire
 
 #### Chapitre Ier : Dispositions particulières à Paris et à la région d'Ile-de-France
@@ -4795,6 +4939,117 @@ Un décret en Conseil d'Etat précise les conditions d'application de la présen
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code du tourisme. - art. L342-6 (V)
+
+
+#### Chapitre VII : dispositions particulières aux zones de bruit des aérodromes.
+
+###### Article L147-2
+
+Les dispositions du présent chapitre sont applicables autour des aérodromes classés selon le code de l'aviation civile en
+catégories A, B et C, ainsi qu'autour des aérodromes civils ou militaires figurant sur une liste établie par l'autorité
+administrative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Créé par**:
+
+	  - Loi n°85-696 1985-07-11 art. 1 JORF 12 juillet 1985
+
+	**Cité par**:
+
+	  - Loi n°85-696 du 11 juillet 1985 - art. 2 (Ab)
+	  - Décret n°88-315 du 28 mars 1988 - art. 1 (V)
+	  - Code de l'environnement - art. L571-13 (VD)
+	  - Code de l'urbanisme - art. L147-3 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°88-315 du 28 mars 1988
+	  - TXT_SOURCE: Décret n°88-315 du 28 mars 1988 - art. 1 (V)
+
+
+###### Article L147-4
+
+Le plan d'exposition au bruit, qui comprend un rapport de présentation et des documents graphiques, définit, à partir des
+prévisions de développement de l'activité aérienne, de l'extension prévisible des infrastructures et des procédures de
+circulation aérienne, des zones diversement exposées au bruit engendré par les aéronefs. Il les classe en zones de bruit
+fort, dites A et B, et zones de bruit modéré, dite C. Ces zones sont définies en fonction des valeurs d'indices évaluant la
+gêne due au bruit des aéronefs fixées par décret en Conseil d'Etat. 
+
+Les valeurs de ces indices pourront être modulées dans les conditions prévues à l'article L. 111-1-1 compte tenu de la
+situation des aérodromes au regard de leur utilisation, notamment pour la formation aéronautique, et de leur insertion dans
+les milieux urbanisés. La modulation de l'indice servant à la détermination de la limite extérieure de la zone C se fera à
+l'intérieur d'une plage de valeurs fixées par le décret prévu à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°85-696 1985-07-11 art. 1 JORF 12 juillet 1985
+
+	**Cité par**:
+
+	  - Décret n°2007-69 du 19 janvier 2007 - art. 1 (V)
+	  - Code de l'urbanisme - art. L123-1-1 (T)
+	  - Code de l'urbanisme - art. L123-1-11 (VT)
+	  - Code de l'urbanisme - art. L123-1-11-1 (Ab)
+	  - Code de l'urbanisme - art. R147-3 (Ab)
+	  - Code de l'urbanisme - art. R147-4 (Ab)
+	  - Code de l'urbanisme - art. R147-5 (VT)
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L111-1-1
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L112-7 (VD)
+	  - Code de l'urbanisme - art. L112-8 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L147-6
+
+Toutes les constructions qui seront autorisées dans les zones de bruit conformément aux dispositions de l'article L. 147-5
+feront l'objet de mesures d'isolation acoustique, dans les conditions prévues par les dispositions législatives et
+réglementaires en matière d'urbanisme, de construction ou d'habitation. 
+
+Le certificat d'urbanisme doit signaler l'existence de la zone de bruit et l'obligation de respecter les règles d'isolation
+acoustique.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L112-12 (VD)
+	  - Code de l'urbanisme - art. L112-13 (VD)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L147-5 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Créé par**:
+
+	  - Loi n°85-696 1985-07-11 art. 1 JORF 12 juillet 1985
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 
 ### Titre V : Application aux départements d'outre-mer
