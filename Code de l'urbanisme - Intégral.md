@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1989-01-06
+Version Consolidée au 1989-02-04
 
 # Partie législative
 
@@ -52112,106 +52112,6 @@ signature à ses subordonnés en ce qui concerne les matières relevant en propr
 
 ####  Chapitre Ier : Dispositions générales communes aux schémas directeurs et aux plans d'occupation des sols
 
-###### Article A121-1
-
-Les prix de vente des documents d'urbanisme (plans d'urbanisme directeur et de détail, schémas directeurs, schémas de
-secteur, plans d'occupation des sols, plans d'aménagement de zone, plans permanents de sauvegarde et de mise en valeur), des
-études d'urbanisme et des brochures diverses s'y rapportant, publiés par les services du ministère chargé de l'urbanisme,
-sont fixés ainsi qu'il suit :
-
-Textes (format 21 X 29,7 impression), la page : 0,06 F ;
-
-Plans (format 41 X 56), dessin exécuté au trait, couleurs, conformes aux instructions, le plan : 1,60 F.
-
-Pour les dimensions différentes, le prix sera fixé au prorata de la surface.
-
-Photos, impression en noir, pleine page (format 21 X 29,7), par planche : 0,25 F.
-
-Pour les dimensions différentes, le prix sera fixé au prorata de la surface.
-
-Dessins, impression sur une page (format 21 X 29,7) :
-
-En noir, 0,15 F ;
-
-Deux couleurs, 0,20 F ;
-
-Plus de deux couleurs, prix de l'impression en deux couleurs augmenté de 0,075 F par couleur supplémentaire.
-
-Pour les dimensions différentes, le prix sera fixé au prorata de la surface.
-
-Reproduction type Ozalid, à partir d'un calque :
-
-Format 0,65 mètre carré et au-dessous               4,50 F ;
-
-Format de 0,70 mètre carré à 0,90 mètre carré       9    F ;
-
-Format au-dessus de 0,95 mètre carré               13,50 F.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 janvier 1977
-
-	**Modifié par**:
-
-	  - Loi n°83-8 du 7 janvier 1983 - art. 75 () JORF 9 JANVIER 1983
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A121-3 (Ab)
-	  - Code de l'urbanisme - art. A124-1 (Ab)
-	  - Code de l'urbanisme - art. A311-22 (Ab)
-	  - Code de l'urbanisme - art. A313-1 (Ab)
-
-
-###### Article A121-2
-
-Les ventes par expédition seront majorées des frais de port et d'emballage.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A121-3 (Ab)
-	  - Code de l'urbanisme - art. A124-1 (Ab)
-	  - Code de l'urbanisme - art. A311-22 (Ab)
-	  - Code de l'urbanisme - art. A313-1 (Ab)
-
-
-###### Article A121-3
-
-Les dispositions des articles A. 121-1 et A. 121-2 ne peuvent être modifiées que par arrêté du ministre chargé de
-l'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. A121-1 (M)
-	  - Code de l'urbanisme - art. A121-2 (Ab)
-
-
 ###### Article A121-4
 
 La demande d'agrément d'une association locale d'usagers visée à l'article L. 121-8 est établie conformément au modèle fixé
@@ -52227,60 +52127,6 @@ domaine de la protection de la nature et de l'environnement et de l'amélioratio
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L121-8 (V)
-
-
-#### CHAPITRE II : Schémas directeurs.
-
-###### Article A122-1
-
-La liste des villes dont le schéma directeur est approuvé par décret est fixée comme suit :
-
-Paris, Bordeaux, Clermont-Ferrand, Dijon, Lille, Lyon, Saint-Etienne, Grenoble, Marseille, Metz, Nancy, Nantes, Saint-
-Nazaire, Nice, Rennes, Rouen, Strasbourg et Toulouse.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Modifié par**:
-
-	  - Décret n°83-812 1983-09-09 ART. 11 JORF 11 SEPTEMBRE 1983
-	  - Loi n°83-8 1983-01-03 art. 75 I JORF 9 janvier 1983
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A122-2 (Ab)
-
-
-###### Article A122-2
-
-Les dispositions de l'article A. 122-1 ne peuvent être modifiées que par arrêté conjoint du ministre chargé de l'urbanisme,
-du ministre de l'intérieur et du ministre chargé de l'aménagement du territoire.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Modifié par**:
-
-	  - Loi n°83-8 1983-01-07 art. 75-1 JORF 9 janvier 1983
-	  - Décret n°83-812 1983-09-09 art. 11 JORF 11 septembre 1983
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. A122-1 (Ab)
 
 
 #### Chapitre  III : Plans d'occupation des sols
@@ -52450,82 +52296,6 @@ Article N. 15 : Dépassement du coefficient d'occupation du sol.
 	  - Code de l'urbanisme - art. R*123-21 (V)
 
 
-#####  Section 4 : Effets du plan d'occupation des sols
-
-##### Sous-section 2 : Mesures d'exécution.
-
-###### Article A123-5
-
-Conformément à l'article 3 (alinéa 1er) de l'arrêté du 13 janvier 1970 modifié portant application de l'article 52 du décret
-n. 69-825 du 28 août 1969, sont dispensées de l'examen des commissions [*des opérations immobilières de l'architecture et des
-espaces protégés*] instituées par le décret du 28 août 1969, sous réserve que leur prix n'excède pas l'évaluation effectuée
-par les services fiscaux (domaines) ou qu'il soit fixé comme en matière d'expropriation, les acquisitions de terrains
-[*réservés*] effectuées dans les conditions prévues par l'article L. 123-9 [*droit de délaissement*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté  1970-01-13 ART. 3 AL. 1
-	  - Décret n°69-825 du 28 août 1969 - art. 52 (Ab)
-	  - Code de l'urbanisme - art. L123-9 (M)
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-
-###### Article A123-6
-
-Conformément à l'article A-3-1 du code du domaine de l'Etat, sont dispensées de l'examen des commissions [*des opérations
-immobilières, de l'architecture et des espaces protégés*] visées à l'article R. 10 du même code, sous réserve que leur prix
-n'excède pas l'évaluation effectuée par les services fiscaux (domaines) ou qu'il soit fixé comme en matière d'expropriation,
-les acquisitions de terrains [*réservés*] effectuées dans les conditions prévues par l'article L. 123-9 [*droit de
-délaissement*].
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cite**:
-
-	  - Code du domaine de l'Etat - art. A31 (M)
-	  - Code du domaine de l'Etat - art. R10 (V)
-	  - Code de l'urbanisme - art. L123-9 (M)
-
-
-#### CHAPITRE IV : Dispositions transitoires.
-
-###### Article A124-1
-
-Les articles A. 121-1 et A. 121-2 sont applicables aux prix de vente des plans d'urbanisme directeur et de détail.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. A121-1 (M)
-	  - Code de l'urbanisme - art. A121-2 (Ab)
-
-
 #### Chapitre  VI : Servitudes d'utilité publique affectant l'utilisation du sol
 
 ###### Article A126-1
@@ -52554,6 +52324,31 @@ JORF du 14 août 1987).
 
 
 ### Titre  III : Espaces boisés
+
+###### Article A130-1
+
+La demande d'autorisation de coupe ou d'abattage d'arbres prévue à l'article R. 130-2 est établie conformément au modèle
+joint en annexe au présent arrêté (1).
+
+**Nota:**
+
+(1) L'imprimé de demande d'autorisation de coupe ou d'abattage d'arbres est enregistré au C.E.R.F.A. sous le numéro 46-0386
+(imprimé P.C. 021). Il peut être obtenu auprès des mairies ou des directions départementales de l'équipement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1989-01-06 art. 1 JORF 4 février 1989
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 janvier 1977
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*130-2 (V)
+
 
 ###### Article A130-2
 
@@ -52585,6 +52380,36 @@ durée des travaux. "
 
 	  - Code de l'urbanisme - art. R130-5 (M)
 	  - Code de l'urbanisme - art. R490-7 (Ab)
+
+
+###### Article A130-3
+
+Dès l'affichage à la mairie de l'autorisation de coupe ou d'abattage d'arbres et pendant au moins deux mois et pour toute la
+durée des travaux, toute personne intéressée peut consulter, dans les locaux de la mairie, les pièces suivantes du dossier : 
+
+La demande complète d'autorisation : formulaire de demande et pièces jointes ; 
+
+Les avis recueillis au cours de l'instruction ; 
+
+L'arrêté accordant l'autorisation de coupe ou d'abattage d'arbres. 
+
+Les dispositions du présent article ne font pas obstacle au droit à communication dans les conditions prévues par la loi n°
+78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le public, et
+diverses dispositions d'ordre administratif, social et fiscal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1989-01-06 art. 1 JORF 4 février 1989
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 janvier 1977
+
+	**Cite**:
+
+	  - Loi n°78-753 du 17 juillet 1978 (V)
 
 
 ### Titre  IV : Dispositions spéciales à certaines parties du territoire
@@ -52765,671 +52590,28 @@ principes d'aménagement doivent être, à compter du 1er juin 1987, établies c
 
 ###  Titre Ier : Opérations d'aménagement
 
-#### CHAPITRE I : Zones d'aménagement concerté
-
-#####  Section 1 : Création des zones d'aménagement concerté.
-
-###### Article A311-1
-
-Le préfet de département reçoit délégation du ministre chargé de l'urbanisme pour la création des zones d'aménagement
-concerté, à l'exclusion :
-
-a) Des zones créées à l'initiative de l'Etat ;
-
-b) Des zones dont le dossier de création envisage un programme comportant la construction de bâtiments ayant une surface de
-plancher hors oeuvre nette totale supérieure à 300.000 mètres carrés ;
-
-c) Des zones dont le dossier de création envisage un programme comportant indifféremment la construction d'équipements
-d'hébergement banalisé tels que résidences hôtelières, villages de vacances, immeubles en multipropriété ou en
-multijouissance ou d'hébergement privatif tel que l'habitat léger de loisirs, dont l'ensemble développe une surface de
-plancher hors oeuvre nette totale supérieure à 30.000 mètres carrés.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A311-18 (Ab)
-	  - Code de l'urbanisme - art. A311-2 (Ab)
-	  - Code de l'urbanisme - art. A311-4 (Ab)
-
-
-###### Article A311-2
-
-Les dispositions de l'article A. 311-1 ne peuvent être modifiées que par arrêté du ministre chargé de l'urbanisme pris après
-avis du ministre de l'intérieur.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. A311-1 (M)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A311-4 (Ab)
-
-
-#####  Section 2 : Réalisation des zones d'aménagement concerté.
-
-###### Article A311-5
-
-Pour les zones d'aménagement concerté à usage principal d'habitation, le programme et l'échéancier des logements et des
-équipements publics sont approuvés et les modalités de financement de ces équipements sont définies, au vu du dossier défini
-à l'article R. 311-11, et sur le rapport du préfet de région, par le conseil de direction du fonds de développement
-économique et social, saisi à cet effet par le ministre chargé de l'urbanisme, en liaison avec le ministre de l'intérieur,
-lorsque :
-
-1. La capacité d'accueil de la zone est égale ou supérieure à 10.000 logements ;
-
-2. Les prévisions de financement des équipements publics de l'opération font apparaître la nécessité d'une subvention de
-l'Etat au titre de l'habitat urbain, calculée selon les règles fixées par les articles A. 311-11 à A. 311-16, supérieure au
-montant fixé par l'article A. 311-18 ;
-
-3. Une subvention exceptionnelle est demandée par la collectivité locale ou l'établissement public maître de l'ouvrage, en
-vue de couvrir tout ou partie des charges qui devraient lui incomber, conformément au bilan financier.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. A311-11 (Ab)
-	  - Code de l'urbanisme - art. A311-12 (Ab)
-	  - Code de l'urbanisme - art. A311-13 (Ab)
-	  - Code de l'urbanisme - art. A311-14 (Ab)
-	  - Code de l'urbanisme - art. A311-15 (Ab)
-	  - Code de l'urbanisme - art. A311-16 (Ab)
-	  - Code de l'urbanisme R311-11
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A311-18 (Ab)
-	  - Code de l'urbanisme - art. A311-8 (Ab)
-
-
-###### Article A311-6
-
-En approuvant les modalités du financement des équipements publics le préfet, le préfet de région ou le conseil de direction
-du fonds de développement économique et social détermine le montant maximum des dépenses restant à la charge de la
-collectivité locale ou de l'établissement public compétent et susceptible de faire l'objet de prêts à long terme.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A311-8 (Ab)
-
-
-###### Article A311-7
-
-Pour les zones d'aménagement concerté à usage dominant d'activités industrielles et pour celles à usage dominant de commerce
-ou d'entrepôt, le programme et l'échéancier sont approuvés et les moyens publics de financement sont définis au vu du dossier
-visé à l'article R. 311-11 et sur le rapport du préfet de région par décision du ministre chargé de l'urbanisme prise sur
-avis conforme du ministre de l'intérieur, du ministre de l'économie et des finances, du ministre chargé de l'aménagement du
-territoire, et du ministre de l'industrie, lorsque la décision de création n'est pas de la compétence du préfet.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A311-8 (Ab)
-
-
-###### Article A311-8
-
-Les dispositions des articles A. 311-5 à A. 311-7 ne sont pas applicables dans les zones de rénovation urbaine.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. A311-5 (Ab)
-	  - Code de l'urbanisme - art. A311-6 (Ab)
-	  - Code de l'urbanisme - art. A311-7 (Ab)
-
-
-###### Article A311-9
-
-Les dispositions des articles A. 311-5 à A. 311-8 ne peuvent être modifiées que par arrêté conjoint du ministre chargé de
-l'urbanisme, du ministre de l'intérieur et du ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-
-###### Article A311-10
-
-Conformément à l'article 2 (2., b) de l'arrêté du 13 janvier 1970 modifié portant application du décret n. 69-825 du 28 août
-1969, sont dispensées de l'examen des commissions instituées par le décret du 28 août 1969, sous réserve que leur coût
-n'excède pas l'évaluation effectuée par des services fiscaux (domaines), les acquisitions d'immeubles poursuivies, en vue de
-la réalisation de zones d'aménagement concerté, par les collectivités locales et les établissements publics groupant ces
-collectivités ou en dépendant, ainsi que par les personnes et organismes de toute nature visés à l'article 4 du décret
-précité et placés sous le contrôle de ces collectivités et établissements.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté  1970-01-13 ART. 2
-	  - Décret n°69-825 du 28 août 1969 - art. 4 (Ab)
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-
-#####  Section 4 : Subventions
-
-#####    Sous-section 1 : Aide de l'Etat en ce qui concerne la viabilité des grands ensembles d'habitation.
-
-###### Article A311-11
-
-En vue de la détermination de l'aide financière de l'Etat au titre de l'équipement de base des grands ensembles, le bilan
-présenté au comité spécialisé compétent du conseil de direction du fonds de développement économique et social classe les
-dépenses d'infrastructure de chaque grand ensemble en trois catégories :
-
-Viabilité tertiaire ;
-
-Viabilité secondaire ;
-
-Viabilité primaire.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A311-1 (M)
-	  - Code de l'urbanisme - art. A311-14 (Ab)
-	  - Code de l'urbanisme - art. A311-16 (Ab)
-	  - Code de l'urbanisme - art. A311-17 (Ab)
-	  - Code de l'urbanisme - art. A311-5 (Ab)
-
-
-###### Article A311-12
-
-La viabilité tertiaire n'est pas subventionnable.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A311-1 (M)
-	  - Code de l'urbanisme - art. A311-17 (Ab)
-	  - Code de l'urbanisme - art. A311-5 (Ab)
-
-
-###### Article A311-13
-
-En matière de viabilité primaire, l'Etat intervient dans les conditions fixées par les textes en vigueur.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A311-1 (M)
-	  - Code de l'urbanisme - art. A311-17 (Ab)
-	  - Code de l'urbanisme - art. A311-5 (Ab)
-
-
-###### Article A311-14
-
-Pour l'exécution des travaux de viabilité secondaire, les collectivités peuvent recevoir des subventions d'équipement de
-l'Etat dont le taux est fixé à 60 p. 100 de la différence entre le montant de ces travaux et le montant des recettes
-d'infrastructure affectées à la viabilité secondaire dans le bilan visé à l'article A. 311-11.
-
-Toutefois, les subventions ainsi attribuées ne peuvent être supérieures à 30 p. 100 du coût des travaux de viabilité
-secondaire.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A311-1 (M)
-	  - Code de l'urbanisme - art. A311-17 (Ab)
-	  - Code de l'urbanisme - art. A311-5 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. A311-11 (Ab)
-
-
-###### Article A311-15
-
-Les subventions d'équipement pour la viabilité secondaire sont imputées sur les crédits du ministère de l'intérieur
-(subventions d'équipement aux collectivités pour l'habitat urbain).
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A311-1 (M)
-	  - Code de l'urbanisme - art. A311-17 (Ab)
-	  - Code de l'urbanisme - art. A311-5 (Ab)
-
-
-###### Article A311-16
-
-Au cas où pour une cause quelconque les recettes d'infrastructure s'avèrent supérieures aux évaluations retenues au bilan
-arrêté par le comité spécialisé visé à l'article A. 311-11, la subvention accordée au titre de l'habitat urbain est réduite à
-due concurrence.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A311-1 (M)
-	  - Code de l'urbanisme - art. A311-17 (Ab)
-	  - Code de l'urbanisme - art. A311-5 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. A311-11 (Ab)
-
-
-###### Article A311-17
-
-Les dispositions des articles A. 311-11 à A. 311-16 ne peuvent être modifiées que par arrêté conjoint du ministre de
-l'intérieur et du ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. A311-11 (Ab)
-	  - Code de l'urbanisme - art. A311-12 (Ab)
-	  - Code de l'urbanisme - art. A311-13 (Ab)
-	  - Code de l'urbanisme - art. A311-14 (Ab)
-	  - Code de l'urbanisme - art. A311-15 (Ab)
-	  - Code de l'urbanisme - art. A311-16 (Ab)
-
-
-##### Sous-section 2 : Aide de l'Etat en ce qui concerne les subventions d'équipement aux collectivités pour l'habitat urbain.
-
-###### Article A311-18
-
-Le montant de la subvention au titre de l'habitat urbain prévu par l'article A. 311-1 (3.) et par l'article A. 311-5 (2.) est
-fixé à 1.000 F par logement.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A311-1 (M)
-	  - Code de l'urbanisme - art. A311-19 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. A311-5 (Ab)
-
-
-###### Article A311-19
-
-Les dispositions de l'article A. 311-18 ne peuvent être modifiées que par arrêté conjoint du ministre de l'intérieur et du
-ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. A311-18 (Ab)
-
-
-#####    Sous-section 3 : Equipements de superstructure d'accompagnement du logement dans les zones d'aménagement concerté susceptibles de bénéficier de subventions en application des articles R. 311-25 à R. 311-29.
-
-###### Article A311-21
-
-Les dispositions de l'article A. 311-20 ne peuvent être modifiées que par arrêté conjoint du ministre chargé de l'urbanisme
-et du ministre intéressé.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. A311-20 (Ab)
-
-
-#####  Section 6 : Dispositions diverses.
-
-###### Article A311-22
-
-Les dispositions des articles A. 121-1 et A. 121-2 sont applicables aux plans d'aménagement de zone.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. A121-1 (M)
-	  - Code de l'urbanisme - art. A121-2 (Ab)
-
-
-#### CHAPITRE II : Rénovation urbaine.
-
-###### Article A312-1
-
-Les créances des participants aux opérations de rénovation urbaine sont exprimées en un nombre de mètres carrés égal au
-quotient de leur montant en francs par le prix au mètre carré fixé à l'article A. 312-3.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. A312-3 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. A312-3 (Ab)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A312-5 (Ab)
-
-
-###### Article A312-2
-
-La surface bâtie de référence visée à l'article R. 312-6 (alinéa 2) est celle d'un logement d'une surface habitable de 55
-mètres carrés comportant trois pièces principales, cuisine, salle d'eau, W.C., dégagements, volume de rangement. Ce logement
-est considéré comme équipé en eau, gaz, électricité ; l'immeuble n'est pas doté d'ascenseur. Les matériaux employés sont de
-bonne qualité courante assurant une durabilité et une isolation thermique et phonique satisfaisantes et ne nécessitant pas
-une mise en oeuvre coûteuse. Le bâtiment ne comporte ni sujétion architecturale particulière ni fondations exceptionnelles.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A312-5 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R312-6 AL. 2
-
-
-###### Article A312-3
-
-Le prix du mètre carré de surface bâtie de référence définie à l'article précédent est fixé à 380 F en valeur janvier 1960.
-Ce prix ne comprend ni le coût du terrain, ni celui des branchements, ni le montant des honoraires d'architecte.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. A312-1 (Ab)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A312-1 (Ab)
-	  - Code de l'urbanisme - art. A312-5 (Ab)
-
-
-###### Article A312-4
-
-Lors du remploi, le montant de la créance est calculé en multipliant le nombre de mètres carrés par le prix du mètre carré à
-la date du remploi, évalué dans les conditions fixées par le contrat de participation.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A312-5 (Ab)
-
-
-###### Article A312-5
-
-Les dispositions des articles A. 312-1 à A. 312-4 ne peuvent être modifiées que par arrêté du ministre chargé de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. A312-1 (Ab)
-	  - Code de l'urbanisme - art. A312-2 (Ab)
-	  - Code de l'urbanisme - art. A312-3 (Ab)
-	  - Code de l'urbanisme - art. A312-4 (Ab)
-
-
-#### CHAPITRE III : Restauration immobilière et secteurs sauvegardés.
-
-###### Article A313-1
-
-Les dispositions des articles A. 121-1 et A. 121-2 sont applicables aux plans permanents de sauvegarde et de mise en valeur.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. A121-1 (M)
-	  - Code de l'urbanisme - art. A121-2 (Ab)
-
-
 #### CHAPITRE V : Lotissements
-
-###### Article A315-1
-
-Conformément à l'article 2 (2., b) de l'arrêté du 13 janvier 1970 modifié portant application du décret n° 69-825 du 28 août
-1969, sont dispensées de l'examen des commissions instituées par le décret du 28 août 1969, sous réserve que leur coût
-n'excède pas l'évaluation effectuée par les services fiscaux (domaines), les acquisitions d'immeubles poursuivies en vue de
-la création de lotissements, par les collectivités locales et les établissements publics groupant ces collectivités ou en
-dépendant, ainsi que par les personnes et organismes de toute nature visés à l'article 4 du décret précité et placés sous le
-contrôle de ces collectivités et établissements.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté  1970-01-13 ART. 2
-	  - Décret n°69-825 du 28 août 1969 - art. 4 (Ab)
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
 
 ###### Article A315-2
 
-La demande d'autorisation de lotir prévue à l'article R. 315-4 doit être établie conformément au modèle figurant en annexe au
-présent arrêté.
+La demande d'autorisation de lotir prévue à l'article A. 315-4 doit être établie conformément au modèle figurant en annexe au
+présent article (2).
 
 Les documents qui l'accompagnent doivent porter les indications et respecter les échelles mentionnées aux paragraphes A et B
-de l'annexe du modèle de demande.
+de l'annexe du modèle de la demande.
+
+(2) L'imprimé de demande d'autorisation de lotir est enregistré au C.E.R.F.A. sous le numéro 46-0387 (imprimé P.C. 151). Il
+peut être obtenu auprès des mairies et des directions départementales de l'équipement.
 
 **Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1989-01-06 art. 2 JORF 4 février 1989
+
+	**Abrogé par**:
+
+	  - Arrêté 2007-06-06 art. 1 II JORF 21 juin 2007 en vigueur le 1er octobre 2007
 
 	**Codifié par**:
 
@@ -53437,7 +52619,7 @@ de l'annexe du modèle de demande.
 
 	**Cite**:
 
-	  - Code de l'urbanisme R315-4
+	  - Code de l'urbanisme - art. A315-4 (M)
 
 
 ###### Article A315-3
@@ -53485,23 +52667,41 @@ cet affichage puisse être inférieure à deux mois. "
 
 ###### Article A315-4
 
-Dès l'affichage à la mairie d'un extrait de l'autorisation de lotir ou d'une copie de la lettre mentionnée au deuxième alinéa
-de l'article précédent, toute personne intéressée peut consulter les documents figurant dans le dossier déposé à l'appui de
-la demande d'autorisation de lotir, ainsi que l'arrêté autorisant le lotissement et les pièces qui y sont annexées.
+Dès l'affichage à la mairie d'un extrait de l'autorisation de lotir ou d'une copie des lettres mentionnées au deuxième alinéa
+de l'article précédent, toute personne intéressée peut consulter dans les locaux de la mairie :
+
+- les documents figurant dans le dossier déposé à l'appui de la demande d'autorisation de lotir ;
+
+- les avis recueillis au cours de l'instruction ;
+
+- l'arrêté autorisant le lotissement et les pièces qui y sont annexées.
+
+Les dispositions du présent article ne font pas obstacle au droit à communication dans les conditions prévues par la loi n°
+78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le public, et
+diverses dispositions d'ordre administratif, social et fiscal.
 
 **Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1989-01-06 art. 2 JORF 4 février 1989
+
+	**Abrogé par**:
+
+	  - Arrêté 2007-06-06 art. 1 II JORF 21 juin 2007 en vigueur le 1er octobre 2007
 
 	**Codifié par**:
 
 	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
+	**Cite**:
+
+	  - Loi n°78-753 1978-07-17
+	  - Code de l'urbanisme - art. A315-3 (M)
+
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. A315-2 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. A315-3 (M)
 
 
 ###### Article A315-5
@@ -53520,334 +52720,7 @@ chargé de l'urbanisme.
 	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-#### CHAPITRE VII : Amélioration de certains lotissements.
-
-###### Article A317-1
-
-Les subventions de l'Etat pour l'aménagement des lotissements défectueux sont attribuées aux associations syndicales par
-décision du préfet dans les conditions fixées aux articles R. 317-38 et R. 317-41.
-
-Cette décision fixe le montant de la subvention sous forme de pourcentage du montant cumulé du devis estimatif accepté et de
-l'état de prévision des honoraires dus par l'association syndicale au technicien d'exécution et de surveillance. Le montant
-de ces éléments est indiqué dans la décision.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. A317-3 (Ab)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A317-3 (Ab)
-
-
-###### Article A317-2
-
-Les subventions sont payées soit en totalité après exécution complète des travaux au financement desquels elles sont
-destinées, soit sous forme d'acomptes versés au fur et à mesure de l'exécution des travaux.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A317-8 (Ab)
-
-
-###### Article A317-9
-
-Les honoraires versés au technicien chargé, par les associations syndicales d'aménagement des lotissements défectueux,
-d'établir les avant-projets des travaux entrepris pour l'aménagement des lotissements défectueux bénéficiant de subventions
-et de prêts au titre des articles L. 317-1 à L. 317-15, de diriger et de surveiller l'exécution de ces travaux sont calculés
-dans les conditions générales fixées par la loi n. 48-1530 du 29 septembre 1948 et par l'arrêté interministériel du 7 mars
-1949, pour les agents des services publics de l'Etat et des collectivités locales et par le décret /M/n. 49-165 du 7 février
-1949, /M/ARR. 09-09-1977 : n. 73-207 du 28 février 1973// pour les techniciens privés.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté  1949-03-07
-	  - Loi n°48-1530 1948-09-29
-	  - Décret n°49-165 1949-02-07
-	  - Décret n°73-207 1973-02-28
-	  - Code de l'urbanisme L317-1 à L317-15
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-
-###### Article A317-10
-
-Les dispositions des articles A. 317-1 à A. 317-9 ne peuvent être modifiées que par arrêté conjoint du ministre chargé de
-l'urbanisme, du ministre de l'intérieur et du ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cite**:
-
-	  - CODE DE L'URBANISME A317-1 à A317-9
-
-
-### Titre  II : Organismes d'exécution
-
-####  Chapitre Ier : Sociétés d'économie mixte, établissements publics et autres organismes d'aménagement
-
-#####  Section 1 : Aménagement d'agglomérations nouvelles, de zones d'habitation ou de zones industrielles
-
-###### Article A321-1
-
-Conformément à l'article 2 (2., b) de l'arrêté du 13 janvier 1970 modifié portant application du décret n. 69-825 du 28 août
-1969, sont dispensées de l'examen des commissions instituées par le décret du 28 août 1969, sous réserve que leur coût
-n'excède pas l'évaluation effectuée par les services fiscaux (domaines), les acquisitions d'immeubles poursuivies, en vue de
-la réalisation de zones d'habitation, par les collectivités locales et les établissements publics groupant ces collectivités
-ou en dépendant, ainsi que par les personnes et organismes de toute nature visés à l'article 4 du décret précité et placés
-sous le contrôle de ces collectivités et établissements.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté  1970-01-13
-	  - Décret n°69-825 du 28 août 1969 - art. 4 (Ab)
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-
 ### Titre  III : Dispositions financières
-
-#### CHAPITRE I : Fonds national d'aménagement foncier et d'urbanisme
-
-###### Article A331-1
-
-Par délégation du comité de gestion du fonds national d'aménagement foncier et d'urbanisme, le préfet de région peut, dans la
-limite de l'enveloppe qui lui est attribuée, octroyer des bonifications d'intérêt pour le financement d'acquisitions
-foncières et d'équipements d'infrastructure dans les opérations d'aménagement mentionnées au premier alinéa de l'article L.
-321-1, à l'exclusion des opérations réalisées par l'Etat, par les établissements publics d'aménagement des villes nouvelles
-et par l'établissement public d'aménagement de la défense.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. A331-1 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*311-12 (M)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A331-5 (Ab)
-	  - Code de l'urbanisme - art. A331-6 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme L321-1 AL. 1
-
-
-###### Article A331-2
-
-Les dispositions de l'article précédent sont applicables aux zones d'habitation et aux zones industrielles créées, en
-application de l'article R. 321-1, avant le 1er janvier 1977.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cite**:
-
-	  - CODE DE L'URBANISME R321-1, A331
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A331-5 (Ab)
-	  - Code de l'urbanisme - art. A331-6 (Ab)
-
-
-###### Article A331-3
-
-Le préfet de région prend sa décision sur le rapport du directeur régional de l'équipement et après avis du trésorier-payeur
-général de région et du préfet du département concerné.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A331-5 (Ab)
-	  - Code de l'urbanisme - art. A331-6 (Ab)
-
-
-###### Article A331-4
-
-Sous réserve des dispositions de l'article R. 331-6, les règles générales concernant le taux des bonifications d'intérêt, les
-caractéristiques et la durée des emprunts ainsi que les modalités de leur remboursement sont déterminées par le comité de
-gestion, qui définit, en outre, les conditions selon lesquelles est exercé le contrôle des décisions prises par le préfet de
-région.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A331-5 (Ab)
-	  - Code de l'urbanisme - art. A331-6 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R331-6
-
-
-###### Article A331-5
-
-Les dispositions des articles A. 331-1 à A. 331-4 ne sont pas applicables aux zones de rénovation urbaine.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. A331-1 (M)
-	  - Code de l'urbanisme - art. A331-2 (M)
-	  - Code de l'urbanisme - art. A331-3 (M)
-	  - Code de l'urbanisme - art. A331-4 (M)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A331-6 (Ab)
-
-
-###### Article A331-6
-
-Les dispositions des articles A. 331-1 à A. 331-5 ne peuvent être modifiées que par arrêté conjoint du ministre chargé de
-l'urbanisme, du ministre de l'intérieur, du ministre de l'économie et des finances et du ministre chargé de l'aménagement du
-territoire.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. A331-1 (M)
-	  - Code de l'urbanisme - art. A331-2 (M)
-	  - Code de l'urbanisme - art. A331-3 (M)
-	  - Code de l'urbanisme - art. A331-4 (M)
-	  - Code de l'urbanisme - art. A331-5 (Ab)
-
-
-###### Article A331-7
-
-Le taux maximum de la bonification d'intérêt susceptible d'être accordée pendant la durée des prêts à moyen terme autorisés
-par le comité de gestion du fonds national d'aménagement foncier et d'urbanisme est fixé à trois points.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A331-8 (Ab)
-
-
-###### Article A331-8
-
-Les dispositions de l'article A. 331-7 ne peuvent être modifiées que par arrêté du ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. A331-7 (Ab)
-
 
 #### Chapitre  II : Participation des constructeurs et des lotisseurs
 
@@ -53864,170 +52737,25 @@ destiné à l'installation d'un poste de transformation du courant électrique o
 	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-#### CHAPITRE V : Aide à la création et à l'aménagement d'espaces verts.
-
-###### Article A335-1
-
-La demande de subvention relative à la création ou à l'aménagement de parcs ou jardins publics est adressée au préfet. Elle
-est instruite par le directeur départemental de l'équipement ; le dossier est ensuite transmis par le préfet, avec son avis,
-au préfet de la région.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-
-###### Article A335-2
-
-Les pièces justificatives à joindre par les maîtres d'ouvrage à une demande de subvention pour la création ou l'aménagement
-de parcs ou jardins publics sont les suivantes :
-
-1. Délibération de l'organe qualifié de la collectivité ou de l'organisme adoptant l'opération ou la tranche d'opération et
-le plan de financement.
-
-2. Note explicative de l'opération précisant notamment son objet, sa consistance, sa durée et, s'il y a lieu, ses conditions
-spéciales de réalisation, et justifiant, lorsqu'il s'agit d'une tranche d'opération, de son caractère fonctionnel, par
-rapport au contenu de l'opération envisagée dans son ensemble.
-
-3. Plan de financement prévisionnel de l'opération précisant l'origine et le montant des moyens financiers et l'échéancier
-indicatif des dépenses prévues (cette pièce n'a pas à être produite si ces précisions figurent à la pièce n. 1).
-
-4. Plan de situation des terrains à acquérir ou à aménager.
-
-S'il s'agit d'une acquisition :
-
-Note précisant les modalités d'acquisition prévues et justifiant l'évaluation.
-
-S'il s'agit d'un aménagement :
-
-Documents justifiant de la situation juridique du terrain d'assiette ou, sous réserve de leur production ultérieure, note
-explicative ;
-
-Devis descriptif et estimatif des travaux.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-
-###### Article A335-3
-
-La décision attributive de subvention est établie par le préfet, conformément à la décision d'utilisation du préfet de
-région.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-
-###### Article A335-4
-
-La subvention est payée :
-
-Si elle est afférente à l'acquisition des terrains, sur présentation soit d'une expédition de l'acte de vente, soit d'une
-attestation du notaire ou du directeur départemental des services fiscaux précisant que la collectivité ou l'organisme est
-propriétaire desdits terrains, soit d'une copie de l'ordonnance d'expropriation ;
-
-Si elle est afférente aux travaux d'aménagement de l'espace vert, soit en totalité après exécution complète des opérations au
-financement desquelles elle est destinée, soit sous forme d'acomptes versés au fur et à mesure de l'exécution de ces travaux.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A335-6 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. A335-6 (M)
-
-
-###### Article A335-5
-
-Les mandats de paiement des subventions ou des acomptes sur subventions sont émis par le directeur départemental de
-l'équipement au profit des collectivités ou organismes bénéficiaires et encaissés par les receveurs de ces collectivités ou
-organismes.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-
-###### Article A335-6
-
-Les dispositions des articles A. 335-1 à A. 335-5 ne peuvent être modifiées que par arrêté du ministre chargé de l'urbanisme
-et du ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cite**:
-
-	  - CODE DE L'URBANISME A335-1 à A335-5
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. A335-4 (Ab)
-
-
 ## LIVRE IV : Règles relatives à l'acte de construire et à divers modes d'utilisation du sol
 
 ### TITRE I : Certificat d'urbanisme.
 
 ###### Article A410-1
 
-La demande de certificat d'urbanisme (1) ainsi que le certificat d'urbanisme sont établis selon les modèles joints au présent
-code.
+La demande de certificat d'urbanisme prévue à l'article R. 410-1 est établie conformément au modèle annexé au présent
+article.
 
-(1) L'imprimé de demande de certificat d'urbanisme, composé de deux liasses, l'une de trois feuillets (A1, A2, A3), l'autre
-de cinq feuillets (B1, B2, B3, B4, B5) est enregistré au C.E.R.F.A. sous le numéro 46-0356, reproduit dans l'en-tête du
-formulaire sous le sigle C.E.R.F.A.. Ce document peut être obtenu auprès des directions départementales de l'équipement et
-des mairies.
+**Nota:**
+
+Nota : L'imprimé de demande de certificat d'urbanisme est enregistré au C.E.R.F.A. sous le numéro 46-0377 (imprimé A.M. 390).
+Il peut être obtenu auprès des mairies ou des directions départementales de l'équipement.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Arrêté 1981-09-28 ART. 2 JONC 22 DECEMBRE 1981
+	  - Arrêté 1989-01-06 art. 3 I JORF 4 février 1989
 
 	**Codifié par**:
 
@@ -54043,12 +52771,49 @@ des mairies.
 	  - Code de l'urbanisme - art. A410-2 (M)
 	  - Code de l'urbanisme - art. A410-3 (Ab)
 
+	**Cite**:
+
+	  - Code de l'urbanisme R410-1
+
 
 ###### Article A410-2
 
-Les dispositions de l'article A. 410-1 ne peuvent être modifiées que par arrêté du ministre chargé de l'urbanisme.
+La réponse à la demande de certificat d'urbanisme est établie conformément à l'un ou l'autre des deux modèles intitulés
+respectivement Certificat d'urbanisme positif et Certificat d'urbanisme négatif et annexés au présent article.
+
+**Nota:**
+
+Nota : Certificat d'urbanisme positif (imprimé A.M. 393) et certificat d'urbanisme négatif (imprimé A.M. 394).
 
 **Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1989-01-06 art. 3 I JORF 4 février 1989
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. A410-3 (Ab)
+
+
+###### Article A410-3
+
+Les dispositions des articles A. 410-1 et A. 410-2 ne peuvent être modifiées que par un arrêté du ministre chargé de
+l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1989-01-06 art. 3 II JORF 4 février 1989
+
+	**Abrogé par**:
+
+	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
 
 	**Codifié par**:
 
@@ -54057,10 +52822,7 @@ Les dispositions de l'article A. 410-1 ne peuvent être modifiées que par arrê
 	**Cite**:
 
 	  - Code de l'urbanisme - art. A410-1 (M)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A410-3 (Ab)
+	  - Code de l'urbanisme - art. A410-2 (M)
 
 
 ### TITRE II : Permis de construire
@@ -54071,31 +52833,28 @@ Les dispositions de l'article A. 410-1 ne peuvent être modifiées que par arrê
 
 ###### Article A421-1
 
-La demande de permis de construire prévue à l'article R. 421-1 est établie conformément au modèle joint en annexe au présent
-code.
+" La demande de permis de construire prévue à l'article R. 421-1-1 est établie conformément à l'un des modèles annexés au
+présent article (5). "
 
-Note : Ces imprimés sont enregistrés au C.E.R.F.A. sous les numéros suivants :
+Nota :
 
-46-0303 Demande de permis de construire pour travaux ne créant pas de surface de planchers (P.C. 155).
+(5) Les imprimés de demande de permis de construire sont enregistrés au C.E.R.F.A. sous les numéros suivants :
 
-46-0306 Demande de permis de construire pour une maison individuelle (P.C. 157).
+- 46-0323 Demande de permis de construire une ligne d'énergie électrique (imprimé P.C. 155 bis) ;
 
-46-0307 Demande de permis de construire modificatif (P.C. 158 bis).
+- 46-0376 Demande de permis de construire une maison individuelle (imprimé P.C. 157) ;
 
-46-0311 Demande de permis de construire (P.C. 158).
+- 46-0379 Demande de permis de construire (imprimé P.C. 158) ;
 
-46-0323 Demande de permis de construire une ligne d'énergie électrique (P.C. 155 bis).
+- 46-0383 Demande de permis de construire modificatif (imprimé P.C. 158 bis).
 
-Les imprimés 46-0303, 46-0307, 46-0311 peuvent être obtenus auprès des directions départementales de l'équipement et des
-mairies.
-
-L'imprimé 46-0323 peut être obtenu auprès des directions départementales de l'équipement.
+Ils peuvent être obtenus auprès des mairies ou des directions départementales de l'équipement.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1984-04-02 ART. 1 JONC 4 MAI 1984
+	  - Arrêté 1989-01-06 art. 4 I JORF 4 février 1989
 
 	**Codifié par**:
 
@@ -54107,36 +52866,12 @@ L'imprimé 46-0323 peut être obtenu auprès des directions départementales de 
 	  - Code de l'urbanisme - art. A421-3 (Ab)
 	  - Code de l'urbanisme - art. A520-1 (V)
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. A421-3 (M)
-
-
-###### Article A421-3
-
-Les dispositions de l'article A. 421-1 ne peuvent être modifiées que par arrêté du ministre chargé de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1978-11-06 ART. 2 JORF NC 21 NOVEMBRE 1978
-	  - Arrêté 1984-04-02 ART. 1 JONC 4 MAI 1984
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. A421-1 (M)
-
 	**Cite**:
 
-	  - Code de l'urbanisme - art. A421-1 (M)
+	  - Code de l'urbanisme - art. R*421-1-1 (M)
 
 
-###### Article A421-3-1
+###### Article A421-2
 
 La lettre de notification prévue à l'article R. 421-12 indique au demandeur :
 
@@ -54169,15 +52904,24 @@ bénéficier d'un permis tacite et que les travaux ne pourront être entrepris q
 
 	**Créé par**:
 
-	  - Arrêté 1984-04-02 ART. 1, ART. 2 JORF 4 MAI 1984
+	  - Arrêté 1989-01-06 art. 4 II JORF 4 février 1989
+
+	**Abrogé par**:
+
+	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
 
 	**Codifié par**:
 
 	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
-	**Nouveaux textes**:
+	**Cité par**:
 
-	  - Code de l'urbanisme - art. A421-2 (Ab)
+	  - Code de l'urbanisme - art. A421-3 (M)
+	  - Code de l'urbanisme - art. A520-1 (M)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. A421-3-1 (T)
 
 	**Cite**:
 
@@ -54186,79 +52930,79 @@ bénéficier d'un permis tacite et que les travaux ne pourront être entrepris q
 	  - Code de l'urbanisme - art. R421-9 (M)
 
 
-#####  Section 3 : Instruction de la demande.
+###### Article A421-3
 
-###### Article A421-4
-
-Sauf dans la région d'Ile-de-France et dans les départements du Loiret, d'Eure-et-Loir, de l'Eure et de l'Oise, l'avis du
-ministre chargé de l'aménagement du territoire, donné en vue de l'application de l'article R. 111-15, est formulé par les
-préfets de département en son lieu et place.
+Les dispositions de l'article A. 421-1 et de l'article A. 421-2 ne peuvent être modifiées que par arrêté du ministre chargé
+de l'urbanisme.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1984-04-02 ART. 1 JONC 4 MAI 1984
+	  - Arrêté 1989-01-06 art. 4 III JORF 4 février 1989
 
 	**Abrogé par**:
 
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
+	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
 
 	**Codifié par**:
 
 	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
-	**Cité par**:
+	**Liens**:
 
-	  - Code de l'urbanisme - art. A421-6 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. A421-1 (M)
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R111-15 (M)
+	  - Code de l'urbanisme - art. A421-1 (M)
 
 
-###### Article A421-5
+#####  Section 4 : Décision
 
-Les préfets de département transmettent mensuellement, avec leurs avis, à la délégation à l'aménagement du territoire et à
-l'action régionale, les notices de renseignements prévues à l'article R. 421-3.
+###### Article A421-6-1
+
+La décision prévue à l'article R. 421-29 :
+
+- indique la collectivité au nom de laquelle la décision est prise ;
+
+- vise la demande de permis de construire et en rappelle les principales caractéristiques : nom et adresse du demandeur,
+objet de la demande, numéro d'enregistrement, lieux des travaux, destination de la construction et, en cas de décision
+positive, surface hors oeuvre nette ou le cas échéant surface hors oeuvre brute du projet ;
+
+- vise les textes législatifs et réglementaires dont il est fait application ;
+
+- vise les avis recueillis en cours d'instruction et leur sens ;
+
+- indique la motivation spécifique dans le cas où elle comporte rejet de la demande, si elle est assortie de prescriptions,
+s'il s'agit d'un sursis à statuer ou si elle autorise une dérogation ou un adaptation mineure ;
+
+- indique si le permis de construire est accordé ou refusé ou s'il est sursis à statuer sur la demande.
+
+En cas de décision positive, elle indique, en tant que de besoin, les prescriptions imposées au constructeur. En cas
+d'application de l'article R. 421-7-1, elle comporte les indications mentionnées à l'article R. 421-29.
+
+Elle rappelle au pétitionnaire : que le permis de construire est délivré sans préjudice du droit des tiers ; le délai de
+validité du permis tel qu'il résulte de l'article R. 421-32 ; l'obligation d'affichage sur le terrain prévu à l'article R.
+421-39, les délais et voies de recours contre la décision, l'obligation de souscrire l'assurance dommages-ouvrages prévu par
+la loi n° 78-12 du 4 janvier 1978 relative à la responsabilité et à l'assurance dans le domaine de la construction.
+
+Lorsque la décision est prise au nom de la commune ou de l'établissement public de coopération intercommunale, elle est
+complétée par la mention prévue à l'article R. 421-34.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Arrêté 1984-04-02 ART. 1 JONC 4 MAI 1984
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A421-6 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R421-3 (M)
-
-
-###### Article A421-6
-
-Les dispositions des articles A. 421-4 et A. 421-5 ne peuvent être modifiées que par arrêté du ministre chargé de
-l'aménagement du territoire.
-
-**Liens relatifs à cet article**
+	  - Arrêté 1984-04-02 art. 1, art. 3 JORF 4 mai 1984
 
 	**Modifié par**:
 
-	  - Arrêté 1984-04-02 ART. 1 JONC 4 MAI 1984
+	  - Arrêté 1988-01-06 art. 4 IV, V JORF 4 février 1989
 
 	**Abrogé par**:
 
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
+	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
 
 	**Codifié par**:
 
@@ -54266,8 +53010,12 @@ l'aménagement du territoire.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. A421-4 (Ab)
-	  - Code de l'urbanisme - art. A421-5 (Ab)
+	  - Loi n°78-12 1978-01-04
+	  - Code de l'urbanisme - art. R421-29 (M)
+	  - Code de l'urbanisme - art. R421-32 (M)
+	  - Code de l'urbanisme - art. R421-34 (M)
+	  - Code de l'urbanisme - art. R421-39 (M)
+	  - Code de l'urbanisme - art. R421-7-1 (M)
 
 
 #####  Section 6 : Formalités postérieures à la délivrance du permis de construire.
@@ -54337,24 +53085,59 @@ diverses dispositions d'ordre administratif, social et fiscal.
 	  - Loi n°78-753 1978-07-17
 
 
+###### Article A421-9
+
+La déclaration d'ouverture de chantier prévue à l'article R. 421-40 est établie conformément à la rédaction du modèle annexé
+au présent article.
+
+**Nota:**
+
+Nota : L'imprimé de déclaration d'ouverture de chantier est enregistré au C.E.R.F.A. sous le numéro 46-0394 (imprimé P.C.
+182-3). Il peut être obtenu auprès des mairies ou des directions départementales de l'équipement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1989-01-06 art. 4 VI JORF 4 février 1989
+
+	**Abrogé par**:
+
+	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R421-40 (Ab)
+
+
 #### CHAPITRE II : Exceptions au régime général
 
 #####  Section 1 : Déclarations de travaux exemptés du permis de construire.
 
 ###### Article A422-1
 
-La déclaration en vue de l'exécution de travaux exemptés de permis de construire, prévue à l'article R. 422-5, est établie
-conformément au modèle joint en annexe au présent code.
+" La déclaration en vue de l'exécution de travaux exemptés de permis de construire, prévue à l'article R. 422-3, est établie
+conformément au modèle annexé au présent article (7). "
+
+Nota :
+
+(7) L'imprimé de déclaration de travaux exemptés de permis de construire ou de déclaration de clôture est enregistré au
+C.E.R.F.A. sous le numéro 46-0396 (imprimé P.C. 156). Il peut être obtenu auprès des mairies ou des directions
+départementales de l'équipement.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1989-01-06 art. 5 JORF 4 février 1989
 
 	**Codifié par**:
 
 	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Modifié par**:
-
-	  - Arrêté du 28 décembre 1977 art. 2, v. init.
 
 	**Cité par**:
 
@@ -54364,7 +53147,7 @@ conformément au modèle joint en annexe au présent code.
 
 	**Cite**:
 
-	  - Code de l'urbanisme R422-5
+	  - Code de l'urbanisme R422-3
 
 
 ###### Article A422-1-1
@@ -54397,6 +53180,48 @@ chantier. "
 	**Cite**:
 
 	  - Code de l'urbanisme - art. R490-7 (Ab)
+
+
+###### Article A422-1-2
+
+Dès la date à laquelle les travaux peuvent être exécutés et pendant au moins deux mois, et pour toute la durée du chantier,
+toute personne intéressée peut consulter, dans les locaux de la mairie, les pièces suivantes du dossier :
+
+- la déclaration complète de travaux : formulaire de déclaration, pièces jointes, plan de situation, plan de masse et
+représentation de l'aspect extérieur de la construction ;
+
+- les avis recueillis au cours de l'instruction ;
+
+- le cas échéant, la décision de l'autorité compétente imposant des prescriptions ;
+
+- le cas échéant, les contrats ou décisions judiciaires en matière d'institution de servitudes dites de cours communes ou de
+minoration de densité sur les fonds voisins.
+
+Les dispositions du présent article ne font pas obstacle au droit à communication dans les conditions prévues par la loi n°
+78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le public et
+diverses dispositions d'ordre administratif, social et fiscal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1989-01-06 art. 5 II JORF 4 février 1989
+
+	**Abrogé par**:
+
+	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Cite**:
+
+	  - Loi n°78-753 1978-07-17
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. A441-2 (M)
 
 
 #####  Section 2 : Grands camps à l'intérieur desquels les constructions et installations sont exemptées du permis de construire
@@ -54444,7 +53269,7 @@ permis de construire constitue le fait générateur, soit :
 
 La taxe locale d'équipement et la taxe complémentaire à la taxe locale d'équipement perçue en région d'Ile-de-France ;
 
-La taxe départementale d'espaces verts ;
+La taxe départementale d'espaces naturels sensibles ;
 
 La taxe départementale pour le financement des conseils d'architecture, d'urbanisme et de l'environnement ;
 
@@ -54454,7 +53279,18 @@ Le versement résultant du dépassement du plafond légal de densité ;
 
 La redevance pour création de locaux à usage de bureaux et de locaux de recherche en région d'Ile-de-France.
 
+La taxe spéciale d'équipement prévue à l'article 1599 OB du code général des impôts.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1989-01-06 art. 6 I, II JORF 4 février 1989
+
+	**Cite**:
+
+	  - CGI 1599 OB
+	  - Code de l'urbanisme R424-1
 
 	**Codifié par**:
 
@@ -54469,10 +53305,6 @@ La redevance pour création de locaux à usage de bureaux et de locaux de recher
 	  - Code de l'urbanisme - art. A424-16 (V)
 	  - Code de l'urbanisme - art. A424-2 (V)
 	  - Code de l'urbanisme - art. A424-4 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R424-1
 
 	**Liens**:
 
@@ -54631,6 +53463,8 @@ de l'urbanisme, et au constructeur concerné.
 
 ####  Section 1 : Régime général
 
+####  Section 1 : La demande
+
 ###### Article A430-1
 
 La demande de permis de démolir prévue à l'article R. 430-1 est établie conformément au modèle joint en annexe au présent
@@ -54696,34 +53530,95 @@ habitabilité, montant du loyer, nature juridique de la location).
 	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-####  Section 4 : Formalités postérieures à la délivrance du permis de de démolir.
+####  Section 4 : Formalités postérieures à la délivrance du permis de démolir.
 
-###### Article A430-4
+###### Article A430-3
 
-A l'issue de l'affichage à la mairie d'un extrait de la décision accordant le permis de démolir et jusqu'à l'achèvement des
-travaux de démolition, toute personne intéressée peut consulter le registre en attestant.
+L'affichage du permis de démolir sur le terrain est assuré par les soins de son bénéficiaire sur un panneau rectangulaire
+dont les dimensions sont supérieures à 80 centimètres.
+
+" Ce panneau indique le nom, la raison sociale ou la dénomination dudit bénéficiaire, la date et le numéro du permis de
+démolir ; il précise s'il s'agit d'une démolition totale ou partielle ; il mentionne l'adresse de la mairie où le dossier
+peut être consulté.
+
+" Le panneau comporte en outre la mention selon laquelle le délai de recours a été modifié par l'article R. 490-7 du code de
+l'urbanisme.
+
+" Ces renseignements doivent demeurer lisibles de la voie publique pendant au moins deux mois et pour toute la durée du
+chantier. "
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1988-04-28 art. 5 JORF 30 avril 1988
+	  - Arrêté 1989-01-06 art. 7 I JORF 4 février 1989
 
 	**Codifié par**:
 
 	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R490-7 (Ab)
+
+
+###### Article A430-4
+
+Dès l'affichage à la mairie d'un extrait de la décision accordant le permis de démolir et pendant au moins deux mois*délai*,
+et pour toute la durée des travaux de démolition, toute personne intéressée peut consulter en mairie :
+
+- le dossier de demande de permis de démolir ;
+
+- les avis recueillis au cours de l'instruction ;
+
+- l'arrêté accordant ledit permis.
+
+Les dispositions du présent article ne font pas obstacle au droit à communication dans les conditions prévues par la loi n°
+78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le public et
+diverses dispositions d'ordre administratif, social et fiscal.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1989-01-06 art. 7 III JORF 4 février 1989
+
+	**Abrogé par**:
+
+	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Cite**:
+
+	  - Loi n°78-753 1978-07-11
 
 
 ### Titre IV : Dispositions relatives aux modes particuliers d'utilisation du sol.
 
-#### CHAPITRE I : Clôtures.
+#### CHAPITRE I : Clôture
 
 ###### Article A441-1
 
-La demande d'autorisation de clôtures prévue au dernier alinéa de l'article R. 441-4 est établie conformément au modèle joint
-en annexe au présent code.
+La déclaration de clôture prévue à l'article R. 441-3 est établie conformément au modèle visé à l'article A. 422-1.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1989-01-06 art. 8 I, III JORF 4 février 1989
 
 	**Codifié par**:
 
 	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. A422-1 (M)
+	  - Code de l'urbanisme R441-3, A422-1
 
 	**Cité par**:
 
@@ -54731,19 +53626,16 @@ en annexe au présent code.
 	  - Code de l'urbanisme - art. A441-3 (V)
 	  - Code de l'urbanisme - art. A442-1 (M)
 
-	**Cite**:
 
-	  - Code de l'urbanisme R441-4
+###### Article A441-2
 
-
-#### CHAPITRE II : Installations et travaux divers.
-
-###### Article A442-1
-
-La demande d'autorisation d'installations et travaux divers prévue à l'article R. 442-9 est établie conformément au modèle
-visé à l'article A. 441-1.
+Les dispositions des articles A. 422-1-1 et A. 422-1-2 sont également applicables à la déclaration de clôture.
 
 **Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1989-01-06 art. 8 IV JORF 4 février 1989
 
 	**Codifié par**:
 
@@ -54751,8 +53643,115 @@ visé à l'article A. 441-1.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. A441-1 (M)
-	  - Code de l'urbanisme - art. R442-9 (M)
+	  - Code de l'urbanisme - art. A422-1 (M)
+	  - Code de l'urbanisme - art. A422-1-2 (Ab)
+
+
+#### CHAPITRE II : Installations et travaux divers.
+
+#####  Section 2 : Présentation, dépôt et transmission de la demande
+
+###### Article A442-1
+
+La demande d'autorisation des installations et travaux divers prévue à l'article R. 442-4 est établie conformément au modèle
+joint en annexe au présent article.
+
+**Nota:**
+
+Nota : L'imprimé de demande d'autorisation relative aux clôtures, aux installations et travaux divers est enregistré au
+C.E.R.F.A. sous le numéro 46-0388 (imprimé P.C. 152). Il peut être obtenu auprès des mairies ou des directions
+départementales de l'équipement.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1989-01-06 art. 9 JORF 4 février 1989
+
+	**Abrogé par**:
+
+	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R442-4 (M)
+
+
+#####  Section 5 : Formalités postérieures à la délivrance de l'autorisation.
+
+###### Article A442-2
+
+L'affichage de l'autorisation des installations et travaux divers sur le terrain, prévu à l'article R. 442-8, alinéas 1 et 2,
+est assuré par les soins du bénéficiaire de cette autorisation sur un panneau rectangulaire dont les dimensions sont
+supérieures à 80 centimètres.
+
+" Ce panneau indique le nom, la raison sociale ou la dénomination sociale dudit bénéficiaire, la date et le numéro de
+l'autorisation, la nature et les caractéristiques des installations ou travaux et l'adresse de la mairie où le dossier peut
+être consulté.
+
+" Ce panneau comporte en outre la mention selon laquelle le délai de recours a été modifié par l'article R. 490-7 du code de
+l'urbanisme.
+
+" Ces renseignements doivent demeurer lisibles de la voie publique pendant au moins deux mois et pour toute la durée du
+chantier. "
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1988-04-28 art. 6 JORF 30 avril 1988
+
+	**Modifié par**:
+
+	  - Arrêté 1989-01-06 art. 9 JORF 4 février 1989
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R442-8 (M)
+	  - Code de l'urbanisme - art. R490-7 (Ab)
+
+
+###### Article A442-3
+
+Dès l'affichage à la mairie d'un extrait de la décision accordant l'autorisation des installations et travaux divers ou du
+document tenant lieu de cette autorisation, et pendant au moins deux mois et pour toute la durée du chantier, toute personne
+intéressée peut consulter, dans les locaux de la mairie, les pièces suivantes du dossier :
+
+- la demande complète d'autorisation : formulaire de demande, pièces et plans joints ;
+
+- les avis recueillis au cours de l'instruction ;
+
+- l'arrêté accordant l'autorisation des installations et travaux divers.
+
+Les dispositions du présent article ne font pas obstacle au droit à communication dans les conditions prévues par la loi n°
+78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le public et
+diverses dispositions d'ordre administratif, social et fiscal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1989-01-06 art. 9 JORF 4 février 1989
+
+	**Abrogé par**:
+
+	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Cite**:
+
+	  - Loi n°78-753 1978-07-17
 
 
 #### CHAPITRE III : Stationnement des caravanes
@@ -54808,6 +53807,67 @@ Les panneaux de signalisation sont conformes au modèle annexé au présent arti
 	  - Code de l'urbanisme - art. A440-7 (T)
 
 	**Cité par**:
+
+	  - Code de l'urbanisme - art. A443-3 (M)
+
+
+###### Article A443-3
+
+La demande d'autorisation de stationnement isolé d'une ou plusieurs caravanes pendant plus de trois mois par an, rendue
+nécessaire en application des dispositions de l'article R. 443-4, est établie conformément au modèle annexé au présent
+article (non reproduit).
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1993-10-29 art. 1 JORF 19 novembre 1993
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1993-10-29 art. 2
+
+	**Abrogé par**:
+
+	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Cité par**:
+
+	  - Arrêté du 29 octobre 1993 - art. 2 (V)
+	  - Code de l'urbanisme - art. A443-4 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. A440-8 (T)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R443-4 (M)
+
+
+###### Article A443-4
+
+Les dispositions de l'article A. 443-3 ne peuvent être modifiées que par arrêté du ministre chargé de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1989-01-06 art. 10 JORF 4 février 1989
+
+	**Abrogé par**:
+
+	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Cite**:
 
 	  - Code de l'urbanisme - art. A443-3 (M)
 
@@ -54951,62 +54011,29 @@ pris après avis des ministres intéressés.
 	  - Décret n°77-38 1977-12-28 JORF 18 JANVIER 1977
 
 
-#### CHAPITRE III : Camping et stationnement des caravanes
-
-#####  Paragraphe 1 : Stationnement en dehors des terrains aménagés.
-
-###### Article A443-3
-
-Les dispositions des articles A. 443-1 et A. 443-2 ne peuvent être modifiées que par arrêté du ministre chargé de
-l'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cité par**:
-
-	  - Arrêté du 29 octobre 1993 - art. 2 (V)
-	  - Code de l'urbanisme - art. A443-4 (Ab)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. A440-8 (T)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. A443-1 (Ab)
-	  - Code de l'urbanisme - art. A443-2 (Ab)
-
-
-###### Article A443-4
-
-La demande d'autorisation de stationnement isolé de plus de trois mois d'une à cinq caravanes au plus prévue au dernier
-alinéa de l'article R. 443-4 est établie conformément au modèle joint en annexe au présent code.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R443-4 (M)
-
-
 ### TITRE VI : Contrôle
 
 ####  Section 1 : Déclaration d'achèvement des travaux et certificat de conformité.
 
 ###### Article A460-1
 
-La déclaration d'achèvement de travaux prévue à l'article R. 460-1 est établie conformément au modèle annexé au présent
-article.
+La déclaration d'achèvement de travaux prévue à l'article R. 460-1 est établie conformément à la rédaction du modèle annexé
+au présent article.
+
+**Nota:**
+
+Nota : L'imprimé de déclaration d'achèvement de travaux est enregistré au C.E.R.F.A. sous le numéro 46-0395 (imprimé P.C.
+182-4). Il peut être obtenu auprès des mairies ou des directions départementales de l'équipement.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1989-01-06 art. 10 JORF 4 février 1989
+
+	**Abrogé par**:
+
+	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
 
 	**Codifié par**:
 
@@ -55532,583 +54559,6 @@ l'urbanisme et du ministre de l'économie et des finances.
 ## Livre  VI : Organismes consultatifs et dispositions diverses
 
 ###  Titre Ier : Organismes consultatifs
-
-#### CHAPITRE I : Commissions départementales d'urbanisme.
-
-###### Article A611-1
-
-La commission départementale d'urbanisme se réunit au moins une fois par trimestre.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-
-###### Article A611-2
-
-La date et le lieu des séances de la commission sont fixés par le préfet.
-
-L'ordre du jour est arrêté par le préfet. Il est envoyé, ainsi que les convocations, aux membres de la commission au moins
-cinq jours avant la date fixée pour la séance.
-
-L'ordre du jour est adressé avant la séance aux administrations publiques qui ne sont pas représentées en permanence au sein
-de la commission, afin de leur permettre de désigner des délégués qui, en application du premier alinéa de l'article R.
-611-3, ont accès aux séances avec voix consultative.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R611-3 (Ab)
-
-
-###### Article A611-3
-
-La commission ne peut valablement délibérer que si huit au moins de ses membres assistent à la séance.
-
-En cas d'empêchement les membres énumérés à l'article R. 611-2 (1.) peuvent se faire suppléer par un de leurs collaborateurs
-agréé par le préfet.
-
-Lorsque le nombre des membres présents est inférieur à huit, la séance est renvoyée à une date que fixe le préfet, dans la
-limite d'un délai maximum de quinze jours ; les avis émis sont alors valables, quel que soit le nombre des membres présents.
-
-Les avis sont émis à la majorité des voix. En cas de partage des voix, celle du président est prépondérante.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R611-2 (Ab)
-
-
-###### Article A611-4
-
-Lorsque le préfet le juge utile, il confie les affaires soumises à l'examen de la commission à un ou plusieurs rapporteurs
-qui sont choisis soit parmi les membres de la commission, soit parmi les rapporteurs mentionnés au cinquième alinéa de
-l'article R. 611-3.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R611-3 (Ab)
-
-
-###### Article A611-5
-
-Le secrétariat de la commission est assuré par un fonctionnaire de la préfecture.
-
-Les procès-verbaux des séances de la commission sont signés par le président. Ils font mention des membres présents et des
-avis émis par la commission. Ils sont communiqués aux membres de la commission.
-
-Les copies et extraits des procès-verbaux sont certifiés conformes par le secrétaire.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-
-###### Article A611-6
-
-Les rapporteurs mentionnés au cinquième alinéa de l'article R. 611-3 ont accès avec voix consultative aux séances auxquelles
-ils sont convoqués.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R611-3 (Ab)
-
-
-###### Article A611-7
-
-Les dispositions des articles A. 611-1 à A. 611-6 ne peuvent être modifiées que par arrêté conjoint du ministre de
-l'intérieur et du ministre chargé de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cite**:
-
-	  - CODE DE L'URBANISME A611-1 à A611-6
-
-
-#### CHAPITRE II : Conférence permanente du permis de contruire
-
-#####  Section 1 : Conférence permanente du permis de construire instituée dans les départements situés hors de la région d'Ile-de-France.
-
-###### Article A612-1
-
-Sont membres de la conférence permanente du permis de construire instituée dans les départements situés en dehors de la
-région d'Ile-de-France :
-
-Le préfet ou le secrétaire général, président ;
-
-Le directeur départemental de l'équipement ;
-
-Le directeur départemental de l'agriculture ;
-
-Le directeur départemental de l'action sanitaire et sociale ;
-
-L'architecte des bâtiments de France ou des monuments historiques ;
-
-Le vice-président de la commission départementale des sites ;
-
-L'inspecteur d'académie ;
-
-L'inspecteur départemental de la jeunesse et des sports.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-
-###### Article A612-2
-
-Les membres de la conférence peuvent se faire remplacer par un suppléant nominativement désigné par arrêté du préfet.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-
-###### Article A612-3
-
-Le président de la conférence peut entendre, pour les affaires qui les concernent, toutes autorités ou personnes compétentes
-pour émettre un avis sur ces affaires.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-
-###### Article A612-4
-
-Les dispositions de la présente section ne peuvent être modifiées que par arrêté du ministre chargé de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-
-#####  Section 2 : Conférence permanente du permis de construire des départements de la région d'Ile-de-France.
-
-###### Article A612-5
-
-Sont membres de la conférence permanente du permis de construire du département de Paris.
-
-Le préfet de Paris ou le secrétaire général, président ;
-
-Le directeur de l'urbanisme et des équipements de la préfecture de Paris ;
-
-Le directeur départemental des affaires sanitaires et sociales ;
-
-Le délégué régional à l'architecture et à l'environnement ;
-
-L'inspecteur d'académie ;
-
-Le directeur départemental de la jeunesse et des sports ;
-
-Le directeur de la protection et de la sécurité du public de la préfecture de police ;
-
-Le directeur de la circulation, des transports et du commerce de la préfecture de police.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté  1980-02-06 JORF 22 FEVRIER 1980 REPRENANT LES DISPOSITIONS DE Arrêté  1979-09-18 JORF 5 OCTOBRE 1979
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-
-###### Article A612-6
-
-Sont membres de la conférence permanente du permis de construire dans chacun des départements des Hauts-de-Seine, de la
-Seine-Saint-Denis, du Val-de-Marne, du Val-d'Oise, des Yvelines, de l'Essonne et de Seine-et-Marne ;
-
-Le préfet ou le secrétaire général, président ;
-
-Le directeur départemental de l'équipement ;
-
-Le directeur départemental de l'agriculture ;
-
-Le directeur départemental de l'action sanitaire et sociale ;
-
-L'architecte des bâtiments de France ou des monuments historiques ;
-
-Le vice-président de la commission départementale des sites ;
-
-L'inspecteur d'académie ;
-
-L'inspecteur départemental de la jeunesse et des sports ;
-
-Le directeur de la division Urbanisme du service régional de l'équipement de la région d'Ile-de-France.
-
-Sont également membres de la conférence pour les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-
-Marne :
-
-Le directeur de l'hygiène et de la sécurité de la préfecture de police ;
-
-Le directeur de la circulation, des transports et du commerce de la préfecture de police.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-
-###### Article A612-7
-
-Les membres de la conférence peuvent se faire remplacer par un suppléant nominativement désigné par arrêté du préfet.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-
-###### Article A612-8
-
-Le président de la conférence peut entendre, pour les affaires qui les concernent, toutes autorités ou personnes compétentes
-pour émettre un avis sur ces affaires.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-
-###### Article A612-9
-
-Les dispositions de la présente section ne peuvent être modifiées que par arrêté conjoint du ministre chargé de l'urbanisme
-et du ministre de l'intérieur.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-
-#### CHAPITRE III : Comité d'aménagement de la région Ile-de-France.
-
-###### Article A613-1
-
-Le comité d'aménagement de la région d'Ile-de-France se réunit au moins deux fois par an en séance plénière. Le président
-peut convoquer le comité toutes les fois qu'il le juge utile.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-
-###### Article A613-2
-
-La date et le lieu des séances du comité sont fixés par le président.
-
-L'ordre du jour des séances est arrêté par le président sur la proposition du chef du service régional de l'équipement de la
-région d'Ile-de-France.
-
-L'ordre du jour ainsi que les convocations sont envoyés aux membres du comité au moins dix jours avant la date fixée pour la
-séance.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A613-9 (Ab)
-
-
-###### Article A613-3
-
-Le comité ne peut valablement émettre d'avis que si douze au moins de ses membres participent à la séance.
-
-Lorsque le nombre des membres présents est inférieur à douze, la séance est renvoyée à une date que fixe le président de
-séance dans la limite d'un délai maximum de quinze jours. Les avis émis sont alors valables quel que soit le nombre des
-membres présents à la séance reportée.
-
-Les avis sont émis à la majorité des voix. En cas de partage des voix, celle du président est prépondérante.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-
-###### Article A613-4
-
-Les membres du comité visé au 3. et au 4. de l'article R. 613-6 ne peuvent participer aux délibérations concernant des
-affaires dont ils ont eu à connaître dans l'exercice de leurs activités professionnelles privées.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A613-9 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R613-6
-
-
-###### Article A613-5
-
-Les affaires dont le comité est saisi, conformément aux dispositions de l'article R. 613-4, par le préfet de la région font
-l'objet d'un exposé du chef de service régional de l'équipement. Lorsque le président le juge utile, il peut en confier
-l'étude à un ou plusieurs rapporteurs choisis parmi les membres du comité ou parmi des fonctionnaires de catégorie A.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A613-9 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R613-4
-
-
-###### Article A613-6
-
-Les procès-verbaux des séances sont signés par le président. Ils font mention des membres présents et des avis émis. Ils sont
-communiqués aux membres du comité.
-
-Les copies et extraits des procès-verbaux sont certifiés conformes par le secrétaire du comité.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A613-9 (Ab)
-
-
-###### Article A613-7
-
-Il est institué une commission permanente présidée par le conseiller d'Etat, vice-président du comité.
-
-La commission permanente comprend quatorze membres désignés au sein du comité par le préfet de la région d'Ile-de-France dont
-au moins un membre choisi dans chacune des catégories visées au 1., 2., 3. et 4. de l'article R. 613-6, le représentant du
-ministre de l'intérieur et le directeur de l'aménagement foncier et de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cite**:
-
-	  - Code de l'urbanisme R613-6
-
-
-###### Article A613-8
-
-La commission permanente ne peut émettre valablement des avis au nom du comité d'aménagement de la région d'Ile-de-France, en
-application de l'article R. 613-8 (5. alinéa), que si la moitié de ses membres participent à la séance.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cite**:
-
-	  - Code de l'urbanisme R613-8 AL. 5
-
-
-###### Article A613-9
-
-Les dispositions des articles A. 613-2, A. 613-4, A. 613-5 et A. 613-6 sont applicables à la commission permanente.
-
-Il est rendu compte, au début de chaque séance du comité, des avis donnés par la commission permanente en exécution de la
-délégation qu'elle a reçue du comité.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. A613-2 (Ab)
-	  - Code de l'urbanisme - art. A613-4 (Ab)
-	  - Code de l'urbanisme - art. A613-5 (Ab)
-	  - Code de l'urbanisme - art. A613-6 (Ab)
-
-
-###### Article A613-10
-
-Les dispositions du présent chapitre ne peuvent être modifiées que par arrêté conjoint du ministre chargé de l'urbanisme et
-du ministre de l'intérieur.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté 1989-01-06 art. 12 JORF 4 février 1989
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
 
 #### CHAPITRE IV : Architectes-conseils
 
