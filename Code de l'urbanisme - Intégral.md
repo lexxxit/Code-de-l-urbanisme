@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1976-04-01
+Version Consolidée au 1976-05-19
 
 # Partie législative
 
@@ -3449,42 +3449,6 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
-
-
-### Zones à urbaniser en priorité.
-
-###### Article L211-7
-
-Chaque année, le Gouvernement déposera, en annexe au projet de loi de finances, un état des cessions de terrains consenties,
-dans les zones à urbaniser en priorité au cours de l'année civile  écoulée, par les collectivités publiques, les
-établissements publics  ou les sociétés d'économie mixte  prévus aux articles L. 321-1 et R. 321-1.
-
-Cet état fera apparaître  la destination donnée à ces terrains et les superficies cédées aux différents organismes
-constructeurs publics ou privés. Il fera également connaître dans la même forme les prévisions du Gouvernement pour l'année
-suivante, notamment en ce qui concerne la répartition globale des terrains aménagés entre les différentes catégories de
-constructeurs privés et publics, en proportion des possibilités de financement ouvertes à chacun d'eux par la loi de
-finances.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°62-848 du 26 juillet 1962 - art. 14, v. init.
-
-	**Cité par**:
-
-	  - Loi n°85-729 du 18 juillet 1985 - art. 9 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1594-0 G (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 696 (T)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L321-1 (M)
-	  - Code de l'urbanisme R321-1
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ### Zones d' aménagement différé.
@@ -14552,13 +14516,18 @@ commune où se trouve situé l'emplacement réservé.
 
 ###### Article R*123-33
 
-L'approbation du plan d'occupation des sols dispense de l'enquête publique préalable aux classements et déclassements de
-voies et places publiques prévus audit plan, sous réserve que celui-ci précise la catégorie dans lesquelles elles doivent
+L'approbation du plan d'occupation des sols dispense de l'enquête publique préalable aux classements et déclassements des
+voies et places publiques prévus audit plan, sous réserve que celui-ci précise la catégorie dans laquelle elles doivent
 entrer et que lesdits classements et déclassements figurent parmi les opérations soumises à enquête en application de
 l'article R. 123-8.
 
-L'acte qui approuve le plan peut porter, le cas échéant, déclaration d'utilité publique de certaines des opérations prévues
-par le plan.
+L'acte qui approuve le plan d'occupation des sols peut porter, le cas échéant, déclarations d'utilité publique de certaines
+des opérations prévues par ce plan à la condition que l'enquête prévue à l'article R. 123-8 (alinéa 2) ait été close moins
+d'un an avant la date d'approbation du plan.
+
+Lorsque le plan d'occupation des sols est approuvé par décret en Conseil d'Etat en application de l'article L. 123-3 (alinéa
+6) le délai fixé à l'alinéa précédent est porté à dix-huit mois pour celles des opérations dont l'utilité publique ne peut
+être déclarée que par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
