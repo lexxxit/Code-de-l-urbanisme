@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1977-03-24
+Version Consolidée au 1977-04-14
 
 # Partie législative
 
@@ -20705,6 +20705,43 @@ Le silence gardé par le préfet, après expiration du délai ci-dessus imparti,
 	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
 
 
+###### Article R317-14
+
+Si l'association syndicale n'a pu être formée, le projet d'aménagement du lotissement prévu à l'article R. 317-2, établi par
+le comité syndical, est soumis à l'enquête publique dans les conditions fixées par le décret n° 59-701 du 6 juin 1959. Ce
+projet contient un devis estimatif sommaire du coût des travaux. Les frais de l'enquête sont à la charge des propriétaires.
+
+**Nota:**
+
+NOTA : Le décret n° 59-701 a été abrogé (excepté son article 26) par l'article 2 du décret n° 77-393 du 28 mars 1977 et
+codifié sous les articles R. 11-3 à R. 16-4 du code l'expropriation pour cause d'utilité publique.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°54-609 1954-06-04 art. 13
+
+	**Cite**:
+
+	  - Décret n°59-701 1959-06-06 art. 26
+	  - Décret n°77-393 du 28 mars 1977 - art. 2, v. init.
+	  - Code de l'urbanisme - art. R317-2 (Ab)
+	  - Code l'expropriation pour cause d'utilité publique R11-3 à R16-4
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°77-393 du 28 mars 1977 - art. 2 (V) JORF 14 avril 1977
+
+	**Abrogé par**:
+
+	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
+
+
 ###### Article R317-15
 
 Notification du dépôt en mairie du dossier portant fixation des bases de la répartition des dépenses, établi conformément aux
@@ -22027,6 +22064,67 @@ est intéressée par leur transfert.
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R*318-6
+
+L'enquête a lieu dans les conditions fixées par les articles R. 11-4, R. 11-5, R. 11-8, R. 11-9 et R. 11-10 du code de
+l'expropriation pour cause d'utilité publique. 
+
+Lorsque l'enquête est ouverte simultanément dans plusieurs départements, un arrêté conjoint du ministre de l'intérieur et du
+ministre chargé de l'urbanisme désigne le préfet compétent pour prendre l'arrêté prévu à l'article R. 11-4 précité, pour
+établir le dossier mentionné à l'article R. 318-3 et pour centraliser les résultats de l'enquête.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-302 1967-03-31 art. 6
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*318-3 (V)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R11-4 (V)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R11-5 (V)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R11-8 (V)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R11-9 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*318-7
+
+Les personnes choisies en qualité de commissaire enquêteur ou de membre de la commission d'enquête ne doivent pas appartenir
+à l'administration des collectivités et établissements publics intéressés par le transfert des équipements ni participer à
+son contrôle. Ils ne doivent avoir aucun intérêt à l'opération projetée. 
+
+Les indemnités accordées aux commissaires enquêteurs en vertu de l'article R. 11-6 du code de l'expropriation pour cause
+d'utilité publique sont applicables à l'enquête soumise aux dispositions des articles R. 318-4 à R. 318-6.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-302 1967-03-31 art. 7
+
+	**Modifié par**:
+
+	  - Décret n°77-393 du 28 mars 1977 - art. 2 (V) JORF 14 avril 1977
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*318-10 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*318-4 (V)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R11-6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ###### Article R*318-8
 
 A l'issue de cette enquête, le dossier constitué en application de l'article R. 318-4 et les conclusions du commissaire
@@ -22073,6 +22171,94 @@ l'entretien présente le caractère d'une dépense obligatoire.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*318-10
+
+L'enquête prévue à l'article L. 318-3 en vue du transfert dans le domaine public communal de voies privées ouvertes à la
+circulation publique dans un ensemble d'habitation est ouverte à la mairie de la commune sur le territoire de laquelle ces
+voies sont situées.
+
+Le préfet peut ouvrir cette enquête soit à la demande du conseil municipal, soit à celle des propriétaires intéressés, soit
+d'office.
+
+Le dossier soumis à l'enquête est établi à la diligence du préfet et comprend obligatoirement :
+
+1. La nomenclature des voies et des équipements annexes dont le transfert à la commune est envisagé ;
+
+2. Une note indiquant les caractéristiques techniques de l'état d'entretien de chaque voie ;
+
+3. Un plan de situation ;
+
+4. Un état parcellaire.
+
+Le conseil municipal doit donner son avis sur ce projet dans un délai de quatre mois.
+
+Avis du dépôt du dossier à la mairie est notifié dans les conditions prévues par l'article R. 11-22 du code de
+l'expropriation pour cause d'utilité publique aux personnes privées ou publiques propriétaires des voies dont le transfert
+est envisagé.
+
+L'enquête a lieu conformément aux dispositions des articles R. 11-4, R. 11-5, R. 11-8, R. 11-9, R. 11-10 et R. 11-13 du code
+de l'expropriation pour cause d'utilité publique.
+
+Les dispositions de l'article R. 318-7 sont applicables à l'enquête prévue par le présent article.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-302 1967-03-31 ART. 10
+
+	**Modifié par**:
+
+	  - Décret n°77-393 du 28 mars 1977 - art. 2 (V) JORF 14 avril 1977
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L318-3 (M)
+	  - Code de l'urbanisme L318-3, R318-7
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-10 (M)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-13 (M)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-22 (V)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-4 (M)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-5 (M)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-8 (M)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-9 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*318-11 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*318-11
+
+L'opposition des propriétaires intéressés visée au troisième alinéa de l'article L. 318-3 doit être formulée, au cours de
+l'enquête prévue à l'article R. 318-10, dans les conditions fixées au premier alinéa de l'article R. 11-8 du code de
+l'expropriation pour cause d'utilité publique.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-302 1967-03-31 art. 11
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°77-393 du 28 mars 1977 - art. 2 (V) JORF 14 avril 1977
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L318-3 (M)
+	  - Code de l'urbanisme L318-3, R318-10
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-8 (M)
 
 
 ###### Article R*318-12
