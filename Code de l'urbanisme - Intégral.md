@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1992-02-08
+Version Consolidée au 1992-07-23
 
 # Partie législative
 
@@ -53677,25 +53677,22 @@ joint en annexe au présent arrêté (1).
 
 ###### Article A130-2
 
-L'affichage [*publicité*] de l'autorisation de coupe ou d'abattage d'arbres sur le terrain, prévu à l'article R. 130-5,
-alinéa 7, est assuré par les soins du bénéficiaire de cette autorisation sur un panneau rectangulaire dont les dimensions
-sont supérieures à 80 centimètres.
+L'affichage de l'autorisation de coupe ou d'abattage d'arbres sur le terrain, prévu à l'article R. 130-5, alinéa 7, est
+assuré par les soins du bénéficiaire de cette autorisation sur un panneau rectangulaire dont les dimensions sont supérieures
+à 80 centimètres. 
 
-" Ce panneau indique le nom, la raison sociale ou la dénomination sociale dudit bénéficiaire, la date et le numéro de
+Ce panneau indique le nom, la raison sociale ou la dénomination sociale dudit bénéficiaire, la date et le numéro de
 l'autorisation, la nature et la quotité de chaque coupe ou abattage, la superficie du terrain et l'adresse de la mairie où le
-dossier peut être consulté.
+dossier peut être consulté. 
 
-" Le panneau comporte en outre la mention selon laquelle le délai de recours a été modifié par l'article R. 490-7 du code de
-l'urbanisme.
-
-" Ces renseignements doivent demeurer lisibles de la voie publique pendant au moins deux mois [*délai*] et pour toute la
-durée des travaux. "
+Ces renseignements doivent demeurer lisibles de la voie publique pendant au moins deux mois et pour toute la durée des
+travaux.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1988-04-28 art. 1 JORF 30 avril 1988
+	  - Arrêté 1992-07-10 art. 1 JORF du 23 juillet 1992
 
 	**Codifié par**:
 
@@ -53703,8 +53700,7 @@ durée des travaux. "
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R130-5 (M)
-	  - Code de l'urbanisme - art. R490-7 (Ab)
+	  - Code de l'urbanisme - art. R*130-5 (Ab)
 
 
 ###### Article A130-3
@@ -53952,26 +53948,27 @@ peut être obtenu auprès des mairies et des directions départementales de l'é
 L'affichage de l'autorisation de lotir sur le terrain est assurée par les soins de son bénéficiaire sur un panneau
 rectangulaire dont les dimensions sont supérieures à 80 centimètres.
 
-" Il en est de même d'une copie de la lettre prévue à l'article R. 315-15 ou, le cas échéant, R. 315-17, et d'une copie de la
+Il en est de même d'une copie de la lettre prévue à l'article R. 315-15 ou, le cas échéant, R. 315-17, et d'une copie de la
 lettre de mise en demeure faite en application de l'article R. 315-21 lorsque l'autorisation sollicitée est réputée accordée.
 
-" Le panneau indique le nom, la raison sociale ou la dénomination sociale dudit bénéficiaire, la date et le numéro de
+Le panneau indique le nom, la raison sociale ou la dénomination sociale dudit bénéficiaire, la date et le numéro de
 l'autorisation de lotir, la superficie du terrain à lotir, le nombre maximum de lots autorisés, la surface de plancher hors
 oeuvre nette maximale dont la construction est autorisée dans l'ensemble du lotissement, ainsi que l'adresse de la mairie où
 le dossier peut être consulté.
 
-" Le panneau comporte en outre la mention selon laquelle le délai de recours a été modifié par l'article R. 490-7 du code de
-l'urbanisme.
-
-" Ces renseignements doivent demeurer lisibles de la voie publique jusqu'à la date de délivrance du certificat mentionnant
+Ces renseignements doivent demeurer lisibles de la voie publique jusqu'à la date de délivrance du certificat mentionnant
 l'exécution des prescriptions imposées dans l'arrêté d'autorisation, prévu à l'article R. 315-36 a ou c, sans que la durée de
-cet affichage puisse être inférieure à deux mois. "
+cet affichage puisse être inférieure à deux mois.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1988-04-28 art. 2 JORF 30 avril 1988
+	  - Arrêté 1992-07-10 art. 1 JORF 23 juillet 1992
+
+	**Abrogé par**:
+
+	  - Arrêté 2007-06-06 art. 1 II JORF 21 juin 2007 en vigueur le 1er octobre 2007
 
 	**Codifié par**:
 
@@ -53984,10 +53981,8 @@ cet affichage puisse être inférieure à deux mois. "
 	**Cite**:
 
 	  - Code de l'urbanisme - art. R315-15 (M)
-	  - Code de l'urbanisme - art. R315-17 (M)
 	  - Code de l'urbanisme - art. R315-21 (M)
-	  - Code de l'urbanisme - art. R490-7 (Ab)
-	  - Code de l'urbanisme R315-15, R315-17, R490-7, R315-36, R315-21
+	  - Code de l'urbanisme R315-15, R315-21, R315-36
 
 
 ###### Article A315-4
@@ -54356,11 +54351,11 @@ complétée par la mention prévue à l'article R. 421-34.
 ###### Article A421-7
 
 L'affichage du permis de construire sur le terrain est assuré par les soins du bénéficiaire du permis de construire sur un
-panneau rectangulaire dont les dimensions sont supérieures à 80 centimètres.        Ce panneau indique le nom, la raison
-sociale ou la dénomination sociale dudit bénéficiaire, la date et le numéro du permis, la nature des travaux et, s'il y a
-lieu, la superficie du terrain, la superficie du plancher autorisée ainsi que la hauteur de la construction exprimée en
-mètres par rapport au sol naturel et l'adresse de la mairie où le dossier peut être consulté.    " Le panneau comporte en
-outre la mention selon laquelle le délai de recours a été modifié par l'article R. 490-7 du code de l'urbanisme. "
+panneau rectangulaire dont les dimensions sont supérieures à 80 centimètres.
+
+Ce panneau indique le nom, la raison sociale ou la dénomination sociale dudit bénéficiaire, la date et le numéro du permis,
+la nature des travaux et, s'il y a lieu, la superficie du terrain, la superficie du plancher autorisée ainsi que la hauteur
+de la construction exprimée en mètres par rapport au sol naturel et l'adresse de la mairie où le dossier peut être consulté.
 
 Ces renseignements doivent demeurer lisibles de la voie publique pendant toute la durée du chantier.
 
@@ -54368,15 +54363,15 @@ Ces renseignements doivent demeurer lisibles de la voie publique pendant toute l
 
 	**Modifié par**:
 
-	  - Arrêté 1988-04-28 art. 3 JORF 30 avril 1988
+	  - Arrêté 1992-07-10 art. 1 JORF 23 juillet 1992
+
+	**Abrogé par**:
+
+	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
 
 	**Codifié par**:
 
 	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R490-7 (Ab)
 
 
 ###### Article A421-8
@@ -54489,30 +54484,27 @@ L'affichage sur le terrain soit de la mention selon laquelle il n'a pas été fo
 travaux projetés, soit d'un extrait de l'arrêté imposant des prescriptions, est assuré par les soins du déclarant sur un
 panneau rectangulaire dont les dimensions sont supérieures à 80 centimètres.
 
-" Ce panneau indique le nom, la raison sociale ou la dénomination sociale du déclarant, la date à laquelle les travaux
-peuvent être exécutés et le numéro de la déclaration, la nature des travaux et, s'il y a lieu, la superficie du terrain, la
+Ce panneau indique le nom, la raison sociale ou la dénomination sociale du déclarant, la date à laquelle les travaux peuvent
+être exécutés et le numéro de la déclaration, la nature des travaux et, s'il y a lieu, la superficie du terrain, la
 superficie de plancher autorisée ainsi que la hauteur de la construction exprimée en mètres par rapport au sol naturel et
 l'adresse de la mairie où le dossier peut être consulté.
 
-" Le panneau comporte en outre la mention selon laquelle le délai de recours a été modifié par l'article R. 490-7 du code de
-l'urbanisme.
-
-" Ces renseignements doivent demeurer lisibles de la voie publique pendant au moins deux mois et pout toute la durée du
-chantier. "
+Ces renseignements doivent demeurer lisibles de la voie publique pendant au moins deux mois et pout toute la durée du
+chantier.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1988-04-28 art. 4 JORF 30 avril 1988
+	  - Arrêté 1992-07-10 art. 1 JORF 23 juillet 1992
+
+	**Abrogé par**:
+
+	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
 
 	**Codifié par**:
 
 	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R490-7 (Ab)
 
 
 ###### Article A422-1-2
@@ -54868,30 +54860,26 @@ habitabilité, montant du loyer, nature juridique de la location).
 L'affichage du permis de démolir sur le terrain est assuré par les soins de son bénéficiaire sur un panneau rectangulaire
 dont les dimensions sont supérieures à 80 centimètres.
 
-" Ce panneau indique le nom, la raison sociale ou la dénomination dudit bénéficiaire, la date et le numéro du permis de
+Ce panneau indique le nom, la raison sociale ou la dénomination dudit bénéficiaire, la date et le numéro du permis de
 démolir ; il précise s'il s'agit d'une démolition totale ou partielle ; il mentionne l'adresse de la mairie où le dossier
 peut être consulté.
 
-" Le panneau comporte en outre la mention selon laquelle le délai de recours a été modifié par l'article R. 490-7 du code de
-l'urbanisme.
-
-" Ces renseignements doivent demeurer lisibles de la voie publique pendant au moins deux mois et pour toute la durée du
-chantier. "
+Ces renseignements doivent demeurer lisibles de la voie publique pendant au moins deux mois et pour toute la durée du
+chantier.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1988-04-28 art. 5 JORF 30 avril 1988
-	  - Arrêté 1989-01-06 art. 7 I JORF 4 février 1989
+	  - Arrêté 1992-07-10 art. 1 JORF 23 juillet 1992
+
+	**Abrogé par**:
+
+	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
 
 	**Codifié par**:
 
 	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R490-7 (Ab)
 
 
 ###### Article A430-4
@@ -55020,25 +55008,22 @@ L'affichage de l'autorisation des installations et travaux divers sur le terrain
 est assuré par les soins du bénéficiaire de cette autorisation sur un panneau rectangulaire dont les dimensions sont
 supérieures à 80 centimètres.
 
-" Ce panneau indique le nom, la raison sociale ou la dénomination sociale dudit bénéficiaire, la date et le numéro de
+Ce panneau indique le nom, la raison sociale ou la dénomination sociale dudit bénéficiaire, la date et le numéro de
 l'autorisation, la nature et les caractéristiques des installations ou travaux et l'adresse de la mairie où le dossier peut
 être consulté.
 
-" Ce panneau comporte en outre la mention selon laquelle le délai de recours a été modifié par l'article R. 490-7 du code de
-l'urbanisme.
-
-" Ces renseignements doivent demeurer lisibles de la voie publique pendant au moins deux mois et pour toute la durée du
-chantier. "
+Ces renseignements doivent demeurer lisibles de la voie publique pendant au moins deux mois et pour toute la durée du
+chantier.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Arrêté 1988-04-28 art. 6 JORF 30 avril 1988
-
 	**Modifié par**:
 
-	  - Arrêté 1989-01-06 art. 9 JORF 4 février 1989
+	  - Arrêté 1992-07-10 art. 1 JORF 23 juillet 1992
+
+	**Abrogé par**:
+
+	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
 
 	**Codifié par**:
 
@@ -55047,7 +55032,6 @@ chantier. "
 	**Cite**:
 
 	  - Code de l'urbanisme - art. R442-8 (M)
-	  - Code de l'urbanisme - art. R490-7 (Ab)
 
 
 ###### Article A442-3
