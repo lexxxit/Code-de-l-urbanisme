@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1978-01-01
+Version Consolidée au 1978-02-03
 
 # Partie législative
 
@@ -29546,355 +29546,6 @@ Si les assemblées mentionnées à l'alinéa précédent n'ont pas fait connaît
 	  - Décret n°86-517 du 14 mars 1986 - art. 53 () JORF 16 mars 1986 en vigueur le 1er juillet 1986
 
 
-#### Lotissements
-
-##### Lotissements à usage d'habitation ou de commerce.
-
-###### Article R*315-4
-
-La création ou le développement de lotissements en vue de la construction d'immeubles destinés à l'habitation ou au commerce
-ainsi qu'à leurs annexes est subordonnée à une autorisation délivrée par le préfet [*autorité compétente*].
-
-Le préfet se prononce par arrêté après instruction de la demande par le directeur départemental de l'équipement et avis du
-maire ou, dans le cas visé à l'article R. 315-5, après instruction de la demande par le maire.
-
-L'arrêté d'autorisation énonce les prescriptions auxquelles le lotisseur doit se conformer et fixe les règles et servitudes
-d'intérêt général instituées dans le lotissement.
-
-Un exemplaire de l'arrêté d'autorisation et du projet autorisé est déposé et mis à la disposition du public à la mairie de la
-commune où se trouve la partie principale du lotissement ; l'arrêté est publié au bureau des hypothèques.
-
-La composition du dossier à soumettre à l'appui de la demande d'autorisation de lotissement, les formes et délais de
-l'instruction de la demande sont fixés par les dispositions de la section III du présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1466 1958-12-31 ART. 2 et 3
-
-	**Cite**:
-
-	  - Code de l'urbanisme R315-5
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*315-5
-
-L'arrêté du préfet, pris en application de l'article R. 421-22, confère au maire de la commune intéressée, au lieu et place
-du directeur départemental de l'équipement, le pouvoir d'instruction pour l'ensemble des demandes d'autorisation de
-lotissement, sous les réserves édictées à l'article R. 315-6 et selon les modalités fixées par la section III du présent
-chapitre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1466 1958-12-31 ART. 3 BIS
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*322-28-1 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R421-22 (M)
-	  - Code de l'urbanisme R315-6
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme R315-4
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*315-6
-
-Demeure dans les attributions du directeur départemental de l'équipement l'instruction des demandes concernant :
-
-a) Les lotissements pour lesquels le lotisseur est une personne morale de droit public ;
-
-b) Les lotissements à usage d'habitation comportant plus de 100 lots.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1466 1958-12-31 ART. 3 TER
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. R315-23 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme R315-5
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Cité par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 3 (V)
-
-
-###### Article R*315-8
-
-L'arrêté d'autorisation impose s'il y a lieu :
-
-L'exécution par le lotisseur de tous travaux nécessaires à la viabilité du lotissement en ce qui concerne notamment la
-voirie, la distribution d'eau, l'évacuation des eaux usées, l'éclairage, la réalisation d'aires de stationnement, d'espaces
-libres ou de plantations. L'exécution des travaux par tranches peut être autorisée ;
-
-Une participation du lotisseur aux dépenses d'exécution des équipements publics correspondant aux besoins du lotissement et
-rendus nécessaires par sa création. Le préfet peut exiger que cette participation soit réalisée, en tout ou partie, sous
-forme de cession gratuite aux collectivités publiques de terrains qu'il désigne ;
-
-L'affectation de certains emplacements, suivant un plan d'ensemble, à la construction de bâtiments destinés à la mise en
-place de l'équipement commercial et artisanal nécessaire au lotissement, ainsi qu'à l'installation de locaux professionnels
-compatibles avec l'habitation ;
-
-La constitution d'une association syndicale chargée de la gestion et de l'entretien des ouvrages et aménagements d'intérêt
-collectif ;
-
-La suppression ou la modification des clauses du cahier des charges qui seraient contraires au caractère du lotissement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1466 1958-12-31 ART. 5
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*315-9
-
-L'arrêté d'autorisation du lotissement devient caduc si les travaux d'aménagement ne sont pas commencés dans un délai que
-fixe ledit arrêté, et qui ne peut être supérieur à deux ans.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°58-1466 1958-12-31 ART. 6
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-##### Procédure d'autorisation de projets de lotissements.
-
-###### Article R315-16
-
-Sous réserve de ce qui est dit à l'article R. 315-17, le directeur départemental de l'équipement procède à l'instruction de
-la demande [*autorité compétente*] et consulte les administrations, autorités ou commissions intéressées par le projet de
-lotissement.
-
-Il recueille les accords, avis ou décisions prévus par les lois et règlements en vigueur. //DECR.0267 ART. 15 : Conformément
-aux dispositions de l'article 3 du décret n° 60-1161 du 2 novembre 1960, il peut soumettre pour avis, au délégué régional au
-tourisme, les demandes de lotissements, en raison de leur intérêt au point de vue touristique ou des atteintes que ces
-lotissements pourraient porter à l'intégrité du patrimoine touristique// .
-
-Il propose, s'il estime utile, au préfet de prescrire une enquête publique comme en matière d'expropriation.
-
-Il propose les réserves et les prescriptions auxquelles peut être subordonnée la délivrance de l'autorisation du lotissement.
-
-Il formule un avis sur le projet instruit comme il est indiqué aux alinéas précédents et transmet cet avis au préfet.
-
-Cet avis est, suivant le cas, un avis favorable, avec ou sans réserves aux prescriptions, un avis défavorable motivé ou une
-proposition de sursis à statuer.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*315-15 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R315-17 (M)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*315-17 (M)
-	  - Code de l'urbanisme - art. R*315-19 (Ab)
-	  - Code de l'urbanisme - art. R*315-21 (M)
-	  - Code de l'urbanisme - art. R*315-22 (Ab)
-	  - Code de l'urbanisme - art. R*315-24 (M)
-	  - Code de l'urbanisme - art. R*315-25-3 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°59-898 1959-07-29 ART. 3
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R315-20
-
-Le dossier de lotissement approuvé comporte [*contenu*] :
-
-1° Un plan de situation ;
-
-2° Des plans faisant apparaître :
-
-Les lots prévus ;
-
-La voirie, les espaces libres, les aires de stationnement, l'alimentation en eau, gaz et électricité, l'évacuation des eaux
-et matières usées, l'éclairage et tous ouvrages d'intérêt collectif ;
-
-L'implantation et le volume des constructions qui pourront être édifiées sur ces lots ;
-
-Les emplacements réservés à la mise en place des établissements commerciaux et artisanaux répondant aux besoins des
-habitants, telle qu'une étude jointe au dossier en aura révélé l'utilité et servi à en déterminer les caractéristiques ;
-
-Dans le cas de lotissement à usage industriel, les raccordements aux voies ferrées et aux voies d'eau, l'alimentation
-énergétique et tous travaux d'intérêt collectif ;
-
-3° Un programme de travaux indiquant les caractéristiques des divers ouvrages à réaliser et les conditions de leur
-réalisation ;
-
-4° Un règlement fixant les règles et servitudes d'intérêt général imposées dans le lotissement et concernant notamment les
-caractères et la nature des constructions à édifier, la tenue des propriétés, les plantations et les clôtures ;
-
-5° Les statuts de l'association syndicale constituée entre les acquéreurs de lots en vue de la gestion et de l'entretien des
-voies, espaces libres et ouvrages d'intérêt collectif qui ne seraient pas classés dans le domaine communal ;
-
-6° Les conditions dans lesquelles le lotissement pourra être réalisé par tranches.
-
-L'arrêté autorisant le lotissement fixe, en outre, toutes autres obligations mises à la charge du lotisseur, notamment en ce
-qui concerne sa participation aux dépenses d'exécution des équipements publics correspondant aux besoins du lotissement et
-rendus nécessaires par sa création.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*315-21 (M)
-	  - Code de l'urbanisme - art. R*315-25-3 (Ab)
-	  - Code de l'urbanisme - art. R315-14 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°59-898 1959-07-29 ART. 6
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-##### Subdivision de lots provenant d'un lotissement.
-
-###### Article R*315-30
-
-Les articles R. 315-28 et R. 315-29 sont applicables aux documents et cahiers des charges des îlots remembrés en application
-des dispositions de la loi n° 3087 validée et modifiée des 11 octobre 1940, 12 juillet 1941 relative à la reconstruction des
-immeubles d'habitation partiellement ou totalement détruits par suite d'actes de guerre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-614 1972-07-03 ART. 3
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R315-28 (M)
-	  - Code de l'urbanisme - art. R315-29 (M)
-	  - Loi n°40-3087 1940-10-11, 1941-07-12
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*315-31
-
-Les modifications aux divisions de propriétés antérieures à l'entrée en vigueur de la loi du 14 mars 1919 présentement
-abrogée, sur les plans d'extension et d'aménagement des villes sont assimilées aux modifications de lotissement prévues à
-l'article L. 315-3 et interviennent dans les conditions définies audit article.
-
-Le préfet peut engager la procédure prévue à l'article L. 315-3 en vue de mettre en concordance les règles d'urbanisme
-applicables aux propriétés concernées avec les dispositions du plan d'urbanisme ou du plan d'occupation des sols.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-614 1972-07-03 ART. 4
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L315-3 (M)
-	  - Loi   1919-03-14
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R315-28
-
-Les subdivisions de lots provenant d'un lotissement sont assimilées aux modifications de lotissement prévues à l'article L.
-315-3 lorsqu'elles sont demandées par le lotisseur ou par un ou plusieurs lotis.
-
-Les décisions portant modification sont prises par arrêté préfectoral [*autorité compétente*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-614 du 3 juillet 1972 - art. 1, v. init.
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L315-3 (M)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*315-30 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R315-29
-
-Les subdivisions de lots provenant d'un lotissement sont assimilées aux modifications prévues à l'article L. 315-4
-lorsqu'elles ont pour objet la mise en concordance des documents du lotissement avec le plan d'urbanisme ou le plan
-d'occupation des sols, lorsque l'approbation de ce plan aura été prononcée postérieurement à l'autorisation de lotissement.
-
-Les décisions sont prises par arrêté préfectoral [*autorité compétente*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-614 1972-07-03 ART. 2
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L315-4 (M)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*315-30 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 #### Lotissements et divisions de propriété
 
 ##### Dispositions générales relatives aux lotissements.
@@ -31012,60 +30663,6 @@ références (date, volume, numéro) des formalités exécutées à la conservat
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-
-##### Dispositions concernant les associations foncières urbaines de groupement de parcelles
-
-##### Dispositions applicables en cas d'apport.
-
-###### Article R*322-30
-
-Dans le cas de groupement de parcelles pour en faire apport à une société constituée en vue de l'attribution d'immeubles aux
-associés par fractions divises, à une société coopérative de construction ou à une société d'économie mixte de construction
-régie par le décret n. 60-553 du 1er juin 1960, le projet d'acte d'association soumis à l'enquête, prévu à l'article 6 du
-décret du 18 décembre 1927, doit préciser les pouvoirs conférés à l'association pour représenter les associés en vue de la
-réalisation du transfert de propriété par apport à la société.
-
-A ce projet, doivent être joints [*contenu*], en sus des pièces mentionnées à l'article 10 de la loi du 21 juin 1865 et à
-l'article R. 322-3 :
-
-Une notice décrivant les principales caractéristiques du ou des immeubles dont la construction est envisagée par la société
-au profit de laquelle l'apport doit être réalisé ;
-
-Le certificat d'urbanisme délivré en application de l'article L. 410-1 (b) ;
-
-Les statuts de la société qui bénéficiera de l'apport ;
-
-Le contrat de promotion immobilière conforme aux dispositions du titre IV de la loi n. 71-579 du 16 juillet 1971 modifiée ;
-
-Une notice sur le mode d'évaluation des parcelles avant groupement ;
-
-Une notice précisant les conditions de rémunération de l'apport par l'attribution aux membres de l'association de parts ou
-d'actions de la société, évaluant les lots auxquels ces parts donnent vocation et indiquant les conditions d'attribution des
-locaux correspondants dans l'immeuble à construire ;
-
-Le cas échéant, une notice sur les constructions à démolir par l'association foncière urbaine en application de l'article L.
-322-6.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°1927-12-18 ART. 6
-	  - Décret n°60-553 1960-06-01
-	  - Loi n°71-579 1971-07-16 TITRE IV
-	  - Code de l'urbanisme - art. L322-6 (M)
-	  - Code de l'urbanisme - art. L410-1 (M)
-	  - Code de l'urbanisme R322-3
-	  - Loi n°1865-06-21 ART. 10
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Anciens textes**:
-
-	  - Décret n°74-203 1974-02-26 ART. 31
 
 
 ##### Dispositions relatives aux associations foncières urbaines de groupement de parcelles
@@ -32650,33 +32247,6 @@ l'opération projetée.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-
-#### Dispositions concernant les associations foncières urbaines de groupement de parcelles
-
-##### Dispositions applicables en cas de bail à construction.
-
-###### Article R*322-29
-
-L'association foncière urbaine ne peut être dissoute avant le terme du bail à construction et, lorsque le bail prévoit que
-les associés deviendront propriétaires en fin de bail des constructions édifiées, avant l'adoption définitive de l'état
-descriptif de division et du règlement de copropriété dont le président de l'association doit assurer la publication
-conformément aux dispositions du décret n. 55-22 du 4 janvier 1955 et du décret n. 55-1350 du 14 octobre 1955.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°55-22 1955-01-04
-	  - Décret n°55-1350 1955-10-14
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Anciens textes**:
-
-	  - Décret n°74-203 1974-02-26 ART. 30
 
 
 ### Sociétés civiles foncières.
@@ -41282,185 +40852,6 @@ Ces renseignements doivent demeurer lisibles de la voie publique pendant toute l
 	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
 
-### DISPOSITIONS RELATIVES AUX MODES PARTICULIERS  D'UTILISATION DU SOL
-
-#### INSTALLATIONS DIVERSES .
-
-###### Article A440-1
-
-Sont soumis aux dispositions des articles R. 440-1 à R. 440-7 :
-
-I - Toutes installations établies pour plus de trois mois susceptibles de servir d'abri pour l'habitation ou pour tout autre
-usage et constituées :
-
-Soit par d'anciens véhicules désaffectés ;
-
-Soit par des abris en quelque matériau que ce soit, dès lors qu'ils occupent une superficie de 2 mètres carrés au moins et
-que leur hauteur atteint 1,50 mètre.
-
-II - Les dépôts de vieilles ferrailles, de matériaux de démolition, de déchets tels que pneus usés, vieux chiffons, ordures,
-de véhicules désaffectés, dès lors que la superficie occupée sur une même parcelle atteint 5 mètres carrés et qu'ils sont
-visibles de l'extérieur de la propriété.
-
-III - Les parcs d'attractions permanents, de jeux et de sports, les stands et champs de tir, les pistes de karting.
-
-IV - Les aires de stationnement ouvertes au public, payantes ou gratuites, susceptibles de contenir au moins 10 véhicules.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cite**:
-
-	  - CODE DE L'URBANISME R440-1 à R440-7
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A440-3 (Ab)
-
-
-###### Article A440-2
-
-Les autorisations délivrées en application de l'article R.440-1 sont accordées sous réserve des droits des tiers.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A440-3 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R440-1 (Ab)
-
-
-###### Article A440-3
-
-Les dispositions des articles A. 440-1 et A. 440-2 ne peuvent être modifiées que par arrêté conjoint du ministre chargé de
-l'urbanisme et du ministre de l'intérieur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. A440-1 (Ab)
-	  - Code de l'urbanisme - art. A440-2 (Ab)
-
-
-###### Article A440-4
-
-La demande d'autorisation d'affecter un terrain aux installations visées à l'article R. 440-1 est présentée par le
-propriétaire du terrain ou la personne en ayant la jouissance.
-
-Elle énonce :
-
-Le nom du pétitionnaire et, le cas échéant, celui du propriétaire ;
-
-L'emplacement du terrain et sa superficie ;
-
-La nature et les dimensions de l'installation ainsi que l'utilisation qui en est prévue ;
-
-La durée de l'affectation envisagée.
-
-Elle est accompagnée des pièces suivantes :
-
-1. Plan sommaire des lieux, comportant l'implantation de l'installation projetée et l'indication des bâtiments de toute
-nature existant tant sur le terrain que sur les propriétés voisines ;
-
-2. Un croquis ou une photographie de l'installation destinée à servir d'abri ;
-
-Un plan détaillé et coté s'il s'agit de l'installation de jeux ou de sports ou de l'aménagement d'aires de stationnement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A440-5 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R440-1 (Ab)
-
-
-###### Article A440-5
-
-Les dispositions de l'article A. 440-4 ne peuvent être modifiées que par arrêté du ministre chargé de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. A440-4 (Ab)
-
-
-#### STATIONNEMENT DES CARAVANES .
-
-###### Article A440-9
-
-Le dossier prévu à l'article R. 440-14 doit comporter les pièces suivantes :
-
-1. Une fiche de renseignements donnant toutes indications sur :
-
-Les nom, prénoms, nationalité et domicile du demandeur ;
-
-La nature juridique du droit d'occupation du demandeur sur le terrain.
-
-2. Un plan au 1/10 000 indiquant la situation du terrain par rapport aux agglomérations voisines, aux constructions les plus
-proches, aux voies de communication, au rivage s'il y a lieu, aux réseaux publics d'adduction d'eau ou d'assainissement et
-aux points d'eau captée pour l'alimentation s'il en existe, ainsi que l'état actuel d'utilisation du sol.
-
-3. Un plan d'aménagement du terrain au 1/500 ou au 1/1 000 qui indique notamment le nombre d'emplacements et de personnes
-admis, les emplacements des installations projetées, les marges d'isolement obligatoires, les plantations existantes ou
-prévues, le mode de clôture, les emplacements destinés au garage des automobiles, les réseaux de voirie, le dispositif
-d'adduction d'eau et d'assainissement, le mode d'élimination des déchets, les équipements électriques et téléphoniques, et
-l'éclairage du terrain.
-
-4. Le programme des travaux et, le cas échéant, les étapes et conditions de leur réalisation.
-
-5. L'indication des locaux collectifs et installations communes devant faire l'objet par ailleurs d'un permis de construire
-ou de la déclaration préalable prévue à l'article L. 430-3.
-
-6. Un règlement précisant les conditions d'occupation desdits emplacements par les utilisateurs ainsi que les dispositions
-prévues pour assurer l'entretien du terrain et des équipements.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. A440-10 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. A443-6 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L430-3 (Ab)
-	  - Code de l'urbanisme - art. R440-14 (T)
-
-
 ## LIVRE IV : Règles relatives à l'acte de construire et à divers modes d'utilisation du sol
 
 ### TITRE I : Certificat d'urbanisme.
@@ -41705,22 +41096,22 @@ minoration de densité sur les fonds voisins.
 
 #### CHAPITRE II : Exceptions au régime général
 
-#####  Section 1 : Edifices protégés, palais nationaux.
+##### SECTION UNIQUE : Déclarations de travaux exemptés du permis de construire.
 
 ###### Article A422-1
 
-Sont exemptés du permis de construire sur l'ensemble du territoire :
-
-1. Les travaux de restauration et de réparation à exécuter par l'Etat dans les bâtiments civils et palais nationaux ;
-
-2. Les travaux de restauration et de réparation à exécuter dans les édifices protégés au titre de la législation sur les
-monuments historiques dans les conditions prévues par cette législation.
+La déclaration en vue de l'exécution de travaux exemptés de permis de construire, prévue à l'article R. 422-5, est établie
+conformément au modèle joint en annexe au présent code.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Modifié par**:
+
+	  - Arrêté du 28 décembre 1977 art. 2, v. init.
 
 	**Cité par**:
 
@@ -41728,695 +41119,9 @@ monuments historiques dans les conditions prévues par cette législation.
 	  - Code de l'urbanisme - art. A441-1 (M)
 	  - Code de l'urbanisme - art. A441-2 (M)
 
-
-#####  Section 2 : Travaux exécutés par la marine
-
-###### Article A422-2
-
-Sont exemptées du permis de construire :
-
-1. Les constructions de toute nature exécutées à l'intérieur des enceintes des arsenaux dans les ports de guerre ;
-
-2. Les constructions de caractère militaire et secret. Le caractère militaire et secret de ces constructions résulte de la
-décision du ministre chargé des armées approuvant l'exécution de ces travaux.
-
-En application de l'article L. 422-1 ne bénéficient pas de cette exemption les travaux qui sont soumis par ailleurs à des
-dispositions législatives ou réglementaires spéciales telles que celles qui concernent les projets d'aménagement, les
-monuments historiques et les sites ou les aérodromes. Ces travaux sont soumis à la procédure simplifiée prévue à l'article A.
-422-3.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Abrogé par**:
-
-	  - Arrêté du 28 décembre 1977 art. 1, v. init.
-
 	**Cite**:
 
-	  - Code de l'urbanisme - art. A422-3 (Ab)
-	  - Code de l'urbanisme - art. L422-1 (M)
-
-
-###### Article A422-3
-
-Les travaux non exemptés par l'article A. 422-2, à l'exception de ceux portant sur les bâtiments à usage d'habitation ou de
-bureaux qui restent soumis à la procédure réglementaire du permis de construire, ne pourront être entrepris qu'après
-communication du plan de masse au chef du service départemental de l'équipement dans le délai de vingt jours au moins avant
-leur exécution ou la passation des marchés. Le chef du service départemental de l'équipement devra faire connaître son avis
-sur ce plan dans un délai de vingt jours, à dater de sa réception. Le défaut de réponse dans ce délai impliquera son accord.
-
-En cas de désaccord, la décision sera prise par le ministre chargé de l'urbanisme et le ministre des armées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Abrogé par**:
-
-	  - Arrêté du 28 décembre 1977 art. 1, v. init.
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A422-2 (Ab)
-
-
-###### Article A422-4
-
-Les exemptions de permis de construire résultant de la présente section sont accordées sans préjudice de l'application des
-autres lois et règlements en vigueur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Abrogé par**:
-
-	  - Arrêté du 28 décembre 1977 art. 1, v. init.
-
-
-#####  Section 3 : Travaux exécutés par le ministère des armées
-
-###### Article A422-5
-
-Sont exemptées du permis de construire :
-
-a) Les constructions de toute nature exécutées à l'intérieur des grands camps ou de certains camps légers importants. La
-liste de ces camps est arrêtée en commun accord par le ministre de l'urbanisme et le ministre chargé des armées ;
-
-b) Les constructions de caractère militaire et secret. Le caractère militaire et secret résulte de la décision du ministre
-chargé des armées ; il s'applique notamment aux fortifications et à leurs annexes, aux établissements d'expériences et de
-fabrication de matériels et de munitions, aux entrepôts de réserve générale, aux dépôts de munitions.
-
-En application de l'article L. 422-1 ne bénéficient pas de cette exemption les travaux qui sont soumis par ailleurs à des
-dispositions législatives ou réglementaires spéciales telles que celles qui concernent les projets d'aménagement, les
-aérodromes, les monuments historiques et les sites. Ces travaux sont soumis à la procédure simplifiée prévue à l'article A.
-422-7.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Abrogé par**:
-
-	  - Arrêté du 28 décembre 1977 art. 1, v. init.
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A422-17 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. A422-7 (Ab)
-	  - Code de l'urbanisme - art. L422-1 (M)
-
-
-###### Article A422-6
-
-Sont soumis à la procédure normale du permis de construire les travaux concernant les bâtiments à usage de bureaux, les
-bâtiments à usage d'habitation et notamment les casernes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Abrogé par**:
-
-	  - Arrêté du 28 décembre 1977 art. 1, v. init.
-
-
-###### Article A422-7
-
-Les travaux non exemptés par l'article A. 422-5 et ceux qui ne sont pas assujettis à la procédure normale du permis de
-construire ne peuvent être entrepris qu'après communication du plan de masse au chef de service départemental de l'équipement
-dans le délai de vingt jours avant leur exécution ou la passation des marchés. Le chef du service départemental de
-l'équipement doit faire connaître son avis sur ce plan dans un délai de vingt jours à dater de sa réception. Le défaut de
-réponse dans ce délai implique son accord. En cas de désaccord, la décision est prise par le ministre chargé de l'urbanisme
-et le ministre chargé des armées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Abrogé par**:
-
-	  - Arrêté du 28 décembre 1977 art. 1, v. init.
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A422-5 (Ab)
-
-
-###### Article A422-8
-
-Les exemptions du permis de construire résultant de la présente section sont accordées sans préjudice de l'application des
-autres lois et règlements en vigueur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Abrogé par**:
-
-	  - Arrêté du 28 décembre 1977 art. 1, v. init.
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A422-17 (Ab)
-
-
-#####  Section 4 : Travaux de production, de transport et de distribution de l'énergie électrique et du gaz
-
-###### Article A422-9
-
-Les travaux concernant le transport et la distribution du gaz par canalisations enterrées ainsi que la distribution de
-l'énergie électrique par lignes souterraines sont exemptés de permis de construire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Abrogé par**:
-
-	  - Arrêté du 28 décembre 1977 art. 1, v. init.
-
-
-###### Article A422-10
-
-La construction des usines productrices d'énergie électrique et de gaz, à l'exception des locaux à usage d'habitation ou de
-bureaux, la construction des sous-stations, postes de transformation, postes de compression et de détente, les travaux
-concernant le transport et la distribution de l'énergie électrique par lignes aériennes sont exemptés de permis de
-construire, à condition que le directeur départemental de l'équipement ait donné son avis favorable à la réalisation des
-bâtiments ou des travaux, compte tenu de l'environnement, des prescriptions d'urbanisme et des diverses servitudes
-administratives applicables à l'emplacement considéré.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Abrogé par**:
-
-	  - Arrêté du 28 décembre 1977 art. 1, v. init.
-
-
-###### Article A422-11
-
-A cet effet, un dossier portant sur les points mentionnés à l'article R. 421-1 est adressé au directeur départemental de
-l'équipement qui dispose d'un délai d'un mois pour procéder à l'examen du projet. Le défaut de réponse dans ce délai implique
-son accord. En cas de désaccord, le dossier est transmis au ministre chargé de l'urbanisme et au ministre de l'industrie, qui
-statuent.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Abrogé par**:
-
-	  - Arrêté du 28 décembre 1977 art. 1, v. init.
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R421-1 (M)
-
-
-#####  Section 5 : Travaux publics et transports
-
-###### Article A422-12
-
-Les dispositions des articles A. 422-13 à A. 422-15 s'appliquent aux travaux de construction de bâtiments à exécuter :
-
-Dans les ports maritimes ou les ports fluviaux par les services publics ou les établissements publics relevant du ministère
-chargé des travaux publics ou des transports, les concessionnaires de services publics, les titulaires d'une autorisation
-temporaire du domaine public ;
-
-Par les services de voirie ainsi que par les concessionnaires ou les permissionnaires de ces services publics ;
-
-Par la société nationale des chemins de fer français ;
-
-Par les chemins de fer secondaires d'intérêt général et les voies ferrées d'intérêt local.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Abrogé par**:
-
-	  - Arrêté du 28 décembre 1977 art. 1, v. init.
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. A422-13 (Ab)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. A422-14 (Ab)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. A422-15 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. A422-13 (Ab)
-	  - Code de l'urbanisme - art. A422-14 (Ab)
-	  - Code de l'urbanisme - art. A422-15 (Ab)
-
-
-###### Article A422-13
-
-Est seule soumise à la procédure normale du permis de construire la construction des bâtiments à usage d'habitation, des
-gares de voyageurs et des bureaux ouverts au public.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Abrogé par**:
-
-	  - Arrêté du 28 décembre 1977 art. 1, v. init.
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. A422-12 (Ab)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A422-12 (Ab)
-	  - Code de l'urbanisme - art. A422-14 (Ab)
-
-
-###### Article A422-14
-
-La construction de bâtiments autres que ceux visés à l'article A. 422-13 est exemptée de permis de construire à condition que
-le directeur départemental de l'équipement ait donné son avis favorable à l'implantation et au volume desdits bâtiments,
-compte tenu de l'environnement, des prescriptions d'urbanisme et des diverses servitudes administratives applicables à
-l'emplacement considéré.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Abrogé par**:
-
-	  - Arrêté du 28 décembre 1977 art. 1, v. init.
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. A422-12 (Ab)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A422-12 (Ab)
-	  - Code de l'urbanisme - art. A422-16 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. A422-13 (Ab)
-
-
-###### Article A422-15
-
-A cet effet, un dossier portant sur les points mentionnés à l'article R. 421-1 est adressé au directeur départemental de
-l'équipement, qui dispose d'un délai d'un mois pour procéder à l'examen du projet. Le défaut de réponse dans ce délai
-implique son accord. En cas de désaccord, le dossier est transmis au ministre chargé de l'urbanisme et au ministre chargé des
-travaux publics, qui statuent.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Abrogé par**:
-
-	  - Arrêté du 28 décembre 1977 art. 1, v. init.
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A422-12 (Ab)
-	  - Code de l'urbanisme - art. A422-16 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. A422-12 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R421-1 (M)
-
-
-###### Article A422-16
-
-La construction de bâtiments de toute nature à exécuter par les services des bases aériennes ainsi que par les
-concessionnaires ou les permissionnaires de ces services publics, dans les enceintes relevant de l'aviation civile, est
-exemptée de permis de construire dans les conditions prévues aux articles A. 422-14 et A. 422-15.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Abrogé par**:
-
-	  - Arrêté du 28 décembre 1977 art. 1, v. init.
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. A422-14 (Ab)
-	  - Code de l'urbanisme - art. A422-15 (Ab)
-
-
-###### Article A422-17
-
-Les travaux et constructions exécutés par les services des bases aériennes pour le compte du ministère des armées sont soumis
-aux dispositions de la section III du présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Abrogé par**:
-
-	  - Arrêté du 28 décembre 1977 art. 1, v. init.
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. A422-5 (Ab)
-	  - Code de l'urbanisme - art. A422-8 (Ab)
-
-
-#####  Section 6 : Bâtiments scolaires
-
-###### Article A422-18
-
-La construction de bâtiments scolaires du premier degré, du second degré, de l'enfance inadaptée et de l'enseignement
-technique est exemptée de permis de construire, à condition que le directeur départemental de l'équipement soit saisi, un
-mois au moins avant la consultation de la commission départementale des opérations immobilières, /M/de l'architecture et des
-espaces protégés/M/ARR. 09-09-1977 : et de l'architecture//, d'un dossier comprenant l'ensemble des pièces prévues par
-l'annexe 5 de l'instruction du 15 janvier 1970 sur l'application du décret n. 69-825 du 28 août 1969.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°69-825 1969-08-28
-	  - Instruction  1970-01-15 ANNEXE 5
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Abrogé par**:
-
-	  - Arrêté du 28 décembre 1977 art. 1, v. init.
-
-
-###### Article A422-19
-
-Le directeur départemental de l'équipement est tenu d'exprimer son avis écrit à la commission départementale des opérations
-immobilières /M/, de l'architecture et des espaces protégés/M/ARR. 09-09-1977 : et de l'architecture//, lorsque celle-ci est
-compétente pour connaître du projet, dans les vingt jours.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Abrogé par**:
-
-	  - Arrêté du 28 décembre 1977 art. 1, v. init.
-
-
-###### Article A422-20
-
-Lorsque le projet doit être soumis au ministre de l'éducation, l'avis du directeur départemental de l'équipement doit lui
-être transmis intégralement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Abrogé par**:
-
-	  - Arrêté du 28 décembre 1977 art. 1, v. init.
-
-
-###### Article A422-21
-
-Le préfet prend par arrêté une décision sur le projet, soit en fonction de l'avis émis par la commission départementale des
-opérations immobilières /M/, de l'architecture et des espaces protégés/M/ARR. 09-09-1977 : et de l'architecture//, lorsque
-celle-ci est compétente pour connaître du projet, soit en fonction de l'agrément donné par le ministre de l'éducation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Abrogé par**:
-
-	  - Arrêté du 28 décembre 1977 art. 1, v. init.
-
-
-#####  Section 7 : Travaux exécutés par le ministre des postes et télécommunications
-
-###### Article A422-22
-
-Les travaux d'aménagement intérieur des immeubles affectés à l'installation des services des postes et télécommunications
-sont exemptés de permis de construire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Abrogé par**:
-
-	  - Arrêté du 28 décembre 1977 art. 1, v. init.
-
-
-###### Article A422-23
-
-La construction de bâtiments destinés à l'installation des services des postes et télécommunications ainsi que les travaux de
-modifications extérieures ou de reprises de gros oeuvre de bâtiments existants sont exemptés de permis de construire, à
-condition que le directeur départemental de l'équipement ait donné son avis favorable à l'implantation et au volume desdits
-bâtiments, compte tenu de l'environnement, des prescriptions d'urbanisme et des servitudes administratives applicables à
-l'emplacement considéré.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Abrogé par**:
-
-	  - Arrêté du 28 décembre 1977 art. 1, v. init.
-
-
-###### Article A422-24
-
-A cet effet, un dossier portant sur les points mentionnés à l'article R. 421-1 est adressé au directeur départemental de
-l'équipement, qui dispose d'un délai d'un mois pour procéder à l'examen du projet. Le défaut de réponse dans ce délai
-implique son accord. En cas de désaccord, le dossier est transmis au ministre chargé de l'urbanisme et au ministre chargé des
-postes et télécommunications, qui statuent.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Abrogé par**:
-
-	  - Arrêté du 28 décembre 1977 art. 1, v. init.
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R421-1 (M)
-
-
-#####  Section 8 : Travaux de faible importance
-
-###### Article A422-25
-
-Les travaux d'entretien, de réparation et de ravalement des constructions existantes, y compris notamment ceux imposés en
-application de la législation sur le ravalement obligatoire ou ceux prescrits par le maire en application des dispositions
-des articles 303 et 306 du code de l'urbanisme et de l'habitation applicables aux bâtiments menaçant ruine, sont exemptés du
-permis de construire à condition :
-
-1. Que les travaux n'apportent aucune modification à l'architecture des façades, au dessin des ferronneries et des
-menuiseries les agrémentant, à la forme des toitures, à la nature et à la couleur des matériaux de couverture, à l'aspect des
-clôtures ;
-
-2. Que, dans le cas où un arrêté préfectoral est intervenu en application de l'article A. 422-26, la nature et la couleur des
-peintures, enduits et matériaux de revêtements soient conformes aux prescriptions dudit arrêté.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Abrogé par**:
-
-	  - Arrêté du 28 décembre 1977 art. 1, v. init.
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A422-26 (Ab)
-	  - Code de l'urbanisme - art. A422-27 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme et de l'habitation 306, 303
-
-
-###### Article A422-26
-
-Le préfet peut, par arrêté, après consultation de la commission départementale des sites et de la commission départementale
-d'urbanisme, pour certaines communes ou parties de communes, fixer la liste des enduits, matériaux et peintures de
-revêtements extérieurs dont l'utilisation permet de bénéficier de l'exemption prévue à l'article A. 422-25.
-
-Cette liste est établie en tenant compte du caractère des sites, des constructions ou des lieux avoisinants ainsi que de la
-stabilité et de la résistance des enduits, matériaux et peintures aux agents atmosphériques.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Abrogé par**:
-
-	  - Arrêté du 28 décembre 1977 art. 1, v. init.
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. A422-25 (Ab)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A422-27 (Ab)
-
-
-###### Article A422-27
-
-Les exemptions prévues par les articles A. 422-25 et A. 422-26 ne sont pas applicables aux travaux concernant les
-constructions frappées d'alignement et celles situées dans le périmètre de protection des monuments historiques et des sites
-classés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Abrogé par**:
-
-	  - Arrêté du 28 décembre 1977 art. 1, v. init.
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. A422-25 (Ab)
-	  - Code de l'urbanisme - art. A422-26 (Ab)
-
-
-##### Section 9 : Groupement des contrôles radio-électriques
-
-###### Article A422-28
-
-Les travaux de construction et d'aménagement des stations radiogoniométriques sont exemptés de permis de construire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Abrogé par**:
-
-	  - Arrêté du 28 décembre 1977 art. 1, v. init.
-
-
-###### Article A422-29
-
-La construction des centres d'écoutes ainsi que les travaux de modifications extérieures ou de reprise de gros oeuvre et les
-surélévations de bâtiments existants sont exemptés de permis de construire, à condition que le directeur départemental de
-l'équipement ait donné son avis favorable à l'implantation et au volume desdits bâtiments, compte tenu de l'environnement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Abrogé par**:
-
-	  - Arrêté du 28 décembre 1977 art. 1, v. init.
-
-
-###### Article A422-30
-
-A cet effet, un dossier comportant un plan de situation et un plan de masse est adressé au directeur départemental de
-l'équipement qui dispose d'un délai de vingt jours pour procéder à l'examen du projet. Le défaut de réponse dans le délai
-implique son accord. En cas de désaccord, la décision sera prise par les ministres intéressés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Abrogé par**:
-
-	  - Arrêté du 28 décembre 1977 art. 1, v. init.
-
-
-##### Section 10 : Dispositions diverses
-
-###### Article A422-31
-
-Les dispositions du présent chapitre ne peuvent être modifiées que par arrêté du ministre chargé de l'urbanisme et, le cas
-échéant, du ou des ministres intéressés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Abrogé par**:
-
-	  - Arrêté du 28 décembre 1977 art. 1, v. init.
+	  - Code de l'urbanisme R422-5
 
 
 ### TITRE III : Permis de démolir
@@ -42489,24 +41194,12 @@ travaux de démolition, toute personne intéressée peut consulter le registre e
 
 ### Titre IV : Dispositions relatives aux modes particuliers d'utilisation du sol.
 
-###### Article A440-6
+#### CHAPITRE I : Clôtures.
 
-(texte non reproduit).
+###### Article A441-1
 
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. A443-1 (Ab)
-
-
-###### Article A440-7
-
-(texte non reproduit).
+La demande d'autorisation de clôtures prévue au dernier alinéa de l'article R. 441-4 est établie conformément au modèle joint
+en annexe au présent code.
 
 **Liens relatifs à cet article**
 
@@ -42514,14 +41207,23 @@ travaux de démolition, toute personne intéressée peut consulter le registre e
 
 	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
-	**Nouveaux textes**:
+	**Cité par**:
 
-	  - Code de l'urbanisme - art. A443-2 (Ab)
+	  - Code de l'urbanisme - art. A441-2 (V)
+	  - Code de l'urbanisme - art. A441-3 (V)
+	  - Code de l'urbanisme - art. A442-1 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme R441-4
 
 
-###### Article A440-8
+#### CHAPITRE II : Installations et travaux divers.
 
-(texte non reproduit).
+###### Article A442-1
+
+La demande d'autorisation d'installations et travaux divers prévue à l'article R. 442-9 est établie conformément au modèle
+visé à l'article A. 441-1.
 
 **Liens relatifs à cet article**
 
@@ -42529,34 +41231,216 @@ travaux de démolition, toute personne intéressée peut consulter le registre e
 
 	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
-	**Nouveaux textes**:
+	**Cite**:
 
-	  - Code de l'urbanisme - art. A443-3 (Ab)
+	  - Code de l'urbanisme - art. A441-1 (M)
+	  - Code de l'urbanisme - art. R442-9 (M)
+
+
+#### CHAPITRE III : Stationnement des caravanes
+
+#####  Paragraphe 1 : Stationnement en dehors des terrains aménagés
+
+###### Article A443-1
+
+La réglementation prévue à l'article R. 443-3, limitant ou interdisant le stationnement des caravanes est portée à la
+connaissance des usagers par un affichage permanent à la mairie de la commune concernée.
+
+Des panneaux implantés sur les principales voies d'accès à la commune signalent l'existence de cette réglementation.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. A440-6 (T)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. A443-3 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R443-3 (M)
+
+
+###### Article A443-2
+
+Les panneaux de signalisation sont conformes au modèle annexé au présent article (non reproduit).
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. A440-7 (T)
+
+	**Cité par**:
+
 	  - Code de l'urbanisme - art. A443-3 (M)
 
 
-###### Article A440-10
+#####  Paragraphe 2 : Stationnement sur des terrains aménagés
 
-(texte non reproduit).
+###### Article A443-6
+
+Le dossier prévu à l'article R. 443-7 doit comporter les pièces suivantes :
+
+1. Une fiche de renseignements donnant toutes indications sur :
+
+Les nom, prénoms, nationalité et domicile du demandeur ;
+
+La nature juridique du droit d'occupation du demandeur sur le terrain.
+
+2. Un plan au 1/10 000 indiquant la situation du terrain par rapport aux agglomérations voisines, aux constructions les plus
+proches, aux voies de communication, au rivage s'il y a lieu, aux réseaux publics d'adduction d'eau ou d'assainissement et
+aux points d'eau captée pour l'alimentation s'il en existe, ainsi que l'état actuel d'utilisation du sol.
+
+3. Un plan d'aménagement du terrain au 1/500 ou au 1/1 000 qui indique notamment le nombre d'emplacements et de personnes
+admis, les emplacements des installations projetées, les marges d'isolement obligatoires, les plantations existantes ou
+prévues, le mode de clôture, les emplacements destinés au garage des automobiles, les réseaux de voirie, le dispositif
+d'adduction d'eau et d'assainissement, le mode d'élimination des déchets, les équipements électriques et téléphoniques, et
+l'éclairage du terrain.
+
+4. Le programme des travaux et, le cas échéant, les étapes et conditions de leur réalisation.
+
+5. L'indication des locaux collectifs et installations communes devant faire l'objet par ailleurs d'un permis de construire.
+
+6. Un règlement précisant les conditions d'occupation desdits emplacements par les utilisateurs ainsi que les dispositions
+prévues pour assurer l'entretien du terrain et des équipements.
 
 **Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
 
 	**Codifié par**:
 
 	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. A440-9 (T)
+	  - Code de l'urbanisme - art. A440-9 (T)
 
-	**Nouveaux textes**:
+	**Cité par**:
 
+	  - Code de l'urbanisme - art. A443-7 (Ab)
+	  - Code de l'urbanisme - art. A443-8 (Ab)
+	  - Code de l'urbanisme - art. A443-9 (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R443-7 (M)
+
+
+###### Article A443-7
+
+Pour les terrains aménagés destinés à une exploitation touristique, et en ce qui concerne les éléments visés au 3 de
+l'article A. 443-6, deux types de dossiers seront proposés aux demandeurs en vue de garantir aux usagers certains éléments de
+confort. Les caractéristiques de ces dossiers sont précisées dans le tableau figurant en annexe au présent article (non
+reproduit).
+
+Mention de la catégorie choisie par le demandeur sera indiquée dans l'arrêté préfectoral portant autorisation d'ouverture.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Cité par**:
+
+	  - Arrêté du 28 septembre 2007 - art. 2 (V)
+	  - Code de l'urbanisme - art. A443-8 (Ab)
+	  - Code de l'urbanisme - art. A443-9 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. A440-10 (T)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. A443-6 (Ab)
+
+
+###### Article A443-8
+
+Le préfet peut, en fonction, d'une part, de la nature du sol et du relief, d'autre part, de la durée d'ouverture du terrain,
+du type du stationnement, de la surface à aménager et de l'utilisation des caravanes, dispenser le demandeur de fournir
+certaines des pièces indiquées aux articles A. 443-6 et A. 443-7.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 3 FEVRIER 1978
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. A440-11 (T)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. A443-6 (Ab)
 	  - Code de l'urbanisme - art. A443-7 (Ab)
 
 
-###### Article A440-11
+###### Article A443-9
 
-(texte non reproduit).
+Les dispositions des articles A. 443-6 et A. 443-7 ne peuvent être modifiées que par arrêté du ministre chargé de l'urbanisme
+pris après avis des ministres intéressés.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. A440-12 (T)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. A443-6 (Ab)
+	  - Code de l'urbanisme - art. A443-7 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-12-28 JORF 18 JANVIER 1977
+
+
+#### CHAPITRE III : Camping et stationnement des caravanes
+
+#####  Paragraphe 1 : Stationnement en dehors des terrains aménagés.
+
+###### Article A443-3
+
+Les dispositions des articles A. 443-1 et A. 443-2 ne peuvent être modifiées que par arrêté du ministre chargé de
+l'urbanisme.
 
 **Liens relatifs à cet article**
 
@@ -42564,14 +41448,25 @@ travaux de démolition, toute personne intéressée peut consulter le registre e
 
 	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
-	**Nouveaux textes**:
+	**Cité par**:
 
-	  - Code de l'urbanisme - art. A443-8 (Ab)
+	  - Arrêté du 29 octobre 1993 - art. 2 (V)
+	  - Code de l'urbanisme - art. A443-4 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. A440-8 (T)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. A443-1 (Ab)
+	  - Code de l'urbanisme - art. A443-2 (Ab)
 
 
-###### Article A440-12
+###### Article A443-4
 
-(texte non reproduit).
+La demande d'autorisation de stationnement isolé de plus de trois mois d'une à cinq caravanes au plus prévue au dernier
+alinéa de l'article R. 443-4 est établie conformément au modèle joint en annexe au présent code.
 
 **Liens relatifs à cet article**
 
@@ -42579,9 +41474,9 @@ travaux de démolition, toute personne intéressée peut consulter le registre e
 
 	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
 
-	**Nouveaux textes**:
+	**Cite**:
 
-	  - Code de l'urbanisme - art. A443-9 (Ab)
+	  - Code de l'urbanisme - art. R443-4 (M)
 
 
 ### TITRE VI : Contrôle
