@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1974-10-27
+Version Consolidée au 1974-12-28
 
 # Partie législative
 
@@ -1532,6 +1532,28 @@ d'administration du district font connaître leur avis défavorable.
 	  - Code de l'urbanisme 12 AL. 7 ET 8
 
 
+###### Article L141-3
+
+Les dispositions du projet d'aménagement de la région parisienne approuvé par la loi du 28 août 1941, applicables en
+l'absence de plan d'urbanisme directeur ou de détail approuvé ou de plan d'occupation des sols rendu public ou approuvé,
+cesseront de produire effet le 1er janvier 1976.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L328-2 (V)
+	  - Loi n°2007-254 du 27 février 2007 - art. 3 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Cite**:
+
+	  - Loi   1941-08-28
+
+
 #### CHAPITRE II : Protection de certains départements. 
 
 ###### Article L142-1
@@ -1843,26 +1865,27 @@ l'emploi de certains matériaux ou de certaines couleurs peut être soit interdi
 
 Des décrets en Conseil d'Etat peuvent apporter les adaptations et prévoir les dispositions transitoires éventuellement
 nécessaires à l'application dans les départements d'outre-mer des articles L. 121-1 à L. 121-3, L. 122-1 à L. 122-3, L. 123-1
-à L. 123-9, L. 124-1 à L. 124-3, L. 125-1, L. 130-1 à L. 130-6 et L. 160-1 (1er alinéa).
+à L. 123-9, L. 124-2, L. 124-3, L. 125-1, L. 130-1 à L. 130-6 et L. 160-1 (1er alinéa).
 
-Les projets d'aménagement établis conformément à l'ordonnance n. 45-1423 du 28 juin 1945, abrogée par la loi n. 71-581 du 16
-juillet 1971 (art. 21), et les plans d'urbanisme qui ont été approuvés et mis en vigueur au 17 juillet 1971 continueront de
-produire leurs effets jusqu'à ce qu'un plan d'occupation des sols ait été rendu public.
+Les dispositions ci-après s'appliquent au lieu et place de celles de l'article L. 124-1 : les projets d'aménagement établis
+conformément à l'ordonnance n. 45-1423 du 28 juin 1945, abrogée par la loi n. 71-581 du 16 juillet 1971 (art. 21), et les
+plans d'urbanisme qui ont été approuvés et mis en vigueur au 17 juillet 1971 continueront de produire leurs effets jusqu'à ce
+qu'un plan d'occupation des sols ait été rendu public ou jusqu'à une date limite fixée par décret en Conseil d'Etat.
+
+Les dispositions des articles L. 160-6 à L. 160-8 peuvent être étendues aux départements d'outre-mer par décret en Conseil
+d'Etat avec les adaptations éventuellement nécessaires.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Ordonnance 45-1423 1945-06-28 ABROGEE
+	  - Ordonnance 45-1423 1945-06-28
 	  - Loi n°71-581 du 16 juillet 1971 - art. 21, v. init.
-	  - Code de l'urbanisme - art. L121-1 (M)
-	  - Code de l'urbanisme - art. L121-2 (M)
-	  - Code de l'urbanisme - art. L121-3 (Ab)
 	  - Code de l'urbanisme - art. L124-1 (M)
 	  - Code de l'urbanisme - art. L124-2 (M)
 	  - Code de l'urbanisme - art. L124-3 (Ab)
 	  - Code de l'urbanisme - art. L125-1 (M)
-	  - Code de l'urbanisme L123-1 A L123-9
+	  - Code de l'urbanisme L121-1 à L121-3, L122-1 à L122-3, L123-1 à L123-9, L124-2, L124-3, L125-1, L130-1 à L130-6, L160-1, L124-1, L160-6 à L160-8
 
 	**Anciens textes**:
 
