@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1988-03-02
+Version Consolidée au 1988-04-30
 
 # Partie législative
 
@@ -23152,6 +23152,59 @@ de l'article L. 130-1.
 	  - Décret n°73-1023 1973-11-08
 
 
+####  Section 2 : Utilisation du sol, défrichements, coupe et d'abbatage d'arbres dans les espaces boisés classés
+
+#####  Paragraphe 3 : Décision.
+
+###### Article R*130-5
+
+Sous réserve des dispositions de l'article R. 130-1, toute coupe ou abattage d'arbres compris dans un espace boisé classé est
+subordonné à une autorisation expresse. Si celle-ci n'est pas prononcée dans les quatre mois de la saisine, l'accord est
+réputé refusé.
+
+L'autorité compétente pour statuer sur la demande se prononce par arrêté.
+
+L'autorisation peut être subordonnée à des prescriptions spéciales concernant notamment la technique de gestion, le respect
+de certains peuplements, l'obligation de procéder à des reboisements ou à des plantations de remplacement.
+
+La décision est notifiée au demandeur par lettre recommandée accompagnée, lorsque la décision est négative ou assortie de
+prescriptions, d'une demande d'avis de réception postal [*conditions de forme*].
+
+L'autorisation est valable deux ans [*durée, péremption*]. Elle peut toutefois, si la coupe ou l'abattage n'ont pu être
+pratiqués au cours des années pour lesquelles l'autorisation a été donnée, être prolongée d'une année.
+
+Les coupes rases doivent être suivies dans les cinq ans de travaux de reboisement, à défaut de régénération naturelle
+[*delai*].    L'autorisation est publiée par voie d'affichage à la mairie pendant deux mois [*durée*]. Dans les zones
+urbaines, elle est en outre préalablement portée à la connaissance du public, [*publicité*] par apposition de la décision de
+l'autorité compétente sur un panneau implanté à la limite du terrain boisé concerné et visible d'une voie ouverte au public.
+" Un arrêté du ministre chargé de l'urbanisme règle les formes de l'affichage et fixe la liste des pièces du dossier dont
+tout intéressé peut prendre connaissance. "
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°88-471 1988-04-28 art. 2 I JORF 30 avril 1988
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. A130-2 (V)
+	  - Code de l'urbanisme - art. R490-7 (Ab)
+	  - Code forestier - art. R412-9 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R*130-14 (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R130-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ####  Section 3 : Régime des coupes et abattages d'arbres dans les bois, forêts ou parcs situés sur le territoire de communes ou parties de communes où l'établissement d'un plan local d'urbanisme a été prescrit.
 
 ###### Article R*130-15
@@ -26504,59 +26557,6 @@ raison de la suspension de la servitude ou de la modification de son tracé ou d
 ## Règles générales d'aménagement et d'urbanisme
 
 ### Espaces boisés
-
-#### Utilisation du sol, défrichements, coupes et abattages d'arbres dans les espaces boisés classés
-
-##### Décision
-
-##### Dispositions générales
-
-###### Article R*130-5
-
-Sous réserve des dispositions de l'article R. 130-1, toute coupe ou abattage d'arbres compris dans un espace boisé classé est
-subordonné à une autorisation expresse. Si celle-ci n'est pas prononcée dans les quatre mois de la saisine, l'accord est
-réputé refusé.
-
-L'autorité compétente pour statuer sur la demande se prononce par arrêté.
-
-L'autorisation peut être subordonnée à des prescriptions spéciales concernant notamment la technique de gestion, le respect
-de certains peuplements, l'obligation de procéder à des reboisements ou à des plantations de remplacement.
-
-La décision est notifiée au demandeur par lettre recommandée accompagnée, lorsque la décision est négative ou assortie de
-prescriptions, d'une demande d'avis de réception postal [*conditions de forme*].
-
-L'autorisation est valable deux ans [*durée, péremption*]. Elle peut toutefois, si la coupe ou l'abattage n'ont pu être
-pratiqués au cours des années pour lesquelles l'autorisation a été donnée, être prolongée d'une année.
-
-Les coupes rases doivent être suivies dans les cinq ans de travaux de reboisement, à défaut de régénération naturelle
-[*delai*].    L'autorisation est publiée par voie d'affichage à la mairie pendant deux mois [*durée*]. Dans les zones
-urbaines, elle est en outre préalablement portée à la connaissance du public, [*publicité*] par apposition de la décision de
-l'autorité compétente sur un panneau implanté à la limite du terrain boisé concerné et visible d'une voie ouverte au public.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°86-984 1986-08-19 ART. 7 XVII JORF 27 AOUT 1986
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A130-2 (V)
-	  - Code de l'urbanisme - art. R490-7 (Ab)
-	  - Code forestier - art. R412-9 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. R*130-14 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R130-1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
 
 ## Liste des servitudes d'utilité publique affectant l'utilisation du sol
 
@@ -33238,6 +33238,46 @@ NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 	**Abrogé par**:
 
 	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+
+###### Article R*315-42
+
+Mention de l'autorisation de lotir doit être affichée sur le terrain, de manière visible de l'extérieur, par les soins de son
+bénéficiaire, dès la notification de la décision d'octroi et pendant toute la durée du chantier.
+
+Il en est de même d'une copie de la lettre prévue à l'article R. 315-15, ou, le cas échéant d'une copie de l'avis de
+réception postal de la lettre de mise en demeure prévu à l'article R. 315-17 et d' une copie de l'avis de réception prévu à
+l'article R. 315-21 lorsque l'autorisation sollicitée est réputée accordée.
+
+En outre, dans les huit jours de la délivrance expresse ou tacite de l'autorisation de lotir un extrait de cette autorisation
+ou une copie de la lettre mentionnée à l'alinéa précédent est publiée par voie d'affichage à la mairie pendant deux mois.
+L'exécution de cette formalité fait l'objet d'une mention au registre chronologique des actes de publication et de
+notification des arrêtés du maire prévue à l'article R. 122-11 du code des communes.
+
+L'inobservation de la formalité d'affichage sur le terrain est punie de l'amende prévue pour les contraventions de la
+cinquième classe.
+
+Un exemplaire de l'arrêté d'autorisation et des pièces annexées est mis à la disposition du public à la mairie de la commune.
+
+Un arrêté du ministre chargé de l'urbanisme règle les formes de l'affichage et fixe la liste des pièces du dossier dont tout
+intéressé peut prendre connaissance.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des communes R122-11
+	  - Code de l'urbanisme - art. R315-15 (M)
+	  - Code de l'urbanisme - art. R315-17 (M)
+	  - Code de l'urbanisme - art. R315-21 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°88-471 1988-04-28 art. 2 II JORF 30 avril 1988
 
 
 ###### Article R*315-43
@@ -40972,60 +41012,6 @@ administratifs nécessaires au paiement des subventions.
 	  - Décret n°93-614 du 26 mars 1993 - art. 18 (V) JORF 28 mars 1993
 
 
-## Aménagement foncier
-
-### Opérations d'aménagement
-
-#### Lotissements et divisions de propriété
-
-##### Dispositions diverses.
-
-###### Article R*315-42
-
-Mention de l'autorisation de lotir doit être affichée sur le terrain, de manière visible de l'extérieur, par les soins de son
-bénéficiaire, dès la notification de la décision d'octroi et pendant toute la durée du chantier.
-
-Il en est de même d'une copie de la lettre prévue à l'article R. 315-15, ou, le cas échéant d'une copie de l'avis de
-réception postal de la lettre de mise en demeure prévu à l'article R. 315-17 et d' une copie de l'avis de réception prévu à
-l'article R. 315-21 lorsque l'autorisation sollicitée est réputée accordée.
-
-En outre, dans les huit jours de la délivrance expresse ou tacite de l'autorisation de lotir un extrait de cette autorisation
-ou une copie de la lettre mentionnée à l'alinéa précédent est publiée par voie d'affichage à la mairie pendant deux mois.
-L'exécution de cette formalité fait l'objet d'une mention au registre chronologique des actes de publication et de
-notification des arrêtés du maire prévue à l'article R. 122-11 du code des communes.
-
-L'inobservation de la formalité d'affichage sur le terrain est punie de l'amende prévue pour les contraventions de la
-cinquième classe.
-
-Un exemplaire de l'arrêté d'autorisation et des pièces annexées est mis à la disposition du public à la mairie de la commune.
-
-Un arrêté du ministre chargé de l'urbanisme règle les formes de l'affichage et précise les conditions dans lesquelles tout
-intéressé peut prendre connaissance des documents déposés à l'appui d'une demande d'autorisation de lotir. Le même arrêté
-fixe la liste de ces documents.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°84-228 1984-03-29 ART. 24 JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-228 1984-03-29 ART. 33, ART. 34 : Modalités d'application
-	  - SPEC_APPLI: Décret n°84-228 du 29 mars 1984 - art. 33 (M)
-
-	**Cite**:
-
-	  - Code des communes R122-11
-	  - Code de l'urbanisme - art. R315-15 (M)
-	  - Code de l'urbanisme - art. R315-17 (M)
-	  - Code de l'urbanisme - art. R315-21 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ## Livre IV : Régime applicable aux constructions, aménagements et démolitions
 
 ### Titre IV : Dispositions propres aux aménagements
@@ -44545,6 +44531,62 @@ codifiées sous l'article L2223-5 du code général des collectivités territori
 
 #####  Section 6 : Formalités postérieures à la délivrance du permis de construire
 
+###### Article R*421-39
+
+Mention du permis de construire doit être affichée sur le terrain, de manière visible de l'extérieur, par les soins de son
+bénéficiaire, dès la notification de la décision d'octroi et pendant toute la durée du chantier.
+
+Il en est de même lorsqu'aucune décision n'a été prise à l'égard de la demande de permis de construire dans le délai imparti,
+d'une copie de la lettre de notification de délai ou d'une copie de l'avis de réception postal ou de la décharge de la lettre
+de mise en demeure prévue à l'article R. 421-14 et d'une copie de l'avis de réception ou de la décharge du dépôt de la
+demande.
+
+En outre, dans les huit jours de la délivrance expresse ou tacite du permis de construire, un extrait du permis ou une copie
+de la lettre visée à l'alinéa précédent est publié par voie d'affichage à la mairie pendant deux mois [*publicité*].
+L'exécution de cette formalité fait l'objet d'une mention au registre chronologique des actes de publication et de
+notification des arrêtés du maire prévu à l'article R. 722-11 du code des communes.
+
+L'inobservation de la formalité d'affichage sur le terrain est punie de l'amende prévue pour les contraventions de la
+cinquième classe.
+
+" Un arrêté du ministre chargé de l'urbanisme règle les formes de l'affichage et fixe la liste des pièces du dossier dont
+tout intéressé peut prendre connaissance. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°83-1261 1983-12-30 ART. 49, ART. 50 : Modalités d'application
+	  - SPEC_APPLI: Décret n°83-1261 du 30 décembre 1983 - art. 49 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-22 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-32 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-33 (M)
+
+	**Modifié par**:
+
+	  - Décret n°88-471 1988-04-28 art. 2 III JORF 30 avril 1988
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. R421-14 (Ab)
+	  - Code des communes R122-11, R421-14
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. A421-6-1 (Ab)
+	  - Code de l'urbanisme - art. R313-31 (Ab)
+	  - Code de l'urbanisme - art. R445-3 (Ab)
+	  - Code de l'urbanisme - art. R490-7 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. R421-42 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ###### Article R*421-40
 
 Le bénéficiaire de l'autorisation adresse, lors de l'ouverture du chantier au maire de la commune, quelle que soit l'autorité
@@ -45290,6 +45332,48 @@ NOTA : Les déclarations ci-dessus sont applicables aux déclarations déposées
 	  - Code de l'urbanisme - art. L421-2-1 (M)
 	  - Code de l'urbanisme - art. R421-36 (M)
 	  - Code de l'urbanisme - art. R421-42 (Ab)
+
+
+###### Article R*422-10
+
+Dans les huit jours de la réception de la déclaration en mairie, le maire procède à l'affichage de cette déclaration avec
+indication de la date à partir de laquelle les travaux pourront, en l'absence d'opposition, être exécutés.
+
+" Dès la date à partir de laquelle les travaux peuvent être exécutés et pendant une durée de deux mois, mention qu'il n'a pas
+été formé d'opposition ou, le cas échéant, mention de la notification de prescriptions est portée sur l'exemplaire affiché en
+mairie.
+
+" L'exécution de cette dernière formalité d'affichage fait l'objet d'une mention au registre chronologique des actes de
+publication et de notification des arrêtés du maire prévu à l'article R. 122-11 du code des communes.
+
+" Dès la date à partir de laquelle les travaux peuvent être exécutés, mention qu'il n'a pas été formé d'opposition ou, le cas
+échéant, mention de la notification de prescriptions doit être affichée sur le terrain, par les soins du déclarant, de
+manière visible de l'extérieur, pendant au moins deux mois et pendant toute la durée du chantier si celle-ci est supérieure à
+deux mois.
+
+" L'inobservation de la formalité d'affichage sur le terrain est punie de l'amende prévue pour les contraventions de la 5e
+classe.
+
+" Un arrêté du ministre chargé de l'urbanisme règle les formes de l'affichage et fixe la liste des pièces du dossier dont
+tout intéressé peut prendre connaissance.
+
+" Si les travaux ayant fait l'objet d'une déclaration ne sont pas entrepris dans le délai de deux ans à compter de la date à
+partir de laquelle ils peuvent être effectués ou si les travaux sont interrompus pendant un délai supérieur à une année, les
+effets de la déclaration sont caducs. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°88-471 1988-04-28 art. 1 JORF 30 avril 1988
+
+	**Cite**:
+
+	  - Code des communes R122-11
 
 
 ###### Article R*422-11
@@ -46502,6 +46586,38 @@ ci*publicité*.
 	**Abrogé par**:
 
 	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+
+###### Article R*430-18
+
+Mention du permis de démolir doit être affichée sur le terrain de manière visible de l'extérieur, par les soins de son
+bénéficiaire, dès la notification de la décision d'octroi et pendant toute la durée du chantier.
+
+Il en est de même, lorsqu'aucune décision n'a été prise à l'égard de la demande dans le délai imparti, d'une copie de la
+lettre prévue à l'article R. 430-7-1 ou d'une copie de l'avis de réception postal ou de la décharge de la lettre de mise en
+demeure prévue à l'article R. 430-8-1 et d'une copie de l'avis de réception ou de la décharge du dépôt de la demande.
+
+En outre, dans les huit jours de la délivrance expresse ou tacite du permis de démolir, un extrait du permis ou une copie de
+la lettre visée à l'alinéa précédent est publié par voie d'affichage à la mairie pendant deux mois. L'exécution de cette
+formalité fait l'objet d'une mention au registre chronologique des actes de publication et de notification des arrêtés du
+maire prévu à l'article R. 122-11 du code des communes.         L'inobservation de la formalité d'affichage sur le terrain
+est punie de l'amende prévue pour les contraventions de la cinquième classe.    " Un arrêté du ministre chargé de l'urbanisme
+règle les formes de l'affichage et fixe la liste des pièces du dossier dont tout intéressé peut prendre connaissance. "
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des communes R122-11
+	  - Code de l'urbanisme R430-7-1, R430-8-1
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°88-471 1988-04-28 art. 2 IV JORF 30 avril 1988
 
 
 ###### Article R*430-19
@@ -47900,6 +48016,53 @@ département, chargé de l'urbanisme, ou aux subordonnés de celui-ci, sauf dans
 	**Cite**:
 
 	  - Code de l'urbanisme R442-6-4 1
+
+
+#####  Section 5 : Formalités postérieures à la délivrance de l'autorisation.
+
+###### Article R442-8
+
+Mention de l'autorisation d'installations et travaux divers doit être affichée sur le terrain, de manière visible de
+l'extérieur, par les soins de son bénéficiaire, dès la notification de la décision d'octroi pendant au moins deux mois et
+pendant toute la durée du chantier si celle-ci est supérieure à deux mois.
+
+" Il en est de même, lorsque aucune décision n'a été prise à l'égard de la demande dans le délai imparti, d'une copie de la
+lettre de notification du délai d'instruction prévue à l'article R. 442-4-4 ou d'une copie de l'avis de réception postal ou
+de la décharge de la lettre de mise en demeure prévue à l'article R. 442-4-6 et d'une copie de l'avis de réception ou de la
+décharge du dépôt de la demande.
+
+" En outre, dans les huit jours de la délivrance expresse ou tacite de l'autorisation d'installations et de travaux divers,
+un extrait de l'autorisation ou une copie de la lettre visée à l'alinéa précédent est publié par voie d'affichage à la mairie
+pendant deux mois. L'exécution de cette formalité fait l'objet d'une mention au registre chronologique des actes de
+publication et de notification des arrêtés du maire prévu à l'article R. 122-11 du code des communes.
+
+" L'inobservation de la formalité d'affichage sur le terrain est punie de l'amende prévue pour les contraventions de la
+cinquième classe.
+
+" Un arrêté du ministre chargé de l'urbanisme règle les formes de l'affichage et fixe la liste des pièces du dossier dont
+tout intéressé peut prendre connaissance. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°88-471 1988-04-28 art. 3 JORF 30 avril 1988
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. *R442-7 (V)
+	  - Code de l'urbanisme - art. A442-2 (Ab)
+	  - Code de l'urbanisme - art. R490-7 (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R442-4-4 (Ab)
+	  - Code de l'urbanisme - art. R442-4-6 (Ab)
+	  - Code de l'urbanisme R122-11, R442-4-6, R442-4-4
 
 
 #####  Section 6 : Dispositions particulières
@@ -50055,6 +50218,104 @@ NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
+###### Article R490-7
+
+Le délai de recours contentieux à l'encontre d'un permis de construire court à l'égard des tiers à compter de la plus tardive
+des deux dates suivantes :
+
+a) Le premier jour d'une période continue de deux mois d'affichage sur le terrain des pièces mentionnées, selon le cas, au
+premier ou au deuxième alinéa de l'article R. 421-39 ;
+
+b) Le premier jour d'une période continue de deux mois d'affichage en mairie des pièces mentionnées au troisième alinéa de
+l'article R. 421-39.
+
+Ces dispositions s'appliquent également :
+
+1° Aux coupes et abattages d'arbres, le b étant alors seul applicable et la référence au troisième alinéa de l'article R.
+421-39 étant remplacée par la référence au septième alinéa de l'article R. 130-5 ;
+
+2° A l'autorisation de lotir, la référence aux premier, deuxième et troisième alinéas de l'article R. 421-39 étant remplacée
+par la référence aux premier, deuxième et troisième alinéas de l'article R. 315-42 ;
+
+3° A la déclaration de travaux prévue à l'article L. 422-2, la référence au premier ou au deuxième alinéa et au troisième
+alinéa de l'article R. 421-39 étant remplacée par la référence au quatrième alinéa et au deuxième alinéa de l'article R.
+422-10 ;
+
+4° Au permis de démolir, la référence aux premier, deuxième et troisième alinéas de l'article R. 421-39 étant remplacée par
+la référence aux premier, deuxième et troisième alinéas de l'article R. 430-18 ;
+
+5° A l'autorisation des installations et travaux divers, la référence aux premier, deuxième et troisième alinéas de l'article
+R. 421-39 étant remplacée par la référence aux premier, deuxième et troisième alinéas de l'article R. 442-8.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°88-471 1988-04-28 art. 4 JORF 30 avril 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. A130-2 (M)
+	  - Code de l'urbanisme - art. A315-3 (M)
+	  - Code de l'urbanisme - art. A421-7 (M)
+	  - Code de l'urbanisme - art. A422-1-1 (M)
+	  - Code de l'urbanisme - art. A430-3 (M)
+	  - Code de l'urbanisme - art. A442-2 (M)
+	  - Code de l'urbanisme - art. R490-8 (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L422-2 (M)
+	  - Code de l'urbanisme - art. R130-5 (M)
+	  - Code de l'urbanisme - art. R421-39 (M)
+	  - Code de l'urbanisme - art. R442-8 (M)
+	  - Code de l'urbanisme R421-39, R130-5, L422-2, R421-39, R422-10, R430-18, R442-8
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R490-8
+
+Les dispositions de l'article R. 490-7 du code de l'urbanisme ne s'appliqueront pas aux décisions ou, dans le cas de
+l'article L. 422-2, aux absences d'opposition dont la date est antérieure au premier jour du troisième mois suivant la date
+de publication du décret n° 88-471 du 28 avril 1988 modifiant le code de l'urbanisme et relatif aux mesures de publicité et
+aux recours.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L422-2 (M)
+	  - Code de l'urbanisme - art. R490-7 (Ab)
+	  - Décret n°88-471 1988-04-28
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°88-471 1988-04-28 art. 4 JORF 30 avril 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+
 ### TITRE IX : Dispositions communes au titre III du livre Ier, au chapitre V du titre Ier du livre III et aux titres I à IV et VI du présent livre.
 
 ###### Article R*490-5
@@ -50091,186 +50352,7 @@ d) A l'aménagement de la zone de Fos-sur-Mer, dans un périmètre défini par d
 
 ## Règles relatives à l'acte de construire et à divers modes d'utilisation du sol
 
-### Permis de construire
-
-#### Régime général
-
-##### Formalités postérieures à la délivrance du permis de construire.
-
-###### Article R*421-39
-
-Mention du permis de construire doit être affichée sur le terrain, de manière visible de l'extérieur, par les soins de son
-bénéficiaire, dès la notification de la décision d'octroi et pendant toute la durée du chantier.
-
-Il en est de même lorsqu'aucune décision n'a été prise à l'égard de la demande de permis de construire dans le délai imparti,
-d'une copie de la lettre de notification de délai ou d'une copie de l'avis de réception postal ou de la décharge de la lettre
-de mise en demeure prévue à l'article R. 421-14 et d'une copie de l'avis de réception ou de la décharge du dépôt de la
-demande.
-
-En outre, dans les huit jours de la délivrance expresse ou tacite du permis de construire, un extrait du permis ou une copie
-de la lettre visée à l'alinéa précédent est publié par voie d'affichage à la mairie pendant deux mois [*publicité*].
-L'exécution de cette formalité fait l'objet d'une mention au registre chronologique des actes de publication et de
-notification des arrêtés du maire prévu à l'article R. 722-11 du code des communes.
-
-L'inobservation de la formalité d'affichage sur le terrain est punie de l'amende prévue pour les contraventions de la
-cinquième classe.
-
-Un arrêté du ministre chargé de l'urbanisme règle les formes de l'affichage et précise les conditions dans lesquelles tout
-intéressé peut prendre connaissance des documents déposés à l'appui d'une demande de permis de construire. Le même arrêté
-fixe la liste de ces documents.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°83-1261 1983-12-30 ART. 29, ART. 30, ART. 46 12 JORF 7 JANVIER 1984 date d'entrée en vigueur 1 AVRIL 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°83-1261 1983-12-30 ART. 49, ART. 50 : Modalités d'application
-	  - SPEC_APPLI: Décret n°83-1261 du 30 décembre 1983 - art. 49 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-22 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-32 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-33 (M)
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. R421-14 (Ab)
-	  - Code des communes R122-11
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. A421-6-1 (Ab)
-	  - Code de l'urbanisme - art. R313-31 (Ab)
-	  - Code de l'urbanisme - art. R445-3 (Ab)
-	  - Code de l'urbanisme - art. R490-7 (Ab)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R421-42 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-#### Exceptions au régime général
-
-###### Article R*422-10
-
-Dans les huit jours de la réception de la déclaration en mairie, [*délai, point de départ*] le maire procède à l'affichage de
-cette déclaration, avec indication de la date à partir de laquelle les travaux pourront, en l'absence d'opposition, être
-exécutés [*publicité*] . Cet affichage demeure tant qu'une opposition de l'autorité compétente n'a pas été notifiée au
-déclarant et jusqu'à l'expiration d'un délai d'un mois calculé à partir de la date à laquelle les travaux peuvent être
-exécutés. Mention de la notification de prescriptions est portée sur l'exemplaire affiché. L'application de cette formalité
-fait l'objet d'une mention au registre chronologique de publication et de notification des arrêtés du maire prévu à l'article
-R. 122-11 du code des communes.
-
-Si les travaux ayant fait l'objet d'une déclaration ne sont pas entrepris dans le délai de deux ans à compter de la date à
-partir de laquelle ils peuvent être effectués, ou si des travaux sont interrompus pendant un délai supérieur à une année, les
-effets de la déclaration sont caducs.
-
-**Nota:**
-
-[* Les dispositions ci-dessus sont applicables aux déclarations déposées à compter du 1er mai 1986*]
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-514 du 14 mars 1986 - art. 11 (V)
-
-	**Créé par**:
-
-	  - Décret n°86-514 du 14 mars 1986 - art. 2 () JORF 16 mars 1986
-
-	**Cite**:
-
-	  - Code des communes R122-11
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-### Permis de démolir
-
-#### La décision
-
-##### Formalités postérieures à la délivrance du permis de démolir.
-
-###### Article R*430-18
-
-Mention du permis de démolir doit être affichée sur le terrain de manière visible de l'extérieur, par les soins de son
-bénéficiaire, dès la notification de la décision d'octroi et pendant toute la durée du chantier.
-
-Il en est de même, lorsqu'aucune décision n'a été prise à l'égard de la demande dans le délai imparti, d'une copie de la
-lettre prévue à l'article R. 430-7-1 ou d'une copie de l'avis de réception postal ou de la décharge de la lettre de mise en
-demeure prévue à l'article R. 430-8-1 et d'une copie de l'avis de réception ou de la décharge du dépôt de la demande.
-
-En outre, dans les huit jours de la délivrance expresse ou tacite du permis de démolir, un extrait du permis ou une copie de
-la lettre visée à l'alinéa précédent est publié par voie d'affichage à la mairie pendant deux mois. L'exécution de cette
-formalité fait l'objet d'une mention au registre chronologique des actes de publication et de notification des arrêtés du
-maire prévu à l'article R. 122-11 du code des communes.
-
-L'inobservation de la formalité d'affichage sur le terrain est punie de l'amende prévue pour les contraventions de la
-cinquième classe.
-
-Un arrêté conjoint du ministre chargé de l'urbanisme et du ministre chargé du logement règle les formes de l'affichage.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-224 1984-03-29 ART. 21, ART. 22 : Modalités d'application
-	  - SPEC_APPLI: Décret n°84-224 du 29 mars 1984 - art. 21 (M)
-
-	**Modifié par**:
-
-	  - Décret n°86-984 1986-08-19 art. 7 XXXIX JORF 27 août 1986
-
-	**Cite**:
-
-	  - Code des communes R122-11
-	  - CODE DE L'URBANISME R430-7-1, R430-8-1
-
-
 ### Dispositions relatives aux modes particuliers d'utilisation du sol
-
-#### Installations et travaux divers
-
-##### Procédure d'autorisation
-
-##### Formalités postérieures à la délivrance de l'autorisation.
-
-###### Article R442-8
-
-La publicité de la décision est assurée selon les modalités édictées à l'article R. 441-9.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°84-226 1984-03-29 ART. 24 II JORF 31 MARS 1984 date d'entrée en vigueur 1 AVRIL 1984
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. *R442-7 (V)
-	  - Code de l'urbanisme - art. A442-2 (Ab)
-	  - Code de l'urbanisme - art. R490-7 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R441-9
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
 
 #### Dispositions diverses
 
@@ -51820,6 +51902,40 @@ JORF du 14 août 1987).
 	  - Code de l'urbanisme - art. R*126-1 (V)
 
 
+### Titre  III : Espaces boisés
+
+###### Article A130-2
+
+L'affichage [*publicité*] de l'autorisation de coupe ou d'abattage d'arbres sur le terrain, prévu à l'article R. 130-5,
+alinéa 7, est assuré par les soins du bénéficiaire de cette autorisation sur un panneau rectangulaire dont les dimensions
+sont supérieures à 80 centimètres.
+
+" Ce panneau indique le nom, la raison sociale ou la dénomination sociale dudit bénéficiaire, la date et le numéro de
+l'autorisation, la nature et la quotité de chaque coupe ou abattage, la superficie du terrain et l'adresse de la mairie où le
+dossier peut être consulté.
+
+" Le panneau comporte en outre la mention selon laquelle le délai de recours a été modifié par l'article R. 490-7 du code de
+l'urbanisme.
+
+" Ces renseignements doivent demeurer lisibles de la voie publique pendant au moins deux mois [*délai*] et pour toute la
+durée des travaux. "
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1988-04-28 art. 1 JORF 30 avril 1988
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 janvier 1977
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R130-5 (M)
+	  - Code de l'urbanisme - art. R490-7 (Ab)
+
+
 ### Titre  IV : Dispositions spéciales à certaines parties du territoire
 
 #### Chapitre  II : Espaces naturels sensibles des départements
@@ -52675,22 +52791,29 @@ de l'annexe du modèle de demande.
 
 ###### Article A315-3
 
-L'affichage de l'autorisation de lotir sur le terrain est assuré par les soins de son bénéficiaire sur un panneau
-rectangulaire dont le plus petit côté est supérieur à 80 cm.
+L'affichage de l'autorisation de lotir sur le terrain est assurée par les soins de son bénéficiaire sur un panneau
+rectangulaire dont les dimensions sont supérieures à 80 centimètres.
 
-Il en est de même d'une copie de la lettre prévue à l'article R. 315-15 lorsque l'autorisation sollicitée est réputée
-accordée.
+" Il en est de même d'une copie de la lettre prévue à l'article R. 315-15 ou, le cas échéant, R. 315-17, et d'une copie de la
+lettre de mise en demeure faite en application de l'article R. 315-21 lorsque l'autorisation sollicitée est réputée accordée.
 
-Le panneau indique le nom, la raison sociale ou la dénomination sociale dudit bénéficiaire, la date et le numéro de
+" Le panneau indique le nom, la raison sociale ou la dénomination sociale dudit bénéficiaire, la date et le numéro de
 l'autorisation de lotir, la superficie du terrain à lotir, le nombre maximum de lots autorisés, la surface de plancher hors
 oeuvre nette maximale dont la construction est autorisée dans l'ensemble du lotissement, ainsi que l'adresse de la mairie où
 le dossier peut être consulté.
 
-Ces renseignements doivent demeurer visibles de la voie publique jusqu'à la date de délivrance du certificat mentionnant
-l'exécution des prescriptions imposées dans l'arrêté d'autorisation, prévu à l'article R. 315-36 a, sans que la durée de cet
-affichage puisse être inférieure à trois mois.
+" Le panneau comporte en outre la mention selon laquelle le délai de recours a été modifié par l'article R. 490-7 du code de
+l'urbanisme.
+
+" Ces renseignements doivent demeurer lisibles de la voie publique jusqu'à la date de délivrance du certificat mentionnant
+l'exécution des prescriptions imposées dans l'arrêté d'autorisation, prévu à l'article R. 315-36 a ou c, sans que la durée de
+cet affichage puisse être inférieure à deux mois. "
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1988-04-28 art. 2 JORF 30 avril 1988
 
 	**Codifié par**:
 
@@ -52703,7 +52826,10 @@ affichage puisse être inférieure à trois mois.
 	**Cite**:
 
 	  - Code de l'urbanisme - art. R315-15 (M)
-	  - Code de l'urbanisme R315-36 A
+	  - Code de l'urbanisme - art. R315-17 (M)
+	  - Code de l'urbanisme - art. R315-21 (M)
+	  - Code de l'urbanisme - art. R490-7 (Ab)
+	  - Code de l'urbanisme R315-15, R315-17, R490-7, R315-36, R315-21
 
 
 ###### Article A315-4
@@ -53521,6 +53647,32 @@ l'aménagement du territoire.
 
 #####  Section 6 : Formalités postérieures à la délivrance du permis de construire.
 
+###### Article A421-7
+
+L'affichage du permis de construire sur le terrain est assuré par les soins du bénéficiaire du permis de construire sur un
+panneau rectangulaire dont les dimensions sont supérieures à 80 centimètres.        Ce panneau indique le nom, la raison
+sociale ou la dénomination sociale dudit bénéficiaire, la date et le numéro du permis, la nature des travaux et, s'il y a
+lieu, la superficie du terrain, la superficie du plancher autorisée ainsi que la hauteur de la construction exprimée en
+mètres par rapport au sol naturel et l'adresse de la mairie où le dossier peut être consulté.    " Le panneau comporte en
+outre la mention selon laquelle le délai de recours a été modifié par l'article R. 490-7 du code de l'urbanisme. "
+
+Ces renseignements doivent demeurer lisibles de la voie publique pendant toute la durée du chantier.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1988-04-28 art. 3 JORF 30 avril 1988
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R490-7 (Ab)
+
+
 ###### Article A421-8
 
 Dès l'affichage à la mairie d'un extrait de la décision accordant le permis de construire ou du document en tenant lieu
@@ -53588,6 +53740,38 @@ conformément au modèle joint en annexe au présent code.
 	**Cite**:
 
 	  - Code de l'urbanisme R422-5
+
+
+###### Article A422-1-1
+
+L'affichage sur le terrain soit de la mention selon laquelle il n'a pas été formé d'opposition de l'autorité compétente aux
+travaux projetés, soit d'un extrait de l'arrêté imposant des prescriptions, est assuré par les soins du déclarant sur un
+panneau rectangulaire dont les dimensions sont supérieures à 80 centimètres.
+
+" Ce panneau indique le nom, la raison sociale ou la dénomination sociale du déclarant, la date à laquelle les travaux
+peuvent être exécutés et le numéro de la déclaration, la nature des travaux et, s'il y a lieu, la superficie du terrain, la
+superficie de plancher autorisée ainsi que la hauteur de la construction exprimée en mètres par rapport au sol naturel et
+l'adresse de la mairie où le dossier peut être consulté.
+
+" Le panneau comporte en outre la mention selon laquelle le délai de recours a été modifié par l'article R. 490-7 du code de
+l'urbanisme.
+
+" Ces renseignements doivent demeurer lisibles de la voie publique pendant au moins deux mois et pout toute la durée du
+chantier. "
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 1988-04-28 art. 4 JORF 30 avril 1988
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R490-7 (Ab)
 
 
 #####  Section 2 : Grands camps à l'intérieur desquels les constructions et installations sont exemptées du permis de construire
