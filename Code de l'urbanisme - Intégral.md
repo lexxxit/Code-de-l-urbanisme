@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1977-09-28
+Version Consolidée au 1977-10-13
 
 # Partie législative
 
@@ -16228,18 +16228,18 @@ présent code. L'instruction est engagée conjointement au titre des deux légis
 
 Les demandes d'autorisation d'utilisation ou d'occupation du sol portant sur des bois, forêts ou parcs et impliquant coupe ou
 abattage ne sont pas recevables si le dossier les concernant ne comporte pas l'autorisation de coupe ou d'abattage et, le cas
-échéant, de défrichement. Il en est de même des déclarations [*préalables de travaux*] prévues à l'article L. 430-3 du
-présent code [*dispositions applicables aux demandes et déclarations déposées après le 27 octobre 1974*].
+échéant, de défrichement.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'urbanisme - art. L430-3 (Ab)
+	  - Décret n°77-754 1977-07-07 JORF 10 JUILLET 1977 rectificatif JORF 13 OCTOBRE
 
 	**Nouveaux textes**:
 
 	  - Code de l'urbanisme - art. R*130-15 (Ab)
+	  - Code de l'urbanisme R130-15
 
 	**Codifié par**:
 
