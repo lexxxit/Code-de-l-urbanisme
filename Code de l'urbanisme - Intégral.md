@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1992-08-29
+Version Consolidée au 1992-09-11
 
 # Partie législative
 
@@ -21731,34 +21731,40 @@ Un schéma directeur se compose  d'un rapport et de documents graphiques.
 
 I. - Le rapport présente :
 
-a) Une analyse de la situation existante et les principales perspectives d'aménagement du territoire considéré, compte tenu,
-d'une part, des évolutions démographiques, économiques, sociales et culturelles et, d'autre part, de ses relations avec les
-territoires avoisinants.
+a) Une analyse de la situation existante et les principales perspectives d'aménagement du territoire considéré, compte tenu
+des évolutions démographiques, économiques, sociales et culturelles, des prévisions en matière d'habitat, d'emploi et
+d'équipement et des relations avec les territoires avoisinants ;
 
-b) Le parti d'aménagement adopté et sa justification, compte tenu, notamment, des perspectives visées au a ci-dessus, de
-l'équilibre qu'il convient de préserver entre le développement urbain et l'aménagement rural et de l'utilisation optimale des
-grands équipements existants ou prévus.
+b) L'analyse de l'état initial de l'environnement et la mesure dans laquelle le schéma prend en compte le souci de sa
+préservation ;
 
-c) L'indication des principales phases de réalisation du parti retenu.
+c) Le parti d'aménagement adopté et sa justification ainsi que les orientations fondamentales de l'aménagement des
+territoires intéressés, compte tenu notamment des perspectives et des prévisions mentionnées au a ci-dessus, de l'analyse de
+l'état initial de l'environnement, de l'équilibre entre le développement urbain et l'aménagement rural, de l'équilibre entre
+l'emploi et l'habitat, des moyens de transports existants et futurs et des grands équipements, de la gestion des eaux, de la
+protection des sites et paysages et de la prévention des risques naturels et technologiques ;
 
-d) L'analyse de l'état initial de l'environnement et la mesure dans laquelle le schéma prend en compte le souci de sa
-préservation.
+d) L'indication des principales phases de réalisation du parti retenu et la définition de la capacité d'accueil des espaces
+urbanisés ou à urbaniser en tenant compte notamment de l'équilibre entre l'emploi et l'habitat ainsi que des moyens de
+transport ;
 
-e) La justification de la compatibilité des dispositions du schéma directeur avec l'article L121-10 et avec les lois et
-prescriptions mentionnées à l'article L111-1-1, ainsi que la justification que ces dispositions ne compromettent pas la mise
-en oeuvre des projets d'intérêt général.
+e) La justification de la compatibilité du schéma directeur avec les lois d'aménagement et d'urbanisme et les prescriptions
+prises pour leur application à l'article L. 111-1-1 ainsi que la justification que ces dispositions ne compromettent pas la
+mise en oeuvre d'un projet d'intérêt général.
 
 II. - Les documents graphiques font apparaître :
 
-La destination générale des sols ;
+- la destination générale des sols ;
 
-Les zones d'extension des agglomérations ainsi que les secteurs de restructuration et de rénovation ;
+- les sites d'extension de l'urbanisation et les secteurs de restructuration ;
 
-Les espaces agricoles et forestiers ainsi que    les espaces libres ou boisés à maintenir ou à créer ;
+- les espaces agricoles et forestiers ainsi que les espaces libres ou boisés à maintenir ou à créer ;
 
-Les principaux sites urbains ou naturels à protéger ;
+- les principaux sites et paysages urbains ou naturels à protéger ;
 
-La localisation des principales activités et des équipements publics ou d'intérêt général les plus importants ;
+- les espaces à protéger compte tenu de l'existence de risques naturels prévisibles et de risques technologiques ;
+
+- la localisation des principales activités sans et des équipements publics ou d'intérêt général les plus importants ;
 
 L'organisation générale de la circulation et des transports avec le tracé des principales infrastructures de voirie et, le
 cas échéant, de moyens de transport en site propre ;
@@ -21767,17 +21773,21 @@ Les éléments essentiels des réseaux d'eau et d'assainissement ainsi que du sy
 
 Eventuellement, les périmètres des zones devant faire l'objet de schémas de secteur.
 
-L'un des documents fait ressortir les éléments essentiels de la première phase de réalisation du parti d'aménagement.
-
 En zone de montagne, l'implantation et l'organisation générale des unités touristiques nouvelles.
+
+L'un des documents fait ressortir les éléments essentiels de la première phase de réalisation du parti d'aménagement.
 
 Un arrêté du ministre chargé de l'urbanisme détermine la légende des documents graphiques mentionnés au II ci-dessus.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
 	**Modifié par**:
 
-	  - Décret n°86-52 1986-01-10 art. 2 2° JORF 14 janvier 1986
+	  - Décret n°92-966 du 10 septembre 1992 - art. 1 () JORF 11 septembre 1992
 
 	**Cité par**:
 
@@ -21786,15 +21796,10 @@ Un arrêté du ministre chargé de l'urbanisme détermine la légende des docume
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L111-1-1 (M)
-	  - Code de l'urbanisme - art. L121-10 (M)
 
 	**Anciens textes**:
 
 	  - Code de l'urbanisme R122-5
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*122-26
@@ -22055,17 +22060,17 @@ dans sa mise en oeuvre.
 ###### Article R*123-5
 
 Dans un délai de trois mois à compter de la transmission de la délibération prescrivant l'établissement du plan d'occupation
-des sols, le commissaire de la République porte à la connaissance du maire, les prescriptions nationales ou particulières et
-les servitudes d'utilité publique applicables au territoire concerné ainsi que les projets d'intérêt général au sens de
-l'article
-
-L. 121-12 et, éventuellement parmi les dispositions relatives au contenu du plan d'occupation des sols, prévues aux articles
-R. 123-15 à R. 123-24, celles qui sont nécessaires à la mise en oeuvre de ces projets.
+des sols, le préfet porte à la connaissance du maire, les prescriptions nationales ou particulières et les servitudes
+d'utilité publique applicables au territoire concerné ainsi que les projets d'intérêt général au sens de l'article L. 121-12
+et, éventuellement parmi les dispositions relatives au contenu du plan d'occupation des sols, prévues aux articles R. 123-15
+à R. 123-24, celles qui sont nécessaires à la mise en oeuvre de ces projets. En outre, il porte à sa connaissance les
+objectifs minima à atteindre en matière de politique locale de l'habitat, en tenant compte du programme local de l'habitat
+lorsqu'il existe.
 
 Il porte également à sa connaissance toute autre information qu'il juge utile à l'élaboration du plan. Au cours de
-l'élaboration du plan, le commissaire de la République communique au maire dans les meilleurs délais les prescriptions
-nationales ou particulières, les servitudes d'utilité publique nouvellement instituées ou modifiées ainsi que tout élément
-nouveau d'information concernant les projets d'intérêt général.
+l'élaboration du plan, le préfet communique au maire dans les meilleurs délais les prescriptions nationales ou particulières,
+les servitudes d'utilité publique nouvellement instituées ou modifiées ainsi que tout élément nouveau d'information
+concernant les projets d'intérêt général.
 
 Les communications relatives aux projets d'intérêt général deviennent caduques à l'expiration d'un délai de trois ans si
 elles n'ont pas été confirmées dans la même forme pour une égale durée.
@@ -22074,21 +22079,20 @@ elles n'ont pas été confirmées dans la même forme pour une égale durée.
 
 	**Liens**:
 
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 ART. 50 (Code de l'urbanisme L123-3)
-	  - SPEC_APPLI: Décret n°83-851 1983-09-23 ART. 1 : Date d'entrée en vigueur
+	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 50 (Code de l'urbanisme L123-3)
+	  - SPEC_APPLI: Décret n°83-851 1983-09-23 art. 1 : Date d'entrée en vigueur
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-813 1983-09-09 ART. 2 JORF 11 SEPTEMBRE 1983 date d'entrée en vigueur  1 OCTOBRE 1983
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L121-12 (Ab)
-	  - Code de l'urbanisme R123-15 à R123-24
+	  - Décret n°92-966 du 10 septembre 1992 - art. 2 () JORF 11 septembre 1992
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*141-4 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme R123-15 à R123-24
 
 	**Codifié par**:
 
@@ -22524,25 +22528,27 @@ Il est accompagné d'un rapport de présentation ainsi que des annexes visées �
 
 Le rapport de présentation :
 
-1. Expose à partir de l'analyse de la situation existante les perspectives d'évolution démographique, économique et sociale
-ainsi que celles relatives à l'habitat, aux activités économiques et aux équipements publics ;
+1. Expose, à partir de l'analyse de la situation existante, les perspectives d'évolution démographique, économique et
+sociale, ainsi que celles relatives à l'habitat, à l'emploi, aux équipements publics, aux services et aux moyens de
+transports ;.
 
-2. Analyse, en fonction de la sensibililité du milieu, l'état initial du site et de l'environnement et les incidences de la
+2. Analyse, en fonction de la sensibilité du milieu, l'etat initial du site et de l'environnement et les incidences de la
 mise en oeuvre du plan d'occupation des sols sur leur évolution ainsi que les mesures prises pour leur préservation et leur
-mise en valeur.
+mise en valeur ;
 
 3. Détermine les perspectives d'évolution des parties urbanisées de la commune ainsi que les conditions permettant à la
 commune de maîtriser son urbanisation future et énumère, le cas échéant, les moyens utiles à la mise en oeuvre des options
-définies au plan d'occupation des sols ;
+définies au plan d'occupation des sols, en particulier en matière d'habitat pour respecter les objectifs de diversité de
+l'habitat tels qu'ils résultent de la loi n° 91-662 du 13 juillet 1991.
 
-4. Justifie que les dispositions du plan d'occupation des sols sont compatibles avec les lois d'aménagement et d'urbanisme et
-les prescriptions prises pour leur application mentionnées aux articles L. 111-1-1 et L. 121-10, respectent les servitudes
-d'utilité publique et ne compromettent pas la mise en oeuvre des projets d'intérêt général ;
+4. Justifie que les dispositions du plan d'occupation des sols son compatibles avec les lois d'aménagement et d'urbanisme et
+les prescriptions prises pour leur application , respectent les servitudes d'utilité publique et ne compromettent pas la mise
+en oeuvre des projets d'intérêt général ;
 
-5. Justifie le cas échéant de la prise en considération par le plan d'occupation des sols des orientations de la charte
-intercommunale de développement et d'aménagement élaborée en application de l'article 29 de la loi n° 83-8 du 7 janvier 1983
-et de la compatibilité du plan d'occupation des sols avec les orientations du schéma directeur ou du schéma de secteur ou du
-schéma de mise en valeur de la mer ;
+5. Justifie de la compatibilité des dispositions du plan d'occupation des sols avec les orientations du schéma directeur ou
+du schéma de secteur ou du schéma de mise en valeur de la mer et de la prise en considération du programme local de
+l'habitat, lorsqu'il existe. Il justifie en outre de la prise en considération du programme de référence élaboré en
+application des articles L. 123-11 et L. 123-13 .
 
 6. Comporte la superficie des différents types de zones urbaines et de zones naturelles ainsi que des espaces boisés classés
 au titre de l'article L. 130-1 et en cas de révision ou de modification d'un plan déjà existant, fait apparaître l'évolution
@@ -22552,27 +22558,27 @@ respective de ces zones.
 
 	**Anciens textes**:
 
-	  - Décret n°70-1016 1970-10-28 ART. 17
+	  - Décret n°70-1016 1970-10-28 art. 17
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 48 (Code de l'urbanisme L123-1)
+
+	**Modifié par**:
+
+	  - Décret n°92-966 du 10 septembre 1992 - art. 3 () JORF 11 septembre 1992
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L111-1-1 (M)
+	  - Code de l'urbanisme - art. L121-10 (M)
+	  - Code de l'urbanisme - art. L123-11 (M)
+	  - Code de l'urbanisme - art. L123-13 (Ab)
+	  - Code de l'urbanisme - art. L130-1 (M)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Cite**:
-
-	  - Loi n°83-8 1983-01-07 ART. 29
-	  - Code de l'urbanisme - art. L111-1-1 (M)
-	  - Code de l'urbanisme - art. L121-10 (M)
-	  - Code de l'urbanisme - art. L130-1 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 ART. 48 (Code de l'urbanisme L123-1)
-	  - SPEC_APPLI: Décret n°83-851 1983-09-23 ART. 1 : Date d'entrée en vigueur
-
-	**Modifié par**:
-
-	  - Décret n°83-813 1983-09-09 ART. 3 JORF 11 SEPTEMBRE 1983 date d'entrée en vigueur  1 OCTOBRE 1983
 
 
 ###### Article R*123-18
@@ -22690,9 +22696,7 @@ rédaction issue de ladite loi, et les zones délimitées en application de l'ar
 démolition des immeubles est subordonnée à la délivrance d'un permis de démolir ;
 
 c) Les périmètres à l'intérieur desquels s'applique le droit de préemption urbain défini par les articles L. 211-1 et
-suivants et R. 211-1 et suivants , ainsi que les périmètres provisoires ou définitifs des zones d'aménagement différé créees
-avant l'entrée en vigueur de l'article 7 de la loi n° 85-729 du 18 juillet 1985 relative à la définition et à la mise en
-oeuvre de principes d'aménagement ;
+suivants, ainsi que les périmètres provisoires ou définitifs des zones d'aménagement différé ;
 
 d) (alinéa supprimé) ;
 
@@ -22721,7 +22725,7 @@ application de l'article L. 111-10 ;
 m) Le périmètre des secteurs dans lesquels un programme d'aménagement d'ensemble a été approuvé en application de l'article
 L. 332-9.
 
-2° Les zones à urbaniser en priorité ainsi que les zones d'aménagement concerté.
+2° Les zones d'aménagement concerté.
 
 **Liens relatifs à cet article**
 
@@ -22732,7 +22736,7 @@ L. 332-9.
 	**Cite**:
 
 	  - Loi n°80-531 1980-07-15
-	  - Loi n°85-729 1985-07-18 art. 7
+	  - Loi n°85-729 1985-07-18
 	  - Code minier 109, 109-1
 	  - Code de la santé publique - art. L38 (Ab)
 	  - Code de la santé publique - art. L42 (Ab)
@@ -22745,13 +22749,13 @@ L. 332-9.
 	  - Code de l'urbanisme - art. L313-4 (M)
 	  - Code de l'urbanisme - art. L332-9 (M)
 	  - Code de l'urbanisme - art. L430-1 (Ab)
-	  - Code de l'urbanisme - art. R211-1 (M)
-	  - Code de l'urbanisme L313-1, L313-4, L142-1, L142-3, L430-1, L211-1, R211-1, R312-1, L111-5-2, L111-10, L332-9
+	  - Code de l'urbanisme L313-1, L313-4, L142-1, L142-3, L430-1, L211-1, R312-1, L111-5-2, L111-10, L332-9
 	  - Code rural 52-1
 
 	**Modifié par**:
 
-	  - Décret n°86-516 du 14 mars 1986 - art. 8 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+	  - Décret n°92-966 du 10 septembre 1992 - art. 4 () JORF 11 septembre 1992
+	  - Décret n°92-966 du 10 septembre 1992 - art. 8 () JORF 11 septembre 1992
 
 	**Cité par**:
 
@@ -22824,7 +22828,9 @@ d'une zone définie à l'article R. 123-18 (II, 6°) peut être interdite ou sou
 e) Fixer le ou les coefficients d'occupation des sols de chaque zone ou partie de zone et les conditions dans lesquelles ces
 coefficients peuvent être éventuellement dépassés en application des articles L. 123-1 et L. 332-1.
 
-f) Edicter les prescriptions relatives aux équipements et aménagement qui peuvent être autorisés dans les zones qui sont ou
+f) Fixer la destination principale des îlots ou immeubles à restaurer ou à réhabiliter ;.
+
+g) Edicter les prescriptions relatives aux équipements et aménagement qui peuvent être autorisés dans les zones qui sont ou
 peuvent être aménagées en vue de la pratique du ski et les secteurs réservés aux remontées mécaniques.
 
 3° Pour les zones dans lesquelles s'applique le transfert des possibilités de construction prévu à l'article L. 123-2, le
@@ -22843,13 +22849,17 @@ Un arrêté du ministre chargé de l'urbanisme fixe la forme de présentation du
 
 	  - Décret n°70-1016 1970-10-28 ART. 19
 
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
 	**Liens**:
 
-	  - TXT_SOURCE: Loi n°83-8 1983-01-07 ART. 48 (Code de l'urbanisme L123-1)
+	  - TXT_SOURCE: Loi n°83-8 1983-01-07 art. 48 (Code de l'urbanisme L123-1)
 
 	**Modifié par**:
 
-	  - Décret n°86-52 1986-01-10 art. 3 4° JORF 14 janvier 1986
+	  - Décret n°92-966 du 10 septembre 1992 - art. 5 () JORF 11 septembre 1992
 
 	**Cité par**:
 
@@ -22861,11 +22871,7 @@ Un arrêté du ministre chargé de l'urbanisme fixe la forme de présentation du
 	  - Code de l'urbanisme - art. L123-1 (M)
 	  - Code de l'urbanisme - art. L123-2 (M)
 	  - Code de l'urbanisme - art. L332-1 (M)
-	  - Code de l'urbanisme R123-18 II 6
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
+	  - Code de l'urbanisme R123-18, L123-1, L332-1, L123-2
 
 
 ###### Article R*123-22
@@ -22935,9 +22941,6 @@ Les dispositions du plan d'aménagement de la zone ainsi que les règles particu
 cessions de terrains approuvés par le préfet sont incorporées au plan d'occupation des sols, suivant les modalités fixées par
 l'article L. 123-6 (alinéa 2).
 
-Les dispositions destinées à assurer l'unité d'urbanisme et d'architecture dans une zone à urbaniser en priorité sont
-incorporées au plan d'occupation des sols par la décision qui supprime la zone ou en constate l'achèvement.
-
 Les dispositions destinées à assurer l'unité d'urbanisme et d'architecture dans les zones d'habitation et dans les zones
 industrielles créées avant l'institution des zones d'aménagement concerté sont incorporées au plan d'occupation des sols
 suivant les modalités fixées à l'article L. 123-12.
@@ -22946,22 +22949,15 @@ suivant les modalités fixées à l'article L. 123-12.
 
 	**Anciens textes**:
 
-	  - Décret n°70-1016 1970-10-28 ART. 21
-
-	**Modifié par**:
-
-	  - Décret n°83-812 1983-09-09 ART. 11 JORF 11 SEPTEMBRE 1983
-	  - Décret n°83-8 1983-01-07 art. 75 I JORF 9 janvier 1983
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L123-12 (M)
-	  - Code de l'urbanisme - art. L311-1 (M)
-	  - Code de l'urbanisme L123-6 AL. 2
+	  - Décret n°70-1016 1970-10-28 art. 21
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°92-966 du 10 septembre 1992 - art. 8 () JORF 11 septembre 1992
 
 
 ###### Article R*123-24
@@ -27197,11 +27193,10 @@ b) De cession [*gratuite*] d'un terrain dans les conditions fixées par l'articl
 
 c) De cession d'un terrain aménagé situé dans une zone créée avant l'institution des zones d'aménagement concerté et qui a
 été exclue du champ d'application de la taxe locale d'équipement, lorsque cette cession a fait l'objet d'un cahier des
-charges soumis à l'approbation du commissaire de la République ;
+charges soumis à l'approbation du préfet ;
 
-d) De cession d'un terrain aménagé situé dans une zone de rénovation urbaine, une zone à urbaniser en priorité ou une zone de
-résorption de l'habitat insalubre, lorsque cette cession a fait l'objet d'un cahier des charges soumis à l'approbation du
-commissaire de la République.
+d) De cession d'un terrain aménagé situé dans une zone de rénovation urbaine, ou une zone de résorption de l'habitat
+insalubre, lorsque cette cession a fait l'objet d'un cahier des charges soumis à l'approbation du préfet.
 
 e) De transfert de propriété opéré dans le cadre d'une opération de remembrement urbain.
 
@@ -27221,12 +27216,14 @@ spécialement à l'implantation des habitations légères de loisirs.
 
 	**Modifié par**:
 
-	  - Décret n°86-984 1986-08-19 art. 7 XIX JORF 27 AOUT 1986
+	  - Décret n°92-966 du 10 septembre 1992 - art. 8 () JORF 11 septembre 1992
 
 	**Cite**:
 
+	  - Code de l'urbanisme - art. L111-5 (M)
+	  - Code de l'urbanisme - art. L332-6-1 (M)
 	  - Code de l'urbanisme - art. R421-7-1 (M)
-	  - Code de l'urbanisme L111-5 AL. 3, L332-6-1 2 e, R421-7-1, R311-19
+	  - Code de l'urbanisme L111-5, L332-6-1, R421-7-1, R311-19
 
 	**Codifié par**:
 
@@ -28281,22 +28278,19 @@ plans d'exposition aux risques naturels prévisibles et instituées en applicati
 Les communes dotées d'un plan d'occupation des sols rendu public ou approuvé peuvent, par délibération, instituer un droit de
 préemption urbain sur tout ou partie des zones urbaines et des zones d'urbanisation future délimitées par ce plan ainsi que
 sur tout ou partie de leur territoire couvert par un plan d'aménagement de zone approuvé en application de l'article L. 311-4
-ou par un plan de sauvegarde et de mise en valeur rendu public ou approuvé en application de l'article L. 313-1..
+ou par un plan de sauvegarde et de mise en valeur rendu public ou approuvé en application de l'article L. 313-1. lorsqu'il
+n'a pas été créé de zone d'aménagement différé ou de périmètre provisoire de zone d'aménagement différé sur ces territoires.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°87-284 du 22 avril 1987 - art. 1 ()
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
+	  - Décret n°92-967 du 10 septembre 1992 - art. 1 () JORF 11 septembre 1992
 
 	**Cite**:
 
+	  - Code de l'urbanisme - art. L311-4 (M)
 	  - Code de l'urbanisme - art. L313-1 (M)
-	  - Code de l'urbanisme - art. L313-4 (M)
 
 	**Cité par**:
 
@@ -28423,44 +28417,6 @@ conditions prévues à l'article R. 211-2. Elle est adressée aux organismes et 
 	  - Décret n°73-1023 1973-11-08
 
 
-###### Article R211-5
-
-Dans le cas où le droit de préemption urbain est institué ou modifié dans les conditions définies à l'article L. 211-3, le
-décret en Conseil d'Etat prend effet à compter de sa publication au Journal officiel de la République française. Une copie de
-ce décret et un plan précisant le secteur concerné sont déposés à la mairie de la commune intéressée. Avis de ce dépôt est
-donné par affichage à la mairie pendant un mois. Mention en est publiée dans deux journaux diffusés dans le département.
-
-Copie de la même décision est adressée aux services et organismes mentionnés à l'article R. 211-3.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°87-284 du 22 avril 1987 - art. 1 () JORF 25 avril 1987 en vigueur le 1er juin 1987
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°92-967 du 10 septembre 1992 - art. 1 () JORF 11 septembre 1992
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L211-3 (M)
-	  - Code de l'urbanisme - art. R211-1 (M)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*211-6 (M)
-	  - Code de l'urbanisme - art. R*214-5 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ###### Article R211-6
 
 Le maire ou, le cas échéant, le président de l'établissement public de coopération intercommunale compétent est tenu de
@@ -28578,7 +28534,7 @@ l'article L. 211-5, l'acte de rétrocession précise que l'ancien propriétaire 
 	  - Décret n°73-1023 1973-11-08
 
 
-#### CHAPITRE II : Zones d'aménagement différé.
+#### Chapitre II : Zones d'aménagement différé et périmètres provisoires
 
 ###### Article R212-1
 
@@ -28586,30 +28542,21 @@ Les zones d'aménagement différé sont créées :
 
 a) En cas de proposition ou d'avis favorable des communes intéressées ou de l'établissement public de coopération
 intercommunale compétent en application de l'article L. 212-4, par arrêté du préfet ou, si la zone est située sur le
-territoire de plusieurs départements, par arrêté conjoint des préfets intéressés ; 
+territoire de plusieurs départements, par arrêté conjoint des préfet intéressés ; 
 
 b) Par décret en Conseil d'Etat en cas d'avis défavorable d'une commune intéressée ou de l'établissement public de
 coopération intercommunale compétent en application de l'article L. 212-4 ou faute d'avis émis par le conseil municipal ou
 l'organe délibérant de l'établissement public dans le délai de deux mois à compter du jour où le maire ou le président dudit
-établissement a reçu communication du projet.
+établissement a reçu communication du projet. 
 
 L'acte créant la zone désigne le titulaire du droit de préemption qui peut être changé par un acte pris dans les conditions
 prévues ci-dessus.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
-
-	**Modifié par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 3 () JORF 16 mars 1986 en vigueur le 1er juin 1987
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
-
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L212-4 (M)
+	  - Code de l'urbanisme - art. L212-4 (V)
 
 	**Cité par**:
 
@@ -28625,82 +28572,22 @@ prévues ci-dessus.
 
 	  - Décret n°73-1023 1973-11-08
 
-
-###### Article R212-1-1
-
-Des zones d'aménagement différé peuvent être créées, aux fins mentionnées à l'article L. 210-1, dans les communes non dotées
-d'un plan d'occupation des sols rendu public ou approuvé.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L210-1 (M)
-	  - Code de l'urbanisme - art. L212-4 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°90-376 1990-05-05 art. 1 JORF 5 mai 1990
-
-	**Abrogé par**:
-
-	  - Décret n°92 967 1992-09-10 art. 2 II JORF 11 septembre 1992
-
-
-###### Article R212-1-2
-
-Outre les cas prévus à l'article précédent, des zones d'aménagement différé peuvent être créées aux mêmes fins, en
-application du troisième alinéa de l'article L. 212-1, en dehors des zones urbaines et des zones d'urbanisation future
-délimitées par un plan d'occupation des sols rendu public ou approuvé, dans celles des communes de la région d'Ile-de-France
-énumérées ci-après :
-
-" - dans le département de Seine-et-Marne, les communes des arrondissements de Meaux et de Melun ;
-
-" - les communes du département des Yvelines ;
-
-" - dans le département de l'Essonne, les communes de l'arrondissement d'Evry, à l'exception de celles du canton de Milly-la-
-Forêt, et les communes de l'arrondissement de Palaiseau ;
-
-" - dans le département de la Seine-Saint-Denis, les communes de l'arrondissement du Raincy ;
-
-" - les communes du département du Val-de-Marne ;
-
-" - les communes du département du Val-d'Oise. "
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L212-1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°90-376 1990-05-05 art. 1 JORF 5 mai 1990
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°92-967 du 10 septembre 1992 - art. 2 () JORF 11 septembre 1992
 
 
 ###### Article R212-2
 
-La décision créant une zone d'aménagement différé fait l'objet [*publicité*] :
+La décision créant une zone d'aménagement différé fait l'objet :
 
 a) D'une publication au Journal officiel de la République française s'il s'agit d'un décret ;
 
 b) D'une publication au recueil des actes administratifs du ou des départements intéressés s'il s'agit d'un arrêté.
 
-Une copie de la décision créant la zone d'aménagement différé et un plan précisant le périmètre de cette zone sont déposés à
-la mairie de chacune des communes concernées. Avis de ce dépôt est donné par affichage à la mairie pendant un mois. Mention
-en est insérée dans deux journaux publiés dans le ou les départements concernés.
+Mention en est insérée dans deux journaux publiés dans le ou les départements concernés. Une copie de la décision créant la
+zone d'aménagement différé et un plan précisant le périmètre de cette zone sont déposés à la mairie de chacune des communes
+concernées.
 
 Les effets juridiques attachés à la création de la zone ont pour point de départ, dans le cas prévu au a) ci-dessus, la
 publication au Journal officiel et, dans les autres cas, l'exécution de l'ensemble des formalités de publicité mentionnées
@@ -28713,23 +28600,50 @@ d'aménagement différé et au greffe des mêmes tribunaux.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°92-967 du 10 septembre 1992 - art. 2 () JORF 11 septembre 1992
+
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*212-4 (M)
-
-	**Créé par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 3 () JORF 16 mars 1986 en vigueur le   1er juin 1987
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*214-5 (Ab)
 	  - Code de l'urbanisme - art. R*700-2 (Ab)
 
+
+###### Article R212-2-1
+
+L'arrêté préfectoral délimitant le périmètre provisoire de zone d'aménagement différé ou l'arrêté conjoint des préfets
+intéressés, lorsque le périmètre concerne le territoire de plusieurs départements, désigne le titulaire du droit de
+préemption. Il fait l'objet d'une publication au recueil des actes administratifs de la ou des préfectures. Mention en est
+insérée dans deux journaux publiés dans le ou les départements.
+
+Les effets juridiques attachés à la délimitation du périmètre provisoire ont pour point de départ l'exécution de l'ensemble
+des formalités de publicité mentionnées ci-dessus.
+
+Une copie de la décision créant le périmètre provisoire et un plan sont déposés à la mairie de chacune des communes
+concernées.
+
+Une copie de la décision créant le périmètre provisoire est en outre adressée au Conseil supérieur du notariat, à la chambre
+départementale des notaires, aux barreaux constitués près les tribunaux de grande instance dans le ressort desquels est
+délimité le périmètre provisoire et au greffe des mêmes tribunaux.
+
+**Liens relatifs à cet article**
+
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°92-967 du 10 septembre 1992 - art. 2 () JORF 11 septembre 1992
 
 
 ###### Article R212-3
@@ -28738,22 +28652,25 @@ Le commissaire de la République est tenu de délivrer, sans frais, à tout prop
 sociaux donnant vocation à l'attribution, en propriété ou en jouissance, d'un immeuble ou d'une partie d'immeuble, ou à tout
 possesseur de droits indivis sur de tels biens, dans le délai d'un mois qui suit la demande qui en est faite, un certificat
 [*obligatoire*] établi sur papier libre précisant si le bien est situé ou non à l'intérieur du périmètre d'une zone
-d'aménagement différé.
+d'aménagement différé ou d'un périmètre provisoire de zone d'aménagement différé ".
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*214-1 (M)
-
 	**Modifié par**:
 
-	  - Décret n°86-516 du 14 mars 1986 - art. 3 () JORF 16 mars 1986 en vigueur le 1er juin 1987
+	  - Décret n°92-967 du 10 septembre 1992 - art. 2 () JORF 11 septembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°97-503 du 21 mai 1997 - art. 36 () JORF 22 mai 1997
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*212-4 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*214-1 (M)
 
 	**Codifié par**:
 
@@ -28767,13 +28684,9 @@ délais définis à l'article R. 211-7.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
-
 	**Modifié par**:
 
-	  - Décret n°86-516 du 14 mars 1986 - art. 3 () JORF 16 mars 1986 en vigueur le 1er juin 1987
+	  - Décret n°92-967 du 10 septembre 1992 - art. 2 () JORF 11 septembre 1992
 
 	**Cité par**:
 
@@ -28781,8 +28694,8 @@ délais définis à l'article R. 211-7.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L212-3 (M)
-	  - Code de l'urbanisme - art. R211-7 (M)
+	  - Code de l'urbanisme - art. L212-3 (V)
+	  - Code de l'urbanisme - art. R211-7 (V)
 
 	**Codifié par**:
 
@@ -28793,21 +28706,17 @@ délais définis à l'article R. 211-7.
 
 Dans les cas prévus aux alinéas 4 et 5 de l'article L. 212-3, le bénéficiaire du droit de préemption est tenu, sur simple
 requête du propriétaire, d'attester dans le délai de quinze jours suivant la réception de ladite requête, que le bien n'est
-plus soumis au droit de préemption de la zone d'aménagement différé.
+plus soumis au droit de préemption de la zone d'aménagement différé ou du périmètre provisoire de zone d'aménagement différé.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
-
 	**Modifié par**:
 
-	  - Décret n°86-516 du 14 mars 1986 - art. 3 () JORF 16 mars 1986 en vigueur le   1er juin 1987
+	  - Décret n°92-967 du 10 septembre 1992 - art. 2 () JORF 11 septembre 1992
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L212-3 (M)
+	  - Code de l'urbanisme - art. L212-3 (V)
 
 	**Cité par**:
 
@@ -28819,36 +28728,68 @@ plus soumis au droit de préemption de la zone d'aménagement différé.
 	  - Décret n°73-1023 1973-11-08
 
 
-#### CHAPITRE III : Dispositions communes au droit de préemption urbain et aux zones d'aménagement différé
+###### Article R212-6
 
-#####  Section 1 : Délégation du droit de préemption.
+Le prix d'un immeuble acquis par le titulaire du droit de préemption dans le périmètre provisoire de la zone d'aménagement
+différé et cédé au titulaire du droit de préemption dans la zone d'aménagement différé, en application de l'article L.
+212-2-2, est égal, sauf accord des parties sur un prix supérieur, au coût global de l'acquisition y compris les frais,
+charges et indemnités de toute nature supportés par le titulaire du droit de préemption du périmètre provisoire de zone
+d'aménagement différé révisé en fonction des variations de l'indice du coût de la construction, constaté par l'Institut
+national de la statistique et des études économiques. 
 
-###### Article R213-1
-
-La délégation du droit de préemption prévue par l'article L. 213-3 résulte d'une délibération de l'organe délibérant du
-titulaire du droit de préemption.
-
-Cette délibération précise, le cas échéant, les conditions auxquelles la délégation est subordonnée.
-
-Cette délégation peut être retirée par une délibération prise dans les mêmes formes.
+La rétrocession des biens immobiliers en application de l'article L. 212-2-2 à leurs anciens propriétaires ou à leurs ayants
+cause universels ou à titre universel s'effectue dans les conditions prévues aux articles R. 213-16 à R. 213-20.
 
 **Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°92-967 du 10 septembre 1992 - art. 2 () JORF 11 septembre 1992
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. A212-1 (M)
+	  - Code de l'urbanisme - art. R*212-7 (Ab)
+	  - Code de l'urbanisme - art. R*212-8 (Ab)
+	  - Code de l'urbanisme - art. R*213-2 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L212-2-2 (V)
+	  - Code de l'urbanisme - art. R213-16 (V)
+	  - Code de l'urbanisme - art. R213-20 (V)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
+
+#### Chapitre III : Dispositions communes au droit de préemption urbain, aux zones d'aménagement différé et aux périmètres provisoires
+
+#####  Section 1 : Délégation du droit de préemption
+
+###### Article R213-1
+
+La délégation du droit de préemption prévue par l'article L. 213-3 résulte d'une délibération de l'organe délibérant du
+titulaire du droit de préemption. 
+
+Cette délibération précise, le cas échéant, les conditions auxquelles la délégation est subordonnée. 
+
+Cette délégation peut être retirée par une délibération prise dans les mêmes formes.
+
+**Liens relatifs à cet article**
+
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-516 du 14 mars 1986 - art. 4 () JORF 16 mars 1986 en vigueur le 1er juin 1987
+	  - Décret n°92-967 du 10 septembre 1992 - art. 3 () JORF 11 septembre 1992
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L213-3 (M)
+	  - Code de l'urbanisme - art. L213-3 (V)
 
 	**Cité par**:
 
@@ -28857,6 +28798,10 @@ Cette délégation peut être retirée par une délibération prise dans les mê
 	  - Code général de la propriété des personnes publ... - art. R1112-2 (V)
 	  - Code général de la propriété des personnes publ... - art. R1112-3 (V)
 	  - Code général de la propriété des personnes publ... - art. R1112-4 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R213-2
@@ -28870,63 +28815,52 @@ Dans ce cas, la délégation produit effet à compter de la date à laquelle le 
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
-
-	**Créé par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 4 () JORF 16 mars 1986 en vigueur le   1er juin 1987
+	  - Décret n°92-967 du 10 septembre 1992 - art. 3 () JORF 11 septembre 1992
 
 
 ###### Article R213-3
 
 Dans les articles R. 211-1 et suivants, R. 212-1 et suivants et R. 213-4 et suivants, l'expression " titulaire du droit de
-préemption " s'entend également, s'il y a lieu, du délégataire de ce droit   .
+préemption " s'entend également, s'il y a lieu, du délégataire de ce droit.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°73-1023 1973-11-08
+	  - Décret n°92-967 du 10 septembre 1992 - art. 2 () JORF 11 septembre 1992
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
-
-	**Créé par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 4 () JORF 16 mars 1986 en vigueur le 1er juin 1987
+	  - Code de l'urbanisme - art. R*211-1 (V)
+	  - Code de l'urbanisme - art. R212-1 (V)
+	  - Code de l'urbanisme - art. R213-4 (V)
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*410-17 (M)
 
-	**Cite**:
+	**Codifié par**:
 
-	  - Code de l'urbanisme - art. R211-1 (M)
-	  - Code de l'urbanisme R211-1, R212-1 et s., R213-14 et s.
+	  - Décret n°73-1023 1973-11-08
 
 
 #####  Section 2 : Procédure de préemption
 
-#####    Sous-section 1 : Cas général.
+##### Sous-section 1 : Cas général
 
 ###### Article R213-4
 
 Les dispositions de la présente sous-section sont applicables à toutes les aliénations volontaires à titre onéreux sous
 quelque forme que ce soit de biens soumis au droit de préemption à l'exception de celles qui sont réalisées sous la forme des
-adjudications soumises aux dispositions des articles R. 213-14 et R. 213-15 [*champ d'application*].
+adjudications soumises aux dispositions des articles R. 213-14 et R. 213-15.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
-
-	**Créé par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 4 () JORF 16 mars 1986 en vigueur le 1er juin 1987
+	  - Décret n°92-967 du 10 septembre 1992 - art. 3 () JORF 11 septembre 1992
 
 	**Cité par**:
 
@@ -28937,8 +28871,7 @@ adjudications soumises aux dispositions des articles R. 213-14 et R. 213-15 [*ch
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R213-14 (Ab)
-	  - Code de l'urbanisme - art. R213-15 (M)
+	  - Code de l'urbanisme - art. R213-14 (V)
 
 	**Codifié par**:
 
@@ -28958,13 +28891,9 @@ postal, ou déposée contre décharge.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
-
-	**Créé par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 4 () JORF 16 mars 1986 en vigueur le 1er juin 1987
+	  - Décret n°92-967 du 10 septembre 1992 - art. 3 () JORF 11 septembre 1992
 
 	**Cité par**:
 
@@ -28995,6 +28924,10 @@ déclaration.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°92-967 du 10 septembre 1992 - art. 3 () JORF 11 septembre 1992
+
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R213-15 (VD)
@@ -29003,30 +28936,18 @@ déclaration.
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
-
-	**Créé par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 4 () JORF 16 mars 1986 en vigueur le 1er juin 1987
-
 
 ###### Article R213-7
 
 Le silence gardé par le titulaire du droit de préemption dans le délai de deux mois qui lui est imparti par l'article L.
-213-2 vaut renonciation [*tacite*] à l'exercice de ce droit de préemption. Ce délai court à compter de la date de l'avis de
-réception ou de la décharge de la déclaration faite en application de l'article R. 213-5 [*point de départ*].
+213-2 vaut renonciation à l'exercice de ce droit de préemption. Ce délai court à compter de la date de l'avis de réception ou
+de la décharge de la déclaration faite en application de l'article R. 213-5.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
-
-	**Créé par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 4 () JORF 16 mars 1986 en vigueur le 1er juin 1987
+	  - Décret n°92-967 du 10 septembre 1992 - art. 3 () JORF 11 septembre 1992
 
 	**Cité par**:
 
@@ -29062,13 +28983,9 @@ rente et du capital éventuel.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
-
-	**Créé par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 4 () JORF 16 mars 1986 en vigueur le 1er juin 1987
+	  - Décret n°92-967 du 10 septembre 1992 - art. 3 () JORF 11 septembre 1992
 
 	**Cité par**:
 
@@ -29100,14 +29017,6 @@ juridiction fixer, la révision du montant de cette rente et du capital éventue
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
-
-	**Créé par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 4 () JORF 16 mars 1986 en vigueur le 1er juin 1987
-
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R142-11 (V)
@@ -29117,31 +29026,30 @@ juridiction fixer, la révision du montant de cette rente et du capital éventue
 
 	  - Décret n°73-1023 1973-11-08
 
+	**Modifié par**:
+
+	  - Décret n°92-967 du 10 septembre 1992 - art. 3 () JORF 11 septembre 1992
+
 
 ###### Article R213-10
 
 A compter de la réception de l'offre d'acquérir faite en application des articles R. 213-8 (c) ou R. 213-9 (b), le
-propriétaire dispose d'un délai [*point de départ*] de deux mois pour notifier au titulaire du droit de préemption :
+propriétaire dispose d'un délai de deux mois pour notifier au titulaire du droit de préemption : 
 
-a) Soit qu'il accepte le prix ou les nouvelles modalités proposés en application des articles R. 213-8 (c) ou R. 213-9 (b) ;
+a) Soit qu'il accepte le prix ou les nouvelles modalités proposés en application des articles R. 213-8 (c) ou R. 213-9 (b) ; 
 
 b) Soit qu'il maintient le prix ou l'estimation figurant dans sa déclaration et accepte que le prix soit fixé par la
-juridiction compétente en matière d'expropriation ;
+juridiction compétente en matière d'expropriation ; 
 
-c) Soit qu'il renonce à l'aliénation.
+c) Soit qu'il renonce à l'aliénation. 
 
-Le silence du propriétaire dans le délai de deux mois mentionné au présent article équivaut à une renonciation [*tacite*]
-d'aliéner.
+Le silence du propriétaire dans le délai de deux mois mentionné au présent article équivaut à une renonciation d'aliéner.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
-
-	**Créé par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 4 () JORF 16 mars 1986 en vigueur le   1er juin 1987
+	  - Décret n°92-967 du 10 septembre 1992 - art. 3 () JORF 11 septembre 1992
 
 	**Cité par**:
 
@@ -29149,8 +29057,8 @@ d'aliéner.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R213-8 (Ab)
-	  - Code de l'urbanisme - art. R213-9 (Ab)
+	  - Code de l'urbanisme - art. R213-8 (V)
+	  - Code de l'urbanisme - art. R213-9 (V)
 
 	**Codifié par**:
 
@@ -29163,41 +29071,43 @@ Si le titulaire du droit de préemption estime que le prix mentionné à l'artic
 délai de quinze jours à compter de la réception de la réponse du propriétaire, saisir la juridiction compétente en matière
 d'expropriation par lettre recommandée adressée au secrétariat de cette juridiction. Une copie, en double exemplaire, du
 mémoire du titulaire du droit de préemption est jointe à la lettre adressée au secrétariat de la juridiction. Le propriétaire
-doit en être informé simultanément.
+doit en être informé simultanément. 
 
 Il est ensuite procédé comme il est dit aux articles R. 13-22 et suivants du code de l'expropriation pour cause d'utilité
-publique.    A défaut de saisine de la juridiction dans le délai fixé par le présent article, le titulaire du droit de
-préemption est réputé avoir renoncé à l'exercice de son droit.
+publique. 
+
+A défaut de saisine de la juridiction dans le délai fixé par le présent article, le titulaire du droit de préemption est
+réputé avoir renoncé à l'exercice de son droit. 
+
+En cas d'application de l'article L. 213-4-1, copie du récépissé de la consignation doit être adressée au propriétaire et à
+la juridiction.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Décret n°87-284 du 22 avril 1987 - art. 1 () JORF 25 avril 1987   en vigueur le 1er juin 1987
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 3 ()
+	  - Code de l'urbanisme - art. L213-4-1 (V)
+	  - Code de l'urbanisme - art. R213-10 (V)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R13-22 (V)
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R211-7 (V)
 	  - Code de l'urbanisme - art. R213-17 (V)
 
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R213-10 (Ab)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R13-22 (V)
-
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°92-967 du 10 septembre 1992 - art. 3 () JORF 11 septembre 1992
 
 
 ###### Article R213-12
 
 En cas d'accord sur le prix indiqué par le propriétaire ou sur le prix offert par le titulaire du droit de préemption, un
-acte authentique est dressé dans un délai de trois mois à compter de cet accord pour constater le transfert de propriété.
+acte authentique est dressé dans un délai de trois mois à compter de cet accord pour constater le transfert de propriété. 
 
 Dans le cas où le prix a été fixé par décision de justice et où les parties n'ont pas fait usage de la faculté de
 renonciation ouverte par l'article L. 213-7 (alinéa 2), un acte de même nature est dressé dans un délai de trois mois à
@@ -29209,17 +29119,13 @@ compter de la décision judiciaire devenue définitive.
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
-
-	**Créé par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 4 () JORF 16 mars 1986 en vigueur le   1er juin 1987
+	  - Décret n°92-967 du 10 septembre 1992 - art. 3 () JORF 11 septembre 1992
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L213-7 (M)
+	  - Code de l'urbanisme - art. L213-7 (V)
 
 	**Cité par**:
 
@@ -29231,41 +29137,36 @@ compter de la décision judiciaire devenue définitive.
 Lorsque le titulaire du droit de préemption a renoncé à l'exercice de son droit sur un bien dont le prix a été fixé par
 décision de justice, les indices du coût de la construction à retenir pour les variations prévues à l'article L. 213-8
 (alinéa 2) sont les derniers indices publiés respectivement à la date à laquelle la décision de la juridiction de
-l'expropriation est devenue définitive et à la date de l'acte authentique constatant le transfert de propriété.
+l'expropriation est devenue définitive et à la date de l'acte authentique constatant le transfert de propriété. 
 
 Le propriétaire informe le titulaire du droit de préemption du prix auquel la vente a été réalisée.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°73-1023 1973-11-08
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
-
-	**Créé par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 4 () JORF 16 mars 1986 en vigueur le   1er juin 1987
+	  - Décret n°92-967 du 10 septembre 1992 - art. 3 () JORF 11 septembre 1992
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L213-8 (M)
+	  - Code de l'urbanisme - art. L213-8 (V)
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R142-8 (VT)
 
+	**Codifié par**:
 
-##### Sous-section 2 : Cas des ventes par adjudication lorsque cette procédure est rendue obligatoire de par la loi ou le règlement.
+	  - Décret n°73-1023 1973-11-08
+
+
+##### Sous-section 2 : Cas de ventes par adjudication lorsque cette procédure est rendue obligatoire de par la loi ou le règlement
 
 ###### Article R213-14
 
 Les dispositions de la présente sous-section sont applicables à toute vente par adjudication d'un bien soumis au droit de
 préemption lorsque cette procédure est rendue obligatoire par une disposition législative ou réglementaire, à l'exclusion de
-la vente mettant fin à une indivision créée volontairement et ne résultant pas d'une donation-partage [*champ
-d'application*].
+la vente mettant fin à une indivision créée volontairement et ne résultant pas d'une donation-partage.
 
 **Liens relatifs à cet article**
 
@@ -29273,13 +29174,9 @@ d'application*].
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
-
-	**Créé par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 4 () JORF 16 mars 1986 en vigueur le   1er juin 1987
+	  - Décret n°92-967 du 10 septembre 1992 - art. 3 () JORF 11 septembre 1992
 
 	**Cité par**:
 
@@ -29308,14 +29205,9 @@ que celui-ci.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°86-516 du 14 mars 1986 - art. 10 (M)
-	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
-
-	**Créé par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 4 () JORF 16 mars 1986 en vigueur le 1er juin 1987
+	  - Décret n°92-967 du 10 septembre 1992 - art. 3 () JORF 11 septembre 1992
 
 	**Cité par**:
 
@@ -29335,13 +29227,14 @@ que celui-ci.
 	  - Décret n°73-1023 1973-11-08
 
 
-#####  Section 3 : Utilisation des biens acquis par la voie de la préemption.
+#####  Section 3 : Utilisation des biens acquis par la voie de la préemption
 
 ###### Article R213-16
 
 Lorsque l'identité et le domicile de l'ancien propriétaire ou de ses ayants cause universels ou à titre universel sont
-connus, l'offre de rétrocession formulée en application de l'article L. 213-11 (alinéa 2) leur est notifiée individuellement
-par lettre recommandée avec demande d'avis de réception. Elle doit contenir l'indication d'un prix    . 
+connus, l'offre de rétrocession formulée en application de l'article L. 213-11 (alinéa 2) ou de l'article L. 212-2-2 leur est
+notifiée individuellement par lettre recommandée avec demande d'avis de réception. Elle doit contenir l'indication d'un
+prix. 
 
 Les anciens propriétaires ou leurs ayants cause universels ou à titre universel disposent d'un délai de deux mois à compter
 de la date d'avis de réception de la notification pour faire connaître : 
@@ -29357,17 +29250,14 @@ Le défaut de réponse dans le délai indiqué équivaut à une renonciation au 
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
-
-	**Créé par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 4 () JORF 16 mars 1986 en vigueur le   1er juin 1987
+	  - Décret n°92-967 du 10 septembre 1992 - art. 3 () JORF 11 septembre 1992
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L213-11 (M)
+	  - Code de l'urbanisme - art. L212-2-2 (V)
+	  - Code de l'urbanisme - art. L213-11 (V)
 
 	**Cité par**:
 
@@ -29384,17 +29274,17 @@ Le défaut de réponse dans le délai indiqué équivaut à une renonciation au 
 ###### Article R213-17
 
 A compter de la notification de la réponse faite en application de l'article R. 213-16 (c), le titulaire du droit de
-préemption dispose d'un délai [*point de départ*] de deux mois :
+préemption dispose d'un délai de deux mois : 
 
-a) Soit pour notifier qu'il accepte de rétrocéder le bien au prix proposé ;
+a) Soit pour notifier qu'il accepte de rétrocéder le bien au prix proposé ; 
 
 b) Soit pour saisir le juge compétent en matière d'expropriation pour faire fixer le prix. Il est alors procédé comme il est
 dit à l'article R. 213-11, le défaut de saisine de la juridiction compétente équivalant à une acceptation du prix proposé par
-l'ancien propriétaire ou ses ayants cause universels ou à titre universel.
+l'ancien propriétaire ou ses ayants cause universels ou à titre universel. 
 
 Ainsi qu'il est dit à l'article L. 213-11 (alinéa 4), à défaut d'acceptation dans le délai de trois mois à compter de la
 décision juridictionnelle devenue définitive, les anciens propriétaires ou leurs ayants cause universels ou à titre universel
-sont réputés avoir renoncé [*tacitement*] à l'acquisition.
+sont réputés avoir renoncé à l'acquisition.
 
 **Liens relatifs à cet article**
 
@@ -29402,19 +29292,14 @@ sont réputés avoir renoncé [*tacitement*] à l'acquisition.
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
-
-	**Créé par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 4 () JORF 16 mars 1986 en vigueur le   1er juin 1987
+	  - Décret n°92-967 du 10 septembre 1992 - art. 3 () JORF 11 septembre 1992
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L213-11 (M)
-	  - Code de l'urbanisme - art. R213-11 (M)
-	  - Code de l'urbanisme - art. R213-16 (Ab)
+	  - Code de l'urbanisme - art. R213-11 (V)
+	  - Code de l'urbanisme - art. R213-16 (V)
 
 	**Cité par**:
 
@@ -29428,14 +29313,14 @@ Lorsque l'identité ou le domicile des anciens propriétaires ou de leurs ayants
 inconnu du titulaire du droit de préemption, un avis publié par voie d'affiche dans la commune de situation des biens indique
 les parcelles que ce titulaire a l'intention d'utiliser ou d'aliéner, ainsi que l'estimation de ces parcelles. Cet avis
 indique également que la vente des parcelles sera consentie par priorité à l'ancien propriétaire du bien ou à ses ayants
-cause universels ou à titre universel qui en feront la demande à l'autorité désignée.
+cause universels ou à titre universel qui en feront la demande à l'autorité désignée. 
 
-L'accomplissement de cette mesure de publicité est certifiée par le maire de la commune intéressée.
+L'accomplissement de cette mesure de publicité est certifiée par le maire de la commune intéressée. 
 
-Le même avis est inséré dans un des journaux diffusés dans le département.
+Le même avis est inséré dans un des journaux diffusés dans le département. 
 
 Les avis et l'affiche précités doivent obligatoirement comporter la mention de la déchéance que les intéressés s'exposent à
-encourir.
+encourir. 
 
 Dans le délai de trois mois à compter de l'accomplissement de la plus récente des deux formalités prévues ci-dessus, les
 intéressés qui désirent exercer les droits mentionnés à l'article L. 213-11 (alinéa 2) sont tenus, à peine de déchéance, de
@@ -29443,19 +29328,14 @@ le déclarer à l'autorité désignée en procédant alors comme il est dit aux 
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
-
-	**Créé par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 4 () JORF 16 mars 1986 en vigueur le   1er juin 1987
+	  - Décret n°92-967 du 10 septembre 1992 - art. 3 () JORF 11 septembre 1992
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L213-11 (M)
-	  - Code de l'urbanisme - art. R213-16 (Ab)
-	  - Code de l'urbanisme - art. R213-17 (Ab)
+	  - Code de l'urbanisme - art. L213-11 (V)
+	  - Code de l'urbanisme - art. R213-16 (V)
 
 	**Codifié par**:
 
@@ -29471,22 +29351,17 @@ articles R. 213-16 et R. 213-17.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°92-967 du 10 septembre 1992 - art. 3 () JORF 11 septembre 1992
+
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R213-16 (Ab)
-	  - Code de l'urbanisme - art. R213-17 (Ab)
+	  - Code de l'urbanisme - art. R213-16 (V)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
-
-	**Créé par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 4 () JORF 16 mars 1986 en vigueur le   1er juin 1987
 
 
 ###### Article R213-20
@@ -29496,17 +29371,13 @@ Le titulaire du droit de préemption notifie sans délai au maire de la commune 
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
-
-	**Créé par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 4 () JORF 16 mars 1986 en vigueur le   1er juin 1987
+	  - Décret n°92-967 du 10 septembre 1992 - art. 3 () JORF 11 septembre 1992
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L213-13 (M)
+	  - Code de l'urbanisme - art. L213-13 (V)
 
 	**Cité par**:
 
@@ -29517,7 +29388,7 @@ Le titulaire du droit de préemption notifie sans délai au maire de la commune 
 	  - Décret n°73-1023 1973-11-08
 
 
-#####  Section 4 : Dispositions diverses.
+#####  Section 4 : Dispositions diverses
 
 ###### Article R213-21
 
@@ -29526,9 +29397,9 @@ de faire l'acquisition dès lors que le prix ou l'estimation figurant dans la d�
 que le titulaire envisage de proposer excède le montant fixé par l'arrêté du ministre des finances prévu à l'article 3 du
 décret du 5 juin 1940 modifié.
 
-Dans les zones d'aménagement différé et dans les secteurs ayant fait l'objet de la délibération prévue par le dernier alinéa
-de l'article L. 211-4, le service des domaines doit être consulté, quel que soit le prix figurant dans la déclaration
-d'intention d'aliéner.
+Dans les zones d'aménagement différé les périmètres provisoires de zone d'aménagement différé et dans les secteurs ayant fait
+l'objet de la délibération prévue par le dernier alinéa de l'article L. 211-4, le service des domaines doit être consulté,
+quel que soit le prix figurant dans la déclaration d'intention d'aliéner.
 
 L'avis du service des domaines doit être formulé dans le délai d'un mois à compter de la date de réception de la demande
 d'avis. Passé ce délai, il peut être procédé librement à l'acquisition.
@@ -29540,11 +29411,7 @@ Les dispositions du présent article s'appliquent également aux propositions fa
 
 	**Modifié par**:
 
-	  - Décret n°87-284 du 22 avril 1987 - art. 1 () JORF 25 avril 1987   en vigueur le 1er juin 1987
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
+	  - Décret n°92-967 du 10 septembre 1992 - art. 3 () JORF 11 septembre 1992
 
 	**Cite**:
 
@@ -29568,27 +29435,23 @@ Les dispositions du présent article s'appliquent également aux propositions fa
 ###### Article R213-24
 
 Pour l'application des articles L. 211-4 (c) et L. 213-1 (c), la date d'achèvement de l'immeuble est celle de la déclaration
-d'achèvement intervenue en application de l'article R. 460-1.
+d'achèvement intervenue en application de l'article R. 460-1. 
 
 En l'absence de déclaration, la preuve de la date de l'achèvement peut être apportée par tous moyens, et notamment dans les
 conditions définies aux articles R. 261-1 et R. 261-2 du code de la construction et de l'habitation.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
-
-	**Créé par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 4 () JORF 16 mars 1986 en vigueur le   1er juin 1987
+	  - Décret n°92-967 du 10 septembre 1992 - art. 3 () JORF 11 septembre 1992
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L211-4 (M)
-	  - Code de l'urbanisme - art. L213-1 (M)
-	  - Code de l'urbanisme - art. R460-1 (M)
-	  - Code de la construction et de l'habitation R261-1, R261-2
+	  - Code de l'urbanisme - art. L211-4 (VT)
+	  - Code de l'urbanisme - art. L213-1 (V)
+	  - Code de l'urbanisme - art. R460-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*261-1 (V)
 
 	**Cité par**:
 
@@ -29607,13 +29470,9 @@ notifiées par lettre recommandée avec demande d'avis de réception, par acte d
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
-
-	**Créé par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 4 () JORF 16 mars 1986 en vigueur le   1er juin 1987
+	  - Décret n°92-967 du 10 septembre 1992 - art. 3 () JORF 11 septembre 1992
 
 	**Cité par**:
 
@@ -29629,44 +29488,35 @@ notifiées par lettre recommandée avec demande d'avis de réception, par acte d
 
 ###### Article R213-26
 
-L'action en nullité prévue à l'article L. 213-2 s'exerce devant le tribunal de grande instance du lieu de situation du bien
-[*juridiction compétente*].
+L'action en nullité prévue à l'article L. 213-2 s'exerce devant le tribunal de grande instance du lieu de situation du bien.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L213-2 (V)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
-
-	**Créé par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 4 () JORF 16 mars 1986 en vigueur le   1er juin 1987
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L213-2 (M)
+	  - Décret n°92-967 du 10 septembre 1992 - art. 3 () JORF 11 septembre 1992
 
 
-#####  Section 5 : Dispositions particulières applicables aux communes de Paris, Marseille et Lyon ainsi qu'aux communes issues d'une fusion comportant création d'une ou plusieurs communes associées.
+#####  Section 5 : Dispositions particulières applicables aux communes de Paris, Marseille et Lyon ainsi qu'aux communes issues d'une fusion comportant création d'une ou plusieurs communes associées
 
 ###### Article R213-27
 
 Lorsque, par application des dispositions de l'article 9 modifié de la loi n° 82-1169 du 31 décembre 1982 relative à
 l'organisation administrative de Paris, Marseille et Lyon et des établissements publics de coopération intercommunale, il y a
 lieu à la consultation des conseils d'arrondissements des communes de Paris, Marseille et Lyon sur l'institution ou la
-suppression du droit de préemption urbain ou la modification de son champ d'application le maire de la commune consulte,
+suppression du droit de préemption urbain ou la modification de son champ d'application, le maire de la commune consulte,
 avant les délibérations correspondantes du conseil municipal, le ou les conseils d'arrondissement dans le ressort territorial
 desquels s'applique, en tout ou en partie, le droit mentionné au présent article.
 
 **Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R213-30 (V)
 
 	**Codifié par**:
 
@@ -29674,42 +29524,37 @@ desquels s'applique, en tout ou en partie, le droit mentionné au présent artic
 
 	**Cite**:
 
-	  - Loi n°82-1169 du 31 décembre 1982 - art. 9 (M)
+	  - Loi n°82-1169 du 31 décembre 1982 - art. 9 (Ab)
 
 	**Modifié par**:
 
-	  - Décret n°87-284 du 22 avril 1987 - art. 1 () JORF 25 avril 1987   en vigueur le 1er juin 1987
+	  - Décret n°92-967 du 10 septembre 1992 - art. 3 () JORF 11 septembre 1992
 
-	**Liens**:
+	**Cité par**:
 
-	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 3 ()
+	  - Code de l'urbanisme - art. R213-30 (V)
 
 
 ###### Article R213-28
 
 Le conseil d'arrondissement émet son avis dans le délai fixé par le maire de la commune. Ce délai ne peut être inférieur à
-quinze jours à compter de la saisine du conseil d'arrondissement [*point de départ*].
+quinze jours à compter de la saisine du conseil d'arrondissement.
 
 Cet avis est réputé favorable s'il n'intervient pas dans le délai prévu.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°73-1023 1973-11-08
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-516 du 14 mars 1986 - art. 10 (M)
-	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
-
-	**Créé par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 4 () JORF 16 mars 1986 en vigueur le   1er juin 1987
+	  - Décret n°92-967 du 10 septembre 1992 - art. 3 () JORF 11 septembre 1992
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R213-30 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R213-29
@@ -29721,21 +29566,17 @@ joint au projet de délibération et annexé à la délibération du conseil mun
 
 **Liens relatifs à cet article**
 
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R213-30 (V)
+
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
-
-	**Créé par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 4 () JORF 16 mars 1986 en vigueur le   1er juin 1987
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R213-30 (V)
+	  - Décret n°92-967 du 10 septembre 1992 - art. 3 () JORF 11 septembre 1992
 
 
 ###### Article R213-30
@@ -29743,13 +29584,9 @@ joint au projet de délibération et annexé à la délibération du conseil mun
 Les dispositions des articles R. 213-27 à R. 213-29 sont applicables dans les communes issues d'une fusion comportant
 création d'une ou plusieurs communes associées lorsqu'il y a lieu à la consultation des conseils ou commissions consultatifs
 en application de l'article 66 de la loi n° 82-1169 du 31 décembre 1982 relative à l'organisation administrative de Paris,
-Marseille et Lyon et des établissements publics de coopération intercommunale [*champ d'application*].
+Marseille et Lyon et des établissements publics de coopération intercommunale.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 	**Cite**:
 
@@ -29758,13 +29595,13 @@ Marseille et Lyon et des établissements publics de coopération intercommunale 
 	  - Code de l'urbanisme - art. R213-28 (Ab)
 	  - Code de l'urbanisme - art. R213-29 (Ab)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
+	  - Décret n°92-967 du 10 septembre 1992 - art. 3 () JORF 11 septembre 1992
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°86-516 du 14 mars 1986 - art. 4 () JORF 16 mars 1986 en vigueur le   1er juin 1987
+	  - Décret n°73-1023 1973-11-08
 
 
 #### CHAPITRE V : Dispositions applicables aux zones à urbaniser en priorité
@@ -29822,39 +29659,6 @@ zone ou de réduction de son périmètre.
 	**Modifié par**:
 
 	  - Décret n°86-516 du 14 mars 1986 - art. 1 () JORF 16 mars 1986 en vigueur    le 1er juin 1987
-
-
-###### Article R*215-3
-
-La décision qui supprime la zone à urbaniser en priorité ou en réduit le périmètre est publiée au Journal officiel de la
-République française [*publicité*].
-
-Une copie de la décision est déposée à la mairie de chacune des communes intéressées. Avis de ce dépôt est donné par
-affichage à la mairie et par insertion en caractères apparents dans deux des journaux publiés dans le département.
-
-Copie de la même décision est adressée au conseil supérieur du notariat, à la chambre nationale des avoués près les cours
-d'appel et aux barreaux constitués près les tribunaux de grande instance dans le ressort desquels est située la zone.
-
-Les effets juridiques attachés à la suppression de la zone ou à la réduction de son périmètre ont pour point de départ la
-publication effectuée en application de l'alinéa 1er du présent article.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°92-966 1992-09-11 art. 6 JORF 11 septembre 1992
-
-	**Modifié par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 1 () JORF 16 mars 1986 en vigueur le   1er juin 1987
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
 
 
 ###### Article R*215-4
@@ -30352,7 +30156,7 @@ vocation, de par la loi ou ses statuts, à réaliser ou à faire réaliser l'obj
 
 La personne publique qui a pris l'initiative de la création de la zone constitue un dossier de création, approuvé, sauf
 lorsqu'il s'agit de l'Etat, par son organe délibérant, et l'adresse au maire de la commune concernée ainsi que, lorsque la
-création de la zone relève de sa compétence, au préfet du département. 
+création de la zone relève de sa compétence, au préfet du département.
 
 Le dossier de création comprend [*contenu*] :
 
@@ -30360,17 +30164,19 @@ a) Un rapport de présentation, qui indique notamment l'objet et la justificatio
 l'état du site et de son environnement et énonce les raisons pour lesquelles, au regard des dispositions d'urbanisme en
 vigueur et de l'insertion dans l'environnement naturel ou urbain, le projet faisant l'objet du dossier de création a été
 retenu ; Ce rapport comprend l'étude d'impact définie à l'article 2 du décret n. 77-1141 du 12 octobre 1977, sauf dans le cas
-prévu au dernier alinéa de l'article L. 311-4. 
+prévu au dernier alinéa de l'article L. 311-4.
 
-b) Un plan de situation ; 
+b) Un plan de situation ;
 
-c) Un plan de délimitation du ou des périmètres composant la zone  ;
+c) Un plan de délimitation du ou des périmètres composant la zone ;
 
-d) L'indication du mode de réalisation choisi ; 
+d) L'indication du mode de réalisation choisi ;
 
-e) Le régime de la zone au regard de la taxe locale d'équipement ; 
+e) Le régime de la zone au regard de la taxe locale d'équipement ;
 
 f) L'indication du document d'urbanisme applicable à l'intérieur de la zone.
+
+g) L'indication du programme global de construction.
 
 **Liens relatifs à cet article**
 
@@ -30383,13 +30189,9 @@ f) L'indication du document d'urbanisme applicable à l'intérieur de la zone.
 	  - Décret n°77-1141 du 12 octobre 1977 - art. 2 (M)
 	  - Code de l'urbanisme - art. L311-4 (M)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-517 du 14 mars 1986 - art. 26 (V)
-
 	**Modifié par**:
 
-	  - Décret n°86-517 du 14 mars 1986 - art. 3 () JORF 16 mars 1986 en vigueur le 1er avril 1986) M(Décret 88-199 1988-02-29 art. 1 JORF 2 mars 1988
+	  - Décret n°92-966 du 10 septembre 1992 - art. 7 () JORF 11 septembre 1992
 
 
 ###### Article R*311-3-1
@@ -30461,8 +30263,9 @@ mixte répondant aux conditions définies à l'article L. 300-4 ;
 
 ###### Article R*311-5
 
-La décision créant la zone d'aménagement concerté [*contenu*] en délimite le ou les périmètres, mentionne le mode de
-réalisation choisi et précise le régime applicable au regard de la taxe locale d'équipement.
+La décision créant la zone d'aménagement concerté en délimite le ou les périmètres, indique le programme global de
+construction, mentionne le mode de réalisation choisi et précise le régime applicable au regard de la taxe locale
+d'équipement.
 
 Dans les communes, parties de communes ou ensembles de communes dotés d'un plan d'occupation des sols rendu public ou
 approuvé, la décision créant la zone précise en outre si les dispositions de ce plan demeureront en vigueur à l'intérieur du
@@ -30474,18 +30277,18 @@ ou des territoires compris dans la zone, ou s'il sera établi un plan d'aménage
 
 	  - Décret n°68-1107 1968-12-03 ART. 5
 
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
 	**Modifié par**:
 
-	  - Décret n°86-517 du 14 mars 1986 - art. 7 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+	  - Décret n°92-966 du 10 septembre 1992 - art. 7 () JORF 11 septembre 1992
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*311-12 (V)
 	  - Code de l'urbanisme - art. R*311-9 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*311-6
@@ -30628,16 +30431,17 @@ Il est accompagné d'un rapport de présentation ainsi que des annexes énumér�
 
 ###### Article R*311-10-1
 
-Le rapport de présentation [*contenu*] :
+Le rapport de présentation[*contenu*] :
 
 a) Expose comment le programme retenu pour l'opération tient compte des perspectives de développement démographique et
 économique de la commune ou, s'il en existe un, du groupement de communes intéressé ;
 
-b) Justifie de la compatibilité des dispositions figurant dans le plan d'aménagement de zone avec celles du schéma directeur
-ou du schéma de secteur, s'il en existe un ;
+b) Justifie que les dispositions du plan d'aménagement de zone sont compatibles avec les lois d'aménagement et d'urbanisme et
+les prescriptions prises pour leur application, avec les dispositions du schéma directeur ou du schéma de secteur, ainsi que
+de la prise en considération du programme local de l'habitat, si ces documents existent ;
 
 c) Indique les grandes options d'urbanisme retenues à l'occasion de l'élaboration du plan ainsi que les conditions dans
-lesquelles les préoccupations d'environnement sont prises en compte par ce plan ;
+lesquelles les préoccupations d'environnement sont prises en compte par ce  plan ;
 
 d) Présente le programme des équipements publics à réaliser dans la zone.
 
@@ -30649,8 +30453,11 @@ d) Présente le programme des équipements publics à réaliser dans la zone.
 
 	**Modifié par**:
 
-	  - Décret n°83-8 1983-01-07 art. 75 I 1 JORF 9 janvier 1983
-	  - Décret n°83-812 1983-09-09 art. 11 JORF 11 SEPTEMBRE 1983
+	  - Décret n°92-966 du 10 septembre 1992 - art. 7 () JORF 11 septembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2001-261 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
 
 
 ###### Article R*311-10-2
@@ -32725,58 +32532,64 @@ e) Les cessions gratuites et les apports de terrains résultant de l'application
 
 ###### Article R*315-2
 
-Ne constituent pas des lotissements [*définition*] et ne sont pas soumises aux dispositions du présent chapitre :
+Ne constituent pas des lotissements et ne sont pas soumises aux dispositions du présent chapitre : 
 
 a) Les divisions effectuées dans le cadre d'une opération de remembrement réalisée par une association foncière urbaine
 autorisée ou constituée d'office régie par le titre II du chapitre II du présent livre ou d'une opération de remembrement-
-aménagement prescrite en application de l'article 19-1 du code rural ;
+aménagement prescrite en application de l'article 19-1 du code rural ; 
 
-b) Les divisions effectuées à l'intérieur des zones à urbaniser en priorité, des zones d'aménagement concerté, des périmètres
-de rénovation urbaine, des zones de restauration immobilière, des zones de résorption de l'habitat insalubre ainsi que des
-zones d'habitation et des zones industrielles créées en application de l'article R.321-1 avant le 1er janvier 1977, lorsque
-ces divisions sont effectuées par la personne publique ou privée qui réalise l'aménagement de ladite zone ;
+b) Les divisions effectuées à l'intérieur des zones d'aménagement concerté, des périmètres de rénovation urbaine, des zones
+de restauration immobilière, des zones de résorption de l'habitat insalubre ainsi que des zones d'habitation et des zones
+industrielles créées en application de l'article R. 321-1 avant le 1er janvier 1977, lorsque ces divisions sont effectuées
+par la personne publique ou privée qui réalise l'aménagement de ladite zone ; 
 
 c) Les divisions de terrains en propriété ou en jouissance lorsque les terrains issus de la division constituent l'assiette
 d'un immeuble à construire dont la vente est régie par les articles 1601-1 à 1601-4 du code civil, ou d'un immeuble dont la
 construction par une société régie par le titre II ou par le titre III de la loi n° 71-579 du 16 juillet 1971 modifiée a été
-autorisée ;
+autorisée ; 
 
 d) Les divisions par ventes ou locations effectuées par un propriétaire au profit de personnes qu'il a habilitées à réaliser
 une opération immobilière sur une partie de sa propriété et qui ont elles-mêmes déjà obtenu une autorisation de lotir ou un
-permis de construire portant sur la création d'un groupe de bâtiments ou d'un bâtiment comportant plusieurs logements ;
+permis de construire portant sur la création d'un groupe de bâtiments ou d'un bâtiment comportant plusieurs logements ; 
 
-e) Les divisions effectuées à l'intérieur des périmètres [*prise de possession*] visés à l'article L. 314-2 par les sociétés
-civiles [*groupement de propriétaires*] constituées en application de l'article L. 322-12.
+e) Les divisions effectuées à l'intérieur des périmètres      visés à l'article L. 314-2 par les sociétés civiles constituées
+en application de l'article L. 322-12. 
 
 f) Les divisions résultant de la vente, de la location ou de l'attribution ultérieure des lots issus des opérations énumérées
-au a, à la condition que chaque lot vendu ait été délimité par le plan de remembrement approuvé ;
+au a, à la condition que chaque lot vendu ait été délimité par le plan de remembrement approuvé ; 
 
 g) Les divisions effectuées dans le cadre d'une opération de remembrement réalisée par une association foncière urbaine libre
-dont le plan de remembrement a été publié avant l'entrée en vigueur du chapitre II du décret n° 85-517 du 14 mars 1986,
+dont le plan de remembrement a été publié avant l'entrée en vigueur du chapitre II du décret n° 86-517 du 14 mars 1986,
 modifiant le code de l'urbanisme et relatif aux zones d'aménagement concerté, aux associations foncières urbaines et aux
 participations à la réalisation d'équipements publics.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°71-579 1971-07-16 TITRE II, TITRE III
-	  - Code civil - art. 1601-1 (V)
-	  - Code civil - art. 1601-2 (V)
-	  - Code civil - art. 1601-3 (V)
-	  - Code civil - art. 1601-4 (V)
+	  - Code rural 19-1
+	  - Décret n°85-517 1986-03-14
+	  - Loi n°71-579 1971-07-16
+	  - Code civil 1601-1 à 1601-4
 	  - Code de l'urbanisme - art. L314-2 (M)
 	  - Code de l'urbanisme - art. L322-12 (Ab)
-	  - Code de l'urbanisme R321-1
-	  - Code rural 19-1
-
-	**Modifié par**:
-
-	  - Décret n°86-517 du 14 mars 1986 - art. 46 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+	  - Code de l'urbanisme R321-1, L314-2, L322-12
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°92-966 du 10 septembre 1992 - art. 8 () JORF 11 septembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
 ###### Article R*315-3
