@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1994-07-22
+Version Consolidée au 1994-07-24
 
 # Partie législative
 
@@ -2609,6 +2609,31 @@ hypothèques. Cette servitude ne peut être levée que par décret pris sur avis
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L123-2-1
+
+Les plans d'occupation des sols peuvent ne pas imposer la réalisation d'aires de stationnement pour les logements locatifs
+acquis et, le cas échéant, améliorés avec un prêt aidé par l'Etat, destinés aux personnes défavorisées mentionnées à
+l'article 1er de la loi n° 90-449 du 31 mai 1990 visant à la mise en oeuvre du droit au logement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Cite**:
+
+	  - Loi n°90-449 1990-05-31 art. 1
+
+	**Créé par**:
+
+	  - Loi n°94-624 du 21 juillet 1994 - art. 29 () JORF 24 juillet 1994
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L421-3 (V)
 
 
 ###### Article L123-3
