@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2001-01-01
+Version Consolidée au 2001-01-14
 
 # Partie législative
 
@@ -18742,6 +18742,31 @@ les moyens sérieux de nature à justifier l'annulation de la décision attaqué
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. L760-1 (VT)
+
+
+###### Article L600-4-1
+
+Lorsqu'elle annule pour excès de pouvoir un acte intervenu en matière d'urbanisme ou en ordonne la suspension, la juridiction
+administrative se prononce sur l'ensemble des moyens de la requête qu'elle estime susceptibles de fonder l'annulation ou la
+suspension, en l'état du dossier.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L760-1 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-1208 2000-12-14 art. 43
+
+	**Créé par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 37 () JORF 14 décembre 2000 en vigueur le 14 janvier 2001
 
 
 # Partie réglementaire - Décrets en Conseil d'Etat
