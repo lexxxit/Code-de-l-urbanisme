@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2000-04-29
+Version Consolidée au 2000-06-22
 
 # Partie législative
 
@@ -23469,11 +23469,12 @@ suivant les modalités fixées à l'article L. 123-12.
 
 Les annexes comprennent :
 
-1. La liste des emplacements réservés, mentionnés à l'article R. 123-18 (II 3), leur destination, leur superficie et
+1° La liste des emplacements réservés, mentionnés à l'article R. 123-18 (II 3), leur destination, leur superficie et
 l'indication des collectivités, services et organismes publics bénéficiaires ;
 
-*2.  abrogé*    3. Les éléments ci-après relatifs aux réseaux d'eau et d'assainissement et au système d'élimination des
-déchets :
+2°  abrogé
+
+3° Les éléments ci-après relatifs aux réseaux d'eau et d'assainissement et au système d'élimination des déchets :
 
 a) Les schémas des réseaux d'eau et d'assainissement existants ainsi que les zones qui ont été délimitées en application de
 l'article L. 2224-10 du code général des collectivités territoriales.
@@ -23489,25 +23490,26 @@ Les usines de traitement des déchets ;
 
 c) Une note technique traitant du système d'élimination des déchets.
 
-4. Les servitudes d'utilité publique soumises aux dispositions de l'article L. 126-1 ainsi que les bois ou forêts soumis au
+4° Les servitudes d'utilité publique soumises aux dispositions de l'article L. 126-1 ainsi que les bois ou forêts soumis au
 régime forestier ;
 
-5. L'indication du lieu où le schéma directeur et les directives territoriales d'aménagement prises en application de
+5° L'indication du lieu où le schéma directeur et les directives territoriales d'aménagement prises en application de
 l'article L. 111-1-1 du code de l'urbanisme, s'ils existent, peuvent être consultés.
 
-6. La liste des lotissements dont les règles d'urbanisme ont été maintenues en application de l'alinéa 2 de l'article L.
+6° La liste des lotissements dont les règles d'urbanisme ont été maintenues en application de l'alinéa 2 de l'article L.
 315-2-1.
 
-7. Le plan d'exposition au bruit d'un aérodrome, établi en application des articles L. 147-1 à L. 147-6.
+7° Le plan d'exposition au bruit d'un aérodrome, établi en application des articles L. 147-1 à L. 147-6.
 
-8. Le classement des infrastructures de transports terrestres ainsi que les secteurs situés au voisinage de ces
+8° Le classement des infrastructures de transports terrestres ainsi que les secteurs situés au voisinage de ces
 infrastructures qui sont affectés par le bruit, et dans lesquels existent des prescriptions d'isolement acoustique,
 déterminés en application de l'article 13 de la loi n° 92-1444 du 31 décembre 1992 relative à la lutte contre le bruit. Ces
 documents portent référence des arrêtés préfectoraux correspondants et indication des lieux où ils peuvent être consultés.
 
 9° Les dispositions d'un projet de plan de prévention des risques naturels prévisibles rendues opposables en application de
 l'article 40-2 de la loi n° 87-565 du 22 juillet 1987 relative à l'organisation de la sécurité civile, à la protection de la
-forêt contre l'incendie et à la prévention des risques majeurs.
+forêt contre l'incendie et à la prévention des risques majeurs, ou les dispositions d'un projet de plan de prévention des
+risques miniers établi en application de l'article 94 du code minier.
 
 **Liens relatifs à cet article**
 
@@ -23524,6 +23526,7 @@ forêt contre l'incendie et à la prévention des risques majeurs.
 	  - Loi n°87-565 du 22 juillet 1987 - art. 40-2 (Ab)
 	  - Loi n°92-1444 1992-12-31 art. 13
 	  - Code général des collectivités territoriales - art. L2224-10 (M)
+	  - Code minier 94
 	  - Code de l'urbanisme - art. L111-1-1 (M)
 	  - Code de l'urbanisme - art. L126-1 (M)
 	  - Code de l'urbanisme - art. L315-2-1 (M)
@@ -23531,8 +23534,7 @@ forêt contre l'incendie et à la prévention des risques majeurs.
 
 	**Modifié par**:
 
-	  - Décret n°98-913 1998-10-12 art. 37 I, II, III JORF 13 octobre 1998
-	  - Décret n°98-913 du 12 octobre 1998 - art. 37 () JORF 13 octobre 1998
+	  - Décret n°2000-547 du 16 juin 2000 - art. 3 () JORF 22 juin 2000
 
 	**Cité par**:
 
@@ -53112,7 +53114,8 @@ relative à la protection de la nature.
 
 d) Lorsqu'il s'agit de travaux réalisés dans un secteur couvert par un plan de prévention des risques naturels prévisibles
 établi en application de la loi n° 87-565 du 22 juillet 1987 relative à l'organisation de la sécurité civile, à la protection
-de la forêt contre l'incendie et à la prévention des risques majeurs.
+de la forêt contre l'incendie et à la prévention des risques majeurs, ou par un plan de prévention des risques miniers établi
+en application de l'article 94 du code minier.
 
 **Liens relatifs à cet article**
 
@@ -53121,6 +53124,7 @@ de la forêt contre l'incendie et à la prévention des risques majeurs.
 	  - Loi n°60-708 1960-07-22
 	  - Loi n°76-629 1976-07-10
 	  - Loi n°87-565 1987-07-22
+	  - Code minier 94
 	  - Code de l'urbanisme - art. R421-53 (M)
 	  - Code de l'urbanisme R460-1, R421-47 à R421-50, R421-53
 	  - Code de la construction et de l'habitation R122-1 à R122-29, R123-1 à R123-55
@@ -53131,10 +53135,6 @@ de la forêt contre l'incendie et à la prévention des risques majeurs.
 
 	  - Décret n°70-447 1970-05-28 art. 3
 
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
 	**Cité par**:
 
 	  - Décret n°82-263 du 23 mars 1982 - art. 1 (V)
@@ -53143,11 +53143,15 @@ de la forêt contre l'incendie et à la prévention des risques majeurs.
 
 	**Modifié par**:
 
-	  - Décret n°95-1089 1995-10-05 art. 10 IV JORF 11 octobre 1995
+	  - Décret n°2000-547 du 16 juin 2000 - art. 3 () JORF 22 juin 2000
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L430-3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R460-4
@@ -57676,7 +57680,8 @@ ostréicoles.
 B. - Sécurité publique
 
 Plans de prévention des risques naturels prévisibles établis en application de la loi n° 87-565 du 22 juillet 1987 relative à
-l'organisation de la sécurité civile, à la protection de la forêt contre l'incendie et à la prévention des risques majeurs.
+l'organisation de la sécurité civile, à la protection de la forêt contre l'incendie et à la prévention des risques majeurs,
+ou plans de prévention des risques miniers établis en application de l'article 94 du code minier.
 
 Documents valant plans de prévention des risques naturels prévisibles en application de l'article 40-6 de la loi n° 87-565 du
 22 juillet 1987 précitée.
@@ -57694,7 +57699,34 @@ installations classées pour la protection de l'environnement.
 
 	**Cite**:
 
+	  - Décret n°58-1316 1958-12-23
+	  - Décret n°59-96 1959-01-07
+	  - Décret n°59-645 1959-05-16
+	  - Décret n°61-859 1961-08-01
+	  - Décret n°67-1093 1967-12-15
+	  - CODE DES COMMUNES. - art. L361-1 (M)
+	  - CODE DES COMMUNES. - art. L361-4 (M)
+	  - Code forestier - art. L421-1 (V)
+	  - Code forestier - art. L432-1 (M)
+	  - Code forestier - art. L432-2 (V)
+	  - Code forestier - art. L531-1 (Ab)
+	  - Code forestier - art. L541-2 (Ab)
+	  - Code forestier L151-1 à L151-6, L411-1 à L413-1, L421-1, L432-1, L432-2, L531-1, L541-2
+	  - Code minier 71 à 73, 94
+	  - Code de la santé publique - art. L20 (M)
+	  - Code de la santé publique - art. L736 (M)
+	  - Code de l'urbanisme - art. L160-6 (M)
+	  - Code de l'urbanisme - art. L160-6-1 (V)
+	  - Code de l'urbanisme 11
+	  - Code de l'aviation civile - art. L281-1 (M)
+	  - Code de l'aviation civile - art. R244-1 (M)
+	  - Code de l'aviation civile - art. R245-1 (M)
+	  - Code de l'aviation civile L281-1, R241-1 à R243-3, R245-1, R244-1, D244-1 à D244-4
 	  - Code des postes et télécommunications L54 à L56-1, R21 à R26-1, L57 à L62-1, R27 à R39, L45-1, L48
+	  - Code du domaine public fluvial et de la navigation - art. 15 (M)
+	  - Code du domaine public fluvial et de la navigation - art. 16 (M)
+	  - Code du domaine public fluvial et de la navigation - art. 28 (M)
+	  - Code du domaine public fluvial et de la navigation - art. 55 (Ab)
 	  - Code rural 100, 101, 128-7, 128-9, 128-6, 138-1, 135 à 138, 424
 	  - Décret n°1935-10-30 art. 6, art. 3, art. 2
 	  - Décret n°64-158 1964-02-15
@@ -57719,16 +57751,11 @@ installations classées pour la protection de l'environnement.
 	  - Loi n°58-336 du 29 mars 1958 - art. 11 (M)
 	  - Ordonnance n°58-1132 du 25 novembre 1958 - art. 7 (Ab)
 	  - Ordonnance 58-1311 1958-12-23
-	  - Décret n°58-1316 1958-12-23
 	  - Ordonnance n°58-1332 du 23 décembre 1958 - art. 6 (Ab)
-	  - Décret n°59-96 1959-01-07
-	  - Décret n°59-645 1959-05-16
 	  - Loi n°60-708 1960-07-22
-	  - Décret n°61-859 1961-08-01
 	  - Loi n°62-904 1962-08-04
 	  - Loi n°65-498 1965-06-29
 	  - Loi n°66-1066 1966-12-31
-	  - Décret n°67-1093 1967-12-15
 	  - Loi n°69-7 du 3 janvier 1969 - art. 4 (Ab)
 	  - Loi n°69-7 du 3 janvier 1969 - art. 5 (Ab)
 	  - Loi n°72-1147 1972-12-23 Finances rectificative pour 1972
@@ -57742,39 +57769,14 @@ installations classées pour la protection de l'environnement.
 	  - Loi n°87-565 du 22 juillet 1987 - art. 40-6 (Ab)
 	  - Loi n°87-954 1987-11-27
 	  - Loi n°91-1385 1991-12-31
-	  - CODE DES COMMUNES. - art. L361-1 (M)
-	  - CODE DES COMMUNES. - art. L361-4 (M)
-	  - Code forestier - art. L421-1 (V)
-	  - Code forestier - art. L432-1 (M)
-	  - Code forestier - art. L432-2 (V)
-	  - Code forestier - art. L531-1 (Ab)
-	  - Code forestier - art. L541-2 (Ab)
-	  - Code forestier L151-1 à L151-6, L411-1 à L413-1, L421-1, L432-1, L432-2, L531-1, L541-2
-	  - Code minier 71 à 73
-	  - Code de la santé publique - art. L20 (M)
-	  - Code de la santé publique - art. L736 (M)
-	  - Code de l'urbanisme - art. L160-6 (M)
-	  - Code de l'urbanisme - art. L160-6-1 (V)
-	  - Code de l'urbanisme 11
-	  - Code de l'aviation civile - art. L281-1 (M)
-	  - Code de l'aviation civile - art. R244-1 (M)
-	  - Code de l'aviation civile - art. R245-1 (M)
-	  - Code de l'aviation civile L281-1, R241-1 à R243-3, R245-1, R244-1, D244-1 à D244-4
-	  - Code du domaine public fluvial et de la navigation - art. 15 (M)
-	  - Code du domaine public fluvial et de la navigation - art. 16 (M)
-	  - Code du domaine public fluvial et de la navigation - art. 28 (M)
-	  - Code du domaine public fluvial et de la navigation - art. 55 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2000-547 du 16 juin 2000 - art. 3 () JORF 22 juin 2000
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°90-481 du 12 juin 1990 - art. 5 () JORF 14 juin 1990
-	  - Décret n°91-400 du 25 avril 1991 - art. 4 () JORF 27 avril 1991
-	  - Décret n°95-1089 1995-10-05 art. 10 V JORF 11 octobre 1995
-	  - Décret n°97-683 du 30 mai 1997 - art. 5 () JORF 1er juin 1997 en vigueur le 15 juillet 1997
 
 
 ## Liste des communes comprises dans la zone 1
