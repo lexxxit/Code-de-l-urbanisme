@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1987-01-01
+Version Consolidée au 1987-04-25
 
 # Partie législative
 
@@ -36677,6 +36677,65 @@ l'article L. 332-11.
 
 #####  Section 1 : Dispositions générales
 
+###### Article R*333-1
+
+Le montant du versement lié au dépassement plafond légal de densité est calculé selon la formule suivante :
+
+Pa = v ((Sa + Sb - Sc - (KSd)/K)
+
+dans laquelle :
+
+Pa représente le montant du versement ;
+
+v la valeur au mètre carré du terrain considéré comme nu et libre 
+
+Sa la surface de plancher de la construction projetée, calculée comme il est dit à l'article R. 112-2, à l'exclusion de la
+surface correspondant aux immeubles exonérés en application des troisième et quatrième alinéas de l'article L. 112-2 ;
+
+Sb la surface de plancher, calculée comme il est dit à l'article R. 112-2, des constructions implantées sur le même terrain
+qui ne sont pas destinées à être démolies, à l'exclusion de la surface correspondant aux immeubles exonérés et mentionnés aux
+deuxième et troisième alinéas de l'article L. 112-3 ;
+
+Sc la partie de la surface de plancher, calculée comme il est dit à l'article R. 112-2, des constructions non exonérées en
+application des troisième et quatrième alinéas de l'article L. 112-2, implantées sur le même terrain, qui excède le plafond
+légal de densité, que ces constructions soient ou non destinées à être démolies ;
+
+Sd la surface du terrain ;
+
+K le plafond légal de densité en vigueur sur le territoire de la commune à la date de délivrance du permis de construire.
+
+Pour le calcul du versement lié au dépassement du plafond légal de densité, il est fait abstraction des sommes inférieures à
+10 F. "
+
+Versement résultant du dépassement du plafond légal de densité.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°87-282 1987-04-22 ART. 1 JORF 25 avril 1987
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L112-2 (M)
+	  - Code de l'urbanisme - art. L112-3 (M)
+	  - Code de l'urbanisme R112-2
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*333-22 (Ab)
+	  - Code de l'urbanisme - art. R*333-7 (Ab)
+	  - Code de l'urbanisme - art. R333-6 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R335-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ###### Article R*333-3
 
 Lorsque le permis de construire est sollicité pour une construction dont la densité excède le plafond légal, le dossier de la
@@ -37054,9 +37113,106 @@ l'urbanisme.
 	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
 
 
+###### Article R*333-13-1
+
+Les dispositions de la présente section sont applicables aux déclarations effectuées en application des articles L. 421-4 et
+suivants.
+
+**Nota:**
+
+Décret 2007-18 du 5 janvier 2007 art. 14 : Les dispositions du chapitre III du titre III du livre III du code de l'urbanisme
+relatives au plafond légal de densité, dans leur rédaction antérieure à l'entrée en vigueur du présent décret, demeurent
+applicables dans les communes où un plafond légal de densité était institué le 31 décembre 1999 et dont le conseil municipal
+ou l'organe délibérant de l'établissement public de coopération intercommunale compétent n'a pas décidé de supprimer le
+plafond légal de densité ou d'instaurer la participation pour voirie et réseaux définie par l'article L. 332-11-1 du code de
+l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Date de fin de vigueur indéterminée
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°87-282 1987-04-22 art. 2 JORF 25 avril 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 14 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
+	  - Décret n°2016-6 du 5 janvier 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L421-4
+
+
 #####  Section 2 : Application du plafond légal de densité dans les zones d'aménagement concerté, les zones de rénovation urbaine et les zones de résorption de l'habitat insalubre
 
 ##### Sous-section 1 : Dispositions communes
+
+###### Article R*333-14
+
+Dans les zones d'aménagement concerté, les zones de rénovation urbaine et les zones de résorption de l'habitat insalubre, le
+nombre de mètres carrés de construction excédant le plafond légal de densité qui donne lieu au versement visé à l'article L.
+112-2 est calculé selon la formule suivante :
+
+D=(Sa' + Sb' - Sc' - (K Sd')/K.
+
+dans laquelle :
+
+D représente le dépassement du plafond légal de densité exprimé en mètres carrés qui est soumis au versement visé à l'article
+L. 112-2 ;
+
+Sa' la surface de plancher développée hors oeuvre des constructions de toute nature autorisées par le plan d'aménagement de
+la zone, par le plan d'occupation des sols ou le document d'urbanisme en tenant lieu, à l'exclusion de la surface des
+immeubles exonérés en application des troisième et quatrième alinéas de l'article L. 112-2 ;
+
+Sb' la surface de plancher développée hors oeuvre des constructions implantées dans la zone à la date de l'approbation du
+plan d'aménagement de zone ou de la publication du plan d'occupation des sols ou du document d'urbanisme en tenant lieu et
+qui ne sont pas destinées à être démolies, à l'exclusion de la surface correspondant aux immeubles exonérés et mentionnés aux
+deuxième et troisième alinéas de l'article L. 112-3 ;
+
+Sc' la partie de la surface développée hors oeuvre des constructions non exonérées en application des troisième et quatrième
+alinéas de l'article L. 112-2 et implantées dans la zone, qui excède le plafond légal de densité, que ces constructions aient
+été démolies depuis la création de la zone ou qu'elles soient ou non destinées à être démolies ; cette surface est calculée à
+la date de l'approbation du plan d'aménagement de la zone ou de la publication du plan d'occupation des sols ou du document
+d'urbanisme en tenant lieu ;
+
+Sd' la surface des terrains compris à l'intérieur du périmètre défini par l'acte de création de la zone, à l'exclusion des
+terrains d'assiette de la voirie existante affectée à l'usage du public, des voies ferrées, en dehors des gares, et des cours
+d'eau ; toutefois ne sont pas déduits de la surface Sd' les terrains d'assiette desdits ouvrages et cours d'eau lorsque le
+programme de travaux a prévu d'y superposer des sols artificiels pour un motif d'intérêt général propre à la zone,
+conformément aux possibilités ouvertes par le plan d'occupation des sols ou par le plan d'aménagement de zone et dans la
+limite de la superficie desdits sols artificiels. K le plafond légal de densité en vigueur sur le territoire de la commune à
+la date où le nombre de mètres carrés de construction excédant ce plafond est calculé.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°87-282 1987-04-22 art. 3 JORF 25 avril 1987
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L112-2 (M)
+	  - Code de l'urbanisme L112-2, l112-3
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*333-17 (Ab)
+	  - Code de l'urbanisme - art. R*333-24 (Ab)
+	  - Code de l'urbanisme - art. R*333-25 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
 
 ###### Article R*333-16
 
@@ -37139,6 +37295,49 @@ l'urbanisme.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*333-18
+
+Le dépassement est réparti, s'il en existe, entre les îlots définis par le document d'urbanisme dont la densité excède le
+plafond légal, en fonction de la densité future de chacun de ces îlots. 
+
+A l'intérieur d'un même îlot, la répartition du dépassement est effectuée entre chaque constructeur proportionnellement à la
+surface de plancher à construire. Toutefois la part du dépassement affecté à un projet de construction remplissant les
+conditions d'exonération prévues au troisième et quatrième alinéa de l'article L. 112-2 ne donne pas lieu à l'établissement
+du versement.
+
+**Nota:**
+
+Décret 2007-18 du 5 janvier 2007 art. 14 : Les dispositions du chapitre III du titre III du livre III du code de l'urbanisme
+relatives au plafond légal de densité, dans leur rédaction antérieure à l'entrée en vigueur du présent décret, demeurent
+applicables dans les communes où un plafond légal de densité était institué le 31 décembre 1999 et dont le conseil municipal
+ou l'organe délibérant de l'établissement public de coopération intercommunale compétent n'a pas décidé de supprimer le
+plafond légal de densité ou d'instaurer la participation pour voirie et réseaux définie par l'article L. 332-11-1 du code de
+l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Date de fin de vigueur indéterminée
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°87-282 1987-04-22 art. 4 JORF 25 avril 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
+	  - Décret n°2016-6 du 5 janvier 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L112-2
 
 
 ###### Article R*333-19
@@ -37321,6 +37520,41 @@ postérieurement à l'intervention de la modification sont calculés suivant les
 
 
 ##### Sous-section 3 : Zones dont l'aménagement n'est pas réalisé en régie directe
+
+###### Article R*333-24
+
+La convention ou le cahier des charges de concession fixe le montant du versement dû par l'aménageur selon la formule :
+
+Pa' = vD          Dans laquelle Pa' représente le montant du versement dû par l'aménageur ; v la valeur vénale des terrains
+nus et libres estimés par le      directeur des services fiscaux à la date de l'établissement      du dossier de réalisation
+ou du bilan prévisionnel ; D le dépassement prévu pour la zone, calculé dans les conditions       définies à l'article R.
+333-14. ---Lorsque l'aménageur justifie, notamment par la production des permis de construire correspondants, de
+l'édification d'un nombre de mètres carrés de surface de plancher répondant aux conditions d'exonération définies par les
+troisième et quatrième alinéas de l'article L. 112-2, supérieur à celui retenu pour le calcul effectué en application de
+l'article R. 333-14, l'autorité compétente pour liquider le versement notifie au directeur des services fiscaux que le
+montant des échéances concernées est réduit à due concurrence. Le cas échéant, les sommes perçues en exédent sont
+remboursées.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°87-282 1987-04-22 art. 5 JORF 25 avril 1987
+
+	**Cite**:
+
+	  - CODE DE L'URBANISME R333-14, L112-2
+	  - Code de l'urbanisme - art. L112-2 (M)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*333-32 (V)
+	  - Code de l'urbanisme - art. R*333-33 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
 
 ###### Article R*333-25
 
@@ -37533,6 +37767,28 @@ l'urbanisme.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*333-32
+
+En cas de modification du périmètre de la zone, du plan d'aménagement de la zone, du plan d'occupation des sols ou du
+document d'urbanisme en tenant lieu, de modification supérieure à 10 p. 100 de la valeur des terrains constatée par le
+directeur des services fiscaux les versements non encore échus sont révisés dans les conditions définies aux articles R.
+333-24 et R. 333-25.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme R333-24, R333-25
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°87-282 1987-04-22 art. 6 JORF 25 avril 1987
 
 
 ###### Article R*333-33
@@ -38043,66 +38299,6 @@ fixe la liste de ces documents.
 
 #### Versement résultant du dépassement du plafond légal de densité.
 
-###### Article R*333-1
-
-Le montant du versement lié au dépassement du plafond légal de densité est calculé selon la formule suivante [*définition*] :
-
-Sa + Sb - Sc - (K Sd)   Sa - Se             Pa = v --------------------- x -------                              K
-Sa             Dans laquelle         Pa représente le montant du versement ;
-
-v, la valeur au mètre carré du terrain considéré comme nu et libre ;
-
-Sa, la surface de plancher de la construction projetée, calculée comme il est dit à l'article R. 112-2 ;
-
-Sb, la surface de plancher, calculée comme il est dit à l'article R. 112-2, des constructions implantées sur le même terrain
-qui ne sont pas destinées à être démolies ;
-
-Sc, la partie de la surface de plancher, calculée comme il est dit à l'article R. 112-2, des constructions implantées sur le
-même terrain qui excède le plafond légal de densité que ces constructions soient ou non destinées à être démolies ;
-
-Sd, la surface du terrain ;
-
-Se, la part de la surface de plancher de la construction projetée, calculée comme il est dit à l'article R. 112-2,
-correspondant aux immeubles exonérés en vertu des dispositions du 3è alinéa de l'article L. 112-2.
-
-K, le plafond légal de densité en vigueur sur le territoire de la commune à la date de délivrance du permis de construire.
-
-Dans les cas visés à l'article L. 113-2 (alinéa 3) le versement effectivement dû est obtenu en appliquant à la somme Pa les
-abattements prévus audit article.
-
-//DECR.0739 ART. 12 : Pour le calcul du versement lié au dépassement du plafond légal de densité, il est fait abstraction des
-fractions de sommes inférieures à 10 F//.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°84-669 1984-07-17 ART. 1 1° JORF 21 JUILLET 1984
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L112-2 (M)
-	  - Code de l'urbanisme R112-2
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*333-22 (Ab)
-	  - Code de l'urbanisme - art. R*333-7 (Ab)
-	  - Code de l'urbanisme - art. R333-6 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. R335-1 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme R333-22
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ###### Article R*333-4
 
 La valeur du mètre carré du terrain est déclarée à l'occasion de la demande de permis de construire ou de la déclaration
@@ -38156,147 +38352,6 @@ l'ordonnance n. 58-997 du 23 octobre 1958.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-
-##### Application du plafond légal de densité dans les zones d'aménagement concerté, les zones de rénovation urbaine et les zones de résorption de l'habitat insalubre.
-
-###### Article R*333-14
-
-Dans les zones d'aménagement concerté, les zones de rénovation urbaine et les zones de résorption de l'habitat insalubre, le
-nombre de mètres carrés de construction excédant le plafond légal de densité qui donne lieu au versement visé à l'article L.
-112-2 est calculé selon la formule suivante :
-
-Sa' + Sb' - Sc' - (K Sd')                  D = -------------------------                                 K
-Dans laquelle D représente le dépassement du plafond légal de densité exprimé         en mètres carrés qui est soumis au
-versement visé à         l'article L. 112-2 ; Sa' la surface de plancher développée hors oeuvre des constructions         de
-toute nature autorisées par le plan d'aménagement de la zone,         par le plan d'occupation des sols ou le document
-d'urbanisme         qui en tient lieu ; Sb' la surface de plancher développée hors oeuvre des constructions
-implantées dans la zone à la date de /M/la prise en         considération/M/DECR.0757 ART. 19 : l'approbation// du
-plan d'aménagement de la zone ou de la publication du         plan d'occupation des sols ou du document d'urbanisme
-en tenant lieu et qui ne sont pas destinées à être         démolies ; Sc' la partie de la surface de plancher développée hors
-oeuvre      des constructions implantées dans la zone qui excède le      plafond légal de densité, que ces constructions
-aient été      démolies depuis la création de la zone ou qu'elles soient      ou non destinées à être démolies ; cette
-surface est calculée      à la date de/M/la prise en considération/M/DECR.0757 ART. 19 :
-
-l'approbation// du plan d'aménagement de la zone ou de la      publication du plan d'occupation des sols ou du document
-d'urbanisme en tenant lieu ; Sd' la surface des terrains compris à l'intérieur du périmètre      défini par l'acte de
-création de la zone, à l'exclusion      des terrains d'assiette de la voirie existante affectée à      l'usage du public, des
-voies ferrées, en dehors des gares,      et des cours d'eau ; toutefois ne sont pas déduits de la      surface Sd' les
-terrains d'assiette desdits ouvrages et cours      d'eau lorsque le programme de travaux a prévu d'y superposer      des sols
-artificiels pour un motif d'intérêt général propre      à la zone, conformément aux possibilités ouvertes par le      plan
-d'occupation des sols ou par le plan d'aménagement de      zone et dans la limite de la superficie desdits sols
-artificiels. K le plafond légal de densité en vigueur sur le territoire      de la commune à la date où le nombre de mètres
-carrés de      construction excédant ce plafond est calculé.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°84-669 1984-07-17 ART. 2 1° 2° JORF 21 JUILLET 1984
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L112-2 (M)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*333-17 (Ab)
-	  - Code de l'urbanisme - art. R*333-24 (Ab)
-	  - Code de l'urbanisme - art. R*333-25 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-##### Zones dont l'aménagement est réalisé en régie directe.
-
-###### Article R*333-18
-
-Le dépassement est réparti, s'il en existe, entre les îlots définis par le document d'urbanisme dont la densité excède le
-plafond légal, en fonction de la densité future de chacun de ces îlots.
-
-A l'intérieur d'un même îlot, la répartition du dépassement est effectuée entre chaque constructeur proportionnellement à la
-surface de plancher à construire. Toutefois la part du dépassement affecté à un projet de construction remplissant les
-conditions d'exonération prévues au 3° alinéa de l'article L. 112-2 ne donne pas lieu à l'établissement du versement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°84-669 1984-07-17 ART. 3 1° JORF 21 JUILLET 1984
-
-	**Cite**:
-
-	  - Code de l'urbanisme L112-2 AL. 3
-
-
-##### Zones dont l'aménagement n'est pas réalisé en régie directe.
-
-###### Article R*333-24
-
-La convention ou le cahier des charges de concession fixe le montant du versement dû par l'aménageur selon la formule :
-
-Pa' = vD          Dans laquelle Pa' représente le montant du versement dû par l'aménageur ; v la valeur vénale des terrains
-nus et libres estimés par le      directeur des services fiscaux à la date de l'établissement      du dossier de réalisation
-ou du bilan prévisionnel ; D le dépassement prévu pour la zone, calculé dans les conditions       définies à l'article R.
-333-14.
-
-Lorsque l'aménageur justifie, lors de chaque échéance de paiement et au plus tard avant la dernière échéance, notamment par
-la production des permis de construire correspondants, de l'édification de surfaces de planchers répondant aux conditions de
-l'exonération prévues dans le troisième alinéa de l'article L. 112-2, l'autorité compétente pour liquider le versement de
-l'échéance concernée est réduit selon la formule suivante :
-
-Pa' x Se'                    Pa'n - --------                               Sa         Dans laquelle Pa'n représente le
-montant de chaque échéance de paiement et Se' la surface de plancher développée hors oeuvre exonérée en application des
-dispositions du troisième alinéa de l'article L. 112-2.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°84-669 1984-07-17 ART. 4 1° JORF 21 JUILLET 1984
-
-	**Cite**:
-
-	  - CODE DE L'URBANISME R333-14, L112-2
-	  - Code de l'urbanisme - art. L112-2 (M)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*333-32 (V)
-	  - Code de l'urbanisme - art. R*333-33 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*333-32
-
-En cas de modification du périmètre de la zone, du plan d'aménagement de la zone, du plan d'occupation des sols ou du
-document d'urbanisme en tenant lieu, de modification supérieure à 10 p. 100 de la valeur des terrains constatée par le
-directeur des services fiscaux ou de modification du niveau du plafond légal de densité en application des dispositions de
-l'article L. 112-1 (3ème alinéa), les versements non encore échus sont révisés dans les conditions définies aux articles R.
-333-24 et R. 333-25.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°84-669 1984-07-17 ART. 4 6° JORF 21 JUILLET 1984
-
-	**Cite**:
-
-	  - Code de l'urbanisme L112-1 AL. 3
 
 
 ## Livre IV : Régime applicable aux constructions, aménagements et démolitions
