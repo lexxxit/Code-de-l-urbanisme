@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 1999-06-29
+Version Consolidée au 1999-07-10
 
 # Partie législative
 
@@ -5186,6 +5186,12 @@ coupure d'urbanisation.
 I - L'extension de l'urbanisation doit se réaliser soit en continuité avec les agglomérations et villages existants, soit en
 hameaux nouveaux intégrés à l'environnement.
 
+Par dérogation aux dispositions de l'alinéa précédent, les constructions ou installations liées aux activités agricoles ou
+forestières qui sont incompatibles avec le voisinage des zones habitées peuvent être autorisées, en dehors des espaces
+proches du rivage, avec l'accord du préfet après avis de la commission départementale des sites, perspectives et paysages.
+Cet accord est refusé si les constructions ou installations sont de nature à porter atteinte à l'environnement ou aux
+paysages.
+
 II - L'extension limitée de l'urbanisation des espaces proches du rivage ou des rives des plans d'eau intérieurs désignés à
 l'article 2 de la loi n° 86-2 du 3 janvier 1986 précitée doit être justifiée et motivée, dans le plan d'occupation des sols,
 selon des critères liés à la configuration des lieux ou à l'accueil d'activités économiques exigeant la proximité immédiate
@@ -5246,9 +5252,9 @@ liste est fixée par décret en Conseil d'Etat.
 	  - Code général des collectivités territoriales - art. L4424-10 (V)
 	  - Code général des collectivités territoriales - art. L4424-12 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°86-2 du 3 janvier 1986 - art. 3 () JORF 4 janvier 1986
+	  - Loi n°99-574 du 9 juillet 1999 - art. 109 () JORF 10 juillet 1999
 
 	**Liens**:
 
@@ -5944,6 +5950,9 @@ par exercice de ce droit de préemption deviennent propriété du département.
 Dans les articles L. 142-1 et suivants, l'expression "titulaire du droit de préemption" s'entend également du délégataire en
 application du précédent alinéa, s'il y a lieu.
 
+Les représentants des organisations professionnelles agricoles et forestières sont consultés sur la délimitation de ces zones
+de préemption.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -5998,7 +6007,7 @@ application du précédent alinéa, s'il y a lieu.
 
 	**Modifié par**:
 
-	  - Loi n°95-101 du 2 février 1995 - art. 41 () JORF 3 février 1995
+	  - Loi n°99-574 du 9 juillet 1999 - art. 110 () JORF 10 juillet 1999
 
 	**Cite**:
 
