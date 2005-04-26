@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2005-04-21
+Version Consolidée au 2005-04-27
 
 # Partie législative
 
@@ -37170,7 +37170,7 @@ général.
 ###### Article R*321-8
 
 Le compte financier, visé par le directeur, délibéré par le conseil d'administration et arrêté par le préfet, est présenté
-par l'agent comptable à la Cour des comptes dans les neuf mois [*délai*] qui suivent la clôture de l'exercice.
+par l'agent comptable à la Cour des comptes dans les quatre mois qui suivent la clôture de l'exercice.
 
 **Liens relatifs à cet article**
 
@@ -37205,6 +37205,10 @@ par l'agent comptable à la Cour des comptes dans les neuf mois [*délai*] qui s
 	  - Décret n°2015-980 du 31 juillet 2015 - art. 9 (V)
 	  - Décret n°2016-1865 du 23 décembre 2016 - art. 11 (VD)
 	  - Décret n°2017-341 du 15 mars 2017 - art. 11 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2005-387 du 19 avril 2005 - art. 3 () JORF 27 avril 2005
 
 
 ###### Article R*321-9
