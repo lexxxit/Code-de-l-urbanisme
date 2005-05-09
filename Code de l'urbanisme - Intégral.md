@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2005-04-27
+Version Consolidée au 2005-05-10
 
 # Partie législative
 
@@ -39641,7 +39641,8 @@ l'artisanat ;
 
 6° Un représentant du secteur associatif nommé par le ministre chargé de la ville.
 
-Le contrôleur d'Etat et l'agent comptable ont accès aux séances du conseil d'administration.
+Le membre du corps du contrôle général économique et financier et l'agent comptable ont accès aux séances du conseil
+d'administration.
 
 **Liens relatifs à cet article**
 
@@ -39653,9 +39654,9 @@ Le contrôleur d'Etat et l'agent comptable ont accès aux séances du conseil d'
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-130 du 12 février 1997 - art. 1 () JORF 13 février 1997
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
 
 
 ###### Article R325-2
@@ -54258,12 +54259,11 @@ conduites à leur terme. Il peut adresser des recommandations aux services et pe
 
 ###### Article R*510-14
 
-Les terrains désignés à l'article L. 510-4,[*Région parisienne*] sur lesquels avaient été installées des usines dont
-l'exploitation est ou serait interrompue, pourront être réservés en tout ou partie pour un usage autre que l'usage
-industriel, par des arrêtés du préfet pris après avis du chef du service de l'équipement de la région parisienne et de
-l'inspecteur général de l'industrie et du commerce désigné par le ministre chargé de l'industrie ; les conditions de leur
-utilisation ultérieure sont fixées par des arrêtés pris par le ministre chargé de l'urbanisme et, le cas échéant, le ou les
-ministres intéressés.
+Les terrains désignés à l'article L. 510-4, sur lesquels avaient été installées des usines dont l'exploitation est ou serait
+interrompue, pourront être réservés en tout ou partie pour un usage autre que l'usage industriel, par des arrêtés du préfet
+pris après avis du chef du service de l'équipement de la région parisienne et du membre du corps du contrôle général
+économique et financier désigné par le ministre chargé de l'industrie ; les conditions de leur utilisation ultérieure sont
+fixées par des arrêtés pris par le ministre chargé de l'urbanisme et, le cas échéant, le ou les ministres intéressés.
 
 **Liens relatifs à cet article**
 
@@ -54278,6 +54278,10 @@ ministres intéressés.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
 
 
 ###### Article R*510-15
