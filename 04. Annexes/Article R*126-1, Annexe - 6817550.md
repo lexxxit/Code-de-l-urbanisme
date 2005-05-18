@@ -31,18 +31,15 @@ santé publique ;
 Servitudes attachées à la protection des eaux minérales instituées en application des articles L. 1322-3 à L. 1322-13 du code
 de la santé publique.
 
-d) Réserves naturelles et parcs nationaux.
+d) Réserves naturelles et parcs nationaux :
 
-Réserves naturelles instituées par l'autorité administrative en application de l'article 8 bis de la loi du 2 mai 1930 sur
-les sites ou du chapitre III de la loi n° 76-629 du 10 juillet 1976.
+Réserves naturelles instituées par l'autorité administrative en application des articles L. 332-1 à L. 332-19-1 du code de
+l'environnement ;
 
-Zones de protection des réserves naturelles en application de l'article 27 de la loi n° 76-629 du 10 juillet 1976.
+Périmètres de protection autour des réserves naturelles institués en application des articles L. 332-16 à L. 332-18 du code
+de l'environnement ;
 
-Périmètres de protection autour des réserves naturelles instituées en application de l'article 27 de la loi n° 76-629 du 10
-juillet 1976 relative à la protection de la nature, tel qu'il a été complété par l'article 58-1 de la loi n° 83-663 du 22
-juillet 1983.
-
-Parcs nationaux créés en application de la loi n° 60-708 du 22 juillet 1960.
+Parcs nationaux classés en application des articles L. 331-1 à L. 331-7 du code de l'environnement.
 
 e) Zones agricoles protégées.
 
@@ -267,88 +264,10 @@ Servitudes d'utilité publique instituées en application de l'article L. 211-12
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code des postes et télécommunications L54 à L56-1, R21 à R26-1, L57 à L62-1, R27 à R39, L45-1, L48
-	  - Loi n°46-628 1946-04-08 art. 35
-	  - Loi n°58-336 du 29 mars 1958 - art. 11 (M)
-	  - Ordonnance n°58-1132 du 25 novembre 1958 - art. 7 (Ab)
-	  - Ordonnance 58-1311 1958-12-23
-	  - Décret n°58-1316 1958-12-23
-	  - Ordonnance n°58-1332 du 23 décembre 1958 - art. 6 (Ab)
-	  - Décret n°59-96 1959-01-07
-	  - Décret n°59-645 1959-05-16
-	  - Loi n°60-708 1960-07-22
-	  - Décret n°61-859 1961-08-01
-	  - Loi n°62-904 1962-08-04
-	  - Loi n°65-498 1965-06-29
-	  - Loi n°66-1066 1966-12-31
-	  - Décret n°67-1093 1967-12-15
-	  - Loi n°69-7 du 3 janvier 1969 - art. 4 (Ab)
-	  - Loi n°69-7 du 3 janvier 1969 - art. 5 (Ab)
-	  - Loi n°72-1147 1972-12-23 Finances rectificative pour 1972
-	  - Loi n°76-629 du 10 juillet 1976 - art. 27 (M)
-	  - Loi n°76-663 1976-07-19 art. 7-1 à 7-4
-	  - Loi n°80-531 1980-07-15
-	  - Loi n°83-663 1983-07-22 art. 58-1
-	  - Loi n°84-610 du 16 juillet 1984 - art. 42 (M)
-	  - Loi n°85-30 1985-01-09 art. 53
-	  - Loi n°87-954 1987-11-27
-	  - Loi n°91-1385 1991-12-31
-	  - CODE DES COMMUNES. - art. L361-1 (M)
-	  - CODE DES COMMUNES. - art. L361-4 (M)
-	  - Code forestier - art. L421-1 (V)
-	  - Code forestier - art. L432-1 (M)
-	  - Code forestier - art. L432-2 (V)
-	  - Code forestier - art. L531-1 (Ab)
-	  - Code forestier - art. L541-2 (Ab)
-	  - Code forestier L151-1 à L151-6, L411-1 à L413-1, L421-1, L432-1, L432-2, L531-1, L541-2
-	  - Code minier 71 à 73, 94
-	  - Code de la santé publique - art. L1321-2 (M)
-	  - Code de la santé publique - art. L1322-3 (M)
-	  - Code de la santé publique - art. L736 (M)
-	  - Code de la santé publique - art. R1321-13 (M)
-	  - Code de l'urbanisme - art. L160-6 (M)
-	  - Code de l'urbanisme - art. L160-6-1 (V)
-	  - Code de l'environnement - art. L211-12 (M)
-	  - Code de l'environnement - art. L211-7 (M)
-	  - Code de l'environnement - art. L215-4 (M)
-	  - Code de l'environnement - art. L215-5 (Ab)
-	  - Code de l'environnement - art. L562-1 (M)
-	  - Code de l'environnement - art. L562-6 (V)
-	  - Code de l'aviation civile - art. L281-1 (M)
-	  - Code de l'aviation civile - art. R244-1 (M)
-	  - Code de l'aviation civile - art. R245-1 (M)
-	  - Code de l'aviation civile L281-1, R241-1 à R243-3, R245-1, R244-1, D244-1 à D244-4
-	  - Code du domaine public fluvial et de la navigation - art. 15 (M)
-	  - Code du domaine public fluvial et de la navigation - art. 16 (M)
-	  - Code du domaine public fluvial et de la navigation - art. 28 (M)
-	  - Code du domaine public fluvial et de la navigation - art. 55 (Ab)
-	  - Code rural L112-2, L642-1, L642-2, 128-7, 128-9, 128-6, 138-1, 135 à 138, 424, L151-37-1
-	  - Décret n°1935-10-30 art. 6, art. 3, art. 2
-	  - Décret n°64-158 1964-02-15
-	  - Décret n°64-481 1964-01-23 art. 25
-	  - Loi n°1791-07-08
-	  - Loi n°1819-07-17
-	  - Loi n°1845-07-15
-	  - Loi n°1851-07-10
-	  - Loi n°1895-07-18
-	  - Loi n°1906-06-15
-	  - Loi n°1913-12-31 art. 1 à 5, art. 1, art. 13 bis
-	  - Loi n°1919-10-16 art. 4
-	  - Loi n°1925-07-13 art. 298
-	  - Loi n°1927-07-13 art. 25
-	  - Loi n°1929-08-08
-	  - Loi n°1930-05-02 art. 8 bis, art. 28, art. 17
-	  - Loi n°1933-05-27
-	  - Loi n°1933-07-11
-	  - Loi n°1941-07-08
-
-	**Modifié par**:
-
-	  - Décret n°2005-116 du 7 février 2005 - art. 9 () JORF 12 février 2005
-	  - Décret n°2005-115 du 7 février 2005 - art. 3 () JORF 12 février 2005
-
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°2005-491 du 18 mai 2005 - art. 5 () JORF 19 mai 2005
