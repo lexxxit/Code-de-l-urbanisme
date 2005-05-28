@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2005-05-27
+Version Consolidée au 2005-05-29
 
 # Partie législative
 
@@ -21976,6 +21976,85 @@ démocratisation des enquêtes publiques et à la protection de l'environnement.
 	  - Décret n°2001-260 du 27 mars 2001 - art. 2 () JORF 28 mars 2001
 
 
+###### Article R*111-28
+
+La directive territoriale d'aménagement fait l'objet d'une évaluation environnementale dans les conditions définies par la
+section V du chapitre Ier du titre II du présent livre.
+
+Elle comprend un rapport de présentation qui :
+
+1° Présente les objectifs de la directive et, s'il y a lieu, son articulation avec les plans ou programmes mentionnés à
+l'article L. 122-4 du code de l'environnement avec lesquels elle doit être compatible ou qu'elle doit prendre en
+considération ;
+
+2° Analyse l'état initial de l'environnement et les perspectives de son évolution en exposant, notamment, les
+caractéristiques des zones susceptibles d'être touchées de manière notable par la mise en oeuvre de la directive ;
+
+3° Analyse les incidences notables prévisibles de la mise en oeuvre de la directive sur l'environnement et expose les
+problèmes posés par son adoption sur la protection des zones revêtant une importance particulière pour l'environnement telles
+que celles désignées conformément aux articles R. 214-18 à R. 214-22 du code de l'environnement (1), ainsi qu'à l'article 2
+du décret n° 2001-1031 du 8 novembre 2001 relatif à la procédure de désignation des sites Natura 2000 ;
+
+4° Expose les motifs pour lesquels la directive a été adoptée au regard notamment des objectifs de protection de
+l'environnement établis au niveau international, communautaire ou national et, s'il y a lieu, les raisons qui justifient le
+choix opéré au regard des autres solutions envisagées ;
+
+5° Présente les mesures envisagées pour éviter, réduire et, si possible, compenser, s'il y a lieu, les conséquences
+dommageables de la mise en oeuvre de la directive territoriale d'aménagement sur l'environnement et précise que la directive
+fera l'objet d'une analyse des résultats de son application au plus tard à l'expiration d'un délai de dix ans à compter de
+son approbation ;
+
+6° Comprend un résumé non technique des éléments précédents et une description de la manière dont l'évaluation a été
+effectuée.
+
+Le rapport de présentation peut se référer aux renseignements relatifs à l'environnement figurant dans d'autres études, plans
+et documents.
+
+**Nota:**
+
+NOTA :(1) Les articles R. 211-1 à R. 223-25 du code de l'environnement sont abrogés, sauf en tant que leurs dispositions
+s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les Terres australes et antarctiques
+françaises et à Mayotte. Se reporter désormais aux articles R. 411-1 à R. 423-20 du même code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2001-1031 du 8 novembre 2001 - art. 2 (M)
+	  - Code de l'environnement - art. L122-4 (V)
+	  - Code de l'environnement L122-4, R214-18 à R214-22
+
+	**Créé par**:
+
+	  - Décret n°2005-608 du 27 mai 2005 - art. 1 () JORF 29 mai 2005
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*111-29
+
+Au plus tard à l'expiration d'un délai de dix ans à compter de l'approbation de la directive territoriale d'aménagement ou de
+sa dernière révision, l'autorité compétente procède à une analyse des résultats de son application. Cette analyse est
+transmise aux régions, départements, communes et groupements de communes mentionnés à l'alinéa 3 de l'article L. 111-1-1 et
+mise à la disposition du public selon des modalités définies par l'autorité compétente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°2005-608 du 27 mai 2005 - art. 1 () JORF 29 mai 2005
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L111-1-1 (M)
+
+
 #### Chapitre II : Plafond légal de densité.
 
 ###### Article R*112-1
@@ -22054,72 +22133,7 @@ en rez-de-chaussée.
 
 #### Chapitre Ier : Dispositions communes aux schémas de cohérence territoriale, aux plans locaux d'urbanisme et aux cartes communales 
 
-#####  Section 1 : Informations portées par l'Etat à la connaissance des communes ou de leurs groupements
-
-###### Article R*121-1
-
-Lorsqu'il reçoit la décision d'une commune, d'un établissement public de coopération intercommunale ou d'un syndicat mixte
-d'élaborer ou de réviser un schéma de cohérence territoriale ou un plan local d'urbanisme, le préfet porte à la connaissance
-du maire ou du président de l'établissement public les dispositions particulières applicables au territoire concerné,
-notamment les directives territoriales d'aménagement, les dispositions relatives aux zones de montagne et au littoral
-figurant aux chapitres V et VI du titre IV du présent livre, les servitudes d'utilité publique ainsi que les projets
-d'intérêt général et les opérations d'intérêt national au sens de l'article L. 121-9.
-
-Il fournit également les études techniques dont dispose l'Etat en matière de prévention des risques et de protection de
-l'environnement.
-
-Au cours de l'élaboration du document, le préfet communique au maire ou au président de l'établissement public tout élément
-nouveau.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
-
-	**Cité par**:
-
-	  - Décret n°2014-1300 du 23 octobre 2014 - art. (VD)
-	  - Code de l'urbanisme - art. R*122-10 (VT)
-	  - Code de l'urbanisme - art. R*123-15 (VT)
-	  - Code de l'urbanisme - art. R*123-19 (VT)
-	  - Code de l'urbanisme - art. R*124-4 (VT)
-	  - Code de l'urbanisme - art. R*124-6 (VT)
-	  - Code de l'urbanisme - art. R*141-4 (VT)
-	  - Code de l'urbanisme - art. R*710-1 (Ab)
-	  - Code de la défense. - art. D5131-12 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L121-9 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 #####  Section 2 : Projets d'intérêt général.
-
-###### Article R*121-2
-
-Sous l'autorité du préfet, le service de l'Etat chargé de l'urbanisme dans le département assure la collecte des informations
-et la conservation des documents nécessaires à l'application des dispositions de l'article L. 121-2 et à l'association de
-l'Etat à l'élaboration des schémas de cohérence territoriale et des plans locaux d'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L121-2 (M)
-
 
 ###### Article R*121-3
 
@@ -22144,13 +22158,9 @@ l'article R. 121-4.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
 	**Modifié par**:
 
-	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
+	  - Décret n°2005-608 du 27 mai 2005 - art. 2 () JORF 29 mai 2005
 
 	**Cité par**:
 
@@ -22168,6 +22178,10 @@ l'article R. 121-4.
 
 	  - TXT_SOURCE: Code de l'urbanisme - art. L121-9 (M)
 
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
 
 ###### Article R*121-4
 
@@ -22182,7 +22196,7 @@ précédent. Il peut être renouvelé.
 
 	**Modifié par**:
 
-	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
+	  - Décret n°2005-608 du 27 mai 2005 - art. 2 () JORF 29 mai 2005
 
 	**Liens**:
 
@@ -22202,16 +22216,141 @@ précédent. Il peut être renouvelé.
 	  - Décret n°73-1023 1973-11-08
 
 
+#### Chapitre Ier : Dispositions générales communes aux documents d'urbanisme
+
+#####  Section 1 : Informations portées par l'Etat à la connaissance des communes ou de leurs groupements
+
+###### Article R*121-1
+
+Lorsqu'il reçoit la décision d'une commune, d'un établissement public de coopération intercommunale ou d'un syndicat mixte
+d'élaborer ou de réviser un schéma de cohérence territoriale ou un plan local d'urbanisme, le préfet porte à la connaissance
+du maire ou du président de l'établissement public les dispositions particulières applicables au territoire concerné,
+notamment les directives territoriales d'aménagement, les dispositions relatives aux zones de montagne et au littoral
+figurant aux chapitres V et VI du titre IV du présent livre, les servitudes d'utilité publique ainsi que les projets
+d'intérêt général et les opérations d'intérêt national au sens de l'article L. 121-9.
+
+Il fournit également les études techniques dont dispose l'Etat en matière de prévention des risques et de protection de
+l'environnement.
+
+Au cours de l'élaboration du document, le préfet communique au maire ou au président de l'établissement public tout élément
+nouveau.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2005-608 du 27 mai 2005 - art. 2 () JORF 29 mai 2005
+
+	**Cité par**:
+
+	  - Décret n°2014-1300 du 23 octobre 2014 - art. (VD)
+	  - Code de l'urbanisme - art. R*122-10 (VT)
+	  - Code de l'urbanisme - art. R*123-15 (VT)
+	  - Code de l'urbanisme - art. R*123-19 (VT)
+	  - Code de l'urbanisme - art. R*124-4 (VT)
+	  - Code de l'urbanisme - art. R*124-6 (VT)
+	  - Code de l'urbanisme - art. R*141-4 (VT)
+	  - Code de l'urbanisme - art. R*710-1 (Ab)
+	  - Code de la défense. - art. D5131-12 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L121-9 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*121-2
+
+Sous l'autorité du préfet, le service de l'Etat chargé de l'urbanisme dans le département assure la collecte des informations
+et la conservation des documents nécessaires à l'application des dispositions de l'article L. 121-2 et à l'association de
+l'Etat à l'élaboration des schémas de cohérence territoriale et des plans locaux d'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°2005-608 du 27 mai 2005 - art. 2 () JORF 29 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L121-2
+
+
+#####  Section 3 : Associations locales d'usagers
+
+###### Article R*121-5
+
+Les associations locales d'usagers mentionnées à l'article L. 121-5 peuvent être agréées dès lors qu'elles ont un
+fonctionnement continu depuis trois ans au moins et qu'elles exercent des activités statutaires désintéressées en rapport
+avec l'urbanisme. L'agrément ne peut être demandé que pour le territoire de la commune où l'association a son siège social et
+des communes limitrophes. 
+
+La demande d'agrément comporte : 
+
+a) Une note de présentation de l'association indiquant le nombre des adhérents à jour de leur cotisation et retraçant ses
+principales activités au cours des trois années antérieures ; 
+
+b) Un exemplaire, à jour, des statuts ; 
+
+c) Le rapport moral et le rapport financier approuvés lors de la dernière assemblée générale ; le rapport financier doit
+comprendre un tableau retraçant les ressources et les charges financières de l'association ; il indique expressément le ou
+les montants des cotisations demandées aux membres de l'association et le produit de ces cotisations. 
+
+L'agrément est délivré par arrêté préfectoral après avis du maire ou des maires intéressés et, s'il y a lieu, du président de
+l'établissement public de coopération intercommunale compétent pour l'élaboration des documents d'urbanisme mentionnés à
+l'article L. 121-5. Faute de réponse dans un délai de deux mois, leur avis est réputé favorable. 
+
+La décision d'agrément est publiée au Recueil des actes administratifs de l'Etat dans le département. 
+
+L'agrément est réputé accordé si l'association n'a pas reçu notification de la décision du préfet dans les quatre mois qui
+suivent le dépôt de la demande ou des pièces complémentaires demandées. Dans ce cas, le préfet délivre, sur simple demande du
+président de l'association intéressée, une attestation constatant l'existence d'un agrément.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L121-5
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R132-6 (V)
+	  - Code de l'urbanisme - art. R132-7 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°2005-608 du 27 mai 2005 - art. 2 () JORF 29 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+
 #####  Section 4 : Commission de conciliation
 
 ###### Article R*121-6
 
 La commission de conciliation en matière d'élaboration de documents d'urbanisme, prévue à l'article L. 121-6, est composée
-de :
+de : 
 
-1° Six élus communaux représentant au moins cinq communes différentes et à Paris au moins cinq arrondissements ;
+1° Six élus communaux représentant au moins cinq communes différentes et à Paris au moins cinq arrondissements ; 
 
-2° Six personnes qualifiées en matière d'aménagement, d'urbanisme, d'architecture ou d'environnement.
+2° Six personnes qualifiées en matière d'aménagement, d'urbanisme, d'architecture ou d'environnement. 
 
 En cas d'absence ou d'empêchement d'un membre titulaire, il est fait appel à son suppléant.
 
@@ -22219,11 +22358,15 @@ En cas d'absence ou d'empêchement d'un membre titulaire, il est fait appel à s
 
 	**Modifié par**:
 
-	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
+	  - Décret n°2005-608 du 27 mai 2005 - art. 2 () JORF 29 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L121-6 (M)
+	  - Code de l'urbanisme - art. L121-6
 
 	**Liens**:
 
@@ -22231,7 +22374,12 @@ En cas d'absence ou d'empêchement d'un membre titulaire, il est fait appel à s
 
 	**Cité par**:
 
+	  - Code de l'urbanisme - art. R*157-1 (VT)
 	  - Code de l'urbanisme - art. R*710-2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R132-10 (V)
 
 	**Codifié par**:
 
@@ -22254,9 +22402,17 @@ Les élus communaux cessent d'exercer leur mandat lorsqu'ils ont perdu la qualit
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
 	**Modifié par**:
 
-	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
+	  - Décret n°2005-608 du 27 mai 2005 - art. 2 () JORF 29 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 	**Liens**:
 
@@ -22264,11 +22420,12 @@ Les élus communaux cessent d'exercer leur mandat lorsqu'ils ont perdu la qualit
 
 	**Cité par**:
 
+	  - Code de l'urbanisme - art. R*157-2 (VT)
 	  - Code de l'urbanisme - art. R*710-3 (Ab)
 
-	**Codifié par**:
+	**Nouveaux textes**:
 
-	  - Décret n°73-1023 1973-11-08
+	  - Code de l'urbanisme - art. R132-11 (V)
 
 
 ###### Article R*121-8
@@ -22278,17 +22435,25 @@ conseils municipaux. Leur mandat se termine au renouvellement général suivant.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2005-608 du 27 mai 2005 - art. 2 () JORF 29 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
 	**Liens**:
 
 	  - TXT_SOURCE: Code de l'urbanisme - art. L121-9 (M)
 
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R132-12 (V)
+
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
 
 
 ###### Article R*121-9
@@ -22299,17 +22464,25 @@ municipaux.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - TXT_SOURCE: Code de l'urbanisme - art. L121-9 (M)
-
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
 	**Modifié par**:
 
-	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
+	  - Décret n°2005-608 du 27 mai 2005 - art. 2 () JORF 29 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de l'urbanisme - art. L121-9 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R132-13 (V)
 
 
 ###### Article R*121-10
@@ -22330,11 +22503,19 @@ Le siège de la commission de conciliation est la préfecture du département.
 
 	**Modifié par**:
 
-	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
+	  - Décret n°2005-608 du 27 mai 2005 - art. 2 () JORF 29 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 	**Liens**:
 
 	  - TXT_SOURCE: Code de l'urbanisme - art. L121-9 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R132-14 (V)
 
 
 ###### Article R*121-11
@@ -22345,17 +22526,25 @@ Le secrétariat de la commission est assuré par les services de l'Etat dans le 
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
 	**Modifié par**:
 
-	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
+	  - Décret n°2005-608 du 27 mai 2005 - art. 2 () JORF 29 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 	**Liens**:
 
 	  - TXT_SOURCE: Code de l'urbanisme - art. L121-9 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R132-15 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*121-12
@@ -22366,17 +22555,25 @@ l'établissement public compétent et, dans ce cas, aux mairies des communes mem
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
-
 	**Liens**:
 
 	  - TXT_SOURCE: Code de l'urbanisme - art. L121-9 (M)
 
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R132-16 (M)
+
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°2005-608 du 27 mai 2005 - art. 2 () JORF 29 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 
 ###### Article R*121-13
@@ -22391,66 +22588,207 @@ concernées.
 
 	**Modifié par**:
 
-	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
+	  - Décret n°2005-608 du 27 mai 2005 - art. 2 () JORF 29 mai 2005
 
 	**Cité par**:
 
 	  - Arrêté du 4 avril 2006 - art. 3 (VT)
 
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
 	**Liens**:
 
 	  - TXT_SOURCE: Code de l'urbanisme - art. L121-12 (Ab)
 
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R132-17 (M)
+
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
 
-#### Chapitre Ier : Dispositions communes aux schémas de cohérence territoriale, aux plans locaux d'urbanisme et aux cartes communales
+#####  Section 5 : Evaluation environnementale.
 
-#####  Section 3 : Associations locales d'usagers
+###### Article R*121-14
 
-###### Article R*121-5
+I. - Font l'objet d'une évaluation environnementale dans les conditions prévues par la présente section  :
 
-Les associations locales d'usagers mentionnées à l'article L. 121-5 peuvent être agréées dès lors qu'elles ont un
-fonctionnement continu depuis trois ans au moins et qu'elles exercent des activités statutaires désintéressées en rapport
-avec l'urbanisme. L'agrément ne peut être demandé que pour le territoire de la commune où l'association a son siège social et
-des communes limitrophes.
+1° Les directives territoriales d'aménagement ;
 
-La demande d'agrément comporte :
+2° Le schéma directeur de la région d'Ile-de-France ;
 
-a) Une note de présentation de l'association indiquant le nombre des adhérents à jour de leur cotisation et retraçant ses
-principales activités au cours des trois années antérieures ;
+3° Les schémas d'aménagement régionaux des régions d'outre-mer ;
 
-b) Un exemplaire, à jour, des statuts ;
+4° Le plan d'aménagement et de développement durable de Corse ;
 
-c) Le rapport moral et le rapport financier approuvés lors de la dernière assemblée générale ; le rapport financier doit
-comprendre un tableau retraçant les ressources et les charges financières de l'association ; il indique expressément le ou
-les montants des cotisations demandées aux membres de l'association et le produit de ces cotisations.
+5° Les schémas de cohérence territoriale.
 
-L'agrément est délivré par arrêté préfectoral après avis du maire ou des maires intéressés et, s'il y a lieu, du président de
-l'établissement public de coopération intercommunale compétent pour l'élaboration des documents d'urbanisme mentionnés à
-l'article L. 121-5. Faute de réponse dans un délai de deux mois, leur avis est réputé favorable.
+II. - Font également l'objet d'une évaluation environnementale :
 
-La décision d'agrément est publiée au Recueil des actes administratifs de l'Etat dans le département.
+1° Les plans locaux d'urbanisme qui permettent la réalisation de travaux, ouvrages ou aménagements mentionnés à l'article L.
+414-4 du code de l'environnement ;
 
-L'agrément est réputé accordé si l'association n'a pas reçu notification de la décision du préfet dans les quatre mois qui
-suivent le dépôt de la demande ou des pièces complémentaires demandées. Dans ce cas, le préfet délivre, sur simple demande du
-président de l'association intéressée, une attestation constatant l'existence d'un agrément.
+2° Lorsque les territoires concernés ne sont pas couverts par un schéma de cohérence territoriale ayant fait l'objet d'une
+évaluation environnementale dans les conditions de la présente section :
+
+a) Les plans locaux d'urbanisme relatifs à un territoire d'une superficie supérieure ou égale à 5 000 hectares et comprenant
+une population supérieure ou égale à 10 000 habitants ;
+
+b) Les plans locaux d'urbanisme qui prévoient la création, dans des secteurs agricoles ou naturels, de zones U ou AU d'une
+superficie totale supérieure à 200 hectares ;
+
+c) Les plans locaux d'urbanisme des communes situées en zone de montagne qui prévoient la réalisation d'unités touristiques
+nouvelles soumises à l'autorisation du préfet coordonnateur de massif ;
+
+d) Les plans locaux d'urbanisme des communes littorales au sens de l'article L. 321-2 du code de l'environnement qui
+prévoient la création, dans des secteurs agricoles ou naturels, de zones U ou AU d'une superficie totale supérieure à 50
+hectares.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°2005-608 du 27 mai 2005 - art. 2 () JORF 29 mai 2005
+
+	**Cité par**:
+
+	  - Décret n°2012-995 du 23 août 2012 - art. 11 (VD)
+	  - Code de l'urbanisme - art. R*121-15 (VT)
+	  - Code de l'urbanisme - art. R*121-16 (VT)
+	  - Code de l'urbanisme - art. R*121-17 (VT)
+	  - Code de l'urbanisme - art. R*157-3 (VT)
+
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L121-5 (M)
+	  - Code de l'environnement - art. L321-2 (V)
+	  - Code de l'environnement - art. L414-4 (M)
+
+
+###### Article R*121-15
+
+Le ministre chargé de l'environnement, pour les documents mentionnés aux 1° à 3° du I de l'article R. 121-14, le préfet de
+Corse, pour le document mentionné au 4° du même I et le préfet de département, pour les schémas de cohérence territoriale et
+les plans locaux d'urbanisme mentionnés au II du même article, sont consultés sur l'évaluation environnementale contenue dans
+le rapport de présentation et sur la prise en compte de l'environnement par le projet de document d'urbanisme, trois mois au
+plus tard avant l'ouverture de l'enquête publique ou de la consultation du public prévue par des textes particuliers. L'avis
+est réputé favorable s'il n'intervient pas dans un délai de trois mois. Il est, s'il y a lieu, joint au dossier d'enquête
+publique ou mis à la disposition du public.
+
+Avant de rendre son avis, le préfet de Corse consulte le conseil des sites de Corse.
+
+Lorsque le préfet est consulté, l'avis est préparé, sous son autorité, par le service régional de l'environnement concerné en
+liaison avec les services de l'Etat compétents.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
+	  - Décret n°2005-608 du 27 mai 2005 - art. 2 () JORF 29 mai 2005
+
+	**Cité par**:
+
+	  - Décret n°2008-679 du 9 juillet 2008 - art. 1 (V)
+	  - Décret n°2009-496 du 30 avril 2009 - art. 6 (V)
+	  - Code de l'urbanisme - art. R*121-14-1 (VT)
+
+	**Cite**:
+
+	  - Code de l'urbanisme R121-14
+
+
+###### Article R*121-16
+
+Sont dispensées de l'évaluation environnementale, à condition qu'elles n'aient pas pour objet d'autoriser la réalisation de
+travaux, ouvrages ou aménagements mentionnés à l'article L. 414-4 du code de l'environnement :
+
+1° Les modifications et révisions des documents d'urbanisme mentionnés aux 1° à 4° de l'article R. 121-14 qui ne portent pas
+atteinte à l'économie générale du document ;
+
+2° Les modifications et les mises en compatibilité des schémas de cohérence territoriale prévues au deuxième alinéa de
+l'article L. 122-13 et à l'article L. 122-15 ;
+
+3° Les modifications des plans locaux d'urbanisme ainsi que les révisions simplifiées prévues aux deuxième et huitième
+alinéas de l'article L. 123-13 et les mises en compatibilité prévues à l'article L. 123-16, à l'exception :
+
+a) Des modifications ou révisions simplifiées concernant des opérations ou travaux mentionnés au c du 2° du II de l'article
+R. 121-14 ;
+
+b) Des révisions simplifiées créant, dans des secteurs agricoles ou naturels, des zones U ou AU d'une superficie supérieure à
+celles qui sont mentionnées au b et d du 2° du II de l'article R. 121-14.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-608 du 27 mai 2005 - art. 2 () JORF 29 mai 2005
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L122-13 (M)
+	  - Code de l'urbanisme - art. L122-15 (M)
+	  - Code de l'urbanisme - art. L123-13 (Ab)
+	  - Code de l'urbanisme - art. L123-16 (M)
+	  - Code de l'urbanisme R121-14, L122-13, L122-15, L123-13, L123-16
+	  - Code de l'environnement - art. L414-4 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*121-17
+
+Lorsqu'un document d'urbanisme mentionné à l'article R. 121-14 en cours d'élaboration est susceptible d'avoir des incidences
+notables sur l'environnement d'un autre Etat membre de la Communauté européenne, ou lorsque cet autre Etat en fait la
+demande, l'autorité compétente transmet un exemplaire du dossier sur lequel est consulté le public aux autorités de cet Etat,
+en leur indiquant le délai qui ne peut dépasser trois mois dont elles disposent pour formuler leur avis. Elle en informe le
+ministre des affaires étrangères. 
+
+Lorsque l'autorité n'est pas un service de l'Etat, elle saisit le préfet qui procède à la transmission. 
+
+Lorsqu'un autre Etat membre de la Communauté européenne saisit pour avis une autorité française d'un plan ou document
+d'urbanisme en cours d'élaboration susceptible d'avoir des incidences notables sur l'environnement en France, l'autorité
+saisie transmet le dossier au préfet du département intéressé qui peut décider de consulter le public. Le préfet convient
+d'un délai avec les autorités de l'Etat à l'origine de la saisine et communique les résultats de la consultation à l'Etat à
+l'origine de la saisine. Il en informe le ministre des affaires étrangères. 
+
+Ces dispositions ne font pas obstacle aux consultations prévues par l'article L. 121-4-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-608 du 27 mai 2005 - art. 2 () JORF 29 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L121-4-1
+	  - Code de l'urbanisme - art. R*121-14
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R104-26 (V)
+	  - Code de l'urbanisme - art. R104-27 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 #### Chapitre II : Schémas de cohérence territoriale
@@ -22463,21 +22801,49 @@ Le rapport de présentation :
 
 1° Expose le diagnostic prévu à l'article L. 122-1 ;
 
-2° Analyse l'état initial de l'environnement ;
+2° Décrit l'articulation du schéma avec les autres documents d'urbanisme et les plans ou programmes mentionnés à l'article L.
+122-4 du code de l'environnement avec lesquels il doit être compatible ou qu'il doit prendre en considération ;
 
-3° Explique les choix retenus pour établir le projet d'aménagement et de développement durable et le document d'orientations
-générales ;
+3° Analyse l'état initial de l'environnement et les perspectives de son évolution en exposant, notamment, les
+caractéristiques des zones susceptibles d'être touchées de manière notable par la mise en oeuvre du schéma ;
 
-4° Précise, le cas échéant, les principales phases de réalisation envisagées ;
+4° Analyse les incidences notables prévisibles de la mise en oeuvre du schéma sur l'environnement et expose les problèmes
+posés par l'adoption du schéma sur la protection des zones revêtant une importance particulière pour l'environnement telles
+que celles désignées conformément aux articles R. 214-18 à R. 214-22 (1) du code de l'environnement ainsi qu'à l'article 2 du
+décret n° 2001-1031 du 8 novembre 2001 relatif à la procédure de désignation des sites Natura 2000 ;
 
-5° Evalue les incidences prévisibles des orientations du schéma sur l'environnement et expose la manière dont le schéma prend
-en compte le souci de sa préservation et de sa mise en valeur.
+5° Explique les choix retenus pour établir le projet d'aménagement et de développement durable et le document d'orientations
+générales et, le cas échéant, les raisons pour lesquelles des projets alternatifs ont été écartés, au regard notamment des
+objectifs de protection de l'environnement établis au niveau international, communautaire ou national et les raisons qui
+justifient le choix opéré au regard des autres solutions envisagées ;
+
+6° Présente les mesures envisagées pour éviter, réduire et, si possible, compenser s'il y a lieu, les conséquences
+dommageables de la mise en oeuvre du schéma sur l'environnement et rappelle que le schéma fera l'objet d'une analyse des
+résultats de son application, notamment en ce qui concerne l'environnement, au plus tard à l'expiration d'un délai de dix ans
+à compter de son approbation ;
+
+7° Comprend un résumé non technique des éléments précédents et une description de la manière dont l'évaluation a été
+effectuée ;
+
+8° Précise le cas échéant, les principales phases de réalisation envisagées.
+
+Le rapport de présentation peut se référer aux renseignements relatifs à l'environnement figurant dans d'autres études, plans
+et documents.
+
+**Nota:**
+
+NOTA :(1) Les articles R. 211-1 à R. 223-25 du code de l'environnement sont abrogés, sauf en tant que leurs dispositions
+s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les Terres australes et antarctiques
+françaises et à Mayotte. Se reporter désormais aux articles R. 411-1 à R. 423-20 du même code.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L122-1 (M)
+	  - Code de l'environnement - art. L122-4 (V)
+	  - Code de l'environnement L122-4, R214-18 à R214-22
+	  - Décret n°2001-1031 du 8 novembre 2001 - art. 2 (M)
 
 	**Cité par**:
 
@@ -22489,7 +22855,7 @@ en compte le souci de sa préservation et de sa mise en valeur.
 
 	**Modifié par**:
 
-	  - Décret n°2004-531 du 9 juin 2004 - art. 1 () JORF 13 juin 2004
+	  - Décret n°2005-608 du 27 mai 2005 - art. 3 () JORF 29 mai 2005
 
 
 ###### Article R*122-2-1
@@ -23128,6 +23494,74 @@ apportés.
 
 	  - Code de l'urbanisme - art. L123-1 (M)
 	  - Code de l'urbanisme - art. L123-2 (M)
+
+
+###### Article R*123-2-1
+
+Lorsque le plan local d'urbanisme doit faire l'objet d'une évaluation environnementale conformément aux articles L. 121-10 et
+suivants, le rapport de présentation :
+
+1° Expose le diagnostic prévu au premier alinéa de l'article L. 123-1 et décrit l'articulation du plan avec les autres
+documents d'urbanisme et les plans ou programmes mentionnés à l'article L. 122-4 du code de l'environnement avec lesquels il
+doit être compatible ou qu'il doit prendre en considération ;
+
+2° Analyse l'état initial de l'environnement et les perspectives de son évolution en exposant, notamment, les
+caractéristiques des zones susceptibles d'être touchées de manière notable par la mise en oeuvre du plan ;
+
+3° Analyse les incidences notables prévisibles de la mise en oeuvre du plan sur l'environnement et expose les conséquences
+éventuelles de l'adoption du plan sur la protection des zones revêtant une importance particulière pour l'environnement
+telles que celles désignées conformément aux articles R. 214-18 à R. 214-22 (1) du code de l'environnement ainsi qu'à
+l'article 2 du décret n° 2001-1031 du 8 novembre 2001 relatif à la procédure de désignation des sites Natura 2000 ;
+
+4° Explique les choix retenus pour établir le projet d'aménagement et de développement durable, au regard notamment des
+objectifs de protection de l'environnement établis au niveau international, communautaire ou national, et, le cas échéant,
+les raisons qui justifient le choix opéré par rapport aux autres solutions envisagées. Il expose les motifs de la
+délimitation des zones, des règles qui y sont applicables et des orientations d'aménagement. Il justifie l'institution des
+secteurs des zones urbaines où les constructions ou installations d'une superficie supérieure à un seuil défini par le
+règlement sont interdites en application du a de l'article L. 123-2 ;
+
+5° Présente les mesures envisagées pour éviter, réduire et, si possible, compenser s'il y a lieu, les conséquences
+dommageables de la mise en oeuvre du plan sur l'environnement et rappelle que le plan fera l'objet d'une analyse des
+résultats de son application, notamment en ce qui concerne l'environnement, au plus tard à l'expiration d'un délai de dix ans
+à compter de son approbation ;
+
+6° Comprend un résumé non technique des éléments précédents et une description de la manière dont l'évaluation a été
+effectuée.
+
+En cas de modification ou de révision, le rapport de présentation est complété par l'exposé des motifs des changements
+apportés.
+
+Le rapport de présentation peut se référer aux renseignements relatifs à l'environnement figurant dans d'autres études, plans
+et documents.
+
+**Nota:**
+
+(1) Les articles R. 211-1 à R. 223-25 du code de l'environnement sont abrogés, sauf en tant que leurs dispositions
+s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les Terres australes et antarctiques
+françaises et à Mayotte. Se reporter désormais aux articles R. 411-1 à R. 423-20 du même code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2001-1031 du 8 novembre 2001 - art. 2 (M)
+	  - Code de l'urbanisme - art. L121-10 (M)
+	  - Code de l'urbanisme - art. L123-1 (M)
+	  - Code de l'urbanisme - art. L123-2 (M)
+	  - Code de l'environnement - art. L122-4 (V)
+	  - Code de l'environnement L122-4, R214-18 à R214-22
+
+	**Créé par**:
+
+	  - Décret n°2005-608 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R300-17 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*123-3
@@ -25733,11 +26167,58 @@ de trois ans partant de la fin de l'année au cours de laquelle ils auraient dû
 
 ###### Article R*141-1
 
-Dans la région parisienne, telle qu'elle est définie par l'article 1er de la loi n° 64-707 du 10 juillet 1964, il est établi
-un schéma de cohérence territoriale portant sur l'ensemble de la région d'Ile-de-France, des schémas de cohérence
-territoriale et des schémas de secteur.
+Le schéma directeur de la région d'Ile-de-France fait l'objet d'une évaluation environnementale dans les conditions définies
+par la section V du chapitre Ier du titre II du présent livre. 
+
+Il comprend un rapport de présentation qui : 
+
+1° Présente les objectifs du schéma et, s'il y a lieu, son articulation avec les autres documents d'urbanisme et les plans ou
+programmes mentionnés à l'article L. 122-4 du code de l'environnement avec lesquels il doit être compatible ou qu'il doit
+prendre en considération ; 
+
+2° Analyse l'état initial de l'environnement et les perspectives de son évolution en exposant, notamment, les
+caractéristiques des zones susceptibles d'être touchées de manière notable par la mise en oeuvre du schéma ; 
+
+3° Analyse les incidences notables prévisibles de la mise en oeuvre du schéma sur l'environnement et expose les problèmes
+posés par son adoption sur la protection des zones revêtant une importance particulière pour l'environnement telles que
+celles désignées conformément aux articles R. 214-18 à R. 214-22 (1) du code de l'environnement ainsi qu'à l'article 2 du
+décret n° 2001-1031 du 8 novembre 2001 relatif à la procédure de désignation des sites Natura 2000 ; 
+
+4° Expose les motifs pour lesquels le schéma a été retenu au regard notamment des objectifs de protection de l'environnement
+établis au niveau international, communautaire ou national et les raisons qui justifient le choix opéré au regard des autres
+solutions envisagées ; 
+
+5° Présente les mesures envisagées pour éviter, réduire et, si possible, compenser s'il y a lieu, les conséquences
+dommageables de la mise en oeuvre du schéma sur l'environnement et rappelle que le schéma fera l'objet d'une analyse des
+résultats de son application au plus tard à l'expiration d'un délai de dix ans à compter de son approbation ; 
+
+6° Comprend un résumé non technique des éléments précédents et une description de la manière dont l'évaluation a été
+effectuée. 
+
+Le rapport de présentation peut se référer aux renseignements relatifs à l'environnement figurant dans d'autres études, plans
+et documents.
+
+**Nota:**
+
+(1) Les articles R. 211-1 à R. 223-25 du code de l'environnement sont abrogés, sauf en tant que leurs dispositions
+s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les Terres australes et antarctiques
+françaises et à Mayotte. Se reporter désormais aux articles R. 411-1 à R. 423-20 du même code.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2001-1031 du 8 novembre 2001 - art. 2 (V)
+	  - Code de l'environnement - art. L122-4 (V)
+	  - Code de l'environnement - art. R214-18 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2005-608 du 27 mai 2005 - art. 5 () JORF 29 mai 2005
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R300-17 (V)
 
 	**Anciens textes**:
 
@@ -25746,18 +26227,6 @@ territoriale et des schémas de secteur.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Cite**:
-
-	  - Loi n°64-707 du 10 juillet 1964 - art. 1, v. init.
-
-	**Modifié par**:
-
-	  - Décret n°2001-260 du 27 mars 2001 - art. 3 () JORF 28 mars 2001
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R300-17 (V)
 
 
 ###### Article R*141-2
