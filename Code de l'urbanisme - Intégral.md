@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2005-05-29
+Version Consolidée au 2005-07-01
 
 # Partie législative
 
@@ -14161,8 +14161,8 @@ tribunal de grande instance donnée sur simple requête, le ministère public en
 
 ###### Article L322-6
 
-Lorsque l'objet de l'association foncière urbaine autorisée ou constituée d'office porte sur des travaux spécifiés au 1. et
-au 6. de l'article L. 322-2, l'association :
+Lorsque l'objet de l'association foncière urbaine autorisée ou constituée d'office porte sur des travaux spécifiés au 1° et
+au 6° de l'article L. 322-2, l'association :
 
 a) Détermine les bâtiments ou les ouvrages dont le remembrement nécessite soit la destruction soit le changement de l'usage
 éventuellement après réparation, aménagement ou transformation.
@@ -14175,10 +14175,9 @@ le code de l'expropriation pour cause d'utilité publique ;
 b) Etablit le projet de remembrement et en saisit l'autorité administrative qui, après avoir vérifié sa compatibilité avec la
 réglementation de l'urbanisme, le soumet à une enquête publique.
 
-Après enquête publique, et en cas d'observations formulées au cours de celle-ci, avis d'une commission, et dont la
-composition est fixée par décret, l'autorité administrative prononce les transferts et attributions de propriété. L'acte de
-l'autorité administrative impose, en tant que de besoin, des prescriptions propres à l'opération, en complément de la
-réglementation d'urbanisme applicable à la zone considérée. Ces prescriptions font partie du dossier soumis à l'enquête.
+Après enquête publique, l'autorité administrative prononce les transferts et attributions de propriété. L'acte de l'autorité
+administrative impose, en tant que de besoin, des prescriptions propres à l'opération, en complément de la réglementation
+d'urbanisme applicable à la zone considérée. Ces prescriptions font partie du dossier soumis à l'enquête.
 
 L'arrêté de l'autorité administrative éteint par lui-même et à sa date, pour les immeubles qu'il concerne, les servitudes
 ainsi que les droits réels conférés aux preneurs par les baux à construction et les baux emphytéotiques, moyennant indemnité
@@ -14188,10 +14187,10 @@ droits indivis de propriété après remembrement et conservent l'ordre qu'ils a
 antérieurement à condition que leur publicité soit renouvelée dans les formes et délais qui seront fixés par décret ; ils
 s'exercent éventuellement sur les soultes.
 
-L'arrêté de l'autorité administratives met fin dans les mêmes conditions aux contrats de louage dont ces immeubles étaient
+L'arrêté de l'autorité administrative met fin dans les mêmes conditions aux contrats de louage dont ces immeubles étaient
 l'objet. Si le bail éteint était soumis aux dispositions du chapitre V du titre IV du livre Ier du code de commerce,
 l'association foncière urbaine devra au preneur une indemnité calculée selon les règles fixées par ces dispositions à moins
-qu'elle ne préfère lui offrir le bail d'un local équivalent à celui dont la jouissance lui a été retirée. En ce qui concerne
+qu'elle ne préfère lui offrir le bail d'un local équivalant à celui dont la jouissance lui a été retirée. En ce qui concerne
 les locaux d'habitation ou professionnels, quelle que soit la nature du titre d'occupation, le droit au relogement est exercé
 comme en matière d'expropriation.
 
@@ -14199,8 +14198,8 @@ La juridiction prévue à l'article L. 13-1 du code de l'expropriation pour caus
 statuer sur les contestations relatives à l'évaluation des parcelles remembrées. Elle statue aussi sur les contestations
 soulevées à l'occasion du remembrement et afférentes aux privilèges, hypothèques et autres droits réels.
 
-L'avis de la commission prévue ci-dessus et la décision motivée prise, consécutivement à cet avis, par l'organe compétent de
-l'association foncière urbaine sont notifiés aux intéressés qui disposent d'un délai de deux mois pour saisir la juridiction.
+La décision motivée prise par l'organe compétent de l'association foncière urbaine est notifiée aux intéressés qui disposent
+d'un délai de deux mois pour saisir la juridiction.
 
 Faute d'avoir saisi la juridiction dans ce délai, les intéressés sont réputés avoir accepté l'évaluation des parcelles
 remembrées et avoir renoncé à toutes contestations relatives aux privilèges, hypothèques et autres droits réels.
@@ -14215,12 +14214,11 @@ urbaines dont l'objet porte sur des travaux spécifiés au 6° de l'article L. 3
 
 	**Anciens textes**:
 
-	  - Loi n°67-1253 1967-12-30 art. 28 loi d'orientation foncière
+	  - Loi n°67-1253 1967-12-30 art. 28
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-632 du 1 juillet 2004 - art. 51 () JORF 2 juillet 2004
-	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 6 () JORF 2 juillet 2004
+	  - Ordonnance n°2005-727 du 30 juin 2005 - art. 2 () JORF 1er juillet 2005
 
 	**Cité par**:
 
@@ -14242,10 +14240,6 @@ urbaines dont l'objet porte sur des travaux spécifiés au 6° de l'article L. 3
 
 	  - Code de l'urbanisme - art. L322-2 (M)
 	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L13-1 (V)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme L322-7 nouveau, R322-10
 
 	**Codifié par**:
 
@@ -22130,91 +22124,6 @@ en rez-de-chaussée.
 
 
 ### Titre II : Prévisions et règles d'urbanisme
-
-#### Chapitre Ier : Dispositions communes aux schémas de cohérence territoriale, aux plans locaux d'urbanisme et aux cartes communales 
-
-#####  Section 2 : Projets d'intérêt général.
-
-###### Article R*121-3
-
-Peut constituer un projet d'intérêt général au sens de l'article L. 121-9 tout projet d'ouvrage, de travaux ou de protection
-présentant un caractère d'utilité publique et répondant aux conditions suivantes :
-
-1° Etre destiné à la réalisation d'une opération d'aménagement ou d'équipement, au fonctionnement d'un service public, à
-l'accueil et au logement des personnes défavorisées ou de ressources modestes, à la protection du patrimoine naturel ou
-culturel, à la prévention des risques, à la mise en valeur des ressources naturelles ou à l'aménagement agricole et rural ;
-
-2° Avoir fait l'objet :
-
-a) Soit d'une délibération ou d'une décision d'une personne ayant la capacité d'exproprier, arrêtant le principe et les
-conditions de réalisation du projet, et mise à la disposition du public ;
-
-b) Soit d'une inscription dans un des documents de planification prévus par les lois et règlements, approuvé par l'autorité
-compétente et ayant fait l'objet d'une publication.
-
-Les projets relevant de l'initiative des communes ou de leurs groupements compétents pour élaborer un document d'urbanisme ou
-des communes membres de ces groupements ne peuvent être qualifiés de projets d'intérêt général pour l'application de
-l'article R. 121-4.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2005-608 du 27 mai 2005 - art. 2 () JORF 29 mai 2005
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. R571-32 (M)
-	  - Code de l'environnement - art. R571-51 (M)
-	  - Code de l'urbanisme - art. R*121-4 (V)
-	  - Code de l'éducation - art. R211-5 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L121-9 (M)
-	  - Code de l'urbanisme L121-9, R121-4
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de l'urbanisme - art. L121-9 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*121-4
-
-Le projet mentionné à l'article R. 121-3 est qualifié de projet d'intérêt général par arrêté préfectoral en vue de sa prise
-en compte dans un document d'urbanisme. Cet arrêté est notifié à la personne publique qui élabore le document d'urbanisme.
-Pour l'application de l'article L. 123-14, le préfet précise les incidences du projet sur le document.
-
-L'arrêté préfectoral devient caduc à l'expiration d'un délai de trois ans à compter de la notification prévue à l'alinéa
-précédent. Il peut être renouvelé.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2005-608 du 27 mai 2005 - art. 2 () JORF 29 mai 2005
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de l'urbanisme - art. L121-9 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L123-14 (M)
-	  - Code de l'urbanisme R121-3, L123-14
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*121-3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
 
 #### Chapitre Ier : Dispositions générales communes aux documents d'urbanisme
 
