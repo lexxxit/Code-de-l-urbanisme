@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2005-07-01
+Version Consolidée au 2005-07-14
 
 # Partie législative
 
@@ -3151,7 +3151,10 @@ pour préserver l'urbanisation traditionnelle ou l'intérêt paysager de la zone
 
 - dans les zones à protéger en raison de la qualité de leurs paysages et de leurs écosystèmes pour permettre, dans les
 conditions précisées par l'article L. 123-4, des transferts de constructibilité en vue de favoriser un regroupement des
-constructions.
+constructions ;
+
+14° Recommander l'utilisation des énergies renouvelables pour l'approvisionnement énergétique des constructions neuves, en
+fonction des caractéristiques de ces constructions, sous réserve de la protection des sites et des paysages.
 
 Les documents graphiques du plan local d'urbanisme peuvent contenir des indications relatives au relief des espaces auxquels
 il s'applique.
@@ -3259,7 +3262,7 @@ rendu compatible dans un délai de trois ans.
 
 	**Modifié par**:
 
-	  - Loi n°2004-338 2004-04-21 art. 7 2°, 3° JORF 22 avril 2004
+	  - Loi n°2005-781 du 13 juillet 2005 - art. 31 () JORF 14 juillet 2005
 
 	**Codifié par**:
 
@@ -4699,6 +4702,71 @@ Les dispositions de l'article L. 127-1 sont rendues applicables dans la commune 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L127-1
+
+
+#### Chapitre VIII : Dispositions favorisant la performance énergétique et les énergies renouvelables dans l'habitat
+
+###### Article L128-1
+
+Le dépassement du coefficient d'occupation des sols est autorisé, dans la limite de 20 % et dans le respect des autres règles
+du plan local d'urbanisme, pour les constructions remplissant des critères de performance énergétique ou comportant des
+équipements de production d'énergie renouvelable.
+
+Un décret en Conseil d'Etat détermine les critères de performance et les équipements pris en compte.
+
+La partie de la construction en dépassement n'est pas assujettie au versement résultant du dépassement du plafond légal de
+densité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2005-781 du 13 juillet 2005 - art. 30 () JORF 14 juillet 2005
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. *R442-10 (M)
+	  - Code de l'urbanisme - art. L123-1-1 (T)
+	  - Code de l'urbanisme - art. L123-1-11 (VT)
+	  - Code de l'urbanisme - art. L123-13-2 (VT)
+	  - Code de l'urbanisme - art. L123-13-3 (VT)
+	  - Code de l'urbanisme - art. L128-2 (VT)
+	  - Code de l'urbanisme - art. L128-3 (M)
+	  - Code de l'urbanisme - art. L710-1 (VT)
+	  - Code de l'urbanisme - art. R*123-13 (V)
+	  - Code de l'urbanisme - art. R*128-1 (Ab)
+	  - Code de l'urbanisme - art. R*421-7-2 (V)
+	  - Code de l'urbanisme - art. R*431-18 (M)
+	  - Code de l'énergie - art. L231-3 (VD)
+	  - Code de la construction et de l'habitation. - art. R111-21 (M)
+	  - Code de la construction et de l'habitation. - art. R111-21-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L128-2
+
+Les dispositions de l'article L. 128-1 sont rendues applicables dans la commune par décision de son conseil municipal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Créé par**:
+
+	  - Loi n°2005-781 du 13 juillet 2005 - art. 30 () JORF 14 juillet 2005
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L128-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*128-1 (Ab)
 
 
 ### Titre III : Espaces boisés.
