@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2005-07-14
+Version Consolidée au 2005-07-21
 
 # Partie législative
 
@@ -3370,7 +3370,7 @@ d'intérêt général et les espaces verts à créer ou à modifier, en délimit
 
 ###### Article L123-3
 
-Dans les zones d'aménagement concerté, le plan local d'urbanisme précise en outre :
+Dans les zones d'aménagement concerté, le plan local d'urbanisme peut en outre préciser :
 
 a) La localisation et les caractéristiques des espaces publics à conserver, à modifier ou à créer ;
 
@@ -3400,16 +3400,11 @@ chaque îlot, en fonction, le cas échéant, de la nature et de la destination d
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 4 () JORF 14 décembre 2000 en vigueur le 1er avril 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2000-1208 du 13 décembre 2000 - art. 43 (V)
-	  - SPEC_APPLI: Décret n°2001-260 du 27 mars 2001 - art. 6 (V)
+	  - Loi n°2005-809 du 20 juillet 2005 - art. 7 () JORF 21 juillet 2005
 
 	**Anciens textes**:
 
-	  - Code de l'urbanisme 14 AL. 1 à AL. 7
+	  - Code de l'urbanisme 14 al. 1 à 7
 
 	**Codifié par**:
 
@@ -8928,9 +8923,9 @@ créée que par décret en Conseil d'Etat.
 ###### Article L212-2
 
 Dans les zones d'aménagement différé, un droit de préemption, qui peut être exercé pendant une période de quatorze ans à
-compter de la publication de l'acte qui a créé la zone, sous réserve de ce qu est dit à l'article L. 212-2-1 est ouvert soit
-à une collectivité publique ou à un établissement public y ayant vocation, soit à une société d'économie mixte répondant aux
-conditions définies au deuxième alinéa de l'article L. 300-4 et bénéficiant d'une convention publique d'aménagement.
+compter de la publication de l'acte qui a créé la zone, sous réserve de ce qui est dit à l'article L. 212-2-1, est ouvert
+soit à une collectivité publique ou à un établissement public y ayant vocation, soit au concessionnaire d'une opération
+d'aménagement.
 
 L'acte créant la zone désigne le titulaire du droit de préemption.
 
@@ -8968,18 +8963,13 @@ L'acte créant la zone désigne le titulaire du droit de préemption.
 	  - Code minier - art. 109-1 (V)
 	  - Décret n°1986-08-21 du 21 août 1986 - art. 1 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L211-9 (Ab)
-
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
+	  - Loi n°2005-809 du 20 juillet 2005 - art. 5 () JORF 21 juillet 2005
 
-	**Cite**:
+	**Liens**:
 
-	  - Code de l'urbanisme - art. L300-4 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L211-9 (Ab)
 
 
 ###### Article L212-2-1
@@ -9375,29 +9365,24 @@ foncière.
 ###### Article L213-3
 
 Le titulaire du droit de préemption peut déléguer son droit à l'Etat, à une collectivité locale, à un établissement public y
-ayant vocation ou à une société d'économie mixte répondant aux conditions définies au deuxième alinéa de l'article L. 300-4
-et bénéficiant d'une concession d'aménagement. Cette délégation peut porter sur une ou plusieurs parties des zones concernées
-ou être accordée à l'occasion de l'aliénation d'un bien. Les biens ainsi acquis entrent dans le patrimoine du délégataire.
+ayant vocation ou au concessionnaire d'une opération d'aménagement. Cette délégation peut porter sur une ou plusieurs parties
+des zones concernées ou être accordée à l'occasion de l'aliénation d'un bien. Les biens ainsi acquis entrent dans le
+patrimoine du délégataire. 
 
-Dans les articles L. 211-1 et suivants, L. 212-1 et suivants et L. 213-1 et suivants, l'expression "titulaire du droit de
-préemption" s'entend également, s'il y a lieu, du délégataire en application du présent article.
+Dans les articles L. 211-1 et suivants, L. 212-1 et suivants et L. 213-1 et suivants, l'expression " titulaire du droit de
+préemption " s'entend également, s'il y a lieu, du délégataire en application du présent article.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
-
 	**Modifié par**:
 
-	  - Loi - art. 34 () JORF 19 juillet 1991
+	  - Loi n°2005-809 du 20 juillet 2005 - art. 5 () JORF 21 juillet 2005
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L211-1 (M)
-	  - Code de l'urbanisme - art. L212-1 (M)
-	  - Code de l'urbanisme - art. L213-1 (M)
-	  - Code de l'urbanisme - art. L300-4 (M)
+	  - Code de l'urbanisme - art. L211-1 (V)
+	  - Code de l'urbanisme - art. L212-1 (V)
+	  - Code de l'urbanisme - art. L213-1 (V)
 
 	**Cité par**:
 
@@ -9733,31 +9718,34 @@ fixées par la juridiction compétente en matière d'expropriation.
 
 ###### Article L213-11
 
-Les biens acquis par l'exercice du droit de préemption doivent être utilisés ou aliénés aux fins définies à l'article L.
-210-1. L'utilisation ou l'aliénation d'un bien au profit d'une personne privée autre qu'une société d'économie mixte
-répondant aux conditions définies au deuxième alinéa de l'article L. 300-4 ou qu'une société d'habitations à loyer modéré
-doit faire l'objet d'une délibération motivée du conseil municipal ou, le cas échéant, d'une décision motivée du délégataire
-du droit de préemption.
+Les biens acquis par exercice du droit de préemption doivent être utilisés ou aliénés aux fins définies à l'article L. 210-1.
+L'utilisation ou l'aliénation d'un bien au profit d'une personne privée autre que le concessionnaire d'une opération
+d'aménagement ou qu'une société d'habitations à loyer modéré doit faire l'objet d'une délibération motivée du conseil
+municipal ou, le cas échéant, d'une décision motivée du délégataire du droit de préemption. 
 
 Si le titulaire du droit de préemption décide d'utiliser ou d'aliéner à d'autres fins un bien acquis depuis moins de cinq ans
 par exercice de ce droit, il doit informer de sa décision les anciens propriétaires ou leurs ayants cause universels ou à
-titre universel et leur proposer l'acquisition de ce bien en priorité.
+titre universel et leur proposer l'acquisition de ce bien en priorité. 
 
 A défaut d'accord amiable, le prix est fixé par la juridiction compétente en matière d'expropriation, conformément aux règles
-mentionnées par l'article L. 213-4.
+mentionnées par l'article L. 213-4. 
 
 A défaut d'acceptation dans le délai de trois mois à compter de la notification de la décision juridictionnelle devenue
 définitive, les anciens propriétaires ou leurs ayants cause universels ou à titre universel sont réputés avoir renoncé à
-l'acquisition.
+l'acquisition. 
 
 Dans le cas où les anciens propriétaires ou leurs ayants cause universels ou à titre universel ont renoncé expressément ou
 tacitement à l'acquisition dans les conditions visées aux alinéas précédents, le titulaire du droit de préemption doit
-également proposer l'acquisition à la personne qui avait l'intention d'acquérir le bien.
+également proposer l'acquisition à la personne qui avait l'intention d'acquérir le bien. 
 
 Le titulaire du droit de préemption n'est tenu de respecter cette procédure que lorsque le nom de l'acquéreur était inscrit
 dans la déclaration mentionnée à l'article L. 213-2.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 	**Cité par**:
 
@@ -9774,24 +9762,15 @@ dans la déclaration mentionnée à l'article L. 213-2.
 	  - Code de l'urbanisme - art. R213-18 (V)
 	  - Code général des impôts, CGI. - art. 1594-0 G (VD)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
-
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 19 () JORF 14 décembre 2000
+	  - Loi n°2005-809 du 20 juillet 2005 - art. 8 () JORF 21 juillet 2005
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L210-1 (M)
-	  - Code de l'urbanisme - art. L213-2 (M)
-	  - Code de l'urbanisme - art. L213-4 (M)
-	  - Code de l'urbanisme - art. L300-4 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+	  - Code de l'urbanisme - art. L210-1 (V)
+	  - Code de l'urbanisme - art. L213-2 (V)
+	  - Code de l'urbanisme - art. L213-4 (V)
 
 
 ###### Article L213-12
@@ -10620,28 +10599,23 @@ l'ordonnance au 1er octobre 2007.
 
 ###### Article L300-4
 
-L'Etat, les collectivités locales ou leurs établissements publics peuvent confier l'étude et la réalisation des opérations
-d'aménagement prévues par le présent livre à toute personne publique ou privée y ayant vocation.
+L'Etat et les collectivités territoriales, ainsi que leurs établissements publics, peuvent concéder la réalisation des
+opérations d'aménagement prévues par le présent livre à toute personne y ayant vocation.
 
-Lorsque la convention est passée avec un établissement public, une société d'économie mixte locale définie par la loi n°
-83-597 du 7 juillet 1983, ou une société d'économie mixte dont plus de la moitié du capital est détenue par une ou plusieurs
-des personnes publiques suivantes : Etat, régions, départements, communes ou leurs groupements, elle peut prendre la forme
-d'une convention publique d'aménagement. Dans ce cas, l'organisme cocontractant peut se voir confier les acquisitions par
-voie d'expropriation ou de préemption, la réalisation de toute opération et action d'aménagement et équipement concourant à
-l'opération globale faisant l'objet de la convention publique d'aménagement.
+L'attribution des concessions d'aménagement est soumise par le concédant à une procédure de publicité permettant la
+présentation de plusieurs offres concurrentes, dans des conditions prévues par décret en Conseil d'Etat.
 
-Les organismes mentionnés à l'alinéa précédent peuvent se voir confier le suivi d'études préalables nécessaires à la
-définition des caractéristiques de l'opération dans le cadre d'un contrat de mandat les chargeant de passer des contrats
-d'études au nom et pour le compte de la collectivité ou du groupement de collectivités.
-
-Les dispositions du chapitre IV du titre II de la loi n° 93-122 du 29 janvier 1993 relative à la prévention de la corruption
-et à la transparence de la vie économique et des procédures publiques ne sont pas applicables aux conventions publiques
-d'aménagement établies en application du présent article.
-
-La convention publique d'aménagement peut prévoir les conditions dans lesquelles l'organisme cocontractant est associé aux
-études concernant l'opération et notamment à la révision ou à la modification du plan local d'urbanisme.
+Le concessionnaire assure la maîtrise d'ouvrage des travaux et équipements concourant à l'opération prévus dans la
+concession, ainsi que la réalisation des études et de toutes missions nécessaires à leur exécution. Il peut être chargé par
+le concédant d'acquérir des biens nécessaires à la réalisation de l'opération, y compris, le cas échéant, par la voie
+d'expropriation ou de préemption. Il procède à la vente, à la location ou à la concession des biens immobiliers situés à
+l'intérieur du périmètre de la concession.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 	**Cité par**:
 
@@ -10681,56 +10655,53 @@ La convention publique d'aménagement peut prévoir les conditions dans lesquell
 	  - Code rural - art. L112-9-1 (T)
 	  - Livre des procédures fiscales - art. L135 B (VT)
 
-	**Cite**:
-
-	  - Loi n°83-597 1983-07-07
-	  - Loi n°93-122 1993-01-29
-
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 8 () JORF 14 décembre 2000
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+	  - Loi n°2005-809 du 20 juillet 2005 - art. 1 () JORF 21 juillet 2005
 
 
 ###### Article L300-5
 
-Dans le cas où une collectivité territoriale ou un groupement de collectivités qui a décidé de mener une opération publique
-d'aménagement au sens du présent livre en confie la réalisation à un aménageur dans les conditions prévues au deuxième alinéa
-de l'article L. 300-4 et décide de participer au coût de l'opération, la convention précise à peine de nullité :
+I. ―  Le traité de concession d'aménagement précise les obligations de chacune des parties, notamment :
+
+1° L'objet du contrat, sa durée et les conditions dans lesquelles il peut éventuellement être prorogé, ou modifié ;
+
+2° Les conditions de rachat, de résiliation ou de déchéance par le concédant, ainsi que, éventuellement, les conditions et
+les modalités d'indemnisation du concessionnaire.
+
+II. ―  Lorsque le concédant décide de participer au coût de l'opération, sous forme d'apport financier ou d'apport en
+terrains, le traité de concession précise en outre, à peine de nullité :
 
 1° Les modalités de cette participation financière, qui peut prendre la forme d'apports en nature ;
 
 2° Le montant total de cette participation et, s'il y a lieu, sa répartition en tranches annuelles ;
 
-3° Les modalités du contrôle technique, financier et comptable exercé par la collectivité ou le groupement contractant ; à
-cet effet, la société doit fournir chaque année un compte rendu financier comportant notamment en annexe :
+3° Les modalités du contrôle technique, financier et comptable exercé par le concédant ; à cet effet, le concessionnaire doit
+fournir chaque année un compte rendu financier comportant notamment en annexe :
 
-a) Le bilan prévisionnel actualisé des activités, objet de la convention, faisant apparaître, d'une part, l'état des
+a) Le bilan prévisionnel actualisé des activités, objet de la concession, faisant apparaître, d'une part, l'état des
 réalisations en recettes et en dépenses et, d'autre part, l'estimation des recettes et dépenses restant à réaliser ;
 
 b) Le plan de trésorerie actualisé faisant apparaître l'échéancier des recettes et des dépenses de l'opération ;
 
 c) Un tableau des acquisitions et cessions immobilières réalisées pendant la durée de l'exercice.
 
-L'ensemble de ces documents est soumis à l'examen de l'assemblée délibérante de la collectivité ou du groupement contractant
-qui a le droit de contrôler les renseignements fournis, ses agents accrédités pouvant se faire présenter toutes pièces de
-comptabilité nécessaires à leur vérification. Dès la communication de ces documents et, le cas échéant, après les résultats
-du contrôle diligenté par la collectivité ou le groupement contractant, leur examen est mis à l'ordre du jour de la plus
-prochaine réunion de l'assemblée délibérante, qui se prononce par un vote.
+L'ensemble de ces documents est soumis à l'examen de l'organe délibérant du concédant ou à l'autorité administrative lorsque
+le concédant est l'Etat. Le concédant a le droit de contrôler les renseignements fournis, ses agents accrédités pouvant se
+faire présenter toutes pièces de comptabilité nécessaires à leur vérification. Si le concédant est une collectivité
+territoriale ou un groupement de collectivités territoriales, dès la communication de ces documents et, le cas échéant, après
+les résultats du contrôle diligenté par le concédant, ces documents sont soumis, dans un délai de trois mois, à l'examen de
+l'organe délibérant, qui se prononce par un vote.
 
-La participation visée aux trois premiers alinéas est approuvée par l'assemblée délibérante de la collectivité territoriale
-ou du groupement contractant. Toute révision de cette participation doit faire l'objet d'un avenant à la convention approuvé
-par l'assemblée délibérante de la collectivité territoriale ou du groupement contractant au vu d'un rapport spécial établi
-par l'aménageur.
+L'apport financier mentionné aux trois premiers alinéas du II du présent article est approuvé par l'organe délibérant du
+concédant ou par l'autorité administrative lorsque celui-ci est l'Etat. Toute révision de cet apport doit faire l'objet d'un
+avenant au traité de concession, approuvé par l'organe délibérant du concédant ou par l'autorité administrative lorsque
+celui-ci est l'Etat.
 
-L'opération d'aménagement pourra bénéficier, avec l'accord préalable de la collectivité contractante, de subventions versées
-par d'autres collectivités territoriales en vue de financer les actions d'aménagement public. Si ces subventions sont versées
-directement à l'organisme aménageur, celui-ci devra rendre compte de leur attribution, de leur échéancier et de leur
-encaissement effectif dans le rapport annuel prévu au quatrième alinéa (3°). Il devra également rendre compte de leur
-utilisation à la collectivité ayant accordé la subvention.
+III. ―  L'opération d'aménagement peut bénéficier, avec l'accord préalable du concédant, de subventions versées par l'Etat,
+des collectivités territoriales et leurs groupements ou des établissements publics. Dans ce cas, le traité de concession est
+soumis aux dispositions du II, même si le concédant ne participe pas au financement de l'opération. Le concessionnaire doit
+également rendre compte de l'utilisation des subventions reçues aux personnes publiques qui les ont allouées.
 
 **Liens relatifs à cet article**
 
@@ -10756,15 +10727,67 @@ utilisation à la collectivité ayant accordé la subvention.
 
 	**Modifié par**:
 
-	  - Loi n°2003-590 du 2 juillet 2003 - art. 67 () JORF 3 juillet 2003
+	  - Loi n°2005-809 du 20 juillet 2005 - art. 2 () JORF 21 juillet 2005
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L300-4 (M)
+	  - Code de l'urbanisme annexe
 
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L300-5-1
+
+Lorsque le concessionnaire n'est pas soumis au code des marchés publics ou aux dispositions de l'ordonnance n° 2005-649 du 6
+juin 2005 relative aux marchés passés par certaines personnes publiques ou privées non soumises au code des marchés publics,
+les contrats d'études, de maîtrise d'oeuvre et de travaux conclus par lui pour l'exécution de la concession sont soumis à une
+procédure de publicité et de mise en concurrence définie par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Cite**:
+
+	  - Ordonnance n°2005-649 du 6 juin 2005 (V)
+
+	**Créé par**:
+
+	  - Loi n°2005-809 du 20 juillet 2005 - art. 3 () JORF 21 juillet 2005
+
+
+###### Article L300-5-2
+
+Les dispositions du deuxième alinéa de l'article L. 300-4 ne sont pas applicables aux concessions d'aménagement conclues
+entre le concédant et un aménageur sur lequel il exerce un contrôle analogue à celui qu'il exerce sur ses propres services et
+qui réalise l'essentiel de ses activités avec lui ou, le cas échéant, les autres personnes publiques qui le contrôlent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Créé par**:
+
+	  - Loi n°2005-809 du 20 juillet 2005 - art. 3 () JORF 21 juillet 2005
+
+	**Cité par**:
+
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 77 (VD)
+	  - Code de l'urbanisme - art. R311-6 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 77 (VD)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L300-4
 
 
 ###### Article L300-6
@@ -11009,8 +11032,11 @@ La convention constitue une pièce obligatoire du dossier de permis de construir
 ###### Article L311-5
 
 L'aménagement et l'équipement de la zone sont conduits directement par la personne publique qui a pris l'initiative de sa
-création ou confiés par cette personne publique, dans les conditions précisées aux articles L. 300-4 et L. 300-5 à un
-établissement public y ayant vocation, à une société d'économie mixte ou à une personne publique ou privée.
+création ou concédés par cette personne publique, dans les conditions précisées aux articles L. 300-4 et L. 300-5.
+
+Lorsque le concédant ou le concessionnaire conclut avec des propriétaires de terrains situés à l'intérieur de la zone une
+convention définissant les conditions dans lesquelles ces propriétaires participent à l'aménagement, cette convention est
+distincte de la convention de participation financière prévue par le dernier alinéa de l'article L. 311-4.
 
 **Liens relatifs à cet article**
 
@@ -11025,12 +11051,13 @@ création ou confiés par cette personne publique, dans les conditions précisé
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 7
+	  - Loi n°2005-809 du 20 juillet 2005 - art. 4 () JORF 21 juillet 2005
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L300-4 (M)
 	  - Code de l'urbanisme - art. L300-5 (Ab)
+	  - Code de l'urbanisme - art. L311-4 (M)
 
 
 ###### Article L311-6
