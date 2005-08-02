@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2005-07-29
+Version Consolidée au 2005-08-03
 
 # Partie législative
 
@@ -9980,6 +9980,98 @@ Un décret en Conseil d'Etat détermine, en tant que de besoin, les conditions d
 	**Modifié par**:
 
 	  - Loi - art. 34 () JORF 19 juillet 1991
+
+
+#### Chapitre IV : Droit de préemption des communes sur les fonds artisanaux, les fonds de commerce et les baux commerciaux
+
+###### Article L214-1
+
+Le conseil municipal peut, par délibération motivée, délimiter un périmètre de sauvegarde du commerce et de l'artisanat de
+proximité, à l'intérieur duquel sont soumises au droit de préemption institué par le présent chapitre les cessions de fonds
+artisanaux, de fonds de commerce ou de baux commerciaux.
+
+Chaque cession est subordonnée, à peine de nullité, à une déclaration préalable faite par le cédant à la commune. Cette
+déclaration précise le prix et les conditions de la cession.
+
+Le droit de préemption est exercé selon les modalités prévues par les articles L. 213-4 à L. 213-7. Le silence de la commune
+pendant deux mois à compter de la réception de la déclaration vaut renonciation à l'exercice du droit de préemption. Le
+cédant peut alors réaliser la vente aux prix et conditions figurant dans sa déclaration.
+
+L'action en nullité se prescrit par cinq ans à compter de la prise d'effet de la cession.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 9 (V)
+	  - Décret n°2007-1827 du 26 décembre 2007 (V)
+	  - Décret n°2008-1470 du 30 décembre 2008 - art. 1 (V)
+	  - Décret n°2016-1491 du 4 novembre 2016 - art. (V)
+	  - Code de commerce - art. L145-2 (V)
+	  - Code de commerce - art. L750-1-1 (V)
+	  - Code de l'urbanisme - art. *R214-1 (V)
+	  - Code de l'urbanisme - art. *R214-10 (V)
+	  - Code de l'urbanisme - art. *R214-8 (V)
+	  - Code de l'urbanisme - art. A214-1 (V)
+	  - Code de l'urbanisme - art. L214-2 (V)
+	  - Code de l'urbanisme - art. R*214-3 (V)
+	  - Code de l'urbanisme - art. R*214-4 (V)
+	  - Code de l'urbanisme - art. R*214-7 (V)
+	  - Code général des collectivités territoriales - art. L2122-22 (V)
+
+	**Créé par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 58 () JORF 3 août 2005
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L214-2
+
+La commune doit, dans le délai d'un an à compter de la prise d'effet de la cession, rétrocéder le fonds artisanal, le fonds
+de commerce ou le bail commercial à une entreprise immatriculée au registre du commerce et des sociétés ou au répertoire des
+métiers, en vue d'une exploitation destinée à préserver la diversité de l'activité commerciale et artisanale dans le
+périmètre concerné. L'acte de rétrocession prévoit les conditions dans lesquelles il peut être résilié en cas d'inexécution
+par le cessionnaire du cahier des charges.
+
+L'acte de rétrocession d'un fonds de commerce est effectué dans le respect des conditions fixées par les dispositions du
+chapitre Ier du titre IV du livre Ier du code de commerce.
+
+La rétrocession d'un bail commercial est subordonnée, à peine de nullité, à l'accord préalable du bailleur. Cet accord figure
+dans l'acte de rétrocession.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 58 () JORF 3 août 2005
+
+	**Cité par**:
+
+	  - Code de commerce - art. L145-2 (V)
+	  - Code de l'urbanisme - art. *R214-11 (V)
+	  - Code de l'urbanisme - art. *R214-16 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L214-3
+
+Un décret en Conseil d'Etat précise les conditions d'application des dispositions du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Créé par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 58 () JORF 3 août 2005
 
 
 #### Chapitre VI : Dispositions particulières aux jardins familiaux
