@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2005-08-03
+Version Consolidée au 2005-08-05
 
 # Partie législative
 
@@ -22156,30 +22156,28 @@ l'article L. 111-8, confirmer sa demande ; en l'absence d'une telle indication, 
 ###### Article R*111-27
 
 Le projet de directive territoriale d'aménagement mentionnée à l'article L. 111-1-1 ou de prescriptions particulières de
-massif mentionnées au III de l'article L. 145-7 est soumis à enquête publique dans les formes prévues par les articles 7 à 21
-du décret modifié n° 85-453 du 23 avril 1985 pris pour l'application de la loi n° 83-630 du 12 juillet 1983 relative à la
-démocratisation des enquêtes publiques et à la protection de l'environnement.
+massif mentionnées au III de l'article L. 145-7 est soumis à enquête publique dans les formes prévues par les articles R.
+123-7 à R. 123-23 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L111-1-1 (M)
-	  - Code de l'urbanisme - art. L145-7 (M)
-	  - Loi n°83-630 1983-07-12
-	  - Décret n°85-453 1985-04-23 art. 7 à 21
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 	**Cité par**:
 
 	  - Décret n°98-913 du 12 octobre 1998 - art. 7 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-260 du 27 mars 2001 - art. 2 () JORF 28 mars 2001
+	  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L111-1-1 (M)
+	  - Code de l'urbanisme - art. L145-7 (M)
+	  - Code de l'environnement R123-7 à R123-23
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*111-28
@@ -23211,35 +23209,34 @@ Elle est affichée pendant un mois au siège de l'établissement public et aux m
 ###### Article R*122-10
 
 Le projet de schéma de cohérence territoriale est soumis à enquête publique par le président de l'établissement public dans
-les formes prévues par les articles 7 à 21 du décret modifié n° 85-453 du 23 avril 1985 pris pour l'application de la loi n°
-83-630 du 12 juillet 1983 relative à la démocratisation des enquêtes publiques et à la protection de l'environnement.
+les formes prévues par les articles R. 123-7 à R. 123-23 du code de l'environnement.
 
-Le président de l'établissement public exerce les compétences attribuées au préfet par les articles 7, 8, 11, 12, 16 et 18 à
-21 de ce décret.
+Le président de l'établissement public exerce les compétences attribuées au préfet par les articles R. 123-7, R. 123-8, R.
+123-13, R. 123-14, R. 123-18 et R. 123-20 à R. 123-23 de ce code.
 
-Le dossier est composé des pièces mentionnées à l'article R. 122-1 et des avis émis par les collectivités ou organismes
-associés ou consultés. Il peut être complété par tout ou partie des documents mentionnés à l'article R. 121-1.
+Le dossier est composé des pièces mentionnées à l'article R. 122-1 (du code de l'urbanisme) et des avis émis par les
+collectivités ou organismes associés ou consultés. Il peut être complété par tout ou partie des documents mentionnés à
+l'article R. 121-1 (du code de l'urbanisme).
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
+
+	**Cite**:
+
+	  - Code de l'urbanisme R122-1, R121-1
+	  - Code de l'environnement - art. R123-13 (M)
+	  - Code de l'environnement - art. R123-14 (V)
+	  - Code de l'environnement - art. R123-18 (V)
+	  - Code de l'environnement - art. R123-7 (V)
+	  - Code de l'environnement - art. R123-8 (V)
+	  - Code de l'environnement R123-7 à R123-23, R123-7, R123-8, R123-13, R123-14, R123-18, R123-20 à R123-23
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Cite**:
-
-	  - Loi n°83-630 1983-07-12
-	  - Décret n°85-453 1985-04-23 art. 7 à 21, art. 7, art. 8, art. 11, art. 12, art. 16, art. 18 à 21
-	  - Décret n°85-453 du 23 avril 1985 - art. 11 (Ab)
-	  - Décret n°85-453 du 23 avril 1985 - art. 12 (Ab)
-	  - Décret n°85-453 du 23 avril 1985 - art. 16 (Ab)
-	  - Décret n°85-453 du 23 avril 1985 - art. 7 (Ab)
-	  - Décret n°85-453 du 23 avril 1985 - art. 8 (Ab)
-	  - Code de l'urbanisme R122-1, R121-1
-
-	**Modifié par**:
-
-	  - Décret n°2004-531 du 9 juin 2004 - art. 1 () JORF 13 juin 2004
 
 
 ###### Article R*122-11
@@ -23295,10 +23292,9 @@ L'examen conjoint prévu au 2° de l'article L. 122-15 a lieu avant l'ouverture 
 président de l'établissement public. Lorsqu'une association mentionnée à l'article L. 121-5 demande à être consultée, son
 président adresse la demande au président de l'établissement public.
 
-L'enquête publique est organisée dans les formes prévues par le décret n° 85-453 du 23 avril 1985 pris pour l'application de
-la loi n° 83-630 du 12 juillet 1983 relative à la démocratisation des enquêtes publiques et à la protection de
-l'environnement. Le président de l'établissement public exerce les compétences attribuées au préfet par les articles 7, 8,
-11, 12, 16 et 18 à 21 de ce décret.
+L'enquête publique est organisée dans les formes prévues par les articles R. 123-1 à R. 123-33 du code de l'environnement. Le
+président de l'établissement public exerce les compétences attribuées au préfet par les articles attribuées au préfet par les
+articles R. 123-7, R. 123-8, R. 123-13, R. 123-14, R. 123-18 et R. 123-20 à R. 123-23 de ce code.
 
 Le dossier de mise en compatibilité du schéma de cohérence territoriale, le rapport et les conclusions du commissaire
 enquêteur ou de la commission d'enquête ainsi que le procès-verbal de la réunion d'examen conjoint sont soumis pour avis par
@@ -23311,26 +23307,25 @@ l'alinéa précédent. La déclaration de projet emporte approbation des nouvell
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°73-1023 1973-11-08
+	  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
 
 	**Cite**:
 
-	  - Loi n°83-630 1983-07-12
-	  - Décret n°85-453 1985-04-23 art. 7, art. 8, art. 11, art. 12, art. 16, art. 18 à 21
-	  - Décret n°85-453 du 23 avril 1985 - art. 11 (Ab)
-	  - Décret n°85-453 du 23 avril 1985 - art. 12 (Ab)
-	  - Décret n°85-453 du 23 avril 1985 - art. 16 (Ab)
-	  - Décret n°85-453 du 23 avril 1985 - art. 7 (Ab)
-	  - Décret n°85-453 du 23 avril 1985 - art. 8 (Ab)
 	  - Code de l'urbanisme - art. L121-5 (M)
 	  - Code de l'urbanisme - art. L122-15 (M)
 	  - Code de l'urbanisme - art. L122-4 (M)
+	  - Code de l'environnement - art. R123-13 (M)
+	  - Code de l'environnement - art. R123-14 (V)
+	  - Code de l'environnement - art. R123-18 (V)
+	  - Code de l'environnement - art. R123-7 (V)
+	  - Code de l'environnement - art. R123-8 (V)
+	  - Code de l'environnement R123-7, R123-8, R123-13, R123-14, R123-18, R123-20 à R123-23
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2004-531 du 9 juin 2004 - art. 1 () JORF 13 juin 2004
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*122-11-2
@@ -23348,10 +23343,9 @@ L'examen conjoint prévu au 2° de l'article L. 122-15 a lieu avant l'ouverture 
 l'autorité chargée de la procédure. Lorsqu'une association mentionnée à l'article L. 121-5 demande à être consultée, son
 président adresse la demande à l'autorité chargée de la procédure.
 
-L'enquête publique est organisée dans les formes prévues par le décret n° 85-453 du 23 avril 1985 pris pour l'application de
-la loi n° 83-630 du 12 juillet 1983 relative à la démocratisation des enquêtes publiques et à la protection de
-l'environnement. L'autorité chargée de la procédure exerce les compétences attribuées au préfet par les articles 7, 8, 11,
-12, 16 et 18 à 21 de ce décret.
+L'enquête publique est organisée dans les formes prévues par les articles R. 123-1 à R. 123-33 du code de l'environnement.
+L'autorité chargée de la procédure exerce les compétences attribuées au préfet par les articles R. 123-7, R. 123-8, R.
+123-13, R. 123-14, R. 123-18 et R. 123-20 à R. 123-23 de ce code.
 
 Le dossier de mise en compatibilité du schéma de cohérence territoriale, le rapport et les conclusions du commissaire
 enquêteur ou de la commission d'enquête ainsi que le procès-verbal de la réunion d'examen conjoint sont soumis pour avis par
@@ -23368,26 +23362,26 @@ La délibération de l'établissement public ou la décision du préfet est noti
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°73-1023 1973-11-08
+	  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
 
 	**Cite**:
 
-	  - Loi n°83-630 1983-07-12
-	  - Décret n°85-453 1985-04-23 art. 7, art. 8, art. 11, art. 12, art. 16, art. 18 à 21
-	  - Décret n°85-453 du 23 avril 1985 - art. 11 (Ab)
-	  - Décret n°85-453 du 23 avril 1985 - art. 12 (Ab)
-	  - Décret n°85-453 du 23 avril 1985 - art. 16 (Ab)
-	  - Décret n°85-453 du 23 avril 1985 - art. 7 (Ab)
-	  - Décret n°85-453 du 23 avril 1985 - art. 8 (Ab)
 	  - Code de l'urbanisme - art. L121-5 (M)
 	  - Code de l'urbanisme - art. L122-15 (M)
 	  - Code de l'urbanisme - art. L122-4 (M)
+	  - Code de l'environnement - art. R123-13 (M)
+	  - Code de l'environnement - art. R123-14 (V)
+	  - Code de l'environnement - art. R123-18 (V)
+	  - Code de l'environnement - art. R123-20 (V)
+	  - Code de l'environnement - art. R123-23 (V)
+	  - Code de l'environnement - art. R123-7 (V)
+	  - Code de l'environnement - art. R123-8 (V)
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2004-531 du 9 juin 2004 - art. 1 () JORF 13 juin 2004
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*122-11-3
@@ -23399,9 +23393,7 @@ l'Etat et ne requiert pas une déclaration d'utilité publique.
 L'examen conjoint prévu au 2° de l'article L. 122-15 a lieu avant l'ouverture de l'enquête publique à l'initiative du préfet.
 Lorsqu'une association mentionnée à l'article L. 121-5 demande à être consultée, son président adresse la demande au préfet.
 
-L'enquête publique est organisée dans les formes prévues par le décret n° 85-453 du 23 avril 1985 pris pour l'application de
-la loi n° 83-630 du 12 juillet 1983 relative à la démocratisation des enquêtes publiques et à la protection de
-l'environnement.
+L'enquête publique est organisée dans les formes prévues par les articles R. 123-1 à R. 123-33 du code de l'environnement.
 
 Le dossier de mise en compatibilité du schéma de cohérence territoriale, le rapport et les conclusions du commissaire
 enquêteur ou de la commission d'enquête ainsi que le procès-verbal de la réunion d'examen conjoint sont soumis pour avis par
@@ -23416,17 +23408,22 @@ suivant l'expiration du délai ou de la transmission en préfecture de la délib
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
+
 	**Cite**:
 
-	  - Loi n°83-630 1983-07-12
-	  - Décret n°85-453 1985-04-23
 	  - Code de l'urbanisme - art. L121-5 (M)
 	  - Code de l'urbanisme - art. L122-15 (M)
 	  - Code de l'urbanisme - art. L122-4 (M)
-
-	**Créé par**:
-
-	  - Décret n°2004-531 du 9 juin 2004 - art. 1 () JORF 13 juin 2004
+	  - Code de l'environnement - art. R123-13 (M)
+	  - Code de l'environnement - art. R123-14 (V)
+	  - Code de l'environnement - art. R123-18 (V)
+	  - Code de l'environnement - art. R123-20 (V)
+	  - Code de l'environnement - art. R123-23 (V)
+	  - Code de l'environnement - art. R123-7 (V)
+	  - Code de l'environnement - art. R123-8 (V)
 
 	**Codifié par**:
 
@@ -24409,10 +24406,9 @@ ce dans ce cas, dans les mairies des communes membres concernées.
 ###### Article R*123-19
 
 Le projet de plan local d'urbanisme est soumis à l'enquête publique par le maire ou le président de l'établissement public de
-coopération intercommunale compétent dans les formes prévues par les articles 7 à 21 du décret modifié n° 85-453 du 23 avril
-1985 pris pour l'application de la loi n° 83-630 du 12 juillet 1983 relative à la démocratisation des enquêtes publiques et à
-la protection de l'environnement. Toutefois, le maire ou le président de l'établissement public exerce les compétences
-attribuées au préfet par les articles 7, 8, 11, 12, 16 et 18 à 21 de ce décret.
+coopération intercommunale compétent dans les formes prévues par les articles R. 123-7 à R. 123-23 du code de
+l'environnement. Toutefois, le maire ou le président de l'établissement public exerce les compétences attribuées au préfet
+par les articles R. 123-7, R. 123-8, R. 123-13, R. 123-14, R. 123-18 et R. 123-20 à R. 123-23 de ce code.
 
 L'enquête concernant un plan local d'urbanisme vaut enquête préalable à la déclaration d'utilité publique des opérations,
 acquisitions ou expropriations prévues à ce plan à l'intérieur d'une zone d'aménagement concerté lorsque le dossier soumis à
@@ -24436,28 +24432,21 @@ de l'avis conforme, selon le cas, du préfet ou du président du conseil génér
 
 	  - Décret n°70-1016 1970-10-28 art. 18 II 1 à 3
 
-	**Cite**:
-
-	  - Loi n°83-630 1983-07-12
-	  - Décret n°85-453 1985-04-23 art. 7 à 21, art. 7, art. 8, art. 11, art. 12, art. 16, art. 18 à 21
-	  - Décret n°85-453 du 23 avril 1985 - art. 11 (Ab)
-	  - Décret n°85-453 du 23 avril 1985 - art. 12 (Ab)
-	  - Décret n°85-453 du 23 avril 1985 - art. 16 (Ab)
-	  - Décret n°85-453 du 23 avril 1985 - art. 7 (Ab)
-	  - Décret n°85-453 du 23 avril 1985 - art. 8 (Ab)
-	  - Code de l'urbanisme R123-1, R121-1
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-1 (M)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-3 (M)
-	  - Code de l'expropriation pour cause d'utilité publique R11-3, R11-14-1, R11-14-2 à R11-14-5, R11-14-7 à R11-14-15
-
 	**Modifié par**:
 
-	  - Décret n°2004-531 du 9 juin 2004 - art. 2 () JORF 13 juin 2004
+	  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*123-21 (V)
 	  - Code de l'urbanisme - art. R*123-22-1 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme R123-1, R121-1
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-1 (M)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-3 (M)
+	  - Code de l'expropriation pour cause d'utilité publique R11-3, R11-14-1, R11-14-2 à R11-14-5, R11-14-7 à R11-14-15
 
 	**Codifié par**:
 
@@ -24539,40 +24528,40 @@ orientations du projet d'aménagement et de développement durable.
 
 L'examen conjoint des personnes publiques associées a lieu, à l'initiative du maire ou du président de l'établissement
 public, avant l'ouverture de l'enquête publique. Lorsqu'une association mentionnée à l'article L. 121-5 demande à être
-consulté, son président adresse la demande au maire ou au président de l'établissement public.
+consultée, son président adresse la demande au maire ou au président de l'établissement public.
 
 Le projet de révision simplifiée, accompagné du procès-verbal de la réunion d'examen conjoint, est soumis à l'enquête
-publique par le maire ou par le président de l'établissement public dans les formes prévues par les articles 7 à 21 du décret
-n° 85-453 du 23 avril 1985 modifié pris pour l'application de la loi n° 83-630 du 12 juillet 1983 relative à la
-démocratisation des enquêtes publiques et à la protection de l'environnement. Le maire ou le président de l'établissement
-public exerce les compétences attribuées au préfet par les articles 7, 8, 11, 12, 16 et 18 à 21 de ce décret.
+publique par le maire ou par le président de l'établissement public dans les formes prévues par les articles R. 123-7 à R.
+123-23 du code de l'environnement. Le maire ou le président de l'établissement public exerce les compétences attribuées au
+préfet par les articles attribuées au préfet par les articles R. 123-7, R. 123-8, R. 123-13, R. 123-14, R. 123-18 et R.
+123-20 à R. 123-23 de ce code.
 
 La délibération qui approuve la révision du plan local d'urbanisme peut simultanément tirer le bilan de la concertation
 organisée en application du sixième alinéa de l'article L. 300-2.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°73-1023 1973-11-08
+	  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
 
 	**Cite**:
 
-	  - Loi n°83-630 1983-07-12
-	  - Décret n°85-453 1985-04-23 art. 7 à 21, art. 7, art. 8, art. 11, art. 12, art. 16, art. 18 à 21
-	  - Décret n°85-453 du 23 avril 1985 - art. 11 (Ab)
-	  - Décret n°85-453 du 23 avril 1985 - art. 12 (Ab)
-	  - Décret n°85-453 du 23 avril 1985 - art. 16 (Ab)
-	  - Décret n°85-453 du 23 avril 1985 - art. 7 (Ab)
-	  - Décret n°85-453 du 23 avril 1985 - art. 8 (Ab)
 	  - Code de l'urbanisme - art. L121-5 (M)
 	  - Code de l'urbanisme - art. L123-13 (Ab)
 	  - Code de l'urbanisme - art. L123-9 (M)
 	  - Code de l'urbanisme - art. L300-2 (M)
+	  - Code de l'environnement - art. R123-13 (M)
+	  - Code de l'environnement - art. R123-14 (V)
+	  - Code de l'environnement - art. R123-18 (V)
+	  - Code de l'environnement - art. R123-20 (V)
+	  - Code de l'environnement - art. R123-23 (V)
+	  - Code de l'environnement - art. R123-7 (V)
+	  - Code de l'environnement - art. R123-8 (V)
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2004-531 du 9 juin 2004 - art. 2 () JORF 13 juin 2004
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*123-22
@@ -24683,10 +24672,9 @@ L'examen conjoint prévu au b de l'article L. 123-16 a lieu avant l'ouverture de
 Lorsqu'une association mentionnée à l'article L. 121-5 demande à être consultée, son président adresse la demande au maire ou
 au président de l'organe délibérant.
 
-L'enquête publique est organisée dans les formes prévues par le décret n° 85-453 du 23 avril 1985 pris pour l'application de
-la loi n° 83-630 du 12 juillet 1983 relative à la démocratisation des enquêtes publiques et à la protection de
-l'environnement. L'autorité chargée de la procédure exerce les compétences attribuées au préfet par les articles 7, 8, 11,
-12, 16 et 18 à 21 de ce décret.
+L'enquête publique est organisée dans les formes prévues par les articles R. 123-1 à R. 123-33 du code de l'environnement.
+L'autorité chargée de la procédure exerce les compétences attribuées au préfet par les articles R. 123-7, R. 123-8, R.
+123-13, R. 123-14, R. 123-18 et R. 123-20 à R. 123-23 de ce code.
 
 Le dossier de mise en compatibilité du plan local d'urbanisme, le rapport et les conclusions du commissaire enquêteur ou de
 la commission d'enquête ainsi que le procès-verbal de la réunion d'examen conjoint sont soumis par l'autorité chargée de la
@@ -24697,10 +24685,6 @@ président de l'établissement public dans les deux mois suivant la réception e
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
 	**Cité par**:
 
 	  - Décret n°70-492 du 11 juin 1970 - art. 7 (Ab)
@@ -24708,21 +24692,25 @@ président de l'établissement public dans les deux mois suivant la réception e
 	  - Code de l'urbanisme - art. R*123-2-1 (VT)
 	  - Code de l'énergie - art. 323-6 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
+
 	**Cite**:
 
-	  - Loi n°83-630 1983-07-12
-	  - Décret n°85-453 1985-04-23 art. 7, art. 8, art. 11, art. 12, art. 16, art. 18 à 21
-	  - Décret n°85-453 du 23 avril 1985 - art. 11 (Ab)
-	  - Décret n°85-453 du 23 avril 1985 - art. 12 (Ab)
-	  - Décret n°85-453 du 23 avril 1985 - art. 16 (Ab)
-	  - Décret n°85-453 du 23 avril 1985 - art. 7 (Ab)
-	  - Décret n°85-453 du 23 avril 1985 - art. 8 (Ab)
 	  - Code de l'urbanisme - art. L121-5 (M)
 	  - Code de l'urbanisme - art. L123-16 (M)
+	  - Code de l'environnement - art. R123-13 (M)
+	  - Code de l'environnement - art. R123-14 (V)
+	  - Code de l'environnement - art. R123-18 (V)
+	  - Code de l'environnement - art. R123-20 (V)
+	  - Code de l'environnement - art. R123-23 (V)
+	  - Code de l'environnement - art. R123-7 (V)
+	  - Code de l'environnement - art. R123-8 (V)
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2004-531 du 9 juin 2004 - art. 2 () JORF 13 juin 2004
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*123-23-2
@@ -24741,10 +24729,9 @@ L'examen conjoint prévu au b de l'article L. 123-16 a lieu avant l'ouverture de
 l'autorité chargée de la procédure. Lorsqu'une association mentionnée à l'article L. 121-5 demande à être consultée, son
 président adresse la demande à l'autorité chargée de la procédure.
 
-L'enquête publique est organisée dans les formes prévues par le décret n° 85-453 du 23 avril 1985 pris pour l'application de
-la loi n° 83-630 du 12 juillet 1983 relative à la démocratisation des enquêtes publiques et à la protection de
-l'environnement. L'autorité chargée de la procédure exerce les compétences attribuées au préfet par les articles 7, 8, 11,
-12, 16 et 18 à 21 de ce décret.
+L'enquête publique est organisée dans les formes prévues par les articles R. 123-1 à R. 123-33 du code de l'environnement.
+L'autorité chargée de la procédure exerce les compétences attribuées au préfet par les articles R. 123-7, R. 123-8, R.
+123-13, R. 123-14, R. 123-18 et R. 123-20 à R. 123-23 de ce code.
 
 Le dossier de mise en compatibilité du plan local d'urbanisme, le rapport et les conclusions du commissaire enquêteur ou de
 la commission d'enquête ainsi que le procès-verbal de la réunion d'examen conjoint sont soumis par l'autorité chargée de la
@@ -24758,29 +24745,29 @@ de coopération intercommunale compétent ou la décision qu'il a prise.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°73-1023 1973-11-08
+	  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
 
 	**Cite**:
 
-	  - Loi n°83-630 1983-07-12
-	  - Décret n°85-453 1985-04-23 art. 7, art. 8, art. 11, art. 12, art. 16, art. 18 à 21
-	  - Décret n°85-453 du 23 avril 1985 - art. 11 (Ab)
-	  - Décret n°85-453 du 23 avril 1985 - art. 12 (Ab)
-	  - Décret n°85-453 du 23 avril 1985 - art. 16 (Ab)
-	  - Décret n°85-453 du 23 avril 1985 - art. 7 (Ab)
-	  - Décret n°85-453 du 23 avril 1985 - art. 8 (Ab)
 	  - Code de l'urbanisme - art. L121-5 (M)
 	  - Code de l'urbanisme - art. L123-16 (M)
-
-	**Créé par**:
-
-	  - Décret n°2004-531 du 9 juin 2004 - art. 2 () JORF 13 juin 2004
+	  - Code de l'environnement - art. R123-13 (M)
+	  - Code de l'environnement - art. R123-14 (V)
+	  - Code de l'environnement - art. R123-18 (V)
+	  - Code de l'environnement - art. R123-20 (V)
+	  - Code de l'environnement - art. R123-23 (V)
+	  - Code de l'environnement - art. R123-7 (V)
+	  - Code de l'environnement - art. R123-8 (V)
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*123-2-1 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*123-23-3
@@ -24792,9 +24779,7 @@ requiert pas une déclaration d'utilité publique.
 L'examen conjoint prévu au b de l'article L. 123-16 a lieu avant l'ouverture de l'enquête publique à l'initiative du préfet.
 Lorsqu'une association mentionnée à l'article L. 121-5 demande à être consultée, son président adresse la demande au préfet.
 
-L'enquête publique est organisée dans les formes prévues par le décret modifié n° 85-453 du 23 avril 1985 pris pour
-l'application de la loi n° 83-630 du 12 juillet 1983 relative à la démocratisation des enquêtes publiques et à la protection
-de l'environnement.
+L'enquête publique est organisée dans les formes prévues par les articles R. 123-1 à R. 123-33 du code de l'environnement.
 
 Le dossier de mise en compatibilité du plan local d'urbanisme, le rapport et les conclusions du commissaire enquêteur ou de
 la commission d'enquête ainsi que le procès-verbal de la réunion d'examen conjoint sont soumis par le préfet au conseil
@@ -24806,20 +24791,19 @@ défavorable.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°73-1023 1973-11-08
+	  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
 
 	**Cite**:
 
-	  - Loi n°83-630 1983-07-12
-	  - Décret n°85-453 1985-04-23
 	  - Code de l'urbanisme - art. L121-5 (M)
 	  - Code de l'urbanisme - art. L123-16 (M)
+	  - Code de l'environnement R123-1 à R123-33
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2004-531 du 9 juin 2004 - art. 2 () JORF 13 juin 2004
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*123-24
@@ -25075,34 +25059,27 @@ l'espace agricole et forestier, lorsqu'il existe.
 ###### Article R*124-6
 
 Le projet de carte communale est soumis à enquête publique par le maire ou le président de l'établissement public de
-coopération intercommunale compétent dans les formes prévues par les articles 7 à 21 du décret modifié n° 85-453 du 23 avril
-1985 pris pour l'application de la loi n° 83-630 du 12 juillet 1983 relative à la démocratisation des enquêtes publiques et à
-la protection de l'environnement. Toutefois le maire ou le président de l'établissement public de coopération intercommunale
-compétent exerce les compétences attribuées au préfet par les articles 7, 8, 11, 12, 16 et 18 à 21 de ce décret.
+coopération intercommunale compétent dans les formes prévues par les articles R. 123-7 à R. 123-23 du code de
+l'environnement. Toutefois le maire ou le président de l'établissement public de coopération intercommunale compétent exerce
+les compétences attribuées au préfet par les articles R123-7, R123-8, R123-13, R123-14, R123-18, R123-20, R123-23 de ce
+code. 
 
 Le dossier est composé du rapport de présentation, du ou des documents graphiques. Il peut être complété par tout ou partie
 des documents mentionnés à l'article R. 121-1.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°73-1023 1973-11-08
+	  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
 
 	**Cite**:
 
-	  - Loi n°83-630 1983-07-12
-	  - Décret n°85-453 1985-04-23 art. 7 à 21, art. 7, art. 8, art. 11, art. 12, art. 16, art. 18 à 21
-	  - Décret n°85-453 du 23 avril 1985 - art. 11 (Ab)
-	  - Décret n°85-453 du 23 avril 1985 - art. 12 (Ab)
-	  - Décret n°85-453 du 23 avril 1985 - art. 16 (Ab)
-	  - Décret n°85-453 du 23 avril 1985 - art. 7 (Ab)
-	  - Décret n°85-453 du 23 avril 1985 - art. 8 (Ab)
-	  - Code de l'urbanisme R121-1
+	  - Code de l'environnement - art. R123-7 (V)
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*124-7
@@ -26004,45 +25981,32 @@ abattage ne sont pas recevables si le dossier les concernant ne comporte pas l'a
 ###### Article R*130-16
 
 L'autorisation prévue au deuxième alinéa de l'article L. 130-2 du code de l'urbanisme est demandée au préfet. La demande est
-accompagnée des pièces justifiant que son auteur à la qualité de propriétaire, d'un plan de situation du terrain classé, d'un
+accompagnée des pièces justifiant que son auteur a la qualité de propriétaire, d'un plan de situation du terrain classé, d'un
 plan parcellaire de la propriété dans laquelle ce terrain est compris et d'un état des plantations ainsi que de l'étude
-d'impact définie à l'article 2 du décret n° 77-1141 du 12 octobre 1977.
+d'impact définie à l'article R. 122-3 du code de l'environnement. 
 
 La demande est instruite par le préfet qui consulte le directeur des services fiscaux et établit un rapport relatif notamment
 à la localisation et à l'étendue du terrain à déclasser ainsi qu'à la nature et à l'importance des constructions pouvant être
 autorisées et qui par ailleurs fait apparaître les conséquences d'un éventuel défrichement au regard des dispositions de
-l'article L. 311-3 du code forestier.
+l'article L. 311-3 du code forestier. 
 
 Sauf s'il apparaît que la demande ne peut être accueillie, le préfet saisit du dossier le maire de chacune des communes
 intéressées en vue de la délibération du conseil municipal sur l'accord prévu au troisième alinéa de l'article L. 130-2. Si
-le conseil municipal ne s'est pas prononcé dans les quatre mois [*délai*] de cette saisine, l'accord est réputé refusé.
+le conseil municipal ne s'est pas prononcé dans les quatre mois de cette saisine, l'accord est réputé refusé. 
 
 Sauf, en cas de désaccord des communes intéressées, le préfet transmet le dossier avec son avis et ses propositions, au
 ministre chargé de l'urbanisme.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°73-1023 1973-11-08
+	  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
 
 	**Cite**:
 
-	  - Décret n°77-1141 du 12 octobre 1977 - art. 2 (M)
 	  - Code forestier - art. L311-3 (M)
-	  - Code de l'urbanisme L130-2 al. 2 et 3
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-229 1984-03-29 art. 8 : Modalités d'application
-
-	**Créé par**:
-
-	  - Décret n°84-229 du 29 mars 1984 - art. 4 () JORF 31 mars 1984 en vigueur le 1er avril 1984
-
-	**Modifié par**:
-
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Code de l'environnement - art. R122-3 (V)
 
 	**Anciens textes**:
 
@@ -26052,6 +26016,10 @@ ministre chargé de l'urbanisme.
 	**Nouveaux textes**:
 
 	  - Code de l'urbanisme - art. R130-24 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*130-17
@@ -27613,37 +27581,37 @@ consommation.
 ###### Article R*146-2
 
 En application du deuxième alinéa de l'article L. 146-6, peuvent être implantés dans les espaces et milieux mentionnés à cet
-article, après enquête publique dans les cas prévus par le décret n° 85-453 du 23 avril 1985, les aménagements légers
-suivants, à condition que leur localisation et leur aspect ne dénaturent pas le caractère des sites, ne compromettent pas
-leur qualité architecturale et paysagère et ne portent pas atteinte à la préservation des milieux :
+article, après enquête publique dans les cas prévus par les articles R. 123-1 à R. 123-33 du code de l'environnement, les
+aménagements légers suivants, à condition que leur localisation et leur aspect ne dénaturent pas le caractère des sites, ne
+compromettent pas leur qualité architecturale et paysagère et ne portent pas atteinte à la préservation des milieux : 
 
 a) Lorsqu'ils sont nécessaires à la gestion ou à l'ouverture au public de ces espaces ou milieux, les cheminements
 piétonniers et cyclables et les sentes équestres ni cimentés, ni bitumés, les objets mobiliers destinés à l'accueil ou à
 l'information du public, les postes d'observation de la faune ainsi que les équipements démontables liés à l'hygiène et à la
 sécurité tels que les sanitaires et les postes de secours lorsque leur localisation dans ces espaces est rendue indispensable
-par l'importance de la fréquentation du public ;
+par l'importance de la fréquentation du public ; 
 
 b) Les aires de stationnement indispensables à la maîtrise de la fréquentation automobile et à la prévention de la
 dégradation de ces espaces par la résorption du stationnement irrégulier, sans qu'il en résulte un accroissement des
 capacités effectives de stationnement, à condition que ces aires ne soient ni cimentées ni bitumées et qu'aucune autre
-implantation ne soit possible ;
+implantation ne soit possible ; 
 
 c) La réfection des bâtiments existants et l'extension limitée des bâtiments et installations nécessaires à l'exercice
-d'activités économiques ;
+d'activités économiques ; 
 
 d) A l'exclusion de toute forme d'hébergement et à condition qu'ils soient en harmonie avec le site et les constructions
-existantes :
+existantes : 
 
 - les aménagements nécessaires à l'exercice des activités agricoles, pastorales et forestières ne créant pas plus de 50
-mètres carrés de surface de plancher ;
+mètres carrés de surface de plancher ; 
 
 - dans les zones de pêche, de cultures marines ou lacustres, de conchyliculture, de saliculture et d'élevage d'ovins de prés
 salés, les constructions et aménagements exigeant la proximité immédiate de l'eau liés aux activités traditionnellement
-implantées dans ces zones, à la condition que leur localisation soit rendue indispensable par des nécessités techniques ;
+implantées dans ces zones, à la condition que leur localisation soit rendue indispensable par des nécessités techniques ; 
 
 e) Les aménagements nécessaires à la gestion et à la remise en état d'éléments de patrimoine bâti reconnus par un classement
 au titre de la loi du 31 décembre 1913 ou localisés dans un site inscrit ou classé au titre des articles L. 341-1 et L. 341-2
-du code de l'environnement.
+du code de l'environnement. 
 
 Les aménagements mentionnés aux a, b et d du présent article doivent être conçus de manière à permettre un retour du site à
 l'état naturel.
@@ -27652,11 +27620,12 @@ l'état naturel.
 
 	**Cite**:
 
-	  - Décret n°85-453 1985-04-23
-	  - Code de l'urbanisme - art. L146-6 (M)
-	  - Code de l'environnement - art. L341-1 (M)
-	  - Code de l'environnement - art. L341-2 (M)
-	  - Loi n°1913-12-31
+	  - Loi du 31 décembre 1913
+	  - Code de l'urbanisme - art. L146-6
+	  - Code de l'environnement - art. L341-1
+	  - Code de l'environnement - art. L341-2
+	  - Code de l'environnement - art. R123-1
+	  - Code de l'environnement - art. R123-33
 
 	**Cité par**:
 
@@ -27672,7 +27641,15 @@ l'état naturel.
 
 	**Modifié par**:
 
-	  - Décret n°2004-310 du 29 mars 2004 - art. 2 () JORF 30 mars 2004
+	  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R121-5 (V)
 
 	**Codifié par**:
 
@@ -27999,34 +27976,34 @@ réponse dans les délais impartis, ces avis sont réputés favorables.
 Le projet de plan d'exposition au bruit, éventuellement modifié pour tenir compte des avis exprimés, est soumis à enquête
 publique par le préfet dans les conditions prévues au deuxième alinéa de l'article L. 147-3 et selon les modalités fixées par
 le décret n° 87-339 du 21 mai 1987 définissant les modalités de l'enquête publique relative aux plans d'exposition au bruit
-des aérodromes.
+des aérodromes. 
 
 Lorsque le plan d'exposition au bruit concerne un aérodrome affecté à titre exclusif, principal ou secondaire au ministère
-chargé de la défense, la procédure d'enquête est conduite dans le respect des conditions posées par les articles 2 et 3 du
-décret n° 85-693 du 5 juillet 1985 pris pour l'application de la loi n° 83-630 du 12 juillet 1983 et déterminant les
-conditions de protection du secret de la défense nationale.
+chargé de la défense, la procédure d'enquête est conduite dans le respect des conditions posées par les articles R. 123-45 et
+R. 123-46 du code de l'environnement.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 JORF 5 août 2005
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L147-3
+	  - Code de l'environnement - art. R123-45
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R112-15 (V)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Loi n°83-630 1983-07-12
-	  - Décret n°85-693 du 5 juillet 1985 - art. 2 (Ab)
-	  - Décret n°85-693 du 5 juillet 1985 - art. 3 (Ab)
-	  - Décret n°87-339 1987-05-21
-	  - Code de l'urbanisme - art. L147-3 (M)
-
-	**Créé par**:
-
-	  - Décret n°87-340 1987-05-21 art. 1 JORF 22 mai 1987
-
-	**Modifié par**:
-
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 
 ###### Article R147-10
@@ -30516,24 +30493,22 @@ relais de la mer située en dehors des ports et au droit d'une partie urbanisée
 Lorsqu'une opération mentionnée au précédent article doit être réalisée en plusieurs tranches dans un intervalle de temps de
 moins de cinq ans, la totalité de l'opération est prise en compte pour l'application des seuils définis ci-dessus.
 
-Le montant des seuils financiers prévus audit article est révisé par l'arrêté ministériel prévu à l'article 1er (III) du
-décret n° 85-453 du 23 avril 1985 pris pour l'application de la loi n° 83-630 du 12 juillet 1983 relative à la
-démocratisation des enquêtes publiques et à la protection de l'environnement.
+Le montant des seuils financiers prévus audit article est révisé par l'arrêté ministériel prévu à l'article R. 123-1 du code
+de l'environnement.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
+
+	**Cite**:
+
+	  - Code de l'environnement - art. R123-1 (V)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Cite**:
-
-	  - Loi n°83-630 1983-07-12
-	  - Décret n°85-453 1985-04-23
-
-	**Créé par**:
-
-	  - Décret n°86-521 1986-03-15 art. 1 JORF 16 mars 1986
 
 	**Cité par**:
 
@@ -30545,25 +30520,22 @@ démocratisation des enquêtes publiques et à la protection de l'environnement.
 Ne sont pas soumis aux dispositions de l'article L. 300-2 les travaux d'entretien et de grosses réparations quels que soient
 les ouvrages et aménagements auxquels ils se rapportent.
 
-Il en va de même des travaux et aménagements mentionnés à l'article 1er du décret n° 85-693 du 5 juillet 1985 pris pour
-l'application de la loi n° 83-630 du 12 juillet 1983 relative à la démocratisation des enquêtes publiques et à la protection
-de l'environnement et déterminant les conditions de protection du secret de la défense nationale.
+Il en va de même des travaux et aménagements mentionnés à l'article R. 123-44 du code de l'environnement.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 8 JORF 5 août 2005
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L300-2 (M)
+	  - Code de l'environnement - art. R123-44 (M)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Cite**:
-
-	  - Loi n°83-630 1983-07-12
-	  - Décret n°85-693 1985-07-05
-	  - Code de l'urbanisme - art. L300-2 (M)
-
-	**Créé par**:
-
-	  - Décret n°86-521 1986-03-15 art. 1 JORF 16 mars 1986
 
 
 ###  Titre Ier : Opérations d'aménagement
@@ -30614,31 +30586,31 @@ b) Un plan de situation ;
 
 c) Un plan de délimitation du ou des périmètres composant la zone ;
 
-d) L'étude d'impact définie à l'article 2 du décret du 12 octobre 1977 modifié.
+d) L'étude d'impact définie à l'article R. 122-3 du code de l'environnement.
 
 Le dossier précise également si la taxe locale d'équipement sera ou non exigible dans la zone. Il mentionne si le mode de
 réalisation choisi relève soit des 1° et 2° de l'article R. 311-6, soit du 3° du même article.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°73-1023 1973-11-08
+	  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
 
 	**Cite**:
 
-	  - Décret n°77-1141 du 12 octobre 1977 - art. 2 (M)
 	  - Code de l'urbanisme - art. L300-2 (M)
 	  - Code de l'urbanisme - art. R*311-6 (M)
-
-	**Modifié par**:
-
-	  - Décret n°2001-261 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
+	  - Code de l'environnement - art. R122-3 (V)
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*311-7 (V)
 	  - Code de l'urbanisme - art. R*318-18 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*311-3
@@ -31153,8 +31125,8 @@ plan ou de la date à laquelle il a pris connaissance de celui-ci.
 
 ###### Article R*313-8
 
-Le plan rendu public est soumis par le préfet à enquête dans les formes prévues par les chapitres I et II du décret n° 85-453
-du 23 avril 1985.
+Le plan rendu public est soumis par le préfet à enquête dans les formes prévues par les articles R. 123-1 à R. 123-23 du code
+de l'environnement.
 
 Le préfet peut, par un même arrêté, rendre public le plan, prescrire l'enquête publique prévue au précédent alinéa et, s'il y
 a lieu, prescrire l'enquête en vue de la déclaration d'utilité publique des opérations ou acquisitions prévues à ce plan ou
@@ -31169,21 +31141,11 @@ dans les mêmes délais et conditions qu'à l'article R. 313-7 sur les documents
 
 	**Anciens textes**:
 
-	  - Décret n°63-691 1963-07-13 ART. 8 AL. 2
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°85-452 1985-04-23 ART. 14 : application dans le temps
+	  - Décret n°63-691 1963-07-13 art. 8 al. 2
 
 	**Modifié par**:
 
-	  - Décret n°85-452 1985-04-23 art. 5 JORF 24 avril 1985 en vigueur le 1er octobre 1985
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
-
-	**Cite**:
-
-	  - Décret n°85-453 1985-04-23 art. 1 à art. 21
-	  - Code de l'urbanisme - art. R313-7 (M)
+	  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
 
 	**Cité par**:
 
@@ -31193,6 +31155,11 @@ dans les mêmes délais et conditions qu'à l'article R. 313-7 sur les documents
 	  - Code de l'urbanisme - art. R313-4 (M)
 	  - Code de l'urbanisme - art. R313-6 (M)
 	  - Code de l'urbanisme - art. R313-9 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R313-7 (M)
+	  - Code de l'environnement R123-1 à R123-23
 
 	**Codifié par**:
 
@@ -32738,32 +32705,36 @@ des équipements et leurs modalités de raccordement aux bâtiments dont l'édif
 g) S'il y a lieu, une copie de la lettre par laquelle l'autorité compétente fait connaître au demandeur que son dossier de
 demande d'autorisation de coupe ou d'abattage et, le cas échéant, d'autorisation de défrichement est complet ;
 
-h) L'étude d'impact définie à l'article 2 du décret n° 77-1141 du 12 octobre 1977, lorsque l'opération est située en dehors
-d'une commune ou partie de commune dotée d'un plan local d'urbanisme rendu public ou approuvé et permet la construction d'une
-surface hors oeuvre nette de 3 000 mètres carrés ou plus.
+h) L'étude d'impact définie à l'article R. 122-3 du code de l'environnement, lorsque l'opération est située en dehors d'une
+commune ou partie de commune dotée d'un plan local d'urbanisme rendu public ou approuvé et permet la construction d'une
+surface hors oeuvre nette de 3 000 mètres carrés ou plus ;
 
 i) S'il est prévu une réalisation par tranches, les conditions et modalités d'exécution des travaux ;
 
 j) Le cas échéant, une attestation de la garantie à fournir en application de l'article R. 315-33.
 
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°77-1141 du 12 octobre 1977 - art. 2 (M)
-	  - Code de l'urbanisme R315-33
 
 	**Modifié par**:
 
-	  - Décret n°2003-16 du 2 janvier 2003 - art. 3 () JORF 5 janvier 2003
+	  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*322-28-1 (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - TXT_ASSOCIE: Code de l'urbanisme R315-44
+	  - Code de l'urbanisme R315-33
+	  - Code de l'environnement - art. R122-3 (V)
 
 	**Codifié par**:
 
@@ -33245,10 +33216,10 @@ NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 
 ###### Article R*315-18-1
 
-Lorsque le projet est soumis à enquête publique dans les conditions prévues par les chapitres I et II du décret n° 85-453 du
-23 avril 1985, celle-ci est organisée par le préfet. Le service chargé de l'instruction lui transmet le dossier complet de la
-demande d'autorisation de lotir, après l'avoir complété d'un document mentionnant les textes qui régissent l'enquête en cause
-et indiquant la façon dont cette enquête s'insère dans la procédure d'autorisation.
+Lorsque le projet est soumis à enquête publique dans les conditions prévues par les articles R. 123-1 à R. 123-23 du code de
+l'environnement, celle-ci est organisée par le préfet. Le service chargé de l'instruction lui transmet le dossier complet de
+la demande d'autorisation de lotir, après l'avoir complété d'un document mentionnant les textes qui régissent l'enquête en
+cause et indiquant la façon dont cette enquête s'insère dans la procédure d'autorisation.
 
 Lorsque l'opération a précédemment fait l'objet d'une enquête publique réalisée en application des articles R. 11-14-1 et
 suivants du code de l'expropriation pour cause d'utilité publique et que l'avis de mise à l'enquête indiquait que celle-ci
@@ -33261,31 +33232,31 @@ code forestier et que l'avis de mise à enquête indiquait que celle-ci portait 
 pas lieu à nouvelle enquête préalablement à l'autorisation de lotir à condition que le dossier de défrichement soumis à
 enquête ait été complété par les pièces prévues aux articles R. 315-5 et R. 315-6.
 
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code forestier - art. R*312-1 (M)
+	  - Code forestier - art. R311-3-1 (Ab)
+	  - Code de l'urbanisme R315-5, R315-6
+	  - Code de l'environnement R123-1 à R123-23
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-1 (M)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°85-452 1985-04-23 art. 11 JORF 24 avril 1985
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°85-452 1985-04-23 art. 14 II : application dans le temps
-
-	**Cite**:
-
-	  - Décret n°85-453 1985-04-23
-	  - Code forestier - art. R*312-1 (M)
-	  - Code forestier - art. R311-3-1 (Ab)
-	  - Code de l'urbanisme R315-5, R315-6
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-1 (M)
-
-	**Modifié par**:
-
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 
 ###### Article R*315-19
@@ -33425,7 +33396,7 @@ NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 
 ###### Article R*315-21-1
 
-Le demandeur ne peut bénéficier d'une autorisation de lotir tacite dans les cas ci-après énumérés[*autorisation expresse*] :
+Le demandeur ne peut bénéficier d'une autorisation de lotir tacite dans les cas ci-après énumérés :
 
 a) Lorsque le projet est situé dans le champ de visibilité d'un édifice classé ou inscrit.
 
@@ -33437,25 +33408,33 @@ c) Lorsque le projet est situé dans une zone de protection du patrimoine archit
 d) Lorsque le projet est situé dans un territoire en instance de classement ou classé en réserve naturelle.
 
 e) Lorsque le projet de lotissement fait partie des catégories d'aménagements, d'ouvrages ou travaux soumis à enquête
-publique en application du décret n° 85-453 du 23 avril 1985.
+publique en application des articles R. 123-1 à R. 123-33 du code de l'environnement.
 
 f) Lorsqu'il est fait application des dispositions de l'article R. 315-33.
 
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
+
+	**Cite**:
+
+	  - Code de l'urbanisme R315-33
+	  - Code de l'environnement R123-1 à R123-33
+	  - Loi n°1930-05-02 art. 17, art. 28
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Décret n°85-453 1985-04-23
-	  - Code de l'urbanisme R315-33
-	  - Loi n°1930-05-02 ART. 17, ART. 28
-
-	**Modifié par**:
-
-	  - Décret n°87-885 du 30 octobre 1987 - art. 2 () JORF 31 octobre 1987
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
 #####  Paragraphe 2 : Dispositions applicables dans les communes où un plan local d'urbanisme a été approuvé.
@@ -34774,7 +34753,7 @@ NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 ###### Article R*315-46
 
 Lorsque l'autorité compétente décide d'ouvrir l'enquête publique prévue à l'article L. 315-2-1, celle-ci est organisée dans
-les formes prévues par les chapitres Ier et II du décret n° 85-453 du 23 avril 1985 :
+les formes prévues par les articles R. 123-1 à R. 123-33 du code de l'environnement :
 
 - par le préfet lorsque le lotissement concerné est situé dans le périmètre d'une opération d'intérêt national ;
 
@@ -34805,20 +34784,28 @@ au nom de cet établissement, dans les autres cas.
 Copie de cette décision est adressée aux autorités compétentes pour instruire et délivrer les autorisations et actes relatifs
 à l'utilisation du sol. Elle est en outre affichée à la mairie pendant deux mois.
 
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L315-2-1 (M)
+	  - Code de l'environnement R123-1 à R123-33
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Cite**:
-
-	  - Décret n°85-453 1985-04-23
-	  - Code de l'urbanisme - art. L315-2-1 (M)
-
-	**Modifié par**:
-
-	  - Décret n°2001-260 du 27 mars 2001 - art. 3 () JORF 28 mars 2001
 
 
 ###### Article R*315-47
@@ -45589,8 +45576,8 @@ de l'article L. 4424-39 du code général des collectivités territoriales.
 
 ###### Article R421-17
 
-Lorsque le projet est soumis à enquête publique dans les condition prévues par les chapitres I et II du décret n° 85-453 du
-23 avril 1985, celle-ci est organisée par le préfet lorsque le permis de construire est délivré au nom de l'Etat, et par le
+Lorsque le projet est soumis à enquête publique dans les condition prévues par les articles R. 123-1 à R. 123-33 du code de
+l'environnement, celle-ci est organisée par le préfet lorsque le permis de construire est délivré au nom de l'Etat, et par le
 maire ou le président de l'établissement public de coopération intercommunale dans les autres cas. Le service chargé de
 l'instruction de la demande transmet à l'autorité compétente pour ouvrir l'enquête publique le dossier complet de demande de
 permis de construire après l'avoir complété d'un document mentionnant les textes qui régissent l'enquête en cause et
@@ -45615,24 +45602,19 @@ projetée, il n'y a pas lieu à une nouvelle enquête au titre du permis de cons
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°85-452 1985-04-23 art. 14 II : application dans le temps
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-41 (M)
-
 	**Cite**:
 
-	  - Décret n°85-453 1985-04-23
 	  - Décret n°93-306 1993-03-09 art. 23-3
 	  - Code forestier - art. R*312-1 (M)
 	  - Code forestier - art. R311-3-1 (Ab)
 	  - Code de l'urbanisme - art. R421-3-1 (M)
 	  - Code de l'urbanisme R315-18-1, R421-3-1
+	  - Code de l'environnement R123-1 à R123-33
 	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-1 (M)
 
 	**Modifié par**:
 
-	  - Décret n°97-1314 du 30 décembre 1997 - art. 2 () JORF 31 décembre 1997
+	  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
 
 	**Cité par**:
 
@@ -45731,25 +45713,18 @@ protection créée par décret en application des articles 17 ou 28 de la loi du
 
 e) Lorsque le projet est situé dans une zone de protection du patrimoine architectural et urbain ;
 
-f) Lorsque la construction est située dans un territoire en instance de classement ou classé en réserve naturelle.
+f) Lorsque la construction est située dans un territoire en instance de classement ou classé en réserve naturelle ;
 
 g) Lorsque la construction fait partie des catégories d'aménagements, d'ouvrages ou de travaux soumis à enquête publique en
-application du décret n° 85-453 du 23 avril 1985.
+application des articles R. 123-1 à R. 123-33 du code de l'environnement ;
 
 h) Lorsqu'il y a lieu de consulter l'Assemblée de Corse en application de l'article R. 421-16.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°85-453 1985-04-23
-	  - Code de l'urbanisme - art. R421-16 (Ab)
-	  - Code de la construction et de l'habitation. - art. L631-7 (M)
-	  - Loi n°1930-05-02 art. 17, art. 28
-
 	**Modifié par**:
 
-	  - Décret n°2002-823 du 3 mai 2002 - art. 3 () JORF 5 mai 2002
+	  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
 
 	**Cité par**:
 
@@ -45778,6 +45753,13 @@ h) Lorsqu'il y a lieu de consulter l'Assemblée de Corse en application de l'art
 	  - Code de l'urbanisme - art. R442-2 (V)
 	  - Code de l'urbanisme - art. R442-4-9 (Ab)
 	  - Code du tourisme. - art. D331-5 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R421-16 (Ab)
+	  - Code de la construction et de l'habitation. - art. L631-7 (M)
+	  - Code de l'environnement R123-1 à R123-33
+	  - Loi n°1930-05-02 art. 17, art. 28
 
 	**Liens**:
 
@@ -51934,35 +51916,35 @@ obtenu l'autorisation d'aménager le terrain et un arrêté de classement déter
 La demande d'autorisation d'aménager un terrain est établie conformément à un modèle national fixé par arrêté conjoint des
 ministres chargés de l'urbanisme et du tourisme.
 
-La demande [*contenu*], qui comporte l'engagement du demandeur d'exploiter le terrain selon le mode de gestion indiqué dans
-sa demande, est accompagnée d'un dossier composé, pour les constructions à réaliser, des pièces résultant de l'application
-des articles R. 421-1 à R. 421-7-1 ou le cas échéant de l'article R. 422-3 et, pour l'aménagement du terrain, de pièces dont
-la liste est fixée, le cas échéant, selon la nature et le lieu du stationnement, par arrêté conjoint des ministres chargés de
-l'urbanisme et du tourisme.
+La demande, qui comporte l'engagement du demandeur d'exploiter le terrain selon le mode de gestion indiqué dans sa demande,
+est accompagnée d'un dossier composé, pour les constructions à réaliser, des pièces résultant de l'application des articles
+R. 421-1 à R. 421-7-1 ou le cas échéant de l'article R. 422-3 et, pour l'aménagement du terrain, de pièces dont la liste est
+fixée, le cas échéant, selon la nature et le lieu du stationnement, par arrêté conjoint des ministres chargés de l'urbanisme
+et du tourisme.
 
-Ce dossier doit comporter également soit l'étude d'impact définie à l'article 2 du décret n° 77-1141 du 12 octobre 1977,
-lorsque la demande intéresse un projet comportant 200 emplacements ou plus, soit une notice exposant les conditions dans
-lesquelles le projet satisfait aux préoccupations d'environnement définies par l'article 1er du même décret, lorsque la
-demande intéresse un projet comportant moins de 200 emplacements.
+Ce dossier doit comporter également soit l'étude d'impact définie à l'article R. 122-3 du code de l'environnement, lorsque la
+demande intéresse un projet comportant 200 emplacements ou plus, soit une notice exposant les conditions dans lesquelles le
+projet satisfait aux préoccupations d'environnement définies par l'article 1er du même décret, lorsque la demande intéresse
+un projet comportant moins de 200 emplacements.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme R421-1 à R421-7-1, R422-3
+	  - Code de l'environnement - art. R122-3 (V)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Cite**:
-
-	  - Décret n°77-1141 du 12 octobre 1977 - art. 2 (M)
-	  - Code de l'urbanisme R421-1 à R421-7-1, R422-3
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-514 du 14 mars 1986 - art. 11 (V)
-
-	**Modifié par**:
-
-	  - Décret n°86-514 du 14 mars 1986 - art. 3 () JORF 16 mars 1986
 
 
 ###### Article R*443-7-2
@@ -52262,51 +52244,57 @@ ministres chargés de l'urbanisme, de la santé publique et du tourisme.
 ###### Article R*443-8-3
 
 Pour l'application de l'article L. 443-2, le préfet de département délimite par arrêté les zones soumises à un risque naturel
-ou technologique prévisible. Ces zones comprennent notamment celles mentionnées à l'article 2 du décret n° 90-918 du 11
-octobre 1990 relatif à l'exercice du droit à l'information sur les risques majeurs.
+ou technologique prévisible. Ces zones comprennent notamment celles mentionnées à l'article R. 125-10 du code de
+l'environnement.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
 	**Cite**:
 
-	  - Décret n°90-918 1990-10-11 art. 2
 	  - Code de l'urbanisme - art. L443-2 (M)
-
-	**Créé par**:
-
-	  - Décret n°94-614 du 13 juillet 1994 - art. 2 () JORF 22 juillet 1994
+	  - Code de l'environnement - art. R125-10 (V)
 
 
 ###### Article R*443-8-4
 
 En cas d'inexécution totale ou partielle par l'exploitant, dans les délais prévus, des prescriptions fixées par les articles
-3 à 9 du décret du 13 juillet 1994 relatif aux prescriptions permettant d'assurer la sécurité des occupants des terrains de
-camping et de stationnement de caravanes soumis à un risque naturel ou technologique prévisible, l'autorité compétente
-mentionnée aux articles R. 443-7-4, premier alinéa, et R. 443-7-5 peut ordonner, après mise en demeure restée sans effet, la
-fermeture temporaire du terrain situé dans une zone visée à l'article R. 443-8-3 et l'évacuation des occupants jusqu'à
-l'exécution des prescriptions.
+R. 125-15 à R. 125-21 du code de l'environnement, l'autorité compétente mentionnée aux articles R. 443-7-4, premier alinéa,
+et R. 443-7-5 peut ordonner, après mise en demeure restée sans effet, la fermeture temporaire du terrain situé dans une zone
+visée à l'article R. 443-8-3 et l'évacuation des occupants jusqu'à l'exécution des prescriptions.
 
 En cas de carence de l'autorité mentionnée au premier alinéa de l'article R. 443-7-4, le préfet peut, après mise en demeure
 non suivie d'effet, s'y substituer.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'urbanisme R443-7-4, R443-8-3
-	  - Décret n°94-614 1994-07-13 art. 3 à 9
+	  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°94-614 du 13 juillet 1994 - art. 2 () JORF 22 juillet 1994
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme R443-7-4, R443-8-3
+	  - Code de l'environnement R125-15 à R125-21
 
 
 ###### Article R443-8-5
@@ -52714,7 +52702,7 @@ h) Une note sur les dispositions de principe envisagées pour l'évacuation des 
 i) Une note sur les risques naturels et technologiques prévisibles et les dispositions principales prévues pour y faire
 face ;
 
-j) L'étude ou la notice d'impact prévue, selon le cas, par l'article 2 ou 4 du décret n° 77-1141 du 12 octobre 1977.
+j) L'étude ou la notice d'impact prévue, selon le cas, par l'article R. 122-3 ou R. 122-9 du code de l'environnement.
 
 Le dossier comporte en outre :
 
@@ -52735,7 +52723,7 @@ l'article L. 430-1, la justification du dépôt de la demande de permis de démo
 
 d) Lorsque les travaux projetés sont soumis à l'avis de la commission consultative départementale de la protection civile, de
 la sécurité et de l'accessibilité ou de la commission de sécurité compétente en vertu des articles R. 123-13 ou R. 123-22 du
-code de la construction et de l'habitation, les plans et documents nécessaires à la formulation de cet avis.
+code de la construction et de l'habitation, les plans et documents nécessaires à la formulation de cet avis ;
 
 e) Dans le cas d'une remontée mécanique empruntant un tunnel d'une longueur de plus de 300 mètres, le rapport d'un expert ou
 d'un organisme qualifié agréé dans les conditions prévues à l'article 7 du décret n° 2003-425 du 9 mai 2003 relatif à la
@@ -52765,26 +52753,31 @@ déclaration de travaux constitue le fait générateur.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
 	**Cite**:
 
-	  - Décret n°77-1141 du 12 octobre 1977 - art. 2 (M)
-	  - Décret n°77-1141 du 12 octobre 1977 - art. 4 (Ab)
 	  - Loi n°85-30 1985-01-09 art. 53
 	  - Décret n°2003-425 2003-05-09 art. 7
 	  - Code forestier - art. L311-1 (M)
 	  - Code forestier - art. L312-1 (M)
 	  - Code de l'urbanisme - art. L130-1 (M)
 	  - Code de l'urbanisme - art. L430-1 (Ab)
+	  - Code de l'urbanisme R122-3, L130-1, L430-1
 	  - Code de la construction et de l'habitation R123-13, R123-22
 	  - Code de la construction et de l'habitation. - art. R*123-22 (M)
+	  - Code de l'environnement - art. R122-3 (V)
+	  - Code de l'environnement - art. R122-9 (M)
 
 	**Modifié par**:
 
-	  - Décret n°2003-425 2003-05-07 art. 52 JORF 11 mai 2003
+	  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R445-3
@@ -53109,9 +53102,9 @@ propriétaires apparents.
 Elle comprend une note descriptive des travaux envisagés indiquant leur nature, les aménagements complémentaires de remise en
 état ou de réhabilitation et leurs délais de réalisation. Cette note est accompagnée d'un plan d'exécution coté.
 
-Elle comporte, selon le cas, l'étude d'impact prévue à l'article 2 du décret n° 77-1141 du 12 octobre 1977 ou la notice
-d'impact prévue à l'article 4 de ce décret, qui précise les mesures de remise en état ou de réhabilitation mentionnées à
-l'alinéa précédent.
+Elle comporte, selon le cas, l'étude d'impact prévue à l'article R. 122-3 du code de l'environnement ou la notice d'impact
+prévue à l'article R. 122-9 de ce code, qui précise les mesures de remise en état ou de réhabilitation mentionnées à l'alinéa
+précédent.
 
 Lorsque le projet nécessite la coupe ou l'abattage d'arbres soumis à l'autorisation prévue à l'article L. 130-1 du présent
 code ou aux articles L. 311-1 ou L. 312-1 du code forestier, la demande est complétée par l'attestation selon laquelle
@@ -53123,17 +53116,22 @@ travaux divers prévue à l'article R. 442-4 pour les travaux soumis à ladite a
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
 	**Cite**:
 
-	  - Décret n°77-1141 du 12 octobre 1977 - art. 2 (M)
 	  - Code forestier - art. L311-1 (M)
 	  - Code forestier - art. L312-1 (M)
 	  - Code de l'urbanisme - art. L130-1 (M)
 	  - Code de l'urbanisme - art. R442-4 (M)
-
-	**Créé par**:
-
-	  - Décret n°88-635 1988-05-06 art. 2, art. 5 JORF 8 mai 1988
+	  - Code de l'environnement - art. R122-3 (V)
+	  - Code de l'environnement - art. R122-9 (M)
 
 	**Codifié par**:
 
