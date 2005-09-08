@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2005-08-05
+Version Consolidée au 2005-09-09
 
 # Partie législative
 
@@ -53737,13 +53737,18 @@ L. 332-19-1 du code de l'environnement ;
 
 d) Lorsqu'il s'agit de travaux réalisés dans un secteur couvert par un plan de prévention des risques naturels prévisibles
 prévu par l'article  L. 562-1 du code de l'environnement, ou par un plan de prévention des risques miniers établi en
-application de l'article 94 du code minier.
+application de l'article 94 du code minier ou par un plan de prévention des risques technologiques établi en application de
+l'article L. 515-15 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°70-447 1970-05-28 art. 3
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 	**Cité par**:
 
@@ -53753,7 +53758,7 @@ application de l'article 94 du code minier.
 
 	**Modifié par**:
 
-	  - Décret n°2005-491 du 18 mai 2005 - art. 5 () JORF 19 mai 2005
+	  - Décret n°2005-1130 du 7 septembre 2005 - art. 13 () JORF 9 septembre 2005
 
 	**Cite**:
 
@@ -53761,18 +53766,15 @@ application de l'article 94 du code minier.
 	  - Code de l'urbanisme - art. R421-53 (M)
 	  - Code de l'urbanisme R460-1, R421-47 à R421-50, R421-53
 	  - Code de la construction et de l'habitation R122-1 à R122-29, R123-1 à R123-55
+	  - Code de l'environnement - art. L515-15 (V)
 	  - Code de l'environnement - art. L562-1 (M)
-	  - Code de l'environnement L331-1 à L331-7, L332-1 à L332-19-1, L562-1
+	  - Code de l'environnement L331-1 à L331-7, L332-1 à L332-19-1, L562-1, L515-15
 	  - Loi n°1913-12-31
 	  - Loi n°1930-05-02
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L430-3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R460-4
@@ -58211,9 +58213,6 @@ De l'article 35 de la loi n° 46-628 du 8 avril 1946 modifiée ;
 
 De l'article 25 du décret n° 64-481 du 23 janvier 1964.
 
-Périmètres de protection institués en application de l'article 7 de l'ordonnance n° 58-1132 du 25 novembre 1958 relative au
-stockage souterrain de gaz.
-
 b) Energie hydraulique.
 
 Périmètres auxquels s'applique la servitude de submersion et d'occupation temporaire instituée par l'article 4 de la loi du
@@ -58225,10 +58224,6 @@ Servitudes relatives à la construction et à l'exploitation de pipe-lines d'int
 l'article 11 de la loi n° 58-336 du 29 mars 1958 et du décret n° 59-645 du 16 mai 1959 pris pour l'application dudit article
 11.
 
-Servitudes relatives aux périmètres de protection instituées en application de l'article 6 de l'ordonnance n° 58-1332 du 23
-décembre 1958 relative aux stockages souterrains d'hydrocarbures liquides ou liquéfiés, modifiée par la loi de finances
-rectificative pour 1972 (n° 72-1147 du 23 décembre 1972).
-
 d) Chaleur :
 
 Servitudes relatives aux canalisations de transport et de distribution de chaleur instituées en application de la loi n°
@@ -58237,6 +58232,9 @@ Servitudes relatives aux canalisations de transport et de distribution de chaleu
 B. - Mines et carrières.
 
 Périmètres à l'intérieur desquels sont applicables les dispositions des articles 71 à 73 du code minier.
+
+Servitudes relatives à la protection des stockages souterrains de gaz naturel, d'hydrocarbures liquides, liquéfiés ou gazeux
+ou de produits chimiques à destination industrielle prévues à l'article 104-3 (I et II) du code minier.
 
 C. - Canalisations.
 
@@ -58324,8 +58322,10 @@ application des articles L. 57 à L. 62-1 et R. 27 à R. 39 du code des postes e
 Servitudes attachées aux réseaux de télécommunications instituées en application des articles L. 45-1 et L. 48 du code des
 postes et télécommunications.
 
-III -  Servitudes relatives à la Défense Nationale    Servitudes de champ de vue instituées par la loi du 18 juillet 1895
-concernant la détermination et la conservation des postes électro-sémaphoriques, modifiée par la loi du 27 mai 1933.
+III -  Servitudes relatives à la Défense Nationale
+
+Servitudes de champ de vue instituées par la loi du 18 juillet 1895 concernant la détermination et la conservation des postes
+électro-sémaphoriques, modifiée par la loi du 27 mai 1933.
 
 Servitudes attachées à la sécurité de la navigation et à la défense des côtes instituées en application de la loi du 11
 juillet 1933.
@@ -58374,20 +58374,91 @@ public fluvial et de la navigation intérieure.
 Servitudes d'inondation pour la rétention des crues du Rhin résultant de l'application de la loi n° 91-1385 du 31 décembre
 1991 portant diverses dispositions en matière de transports.
 
-Servitudes résultant de l'application des articles 7-1 à 7-4 de la loi n° 76-663 du 19 juillet 1976 relative aux
-installations classées pour la protection de l'environnement.
+Servitudes résultant de l'application des articles L. 515-8 à L. 515-12 du code de l'environnement.
 
 Servitudes d'utilité publique instituées en application de l'article L. 211-12 du code de l'environnement.
 
+Plans de prévention des risques technologiques établis en application de l'article L. 515-15 du code de l'environnement.
+
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L54 à L56-1, R21 à R26-1, L57 à L62-1, R27 à R39, L45-1, L48
+	  - Ordonnance 58-1311 1958-12-23
+	  - Décret n°58-1316 1958-12-23
+	  - Décret n°59-96 1959-01-07
+	  - Décret n°59-645 1959-05-16
+	  - Loi n°66-1066 1966-12-31
+	  - Loi n°80-531 1980-07-15
+	  - Loi n°84-610 du 16 juillet 1984 - art. 42 (M)
+	  - Loi n°85-30 1985-01-09 art. 53
+	  - Loi n°87-954 1987-11-27
+	  - Loi n°91-1385 1991-12-31
+	  - CODE DES COMMUNES. - art. L361-1 (M)
+	  - CODE DES COMMUNES. - art. L361-4 (M)
+	  - Code forestier - art. L421-1 (V)
+	  - Code forestier - art. L432-1 (M)
+	  - Code forestier - art. L432-2 (V)
+	  - Code forestier - art. L531-1 (Ab)
+	  - Code forestier - art. L541-2 (Ab)
+	  - Code forestier L151-1 à L151-6, L411-1 à L413-1, L421-1, L432-1, L432-2, L531-1, L541-2
+	  - Code minier 71 à 73, 104-3, 94
+	  - Code de la santé publique - art. L1321-2 (M)
+	  - Code de la santé publique - art. R1321-13 (M)
+	  - Code de la santé publique L1321-2, R1321-13, L1322-3 à L1322-13
+	  - Code de l'urbanisme - art. L160-6 (M)
+	  - Code de l'urbanisme - art. L160-6-1 (V)
+	  - Code de l'urbanisme L160-6, L160-6-1, 11
+	  - Code de l'environnement - art. L211-12 (M)
+	  - Code de l'environnement - art. L211-7 (M)
+	  - Code de l'environnement - art. L215-4 (M)
+	  - Code de l'environnement - art. L215-5 (Ab)
+	  - Code de l'environnement - art. L515-15 (V)
+	  - Code de l'environnement - art. L562-1 (M)
+	  - Code de l'environnement - art. L562-6 (V)
+	  - Code de l'environnement L215-4, L215-5, L211-7, L332-1 à L332-19-1, L332-16 à L332-18, L331-1 à L331-7, L562-1, L562-6, L515-8 à L515-12, L211-12, L515-15
+	  - Code de l'aviation civile - art. L281-1 (M)
+	  - Code de l'aviation civile - art. R244-1 (M)
+	  - Code de l'aviation civile - art. R245-1 (M)
+	  - Code de l'aviation civile L281-1, R241-1 à R243-3, R245-1, R244-1, D244-1 à D244-4
+	  - Code du domaine public fluvial et de la navigation - art. 15 (M)
+	  - Code du domaine public fluvial et de la navigation - art. 16 (M)
+	  - Code du domaine public fluvial et de la navigation - art. 28 (M)
+	  - Code du domaine public fluvial et de la navigation - art. 55 (Ab)
+	  - Code rural L151-37-1, L112-2, L642-1, L642-2, 128-7, 128-9, 128-6, 138-1, 135 à 138, 424
+	  - Décret n°1935-10-30 art. 6, art. 3, art. 2
+	  - Décret n°64-158 1964-02-15
+	  - Décret n°64-481 1964-01-23 art. 25
+	  - Loi n°1791-07-08
+	  - Loi n°1819-07-17
+	  - Loi n°1845-07-15
+	  - Loi n°1851-07-10
+	  - Loi n°1895-07-18
+	  - Loi n°1906-06-15 art. 12, art. 12 bis
+	  - Loi n°1913-12-31 art. 1 à 5, art. 1, art. 13 bis
+	  - Loi n°1919-10-16 art. 4
+	  - Loi n°1925-07-13 art. 298
+	  - Loi n°1927-07-13 art. 25
+	  - Loi n°1929-08-08
+	  - Loi n°1930-05-02 art. 28, art. 17
+	  - Loi n°1933-05-27
+	  - Loi n°1933-07-11
+	  - Loi n°1941-07-08
+	  - Loi n°46-628 1946-04-08 art. 35
+	  - Loi n°58-336 du 29 mars 1958 - art. 11 (M)
+	  - Loi n°62-904 1962-08-04
+	  - Loi n°65-498 1965-06-29
+	  - Loi n°69-7 du 3 janvier 1969 - art. 4 (Ab)
+	  - Loi n°69-7 du 3 janvier 1969 - art. 5 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2005-1130 du 7 septembre 2005 - art. 13 () JORF 9 septembre 2005
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°2005-491 du 18 mai 2005 - art. 5 () JORF 19 mai 2005
 
 
 ## Liste des communes comprises dans la zone 1
