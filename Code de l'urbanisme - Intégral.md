@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2005-09-09
+Version Consolidée au 2005-10-13
 
 # Partie législative
 
@@ -54698,7 +54698,7 @@ département veillent, chacun en ce qui le concerne, à ce que les opérations q
 soient compatibles avec les orientations fixées par les directives territoriales d'aménagement et le schéma directeur de la
 région d'Ile-de-France, avec les orientations de la politique d'aménagement et de développement du territoire, ainsi qu'avec
 celles de la politique de la ville et notamment celles qui ont été approuvées en comité interministériel d'aménagement et de
-développement du territoire et en comité interministériel de la ville.
+compétitivité des territoires et et en comité interministériel de la ville.
 
 **Liens relatifs à cet article**
 
@@ -54710,9 +54710,9 @@ développement du territoire et en comité interministériel de la ville.
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-59 du 14 janvier 2002 - art. 3 () JORF 15 janvier 2002
+	  - Décret n°2005-1270 du 12 octobre 2005 - art. 7 (V) JORF 13 octobre 2005
 
 
 ###### Article R*510-8
@@ -54851,7 +54851,7 @@ b) Il entreprend toute enquête ou étude visant à définir les conditions tech
 ces services et personnes morales pourraient être en tout ou partie transférés en des points du territoire où ils
 contribueraient utilement à un développement équilibré des régions ;
 
-c) Il propose à l'approbation du comité interministériel d'aménagement et de développement du territoire des opérations de
+c) Il propose à l'approbation du comité interministériel d'aménagement et de compétitivité des territoires des opérations de
 transfert concernant des services ou personnes morales mentionnés au a. Le comité assure la coordination de ces opérations
 et, lorsqu'elles ont été approuvées par le comité interministériel d'aménagement du territoire, veille à ce qu'elles soient
 conduites à leur terme. Il peut adresser des recommandations aux services et personnes morales concernés par ces opérations.
@@ -54862,17 +54862,21 @@ conduites à leur terme. Il peut adresser des recommandations aux services et pe
 
 	  - Décret n°67-944 1967-10-24 ART. 13
 
+	**Cite**:
+
+	  - Code de l'urbanisme R510-2
+
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
 	**Modifié par**:
 
-	  - Décret n°2002-59 du 14 janvier 2002 - art. 4 () JORF 15 janvier 2002
+	  - Décret n°2005-1270 du 12 octobre 2005 - art. 7 (V) JORF 13 octobre 2005
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code de l'urbanisme R510-2
+	  - Décret n°2007-1599 du 12 novembre 2007 - art. 5 () JORF 14 novembre 2007
 
 
 ###### Article R*510-14
