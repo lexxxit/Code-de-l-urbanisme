@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2005-10-13
+Version Consolidée au 2005-10-14
 
 # Partie législative
 
@@ -16749,7 +16749,24 @@ le dépôt ;
 
 b) Dans le cas où la commune a délégué sa compétence à un établissement public de coopération intercommunale, le maire
 conserve un exemplaire de la demande, transmet un exemplaire au président de l'établissement public compétent et les autres
-exemplaires au représentant de l'Etat, dans la semaine qui suit le dépôt.
+exemplaires au représentant de l'Etat, dans la semaine qui suit le dépôt ;
+
+3° Dans le cas d'installations de production d'électricité d'origine renouvelable situées dans les eaux intérieures ou
+territoriales, raccordées au réseau public de distribution et de transport d'électricité et soumises à permis de construire,
+celui-ci est déposé dans la commune dans laquelle est installé le point de raccordement au réseau public de distribution ou
+de transport d'électricité. Pour l'instruction du permis de construire, le maire de cette commune exerce les compétences du
+maire de la commune d'assiette.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
 
 **Liens relatifs à cet article**
 
@@ -16767,13 +16784,13 @@ exemplaires au représentant de l'Etat, dans la semaine qui suit le dépôt.
 	  - Code de l'urbanisme - art. R442-4-2 (Ab)
 	  - Code de l'urbanisme - art. R460-2 (Ab)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
-
 	**Modifié par**:
 
-	  - Loi n°2004-809 du 13 août 2004 - art. 140 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2005-781 du 13 juillet 2005 - art. 38 () JORF 14 octobre 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
 
 	**Codifié par**:
 
