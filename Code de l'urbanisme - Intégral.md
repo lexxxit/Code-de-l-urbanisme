@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2006-01-06
+Version Consolidée au 2006-02-24
 
 # Partie législative
 
@@ -2498,21 +2498,24 @@ aux communes et aux groupements de communes membres de l'établissement public, 
 coopération intercommunale voisins compétents en matière d'urbanisme, au préfet, à la région, au département et aux
 organismes mentionnés à l'article L. 121-4 ainsi qu'à la commission spécialisée du comité de massif lorsque le projet
 comporte des dispositions relatives à la création d'une ou plusieurs unités touristiques nouvelles définies à l'article L.
-145-9. Ces avis sont réputés favorables s'ils n'interviennent pas dans un délai de trois mois après transmission du projet de
-schéma.
+145-9. En cas de révision ou de modification pour permettre la création d'une ou plusieurs unités touristiques nouvelles, le
+projet de révision ou de modification est soumis pour avis à la commission spécialisée du comité de massif, lorsqu'une au
+moins des unités touristiques nouvelles envisagées répond aux conditions prévues par le I de l'article L. 145-11 ou à la
+commission départementale des sites lorsque les unités touristiques nouvelles prévues répondent aux conditions prévues par le
+II du même article. Ces avis sont réputés favorables s'ils n'interviennent pas dans un délai de trois mois après transmission
+du projet de schéma.
 
 Les associations mentionnées à l'article L. 121-5 sont consultées, à leur demande, sur le projet de schéma.
 
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 3 () JORF 14 décembre 2000 en vigueur le 1er avril 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2000-1208 du 13 décembre 2000 - art. 43 (V)
-	  - SPEC_APPLI: Décret n°2001-260 du 27 mars 2001 - art. 6 (V)
+	  - Loi n°2005-157 du 23 février 2005 - art. 190 () JORF 24 février 2005 en vigueur le 24 février 2006
 
 	**Cite**:
 
@@ -2520,6 +2523,7 @@ Les associations mentionnées à l'article L. 121-5 sont consultées, à leur de
 	  - Code de l'urbanisme - art. L121-5 (M)
 	  - Code de l'urbanisme - art. L122-1 (M)
 	  - Code de l'urbanisme - art. L122-4 (M)
+	  - Code de l'urbanisme - art. L145-11 (M)
 	  - Code de l'urbanisme - art. L145-9 (M)
 
 	**Cité par**:
@@ -6838,51 +6842,48 @@ dans ces espaces correspond à une nécessité technique impérative.
 
 ###### Article L145-9
 
-Les dispositions de la présente section s'appliquent exclusivement aux unités touristiques nouvelles.
+Est considérée comme unité touristique nouvelle toute opération de développement touristique, en zone de montagne, ayant pour
+objet ou pour effet, en une ou plusieurs tranches :
 
-Est considérée comme unité touristique nouvelle toute opération de développement touristique en zone de montagne ayant pour
-objet ou pour effet :
+1° Soit de construire des surfaces destinées à l'hébergement touristique ou de créer un équipement touristique comprenant des
+surfaces de plancher ;
 
-- soit de créer une urbanisation, un équipement ou un aménagement touristique dans un site encore vierge de tout équipement,
-aménagement ou construction ;
+2° Soit de créer des remontées mécaniques ;
 
-- soit de créer une urbanisation, un équipement ou un aménagement touristique en discontinuité avec les urbanisations,
-aménagements ou équipements existants lorsque cela entraîne une modification substantielle de l'économie locale, des paysages
-ou des équilibres naturels montagnards ;
+3° Soit de réaliser des aménagements touristiques ne comprenant pas de surfaces de plancher dont la liste est fixée par
+décret en Conseil d'Etat.
 
-- soit d'entraîner, en une ou plusieurs tranches, une augmentation de la capacité d'hébergement touristique de plus de 8000
-mètres carrés de surface de plancher hors oeuvre ou de réaliser, en une ou plusieurs tranches, une extension ou un
-renforcement significatif des remontées mécaniques.
+**Nota:**
 
-Un décret en Conseil d'Etat détermine notamment les seuils financiers périodiquement réévalués, à partir desquels, selon le
-cas, cette extension ou ce renforcement significatif est considéré comme unité touristique nouvelle. Il détermine également
-la procédure applicable en cas d'urgence au remplacement des remontées mécaniques devenues inutilisables.
 
-Une unité touristique nouvelle ne peut être réalisée que dans une commune disposant d'un plan local d'urbanisme opposable aux
-tiers.
-
-Le programme d'une unité touristique nouvelle doit, en tant que de besoin, contenir des dispositions pour le logement des
-salariés de la station et pour l'accueil et l'accès aux pistes des skieurs "à la journée" non résidents.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
 	**Cité par**:
 
-	  - Loi n°85-30 du 9 janvier 1985 - art. 74 (V)
+	  - Loi n°85-30 du 9 janvier 1985 - art. 74 (VT)
 	  - Code de l'urbanisme - art. L122-1-2 (Ab)
 	  - Code de l'urbanisme - art. L122-8 (VD)
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
+	  - Loi n°2005-157 du 23 février 2005 - art. 190 () JORF 24 février 2005 en vigueur le 24 février 2006
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L122-16 (VD)
 
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code du tourisme. - art. L342-6 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 ###### Article L145-10
@@ -6919,20 +6920,59 @@ du chapitre II du titre IV du livre III du code du tourisme sont applicables aux
 
 ###### Article L145-11
 
-En l'absence de schéma de cohérence territoriale ou de schéma de secteur approuvé, la création d'une unité touristique
-nouvelle est autorisée par le représentant de l'Etat mentionné à l'article 7 de la loi n° 85-30 du 9 janvier 1985 précitée.
-Le projet est, au préalable, mis à la disposition du public et soumis pour avis à la commission spécialisée prévue par
-l'article 7 de la loi n° 85-30 du 9 janvier 1985 précitée.
+Dans les communes qui ne sont pas couvertes par un schéma de cohérence territoriale, la création et l'extension d'unités
+touristiques nouvelles sont soumises à autorisation. Le projet est préalablement mis à la disposition du public. 
 
-L'autorisation devient caduque si, dans un délai de quatre ans à compter de la notification au bénéficiaire, les équipements
-et les constructions autorisés dans le projet n'ont pas été entrepris. Ce délai s'applique aux opérations autorisées
-antérieurement à la loi n° 85-30 du 9 janvier 1985 précitée au terme d'un délai d'un an à compter de sa publication.
+I. ― L'autorisation est délivrée par le préfet coordonnateur de massif, après avis de la commission spécialisée du comité de
+massif, lorsqu'elle porte sur des remontées mécaniques qui ont pour effet la création d'un nouveau domaine skiable ou
+l'extension du domaine skiable existant au-delà d'un seuil fixé par décret en Conseil d'Etat, ou sur une opération qui
+présente un intérêt régional ou interrégional en raison de sa surface ou de sa capacité d'accueil. 
+
+II. ― L'autorisation est délivrée par le représentant de l'Etat dans le département, après avis d'une formation spécialisée
+de la commission départementale compétente en matière de nature, de paysages et des sites, lorsqu'elle porte sur une remontée
+mécanique ayant pour effet l'extension d'un domaine skiable existant au-delà d'un seuil fixé par décret en Conseil d'Etat, ou
+sur une opération qui présente un intérêt local en raison de sa situation, de sa surface ou de sa capacité d'accueil. 
+
+Le décret prévu à l'article L. 145-13 fixe notamment les seuils applicables au I et au présent II en fonction du type
+d'opération. Une autorisation n'est pas illégale du seul fait qu'elle a été délivrée par le préfet coordonnateur de massif,
+alors qu'elle porte sur un projet d'unité touristique nouvelle d'une taille inférieure au seuil fixé pour l'application du
+présent II. 
+
+III. ― La création ou l'extension d'unités touristiques nouvelles autres que celles mentionnées aux I et II n'est pas soumise
+à autorisation. 
+
+IV. ― L'autorisation peut imposer la réalisation de logements destinés aux salariés de la station, notamment aux travailleurs
+saisonniers, et prévoir des dispositions pour l'accueil et l'accès aux pistes des skieurs non résidents. 
+
+Elle devient caduque si, dans un délai de quatre ans à compter de la notification au bénéficiaire, les équipements et les
+constructions autorisés n'ont pas été entrepris. En cas de recours, le délai de caducité est suspendu pendant la durée des
+instances. Pour les opérations autorisées antérieurement à l'entrée en vigueur de la loi n° 85-30 du 9 janvier 1985 relative
+au développement et à la protection de la montagne, la date de notification à prendre en compte pour le calcul du délai de
+validité de l'autorisation est fixée au 1er janvier 1986. 
+
+L'autorisation devient également caduque, à l'égard des équipements et constructions qui n'ont pas été engagés, lorsque les
+travaux d'aménagement ou de construction ont été interrompus pendant un délai supérieur à quatre ans. Ce délai peut être
+prorogé de quatre ans renouvelables, par délibération du conseil municipal. Ce délai s'applique aux opérations autorisées
+antérieurement à la date de publication de la loi n° 2005-157 du 23 février 2005 relative au développement des territoires
+ruraux. 
+
+Les autorisations d'occupation du sol nécessaires à la réalisation de l'une des unités touristiques nouvelles prévues au I ne
+peuvent être délivrées que dans les communes dotées d'un plan local d'urbanisme. 
+
+Les autorisations d'occupation du sol nécessaires à la réalisation de l'une des unités touristiques nouvelles prévues au II
+ne peuvent être délivrées que dans les communes dotées d'une carte communale ou d'un plan local d'urbanisme.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°85-30 1985-01-09 art. 7
+	  - Loi n°85-30 du 9 janvier 1985 (V)
+	  - Loi n°2005-157 du 23 février 2005 (V)
+	  - Code de l'urbanisme - art. L145-13 (V)
 
 	**Cité par**:
 
@@ -6954,7 +6994,7 @@ antérieurement à la loi n° 85-30 du 9 janvier 1985 précitée au terme d'un d
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
+	  - Loi n°2005-157 du 23 février 2005 - art. 190 () JORF 24 février 2005 en vigueur le 24 février 2006
 
 	**Liens**:
 
