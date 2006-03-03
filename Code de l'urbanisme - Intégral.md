@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2006-02-24
+Version Consolidée au 2006-03-04
 
 # Partie législative
 
@@ -22925,19 +22925,15 @@ construction destinée à l'habitation si elle doit être édifiée à moins de 
 
 - cinquante mètres de part et d'autre de l'axe des autoroutes ;
 
-- trente-cinq mètres de part et d'autre de l'axe des routes classées à grande circulation en application de l'article R. 1 du
-code de la route (NOTA).
+- trente-cinq mètres de part et d'autre de l'axe des routes classées à grande circulation définies à l'article L. 110-3 du
+code de la route.
 
-B - Ces dispositions cessent de s'appliquer à l'intérieur des parties agglomérées, des villes et bourgs. Sera retenue comme
+B. - Ces dispositions cessent de s'appliquer à l'intérieur des parties agglomérées, des villes et bourgs. Sera retenue comme
 limite des parties agglomérées la limite de l'agglomération telle qu'elle est déterminée et materialisée en application du
 Code de la route.
 
-C - Des dérogations aux règles de recul définies ci-dessus peuvent être autorisées, en raison notamment d'une topographie
+C. - Des dérogations aux règles de recul définies ci-dessus peuvent être autorisées, en raison notamment d'une topographie
 particulière, par le préfet, sur proposition du directeur départemental de l'équipement.
-
-**Nota:**
-
-NOTA : L'article R. 1 du code de la route a été codifié sous les articles L. 110-3, R. 110-1 et R. 110-2 du même code.
 
 **Liens relatifs à cet article**
 
@@ -22946,13 +22942,9 @@ NOTA : L'article R. 1 du code de la route a été codifié sous les articles L. 
 	  - Décret n°61-1298 1961-11-30 ART. 5
 	  - Code de l'urbanisme - art. R110-5 (T)
 
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
 	**Modifié par**:
 
-	  - Décret n°98-913 du 12 octobre 1998 - art. 3 () JORF 13 octobre 1998
+	  - Décret n°2006-253 du 27 février 2006 - art. 6 () JORF 4 mars 2006
 
 	**Liens**:
 
@@ -22964,7 +22956,11 @@ NOTA : L'article R. 1 du code de la route a été codifié sous les articles L. 
 
 	**Cite**:
 
-	  - Code de la route R1
+	  - Code de la route. - art. L110-3 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R111-6
