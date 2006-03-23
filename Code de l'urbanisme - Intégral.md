@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2006-03-04
+Version Consolidée au 2006-03-24
 
 # Partie législative
 
@@ -14405,25 +14405,29 @@ précitée.
 Les propriétaires d'immeubles compris dans le périmètre d'une association foncière urbaine autorisée et n'ayant pas adhéré à
 l'association peuvent, dans le délai de trois mois à partir de la publication de la décision administrative autorisant
 l'association, délaisser ces immeubles moyennant indemnité. A défaut d'accord amiable, l'indemnité est fixée comme en matière
-d'expropriation.
+d'expropriation. 
 
 Lorsque l'association a pour objet le groupement de parcelles, il est en outre possible à tous les propriétaires d'immeubles
 compris dans le périmètre syndical de délaisser, moyennant indemnité, leurs propriétés ou leurs quote-parts de propriété sur
 les parcelles groupées, dans le délai de trois mois à partir de la publication de l'arrêté de l'autorité administrative visé
-à l'article L. 322-7 (troisième alinéa). A défaut d'accord amiable, l'indemnité est fixée comme en matière d'expropriation.
+à l'article L. 322-7 (troisième alinéa). A défaut d'accord amiable, l'indemnité est fixée comme en matière d'expropriation. 
 
 Les droits des créanciers régulièrement inscrits sur l'immeuble délaissé, soit avant la publication au bureau des hypothèques
 de l'acte de délaissement, soit postérieurement à ladite publication en ce qui concerne les privilèges conservés suivant les
-prescriptions des articles 2108 et 2109 du code civil, sont reportés sur l'indemnité de délaissement, compte tenu du rang de
-préférence qui leur est reconnu.
+prescriptions des articles 2379 et 2380 du code civil, sont reportés sur l'indemnité de délaissement, compte tenu du rang de
+préférence qui leur est reconnu. 
 
 Si l'indemnité fixée à l'amiable est inférieure au total des créances pour le recouvrement desquelles il a été pris
-inscription, les créanciers inscrits peuvent exiger que l'indemnité acceptée par leur débiteur soit soumise au juge.
+inscription, les créanciers inscrits peuvent exiger que l'indemnité acceptée par leur débiteur soit soumise au juge. 
 
 Le délaissement des biens des absents est valablement opéré par les envoyés en possession provisoire après autorisation du
 tribunal de grande instance donnée sur simple requête, le ministère public entendu.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 	**Anciens textes**:
 
@@ -14431,13 +14435,13 @@ tribunal de grande instance donnée sur simple requête, le ministère public en
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-632 du 1 juillet 2004 - art. 51 () JORF 2 juillet 2004
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006
 
 	**Cite**:
 
-	  - Code civil - art. 2108 (T)
-	  - Code civil - art. 2109 (T)
-	  - Code de l'urbanisme - art. L322-7 (M)
+	  - Code civil - art. 2379 (V)
+	  - Code civil - art. 2380 (V)
+	  - Code de l'urbanisme - art. L322-7 (V)
 
 	**Cité par**:
 
@@ -14446,10 +14450,6 @@ tribunal de grande instance donnée sur simple requête, le ministère public en
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L322-7 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L322-6
@@ -40396,55 +40396,48 @@ références (date, volume, numéro) des formalités exécutées à la conservat
 
 ###### Article R*322-21
 
-I. - Dès la clôture des opérations de remembrement et au plus tard quinze jours après la délivrance des derniers extraits
+I.-Dès la clôture des opérations de remembrement et au plus tard quinze jours après la délivrance des derniers extraits
 prévus à l'article R. 322-7, dernier alinéa, le président de l'association notifie par lettre recommandée avec demande d'avis
-de réception [*condition de forme*], à tous les titulaires de créances hypothécaires ou privilégiées inscrites que, par
-application de l'article L. 322-6 les inscriptions prises sur les immeubles compris dans le périmètre de remembrement avant
-la clôture des opérations se trouvent périmées du jour de cette clôture en tant qu'elles grèvent lesdits immeubles et qu'il
-leur appartient de procéder au renouvellement de ces inscriptions dans les conditions fixées au II du présent article.
+de réception, à tous les titulaires de créances hypothécaires ou privilégiées inscrites que, par application de l'article L.
+322-6 les inscriptions prises sur les immeubles compris dans le périmètre de remembrement avant la clôture des opérations se
+trouvent périmées du jour de cette clôture en tant qu'elles grèvent lesdits immeubles et qu'il leur appartient de procéder au
+renouvellement de ces inscriptions dans les conditions fixées au II du présent article. 
 
 Les biens antérieurement grevés et ceux qui sont transférés ou attribués à l'ancien propriétaire par l'arrêté de remembrement
-doivent être désignés de façon détaillée dans la notification.
+doivent être désignés de façon détaillée dans la notification. 
 
 La notification est faite au domicile élu par le créancier dans les documents déposés à la conservation des hypothèques ou, à
-défaut de domicile élu, au domicile indiqué dans ces documents.
+défaut de domicile élu, au domicile indiqué dans ces documents. 
 
-II. - Les inscriptions d'hypothèques ou de privilèges prises avant la clôture des opérations sur les immeubles remembrés ne
+II.-Les inscriptions d'hypothèques ou de privilèges prises avant la clôture des opérations sur les immeubles remembrés ne
 conservent leur rang antérieur sur les immeubles transférés ou attribués que si elles sont renouvelées, à la diligence de
-leur bénéficiaire, dans le délai de six mois, à dater du jour de cette clôture.
+leur bénéficiaire, dans le délai de six mois, à dater du jour de cette clôture. 
 
 En cas d'exercice d'un privilège ou d'une hypothèque sur une soulte, le renouvellement n'a lieu que pour les sommes au
-paiement desquelles l'immeuble transféré ou attribué continue d'être affecté.
+paiement desquelles l'immeuble transféré ou attribué continue d'être affecté. 
 
 Le renouvellement qui conserve le privilège ou l'hypothèque jusqu'à la date fixée par le créancier conformément aux
-dispositions de l'article 2154-I du code civil s'opère par le dépôt à la conservation des hypothèques de deux bordereaux,
-dont un exemplaire établi sous peine de rejet sur formule réglementaire, signés et certifiés exactement collationnés,
-contenant exclusivement sous peine de refus de dépôt : 
+dispositions de l'article 2434 du code civil s'opère par le dépôt à la conservation des hypothèques de deux bordereaux, dont
+un exemplaire établi sous peine de rejet sur formule réglementaire, signés et certifiés exactement collationnés, contenant
+exclusivement sous peine de refus de dépôt : 
 
-1° Les réquisitions et indications liminaires prévues à l'article 61, paragraphe I, du décret n. 55-1350 du 14 octobre
+1° Les réquisitions et indications liminaires prévues à l'article 61, paragraphe I, du décret n° 55-1350 du 14 octobre
 1955 ; 
 
 2° Une copie, certifiée collationnée par le président de l'association, de la notification faite en exécution du premier
 alinéa du présent article ; 
 
-3° La désignation des immeubles grevés ;
+3° La désignation des immeubles grevés ; 
 
 4° le nom et le domicile de la personne à laquelle le rejet doit éventuellement être notifié ; 
 
 5° Le cas échéant, le capital et les accessoires de la créance garantie, s'ils sont inférieurs à ceux qui ont fait l'objet de
-l'inscription antérieure.
+l'inscription antérieure. 
 
 La radiation des inscriptions antérieures en tant qu'elles grèvent les immeubles remembrés est effectuée par le conservateur
 des hypothèques au vu de ces bordereaux.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°55-1350 du 14 octobre 1955 - art. 61 (M)
-	  - Code civil - art. 2154 (T)
-	  - Code de l'urbanisme - art. L322-6 (M)
-	  - Code de l'urbanisme R322-7, L322-6
 
 	**Anciens textes**:
 
@@ -40452,7 +40445,13 @@ des hypothèques au vu de ces bordereaux.
 
 	**Modifié par**:
 
-	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code civil - art. 2434 (V)
+	  - Code de l'urbanisme - art. L322-6 (V)
+	  - Code de l'urbanisme - art. R*322-7 (V)
 
 	**Cité par**:
 
