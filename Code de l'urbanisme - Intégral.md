@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2006-03-26
+Version Consolidée au 2006-04-15
 
 # Partie législative
 
@@ -667,26 +667,21 @@ l'ordonnance au 1er octobre 2007.
 
 Il peut être sursis à statuer sur toute demande d'autorisation concernant des travaux, constructions ou installations dans
 les cas prévus par les articles L. 111-9 et L. 111-10 du présent titre, ainsi que par les articles L. 123-6 (dernier alinéa),
-L. 311-2 et L. 313-2 (alinéa 2).
+L. 311-2 et L. 313-2 (alinéa 2) du présent code et par l'article L. 331-6 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
+	  - Loi n°2006-436 du 14 avril 2006 - art. 25 () JORF 15 avril 2006
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code de l'urbanisme - art. L111-10 (M)
-	  - Code de l'urbanisme - art. L111-9 (M)
-	  - Code de l'urbanisme - art. L123-6 (M)
-	  - Code de l'urbanisme - art. L311-2 (Ab)
-	  - Code de l'urbanisme - art. L313-2 (M)
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L111-10 (VT)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L111-8 (M)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L111-9 (VT)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L123-5 (M)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L123-7 (V)
@@ -694,13 +689,21 @@ L. 311-2 et L. 313-2 (alinéa 2).
 
 	**Cité par**:
 
-	  - Code de l'urbanisme - art. L111-8 (M)
+	  - Code de l'urbanisme - art. L111-8 (VT)
 	  - Code de l'urbanisme - art. L421-2-2 (Ab)
 	  - Code de l'urbanisme - art. L422-5 (V)
 	  - Code de l'urbanisme - art. R*315-23 (Ab)
 	  - Code de l'urbanisme - art. R*421-22 (M)
 	  - Code de l'urbanisme - art. R*431-2 (V)
 	  - Code de l'urbanisme - art. R111-26-2 (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L111-9
+	  - Code de l'urbanisme - art. L123-6
+	  - Code de l'urbanisme - art. L311-2
+	  - Code de l'urbanisme - art. L313-2
+	  - Code de l'environnement - art. L331-6
 
 	**Codifié par**:
 
@@ -1328,8 +1331,8 @@ déterminé par décret en Conseil d'Etat.
 ###### Article L121-4
 
 L'Etat, les régions, les départements, les autorités compétentes en matière d'organisation des transports urbains et les
-organismes de gestion des parcs naturels régionaux sont associés à l'élaboration des schémas de cohérence territoriale et des
-plans locaux d'urbanisme dans les conditions définies aux chapitres II et III.
+organismes de gestion des parcs naturels régionaux et des parcs nationaux sont associés à l'élaboration des schémas de
+cohérence territoriale et des plans locaux d'urbanisme dans les conditions définies aux chapitres II et III.
 
 Il en est de même des chambres de commerce et d'industrie, des chambres de métiers, des chambres d'agriculture et, dans les
 communes littorales au sens de l'article 2 de la loi n° 86-2 du 3 janvier 1986 relative à l'aménagement, la protection et la
@@ -1347,7 +1350,7 @@ peuvent être réalisées à l'initiative des chambres de commerce et d'industri
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 3 () JORF 5 juin 2004
+	  - Loi n°2006-436 du 14 avril 2006 - art. 25 () JORF 15 avril 2006
 
 	**Cité par**:
 
@@ -1378,10 +1381,6 @@ peuvent être réalisées à l'initiative des chambres de commerce et d'industri
 	  - Code de l'urbanisme - art. L141-10 (VT)
 	  - Code de l'urbanisme - art. R*122-7 (VT)
 	  - Code rural - art. L511-3 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Directive 2001-42 2001-06-27
 
 	**Codifié par**:
 
@@ -2040,13 +2039,13 @@ compétences entre les communes, les départements, les régions et l'Etat, à c
 modalités définies au présent chapitre.
 
 Les schémas de cohérence territoriale prennent en compte les programmes d'équipement de l'Etat, des collectivités locales et
-des établissements et services publics. Ils doivent être compatibles avec les chartes des parcs naturels régionaux. Ils
-doivent également être compatibles avec les orientations fondamentales d'une gestion équilibrée de la ressource en eau et les
-objectifs de qualité et de quantité des eaux définis par les schémas directeurs d'aménagement et de gestion des eaux en
-application de l'article L. 212-1 du code de l'environnement ainsi qu'avec les objectifs de protection définis par les
-schémas d'aménagement et de gestion des eaux en application de l'article L. 212-3 du même code. Lorsqu'un de ces documents
-est approuvé après l'approbation d'un schéma de cohérence territoriale, ce dernier doit, si nécessaire, être rendu compatible
-dans un délai de trois ans.
+des établissements et services publics. Ils doivent être compatibles avec les chartes des parcs naturels régionaux et des
+parcs nationaux. Ils doivent également être compatibles avec les orientations fondamentales d'une gestion équilibrée de la
+ressource en eau et les objectifs de qualité et de quantité des eaux définis par les schémas directeurs d'aménagement et de
+gestion des eaux en application de l'article L. 212-1 du code de l'environnement ainsi qu'avec les objectifs de protection
+définis par les schémas d'aménagement et de gestion des eaux en application de l'article L. 212-3 du même code. Lorsqu'un de
+ces documents est approuvé après l'approbation d'un schéma de cohérence territoriale, ce dernier doit, si nécessaire, être
+rendu compatible dans un délai de trois ans.
 
 En zone de montagne, les schémas de cohérence territoriale définissent la localisation, la consistance et la capacité globale
 d'accueil et d'équipement des unités touristiques nouvelles mentionnées au I de l'article L. 145-11 et les principes
@@ -2068,27 +2067,14 @@ décembre 1973 d'orientation du commerce et de l'artisanat.
 
 **Nota:**
 
-NOTA : Loi 2005-157 2005-02-23 art. 194 : Les dispositions de l'article 190 II (insérant un 7me alinéa à l'article L122-1)
-entreront en vigueur à une date fixée par décret en Conseil d'Etat et au plus tard un an après la publication de la présente
-loi.
+Décret n° 2008-1212 du 24 novembre 2008 article 8 : les articles 102 et 105 de la loi n° 2008-776 du 4 août 2008 entrent en
+vigueur dès la publication du présent décret au Journal officiel de la République française.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Cite**:
-
-	  - Loi n°73-1193 du 27 décembre 1973 - art. 36-1 (M)
-	  - Loi n°83-8 1983-01-07 art. 57
-	  - Code de commerce. - art. L720-5 (M)
-	  - Code de l'urbanisme - art. L110 (M)
-	  - Code de l'urbanisme - art. L121-1 (M)
-	  - Code de l'urbanisme - art. L143-1 (M)
-	  - Code de l'urbanisme - art. L145-11 (M)
-	  - Code de l'environnement - art. L212-1 (M)
-	  - Code de l'environnement - art. L212-3 (M)
 
 	**Cité par**:
 
@@ -2117,8 +2103,7 @@ loi.
 
 	**Modifié par**:
 
-	  - Loi n°2006-11 2006-01-05 art. 36 II, III JORF 6 janvier 2006
-	  - Loi n°2006-11 du 5 janvier 2006 - art. 36 () JORF 6 janvier 2006
+	  - Loi n°2006-436 du 14 avril 2006 - art. 25 () JORF 15 avril 2006
 
 
 ###### Article L122-2
@@ -2358,6 +2343,42 @@ suivi.
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
+###### Article L122-4-1
+
+Lorsque la majorité des communes comprises dans le périmètre du schéma de cohérence territoriale sont incluses dans le
+périmètre d'un parc naturel régional, le syndicat mixte régi par l'article L. 333-3 du code de l'environnement peut, par
+dérogation aux dispositions de l'article L. 122-4 du présent code, exercer la compétence d'élaboration, de suivi et de
+révision du schéma de cohérence territoriale, à condition que les autres communes comprises dans le périmètre du schéma de
+cohérence territoriale adhèrent au syndicat mixte pour cette compétence.
+
+Seuls les communes et les établissements publics de coopération intercommunale qui adhèrent au syndicat mixte pour la
+compétence d'élaboration, de suivi et de révision du schéma de cohérence territoriale prennent part aux délibérations
+concernant le schéma.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2006-436 du 14 avril 2006 - art. 17 () JORF 15 avril 2006
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R333-14 (V)
+	  - Code de l'urbanisme - art. L122-11-1 (V)
+	  - Code de l'urbanisme - art. L122-14-2 (VD)
+	  - Code de l'urbanisme - art. L122-18 (V)
+	  - Code de l'urbanisme - art. L122-5 (V)
+	  - Code de l'urbanisme - art. L122-6 (M)
+	  - Code de l'urbanisme - art. L122-6-1 (VD)
+	  - Code de l'urbanisme - art. L122-6-2 (VD)
+	  - Code de l'urbanisme - art. L122-9 (VD)
+	  - Code de l'urbanisme - art. L124-2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
 ###### Article L122-5
 
 Lorsque le périmètre de l'établissement public prévu à l'article L. 122-4 est étendu, dans les conditions définies par le
@@ -2391,11 +2412,20 @@ appartenance à l'établissement public d'un des autres schémas. Les communes a
 établissements publics prévus à l'article L. 122-4 dont la communauté n'est pas devenue membre. Ce retrait emporte réduction
 du périmètre des schémas de cohérence territoriale correspondants.
 
+Dans le cas prévu à l'article L. 122-4-1, lorsqu'une commune ou un établissement public de coopération intercommunale
+compétent en matière de schéma de cohérence territoriale adhère, dans les conditions définies par le code général des
+collectivités territoriales, au syndicat mixte du parc naturel régional pour la compétence d'élaboration, de suivi et de
+révision du schéma de cohérence territoriale, la décision d'adhésion emporte extension du périmètre du schéma de cohérence
+territoriale. Lorsqu'une commune ou un établissement public de coopération intercommunale compétent en matière de schéma de
+cohérence territoriale se retire du syndicat mixte du parc naturel régional pour la compétence d'élaboration, de suivi et de
+révision du schéma de cohérence territoriale, la décision de retrait emporte réduction du périmètre du schéma de cohérence
+territoriale.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2002-1 du 2 janvier 2002 - art. 18 () JORF 3 janvier 2002
+	  - Loi n°2006-436 du 14 avril 2006 - art. 17 () JORF 15 avril 2006
 
 	**Cite**:
 
@@ -2403,6 +2433,7 @@ du périmètre des schémas de cohérence territoriale correspondants.
 	  - Code général des collectivités territoriales - art. L5215-22 (M)
 	  - Code général des collectivités territoriales - art. L5216-7 (Ab)
 	  - Code de l'urbanisme - art. L122-4 (M)
+	  - Code de l'urbanisme - art. L122-4-1 (V)
 
 	**Cité par**:
 
@@ -2989,7 +3020,8 @@ de cohérence territoriale, ce syndicat reste compétent jusqu'à l'approbation 
 lorsqu'il s'agit d'un schéma directeur, jusqu'à l'approbation de la révision de ce schéma mentionnée au deuxième alinéa. Les
 personnes publiques autres que les communes et les établissements publics de coopération intercommunale compétents compris
 dans le périmètre du schéma se retirent du syndicat mixte dans le délai de six mois à compter de l'approbation du schéma ou
-de sa révision. A l'issue de ce délai, le retrait est prononcé d'office par arrêté préfectoral.
+de sa révision. A l'issue de ce délai, le retrait est prononcé d'office par arrêté préfectoral. Les dispositions du présent
+alinéa ne s'appliquent toutefois pas dans le cas prévu à l'article L. 122-4-1.
 
 Lorsqu'un schéma directeur approuvé avant l'entrée en vigueur de la loi n° 2000-1208 du 13 décembre 2000 précitée ou un
 schéma directeur approuvé dans le délai d'un an à compter de l'entrée en vigueur de ladite loi en application du troisième
@@ -3010,17 +3042,15 @@ schéma de cohérence territoriale.
 	  - Code de l'urbanisme - art. L122-16 (M)
 	  - Code de l'urbanisme - art. L122-3 (M)
 	  - Code de l'urbanisme - art. L122-4 (M)
+	  - Code de l'urbanisme - art. L122-4-1 (V)
 	  - Code de l'urbanisme - art. L122-5 (M)
 	  - Code de l'urbanisme - art. L122-6 (M)
 	  - Code de l'urbanisme - art. L300-2 (M)
-	  - Code de l'urbanisme L122-5, L122-15, L122-16, L122-4, L121-4, L122-1-1 à L122-5, L122-3, L122-13, L300-2, L122-6
+	  - Code de l'urbanisme L122-5, L122-15, L122-16, L122-4, L121-4, L122-1-1 à L122-5, L122-3, L122-13, L300-2, L122-6, L122-4-1
 
 	**Modifié par**:
 
-	  - Loi n°2003-590 2003-07-02 art. 8 2°, art. 9, art. 10, art. 11 JORF 3 juillet 2003
-	  - Loi n°2003-590 du 2 juillet 2003 - art. 10 () JORF 3 juillet 2003
-	  - Loi n°2003-590 du 2 juillet 2003 - art. 11 () JORF 3 juillet 2003
-	  - Loi n°2003-590 du 2 juillet 2003 - art. 9 () JORF 3 juillet 2003
+	  - Loi n°2006-436 du 14 avril 2006 - art. 17 () JORF 15 avril 2006
 
 	**Cité par**:
 
@@ -3169,12 +3199,12 @@ des adaptations mineures rendues nécessaires par la nature du sol, la configura
 constructions avoisinantes.
 
 Le plan local d'urbanisme doit, s'il y a lieu, être compatible avec les dispositions du schéma de cohérence territoriale, du
-schéma de secteur, du schéma de mise en valeur de la mer et de la charte du parc naturel régional, ainsi que du plan de
-déplacements urbains et du programme local de l'habitat. Il doit également être compatible avec les orientations
-fondamentales d'une gestion équilibrée de la ressource en eau et les objectifs de qualité et de quantité des eaux définis par
-les schémas directeurs d'aménagement et de gestion des eaux en application de l'article L. 212-1 du code de l'environnement
-ainsi qu'avec les objectifs de protection définis par les schémas d'aménagement et de gestion des eaux en application de
-l'article L. 212-3 du même code.
+schéma de secteur, du schéma de mise en valeur de la mer et de la charte du parc naturel régional ou du parc national, ainsi
+que du plan de déplacements urbains et du programme local de l'habitat. Il doit également être compatible avec les
+orientations fondamentales d'une gestion équilibrée de la ressource en eau et les objectifs de qualité et de quantité des
+eaux définis par les schémas directeurs d'aménagement et de gestion des eaux en application de l'article L. 212-1 du code de
+l'environnement ainsi qu'avec les objectifs de protection définis par les schémas d'aménagement et de gestion des eaux en
+application de l'article L. 212-3 du même code.
 
 Lorsqu'un de ces documents est approuvé après l'approbation d'un plan local d'urbanisme, ce dernier doit, si nécessaire, être
 rendu compatible dans un délai de trois ans.
@@ -3267,7 +3297,7 @@ rendu compatible dans un délai de trois ans.
 
 	**Modifié par**:
 
-	  - Loi n°2006-11 du 5 janvier 2006 - art. 36 () JORF 6 janvier 2006
+	  - Loi n°2006-436 du 14 avril 2006 - art. 25 () JORF 15 avril 2006
 
 	**Codifié par**:
 
@@ -4035,23 +4065,13 @@ du préfet, d'une délibération approuvant le projet correspondant.
 Le préfet met également en oeuvre la procédure prévue aux deux alinéas précédents lorsque, à l'issue du délai de trois ans
 mentionné au dernier alinéa de l'article L. 123-1, le plan local d'urbanisme n'a pas été rendu compatible avec les
 orientations d'un schéma de cohérence territoriale, d'un schéma de secteur, d'un schéma de mise en valeur de la mer, d'une
-charte de parc naturel régional, d'un plan de déplacements urbains ou d'un programme local de l'habitat.
+charte de parc naturel régional ou de parc national, d'un plan de déplacements urbains ou d'un programme local de l'habitat.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Créé par**:
-
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 4 () JORF 14 décembre 2000 en vigueur le 1er avril 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2000-1208 du 13 décembre 2000 - art. 43 (V)
-	  - SPEC_APPLI: Décret n°2001-260 du 27 mars 2001 - art. 6 (V)
-	  - PILOTE_SUIVEUR: Code de l'expropriation pour cause d'utilité pu... - art. L11-4 (VT)
+	  - Loi n°2006-436 du 14 avril 2006 - art. 25 () JORF 15 avril 2006
 
 	**Cité par**:
 
@@ -4071,10 +4091,18 @@ charte de parc naturel régional, d'un plan de déplacements urbains ou d'un pro
 	  - Code de la voirie routière - art. R*151-5 (V)
 	  - Code rural - art. L112-1-1 (V)
 
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de l'expropriation pour cause d'utilité pu... - art. L11-4 (VT)
+
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L111-1-1 (M)
 	  - Code de l'urbanisme - art. L123-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L123-15
@@ -4431,19 +4459,19 @@ les approuver. A l'expiration de ce délai, le préfet est réputé les avoir ap
 tenues à la disposition du public.
 
 Elles doivent être compatibles, s'il y a lieu, avec les dispositions du schéma de cohérence territoriale, du schéma de
-secteur, du schéma de mise en valeur de la mer, de la charte du parc naturel régional, ainsi que du plan de déplacements
-urbains et du programme local de l'habitat. Elles doivent également, s'il y a lieu, être compatibles avec les orientations
-fondamentales d'une gestion équilibrée de la ressource en eau et les objectifs de qualité et de quantité des eaux définis par
-les schémas directeurs d'aménagement et de gestion des eaux en application de l'article L. 212-1 du code de l'environnement
-ainsi qu'avec les objectifs de protection définis par les schémas d'aménagement et de gestion des eaux en application de
-l'article L. 212-3 du même code. Lorsqu'un de ces documents est approuvé après l'approbation d'une carte communale, cette
-dernière doit, si nécessaire, être rendue compatible dans un délai de trois ans.
+secteur, du schéma de mise en valeur de la mer, de la charte du parc naturel régional ou du parc national, ainsi que du plan
+de déplacements urbains et du programme local de l'habitat. Elles doivent également, s'il y a lieu, être compatibles avec les
+orientations fondamentales d'une gestion équilibrée de la ressource en eau et les objectifs de qualité et de quantité des
+eaux définis par les schémas directeurs d'aménagement et de gestion des eaux en application de l'article L. 212-1 du code de
+l'environnement ainsi qu'avec les objectifs de protection définis par les schémas d'aménagement et de gestion des eaux en
+application de l'article L. 212-3 du même code. Lorsqu'un de ces documents est approuvé après l'approbation d'une carte
+communale, cette dernière doit, si nécessaire, être rendue compatible dans un délai de trois ans.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2004-338 2004-04-21 art. 7 4° JORF 22 avril 2004
+	  - Loi n°2006-436 du 14 avril 2006 - art. 25 () JORF 15 avril 2006
 
 	**Codifié par**:
 
@@ -4476,7 +4504,6 @@ dernière doit, si nécessaire, être rendue compatible dans un délai de trois 
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L123-7 (V)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L123-8 (M)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L123-9 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L125-1 (M)
 
 
 ###### Article L124-3
@@ -7956,41 +7983,47 @@ Un décret en Conseil d'Etat fixe, en tant que de besoin, les modalités d'appli
 
 Des décrets en Conseil d'Etat peuvent apporter les adaptations et prévoir les dispositions transitoires éventuellement
 nécessaires à l'application dans les départements d'outre-mer des articles L. 121-1 à L. 121-7, L. 122-1 à L. 122-17, L.
-123-1 à L. 123-18, L. 130-1 à L. 130-6 et L. 160-1 (1er alinéa).
+123-1 à L. 123-18, L. 130-1 à L. 130-6 et L. 160-1 (1er alinéa). 
 
 Les dispositions ci-après s'appliquent au lieu et place de celles de l'article L. 124-1 : les projets d'aménagement établis
 conformément à l'ordonnance n° 45-1423 du 28 juin 1945, abrogée par la loi n° 71-581 du 16 juillet 1971 (art. 21), et les
 plans d'urbanisme qui ont été approuvés et mis en vigueur au 17 juillet 1971 continueront de produire leurs effets jusqu'à ce
 qu'un plan d'occupation des sols ait été rendu public ou un plan local d'urbanisme ait été approuvé ou jusqu'à une date
-limite fixée par décret en Conseil d'Etat.
+limite fixée par décret en Conseil d'Etat. 
 
 Les dispositions des articles L. 160-6 à L. 160-8 peuvent être étendues aux départements d'outre-mer par décret en Conseil
-d'Etat avec les adaptations éventuellement nécessaires.
+d'Etat avec les adaptations éventuellement nécessaires. 
+
+Sauf mention contraire dans la charte, l'obligation de compatibilité avec la charte d'un parc national faite aux schémas de
+cohérence territoriale par l'article L. 122-1, aux plans locaux d'urbanisme par l'article L. 123-1 et aux cartes communales
+par l'article L. 124-2 n'est pas applicable à l'aire d'adhésion du parc national.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L121-1 (V)
+	  - Code de l'urbanisme - art. L122-1 (VT)
+	  - Code de l'urbanisme - art. L123-1 (VT)
+	  - Code de l'urbanisme - art. L124-1 (V)
+	  - Code de l'urbanisme - art. L124-2 (VT)
+	  - Code de l'urbanisme - art. L160-6 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L160-1 (V)
 
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
-	**Cite**:
-
-	  - Ordonnance 45-1423 1945-06-28
-	  - Loi n°71-581 du 16 juillet 1971 - art. 21, v. init.
-	  - Code de l'urbanisme - art. L124-1 (M)
-	  - Code de l'urbanisme L121-1 à L121-7, L122-1 à L122-17, L123-1 à L123-18, L130-1 à L130-6, L160-1, L124-1, L160-6 à L160-8
-
 	**Anciens textes**:
 
-	  - Loi n°71-581 1971-07-16 ART. 21 I AL. 1 ET 3 ET ART. 21 III
+	  - Loi n°71-581 1971-07-16 art. 21 I al. 1 et 3 et art. 21 III
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. L160-1 (V)
+	  - Loi n°2006-436 du 14 avril 2006 - art. 25 () JORF 15 avril 2006
 
 
 #### Chapitre VI : Dispositions particulières au littoral dans les départements d'outre-mer.
@@ -18897,8 +18930,21 @@ Si ces terrains sont desservis par un réseau public d'assainissement, les dispo
 sont applicables à leur délivrance.
 
 Un décret en Conseil d'Etat définit la résidence mobile de loisirs, l'habitation légère de loisirs et la caravane, ainsi que
-les conditions dans lesquelles elles peuvent être installées ou implantées. L'autorisation d'aménager tient, le cas échéant,
-lieu de permis de construire.
+les conditions dans lesquelles elles peuvent être installées ou implantées. Ce décret détermine les catégories de terrains
+aménagés sur lesquels les résidences mobiles de loisirs et les habitations légères de loisirs peuvent être installées ou
+implantées. Il peut prévoir des dérogations pour permettre le relogement provisoire des personnes victimes de catastrophes.
+L'autorisation d'aménager tient, le cas échéant, lieu de permis de construire.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
 
 **Liens relatifs à cet article**
 
@@ -18917,14 +18963,7 @@ lieu de permis de construire.
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 209 () JORF 14 décembre 2000
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L421-5 (M)
-	  - Code de l'urbanisme - art. L421-9 (M)
-	  - Code de l'urbanisme L421-2-1 à L421-2-8, L421-9, L421-5
+	  - Loi n°2006-437 du 14 avril 2006 - art. 31 () JORF 15 avril 2006
 
 	**Codifié par**:
 
