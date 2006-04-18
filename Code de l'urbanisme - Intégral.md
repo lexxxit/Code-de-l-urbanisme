@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2006-04-15
+Version Consolidée au 2006-04-19
 
 # Partie législative
 
@@ -4287,11 +4287,12 @@ a) D'une modification lorsqu'il n'est pas porté atteinte à l'économie génér
 c de l'article L. 123-13 ;
 
 b) D'une révision simplifiée selon les modalités définies par le huitième alinéa de l'article L. 123-13, si cette révision
-est approuvée avant le 1er janvier 2006 et si elle a pour seul objet la réalisation d'une construction ou d'une opération, à
-caractère public ou privé, présentant un intérêt général notamment pour la commune ou toute autre collectivité, ou la
-rectification d'une erreur matérielle. L'opération mentionnée à la phrase précédente peut également consister en un projet
-d'extension des zones constructibles qui ne porte pas atteinte à l'économie générale du plan d'occupation des sols et ne
-comporte pas de graves risques de nuisance ;
+est approuvée avant le 1er janvier 2010 sous réserve, lorsque le plan répond aux conditions définies par le 4° de l'article
+L. 121-10, de l'application de la procédure prévue aux articles L. 121-11 et suivants, et si elle a pour seul objet la
+réalisation d'une construction ou d'une opération, à caractère public ou privé, présentant un intérêt général notamment pour
+la commune ou toute autre collectivité, ou la rectification d'une erreur matérielle. L'opération mentionnée à la phrase
+précédente peut également consister en un projet d'extension des zones constructibles qui ne porte pas atteinte à l'économie
+générale du plan d'occupation des sols et ne comporte pas de graves risques de nuisance ;
 
 c) D'une mise en compatibilité selon les modalités définies par l'article L. 123-16.
 
@@ -4339,6 +4340,8 @@ des plans locaux d'urbanisme partiels dans les conditions définies par la derni
 	**Cite**:
 
 	  - Loi n°2000-1208 2000-12-13
+	  - Code de l'urbanisme - art. L121-10 (M)
+	  - Code de l'urbanisme - art. L121-11 (M)
 	  - Code de l'urbanisme - art. L123-1 (M)
 	  - Code de l'urbanisme - art. L123-13 (Ab)
 	  - Code de l'urbanisme - art. L123-16 (M)
@@ -4346,12 +4349,7 @@ des plans locaux d'urbanisme partiels dans les conditions définies par la derni
 	  - Code de l'urbanisme - art. L123-4 (M)
 	  - Code de l'urbanisme - art. L123-6 (M)
 	  - Code de l'urbanisme - art. L300-2 (M)
-	  - Code de l'urbanisme L123-1-1 à L123-18, L123-1, L123-13, L123-16, L123-3, L123-4, L123-6, L300-2
-
-	**Modifié par**:
-
-	  - Loi n°2003-590 du 2 juillet 2003 - art. 26 () JORF 3 juillet 2003
-	  - Loi n°2003-590 du 2 juillet 2003 - art. 27 () JORF 3 juillet 2003
+	  - Code de l'urbanisme L123-1-1 à L123-18, L123-1, L123-13, L123-16, L123-3, L123-4, L123-6, L300-2, L121-10, L121-11
 
 	**Cité par**:
 
@@ -4363,6 +4361,10 @@ des plans locaux d'urbanisme partiels dans les conditions définies par la derni
 	  - Code général des collectivités territoriales - art. L1614-9 (V)
 	  - Code général des collectivités territoriales - art. R1614-41 (M)
 	  - Code général des collectivités territoriales - art. R1614-48 (V)
+
+	**Modifié par**:
+
+	  - loi n°2006-450 du 18 avril 2006 - art. 39 (V) JORF 19 avril 2006
 
 	**Codifié par**:
 
