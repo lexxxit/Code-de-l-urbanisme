@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2006-04-19
+Version Consolidée au 2006-05-05
 
 # Partie législative
 
@@ -34006,11 +34006,11 @@ sites prêtent le serment prévu à l'article R. 160-1. Les articles R. 160-2 et
 
 ###### Article R*315-1
 
-Constitue un lotissement [*définition*] au sens du présent chapitre toute division d'une propriété foncière en vue de
-l'implantation de bâtiments qui a pour objet ou qui, sur une période de moins de dix ans, a eu pour effet de porter à plus de
-deux le nombre de terrains issus de ladite propriété. Est également soumise à autorisation de lotir prévue par le présent
-chapitre l'opération de remembrement menée par une association foncière urbaine libre régie par la loi du 21 juin 1865 et par
-le titre II du chapitre II du présent livre, lorsque le plan de remembrement délimite plus de deux lots.
+Constitue un lotissement au sens du présent chapitre toute division d'une propriété foncière en vue de l'implantation de
+bâtiments qui a pour objet ou qui, sur une période de moins de dix ans, a eu pour effet de porter à plus de deux le nombre de
+terrains issus de ladite propriété. Est également soumise à autorisation de lotir prévue par le présent chapitre l'opération
+de remembrement menée par une association foncière urbaine libre régie par l'ordonnance n° 2004-632 du 1er juillet 2004 et
+par le chapitre II du titre II du présent livre, lorsque le plan de remembrement délimite plus de deux lots.
 
 L'alinéa précédent s'applique notamment aux divisions en propriété ou en jouissance résultant de mutations à titre gratuit ou
 onéreux, de partage ou de locations, à l'exclusion toutefois des divisions résultant de partages successoraux ou d'actes
@@ -34032,21 +34032,29 @@ d) Les terrains réservés acquis par les collectivités publiques dans les cond
 
 e) Les cessions gratuites et les apports de terrains résultant de l'application des articles L. 332-6-1 (2°,e) et L. 332-10.
 
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L123-9 (M)
-	  - Code de l'urbanisme - art. L332-6-1 (M)
-	  - Loi n°1865-06-21
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
+	**Cite**:
+
+	  - Ordonnance 2004-632 2004-07-01
+	  - Code de l'urbanisme - art. L123-9 (M)
+	  - Code de l'urbanisme - art. L332-6-1 (M)
+
 	**Modifié par**:
 
-	  - Décret n°86-517 du 14 mars 1986 - art. 50 () JORF 14 mars 1986 en vigueur   le 1er juillet 1986
+	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
 ###### Article R*315-2
@@ -36313,34 +36321,36 @@ les dispositions de l'article L. 315-4.
 
 Si les modifications aux documents régissant le lotissement résultant de la décision de l'autorité compétente  rendent
 nécessaires des travaux d'équipement, l'entrée en vigueur de ces modifications est subordonnée, à défaut de la prise en
-charge des travaux par la collectivité ou par les constructeurs, à la création, dans les conditions prévues au 7° de
-l'article 1er et au titre III de la loi du 21 juin 1865, ou par l'article L. 322-2 (1°) du présent code, d'une association
-syndicale de propriétaires groupant les propriétaires des lots intéressés auxdits travaux [*conditions*].
+charge des travaux par la collectivité ou par les constructeurs, à la création, dans les conditions prévues au titre III de
+l'ordonnance n° 2004-632 du 1er juillet 2004, ou par l'article L. 322-2 (1°) du présent code, d'une association syndicale de
+propriétaires groupant les propriétaires des lots intéressés auxdits travaux.
 
 L'arrêté modificatif est publié au fichier immobilier avec indication, le cas échéant, de la condition de son entrée en
-vigueur [*publicité*].
+vigueur.
+
+**Nota:**
+
+NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-228 1984-03-29 ART. 33, ART. 34 : Modalités d'application
-	  - SPEC_APPLI: Décret n°84-228 du 29 mars 1984 - art. 33 (M)
-
-	**Modifié par**:
-
-	  - Décret n°84-228 1984-03-29 art. 25, art. 31 3 JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L315-4 (M)
-	  - Code de l'urbanisme - art. L322-2 (M)
-	  - Code de l'urbanisme L315-4, L322-2, 1
-	  - Loi n°1865-06-21
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Ordonnance 2004-632 2004-07-01
+	  - Code de l'urbanisme - art. L315-4 (M)
+	  - Code de l'urbanisme - art. L322-2 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
 ###### Article R*315-49-1
@@ -36920,1532 +36930,6 @@ NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-
-#### CHAPITRE VII : Amélioration de certains lotissements
-
-#####  Section 1 : Dispositions générales
-
-###### Article R317-1
-
-Sont considérés comme défectueux    au sens des articles L. 317-1 à L. 317-15 les lotissements entrepris avant le 11 août
-1946 comportant des constructions à usage d'habitation qu'ils aient été créés ou non à cette fin, et qui ne se trouvent pas
-placés, compte tenu de la situation des agglomérations voisines de même importance, dans des conditions normales de
-viabilité, d'assainissement et d'hygiène.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 ART. 1
-	  - Code de l'urbanisme 122 AL. 2
-
-	**Cite**:
-
-	  - Code de l'urbanisme L317-1 à L317-15
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-
-###### Article R317-2
-
-L'attribution des subventions de l'Etat ou des prêts de la caisse départementale d'aménagement des lotissements défectueux
-est subordonnée à l'approbation préalable d'un projet d'aménagement du lotissement.
-
-En vue de faciliter l'exécution des travaux ce plan peut prévoir le remembrement des parcelles. A défaut d'accord amiable, la
-commune peut acquérir, dans les conditions prévues à l'article L. 317-4 en tout ou partie, les lots invendus ou mal utilisés
-dont la disposition est nécessaire à la réalisation du remembrement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 ART. 2
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L317-4 (Ab)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R317-14 (Ab)
-
-
-#####  Section 2 : Associations syndicales et comités syndicaux
-
-#####  Paragraphe 1 : Associations syndicales
-
-###### Article R317-3
-
-Peuvent bénéficier des subventions de l'Etat et des prêts des caisses départementales les associations syndicales constituées
-conformément à la loi du 21 juin 1865 modifiée, aux décrets des 21 décembre 1926 et 18 décembre 1927 et aux dispositions
-spéciales des articles L. 317-1 à L. 317-15 [*lotissement défectueux*] et du présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme L317-1 à L317-15
-	  - Décret n°1926-12-21
-	  - Décret n°1927-12-18
-	  - Loi n°1865-06-21
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 ART. 3
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-
-###### Article R317-4
-
-Pour les terrains attribués à des participants de société d'épargne ou à des locataires avec promesse de vente, l'adhésion à
-l'association syndicale peut être donnée, à défaut du propriétaire, par le sociétaire ou le locataire avec promesse de vente.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 ART. 4
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-
-###### Article R317-5
-
-Dans le cas visé à l'article précédent, la notification de l'enquête publique, prévue à l'article 7 du décret du 18 décembre
-1927 sur les associations syndicales de propriétaires ou s'il n'est pas procédé à une enquête publique conformément à
-l'article L. 317-12 (4), la convocation à la première assemblée générale est fait à la fois au participant de société
-d'épargne ou locataire avec promesse de vente et au propriétaire ou bailleur.
-
-Il en est de même de l'arrêté préfectoral autorisant l'association syndicale.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret  1927-12-18 art. 7
-	  - Code de l'urbanisme - art. L317-12 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 ART. 5
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-
-###### Article R317-6
-
-Les modalités d'application de l'article L. 317-12 sont précisées comme suit :
-
-1. Quand le préfet convoque l'assemblée générale prévue à l'article 11 de la loi du 21 juin 1865, dans les conditions prévues
-à l'article L. 317-12, 4., il doit déposer le dossier à la mairie quinze jours au moins [*délai*] avant la date de
-l'assemblée générale. Les affiches et avis individuels de convocation doivent, dans le même cas, mentionner ce dépôt et
-précéder de quinze jours au moins la date de la réunion.
-
-2. Après la désignation des syndics, prévue à l'article L. 317-12, 5., le syndicat se réunit dès la clôture de l'assemblée
-générale, sous la présidence de son doyen d'âge, et procède à l'élection de son bureau.
-
-Ces désignations ne deviennent définitives qu'après l'autorisation de l'association.
-
-L'assemblée générale constitutive peut également adresser au préfet les demandes de subventions ou de prêts prévues au
-présent chapitre.
-
-Les demandes de subventions peuvent être instruites en même temps que la demande d'autorisation de l'association.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L317-12 (Ab)
-	  - Loi n°1865-06-21 art. 11
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 137 AL. 1 ET 5
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R317-7
-
-Lorsque l'adhésion à l'association syndicale a été donnée par le participant à une société d'épargne ou par le locataire avec
-promesse de vente, ceux-ci jouissent de tous les droits et remplissent les obligations attachées à la parcelle dont ils sont
-possesseurs.
-
-En cas d'abstention du participant à une société d'épargne ou du locataire avec promesse de vente, c'est le propriétaire qui
-est membre de l'association syndicale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 ART. 6
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-
-###### Article R317-8
-
-Les fonctions de receveur de l'association syndicale sont exercées par un comptable du Trésor nommé par le préfet sur la
-proposition du trésorier-payeur général. Sa rémunération est fixée par le préfet sur la proposition du trésorier-payeur
-général dans les limites et conditions déterminées par le ministre de l'économie et des finances.
-
-Les règles établies pour la fixation des cautionnements des percepteurs et receveurs spéciaux lui sont applicables.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 ART. 7
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-
-#####  Paragraphe 2 : Comités syndicaux
-
-###### Article R317-9
-
-L'arrêté préfectoral qui crée le comité syndical prévu à l'article L. 317-12 (7.) fixe son siège, précise son objet et les
-voies et moyens par lesquels il sera pourvu à la dépense. Il nomme le président et les membres qui peuvent, au besoin, être
-choisis en dehors des propriétaires ou locataires intéressés.
-
-Cet arrêté est, dans les quinze jours de sa date, affiché et publié dans les communes de la situation des lieux. Il est en
-outre notifié à tous les intéressés dans les conditions indiquées à l'article 7 du décret du 18 décembre 1927 sur les
-associations syndicales de propriétaires.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret  1927-12-18 art. 7
-	  - Code de l'urbanisme - art. L317-12 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 ART. 8
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-
-###### Article R317-10
-
-Un arrêté concerté du ministre de l'économie et des finances et du ministre chargé de l'urbanisme détermine les conditions
-dans lesquelles des indemnités peuvent être allouées au président et exceptionnellement aux autres membres du comité
-syndical.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 art. 9
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-
-###### Article R317-11
-
-Le comité se réunit suivant les besoins du service soit sur convocation de son président, soit sur celle du préfet.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 ART. 10
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-
-###### Article R317-12
-
-Le préfet procède au remplacement des membres du comité décédés, démissionnaires ou révoqués. Les membres du comité qui ont
-manqué[*absence*] à trois séances consécutives sans excuse reconnue valable peuvent être déclarés démissionnaires par le
-préfet.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 ART. 11
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-
-###### Article R317-13
-
-Les délibérations sont prises à la majorité des membres composant le comité. Elles sont inscrites par ordre de date sur un
-registre et paraphé par le président. Elles sont signées par les membres du comité et copie en est adressée au préfet dans la
-huitaine.
-
-S'il a été constitué une association syndicale, tous les membres de l'association ont droit de prendre communication sans
-déplacement du registre des délibérations. A défaut de constitution de l'association syndicale, le même droit appartient à
-tous les propriétaires ou occupants de terrains compris dans le plan périmétral.
-
-Les délibérations ne deviennent exécutoires qu'après approbation par le préfet. Cette approbation doit intervenir dans le
-mois à dater de la réception de la délibération à la préfecture.
-
-Le silence gardé par le préfet, après expiration du délai ci-dessus imparti, équivaut à approbation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 ART. 12
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-
-###### Article R317-14
-
-Si l'association syndicale n'a pu être formée, le projet d'aménagement du lotissement prévu à l'article R. 317-2, établi par
-le comité syndical, est soumis à l'enquête publique dans les conditions fixées par le décret n° 59-701 du 6 juin 1959. Ce
-projet contient un devis estimatif sommaire du coût des travaux. Les frais de l'enquête sont à la charge des propriétaires.
-
-**Nota:**
-
-NOTA : Le décret n° 59-701 a été abrogé (excepté son article 26) par l'article 2 du décret n° 77-393 du 28 mars 1977 et
-codifié sous les articles R. 11-3 à R. 16-4 du code l'expropriation pour cause d'utilité publique.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 art. 13
-
-	**Cite**:
-
-	  - Décret n°59-701 1959-06-06 art. 26
-	  - Décret n°77-393 du 28 mars 1977 - art. 2, v. init.
-	  - Code de l'urbanisme - art. R317-2 (Ab)
-	  - Code l'expropriation pour cause d'utilité publique R11-3 à R16-4
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°77-393 du 28 mars 1977 - art. 2 (V) JORF 14 avril 1977
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-
-###### Article R317-15
-
-Notification du dépôt en mairie du dossier portant fixation des bases de la répartition des dépenses, établi conformément aux
-dispositions de la section IV du décret du 18 décembre 1927 sur les associations syndicales de propriétaires, est adressée à
-chacun des intéressés dans les conditions prévues à l'article 7 du même décret.
-
-Dans le cas où certaines parcelles sont occupées par des participants de sociétés d'épargne ou par des locataires avec
-promesse de vente, la charge des dépenses afférentes auxdites parcelles, à défaut d'accord, incombe au propriétaire.
-
-Dans les quinze jours [*délai*] de sa date, l'arrêté préfectoral d'approbation des bases de répartition des dépenses et des
-projets de travaux est affiché dans les communes de la situation des lieux [*publicité*].
-
-L'accomplissement de cette formalité est certifié par les maires.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°1927-12-18
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 ART. 14
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-
-###### Article R317-16
-
-Le comité syndical ou, à défaut, le préfet doit, à la demande du tiers [*nombre*] des intéressés, convoquer l'assemblée
-générale en l'invitant à délibérer sur le point de savoir s'il y a lieu de constituer une association autorisée, en vue de
-l'exécution des travaux projetés par le comité.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 art. 15
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-
-###### Article R317-17
-
-Les règles relatives à la gestion financière, aux marchés, aux taxes et à la comptabilité des associations syndicales sont
-applicables aux comités syndicaux, sous réserve des dispositions de l'article R. 317-46.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 ART. 16
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R317-46 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R317-46 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-
-#####  Paragraphe 3 : Des syndicats et des syndics de la loi du 22 juillet 1912
-
-###### Article R317-18
-
-Lorsque l'aménagement du lotissement ne comporte que l'assainissement des voies privées, le bénéfice des dispositions des
-articles L. 317-1 à L. 317-15, R. 317-20 à R. 317-22, R. 317-33, R. 317-34, R. 317-36 et R. 317-40 peut être accordé à une
-association syndicale constituée sous le régime de la loi du 22 juillet 1912 relative à l'assainissement des voies privées,
-cette association syndicale étant valablement constituée dès lors qu'elle réunit le quorum prévu à l'article L. 317-12 (2.).
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 ART. 17
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L317-12 (Ab)
-	  - Code de l'urbanisme - art. R317-33 (Ab)
-	  - Code de l'urbanisme - art. R317-34 (Ab)
-	  - Code de l'urbanisme - art. R317-36 (Ab)
-	  - Code de l'urbanisme - art. R317-40 (Ab)
-	  - Code de l'urbanisme L317-1 à L317-15, R317-20 à R317-22, R317-33, R317-34, R317-36, R317-40, L317-12
-	  - Loi n°1912-07-22
-
-
-#####  Section 3 : Caisses départementales de prêts
-
-#####  Paragraphe 1 : Création et administration
-
-###### Article R317-19
-
-Le préfet propose au conseil général de constituer la caisse départementale et de pourvoir à sa dotation.
-
-La dotation de cette caisse peut être prélevée soit sur les ressources générales du budget, soit sur le produit d'emprunts
-autorisés à cet effet.
-
-La dotation est attribuée en une seule fois ou constituée par annuités.
-
-Un arrêté interministériel peut prévoir les conditions dans lesquelles le produit des taxes actuellement existantes sera
-affecté aux caisses départementales.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 ART. 18
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-
-###### Article R317-20
-
-Un décret instituant une caisse départementale d'aménagement des lotissements est rendu sur le rapport du ministre de
-l'intérieur à la demande du conseil général.
-
-Cette caisse est exclusivement chargée de consentir aux associations syndicales autorisées des prêts destinés à assurer
-l'exécution des travaux nécessaires pour placer les lotissements [*défectueux*] visés à l'article L. 317-1 dans les mêmes
-conditions de viabilité, d'assainissement et d'hygiène que les agglomérations voisines de même importance.
-
-La délibération du conseil général fixe les ressources affectées à cette caisse, dont les recettes et les dépenses sont
-l'objet d'un compte hors budget.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L317-1 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L317-1 (Ab)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 125
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R317-21
-
-Le règlement de la caisse départementale est établi par le conseil général et soumis à l'approbation du ministre de
-l'intérieur, conformément aux dispositions de l'article L. 317-6, alinéa 3. Ce règlement détermine notamment les modalités de
-contrats à intervenir entre les associations syndicales et le département pour le remboursement des emprunts, la surveillance
-et le contrôle des travaux et, ultérieurement, l'entretien des travaux.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 126
-
-	**Cite**:
-
-	  - Code de l'urbanisme L317-6 al. 3
-
-
-###### Article R317-22
-
-La caisse départementale est administrée par un conseil composé :
-
-1° Du préfet, président, ou son délégué ;
-
-2° De six conseillers généraux désignés par le conseil général ;
-
-3° De deux personnes désignées par le préfet.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 127
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R317-23
-
-Les opérations de la caisse départementale s'effectuent suivant les règles fixées pour les services hors budget
-départementaux.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 ART. 19
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-
-###### Article R317-24
-
-Les recettes de la caisse comprennent :
-
-1° La dotation allouée par le conseil général ;
-
-2° Le remboursement par les associations syndicales des prêts qui leur ont été consentis ;
-
-3° Les subventions des communes ;
-
-4° Les subventions particulières ;
-
-5° Eventuellement, les contributions, intérêts de retard et taxes spéciales imposées aux associations syndicales,
-conformément à l'article R. 317-29, 2. et 3. ;
-
-6° Les recouvrements faits sur les concessionnaires des services publics conformément à l'article L. 317-10 ;
-
-7° Les sommes récupérées ou économisées du fait des lotisseurs et tous autres ;
-
-8° Les sommes récupérées sur les parties des prêts restant à la charge des lots transférés à titre onéreux dans les
-lotissements visés à l'article L.317-7.
-
-Les dépenses de la caisse comprennent :
-
-1° Les prêts consentis aux associations syndicales ;
-
-2° Les frais de contrôle des travaux effectués par les techniciens visés au troisième alinéa de l'article R. 317-45 ;
-
-3° Les frais d'administration de la caisse ;
-
-4° Les frais des instances engagées par le préfet en vertu de l'article L. 317-11 ;
-
-5° Les dettes exigibles.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 ART. 20
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L317-10 (Ab)
-	  - Code de l'urbanisme - art. L317-11 (M)
-	  - Code de l'urbanisme - art. L317-7 (Ab)
-	  - Code de l'urbanisme - art. R317-29 (Ab)
-	  - Code de l'urbanisme - art. R317-45 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R317-25
-
-Il peut être prévu, dans la limite des ressources affectées à la caisse départementale, un crédit d'engagement pour l'octroi
-des prêts à payer en plusieurs exercices.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 ART. 21
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-
-###### Article R317-26
-
-Le préfet présente chaque année au conseil général, au cours de sa deuxième session ordinaire un rapport sur les opérations
-réalisées par la caisse au cours de l'année précédente et soumet ses propositions, pour l'ouverture au budget départemental
-de l'exercice suivant des crédits nécessaires au fonctionnement de cet organisme.
-
-La répartition et la fixation des éléments du compte hors-budget où figurent les opérations de la caisse départementale, sont
-arrêtées chaque année, avant l'ouverture du nouvel exercice, tant pour les recettes que pour les dépenses, par le conseil
-d'administration de la caisse départementale, et ce dans les limites des ressources affectées spécialement au fonctionnement
-de cette caisse.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 ART. 22
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-
-###### Article R317-27
-
-Faute par le conseil général de voter les crédits correspondant aux engagements pris pour la dotation de la caisse, il peut
-être procédé à l'inscription d'office au budget du département des crédits destinés à l'acquittement des dettes exigibles
-dans lesquelles sont comprises les sommes nécessaires au paiement des prêts accordés et non encore versés.
-
-A défaut du vote des crédits par le conseil général, ou si les crédits votés ne permettent pas d'assurer l'exécution des
-travaux, le conseil général est appelé à prononcer la suppression de la caisse. S'il s'y refuse, la suppression peut être
-prononcée par décret.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 ART. 23
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-
-###### Article R317-28
-
-En cas de suppression de la caisse, les recettes qu'elle eût encaissées, si elle avait continué d'exister, sont perçues au
-bénéfice du département, exception faite des contributions prévues à l'article R. 317-29, 1.. Le montant des prêts accordés
-et non encore versés doit figurer en dépenses au budget départemental et, au cas où le conseil général refuse d'ouvrir les
-crédits correspondants, il est procédé par voie d'inscription d'office.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 ART. 24
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R317-29 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R317-29 (Ab)
-
-
-###### Article R317-29
-
-Le règlement de la caisse départementale peut subordonner l'intervention de la caisse ;
-
-1. A l'engagement pris par les associations syndicales ou comités syndicaux d'accepter, à titre de participation aux frais de
-contrôle des travaux, une retenue ne pouvant pas excéder 1 p.100 sur les prêts et de verser à la caisse, chaque année, à
-titre de contribution à ses frais généraux, ainsi qu'aux frais des instances engagées par le préfet, en vertu de l'article L.
-317-11, une somme égale à 1 p.100 au maximum du montant des annuités de remboursement ;
-
-2. A la stipulation, dans le contrat de prêt, d'intérêts de retard, dus en cas de paiement tardif des annuités exigibles ;
-
-3. A l'inscription, dans les statuts de l'association, de l'obligation de percevoir chaque année, sur non-valeurs, 10 p.100
-au maximum en sus de chaque cotisation et de percevoir sur le montant des cotes impayées, au bout d'un an à dater de leur
-exigibilité, un intérêt de retard de 8 p.100 au plus calculé par périodes indivisibles d'une année ;
-
-4. A une caution totale ou partielle, donnée par la ou les communes comprises dans le plan périmétral, du versement régulier
-des annuités de remboursement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 ART. 25
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L317-11 (M)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R317-24 (Ab)
-	  - Code de l'urbanisme - art. R317-28 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R317-28 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-#####  Paragraphe 2 : Prêts de la caisse départementale
-
-###### Article R317-30
-
-Les associations syndicales désirant bénéficier de prêts doivent adresser au préfet du département de la situation des lieux
-une demande signée par le directeur du syndicat ou le président du comité syndical.
-
-A cette demande sont joints [*contenu*] :
-
-1. Une délibération du syndicat ou du comité syndical habilitant son directeur ou son président à la déposer ;
-
-2. Un devis estimatif de la dépense et un programme des travaux indiquant, le cas échéant, leur échelonnement sur plusieurs
-années ;
-
-3. Une délibération du syndicat ou du comité syndical fixant les sommes que l'association peut consacrer, sur ses propres
-ressources, à l'exécution des travaux ;
-
-4. Un état nominatif des intéressés désirant verser immédiatement tout ou partie des sommes qui doivent rester à leur charge
-après attribution de la subvention. Cet état indique le total de la dépense, afférente au terrain de chacun des intéressés
-ci-dessus mentionnés ;
-
-5. S'il y a lieu, le compte rendu financier des deux derniers exercices, accompagné d'une situation des recettes et des
-dépenses, établi, au jour de la demande par le receveur de l'association. Cette situation fait ressortir le montant des
-disponibilités en caisse et celui des créances exigibles ;
-
-6. Les pièces énumérées par arrêté du ministre chargé de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 ART. 26
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-
-###### Article R317-31
-
-Le dossier ainsi constitué [*demande de prêts*] est soumis pour avis au directeur départemental de l'équipement.
-
-Il est ensuite communiqué par le préfet au conseil municipal de la ou des communes intéressées qui fait connaître si la ou
-les communes entendent participer financièrement aux travaux.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 ART. 27
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-
-###### Article R317-32
-
-La caisse départementale peut, soit déterminer immédiatement le chiffre maximum du prêt à consentir à l'association
-syndicale, soit décider que ce prêt sera égal à la différence entre la subvention de l'Etat et le montant des devis,
-déduction faite des ressources de l'association, telles qu'elles résultent de l'examen du dossier.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 ART. 28
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-
-###### Article R317-33
-
-Si le total du prêt, de la subvention et des ressources propres à l'association est inférieur au montant du devis, le préfet
-soumet à nouveau le dossier à la caisse départementale qui décide s'il y a lieu de majorer le montant du prêt.
-
-Si la caisse départementale maintient le prêt au chiffre précédemment fixé, le syndicat est invité à délibérer soit sur la
-réduction de travaux, soit sur la création des ressources destinées à parfaire la différence. Aucune suite ne peut être
-donnée aux demandes de subventions et de prêts si ces réductions de travaux ne sont pas opérées ou si ces ressources
-complémentaires ne sont pas créées.
-
-La décision de la caisse doit intervenir dans le mois qui suit le retour du dossier à la préfecture [*délai*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 ART. 29
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R317-18 (Ab)
-	  - Code de l'urbanisme - art. R317-42 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R317-42 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R317-34
-
-Les contrats de prêts sont signés par le préfet. Les prêts sont versés aux associations syndicales au fur et à mesure de
-l'avancement des travaux et au prorata des dépenses justifiées.
-
-Toutefois, en cas de nécessité reconnue par le préfet, la caisse peut, dans des conditions à déterminer par son conseil
-d'administration, avancer à chaque association syndicale au maximum les huit dixièmes du montant total du prêt consenti en
-principe.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R317-18 (Ab)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 129
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-
-###### Article R317-35
-
-Les prêts de la caisse départementale d'aménagement des lotissements sont consentis aux associations syndicales au taux
-[*intérêt*] qui est déterminé conformément au règlement de la caisse et qui est toujours inférieur au moins de 2 p. 100 au
-taux des emprunts qu'elle a elle-même contractés. Au cas où elle n'a pas eu recours à l'emprunt, le taux de ces prêts ne peut
-pas être supérieur au taux consenti par l'Etat aux sociétés d'habitation à loyer modéré. Ces prêts sont remboursables en
-vingt ans [*durée*] au maximum.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 130
-
-
-#####  Section 4 : Subventions de l'Etat
-
-###### Article R317-36
-
-Les travaux d'assainissement susceptibles d'être subventionnés comprennent l'établissement des branchements particuliers
-jusqu'à la limite de la propriété.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R317-18 (Ab)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 122 AL. 2
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R317-37
-
-La demande tendant à obtenir les subventions prévues aux articles L. 317-1, L. 317-2 et L. 317-4 est, après avis du conseil
-municipal, adressée pour décision au préfet [*autorité compétente*], avec les pièces énumérées par arrêté du ministre chargé
-de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°71-172 1971-02-26 ART. 2
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L317-1 (Ab)
-	  - Code de l'urbanisme - art. L317-2 (Ab)
-	  - Code de l'urbanisme - art. L317-4 (Ab)
-
-
-###### Article R317-38
-
-Le dossier de la demande indique, le cas échéant, le montant du prêt consenti par la caisse départementale et fait connaître
-si le département ou la commune ou les deux à la fois contribueront aux frais d'aménagement et dans quelle proportion.
-
-Le dossier porte copie de la délibération du syndicat ou du comité syndical fixant les sommes que l'association syndicale
-peut consacrer sur ses propres ressources à l'exécution des travaux. Copie de l'arrêté approuvant le projet d'aménagement du
-lotissement doit également y être jointe.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 ART. 30 AL. 2 ET 3
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-
-###### Article R317-39
-
-Les lotisseurs encore propriétaires de terrains dans les lotissements visés à l'article L. 317-1 ne peuvent bénéficier de la
-subvention de l'Etat pour la part des travaux d'aménagement afférente à ces terrains.
-
-Il en est de même pour les propriétaires :
-
-De terrains, bâtis ou non bâtis, d'une superficie totale dépassant 2.000 mètres carrés ;
-
-De terrains non bâtis, sauf si ceux-ci constituent la dépendance d'une habitation desdits propriétaires dans ces
-lotissements ;
-
-De terrains bâtis mais qui ne sont pas utilisés à titre principal pour l'habitation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-495 1970-06-08 ART. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L317-1 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L317-1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R317-40
-
-Les subventions susceptibles d'être allouées et dont le taux varie conformément à l'article 18 du décret n. 72-196 du 10 mars
-1972 sont versées conformément aux dispositions de ce texte et notamment de son article 23.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-196 1972-03-10
-
-	**Cite**:
-
-	  - Décret n°72-196 1972-03-10 art. 23 et 18
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R317-18 (Ab)
-
-
-#####  Section 5 : Dispositions communes aux prêts et aux subventions
-
-###### Article R317-41
-
-Les subventions de l'Etat sont accordées par décision du préfet [*autorité compétente*].
-
-La décision préfectorale accordant une subvention indique les travaux qui ont été admis pour le calcul de la subvention et
-fixe les dates limites de commencement et d'achèvement des travaux.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 ART. 31
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-
-###### Article R317-42
-
-Les prêts consentis par la caisse départementale sont versés aux associations syndicales dans les mêmes conditions que les
-subventions.
-
-Les subventions et les prêts sont réglés soit en totalité après achèvement des travaux, soit au prorata des dépenses
-justifiées. Il n'est tenu compte ni des variations de prix intervenues depuis l'établissement du devis, ni du montant des
-marchés dans la mesure où il excéderait le montant du devis.
-
-Afin de compléter, le cas échéant, en cours d'exécution des travaux, les moyens de financement primitivement arrêtés, le
-préfet procède comme il est dit à l'article R. 317-33. Si les ressources nouvelles obtenues s'avèrent insuffisantes, une
-subvention complémentaire peut être demandée. Si elle n'est pas accordée, le syndicat est invité à opter entre une réduction
-des travaux et un rajustement des taxes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 ART. 32
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R317-33 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R317-33 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R317-43
-
-Un arrêté concerté entre le ministre de l'économie et des finances, le ministre de l'intérieur et le ministre chargé de
-l'urbanisme fixe les conditions suivant lesquelles les prêts et subventions seront ordonnancés et versés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 ART. 33
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-
-#####  Section 6 : Exécution des travaux
-
-###### Article R317-44
-
-Sauf autorisation du préfet, après avis du directeur départemental de l'équipement, aucun marché de travaux ne peut être
-passé par une association syndicale avant qu'il ait été statué sur l'allocation de la subvention.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 ART. 34
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-
-###### Article R317-45
-
-Le contrôle des travaux, de l'emploi des fonds prêtés et des subventions est assuré par le directeur départemental de
-l'équipement qui peut se rendre sur place et visiter les chantiers.
-
-Il vise les certificats administratifs nécessaires au paiement des emprunts ou subventions.
-
-Au cas où il serait exceptionnellement obligé, pour la surveillance des travaux, de se faire assister par un technicien, les
-sommes dues par l'association syndicale pour la rémunération de celui-ci seront calculées sur la base des taux fixés par un
-arrêté concerté entre le ministre de l'économie et des finances, le ministre de l'intérieur et le ministre chargé de
-l'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 ART. 35
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R317-24 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-
-###### Article R317-46
-
-Tous les travaux faisant l'objet d'une subvention ou d'un prêt sont mis en adjudication publique, à moins qu'un traité de gré
-à gré n'ait été autorisé par le préfet, après avis conforme du directeur départemental de l'équipement.
-
-Les procès-verbaux d'adjudication et les marchés sont soumis à l'approbation préfectorale. Un arrêté préfectoral fixe les
-clauses et conditions générales du cahier des charges des adjudications.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 ART. 36
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R317-17 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R317-17 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R317-47
-
-Le préfet peut décider que les travaux intéressant plusieurs communes seront mis en même temps en adjudication et fixer la
-date de cette adjudication.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 ART. 37
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-
-#####  Section 7 : Action en responsabilité
-
-###### Article R317-48
-
-Le comité de conciliation prévu à l'article L. 317-11 (2ème alinéa) comprend sous la présidence du préfet ou de son
-représentant, douze membres, savoir [*composition*] :
-
-Un conseiller général désigné par le conseil général chaque année au début de la première session ordinaire ;
-
-Le directeur départemental de l'équipement ;
-
-Le directeur départemental des services fiscaux ou son représentant ;
-
-Le directeur départemental de l'action sanitaire et sociale ou son représentant ;
-
-Un maire ;
-
-Deux membres d'association syndicale ;
-
-Deux lotisseurs ;
-
-Trois personnes qualifiées en raison de leur connaissance spéciale en la matière.
-
-Les membres du comité, autres que le conseiller général et que les représentants de l'administration, sont nommés pour trois
-ans par arrêté préfectoral. Leurs fonctions sont renouvelables.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 ART. 38
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-	**Cite**:
-
-	  - Code de l'urbanisme L317-11 al. 2
-
-
-###### Article R317-49
-
-Le comité[*conciliation*] tient ses séances à la préfecture. Il désigne son secrétaire. Il ne peut valablement siéger que si
-sept membres [*quorum*] au moins sont présents. En cas de partage égal des voix[*vote*], celle du président est
-prépondérante.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 ART. 39
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-
-###### Article R317-50
-
-Le comité[*conciliation*] se réunit sur la convocation du préfet. Les personnes qui seraient parties à l'instance à engager
-par application de l'article L. 317-11 sont convoquées devant le comité par lettre recommandée avec demande d'avis de
-réception[*condition de forme*] .
-
-La réunion du comité, après convocation des parties, interrompt tous délais de prescription. Il est fait mention de cette
-interruption sur les avis de convocation adressés aux parties.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 ART. 40
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L317-11 (M)
-
-
-###### Article R317-51
-
-Si les parties ne se présentent pas, leur défaut de comparution est mentionné au procès-verbal. Si elles se présentent, et
-selon que le comité parvient ou ne parvient pas à réaliser la conciliation, il est dressé procès-verbal de cette conciliation
-ou du défaut de conciliation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 ART. 41
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-
-###### Article R317-52
-
-Il est tenu un registre, coté et paraphé par le préfet ou son délégué, des procès-verbaux du comité de conciliation. Les
-procès-verbaux des réunions sont signés du président et du secrétaire. Le registre est communiqué sans déplacement aux
-parties intéressées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 ART. 42
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-
-###### Article R317-53
-
-Si, après examen sommaire du dossier déposé à l'appui de la demande de subvention ou de prêt, le préfet estime que le
-lotisseur, le vendeur, le bailleur ou les intermédiaires peuvent être mis en cause en ce qui concerne les travaux
-d'aménagement du lotissement, il demande au juge des référés de la situation des lieux la désignation d'un expert pour faire
-les constatations d'urgence en ce qui concerne l'état du lotissement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 ART. 43
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-
-###### Article R317-54
-
-Le préfet[*autorité compétente*] procède, par arrêté, à la répartition entre l'Etat, la caisse départementale, les
-associations syndicales et, le cas échéant, la commune des sommes encaissées à la suite de condamnations prononcées sur
-recours exercé par l'association syndicale ou par le préfet au nom du département contre les vendeurs, bailleurs ou
-intermédiaires.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°54-609 1954-06-04 art. 44
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
 
 
 #### Chapitre VIII : Dispositions relatives à certaines opérations
@@ -39655,61 +38139,58 @@ Les dispositions du présent chapitre ne peuvent être modifiées que par décre
 ###### Article R*322-1
 
 Les associations foncières urbaines ayant pour objet les opérations prévues à l'article L. 322-2 (1., 2. et 5.) sont soumises
-aux dispositions du décret du 18 décembre 1927 modifié portant règlement d'administration publique pour l'exécution de la loi
-du 21 juin 1865 et à celles des sections I à IV du présent chapitre.
+aux dispositions du décret n° 2006-504 du 3 mai 2006 et à celles des sections I à IV du présent chapitre.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°1927-12-18
-	  - Code de l'urbanisme - art. L322-2 (M)
-	  - Loi n°1865-06-21
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 	**Anciens textes**:
 
 	  - Décret n°74-203 1974-02-26 ART. 1
 
+	**Cite**:
+
+	  - Décret n°2006-504 du 3 mai 2006 (V)
+	  - Code de l'urbanisme - art. L322-2 (V)
+
 	**Modifié par**:
 
-	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*322-2 (V)
 	  - Code de l'urbanisme - art. R*730-1 (Ab)
 
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
 
 #####  Section 1 : Dispositions générales
 
 ###### Article R*322-2
 
-Les appellations syndicat, directeur, directeur adjoint utilisées dans le décret du 18 décembre 1927 sont remplacées, en ce
-qui concerne les associations mentionnées à l'article R. 322-1, respectivement par celles de conseil des syndics, président,
-vice-président.
+L'appellation " syndicat " utilisée dans le décret n° 2006-504 du 3 mai 2006 est remplacée, en ce qui concerne les
+associations mentionnées à l'article R. 322-1, par celle de " conseil des syndics ".
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 	**Anciens textes**:
 
 	  - Décret n°74-203 1974-02-26 ART. 2
 
-	**Modifié par**:
-
-	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
-
 	**Cite**:
 
-	  - Code de l'urbanisme R322-1
-	  - Décret  1927-12-18
+	  - Décret n°2006-504 du 3 mai 2006 (V)
+	  - Code de l'urbanisme - art. R*322-1 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°73-1023 1973-11-08
+	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
 
 
 ###### Article R*322-2-1
@@ -39742,29 +38223,29 @@ publiés au fichier immobilier dans les conditions et délais prévus par les d�
 
 L'engagement souscrit par une personne publique ou privée d'acquérir les immeubles ou, en cas d'immeubles en copropriété, les
 fractions d'immeubles qui auront fait l'objet d'un délaissement doit être joint au projet d'acte d'association soumis à
-l'enquête prévue à l'article 6 du décret du 18 décembre 1927, à moins que celui-ci ne prévoie que l'association y sera
-engagée.
+l'enquête prévue à l'article 12 de l'ordonnance n° 2004-632 du 1er juillet 2004, à moins que celui-ci ne prévoie que
+l'association y sera engagée. 
 
 Le préfet du département saisi d'un projet d'acte d'association l'adresse sans délai au maire afin de recueillir l'accord ou
 l'avis, selon les cas prévus à l'article L. 322-3-2, du conseil municipal. Cette formalité n'est pas obligatoire si la
 délibération du conseil municipal est jointe au projet. Lorsque l'accord du conseil municipal n'est pas exigé, son avis est
 réputé favorable s'il n'est pas émis dans le délai de deux mois à compter de la réception par le maire du projet d'acte
-d'association.
+d'association. 
 
 Dans le délai de trois mois à compter de la date de l'accord ou de l'avis du conseil municipal, le préfet du département
 prend un arrêté prescrivant l'enquête administrative et convoquant les propriétaires en assemblée générale ou, à défaut,
-notifie au demandeur les raisons pour lesquelles il estime que le dossier n'est pas susceptible d'être instruit.
+notifie au demandeur les raisons pour lesquelles il estime que le dossier n'est pas susceptible d'être instruit. 
 
 Lorsqu'un des immeubles compris dans le périmètre envisagé est régi par la loi n° 65-557 du 10 juillet 1965 fixant le statut
-de la copropriété des immeubles bâtis, la notification prévue à l'article 7 du décret du 18 décembre 1927 est faite à chacun
-des copropriétaires.
+de la copropriété des immeubles bâtis, la notification prévue à l'article 9 du décret n° 2006-504 du 3 mai 2006 est faite à
+chacun des copropriétaires. 
 
 Lorsqu'un immeuble compris dans le périmètre envisagé est en indivision, l'ensemble des indivisaires est compté pour un seul
-propriétaire.
+propriétaire. 
 
-L'autorisation prévue à l'article 11 du décret du 18 décembre 1927 est subordonnée aux conditions de majorité prescrites,
-selon le cas, aux articles L. 322-3 et L. 322-3-1. Elle intervient dans le délai de deux mois à compter de l'assemblée
-générale des propriétaires.
+L'autorisation prévue à l'article 14 de l'ordonnance n° 2004-632 du 1er juillet 2004 est subordonnée aux conditions de
+majorité prescrites, selon le cas, aux articles L. 322-3 et L. 322-3-1. Elle intervient dans le délai de deux mois à compter
+de l'assemblée générale des propriétaires. 
 
 L'acte constitutif de l'association est publié au fichier immobilier dans les conditions et délais prévus par les décrets n°
 55-22 du 4 janvier 1955 et 55-1350 du 14 octobre 1955.
@@ -39773,21 +38254,13 @@ L'acte constitutif de l'association est publié au fichier immobilier dans les c
 
 	**Cite**:
 
-	  - Décret n°55-22 1955-01-04
-	  - Décret n°55-1350 1955-10-14
-	  - Loi n°65-557 1965-07-10
-	  - Code de l'urbanisme - art. L322-3 (M)
+	  - Code de l'urbanisme - art. L322-3 (V)
 	  - Code de l'urbanisme - art. L322-3-1 (V)
-	  - Décret n°1927-12-18 art. 6, 7 et 11
-
-	**Anciens textes**:
-
-	  - Décret n°74-203 1974-02-26 ART. 3
-
-	**Modifié par**:
-
-	  - Décret n°86-517 du 14 mars 1986 - art. 29 () JORF 16 mars 1986 en vigueur le 1er avril 1986
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Code de l'urbanisme - art. L322-3-2 (V)
+	  - Loi n°65-557 du 10 juillet 1965 (V)
+	  - Ordonnance n°2004-632 du 1 juillet 2004 - art. 12 (V)
+	  - Ordonnance n°2004-632 du 1 juillet 2004 - art. 14 (V)
+	  - Décret n°2006-504 du 3 mai 2006 - art. 9 (V)
 
 	**Cité par**:
 
@@ -39797,6 +38270,14 @@ L'acte constitutif de l'association est publié au fichier immobilier dans les c
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Anciens textes**:
+
+	  - Décret n°74-203 1974-02-26 ART. 3
+
+	**Modifié par**:
+
+	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
 
 
 ###### Article R*322-5
@@ -39834,24 +38315,20 @@ administrative gérant l'association.
 
 ###### Article R*322-6
 
-Au projet d'acte d'association soumis à l'enquête prévue à l'article 6 du décret du 18 décembre 1927 doivent être joints
-[*contenu*] :
+Au projet d'acte d'association soumis à l'enquête prévue à l'article 12 de l'ordonnance n° 2004-632 du 1er juillet 2004,
+doivent être joints : 
 
 Un plan parcellaire indiquant le tracé du ou des périmètres intéressés, accompagné de l'état des propriétaires de chaque
-parcelle avant remembrement ;
+parcelle avant remembrement ; 
 
 Une notice explicative de l'utilité du remembrement des propriétés pour parvenir à une meilleure utilisation du sol eu égard
-notamment aux prescriptions d'urbanisme ;
+notamment aux prescriptions d'urbanisme ; 
 
-Une estimation du coût des études déjà réalisées et à prévoir.
+Une estimation du coût des études déjà réalisées et à prévoir. 
 
 Le cas échéant, le programme des travaux d'aménagement à exécuter par l'association et leur estimation sommaire.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°1927-12-18 art. 6
 
 	**Codifié par**:
 
@@ -39861,9 +38338,13 @@ Le cas échéant, le programme des travaux d'aménagement à exécuter par l'ass
 
 	  - Décret n°74-203 1974-02-26 art. 6
 
+	**Cite**:
+
+	  - Ordonnance n°2004-632 du 1 juillet 2004 - art. 12 (V)
+
 	**Modifié par**:
 
-	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
 
 
 ##### Paragraphe 2 : Redistribution parcellaire et fixation de l'état nouveau
@@ -40371,14 +38852,14 @@ soumises à l'enquête publique, l'approbation du plan de remembrement ne peut i
 ###### Article R*322-18
 
 L'arrêté du préfet est remis sur émargement au président de l'association le jour même de sa signature en vue des mesures de
-publicité foncière prévues au paragraphe III de la présente sous-section.
+publicité foncière prévues au paragraphe III de la présente section.
 
 Il est, en outre, publié au recueil des actes administratifs et, pendant un délai de deux mois à compter de cette
 publication, toute personne intéressée peut prendre connaissance du plan de remembrement approuvé qui est déposé en mairie.
 
-Le président de l'association notifie, par lettre recommandée avec demande d'avis de réception[*condition de forme*], aux
-titulaires de droits réels autres que les créanciers hypothécaires ou privilégiés l'extrait du plan de remembrement approuvé
-par le préfet qui les concerne.
+Le président de l'association notifie, par lettre recommandée avec demande d'avis de réception, aux titulaires de droits
+réels autres que les créanciers hypothécaires ou privilégiés l'extrait du plan de remembrement approuvé par le préfet qui les
+concerne.
 
 **Liens relatifs à cet article**
 
@@ -40392,8 +38873,7 @@ par le préfet qui les concerne.
 
 	**Modifié par**:
 
-	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le   1er avril 1986
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
 
 
 ###### Article R*322-19
@@ -40433,17 +38913,17 @@ L'association foncière urbaine ne peut être dissoute avant :
 A la date de clôture des opérations de remembrement et nonobstant tout recours juridictionnel, le président de l'association
 requiert le conservateur des hypothèques de publier l'arrêté préfectoral qui prononce les transferts et attributions de
 propriété et les reports et attributions de droits réels ainsi que, le cas échéant, les prescriptions propres à l'opération
-mentionnées à l'article R. 322-15-6°.
+mentionnées à l'article R. 322-15-6°. 
 
 A cet effet, il dépose, outre une copie, trois expéditions certifiées exactement collationnées, dont l'une est établie sur
-une formule du modèle arrêté par le directeur général des impôts et le directeur de l'aménagement foncier et de l'urbanisme,
-de l'arrêté ainsi que du tableau et des états prévus aux 2° à 5° de l'article R. 322-15 annexés audit arrêté.
+une formule du modèle arrêté par le directeur général des impôts et le directeur chargé de l'urbanisme, de l'arrêté ainsi que
+du tableau et des états prévus aux 2° à 5° de l'article R. 322-15 annexés audit arrêté. 
 
-La désignation des immeubles est faite conformément à l'article 7 du décret n. 55-22 du 4 janvier 1955 modifié.
+La désignation des immeubles est faite conformément à l'article 7 du décret n° 55-22 du 4 janvier 1955 modifié. 
 
 La désignation des propriétaires et des autres titulaires de droits réels est faite conformément aux articles 5 et 6 du
-décret n.° 55-22 du 4 janvier 1955 modifié et certifiée dans les conditions prévues aux articles 38, 81 et 82 du décret n.
-55-1350 du 14 octobre 1955 modifié sous peine de refus de dépôt.
+décret n° 55-22 du 4 janvier 1955 modifié et certifiée dans les conditions prévues aux articles 38,81 et 82 du décret n°
+55-1350 du 14 octobre 1955 modifié sous peine de refus de dépôt. 
 
 Pour assurer le renouvellement de la publicité prévu à l'article L. 322-6 l'énumération des droits réels reportés est
 complétée sous la même sanction, par l'indication des actes ou décisions judiciaires qui leur ont donné naissance, avec les
@@ -40451,20 +38931,17 @@ références (date, volume, numéro) des formalités exécutées à la conservat
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L322-6 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*322-15 (V)
+
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Cite**:
-
-	  - Décret n°55-22 du 4 janvier 1955 - art. 5 (V)
-	  - Décret n°55-22 du 4 janvier 1955 - art. 6 (M)
-	  - Décret n°55-22 du 4 janvier 1955 - art. 7 (M)
-	  - Décret n°55-1350 du 14 octobre 1955 - art. 38 (M)
-	  - Décret n°55-1350 du 14 octobre 1955 - art. 81 (V)
-	  - Décret n°55-1350 du 14 octobre 1955 - art. 82 (V)
-	  - Code de l'urbanisme - art. L322-6 (M)
-	  - Code de l'urbanisme R322-15, annexe, L322-6
 
 	**Anciens textes**:
 
@@ -40472,13 +38949,7 @@ références (date, volume, numéro) des formalités exécutées à la conservat
 
 	**Modifié par**:
 
-	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars   1986 en vigueur le 1er avril 1986
-	  - Décret n°86-517 du 14 mars 1986 - art. 37 () JORF 16 mars   1986 en vigueur le 1er avril 1986
-	  - Décret n°86-517 du 14 mars 1986 - art. 43 () JORF 16 mars   1986 en vigueur le 1er avril 1986
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*322-15 (V)
+	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
 
 
 ###### Article R*322-21
@@ -40579,21 +39050,16 @@ parties remembrées aux communes à cadastre rénové dès la publication de l'a
 
 Lorsqu'il peut être fait application de l'article L. 322-4 (1.) le projet d'arrêté du préfet portant constitution d'office
 d'une association foncière urbaine est joint au dossier d'enquête sur la constitution de l'association autorisée en vue de
-recueillir les observations éventuelles des intéressés.
+recueillir les observations éventuelles des intéressés. 
 
-A ce projet, qui comporte les indications mentionnées à l'article 74 du décret du 18 décembre 1927, sont joints :
+A ce projet, qui comporte les indications mentionnées à l'article 7 du décret n° 2006-504 du 3 mai 2006 sont joints : 
 
 Une notice explicative justifiant l'application de l'article L. 322-4 (1.) accompagnée, le cas échéant, des extraits du plan
-d'urbanisme ou du plan local d'urbanisme et du règlement d'urbanisme applicables ;
+d'urbanisme ou du plan local d'urbanisme et du règlement d'urbanisme applicables ; 
 
 Une estimation du coût de l'opération.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L322-4 (M)
-	  - Décret  1927-12-18 ART. 74
 
 	**Codifié par**:
 
@@ -40605,7 +39071,11 @@ Une estimation du coût de l'opération.
 
 	**Modifié par**:
 
-	  - Décret n°2001-260 du 27 mars 2001 - art. 3 () JORF 28 mars 2001
+	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L322-4 (V)
 
 
 ###### Article R*322-24
@@ -40641,48 +39111,46 @@ de cette commission les mêmes pouvoirs et obligations que ceux du président et
 
 ###### Article R*322-25
 
-Le projet d'acte d'association soumis à l'enquête prévue à l'article 6 du décret du 18 décembre 1927 doit préciser
-[*contenu*], les pouvoirs conférés à l'association, selon que celle-ci a pour objet :
+Le projet d'acte d'association soumis à l'enquête prévue à l'article 12 de l'ordonnance n° 2004-632 du 1er juillet 2004 doit
+préciser, les pouvoirs conférés à l'association, selon que celle-ci a pour objet : 
 
-Soit la passation du bail à construction et son exécution ;
+Soit la passation du bail à construction et son exécution ; 
 
 Soit la représentation des associés en vue de la réalisation du transfert de propriété par apport à une société de
-construction ou d'aménagement ;
+construction ou d'aménagement ; 
 
 Soit à la réalisation du transfert de propriété par vente à un établissement public ou une société de construction ou
-d'aménagement.
+d'aménagement. 
 
-A ce projet d'acte d'association doivent être joints, en sus des pièces mentionnées à l'article R. 322-3 :
+A ce projet d'acte d'association doivent être joints, en sus des pièces mentionnées à l'article R. 322-3 : 
 
-a) Une déclaration précisant la nature juridique, civile ou commerciale de la société et son objet ;
+a) Une déclaration précisant la nature juridique, civile ou commerciale de la société et son objet ; 
 
 b) Un plan parcellaire indiquant le périmètre des terrains intéressés par le projet d'association accompagné de l'état des
-propriétaires de chaque parcelle ;
+propriétaires de chaque parcelle ; 
 
 c) Une notice précisant la finalité de l'opération projetée et faisant ressortir l'utilité, tant pour les propriétaires que
-pour la commune, du groupement des parcelles, eu égard notamment aux prescriptions d'urbanisme ;
+pour la commune, du groupement des parcelles, eu égard notamment aux prescriptions d'urbanisme ; 
 
 d) Le cas échéant, une notice sur les bâtiments ou ouvrages à acquérir par l'association foncière urbaine en application de
-l'article L. 322-7 ainsi que l'estimation du coût des dépenses d'acquisition de ces constructions ;
+l'article L. 322-7 ainsi que l'estimation du coût des dépenses d'acquisition de ces constructions ; 
 
 e) Une estimation du coût des études déjà réalisées ou envisagées.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
+
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L322-7 (M)
-	  - Code de l'urbanisme R322-3, L322-7
-	  - Décret n°1927-12-18 art. 6
+	  - Code de l'urbanisme - art. L322-7 (V)
+	  - Code de l'urbanisme - art. R*322-3 (V)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 1er avril 1986
-	  - Décret n°86-517 du 14 mars 1986 - art. 38 () JORF 1er avril 1986
 
 
 ##### Paragraphe 2 : Modalités de groupement de parcelles
@@ -40690,38 +39158,34 @@ e) Une estimation du coût des études déjà réalisées ou envisagées.
 ###### Article R*322-26
 
 Le projet de groupement de parcelles en vue d'en conférer l'usage à un tiers par bail à construction comprend, en sus du
-projet de bail à construction, les pièces suivantes [*contenu*] :
+projet de bail à construction, les pièces suivantes : 
 
-a) Une déclaration précisant l'identité du preneur du bail à construction ;
+a) Une déclaration précisant l'identité du preneur du bail à construction ; 
 
 b) Une notice justifiant l'intérêt de l'opération et décrivant les principales caractéristiques du ou des immeubles dont la
-construction est envisagée ;
+construction est envisagée ; 
 
 c) Le plan de masse des constructions à édifier et éventuellement de celles à modifier, coté dans les trois dimensions, ainsi
-que la description graphique des façades ;
+que la description graphique des façades ; 
 
-d) Le certificat d'urbanisme délivré en application du b de l'article L. 410-1 ;
+d) Le certificat d'urbanisme délivré en application du deuxième alinéa de l'article L. 410-1 ; 
 
-e) Une notice sur le mode d'évaluation des parcelles et un état précisant leur valeur avant groupement ;
+e) Une notice sur le mode d'évaluation des parcelles et un état précisant leur valeur avant groupement ; 
 
-f) Le cas échéant, le projet d'état descriptif de division et le projet de règlement de copropriété ;
+f) Le cas échéant, le projet d'état descriptif de division et le projet de règlement de copropriété ; 
 
 g) Un état des dépenses faites ou à faire par l'association comprenant notamment le montant des indemnités de délaissement
 et, le cas échéant, le coût d'acquisition des bâtiments ou ouvrages existants.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°77-863 1977-07-26 art. 25 JORF 29 juillet 1977 date   d'entrée en vigueur 1 janvier 1978
-
 	**Modifié par**:
 
-	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le   1er avril 1986
+	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L410-1 (M)
+	  - Code de l'urbanisme - art. L410-1 (V)
 
 	**Cité par**:
 
@@ -40734,47 +39198,45 @@ et, le cas échéant, le coût d'acquisition des bâtiments ou ouvrages existant
 
 ###### Article R*322-27
 
-Le projet de groupement de parcelles, en vue d'en faire apport à une société de construction ou d'aménagement comprend
-[*contenu*], en sus du projet d'acte d'apport, les pièces suivantes :
+Le projet de groupement de parcelles, en vue d'en faire apport à une société de construction ou d'aménagement comprend, en
+sus du projet d'acte d'apport, les pièces suivantes : 
 
 a) Une notice justifiant l'intérêt de l'opération et décrivant les principales caractéristiques du ou des immeubles dont la
-construction est envisagée ou de l'opération d'aménagement projeté ;
+construction est envisagée ou de l'opération d'aménagement projeté ; 
 
 b) S'il s'agit de constructions, le plan masse des constructions édifiées, et éventuellement de celles à modifier, coté dans
 les trois dimensions, ainsi que la description graphique des façades ou, s'il s'agit d'un lotissement, le nombre maximum de
 lots, la surface de plancher hors oeuvre maximale dont la construction est envisagée dans le lotissement, ainsi que les
-pièces mentionnées aux d), e), f), i) et j) de l'article R. 322-5 ;
+pièces mentionnées aux d), e), f), i) et j) de l'article R. 322-5 ; 
 
-c) Le certificat d'urbanisme délivré en application du b de l'article L. 410-1 ;
+c) Le certificat d'urbanisme délivré en application du deuxième alinéa de l'article L. 410-1 ; 
 
-d) Les statuts de la société qui bénéficiera de l'apport ;
+d) Les statuts de la société qui bénéficiera de l'apport ; 
 
-e) Une notice sur le mode d'évaluation des parcelles et un état précisant leur valeur avant groupement ;
+e) Une notice sur le mode d'évaluation des parcelles et un état précisant leur valeur avant groupement ; 
 
 f) Une notice précisant les conditions de rémunération de l'apport par l'attribution aux membres de l'association de parts ou
-actions de la société ;
+actions de la société ; 
 
-g) L'état descriptif de division et le projet de règlement de copropriété ;
+g) L'état descriptif de division et le projet de règlement de copropriété ; 
 
 h) Un état des dépenses faites ou à faire par l'association comprenant notamment le montant des indemnités de délaissement
-et, le cas échéant, le coût d'acquisition des bâtiments ou ouvrages existants ;
+et, le cas échéant, le coût d'acquisition des bâtiments ou ouvrages existants ; 
 
-i) Le contrat de promotion immobilière lorsqu'il est exigé en application du titre IV de la loi n. 71-579 du 16 juillet 1971
+i) Le contrat de promotion immobilière lorsqu'il est exigé en application du titre IV de la loi n° 71-579 du 16 juillet 1971
 modifiée, ou l'écrit en tenant lieu ainsi que les devis descriptifs et les conditions d'exécution technique des travaux, les
 moyens et conditions de financement, le délai de réalisation et les éventuelles garanties de bonne fin ou d'achèvement
 relatifs, selon le cas, à l'opération de construction ou à l'opération de lotissement.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°71-579 1971-07-16
-	  - Code de l'urbanisme - art. L410-1 (M)
-	  - Code de l'urbanisme L410-1, R322-5
-
 	**Modifié par**:
 
-	  - Décret n°86-517 du 14 mars 1986 - art. 39 () JORF 16 mars 1986 en vigueur le   1er avril 1986
+	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L410-1 (V)
 
 	**Codifié par**:
 
@@ -40834,16 +39296,16 @@ l'opération projetée.
 ###### Article R*322-28-1
 
 Lorsque les associés ou seulement certains d'entre eux ont opté pour une rémunération sous forme de remise d'une ou plusieurs
-fractions d'immeubles, le projet du groupement de parcelles comprend [*contenu*], en sus des pièces prévues à l'article R.
-322-28, les pièces ci-après :
+fractions d'immeubles, le projet du groupement de parcelles comprend, en sus des pièces prévues à l'article R. 322-28, les
+pièces ci-après : 
 
 a) Une notice décrivant les principales caractéristiques du ou des immeubles dont la construction est envisagée ou de
-l'opération d'aménagement projeté ;
+l'opération d'aménagement projeté ; 
 
 b) Le plan masse des constructions à édifier et éventuellement de celles à modifier, coté dans les trois dimensions, ainsi
-que la description graphique des façades ;
+que la description graphique des façades ; 
 
-c) Le certificat d'urbanisme délivré en application du b de l'article L. 410-1 ;
+c) Le certificat d'urbanisme délivré en application du deuxième alinéa de l'article L. 410-1 ; 
 
 d) S'il s'agit de constructions, le projet de règlement de copropriété et l'état descriptif de division ou, s'il s'agit d'un
 lotissement, le nombre maximum de lots, la surface de plancher hors oeuvre maximale dont la construction est envisagée dans
@@ -40851,23 +39313,23 @@ le lotissement ainsi que les pièces mentionnées aux d), e), f), i) et j) de l'
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
 	**Modifié par**:
 
-	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
-	  - Décret n°86-517 du 14 mars 1986 - art. 48 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L410-1 (M)
-	  - Code de l'urbanisme R322-28, L410-1, R315-5
+	  - Code de l'urbanisme - art. L410-1 (V)
+	  - Code de l'urbanisme - art. R*315-5 (Ab)
+	  - Code de l'urbanisme - art. R*322-28 (V)
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*322-28-2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*322-28-2
@@ -40993,23 +39455,15 @@ décret n° 55-22 du 4 janvier 1955 et du décret n° 55-1350 du 14 octobre 1955
 
 ###### Article R*322-31
 
-Au projet d'acte d'association soumis à l'enquête prévue à l'article 6 du décret du 18 décembre 1927 doit être jointe
-[*contenu*], en sus des pièces mentionnées à l'article 10 de la loi du 21 juin 1865 et à l'article R. 322-3 :
+Au projet d'acte d'association soumis à l'enquête prévue à l'article 12 de l'ordonnance n° 2004-632 du 1er juillet 2004 doit
+être jointe, en sus des pièces mentionnées à l'article R. 322-3 : 
 
 Une notice faisant ressortir l'utilité commune tant des frais de restauration que des dépenses à exposer pour une meilleure
-utilisation de l'îlot au sens de l'article L. 312-1.
+utilisation de l'îlot au sens de l'article L. 312-1. 
 
 En outre, le projet d'acte d'association doit rappeler les dispositions de l'article L. 322-8.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L312-1 (Ab)
-	  - Code de l'urbanisme - art. L322-8 (M)
-	  - Code de l'urbanisme R322-3, L312-1, L322-8
-	  - Décret n°1927-12-18 art. 6
-	  - Loi n°1865-06-21 art. 10
 
 	**Codifié par**:
 
@@ -41019,24 +39473,27 @@ En outre, le projet d'acte d'association doit rappeler les dispositions de l'art
 
 	  - Décret n°74-203 1974-02-26 ART. 32
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°76-267 1976-03-25 JORF 27 mars 1976 rectificatif JORF    1976-06-13
+	  - Ordonnance n°2004-632 du 1 juillet 2004 - art. 12 (V)
+	  - Code de l'urbanisme - art. L312-1 (Ab)
+	  - Code de l'urbanisme - art. L322-8 (V)
+	  - Code de l'urbanisme - art. R*322-3 (V)
 
 	**Modifié par**:
 
-	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le    1er avril 1986
+	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
 
 
 ###### Article R*322-32
 
 Pour l'application des articles L. 313-2, L. 313-3 et L. 313-4, les associations autorisées prévues à la présente sous-
-section sont soumises aux dispositions des articles R. 313-4 à R. 313-20, R. 313-25 à R. 313-27 et R. 313-29 à R. 313-32.
+section sont soumises aux dispositions des articles R. 313-4 à R. 313-20, R. 313-25 à R. 313-27 et R. 313-29 à R. 313-32. 
 
-L'acceptation prévue à l'article R. 313-29 est donnée par le conseil des syndics.
+L'acceptation prévue à l'article R. 313-29 est donnée par le conseil des syndics. 
 
-Les dispositions des articles 46 à 48 et 54 à 56 du décret susvisé du 18 décembre 1927 ne sont pas applicables aux
-associations autorisées prévues à la présente sous-section.
+Les dispositions des articles 46 et 49 du décret n° 2006-504 du 3 mai 2006 ne sont pas applicables aux associations
+autorisées prévues à la présente sous-section.
 
 **Liens relatifs à cet article**
 
@@ -41044,18 +39501,22 @@ associations autorisées prévues à la présente sous-section.
 
 	  - Décret n°74-203 1974-02-26 ART. 33
 
-	**Modifié par**:
-
-	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
-
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L313-2 (M)
-	  - Code de l'urbanisme - art. L313-3 (M)
-	  - Code de l'urbanisme - art. L313-4 (M)
-	  - Code de l'urbanisme - art. R313-29 (M)
-	  - Code de l'urbanisme L313-2, L313-3, L313-4, R313-4 à R313-20, R313-25 à R313-27, R313-29 à 313-32, R313-29
-	  - Décret n°1927-12-18 art. 46 à 48, art. 54 à 56
+	  - Décret n°2006-504 du 3 mai 2006 - art. 49 (V)
+	  - Code de l'urbanisme - art. L313-2 (V)
+	  - Code de l'urbanisme - art. L313-3 (Ab)
+	  - Code de l'urbanisme - art. L313-4 (V)
+	  - Code de l'urbanisme - art. R313-20 (V)
+	  - Code de l'urbanisme - art. R313-25 (V)
+	  - Code de l'urbanisme - art. R313-27 (V)
+	  - Code de l'urbanisme - art. R313-29 (V)
+	  - Code de l'urbanisme - art. R313-32 (Ab)
+	  - Code de l'urbanisme - art. R313-4 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
 
 	**Codifié par**:
 
@@ -41067,9 +39528,9 @@ associations autorisées prévues à la présente sous-section.
 ###### Article R*322-33
 
 Lorsqu'il y a lieu à application de l'article L. 322-4 (3.) il est procédé comme il est dit aux articles 74 et 75 du décret
-du 18 décembre 1927.
+n° 2006-504 du 3 mai 2006. 
 
-L'association constituée d'office est soumise aux dispositions des articles R. 313-4 à R. 313-20, R. 313-25 à 313-27 et R.
+L'association constituée d'office est soumise aux dispositions des articles R. 313-4 à R. 313-20, R. 313-25 à R. 313-27 et R.
 313-30 à R. 313-32.
 
 **Liens relatifs à cet article**
@@ -41078,201 +39539,61 @@ L'association constituée d'office est soumise aux dispositions des articles R. 
 
 	  - Décret n°74-203 1974-02-26 ART. 34
 
-	**Modifié par**:
-
-	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
-
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L322-4 (M)
-	  - Code de l'urbanisme L322-4, R313-4 à R313-20, R313-25 à 313-27, R313-30 à R313-32
-	  - Décret n°1927-12-18 art. 74, art. 75
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-#####  Section 5 : Commission consultative
-
-###### Article R322-34
-
-Dès la création dans le département de la première association foncière urbaine ayant pour objet le remembrement ou le
-groupement de parcelles conformément aux articles L.  322-1 à L. 322-10 susvisé, la commission consultative prévue à
-l'article L. 322-6 est constituée à l'initiative du préfet.
-
-Elle comprend[*composition*] :
-
-Un juge de l'expropriation, président ;
-
-Un notaire ;
-
-Un géomètre-expert ;
-
-Le directeur des services fiscaux du département ou son représentant ;
-
-Le directeur départemental de l'équipement ou son représentant.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Anciens textes**:
-
-	  - Décret n°74-204 1974-02-26 ART. 1
+	  - Décret n°2006-504 du 3 mai 2006 - art. 75 (V)
+	  - Code de l'urbanisme - art. L322-4 (V)
+	  - Code de l'urbanisme - art. R313-20 (V)
+	  - Code de l'urbanisme - art. R313-25 (V)
+	  - Code de l'urbanisme - art. R313-27 (V)
+	  - Code de l'urbanisme - art. R313-30 (Ab)
+	  - Code de l'urbanisme - art. R313-32 (Ab)
+	  - Code de l'urbanisme - art. R313-4 (V)
 
 	**Modifié par**:
 
-	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
-
-	**Abrogé par**:
-
 	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L322-6 (M)
-	  - Code de l'urbanisme L322-1 à L322-10, L322-6
-
-
-###### Article R322-35
-
-Le juge, président, est choisi par le premier président de la cour d'appel parmi les juges de l'expropriation ou leurs
-suppléants.
-
-**Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Anciens textes**:
 
-	  - Décret n°74-204 1974-02-26 ART. 2
-
-	**Modifié par**:
-
-	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-
-###### Article R322-36
-
-Le notaire et le géomètre expert sont choisis par le premier président de la cour d'appel sur deux listes dressées à cet
-effet et comprenant, l'une cinq notaires présentés par le conseil régional des notaires, l'autre cinq géomètres experts
-présentés par le conseil régional de l'ordre des géomètres experts.
-
-Il est fait choix dans les mêmes conditions de suppléants appelés à les remplacer, notamment pour le cas où un intérêt direct
-ou indirect à une opération déterminée les contraindrait à se récuser.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Anciens textes**:
-
-	  - Décret n°74-204 1974-02-26 ART. 3
-
-	**Modifié par**:
-
-	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-
-###### Article R322-37
-
-L'arrêté du préfet portant constitution de la commission est publié au recueil des actes administratifs du département.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Anciens textes**:
-
-	  - Décret n°74-204 1974-02-26 ART. 4
-
-	**Modifié par**:
-
-	  - Décret n°86-517 du 14 mars 1986 - art. 43 () JORF 16 mars 1986
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
-
-
-#####  Section 6 : Dispositions diverses
+#####  Section 5 : Dispositions diverses
 
 ###### Article R322-38
 
-Lorsque l'association décide, en vertu de l'article R. 322-9-2, que les taxes sont régies par remise d'immeubles, la
-délibération détermine les valeurs de référence.
+Lorsque l'association décide, en vertu de l'article L. 322-9-2, que les taxes sont réglées par remise d'immeubles, la
+délibération détermine les valeurs de référence. 
 
 Une convention, passée entre l'association et l'associé, stipule notamment le montant des taxes dues et la valeur de
-l'immeuble cédé à l'association, ainsi que le délai dans lequel cette cession doit intervenir.
+l'immeuble cédé à l'association, ainsi que le délai dans lequel cette cession doit intervenir. 
 
 Le receveur de l'association est tenu informé et veille, sous sa responsabilité, à l'exécution de la convention susvisée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-517 du 14 mars 1986 - art. 44 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+	  - Décret n°2006-504 2006-05-03 art. 83 XVII, XIX JORF 5 mai 2006
+	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L322-9-2 (V)
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*730-1 (Ab)
 
-	**Cite**:
-
-	  - Code de l'urbanisme R322-9
-
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R322-39
-
-Nonobstant les dispositions de l'article 25 du décret du 18 décembre 1927, les propriétaires membres d'une association
-foncière urbaine autorisée ou constituée d'office peuvent se faire représenter à l'assemblée générale par leur conjoint,
-leurs descendants ou leurs descendants.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°1927-12-18 art. 25
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°86-517 du 14 mars 1986 - art. 44 () JORF 16 mars 1986 en vigueur le 1er avril 1986
-
-	**Abrogé par**:
-
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
 
 
 ###### Article R322-40
 
-Sous réserve que les statuts de l'association le permettent, celle-ci peut déléguer la maitrîse d'ouvrage sur les travaux
+Sous réserve que les statuts de l'association le permettent, celle-ci peut déléguer la maîtrise d'ouvrage sur les travaux
 qu'elle a pour objet d'entreprendre. La convention prévoyant cette délégation doit être approuvée par l'assemblée générale.
 
 **Liens relatifs à cet article**
@@ -41281,9 +39602,9 @@ qu'elle a pour objet d'entreprendre. La convention prévoyant cette délégation
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-517 du 14 mars 1986 - art. 44 () JORF 16 mars 1986 en vigueur le 1er avril 1986
+	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
 
 
 #### Chapitre IV : Etablissements publics fonciers
@@ -59626,15 +57947,17 @@ A. - Patrimoine naturel.
 a) Forêts.
 
 Servitudes de protection des forêts soumises au régime forestier et instituées en application des articles L. 151-1 à L.
-151-6 du code forestier.
+151-6 du code forestier (1) ;
 
 Servitudes relatives aux forêts dites de protection instituées en application des articles L. 411-1 à L. 413-1 du code
-forestier.
+forestier ;
 
 Prescriptions et interdictions auxquelles sont soumis les propriétaires en application des articles L. 421-1, L. 432-1, L.
-432-2, L. 531-1 et L. 541-2 du code forestier.
+432-2, L. 531-1 et L. 541-2 du code forestier (2) ;
 
 b) Littoral maritime.
+
+Réserves de terrains créées en application de l'article 4 de la loi n° 63-1178 du 28 novembre 1963 ;
 
 Servitude de passage sur le littoral instituée en application des articles L. 160-6 et L160-6-1 du code de l'urbanisme.
 
@@ -59650,7 +57973,7 @@ santé publique ;
 Servitudes attachées à la protection des eaux minérales instituées en application des articles L. 1322-3 à L. 1322-13 du code
 de la santé publique.
 
-d) Réserves naturelles et parcs nationaux :
+d) Réserves naturelles et parcs nationaux.
 
 Réserves naturelles instituées par l'autorité administrative en application des articles L. 332-1 à L. 332-19-1 du code de
 l'environnement ;
@@ -59669,12 +57992,12 @@ B. - Patrimoine culturel.
 a) Monuments historiques.
 
 Mesures de classement et d'inscription prises en application des articles 1er à 5 de la loi du 31 décembre 1913 modifiée sur
-les monuments historiques avec l'indication de leur étendue.
+les monuments historiques avec l'indication de leur étendue ;
 
 Périmètres de protection éventuellement délimités par décrets en Conseil d'Etat en application de l'article 1er (alinéas 2 et
-3) de la loi du 31 décembre 1913, autour des monuments historiques classés ou inscrits.
+3) de la loi du 31 décembre 1913, autour des monuments historiques classés ou inscrits ;
 
-Zones de protection des monuments historiques créées en application de l'article 28 de la loi du 2 mai 1930 modifiée.
+Zones de protection des monuments historiques créées en application de l'article 28 de la loi du 2 mai 1930 modifiée (3) 
 
 Périmètres de protection des monuments historiques classés ou inscrits et portés sur la liste visée ci-dessus, tels qu'ils
 résultent des dispositions combinées des articles 1er et 13 bis de la loi du 31 décembre 1913.
@@ -59685,7 +58008,7 @@ Sites inscrits ;
 
 Sites classés ;
 
-Zones de protection des sites créées en application de l'article 17 de la loi du 2 mai 1930 modifiée.
+Zones de protection des sites créées en application de l'article 17 de la loi du 2 mai 1930 modifiée (3).
 
 c) patrimoine architectural et urbain.
 
@@ -59722,7 +58045,7 @@ c) Hydrocarbures.
 
 Servitudes relatives à la construction et à l'exploitation de pipe-lines d'intérêt général instituées en application de
 l'article 11 de la loi n° 58-336 du 29 mars 1958 et du décret n° 59-645 du 16 mai 1959 pris pour l'application dudit article
-11.
+11 ;
 
 d) Chaleur :
 
@@ -59731,7 +58054,7 @@ Servitudes relatives aux canalisations de transport et de distribution de chaleu
 
 B. - Mines et carrières.
 
-Périmètres à l'intérieur desquels sont applicables les dispositions des articles 71 à 73 du code minier.
+Périmètres à l'intérieur desquels sont applicables les dispositions des articles 71 à 73 du code minier ;
 
 Servitudes relatives à la protection des stockages souterrains de gaz naturel, d'hydrocarbures liquides, liquéfiés ou gazeux
 ou de produits chimiques à destination industrielle prévues à l'article 104-3 (I et II) du code minier.
@@ -59745,24 +58068,24 @@ produits chimiques, instituées en application de la loi n° 65-498 du 29 juin 1
 
 b) Eaux et assainissement.
 
-Zones où ont été instituées, en application de la loi n° 62-904 du 4 août 1962 et du décret n° 64-158 du 15 février 1964, les
+Zones où ont été instituées, en application de la loi n° 62-904 du 4 août 1962 et du décret n° 64-153 du 15 février 1964, les
 servitudes attachées aux canalisations publiques d'eau et d'assainissement.
 
 Servitudes attachées à l'établissement des canalisations souterraines d'irrigation instituées en application des articles
-128-7 et 128-9 du code rural.
+128-7 et 128-9 du code rural (4) ;
 
 Servitudes de passage des engins mécaniques d'entretien et de dépôt des produits de curage et faucardement attachées aux
-canaux d'irrigation et émissaires d'assainissement instituées en application des articles 128-6 et 138-1 du code rural.
+canaux d'irrigation et émissaires d'assainissement instituées en application des articles 128-6 et 138-1 du code rural (5) ;
 
 Servitudes d'écoulement des eaux nuisibles attachées aux travaux d'assainissement des terres par le drainage instituées en
-application des articles 135 à 138 du code rural.
+application des articles 135 à 138 du code rural (6).
 
 D. - Communications.
 
 a) Cours d'eau.
 
 Servitudes de halage et de marchepied instituées par les articles 15, 16 et 28 du code du domaine public fluvial et de la
-navigation intérieure et par l'article 424 du code rural.
+navigation intérieure et par l'article 424 du code rural (7).
 
 b) Navigation maritime.
 
@@ -59775,31 +58098,31 @@ Zones auxquelles s'appliquent les servitudes instituées par :
 
 La loi du 15 juillet 1845 sur la police des chemins de fer ;
 
-L'article 6 du décret du 30 octobre 1935 modifié portant création de servitudes de visibilité sur les voies publiques ;
+L'article 6 du décret du 30 octobre 1935 modifié portant création de servitudes de visibilité sur les voies publiques (8) ;
 
 La loi n° 66-1066 du 31 décembre 1966 établissant des servitudes au profit des lignes de transport public par véhicules
-guidés sur coussins d'air (aérotrains) ;
+guidés sur coussins d'air (aérotrains).
 
 d) Réseau routier.
 
 Servitudes instituées en application de l'article 3 du décret du 30 octobre 1935 portant création de servitudes de visibilité
-sur les voies publiques.
+sur les voies publiques (9) ;
 
 Servitudes grevant les terrains nécessaires aux routes nationales et aux autoroutes instituées en application de l'ordonnance
-n° 58-1311 du 23 décembre 1958 et du décret n° 58-1316 du 23 décembre 1958.
+n° 58-1311 du 23 décembre 1958 et du décret n° 58-1316 du 23 décembre 1958 ;
 
-Servitudes attachées à l'alignement des voies nationales, départementales ou communales.
+Servitudes attachées à l'alignement des voies nationales, départementales ou communales ;
 
 Servitudes relatives aux interdictions d'accès grevant les propriétés limitrophes des routes express et des déviations
-d'agglomérations en application des articles 4 et 5 de la loi n° 69-7 du 3 janvier 1969.
+d'agglomérations en application des articles 4 et 5 de la loi n° 69-7 du 3 janvier 1969 (10).
 
 e) Circulation aérienne.
 
 Servitudes aéronautiques de dégagement et de balisage instituées en application des articles L. 281-1 et R. 241-1 à R. 243-3
-du code de l'aviation civile.
+du code de l'aviation civile ;
 
 Servitudes grevant les terrains nécessaires aux besoins de la navigation aérienne instituées en application de l'article R.
-245-1 du code de l'aviation civile.
+245-1 du code de l'aviation civile ;
 
 Servitudes établies à l'extérieur des zones de dégagement en application des articles R. 244-1 et D. 244-1 à D. 244-4 du code
 de l'aviation civile.
@@ -59811,38 +58134,43 @@ Zones auxquelles s'applique la servitude de survol instituée par la loi du 8 ju
 Servitudes instituées en application de l'article 53 de la loi n° 85-30 du 9 janvier 1985 relative au développement et à la
 protection de la montagne.
 
+g) Associations syndicales autorisées, associations syndicales constituées d'office et leurs unions :
+
+Servitudes de passage pour l'entretien d'ouvrages instituées en application du second alinéa de l'article 28 de l'ordonnance
+n° 2004-632 du 1er juillet 2004.
+
 E. - Télécommunications.
 
 Servitudes de protection des centres radio-électriques d'émission et de réception contre les obstacles instituées en
-application des articles L. 54 à L. 56-1 et R. 21 à R. 26-1 du code des postes et télécommunications.
+application des articles L. 54 à L. 56-1 et R. 21 à R. 26-1 du code des postes et des communications électroniques ;
 
 Servitudes de protection des centres de réception radio-électriques contre les perturbations électromagnétiques instituées en
-application des articles L. 57 à L. 62-1 et R. 27 à R. 39 du code des postes et télécommunications.
+application des articles L. 57 à L. 62-1 et R. 27 à R. 39 du code des postes et des communications électroniques ;
 
 Servitudes attachées aux réseaux de télécommunications instituées en application des articles L. 45-1 et L. 48 du code des
-postes et télécommunications.
+postes et des communications électroniques.
 
 III -  Servitudes relatives à la Défense Nationale
 
 Servitudes de champ de vue instituées par la loi du 18 juillet 1895 concernant la détermination et la conservation des postes
-électro-sémaphoriques, modifiée par la loi du 27 mai 1933.
+électro-sémaphoriques, modifiée par la loi du 27 mai 1933 ;
 
 Servitudes attachées à la sécurité de la navigation et à la défense des côtes instituées en application de la loi du 11
-juillet 1933.
+juillet 1933 ;
 
 Zones et polygones d'isolement créés en application de la loi du 8 août 1929 concernant les servitudes autour des magasins et
 établissements servant à la conservation, à la manipulation ou à la fabrication des poudres, munitions, artifices ou
-explosifs.
+explosifs ;
 
 Servitudes concernant l'établissement de terrains d'atterrissage destinés en partie ou en totalité à l'armée de l'air
-instituées en application du décret du 30 octobre 1935.
+instituées en application du décret du 30 octobre 1935 ;
 
 Servitudes relatives aux fortifications, places fortes, postes et ouvrages militaires instituées en application des lois du 8
-juillet 1791, 17 juillet 1819 et 10 juillet 1851.
+juillet 1791, 17 juillet 1819 et 10 juillet 1851 ;
 
 Servitudes aux abords des champs de tir créées en application de l'article 25 de la loi du 13 juillet 1927.
 
-IV - Servitudes relatives à la salubrité et à la sécurité publique
+IV - Servitudes relatives à la salubrité et à la sécurité publiques
 
 A. - Salubrité publique.
 
@@ -59850,9 +58178,9 @@ a) Cimetières.
 
 Servitudes relatives aux cimetières instituées par :
 
-L'article L. 361-1 du code des communes ;
+L'article L. 361-1 du code des communes (11) ;
 
-L'article L. 361-4 du code des communes.
+L'article L. 361-4 du code des communes (12).
 
 b) Etablissements conchylicoles.
 
@@ -59863,102 +58191,60 @@ ostréicoles.
 B. - Sécurité publique
 
 Plans de prévention des risques naturels prévisibles établis en application de l'article L. 562-1 du code de l'environnement,
-ou plans de prévention des risques miniers établis en application de l'article 94 du code minier.
+ou plans de prévention des risques miniers établis en application de l'article 94 du code minier ;
 
 Documents valant plans de prévention des risques naturels prévisibles en application de l'article L. 562-6 du code  de
-l'environnement.
+l'environnement ;
 
 Servitudes instituées, en ce qui concerne la Loire et ses affluents, par les articles 55 et suivants du code du domaine
-public fluvial et de la navigation intérieure.
+public fluvial et de la navigation intérieure ;
 
 Servitudes d'inondation pour la rétention des crues du Rhin résultant de l'application de la loi n° 91-1385 du 31 décembre
-1991 portant diverses dispositions en matière de transports.
+1991 portant diverses dispositions en matière de transports ;
 
-Servitudes résultant de l'application des articles L. 515-8 à L. 515-12 du code de l'environnement.
+Servitudes résultant de l'application des articles L. 515-8 à L. 515-12 du code de l'environnement ;
 
-Servitudes d'utilité publique instituées en application de l'article L. 211-12 du code de l'environnement.
+Servitudes d'utilité publique instituées en application de l'article L. 211-12 du code de l'environnement ;
 
 Plans de prévention des risques technologiques établis en application de l'article L. 515-15 du code de l'environnement.
 
+**Nota:**
+
+NOTA :
+
+(1) Articles abrogés par l'article 72 de la loi n° 2001-602.
+
+(2) Les articles L. 531-1 et L. 541-2 sont abrogés par l'article 72 de la loi n° 2001-602.
+
+(3) Article abrogé par l'article 72 de la loi n° 83-8.
+
+(4) Articles devenus L. 152-3 à L. 152-6 du code rural.
+
+(5) Articles devenus L. 152-7 et L. 152-13 du code rural.
+
+(6) Articles abrogés.
+
+(7) Article devenu L. 235-9 du code rural.
+
+(8) Article abrogé, voir l'article L. 114-6 du code de la voirie routière.
+
+(9) Article abrogé, voir l'article L. 114-3 du code de la voirie routière.
+
+(10) Articles abrogés, voir les articles L. 151-3 et L. 152-1 du code de la voirie routière.
+
+(11) Article abrogé, voir l'article L. 2223-1 du code général des collectivités territoriales.
+
+(12) Article abrogé, voir l'article L. 2223-5 du code général des collectivités territoriales.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des postes et télécommunications L54 à L56-1, R21 à R26-1, L57 à L62-1, R27 à R39, L45-1, L48
-	  - Ordonnance 58-1311 1958-12-23
-	  - Décret n°58-1316 1958-12-23
-	  - Décret n°59-96 1959-01-07
-	  - Décret n°59-645 1959-05-16
-	  - Loi n°66-1066 1966-12-31
-	  - Loi n°80-531 1980-07-15
-	  - Loi n°84-610 du 16 juillet 1984 - art. 42 (M)
-	  - Loi n°85-30 1985-01-09 art. 53
-	  - Loi n°87-954 1987-11-27
-	  - Loi n°91-1385 1991-12-31
-	  - CODE DES COMMUNES. - art. L361-1 (M)
-	  - CODE DES COMMUNES. - art. L361-4 (M)
-	  - Code forestier - art. L421-1 (V)
-	  - Code forestier - art. L432-1 (M)
-	  - Code forestier - art. L432-2 (V)
-	  - Code forestier - art. L531-1 (Ab)
-	  - Code forestier - art. L541-2 (Ab)
-	  - Code forestier L151-1 à L151-6, L411-1 à L413-1, L421-1, L432-1, L432-2, L531-1, L541-2
-	  - Code minier 71 à 73, 104-3, 94
-	  - Code de la santé publique - art. L1321-2 (M)
-	  - Code de la santé publique - art. R1321-13 (M)
-	  - Code de la santé publique L1321-2, R1321-13, L1322-3 à L1322-13
-	  - Code de l'urbanisme - art. L160-6 (M)
-	  - Code de l'urbanisme - art. L160-6-1 (V)
-	  - Code de l'urbanisme L160-6, L160-6-1, 11
-	  - Code de l'environnement - art. L211-12 (M)
-	  - Code de l'environnement - art. L211-7 (M)
-	  - Code de l'environnement - art. L215-4 (M)
-	  - Code de l'environnement - art. L215-5 (Ab)
-	  - Code de l'environnement - art. L515-15 (V)
-	  - Code de l'environnement - art. L562-1 (M)
-	  - Code de l'environnement - art. L562-6 (V)
-	  - Code de l'environnement L215-4, L215-5, L211-7, L332-1 à L332-19-1, L332-16 à L332-18, L331-1 à L331-7, L562-1, L562-6, L515-8 à L515-12, L211-12, L515-15
-	  - Code de l'aviation civile - art. L281-1 (M)
-	  - Code de l'aviation civile - art. R244-1 (M)
-	  - Code de l'aviation civile - art. R245-1 (M)
-	  - Code de l'aviation civile L281-1, R241-1 à R243-3, R245-1, R244-1, D244-1 à D244-4
-	  - Code du domaine public fluvial et de la navigation - art. 15 (M)
-	  - Code du domaine public fluvial et de la navigation - art. 16 (M)
-	  - Code du domaine public fluvial et de la navigation - art. 28 (M)
-	  - Code du domaine public fluvial et de la navigation - art. 55 (Ab)
-	  - Code rural L151-37-1, L112-2, L642-1, L642-2, 128-7, 128-9, 128-6, 138-1, 135 à 138, 424
-	  - Décret n°1935-10-30 art. 6, art. 3, art. 2
-	  - Décret n°64-158 1964-02-15
-	  - Décret n°64-481 1964-01-23 art. 25
-	  - Loi n°1791-07-08
-	  - Loi n°1819-07-17
-	  - Loi n°1845-07-15
-	  - Loi n°1851-07-10
-	  - Loi n°1895-07-18
-	  - Loi n°1906-06-15 art. 12, art. 12 bis
-	  - Loi n°1913-12-31 art. 1 à 5, art. 1, art. 13 bis
-	  - Loi n°1919-10-16 art. 4
-	  - Loi n°1925-07-13 art. 298
-	  - Loi n°1927-07-13 art. 25
-	  - Loi n°1929-08-08
-	  - Loi n°1930-05-02 art. 28, art. 17
-	  - Loi n°1933-05-27
-	  - Loi n°1933-07-11
-	  - Loi n°1941-07-08
-	  - Loi n°46-628 1946-04-08 art. 35
-	  - Loi n°58-336 du 29 mars 1958 - art. 11 (M)
-	  - Loi n°62-904 1962-08-04
-	  - Loi n°65-498 1965-06-29
-	  - Loi n°69-7 du 3 janvier 1969 - art. 4 (Ab)
-	  - Loi n°69-7 du 3 janvier 1969 - art. 5 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2005-1130 du 7 septembre 2005 - art. 13 () JORF 9 septembre 2005
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
 
 
 ## Liste des communes comprises dans la zone 1
