@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2006-05-25
+Version Consolidée au 2006-06-08
 
 # Partie législative
 
@@ -27974,9 +27974,9 @@ bilan des recettes et des emplois de cette taxe.
 
 Pour l'application des mesures de protection prévues à l'article L. 142-11, le préfet, sur proposition du conseil général,
 saisit pour avis le conseil municipal de la commune intéressée ou l'organe délibérant de l'établissement public de
-coopération intercommunale compétent, ainsi que la commission départementale des sites, perspectives et paysages d'un projet
-tendant à déterminer les bois, forêts et parcs à soumettre au régime des espaces boisés classés en application de l'alinéa
-1er de l'article L. 130-1 et des textes pris pour son application.
+coopération intercommunale compétent, ainsi que la commission départementale de la nature, des paysages et des sites d'un
+projet tendant à déterminer les bois, forêts et parcs à soumettre au régime des espaces boisés classés en application de
+l'alinéa 1er de l'article L. 130-1 et des textes pris pour son application. 
 
 Ce projet peut en outre, lorsqu'il concerne des espaces situés dans les zones de préemption créées dans les conditions
 prévues à l'article L. 142-3 :
@@ -27988,16 +27988,15 @@ pas pour objet d'assurer la desserte des bâtiments existants ou d'améliorer de
 - interdire ou soumettre à des conditions particulières l'aménagement et l'ouverture des terrains destinés à accueillir de
 manière habituelle des tentes, des caravanes ou des habitations légères de loisirs.
 
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
 
 	**Modifié par**:
 
-	  - Décret n°86-516 du 14 mars 1986 - art. 7 () JORF 16 mars 1986 en vigueur le 1er juin 1987
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°2006-665 du 7 juin 2006 - art. 20 () JORF 8 juin 2006
 
 	**Cité par**:
 
@@ -28008,9 +28007,9 @@ manière habituelle des tentes, des caravanes ou des habitations légères de lo
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L130-1 (M)
-	  - Code de l'urbanisme - art. L142-11 (M)
-	  - Code de l'urbanisme - art. L142-3 (M)
+	  - Code de l'urbanisme - art. L130-1 (V)
+	  - Code de l'urbanisme - art. L142-11 (V)
+	  - Code de l'urbanisme - art. L142-3 (V)
 
 	**Codifié par**:
 
@@ -43496,26 +43495,20 @@ caravanage sont interdits :
 
 1° Sur les rivages de la mer.
 
-2° Dans les sites classés ou inscrits, à l'intérieur des zones définies au 3° de l'article 1er de la loi du 31 décembre 1913
-sur les monuments historiques, autour d'un monument historique classé, inscrit ou en instance de classement, dans les zones
-de protection du patrimoine architectural et urbain, ainsi que dans les zones de protection établies en application de
-l'article 17 de la loi du 2 mai 1930 sur la protection des monuments naturels et des sites ; sauf en ce qui concerne les
-sites classés ou en instance de classement, des dérogations à l'interdiction peuvent être accordées par l'autorité compétente
-pour statuer, après avis de l'architecte des Bâtiments de France et, le cas échéant, de la commission départementale des
+2° Dans les sites classés ou inscrits, à l'intérieur des zones définies à l'article L. 621-2 du code du patrimoine, autour
+d'un monument historique classé, inscrit ou en instance de classement, dans les zones de protection du patrimoine
+architectural et urbain, ainsi que dans les zones de protection établies en application de l'article 17 de la loi du 2 mai
+1930 sur la protection des monuments naturels et des sites ; sauf en ce qui concerne les sites classés ou en instance de
+classement, des dérogations à l'interdiction peuvent être accordées par l'autorité compétente pour statuer, après avis de
+l'architecte des Bâtiments de France et, le cas échéant, de la commission départementale de la nature, des paysages et des
 sites ; en ce qui concerne les sites classés, des dérogations peuvent être accordées par le ministre chargé des sites ou,
 s'il s'agit de sites naturels, par le ministre chargé de la protection de la nature et de l'environnement après avis de la
-commission départementale des sites ;
+commission départementale de la nature, des paysages et des sites ;
 
-3° Sauf avis favorable du conseil départemental d'hygiène dans un rayon de 200 mètres des points d'eau captée pour la
-consommation, sans préjudice des dispositions relatives aux périmètres de protection déterminés conformément au décret n°
-67-1093 du 15 décembre 1967 portant règlement d'administration publique pour l'application de l'article L. 20 du Code de la
-santé publique.
-
-**Nota:**
-
-NOTA : L'article L. 20 du code la santé publique a été abrogé par le I de l'article 4 de l'ordonnance n° 2000-548 du 15 juin
-2000 relative à la partie législative du code la santé publique, se référer désormais aux articles L. 1321-2, L. 1321-10 et
-L. 1324-3 du code de la santé publique (dans leur rédaction issue de l'ordonnance précitée).
+3° Sauf avis favorable du conseil départemental de l'environnement et des risques sanitaires dans un rayon de 200 mètres des
+points d'eau captée pour la consommation, sans préjudice des dispositions relatives aux périmètres de protection déterminés
+conformément au décret n° 67-1093 du 15 décembre 1967 portant règlement d'administration publique pour l'application de
+l'article L. 20 du Code de la santé publique.
 
 **Liens relatifs à cet article**
 
@@ -43528,12 +43521,8 @@ L. 1324-3 du code de la santé publique (dans leur rédaction issue de l'ordonna
 
 	**Modifié par**:
 
-	  - Décret n°84-227 1984-03-29 art. 1, art. 15, art. 16 JORF 31 mars 1984 en vigueur le 1er avril 1984
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°84-227 du 29 mars 1984 - art. 27 (V)
-	  - SPEC_APPLI: Décret n°84-227 du 29 mars 1984 - art. 28 (V)
+	  - Décret n°2006-665 du 7 juin 2006 - art. 19 (V) JORF 8 juin 2006
+	  - Décret n°2006-665 du 7 juin 2006 - art. 20 () JORF 8 juin 2006
 
 	**Cité par**:
 
