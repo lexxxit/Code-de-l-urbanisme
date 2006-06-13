@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2006-06-08
+Version Consolidée au 2006-06-14
 
 # Partie législative
 
@@ -8701,6 +8701,27 @@ périmètres déterminés dans lesquels elle décide d'intervenir pour les amén
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L210-2
+
+En cas de vente d'un immeuble à usage d'habitation, la commune peut faire usage de son droit de préemption pour assurer le
+maintien dans les lieux des locataires.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. L2572-3 (T)
+	  - Code général des collectivités territoriales - art. L2572-5 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Créé par**:
+
+	  - Loi n°2006-685 du 13 juin 2006 - art. 1 () JORF 14 juin 2006
 
 
 ####  Chapitre Ier : Droit de préemption urbain
@@ -20404,6 +20425,41 @@ l'ordonnance au 1er octobre 2007.
 
 
 ## Livre IV : Régime applicable aux constructions, aménagements et démolitions
+
+### Titre II : Dispositions communes aux diverses autorisations et aux déclarations préalables
+
+#### Chapitre V : Opérations soumises à un régime d'autorisation prévu par une autre législation
+
+#####  Section 4 : Opérations pour lesquelles la délivrance d'un permis ou la réalisation des travaux est différée dans l'attente de formalités prévues par une autre législation
+
+###### Article L425-12
+
+Lorsque le projet porte sur une installation nucléaire de base soumise à une autorisation de création en vertu du I ou à une
+nouvelle autorisation en vertu du 3° du II de l'article 29 de la loi n° 2006-686 du 13 juin 2006 relative à la transparence
+et à la sécurité en matière nucléaire, les travaux ne peuvent être exécutés avant la clôture de l'enquête publique préalable
+à cette autorisation.
+
+**Nota:**
+
+La section 4, telle qu'elle résulte de l'article 41 de l'ordonnance n° 2005-1527 du 8 décembre 2005, entrera en vigueur à des
+dates fixées par décret en Conseil d'Etat et au plus tard le 1er juillet 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Cite**:
+
+	  - Ordonnance 2005-1527 2005-12-08
+	  - Loi n°2006-686 2006-06-13 art. 29
+	  - Code de l'urbanisme 41
+
+	**Créé par**:
+
+	  - Loi n°2006-686 du 13 juin 2006 - art. 32 () JORF 14 juin 2006
+
 
 ### Titre VIII : Infractions
 
