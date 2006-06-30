@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2006-06-14
+Version Consolidée au 2006-07-01
 
 # Partie législative
 
@@ -311,13 +311,18 @@ règles sont compatibles avec la prise en compte des nuisances, de la sécurité
 qualité de l'urbanisme et des paysages.
 
 Dans les communes dotées d'une carte communale, le conseil municipal peut, avec l'accord du préfet et après avis de la
-commission départementale des sites, fixer des règles d'implantation différentes de celles prévues par le présent article au
-vu d'une étude justifiant, en fonction des spécificités locales, que ces règles sont compatibles avec la prise en compte des
-nuisances, de la sécurité, de la qualité architecturale, ainsi que de la qualité de l'urbanisme et des paysages.
+commission départementale compétente en matière de nature, de paysages et de sites, fixer des règles d'implantation
+différentes de celles prévues par le présent article au vu d'une étude justifiant, en fonction des spécificités locales, que
+ces règles sont compatibles avec la prise en compte des nuisances, de la sécurité, de la qualité architecturale, ainsi que de
+la qualité de l'urbanisme et des paysages.
 
 Il peut être dérogé aux dispositions du présent article, avec l'accord du préfet, lorsque les contraintes géographiques ne
 permettent pas d'implanter les installations ou les constructions au-delà de la marge de recul prévue au premier alinéa, dès
 lors que l'intérêt que représente pour la commune l'installation ou la construction projetée motive la dérogation.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -335,6 +340,7 @@ lors que l'intérêt que représente pour la commune l'installation ou la constr
 
 	**Modifié par**:
 
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 28 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
 	  - Loi n°2005-157 du 23 février 2005 - art. 200 () JORF 24 février 2005
 
 	**Codifié par**:
@@ -2120,11 +2126,11 @@ d'autorisation de création des salles de spectacles cinématographiques en appl
 73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat.
 
 Il peut être dérogé aux dispositions des deux alinéas précédents soit avec l'accord du préfet donné après avis de la
-commission départementale des sites et de la chambre d'agriculture, soit, lorsque le périmètre d'un schéma de cohérence
-territoriale incluant la commune a été arrêté, avec l'accord de l'établissement public prévu à l'article L. 122-4. La
-dérogation ne peut être refusée que si les inconvénients éventuels de l'urbanisation envisagée pour les communes voisines,
-pour l'environnement ou pour les activités agricoles sont excessifs au regard de l'intérêt que représente pour la commune la
-modification ou la révision du plan.
+commission départementale compétente en matière de nature, de paysages et de sites et de la chambre d'agriculture, soit,
+lorsque le périmètre d'un schéma de cohérence territoriale incluant la commune a été arrêté, avec l'accord de l'établissement
+public prévu à l'article L. 122-4. La dérogation ne peut être refusée que si les inconvénients éventuels de l'urbanisation
+envisagée pour les communes voisines, pour l'environnement ou pour les activités agricoles sont excessifs au regard de
+l'intérêt que représente pour la commune la modification ou la révision du plan.
 
 Le préfet peut, par arrêté motivé pris après avis de la commission de conciliation, constater l'existence d'une rupture
 géographique due à des circonstances naturelles, notamment au relief, et, en conséquence, exclure du champ d'application du
@@ -2140,22 +2146,18 @@ ont valeur de schéma de cohérence territoriale.
 
 Les dispositions du présent article sont applicables à compter du 1er juillet 2002.
 
+**Nota:**
+
+La date d'entrée en vigueur de l'article 28 de l'ordonnance 2004-637 a été modifiée par l'ordonnance 2005-727.
+
+Décret n° 2008-1212 du 24 novembre 2008 article 8 : l'article 105 de la loi n° 2008-776 du 4 août 2008 entre en vigueur dès
+la publication du présent décret au Journal officiel de la République française.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°73-1193 du 27 décembre 1973 - art. 36-1 (M)
-	  - Loi n°84-747 1984-08-02
-	  - Loi n°2002-92 2002-01-22 art. 13
-	  - Loi n°2003-590 2003-07-02
-	  - Code de commerce. - art. L720-5 (M)
-	  - Code général des collectivités territoriales - art. L4424-9 (T)
-	  - Code de l'urbanisme - art. L122-4 (M)
-	  - Code de l'urbanisme - art. L141-1 (M)
 
 	**Modifié par**:
 
-	  - Loi n°2003-590 du 2 juillet 2003 - art. 3 () JORF 3 juillet 2003
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 28 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
@@ -6555,15 +6557,15 @@ installations classées pour la protection de l'environnement.
 
 ###### Article L145-3
 
-I. - Les terres nécessaires au maintien et au développement des activités agricoles, pastorales et forestières sont
-préservées. La nécessité de préserver ces terres s'apprécie au regard de leur rôle et de leur place dans les systèmes
-d'exploitation locaux. Sont également pris en compte leur situation par rapport au siège de l'exploitation, leur relief, leur
-pente et leur exposition. Les constructions nécessaires à ces activités ainsi que les équipements sportifs liés notamment à
-la pratique du ski et de la randonnée peuvent y être autorisés. Peuvent être également autorisées, par arrêté préfectoral,
-après avis de la commission départementale des sites, dans un objectif de protection et de mise en valeur du patrimoine
-montagnard, la restauration ou la reconstruction d'anciens chalets d'alpage ou de bâtiments d'estive, ainsi que les
-extensions limitées de chalets d'alpage ou de bâtiments d'estive existants lorsque la destination est liée à une activité
-professionnelle saisonnière.
+I.-Les terres nécessaires au maintien et au développement des activités agricoles, pastorales et forestières sont préservées.
+La nécessité de préserver ces terres s'apprécie au regard de leur rôle et de leur place dans les systèmes d'exploitation
+locaux. Sont également pris en compte leur situation par rapport au siège de l'exploitation, leur relief, leur pente et leur
+exposition. Les constructions nécessaires à ces activités ainsi que les équipements sportifs liés notamment à la pratique du
+ski et de la randonnée peuvent y être autorisés. Peuvent être également autorisées, par arrêté préfectoral, après avis de la
+commission départementale compétente en matière de nature, de paysages et de sites, dans un objectif de protection et de mise
+en valeur du patrimoine montagnard, la restauration ou la reconstruction d'anciens chalets d'alpage ou de bâtiments d'estive,
+ainsi que les extensions limitées de chalets d'alpage ou de bâtiments d'estive existants lorsque la destination est liée à
+une activité professionnelle saisonnière. 
 
 Lorsque des chalets d'alpage ou des bâtiments d'estive, existants ou anciens, ne sont pas desservis par les voies et réseaux,
 ou lorsqu'ils sont desservis par des voies qui ne sont pas utilisables en période hivernale, l'autorité compétente peut
@@ -6572,40 +6574,40 @@ l'institution d'une servitude administrative, publiée au bureau des hypothèque
 période hivernale ou limitant son usage pour tenir compte de l'absence de réseaux. Cette servitude précise que la commune est
 libérée de l'obligation d'assurer la desserte du bâtiment par les réseaux et équipements publics. Lorsque le terrain n'est
 pas desservi par une voie carrossable, la servitude rappelle l'interdiction de circulation des véhicules à moteur édictée par
-l'article L. 362-1 du code de l'environnement.
+l'article L. 362-1 du code de l'environnement. 
 
-II. - Les documents et décisions relatifs à l'occupation des sols comportent les dispositions propres à préserver les
-espaces, paysages et milieux caractéristiques du patrimoine naturel et culturel montagnard.
+II.-Les documents et décisions relatifs à l'occupation des sols comportent les dispositions propres à préserver les espaces,
+paysages et milieux caractéristiques du patrimoine naturel et culturel montagnard. 
 
-III. - Sous réserve de l'adaptation, du changement de destination, de la réfection ou de l'extension limitée des
-constructions existantes et de la réalisation d'installations ou d'équipements publics incompatibles avec le voisinage des
-zones habitées, l'urbanisation doit se réaliser en continuité avec les bourgs, villages, hameaux, groupes de constructions
-traditionnelles ou d'habitations existants.
+III.-Sous réserve de l'adaptation, du changement de destination, de la réfection ou de l'extension limitée des constructions
+existantes et de la réalisation d'installations ou d'équipements publics incompatibles avec le voisinage des zones habitées,
+l'urbanisation doit se réaliser en continuité avec les bourgs, villages, hameaux, groupes de constructions traditionnelles ou
+d'habitations existants. 
 
 Lorsque la commune est dotée d'un plan local d'urbanisme ou d'une carte communale, ce document peut délimiter les hameaux et
 groupes de constructions traditionnelles ou d'habitations existants en continuité desquels il prévoit une extension de
 l'urbanisation, en prenant en compte les caractéristiques traditionnelles de l'habitat, les constructions implantées et
-l'existence de voies et réseaux.
+l'existence de voies et réseaux. 
 
 Lorsque la commune n'est pas dotée d'un plan local d'urbanisme ou d'une carte communale, les notions de hameaux et de groupes
 de constructions traditionnelles ou d'habitations existants doivent être interprétées en prenant en compte les critères
-mentionnés à l'alinéa précédent.
+mentionnés à l'alinéa précédent. 
 
-Les dispositions du premier alinéa ne s'appliquent pas dans les cas  suivants :
+Les dispositions du premier alinéa ne s'appliquent pas dans les cas suivants : 
 
 a) Lorsque le schéma de cohérence territoriale ou le plan local d'urbanisme comporte une étude justifiant, en fonction des
 spécificités locales, qu'une urbanisation qui n'est pas située en continuité de l'urbanisation existante est compatible avec
 le respect des objectifs de protection des terres agricoles, pastorales et forestières et avec la préservation des paysages
 et milieux caractéristiques du patrimoine naturel prévus aux I et II ainsi qu'avec la protection contre les risques
-naturels ; l'étude est soumise, avant l'arrêt du projet de schéma ou de plan, à la commission départementale des sites dont
-l'avis est joint au dossier de l'enquête publique ; le plan local d'urbanisme ou la carte communale délimite alors les zones
-à urbaniser dans le respect des conclusions de cette étude ;
+naturels ; l'étude est soumise, avant l'arrêt du projet de schéma ou de plan, à la commission départementale compétente en
+matière de nature, de paysages et de sites dont l'avis est joint au dossier de l'enquête publique ; le plan local d'urbanisme
+ou la carte communale délimite alors les zones à urbaniser dans le respect des conclusions de cette étude ; 
 
 b) En l'absence d'une telle étude, le plan local d'urbanisme ou la carte communale peut délimiter des hameaux et des groupes
 d'habitations nouveaux intégrés à l'environnement ou, à titre exceptionnel et après accord de la chambre d'agriculture et de
-la commission des sites, des zones d'urbanisation future de taille et de capacité d'accueil limitées, si le respect des
-dispositions prévues aux I et II ou la protection contre les risques naturels imposent une urbanisation qui n'est pas située
-en continuité de l'urbanisation existante ;
+la commission départementale compétente en matière de nature, de paysages et de sites, des zones d'urbanisation future de
+taille et de capacité d'accueil limitées, si le respect des dispositions prévues aux I et II ou la protection contre les
+risques naturels imposent une urbanisation qui n'est pas située en continuité de l'urbanisation existante ; 
 
 c) Dans les communes ou parties de commune qui ne sont pas couvertes par un plan local d'urbanisme ou une carte communale,
 des constructions qui ne sont pas situées en continuité avec les bourgs, villages, hameaux, groupes de constructions
@@ -6613,23 +6615,28 @@ traditionnelles ou d'habitations existants peuvent être autorisées, dans les c
 111-1-2, si la commune ne subit pas de pression foncière due au développement démographique ou à la construction de
 résidences secondaires et si la dérogation envisagée est compatible avec les objectifs de protection des terres agricoles,
 pastorales et forestières et avec la préservation des paysages et milieux caractéristiques du patrimoine naturel prévus aux I
-et II.
+et II. 
 
 La capacité d'accueil des espaces destinés à l'urbanisation doit être compatible avec la préservation des espaces naturels et
-agricoles mentionnés aux I et II du présent article.
+agricoles mentionnés aux I et II du présent article. 
 
-IV. - Le développement touristique et, en particulier, la création d'une unité touristique nouvelle doivent prendre en compte
+IV.-Le développement touristique et, en particulier, la création d'une unité touristique nouvelle doivent prendre en compte
 les communautés d'intérêt des collectivités locales concernées et contribuer à l'équilibre des activités économiques et de
 loisirs, notamment en favorisant l'utilisation rationnelle du patrimoine bâti existant et des formules de gestion locative
-pour les constructions nouvelles.
+pour les constructions nouvelles. 
 
 Leur localisation, leur conception et leur réalisation doivent respecter la qualité des sites et les grands équilibres
 naturels.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 28 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
 	  - Loi n°2005-157 du 23 février 2005 - art. 189 () JORF 24 février 2005
 
 	**Cité par**:
@@ -6647,8 +6654,8 @@ naturels.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L111-1-2 (M)
-	  - Code de l'environnement - art. L362-1 (M)
+	  - Code de l'urbanisme - art. L111-1-2 (V)
+	  - Code de l'environnement - art. L362-1 (VT)
 
 	**Liens**:
 
@@ -6695,39 +6702,44 @@ Le périmètre est publié par arrêté du représentant de l'Etat dans les cond
 
 Les parties naturelles des rives des plans d'eau naturels ou artificiels d'une superficie inférieure à mille hectares sont
 protégées sur une distance de trois cent mètres à compter de la rive ; y sont interdits toutes constructions, installations
-et routes nouvelles ainsi que toutes extractions et tous affouillements.
+et routes nouvelles ainsi que toutes extractions et tous affouillements. 
 
 Par exception aux dispositions de l'alinéa précédent, des constructions et aménagements peuvent être admis, en fonction des
-spécificités locales, dans certains secteurs délimités :
+spécificités locales, dans certains secteurs délimités : 
 
 1° Soit par un plan local d'urbanisme ou un schéma de cohérence territoriale, avec l'accord du préfet et au vu d'une étude
-réalisée et approuvée dans les conditions prévues au a du III de l'article L. 145-3 ;
+réalisée et approuvée dans les conditions prévues au a du III de l'article L. 145-3 ; 
 
 2° Soit par une carte communale, avec l'accord du préfet, après avis de la commission départementale compétente en matière de
 nature, de paysages et de sites, et au vu d'une étude justifiant que l'aménagement et l'urbanisation de ces secteurs sont
 compatibles avec la prise en compte de la qualité de l'environnement et des paysages. Dans ce cas, chaque permis de
-construire est soumis pour avis à la commission départementale compétente en matière de nature, de paysages et de sites.
+construire est soumis pour avis à la commission départementale compétente en matière de nature, de paysages et de sites. 
 
 Dans les secteurs protégés en application des premier et deuxième alinéas, ne peuvent être autorisés que des bâtiments à
 usage agricole, pastoral ou forestier, des refuges et gîtes d'étapes ouverts au public pour la promenade et la randonnée, des
 aires naturelles de camping, un équipement culturel dont l'objet est directement lié au caractère lacustre des lieux, des
 installations à caractère scientifique si aucune autre implantation n'est possible et des équipements d'accueil et de
 sécurité nécessaires à la pratique de la baignade, des sports nautiques, de la promenade ou de la randonnée ainsi que des
-projets visés au 1° de l'article L. 111-1-2.
+projets visés au 1° de l'article L. 111-1-2. 
 
 Les dispositions du présent article s'appliquent également aux plans d'eau partiellement situés en zone de montagne. Peuvent
-toutefois être exclus du champ d'application du présent article :
+toutefois être exclus du champ d'application du présent article : 
 
 1° Par arrêté du préfet coordonnateur de massif, les plans d'eau dont moins du quart des rives est situé dans la zone de
-montagne ;
+montagne ; 
 
 2° Par un plan local d'urbanisme, un schéma de cohérence territoriale ou une carte communale, certains plans d'eau en
 fonction de leur faible importance.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 28 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
 	  - Loi n°2005-157 du 23 février 2005 - art. 188 () JORF 24 février 2005
 
 	**Cité par**:
@@ -6747,8 +6759,8 @@ fonction de leur faible importance.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L111-1-2 (M)
-	  - Code de l'urbanisme - art. L145-3 (M)
+	  - Code de l'urbanisme - art. L111-1-2 (V)
+	  - Code de l'urbanisme - art. L145-3 (VT)
 
 	**Codifié par**:
 
@@ -7240,9 +7252,9 @@ hameaux nouveaux intégrés à l'environnement.
 
 Par dérogation aux dispositions de l'alinéa précédent, les constructions ou installations liées aux activités agricoles ou
 forestières qui sont incompatibles avec le voisinage des zones habitées peuvent être autorisées, en dehors des espaces
-proches du rivage, avec l'accord du préfet après avis de la commission départementale des sites, perspectives et paysages.
-Cet accord est refusé si les constructions ou installations sont de nature à porter atteinte à l'environnement ou aux
-paysages.
+proches du rivage, avec l'accord du préfet après avis de la commission départementale compétente en matière de nature, de
+paysages et de sites. Cet accord est refusé si les constructions ou installations sont de nature à porter atteinte à
+l'environnement ou aux paysages.
 
 Les dispositions du premier alinéa ne font pas obstacle à la réalisation de travaux de mise aux normes des exploitations
 agricoles, à condition que les effluents d'origine animale ne soient pas accrus.
@@ -7256,10 +7268,10 @@ Toutefois, ces critères ne sont pas applicables lorsque l'urbanisation est conf
 territoriale ou d'un schéma d'aménagement régional ou compatible avec celles d'un schéma de mise en valeur de la mer.
 
 En l'absence de ces documents, l'urbanisation peut être réalisée avec l'accord du représentant de l'Etat dans le département.
-Cet accord est donné après que la commune a motivé sa demande et après avis de la commission départementale des sites
-appréciant l'impact de l'urbanisation sur la nature. Les communes intéressées peuvent également faire connaître leur avis
-dans un délai de deux mois suivant le dépôt de la demande d'accord. Le plan local d'urbanisme doit respecter les dispositions
-de cet accord.
+Cet accord est donné après que la commune a motivé sa demande et après avis de la commission départementale compétente en
+matière de nature, de paysages et de sites appréciant l'impact de l'urbanisation sur la nature. Les communes intéressées
+peuvent également faire connaître leur avis dans un délai de deux mois suivant le dépôt de la demande d'accord. Le plan local
+d'urbanisme doit respecter les dispositions de cet accord.
 
 III - En dehors des espaces urbanisés, les constructions ou installations sont interdites sur une bande littorale de cent
 mètres à compter de la limite haute du rivage ou des plus hautes eaux pour les plans d'eau intérieurs désignés à l'article 2
@@ -7278,6 +7290,10 @@ liste est fixée par décret en Conseil d'Etat.
 
 V. - Les dispositions des II et III ne s'appliquent pas aux rives des étiers et des rus, en amont d'une limite située à
 l'embouchure et fixée par l'autorité administrative dans des conditions définies par un décret en Conseil d'Etat.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -7318,6 +7334,7 @@ l'embouchure et fixée par l'autorité administrative dans des conditions défin
 
 	**Modifié par**:
 
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 28 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
 	  - Loi n°2005-157 2005-02-23 art. 235 X, XI JORF 24 février 2005
 	  - Loi n°2005-157 du 23 février 2005 - art. 235 () JORF 24 février 2005
 
@@ -7380,7 +7397,11 @@ admise, après enquête publique suivant les modalités de la loi n° 83-630 du 
 
 Le plan local d'urbanisme doit classer en espaces boisés, au titre de l'article L. 130-1 du présent code, les parcs et
 ensembles boisés existants les plus significatifs de la commune ou du groupement de communes, après consultation de la
-commission départementale des sites.
+commission départementale compétente en matière de nature, de paysages et de sites.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -7425,7 +7446,7 @@ commission départementale des sites.
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 28 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
 
 	**Codifié par**:
 
@@ -7439,7 +7460,8 @@ sur ces espaces, liées à la présence d'équipements ou de constructions réal
 du 3 janvier 1986 précitée, une commune ou, le cas échéant, un établissement public de coopération intercommunale compétent
 peut établir un schéma d'aménagement.
 
-Ce schéma est approuvé, après enquête publique, par décret en Conseil d'Etat, après avis de la commission des sites.
+Ce schéma est approuvé, après enquête publique, par décret en Conseil d'Etat, après avis de la commission départementale
+compétente en matière de nature, de paysages et de sites.
 
 Afin de réduire les nuisances ou dégradations mentionnées au premier alinéa et d'améliorer les conditions d'accès au domaine
 public maritime, il peut, à titre dérogatoire, autoriser le maintien ou la reconstruction d'une partie des équipements ou
@@ -7449,16 +7471,24 @@ fréquentation touristique.
 
 Les conditions d'application du présent article sont déterminées par décret en Conseil d'Etat.
 
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 	**Cite**:
 
 	  - Loi n°86-2 1986-01-03
 	  - Code de l'urbanisme - art. L146-4 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 42 () JORF 14 décembre 2000
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 28 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
@@ -7467,35 +7497,47 @@ Les conditions d'application du présent article sont déterminées par décret 
 	  - Code de l'urbanisme - art. R*146-3 (VT)
 	  - Code du patrimoine. - art. L630-1 (VT)
 
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
 
 ###### Article L146-7
 
-La réalisation de nouvelles routes est organisée par les dispositions du présent article.
+La réalisation de nouvelles routes est organisée par les dispositions du présent article. 
 
 Les nouvelles routes de transit sont localisées à une distance minimale de 2.000 mètres du rivage. Cette disposition ne
-s'applique pas aux rives des plans d'eau intérieurs.
+s'applique pas aux rives des plans d'eau intérieurs. 
 
-La création de nouvelles routes sur les plages, cordons lagunaires, dunes ou en corniche est interdite.
+La création de nouvelles routes sur les plages, cordons lagunaires, dunes ou en corniche est interdite. 
 
-Les nouvelles routes de desserte locale ne peuvent être établies sur le rivage, ni le longer.
+Les nouvelles routes de desserte locale ne peuvent être établies sur le rivage, ni le longer. 
 
 Toutefois, les dispositions des deuxième, troisième et quatrième alinéas ne s'appliquent pas en cas de contraintes liées à la
-configuration des lieux ou, le cas échéant, à l'insularité. La commission départementale des sites est alors consultée sur
-l'impact de l'implantation de ces nouvelles routes sur la nature.
+configuration des lieux ou, le cas échéant, à l'insularité. La commission départementale compétente en matière de nature, de
+paysages et de sites est alors consultée sur l'impact de l'implantation de ces nouvelles routes sur la nature. 
 
 En outre, l'aménagement des routes dans la bande littorale définie à l'article L. 146-4 est possible dans les espaces
 urbanisés ou lorsqu'elles sont nécessaires à des services publics ou à des activités économiques exigeant la proximité
 immédiate de l'eau.
 
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 	**Modifié par**:
 
-	  - Loi n°2003-590 du 2 juillet 2003 - art. 37 () JORF 3 juillet 2003
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 28 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L121-6 (VD)
 
 	**Cité par**:
 
@@ -7504,11 +7546,7 @@ immédiate de l'eau.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L146-4 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+	  - Code de l'urbanisme - art. L146-4
 
 
 ###### Article L146-8
@@ -8056,45 +8094,49 @@ mer définies à l'article 2 de la loi n° 86-2 du 3 janvier 1986 précitée, so
 ###### Article L156-2
 
 Les dispositions des paragraphes II et III de l'article L. 146-4 ne sont pas applicables. Les dispositions suivantes leur
-sont substituées.
+sont substituées. 
 
 Dans les espaces proches du rivage :
 
 - l'extension de l'urbanisation n'est admise que dans les secteurs déjà occupés par une urbanisation diffuse ;
 
 - des opérations d'aménagement ne peuvent être autorisées que si elles ont été préalablement prévues par le chapitre
-particulier du schéma régional valant schéma de mise en valeur de la mer.
+particulier du schéma régional valant schéma de mise en valeur de la mer. 
 
 En l'absence d'un schéma régional approuvé, l'urbanisation peut être réalisée à titre exceptionnel avec l'accord conjoint des
 ministres chargés de l'urbanisme, de l'environnement et des départements d'outre-mer. Un décret en Conseil d'Etat détermine
-les critères selon lesquels les ministres intéressés donnent leur accord.
+les critères selon lesquels les ministres intéressés donnent leur accord. 
 
 Cet accord est donné après que la commune a motivé sa demande, après avis de la région sur la compatibilité de l'urbanisation
-envisagée avec les orientations du schéma d'aménagement régional et après avis de la commission départementale des sites
-appréciant l'impact de l'urbanisation sur la nature. Les communes intéressées peuvent également faire connaître leur avis
-dans le délai de deux mois suivant le dépôt de la demande d'accord. Le plan local d'urbanisme doit respecter les dispositions
-de cet accord.
+envisagée avec les orientations du schéma d'aménagement régional et après avis de la commission départementale compétente en
+matière de nature, de paysages et de sites appréciant l'impact de l'urbanisation sur la nature. Les communes intéressées
+peuvent également faire connaître leur avis dans le délai de deux mois suivant le dépôt de la demande d'accord. Le plan local
+d'urbanisme doit respecter les dispositions de cet accord. 
 
 Il est déterminé une bande littorale comprise entre le rivage de la mer et la limite supérieure de la réserve domaniale dite
 des cinquante pas géométriques définie à l'article L. 86 du code du domaine de l'Etat. A défaut de délimitation ou lorsque la
 réserve domaniale n'a pas été instituée, cette bande présente une largeur de 81,20 mètres à compter de la limite haute du
-rivage.
+rivage. 
 
 En dehors des espaces urbanisés, les terrains situés dans la bande littorale définie à l'alinéa précédent sont réservés aux
 installation nécessaires à des services publics, à des activités économiques ou à des équipements collectifs, lorsqu'ils sont
-liés à l'usage de la mer. Ces installations organisent ou préservent l'accès et la libre circulation le long du rivage.
+liés à l'usage de la mer. Ces installations organisent ou préservent l'accès et la libre circulation le long du rivage. 
 
 Dans tous les cas, des espaces naturels ouverts sur le rivage et présentant le caractère d'une coupure d'urbanisation sont
-ménagés entre les zones urbanisables.
+ménagés entre les zones urbanisables. 
 
 Les constructions et aménagements sur les pentes proches du littoral sont interdits quand leur implantation porte atteinte au
 caractère paysager des mornes.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 28 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
@@ -8110,8 +8152,7 @@ caractère paysager des mornes.
 
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. L86 (Ab)
-	  - Code de l'urbanisme - art. L146-4 (M)
+	  - Code de l'urbanisme - art. L146-4 (V)
 
 	**Codifié par**:
 
