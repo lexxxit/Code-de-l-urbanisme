@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2006-07-01
+Version Consolidée au 2006-07-09
 
 # Partie législative
 
@@ -25736,6 +25736,9 @@ prescriptions d'isolement acoustique ont été édictées en application de l'ar
 
 14. Le plan des zones à risque d'exposition au plomb ;
 
+15. Les périmètres d'intervention délimités en application de l'article L. 143-1 pour la protection et la mise en valeur des
+espaces agricoles et naturels périurbains.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -25747,6 +25750,7 @@ prescriptions d'isolement acoustique ont été édictées en application de l'ar
 	  - Code de l'urbanisme - art. L111-5-2 (M)
 	  - Code de l'urbanisme - art. L142-1 (M)
 	  - Code de l'urbanisme - art. L142-3 (M)
+	  - Code de l'urbanisme - art. L143-1 (M)
 	  - Code de l'urbanisme - art. L211-1 (M)
 	  - Code de l'urbanisme - art. L313-1 (M)
 	  - Code de l'urbanisme - art. L332-9 (M)
@@ -25757,7 +25761,7 @@ prescriptions d'isolement acoustique ont été édictées en application de l'ar
 
 	**Modifié par**:
 
-	  - Décret n°2004-531 du 9 juin 2004 - art. 2 () JORF 13 juin 2004
+	  - Décret n°2006-821 du 7 juillet 2006 - art. 2 () JORF 9 juillet 2006
 
 	**Cité par**:
 
@@ -28465,6 +28469,9 @@ s'il y a lieu, au président de l'établissement public de coopération intercom
 La commune ou l'établissement public de coopération intercommunale compétent peut exercer le droit de préemption à défaut du
 département et à défaut du Conservatoire de l'espace littoral et des rivages lacustres.
 
+Dans les zones de préemption situées dans un périmètre d'intervention délimité en application de l'article L. 143-1, la
+commune ou l'établissement public de coopération intercommunale compétent exerce ce droit avec l'accord du département.
+
 Le maire ou le président de l'établissement public de coopération intercommunale notifie la décision de la commune ou de
 l'établissement public de coopération intercommunale au propriétaire avant l'expiration du délai de trois mois courant à
 compter de la date de réception ou de la décharge de la déclaration d'intention d'aliéner. 
@@ -28474,23 +28481,20 @@ l'espace littoral et des rivages lacustres.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
-
 	**Modifié par**:
 
-	  - Décret n°86-516 du 14 mars 1986 - art. 7 () JORF 16 mars 1986 en vigueur le   1er juin 1987
+	  - Décret n°2006-821 du 7 juillet 2006 - art. 2 () JORF 9 juillet 2006
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L143-1 (M)
+	  - Code de l'urbanisme - art. R213-8 (Ab)
+	  - Code de l'urbanisme - art. R213-9 (Ab)
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R142-15 (M)
 	  - Code de l'urbanisme - art. R142-9 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R213-8 (Ab)
-	  - Code de l'urbanisme - art. R213-9 (Ab)
 
 	**Codifié par**:
 
@@ -28802,6 +28806,347 @@ des rivages lacustres.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+#### Chapitre III : Protection et mise en valeur des espaces agricoles et naturels périurbains
+
+#####  Section 1 : Délimitation du périmètre d'intervention
+
+###### Article R143-1
+
+Le projet de création d'un périmètre de protection et de mise en valeur des espaces agricoles et naturels périurbains
+comprend un plan de délimitation et une notice qui analyse l'état initial de ces espaces et expose les motifs du choix du
+périmètre, notamment les bénéfices attendus de son institution sur l'agriculture, la forêt et l'environnement.
+
+Le président du conseil général soumet le projet, pour accord, aux communes ou aux établissements publics compétents en
+matière de plan local d'urbanisme concernés. Le projet est également adressé, pour avis, à la chambre départementale
+d'agriculture ainsi qu'à l'établissement public chargé du schéma de cohérence territoriale s'il existe ; les avis, s'ils ne
+sont pas exprimés dans le délai de deux mois à compter de la saisine, sont réputés favorables.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-821 du 7 juillet 2006 - art. 1 () JORF 9 juillet 2006
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*710-1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R143-2
+
+Le projet de création du périmètre, assorti d'un plan de situation et de l'ensemble des accords et avis recueillis, est
+soumis à enquête publique selon la procédure prévue aux articles R. 123-7 à R. 123-23 du code de l'environnement, par le
+président du conseil général qui exerce les compétences attribuées au préfet par ces dispositions.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-821 du 7 juillet 2006 - art. 1 () JORF 9 juillet 2006
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R143-21 (Ab)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. R123-23 (V)
+	  - Code de l'environnement - art. R123-7 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R143-3
+
+La création du périmètre est décidée par une délibération du conseil général. 
+
+Cette délibération, accompagnée des plans de situation et de délimitation, est publiée au recueil des actes administratifs du
+département, affichée pendant un mois à l'hôtel du département, dans les mairies des communes incluses dans le périmètre et,
+le cas échéant, au siège de l'établissement public de coopération intercommunale compétent en matière de plan local
+d'urbanisme et fait l'objet d'une mention dans un journal diffusé dans le département ; ces publications et affichages
+indiquent les lieux où le dossier peut être consulté. Pour l'application de l'article L. 3131-1 du code général des
+collectivités territoriales, la date à prendre en compte pour l'affichage est celle du premier jour où il est effectué. 
+
+Cette délibération, accompagnée des plans de situation et de délimitation, est simultanément transmise au directeur des
+services fiscaux, au Conseil supérieur du notariat, à la chambre départementale des notaires, aux barreaux constitués près
+les tribunaux de grande instance dans le ressort desquels est institué le périmètre de protection ainsi qu'au greffe de ces
+tribunaux.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
+2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
+communautaires, et modifiant le calendrier électoral s'appliquera aux élections organisées en mars 2015 à l'occasion du
+prochain renouvellement général des conseils départementaux, y compris aux opérations préparatoires à ce scrutin (Fin de
+vigueur : date indéterminée).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°2006-821 du 7 juillet 2006 - art. 1 () JORF 9 juillet 2006
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L3131-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R143-6 (V)
+
+
+###### Article R143-4
+
+Toute décision portant extension du périmètre est prise après une enquête publique effectuée dans les seules communes
+intéressées par l'extension. 
+
+Le décret prévu à l'article L. 143-5 est pris sur le rapport des ministres chargés de l'agriculture, de l'urbanisme et de
+l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°2006-821 du 7 juillet 2006 - art. 1 () JORF 9 juillet 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L143-5
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R113-23 (V)
+	  - Code de l'urbanisme - art. R113-24 (V)
+
+
+#####  Section 2 : Elaboration du programme d'action
+
+###### Article R143-5
+
+Le projet de programme d'action pour la protection et la mise en valeur des espaces agricoles et naturels périurbains dans un
+périmètre dont la création est projetée ou dont la délimitation a été approuvée est soumis pour accord par le président du
+conseil général aux communes incluses dans le périmètre ou aux établissements publics de coopération intercommunale
+compétents en matière de plan local d'urbanisme.
+
+Le projet de programme est également adressé à la chambre départementale d'agriculture ainsi qu'à l'Office national des
+forêts si le périmètre comprend des parcelles soumises au régime forestier et à l'établissement public gestionnaire du parc
+naturel régional si le périmètre inclut une partie du territoire de ce parc. Leurs avis, s'ils ne sont pas exprimés dans le
+délai de deux mois à compter de la saisine, sont réputés favorables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°2006-821 du 7 juillet 2006 - art. 1 () JORF 9 juillet 2006
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*143-6 (Ab)
+
+
+###### Article R143-6
+
+Le programme d'action est adopté par une délibération du conseil général. 
+
+Les modalités de publicité prévues au deuxième alinéa de l'article R. 143-3 sont applicables à cette délibération.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-821 du 7 juillet 2006 - art. 1 () JORF 9 juillet 2006
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*143-5 (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R143-3 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+#####  Section 3 : Régime des biens acquis dans les périmètres d'intervention
+
+###### Article R143-7
+
+La cession, la location ou la concession temporaire d'un bien acquis par l'une des collectivités territoriales ou l'un des
+établissements publics mentionnés à l'article L. 143-3 dans un périmètre d'intervention fait l'objet d'un appel de
+candidatures qui est précédé de l'affichage d'un avis à la mairie du lieu de situation de ce bien pendant quinze jours au
+moins. 
+
+Cet avis décrit le bien, résume les principales clauses du cahier des charges, indique le prix proposé, le délai dans lequel
+les candidatures doivent être présentées ainsi que les moyens d'obtenir des renseignements complémentaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°2006-821 du 7 juillet 2006 - art. 1 () JORF 9 juillet 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L143-3
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R113-27 (V)
+
+
+###### Article R143-8
+
+Les terrains acquis par application de l'article L. 143-3 peuvent être mis à la disposition de la société d'aménagement
+foncier et de développement rural par les collectivités territoriales et établissements publics propriétaires, dans le cadre
+des conventions prévues par l'article L. 142-6 du code rural.
+
+Ces conventions assurent que l'usage agricole du bien sera maintenu ou rétabli, dans le respect des exigences
+environnementales ; elles comportent un cahier des charges contenant les clauses types prévues par l'article R. 143-9.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L143-3 (V)
+	  - Code de l'urbanisme - art. R*143-9 (Ab)
+	  - Code rural L142-6
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*143-20 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°2006-821 du 7 juillet 2006 - art. 1 () JORF 9 juillet 2006
+
+
+###### Article R143-9
+
+Les cahiers des charges annexés aux actes de vente, de location, de concession temporaire ainsi qu'aux conventions de mise à
+disposition de terrains acquis par application de l'article L. 143-3 du code de l'urbanisme comportent les clauses types
+suivantes : 
+
+A.-Cession 
+
+La présente cession est consentie par P.... (collectivité ou établissement public propriétaire) à A.... (acquéreur). 
+
+A.... s'engage
+
+.... à faire un usage du terrain conforme aux objectifs et modalités du programme d'action approuvé par le conseil général
+pour la protection et la mise en valeur des espaces agricoles et naturels périurbains dans le périmètre duquel il est situé. 
+
+(ou, lorsque le terrain acquis est situé également dans un espace naturel sensible)
+
+.... à aménager le terrain et à l'ouvrir au public conformément au programme d'action approuvé par le conseil général pour la
+protection et la mise en valeur des espaces agricoles et naturels périurbains dans le périmètre duquel il est situé. 
+
+A.... s'engage notamment à.... 
+
+A.... s'engage à ne pas procéder à la cession, la location ou la concession temporaire du terrain sans avoir obtenu l'accord
+du département. Le silence gardé par le département pendant deux mois à compter de la demande vaut accord. 
+
+En cas de cession, A.... s'engage à informer l'acquéreur potentiel des obligations résultant du présent cahier des charges
+qui lui seront transmises. 
+
+P.... se réserve la faculté de saisir le juge judiciaire d'une demande tendant à la résiliation de la cession, de la location
+ou de la concession temporaire avec toutes conséquences de droit s'il constate que les conditions posées par le contrat ou
+que les clauses du cahier des charges n'ont pas été respectées. 
+
+B.-Location, concession temporaire, mise à disposition 
+
+La présente location/ concession est consentie par P.... (collectivité ou établissement public propriétaire) à L....
+(locataire, concessionnaire, société d'aménagement foncier et de développement rural). 
+
+L.... s'engage à faire du terrain qui lui est loué/ concédé/ qui est mis à sa disposition un usage conforme aux objectifs et
+modalités du programme d'action approuvé par le conseil général pour la protection et la mise en valeur des espaces agricoles
+et naturels périurbains dans le périmètre duquel il est situé. 
+
+(ou, lorsque le terrain acquis est situé également dans un espace naturel sensible)
+
+.... à aménager le terrain et à l'ouvrir au public conformément au programme d'action approuvé par le conseil général pour la
+protection et la mise en valeur des espaces agricoles et naturels périurbains dans le périmètre duquel il est situé. 
+
+L.... s'engage notamment à.... 
+
+P.... se réserve la faculté de saisir le juge judiciaire d'une demande tendant à la résiliation de la location, de la
+concession temporaire ou de la convention avec toutes conséquences de droit s'il constate que les conditions posées par le
+contrat ou que les clauses du cahier des charges n'ont pas été respectées.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L143-3
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R113-29 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R143-8 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°2006-821 du 7 juillet 2006 - art. 1 () JORF 9 juillet 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 
 #### Chapitre V : Dispositions particulières aux zones de montagne
