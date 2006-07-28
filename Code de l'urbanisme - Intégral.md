@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2006-07-20
+Version Consolidée au 2006-07-29
 
 # Partie législative
 
@@ -46429,13 +46429,16 @@ f) Lorsque la construction est située dans un territoire en instance de classem
 g) Lorsque la construction fait partie des catégories d'aménagements, d'ouvrages ou de travaux soumis à enquête publique en
 application des articles R. 123-1 à R. 123-33 du code de l'environnement ;
 
-h) Lorsqu'il y a lieu de consulter l'Assemblée de Corse en application de l'article R. 421-16.
+h) Lorsqu'il y a lieu de consulter l'Assemblée de Corse en application de l'article R. 421-16 ;
+
+i) Lorsque la construction est située dans un espace compris dans le périmètre du coeur d'un parc national ou ayant vocation
+à y figurer au sens de l'article L. 331-6 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
+	  - Décret n°2006-944 du 28 juillet 2006 - art. 6 () JORF 29 juillet 2006
 
 	**Cité par**:
 
@@ -46469,7 +46472,8 @@ h) Lorsqu'il y a lieu de consulter l'Assemblée de Corse en application de l'art
 
 	  - Code de l'urbanisme - art. R421-16 (Ab)
 	  - Code de la construction et de l'habitation. - art. L631-7 (M)
-	  - Code de l'environnement R123-1 à R123-33
+	  - Code de l'environnement - art. L331-6 (M)
+	  - Code de l'environnement R123-1 à R123-33, L331-6
 	  - Loi n°1930-05-02 art. 17, art. 28
 
 	**Liens**:
@@ -47655,7 +47659,20 @@ dans le délai de deux mois suivant cette reception.
 
 ###### Article R421-38-7
 
-Lorsque la construction est, en raison de sa situation sur un territoire en instance de classement ou classé en réserve
+I. - Lorsque le projet est situé dans un espace compris dans le périmètre du coeur d'un parc national ou ayant vocation à y
+figurer au sens de l'article L. 331-6 du code de l'environnement, le permis de construire, le permis d'aménager, le permis de
+démolir ou la décision prise sur la déclaration préalable tient lieu de l'autorisation spéciale prévue par l'article L. 331-4
+ou l'article L. 331-6 du même code, dès lors que la décision a fait l'objet de l'accord :
+
+- du préfet lorsque le projet est situé dans un espace ayant vocation à figurer dans le coeur du parc national ;
+
+- du directeur de l'établissement public du parc national lorsque le projet est situé en dehors des espaces urbanisés du
+coeur du parc national, délimités par le décret de création ;
+
+- du préfet après consultation du directeur de l'établissement public du parc national lorsque le projet est situé dans les
+espaces urbanisés du coeur du parc national, délimités par le décret de création.
+
+II. Lorsque la construction est, en raison de sa situation sur un territoire en instance de classement ou classé en réserve
 naturelle, soumise à autorisation spéciale en application de l'article L. 332-6 ou de l'article L. 332-9 du code de
 l'environnement, le permis de construire ne peut être délivré qu'avec l'accord, selon le cas :
 
@@ -47685,13 +47702,20 @@ françaises et à Mayotte. Se reporter désormais aux articles R. 411-1 à R. 42
 
 	**Modifié par**:
 
-	  - Décret n°2005-491 du 18 mai 2005 - art. 5 () JORF 19 mai 2005
+	  - Décret n°2006-944 2006-07-28 art. 6 III, IV JORF 29 juillet 2006
+	  - Décret n°2006-944 du 28 juillet 2006 - art. 6 () JORF 29 juillet 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L332-6 (M)
+	  - Code de l'urbanisme - art. L331-4 (Ab)
+	  - Code de l'urbanisme - art. L332-6 (M)
+	  - Code de l'environnement - art. L331-6 (M)
 	  - Code de l'environnement - art. L332-9 (M)
-	  - Code de l'environnement L332-9, R242-24, R242-43, R242-62, L332-6
+	  - Code de l'environnement L331-6, L332-9, R242-24, R242-43, R242-62, R211-1 à R223-25, R411-1 à R423-20
 
 	**Codifié par**:
 
@@ -54446,12 +54470,12 @@ dispositions des articles R. 123-1 à R. 123-55 du code de la construction et de
 recevant du public et à l'article R. 421-53 du présent code ; dans ce cas il est effectué en liaison avec le directeur
 départemental des services d'incendie et de secours ;
 
-c) Lorsqu'il s'agit de travaux réalisés soit à l'intérieur d'un parc national créé en application des articles L. 331-1 à L.
-331-7 du code de l'environnement, soit à l'intérieur d'une réserve naturelle soumise aux dispositions des articles L. 332-1 à
-L. 332-19-1 du code de l'environnement ;
+c) Lorsqu'il s'agit de travaux réalisés soit à l'intérieur d'un coeur de parc national créé en application des articles L.
+331-1 et L. 331-2 du code de l'environnement, soit à l'intérieur d'une réserve naturelle soumise aux dispositions des
+articles L. 332-1 à L. 332-19-1 du code de l'environnement ;
 
 d) Lorsqu'il s'agit de travaux réalisés dans un secteur couvert par un plan de prévention des risques naturels prévisibles
-prévu par l'article  L. 562-1 du code de l'environnement, ou par un plan de prévention des risques miniers établi en
+prévu par l'article L. 562-1 du code de l'environnement, ou par un plan de prévention des risques miniers établi en
 application de l'article 94 du code minier ou par un plan de prévention des risques technologiques établi en application de
 l'article L. 515-15 du code de l'environnement.
 
@@ -54473,7 +54497,11 @@ l'article L. 515-15 du code de l'environnement.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1130 du 7 septembre 2005 - art. 13 () JORF 9 septembre 2005
+	  - Décret n°2006-944 du 28 juillet 2006 - art. 6 () JORF 29 juillet 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 	**Cite**:
 
@@ -58879,7 +58907,7 @@ l'environnement ;
 Périmètres de protection autour des réserves naturelles institués en application des articles L. 332-16 à L. 332-18 du code
 de l'environnement ;
 
-Parcs nationaux classés en application des articles L. 331-1 à L. 331-7 du code de l'environnement.
+Règles prévues au I de l'article L. 331-4 du code de l'environnement applicables dans le coeur d'un parc national.
 
 e) Zones agricoles protégées.
 
@@ -59142,7 +59170,7 @@ NOTA :
 
 	**Modifié par**:
 
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
+	  - Décret n°2006-944 du 28 juillet 2006 - art. 6 () JORF 29 juillet 2006
 
 
 ## Liste des communes comprises dans la zone 1
