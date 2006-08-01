@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2006-07-29
+Version Consolidée au 2006-08-02
 
 # Partie législative
 
@@ -32819,56 +32819,52 @@ relative à la création et à la protection des jardins familiaux.
 
 ## Livre III : Aménagement foncier
 
+###  Section 1 : Règles générales
+
 ###### Article R300-1
 
 Les opérations d'aménagement réalisées par les communes et les autres personnes publiques ou pour leur compte, qui sont
-soumises aux obligations prévues au c de l'article L. 300-2 sont les opérations suivantes :
+soumises aux obligations prévues au c de l'article L. 300-2 sont les opérations suivantes : 
 
-1. L'opération ayant pour objet dans une commune non dotée d'un plan local d'urbanisme ou d'un document d'urbanisme en tenant
+1.L'opération ayant pour objet dans une commune non dotée d'un plan local d'urbanisme ou d'un document d'urbanisme en tenant
 lieu, ayant fait l'objet d'une enquête publique, la création de plus de 5 000 mètres carrés de surface hors oeuvre brute ou
 la restauration, dans les conditions définies à l'article L. 313-4-1, d'un ensemble de bâtiments ayant au moins cette
-surface ;
+surface ; 
 
 2. La réalisation d'un investissement routier dans une partie urbanisée d'une commune d'un montant supérieur à 1 900 000
-euros, et conduisant à la création de nouveaux ouvrages ou à la modification d'assiette d'ouvrages existants ;
+euros, et conduisant à la création de nouveaux ouvrages ou à la modification d'assiette d'ouvrages existants ; 
 
 3. La transformation d'une voie existante en aire piétonne d'une superficie supérieure à 3 000 mètres carrés ou la
-suppression d'une aire piétonne d'une même superficie ;
+suppression d'une aire piétonne d'une même superficie ; 
 
 4. La création d'une gare ferroviaire ou routière de voyageurs, de marchandises ou de transit ou l'extension de son emprise,
-lorsque le montant des travaux dépasse 1 900 000 euros ;
+lorsque le montant des travaux dépasse 1 900 000 euros ; 
 
 5. Les travaux de modification de gabarit, de détournement ou de couverture de cours d'eau dans une partie urbanisée d'une
-commune, lorsque le montant des travaux dépasse 1 900 000 euros ;
+commune, lorsque le montant des travaux dépasse 1 900 000 euros ; 
 
 6. Les travaux de construction ou d'extension d'infrastructures portuaires des ports fluviaux situés dans une partie
 urbanisée d'une commune, lorsque le montant de ces travaux dépasse 1 900 000 euros, ainsi que la création d'un port fluvial
 de plaisance d'une capacité d'accueil supérieure à 150 places ou l'extension d'un port de plaisance portant sur au moins 150
-places ;
+places ; 
 
 7. Dans une partie urbanisée d'une commune, la création d'un port maritime de commerce, de pêche ou de plaisance, les travaux
 d'extension de la surface des plans d'eau abrités des ports maritimes de commerce ou de pêche d'un montant supérieur à 1 900
-000 euros, ainsi que les travaux ayant pour effet d'accroître de plus de 10 p. 100 la surface du plan d'eau abrité des ports
-maritimes de plaisance ;
+000 euros, ainsi que les travaux ayant pour effet d'accroître de plus de 10  % la surface du plan d'eau abrité des ports
+maritimes de plaisance ; 
 
 8. Les ouvrages et travaux sur une emprise de plus de 2 000 mètres carrés réalisés sur une partie de rivage, de lais ou
 relais de la mer située en dehors des ports et au droit d'une partie urbanisée d'une commune.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Codifié par**:
 
-	  - TXT_SOURCE: Directive 98-76 CE 1998-10-01
-	  - SPEC_APPLI: Décret n°2000-1272 du 26 décembre 2000 - art. 3 ()
-	  - SPEC_APPLI: Décret n°2001-1327 2001-12-28 art. 5 : champ d'application
-	  - TXT_SOURCE: Directive 96-26 CE 1996-04-29
-	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-	  - TXT_SOURCE: Règlement CE 2866/98 1998-12-31
-	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+	  - Décret n°73-1023 1973-11-08
 
 	**Modifié par**:
 
-	  - Décret n°2001-1327 du 28 décembre 2001 - art. 1 () JORF 29 décembre 2001 en vigueur le 1er janvier 2002
+	  - Décret n°2006-959 du 31 juillet 2006 - art. 1 () JORF 2 août 2006
 
 	**Cité par**:
 
@@ -32881,59 +32877,413 @@ relais de la mer située en dehors des ports et au droit d'une partie urbanisée
 	  - Code de l'urbanisme - art. L300-2 (M)
 	  - Code de l'urbanisme - art. L313-4-1 (M)
 
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
 
 ###### Article R300-2
 
 Lorsqu'une opération mentionnée au précédent article doit être réalisée en plusieurs tranches dans un intervalle de temps de
-moins de cinq ans, la totalité de l'opération est prise en compte pour l'application des seuils définis ci-dessus.
+moins de cinq ans, la totalité de l'opération est prise en compte pour l'application des seuils définis ci-dessus. 
 
 Le montant des seuils financiers prévus audit article est révisé par l'arrêté ministériel prévu à l'article R. 123-1 du code
 de l'environnement.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
-
-	**Cite**:
-
-	  - Code de l'environnement - art. R123-1 (V)
-
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°2006-959 du 31 juillet 2006 - art. 1 () JORF 2 août 2006
 
 	**Cité par**:
 
 	  - Décret n°2015-1782 du 28 décembre 2015 - art. 9 (V)
 
+	**Cite**:
+
+	  - Code de l'environnement - art. R123-1 (V)
+
 
 ###### Article R300-3
 
 Ne sont pas soumis aux dispositions de l'article L. 300-2 les travaux d'entretien et de grosses réparations quels que soient
-les ouvrages et aménagements auxquels ils se rapportent.
+les ouvrages et aménagements auxquels ils se rapportent. 
 
 Il en va de même des travaux et aménagements mentionnés à l'article R. 123-44 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
 	**Modifié par**:
 
-	  - Décret n°2005-935 2005-08-02 art. 8 JORF 5 août 2005
+	  - Décret n°2006-959 du 31 juillet 2006 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1782 du 28 décembre 2015 - art. 2
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L300-2 (M)
-	  - Code de l'environnement - art. R123-44 (M)
+	  - Code de l'urbanisme - art. L300-2 (VT)
+	  - Code de l'environnement - art. R123-44 (V)
+
+
+###  Section 2 : Concessions d'aménagement
+
+###### Article R*300-4
+
+Préalablement à la passation d'une concession d'aménagement, le concédant publie, dans une publication habilitée à recevoir
+des annonces légales et dans une publication spécialisée dans les domaines de l'urbanisme, des travaux publics ou de
+l'immobilier, un avis conforme à un modèle fixé par arrêté du ministre chargé de l'urbanisme.
+
+Cet avis précise la date limite de présentation des candidatures, qui ne peut être postérieure de moins d'un mois à celle de
+la publication de l'avis, et mentionne les caractéristiques essentielles de l'opération d'aménagement projetée, c'est-à-dire
+son objet, sa localisation et les principes de son financement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-959 du 31 juillet 2006 - art. 2 () JORF 2 août 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2009-889 du 22 juillet 2009 - art. 2
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*300-10 (T)
+	  - Code de l'urbanisme - art. R*300-11-1 (VD)
+	  - Code de l'urbanisme - art. R*300-11-7 (V)
+	  - Code de l'urbanisme - art. R300-11-8 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R*300-5 (VD)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*300-5
+
+Un avis, conforme au modèle fixé par le règlement communautaire n° 1564/2005 du 7 septembre 2005, est en outre adressé pour
+publication à l'Office des publications de l'Union européenne, lorsque le montant total des travaux nécessaires à la
+réalisation des équipements qui seront remis au concédant par le concessionnaire est égal ou supérieur à 5 270 000 euros hors
+taxes. Dans ce cas, la date limite de présentation des candidatures mentionnée à l'article R. 300-4 doit être postérieure de
+52 jours au moins à celle de l'envoi de l'avis à l'Office des publications de l'Union européenne.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-959 du 31 juillet 2006 - art. 2 () JORF 2 août 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2009-889 du 22 juillet 2009 - art. 2
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*300-10 (VT)
+	  - Code de l'urbanisme - art. R*300-11 (VT)
+	  - Code de l'urbanisme - art. R*300-6 (VT)
+	  - Code de l'urbanisme - art. R*300-9 (T)
+	  - Code de l'urbanisme - art. R300-9-1 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R*300-6 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Règlement 1564-2005 CE 2005-09-07
+
+
+###### Article R*300-6
+
+Le concédant adresse, le cas échéant par courrier électronique, à chacun des candidats un document précisant les
+caractéristiques essentielles de la concession d'aménagement et indiquant le programme global prévisionnel des équipements et
+des constructions projetés ainsi que les conditions de mise en oeuvre de l'opération. Il précise également les modalités et
+la date limite de réception des propositions des candidats. Cette date doit être postérieure d'un mois au moins à celle de
+l'envoi du document.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*300-10 (T)
+	  - Décret n°2016-86 du 1er février 2016 - art. 54
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R*300-7 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°2006-959 du 31 juillet 2006 - art. 2 () JORF 2 août 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2009-889 du 22 juillet 2009 - art. 2
+
+
+###### Article R*300-7
+
+Le concédant choisit le concessionnaire en prenant notamment en compte les capacités techniques et financières des candidats
+et leur aptitude à conduire l'opération d'aménagement projetée, après avoir engagé librement toute discussion utile avec une
+ou plusieurs personnes ayant présenté une candidature.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-959 du 31 juillet 2006 - art. 2 () JORF 2 août 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2009-889 du 22 juillet 2009 - art. 2
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*300-11 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R*300-8 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*300-8
+
+Lorsque le concédant est une collectivité territoriale ou un groupement de collectivités territoriales, une commission est
+constituée au sein de son organe délibérant à la représentation proportionnelle à la plus forte moyenne. Cette commission
+émet un avis sur les candidatures reçues, préalablement à l'engagement des discussions mentionnées à l'article R. 300-7.
+
+L'organe délibérant désigne le concessionnaire, sur proposition de l'autorité compétente, au vu de cet avis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°2006-959 du 31 juillet 2006 - art. 2 () JORF 2 août 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2009-889 du 22 juillet 2009 - art. 2
+
+	**Cité par**:
+
+	  - Décret n°2016-86 du 1er février 2016 - art. 54
+	  - Code de l'urbanisme - art. R*300-9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R*300-9 (VD)
+
+	**Cite**:
+
+	  - Code de l'urbanisme R300-7
+
+
+###### Article R*300-9
+
+Pour les concessions mentionnées à l'article R. 300-5, le concédant adresse à l'Office des publications de l'Union européenne
+un avis d'attribution conforme au modèle fixé par le règlement communautaire n° 1564 / 2005 du 7 septembre 2005.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R*300-10 (VD)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*300-11 (VT)
+	  - Code de l'urbanisme - art. R*300-11-2 (VD)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*300-5 (V)
+	  - Code de l'urbanisme R300-5
+	  - Règlement 1564-2005 CE 2005-09-07
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°2006-959 du 31 juillet 2006 - art. 2 () JORF 2 août 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2009-889 du 22 juillet 2009 - art. 2
+
+
+###### Article R*300-10
+
+Les dispositions des articles R. 300-6 et R. 300-8 ne sont pas applicables lorsque la participation financière prévisionnelle
+cumulée du concédant et d'autres personnes publiques, prévue aux II et III de l'article L. 300-5, est inférieure à 135 000
+euros hors taxes et à condition que les terrains susceptibles, le cas échéant, d'être expropriés ou acquis par voie de
+préemption ou les terrains appartenant au concédant destinés à être cédés au concessionnaire représentent moins de 10 % des
+terrains inclus dans le périmètre de l'opération. 
+
+Les avis prévus aux articles R. 300-4 et R. 300-5 mentionnent ces conditions et le recours à la procédure simplifiée de choix
+des candidats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°2006-959 du 31 juillet 2006 - art. 2 () JORF 2 août 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2009-889 du 22 juillet 2009 - art. 2
+
+	**Cité par**:
+
+	  - Décret n°2016-86 du 1er février 2016 - art. 54
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L300-5 (V)
+	  - Code de l'urbanisme - art. R*300-4 (V)
+	  - Code de l'urbanisme - art. R*300-6 (V)
+	  - Code de l'urbanisme R300-6, R300-8, L300-5, R300-4, R300-5
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R*300-11 (VD)
+
+
+###### Article R*300-11
+
+Les dispositions de la présente section sont applicables aux concessions d'aménagement pour lesquelles le concessionnaire est
+rémunéré substantiellement par les résultats de l'opération d'aménagement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°2006-959 du 31 juillet 2006 - art. 2 () JORF 2 août 2006
+
+	**Cité par**:
+
+	  - Décret n°2016-86 du 1er février 2016 - art. 54
+
+
+###  Section 3 : Contrats conclus par le concessionnaire d'une opération d'aménagement
+
+###### Article R*300-12
+
+Lorsque le concessionnaire n'est pas un pouvoir adjudicateur au sens de l'article 3 de l'ordonnance n° 2005-649 du 6 juin
+2005 relative aux marchés passés par certaines personnes publiques ou privées non soumises au code des marchés publics, les
+contrats d'études, de maîtrise d'oeuvre et de travaux qu'il passe pour l'exécution de la concession sont conclus dans les
+conditions définies par le titre III du décret n° 2005-1742 du 30 décembre 2005 pris pour l'application de cette ordonnance. 
+
+Toutefois, lorsque la participation financière prévisionnelle cumulée du concédant et d'autres personnes publiques, prévue au
+II et au III de l'article L. 300-5, est inférieure ou égale à 135 000 euros hors taxes et lorsque les terrains susceptibles,
+le cas échéant, d'être expropriés ou acquis par voie de préemption ou les terrains appartenant au concédant destinés à être
+cédés au concessionnaire représentent moins de 10 % des terrains inclus dans le périmètre de l'opération, les contrats
+d'études, de maîtrise d'oeuvre ou de travaux ne sont pas soumis à ces règles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 3 (V)
+	  - Décret n°2005-1742 du 30 décembre 2005 -  TITRE III : PASSATION DES MARCHÉS (V)
+	  - Code de l'urbanisme - art. L300-5 (V)
+
+	**Créé par**:
+
+	  - Décret n°2006-959 du 31 juillet 2006 - art. 2 () JORF 2 août 2006
+
+
+###### Article R*300-13
+
+Lorsqu'un contrat d'études, de maîtrise d'oeuvre ou de travaux n'est pas soumis aux dispositions du titre III du décret n°
+2005-1742 du 30 décembre 2005 pris pour l'application de l'ordonnance n° 2005-649 du 6 juin 2005, il est passé selon des
+modalités de publicité et de mise en concurrence déterminées librement par le concessionnaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Ordonnance n°2005-649 du 6 juin 2005 (V)
+	  - Décret n°2005-1742 du 30 décembre 2005 -  TITRE III : PASSATION DES MARCHÉS (V)
+
+	**Créé par**:
+
+	  - Décret n°2006-959 du 31 juillet 2006 - art. 2 () JORF 2 août 2006
+
+
+###### Article R*300-14
+
+Le concessionnaire informe le concédant, dans un délai de trente jours à compter de la conclusion des contrats conclus dans
+les conditions définies par le titre III du décret n° 2005-1742 du 30 décembre 2005 pris pour l'application de l'ordonnance
+n° 2005-649 du 6 juin 2005, du nom du titulaire ainsi que du montant du contrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Ordonnance n°2005-649 du 6 juin 2005
+	  - Décret n°2005-1742 du 30 décembre 2005
+
+	**Créé par**:
+
+	  - Décret n°2006-959 du 31 juillet 2006 - art. 2 () JORF 2 août 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2016-86 du 1er février 2016 - art. 54
+
+	**Cité par**:
+
+	  - Décret n°2016-86 du 1er février 2016 - art. 54
 
 
 ###  Titre Ier : Opérations d'aménagement
@@ -32971,35 +33321,32 @@ un établissement public ayant vocation, de par la loi ou ses statuts, à réali
 
 La personne publique qui a pris l'initiative de la création de la zone constitue un dossier de création, approuvé, sauf
 lorsqu'il s'agit de l'Etat, par son organe délibérant. Cette délibération peut tirer simultanément le bilan de la
-concertation, en application du sixième alinéa de l'article L. 300-2.
+concertation, en application du sixième alinéa de l'article L. 300-2. 
 
-Le dossier de création comprend :
+Le dossier de création comprend : 
 
 a) Un rapport de présentation, qui expose notamment l'objet et la justification de l'opération, comporte une description de
 l'état du site et de son environnement, indique le programme global prévisionnel des constructions à édifier dans la zone,
 énonce les raisons pour lesquelles, au regard des dispositions d'urbanisme en vigueur sur le territoire de la commune et de
-l'insertion dans l'environnement naturel ou urbain, le projet faisant l'objet du dossier de création a été retenu ;
+l'insertion dans l'environnement naturel ou urbain, le projet faisant l'objet du dossier de création a été retenu ; 
 
-b) Un plan de situation ;
+b) Un plan de situation ; 
 
-c) Un plan de délimitation du ou des périmètres composant la zone ;
+c) Un plan de délimitation du ou des périmètres composant la zone ; 
 
-d) L'étude d'impact définie à l'article R. 122-3 du code de l'environnement.
+d) L'étude d'impact définie à l'article R. 122-3 du code de l'environnement. 
 
-Le dossier précise également si la taxe locale d'équipement sera ou non exigible dans la zone. Il mentionne si le mode de
-réalisation choisi relève soit des 1° et 2° de l'article R. 311-6, soit du 3° du même article.
+Le dossier précise également si la taxe locale d'équipement sera ou non exigible dans la zone.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
+	  - Décret n°2006-959 du 31 juillet 2006 - art. 3 () JORF 2 août 2006
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L300-2 (M)
-	  - Code de l'urbanisme - art. R*311-6 (M)
-	  - Code de l'environnement - art. R122-3 (V)
+	  - Code de l'urbanisme - art. L300-2 (VT)
 
 	**Cité par**:
 
@@ -33067,8 +33414,8 @@ l'établissement public de coopération intercommunale du dossier de création.
 ###### Article R*311-5
 
 L'acte qui crée la zone d'aménagement concerté en délimite le ou les périmètres. Il indique le programme global prévisionnel
-des constructions à édifier à l'intérieur de la zone. Il mentionne si le mode de réalisation choisi relève soit des 1° et 2°
-de l'article R. 311-6, soit du 3° du même article, ainsi que le régime applicable au regard de la taxe locale d'équipement.
+des constructions à édifier à l'intérieur de la zone. Il mentionne le régime applicable au regard de la taxe locale
+d'équipement.
 
 Il est affiché pendant un mois en mairie ou au siège de l'établissement public de coopération intercommunale compétent et,
 dans ce cas, dans les mairies des communes membres concernées. Mention de cet affichage est insérée en caractères apparents
@@ -33099,13 +33446,12 @@ où il est effectué.
 
 	**Modifié par**:
 
-	  - Décret n°2001-261 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
+	  - Décret n°2006-959 du 31 juillet 2006 - art. 3 () JORF 2 août 2006
 
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. R2121-10 (V)
 	  - Code général des collectivités territoriales - art. R5211-41 (V)
-	  - Code de l'urbanisme - art. R*311-6 (M)
 
 	**Cité par**:
 
@@ -33129,22 +33475,18 @@ L'aménagement et l'équipement de la zone sont :
 
 1° Soit conduits directement par la personne morale qui a pris l'initiative de sa création ;
 
-2° Soit confiés, par cette personne morale, à un établissement public ou à une société d'économie mixte selon les
-stipulations d'une convention publique d'aménagement répondant aux conditions définies aux articles L. 300-4 et L. 300-5 ;
-
-3° Soit confiés, par cette personne morale, selon les stipulations d'une convention à une personne privée ou publique.
+2° Soit concédés, par cette personne morale, dans les conditions définies par les articles L. 300-4 à L. 300-5-2.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2001-261 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
+	  - Décret n°2006-959 du 31 juillet 2006 - art. 3 () JORF 2 août 2006
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L123-3 (M)
-	  - Code de l'urbanisme - art. L300-4 (M)
-	  - Code de l'urbanisme - art. L300-5 (Ab)
+	  - Code de l'urbanisme L123-3, L300-4 à L300-5-2
 
 	**Cité par**:
 
@@ -43822,10 +44164,23 @@ l'urbanisme.
 
 ###### Article R*333-26
 
-Le trésorier-payeur général reçoit notification de la convention d'aménagement ou du traité de concession à l'initiative du
-représentant de l'Etat dans le département ou de son délégué dans l'arrondissement.
+Le trésorier-payeur général reçoit notification du traité de concession à l'initiative du représentant de l'Etat dans le
+département ou de son délégué dans l'arrondissement.
+
+**Nota:**
+
+Décret 2007-18 du 5 janvier 2007 art. 14 : Les dispositions du chapitre III du titre III du livre III du code de l'urbanisme
+relatives au plafond légal de densité, dans leur rédaction antérieure à l'entrée en vigueur du présent décret, demeurent
+applicables dans les communes où un plafond légal de densité était institué le 31 décembre 1999 et dont le conseil municipal
+ou l'organe délibérant de l'établissement public de coopération intercommunale compétent n'a pas décidé de supprimer le
+plafond légal de densité ou d'instaurer la participation pour voirie et réseaux définie par l'article L. 332-11-1 du code de
+l'urbanisme.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Date de fin de vigueur indéterminée
 
 	**Codifié par**:
 
@@ -43833,7 +44188,11 @@ représentant de l'Etat dans le département ou de son délégué dans l'arrondi
 
 	**Modifié par**:
 
-	  - Décret n°93-422 du 19 mars 1993 - art. 6 () JORF 24 mars 1993
+	  - Décret n°2006-959 du 31 juillet 2006 - art. 4 () JORF 2 août 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
 
 
 ###### Article R*333-27
@@ -46995,10 +47354,9 @@ relatif aux procédures administratives et financières en matière d'archéolog
 premier alinéa court à compter de la remise du rapport de diagnostic et en cas de fouilles, de la délivrance de l'attestation
 préfectorale ou du certificat prévus par l'article 53 dudit décret.
 
-Le délai de validité du permis de construire est suspendu, le cas échéant, pendant la durée du sursis à exécution de la
-décision portant octroi dudit permis, ordonné par décision juridictionnelle ou administrative, ainsi que, en cas d'annulation
-du permis de construire prononcée par jugement du tribunal administratif frappé d'appel, jusqu'à la décision rendue par le
-conseil d'Etat.
+Lorsque le permis de construire fait l'objet d'un recours en annulation devant la juridiction administrative ou d'un recours
+devant la juridiction civile en application de l'article L. 480-13, le délai de validité de ce permis est suspendu jusqu'à la
+notification de la décision juridictionnelle irrévocable.
 
 Il peut être prorogé pour une nouvelle année, sur demande de son bénéficiaire adressée à l'autorité administrative deux mois
 au moins avant l'expiration du délai de validité, si les prescriptions d'urbanisme et les servitudes administratives de tous
@@ -47028,16 +47386,10 @@ demande. La prorogation prend effet à la date de la décision de prorogation ou
 	  - Code de l'urbanisme - art. R421-44 (Ab)
 	  - Code de l'urbanisme - art. R421-46 (Ab)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-490 2004-06-03 art. 122 : réserves
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-15 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-28 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-47 (M)
-
 	**Cite**:
 
 	  - Décret n°2004-490 2004-06-03 art. 14, art. 53
+	  - Code de l'urbanisme - art. L480-13 (M)
 	  - Code de l'urbanisme - art. R421-33 (M)
 	  - Code de l'urbanisme - art. R421-34 (M)
 	  - Code de l'urbanisme - art. R421-36 (M)
@@ -47045,12 +47397,22 @@ demande. La prorogation prend effet à la date de la décision de prorogation ou
 
 	**Modifié par**:
 
-	  - Décret n°2004-490 du 3 juin 2004 - art. 111 () JORF 5 juin 2004 en vigueur le 1er août 2004
+	  - Décret n°2006-958 du 31 juillet 2006 - art. 1 () JORF 2 août 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 	**Anciens textes**:
 
 	  - Code de l'urbanisme - art. R*421-38 (M)
 	  - Code de l'urbanisme - art. R421-38 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-15 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-28 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-47 (M)
 
 	**Codifié par**:
 
