@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2006-08-02
+Version Consolidée au 2006-08-05
 
 # Partie législative
 
@@ -29608,6 +29608,8 @@ contrat ou que les clauses du cahier des charges n'ont pas été respectées.
 
 #### Chapitre V : Dispositions particulières aux zones de montagne
 
+##### Section 1 : Unités touristiques nouvelles.
+
 ###### Article R145-1
 
 Dans le cas prévu à l'article L. 145-11 du code de l'urbanisme, la demande d'autorisation de créer une unité touristique
@@ -29616,9 +29618,9 @@ l'emprise du projet ; elle peut porter simultanément sur plusieurs opérations.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-52 1986-01-10 art. 1 JORF 14 janvier 1986
+	  - Décret n°2006-993 du 1 août 2006 - art. 1 () JORF 5 août 2006
 
 	**Cite**:
 
@@ -29636,7 +29638,7 @@ l'emprise du projet ; elle peut porter simultanément sur plusieurs opérations.
 
 ###### Article R145-2
 
-La demande est accompagnée d'un dossier constitué par un rapport et des documents graphiques décrivant [*contenu*]:
+La demande est accompagnée d'un dossier constitué par un rapport et des documents graphiques décrivant *contenu*:
 
 1° L'état du site et de son environnement, celui du bâti, des infrastructures et des équipements touristiques existants avec
 leurs conditions de fréquentation ainsi que les principales caractéristiques de l'économie locale ;
@@ -29654,9 +29656,9 @@ mesures de protection et de réhabilitation à prévoir et l'estimation de leur 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-52 1986-01-10 art. 1 JORF 14 janvier 1986
+	  - Décret n°2006-993 du 1 août 2006 - art. 1 () JORF 5 août 2006
 
 	**Cité par**:
 
@@ -29677,13 +29679,9 @@ département ou déposés contre décharge à la préfecture.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°86-52 1986-01-10 art. 1 JORF 14 janvier 1986
-
 	**Modifié par**:
 
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°2006-993 du 1 août 2006 - art. 1 () JORF 5 août 2006
 
 	**Cité par**:
 
@@ -29703,21 +29701,17 @@ conditions prévues à l'article R. 145-3.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R145-3 (M)
-
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Créé par**:
-
-	  - Décret n°86-52 1986-01-10 art. 1 JORF 14 janvier 1986
-
 	**Modifié par**:
 
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°2006-993 du 1 août 2006 - art. 1 () JORF 5 août 2006
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R145-3 (M)
 
 
 ###### Article R145-5
@@ -29735,13 +29729,9 @@ le délai de trois mois court à compter de la date de cette réunion.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°86-52 1986-01-10 art. 1 JORF 14 janvier 1986
-
 	**Modifié par**:
 
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°2006-993 du 1 août 2006 - art. 1 () JORF 5 août 2006
 
 	**Cité par**:
 
@@ -29776,21 +29766,17 @@ moins avant la date fixée pour l'examen de la demande un compte rendu des obser
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R145-5 (M)
+
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Créé par**:
-
-	  - Décret n°86-52 1986-01-10 art. 1 JORF 14 janvier 1986
-
 	**Modifié par**:
 
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R145-5 (M)
+	  - Décret n°2006-993 du 1 août 2006 - art. 1 () JORF 5 août 2006
 
 
 ###### Article R145-7
@@ -29811,13 +29797,9 @@ dans le département.
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Créé par**:
-
-	  - Décret n°86-52 1986-01-10 art. 1 JORF 14 janvier 1986
-
 	**Modifié par**:
 
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°2006-993 du 1 août 2006 - art. 1 () JORF 5 août 2006
 
 	**Cité par**:
 
@@ -29840,13 +29822,9 @@ concernés.
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Créé par**:
-
-	  - Décret n°86-52 1986-01-10 art. 1 JORF 14 janvier 1986
-
 	**Modifié par**:
 
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°2006-993 du 1 août 2006 - art. 1 () JORF 5 août 2006
 
 
 ###### Article R145-9
@@ -29863,22 +29841,18 @@ pour assurer la coordination dans le massif.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°86-52 1986-01-10 art. 1 JORF 14 janvier 1986
-
 	**Modifié par**:
 
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°2006-993 du 1 août 2006 - art. 1 () JORF 5 août 2006
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. R145-1 (M)
 	  - Code de l'urbanisme - art. R145-5 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R145-10
@@ -29907,11 +29881,6 @@ consommation.
 	  - TXT_SOURCE: Arrêté du 14 septembre 1994 - art. 1 (V)
 	  - TXT_SOURCE: Arrêté du 6 février 2002
 	  - TXT_SOURCE: Arrêté du 6 février 2002 - art. 1 (V)
-	  - TXT_SOURCE: Directive 96-26 CE 1996-04-29
-	  - TXT_SOURCE: Directive 98-76 CE 1998-10-01
-	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-	  - TXT_SOURCE: Règlement CE 2866/98 1998-12-31
-	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 	**Cité par**:
 
@@ -29925,7 +29894,159 @@ consommation.
 
 	**Modifié par**:
 
-	  - Décret n°2002-748 du 2 mai 2002 - art. 1 () JORF 4 mai 2002
+	  - Décret n°2006-993 du 1 août 2006 - art. 1 () JORF 5 août 2006
+
+
+#####  Section 2 : Dispositions relatives aux lacs et plans d'eau
+
+###### Article *R145-11
+
+La délimitation du champ d'application, autour des lacs de montagne de plus de mille hectares, des dispositions du présent
+chapitre et des dispositions particulières au littoral figurant au chapitre VI du présent titre est effectuée soit à
+l'initiative de l'Etat, soit à l'initiative concordante des communes riveraines du lac.
+
+**Nota:**
+
+Le Conseil d'Etat, par décision n° 297931 en date du 3 octobre 2008 a annulé le décret 2006-993 du 1er août 2006 qui créait
+le présent article.
+
+Cependant, le décret n° 2006-1683 réécrivait la section  et confirmait la créations des aticles R. 145-11 à R145-15. Ce
+décret n'a pas fait l'objet d'une annulation.
+
+**Liens relatifs à cet article**
+
+	**Annulé par**:
+
+	  - Conseil d'Etat n°297931 2008-10-03
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°2006-993 du 1 août 2006 - art. 1 () JORF 5 août 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+
+###### Article *R145-12
+
+I. - Lorsque la délimitation est effectuée à l'initiative de l'Etat, le préfet adresse aux communes riveraines du lac un
+dossier comprenant :
+
+a) Un plan de délimitation portant sur l'ensemble du lac ;
+
+b) Une notice exposant les raisons, tenant au relief, à la configuration des lieux, bâtis et non bâtis, à la visibilité
+depuis le lac, à la préservation sur ses rives des équilibres économiques et écologiques ainsi qu'à la qualité des sites et
+des paysages, pour lesquelles la délimitation proposée a été retenue.
+
+L'avis des communes est réputé émis si le conseil municipal ne s'est pas prononcé dans le délai de deux mois à compter de
+l'envoi du projet au maire.
+
+II. - Lorsque la délimitation est effectuée à l'initiative des communes, celles-ci adressent au préfet le dossier prévu au I
+du présent article, accompagné de la délibération de chaque conseil municipal.
+
+**Nota:**
+
+Le Conseil d'Etat, par décision n° 297931 en date du 3 octobre 2008 a annulé le décret 2006-993 du 1er août 2006 qui créait
+le présent article.
+
+Cependant, le décret n° 2006-1683 réécrivait la section  et confirmait la créations des aticles R. 145-11 à R145-15. Ce
+décret n'a pas fait l'objet d'une annulation.
+
+**Liens relatifs à cet article**
+
+	**Annulé par**:
+
+	  - Conseil d'Etat n°297931 2008-10-03
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°2006-993 du 1 août 2006 - art. 1 () JORF 5 août 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+
+###### Article *R145-13
+
+Le dossier, accompagné des avis ou propositions des conseils municipaux, est soumis à enquête publique par le préfet dans les
+conditions prévues par les articles R. 123-7 à R. 123-23 du code de l'environnement. 
+
+A l'issue de l'enquête publique, le préfet adresse au ministre chargé de l'urbanisme le dossier de délimitation ainsi que le
+rapport du commissaire enquêteur ou de la commission d'enquête et une copie des registres de l'enquête.
+
+**Nota:**
+
+Le Conseil d'Etat, par décision n° 297931 en date du 3 octobre 2008 a annulé le décret 2006-993 du 1er août 2006 qui créait
+le présent article.
+
+Cependant, le décret n° 2006-1683 réécrivait la section  et confirmait la créations des aticles R. 145-11 à R145-15. Ce
+décret n'a pas fait l'objet d'une annulation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-993 du 1 août 2006 - art. 1 () JORF 5 août 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Cite**:
+
+	  - Code de l'environnement - art. R123-23
+	  - Code de l'environnement - art. R123-7
+
+	**Annulé par**:
+
+	  - Conseil d'Etat n°297931 2008-10-03
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article *R145-14
+
+Le décret en Conseil d'Etat approuvant la délimitation est publié au Journal officiel de la République française. Il est tenu
+à la disposition du public à la préfecture et à la mairie de chacune des communes riveraines du lac. Il est affiché pendant
+un mois à la mairie de chacune de ces communes.
+
+**Nota:**
+
+Le Conseil d'Etat, par décision n° 297931 en date du 3 octobre 2008 a annulé le décret 2006-993 du 1er août 2006 qui créait
+le présent article.
+
+Cependant, le décret n° 2006-1683 réécrivait la section  et confirmait la créations des aticles R. 145-11 à R145-15. Ce
+décret n'a pas fait l'objet d'une annulation.
+
+**Liens relatifs à cet article**
+
+	**Annulé par**:
+
+	  - Conseil d'Etat n°297931 2008-10-03
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°2006-993 du 1 août 2006 - art. 1 () JORF 5 août 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 
 #### Chapitre VI : Dispositions particulières au littoral
