@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2006-08-05
+Version Consolidée au 2006-10-07
 
 # Partie législative
 
@@ -53666,39 +53666,6 @@ d'inspection desdits terrains.
 
 	  - Code de l'urbanisme - art. R443-7 (M)
 	  - Code de l'urbanisme R443-7, R443-8-1, R443-8-2
-
-
-###### Article R*443-16
-
-Sans préjudice de l'article 184 du Code pénal, sera puni de l'amende prévue pour les contraventions de la cinquième classe
-celui qui, sans l'autorisation de son propriétaire ou de son utilisateur, ouvrira une tente, une caravane, ou d'une manière
-générale, un abri de camping ou y pénétrera[*sanctions*].
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
-
-	**Abrogé par**:
-
-	  - Décret n°2006-1229 du 6 octobre 2006 - art. 5 () JORF 7 octobre 2006
-
-	**Cite**:
-
-	  - Code pénal 184
-
-	**Nouveaux textes**:
-
-	  - Code du tourisme. - art. R331-11 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R440-23 (T)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 #### CHAPITRE IV : Habitations légères de loisirs
