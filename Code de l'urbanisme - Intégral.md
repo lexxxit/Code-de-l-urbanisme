@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2006-10-07
+Version Consolidée au 2006-11-01
 
 # Partie législative
 
@@ -20889,6 +20889,223 @@ dates fixées par décret en Conseil d'Etat et au plus tard le 1er juillet 2007.
 	**Créé par**:
 
 	  - Loi n°2006-686 du 13 juin 2006 - art. 32 () JORF 14 juin 2006
+
+
+### Titre III : Dispositions propres aux constructions
+
+#### Chapitre III : Dispositions propres aux permis délivrés à titre précaire
+
+###### Article L433-1
+
+Une construction n'entrant pas dans le champ d'application de l'article L. 421-5 et ne satisfaisant pas aux exigences fixées
+par l'article L. 421-6 peut exceptionnellement être autorisée à titre précaire dans les conditions fixées par le présent
+chapitre. 
+
+Dans ce cas, le permis de construire est soumis à l'ensemble des conditions prévues par les chapitres II à IV du titre II du
+présent livre.
+
+**Nota:**
+
+L'article 41 de l'ordonnance n° 2005-1527 énonce : " La présente ordonnance entrera en vigueur à des dates fixées par décret
+en Conseil d'Etat et au plus tard le 1er octobre 2007. " 
+
+Le décret n° 2006-1220 du 6 octobre 2006 fixe l'entrée en vigueur de l'article 15 de l'ordonnance n° 2005-1527, en tant qu'il
+remplace les articles L. 423-1 à L. 423-5 du code de l'urbanisme par les articles L. 433-1 à L. 433-7 du même code, au 1er
+novembre 2006.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er novembre 2006
+
+	**Cité par**:
+
+	  - Décret n°2006-1220 du 4 octobre 2006 - art. 1 (Ab)
+	  - Code de l'urbanisme - art. R520-8 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L421-5 (V)
+	  - Code de l'urbanisme - art. L421-6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L433-2
+
+L'arrêté accordant le permis de construire prescrit l'établissement aux frais du demandeur et par voie d'expertise
+contradictoire d'un état descriptif des lieux.
+
+Il peut fixer un délai à l'expiration duquel le pétitionnaire doit enlever la construction autorisée. Un décret en Conseil
+d'Etat précise les secteurs protégés dans lesquels la fixation d'un délai est obligatoire.
+
+**Nota:**
+
+L'article 41 de l'ordonnance n° 2005-1527 énonce : " La présente ordonnance entrera en vigueur à des dates fixées par décret
+en Conseil d'Etat et au plus tard le 1er octobre 2007. " 
+
+Le décret n° 2006-1220 du 6 octobre 2006 fixe l'entrée en vigueur de l'article 15 de l'ordonnance n° 2005-1527, en tant qu'il
+remplace les articles L. 423-1 à L. 423-5 du code de l'urbanisme par les articles L. 433-1 à L. 433-7 du même code, au 1er
+novembre 2006.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er novembre 2006
+
+
+###### Article L433-3
+
+Le bénéficiaire du permis de construire ou son ayant droit doit enlever sans indemnité la construction et remettre, à ses
+frais, le terrain en l'état :
+
+a) A la date fixée par le permis ;
+
+b) Ou, lorsque la construction est située sur un emplacement réservé ou dans le périmètre d'une déclaration d'utilité
+publique, à la première demande du bénéficiaire de la réserve ou de l'expropriant.
+
+**Nota:**
+
+L'article 41 de l'ordonnance n° 2005-1527 énonce : " La présente ordonnance entrera en vigueur à des dates fixées par décret
+en Conseil d'Etat et au plus tard le 1er octobre 2007. " 
+
+Le décret n° 2006-1220 du 6 octobre 2006 fixe l'entrée en vigueur de l'article 15 de l'ordonnance n° 2005-1527, en tant qu'il
+remplace les articles L. 423-1 à L. 423-5 du code de l'urbanisme par les articles L. 433-1 à L. 433-7 du même code, au 1er
+novembre 2006.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er novembre 2006
+
+
+###### Article L433-4
+
+Si l'arrêté accordant le permis de construire a fixé un délai pour l'enlèvement de la construction et si la remise en état
+intervient à l'initiative de la puissance publique avant l'expiration de ce délai, une indemnité proportionnelle au délai
+restant à courir est accordée.
+
+**Nota:**
+
+L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par décret
+en Conseil d'Etat et au plus tard le 1er octobre 2007."
+
+Le décret n° 2006-1220 du 6 octobre 2006 fixe l'entrée en vigueur de l'article 15 de l'ordonnance n° 2005-1527, en tant qu'il
+remplace les articles L. 423-1 à L. 423-5 du code de l'urbanisme par les articles L. 433-1 à L. 433-7 du même code, au 1er
+novembre 2006.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er novembre 2006
+
+
+###### Article L433-5
+
+En cas d'acquisition du terrain d'assiette par l'Etat, par une collectivité publique ou un établissement public, il n'est pas
+tenu compte de la valeur des constructions édifiées sur le fondement d'un permis de construire délivré à titre précaire, ni
+de la valeur ou de l'augmentation de valeur des fonds de commerce ou d'industrie dont ces constructions auraient permis la
+création, le développement ou la transformation.
+
+Les frais de démolition ou d'enlèvement de la construction sont déduits du prix ou de l'indemnité si la remise en état n'a
+pas été faite par le bénéficiaire du permis ou son ayant droit avant le transfert de propriété.
+
+**Nota:**
+
+L'article 41 de l'ordonnance n° 2005-1527 énonce : " La présente ordonnance entrera en vigueur à des dates fixées par décret
+en Conseil d'Etat et au plus tard le 1er octobre 2007. " 
+
+Le décret n° 2006-1220 du 6 octobre 2006 fixe l'entrée en vigueur de l'article 15 de l'ordonnance n° 2005-1527, en tant qu'il
+remplace les articles L. 423-1 à L. 423-5 du code de l'urbanisme par les articles L. 433-1 à L. 433-7 du même code, au 1er
+novembre 2006.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er novembre 2006
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R520-8 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L433-6
+
+Nonobstant toutes dispositions contraires, les titulaires de droits réels ou de baux de toute nature portant sur des
+constructions créées ou aménagées en application du présent chapitre ne peuvent prétendre à aucune indemnité de la part de
+l'autorité qui a fait procéder à la remise en état.
+
+Il en est de même des titulaires de droits réels ou de baux de toute nature constitués après l'intervention de l'arrêté du
+permis de construire sur des bâtiments existant à cette date que le pétitionnaire s'est engagé, lors de la demande de permis
+de construire, à supprimer dans les mêmes conditions.
+
+**Nota:**
+
+L'article 41 de l'ordonnance n° 2005-1527 énonce : " La présente ordonnance entrera en vigueur à des dates fixées par décret
+en Conseil d'Etat et au plus tard le 1er octobre 2007. " 
+
+Le décret n° 2006-1220 du 6 octobre 2006 fixe l'entrée en vigueur de l'article 15 de l'ordonnance n° 2005-1527, en tant qu'il
+remplace les articles L. 423-1 à L. 423-5 du code de l'urbanisme par les articles L. 433-1 à L. 433-7 du même code, au 1er
+novembre 2006.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er novembre 2006
+
+
+###### Article L433-7
+
+A peine de nullité, tout acte portant vente, location ou constitution de droits réels sur des bâtiments édifiés sur le
+fondement d'un permis délivré à titre précaire en application des dispositions du présent chapitre doit mentionner ce
+caractère précaire.
+
+**Nota:**
+
+L'article 41 de l'ordonnance n° 2005-1527 énonce : " La présente ordonnance entrera en vigueur à des dates fixées par décret
+en Conseil d'Etat et au plus tard le 1er octobre 2007. " 
+
+Le décret n° 2006-1220 du 6 octobre 2006 fixe l'entrée en vigueur de l'article 15 de l'ordonnance n° 2005-1527, en tant qu'il
+remplace les articles L. 423-1 à L. 423-5 du code de l'urbanisme par les articles L. 433-1 à L. 433-7 du même code, au 1er
+novembre 2006.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er novembre 2006
 
 
 ### Titre VIII : Infractions
@@ -59247,16 +59464,12 @@ Les architectes-conseils et les paysagistes-conseils peuvent percevoir :
 brut annuel correspondant à l'indice brut 944 ;
 
 - pour ceux affectés dans les régions ou départements d'outre-mer, une rémunération au titre de leur vacation journalière à
-hauteur de 120/10 000 du traitement brut annuel correspondant à l'indice brut 944.
+hauteur de 120/10 000 du traitement brut annuel correspondant à l'indice brut 944. 
 
-Les frais de transport et de missions engagés dans le cadre de leurs vacations sont remboursés par application des décrets du
-15 septembre 1989 et du 28 mai 1990 susvisés.
+Les frais de transport et de missions engagés dans le cadre de leurs vacations sont remboursés par application du décret n°
+2006-781 du 3 juillet 2006.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 2000-05-04 art. 2 JORF 17 mai 2000 en vigueur le 1er janvier 2000
 
 	**Codifié par**:
 
@@ -59264,8 +59477,11 @@ Les frais de transport et de missions engagés dans le cadre de leurs vacations 
 
 	**Cite**:
 
-	  - Décret n°89-271 1989-09-15
-	  - Décret n°90-437 1990-05-28
+	  - Décret n°2006-781 du 3 juillet 2006 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2006-781 du 3 juillet 2006 - art. 12 (V) JORF 4 août 2006 en vigueur le 1er novembre 2006
 
 
 ###### Article A614-3
