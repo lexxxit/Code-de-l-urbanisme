@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2006-11-01
+Version Consolidée au 2006-11-10
 
 # Partie législative
 
@@ -51158,84 +51158,6 @@ administratif frappé d'appel, jusqu'à la décision rendue par le Conseil d'Eta
 	**Cite**:
 
 	  - Code de l'urbanisme R430-16
-
-
-####  Section 5 : Dispositions particulières aux immeubles menaçant ruine et aux immeubles insalubres
-
-###### Article R*430-26
-
-Lorsqu'un immeuble menaçant ruine est inscrit sur l'inventaire supplémentaire des monuments historiques, est situé dans le
-champ de visibilité d'un édifice classé ou inscrit ou est protégé au titre des articles 4, 9, 17 ou 28 de la loi du 2 mai
-1930, sa réparation ou sa démolition ne peut être ordonnée par le maire conformément aux articles L. 511-1 et L. 511-2 du
-code de la construction et de l'habitation qu'après avis de l'architecte des bâtiments de France. Cet avis est réputé délivré
-en l'absence de réponse dans le délai de huit jours. Il en est de même lorsque l'immeuble menacant ruine se situe dans une
-zone de protection créée conformément aux articles L. 642-1 et L. 642-2 du code du patrimoine.
-
-L'architecte des bâtiments de France est invité à assister à l'expertise prévue à l'article L. 511-2 du code de la
-construction et de l'habitation.
-
-Si l'immeuble entre dans l'une des catégories mentionnées au premier alinéa ci-dessus après l'ouverture de la procédure
-administrative de péril, l'architecte des bâtiments de France est informé par le maire de l'état de cette procédure et est
-invité à assister à l'expertise si celle-ci n'a pas encore eu lieu.
-
-En cas de péril imminent donnant lieu à application de la procédure prévue à l'article L. 511-3 du code de la construction et
-de l'habitation, le maire en informe l'architecte des bâtiments de France en même temps qu'il adresse l'avertissement au
-propriétaire.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 art. 3 JORF 24 février 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2006-1359 du 8 novembre 2006 - art. 6 (V) JORF 10 novembre 2006
-
-	**Cite**:
-
-	  - Code de l'urbanisme L511-1, L511-2
-	  - Code de la construction et de l'habitation. - art. L511-2 (M)
-	  - Code de la construction et de l'habitation. - art. L511-3 (M)
-	  - Code du patrimoine. - art. L642-1 (M)
-	  - Code du patrimoine. - art. L642-2 (M)
-	  - Loi n°1930-05-02 art. 4, art. 9, art. 17, art. 28
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*430-27
-
-Lorsqu'un immeuble insalubre est inscrit sur l'inventaire supplémentaire des monuments historiques, est situé dans le champ
-de visibilité d'un édifice classé ou inscrit ou est protégé au titre des articles 4, 9, 17 ou 28 de la loi du 2 mai 1930, sa
-démolition ne peut être ordonnée par le préfet en application de l'article L. 28 du code de la santé publique qu'après avis
-de l'architecte des bâtiments de France. Cet avis est réputé délivré en l'absence de réponse dans le délai de quinze jours.
-
-Il en est de même lorsque l'immeuble insalubre se situe dans une zone de protection créée conformément aux articles L. 642-1
-et L. 642-2 du code du patrimoine.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 art. 3 JORF 24 février 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2006-1359 du 8 novembre 2006 - art. 6 (V) JORF 10 novembre 2006
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L28 (M)
-	  - Code du patrimoine. - art. L642-1 (M)
-	  - Code du patrimoine. - art. L642-2 (M)
-	  - Loi n°1930-05-02 art. 4, art. 9, art. 17, art. 28
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 ### Titre IV : Dispositions relatives aux modes particuliers d'utilisation du sol.
