@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2006-11-10
+Version Consolidée au 2006-12-30
 
 # Partie législative
 
@@ -30340,6 +30340,99 @@ l'état naturel.
 	**Nouveaux textes**:
 
 	  - Code de l'urbanisme - art. R121-5 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*146-3
+
+Le schéma d'aménagement mentionné à l'article L. 146-6-1 du code de l'urbanisme : 
+
+1° Comporte, pour le territoire qu'il délimite, une analyse de l'état initial du site, portant notamment sur les paysages,
+les milieux naturels, les conditions d'accès au domaine public maritime et les équipements et constructions réalisés avant
+l'entrée en vigueur de la loi n° 86-2 du 3 janvier 1986 relative à l'aménagement, la protection et la mise en valeur du
+littoral ; 
+
+2° Définit les conditions d'aménagement des plages et des espaces naturels qui leur sont proches ainsi que les modalités de
+desserte et de stationnement des véhicules. Il fixe les mesures permettant d'améliorer l'accès au domaine public maritime, de
+réduire les dégradations constatées et d'atténuer les nuisances ; 
+
+3° Justifie les partis d'aménagement retenus et évalue leur incidence sur l'environnement, au regard des objectifs définis à
+l'article L. 146-6-1 ; 
+
+4° Détermine, dans la bande des 100 mètres mentionnée au III de l'article L. 146-4, les équipements ou constructions dont le
+maintien ou la reconstruction peuvent être autorisés par dérogation aux articles L. 146-1 à L. 146-6, ainsi que leur
+implantation. Il indique ceux qui doivent être démolis et fixe les conditions de la remise en état du site. 
+
+Le schéma d'aménagement définit dans un chapitre distinct les prescriptions qui pourront être imposées aux bénéficiaires des
+autorisations prévues à l'alinéa précédent afin que ces équipements et constructions ne dénaturent pas le caractère du site
+et ne compromettent pas la préservation des paysages et des milieux naturels.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Loi n°86-2 du 3 janvier 1986
+	  - Code de l'urbanisme - art. L146-1
+	  - Code de l'urbanisme - art. L146-4
+	  - Code de l'urbanisme - art. L146-6-1
+
+	**Créé par**:
+
+	  - Décret n°2006-1741 du 23 décembre 2006 - art. 1 () JORF 30 décembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*156-1 (VT)
+	  - Code de l'urbanisme - art. R*711-4 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R121-7 (V)
+
+
+###### Article R*146-4
+
+Le projet de schéma est arrêté, selon le cas, par le conseil municipal ou l'organe délibérant de l'établissement public de
+coopération intercommunale compétent en matière de plan local d'urbanisme. 
+
+Le projet de schéma, auquel est joint l'avis de la commission départementale compétente en matière de nature, de paysages et
+de sites, est soumis à l'enquête publique par le préfet dans les conditions prévues par les articles R. 123-1 et suivants du
+code de l'environnement. 
+
+Le décret en Conseil d'Etat approuvant le schéma fait l'objet des mesures de publicité définies à l'article R. 123-25 du même
+code. 
+
+Le schéma approuvé est annexé au plan local d'urbanisme, s'il existe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-1741 du 23 décembre 2006 - art. 1 () JORF 30 décembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R121-8 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. R123-1
+	  - Code de l'environnement - art. R123-25
 
 	**Codifié par**:
 
