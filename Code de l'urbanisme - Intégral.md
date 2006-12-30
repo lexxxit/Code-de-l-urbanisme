@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2006-12-30
+Version Consolidée au 2006-12-31
 
 # Partie législative
 
@@ -21652,6 +21652,27 @@ relative au contrat d'association.
 	**Modifié par**:
 
 	  - Loi n°82-1020 1982-12-03 art. 7, art. 11 JORF 4 décembre 1982
+
+
+###### Article L520-8
+
+Les opérations de reconstruction d'un immeuble pour lesquelles le permis de construire est délivré avant le 1er janvier 2014
+ne sont assujetties à la redevance qu'à raison des mètres carrés de surface utile de plancher qui excèdent la surface utile
+de plancher de l'immeuble avant reconstruction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Créé par**:
+
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 151 () JORF 31 décembre 2006
+
+	**Cité par**:
+
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 50 (V)
 
 
 ###### Article L520-9
