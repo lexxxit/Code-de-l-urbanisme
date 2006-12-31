@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2006-12-31
+Version Consolidée au 2007-01-01
 
 # Partie législative
 
@@ -11984,14 +11984,14 @@ simplification du droit et au plus tard jusqu'au 31 décembre 2006. "
 ###### Article L313-2-1
 
 Les immeubles situés dans le périmètre d'un secteur sauvegardé dont le plan de sauvegarde et de mise en valeur a été approuvé
-ne sont pas soumis aux servitudes d'utilité publique instituées en application de l'article L. 621-2 du code du patrimoine,
-des articles L. 621-31 et L. 621-32 du code du patrimoine et de l'article L. 341-1 du code de l'environnement.
+ne sont pas soumis aux servitudes d'utilité publique instituées en application de l'article L. 621-30-1, des articles L.
+621-31 et L. 621-32 du code du patrimoine et de l'article L. 341-1 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 art. 3 JORF 24 février 2004
+	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 4 () JORF 9 novembre 2005 en vigueur le 1er janvier 2007
 
 	**Liens**:
 
@@ -12004,7 +12004,7 @@ des articles L. 621-31 et L. 621-32 du code du patrimoine et de l'article L. 341
 	**Cite**:
 
 	  - Code de l'environnement - art. L341-1 (M)
-	  - Code du patrimoine. - art. L621-2 (M)
+	  - Code du patrimoine. - art. L621-30-1 (V)
 	  - Code du patrimoine. - art. L621-31 (M)
 	  - Code du patrimoine. - art. L621-32 (M)
 
@@ -17833,13 +17833,32 @@ l'ordonnance au 1er octobre 2007.
 
 ###### Article L421-6
 
-Conformément à l'article 13 bis de la loi du 31 décembre 1913 sur les monuments historiques modifiée, lorsqu'un immeuble est
-situé dans le champ de visibilité d'un édifice classé ou inscrit, il ne peut faire l'objet, tant de la part des propriétaires
+Conformément à l'article L. 621-31 du code du patrimoine, lorsqu'un immeuble est situé dans le champ de visibilité d'un
+édifice classé ou inscrit au titre des monuments historiques, il ne peut faire l'objet, tant de la part des propriétaires
 privés que des collectivités et établissements publics, d'aucune construction nouvelle, d'aucune démolition, d'aucun
-déboisement, d'aucune transformation ou modification de nature à en affecter l'aspect, sans une autorisation préalable. Le
-permis de construire en tient lieu s'il est revêtu du visa de l'architecte des Bâtiments de France.
+déboisement, d'aucune transformation ou modification de nature à en affecter l'aspect, sans une autorisation préalable.
+
+La même autorisation est nécessaire lorsque l'immeuble est situé dans le champ de visibilité d'un parc ou d'un jardin classé
+ou inscrit ne comportant pas d'édifice, si le périmètre de protection de ce parc ou de ce jardin a été délimité dans les
+conditions fixées aux deuxième ou troisième alinéas de l'article L. 621-30-1 du code du patrimoine.
+
+Si cet immeuble est classé au titre des monuments historiques, l'autorisation est celle prévue au premier alinéa de l'article
+L. 621-9 du code du patrimoine. Lorsque l'immeuble n'est pas classé, le permis de construire ou le permis de démolir tient
+lieu de l'autorisation prévue à l'alinéa précédent si l'architecte des Bâtiments de France a donné son accord. Toutefois, les
+travaux soumis à permis de construire ou permis de démolir et portant sur des immeubles inscrits ou des immeubles adossés à
+des immeubles classés ne sont soumis qu'à l'accord de l'autorité administrative prévu respectivement aux articles L. 621-27
+et L. 621-30 du code du patrimoine.
+
+**Nota:**
+
+NOTA : Ordonnance n° 2005-1128 art. 38 : Les dispositions des articles 4, 12, 16, 17, 18, 24, 25, 26, 28, 29, 32, 33, 34, 35
+et 36 entrent en vigueur à une date fixée par décret en Conseil d'Etat et au plus tard le 1er janvier 2007.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 32 () JORF 9 septembre 2005 en vigueur au plus tard le 1er janvier 2007
 
 	**Cité par**:
 
@@ -17857,15 +17876,19 @@ permis de construire en tient lieu s'il est revêtu du visa de l'architecte des 
 	  - Code forestier - art. R412-8 (M)
 	  - Code forestier - art. R412-9 (Ab)
 
+	**Cite**:
+
+	  - Code du patrimoine. - art. L621-27 (M)
+	  - Code du patrimoine. - art. L621-30 (M)
+	  - Code du patrimoine. - art. L621-30-1 (V)
+	  - Code du patrimoine. - art. L621-31 (M)
+	  - Code du patrimoine. - art. L621-9 (AbD)
+
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 	**Anciens textes**:
-
-	  - Loi n°1913-12-31 art. 13 bis
-
-	**Cite**:
 
 	  - Loi n°1913-12-31 art. 13 bis
 
@@ -18014,9 +18037,11 @@ et assortit son recours d'une demande de suspension, le juge des référés stat
 
 Sont exemptés du permis de construire les constructions ou travaux couverts par le secret de la défense nationale, les
 dispositifs techniques nécessaires aux systèmes de radiocommunication numérique de la police et de la gendarmerie nationales,
-les travaux de ravalement, les travaux sur les immeubles classés. Il en est de même des travaux relatifs à la reconstruction
-d'établissements pénitentiaires après mutinerie ou des travaux réalisés à l'intérieur de l'enceinte de ces établissements
-nécessitant le secret pour des raisons de sécurité.
+les travaux d'entretien ou de réparations ordinaires des immeubles inscrits et les travaux de ravalement, à l'exception de
+ceux portant sur les immeubles inscrits. Sont également exemptés les travaux d'entretien, de réparation ou de restauration
+des immeubles classés. Il en est de même des travaux relatifs à la reconstruction d'établissements pénitentiaires après
+mutinerie ou des travaux réalisés à l'intérieur de l'enceinte de ces établissements nécessitant le secret pour des raisons de
+sécurité.
 
 Sont également exemptés du permis de construire certaines constructions ou travaux relatifs à la défense nationale ou aux
 installations techniques nécessaires au fonctionnement des services publics ainsi que les constructions ou travaux dont la
@@ -18027,12 +18052,22 @@ Un décret en Conseil d'Etat précise la nature et l'importance des construction
 Les exemptions instituées par le présent article ne dispensent pas du respect des dispositions législatives ou réglementaires
 relatives à l'occupation du sol énumérées à l'article L. 421-3.
 
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2003-590 du 2 juillet 2003 - art. 54 () JORF 3 juillet 2003
-	  - Loi n°2003-590 du 2 juillet 2003 - art. 55 () JORF 3 juillet 2003
+	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 33 () JORF 9 septembre 2005 en vigueur le 1er janvier 2007
 
 	**Cité par**:
 
@@ -18224,15 +18259,31 @@ l'ordonnance au 1er octobre 2007.
 
 ###### Article L422-4
 
-Les constructions ou travaux effectués sur les immeubles inscrits à l'inventaire supplémentaire des monuments historiques ne
-peuvent être exemptés du permis de construire en application de l'article L. 422-1.
-
 Pour les immeubles classés, la déclaration prévue à l'article L. 422-2 ne tient pas lieu de la demande d'autorisation
 mentionnée à l'article 9 de la loi du 31 décembre 1913 sur les monuments historiques.
 
 Les dispositions de l'article L. 422-3 ne sont pas applicables aux immeubles classés.
 
+**Nota:**
+
+NOTA : Ordonnance n° 2005-1128 art. 38 : Les dispositions des articles 4, 12, 16, 17, 18, 24, 25, 26, 28, 29, 32, 33, 34, 35
+et 36 entrent en vigueur à une date fixée par décret en Conseil d'Etat et au plus tard le 1er janvier 2007.
+
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Cite**:
+
+	  - Loi n°1913-12-31 art. 9
+	  - Code de l'urbanisme - art. L422-2 (M)
+	  - Code de l'urbanisme - art. L422-3 (M)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 33 () JORF 9 septembre 2005 en vigueur au plus tard le 1er janvier 2007
 
 	**Cité par**:
 
@@ -18240,20 +18291,6 @@ Les dispositions de l'article L. 422-3 ne sont pas applicables aux immeubles cla
 	  - Code de l'urbanisme - art. R*422-12 (Ab)
 	  - Code du patrimoine. - art. L621-10 (Ab)
 	  - Code du patrimoine. - art. L621-28 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L422-1 (M)
-	  - Code de l'urbanisme - art. L422-2 (M)
-	  - Loi n°1913-12-31 art. 9
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Créé par**:
-
-	  - Loi n°86-13 du 6 janvier 1986 - art. 4 () JORF 7 janvier 1986
 
 
 ###### Article L422-5
@@ -18537,7 +18574,8 @@ rédaction antérieure à la loi n° 85-729 du 18 juillet 1985, dans les zones d
 dans sa rédaction issue de ladite loi ou dans les zones d'environnement protégé créées en application de l'article L. 143-1
 dans sa rédaction antérieure à la loi n° 83-8 du 7 janvier 1983 ;
 
-f) aux immeubles ou parties d'immeubles inscrits sur l'inventaire supplémentaire des monuments historiques ;
+f) Aux immeubles ou parties d'immeubles inscrits au titre des monuments historiques ainsi qu'aux immeubles ou parties
+d'immeubles adossés aux immeubles classés au titre des monuments historiques ;
 
 g) dans les zones de protection du patrimoine architectural et urbain créées en application des articles L. 642-1 et L. 642-2
 du code du patrimoine ;
@@ -18545,13 +18583,22 @@ du code du patrimoine ;
 h) Dans les communes qui ne sont pas dotées d'un plan local d'urbanisme ou d'un plan d'occupation des sols approuvé, dans des
 périmètres délimités par délibération du conseil municipal.
 
-Toutefois, les immeubles classés en application de la loi du 31 décembre 1913, ainsi que les sites classés en application de
-la loi du 2 mai 1930, demeurent régis par les dispositions particulières de ces lois.
+Toutefois les immeubles classés au titre des monuments historiques en application du code du patrimoine et les sites classés
+en application du code de l'environnement demeurent régis par les dispositions particulières à ces codes.
 
 **Nota:**
 
-NOTA : La loi du 31 décembre 1913 a été abrogée par l'article 7 de l'ordonnance n° 2004-178 (publiée au JO du 24 février
-2004) et codifiée dans le code du patrimoine.
+NOTA : Ordonnance n° 2005-1128 art. 38 : Les dispositions des articles 4, 12, 16, 17, 18, 24, 25, 26, 28, 29, 32, 33, 34, 35
+et 36 entrent en vigueur à une date fixée par décret en Conseil d'Etat et au plus tard le 1er janvier 2007.
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
 
 **Liens relatifs à cet article**
 
@@ -18599,7 +18646,11 @@ NOTA : La loi du 31 décembre 1913 a été abrogée par l'article 7 de l'ordonna
 
 	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 art. 3 JORF 24 février 2004
+	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 34 () JORF 9 septembre 2005 en vigueur au plus tard le 1er janvier 2007
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
 
 	**Liens**:
 
@@ -18770,10 +18821,23 @@ b) Dans les autres communes, au nom de l'Etat.
 L'absence de notification de la décision de l'administration dans un délai de quatre mois à compter de la réception de la
 demande équivaut à l'octroi du permis de démolir.
 
+Ce délai est de cinq mois si le bâtiment est au nombre de ceux visés aux articles L. 621-25 et L. 621-30 du code du
+patrimoine. Toutefois, en application de l'article L. 430-8, l'absence de notification de la décision ne peut alors
+équivaloir à l'octroi du permis de démolir que si l'autorité administrative compétente a donné son accord.
+
 **Nota:**
 
-NOTA : Ordonnance 2005-1527 du 8 décembre 2005 art. 41 : La présente ordonnance entrera en vigueur à des dates fixées par
-décret en Conseil d'Etat et au plus tard le 1er juillet 2007.
+NOTA : Ordonnance n° 2005-1128 art. 38 : Les dispositions des articles 4, 12, 16, 17, 18, 24, 25, 26, 28, 29, 32, 33, 34, 35
+et 36 entrent en vigueur à une date fixée par décret en Conseil d'Etat et au plus tard le 1er janvier 2007.
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
 
 **Liens relatifs à cet article**
 
@@ -18783,13 +18847,16 @@ décret en Conseil d'Etat et au plus tard le 1er juillet 2007.
 	  - Loi n°83-8 1983-01-07 ART. 66, ART. 68-II
 	  - Loi n°83-663 1983-07-22
 	  - Code de l'urbanisme - art. L421-9 (M)
+	  - Code de l'urbanisme - art. L430-8 (M)
 	  - Code de l'urbanisme - art. R421-22 (M)
-	  - Code de l'urbanisme L421-2-1 à L421-2-8, L430-4, R430-12, R421-22, L421-9
+	  - Code de l'urbanisme L421-2-1 à L421-2-8, L430-4, R430-12, R421-22, L421-9, L430-8
+	  - Code du patrimoine. - art. L621-25 (M)
+	  - Code du patrimoine. - art. L621-30 (M)
 
 	**Cité par**:
 
 	  - Décret n°84-224 du 29 mars 1984 - art. 21 (V)
-	  - Code de l'urbanisme - art. L430-4 (Ab)
+	  - Code de l'urbanisme - art. L430-4 (M)
 	  - Code de l'urbanisme - art. R*332-1 (M)
 	  - Code de l'urbanisme - art. R*430-15-2 (Ab)
 	  - Code de l'urbanisme - art. R*430-7-1 (Ab)
@@ -18797,7 +18864,11 @@ décret en Conseil d'Etat et au plus tard le 1er juillet 2007.
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
+	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 35 () JORF 9 septembre 2005 en vigueur au plus tard le 1er janvier 2007
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
 
 	**Codifié par**:
 
@@ -19015,32 +19086,42 @@ l'ordonnance au 1er octobre 2007.
 
 ###### Article L430-8
 
-Le permis de démolir tient lieu des autorisations prévues par l'article 13 bis (alinéa 1er) de la loi du 31 décembre 1913 sur
-les monuments historiques, par l'article L. 341-7 du code de l'environnement et par l'article L. 313-2 (1). Dans chacun de
-ces cas, ainsi que lorsque la démolition prévue concerne un immeuble ou une partie d'immeuble inscrit à l'inventaire
-supplémentaire des monuments historiques ou protégé au titre de l'article L. 341-1 du code de l'environnement, il est
-délivré, après accord exprès ou tacite du ministre chargé des monuments historiques et des sites ou de son délégué, qui peut
-subordonner cet accord au respect de certaines conditions.
+Le permis de démolir tient lieu des autorisations prévues par l'article L. 621-31 du code du patrimoine, par l'article L.
+341-7 du code de l'environnement et par l'article L. 313-2 du présent code. Dans chacun de ces cas ainsi que lorsque la
+démolition prévue concerne un immeuble ou une partie d'immeuble inscrit ou adossé à un immeuble classé ou protégé au titre de
+l'article L. 341-1 du code de l'environnement, il est délivré après accord de l'autorité administrative chargée des monuments
+historiques ou des sites qui peut subordonner cet accord au respect de certaines conditions.
 
 **Nota:**
 
-NOTA : Ordonnance 2005-1527 du 8 décembre 2005 art. 41 : La présente ordonnance entrera en vigueur à des dates fixées par
-décret en Conseil d'Etat et au plus tard le 1er juillet 2007.
+NOTA : Ordonnance n° 2005-1128 art. 38 : Les dispositions des articles 4, 12, 16, 17, 18, 24, 25, 26, 28, 29, 32, 33, 34, 35
+et 36 entrent en vigueur à une date fixée par décret en Conseil d'Etat et au plus tard le 1er janvier 2007.
 
-NOTA : (1) Lire L. 313-2 du code de l'urbanisme.
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 2 (V) JORF 21 septembre 2000
+	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 36 () JORF 9 septembre 2005 en vigueur au plus tard le 1er janvier 2007
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L313-2 (M)
 	  - Code de l'environnement - art. L341-1 (M)
 	  - Code de l'environnement - art. L341-7 (V)
-	  - Loi n°1913-12-31 art. 13 bis
+	  - Code du patrimoine. - art. L621-31 (M)
 
 	**Cité par**:
 
@@ -24552,7 +24633,11 @@ récoltes, à héberger les animaux, à ranger et à entretenir le matériel agr
 produits à usage agricole, des locaux de transformation et de conditionnement des produits provenant de l'exploitation ;
 
 e) D'une surface égale à 5 % des surfaces hors oeuvre affectées à l'habitation telles qu'elles résultent le cas échéant de
-l'application des a, b, et c ci-dessus.
+l'application des a, b, et c ci-dessus ;
+
+f) D'une surface forfaitaire de cinq mètres carrés par logement respectant les règles relatives à l'accessibilité intérieure
+des logements aux personnes handicapées prévues selon le cas aux articles R. 111-18-2, R. 111-18-6, ou aux articles R.
+111-18-8 et R. 111-18-9 du code de la construction et de l'habitation.
 
 Sont également déduites de la surface hors oeuvre dans le cas de la réfection d'un immeuble à usage d'habitation et dans la
 limite de cinq mètres carrés par logement les surfaces de planchers affectées à la réalisation de travaux tendant à
@@ -24563,7 +24648,7 @@ en rez-de-chaussée.
 
 	**Modifié par**:
 
-	  - Décret n°2000-1272 du 26 décembre 2000 - art. 1 () JORF 28 décembre 2000
+	  - Décret n°2006-555 du 17 mai 2006 - art. 10 () JORF 18 mai 2006 en vigueur le 1er janvier 2007
 
 	**Cité par**:
 
@@ -24573,6 +24658,10 @@ en rez-de-chaussée.
 	  - Code de l'urbanisme - art. R*333-3 (Ab)
 	  - Code de la construction et de l'habitation. - art. R131-25 (M)
 	  - Code de la construction et de l'habitation. - art. R134-1 (M)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation R111-18-2, R111-18-6, R111-18-8, R111-18-9
 
 	**Codifié par**:
 
@@ -25408,18 +25497,18 @@ Conformément à l'article L. 112-1 du code rural, le président de l'établisse
 schéma de cohérence territoriale le document de gestion de l'espace agricole et forestier, lorsqu'il existe.
 
 Conformément à l'article L. 112-3 du code rural, le schéma de cohérence territoriale ne peut être approuvé qu'après avis de
-la chambre d'agriculture et, le cas échéant, de l'Institut national des appellations d'origine dans les zones d'appellation
-d'origine contrôlée et du centre régional de la propriété forestière lorsqu'il prévoit une réduction des espaces agricoles ou
-forestiers. Il va de même en cas de révision, de modification et de mise en compatibilité en application de l'article L.
-122-15. Ces avis sont rendus dans un délai de deux mois à compter de la saisine. En l'absence de réponse à l'issue de ce
-délai, l'avis est réputé favorable.
+la chambre d'agriculture et, le cas échéant, de l'Institut national de l'origine et de la qualité dans les zones
+d'appellation d'origine contrôlée et du centre régional de la propriété forestière lorsqu'il prévoit une réduction des
+espaces agricoles ou forestiers. Il va de même en cas de révision, de modification et de mise en compatibilité en application
+de l'article L. 122-15. Ces avis sont rendus dans un délai de deux mois à compter de la saisine. En l'absence de réponse à
+l'issue de ce délai, l'avis est réputé favorable.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code rural L112-1, L112-3
 	  - Code de l'urbanisme - art. L122-15 (M)
+	  - Code rural L112-1, L112-3
 
 	**Codifié par**:
 
@@ -25427,7 +25516,7 @@ délai, l'avis est réputé favorable.
 
 	**Modifié par**:
 
-	  - Décret n°2004-531 du 9 juin 2004 - art. 1 () JORF 13 juin 2004
+	  - Ordonnance n°2006-1547 du 7 décembre 2006 - art. 6 (V) JORF 8 décembre 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article R*122-9
@@ -26434,6 +26523,11 @@ prescriptions d'isolement acoustique ont été édictées en application de l'ar
 15. Les périmètres d'intervention délimités en application de l'article L. 143-1 pour la protection et la mise en valeur des
 espaces agricoles et naturels périurbains.
 
+Dans le délai de trois mois suivant la publication du schéma départemental d'organisation sociale et médico-sociale mentionné
+à l'article L. 312-4 du code de l'action sociale et des familles, le préfet le notifie au maire ou au président de
+l'établissement public de coopération intercommunale compétent. Il est tenu compte des mesures prévues par ce plan lors de la
+plus prochaine révision du plan local d'urbanisme.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -26441,6 +26535,7 @@ espaces agricoles et naturels périurbains.
 	  - Loi n°80-531 1980-07-15
 	  - Loi n°85-729 1985-07-18
 	  - Code minier 109, 109-1
+	  - Code de l'action sociale et des familles - art. L312-4 (M)
 	  - Code de l'urbanisme - art. L111-10 (M)
 	  - Code de l'urbanisme - art. L111-5-2 (M)
 	  - Code de l'urbanisme - art. L142-1 (M)
@@ -26456,7 +26551,7 @@ espaces agricoles et naturels périurbains.
 
 	**Modifié par**:
 
-	  - Décret n°2006-821 du 7 juillet 2006 - art. 2 () JORF 9 juillet 2006
+	  - Décret n°2006-555 du 17 mai 2006 - art. 11 () JORF 18 mai 2006 en vigueur le 1er janvier 2007
 
 	**Cité par**:
 
@@ -26535,7 +26630,7 @@ du plan local d'urbanisme.
 
 Le préfet porte à la connaissance du maire ou du président de l'établissement public, outre les dispositions et documents
 mentionnés à l'article R. 121-1, s'il y a lieu, la proposition faite par l'architecte des Bâtiments de France, en application
-de l'article L. 621-2 du code du patrimoine, de modifier un ou plusieurs des périmètres mentionnés au cinquième alinéa du
+de l'article L. 621-30-1 du code du patrimoine, de modifier un ou plusieurs des périmètres mentionnés au cinquième alinéa du
 même article.
 
 **Liens relatifs à cet article**
@@ -26546,7 +26641,7 @@ même article.
 
 	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 art. 3 JORF 24 février 2004
+	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 4 () JORF 9 novembre 2005 en vigueur le 1er janvier 2007
 
 	**Cité par**:
 
@@ -26555,7 +26650,7 @@ même article.
 	**Cite**:
 
 	  - Code de l'urbanisme R121-1
-	  - Code du patrimoine. - art. L621-2 (M)
+	  - Code du patrimoine. - art. L621-30-1 (V)
 
 	**Codifié par**:
 
@@ -26595,7 +26690,7 @@ intercommunale compétent consulte lors de l'élaboration du plan local d'urbani
 et forestier, lorsqu'il existe.
 
 Conformément à l'article L. 112-3 du code rural, le plan local d'urbanisme ne peut être approuvé qu'après avis de la chambre
-d'agriculture et, le cas échéant, de l'Institut national des appellations d'origine dans les zones d'appellation d'origine
+d'agriculture et, le cas échéant, de l'Institut national de l'origine et de la qualité dans les zones d'appellation d'origine
 contrôlée et du centre régional de la propriété forestière lorsqu'il prévoit une réduction des espaces agricoles ou
 forestiers. Il va de même en cas de révision, de révision simplifiée et d'une mise en compatibilité en application de
 l'article L. 123-16. Ces avis sont rendus dans un délai de deux mois à compter de la saisine. En l'absence de réponse à
@@ -26603,13 +26698,9 @@ l'issue de ce délai, l'avis est réputé favorable.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°70-1016 1970-10-28 art. 17
-
 	**Modifié par**:
 
-	  - Décret n°2004-531 du 9 juin 2004 - art. 2 () JORF 13 juin 2004
+	  - Ordonnance n°2006-1547 du 7 décembre 2006 - art. 6 (V) JORF 8 décembre 2006 en vigueur le 1er janvier 2007
 
 	**Cite**:
 
@@ -45110,6 +45201,63 @@ de plan Etat-région.
 
 ### Titre IV : Dispositions propres aux aménagements
 
+#### Chapitre II : Dispositions propres aux lotissements
+
+#####  Section 7 : Caducité des règles d'urbanisme spécifiques des lotissements
+
+###### Article R*442-24
+
+Lorsque l'approbation d'un plan local d'urbanisme ou d'un plan de sauvegarde et de mise en valeur aura pour effet de rendre
+caduques les règles d'urbanisme spécifiques à des lotissements qui ont été approuvées antérieurement au 30 juin 1986, les
+colotis sont informés, au moment de l'enquête publique, que ces règles cesseront de s'appliquer en application de l'article
+L. 442-9 et de la possibilité qui leur est donnée par cet article de demander leur maintien en vigueur. 
+
+Cette information est faite à l'initiative de l'autorité compétente en matière de permis d'aménager par voie d'affichage
+pendant deux mois à la mairie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L442-9 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*442-25
+
+Lorsque les colotis d'un lotissement approuvé antérieurement au 30 juin 1986 n'ont pas bénéficié de l'information prévue par
+l'article R. 315-44-1 du code de l'urbanisme, dans sa rédaction antérieure au décret n° 2007-18 du 5 janvier 2007 pris pour
+l'application de l'ordonnance n° 2005-1527 du 8 décembre 2005 relative au permis de construire et aux autorisations
+d'urbanisme, les règles d'urbanisme spécifiques au lotissement cessent de s'appliquer à compter du 1er juillet 2007 si les
+colotis, à la majorité prévue par l'article L. 315-3 du même code, dans sa rédaction antérieure à l'ordonnance du 8 décembre
+2005 précitée, n'ont pas, avant cette date, demandé leur maintien en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 (V)
+	  - Décret n°2007-18 du 5 janvier 2007 (V)
+	  - Code de l'urbanisme - art. L315-3 (Ab)
+	  - Code de l'urbanisme - art. R*315-44-1 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°2007-18 2007-01-05 art. 9, art. 26 JORF 6 janvier 2007 en vigueur le 1er janvier 2007
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er janvier 2007
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 #### Chapitre III : Dispositions propres aux terrains de camping et aux autres terrains aménagés pour l'hébergement touristique
 
 #####  Section 2 : Permis d'aménager
@@ -46093,6 +46241,32 @@ d'autorisation et répartissant entre chacun des terrains issus de la division l
 	**Cite**:
 
 	  - Code de l'urbanisme R315-5, R315-6
+
+
+###### Article R*421-7-2
+
+Lorsque la demande de permis de construire porte sur un projet pouvant bénéficier des dispositions de l'article L. 128-1,
+elle est complétée par le document prévu par le troisième alinéa de l'article R. 111-21 du code de la construction et de
+l'habitation attestant que le projet respecte les critères de performance énergétique définis par cet article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 24 () JORF 6 janvier 2007 en vigueur le 1er janvier 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 26 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L128-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*111-21 (M)
 
 
 ###### Article R421-1-1
