@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2007-01-01
+Version Consolidée au 2007-01-25
 
 # Partie législative
 
@@ -55830,13 +55830,18 @@ périmètre de compétence de l'établissement public pour l'aménagement de la 
 c) Aux domaines industrialo-portuaires d'Antifer, du Verdon et de Dunkerque, dans les périmètres respectifs des ports
 autonomes du Havre, de Bordeaux et de Dunkerque ;
 
-d) A l'aménagement de la zone de Fos-sur-Mer, dans un périmètre défini par décret en Conseil d'Etat.
+d) A l'aménagement de la zone de Fos-sur-Mer, dans un périmètre défini par décret en Conseil d'Etat ;
 
 e) A l'opération d'aménagement Euroméditerranée dans la commune de Marseille dans le périmètre de compétence de
-l'établissement public d'aménagement Euroméditerranée.
+l'établissement public d'aménagement Euroméditerranée ;
 
 f) A l'opération d'aménagement de Nanterre dans le périmètre de compétence de l'Etablissement public d'aménagement de Seine-
-Arche à Nanterre.
+Arche à Nanterre ;
+
+g) A l'aménagement et au développement des aérodromes qui relèvent de la société Aéroports de Paris ;
+
+h) Aux opérations d'aménagement et de rénovation urbaine de Saint-Etienne, dans le périmètre défini par décret en Conseil
+d'Etat.
 
 **Nota:**
 
@@ -55856,7 +55861,12 @@ NOTA : Loi 2006-1772 2006-12-31 art. 101 III : Spécificités d'application.
 
 	**Modifié par**:
 
-	  - Décret n°2000-1238 du 19 décembre 2000 - art. 1 () JORF 20 décembre 2000
+	  - Décret n°2005-828 du 20 juillet 2005 - art. 5 () JORF 22 juillet 2005
+	  - Décret n°2007-89 du 24 janvier 2007 - art. 1 () JORF 25 janvier 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
 ###### Article R*490-6
