@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2007-01-25
+Version Consolidée au 2007-02-01
 
 # Partie législative
 
@@ -25249,6 +25249,43 @@ Ces dispositions ne font pas obstacle aux consultations prévues par l'article L
 
 #####  Section 1 : Contenu des schémas de cohérence territoriale
 
+###### Article R*122-1
+
+Le schéma de cohérence territoriale comprend un rapport de présentation, un projet d'aménagement et de développement durable
+et un document d'orientations générales assortis de documents graphiques.
+
+Les documents et décisions mentionnées au dernier alinéa de l'article L. 122-1 doivent être compatibles avec le document
+d'orientations générales et les documents graphiques dont il est assorti.
+
+En zone de montagne, il comporte, s'il y a lieu, les études prévues au a du III de l'article L. 145-3 et au troisième alinéa
+de l'article L. 145-5. Les plans locaux d'urbanisme et les cartes communales doivent respecter les conclusions de cette
+étude.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L122-1 (M)
+	  - Code de l'urbanisme - art. L145-3 (M)
+	  - Code de l'urbanisme - art. L145-5 (M)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*122-10 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°69-551 1969-05-28 art. 1
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°2006-1683 du 22 décembre 2006 - art. 1 () JORF 28 décembre 2006 en vigueur le 1er février 2007
+
+
 ###### Article R*122-2
 
 Le rapport de présentation :
@@ -25366,24 +25403,25 @@ mise en oeuvre du schéma.
 Lorsque les documents graphiques délimitent des espaces ou sites à protéger en application du 2° ci-dessus, ils doivent
 permettre d'identifier les terrains inscrits dans ces limites.
 
-En zone de montagne, le schéma de cohérence territoriale précise, le cas échéant, l'implantation et l'organisation générale
-des unités touristiques nouvelles.
+En zone de montagne, le schéma de cohérence territoriale désigne, le cas échéant, les plans d'eau de faible importance
+auxquels il est décidé de faire application du huitième alinéa de l'article L. 145-5.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2004-531 du 9 juin 2004 - art. 1 () JORF 13 juin 2004
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L110 (M)
 	  - Code de l'urbanisme - art. L121-1 (M)
+	  - Code de l'urbanisme - art. L145-5 (M)
 	  - Code de l'urbanisme - art. L421-5 (M)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°2006-1683 du 22 décembre 2006 - art. 1 () JORF 28 décembre 2006 en vigueur le 1er février 2007
 
 
 ###### Article R*122-4
@@ -25887,9 +25925,10 @@ Le plan local d'urbanisme comprend un rapport de présentation, le projet d'amé
 commune et un règlement ainsi que des documents graphiques. Il peut comporter en outre des orientations d'aménagement
 relatives à des quartiers ou à des secteurs, assorties le cas échéant de documents graphiques.
 
-En zone de montagne, il comporte, s'il y a lieu, l'étude prévue au a du III de l'article L. 145-3.
+Il comporte, s'il y a lieu, l'étude prévue au huitième alinéa de l'article L. 111-1-4 et, en zone de montagne, les études
+prévues au a du III de l'article L. 145-3 et au troisième alinéa de l'article L. 145-5.
 
-Il est accompagné d'annexes.
+Le plan local d'urbanisme est accompagné d'annexes.
 
 **Liens relatifs à cet article**
 
@@ -25897,21 +25936,23 @@ Il est accompagné d'annexes.
 
 	  - Décret n°70-1016 1970-10-28 art. 1
 
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
 	**Modifié par**:
 
-	  - Décret n°2004-531 du 9 juin 2004 - art. 2 () JORF 13 juin 2004
+	  - Décret n°2006-1683 du 22 décembre 2006 - art. 1 () JORF 28 décembre 2006 en vigueur le 1er février 2007
 
 	**Cite**:
 
+	  - Code de l'urbanisme - art. L111-1-4 (M)
 	  - Code de l'urbanisme - art. L145-3 (M)
+	  - Code de l'urbanisme - art. L145-5 (M)
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*710-1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*123-2
@@ -26275,17 +26316,21 @@ Les règles mentionnées aux 6° et 7° relatives à l'implantation des construc
 et par rapport aux limites séparatives, qui ne sont pas fixées dans le règlement, doivent figurer dans les documents
 graphiques.
 
+En zone de montagne, le règlement désigne, le cas échéant, les plans d'eau de faible importance auxquels il est décidé de
+faire application du huitième alinéa de l'article L. 145-5.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°82-1153 du 30 décembre 1982 - art. 28-1-2 (V)
 	  - Code général des collectivités territoriales - art. L2224-10 (M)
-	  - Code de l'urbanisme R123-11, R123-10, R123-8
+	  - Code de l'urbanisme - art. L145-5 (M)
+	  - Code de l'urbanisme R123-11, R123-10, R123-8, L145-5
 
 	**Modifié par**:
 
-	  - Décret n°2004-531 du 9 juin 2004 - art. 2 () JORF 13 juin 2004
+	  - Décret n°2006-1683 du 22 décembre 2006 - art. 1 () JORF 28 décembre 2006 en vigueur le 1er février 2007
 
 	**Cité par**:
 
@@ -26571,7 +26616,7 @@ Les annexes comprennent à titre informatif également :
 régime forestier ;
 
 2° La liste des lotissements dont les règles d'urbanisme ont été maintenues en application du deuxième alinéa de l'article L.
-315-2-1 ;
+315-2-1 (nota) ;
 
 3° Les schémas des réseaux d'eau et d'assainissement et des systèmes d'élimination des déchets, existants ou en cours de
 réalisation, en précisant les emplacements retenus pour le captage, le traitement et le stockage des eaux destinées à la
@@ -26591,20 +26636,27 @@ par le bruit et, d'autre part, la référence des arrêtés préfectoraux corres
 l'article L. 562-2 du code de l'environnement et les dispositions d'un projet de plan de prévention des risques miniers
 établi en application de l'article 94 du code minier ;
 
-8° Les zones agricoles protégées délimitées en application de l'article L. 112-2 du code rural.
+8° Les zones agricoles protégées délimitées en application de l'article L. 112-2 du code rural ;
+
+9° L'arrêté du préfet coordonnateur de massif prévu au septième alinéa de l'article L. 145-5.
+
+**Nota:**
+
+L'article L315-2-1 est abrogé par l'ordonnance n° 2005-1527, article 22.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
+	  - Décret n°2006-1683 du 22 décembre 2006 - art. 1 () JORF 28 décembre 2006 en vigueur le 1er février 2007
 
 	**Cite**:
 
 	  - Code minier 94
 	  - Code de l'urbanisme - art. L126-1 (M)
+	  - Code de l'urbanisme - art. L145-5 (M)
 	  - Code de l'urbanisme - art. L315-2-1 (M)
-	  - Code de l'urbanisme L126-1, L315-2-1, L147-1 à L147-6
+	  - Code de l'urbanisme L126-1, L315-2-1, L147-1 à L147-6, L145-5
 	  - Code de l'environnement - art. L562-2 (V)
 	  - Code de l'environnement - art. L571-10 (M)
 	  - Code de l'environnement - art. L571-9 (M)
@@ -27257,9 +27309,13 @@ alinéa ci-dessus, la date à prendre en compte pour l'affichage étant celle du
 
 ###### Article R*124-1
 
-La carte communale après un rapport de présentation comprend un ou plusieurs documents graphiques.
+La carte communale comprend un rapport de présentation et un ou plusieurs documents graphiques. 
 
-Le ou les documents graphiques sont opposables aux tiers.
+Elle comporte, s'il y a lieu, l'étude prévue au neuvième alinéa de l'article L. 111-1-4 et, en zone de montagne, l'étude
+prévue au quatrième alinéa de l'article L. 145-5 et l'arrêté du préfet coordonnateur de massif prévu au septième alinéa du
+même article. 
+
+Les documents graphiques sont opposables aux tiers.
 
 **Liens relatifs à cet article**
 
@@ -27267,13 +27323,27 @@ Le ou les documents graphiques sont opposables aux tiers.
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
+	  - Décret n°2006-1683 du 22 décembre 2006 - art. 1 () JORF 28 décembre 2006 en vigueur le 1er février 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L111-1-4
+	  - Code de l'urbanisme - art. L145-5
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*710-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R161-1 (V)
+	  - Code de l'urbanisme - art. R162-2 (V)
 
 
 ###### Article R*124-2
@@ -27324,6 +27394,9 @@ agricole ou forestière et à la mise en valeur des ressources naturelles.
 Ils peuvent préciser qu'un secteur est réservé à l'implantation d'activités, notamment celles qui sont incompatibles avec le
 voisinage des zones habitées.
 
+En zone de montagne, ils indiquent, le cas échéant, les plans d'eau de faible importance auxquels il est décidé de faire
+application du huitième alinéa de l'article L. 145-5.
+
 Ils délimitent, s'il y a lieu, les secteurs dans lesquels la reconstruction à l'identique d'un bâtiment détruit par un
 sinistre n'est pas autorisée.
 
@@ -27333,13 +27406,17 @@ autres dispositions législatives et réglementaires applicables.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L145-5 (M)
+
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
 	**Modifié par**:
 
-	  - Décret n°2004-531 du 9 juin 2004 - art. 3 () JORF 13 juin 2004
+	  - Décret n°2006-1683 du 22 décembre 2006 - art. 1 () JORF 28 décembre 2006 en vigueur le 1er février 2007
 
 
 #####  Section 2 : Elaboration et révision des cartes communales
@@ -29937,23 +30014,33 @@ contrat ou que les clauses du cahier des charges n'ont pas été respectées.
 
 #### Chapitre V : Dispositions particulières aux zones de montagne
 
-##### Section 1 : Unités touristiques nouvelles.
+#####  Section 1 : Dispositions relatives aux unités touristiques nouvelles
 
 ###### Article R145-1
 
-Dans le cas prévu à l'article L. 145-11 du code de l'urbanisme, la demande d'autorisation de créer une unité touristique
-nouvelle est présentée par la commune ou les communes ou le groupement de communes sur le territoire desquelles s'étend
-l'emprise du projet ; elle peut porter simultanément sur plusieurs opérations.
+Dans les communes qui ne sont pas couvertes par un schéma de cohérence territoriale, la création et l'extension des unités
+touristiques nouvelles mentionnées au I et au II de l'article L. 145-11 sont soumises à autorisation dans les conditions
+fixées par les articles R. 145-2 à R. 145-10.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2006-993 du 1 août 2006 - art. 1 () JORF 5 août 2006
+	  - Décret n°2006-1683 du 22 décembre 2006 - art. 2 () JORF 28 décembre 2006 en vigueur le 1er février 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L145-11 (M)
+	  - Code de l'urbanisme - art. L145-11
+	  - Code de l'urbanisme - art. R145-10
+	  - Code de l'urbanisme - art. R145-2
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R122-5 (V)
 
 	**Cité par**:
 
@@ -29967,27 +30054,41 @@ l'emprise du projet ; elle peut porter simultanément sur plusieurs opérations.
 
 ###### Article R145-2
 
-La demande est accompagnée d'un dossier constitué par un rapport et des documents graphiques décrivant *contenu*:
+Sont soumises à autorisation du préfet coordonnateur de massif, en application du I de l'article L. 145-11, les unités
+touristiques nouvelles ayant pour objet :
 
-1° L'état du site et de son environnement, celui du bâti, des infrastructures et des équipements touristiques existants avec
-leurs conditions de fréquentation ainsi que les principales caractéristiques de l'économie locale ;
+1° La création, l'extension ou le remplacement de remontées mécaniques, lorsque ces travaux ont pour effet :
 
-2° Les caractéristiques principales du projet et, notamment, de la demande à satisfaire, des produits touristiques visés, des
-modes d'exploitation et de promotion des hébergements et des équipements touristiques ;
+a) La création d'un nouveau domaine skiable alpin ;
 
-3° Les risques naturels auxquels le projet peut être exposé ainsi que leurs mesures nécessaires pour en assurer la
-prévention ;
+b) L'augmentation de la superficie totale d'un domaine skiable alpin existant, dès lors que cette augmentation est supérieure
+ou égale à 100 hectares ;
 
-4° Les effets prévisibles du projet sur l'économie agricole, les peuplements forestiers et l'environnement ainsi que les
-mesures de protection et de réhabilitation à prévoir et l'estimation de leur coût ;
+2° Des opérations de construction ou d'extension d'hébergements et d'équipements touristiques d'une surface de plancher hors
+oeuvre nette totale supérieure à 12 000 mètres carrés, à l'exclusion des logements à destination des personnels saisonniers
+ou permanents des équipements et hébergements touristiques ;
 
-5° Les conditions générales de l'équilibre économique et financier du projet.
+3° Lorsqu'ils sont soumis à étude d'impact en application de l'article L. 122-1 du code de l'environnement :
+
+a) L'aménagement, la création et l'extension de terrains de golf ;
+
+b) L'aménagement de terrains de camping ;
+
+c) L'aménagement de terrains pour la pratique de sports ou de loisirs motorisés ;
+
+d) Les travaux d'aménagement de pistes pour la pratique des sports d'hiver alpins, lorsque les pistes ne font pas partie du
+domaine skiable visé au 1°.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2006-993 du 1 août 2006 - art. 1 () JORF 5 août 2006
+	  - Décret n°2006-1683 du 22 décembre 2006 - art. 2 () JORF 28 décembre 2006 en vigueur le 1er février 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L145-11 (M)
+	  - Code de l'environnement - art. L122-1 (M)
 
 	**Cité par**:
 
@@ -30002,15 +30103,32 @@ mesures de protection et de réhabilitation à prévoir et l'estimation de leur 
 
 ###### Article R145-3
 
-La demande et le dossier accompagnés des délibérations des organes délibérants de la commune ou des communes ou du groupement
-de communes pétitionnaires sont adressés par lettre recommandée avec demande d'avis de réception postal au préfet du
-département ou déposés contre décharge à la préfecture.
+Sont soumises à autorisation du préfet de département, en application du II de l'article L. 145-11, les unités touristiques
+nouvelles ayant pour objet :
+
+1° La création, l'extension ou le remplacement de remontées mécaniques, lorsqu'ils ont pour effet :
+
+a) L'augmentation de plus de 10 hectares et de moins de 100 hectares d'un domaine skiable alpin existant ;
+
+b) La création d'une remontée mécanique, n'ayant pas pour objet principal de desservir un domaine skiable, pouvant
+transporter plus de dix mille voyageurs par jour sur un denivelé supérieur à 300 mètres ;
+
+2° Les opérations suivantes, lorsqu'elles ne sont pas situées dans un secteur urbanisé ou dans un secteur constructible situé
+en continuité de l'urbanisation :
+
+a) La création ou l'extension, sur une surface de plancher hors oeuvre nette totale supérieure à 300 mètres carrés,
+d'hébergements touristiques ou d'équipements touristiques ;
+
+b) L'aménagement de terrains de camping comprenant plus de 20 emplacements ;
+
+c) La création de refuges de montagne mentionnés à l'article L. 326-1 du code du tourisme, ou leur extension sur une surface
+de plancher hors oeuvre nette totale supérieure à 100 mètres carrés.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Décret n°2006-993 du 1 août 2006 - art. 1 () JORF 5 août 2006
+	  - Code de l'urbanisme - art. L145-11 (M)
 
 	**Cité par**:
 
@@ -30021,14 +30139,42 @@ département ou déposés contre décharge à la préfecture.
 
 	  - Décret n°73-1023 1973-11-08
 
+	**Modifié par**:
+
+	  - Décret n°2006-1683 du 22 décembre 2006 - art. 2 () JORF 28 décembre 2006 en vigueur le 1er février 2007
+
 
 ###### Article R145-4
 
-Si le dossier est incomplet, le préfet du département, dans les quinze jours de la réception de la demande, invite le
-demandeur, par lettre recommandée avec demande d'avis de réception postal, à fournir les pièces complémentaires dans les
-conditions prévues à l'article R. 145-3.
+I. - Pour l'application de la présente section :
+
+- une piste de ski alpin est un parcours sur neige réglementé, délimité, balisé, contrôlé et protégé des dangers présentant
+un caractère anormal ou excessif, éventuellement aménagé et préparé, réservé à la pratique du ski alpin et des activités de
+glisse autorisées ;
+
+- un domaine skiable est une piste de ski alpin ou un ensemble de pistes qui ont le même point de départ ou qui communiquent
+entre elles ou qui communiquent par le seul intermédiaire d'une ou de plusieurs remontées mécaniques. La surface du domaine
+skiable prise en compte est la somme des surfaces des pistes de ski alpin.
+
+II. - Un domaine skiable peut s'étendre sur le territoire de plusieurs communes.
+
+Une commune peut comporter plusieurs domaines skiables.
+
+En cas de réalisation fractionnée de l'aménagement, la surface ou les seuils à retenir sont ceux du programme général de
+l'opération.
+
+La demande d'autorisation de créer une unité touristique peut porter simultanément sur plusieurs opérations.
 
 **Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R122-8 (VT)
+	  - Code de l'urbanisme - art. R122-9 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R145-3
 
 	**Codifié par**:
 
@@ -30036,36 +30182,47 @@ conditions prévues à l'article R. 145-3.
 
 	**Modifié par**:
 
-	  - Décret n°2006-993 du 1 août 2006 - art. 1 () JORF 5 août 2006
+	  - Décret n°2006-1683 du 22 décembre 2006 - art. 2 () JORF 28 décembre 2006 en vigueur le 1er février 2007
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code de l'urbanisme - art. R145-3 (M)
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 
 ###### Article R145-5
 
-I - Lorsque le dossier est complet, le préfet du département notifie aux collectivités pétitionnaires, dans les quinze jours
-de la réception de la demande ou des pièces complémentaires, par lettre recommandée avec demande d'avis de réception postal,
-la date à laquelle la demande sera examinée par la commission spécialisée du comité de massif territorialement compétent.
-Dans le même délai, le préfet du département transmet la demande et le dossier à la commission spécialisée du comité de
-massif.
+La demande d'autorisation de créer une unité touristique nouvelle, qu'elle relève de l'article R. 145-2 ou de l'article R.
+145-3, est présentée au préfet du département par la ou les communes ou l'établissement public de coopération intercommunale
+compétent en matière de plan local d'urbanisme sur le territoire desquels s'étend l'emprise du projet. 
 
-II - Dans le délai de trois mois courant à compter de la notification prévue au I ci-dessus, le préfet de région désigné pour
-assurer la coordination dans le massif saisit pour avis la commission spécialisée du comité de massif ; toutefois, si la
-notification est faite moins de trois mois avant la date à laquelle une réunion de la commission spécialisée a été convoquée,
-le délai de trois mois court à compter de la date de cette réunion.
+La demande à laquelle sont jointes les délibérations des organes délibérants de la ou des communes ou de l'établissement
+public pétitionnaires est adressée par lettre recommandée avec demande d'avis de réception postal ou déposée contre décharge
+à la préfecture.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2006-993 du 1 août 2006 - art. 1 () JORF 5 août 2006
+	  - Décret n°2006-1683 du 22 décembre 2006 - art. 2 () JORF 28 décembre 2006 en vigueur le 1er février 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R122-10 (VT)
 
 	**Cité par**:
 
+	  - Code de l'urbanisme - art. R145-10 (VT)
 	  - Code de l'urbanisme - art. R145-6 (M)
 	  - Code de l'urbanisme - art. R145-9 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R145-2
+	  - Code de l'urbanisme - art. R145-3
 
 	**Codifié par**:
 
@@ -30074,30 +30231,30 @@ le délai de trois mois court à compter de la date de cette réunion.
 
 ###### Article R145-6
 
-Dès la notification prévue au I de l'article R. 145-5, le préfet du département prescrit par arrêté la mise à la disposition
-du public du dossier joint à la demande de création d'unité touristique nouvelle.
+La demande est accompagnée d'un dossier comportant un rapport et des documents graphiques précisant :
 
-Cet arrêté, qui est publié au recueil des actes administratifs du département, fixe :
+1° L'état des milieux naturels, des paysages, du site et de son environnement, comprenant le cas échéant l'historique de
+l'enneigement local, l'état du bâti, des infrastructures et des équipements touristiques existants avec leurs conditions de
+fréquentation, ainsi que les principales caractéristiques de l'économie locale ;
 
-a) la date à compter de laquelle le dossier est tenu à la disposition du public et la durée pendant laquelle il peut être
-consulté, qui ne peut être inférieure à un mois ;
+2° Les caractéristiques principales du projet et, notamment, de la demande à satisfaire, des modes d'exploitation et de
+promotion des hébergements et des équipements, ainsi que, lorsque le projet porte sur la création ou l'extension de remontées
+mécaniques, les caractéristiques du domaine skiable, faisant apparaître les pistes nouvelles susceptibles d'être créées ;
 
-b) les heures et lieux où le public peut prendre connaissance du dossier et formuler ses observations sur un ou plusieurs
-registres ouverts à cet effet.
+3° Les risques naturels auxquels le projet peut être exposé ainsi que les mesures nécessaires pour les prévenir ;
 
-Mention de l'arrêté ainsi que la date à laquelle la commission spécialisée du comité de massif examinera la demande est
-insérée une semaine au moins avant le début de la consultation du public dans deux journaux diffusés dans le département et
-affichée dans les mairies des communes intéressées et, le cas échéant, au siège de l'établissement public compétent en
-matière d'urbanisme.
+4° Les effets prévisibles du projet sur le trafic et la circulation locale, l'économie agricole, les peuplements forestiers,
+les terres agricoles, pastorales et forestières, les milieux naturels, les paysages et l'environnement, notamment la
+ressource en eau et la qualité des eaux, ainsi que les mesures de suppression, compensation et réhabilitation à prévoir, et
+l'estimation de leur coût ;
 
-Le préfet du département adresse au président et aux membres de la commission spécialisée du comité de massif quinze jours au
-moins avant la date fixée pour l'examen de la demande un compte rendu des observations recueillies.
+5° Les conditions générales de l'équilibre économique et financier du projet.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Nouveaux textes**:
 
-	  - Code de l'urbanisme - art. R145-5 (M)
+	  - Code de l'urbanisme - art. R122-11 (V)
 
 	**Codifié par**:
 
@@ -30105,47 +30262,78 @@ moins avant la date fixée pour l'examen de la demande un compte rendu des obser
 
 	**Modifié par**:
 
-	  - Décret n°2006-993 du 1 août 2006 - art. 1 () JORF 5 août 2006
+	  - Décret n°2006-1683 du 22 décembre 2006 - art. 2 () JORF 28 décembre 2006 en vigueur le 1er février 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 
 ###### Article R145-7
 
-L'autorisation de créer une unité touristique nouvelle est accordée par arrêté du préfet de région désigné pour assurer la
-coordination dans le massif ; la décision est notifiée aux demandeurs dans un délai d'un mois à compter de l'avis donné par
-la commission spécialisée.
+I. - Lorsque le dossier est complet, le préfet du département l'adresse sans délai au préfet coordonnateur de massif si la
+demande relève de l'article R. 145-2. Il notifie aux collectivités ou établissements pétitionnaires, dans les quinze jours de
+la réception de la demande ou des pièces complémentaires, par lettre recommandée avec demande d'avis de réception postal, la
+date à laquelle la demande sera examimée, selon le cas, par la commission spécialisée du comité de massif territorialement
+compétent ou par la formation spécialisée des unités touristiques nouvelles de la commission départementale de la nature, des
+paysages et des sites. 
 
-En cas de rejet de la demande ou si l'autorisation est assortie de prescriptions, la décision est motivée.
+Dans le même délai, il transmet la demande et le dossier à la commission compétente. 
 
-Le préfet du département procède à la publication de l'autorisation ou de la décision de rejet de la demande au recueil des
-actes administratifs du département ; il en fait, en outre, insérer mention dans deux journaux régionaux ou locaux diffusés
-dans le département.
+II. - La commission compétente examine la demande à sa première réunion, lorsque celle-ci se tient plus de trois mois après
+la date de notification prévue au I ci-dessus, et dans un délai de trois mois à compter de cette réunion dans le cas
+contraire.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2006-1683 du 22 décembre 2006 - art. 2 () JORF 28 décembre 2006 en vigueur le 1er février 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R122-12 (VT)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R145-2
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R145-8 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°2006-993 du 1 août 2006 - art. 1 () JORF 5 août 2006
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R145-8 (M)
 
 
 ###### Article R145-8
 
-Lorsque le territoire couvert par l'unité touristique nouvelle appartient à plusieurs massifs, la décision prévue à l'article
-R. 145-7 est prise par arrêté conjoint des préfets de région désignés pour assurer la coordination dans les massifs
-concernés.
+Dès la notification prévue au I de l'article R. 145-7, le préfet du département prescrit par arrêté la mise à la disposition
+du public du dossier joint à la demande de création d'unité touristique nouvelle. 
+
+Cet arrêté, publié au recueil des actes administratifs de l'Etat dans le département, fixe : 
+
+a) La date à compter de laquelle le dossier est tenu à la disposition du public et la durée pendant laquelle il peut être
+consulté, qui ne peut être inférieure à un mois ; 
+
+b) Les heures et lieux où le public peut prendre connaissance du dossier et formuler ses observations sur un ou plusieurs
+registres ouverts à cet effet. 
+
+Mention de l'arrêté ainsi que de la date à laquelle la commission spécialisée du comité de massif ou la formation spécialisée
+des unités touristiques nouvelles de la commission départementale de la nature, des paysages et des sites examinera la
+demande est insérée une semaine au moins avant le début de la consultation du public dans un journal diffusé dans le
+département et affichée dans les mairies des communes intéressées et, le cas échéant, au siège de l'établissement public de
+coopération intercommunale compétent en matière de plan local d'urbanisme. 
+
+Quinze jours au moins avant la date fixée pour l'examen de la demande, le préfet adresse au président et aux membres de la
+commission compétente un compte rendu des observations recueillies.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R145-7 (M)
 
 	**Codifié par**:
 
@@ -30153,52 +30341,62 @@ concernés.
 
 	**Modifié par**:
 
-	  - Décret n°2006-993 du 1 août 2006 - art. 1 () JORF 5 août 2006
+	  - Décret n°2006-1683 du 22 décembre 2006 - art. 2 () JORF 28 décembre 2006 en vigueur le 1er février 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R122-13 (VT)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R145-7 (VT)
 
 
 ###### Article R145-9
 
-Lorsqu'une ou plusieurs communes envisagent de créer une unité touristique nouvelle, préalablement au dépôt de la demande
-prévue à l'article R. 145-1, les maires peuvent demander au préfet du département que les orientations générales de leur
-projet soient examinées par la commission spécialisée. Le préfet de région désigné pour assurer la coordination dans le
-massif saisit la commission spécialisée du comité de massif dans le délai prévu au II de l'article R. 145-5, qui court à
-compter de la réception de la demande.
+La décision est prise par arrêté du préfet coordonnateur de massif dans le cas prévu à l'article R. 145-2, du préfet du
+département dans le cas prévu à l'article R. 145-3. Elle est notifiée aux demandeurs dans le délai d'un mois à compter de la
+date de la réunion de la commission compétente. 
 
-Dans le mois qui suit la réunion de la commission spécialisée, le préfet du département fait connaître aux maires intéressés,
-par lettre recommandée avec demande d'avis de réception postal, l'avis de la commission et celui du préfet de région désigné
-pour assurer la coordination dans le massif.
+En cas de rejet de la demande ou si l'autorisation est assortie de prescriptions, la décision est motivée. 
+
+Le préfet de département procède à la publication de la décision au recueil des actes administratifs de l'Etat dans le
+département. Il en fait, en outre, inscrire mention dans un journal diffusé dans le département.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2006-993 du 1 août 2006 - art. 1 () JORF 5 août 2006
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R145-1 (M)
-	  - Code de l'urbanisme - art. R145-5 (M)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
+	**Modifié par**:
+
+	  - Décret n°2006-1683 du 22 décembre 2006 - art. 2 () JORF 28 décembre 2006 en vigueur le 1er février 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R122-14 (VT)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R145-2 (VT)
+	  - Code de l'urbanisme - art. R145-3 (VT)
+
 
 ###### Article R145-10
 
-Le renforcement des remontées mécaniques ou leur extension est considéré comme unité touristique nouvelle lorsque les
-dépenses de construction et d'installation correspondantes, effectuées en une ou plusieurs tranches, excèdent quatre miLlions
-d'euros. Toutefois, le remplacement d'une remontée mécanique ne constitue pas une unité touristique nouvelle lorsque, d'une
-part, les lieux de départ et d'arrivée sont inchangés et que, d'autre part, le débit horaire maximum de la nouvelle
-installation est inférieur au triple de celui de l'ancien équipement.
-
-Le montant du seuil financier fixé à l'alinéa précédent est révisé tous les deux ans par arrêté du ministre chargé des
-transports en fonction de l'indice I :
-
-I = 0,2 TP 02 + 0,8 TP 13
-
-TP 02 et TP 13 étant les indices nationaux des prix de génie civil publiés au Bulletin officiel de la concurrence et de la
-consommation.
+Lorsqu'une ou plusieurs communes, ou un établissement public de coopération intercommunale compétent en matière de plan local
+d'urbanisme sur le territoire duquel s'étend l'emprise du projet, envisagent de créer une unité touristique nouvelle, ils
+peuvent, préalablement au dépôt de la demande prévue à l'article R. 145-5, demander au préfet que les orientations générales
+de leur projet soient examinées par la commission compétente.
 
 **Liens relatifs à cet article**
 
@@ -30217,13 +30415,25 @@ consommation.
 	  - Arrêté du 6 février 2002 - art. 1 (V)
 	  - Code de l'urbanisme - art. R145-1 (VT)
 
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R122-15 (VT)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R145-5 (VT)
+
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
 	**Modifié par**:
 
-	  - Décret n°2006-993 du 1 août 2006 - art. 1 () JORF 5 août 2006
+	  - Décret n°2006-1683 du 22 décembre 2006 - art. 2 () JORF 28 décembre 2006 en vigueur le 1er février 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 
 #####  Section 2 : Dispositions relatives aux lacs et plans d'eau
@@ -30376,6 +30586,39 @@ décret n'a pas fait l'objet d'une annulation.
 	**Abrogé par**:
 
 	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+
+###### Article R145-15
+
+L'arrêté du préfet coordonnateur de massif prévu au septième alinéa de l'article L. 145-5 est affiché pendant un mois en
+mairie dans la ou les communes intéressées. Mention de cet affichage est insérée en caractères apparents dans un journal
+diffusé dans le département. 
+
+Il fait l'objet d'une publication au recueil des actes administratifs de l'Etat dans le département. 
+
+Il est annexé, le cas échéant, au plan local d'urbanisme, et tenu à disposition du public en mairie et en préfecture.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°2006-1683 du 22 décembre 2006 - art. 2 () JORF 28 décembre 2006 en vigueur le 1er février 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L145-5
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R122-3 (V)
 
 
 #### Chapitre VI : Dispositions particulières au littoral
