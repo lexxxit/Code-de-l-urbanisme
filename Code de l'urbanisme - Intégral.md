@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2007-02-01
+Version Consolidée au 2007-02-22
 
 # Partie législative
 
@@ -22334,14 +22334,22 @@ mentionnés à l'article L. 123-1 du code de l'environnement qui sont soumis à 
 
 #### Chapitre Ier : Dispositions générales
 
-###### Article L710-2
+###### Article L710-1
 
-Le plan d'aménagement et de développement durable de Mayotte prévu à l'article L. 3551-31 du code général des collectivités
-territoriales et, à défaut d'un tel plan, les plans locaux d'urbanisme et les cartes communales doivent être compatibles avec
-les dispositions particulières au littoral prévues au chapitre II du présent titre.
+Les articles L. 110 à L. 111-1, L. 111-1-2 à L. 111-3, L. 111-5 à L. 111-11, L. 112-1, L. 121-1 à L. 121-15, L. 123-1 à L.
+123-18, L. 123-20, L. 124-1 à L. 124-4, L. 126-1, L. 127-1 à L. 127-2, L. 128-1 à L. 128-2, L. 130-1 à L. 130-6, L. 142-1 à
+L. 142-13 et L. 143-1 à L. 143-6 sont applicables à Mayotte sous réserve des dispositions ci-après.
 
-Les dispositions du plan d'aménagement et de développement durable qui précisent les modalités d'application des articles L.
-711-1 et suivants s'appliquent aux personnes et opérations qui y sont mentionnées.
+**Nota:**
+
+L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par décret
+en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
 
 **Liens relatifs à cet article**
 
@@ -22349,14 +22357,49 @@ Les dispositions du plan d'aménagement et de développement durable qui précis
 
 	  - Ordonnance n°2005-868 du 28 juillet 2005 - art. 1 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
 
+	**Modifié par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 20 (V) JORF 22 février 2007
+
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L3551-31 (M)
-	  - Code de l'urbanisme - art. L711-1 (V)
+	  - Code de l'urbanisme - art. L112-1 (M)
+	  - Code de l'urbanisme - art. L123-20 (V)
+	  - Code de l'urbanisme - art. L126-1 (M)
+	  - Code de l'urbanisme L110 à L111-1, L111-1-2 à L111-3, L111-5 à L111-11, L112-1, L121-1 à L121-15, L123-1 à L123-18, L123-20, L124-1 à L124-4, L126-1, L127-1 à L127-2, L130-1 à L130-6, L142-1 à L142-13, L143-1 à L143-6, L. 128-1 à L. 128-2
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L710-2
+
+Le plan d'aménagement et de développement durable de Mayotte prévu à l'article LO 6161-42 du code général des collectivités
+territoriales et, à défaut d'un tel plan, les plans locaux d'urbanisme et les cartes communales doivent être compatibles avec
+les dispositions particulières au littoral prévues au chapitre II du présent titre. 
+
+Les dispositions du plan d'aménagement et de développement durable qui précisent les modalités d'application des articles L.
+711-1 et suivants s'appliquent aux personnes et opérations qui y sont mentionnées.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. LO6161-42
+	  - Code de l'urbanisme - art. L711-1
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08 JORF 13 novembre 1973
+
+	**Modifié par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 25 () JORF 22 février 2007
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-787 du 31 mai 2012 - art. 7 (VD)
 
 
 ###### Article L710-3
@@ -22387,33 +22430,32 @@ les mots :
 
 ###### Article L710-4
 
-Pour l'application de l'article L. 121-7, les mots : "aux articles L. 1614-1 et L. 1614-3 du code général des collectivités
-territoriales" figurant au premier alinéa sont remplacés par les mots : "aux articles L. 1773-1 et L. 1773-3 du code général
-des collectivités territoriales".
+Pour l'application à Mayotte de l'article L. 121-7, les références : " aux articles L. 1614-1 et L. 1614-3 " figurant au
+premier alinéa sont remplacées par la référence : " au titre VII du livre Ier de la sixième partie ". 
 
-Au deuxième alinéa, la première phrase est remplacée par les dispositions suivantes :
+Au deuxième alinéa, la première phrase est remplacée par les dispositions suivantes : 
 
 Toutefois, les services extérieurs de l'Etat peuvent être mis gratuitement et en tant que de besoin à la disposition des
 communes et des groupements de communes pour élaborer, modifier ou réviser les plans locaux d'urbanisme ou tout autre
 document d'urbanisme. En cas de nécessité, la collectivité départementale peut bénéficier des mêmes services pour
-l'élaboration ou la révision du plan d'aménagement et de développement durable de Mayotte.
+l'élaboration ou la révision du plan d'aménagement et de développement durable de Mayotte. 
 
-Aux deuxième et troisième phrases du même alinéa, après les mots : "ou le président de l'établissement public" sont insérés
-les mots : "ou le président du conseil général".
+Aux deuxième et troisième phrases du même alinéa, après les mots : " ou le président de l'établissement public " sont insérés
+les mots : " ou le président du conseil général ".
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-868 du 28 juillet 2005 - art. 1 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
+	  - Loi n°2007-224 du 21 février 2007 - art. 25 () JORF 22 février 2007
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-787 du 31 mai 2012 - art. 7 (VD)
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L1614-1 (M)
-	  - Code général des collectivités territoriales - art. L1614-3 (M)
-	  - Code général des collectivités territoriales - art. L1773-1 (V)
-	  - Code général des collectivités territoriales - art. L1773-3 (V)
-	  - Code de l'urbanisme - art. L121-7 (M)
+	  - Code de l'urbanisme - art. L121-7
 
 	**Codifié par**:
 
@@ -22496,33 +22538,37 @@ schéma de secteur" figurant au dernier alinéa sont remplacés par les mots :
 
 Les plans d'occupation des sols approuvés en application de l'article L. 121-2 du code de l'urbanisme issu de l'ordonnance n°
 90-571 du 25 juin 1990 portant extension et adaptation de dispositions du code de l'urbanisme dans la collectivité
-territoriale de Mayotte demeurent applicables jusqu'au 1er janvier 2011 sous réserve des dispositions du troisième alinéa.
+territoriale de Mayotte demeurent applicables jusqu'au 1er janvier 2011 sous réserve des dispositions du troisième alinéa. 
 
 Les plans d'occupation des sols mentionnés au premier alinéa ont les mêmes effets que les plans locaux d'urbanisme. Ils sont
 soumis au régime juridique des plans locaux d'urbanisme défini par les articles L. 123-1-1 à L. 123-5 et L. 123-14 à L.
-123-17. Ils peuvent comprendre tout ou partie du contenu des plans locaux d'urbanisme.
+123-17. 
 
 Ils peuvent faire l'objet d'une modification selon les modalités prévues à l'article L. 710-9, sans être mis en forme de plan
 local d'urbanisme, à condition que la modification envisagée ne porte pas atteinte à l'économie générale du plan ou ne
 comporte pas de graves risques de nuisances. Ils peuvent également, sans être mis en forme de plan local d'urbanisme, faire
-l'objet d'une mise en compatibilité selon les modalités définies à l'article L. 123-16.
+l'objet d'une mise en compatibilité selon les modalités définies à l'article L. 123-16. 
 
 Dans les autres cas, les plans d'occupation des sols peuvent faire l'objet d'une révision selon les modalités définies aux
 articles L. 123-6 à L. 123-12. Les plans d'occupation des sols révisés sont mis en forme de plan local d'urbanisme.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 20 (V) JORF 22 février 2007
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-787 du 31 mai 2012 - art. 7 (VD)
+
 	**Cite**:
 
-	  - Ordonnance 90-571 1990-06-25
-	  - Code de l'urbanisme - art. L121-2 (M)
-	  - Code de l'urbanisme - art. L123-16 (M)
-	  - Code de l'urbanisme - art. L710-9 (V)
-	  - Code de l'urbanisme L121-2, L123-1-1 à L123-5, L123-14 à L123-17, L710-9, L123-16, L123-6 à L123-12
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-868 du 28 juillet 2005 - art. 1 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
+	  - Code de l'urbanisme - art. L121-2 (VT)
+	  - Code de l'urbanisme - art. L123-14 (VT)
+	  - Code de l'urbanisme - art. L123-5 (V)
+	  - Code de l'urbanisme - art. L123-6 (VT)
+	  - Code de l'urbanisme - art. L710-9 (VT)
 
 	**Codifié par**:
 
@@ -22772,52 +22818,54 @@ sont remplacés par les mots : " Le plan d'aménagement et de développement dur
 
 ###### Article L711-3
 
-Pour l'application de l'article L. 146-4, les dispositions des II et III sont remplacées par les dispositions suivantes :
+I. Pour l'application de l'article L. 146-4, les dispositions des II et III sont remplacées par les dispositions suivantes : 
 
-II. - Dans les espaces proches du rivage, l'extension de l'urbanisation n'est admise et les opérations d'aménagement ne
-peuvent être autorisées que si elles ont été préalablement prévues par un chapitre particulier du plan d'aménagement et de
-développement durable de Mayotte.
+II.-Dans les espaces proches du rivage, l'extension de l'urbanisation n'est admise et les opérations d'aménagement ne peuvent
+être autorisées que si elles ont été préalablement prévues par un chapitre particulier du plan d'aménagement et de
+développement durable de Mayotte. 
 
 En l'absence d'un tel plan approuvé, l'urbanisation peut être autorisée à titre exceptionnel et sur délibération motivée du
 conseil municipal par l'autorité administrative dans des conditions et selon les modalités définies par décret en Conseil
-d'Etat. Le plan local d'urbanisme doit être, le cas échéant, mis en conformité avec cette autorisation.
+d'Etat. Le plan local d'urbanisme doit être, le cas échéant, mis en conformité avec cette autorisation. 
 
-III. - Un arrêté du représentant de l'Etat à Mayotte détermine une bande littorale comprise entre le rivage de la mer et la
-limite supérieure de la réserve domaniale dite "des cinquante pas géométriques" définie à l'article L. 213-1 du code du
-domaine de l'Etat et des collectivités publiques applicable à Mayotte. A défaut de délimitation ou lorsque la réserve
-domaniale n'a pas été instituée, cette bande littorale est d'une largeur de 81,20 mètres à compter de la limite haute du
-rivage.
+III.-Un arrêté du représentant de l'Etat à Mayotte détermine une bande littorale comprise entre le rivage de la mer et la
+limite supérieure de la réserve domaniale dite " des cinquante pas géométriques " définie à l'article L. 5331-4 du code
+général de la propriété des personnes publiques. A défaut de délimitation ou lorsque la réserve domaniale n'a pas été
+instituée, cette bande littorale est d'une largeur de 81,20 mètres à compter de la limite haute du rivage. 
 
 En dehors des espaces urbanisés, les terrains situés dans la bande littorale définie à l'alinéa précédent sont réservés aux
 installations nécessaires à des services publics, à des activités économiques ou à des équipements collectifs, lorsqu'ils
-sont liés à l'usage de la mer. Ces installations organisent ou préservent l'accès et la libre circulation le long du rivage.
+sont liés à l'usage de la mer. Ces installations organisent ou préservent l'accès et la libre circulation le long du rivage. 
 
 Des espaces naturels ouverts sur le rivage et présentant le caractère d'une coupure d'urbanisation sont ménagés entre les
-zones urbanisables.
+zones urbanisables. 
 
 Les constructions et aménagements sont interdits sur le littoral quand leur implantation porte atteinte aux milieux
-particuliers que constituent les plages de sable, les mangroves, les lagons et les récifs coralliens.
+particuliers que constituent les plages de sable, les mangroves, les lagons et les récifs coralliens. 
 
-IV. - Jusqu'au 1er janvier 2016, il peut être dérogé, à titre exceptionnel et dans le respect des prescriptions des articles
-L. 146-2 et L. 146-6, au principe d'urbanisation en continuité défini au I de l'article L. 146-4 pour un petit nombre
-d'opérations touristiques ou hôtelières d'importance limitée prévues par le plan d'aménagement et de développement durable de
-Mayotte, sous réserve que ce plan justifie que ces opérations respectent les objectifs de protection du patrimoine naturel,
-de la faune et de la flore, du paysage et des sites. Ces opérations ne peuvent entraîner aucune extension de l'urbanisation.
-Les constructions, installations et travaux nécessaires à leur réalisation sont autorisées par le représentant de l'Etat à
-Mayotte.
+IV.-Dans un délai de dix ans à compter de l'entrée en vigueur du plan d'aménagement et de développement durable de Mayotte,
+il peut être dérogé, à titre exceptionnel et dans le respect des prescriptions des articles L. 146-2 et L. 146-6, au principe
+d'urbanisation en continuité défini au I de l'article L. 146-4 pour un petit nombre d'opérations touristiques ou hôtelières
+d'importance limitée prévues par ce plan, sous réserve qu'il justifie que ces opérations respectent les objectifs de
+protection du patrimoine naturel, de la faune et de la flore, du paysage et des sites. Les constructions, installations et
+travaux nécessaires à leur réalisation sont autorisés par le représentant de l'Etat à Mayotte et ne peuvent entraîner aucune
+extension ultérieure de l'urbanisation.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-868 du 28 juillet 2005 - art. 1 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
+	  - Loi n°2007-224 du 21 février 2007 - art. 20 (V) JORF 22 février 2007
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-787 du 31 mai 2012 - art. 7 (VD)
 
 	**Cite**:
 
-	  - Code du domaine de l'Etat L213-1
-	  - Code de l'urbanisme - art. L146-2 (M)
-	  - Code de l'urbanisme - art. L146-4 (M)
-	  - Code de l'urbanisme - art. L146-6 (M)
+	  - Code général de la propriété des personnes publ... - art. L5331-4 (V)
+	  - Code de l'urbanisme - art. L146-2 (V)
+	  - Code de l'urbanisme - art. L146-4 (V)
 
 	**Cité par**:
 
@@ -23528,6 +23576,47 @@ l'ordonnance au 1er octobre 2007.
 
 
 ### Titre VI : Dispositions relatives au contentieux de l'urbanisme
+
+###### Article L760-1
+
+Les articles L. 600-1, L. 600-2, L. 600-4, L. 600-4-1, L. 600-5 et L. 600-6 sont applicables à Mayotte, sous réserve des
+dispositions ci-après.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-868 du 28 juillet 2005 - art. 1 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Ordonnance 2005-1527 2005-12-08
+	  - Code de l'urbanisme - art. L600-1 (M)
+	  - Code de l'urbanisme - art. L600-2 (V)
+	  - Code de l'urbanisme - art. L600-4 (V)
+	  - Code de l'urbanisme - art. L600-4-1 (V)
+	  - Code de l'urbanisme - art. L600-5 (Ab)
+	  - Code de l'urbanisme - art. L600-6 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 20 (V) JORF 22 février 2007
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08 JORF 13 novembre 1973
+
 
 ###### Article L760-2
 
