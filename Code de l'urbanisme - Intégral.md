@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2007-02-22
+Version Consolidée au 2007-02-28
 
 # Partie législative
 
@@ -5505,6 +5505,75 @@ Des décrets en Conseil d'Etat fixeront, en tant que de besoin, les modalités d
 	**Anciens textes**:
 
 	  - Code de l'urbanisme 24
+
+
+#####  Section 2 : Règles d'urbanisme applicables dans le périmètre de l'opération d'intérêt national de La Défense.
+
+###### Article L141-3
+
+La modernisation et le développement du quartier d'affaires de La Défense présentent un caractère d'intérêt national. 
+
+Un décret en Conseil d'Etat arrête les orientations générales d'urbanisme applicables dans le périmètre de l'opération
+d'intérêt national de La Défense et relatives à la modernisation et au développement de ce quartier. 
+
+Les constructions, travaux, installations et aménagements nécessaires à leur mise en œuvre peuvent être qualifiés par
+l'autorité administrative de projets d'intérêt général, dans les conditions définies par le décret en Conseil d'Etat pris
+pour l'application de l'article L. 121-9.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L121-9 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L123-24 (VD)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L141-4 (VT)
+	  - Code de l'urbanisme - art. L328-2 (V)
+	  - Loi n°2007-254 du 27 février 2007 - art. 3 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Créé par**:
+
+	  - Loi n°2007-254 du 27 février 2007 - art. 1 () JORF 28 février 2007
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+
+###### Article L141-4
+
+Pour mettre en oeuvre les orientations générales visées à l'article L. 141-3, un décret en Conseil d'Etat pris sur le
+fondement de l'article L. 111-1 précise les règles d'urbanisme applicables, jusqu'à l'approbation d'un plan local
+d'urbanisme, sur les parties du territoire du quartier de La Défense qui ne sont pas couvertes par un tel plan ou un document
+d'urbanisme en tenant lieu.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-254 du 27 février 2007 - art. 1 () JORF 28 février 2007
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L111-1
+	  - Code de l'urbanisme - art. L141-3 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 #### Chapitre II : Espaces naturels sensibles des départements.
@@ -15909,6 +15978,317 @@ et par le chapitre IV du titre II du livre V de la première partie du code gén
 	  - Code de la construction et de l'habitation. - art. R321-13 (V)
 	  - Code des transports - art. L4311-2 (V)
 	  - Code général des impôts, CGI. - art. 1042 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+#### Chapitre VIII : Etablissement public de gestion du quartier d'affaires de La Défense
+
+###### Article L328-1
+
+Il est créé un établissement public local à caractère industriel et commercial, dénommé Etablissement public de gestion du
+quartier d'affaires de La Défense.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-254 du 27 février 2007 - art. 2 () JORF 28 février 2007
+
+	**Cité par**:
+
+	  - Décret n°2010-743 du 2 juillet 2010 - art. 2 (V)
+	  - Loi n°2015-991 du 7 août 2015 - art. 59 (V)
+	  - Code de l'urbanisme - art. L328-5 (V)
+	  - Code de l'urbanisme - art. R328-1 (VD)
+	  - Code de l'urbanisme - art. R328-9 (VD)
+	  - Code général des collectivités territoriales - art. L5219-11 (V)
+	  - Code général des collectivités territoriales - art. L5219-5 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L328-2
+
+Cet établissement public est habilité à gérer les ouvrages et espaces publics ainsi que les services d'intérêt général situés
+dans le périmètre de l'opération d'intérêt national visée à l'article L. 141-3 :
+
+- lui appartenant ;
+
+- appartenant à l'établissement public pour l'aménagement de la région dite de " La Défense " ;
+
+- appartenant aux communes de Courbevoie et de Puteaux ou à l'Etat, dès lors qu'ils en font la demande. 
+
+Il assure également la mise en valeur et l'animation du site par toute initiative appropriée. 
+
+Il entreprend toute réalisation en rapport avec ces missions afin d'améliorer la qualité de vie du quartier d'affaires ou de
+garantir le niveau des prestations bénéficiant à ses usagers ou à ses habitants. 
+
+Il exerce ces compétences dans le respect du pouvoir de police des maires des communes concernées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-254 du 27 février 2007 - art. 2 () JORF 28 février 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L141-3 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L328-3 (V)
+	  - Code de l'urbanisme - art. L328-4 (VD)
+	  - Code de l'urbanisme - art. L328-5 (VD)
+	  - Code de l'urbanisme - art. L328-6 (V)
+	  - Code de l'urbanisme - art. L328-8 (VD)
+	  - Code de l'urbanisme - art. R328-7 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L328-3
+
+Pour l'exercice des missions mentionnées à l'article L. 328-2, les ouvrages, espaces publics et services d'intérêt général
+visés audit article sont soit mis à disposition, soit transférés en pleine propriété à l'Etablissement public par
+l'établissement public pour l'aménagement de la région dite de " La Défense " ou par les communes concernées. 
+
+Ces transferts sont réalisés à titre gratuit et ne donnent lieu à aucun versement ou honoraires, ni à aucune indemnité ou
+perception de droit ou taxe. Ils sont constatés par procès-verbal. 
+
+L'établissement public bénéficiaire de la mise à disposition assume l'ensemble des obligations du propriétaire et possède les
+pouvoirs de gestion définis à l'article L. 1321-2 du code général des collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-254 du 27 février 2007 - art. 2 () JORF 28 février 2007
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1321-2 (V)
+	  - Code de l'urbanisme - art. L328-2 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L328-10 (VD)
+	  - Code de l'urbanisme - art. L328-4 (VD)
+	  - Code de l'urbanisme - art. L328-5 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L328-4
+
+Les ouvrages et espaces publics visés à l'article L. 328-2 appartenant ou mis à la disposition de l'Etablissement public de
+gestion du quartier d'affaires de La Défense peuvent être mis à la disposition de l'Etablissement public pour l'aménagement
+de la région dite de " La Défense " pour l'exercice de la mission de ce dernier, qui assume l'ensemble des obligations du
+propriétaire et possède les pouvoirs de gestion définis à l'article L. 1321-2 du code général des collectivités
+territoriales. Cette mise à disposition est constatée par procès-verbal. Une compensation financière est instituée lorsque
+cette opération affecte les ressources de l'établissement public de gestion.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-254 du 27 février 2007 - art. 2 () JORF 28 février 2007
+
+	**Cité par**:
+
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 24 (V)
+	  - Code de l'urbanisme - art. L328-10 (V)
+	  - Code de l'urbanisme - art. R328-11 (VD)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1321-2 (V)
+	  - Code de l'urbanisme - art. L328-2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L328-5
+
+L'établissement public est administré par un conseil d'administration composé des représentants des communes de Courbevoie et
+de Puteaux et du département des Hauts-de-Seine. 
+
+Le département dispose de la majorité des sièges. Les autres sièges sont répartis à parts égales entre les deux communes. En
+cas de création d'un établissement public de coopération intercommunale à fiscalité propre comprenant les communes de
+Courbevoie et de Puteaux, compétent en matière " d'aménagement de l'espace communautaire ", cet établissement peut être
+autorisé, par délibérations concordantes du conseil communautaire et des conseils municipaux des deux communes, à siéger en
+lieu et place de celles-ci au sein du conseil d'administration de l'établissement public créé par l'article L. 328-1. 
+
+Le conseil d'administration élit son président en son sein. 
+
+Le conseil d'administration règle par ses délibérations les affaires de l'établissement. A cet effet, notamment :
+
+- il détermine l'orientation de la politique à suivre ;
+
+- il vote l'état prévisionnel des dépenses et des recettes, autorise les emprunts, approuve les comptes et se prononce sur
+l'affectation du résultat ;
+
+- il nomme le directeur sur proposition du président et met fin à ses fonctions dans les mêmes conditions. 
+
+Les statuts de l'établissement sont fixés et modifiés par décret en Conseil d'Etat après avis du département des Hauts-de-
+Seine et des communes de Courbevoie et de Puteaux. Cet avis est réputé donné, à défaut de réponse, dans un délai de deux mois
+à compter de la saisine. Ces statuts prévoient les conditions dans lesquelles un comité consultatif représentant les
+personnes physiques et morales utilisatrices régulières des équipements et espaces publics gérés par l'établissement est
+consulté, à un rythme fixé par le conseil d'administration et au moins annuel, sur les orientations retenues par
+l'établissement public pour l'exercice de ses compétences.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L328-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R328-9 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Créé par**:
+
+	  - Loi n°2007-254 du 27 février 2007 - art. 2 () JORF 28 février 2007
+
+
+###### Article L328-6
+
+Les charges résultant pour les collectivités publiques de l'exercice des compétences mentionnées à l'article L. 328-2 sont
+réparties entre les membres de l'établissement public dans les conditions fixées par ses statuts. Ces contributions ont un
+caractère obligatoire. 
+
+Une majorité qualifiée des deux tiers des administrateurs présents ou représentés est requise pour modifier la répartition de
+ces contributions entre les membres.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-254 du 27 février 2007 - art. 2 () JORF 28 février 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L328-2 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R328-7 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L328-7
+
+L'établissement public a pour ressources :
+
+1° Les concours financiers des collectivités territoriales qui en sont membres ;
+
+2° Les produits du domaine dont il assure la gestion ou qu'il a reçu en propriété ;
+
+3° Les sommes perçues en contrepartie de services rendus ;
+
+4° Le produit des dons et legs ;
+
+5° Les versements au titre du Fonds de compensation pour la taxe sur la valeur ajoutée ;
+
+6° Les subventions de l'Union européenne, de l'Etat, d'établissements publics, des collectivités territoriales et de leurs
+groupements ;
+
+7° Le produit des emprunts qu'il est autorisé à contracter ;
+
+8° Les produits de cession du domaine dont il est propriétaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Créé par**:
+
+	  - Loi n°2007-254 du 27 février 2007 - art. 2 () JORF 28 février 2007
+
+
+###### Article L328-8
+
+Le directeur de l'établissement public est ordonnateur des dépenses et des recettes. Il représente l'établissement en justice
+et dans tous les actes de la vie civile. Il passe des contrats et signe tous les actes pris au nom de l'établissement. Il
+prépare et exécute les décisions du conseil d'administration. Il recrute le personnel et a autorité sur lui. Il peut déléguer
+sa signature.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-254 du 27 février 2007 - art. 2 () JORF 28 février 2007
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L328-10 (VD)
+	  - Code de l'urbanisme - art. L328-3 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L328-9
+
+Le contrôle de légalité et le contrôle budgétaire des actes et délibérations de l'établissement public sont exercés par le
+préfet des Hauts-de-Seine dans les conditions prévues par le code général des collectivités territoriales.
+
+Le comptable de l'établissement public est un comptable public nommé par le préfet des Hauts-de-Seine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Créé par**:
+
+	  - Loi n°2007-254 du 27 février 2007 - art. 2 () JORF 28 février 2007
+
+
+###### Article L328-10
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent chapitre. Il fixe, en particulier, les conditions
+d'établissement et le contenu du procès-verbal visé aux articles L. 328-3 et L. 328-4 et les modalités des mises à
+disposition visées aux mêmes articles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-254 du 27 février 2007 - art. 2 () JORF 28 février 2007
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L328-11 (VD)
+	  - Code de l'urbanisme - art. L328-8 (VD)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L328-3 (V)
+	  - Code de l'urbanisme - art. L328-4 (V)
 
 	**Codifié par**:
 
