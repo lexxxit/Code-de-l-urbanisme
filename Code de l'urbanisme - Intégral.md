@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2007-02-28
+Version Consolidée au 2007-03-06
 
 # Partie législative
 
@@ -21567,6 +21567,28 @@ novembre 2006.
 	**Créé par**:
 
 	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er novembre 2006
+
+
+### Titre IV : Dispositions propres aux aménagements
+
+#### Chapitre II : Dispositions applicables aux lotissements
+
+#####  Section 1 : Définition
+
+###### Article L442-4
+
+Aucune promesse de vente ou de location d'un terrain situé dans un lotissement ne peut être consentie et aucun acompte ne
+peut être accepté avant la délivrance du permis d'aménager.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Modifié par**:
+
+	  - Loi n°2007-290 du 5 mars 2007 - art. 37 () JORF 6 mars 2007
 
 
 ### Titre VIII : Infractions
