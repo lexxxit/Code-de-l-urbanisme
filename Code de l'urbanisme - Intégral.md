@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2007-03-06
+Version Consolidée au 2007-03-07
 
 # Partie législative
 
@@ -428,34 +428,54 @@ bâtiment.
 
 ###### Article L111-3-1
 
-Les études préalables à la réalisation des projets d'aménagement, des équipements collectifs et des programmes de
-construction, entrepris par une collectivité publique ou nécessitant une autorisation administrative et qui, par leur
+Les projets d'aménagement et la réalisation des équipements collectifs et des programmes de construction qui, par leur
 importance, leur localisation ou leurs caractéristiques propres peuvent avoir des incidences sur la protection des personnes
-et des biens contre les menaces et les agressions, doivent comporter une étude de sécurité publique permettant d'en apprécier
-les conséquences. Sans préjudice de circonstances particulières, l'importance du projet est appréciée notamment par référence
-à la surface des catégories de locaux dont la construction est envisagée, à la densité des constructions avoisinantes, aux
-caractéristiques de la délinquance et aux besoins en équipements publics qu'ils génèrent.
+et des biens contre les menaces et les agressions, doivent faire l'objet d'une étude préalable de sécurité publique
+permettant d'en apprécier les conséquences. 
 
 Un décret en Conseil d'Etat précise les modalités d'application du présent article. Il détermine :
 
-- les conditions dans lesquelles les préoccupations en matière de sécurité publique sont prises en compte dans les procédures
-réglementaires existantes ;
+- les seuils à partir desquels les projets d'aménagement, les équipements collectifs et les programmes de construction sont
+soumis à l'obligation mentionnée au premier alinéa et les conditions dans lesquelles le préfet, à la demande ou après avis du
+maire, peut délimiter les secteurs dont les caractéristiques particulières justifient l'application de seuils inférieurs ;
 
-- les projets d'aménagement, les équipements collectifs et les programmes de construction soumis à l'obligation mentionnée au
-premier alinéa ;
+- le contenu de l'étude de sécurité publique, celle-ci devant porter au minimum sur les risques que peut entraîner le projet
+pour la protection des personnes et des biens contre la délinquance et sur les mesures envisagées pour les prévenir. 
 
-- le contenu de l'étude de sécurité publique, portant au minimum sur les risques que peut entraîner le projet pour la
-protection des personnes et des biens contre la délinquance et sur les mesures envisagées pour les prévenir.
+Lorsque l'opération porte sur un établissement recevant du public, le permis de construire ne peut être délivré si l'autorité
+compétente a constaté, après avis de la commission compétente en matière de sécurité publique, que l'étude remise ne remplit
+pas les conditions définies par le décret en Conseil d'Etat prévu au deuxième alinéa. En l'absence de réponse dans un délai
+de deux mois, l'avis de la commission est réputé favorable.
+
+L'étude de sécurité publique constitue un document non communicable au sens du I de l'article 6 de la loi n° 78-753 du 17
+juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le public et diverses
+dispositions d'ordre administratif, social et fiscal. Le maire peut obtenir communication de cette étude.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Loi n°95-73 du 21 janvier 1995 - art. 11 () JORF 24 janvier 1995
+	  - Loi n°78-753 du 17 juillet 1978 - art. 6
+
+	**Modifié par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 14 () JORF 7 mars 2007
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L114-1 (VD)
+	  - Code de l'urbanisme - art. L114-2 (VD)
+	  - Code de l'urbanisme - art. L114-3 (VD)
+	  - Code de l'urbanisme - art. L114-4 (VD)
+	  - Code de l'urbanisme - art. R114-3 (V)
 
 	**Cité par**:
 
-	  - Code de l'urbanisme - art. L160-1 (V)
+	  - Code de l'urbanisme - art. L160-1 (VT)
 	  - Code de l'urbanisme - art. R111-48 (VT)
 
 	**Codifié par**:
@@ -8433,7 +8453,11 @@ c) En cas d'exécution de travaux ou d'utilisation du sol en infraction aux disp
 protection des espaces naturels sensibles des départements ;
 
 d) En cas d'exécution de travaux ou d'utilisation du sol en infraction aux prescriptions architecturales ou aux règles
-particulières édictées dans une zone d'environnement protégé en application de l'article L. 143-1 (alinéa 2).
+particulières édictées dans une zone d'environnement protégé en application de l'article L. 143-1 (alinéa 2) ;
+
+e) En cas d'exécution, dans une zone d'aménagement concerté, de travaux dont la réalisation doit obligatoirement être
+précédée d'une étude de sécurité publique en application de l'article L. 111-3-1, avant la réception de cette étude par la
+commission compétente en matière de sécurité publique.
 
 Toute association agréée de protection de l'environnement en application des dispositions de l'article L. 252-1 du code
 rural, peut exercer les droits reconnus à la partie civile en ce qui concerne les faits constituant une infraction aux
@@ -8485,23 +8509,20 @@ constituant une infraction aux dispositions du présent article.
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
+	  - Loi n°2007-297 du 5 mars 2007 - art. 14 () JORF 7 mars 2007
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L111-3 (M)
+	  - Code de l'urbanisme - art. L111-3-1 (M)
 	  - Code de l'urbanisme - art. L111-5-2 (M)
 	  - Code de l'urbanisme - art. L124-1 (M)
 	  - Code de l'urbanisme - art. L130-1 (M)
 	  - Code de l'urbanisme - art. L142-11 (M)
 	  - Code de l'urbanisme - art. L143-1 (M)
 	  - Code de l'urbanisme - art. L480-4 (M)
-	  - Code de l'urbanisme L124-1, L150-1, L480-1 à L480-9, L480-4, L111-1 à L111-1-4, L111-3, L111-5-2, L130-1, L142-11, L143-1
+	  - Code de l'urbanisme L124-1, L150-1, L480-1 à L480-9, L480-4, L111-1 à L111-1-4, L111-3, L111-5-2, L130-1, L142-11, L143-1, L111-3-1
 	  - Code rural L252-1
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 83, 103 al. 1
 
 	**Codifié par**:
 
@@ -11503,6 +11524,41 @@ territoriale, du plan local d'urbanisme.
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L300-7
+
+Dans les zones urbaines sensibles, lorsque l'état de dégradation ou l'absence d'entretien par le ou les propriétaires d'un
+ensemble commercial compromettent la rénovation urbaine d'un quartier, le préfet, le maire après avis du conseil municipal ou
+le président de l'établissement public de coopération intercommunale compétent après avis de l'organe délibérant de
+l'établissement peut mettre en demeure le ou les propriétaires de procéder à la réhabilitation de cet ensemble commercial. 
+
+Lorsque le ou les propriétaires n'ont pas manifesté dans un délai de trois mois la volonté de se conformer à la mise en
+demeure ou lorsque les travaux de réhabilitation n'ont pas débuté dans un délai d'un an, l'expropriation des locaux peut être
+engagée dans les conditions prévues par le code de l'expropriation pour cause d'utilité publique au profit de l'Etat, de la
+commune, de l'établissement public de coopération intercommunale ou d'un établissement public d'aménagement créé en
+application des articles L. 321-1 ou L. 326-1. L'enquête publique porte alors sur le projet d'expropriation et sur le projet
+de réhabilitation de l'ensemble commercial. 
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Créé par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 19 () JORF 7 mars 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L321-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*300-15 (V)
 
 
 ###  Titre Ier : Opérations d'aménagement
