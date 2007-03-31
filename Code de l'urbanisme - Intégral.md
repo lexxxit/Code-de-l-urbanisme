@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2007-03-07
+Version Consolidée au 2007-04-01
 
 # Partie législative
 
@@ -35024,30 +35024,25 @@ La décision qui supprime la zone ou qui modifie son acte de création fait l'ob
 
 #####  Section 1 : Secteurs sauvegardés
 
-#####    Sous-section 1 : Création des secteurs sauvegardés
+##### Sous-section 1 : Création des secteurs sauvegardés
 
 ###### Article R313-1
 
-Une commission nationale des secteurs sauvegardés, placée auprès du ministre chargé de l'architecture et composée comme il
-est dit à l'article R. 313-21, propose la création de secteurs sauvegardés.
+Les secteurs sauvegardés sont créés par arrêté du préfet de département, à la demande ou après accord du conseil municipal ou
+de l'organe délibérant de l'établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme
+et après avis de la commission nationale des secteurs sauvegardés.
 
-Les secteurs sauvegardés sont créés et délimités par*autorité compétente* arrêté conjoint du ministre chargé de l'urbanisme
-et du ministre chargé de l'architecture, sur avis favorable ou à la demande de la ou des communes intéressées ou, s'il existe
-un établissement public groupant plusieurs communes et ayant compétence en matière d'urbanisme, de l'organe délibérant de cet
-établissement.
-
-Ils sont créés par décret en Conseil d'Etat, conformément à l'article L. 313-1 (b), en cas d'avis défavorable d'une des
-communes intéressées ou de l'établissement public groupant plusieurs communes et ayant compétence en matière d'urbanisme.
+Cet arrêté délimite le périmètre du secteur sauvegardé.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°63-691 1963-07-13 ART. 1
+	  - Décret n°73-1023 1973-11-08
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'urbanisme - art. L313-1 (M)
+	  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
 
 	**Cité par**:
 
@@ -35058,6 +35053,36 @@ communes intéressées ou de l'établissement public groupant plusieurs communes
 
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-21 (M)
 
+
+##### Sous-section 2 : Contenu des plans de sauvegarde et de mise en valeur
+
+###### Article R*313-6
+
+Les annexes comprennent, s'il y a lieu, les informations énumérées aux 2° à 14° de l'article R. 123-13 et à l'article R.
+123-14.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*123-13 (V)
+	  - Code de l'urbanisme - art. R*123-14 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R313-16 (M)
+	  - Code de l'urbanisme - art. R313-18 (M)
+	  - Code de l'urbanisme - art. R313-4 (M)
+	  - Code de l'urbanisme - art. R313-9 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-8 (M)
+
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
@@ -35065,28 +35090,13 @@ communes intéressées ou de l'établissement public groupant plusieurs communes
 
 ###### Article R313-2
 
-Avant que la commission nationale ne formule la proposition visée à l'article R. 313-1, le conseil municipal de la ou des
-communes intéressées ou, s'il en existe un, l'organe délibérant de l'établissement public groupant plusieurs communes et
-ayant compétence en matière d'urbanisme est consulté sur le projet de création d'un secteur sauvegardé s'il ne l'a lui-même
-proposée.
+Le plan de sauvegarde et de mise en valeur comprend un rapport de présentation et un règlement ainsi que des documents
+graphiques. Il peut comporter en outre des orientations d'aménagement relatives à des quartiers ou à des secteurs, assorties
+le cas échéant de documents graphiques.
 
-Faute d'avis du conseil municipal : ou de l'organe délibérant de l'établissement public transmis à l'autorité de tutelle dans
-le délai de deux mois à compter du jour où*point de départ*, selon le cas, le maire *silence* ou le président de
-l'établissement public a reçu communication du projet, il est procédé conformément aux dispositions de l'article L. 313-1 (b)
-*Décret en Conseil d'Etat*.
-
-Ce délai est porté à quatre mois en cas de consultation du Conseil de Paris.
+Il est accompagné d'annexes.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°63-691 1963-07-13 art. 3
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L313-1 (M)
-	  - Code de l'urbanisme - art. R313-1 (M)
 
 	**Cité par**:
 
@@ -35096,20 +35106,40 @@ Ce délai est porté à quatre mois en cas de consultation du Conseil de Paris.
 
 	  - Décret n°73-1023 1973-11-08
 
+	**Modifié par**:
+
+	  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
+
 
 ###### Article R313-3
 
-L'arrêté ou le décret portant création et délimitation d'un secteur sauvegardé est publié au Journal officiel de la
-République française, et affiché à la mairie de la ou des communes intéressées.
+Le rapport de présentation : 
 
-Mention en est en outre insérée en caractères apparents dans deux journaux régionaux ou locaux diffusés dans le département
-intéressé.
+1° Expose le diagnostic prévu au premier alinéa de l'article L. 123-1 ; 
+
+2° Analyse l'état initial de l'environnement ; 
+
+3° Explique les choix retenus pour établir le plan de sauvegarde et de mise en valeur et leur compatibilité avec le projet
+d'aménagement et de développement durable du plan local d'urbanisme lorsqu'il en existe un et expose les motifs de la
+délimitation des zones, des règles qui y sont applicables et des orientations d'aménagement. Il justifie l'institution des
+secteurs des zones urbaines où les constructions ou installations d'une superficie supérieure à un seuil défini par le
+règlement sont interdites en application du a de l'article L. 123-2 ; 
+
+4° Evalue les incidences des orientations du plan de sauvegarde et de mise en valeur sur l'environnement et expose la manière
+dont le plan prend en compte le souci de sa préservation et de sa mise en valeur. 
+
+En cas de modification, il comporte, outre le rapport de présentation initial, l'exposé des motifs des changements apportés.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°63-691 1963-07-13 art. 4
+	  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L123-1 (VT)
+	  - Code de l'urbanisme - art. L123-2 (V)
 
 	**Cité par**:
 
@@ -35123,23 +35153,24 @@ intéressé.
 
 ###### Article R313-4
 
-Dans les limites territoriales auxquelles il s'applique, l'arrêté interministériel ou le décret en Conseil d'Etat délimitant
-le secteur sauvegardé vaut prescription de l'établissement du plan de sauvegarde et de mise en valeur et mise en révision du
-plan local d'urbanisme rendu public ou approuvé ou de tout document d'urbanisme en tenant lieu.
+Le règlement et ses documents graphiques sont établis conformément aux articles R. 123-4 à R. 123-12. Ils définissent les
+conditions architecturales selon lesquelles est assurée la conservation et la mise en valeur des immeubles et du cadre
+urbain. Ils peuvent comporter des règles relatives aux matériaux à utiliser. 
 
-A compter de la date de cette publication, l'architecte des bâtiments de France assure la surveillance générale du secteur
-sauvegardé en vue de préserver son caractère esthétique et de conserver les immeubles qui présentent un intérêt historique.
-Il a la responsabilité des travaux susceptibles d'y être entrepris à cet effet.
-
-Indépendamment des responsabilités propres du ministre chargé de l'urbanisme, les conditions architecturales selon lesquelles
-est assurée la conservation des immeubles et du cadre urbain dans lequel ces immeubles se trouvent sont définies par le
-ministre chargé de l'architecture.
+Ils précisent en outre les immeubles ou parties d'immeubles soumis aux dispositions des deuxième, troisième et quatrième
+alinéas du III de l'article L. 313-1.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2001-260 du 27 mars 2001 - art. 3 () JORF 28 mars 2001
+	  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L313-1 (VT)
+	  - Code de l'urbanisme - art. R*123-12 (V)
+	  - Code de l'urbanisme - art. R*123-4 (V)
 
 	**Cité par**:
 
@@ -35152,73 +35183,51 @@ ministre chargé de l'architecture.
 	  - Décret n°73-1023 1973-11-08
 
 
-##### Sous-section 2 : Instruction du plan de sauvegarde et de mise en valeur
+###### Article R313-5
 
-###### Article R*313-6
-
-Le projet de plan est communiqué par le préfet à ceux des services publics qui ne sont pas représentés au sein de la
-commission locale du secteur sauvegardé et qu'il y a lieu de consulter sur ce projet. Faute de réponse dans les deux mois du
-jour où ils ont été saisis, leur avis est réputé favorable. L'ensemble des avis ainsi recueillis est soumis à la commission
-locale du secteur sauvegardé.
-
-Lorsqu'il en fait la demande au préfet, le président d'une association mentionnée à l'article L. 121-8 reçoit communication
-du projet de plan de sauvegarde et de mise en valeur ou est invité à en prendre connaissance au lieu désigné à cet effet. Il
-peut faire connaître ses observations sur le projet dans le délai d'un mois courant à compter de la réception du projet de
-plan ou de la date à laquelle il a pris connaissance de celui-ci.
+Les orientations d'aménagement peuvent, par quartier ou par secteur, prévoir les actions et opérations d'aménagement
+mentionnées au troisième alinéa de l'article L. 123-1.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°63-691 1963-07-13 art. 7
-
 	**Modifié par**:
 
-	  - Décret n°96-717 du 9 août 1996 - art. 4 () JORF 14 août 1996
+	  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L121-8 (M)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R313-16 (M)
-	  - Code de l'urbanisme - art. R313-18 (M)
-	  - Code de l'urbanisme - art. R313-4 (M)
-	  - Code de l'urbanisme - art. R313-9 (M)
+	  - Code de l'urbanisme - art. L123-1 (VT)
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-8 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L313-2 (M)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R313-4 (M)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
 
+##### Sous-section 3 : Elaboration, révision, modification et mise à jour des plans de sauvegarde et de mise en valeur
+
 ###### Article R*313-8
 
-Le plan rendu public est soumis par le préfet à enquête dans les formes prévues par les articles R. 123-1 à R. 123-23 du code
-de l'environnement.
+Les présidents des organes délibérants des collectivités publiques, des établissements publics, des organismes associés et
+des associations agréées ainsi que les maires, mentionnés aux deux premiers alinéas de l'article L. 123-8, ou leurs
+représentants, sont consultés par le préfet et le maire ou le président de l'établissement public de coopération
+intercommunale compétent, à chaque fois qu'ils le demandent, pendant la durée de l'élaboration du plan. 
 
-Le préfet peut, par un même arrêté, rendre public le plan, prescrire l'enquête publique prévue au précédent alinéa et, s'il y
-a lieu, prescrire l'enquête en vue de la déclaration d'utilité publique des opérations ou acquisitions prévues à ce plan ou
-de certaines d'entre elles. Dans ce cas, le commissaire enquêteur ou la commission d'enquête est saisi de l'ensemble des
-procédures.
-
-Au vu des résultats de l'enquête et après avis de la commission locale du secteur sauvegardé, le plan est soumis par le
-préfet au conseil municipal ou à l'organe délibérant de l'établissement public compétent en la matière qui doit se prononcer
-dans les mêmes délais et conditions qu'à l'article R. 313-7 sur les documents qui lui sont présentés.
+Le préfet et le maire ou le président de l'établissement public de coopération intercommunale compétent peuvent, en outre,
+entendre toute personne qualifiée.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°63-691 1963-07-13 art. 8 al. 2
-
 	**Modifié par**:
 
-	  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
+	  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
 
 	**Cité par**:
 
@@ -35231,8 +35240,7 @@ dans les mêmes délais et conditions qu'à l'article R. 313-7 sur les documents
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R313-7 (M)
-	  - Code de l'environnement R123-1 à R123-23
+	  - Code de l'urbanisme - art. L123-8 (VT)
 
 	**Codifié par**:
 
@@ -35241,21 +35249,12 @@ dans les mêmes délais et conditions qu'à l'article R. 313-7 sur les documents
 
 ###### Article R*313-10
 
-L'acte rendant public ou approuvant un plan de sauvegarde et de mise en valeur fait l'objet :
+Le préfet et le maire ou le président de l'établissement public de coopération intercommunale compétent soumettent, pour
+avis, le projet de plan de sauvegarde et de mise en valeur à la commission locale du secteur sauvegardé.
 
-1. D'une mention au Journal officiel de la République française, s'il s'agit d'un décret ou d'un arrêté interministériel ;
-
-2. D'une publication au recueil des actes administratifs du département, s'il s'agit d'un arrêté du préfet. Dans ce cas, cet
-arrêté fait l'objet d'une mention en caractères apparents dans deux journaux régionaux ou locaux diffusés dans le
-département.
-
-Le plan rendu public accompagné des délibérations du conseil municipal de la commune intéressée ou de l'organe délibérant de
-l'établissement public compétent en la matière et le plan approuvé sont tenus à la disposition du public à la mairie de la
-commune ou des communes intéressées, ainsi qu'à la préfecture.
-
-Mention de ces mesures de publicité et des lieux où les documents peuvent être consultés est insérée en caractères apparents
-dans deux au moins des journaux régionaux ou locaux diffusés dans le département et affichée dans les mairies des communes
-intéressées.
+Au vu de l'avis de la commission locale, le conseil municipal ou l'organe délibérant de l'établissement public de coopération
+intercommunale compétent délibère sur le projet de plan. Celui-ci est ensuite soumis pour avis à la Commission nationale des
+secteurs sauvegardés.
 
 **Liens relatifs à cet article**
 
@@ -35269,53 +35268,31 @@ intéressées.
 
 	**Modifié par**:
 
-	  - Décret n°83-813 1983-09-09 art. 11 JORF 11 septembre 1983 date d'entrée en vigueur le 1 octobre 1983
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°83-851 1983-09-23 art. 1 : Date d'entrée en vigueur
+	  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
 
 
-###### Article R313-5
+###### Article R*313-14
 
-L'instruction du plan de sauvegarde et de mise en valeur est conduite sous l'autorité du préfet. Un architecte chargé de
-proposer un plan de sauvegarde et de mise en valeur est désigné, après agrément conjoint du ministre chargé de l'architecture
-et du ministre chargé de l'urbanisme, par le maire ou, s'il existe un établissement public groupant plusieurs communes et
-ayant compétence en matière d'urbanisme par le président de cet établissement ; à défaut de décision du maire ou du président
-de l'établissement public, l'architecte est désigné par le préfet.
+La révision d'un plan de sauvegarde et de mise en valeur est prescrite par arrêté du préfet, sur proposition ou après accord
+du conseil municipal ou de l'organe délibérant de l'établissement public de coopération intercommunale compétent. 
 
-Le projet élaboré par l'architecte est soumis à une commission locale du secteur sauvegardé constituée par arrêté du préfet
-et qui comprend des représentants élus des communes ou établissements publics intéressés et des représentants de l'Etat. Sont
-associés aux travaux de cette commission l'architecte chargé du plan et des personnes qualifiées en matière de sauvegarde et
-de mise en valeur des quartiers anciens.
-
-Sont associés, avec voix consultative, aux travaux de la commission, les représentants désignés par la chambre de commerce et
-d'industrie et la chambre de métiers. Il en est de même du ou des représentants de la chambre d'agriculture, lorsque celle-ci
-en a fait la demande au préfet.
-
-La commission entend, sur leur demande, les représentants des associations agréées en application de l'article L. 121-8. Elle
-peut décider d'entendre toute personne qualifiée.
+Elle a lieu dans les formes définies par les articles R. 313-7 à R. 313-13.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°83-813 1983-09-09 art. 11 JORF 11 septembre 1983 date d'entrée en vigueur 1 octobre 1983
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°83-851 du 23 septembre 1983 - art. 1 (V)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. L313-2 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L121-8 (M)
+	  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
 
 	**Cité par**:
 
-	  - Code de l'urbanisme - art. R313-4 (M)
+	  - Code de l'urbanisme - art. R313-12 (M)
+	  - Code de l'urbanisme - art. R313-17-1 (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R313-13 (V)
+	  - Code de l'urbanisme - art. R313-7 (V)
 
 	**Codifié par**:
 
@@ -35324,17 +35301,29 @@ peut décider d'entendre toute personne qualifiée.
 
 ###### Article R313-7
 
-Le projet de plan élaboré dans les conditions prévues aux articles précédents est soumis par le préfet pour délibération au
-conseil municipal de la commune intéressée ou, s'il existe un établissement public groupant plusieurs communes et ayant
-compétence en la matière, à l'organe délibérant de cet établissement. Cette délibération est réputée favorable si elle n'est
-pas intervenue dans un délai de trois mois. Si le conseil municipal ou l'organe délibérant entend faire connaître son
-opposition, celle-ci doit être expressément formulée dans la délibération.
+La procédure d'élaboration du plan de sauvegarde et de mise en valeur est conduite conjointement par le préfet et par le
+maire ou le président de l'établissement public de coopération intercommunale compétent. 
 
-Après avoir été soumis à l'avis de la commission nationale des secteurs sauvegardés, le plan est rendu public par arrêté du
-préfet. Toutefois, le ministre chargé de l'urbanisme et le ministre chargé de l'architecture peuvent décider d'évoquer
-l'affaire pour prendre cette décision.
+Le préfet désigne, en accord avec le maire ou le président de l'établissement public de coopération intercommunale compétent,
+l'architecte chargé de concevoir un plan de sauvegarde et de mise en valeur. 
+
+Il définit dans les mêmes conditions les modalités de la concertation prévue à l'article L. 300-2. Le bilan de cette
+concertation est présenté devant le conseil municipal ou l'organe délibérant de l'établissement public de coopération
+intercommunale compétent, qui en délibère. 
+
+La commission locale du secteur sauvegardé prévue à l'article R. 313-20 est consultée à l'initiative du préfet ou du maire ou
+président de l'établissement public de coopération intercommunale compétent.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L300-2 (VT)
+	  - Code de l'urbanisme - art. R313-20 (V)
 
 	**Cité par**:
 
@@ -35347,46 +35336,20 @@ l'affaire pour prendre cette décision.
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Modifié par**:
-
-	  - Décret n°83-813 1983-09-09 art. 11 JORF 11 septembre 1983 date d'entrée en vigueur 1 octobre 1983
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°83-851 1983-09-23
-
 
 ###### Article R313-9
 
-Le plan de sauvegarde et de mise en valeur, éventuellement modifié pour tenir compte des avis émis en application de
-l'article précédent, accompagné des avis émis en application de l'article précédent et des résultats de l'enquête, est soumis
-à la commission nationale des secteurs sauvegardés. Pour les immeubles ou ensembles urbains protégés au titre de la loi du 2
-mai 1930 sur les sites et compris dans les limites du secteur sauvegardé la consultation de cette commission se substitue aux
-consultations des commissions départementales et supérieure des sites.
+Conformément à l'article L. 112-1 du code rural, le préfet et le maire ou président de l'établissement public de coopération
+intercommunale compétent consultent, lors de l'élaboration du plan de sauvegarde et de mise en valeur, le document de gestion
+de l'espace agricole et forestier, lorsqu'il existe.
 
-A la demande du ministre chargé de l'architecture, la commission supérieure des monuments historiques ou sa délégation
-permanente peut être consultée sur les dispositions du plan de sauvegarde et de mise en valeur touchant les immeubles
-protégés au titre de la loi du 31 décembre 1913 et compris dans les limites d'un secteur sauvegardé.
-
-Le plan de sauvegarde et de mise en valeur, éventuellement modifié pour tenir compte des avis émis, est approuvé par décret
-en Conseil d'Etat sur le rapport conjoint du ministre chargé de l'architecture, du ministre chargé de l'urbanisme et du
-ministre de l'intérieur *autorité compétente*.
+Conformément à l'article L. 112-3 du code rural, le projet de plan de sauvegarde et de mise en valeur, lorsqu'il prévoit une
+réduction des espaces agricoles ou forestiers, est soumis pour avis à la chambre d'agriculture et, le cas échéant, à
+l'Institut national de l'origine et de la qualité dans les zones d'appellation d'origine contrôlée et au centre régional de
+la propriété forestière. Ces avis sont rendus dans un délai de deux mois à compter de la saisine. En l'absence de réponse à
+l'issue de ce délai, l'avis est réputé favorable.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°77-737 1977-07-07 art. 1 JORF 8 juillet 1977
-
-	**Modifié par**:
-
-	  - Décret n°81-534 1981-05-12 art. 24 JORF 15 mai 1981 date d'entrée en vigueur art. 38 modifié 1 juillet 1982
-	  - Décret n°82-584 1982-06-29 art. 1 JORF 7 juillet 1982
 
 	**Liens**:
 
@@ -35394,33 +35357,36 @@ ministre de l'intérieur *autorité compétente*.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R313-8 (M)
-	  - Loi n°1913-12-31
-	  - Loi n°1930-05-02
+	  - Code rural L112-1, L112-3
 
+	**Codifié par**:
 
-#####    Sous-section 3 : Contenu du plan de sauvegarde et de mise en valeur
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
+
 
 ###### Article R313-11
 
-Le plan de sauvegarde et de mise en valeur comporte tout ou partie des documents ou dispositions énumérés aux articles R.
-123-16 à R. 123-24.
+Le projet de plan de sauvegarde et de mise en valeur est soumis à enquête publique par le préfet dans les formes prévues par
+les articles R. 123-7 à R. 123-23 du code de l'environnement. 
 
-Le rapport de présentation indique notamment les conditions dans lesquelles les préoccupations d'environnement sont prises en
-compte par le plan.
+Le dossier est composé des pièces mentionnées à l'article R. 313-2 du présent code et des avis émis par les collectivités ou
+organismes associés ou consultés. 
 
-Le règlement précise, et les documents graphiques font apparaître, les conditions architecturales selon lesquelles est
-assurée la conservation des immeubles et du cadre urbain dans lequel ces immeubles se trouvent.
-
-Les documents graphiques font apparaître notamment les immeubles ou parties d'immeubles soumis aux dispositions du troisième
-alinéa de l'article L. 313-1.
+L'enquête concernant un plan de sauvegarde et de mise en valeur vaut enquête préalable à la déclaration publique des
+opérations, acquisitions ou expropriations prévues à ce plan lorsque le dossier soumis à l'enquête comprend, en outre, les
+pièces mentionnées au I de l'article R. 11-3 du code de l'expropriation pour cause d'utilité publique. Dans ce cas, l'enquête
+publique est organisée dans les formes prévues par les articles R. 11-14-1 et suivants du code de l'expropriation pour cause
+d'utilité publique.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'urbanisme - art. L313-1 (M)
-	  - Code de l'urbanisme R123-16 à R123-24, L313-1
+	  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
 
 	**Liens**:
 
@@ -35431,47 +35397,13 @@ alinéa de l'article L. 313-1.
 	  - Code de l'urbanisme - art. R313-13 (V)
 	  - Code de l'urbanisme - art. R313-15 (M)
 
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-#####    Sous-section 4 : Effets du plan de sauvegarde et de mise en valeur
-
-#####  Paragraphe 1 : Mesures applicables entre la délimitation du secteur sauvegardé et la publication du plan de sauvegarde et de mise en valeur
-
-###### Article R*313-14
-
-Sous réserve des dispositions des articles R. 313-15 et R. 313-16, les demandes d'autorisation spéciale pour tout travail
-ayant pour effet de modifier l'état des immeubles et pour lequel le permis de construire ou la déclaration prévue à l'article
-L. 422-2 n'est pas exigé, sont adressées par le pétitionnaire à l'architecte des bâtiments de France qui procède à leur
-instruction. Il en informe immédiatement le directeur départemental de l'équipement et le maire et décide de surseoir à
-statuer sur la demande ou délivre, le cas échéant, l'autorisation en énonçant, s'il y a lieu, les prescriptions auxquelles le
-pétitionnaire doit se conformer.
-
-En l'absence de notification de la décision de l'architecte des bâtiments de France dans le délai de deux mois,
-l'autorisation est réputée accordée.
-
-En cas de refus de délivrance de l'autorisation spéciale de travaux par l'architecte des Bâtiments de France, le
-pétitionnaire peut saisir le préfet de région ou, dans la collectivité territoriale de Corse, le préfet de Corse, suivant les
-modalités définies à l'article R. 313-17-1.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2004-142 du 12 février 2004 - art. 11 () JORF 14 février 2004
-
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L422-2 (M)
-	  - Code de l'urbanisme - art. R313-15 (M)
-	  - Code de l'urbanisme - art. R313-16 (M)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R313-12 (M)
-	  - Code de l'urbanisme - art. R313-17-1 (Ab)
+	  - Code de l'urbanisme - art. R313-2 (V)
+	  - Code de l'environnement - art. R123-23 (V)
+	  - Code de l'environnement - art. R123-7 (V)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R11-3 (V)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. R11-14-1 (Ab)
 
 	**Codifié par**:
 
@@ -35480,9 +35412,10 @@ modalités définies à l'article R. 313-17-1.
 
 ###### Article R313-12
 
-Les mesures de sauvegarde prises en vertu de l'article R. 123-26 et dans les formes et conditions précisées aux articles R.
-313-13 à R. 313-17 sont applicables*point de départ*à compter de la date de publication de l'acte délimitant le secteur
-sauvegardé.
+Au vu des résultats de l'enquête et après avis de la commission locale du secteur sauvegardé, le conseil municipal ou
+l'organe délibérant de l'établissement public de coopération intercommunale compétent se prononce sur le projet de plan.
+Cette formalité n'est pas obligatoire lorsque le projet n'est pas modifié après l'enquête et lorsque le commissaire enquêteur
+ou la commission d'enquête n'a pas émis un avis défavorable ou demandé des modifications substantielles.
 
 **Liens relatifs à cet article**
 
@@ -35492,30 +35425,36 @@ sauvegardé.
 
 	**Modifié par**:
 
-	  - Décret n°83-813 1983-09-09 art. 11 JORF 11 septembre 1983 date d'entrée en vigueur 1 octobre 1983
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°83-851 du 23 septembre 1983 - art. 1 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R123-26, R313-13 à R313-17
+	  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
 
 
 ###### Article R313-13
 
-Pendant la période comprise entre la publication de l'acte délimitant le secteur et celle de l'acte décidant de rendre public
-le plan de sauvegarde et de mise en valeur, les demandes de permis de construire concernant les immeubles compris dans le
-secteur sauvegardé sont soumises par l'autorité chargée d'instruire la demande à l'architecte des bâtiments de France. Ce
-dernier lui fait connaître son avis dans le délai maximum d'un mois.
+Le plan de sauvegarde et de mise en valeur, éventuellement modifié, est approuvé : 
 
-En cas d'avis défavorable, l'autorité chargée d'instruire la demande propose à l'autorité compétente de surseoir à statuer.
-Si l'architecte des bâtiments de France estime que la délivrance du permis de construire doit être soumise à l'observation de
-certaines conditions, l'autorité chargée d'instruire la demande ne peut proposer à l'autorité compétente de délivrer le
-permis de construire qu'en subordonnant cette délivrance aux conditions exprimées.
+1° Par arrêté du préfet, en cas d'avis favorable du conseil municipal ou de l'organe délibérant de l'établissement public de
+coopération intercommunale compétent ; 
+
+2° Par décret en Conseil d'Etat pris sur le rapport du ministre chargé de l'urbanisme, du ministre chargé du patrimoine et du
+ministre chargé des collectivités territoriales, après avis de la Commission nationale des secteurs sauvegardés, dans le cas
+contraire. 
+
+L'approbation du plan de sauvegarde et de mise en valeur dispense de l'enquête préalable aux classements et déclassements de
+voies et places publiques départementales et communales prévus à ce plan, sous réserve que celui-ci précise la catégorie dans
+laquelle elles doivent entrer et que ces classements et déclassements figurent parmi les opérations soumises à l'enquête
+prévue au premier alinéa de l'article R. 313-11. Cette dispense n'est applicable à la voirie départementale et communale que
+si l'acte d'approbation est accompagné de l'avis conforme, selon le cas, du président du conseil général ou du maire, relatif
+à ce classement ou déclassement.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
 
 	**Cité par**:
 
@@ -35526,39 +35465,44 @@ permis de construire qu'en subordonnant cette délivrance aux conditions exprim�
 	  - Code de l'urbanisme - art. R313-25 (M)
 	  - Code de l'urbanisme - art. R421-38-9 (Ab)
 
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R313-11 (V)
+
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-13 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-20-1 (M)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Modifié par**:
-
-	  - Décret n°86-984 1986-08-19 art. 7 XX JORF 27 août 1986
-
 
 ###### Article R313-15
 
-Aucun permis de démolir ne peut être délivré sans l'accord exprès ou tacite du ministre responsable ou de son délégué, donné
-dans les conditions définies aux articles R. 430-1 et suivants.
+La modification d'un plan de sauvegarde et de mise en valeur est effectuée, à la demande ou après consultation du conseil
+municipal ou de l'organe délibérant de l'établissement public de coopération intercommunale compétent, après avis de la
+commission locale du secteur sauvegardé et enquête publique organisée dans les conditions prévues par l'article R. 313-11.
+Elle est approuvée dans les formes définies par l'article R. 313-13. 
+
+Entre la mise en révision d'un plan de sauvegarde et de mise en valeur et l'approbation de cette révision, il peut être
+décidé une ou plusieurs modifications.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*313-14 (M)
 	  - Code de l'urbanisme - art. R313-12 (M)
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-19-3 (M)
-
 	**Cite**:
 
-	  - Code de l'urbanisme R430-1
+	  - Code de l'urbanisme - art. R313-11 (V)
+	  - Code de l'urbanisme - art. R313-13 (V)
 
 	**Codifié par**:
 
@@ -35567,27 +35511,17 @@ dans les conditions définies aux articles R. 430-1 et suivants.
 
 ###### Article R313-16
 
-Pour les immeubles faisant l'objet des procédures prévues par les articles 303 à 305 du code de l'urbanisme et de
-l'habitation, l'arrêté du maire prescrivant la réparation ou la démolition du bâtiment menaçant ruine vaut autorisation
-spéciale au sens de l'article L. 313-2. Cet arrêté ne peut être pris qu'après avis de l'architecte des bâtiments de France.
-Cet avis est réputé délivré en l'absence de réponse [*silence*] dans le délai de huit jours.
+Le préfet met à jour le plan de sauvegarde et de mise en valeur par arrêté chaque fois qu'il est nécessaire de modifier le
+contenu des annexes prévues à l'article R. 313-6.
 
-L'architecte des bâtiments de France est invité à assister à l'expertise prévue à l'article 304 du code de l'urbanisme et de
-l'habitation.
-
-Si la procédure de péril a été engagée avant la délimitation du secteur sauvegardé, l'architecte des bâtiments de France est
-informé de l'état de la procédure et invité à assister à l'expertise si celle-ci n'a pas encore eu lieu.
-
-En cas de péril imminent donnant lieu à application de la procédure prévue à l'article 305 du code de l'urbanisme et de
-l'habitation, le maire en informe l'architecte des bâtiments de France en même temps qu'il adresse l'avertissement au
-propriétaire.
+L'arrêté préfectoral est affiché pendant un mois en mairie ainsi, le cas échéant, qu'au siège de l'établissement public de
+coopération intercommunale compétent.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'urbanisme - art. L313-2 (M)
-	  - Code de l'urbanisme et de l'habitation 303, 304, 305
+	  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
 
 	**Cité par**:
 
@@ -35595,160 +35529,92 @@ propriétaire.
 	  - Code de l'urbanisme - art. R313-12 (M)
 	  - Code de l'urbanisme - art. R313-19-5 (Ab)
 
-	**Liens**:
+	**Cite**:
 
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-19-3 (M)
+	  - Code de l'urbanisme - art. R*313-6 (V)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
 
+##### Sous-section 4 : Architecte des Bâtiments de France
+
 ###### Article R313-17
 
-Les autorisations concernant les lotissements, l'exploitation de carrières, l'ouverture d'installations classées et les
-divers modes d'occupation du sol faisant l'objet de réglementations particulières, ne peuvent être délivrées qu'après avis
-conforme de l'architecte des bâtiments de France.
-
-L'autorisation accordée en application de l'alinéa ci-dessus tient lieu de l'autorisation exigée par l'article L. 313-2.
+A compter de la publication de l'acte qui crée le secteur sauvegardé, l'architecte des Bâtiments de France assure la
+surveillance générale du secteur sauvegardé en vue de préserver son caractère historique ou esthétique. Il veille à la
+cohérence du projet de plan de sauvegarde et de mise en valeur avec cet objectif.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L313-2 (M)
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R313-12 (M)
 	  - Code de l'urbanisme - art. R313-17-2 (M)
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-19-3 (M)
-
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R313-17-1
-
-En application du quatrième alinéa de l'article L. 313-2 et sous réserve des dispositions de l'article R. 313-17-2, le préfet
-de région est saisi par lettre recommandée avec demande d'avis de réception soit :
-
-a) Par le maire ou l'autorité compétente pour délivrer l'autorisation de travaux, dans le délai d'un mois à compter de la
-réception de l'avis ou de la décision émis par l'architecte des Bâtiments de France ;
-
-b) Par le pétitionnaire, dans le délai de deux mois à compter de la notification du refus d'autorisation de travaux.
-
-Lorsqu'ils ne sont pas l'auteur de la saisine, le pétitionnaire, le maire ou l'autorité compétente pour délivrer
-l'autorisation de travaux reçoivent notification par le préfet de région de la demande dont il est saisi.
-
-Le préfet de région émet après consultation de la section de la commission régionale du patrimoine et des sites, selon le
-cas, un avis ou une décision qui se substitue à celui ou à celle de l'architecte des Bâtiments de France.
-
-L'avis ou la décision du préfet de région est notifié au maire et à l'autorité compétente pour délivrer l'autorisation, ainsi
-qu'au pétitionnaire.
-
-Le préfet de région se prononce dans un délai de trois mois à compter de sa saisine, sauf si le dossier a, dans ce délai, été
-évoqué par le ministre. Dans ce cas, l'autorisation ne peut être délivrée qu'avec l'accord exprès de ce dernier.
-
-Lorsque le maire saisit le préfet de région de la décision prise par l'architecte des Bâtiments de France en application du
-premier alinéa de l'article R. 313-14, celle-ci est suspendue jusqu'à la décision expresse ou tacite du préfet de région ou
-jusqu'à la décision expresse du ministre en cas d'évocation.
-
-Dans la collectivité territoriale de Corse, les attributions conférées par le présent article au préfet de région sont
-exercées par le préfet de Corse.
-
-**Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2004-142 du 12 février 2004 - art. 12 () JORF 14 février 2004
-
-	**Abrogé par**:
-
 	  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
 
-	**Cite**:
 
-	  - Code de l'urbanisme - art. L313-2 (M)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*313-14 (M)
-	  - Code de l'urbanisme - art. R*430-10 (Ab)
-	  - Code de l'urbanisme - art. R313-17-2 (Ab)
-	  - Code de l'urbanisme - art. R421-38-9 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R313-17-2
-
-Lorsque le maire ou l'autorité compétente pour délivrer le permis de construire ou de démolir saisit le préfet de région, en
-application du quatrième alinéa de l'article L. 313-2, de l'avis émis par l'architecte des Bâtiments de France conformément,
-selon le cas, à l'article R. 313-13 ou R. 313-15, le délai au terme duquel le permis est réputé accordé faute de notification
-à l'autorité compétente d'une décision expresse est suspendu jusqu'à la notification à l'autorité compétente pour délivrer le
-permis de l'avis du préfet de région ou l'expiration du délai de trois mois mentionné au septième alinéa de l'article R.
-313-17-1.
-
-Dans le cas prévu au quatrième alinéa de l'article L. 313-2, le préfet de région avise le pétitionnaire, par la voie
-administrative ou par lettre recommandée avec demande d'avis de réception, qu'il est saisi en application du premier alinéa
-du présent article et l'informe que, conformément aux dispositions dudit alinéa, le délai au terme duquel le permis est
-réputé accordé faute de notification par l'autorité compétente d'une décision expresse est suspendu.
-
-Lorsque le ministre chargé de la culture décide d'évoquer le dossier dans les conditions prévues au dernier alinéa de
-l'article R. 313-17-1, le délai au terme duquel, le cas échéant, le permis est réputé accordé faute de notification par
-l'autorité compétente d'une décision expresse est suspendu jusqu'à la notification à l'autorité compétente pour délivrer le
-permis de l'avis du ministre.
-
-La décision d'évoquer le dossier prise par le ministre est notifiée au pétitionnaire, au maire et à l'autorité compétente. La
-notification adressée au pétitionnaire mentionne que, conformément au troisième alinéa du présent article, le délai au terme
-duquel le permis est réputé accordé faute de notification par l'autorité compétente d'une décision expresse est suspendu
-jusqu'à ce que le ministre se soit prononcé.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2004-142 du 12 février 2004 - art. 13 () JORF 14 février 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L313-2 (M)
-	  - Code de l'urbanisme - art. R313-13 (M)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*430-10 (Ab)
-	  - Code de l'urbanisme - art. R313-17-1 (Ab)
-	  - Code de l'urbanisme - art. R313-17-2 (M)
-	  - Code de l'urbanisme - art. R421-38-9 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
+##### Sous-section 5 : Commission nationale et commissions locales des secteurs sauvegardés
 
 ###### Article R313-18
 
-A l'expiration du délai de validité du sursis à statuer et, sur simple confirmation par l'intéressé du maintien de sa
-demande, une décision doit lui être notifiée par l'autorité chargée de la délivrance de l'autorisation dans les deux mois
-suivant cette confirmation. L'autorisation ne peut être refusée pour des motifs tirés du projet de plan de sauvegarde et de
-mise en valeur si celui-ci n'a pas encore été rendu public.
+La Commission nationale des secteurs sauvegardés est composée de la façon suivante :
 
-A défaut*silence[* de notification de la décision dans le délai de deux mois, l'autorisation*tacite*] est réputée accordée
-dans les termes où elle avait été demandée.
+Un président, choisi parmi les députés ou les sénateurs ;
+
+Un représentant du ministre chargé du patrimoine ;
+
+Un représentant du ministre chargé de l'urbanisme ;
+
+Un représentant du ministre chargé de l'architecture ;
+
+Un représentant du ministre chargé du logement ;
+
+Un représentant du ministre chargé des collectivités territoriales ;
+
+Un représentant du ministre chargé des sites ;
+
+Un représentant du ministre chargé du commerce ;
+
+Un représentant du ministre chargé du tourisme ;
+
+Le directeur de l'Agence nationale pour l'amélioration de l'habitat ou son représentant ;
+
+Cinq élus de collectivités territoriales dont trois élus au moins de communes dotées d'un secteur sauvegardé ;
+
+Neuf personnes qualifiées au regard de leur expérience professionnelle ou de l'intérêt qu'elles portent à la sauvegarde et à
+la mise en valeur des ensembles urbains, à l'architecture ou à l'urbanisme, ou en tant que représentants d'associations
+nationales ou régionales agréées au titre de la protection et de la mise en valeur du patrimoine.
+
+Le président, les élus et les personnes qualifiées sont désignés, pour une durée de quatre ans renouvelable, par arrêté
+conjoint du ministre chargé du patrimoine et du ministre chargé de l'urbanisme. Toute vacance ou perte de la qualité au titre
+de laquelle les membres de la commission ont été désignés donne lieu à remplacement pour la durée du mandat restant à courir,
+si elle survient plus de trois mois avant le terne normal de celui-ci.
+
+En cas d'empêchement du président pour tout ou partie d'une séance, la présidence de la commission est assurée par le
+représentant du ministre chargé du patrimoine.
+
+Le maire ou, s'il existe un établissement public de coopération intercommunale compétent en matière de plan local
+d'urbanisme, le président de l'organe délibérant de cet établissement est entendu par la Commission nationale des secteurs
+sauvegardés sur toute question relative au plan de sauvegarde et de mise en valeur qui intéresse, selon le cas, la commune ou
+l'établissement public.
+
+Les conditions de fonctionnement de la commission nationale sont fixées, en tant que de besoin, par arrêté conjoint du
+ministre chargé du patrimoine et du ministre chargé de l'urbanisme.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
 
 	**Liens**:
 
@@ -35761,406 +35627,143 @@ dans les termes où elle avait été demandée.
 	  - Décret n°73-1023 1973-11-08
 
 
-#####  Paragraphe 2 : Mesures applicables une fois le plan de sauvegarde et de mise en valeur rendu public
-
 ###### Article R313-19
 
-Le plan de sauvegarde et de mise en valeur rendu public remplace tout projet d'aménagement, tout plan d'urbanisme ou tout
-plan local d'urbanisme déjà existant et en tient lieu pour l'avenir.
+Outre les attributions qui lui sont conférées par la présente section, la commission nationale des secteurs sauvegardés
+délibère sur toutes les questions relatives à l'application des articles L. 313-1 à L. 313-15 dont elle est saisie par le
+ministre chargé du patrimoine ou par le ministre chargé de l'urbanisme.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 	**Modifié par**:
 
-	  - Décret n°2001-260 du 27 mars 2001 - art. 3 () JORF 28 mars 2001
-
-
-###### Article R313-19-1
-
-Le plan de sauvegarde et de mise en valeur rendu public ou approuvé s'applique aux immeubles protégés au titre des lois des
-31 décembre 1913 sur les monuments historiques et 2 mai 1930 sur les sites, et compris dans les limites du secteur
-sauvegardé.
-
-Les travaux prévus au plan et concernant les édifices classés ou inscrits sur l'inventaire supplémentaire des monuments
-historiques sont exécutés conformément aux règles en vigueur pour la conservation des monuments historiques.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
+	  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
 
 	**Abrogé par**:
 
-	  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
+	  - Décret n°2017-456 du 29 mars 2017 - art. 14
 
 	**Cite**:
 
-	  - Loi n°1913-12-31
-	  - Loi n°1930-05-02
-
-
-###### Article R313-19-2
-
-Après la publication de l'acte rendant public le plan de sauvegarde et de mise en valeur, les demandes de permis de
-construire concernant les immeubles compris dans le secteur sauvegardé sont soumises par l'autorité chargée d'instruire la
-demande à l'architecte des bâtiments de France. Ce dernier lui fait connaître, dans le délai d'un mois, son avis sur la
-conformité du projet avec les dispositions du plan de sauvegarde et de mise en valeur et, éventuellement, les prescriptions
-imposées pour la réalisation du projet. A défaut de [*silence*] réponse dans le délai d'un mois, l'avis est réputé favorable.
-
-Si l'avis constate la non-conformité, le permis de construire ne peut être accordé.
-
-Si l'avis est assorti de prescriptions, l'autorité chargée de l'instruction les transmet à l'autorité compétente pour statuer
-sur la demande.
-
-**Liens relatifs à cet article**
+	  - Code de l'urbanisme - art. L313-1
+	  - Code de l'urbanisme - art. L313-15
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Abrogé par**:
-
-	  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R313-25 (M)
-	  - Code de l'urbanisme - art. R421-38-9 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-25 (M)
-
-
-###### Article R313-19-3
-
-Les dispositions des articles R. 313-14 à R. 313-17-2 demeurent applicables après la publication de l'acte rendant public le
-plan de sauvegarde et de mise en valeur.
-
-Les opérations, travaux et occupations du sol mentionnés à l'article R. 313-17-2 [*lotissement, carrière, établissement
-classé*] ne peuvent être autorisés que s'ils sont conformes aux dispositions du plan.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°99-78 du 5 février 1999 - art. 17 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-15 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-16 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-17 (M)
-
-	**Modifié par**:
-
-	  - Décret n°99-78 du 5 février 1999 - art. 8 () JORF 7 février 1999 en vigueur le 1er mai 1999
-
-	**Abrogé par**:
-
-	  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R313-14 (M)
-	  - Code de l'urbanisme - art. R313-17-2 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R313-14 à R313-17-2
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R313-19-4
-
-Lorsque, à la date à laquelle le plan est rendu public, le délai de validité d'un sursis à statuer n'est pas encore écoulé,
-une décision définitive doit, sur simple confirmation par l'intéressé du maintien de sa demande*autorisation*, être prise par
-l'autorité compétente dans les formes et délais requis en la matière.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
-
-
-###### Article R313-19-5
-
-En cas de difficulté sur la portée exacte des dispositions contenues dans le plan de sauvegarde et de mise en valeur,
-l'architecte des bâtiments de France est consulté ainsi que le directeur départemental de l'équipement.
-
-Les adaptations mineures au plan de sauvegarde et de mise en valeur ne peuvent être décidées qu'après avis conforme de
-l'architecte des bâtiments de France.
-
-Toutefois, ces dispositions ne font pas obstacle à l'exercice des pouvoirs de police du maire dans les conditions définies à
-l'article R. 313-16.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R313-16 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R313-19-6
-
-Les dispositions des articles R. 123-32, R. 123-32-1 et R. 123-33 sont applicables aux plans de sauvegarde et de mise en
-valeur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
-
-	**Cite**:
-
-	  - Code de l'urbanisme R123-32, R123-32-1, R123-33
-
-
-##### Sous-section 5 : Modification, révision et mise à jour du plan de sauvegarde
 
 ###### Article R313-20
 
-La modification d'un plan de sauvegarde et de mise en valeur par application de l'article L. 313-1 (alinéa 4) a lieu suivant
-les modalités ci-après définies.
+A compter de la publication de l'acte qui crée le secteur sauvegardé, il est institué une commission locale du secteur
+sauvegardé, présidée par le maire ou le président de l'établissement public de coopération intercommunale compétent. Celui-ci
+peut déléguer la présidence de la commission au maire de la commune intéressée. En cas d'empêchement du maire ou du président
+de l'établissement public de coopération intercommunale, la présidence est assurée par le préfet ou son représentant.
 
-L'initiative de la modification appartient concurremment au préfet et au maire ou, s'il existe un établissement public
-groupant plusieurs communes et ayant compétence en matière d'urbanisme, au président de cet établissement.
+Lorsqu'une commune comporte plusieurs secteurs sauvegardés, il peut n'être institué, en accord avec le maire ou le président
+de l'établissement public de coopération intercommunale compétent, qu'une seule commission locale pour l'ensemble de ces
+secteurs.
 
-Après avis de la commission locale du secteur sauvegardé et consultation des services publics non représentés au sein de
-cette commission, dans la mesure où ils sont concernés, le projet de modification est soumis à enquête publique selon les
-modalités définies par les chapitres I et II du décret n° 85-453 du 23 avril 1985, puis à une délibération prise par le
-conseil municipal ou, s'il existe un établissement public groupant plusieurs communes et ayant compétence en matière
-d'urbanisme, par l'organe délibérant de cet établissement. La délibération est réputée favorable [*silence*] si elle
-n'intervient pas dans le délai de trois mois.
+La liste des membres de cette commission est arrêtée par le préfet. Outre son président et le préfet ou son représentant,
+elle comprend :
 
-La commission nationale des secteurs sauvegardés émet un avis sur le projet de modification dans le délai de deux mois à
-compter de la réception du dossier. A défaut de réponse dans ce délai, elle est réputée favorable.
+1° Un tiers de représentants élus par le conseil municipal en son sein ou, le cas échéant, élus en son sein par l'organe
+délibérant de l'établissement public de coopération intercommunale compétent ; dans ce cas, deux au moins des représentants
+ainsi élus doivent appartenir au conseil municipal de la commune intéressée par le secteur sauvegardé ; pour chacun des
+membres représentants les collectivités territoriales, un suppléant est désigné dans les mêmes conditions ;
 
-La modification est approuvée par arrêté conjoint du ministre chargé de l'architecture et du ministre chargé de l'urbanisme
-en l'absence d'opposition du conseil municipal ou de l'organe délibérant de l'établissement public groupant plusieurs
-communes et ayant compétence en matière d'urbanisme ou par arrêté des mêmes ministres et du ministre de l'intérieur en cas
-d'opposition du conseil municipal ou de l'organe délibérant de l'établissement public.
+2° Un tiers de représentants de l'Etat désignés par le préfet ;
 
-L'acte modifiant le plan fait l'objet des mesures de publicité mentionnées à l'article R. 313-10.
+3° Un tiers de personnes qualifiées désignées conjointement par le préfet et par le maire ou le président de l'établissement
+public de coopération intercommunale compétent.
+
+Le mandat des membres de la commission locale prend fin à chaque renouvellement du conseil municipal de la ou des communes
+intéressées.
+
+Toute vacance ou perte de la qualité au titre de laquelle les membres de la commission ont été désignés donne lieu à
+remplacement pour la durée du mandat restant à courir, si elle survient plus de trois mois avant le terme normal de celui-ci.
+
+La commission locale approuve un règlement qui fixe ses conditions de fonctionnement.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°85-452 1985-04-23 ART. 6 : application dans le temps
-
 	**Modifié par**:
 
-	  - Décret n°85-452 1985-04-23 art. 6 JORF 24 avril 1985 en vigueur du 1er octobre 1985
+	  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 14
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*322-32 (V)
 	  - Code de l'urbanisme - art. R*322-33 (V)
 	  - Code de l'urbanisme - art. R313-7 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R313-10 (M)
-	  - Code de l'urbanisme L313-1 AL. 4
-	  - Décret n°453 1985-04-23 chapitre I, chapitre II
+	  - Code du patrimoine - art. D612-18 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-
-###### Article R313-20-1
-
-La révision de tout ou partie d'un plan de sauvegarde et de mise en valeur a lieu dans les formes prévues pour son
-établissement et suivant les modalités ci-après définies.
-
-Elle est ordonnée par arrêté conjoint du ministre chargé de l'architecture et du ministre chargé de l'urbanisme sur la
-demande, ou après avis, soit du ou des conseils municipaux intéressés, soit des organes délibérants des établissements
-publics groupant les communes intéressées et ayant compétence en matière d'urbanisme. Cet arrêté est publié au Journal
-officiel.
-
-Pendant la période de révision, qui court de la date de publication de l'arrêté interministériel susvisé jusqu'à la date à
-laquelle le nouveau plan est rendu public, le plan de sauvegarde et de mise en valeur demeure en vigueur. Les mesures de
-sauvegarde prévues à l'article R. 123-26 peuvent être appliquées selon les modalités définies au deuxième alinéa de l'article
-R. 313-13.
-
-Pendant cette même période, le préfet peut, après avis conforme de l'architecte des bâtiments de France, et sauf dans les
-espaces boisés classés, accorder les autorisations qui sont demandées pour des travaux publics ou privés non conformes aux
-dispositions du plan de sauvegarde et de mise en valeur mis en révision, s'il constate que ces travaux sont compatibles avec
-les dispositions du plan de sauvegarde et de mise en valeur en cours d'élaboration.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°83-813 1983-09-09 art. 11 JORF 11 septembre 1983 date d'entrée en vigueur le 1 octobre 1983
-
-	**Abrogé par**:
-
-	  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-13 (M)
-	  - SPEC_APPLI: Décret n°851 1983-09-23ART. 1: Date d'entrée en vigueur
-
-	**Cite**:
-
-	  - Code de l'urbanisme R313-13 AL. 2
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R313-20-2
-
-Le plan de sauvegarde et de mise en valeur est tenu à jour par arrêté du préfet dans les conditions définies aux deuxième et
-cinquième alinéas de l'article R. 123-36.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°83-813 1983-09-09 art. 11 JORF 11 septembre 1983 date d'entrée en vigueur le 1 octobre 1983
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°83-851 du 23 septembre 1983 - art. 1 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
-
-	**Cite**:
-
-	  - Code de l'urbanisme R123-36 al. 2, al. 5
-
-
-##### Sous-section 6 : Dispositions diverses
 
 ###### Article R313-21
 
-La commission nationale des secteurs sauvegardés est composée de la façon suivante :
-
-Un président nommé pour une durée de trois ans renouvelable par arrêté du ministre chargé de l'architecture et du ministre
-chargé de l'urbanisme ;
-
-Un représentant du ministre chargé de l'architecture ;
-
-Un représentant du ministre chargé de l'urbanisme ;
-
-Un représentant du ministre chargé de la construction ;
-
-Un représentant du ministre chargé de la culture ;
-
-Un représentant du ministre de l'intérieur ;
-
-Un représentant du ministre du budget ;
-
-Un représentant du ministre chargé du tourisme ;
-
-Un représentant du délégué à l'aménagement du territoire et à l'action régionale ;
-
-Quatorze membres désignés pour une durée de trois ans renouvelable par arrêté conjoint du ministre chargé de l'architecture
-et du ministre chargé de l'urbanisme, parmi les personnalités qualifiées par leur expérience professionnelle ou par l'intérêt
-qu'elles portent à l'urbanisme ou à la sauvegarde des ensembles urbains.
-
-Le maire de chaque commune intéressée ou, s'il existe un établissement public groupant plusieurs communes et ayant compétence
-en matière d'urbanisme, le président de cet établissement est appelé à participer aux délibérations de la commission
-nationale des secteurs sauvegardés avec voix consultative sur toute question relative au plan de sauvegarde et de mise en
-valeur qui intéresse, selon le cas, la commune ou l'établissement public de regroupement.
-
-Les conditions de fonctionnement de la commission nationale sont fixées, en tant que de besoin, par arrêté conjoint du
-ministre chargé de l'architecture et du ministre chargé de l'urbanisme.
+Outre les attributions qui lui sont conférées par la présente section, la commission locale du secteur sauvegardé peut être
+consultée sur tout projet d'opération d'aménagement ou de construction, notamment lorsque celui-ci nécessite une adaptation
+mineure des dispositions du plan de sauvegarde et de mise en valeur. Elle peut également proposer la modification ou la mise
+en révision du plan de sauvegarde et de mise en valeur.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°81-118 1981-02-05 art. 1 JORF 8 février 1981
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°81-118 1981-02-05 art. 2 Les propositions et avis régulièrement formulés par la commission nationale des secteurs sauvegardés dans sa composition antérieure à la publication du présent décret demeurent valables pour l'application des articles
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R313-1 (M)
 
-
-###### Article R313-22
-
-Indépendamment des attributions définies par la présente section, la commission nationale des secteurs sauvegardés délibère
-sur toutes les questions relatives à l'application des articles L. 313-1 à L. 313-15*restauration immobilière* dont elle est
-saisie par le ministre chargé de l'architecture ou par le ministre chargé de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°63-691 1963-07-13 art. 1 al. 2
-
-	**Cite**:
-
-	  - Code de l'urbanisme L313-1 à L313-15
-
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
+	**Modifié par**:
 
-###### Article R313-23
-
-Un représentant du ministre chargé de l'architecture participe aux délibérations des organismes ou commissions appelés à se
-prononcer sur le financement des affaires relatives à la conservation et à la mise en valeur des secteurs sauvegardés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°63-691 1963-07-13 art. 21
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
+	  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
 
 	**Abrogé par**:
 
+	  - Décret n°2017-456 du 29 mars 2017 - art. 14
+
+
+##### Sous-section 6 : Mesures de publicité et d'information
+
+###### Article R313-22
+
+L'arrêté portant création et délimitation du secteur sauvegardé, l'arrêté instituant la commission locale du secteur
+sauvegardé, l'arrêté prescrivant la révision du plan local de sauvegarde et de mise en valeur et l'arrêté ou le décret
+approuvant, modifiant, révisant ou abrogeant ce plan sont affichés pendant un mois à la mairie ou au siège de l'établissement
+public compétent ainsi que, dans ce cas, dans les mairies des communes membres concernées. Mention de cet affichage est
+insérée en caractères apparents dans un journal diffusé dans le département.
+
+Ils sont en outre publiés au recueil des actes administratifs de l'Etat dans le département lorsqu'il s'agit d'un arrêté
+préfectoral, ou au Journal officiel de la République française lorsqu'il s'agit d'un décret en Conseil d'Etat.
+
+Chacune de ces formalités de publicité mentionne le ou les lieux où le dossier peut être consulté.
+
+L'arrêté ou le décret produit ses effets juridiques dès l'exécution de l'ensemble des formalités prévues au premier alinéa
+ci-dessus, la date à prendre en compte pour l'affichage étant celle du premier jour où il est effectué.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
 	  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 14
 
 
 #####  Section 2 : Restauration immobilière
