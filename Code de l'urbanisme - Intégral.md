@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2007-04-01
+Version Consolidée au 2007-05-04
 
 # Partie législative
 
@@ -30367,23 +30367,27 @@ conseil général aux communes incluses dans le périmètre ou aux établissemen
 compétents en matière de plan local d'urbanisme.
 
 Le projet de programme est également adressé à la chambre départementale d'agriculture ainsi qu'à l'Office national des
-forêts si le périmètre comprend des parcelles soumises au régime forestier et à l'établissement public gestionnaire du parc
-naturel régional si le périmètre inclut une partie du territoire de ce parc. Leurs avis, s'ils ne sont pas exprimés dans le
-délai de deux mois à compter de la saisine, sont réputés favorables.
+forêts si le périmètre comprend des parcelles soumises au régime forestier et, s'il y a lieu, à l'organe de gestion du parc
+national ou du parc naturel régional si le périmètre inclut une partie du territoire de ce parc. Leurs avis, s'ils ne sont
+pas exprimés dans le délai de deux mois à compter de la saisine, sont réputés favorables.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°2006-821 du 7 juillet 2006 - art. 1 () JORF 9 juillet 2006
+	  - Décret n°2007-673 du 2 mai 2007 - art. 16 () JORF 4 mai 2007
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*143-6 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R143-6
