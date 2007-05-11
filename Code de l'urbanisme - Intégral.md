@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2007-05-11
+Version Consolidée au 2007-05-12
 
 # Partie législative
 
@@ -45646,6 +45646,33 @@ de plan Etat-région.
 
 ## Livre IV : Régime applicable aux constructions, aménagements et démolitions
 
+### Titre III : Dispositions propres aux constructions
+
+#### Chapitre Ier : Dispositions générales
+
+#####  Section 2 : Dossier de demande de permis de construire
+
+##### Sous-section 2 : Pièces complémentaires exigibles en fonction de la situation ou de la nature du projet
+
+###### Article R*431-16-1
+
+Lorsque la demande de permis de construire porte sur des constructions situées dans un emplacement réservé à la réalisation
+d'un programme de logements en application du b de l'article L. 123-2 ou dans un secteur délimité en application du d du même
+article, le dossier de la demande est complété par un tableau indiquant la surface de plancher hors oeuvre nette des
+logements créés correspondant aux catégories de logements dont la construction sur le terrain est imposée par le plan local
+d'urbanisme ou le document d'urbanisme en tenant lieu.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-817 du 11 mai 2007 - art. 3
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L123-2 (V)
+
+
 ### Titre IV : Dispositions propres aux aménagements
 
 #### Chapitre II : Dispositions propres aux lotissements
@@ -45850,6 +45877,79 @@ l'article L. 20 du Code de la santé publique.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+### Titre V : Dispositions propres aux démolitions
+
+#### Chapitre Ier : Demande de permis de démolir
+
+###### Article R*451-3
+
+Lorsque le bâtiment est inscrit au titre des monuments historiques, le dossier joint à la demande comprend en outre :
+
+a) Une notice expliquant les raisons pour lesquelles la conservation du bâtiment ne peut plus être assurée bien que l'intérêt
+de celui-ci du point de vue de l'histoire ou de l'art ait été reconnu suffisant pour justifier sa préservation ;
+
+b) Les photographies faisant apparaître l'ensemble des façades et toitures du bâtiment ainsi que ses dispositions
+intérieures ;
+
+c) Dans le cas d'une démolition partielle, la description des moyens mis en oeuvre pour éviter toute atteinte aux parties
+conservées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-817 du 11 mai 2007 - art. 3 () JORF 12 mai 2007
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*430-13 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R451-2 (M)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. R451-4 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*451-4
+
+Lorsque le bâtiment est adossé à un immeuble classé au titre des monuments historiques, le dossier joint à la demande
+comprend en outre :
+
+a) Les photographies faisant apparaître l'ensemble des parties extérieures ou intérieures du bâtiment adossées à l'immeuble
+classé ;
+
+b) La description des moyens mis en oeuvre dans la démolition pour éviter toute atteinte à l'immeuble classé.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*430-13 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R451-3 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. R451-7 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°2007-817 du 11 mai 2007 - art. 3 () JORF 12 mai 2007
 
 
 ### Titre VIII : Sanctions
@@ -55464,76 +55564,6 @@ L'acceptation de l'indemnité approximative et provisionnelle ne préjudicie pas
 	**Anciens textes**:
 
 	  - Code de l'urbanisme - art. R451-3 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R451-3
-
-L'article 30 du décret n. 55-22 du 4 janvier 1955 portant réforme de la publicité foncière est applicable à
-l'ordonnance*Président du tribunal instituant la servitude* mentionnée à l'article R. 451-2.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°55-22 du 4 janvier 1955 - art. 30 (V)
-	  - Code de l'urbanisme - art. R451-2 (M)
-
-	**Abrogé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*430-13 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. R451-2 (M)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R451-4 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R451-4
-
-Si le terrain sur lequel porte la servitude se trouve en indivision en application de la loi n. 65-557 du 10 juillet 1965
-fixant le statut de la copropriété des immeubles bâtis et si le syndicat des copropriétaires consent, dans les conditions
-prévues par le chapitre II de cette loi, à la création de ces servitudes, l'ordonnance est réputée contradictoire à l'égard
-de ceux des propriétaires minoritaires qui ne se seraient pas fait représenter au jour de l'audience.
-
-L'ordonnance du président et le tribunal peuvent fixer des indemnités approximatives et provisionnelles et des indemnités
-définitives différentes pour chacun des copropriétaires, compte tenu de l'importance du préjudice subi par chacun d'eux.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°65-557 1965-07-10
-
-	**Abrogé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*430-13 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. R451-3 (Ab)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R451-7 (Ab)
 
 	**Codifié par**:
 
