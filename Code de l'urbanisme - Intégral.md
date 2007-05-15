@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2007-05-15
+Version Consolidée au 2007-05-16
 
 # Partie législative
 
@@ -34673,6 +34673,89 @@ n° 2005-649 du 6 juin 2005, du nom du titulaire ainsi que du montant du contrat
 	  - Décret n°2016-86 du 1er février 2016 - art. 54
 
 
+###  Section 4 : Réhabilitation des ensembles commerciaux dans les zones urbaines sensibles.
+
+###### Article R*300-15
+
+La mise en demeure de procéder à la réhabilitation d'un ensemble commercial dont l'état de dégradation ou l'absence
+d'entretien compromettent la rénovation urbaine d'un quartier est adressée aux propriétaires de cet ensemble commercial par
+lettre recommandée avec demande d'avis de réception. Elle est portée à la connaissance des exploitants concernés par tout
+moyen. 
+
+Elle définit le programme des travaux de réhabilitation à réaliser. 
+
+Elle indique qu'en application du deuxième alinéa de l'article L. 300-7 si le ou les propriétaires n'ont pas manifesté dans
+un délai de trois mois la volonté de se conformer à la mise en demeure ou si les travaux de réhabilitation n'ont pas débuté
+dans un délai d'un an, l'expropriation des locaux peut être engagée dans les conditions prévues par le code de
+l'expropriation pour cause d'utilité publique au profit de l'Etat, de la commune, de l'établissement public de coopération
+intercommunale ou d'un établissement public d'aménagement créé en application des articles L. 321-1 ou L. 326-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-936 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2015-218 du 25 février 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L300-7 (V)
+	  - Code de l'urbanisme - art. L321-1 (V)
+	  - Code de l'urbanisme - art. L326-1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R*300-28, v. 0.1 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R300-16 (M)
+	  - Code de l'urbanisme - art. R300-17 (V)
+	  - Code de l'urbanisme - art. R300-20 (VD)
+	  - Code de l'urbanisme - art. R300-22 (V)
+	  - Code de l'urbanisme - art. R300-24 (V)
+	  - Code de l'urbanisme - art. R300-26 (V)
+	  - Code de l'urbanisme - art. R423-71-2 (V)
+	  - Code général des collectivités territoriales - art. R4424-7-1 (V)
+	  - Code général des collectivités territoriales - art. R4433-16-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*300-16
+
+Lorsqu'un ou plusieurs propriétaires s'engagent à réaliser ou à faire réaliser les travaux dont le programme leur a été
+notifié, ils doivent produire à l'autorité qui les a mis en demeure une note précisant le calendrier d'exécution de ces
+travaux.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-936 du 15 mai 2007 - art. 1 () JORF 16 mai 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2015-218 du 25 février 2015 - art. 1
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R*300-29, v. 0.1 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R423-21 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ###  Titre Ier : Opérations d'aménagement
 
 ####  Chapitre Ier : Zones d'aménagement concerté
@@ -45950,6 +46033,132 @@ b) La description des moyens mis en oeuvre dans la démolition pour éviter tout
 	**Créé par**:
 
 	  - Décret n°2007-817 du 11 mai 2007 - art. 3 () JORF 12 mai 2007
+
+
+### Titre VII : Dispositions diverses
+
+#### Chapitre II : Remontées mécaniques
+
+#####  Section 1 : Autorisation d'exécution des travaux
+
+###### Article R472-1
+
+La demande d'autorisation d'exécution des travaux portant sur la réalisation des remontées mécaniques mentionnées à l'article
+L. 342-7 du code du tourisme est présentée par le maître d'ouvrage. 
+
+Cette autorisation n'est pas exigée préalablement à l'installation d'appareils démontables et transportables dont la longueur
+n'excède pas 300 mètres et répondant à des conditions fixées par arrêté du ministre chargé des transports.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2007-934 du 15 mai 2007 - art. 2 () JORF 16 mai 2007
+
+	**Cité par**:
+
+	  - Arrêté du 23 novembre 2007 (V)
+	  - Code de l'urbanisme - art. A. 472-1 (V)
+	  - Code du tourisme. - art. R342-22 (V)
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L342-7 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+#####  Section 2 : Autorisation de mise en exploitation des remontées mécaniques
+
+###### Article R472-14
+
+La demande d'autorisation de mise en exploitation des remontées mécaniques mentionnées à l'article L. 342-7 du code du
+tourisme est présentée par le maître d'ouvrage. 
+
+Lorsque les travaux auraient nécessité un permis de construire ou une déclaration préalable, la demande d'autorisation de
+mise en exploitation tient lieu de la déclaration d'achèvement prévue par l'article L. 462-1.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 8 décembre 2004 - art. 6 (Ab)
+	  - Code du tourisme. - art. R342-27 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2007-934 du 15 mai 2007 - art. 2 () JORF 16 mai 2007
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L342-7 (V)
+	  - Code de l'urbanisme - art. L462-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R472-15
+
+Le dossier joint à la demande comprend : 
+
+1° Une déclaration du maître d'oeuvre attestant que le projet a été réalisé et vérifié conformément aux spécifications
+techniques du projet autorisé, à la réglementation technique et de sécurité en vigueur et aux prescriptions imposées par
+l'autorisation d'exécution des travaux ; 
+
+2° S'il s'agit d'une installation autre qu'un téléski, une attestation du contrôleur technique mentionné à l'article R.
+342-25 du code du tourisme chargé par le maître d'ouvrage de contrôler la conception et l'exécution des fondations, ancrages
+et superstructures, à l'exclusion des parties mobiles ou sujettes à l'usure ; 
+
+3° Le dossier de récolement comprenant notamment les notes de calculs, le rapport de sécurité de l'installation, les
+déclarations de conformité et documentations techniques relatives aux constituants et aux sous-systèmes prévus par le décret
+n° 2003-426 du 9 mai 2003 relatif à la mise sur le marché des constituants et sous-systèmes assurant la sécurité des
+remontées mécaniques, les plans d'exécution et tous documents justificatifs relatifs à l'installation et à la bonne exécution
+du projet ; 
+
+4° La désignation de l'exploitant ; 
+
+5° Les propositions pour : 
+
+a) Un règlement d'exploitation et un règlement de police particuliers ; 
+
+b) Un plan d'évacuation des usagers, le cas échéant ; 
+
+c) Le programme des essais définis par les règles techniques et de sécurité en vigueur ; 
+
+d) Les consignes pour le personnel d'exploitation ; 
+
+6° Une attestation d'assurance garantissant la responsabilité civile de l'exploitant.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2003-426 du 9 mai 2003 (V)
+	  - Code du tourisme. - art. R342-25 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 8 décembre 2004 - art. 2 (Ab)
+	  - Arrêté du 7 août 2009 - art. 2 (V)
+	  - Arrêté du 7 août 2009 - art. 25 (V)
+	  - Arrêté du 29 septembre 2010 - art. 2 (V)
+	  - Arrêté du 9 août 2011 - art. 2 (V)
+	  - Arrêté du 9 août 2011 - art. 28 (V)
+	  - Arrêté du 3 mars 2016 - art. 1
+	  - Code du tourisme. - art. R342-12 (VD)
+	  - Code du tourisme. - art. R342-23 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2007-934 du 15 mai 2007 - art. 2 () JORF 16 mai 2007
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ### Titre VIII : Sanctions
