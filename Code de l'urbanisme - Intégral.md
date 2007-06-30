@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2007-05-16
+Version Consolidée au 2007-07-01
 
 # Partie législative
 
@@ -46031,6 +46031,73 @@ b) La description des moyens mis en oeuvre dans la démolition pour éviter tout
 	  - Décret n°73-1023 1973-11-08
 
 	**Créé par**:
+
+	  - Décret n°2007-817 du 11 mai 2007 - art. 3 () JORF 12 mai 2007
+
+
+### Titre VI : Contrôle de la conformité des travaux
+
+#### Chapitre II : Achèvement des travaux de construction ou d'aménagement
+
+###### Article R462-1
+
+La déclaration attestant l'achèvement et la conformité des travaux est signée par le bénéficiaire du permis de construire ou
+d'aménager ou de la décision de non-opposition à la déclaration préalable ou par l'architecte ou l'agréé en architecture,
+dans le cas où ils ont dirigé les travaux. 
+
+Elle est adressée par pli recommandé avec demande d'avis de réception postal au maire de la commune ou déposée contre
+décharge à la mairie. Lorsque la commune est dotée des équipements répondant aux normes fixées par l'arrêté du ministre
+chargé de l'urbanisme prévu à l'article R. 423-49, la déclaration peut être adressée par courrier électronique dans les
+conditions définies par cet article. 
+
+Le maire transmet cette déclaration au préfet lorsque la décision de non-opposition à la déclaration préalable ou le permis a
+été pris au nom de l'Etat, ou au président de l'établissement public de coopération intercommunale lorsque la décision de
+non-opposition à la déclaration préalable ou le permis a été pris au nom de cet établissement public.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Modifié par**:
+
+	  - Décret n°2007-817 du 11 mai 2007 - art. 3 () JORF 12 mai 2007
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. *R442-18 (V)
+	  - Code de l'urbanisme - art. A462-1 (V)
+	  - Code de l'urbanisme - art. A520-2 (VD)
+	  - Code de l'urbanisme - art. R*600-3 (V)
+	  - Code de la construction et de l'habitation. - art. R111-19-27 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*423-49 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R462-2
+
+La déclaration précise si l'achèvement concerne la totalité ou une tranche des travaux.
+
+Lorsqu'un aménageur a été autorisé à différer les travaux de finition des voiries, la déclaration le précise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+	**Modifié par**:
 
 	  - Décret n°2007-817 du 11 mai 2007 - art. 3 () JORF 12 mai 2007
 
