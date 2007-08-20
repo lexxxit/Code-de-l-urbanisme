@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2007-07-01
+Version Consolidée au 2007-08-21
 
 # Partie législative
 
@@ -24657,6 +24657,75 @@ sont de nature à avoir des conséquences dommageables pour l'environnement.
 	**Cite**:
 
 	  - Loi n°76-628 1976-07-10 art. 1
+
+
+##### Section 1 : Règlement national d'urbanisme
+
+##### Sous-section 4 : Dispositions applicables dans le périmètre de l'opération d'intérêt national de La Défense.
+
+###### Article *R111-24-1
+
+Les dispositions de la sous-section 2 de la présente section ne sont pas applicables dans le périmètre de l'opération
+d'intérêt national de La Défense définie au b de l'article R. 121-4-1.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*121-4-1
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Créé par**:
+
+	  - Décret n°2007-1222 du 20 août 2007 - art. 1 (V) JORF 21 août 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+
+###### Article *R111-24-2
+
+Une distance d'au moins trois mètres peut être imposée entre deux bâtiments non contigus. 
+
+Lorsque le projet porte sur un immeuble de grande hauteur, au sens de l'article R. 122-2 du code de la construction et de
+l'habitation : 
+
+a) Chaque bâtiment doit respecter une séparation d'au moins 50 mètres par rapport à la ligne médiane de l'axe historique de
+La Défense et de 20 mètres par rapport au boulevard urbain circulaire ; 
+
+b) Des règles d'implantation respectant une séparation d'au moins 10 mètres par rapport à l'axe des autres voies de passage
+principales peuvent être imposées. 
+
+Toutefois, une implantation différente des constructions peut être autorisée pour permettre la construction d'un immeuble
+enjambant le domaine public, pour les opérations de reconstruction après démolition, pour tenir compte de l'implantation des
+immeubles de grande hauteur existants ou pour imposer une implantation des nouveaux bâtiments dans le prolongement des
+constructions existantes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-1222 du 20 août 2007 - art. 1 (V) JORF 21 août 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. A111-1 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R122-2
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ##### Section 2 : Implantation et volume des constructions.
@@ -57960,6 +58029,36 @@ signature à ses subordonnés en ce qui concerne les matières relevant en propr
 # Partie réglementaire - Arrêtés
 
 ## Livre Ier : Règles générales d'aménagement et d'urbanisme
+
+### Titre  Ier : Règles générales d'utilisation du sol
+
+#### Chapitre Ier : Règles générales de l'urbanisme
+
+#####  Section 1 : Règlement national d'urbanisme
+
+###### Article A111-1
+
+La ligne médiane de l'axe historique du quartier de La Défense, mentionnée au troisième alinéa de l'article R. 111-24-2, est
+figurée par un trait de couleur rouge sur le plan au 1/5 000 annexé à la présente section.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté 2007-08-20 art. 1 JORF 21 août 2007
+
+	**Codifié par**:
+
+	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+	**Cité par**:
+
+	  - Arrêté du 20 août 2007 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. *R111-24-2 (V)
+
 
 ### Titre  II : Prévisions et règles d'urbanisme
 
