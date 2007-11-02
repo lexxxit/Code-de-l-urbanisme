@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2007-10-01
+Version Consolidée au 2007-11-03
 
 # Partie législative
 
@@ -16528,59 +16528,6 @@ Les autres modalités d'organisation et de fonctionnement des fonds régionaux s
 	  - Code de l'urbanisme - art. R340-1 (V)
 	  - Code de l'urbanisme - art. R340-3 (V)
 	  - Code de la construction et de l'habitation. - art. L302-7 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-
-## Livre IV : Règles relatives à l'acte de construire et à divers modes d'utilisation du sol
-
-### Titre II : Permis de construire
-
-#### Chapitre I : Régime général.
-
-###### Article L421-9
-
-L'Etat, la commune ou l'établissement public de coopération intercommunale, lorsqu'ils défèrent à un tribunal administratif
-une décision relative à un permis de construire et assortissent leur recours d'une demande de suspension, peuvent demander
-qu'il soit fait application des dispositions prévues aux troisième et quatrième alinéas de l'article L. 2131-6 du code
-général des collectivités territoriales.
-
-Lorsqu'une personne autre que celles mentionnées à l'alinéa précédent défère une décision relative à un permis de construire
-et assortit son recours d'une demande de suspension, le juge des référés statue sur cette demande dans un délai d'un mois.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°80-502 du 4 juillet 1980 - art. 75 (V)
-	  - Code de l'urbanisme - art. L130-1 (M)
-	  - Code de l'urbanisme - art. L315-1-1 (Ab)
-	  - Code de l'urbanisme - art. L410-1 (M)
-	  - Code de l'urbanisme - art. L421-2-7 (M)
-	  - Code de l'urbanisme - art. L430-4 (Ab)
-	  - Code de l'urbanisme - art. L441-4 (Ab)
-	  - Code de l'urbanisme - art. L442-1 (M)
-	  - Code de l'urbanisme - art. L443-1 (M)
-	  - Code de l'urbanisme - art. L460-2 (Ab)
-	  - Code des tribunaux administratifs et des cours adm - art. L24 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°2000-597 du 30 juin 2000 - art. 15 () JORF 1er juillet 2000 en vigueur le 1er janvier 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L2131-6 (M)
-
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code de justice administrative. - art. L554-10 (V)
 
 	**Codifié par**:
 
@@ -38921,582 +38868,6 @@ relatif au contrôle de l'Etat sur les entreprises publiques nationales et certa
 
 ### Titre III : Dispositions financières
 
-#### CHAPITRE I : Fonds national d'aménagement foncier et d'urbanisme
-
-#####  Section 1 : Dispositions générales
-
-###### Article R*331-1
-
-Le fonds national d'aménagement foncier et d'urbanisme a pour objet de faciliter l'exécution des acquisitions et des
-aménagements fonciers visant à la réalisation d'opérations d'urbanisme, d'implantations industrielles et de réserves
-foncières.
-
-Les ressources du fonds peuvent être utilisées dans les conditions fixées au présent chapitre :
-
-Soit en vue de faciliter la localisation d'entreprises industrielles et l'aménagement de zones d'habitation, conformément aux
-prévisions des plans locaux d'urbanisme et, le cas échéant, des plans d'urbanisme rendus publics ou approuvés ou, à défaut de
-tels plans, dans les zones reconnues par le ministre chargé de l'urbanisme et le ministre de l'intérieur comme étant propices
-à l'utilisation projetée ;
-
-Soit en vue de faciliter la réalisation d'opérations de rénovation urbaine : de restauration immobilière, de résorption de
-l'habitat insalubre ou de remembrement ;
-
-Soit en vue de faciliter l'exercice du droit de préemption dans les zones d'aménagement différé ou les périmètres provisoires
-de ces zones.
-
-Le ministre chargé de l'urbanisme est ordonnateur principal des opérations du compte spécial.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°57-526 1957-04-19 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°2001-260 du 27 mars 2001 - art. 3 () JORF 28 mars 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
-
-#####  Section 2 : Avances
-
-###### Article R*331-2
-
-Les avances du fonds national d'aménagement foncier et d'urbanisme prévues à l'article L. 331-1 sont octroyées par un comité
-de gestion de quatre membres comprenant les représentants du Premier ministre, du ministre de l'économie et des finances, du
-ministre de l'intérieur et du ministre chargé de l'urbanisme.
-
-Le ministre chargé de l'aménagement du territoire représente le Premier ministre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°57-526 1957-04-19 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L331-1 (Ab)
-
-
-###### Article R*331-3
-
-Le taux d'intérêt des avances est compris dans les limites fixées par un arrêté conjoint du ministre de l'économie et des
-finances et du ministre chargé de l'urbanisme.
-
-Le délai de remboursement des avances ne peut excéder deux ans. Il peut toutefois être prolongé pour une égale durée :
-
-Deux fois en ce qui concerne les avances consenties en vue de la création de zones industrielles ;
-
-Trois fois en ce qui concerne les avances consenties en vue de l'exercice du droit de préemption dans les zones d'aménagement
-différé ;
-
-Une fois pour les autres opérations.
-
-Les prolongations de délais sont accordées par décisions du comité de gestion prévu à l'article précédent.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°57-526 1957-04-19 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
-
-###### Article R*331-4
-
-Dans chaque cas, une convention est passée entre le ministre chargé de l'urbanisme et le bénéficiaire de l'avance. La
-convention fixe les conditions et les modalités de versement des fonds.
-
-La convention prévoit que le remboursement des avances est immédiatement exigible si l'opération n'est pas entreprise dans le
-délai prévu.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°57-526 1957-04-19 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
-
-#####  Section 3 : Bonifications d'intérêt
-
-###### Article R*331-5
-
-Les bonifications d'intérêt prévues à l'article L. 331-3 sont octroyées par le comité de gestion prévu à l'article R. 331-2.
-
-Le comité de gestion est autorisé à déléguer aux préfets de région et aux préfets ses pouvoirs d'octroi de bonifications
-d'intérêt dans les conditions fixées par l'arrêté conjoint du ministre chargé de l'urbanisme, du ministre de l'intérieur, du
-ministre de l'économie et des finances et du ministre chargé de l'aménagement du territoire, et selon les modalités définies
-par le comité de gestion.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°57-526 1957-04-19 art. 5
-
-	**Abrogé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L331-3 (MMN)
-	  - Code de l'urbanisme L331-3, R331-2
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*431-23-1 (VD)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*331-6
-
-Le montant des emprunts dont les intérêts pourront être bonifiés est fixé chaque année par arrêté du ministre de l'économie
-et des finances.
-
-Les taux de bonifications d'intérêt sont compris entre des limites fixées par arrêté du ministre de l'économie et des
-finances.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°57-526 1957-04-19 art. 6
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
-
-###### Article R*331-7
-
-Dans chaque cas, une convention est passée entre le ministre chargé de l'urbanisme, le ministre de l'économie et des finances
-et le bénéficiaire de la bonification d'intérêt.
-
-La convention fixe les conditions et les modalités de versement des bonifications d'intérêt. Elle détermine, en particulier,
-les conditions de remboursement ou de suppression des bonifications d'intérêt si les travaux ne sont pas entrepris ou
-terminés dans les délais fixés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°57-526 1957-04-19 art. 7
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
-
-#####  Section 4 : Opérations réalisées par l'Etat
-
-###### Article R*331-8
-
-Le ministre chargé de l'urbanisme peut, après avis de la commission régionale des opérations immobilières, de l'architecture
-et des espaces protégés, procéder aux acquisitions et aux travaux d'aménagement nécessaires pour la réalisation d'opérations
-entreprises aux fins prévues à l'article R. 331-1.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°57-526 1957-04-19 art. 8
-
-	**Cite**:
-
-	  - Code de l'urbanisme R331-1
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme R331-12, R331-13
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
-
-###### Article R*331-9
-
-Ainsi qu'il est dit à l'article R. 90 du code du domaine de l'Etat, les immeubles du domaine privé de l'Etat peuvent, après
-avis du comité de gestion, être affectés au ministère chargé de l'urbanisme aux fins d'aménagement.
-
-Les arrêtés d'affectation précisent la créance de l'administration des domaines, égale à la valeur vénale de ces immeubles.
-
-Lorsque la réalisation de l'opération nécessite la mise à sa disposition d'immeubles domaniaux affectés à un service public
-et effectivement utilisés, le ministre chargé de l'urbanisme peut, après avis favorable du ministre de l'économie et des
-finances, pourvoir, sur les ressources du fonds, à la réinstallation dudit service à un autre emplacement, dans la mesure de
-ses besoins.
-
-Le ministre chargé de l'urbanisme peut, à cette fin, procéder pour le compte du service considéré, à des acquisitions
-d'immeubles, nus ou bâtis, à des travaux d'aménagement ou à des constructions. Les dépenses qu'il expose à cet effet sur les
-ressources du fonds ne peuvent en aucun cas excéder la valeur des immeubles domaniaux qui sont affectés à son département.
-
-En ce cas, et par dérogation à l'article R. 88 du code du domaine de l'Etat, l'affectation ne donne lieu au versement d'une
-indemnité sur les ressources du fonds que dans la mesure où la valeur des immeubles ainsi affectés dépasse le montant des
-dépenses exposées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°57-526 1957-04-19 art. 9
-
-	**Abrogé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
-	**Cité par**:
-
-	  - Décret n°2014-450 du 2 mai 2014 - art. 21 (VT)
-	  - Code de l'urbanisme - art. R331-10 (V)
-	  - Code de l'urbanisme - art. R331-11 (V)
-	  - Code de l'urbanisme - art. R331-12 (V)
-	  - Code de l'urbanisme - art. R331-13 (V)
-	  - Code de l'urbanisme - art. R331-14 (V)
-	  - Code de l'urbanisme - art. R331-16 (V)
-	  - Code de l'urbanisme - art. R331-22 (V)
-	  - Code de l'urbanisme - art. R331-23 (V)
-
-	**Cite**:
-
-	  - Code du domaine de l'Etat - art. R88 (M)
-	  - Code du domaine de l'Etat - art. R90 (V)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme R331-12
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*331-10
-
-La gestion des immeubles acquis ou aménagés en vertu des deux articles précédents est assurée par le ministre chargé de
-l'urbanisme. Ainsi qu'il est dit à l'article R. 70 (2°alinéa) du code du domaine de l'Etat les actes de location sont passés
-par le service des domaines dans les formes ordinaires.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°57-526 1957-04-19 art. 10
-
-	**Abrogé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
-	**Cite**:
-
-	  - Code du domaine de l'Etat - art. R70 (M)
-	  - Code de l'urbanisme R331-9, R331-8
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*331-11
-
-Ainsi qu'il est dit à l'article R. 143 du code du domaine de l'Etat le service des domaines peut procéder sans limitation de
-valeur à l'aliénation des immeubles acquis ou aménagés par le fonds.
-
-Les cessions de gré à gré sont faites en vertu des décisions d'attribution prises par le ministre chargé de l'urbanisme et
-comportant fixation du prix après avis du service des domaines sur la valeur vénale des immeubles.
-
-Les aliénations peuvent intervenir avant achèvement des travaux d'aménagement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°57-526 1957-04-19 art. 11
-
-	**Abrogé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
-	**Cite**:
-
-	  - Code du domaine de l'Etat - art. R143 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme R331-13
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*331-12
-
-Ainsi qu'il est dit à l'article R. 70 (1er alinéa) du code du domaine de l'Etat, nonobstant toutes décisions contraires, les
-locations des immeubles acquis ou aménagés en vertu des articles R. 331-8 et R. 331-9 peuvent être consenties pour une durée
-supérieure à dix-huit ans.
-
-Ainsi qu'il est dit à l'article R. 91 du code du domaine de l'Etat l'affectation desdits immeubles à un service public de
-l'Etat a lieu moyennant une indemnité correspondant au prix de revient des immeubles ainsi affectés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°57-526 1957-04-19 art. 12
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
-	**Cite**:
-
-	  - Code du domaine de l'Etat - art. R70 (M)
-	  - Code du domaine de l'Etat - art. R91 (V)
-	  - Code de l'urbanisme R331-8, R331-9
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R331-23 (V)
-
-
-#####  Section 5 : Opérations en participation
-
-###### Article R*331-13
-
-Le ministre chargé de l'urbanisme peut, sur les ressources du fonds et après avis du comité de gestion prévu à l'article R.
-331-2, participer avec les collectivités et les établissements publics à des opérations comportant séparément ou
-cumulativement l'acquisition et l'aménagement d'immeubles nus ou bâtis aux fins prévues à l'article R. 331-1.
-
-Une convention, passée entre le ministre chargé de l'urbanisme et les représentants des collectivités et établissements
-publics dûment habilités fixe les conditions de réalisation de l'opération. Elle désigne, notamment, les participants qui
-seront chargés de réaliser tout ou partie des acquisitions et des aménagements et les conditions selon lesquelles seront
-effectuées les cessions. Elle fixe la part revenant à chacun des participants dans les recettes.
-
-Les dispositions prévues aux articles R. 331-8 et R. 331-11 s'appliquent dans ce cas aux acquisitions et aux aliénations
-effectuées par l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°57-526 1957-04-19 art. 13
-
-	**Cite**:
-
-	  - Code de l'urbanisme R331-2, R331-1, R331-8, R331-11
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
-
-###### Article R*331-14
-
-Lorsqu'une opération entreprise par le fonds entraîne la réalisation des travaux incombant normalement à un autre service
-public de l'Etat, le ministre chargé de l'urbanisme peut passer avec le ministre dont relève ce service une convention fixant
-les conditions dans lesquelles ce service contribuera à la réalisation de l'opération.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°57-526 1957-04-19 art. 14
-
-	**Abrogé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme R331-16
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*331-15
-
-Le ministre chargé de l'urbanisme peut passer des conventions avec des particuliers en vue de la réalisation d'opérations
-entreprises aux fins prévues à l'article R. 331-1.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°57-526 1957-04-19 art. 15
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
-	**Cite**:
-
-	  - Code de l'urbanisme R331-1
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme R331-16
-
-
-#####  Section 6 : Dispositions communes
-
-###### Article R*331-16
-
-Sont imputés au compte spécial :
-
-En recettes :
-
-1° Le remboursement des avances ;
-
-2° Les intérêts des avances ;
-
-3° Le produit de la cession des immeubles ;
-
-4° Le prix des immeubles acquis sur les ressources du fonds et affectés à des services d'Etat ;
-
-5° La participation des collectivités ou établissements publics aux opérations effectuées en commun par l'Etat et ces
-collectivités ou établissements publics ;
-
-6° La part revenant au fonds dans les recettes réalisées par des collectivités et établissements publics et provenant
-d'opérations effectuées en commun par l'Etat et ces collectivités et établissements publics ;
-
-7° Les sommes versées par des services publics de l'Etat ou par des particuliers en application des articles R. 331-14 et R.
-331-15 ;
-
-8° L'évaluation des apports en nature ;
-
-9° Les fruits et produits des biens gérés temporairement ;
-
-10° Les sommes versées par l'Etat pour couvrir la charge des bonifications d'intérêt ;
-
-11° La part revenant à l'Etat dans les recettes provenant des opérations par l'article L. 331-1.
-
-En dépenses :
-
-1° Les versements d'avances et de bonifications d'intérêt ;
-
-2° Les dépenses correspondant aux opérations directement effectuées par le ministre chargé de l'urbanisme sur les ressources
-du fonds ;
-
-3° Les sommes dues à l'administration des domaines pour les immeubles affectés au ministère chargé de l'urbanisme dans les
-conditions prévues à l'article R. 331-9 ;
-
-4° La participation du fonds aux opérations effectuées en commun par l'Etat et les collectivités publiques ou établissements
-publics ;
-
-5° La part revenant aux collectivités et établissements publics dans les recettes réalisées par le fonds et provenant
-d'opérations effectuées en commun entre l'Etat et ces collectivités ou établissements publics ;
-
-6° L'évaluation des apports en nature ;
-
-7° Les frais divers de gestion, et notamment les frais exposés pour parvenir aux aliénations.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°57-526 1957-04-19 art. 16
-
-	**Abrogé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L331-1 (Ab)
-	  - Code de l'urbanisme L331-1, R331-14, R331-15, R331-9
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*331-17
-
-Un arrêté du ministre chargé de l'urbanisme et du ministre de l'économie et des finances fixe les conditions dans lesquelles
-l'Etat verse des provisions sur sa participation, telle qu'elle est prévue conformément à l'article L. 331-2 par l'article R.
-331-16 (11°) ; il s'acquitte du solde sur justification des acquisitions de travaux exécutés.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L331-2 (Ab)
-	  - Code de l'urbanisme L331-2, R331-16
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 81 al. 3
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 #### Chapitre II : Participation des constructeurs et des lotisseurs
 
 #####  Section 2 : Autres participations
@@ -46977,9 +46348,9 @@ cette déclaration ou cette autorisation dispense de la déclaration préalable 
 
 ###### Article R*425-27
 
-Lorsqu'un affouillement ou un exhaussement du sol porte sur un projet d'installation nucléaire, l'autorisation prévue par
-l'article 3 du décret n° 63-1228 du 11 décembre 1963 relatif aux installations nucléaires dispense de la déclaration
-préalable ou du permis d'aménager.
+Lorsqu'un affouillement ou un exhaussement du sol porte sur un projet d'installation nucléaire, l'autorisation de création
+prévue par l'article 29 de la loi n° 2006-686 du 13 juin 2006 relative à la transparence et à la sécurité en matière
+nucléaire dispense de la déclaration préalable ou du permis d'aménager.
 
 **Liens relatifs à cet article**
 
@@ -46989,11 +46360,11 @@ préalable ou du permis d'aménager.
 
 	**Cite**:
 
-	  - Décret n°63-1228 du 11 décembre 1963 - art. 3 (M)
+	  - Loi n°2006-686 du 13 juin 2006 - art. 29 (VT)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+	  - Décret n°2007-1557 du 2 novembre 2007 - art. 72 () JORF 3 novembre 2007
 
 
 ###### Article R*425-28
@@ -51323,10 +50694,6 @@ décret n. 62-1587 du 29 décembre 1962.
 
 	  - Décret n°73-1023 1973-11-08
 
-
-## LIVRE IV : Règles relatives à l'acte de construire et à divers modes d'utilisation du sol
-
-### TITRE V : Dispositions diverses
 
 ## Livre V : Implantation des services, établissements et entreprises
 
@@ -55691,13 +55058,15 @@ A. - Patrimoine naturel.
 a) Forêts.
 
 Servitudes de protection des forêts soumises au régime forestier et instituées en application des articles L. 151-1 à L.
-151-6 du code forestier (1) ;
+151-6 du code forestier 
+  _(1)_ ;
 
 Servitudes relatives aux forêts dites de protection instituées en application des articles L. 411-1 à L. 413-1 du code
 forestier ;
 
 Prescriptions et interdictions auxquelles sont soumis les propriétaires en application des articles L. 421-1, L. 432-1, L.
-432-2, L. 531-1 et L. 541-2 du code forestier (2) ;
+432-2, L. 531-1 et L. 541-2 du code forestier 
+  _(2)_ ;
 
 b) Littoral maritime.
 
@@ -55707,9 +55076,10 @@ Servitude de passage sur le littoral instituée en application des articles L. 1
 
 c) Eaux.
 
-Servitudes prévues aux articles L. 215-4 et L. 215-5 du code de l'environnement ainsi qu'à l'article L. 151-37-1 du code
-rural, y compris les servitudes instituées en application du décret n° 59-96 du 7 janvier 1959 validées dans les conditions
-prévues au IV de l'article L. 211-7 du code de l'environnement ;
+Servitudes prévues aux articles L. 215-4 et L. 215-5 
+  _(2bis)_ du code de l'environnement ainsi qu'à l'article L. 151-37-1 du code rural, y compris les servitudes instituées en
+application du décret n° 59-96 du 7 janvier 1959 validées dans les conditions prévues au IV de l'article L. 211-7 du code de
+l'environnement ;
 
 Servitudes attachées à la protection des eaux potables instituées en vertu des articles L. 1321-2 et R. 1321-13 du code de la
 santé publique ;
@@ -55741,7 +55111,8 @@ les monuments historiques avec l'indication de leur étendue ;
 Périmètres de protection éventuellement délimités par décrets en Conseil d'Etat en application de l'article 1er (alinéas 2 et
 3) de la loi du 31 décembre 1913, autour des monuments historiques classés ou inscrits ;
 
-Zones de protection des monuments historiques créées en application de l'article 28 de la loi du 2 mai 1930 modifiée (3) 
+Zones de protection des monuments historiques créées en application de l'article 28 de la loi du 2 mai 1930 modifiée 
+  _(3)_
 
 Périmètres de protection des monuments historiques classés ou inscrits et portés sur la liste visée ci-dessus, tels qu'ils
 résultent des dispositions combinées des articles 1er et 13 bis de la loi du 31 décembre 1913.
@@ -55752,7 +55123,8 @@ Sites inscrits ;
 
 Sites classés ;
 
-Zones de protection des sites créées en application de l'article 17 de la loi du 2 mai 1930 modifiée (3).
+Zones de protection des sites créées en application de l'article 17 de la loi du 2 mai 1930 modifiée 
+  _(3)_.
 
 c) patrimoine architectural et urbain.
 
@@ -55816,20 +55188,24 @@ Zones où ont été instituées, en application de la loi n° 62-904 du 4 août 
 servitudes attachées aux canalisations publiques d'eau et d'assainissement.
 
 Servitudes attachées à l'établissement des canalisations souterraines d'irrigation instituées en application des articles
-128-7 et 128-9 du code rural (4) ;
+128-7 et 128-9 du code rural 
+  _(4)_ ;
 
 Servitudes de passage des engins mécaniques d'entretien et de dépôt des produits de curage et faucardement attachées aux
-canaux d'irrigation et émissaires d'assainissement instituées en application des articles 128-6 et 138-1 du code rural (5) ;
+canaux d'irrigation et émissaires d'assainissement instituées en application des articles 128-6 et 138-1 du code rural 
+  _(5)_ ;
 
 Servitudes d'écoulement des eaux nuisibles attachées aux travaux d'assainissement des terres par le drainage instituées en
-application des articles 135 à 138 du code rural (6).
+application des articles 135 à 138 du code rural 
+  _(6)_.
 
 D. - Communications.
 
 a) Cours d'eau.
 
 Servitudes de halage et de marchepied instituées par les articles 15, 16 et 28 du code du domaine public fluvial et de la
-navigation intérieure et par l'article 424 du code rural (7).
+navigation intérieure et par l'article 424 du code rural 
+  _(7)_.
 
 b) Navigation maritime.
 
@@ -55842,7 +55218,8 @@ Zones auxquelles s'appliquent les servitudes instituées par :
 
 La loi du 15 juillet 1845 sur la police des chemins de fer ;
 
-L'article 6 du décret du 30 octobre 1935 modifié portant création de servitudes de visibilité sur les voies publiques (8) ;
+L'article 6 du décret du 30 octobre 1935 modifié portant création de servitudes de visibilité sur les voies publiques 
+  _(8)_ ;
 
 La loi n° 66-1066 du 31 décembre 1966 établissant des servitudes au profit des lignes de transport public par véhicules
 guidés sur coussins d'air (aérotrains).
@@ -55850,7 +55227,8 @@ guidés sur coussins d'air (aérotrains).
 d) Réseau routier.
 
 Servitudes instituées en application de l'article 3 du décret du 30 octobre 1935 portant création de servitudes de visibilité
-sur les voies publiques (9) ;
+sur les voies publiques 
+  _(9)_ ;
 
 Servitudes grevant les terrains nécessaires aux routes nationales et aux autoroutes instituées en application de l'ordonnance
 n° 58-1311 du 23 décembre 1958 et du décret n° 58-1316 du 23 décembre 1958 ;
@@ -55858,7 +55236,8 @@ n° 58-1311 du 23 décembre 1958 et du décret n° 58-1316 du 23 décembre 1958 
 Servitudes attachées à l'alignement des voies nationales, départementales ou communales ;
 
 Servitudes relatives aux interdictions d'accès grevant les propriétés limitrophes des routes express et des déviations
-d'agglomérations en application des articles 4 et 5 de la loi n° 69-7 du 3 janvier 1969 (10).
+d'agglomérations en application des articles 4 et 5 de la loi n° 69-7 du 3 janvier 1969 
+  _(10)_.
 
 e) Circulation aérienne.
 
@@ -55922,9 +55301,11 @@ a) Cimetières.
 
 Servitudes relatives aux cimetières instituées par :
 
-L'article L. 361-1 du code des communes (11) ;
+L'article L. 361-1 du code des communes 
+  _(11)_ ;
 
-L'article L. 361-4 du code des communes (12).
+L'article L. 361-4 du code des communes 
+  _(12)_.
 
 b) Etablissements conchylicoles.
 
@@ -55952,13 +55333,16 @@ Servitudes d'utilité publique instituées en application de l'article L. 211-12
 
 Plans de prévention des risques technologiques établis en application de l'article L. 515-15 du code de l'environnement.
 
-**Nota:**
+Servitudes d'utilité publique instituées en application de l'article 31 de la loi n° 2006-686 du 13 juin 2006 relative à la
+transparence et à la sécurité en matière nucléaire.
 
-NOTA :
+**Nota:**
 
 (1) Articles abrogés par l'article 72 de la loi n° 2001-602.
 
 (2) Les articles L. 531-1 et L. 541-2 sont abrogés par l'article 72 de la loi n° 2001-602.
+
+(2bis) L'article L215-5 a été abrogé par l'article 101 de la loi n° 2006-1772 du 30 décembre 2006 (loi sur l'eau).
 
 (3) Article abrogé par l'article 72 de la loi n° 83-8.
 
@@ -55982,13 +55366,86 @@ NOTA :
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Décret n°59-96 1959-01-07
+	  - Décret n°59-645 1959-05-16
+	  - CODE DES COMMUNES. - art. L361-1 (M)
+	  - CODE DES COMMUNES. - art. L361-4 (M)
+	  - Code forestier - art. L421-1 (V)
+	  - Code forestier - art. L432-1 (M)
+	  - Code forestier - art. L432-2 (V)
+	  - Code forestier - art. L531-1 (Ab)
+	  - Code forestier - art. L541-2 (Ab)
+	  - Code forestier L151-1 à L151-6, L411-1 à L413-1, L421-1, L432-1, L432-2, L531-1, L541-2
+	  - Code minier 71 à 73, 104-3, 94
+	  - Code de la santé publique - art. L1321-2 (M)
+	  - Code de la santé publique - art. R1321-13 (M)
+	  - Code de la santé publique L1321-2, R1321-13, L1322-3 à L1322-13
+	  - Code de l'urbanisme - art. L160-6 (M)
+	  - Code de l'urbanisme - art. L160-6-1 (V)
+	  - Code de l'urbanisme L160-6, L160-6-1, 11
+	  - Code de l'environnement - art. L211-12 (M)
+	  - Code de l'environnement - art. L211-7 (M)
+	  - Code de l'environnement - art. L215-4 (M)
+	  - Code de l'environnement - art. L215-5 (Ab)
+	  - Code de l'environnement - art. L331-4 (M)
+	  - Code de l'environnement - art. L515-15 (V)
+	  - Code de l'environnement - art. L562-1 (M)
+	  - Code de l'environnement - art. L562-6 (V)
+	  - Code de l'environnement L215-4, L215-5, L211-7, L332-1 à L332-19-1, L332-16 à L332-18, L331-4, L562-1, L562-6, L515-8 à L515-12, L211-12, L515-15
+	  - Code de l'aviation civile - art. L281-1 (M)
+	  - Code de l'aviation civile - art. R244-1 (M)
+	  - Code de l'aviation civile - art. R245-1 (M)
+	  - Code de l'aviation civile L281-1, R241-1 à R243-3, R245-1, R244-1, D244-1 à D244-4, L54 à L56-1, R21 à R26-1, L57 à L62-1, R27 à R39, L45-1, L48
+	  - Code du domaine public fluvial et de la navigation - art. 15 (M)
+	  - Code du domaine public fluvial et de la navigation - art. 16 (M)
+	  - Code du domaine public fluvial et de la navigation - art. 28 (M)
+	  - Code du domaine public fluvial et de la navigation - art. 55 (Ab)
+	  - Code rural L151-37-1, L112-2, L642-1, L642-2, 128-7, 128-9, 128-6, 138-1, 135 à 138, 424
+	  - Décret n°1935-10-30 art. 6, art. 3, art. 2
+	  - Décret n°58-1316 1958-12-23
+	  - Décret n°64-153 1964-02-15
+	  - Décret n°64-481 1964-01-23 art. 25
+	  - Loi n°1791-07-08
+	  - Loi n°1819-07-17
+	  - Loi n°1845-07-15
+	  - Loi n°1851-07-10
+	  - Loi n°1895-07-18
+	  - Loi n°1906-06-15 art. 12, art. 12 bis
+	  - Loi n°1913-12-31 art. 1 à 5, art. 1, art. 13 bis
+	  - Loi n°1919-10-16 art. 4
+	  - Loi n°1925-07-13 art. 298
+	  - Loi n°1927-07-13 art. 25
+	  - Loi n°1929-08-08
+	  - Loi n°1930-05-02 art. 28, art. 17
+	  - Loi n°1933-05-27
+	  - Loi n°1933-07-11
+	  - Loi n°1941-07-08
+	  - Loi n°46-628 1946-04-08 art. 35
+	  - Loi n°58-336 du 29 mars 1958 - art. 11 (M)
+	  - Ordonnance 58-1311 1958-12-23
+	  - Loi n°62-904 1962-08-04
+	  - Loi n°63-1178 du 28 novembre 1963 - art. 4, v. init.
+	  - Loi n°65-498 1965-06-29
+	  - Loi n°66-1066 1966-12-31
+	  - Loi n°69-7 du 3 janvier 1969 - art. 4 (Ab)
+	  - Loi n°69-7 du 3 janvier 1969 - art. 5 (Ab)
+	  - Loi n°80-531 1980-07-15
+	  - Loi n°84-610 du 16 juillet 1984 - art. 42 (M)
+	  - Loi n°85-30 1985-01-09 art. 53
+	  - Loi n°87-954 1987-11-27
+	  - Loi n°91-1385 1991-12-31
+	  - Ordonnance 2004-632 2004-07-01 art. 28
+	  - Loi n°2006-686 2006-06-13 art. 31
+
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
 	**Modifié par**:
 
-	  - Décret n°2006-944 du 28 juillet 2006 - art. 6 () JORF 29 juillet 2006
+	  - Décret n°2007-1557 du 2 novembre 2007 - art. 72 () JORF 3 novembre 2007
 
 
 ## Liste des communes comprises dans la zone 1
