@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2007-11-03
+Version Consolidée au 2007-11-10
 
 # Partie législative
 
@@ -25635,11 +25635,15 @@ effectuée ;
 Le rapport de présentation peut se référer aux renseignements relatifs à l'environnement figurant dans d'autres études, plans
 et documents.
 
+Lorsque le schéma de cohérence territoriale comprend un chapitre individualisé valant schéma de mise en valeur de la mer, le
+rapport de présentation du schéma de cohérence territoriale décrit les conditions de l'utilisation de l'espace marin et
+terrestre du littoral, indique les perspectives d'évolution de ce milieu et explique les orientations retenues, en matière de
+développement, de protection et d'équipement.
+
 **Nota:**
 
-NOTA :(1) Les articles R. 211-1 à R. 223-25 du code de l'environnement sont abrogés, sauf en tant que leurs dispositions
-s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les Terres australes et antarctiques
-françaises et à Mayotte. Se reporter désormais aux articles R. 411-1 à R. 423-20 du même code.
+(1) Les articles R. 214-18 et R. 214-17 sont abrogés par le décret n° 2005-935 du 5 août 2005 ; se reporter dorénavant aux
+articles R. 414-3 à R. 414-7 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -25660,7 +25664,7 @@ françaises et à Mayotte. Se reporter désormais aux articles R. 411-1 à R. 42
 
 	**Modifié par**:
 
-	  - Décret n°2005-608 du 27 mai 2005 - art. 3 () JORF 29 mai 2005
+	  - Décret n°2007-1586 du 8 novembre 2007 - art. 12 () JORF 10 novembre 2007
 
 
 ###### Article R*122-2-1
@@ -25720,22 +25724,59 @@ permettre d'identifier les terrains inscrits dans ces limites.
 En zone de montagne, le schéma de cohérence territoriale désigne, le cas échéant, les plans d'eau de faible importance
 auxquels il est décidé de faire application du huitième alinéa de l'article L. 145-5.
 
+Lorsque le schéma de cohérence territoriale comporte un chapitre individualisé valant schéma de mise en valeur de la mer, ce
+chapitre porte sur une partie du territoire qui constitue une unité géographique et maritime et présente des intérêts liés,
+concurrents ou complémentaires, au regard de l'aménagement, de la protection et de la mise en valeur du littoral.
+
+Il mentionne les orientations relatives aux cultures marines et aux activités de loisirs. Il précise dans une perspective de
+gestion intégrée de la zone côtière, les vocations des différents secteurs de l'espace maritime, les conditions de la
+compatibilité entre les différents usages de ces derniers, et les conséquences qui en résultent pour l'utilisation des
+diverses parties du littoral qui sont liées à cet espace. Il précise les mesures de protection du milieu marin. Il définit
+les orientations et principes de localisation des équipements industriels et portuaires, s'il en est prévu.
+
+Il comprend également les dispositions prévues par le décret n° 86-1252 du 5 décembre 1986 relatif au contenu et à
+l'élaboration du schéma de mise en valeur de la mer lorsqu'elles ne sont pas prévues par ailleurs dans le document.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
+	  - Décret n°86-1252 1986-12-05
 	  - Code de l'urbanisme - art. L110 (M)
 	  - Code de l'urbanisme - art. L121-1 (M)
 	  - Code de l'urbanisme - art. L145-5 (M)
 	  - Code de l'urbanisme - art. L421-5 (M)
 
+	**Modifié par**:
+
+	  - Décret n°2007-1586 du 8 novembre 2007 - art. 13 () JORF 10 novembre 2007
+
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Modifié par**:
 
-	  - Décret n°2006-1683 du 22 décembre 2006 - art. 1 () JORF 28 décembre 2006 en vigueur le 1er février 2007
+###### Article R*122-3-1
+
+Lorsque le schéma de cohérence territoriale comporte un chapitre individualisé valant schéma de mise en valeur de la mer, les
+avis ou accords du préfet prévus aux articles L. 122-3, L. 122-8-1 et L. 122-11, sont précédés de la consultation du préfet
+maritime.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-1586 du 8 novembre 2007 - art. 14 () JORF 10 novembre 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L122-11 (VT)
+	  - Code de l'urbanisme - art. L122-3 (V)
+	  - Code de l'urbanisme - art. L122-8-1 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*122-4
