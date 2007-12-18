@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2007-12-02
+Version Consolidée au 2007-12-19
 
 # Partie législative
 
@@ -54817,6 +54817,28 @@ de comportement.
 	**Codifié par**:
 
 	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+
+
+### Titre  VII : Dispositions diverses
+
+#### Chapitre  II : Remontées mécaniques
+
+###### Article A472-1
+
+Les appareils visés au deuxième alinéa de l'article R. 472-1 sont les téléskis à câble bas définis à l'article 2 de l'arrêté
+du 7 août 2006 relatif aux règles techniques et de sécurité des téléskis, démontables et transportables, dont la longueur
+n'excède pas 300 mètres.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté du 7 août 2006 - art. 2
+	  - Code de l'urbanisme - art. R472-1
+
+	**Créé par**:
+
+	  - Arrêté du 23 novembre 2007 - art. 1
 
 
 ## Livre  V : Implantation des services, établissements et entreprises
