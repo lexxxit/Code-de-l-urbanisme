@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2007-12-19
+Version Consolidée au 2007-12-22
 
 # Partie législative
 
@@ -3261,8 +3261,11 @@ de cohérence territoriale, ce syndicat reste compétent jusqu'à l'approbation 
 lorsqu'il s'agit d'un schéma directeur, jusqu'à l'approbation de la révision de ce schéma mentionnée au deuxième alinéa. Les
 personnes publiques autres que les communes et les établissements publics de coopération intercommunale compétents compris
 dans le périmètre du schéma se retirent du syndicat mixte dans le délai de six mois à compter de l'approbation du schéma ou
-de sa révision. A l'issue de ce délai, le retrait est prononcé d'office par arrêté préfectoral. Les dispositions du présent
-alinéa ne s'appliquent toutefois pas dans le cas prévu à l'article L. 122-4-1.
+de sa révision. A l'issue de ce délai, le retrait est prononcé d'office par arrêté préfectoral. Le présent alinéa ne
+s'applique toutefois pas dans le cas prévu à l'article L. 122-4-1, ni lorsque le syndicat mixte exerce d'autres compétences
+que celles d'élaboration, de suivi et de révision du schéma de cohérence territoriale. Dans ce dernier cas, le syndicat mixte
+peut être maintenu à condition toutefois que seuls les communes et les établissements publics de coopération intercommunale
+qui adhèrent au syndicat mixte pour la compétence relative à ce schéma prennent part aux délibérations le concernant. 
 
 Lorsqu'un schéma directeur approuvé avant l'entrée en vigueur de la loi n° 2000-1208 du 13 décembre 2000 précitée ou un
 schéma directeur approuvé dans le délai d'un an à compter de l'entrée en vigueur de ladite loi en application du troisième
@@ -3273,25 +3276,9 @@ schéma de cohérence territoriale.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°2000-1208 2000-12-13
-	  - Loi n°2003-590 2003-07-02
-	  - Code de l'urbanisme - art. L121-4 (M)
-	  - Code de l'urbanisme - art. L122-13 (M)
-	  - Code de l'urbanisme - art. L122-15 (M)
-	  - Code de l'urbanisme - art. L122-16 (M)
-	  - Code de l'urbanisme - art. L122-3 (M)
-	  - Code de l'urbanisme - art. L122-4 (M)
-	  - Code de l'urbanisme - art. L122-4-1 (V)
-	  - Code de l'urbanisme - art. L122-5 (M)
-	  - Code de l'urbanisme - art. L122-6 (M)
-	  - Code de l'urbanisme - art. L300-2 (M)
-	  - Code de l'urbanisme L122-5, L122-15, L122-16, L122-4, L121-4, L122-1-1 à L122-5, L122-3, L122-13, L300-2, L122-6, L122-4-1
-
 	**Modifié par**:
 
-	  - Loi n°2006-436 du 14 avril 2006 - art. 17 () JORF 15 avril 2006
+	  - Loi n°2007-1787 du 20 décembre 2007 - art. 15
 
 	**Cité par**:
 
@@ -3299,10 +3286,6 @@ schéma de cohérence territoriale.
 	  - Code général des collectivités territoriales - art. L1614-9 (V)
 	  - Code général des collectivités territoriales - art. R1614-41 (V)
 	  - Code général des collectivités territoriales - art. R1614-48 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L122-19
@@ -17392,22 +17375,11 @@ dans les conditions et délais fixés par décret en Conseil d'Etat.
 
 Aucune prolongation du délai d'instruction n'est possible en dehors des cas et conditions prévus par ce décret.
 
-**Nota:**
-
-NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
-décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
-
-Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
-dans ce même article 26.
-
-En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
-l'ordonnance au 1er octobre 2007.
+Pour l'instruction des dossiers d'autorisations ou de déclarations prévus au présent titre, le maire ou, s'il est compétent,
+le président de l'établissement public de coopération intercommunale peut déléguer sa signature aux agents chargés de
+l'instruction des demandes.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 	**Cité par**:
 
@@ -17423,12 +17395,11 @@ l'ordonnance au 1er octobre 2007.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+	  - Loi n°2007-1787 du 20 décembre 2007 - art. 16 (V)
 
 	**Anciens textes**:
 
 	  - Code de l'urbanisme - art. L123-2-1 (T)
-	  - Code de l'urbanisme 93
 
 
 #### Chapitre IV : Décision
