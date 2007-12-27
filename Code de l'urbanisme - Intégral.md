@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2007-12-22
+Version Consolidée au 2007-12-28
 
 # Partie législative
 
@@ -11199,7 +11199,11 @@ trois ans ;
 précitée, à l'article 18 de la loi n° 82-1153 du 30 décembre 1982 précitée et à l'article 176 du code du domaine public
 fluvial et de la navigation intérieure, ou les établissements publics figurant sur la liste prévue à l'article L. 240-1,
 d'immeubles en vue de réaliser les opérations d'intérêt national mentionnées au deuxième alinéa du I de l'article 1er de la
-loi n° 2006-872 du 13 juillet 2006 portant engagement national pour le logement.
+loi n° 2006-872 du 13 juillet 2006 portant engagement national pour le logement ;
+
+- aux transferts en pleine propriété des immeubles appartenant à l'Etat ou à ses établissements publics, réalisés
+conformément à l'
+article 141 de la loi n° 2006-1771 du 30 décembre 2006 de finances rectificative pour 2006.
 
 A titre exceptionnel, lorsque la restructuration d'un ensemble d'administrations ou de services justifie de procéder à une
 vente groupée de plusieurs immeubles ou droits immobiliers appartenant à l'Etat, les dispositions du présent article
@@ -11209,11 +11213,12 @@ s'appliquent à l'ensemble des biens mis en vente.
 
 	**Cite**:
 
-	  - Loi n°82-1153 1982-12-30 art. 18
-	  - Loi n°97-135 du 13 février 1997 - art. 1 (M)
-	  - Loi n°2006-872 2006-07-13 art. 1
-	  - Code de l'urbanisme - art. L240-1 (V)
-	  - Code du domaine public fluvial et de la navigation - art. 176 (M)
+	  - Loi n°82-1153 du 30 décembre 1982
+	  - Loi n°97-135 du 13 février 1997 - art. 1
+	  - Loi n°2006-872 du 13 juillet 2006
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 141
+	  - Code de l'urbanisme - art. L240-1
+	  - Code du domaine public fluvial et de la navigation intérieure - art. 176
 
 	**Cité par**:
 
@@ -11222,13 +11227,9 @@ s'appliquent à l'ensemble des biens mis en vente.
 	  - Décret n°2015-138 du 10 février 2015 - art. 44 (VD)
 	  - Code général des collectivités territoriales - art. L5333-9 (VT)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2006-872 du 13 juillet 2006 - art. 15 () JORF 16 juillet 2006
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+	  - Loi n°2007-1822 du 24 décembre 2007 - art. 51
 
 
 ###### Article L240-3
