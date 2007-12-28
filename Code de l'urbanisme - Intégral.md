@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2007-12-28
+Version Consolidée au 2007-12-29
 
 # Partie législative
 
@@ -33382,6 +33382,346 @@ Marseille et Lyon et des établissements publics de coopération intercommunale.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+#### Chapitre IV : Droit de préemption des communes sur les fonds artisanaux, les fonds de commerce et les baux commerciaux.
+
+#####  Section 1 : Délimitation du périmètre
+
+###### Article *R214-1
+
+Lorsqu'une commune envisage d'instituer le droit de préemption sur les fonds artisanaux, les fonds de commerce et les baux
+commerciaux prévu par l'article L. 214-1, le maire soumet pour avis le projet de délibération du conseil municipal à la
+chambre de commerce et d'industrie et à la chambre des métiers et de l'artisanat dans le ressort desquelles se trouve la
+commune. Le projet de délibération est accompagné du projet de plan délimitant le périmètre de sauvegarde du commerce et de
+l'artisanat de proximité et d'un rapport analysant la situation du commerce et de l'artisanat de proximité à l'intérieur de
+ce périmètre et les menaces pesant sur la diversité commerciale et artisanale. En l'absence d'observations de la chambre de
+commerce et d'industrie et de la chambre des métiers et de l'artisanat dans les deux mois de leur saisine, l'avis de
+l'organisme consulaire est réputé favorable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-1827 du 26 décembre 2007 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L214-1
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R* 214-4-3 (V)
+	  - Code général de la propriété des personnes publ... - art. R1112-3 (V)
+
+
+###### Article *R214-2
+
+La délibération du conseil municipal délimitant le périmètre de sauvegarde du commerce et de l'artisanat de proximité fait
+l'objet des mesures de publicité et d'information dans les conditions prévues par l'article R. 211-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-1827 du 26 décembre 2007 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R211-2
+
+
+#####  Section 2 : Exercice du droit de préemption
+
+###### Article *R214-3
+
+Le droit de préemption institué en application de l'article L. 214-1 peut s'exercer sur les fonds artisanaux, les fonds de
+commerce ou les baux commerciaux lorsqu'ils sont aliénés à titre onéreux, à l'exception de ceux qui sont compris dans la
+cession d'une ou de plusieurs activités prévue à l'article L. 626-1 du code de commerce ou dans le plan de cession arrêté en
+application de l'article L. 631-22 ou des articles L. 642-1 à L. 642-17 du code de commerce.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-1827 du 26 décembre 2007 - art. 1
+
+	**Cite**:
+
+	  - Code de commerce - art. L626-1
+	  - Code de commerce - art. L631-22
+	  - Code de commerce - art. L642-1
+	  - Code de l'urbanisme - art. L214-1
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*214-4 (V)
+	  - Code de l'urbanisme - art. R*214-4-1 (V)
+
+
+###### Article *R214-4
+
+La déclaration préalable prévue par le deuxième alinéa de l'article L. 214-1 est établie dans les formes prescrites par un
+arrêté du ministre chargé de l'urbanisme et du ministre de la justice. 
+
+La déclaration en quatre exemplaires est adressée, par pli recommandé avec demande d'avis de réception, au maire de la
+commune où est situé le fonds ou l'immeuble dont dépendent les locaux loués, ou déposée en mairie contre récépissé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-1827 du 26 décembre 2007 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. *R214-16 (V)
+	  - Code de l'urbanisme - art. A214-1 (V)
+	  - Code de l'urbanisme - art. R* 214-4-3 (V)
+	  - Code de l'urbanisme - art. R*214-5 (V)
+	  - Code de l'urbanisme - art. R*214-7 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L214-1
+
+
+###### Article *R214-7
+
+En cas de cession d'un fonds artisanal, d'un fonds de commerce ou d'un bail commercial par voie d'adjudication, le
+commissaire-priseur judiciaire, le greffier de la juridiction ou le notaire chargé de procéder à la vente, selon la nature de
+l'adjudication, procède à la déclaration préalable prévue à l'article L. 214-1. Cette déclaration est établie dans les formes
+prescrites à l'article R. 214-4 et indique la date et les modalités de la vente. Elle est adressée au maire trente jours au
+moins avant la date fixée pour la vente par lettre recommandée avec demande d'avis de réception. 
+
+Le titulaire du droit de préemption dispose d'un délai de trente jours à compter de l'adjudication pour notifier, par lettre
+recommandée avec demande d'avis de réception, au greffier ou au notaire sa décision de se substituer à l'adjudicataire. Copie
+de cette décision est annexée au jugement ou à l'acte de l'adjudication et publiée au bureau des hypothèques en même temps
+que celui-ci. 
+
+La substitution ne peut intervenir qu'au prix et aux conditions de la dernière enchère ou de la surenchère. 
+
+Le greffier, le notaire ou le rédacteur de l'acte, selon les cas, informe l'adjudicataire évincé de l'acquisition réalisée
+par voie de préemption.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-1827 du 26 décembre 2007 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. *R214-4 (V)
+	  - Code de l'urbanisme - art. L214-1
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. *R214-8 (V)
+
+
+###### Article *R214-8
+
+En cas de cession de gré à gré d'un fonds artisanal, d'un fonds de commerce ou d'un bail commercial autorisée par le juge-
+commissaire en application de l'article L. 642-19 du code de commerce, le liquidateur procède, avant la signature de cet
+acte, à la déclaration préalable prévue à l'article L. 214-1 dans les formes prévues à l'article R. 214-7. 
+
+Le titulaire du droit de préemption peut exercer son droit dans les conditions prévues à l'article R. 214-7. En cas
+d'acquisition par voie de préemption, le liquidateur en informe l'acquéreur évincé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-1827 du 26 décembre 2007 - art. 1
+
+	**Cite**:
+
+	  - Code de commerce - art. L642-19
+	  - Code de l'urbanisme - art. *R214-7 (V)
+	  - Code de l'urbanisme - art. L214-1
+
+
+###### Article *R214-9
+
+En cas d'acquisition du fonds ou bail par le titulaire du droit de préemption, l'acte constatant la cession est dressé dans
+un délai de trois mois suivant la notification de l'accord sur le prix et les conditions indiqués dans la déclaration
+préalable ou de la décision judiciaire devenue définitive fixant le prix et les conditions de la cession ou suivant la date
+de l'acte ou du jugement d'adjudication. 
+
+Le prix est payé au moment de l'établissement de l'acte constatant la cession, sous réserve de l'application des dispositions
+des articles L. 141-12 et suivants du code de commerce.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-1827 du 26 décembre 2007 - art. 1
+
+	**Cite**:
+
+	  - Code de commerce - art. L141-12
+
+
+###### Article *R214-10
+
+L'action en nullité prévue à l'article L. 214-1 s'exerce devant le tribunal de grande instance du lieu de situation du fonds
+ou de l'immeuble dont dépendent les locaux loués.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-1827 du 26 décembre 2007 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L214-1
+
+
+###### Article R*214-5
+
+Dans un délai de deux mois à compter de la réception de la déclaration préalable, le titulaire du droit de préemption notifie
+au cédant soit sa décision d'acquérir aux prix et conditions indiqués dans la déclaration préalable, soit son offre
+d'acquérir aux prix et conditions fixés par l'autorité judiciaire saisie dans les conditions prévues à l'article R. 214-6,
+soit sa décision de renoncer à l'exercice du droit de préemption. 
+
+Il notifie sa décision au cédant par pli recommandé avec demande d'avis de réception ou par remise contre décharge au
+domicile ou au siège social du cédant. Lorsque le cédant est lié par un contrat de bail, une copie de cette notification est
+adressée au bailleur. 
+
+Le silence gardé par le titulaire du droit de préemption au terme du délai fixé au premier alinéa vaut renonciation à
+l'exercice de son droit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-1827 du 26 décembre 2007 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. *R214-6 (V)
+
+
+###### Article R*214-6
+
+En cas de désaccord sur le prix ou les conditions indiqués dans la déclaration préalable, le titulaire du droit de préemption
+qui veut acquérir saisit dans le délai fixé à l'article R. 214-5 la juridiction compétente en matière d'expropriation par
+lettre recommandée avec demande d'avis de réception adressée au secrétariat de cette juridiction, accompagnée d'une copie en
+double exemplaire de son mémoire. Copie de la lettre de saisine et du mémoire est simultanément notifiée au cédant et, le cas
+échéant, au bailleur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-1827 du 26 décembre 2007 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*214-5 (V)
+
+
+#####  Section 3 : Rétrocession
+
+###### Article *R214-11
+
+Le cahier des charges de rétrocession mentionné à l'article L. 214-2 est approuvé par délibération du conseil municipal. Il
+comporte les clauses permettant d'assurer le respect des objectifs de diversité de l'activité commerciale ou artisanale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-1827 du 26 décembre 2007 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L214-2
+
+
+###### Article *R214-12
+
+Avant toute décision de rétrocession du fonds artisanal, du fonds de commerce ou du bail commercial, le maire publie, par
+voie d'affichage en mairie pendant une durée de quinze jours, un avis de rétrocession. Cet avis comporte un appel à
+candidatures, la description du fonds ou du bail, le prix proposé et mentionne que le cahier des charges peut être consulté
+en mairie. Lorsque la rétrocession porte sur un bail commercial, l'avis précise que la rétrocession est subordonnée à
+l'accord préalable du bailleur. Il indique le délai dans lequel les candidatures doivent être présentées.
+
+Les personnes candidates à la rétrocession justifient de leur immatriculation au registre du commerce et des sociétés ou au
+répertoire des métiers ou, lorsqu'elles sont établies dans un autre Etat membre de l'Union européenne, d'un titre équivalent
+leur conférant ou leur reconnaissant la qualité de commerçant ou d'artisan.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-1827 du 26 décembre 2007 - art. 1
+
+
+###### Article *R214-13
+
+En cas de rétrocession d'un bail commercial, le maire recueille l'accord préalable du bailleur sur le projet d'acte
+accompagné du cahier des charges qu'il lui a transmis par lettre recommandée avec demande d'avis de réception.
+
+Si le bailleur entend s'opposer au projet de rétrocession, il saisit, en la forme du référé, le président du tribunal de
+grande instance du lieu de situation de l'immeuble dont dépendent les lieux loués pour faire valider son opposition à la
+rétrocession. A défaut d'avoir notifié à la commune, dans le délai de deux mois suivant la réception du projet d'acte, la
+saisine motivée de la juridiction, le bailleur est réputé avoir donné son accord à la rétrocession.
+
+Le délai d'un an imparti à la commune pour procéder à la rétrocession est suspendu à compter de la notification du projet
+d'acte au bailleur jusqu'au recueil de l'accord du bailleur ou, à défaut d'accord, pendant la durée de la procédure jusqu'à
+l'intervention d'une décision juridictionnelle devenue définitive. La cession ne peut intervenir avant le terme de cette
+procédure, sauf accord exprès du bailleur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-1827 du 26 décembre 2007 - art. 1
+
+
+###### Article *R214-14
+
+La rétrocession est autorisée par délibération du conseil municipal indiquant les conditions de la rétrocession et les
+raisons du choix du cessionnaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-1827 du 26 décembre 2007 - art. 1
+
+
+###### Article *R214-15
+
+Dans le mois suivant la signature de l'acte de rétrocession, le maire procède à l'affichage en mairie, pendant une durée de
+quinze jours, d'un avis comportant la désignation sommaire du fonds ou du bail rétrocédé, le nom et la qualité du
+cessionnaire, ainsi que les conditions financières de l'opération.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-1827 du 26 décembre 2007 - art. 1
+
+
+###### Article *R214-16
+
+Si la rétrocession n'est pas intervenue à l'expiration du délai d'un an à compter de la prise d'effet de l'acquisition par le
+titulaire du droit de préemption, l'acquéreur évincé, dans le cas où son identité a été mentionnée dans la déclaration
+préalable mentionnée à l'article R. 214-4, bénéficie d'un droit de priorité d'acquisition.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-1827 du 26 décembre 2007 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. *R214-4 (V)
 
 
 ## Livre III : Aménagement foncier
