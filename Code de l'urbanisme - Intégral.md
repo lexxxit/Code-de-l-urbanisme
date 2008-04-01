@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2008-03-09
+Version Consolidée au 2008-04-02
 
 # Partie législative
 
@@ -53366,24 +53366,24 @@ et sur le site internet du ministère chargé de l'urbanisme www.developpement-d
 	  - Code de l'urbanisme - art. R213-5 (V)
 
 
-#### CHAPITRE IV : Dispositions communes aux zones d'aménagement différé et aux périmètres provisoires de zones d'aménagement différé créés avant le 1er juin 1987
+#### Chapitre  IV : Droit de préemption des communes sur les fonds artisanaux, les fonds de commerce et les baux commerciaux
 
 ###### Article A214-1
 
-Les déclarations ou demandes formulées en application des articles L. 212-2, L. 212-3, L. 213-1, R. 212-6, R. 212-14 et R.
-213-2 dans leur rédaction antérieure à la loi n° 85-729 du 18 juillet 1985 relative à la définition et à la mise en oeuvre de
-principes d'aménagement doivent être, à compter du 1er juin 1987, établies conformément au modèle annexé à l'article A.
-213-1.
+La déclaration préalable prévue par les articles L. 214-1 et R. 214-4 doit être établie conformément au formulaire enregistré
+par la direction générale de la modernisation de l'Etat sous le numéro Cerfa 13644*01 et disponible sur le site internet du
+ministère de l'écologie, du développement et de l'aménagement durables :  http://www.developpement-durable.gouv.fr.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1987-05-11 art. 2 JORF 2 juin 1987
+	  - Arrêté du 29 février 2008 - art. 1
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+	  - Code de l'urbanisme - art. *R214-4
+	  - Code de l'urbanisme - art. L214-1
 
 
 ## Livre  III : Aménagement foncier
