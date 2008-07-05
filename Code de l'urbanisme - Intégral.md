@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2008-04-02
+Version Consolidée au 2008-07-06
 
 # Partie législative
 
@@ -10742,24 +10742,16 @@ Les articles 610 et 611 sont devenus respectivement les articles L561-1 et L561-
 
 ###### Article L221-1
 
-L'Etat, les collectivités locales, ou leurs groupements y ayant vocation, les syndicats mixtes et les établissements publics
-mentionnés aux articles L. 321-1 et L. 324-1 sont habilités à acquérir des immeubles, au besoin par voie d'expropriation,
-pour constituer des réserves foncières en vue de permettre la réalisation d'une action ou d'une opération d'aménagement
-répondant aux objets définis à l'article L. 300-1.
+L'Etat, les collectivités locales, ou leurs groupements y ayant vocation, les syndicats mixtes, les établissements publics
+mentionnés aux articles L. 321-1 et L. 324-1 et les grands ports maritimes sont habilités à acquérir des immeubles, au besoin
+par voie d'expropriation, pour constituer des réserves foncières en vue de permettre la réalisation d'une action ou d'une
+opération d'aménagement répondant aux objets définis à l'article L. 300-1.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°67-1253 1967-12-30 art. 11 Loi d'orientation foncière
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°83-851 1983-09-23
-
 	**Modifié par**:
 
-	  - Loi - art. 32 () JORF 19 juillet 1991
+	  - Loi n°2008-660 du 4 juillet 2008 - art. 4
 
 	**Cité par**:
 
@@ -10779,9 +10771,10 @@ répondant aux objets définis à l'article L. 300-1.
 	  - Code général de la propriété des personnes publ... - art. L5142-1 (V)
 	  - Code général des collectivités territoriales - art. L4424-26-2 (V)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+	  - Code de l'urbanisme - art. L300-1
+	  - Code de l'urbanisme - art. L321-1
 
 
 ###### Article L221-1-1
