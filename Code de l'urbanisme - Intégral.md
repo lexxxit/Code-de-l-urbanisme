@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2008-07-06
+Version Consolidée au 2008-07-30
 
 # Partie législative
 
@@ -1163,20 +1163,22 @@ l'autorisation de construire d'une somme égale à la valeur du terrain dont l'a
 densité de la construction n'excède pas ce plafond.
 
 L'attribution, expresse ou tacite, du permis de construire entraîne pour le bénéficiaire de l'autorisation de construire
-l'obligation d'effectuer ce versement.
+l'obligation d'effectuer ce versement. 
 
-Toutefois, cette obligation n'est pas applicable aux immeubles édifiés par l'Etat, les régions, les départements ou les
-communes, ni aux immeubles édifiés par les établissements publics administratifs, lorsqu'ils sont affectés à un service
-public ou d'utilité générale et qu'ils ne sont pas productifs de revenus.
+Toutefois, cette obligation n'est pas applicable aux immeubles édifiés par ou pour le compte de l'Etat, des régions, de la
+collectivité territoriale de Corse, des départements ou des communes, ni aux immeubles édifiés par ou pour le compte des
+établissements publics administratifs, lorsqu'ils sont affectés à un service public ou d'utilité générale et qu'ils ne sont
+pas productifs de revenus. La condition relative à l'absence de production de revenus doit être appréciée au regard de la
+personne publique au domaine de laquelle l'immeuble doit être incorporé. 
 
 Cette obligation n'est pas non plus applicable aux permis de construire délivrés entre la date de publication de la loi n°
 98-657 du 29 juillet 1998 d'orientation relative à la lutte contre les exclusions et le 31 décembre 2002, lorsque les travaux
 portent sur les logements à usage locatif construits avec le concours financier de l'Etat en application du 3° de l'article
 L. 351-2 du code de la construction et de l'habitation et destinés aux personnes défavorisées mentionnées à l'article 1er de
-la loi n° 90-449 du 31 mai 1990 visant à la mise en oeuvre du droit au logement.
+la loi n° 90-449 du 31 mai 1990 visant à la mise en oeuvre du droit au logement. 
 
 Dans les conditions de l'article L. 112-1, il peut être décidé que l'obligation résultant des deux premiers alinéas du
-présent article n'est pas applicable aux immeubles ou parties d'immeubles affectés à l'habitation.
+présent article n'est pas applicable aux immeubles ou parties d'immeubles affectés à l'habitation. 
 
 En outre, l'autorité compétente peut décider que l'obligation de versement n'est pas applicable aux constructions édifiées
 dans une zone d'aménagement concerté. Cette décision prend effet au plus tôt lorsque le programme des équipements publics et,
@@ -1185,9 +1187,16 @@ validité de l'acte portant création de la zone.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Loi n°90-449 du 31 mai 1990 - art. 1
+	  - Loi n°98-657 du 29 juillet 1998
+	  - Code de l'urbanisme - art. L112-1
+	  - Code de la construction et de l'habitation. - art. L351-2
+
 	**Modifié par**:
 
-	  - Loi n°2000-1208 2000-12-13 art. 50 I JORF 14 décembre 2000
+	  - Loi n°2008-735 du 28 juillet 2008 - art. 35
 
 	**Cité par**:
 
@@ -1227,10 +1236,6 @@ validité de l'acte portant création de la zone.
 	  - Code général des impôts, CGI. - art. 1723 terdecies (Ab)
 	  - Code général des impôts, CGI. - art. 302 septies B (M)
 	  - Livre des procédures fiscales - art. L133 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L112-3
@@ -20969,47 +20974,43 @@ en exonération de la redevance une superficie de plancher utile équivalente à
 
 ###### Article L520-7
 
-Sont exclus du champ d'application du présent titre :
+Sont exclus du champ d'application du présent titre : 
 
-Les bureaux qui font partie d'un local principal d'habitation ;
+Les bureaux qui font partie d'un local principal d'habitation ; 
 
-Les locaux affectés au service public et appartenant à l'Etat, aux collectivités territoriales, aux établissements publics ne
-présentant pas un caractère industriel ou commercial ainsi que ceux qui sont utilisés par des organismes de sécurité sociale
-ou d'allocations familiales et qui appartiennent à ces organismes ou à des sociétés civiles constituées exclusivement entre
-ces organismes ;
+Les locaux affectés au service public et appartenant ou destinés à appartenir à l'Etat, aux collectivités territoriales ou
+aux établissements publics ne présentant pas un caractère industriel et commercial ainsi que ceux utilisés par des organismes
+de sécurité sociale ou d'allocations familiales et appartenant ou destinés à appartenir à ces organismes ou à des sociétés
+civiles constituées exclusivement entre ces organismes ; 
 
-Les garages ;
+Les garages ; 
 
 Dans les établissements industriels, les locaux à usage de bureaux dépendants de locaux de production, et les locaux à usage
-de bureaux d'une superficie inférieure à 1 000 mètres carrés indépendants des locaux de production ;
+de bureaux d'une superficie inférieure à 1 000 mètres carrés indépendants des locaux de production ; 
 
-Les locaux de recherche compris dans les établissements industriels ;
+Les locaux de recherche compris dans les établissements industriels ; 
 
-Les bureaux utilisés par les membres des professions libérales et les officiers ministériels ;
+Les bureaux utilisés par les membres des professions libérales et les officiers ministériels ; 
 
 Les locaux affectés aux groupements constitués dans les formes prévues par l'article 10 de la loi du 1er juillet 1901
 relative au contrat d'association.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Loi du 1er juillet 1901 - art. 10
+
 	**Cité par**:
 
+	  - Loi n°2008-735 du 28 juillet 2008 - art. 52 (VD)
 	  - Code de l'urbanisme - art. L520-13 (V)
 	  - Code de l'urbanisme - art. R520-1-1 (V)
 	  - Code de l'urbanisme - art. R520-3 (M)
-	  - Loi n°2008-735 du 28 juillet 2008 - art. 52 (VD)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Anciens textes**:
-
-	  - Loi n°60-790 1960-08-02 art. 7-1
 
 	**Modifié par**:
 
-	  - Loi n°82-1020 1982-12-03 art. 7, art. 11 JORF 4 décembre 1982
+	  - Loi n°2008-735 du 28 juillet 2008 - art. 36
 
 
 ###### Article L520-8
