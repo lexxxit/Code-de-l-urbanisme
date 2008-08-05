@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2008-07-30
+Version Consolidée au 2008-08-06
 
 # Partie législative
 
@@ -1368,23 +1368,24 @@ déterminées par les articles L. 333-1 à L. 333-16.
 ###### Article L121-1
 
 Les schémas de cohérence territoriale, les plans locaux d'urbanisme et les cartes communales déterminent les conditions
-permettant d'assurer :
+permettant d'assurer : 
 
 1° L'équilibre entre le renouvellement urbain, un développement urbain maîtrisé, le développement de l'espace rural, d'une
 part, et la préservation des espaces affectés aux activités agricoles et forestières et la protection des espaces naturels et
-des paysages, d'autre part, en respectant les objectifs du développement durable ;
+des paysages, d'autre part, en respectant les objectifs du développement durable ; 
 
 2° La diversité des fonctions urbaines et la mixité sociale dans l'habitat urbain et dans l'habitat rural, en prévoyant des
 capacités de construction et de réhabilitation suffisantes pour la satisfaction, sans discrimination, des besoins présents et
 futurs en matière d'habitat, d'activités économiques, notamment commerciales, d'activités sportives ou culturelles et
-d'intérêt général ainsi que d'équipements publics, en tenant compte en particulier de l'équilibre entre emploi et habitat
-ainsi que des moyens de transport et de la gestion des eaux ;
+d'intérêt général ainsi que d'équipements publics, en tenant compte en particulier de l'équilibre entre emploi et habitat, de
+la diversité commerciale et de la préservation des commerces de détail et de proximité ainsi que des moyens de transport et
+de la gestion des eaux ; 
 
 3° Une utilisation économe et équilibrée des espaces naturels, urbains, périurbains et ruraux, la maîtrise des besoins de
 déplacement et de la circulation automobile, la préservation de la qualité de l'air, de l'eau, du sol et du sous-sol, des
 écosystèmes, des espaces verts, des milieux, sites et paysages naturels ou urbains, la réduction des nuisances sonores, la
 sauvegarde des ensembles urbains remarquables et du patrimoine bâti, la prévention des risques naturels prévisibles, des
-risques technologiques, des pollutions et des nuisances de toute nature.
+risques technologiques, des pollutions et des nuisances de toute nature. 
 
 Les dispositions des 1° à 3° sont applicables aux directives territoriales d'aménagement visées à l'article L. 111-1-1.
 
@@ -1425,19 +1426,11 @@ Les dispositions des 1° à 3° sont applicables aux directives territoriales d'
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 3 () JORF 5 juin 2004
+	  - Loi n°2008-776 du 4 août 2008 - art. 103
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code de l'urbanisme 11
-
-	**Liens**:
-
-	  - TXT_SOURCE: Directive 2001-42 2001-06-27
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+	  - Code de l'urbanisme - art. L111-1-1
 
 
 ###### Article L121-2
@@ -2592,10 +2585,9 @@ suivi.
 ###### Article L122-4-1
 
 Lorsque la majorité des communes comprises dans le périmètre du schéma de cohérence territoriale sont incluses dans le
-périmètre d'un parc naturel régional, le syndicat mixte régi par l'article L. 333-3 du code de l'environnement peut, par
-dérogation aux dispositions de l'article L. 122-4 du présent code, exercer la compétence d'élaboration, de suivi et de
-révision du schéma de cohérence territoriale, à condition que les autres communes comprises dans le périmètre du schéma de
-cohérence territoriale adhèrent au syndicat mixte pour cette compétence.
+périmètre d'un syndicat mixte, celui-ci peut, par dérogation à l'article L. 122-4, exercer la compétence d'élaboration, de
+suivi et de révision du schéma de cohérence territoriale, à condition que les autres communes comprises dans le périmètre du
+schéma de cohérence territoriale adhèrent au syndicat mixte pour cette compétence. 
 
 Seuls les communes et les établissements publics de coopération intercommunale qui adhèrent au syndicat mixte pour la
 compétence d'élaboration, de suivi et de révision du schéma de cohérence territoriale prennent part aux délibérations
@@ -2603,9 +2595,9 @@ concernant le schéma.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2006-436 du 14 avril 2006 - art. 17 () JORF 15 avril 2006
+	  - Loi n°2008-776 du 4 août 2008 - art. 127
 
 	**Cité par**:
 
@@ -2620,9 +2612,9 @@ concernant le schéma.
 	  - Code de l'urbanisme - art. L122-9 (VD)
 	  - Code de l'urbanisme - art. L124-2 (V)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+	  - Code de l'urbanisme - art. L122-4
 
 
 ###### Article L122-5
@@ -3259,19 +3251,6 @@ périmètre n'ait pas pour effet de provoquer une rupture de la continuité terr
 retire. La modification du périmètre est décidée par arrêté préfectoral, après avis de l'établissement public de coopération
 intercommunale ou du syndicat mixte chargé de l'élaboration du schéma directeur, s'il existe.
 
-Lorsque l'établissement public mentionné à l'article L. 122-4 a été constitué, avant l'entrée en vigueur de la loi n°
-2003-590 du 2 juillet 2003 urbanisme et habitat, sous la forme d'un syndicat mixte comprenant d'autres personnes publiques
-que les communes et les établissements publics de coopération intercommunale compétents compris dans le périmètre du schéma
-de cohérence territoriale, ce syndicat reste compétent jusqu'à l'approbation du schéma de cohérence territoriale ou,
-lorsqu'il s'agit d'un schéma directeur, jusqu'à l'approbation de la révision de ce schéma mentionnée au deuxième alinéa. Les
-personnes publiques autres que les communes et les établissements publics de coopération intercommunale compétents compris
-dans le périmètre du schéma se retirent du syndicat mixte dans le délai de six mois à compter de l'approbation du schéma ou
-de sa révision. A l'issue de ce délai, le retrait est prononcé d'office par arrêté préfectoral. Le présent alinéa ne
-s'applique toutefois pas dans le cas prévu à l'article L. 122-4-1, ni lorsque le syndicat mixte exerce d'autres compétences
-que celles d'élaboration, de suivi et de révision du schéma de cohérence territoriale. Dans ce dernier cas, le syndicat mixte
-peut être maintenu à condition toutefois que seuls les communes et les établissements publics de coopération intercommunale
-qui adhèrent au syndicat mixte pour la compétence relative à ce schéma prennent part aux délibérations le concernant. 
-
 Lorsqu'un schéma directeur approuvé avant l'entrée en vigueur de la loi n° 2000-1208 du 13 décembre 2000 précitée ou un
 schéma directeur approuvé dans le délai d'un an à compter de l'entrée en vigueur de ladite loi en application du troisième
 alinéa ou un schéma directeur révisé avant le 1er janvier 2003 en application du quatrième alinéa est annulé pour vice de
@@ -3281,9 +3260,25 @@ schéma de cohérence territoriale.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000
+	  - Loi n°2003-590 du 2 juillet 2003
+	  - Code de l'urbanisme - art. L121-4
+	  - Code de l'urbanisme - art. L122-1-1
+	  - Code de l'urbanisme - art. L122-13
+	  - Code de l'urbanisme - art. L122-15
+	  - Code de l'urbanisme - art. L122-16
+	  - Code de l'urbanisme - art. L122-3
+	  - Code de l'urbanisme - art. L122-4
+	  - Code de l'urbanisme - art. L122-4-1
+	  - Code de l'urbanisme - art. L122-5
+	  - Code de l'urbanisme - art. L122-6
+	  - Code de l'urbanisme - art. L300-2
+
 	**Modifié par**:
 
-	  - Loi n°2007-1787 du 20 décembre 2007 - art. 15
+	  - Loi n°2008-776 du 4 août 2008 - art. 127
 
 	**Cité par**:
 
@@ -3327,17 +3322,17 @@ Les conditions d'application du présent chapitre sont définies, en tant que de
 
 Les plans locaux d'urbanisme exposent le diagnostic établi au regard des prévisions économiques et démographiques et
 précisent les besoins répertoriés en matière de développement économique, d'agriculture, d'aménagement de l'espace,
-d'environnement, d'équilibre social de l'habitat, de transports, d'équipements et de services.
+d'environnement, d'équilibre social de l'habitat, de commerce, de transports, d'équipements et de services. 
 
 Ils comportent un projet d'aménagement et de développement durable qui définit les orientations générales d'aménagement et
-d'urbanisme retenues pour l'ensemble de la commune.
+d'urbanisme retenues pour l'ensemble de la commune. 
 
 Ils peuvent, en outre, comporter des orientations d'aménagement relatives à des quartiers ou à des secteurs à mettre en
 valeur, réhabiliter, restructurer ou aménager. Ces orientations peuvent, en cohérence avec le projet d'aménagement et de
 développement durable, prévoir les actions et opérations d'aménagement à mettre en oeuvre, notamment pour mettre en valeur
 l'environnement, les paysages, les entrées de villes et le patrimoine, lutter contre l'insalubrité, permettre le
 renouvellement urbain et assurer le développement de la commune. Elles peuvent prendre la forme de schémas d'aménagement et
-préciser les principales caractéristiques des voies et espaces publics.
+préciser les principales caractéristiques des voies et espaces publics. 
 
 Les plans locaux d'urbanisme couvrent l'intégralité du territoire de la commune en cas d'élaboration par la commune ou, en
 cas d'élaboration par un établissement public de coopération intercommunale compétent, l'intégralité du territoire de tout ou
@@ -3357,7 +3352,7 @@ rattachement à l'autre commune sauf si celle-ci a précisé, dans le dossier so
 l'article L. 2112-2 du code général des collectivités territoriales, qu'elle entendait que la modification de limite
 territoriale emporte, par dérogation au présent chapitre, abrogation desdites dispositions. Lorsqu'il résulte de la
 modification de la limite territoriale d'une commune que le plan local d'urbanisme ne couvre pas la totalité du territoire
-communal, la commune élabore sans délai les dispositions du plan applicables à la partie non couverte.
+communal, la commune élabore sans délai les dispositions du plan applicables à la partie non couverte. 
 
 Les plans locaux d'urbanisme comportent un règlement qui fixe, en cohérence avec le projet d'aménagement et de développement
 durable, les règles générales et les servitudes d'utilisation des sols permettant d'atteindre les objectifs mentionnés à
@@ -3365,49 +3360,53 @@ l'article L. 121-1, qui peuvent notamment comporter l'interdiction de construire
 urbaniser et les zones naturelles ou agricoles et forestières à protéger et définissent, en fonction des circonstances
 locales, les règles concernant l'implantation des constructions.
 
-A ce titre, ils peuvent :
+A ce titre, ils peuvent : 
 
 1° Préciser l'affectation des sols selon les usages principaux qui peuvent en être fait ou la nature des activités qui
-peuvent y être exercées ;
+peuvent y être exercées ; 
 
 2° Définir, en fonction des situations locales, les règles concernant la destination et la nature des constructions
-autorisées ;
+autorisées ; 
 
 3° (Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2000-436 DC du 7
-décembre 2000) ;
+décembre 2000) ; 
 
 4° Déterminer des règles concernant l'aspect extérieur des constructions, leurs dimensions et l'aménagement de leurs abords,
-afin de contribuer à la qualité architecturale et à l'insertion harmonieuse des constructions dans le milieu environnant ;
+afin de contribuer à la qualité architecturale et à l'insertion harmonieuse des constructions dans le milieu environnant ; 
 
 5° Délimiter les zones ou parties de zones dans lesquelles la reconstruction ou l'aménagement de bâtiments existants
 pourrait, pour des motifs d'urbanisme ou d'architecture, être imposé ou autorisé avec une densité au plus égale à celle qui
 était initialement bâtie, nonobstant les règles fixées au 13° ci-dessous, et fixer la destination principale des îlots ou
-immeubles à restaurer ou à réhabiliter ;
+immeubles à restaurer ou à réhabiliter ; 
 
 6° Préciser le tracé et les caractéristiques des voies de circulation à conserver, à modifier ou à créer, y compris les rues
 ou sentiers piétonniers et les itinéraires cyclables, les voies et espaces réservés au transport public et délimiter les
 zones qui sont ou pouvent être aménagées en vue de la pratique du ski et les secteurs réservés aux remontées mécaniques en
-indiquant, le cas échéant, les équipements et aménagements susceptibles d'y être prévus ;
+indiquant, le cas échéant, les équipements et aménagements susceptibles d'y être prévus ; 
 
 7° Identifier et localiser les éléments de paysage et délimiter les quartiers, îlots, immeubles, espaces publics, monuments,
 sites et secteurs à protéger, à mettre en valeur ou à requalifier pour des motifs d'ordre culturel, historique ou écologique
-et définir, le cas échéant, les prescriptions de nature à assurer leur protection ;
+et définir, le cas échéant, les prescriptions de nature à assurer leur protection ; 
+
+7° bis.-Identifier et délimiter les quartiers, îlots, voies dans lesquels doit être préservée ou développée la diversité
+commerciale, notamment à travers les commerces de détail et de proximité, et définir, le cas échéant, les prescriptions de
+nature à assurer cet objectif ; 
 
 8° Fixer les emplacements réservés aux voies et ouvrages publics, aux installations d'intérêt général ainsi qu'aux espaces
-verts ;
+verts ; 
 
 9° Localiser, dans les zones urbaines, les terrains cultivés à protéger et inconstructibles quels que soient les équipements
-qui, le cas échéant, les desservent ;
+qui, le cas échéant, les desservent ; 
 
 10° Délimiter les secteurs dans lesquels la délivrance du permis de construire peut être subordonnée à la démolition de tout
-ou partie des bâtiments existants sur le terrain où l'implantation de la construction est envisagée ;
+ou partie des bâtiments existants sur le terrain où l'implantation de la construction est envisagée ; 
 
 11° Délimiter les zones visées à l'article L. 2224-10 du code général des collectivités territoriales concernant
-l'assainissement et les eaux pluviales ;
+l'assainissement et les eaux pluviales ; 
 
 12° Fixer une superficie minimale des terrains constructibles lorsque cette règle est justifiée par des contraintes
 techniques relatives à la réalisation d'un dispositif d'assainissement non collectif ou lorsque cette règle est justifiée
-pour préserver l'urbanisation traditionnelle ou l'intérêt paysager de la zone considérée ;
+pour préserver l'urbanisation traditionnelle ou l'intérêt paysager de la zone considérée ; 
 
 13° Fixer un ou des coefficients d'occupation des sols qui déterminent la densité de construction admise :
 
@@ -3415,20 +3414,20 @@ pour préserver l'urbanisation traditionnelle ou l'intérêt paysager de la zone
 
 - dans les zones à protéger en raison de la qualité de leurs paysages et de leurs écosystèmes pour permettre, dans les
 conditions précisées par l'article L. 123-4, des transferts de constructibilité en vue de favoriser un regroupement des
-constructions ;
+constructions ; 
 
 14° Recommander l'utilisation des énergies renouvelables pour l'approvisionnement énergétique des constructions neuves, en
-fonction des caractéristiques de ces constructions, sous réserve de la protection des sites et des paysages.
+fonction des caractéristiques de ces constructions, sous réserve de la protection des sites et des paysages. 
 
 Le rapport de présentation peut comporter un échéancier prévisionnel de l'ouverture à l'urbanisation des zones à urbaniser et
-de la réalisation des équipements correspondants.
+de la réalisation des équipements correspondants. 
 
 Les documents graphiques du plan local d'urbanisme peuvent contenir des indications relatives au relief des espaces auxquels
-il s'applique.
+il s'applique. 
 
 Les règles et servitudes définies par un plan local d'urbanisme ne peuvent faire l'objet d'aucune dérogation, à l'exception
 des adaptations mineures rendues nécessaires par la nature du sol, la configuration des parcelles ou le caractère des
-constructions avoisinantes.
+constructions avoisinantes. 
 
 Le plan local d'urbanisme doit, s'il y a lieu, être compatible avec les dispositions du schéma de cohérence territoriale, du
 schéma de secteur, du schéma de mise en valeur de la mer et de la charte du parc naturel régional ou du parc national, ainsi
@@ -3436,10 +3435,15 @@ que du plan de déplacements urbains et du programme local de l'habitat. Il doit
 orientations fondamentales d'une gestion équilibrée de la ressource en eau et les objectifs de qualité et de quantité des
 eaux définis par les schémas directeurs d'aménagement et de gestion des eaux en application de l'article L. 212-1 du code de
 l'environnement ainsi qu'avec les objectifs de protection définis par les schémas d'aménagement et de gestion des eaux en
-application de l'article L. 212-3 du même code.
+application de l'article L. 212-3 du même code. 
 
 Lorsqu'un de ces documents est approuvé après l'approbation d'un plan local d'urbanisme, ce dernier doit, si nécessaire, être
 rendu compatible dans un délai de trois ans.
+
+**Nota:**
+
+Décret n° 2008-1212 du 24 novembre 2008 article 8 : l'article 102 de la loi n° 2008-776 du 4 août 2008 entre en vigueur dès
+la publication du présent décret au Journal officiel de la République française.
 
 **Liens relatifs à cet article**
 
@@ -3517,13 +3521,13 @@ rendu compatible dans un délai de trois ans.
 	  - Code du tourisme. - art. L342-18 (V)
 	  - Code du tourisme. - art. L342-23 (V)
 
+	**Cite**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 (V)
+
 	**Modifié par**:
 
-	  - Loi n°2006-872 2006-07-13 art. 4 I JORF 16 juillet 2006
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+	  - Loi n°2008-776 du 4 août 2008 - art. 104
 
 
 ###### Article L123-1-1
@@ -10624,20 +10628,23 @@ Un décret en Conseil d'Etat détermine, en tant que de besoin, les conditions d
 
 #### Chapitre IV : Droit de préemption des communes sur les fonds artisanaux, les fonds de commerce et les baux commerciaux
 
+#### Chapitre IV : Droit de préemption des communes sur les fonds artisanaux, les fonds de commerce, les baux commerciaux et les terrains faisant l'objet de projets d'aménagement commercial
+
 ###### Article L214-1
 
 Le conseil municipal peut, par délibération motivée, délimiter un périmètre de sauvegarde du commerce et de l'artisanat de
 proximité, à l'intérieur duquel sont soumises au droit de préemption institué par le présent chapitre les cessions de fonds
 artisanaux, de fonds de commerce ou de baux commerciaux.
 
+A l'intérieur de ce périmètre, sont également soumises au droit de préemption visé à l'alinéa précédent les cessions de
+terrains portant ou destinés à porter des commerces d'une surface de vente comprise entre 300 et 1 000 mètres carrés. 
+
 Chaque cession est subordonnée, à peine de nullité, à une déclaration préalable faite par le cédant à la commune. Cette
-déclaration précise le prix et les conditions de la cession.
+déclaration précise le prix et les conditions de la cession. 
 
 Le droit de préemption est exercé selon les modalités prévues par les articles L. 213-4 à L. 213-7. Le silence de la commune
-pendant deux mois à compter de la réception de la déclaration vaut renonciation à l'exercice du droit de préemption. Le
-cédant peut alors réaliser la vente aux prix et conditions figurant dans sa déclaration.
-
-L'action en nullité se prescrit par cinq ans à compter de la prise d'effet de la cession.
+pendant le délai de deux mois à compter de la réception de cette déclaration vaut renonciation à l'exercice du droit de
+préemption. Le cédant peut alors réaliser la vente aux prix et conditions figurant dans sa déclaration.
 
 **Liens relatifs à cet article**
 
@@ -10659,22 +10666,22 @@ L'action en nullité se prescrit par cinq ans à compter de la prise d'effet de 
 	  - Code de l'urbanisme - art. R*214-7 (V)
 	  - Code général des collectivités territoriales - art. L2122-22 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 58 () JORF 3 août 2005
+	  - Loi n°2008-776 du 4 août 2008 - art. 101
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+	  - Code de l'urbanisme - art. L213-4
 
 
 ###### Article L214-2
 
 La commune doit, dans le délai d'un an à compter de la prise d'effet de la cession, rétrocéder le fonds artisanal, le fonds
-de commerce ou le bail commercial à une entreprise immatriculée au registre du commerce et des sociétés ou au répertoire des
-métiers, en vue d'une exploitation destinée à préserver la diversité de l'activité commerciale et artisanale dans le
-périmètre concerné. L'acte de rétrocession prévoit les conditions dans lesquelles il peut être résilié en cas d'inexécution
-par le cessionnaire du cahier des charges.
+de commerce, le bail commercial ou le terrain à une entreprise immatriculée au registre du commerce et des sociétés ou au
+répertoire des métiers, en vue d'une exploitation destinée à préserver la diversité et à promouvoir le développement de
+l'activité commerciale et artisanale dans le périmètre concerné. L'acte de rétrocession prévoit les conditions dans
+lesquelles il peut être résilié en cas d'inexécution par le cessionnaire du cahier des charges.
 
 L'acte de rétrocession d'un fonds de commerce est effectué dans le respect des conditions fixées par les dispositions du
 chapitre Ier du titre IV du livre Ier du code de commerce.
@@ -10684,19 +10691,15 @@ dans l'acte de rétrocession.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 58 () JORF 3 août 2005
+	  - Loi n°2008-776 du 4 août 2008 - art. 101
 
 	**Cité par**:
 
 	  - Code de commerce - art. L145-2 (V)
 	  - Code de l'urbanisme - art. *R214-11 (V)
 	  - Code de l'urbanisme - art. *R214-16 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L214-3
@@ -16257,7 +16260,11 @@ L'autorité qui délivre l'autorisation de construire, d'aménager, ou de lotir 
 celle-ci la réalisation et le financement de tous travaux nécessaires à la viabilité et à l'équipement de la construction, du
 terrain aménagé ou du lotissement, notamment en ce qui concerne la voirie, l'alimentation en eau, gaz et électricité, les
 réseaux de télécommunication, l'évacuation et le traitement des eaux et matières usées, l'éclairage, les aires de
-stationnement, les espaces collectifs, les aires de jeux et les espaces plantés.
+stationnement, les espaces collectifs, les aires de jeux et les espaces plantés. Toutefois, en ce qui concerne le réseau
+électrique, le bénéficiaire du permis ou de la décision de non-opposition est redevable de la part de la contribution prévue
+au troisième alinéa du II de l'article 4 de la loi n° 2000-108 du 10 février 2000 relative à la modernisation et au
+développement du service public de l'électricité, correspondant au branchement et à la fraction de l'extension du réseau
+située sur le terrain d'assiette de l'opération, au sens de cette même loi et des textes pris pour son application. 
 
 Les obligations imposées par l'alinéa ci-dessus s'étendent au branchement des équipements propres à l'opération sur les
 équipements publics qui existent au droit du terrain sur lequel ils sont implantés et notamment aux opérations réalisées à
@@ -16267,7 +16274,7 @@ L'autorisation peut également, avec l'accord du demandeur et dans les condition
 service public de l'eau ou de l'électricité, prévoir un raccordement aux réseaux d'eau ou d'électricité empruntant, en tout
 ou partie, des voies ou emprises publiques, sous réserve que ce raccordement n'excède pas cent mètres et que les réseaux
 correspondants, dimensionnés pour correspondre exclusivement aux besoins du projet, ne soient pas destinés à desservir
-d'autres constructions existantes ou futures.
+d'autres constructions existantes ou futures. 
 
 En cas de classement ultérieur dans la voirie et les réseaux publics, les travaux exigés au titre des équipements propres
 n'ouvrant pas droit à l'action en répétition prévue à l'article L. 332-6.
@@ -16277,9 +16284,9 @@ remembrement autorisées ou constituées d'office.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Loi n°2003-590 du 2 juillet 2003 - art. 51 () JORF 3 juillet 2003
+	  - Loi n°2000-108 du 10 février 2000 - art. 4
 
 	**Cité par**:
 
@@ -16291,9 +16298,9 @@ remembrement autorisées ou constituées d'office.
 	  - Code de l'énergie - art. L342-11 (V)
 	  - Code de l'énergie - art. R453-2 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+	  - Loi n°2008-776 du 4 août 2008 - art. 167
 
 
 ###### Article L332-16
