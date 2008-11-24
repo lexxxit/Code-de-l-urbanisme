@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2008-08-06
+Version Consolidée au 2008-11-25
 
 # Partie législative
 
@@ -797,46 +797,44 @@ n'a pas été, selon le cas, autorisée ou agréée en vertu des articles préci
 
 Nonobstant toute disposition contraire du plan local d'urbanisme, l'emprise au sol des surfaces, bâties ou non, affectées aux
 aires de stationnement annexes d'un commerce soumis à l'autorisation d'exploitation commerciale prévue aux 1°, 6° et 8° du I
-de l'article L. 720-5 du code de commerce et au I de l'article 36-1 de la loi n° 73-1193 du 27 décembre 1973 d'orientation du
-commerce et de l'artisanat, ne peut excéder une fois et demie la surface hors oeuvre nette des bâtiments affectés au
-commerce.
+de l'article L. 720-5 du code de commerce et à l'autorisation prévue à l'article 30-2 du code de l'industrie
+cinématographique, ne peut excéder une fois et demie la surface hors oeuvre nette des bâtiments affectés au commerce. 
 
-Lorsqu'un équipement cinématographique soumis à l'autorisation prévue au I de l'article 36-1 de la loi n° 73-1193 du 27
-décembre 1973 précitée n'est pas installé sur le même site qu'un commerce soumis aux autorisations d'exploitation commerciale
-prévues aux 1°, 6° et 8° du I de l'article L. 720-5 du code de commerce, l'emprise au sol des surfaces, bâties ou non,
-affectées aux aires de stationnement annexes de cet équipement cinématographique ne doit pas excéder une place de
-stationnement pour trois fauteuils.
+Lorsqu'un établissement de spectacles cinématographiques soumis à l'autorisation prévue à l'article 30-2 du code de
+l'industrie cinématographique n'est pas installé sur le même site qu'un commerce soumis aux autorisations d'exploitation
+commerciale prévues à l'article L. 752-1 du code de commerce, l'emprise au sol des surfaces, bâties ou non, affectées aux
+aires de stationnement annexes de cet établissement de spectacles cinématographiques ne doit pas excéder une place de
+stationnement pour trois places de spectateur. 
 
 Ces dispositions ne font pas obstacle aux travaux de réfection et d'amélioration ou à l'extension limitée des bâtiments
 commerciaux existant le 15 décembre 2000.
 
 **Nota:**
 
-L'article 41 de l'ordonnance n° 2005-1527 énonce : " La présente ordonnance entrera en vigueur à des dates fixées par décret
-en Conseil d'Etat et au plus tard le 1er juillet 2007. " 
+Loi n° 2008-776 du 4 août 2008 JORF 5 août 2008 art. 105 III : Le présent article entre en vigueur à une date fixée par
+décret et au plus tard le 1er janvier 2009. 
 
-Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
-dans ce même article 26. 
-
-En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
-l'ordonnance au 1er octobre 2007.
+Les demandes d'autorisation présentées avant la date d'entrée en vigueur du présent article sont instruites et les
+autorisations accordées dans les conditions prévues par les dispositions en vigueur avant cette date. 
 
 Décret n° 2008-1212 du 24 novembre 2008 article 8 : l'article 105 de la loi n° 2008-776 du 4 août 2008 entre en vigueur dès
 la publication du présent décret au Journal officiel de la République française.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 105 (V)
+
 	**Cité par**:
 
 	  - Code du cinéma et de l'image animée - art. L212-11 (V)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 6 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+	  - Code de commerce - art. L720-5
+	  - Code de commerce - art. L752-1
+	  - Code de l'industrie cinématographique - art. 30-2
 
 
 ###### Article L111-7
@@ -2250,11 +2248,11 @@ environnementale.
 
 Les schémas de cohérence territoriale exposent le diagnostic établi au regard des prévisions économiques et démographiques et
 des besoins répertoriés en matière de développement économique, d'agriculture, d'aménagement de l'espace, d'environnement,
-d'équilibre social de l'habitat, de transports, d'équipements et de services.
+d'équilibre social de l'habitat, de transports, d'équipements et de services. 
 
 Ils présentent le projet d'aménagement et de développement durable retenu, qui fixe les objectifs des politiques publiques
 d'urbanisme en matière d'habitat, de développement économique, de loisirs, de déplacements des personnes et des marchandises,
-de stationnement des véhicules et de régulation du trafic automobile.
+de stationnement des véhicules et de régulation du trafic automobile. 
 
 Pour mettre en oeuvre le projet d'aménagement et de développement durable retenu, ils fixent, dans le respect des équilibres
 résultant des principes énoncés aux articles L. 110 et L. 121-1, les orientations générales de l'organisation de l'espace et
@@ -2265,21 +2263,24 @@ l'environnement.
 A ce titre, ils définissent notamment les objectifs relatifs à l'équilibre social de l'habitat et à la construction de
 logements sociaux, à l'équilibre entre l'urbanisation et la création de dessertes en transports collectifs, à l'équipement
 commercial et artisanal, aux localisations préférentielles des commerces, à la protection des paysages, à la mise en valeur
-des entrées de ville et à la prévention des risques.
+des entrées de ville et à la prévention des risques. 
 
 Ils déterminent les espaces et sites naturels, agricoles ou urbains à protéger et peuvent en définir la localisation ou la
-délimitation.
+délimitation. 
 
 Ils peuvent définir les grands projets d'équipements et de services, en particulier de transport, nécessaires à la mise en
 oeuvre de ces objectifs. Ils précisent les conditions permettant de favoriser le développement de l'urbanisation prioritaire
 dans les secteurs desservis par les transports collectifs. Ils peuvent, le cas échéant, subordonner l'ouverture à
 l'urbanisation de zones naturelles ou agricoles et les extensions urbaines à la création de dessertes en transports
-collectifs et à l'utilisation préalable de terrains situés en zone urbanisée et desservis par les équipements.
+collectifs et à l'utilisation préalable de terrains situés en zone urbanisée et desservis par les équipements. 
+
+Ils peuvent comprendre un document d'aménagement commercial défini dans les conditions prévues au II de l'article L. 752-1 du
+code de commerce. 
 
 Lorsqu'ils comprennent une ou des communes littorales, ils peuvent comporter un chapitre individualisé valant schéma de mise
 en valeur de la mer tel que défini par l'article 57 de la loi n° 83-8 du 7 janvier 1983 relative à la répartition de
 compétences entre les communes, les départements, les régions et l'Etat, à condition que celui-ci ait été approuvé selon les
-modalités définies au présent chapitre.
+modalités définies au présent chapitre. 
 
 Les schémas de cohérence territoriale prennent en compte les programmes d'équipement de l'Etat, des collectivités locales et
 des établissements et services publics. Ils doivent être compatibles avec les chartes des parcs naturels régionaux et des
@@ -2288,36 +2289,50 @@ ressource en eau et les objectifs de qualité et de quantité des eaux définis 
 gestion des eaux en application de l'article L. 212-1 du code de l'environnement ainsi qu'avec les objectifs de protection
 définis par les schémas d'aménagement et de gestion des eaux en application de l'article L. 212-3 du même code. Lorsqu'un de
 ces documents est approuvé après l'approbation d'un schéma de cohérence territoriale, ce dernier doit, si nécessaire, être
-rendu compatible dans un délai de trois ans.
+rendu compatible dans un délai de trois ans. 
 
 En zone de montagne, les schémas de cohérence territoriale définissent la localisation, la consistance et la capacité globale
 d'accueil et d'équipement des unités touristiques nouvelles mentionnées au I de l'article L. 145-11 et les principes
-d'implantation et la nature des unités touristiques nouvelles mentionnées au II du même article.
+d'implantation et la nature des unités touristiques nouvelles mentionnées au II du même article. 
 
 Lorsque le périmètre d'un schéma de cohérence territoriale recouvre en tout ou partie celui d'un pays ayant fait l'objet
 d'une publication par arrêté préfectoral, le projet d'aménagement et de développement durable du schéma de cohérence
-territoriale tient compte de la charte de développement du pays.
+territoriale tient compte de la charte de développement du pays. 
 
 Pour leur exécution, les schémas de cohérence territoriale peuvent être complétés en certaines de leurs parties par des
-schémas de secteur qui en détaillent et en précisent le contenu.
+schémas de secteur qui en détaillent et en précisent le contenu. 
 
 Les programmes locaux de l'habitat, les plans de déplacements urbains, les schémas de développement commercial, les plans
 locaux d'urbanisme, les plans de sauvegarde et de mise en valeur, les cartes communales, la délimitation des périmètres
 d'intervention prévus à l'article L. 143-1, les opérations foncières et les opérations d'aménagement définies par décret en
 Conseil d'Etat doivent être compatibles avec les schémas de cohérence territoriale et les schémas de secteur. Il en est de
-même pour les autorisations prévues par l'article L. 720-5 du code de commerce et l'article 36-1 de la loi n° 73-1193 du 27
-décembre 1973 d'orientation du commerce et de l'artisanat.
+même pour les autorisations prévues par l'article L. 752-1 du code de commerce et l'article 30-2 du code de l'industrie
+cinématographique.
 
 **Nota:**
+
+Loi n° 2008-776 du 4 août 2008 JORF 5 août 2008 art. 105 III : Le présent article entre en vigueur à une date fixée par
+décret et au plus tard le 1er janvier 2009. 
+
+Les demandes d'autorisation présentées avant la date d'entrée en vigueur du présent article sont instruites et les
+autorisations accordées dans les conditions prévues par les dispositions en vigueur avant cette date. 
 
 Décret n° 2008-1212 du 24 novembre 2008 article 8 : les articles 102 et 105 de la loi n° 2008-776 du 4 août 2008 entrent en
 vigueur dès la publication du présent décret au Journal officiel de la République française.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+	  - Loi n°73-1193 du 27 décembre 1973 - art. 36-1
+	  - Code de commerce - art. L752-1
+	  - Code de l'industrie cinématographique - art. 30-2 (VD)
+	  - Code de l'urbanisme - art. L110
+	  - Code de l'urbanisme - art. L121-1
+	  - Code de l'urbanisme - art. L143-1
+	  - Code de l'urbanisme - art. L145-11
+	  - Code de l'environnement - art. L212-1
+	  - Code de l'environnement - art. L212-3 (V)
 
 	**Cité par**:
 
@@ -2346,7 +2361,8 @@ vigueur dès la publication du présent décret au Journal officiel de la Répub
 
 	**Modifié par**:
 
-	  - Loi n°2006-436 du 14 avril 2006 - art. 25 () JORF 15 avril 2006
+	  - Loi n°2008-776 du 4 août 2008 - art. 102
+	  - Loi n°2008-776 du 4 août 2008 - art. 105 (V)
 
 
 ###### Article L122-2
@@ -2354,47 +2370,61 @@ vigueur dès la publication du présent décret au Journal officiel de la Répub
 Dans les communes qui sont situées à moins de quinze kilomètres de la périphérie d'une agglomération de plus de 50 000
 habitants au sens du recensement général de la population, ou à moins de quinze kilomètres du rivage de la mer, et qui ne
 sont pas couvertes par un schéma de cohérence territoriale applicable, le plan local d'urbanisme ne peut être modifié ou
-révisé en vue d'ouvrir à l'urbanisation une zone à urbaniser délimitée après le 1er juillet 2002 ou une zone naturelle.
+révisé en vue d'ouvrir à l'urbanisation une zone à urbaniser délimitée après le 1er juillet 2002 ou une zone naturelle. 
 
 Dans les communes mentionnées au premier alinéa et à l'intérieur des zones à urbaniser ouvertes à l'urbanisation après
 l'entrée en vigueur de la loi n° 2003-590 du 2 juillet 2003 urbanisme et habitat, il ne peut être délivré d'autorisation
-d'exploitation commerciale en application des l° à 6° et du 8° du I de l'article L. 720-5 du code de commerce ou
-d'autorisation de création des salles de spectacles cinématographiques en application du I de l'article 36-1 de la loi n°
-73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat.
+d'exploitation commerciale en application de l'article L. 752-1 du code de commerce ou l'autorisation prévue à l'article 30-2
+du code de l'industrie cinématographique. 
 
 Il peut être dérogé aux dispositions des deux alinéas précédents soit avec l'accord du préfet donné après avis de la
 commission départementale compétente en matière de nature, de paysages et de sites et de la chambre d'agriculture, soit,
 lorsque le périmètre d'un schéma de cohérence territoriale incluant la commune a été arrêté, avec l'accord de l'établissement
 public prévu à l'article L. 122-4. La dérogation ne peut être refusée que si les inconvénients éventuels de l'urbanisation
 envisagée pour les communes voisines, pour l'environnement ou pour les activités agricoles sont excessifs au regard de
-l'intérêt que représente pour la commune la modification ou la révision du plan.
+l'intérêt que représente pour la commune la modification ou la révision du plan. 
 
 Le préfet peut, par arrêté motivé pris après avis de la commission de conciliation, constater l'existence d'une rupture
 géographique due à des circonstances naturelles, notamment au relief, et, en conséquence, exclure du champ d'application du
 présent article une ou plusieurs communes situées à moins de quinze kilomètres de la périphérie d'une agglomération de plus
-de 50 000 habitants.
+de 50 000 habitants. 
 
 Pour l'application du présent article, les schémas d'aménagement régionaux prévus par la loi n° 84-747 du 2 août 1984
 relative aux compétences des régions de Guadeloupe, de Guyane, de Martinique et de la Réunion, le schéma directeur de la
 région d'Ile-de-France prévu par l'article L. 141-1 et le plan d'aménagement et de développement durable de Corse prévu à
 l'article L. 4424-9 du code général des collectivités territoriales et, jusqu'à l'approbation de celui-ci, le schéma
 d'aménagement de la Corse maintenu en vigueur par l'article 13 de la loi n° 2002-92 du 22 janvier 2002 relative à la Corse
-ont valeur de schéma de cohérence territoriale.
+ont valeur de schéma de cohérence territoriale. 
 
 Les dispositions du présent article sont applicables à compter du 1er juillet 2002.
 
 **Nota:**
 
-La date d'entrée en vigueur de l'article 28 de l'ordonnance 2004-637 a été modifiée par l'ordonnance 2005-727.
+Loi n° 2008-776 du 4 août 2008 JORF 5 août 2008 art. 105 III : Le présent article entre en vigueur à une date fixée par
+décret et au plus tard le 1er janvier 2009. 
+
+Les demandes d'autorisation présentées avant la date d'entrée en vigueur du présent article sont instruites et les
+autorisations accordées dans les conditions prévues par les dispositions en vigueur avant cette date. 
 
 Décret n° 2008-1212 du 24 novembre 2008 article 8 : l'article 105 de la loi n° 2008-776 du 4 août 2008 entre en vigueur dès
 la publication du présent décret au Journal officiel de la République française.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Loi n°84-747 du 2 août 1984
+	  - Loi n°2002-92 du 22 janvier 2002 - art. 13
+	  - Loi n°2003-590 du 2 juillet 2003
+	  - Code de commerce - art. L752-1
+	  - Code général des collectivités territoriales - art. L4424-9
+	  - Code de l'industrie cinématographique - art. 30-2
+	  - Code de l'urbanisme - art. L122-4
+	  - Code de l'urbanisme - art. L141-1
+
 	**Modifié par**:
 
-	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 28 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
+	  - Loi n°2008-776 du 4 août 2008 - art. 105 (V)
 
 	**Cité par**:
 
@@ -2406,10 +2436,6 @@ la publication du présent décret au Journal officiel de la République frança
 	  - Code de l'urbanisme - art. L122-6 (M)
 	  - Code de l'urbanisme - art. R122-28 (Ab)
 	  - Code du patrimoine. - art. L630-1 (VT)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L122-3
@@ -3334,6 +3360,9 @@ l'environnement, les paysages, les entrées de villes et le patrimoine, lutter c
 renouvellement urbain et assurer le développement de la commune. Elles peuvent prendre la forme de schémas d'aménagement et
 préciser les principales caractéristiques des voies et espaces publics. 
 
+Dans les cas visés au cinquième alinéa du II de l'article L. 752-1 du code de commerce, les plans locaux d'urbanisme peuvent
+comporter le document d'aménagement commercial défini à cet article. 
+
 Les plans locaux d'urbanisme couvrent l'intégralité du territoire de la commune en cas d'élaboration par la commune ou, en
 cas d'élaboration par un établissement public de coopération intercommunale compétent, l'intégralité du territoire de tout ou
 partie des communes membres de cet établissement ou l'intégralité du territoire de ce dernier, à l'exception des parties de
@@ -3524,10 +3553,17 @@ la publication du présent décret au Journal officiel de la République frança
 	**Cite**:
 
 	  - Loi n°2000-1208 du 13 décembre 2000 (V)
+	  - Code de commerce - art. L752-1
+	  - Code général des collectivités territoriales - art. L2112-2
+	  - Code général des collectivités territoriales - art. L2224-10
+	  - Code de l'urbanisme - art. L121-1
+	  - Code de l'urbanisme - art. L123-4
+	  - Code de l'urbanisme - art. L212-3
+	  - Code de l'environnement - art. L212-1
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 104
+	  - Loi n°2008-776 du 4 août 2008 - art. 102
 
 
 ###### Article L123-1-1
@@ -10625,8 +10661,6 @@ Un décret en Conseil d'Etat détermine, en tant que de besoin, les conditions d
 
 	  - Loi - art. 34 () JORF 19 juillet 1991
 
-
-#### Chapitre IV : Droit de préemption des communes sur les fonds artisanaux, les fonds de commerce et les baux commerciaux
 
 #### Chapitre IV : Droit de préemption des communes sur les fonds artisanaux, les fonds de commerce, les baux commerciaux et les terrains faisant l'objet de projets d'aménagement commercial
 
@@ -17806,70 +17840,66 @@ délivrance du permis.
 
 ###### Article L425-7
 
-Conformément aux articles L. 720-5 et L. 720-10 du code de commerce, lorsque le permis de construire porte sur un projet
-soumis à une autorisation d'exploitation commerciale, le permis ne peut être accordé avant l'expiration du délai de recours
-relatif à cette autorisation et, en cas de recours, avant la décision de la commission nationale.
+Conformément à l'article L. 752-1 du code de commerce, lorsque le permis de construire porte sur un projet soumis à une
+autorisation d'exploitation commerciale, le permis ne peut être accordé avant la délivrance de cette autorisation. Sa mise en
+oeuvre ne peut être entreprise avant l'expiration des recours entrepris contre elle.
 
 **Nota:**
 
-L'article 41 de l'ordonnance n° 2005-1527 énonce : " La présente ordonnance entrera en vigueur à des dates fixées par décret
-en Conseil d'Etat et au plus tard le 1er juillet 2007. " 
-
-Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
-dans ce même article 26. 
-
-En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
-l'ordonnance au 1er octobre 2007.
-
-Décret n° 2008-1212 du 24 novembre 2008 article 8 : l'article 105 de la loi n° 2008-776 du 4 août 2008 entre en vigueur dès
-la publication du présent décret au Journal officiel de la République française.
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 60, ces dispositions sont abrogées à une date fixée par décret en
+Conseil d'Etat et au plus tard le 18 décembre 2014.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 105 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2014-626 du 18 juin 2014 - art. 39
+
+	**Cite**:
+
+	  - Code de commerce - art. L752-1
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. L427-2 (VD)
 	  - Code de l'urbanisme - art. L740-1 (VT)
 
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
-
 
 ###### Article L425-8
 
-Conformément au I de l'article 36-1 de la loi n° 73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat,
-lorsque le permis de construire porte sur un projet soumis à une autorisation de création de salle de spectacle
-cinématographique, le permis ne peut être accordé avant l'expiration du délai de recours relatif à cette autorisation et, en
-cas de recours, avant la décision de la commission nationale.
+Conformément à l'article 30-2 du code de l'industrie cinématographique
+, lorsque le permis de construire porte sur un projet de création, d'extension ou de réouverture au public d'un établissement
+de spectacles cinématographiques, le permis ne peut être accordé avant la délivrance de cette autorisation. Sa mise en œuvre
+ne peut être entreprise avant l'expiration des recours entrepris contre elle.
 
 **Nota:**
 
-L'article 41 de l'ordonnance n° 2005-1527 énonce : " La présente ordonnance entrera en vigueur à des dates fixées par décret
-en Conseil d'Etat et au plus tard le 1er juillet 2007. " 
+Loi n° 2008-776 du 4 août 2008 JORF 5 août 2008 art. 105 III : Le présent article entre en vigueur à une date fixée par
+décret et au plus tard le 1er janvier 2009. 
 
-Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
-dans ce même article 26. 
-
-En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
-l'ordonnance au 1er octobre 2007.
+Les demandes d'autorisation présentées avant la date d'entrée en vigueur du présent article sont instruites et les
+autorisations accordées dans les conditions prévues par les dispositions en vigueur avant cette date. 
 
 Décret n° 2008-1212 du 24 novembre 2008 article 8 : l'article 105 de la loi n° 2008-776 du 4 août 2008 entre en vigueur dès
 la publication du présent décret au Journal officiel de la République française.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+	  - Loi n°2008-776 du 4 août 2008 - art. 105 (V)
 
-	**Créé par**:
+	**Nouveaux textes**:
 
-	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+	  - Code du cinéma et de l'image animée - art. L212-13 (V)
+
+	**Cite**:
+
+	  - Code de l'industrie cinématographique - art. 30-2
 
 
 ###### Article L425-9
