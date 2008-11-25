@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2008-11-25
+Version Consolidée au 2008-11-26
 
 # Partie législative
 
@@ -44578,34 +44578,6 @@ b) Neuf mois lorsque le défrichement fait l'objet d'une enquête publique.
 	  - Décret n°73-1023 1973-11-08
 
 
-###### Article R*423-30
-
-Le délai d'instruction prévu par le b et le c de l'article R. 423-23 est porté à sept mois lorsque le permis est subordonné,
-en application des articles L. 752-1 à L. 752-3 du code de commerce, à une autorisation d'exploitation commerciale ou, en
-application du I de l'article 36-1 de la loi n° 73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat, à
-une autorisation de création de salle de spectacle cinématographique.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°73-1193 du 27 décembre 1973 - art. 36-1
-	  - Code de commerce
-	  - Code de l'urbanisme
-
-	**Créé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1212 du 24 novembre 2008 - art. 2
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ###### Article R*423-31
 
 Le délai d'instruction prévu par le b et le c de l'article R. 423-23 est porté à un an lorsque les travaux sont soumis à
@@ -44692,6 +44664,28 @@ articles R. 423-26 à R. 423-32.
 
 ##### Paragraphe 2 : Prolongations exceptionnelles du délai d'instruction défini à la sous-section 2
 
+###### Article *R423-36-1
+
+Lorsque le projet a été soumis pour avis à la commission départementale d'aménagement commercial en application de l'article
+L. 752-4 du code de commerce et a fait l'objet d'un avis défavorable, le délai d'instruction est prolongé de deux mois à
+compter du recours si le promoteur a déposé un recours devant la Commission nationale d'aménagement commercial dans le délai
+d'instruction déterminé comme il est dit à la section IV du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1212 du 24 novembre 2008 - art. 2
+
+	**Cité par**:
+
+	  - Décret n°2014-1299 du 23 octobre 2014 - art. (V)
+
+	**Cite**:
+
+	  - Code de commerce - art. L752-4
+
+
 ###### Article R*423-34
 
 Lorsque la délivrance du permis est subordonnée à une autorisation de défrichement en application de l'article L. 311-5 du
@@ -44746,31 +44740,28 @@ l'article L. 642-3 du code du patrimoine.
 ###### Article R*423-36
 
 Lorsque la délivrance du permis est subordonnée, en application des articles L. 752-1 à L. 752-3 du code de commerce, à une
-autorisation d'exploitation commerciale ou, en application du I de l'article 36-1 de la loi n° 73-1193 du 27 décembre 1973
-d'orientation du commerce et de l'artisanat, à une autorisation de création de salle de spectacle cinématographique, le délai
-d'instruction est prolongé de quatre mois quand la décision de la commission départementale compétente fait l'objet d'un
-recours.
+autorisation d'exploitation commerciale ou, en application de l'article 30-2 du code de l'industrie cinématographique, à une
+autorisation de création, d'extension ou de réouverture au public d'établissements de spectacles cinématographiques et que la
+demande a fait l'objet d'un refus de la commission départementale compétente, le délai d'instruction est prolongé de cinq
+mois à compter du recours si un recours a été déposé devant la Commission nationale d'aménagement commercial dans le délai
+d'instruction déterminé comme il est dit à la section IV du présent chapitre.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2008-1212 du 24 novembre 2008 - art. 2
+
 	**Cite**:
 
-	  - Loi n°73-1193 du 27 décembre 1973 - art. 36-1 (M)
-	  - Code de commerce L752-1 à L752-3
-
-	**Créé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+	  - Code de commerce - art. L752-1
+	  - Code de l'industrie cinématographique - art. 30-2
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*427-4 (V)
 	  - Code du cinéma et de l'image animée - art. R212-8 (V)
 	  - Code du cinéma et de l'image animée - art. R212-9 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*423-37
@@ -44953,6 +44944,65 @@ grande hauteur avec les règles de sécurité.
 
 
 ##### Sous-section 2 : Notification des majorations et prolongations du délai d'instruction
+
+###### Article *R423-44-1
+
+Lorsque la délivrance du permis est subordonnée, en application des articles L. 752-1 à L. 752-3 du code de commerce, à une
+autorisation d'exploitation commerciale ou, en application de l'article 30-2 du code de l'industrie cinématographique, à une
+autorisation de création, d'extension ou de réouverture au public d'établissements de spectacles cinématographiques et que la
+demande a fait l'objet d'un refus de la commission départementale compétente, la lettre qui notifie ce refus au pétitionnaire
+l'informe : 
+
+a) Que dans le cas où un recours serait déposé devant la commission nationale dans le délai d'instruction du permis de
+construire ce délai d'instruction serait majoré de cinq mois à compter du recours ; 
+
+b) Qu'en cas d'absence de recours ou de rejet du recours il ne pourra pas se prévaloir d'un permis tacite en application du g
+de l'article R. 424-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1212 du 24 novembre 2008 - art. 2
+
+	**Cité par**:
+
+	  - Décret n°2014-1299 du 23 octobre 2014 - art. (V)
+	  - Décret n°2015-1461 du 10 novembre 2015 - art. (V)
+	  - Code de l'urbanisme - art. R*427-5 (V)
+	  - Code du cinéma et de l'image animée - art. R212-8 (V)
+	  - Code du cinéma et de l'image animée - art. R212-9 (Ab)
+
+	**Cite**:
+
+	  - Code de commerce - art. L752-1
+	  - Code de l'industrie cinématographique - art. 30-2
+	  - Code de l'urbanisme - art. R*424-2
+
+
+###### Article *R423-44-2
+
+Lorsque le projet a été soumis pour avis à la commission départementale d'aménagement commercial en application de l'article
+L. 752-4 du code de commerce et a fait l'objet d'un avis défavorable, la lettre qui notifie cet avis au pétitionnaire
+l'informe : 
+
+a) Que dans le cas où il déposerait un recours devant la commission nationale dans le délai d'instruction du permis de
+construire ce délai d'instruction serait majoré de deux mois à compter du recours ; 
+
+b) Qu'en cas d'absence de recours ou de rejet du recours il ne pourra pas se prévaloir d'un permis tacite en application du h
+de l'article R. 424-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1212 du 24 novembre 2008 - art. 2
+
+	**Cite**:
+
+	  - Code de commerce - art. L752-4
+	  - Code de l'urbanisme - art. R*424-2
+
 
 ###### Article R*423-42
 
@@ -45895,32 +45945,40 @@ b) Permis de construire, permis d'aménager ou permis de démolir tacite.
 ###### Article R*424-2
 
 Par exception au b de l'article R. 424-1, le défaut de notification d'une décision expresse dans le délai d'instruction vaut
-décision implicite de rejet dans les cas suivants :
+décision implicite de rejet dans les cas suivants : 
 
 a) Lorsque les travaux sont soumis à l'autorisation du ministre de la défense ou à une autorisation au titre des sites
-classés ou des réserves naturelles ;
+classés ou des réserves naturelles ; 
 
 b) Lorsque le projet fait l'objet d'une évocation par le ministre chargé des sites ou par le ministre chargé des monuments
-historiques et des espaces protégés ;
+historiques et des espaces protégés ; 
 
 c) Lorsque le projet porte sur un immeuble inscrit ou un immeuble adossé à un immeuble classé au titre des monuments
-historiques ;
+historiques ; 
 
 d) Lorsque le projet est soumis à enquête publique en application des articles R. 123-7 à R. 123-23 du code de
-l'environnement ;
+l'environnement ; 
 
-e) Lorsqu'il y a lieu de consulter l'Assemblée de Corse en application de l'article R. 423-56 ;
+e) Lorsqu'il y a lieu de consulter l'Assemblée de Corse en application de l'article R. 423-56 ; 
 
 f) Lorsque le projet est situé dans un espace ayant vocation à être classé dans le coeur d'un futur parc national dont la
 création a été prise en considération en application de l'article R. 331-4 du code de l'environnement ou dans le coeur d'un
-parc national délimité en application de l'article L. 331-2 du même code.
+parc national délimité en application de l'article L. 331-2 du même code ; 
+
+g) Lorsque la délivrance du permis est subordonnée, en application des articles L. 752-1 à L. 752-3 du code de commerce, à
+une autorisation d'exploitation commerciale ou, en application de l'article 30-2 du code de l'industrie cinématographique, à
+une autorisation de création, d'extension ou de réouverture au public d'établissements de spectacles cinématographiques et
+que la demande a fait l'objet d'un refus de la commission départementale compétente ; 
+
+h) Lorsque le projet a été soumis pour avis à la commission départementale d'aménagement commercial en application de
+l'article L. 752-4 du code de commerce, en cas d'avis défavorable de la commission départementale d'aménagement commercial
+ou, le cas échéant, de la Commission nationale d'aménagement commercial.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 8 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+	  - Décret n°2008-1212 du 24 novembre 2008 - art. 2
 
 	**Cité par**:
 
@@ -45938,14 +45996,13 @@ parc national délimité en application de l'article L. 331-2 du même code.
 
 	**Cite**:
 
-	  - Code de l'urbanisme R424-1, R423-56
-	  - Code de l'environnement - art. L331-2 (M)
-	  - Code de l'environnement - art. R*331-4 (Ab)
-	  - Code de l'environnement R123-7 à R123-23, R331-4, L331-2
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
+	  - Code de commerce - art. L752-1
+	  - Code de commerce - art. L752-4
+	  - Code de l'urbanisme - art. R*423-56
+	  - Code de l'urbanisme - art. R*424-1
+	  - Code de l'environnement - art. L331-2
+	  - Code de l'environnement - art. R123-7
+	  - Code de l'environnement - art. R331-4
 
 
 ###### Article R*424-3
@@ -46863,6 +46920,23 @@ l'autorité compétente.
 
 #####  Section 2 : Opérations pour lesquelles le permis ou la décision prise sur la déclaration préalable est subordonné à un accord prévu par une autre législation
 
+###### Article *R425-22-1
+
+Lorsque le projet a été soumis pour avis à la commission départementale d'aménagement commercial en application de l'article
+L. 752-4 du code de commerce, le permis de construire ne peut être délivré en cas d'avis défavorable de la commission
+départementale d'aménagement commercial ou, le cas échéant, de la Commission nationale d'aménagement commercial.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1212 du 24 novembre 2008 - art. 2
+
+	**Cite**:
+
+	  - Code de commerce - art. L752-4
+
+
 ###### Article R*425-16
 
 Lorsque le projet porte sur un immeuble inscrit au titre des monuments historiques ou sur un immeuble adossé à un immeuble
@@ -47651,6 +47725,19 @@ de l'article R. 431-10 ne sont pas exigées.
 
 ##### Sous-section 2 : Pièces complémentaires exigibles en fonction de la situation ou de la nature du projet
 
+###### Article *R431-27-1
+
+Lorsque la construction porte, dans une commune de moins de 20 000 habitants, sur un projet d'équipement commercial dont la
+surface est comprise entre 300 et 1 000 mètres carrés, la demande est accompagnée d'une notice précisant la nature du
+commerce projeté et la surface de vente.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1212 du 24 novembre 2008 - art. 2
+
+
 ###### Article R*431-13
 
 Lorsque le projet de construction porte sur une dépendance du domaine public, le dossier joint à la demande de permis de
@@ -48044,28 +48131,24 @@ demandeur de cette autorisation lorsque le dossier joint à la demande d'autoris
 ###### Article R*431-28
 
 Lorsque les travaux portent sur un projet soumis à une autorisation de création de salle de spectacle cinématographique en
-application du I de l'article 36-1 de la loi n° 73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat, la
-demande est accompagnée de la copie de la lettre adressée par le préfet au demandeur de cette autorisation lorsque le dossier
-joint à la demande d'autorisation a été reconnu complet.
+application de l'article 30-2 du code de l'industrie cinématographique, la demande est accompagnée de la copie de la lettre
+adressée par le préfet au demandeur de cette autorisation lorsque le dossier joint à la demande d'autorisation a été reconnu
+complet.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Loi n°73-1193 du 27 décembre 1973 - art. 36-1 (M)
-
-	**Créé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+	  - Décret n°2008-1212 du 24 novembre 2008 - art. 2
 
 	**Cité par**:
 
 	  - Code du cinéma et de l'image animée - art. R212-8 (V)
 	  - Code du cinéma et de l'image animée - art. R212-9 (Ab)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°73-1023 1973-11-08
+	  - Code de l'industrie cinématographique - art. 30-2
 
 
 ###### Article R*431-29
