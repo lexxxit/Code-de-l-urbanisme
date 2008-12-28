@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2008-11-26
+Version Consolidée au 2008-12-29
 
 # Partie législative
 
@@ -1784,31 +1784,43 @@ les schémas de secteurs, les plans locaux d'urbanisme ou tout autre document d'
 disposition, les services et les personnels agissent en concertation permanente avec le maire ou le président de
 l'établissement public ainsi que, le cas échéant, avec les services de la commune ou de l'établissement public et les
 professionnels qualifiés travaillant pour leur compte. Le maire ou le président de l'établissement public leur adresse toutes
-instructions nécessaires pour l'exécution des tâches qu'il leur confie.
+instructions nécessaires pour l'exécution des tâches qu'il leur confie. 
 
 Les communes ou établissements publics compétents peuvent avoir recours aux conseils du conseil d'architecture, d'urbanisme
-et de l'environnement lors de l'élaboration, de la révision ou de la modification de leurs documents d'urbanisme.
+et de l'environnement lors de l'élaboration, de la révision ou de la modification de leurs documents d'urbanisme. 
 
 Les dépenses exposées par les communes et les établissements publics de coopération intercommunale pour les études,
-l'élaboration, la modification et la révision de leurs documents d'urbanisme sont inscrites en section d'investissement de
-leur budget. Elles ouvrent droit aux attributions du Fonds de compensation pour la taxe sur la valeur ajoutée.
+l'élaboration, la modification et la révision de leurs documents d'urbanisme ainsi que pour la numérisation du cadastre, pour
+celles réalisées à compter du 1er janvier 2007, sont inscrites en section d'investissement de leur budget. Elles ouvrent
+droit aux attributions du Fonds de compensation pour la taxe sur la valeur ajoutée.
+
+**Nota:**
+
+Conformément à l'article 13 6° de l'ordonnance n° 2015-1174 du 23 septembre 2015, l'abrogation du troisième alinéa de
+l'article L. 121-7 ne prendra effet qu'à compter de la publication des dispositions réglementaires du livre Ier du code de
+l'urbanisme.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 3 () JORF 5 juin 2004
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 46
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 13
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L1614-1 (M)
-	  - Code général des collectivités territoriales - art. L1614-3 (M)
+	  - Code général des collectivités territoriales - art. L1614-1
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. L122-1-1 (Ab)
 	  - Code de l'urbanisme - art. L123-3 (M)
 	  - Code de l'urbanisme - art. L123-8 (M)
+	  - Code de l'urbanisme - art. L157-1 (VT)
 	  - Code de l'urbanisme - art. L710-4 (VT)
 	  - Code général des collectivités territoriales - art. D3664-1 (V)
 	  - Code général des collectivités territoriales - art. D5217-20 (V)
@@ -1816,13 +1828,12 @@ leur budget. Elles ouvrent droit aux attributions du Fonds de compensation pour 
 	  - Code général des collectivités territoriales - art. R1614-45 (V)
 	  - Code général des collectivités territoriales - art. R2321-1 (V)
 
-	**Liens**:
+	**Nouveaux textes**:
 
-	  - TXT_SOURCE: Directive 2001-42 2001-06-27
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+	  - Code de l'urbanisme - art. L132-15 (VD)
+	  - Code de l'urbanisme - art. L132-16 (VD)
+	  - Code de l'urbanisme - art. L132-5 (VD)
+	  - Code de l'urbanisme - art. R132-4 (V)
 
 
 ###### Article L121-8
@@ -9886,32 +9897,21 @@ l'objet de la convention prévue au même article ;
 
 g) L'aliénation par l'Etat ou ses établissements publics de terrains, bâtis ou non bâtis, en vue de la réalisation des
 logements situés dans les périmètres mentionnés au deuxième alinéa du I de l'article 1er de la loi n° 2006-872 du 13 juillet
-2006 portant engagement national pour le logement, tant que les décrets prévus au même alinéa ne sont pas caducs.
+2006 portant engagement national pour le logement, tant que les décrets prévus au même alinéa ne sont pas caducs ;
+
+h) Les transferts en pleine propriété des immeubles appartenant à l'Etat ou à ses établissements publics, réalisés
+conformément à l'article 141 de la loi n° 2006-1771 du 30 décembre 2006 de finances rectificative pour 2006.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°62-848 1962-07-26 art. 11 bis
-
 	**Cite**:
 
-	  - Loi n°66-455 du 2 juillet 1966 - art. 2 (M)
-	  - Ordonnance 67-837 1967-09-28
-	  - Loi n°71-579 1971-07-16
-	  - Loi n°84-595 1984-07-12
-	  - Loi n°2006-872 2006-07-13 art. 1
-	  - Code de commerce. - art. L631-22 (V)
-	  - Code de commerce. - art. L642-1 (M)
-	  - Code civil - art. 1601-1 (V)
-	  - Code de l'urbanisme - art. L111-10 (M)
-	  - Code de l'urbanisme - art. L123-17 (V)
-	  - Code de l'urbanisme - art. L123-2 (M)
-	  - Code de l'urbanisme - art. L211-4 (M)
-	  - Code de l'urbanisme - art. L311-2 (Ab)
-	  - Code de la construction et de l'habitation. - art. L302-9-1 (M)
-	  - Code de la construction et de l'habitation. - art. L411-2 (M)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L11-7 (V)
+	  - Loi n°66-455 du 2 juillet 1966 - art. 1
+	  - Ordonnance n°67-837 du 28 septembre 1967
+	  - Loi n°84-595 du 12 juillet 1984
+	  - Loi n°2006-872 du 13 juillet 2006 - art. 1
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 141
+	  - Code de commerce - art. L631-22
 
 	**Cité par**:
 
@@ -9944,11 +9944,7 @@ logements situés dans les périmètres mentionnés au deuxième alinéa du I de
 
 	**Modifié par**:
 
-	  - Loi n°2006-872 du 13 juillet 2006 - art. 1 (V) JORF 16 juillet 2006
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 67 (V)
 
 
 ###### Article L213-2
@@ -11324,30 +11320,16 @@ l'établissement public de coopération intercommunale recouvre son droit de pri
 
 Les actions ou opérations d'aménagement ont pour objets de mettre en oeuvre un projet urbain, une politique locale de
 l'habitat, d'organiser le maintien, l'extension ou l'accueil des activités économiques, de favoriser le développement des
-loisirs et du tourisme, de réaliser des équipements collectifs, de lutter contre l'insalubrité, de permettre le
-renouvellement urbain, de sauvegarder ou de mettre en valeur le patrimoine bâti ou non bâti et les espaces naturels.
+loisirs et du tourisme, de réaliser des équipements collectifs ou des locaux de recherche ou d'enseignement supérieur, de
+lutter contre l'insalubrité, de permettre le renouvellement urbain, de sauvegarder ou de mettre en valeur le patrimoine bâti
+ou non bâti et les espaces naturels.
 
 L'aménagement, au sens du présent livre, désigne l'ensemble des actes des collectivités locales ou des établissements publics
 de coopération intercommunale qui visent, dans le cadre de leurs compétences, d'une part, à conduire ou à autoriser des
 actions ou des opérations définies dans l'alinéa précédent et, d'autre part, à assurer l'harmonisation de ces actions ou de
 ces opérations.
 
-**Nota:**
-
-L'article 41 de l'ordonnance n° 2005-1527 énonce : " La présente ordonnance entrera en vigueur à des dates fixées par décret
-en Conseil d'Etat et au plus tard le 1er juillet 2007. " 
-
-Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
-dans ce même article 26. 
-
-En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
-l'ordonnance au 1er octobre 2007.
-
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 	**Cité par**:
 
@@ -11425,7 +11407,7 @@ l'ordonnance au 1er octobre 2007.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 10 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 67 (VD)
 
 
 ###### Article L300-2
