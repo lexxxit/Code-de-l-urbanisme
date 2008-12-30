@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2008-12-29
+Version Consolidée au 2008-12-31
 
 # Partie législative
 
@@ -53853,6 +53853,64 @@ circonstances de droit et de fait qui motivent la décision et indique les voies
 
 
 ### Titre  II : Dispositions communes aux diverses autorisations et aux déclarations préalables
+
+#### Chapitre  Ier : Champ d'application
+
+###### Article A421-1
+
+La liste des grands camps à l'intérieur desquels les constructions sont dispensées de toute formalité au titre du code
+d'urbanisme en application du b de l'article R. 421-8 est la suivante : 
+
+a) Suippes (Marne et Ardennes) ; 
+
+b) Mailly (Marne et Aube) ; 
+
+c) Mourmelon (Marne) ; 
+
+d) Sissonne (Aisne) ; 
+
+e) Coëtquidan (Morbihan) ; 
+
+f) Garrigues (Gard) ; 
+
+g) Bitche (Moselle) ; 
+
+h) Larzac (Aveyron) ; 
+
+i) Le Valdahon (Doubs) ; 
+
+j) Caylus (Tarn-et-Garonne) ; 
+
+k) La Courtine (Creuse) ; 
+
+l) Canjuers (Var) ; 
+
+m) Fontevrault (Maine-et-Loire) ; 
+
+n) La Valbonne (Ain) ; 
+
+o) Moronvilliers (Marne) ; 
+
+p) Oberhoffen (Bas-Rhin) ; 
+
+q) Satory-casernement (Yvelines).
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 13 décembre 1991 - art. 2 (V)
+	  - Code de l'urbanisme - art. A421-3 (Ab)
+	  - Code de l'urbanisme - art. A520-1 (V)
+
+	**Modifié par**:
+
+	  - Arrêté du 5 décembre 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. *R421-8 (V)
+
 
 #### Chapitre  III : Dépôt et instruction des demandes de permis et des déclarations
 
