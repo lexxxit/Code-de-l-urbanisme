@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2009-01-01
+Version Consolidée au 2009-02-19
 
 # Partie législative
 
@@ -4340,36 +4340,43 @@ L. 123-13. Ce débat est organisé tous les trois ans dès lors que le plan n'a 
 
 ###### Article L123-13
 
-Le plan local d'urbanisme est modifié ou révisé par délibération du conseil municipal après enquête publique.
+Le plan local d'urbanisme est modifié ou révisé par délibération du conseil municipal après enquête publique. 
 
-La procédure de modification est utilisée à condition que la modification envisagée :
+La procédure de modification est utilisée à condition que la modification envisagée : 
 
 a) Ne porte pas atteinte à l'économie générale du projet d'aménagement et de développement durable mentionné au deuxième
-alinéa de l'article L. 123-1 ;
+alinéa de l'article L. 123-1 ; 
 
 b) Ne réduise pas un espace boisé classé, une zone agricole ou une zone naturelle et forestière, ou une protection édictée en
-raison des risques de nuisance, de la qualité des sites, des paysages ou des milieux naturels ;
+raison des risques de nuisance, de la qualité des sites, des paysages ou des milieux naturels ; 
 
-c) Ne comporte pas de graves risques de nuisance.
+c) Ne comporte pas de graves risques de nuisance. 
 
 Le projet de modification est notifié, avant l'ouverture de l'enquête publique, au préfet, au président du conseil régional,
 au président du conseil général et, le cas échéant, au président de l'établissement public prévu à l'article L. 122-4, ainsi
-qu'aux organismes mentionnés à l'article L. 121-4.
+qu'aux organismes mentionnés à l'article L. 121-4. 
+
+Toutefois, lorsque la modification a uniquement pour objet la rectification d'une erreur matérielle ou porte uniquement sur
+des éléments mineurs dont la liste est fixée par décret en Conseil d'Etat, à l'exclusion de modifications sur la destination
+des sols, elle peut, à l'initiative du maire ou du président de l'établissement public de coopération intercommunale
+compétent, être effectuée selon une procédure simplifiée. La modification simplifiée est adoptée par le conseil municipal ou
+par l'organe délibérant de l'établissement public de coopération intercommunale compétent par délibération motivée, après que
+le projet de modification et l'exposé de ses motifs ont été portés à la connaissance du public, en vue de lui permettre de
+formuler des observations, pendant un délai d'un mois préalablement à la convocation de l'assemblée délibérante. 
 
 Dans les autres cas que ceux visés aux a, b et c, le plan local d'urbanisme peut faire l'objet d'une révision selon les
-modalités définies aux articles L. 123-6 à L. 123-12.
+modalités définies aux articles L. 123-6 à L. 123-12. 
 
 Lorsque la révision a pour seul objet la réalisation d'une construction ou d'une opération, à caractère public ou privé,
-présentant un intérêt général notamment pour la commune ou toute autre collectivité ou lorsque la révision a pour objet la
-rectification d'une erreur matérielle, elle peut, à l'initiative du maire, être effectuée selon une procédure simplifiée. La
-révision simplifiée donne lieu à un examen conjoint des personnes publiques associées mentionnées à l'article L. 123-9. Le
-dossier de l'enquête publique est complété par une notice présentant la construction ou l'opération d'intérêt général. Les
-dispositions du présent alinéa sont également applicables à un projet d'extension des zones constructibles qui ne porte pas
-atteinte à l'économie générale du projet d'aménagement et de développement durable et ne comporte pas de graves risques de
-nuisance.
+présentant un intérêt général notamment pour la commune ou toute autre collectivité, elle peut, à l'initiative du maire, être
+effectuée selon une procédure simplifiée. La révision simplifiée donne lieu à un examen conjoint des personnes publiques
+associées mentionnées à l'article L. 123-9. Le dossier de l'enquête publique est complété par une notice présentant la
+construction ou l'opération d'intérêt général. Les dispositions du présent alinéa sont également applicables à un projet
+d'extension des zones constructibles qui ne porte pas atteinte à l'économie générale du projet d'aménagement et de
+développement durable et ne comporte pas de graves risques de nuisance. 
 
 Entre la mise en révision d'un plan local d'urbanisme et l'approbation de cette révision, il peut être décidé une ou
-plusieurs révisions simplifiées et une ou plusieurs modifications.
+plusieurs révisions simplifiées et une ou plusieurs modifications. 
 
 Les procédures nécessaires à une ou plusieurs révisions simplifiées et à une ou plusieurs modifications peuvent être menées
 conjointement.
@@ -4401,19 +4408,15 @@ conjointement.
 
 	**Modifié par**:
 
-	  - Loi n°2003-590 du 2 juillet 2003 - art. 23 () JORF 3 juillet 2003
+	  - Loi n°2009-179 du 17 février 2009 - art. 2
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L121-4 (M)
-	  - Code de l'urbanisme - art. L122-4 (M)
-	  - Code de l'urbanisme - art. L123-1 (M)
-	  - Code de l'urbanisme - art. L123-9 (M)
-	  - Code de l'urbanisme L123-1, L122-4, L121-4, L123-6 à L123-12, L123-9
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+	  - Code de l'urbanisme - art. L121-4
+	  - Code de l'urbanisme - art. L122-4
+	  - Code de l'urbanisme - art. L123-1
+	  - Code de l'urbanisme - art. L123-6
+	  - Code de l'urbanisme - art. L123-9
 
 
 ###### Article L123-13-1
@@ -4649,13 +4652,13 @@ L. 230-1 et suivants.
 
 Lorsque la commune fait partie d'un établissement public de coopération intercommunale compétent en matière de plan local
 d'urbanisme, les dispositions du présent chapitre sont applicables à cet établissement public, qui exerce cette compétence en
-concertation avec chacune des communes concernées.
+concertation avec chacune des communes concernées. 
 
 Le débat prévu au premier alinéa de l'article L. 123-9 est également organisé au sein des conseils municipaux des communes
 couvertes par le projet de plan local d'urbanisme ou concernées par le projet de révision. Le projet arrêté leur est soumis
-pour avis. Cet avis est donné dans un délai de trois mois ; à défaut, il est réputé favorable.
+pour avis. Cet avis est donné dans un délai de trois mois ; à défaut, il est réputé favorable. 
 
-Les maires de ces communes sont invités à participer à l'examen conjoint, prévu au huitième alinéa de l'article L. 123-13 en
+Les maires de ces communes sont invités à participer à l'examen conjoint, prévu au neuvième alinéa de l'article L. 123-13 en
 cas de révision simplifiée du plan local d'urbanisme, et au troisième alinéa de l'article L. 123-16 en cas de mise en
 compatibilité avec une déclaration d'utilité publique ou une déclaration de projet. En cas de modification, le projet leur
 est notifié dans les conditions prévues au sixième alinéa de l'article L. 123-13.
@@ -4664,21 +4667,18 @@ est notifié dans les conditions prévues au sixième alinéa de l'article L. 12
 
 	**Modifié par**:
 
-	  - Loi n°2003-590 du 2 juillet 2003 - art. 24 () JORF 3 juillet 2003
+	  - Loi n°2009-179 du 17 février 2009 - art. 2
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L123-13 (Ab)
-	  - Code de l'urbanisme - art. L123-16 (M)
-	  - Code de l'urbanisme - art. L123-9 (M)
+	  - Code de l'urbanisme - art. L123-13
+	  - Code de l'urbanisme - art. L123-16
+	  - Code de l'urbanisme - art. L123-9
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. L311-7 (VT)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L123-19
@@ -4686,56 +4686,56 @@ est notifié dans les conditions prévues au sixième alinéa de l'article L. 12
 Les plans d'occupation des sols approuvés avant l'entrée en vigueur de la loi n° 2000-1208 du 13 décembre 2000 précitée ont
 les mêmes effets que les plans locaux d'urbanisme. Ils sont soumis au régime juridique des plans locaux d'urbanisme défini
 par les articles L. 123-1-1 à L. 123-18. Les dispositions de l'article L. 123-1, dans leur rédaction antérieure à cette loi,
-leur demeurent applicables.
+leur demeurent applicables. 
 
-Ils peuvent faire l'objet :
+Ils peuvent faire l'objet : 
 
 a) D'une modification lorsqu'il n'est pas porté atteinte à l'économie générale du plan et sous les conditions fixées aux b et
-c de l'article L. 123-13 ;
+c de l'article L. 123-13 ; 
 
-b) D'une révision simplifiée selon les modalités définies par le huitième alinéa de l'article L. 123-13, si cette révision
+b) D'une révision simplifiée selon les modalités définies par le neuvième alinéa de l'article L. 123-13, si cette révision
 est approuvée avant le 1er janvier 2010 sous réserve, lorsque le plan répond aux conditions définies par le 4° de l'article
 L. 121-10, de l'application de la procédure prévue aux articles L. 121-11 et suivants, et si elle a pour seul objet la
 réalisation d'une construction ou d'une opération, à caractère public ou privé, présentant un intérêt général notamment pour
 la commune ou toute autre collectivité, ou la rectification d'une erreur matérielle. L'opération mentionnée à la phrase
 précédente peut également consister en un projet d'extension des zones constructibles qui ne porte pas atteinte à l'économie
-générale du plan d'occupation des sols et ne comporte pas de graves risques de nuisance ;
+générale du plan d'occupation des sols et ne comporte pas de graves risques de nuisance ; 
 
-c) D'une mise en compatibilité selon les modalités définies par l'article L. 123-16.
+c) D'une mise en compatibilité selon les modalités définies par l'article L. 123-16. 
 
 Dans les autres cas, les plans d'occupation des sols peuvent seulement faire l'objet d'une révision dans les conditions
 prévues par le sixième alinéa de l'article L. 123-13. Ils sont alors mis en forme de plan local d'urbanisme, conformément aux
-articles L. 123-1 et suivants.
+articles L. 123-1 et suivants. 
 
 Les plans d'occupation des sols rendus publics avant l'entrée en vigueur de la loi n° 2000-1208 du 13 décembre 2000 précitée
 demeurent opposables dans les conditions définies par le dernier alinéa de l'article L. 123-5 dans sa rédaction antérieure à
 cette loi. Leur approbation reste soumise au régime antérieur à ladite loi à condition qu'elle intervienne dans un délai d'un
-an à compter de l'entrée en vigueur de la loi.
+an à compter de l'entrée en vigueur de la loi. 
 
 Lorsqu'un plan d'occupation des sols est en cours de révision et que le projet de plan d'occupation des sols a été arrêté par
 le conseil municipal avant l'entrée en vigueur de la loi n° 2000-1208 du 13 décembre 2000 précitée, la révision dudit
 document reste soumise au régime antérieur à ladite loi à condition que son approbation intervienne dans un délai d'un an à
-compter de l'entrée en vigueur de la loi.
+compter de l'entrée en vigueur de la loi. 
 
 Lorsqu'un plan d'occupation des sols a été approuvé avant le classement des carrières dans la nomenclature des installations
-classées, seules sont opposables à l'ouverture des carrières les dispositions du plan les visant expressément.
+classées, seules sont opposables à l'ouverture des carrières les dispositions du plan les visant expressément. 
 
 Les délibérations prescrivant l'élaboration ou la révision d'un plan d'occupation des sols en application des articles L.
 123-3 et L. 123-4 dans leur rédaction antérieure à la loi n° 2000-1208 du 13 décembre 2000 précitée valent prescription de
 l'élaboration ou de la révision du plan local d'urbanisme en application des articles L. 123-6 et L. 123-13 dans leur
-rédaction issue de cette loi. L'élaboration ou la révision est soumise au régime juridique défini par le présent chapitre, à
+rédaction issue de cette loi.L'élaboration ou la révision est soumise au régime juridique défini par le présent chapitre, à
 l'exception du cas prévu au septième alinéa. La commune ou l'organe délibérant de l'établissement public de coopération
-intercommunale délibère, en application de l'article L. 300-2, sur les modalités de la concertation avec la population.
+intercommunale délibère, en application de l'article L. 300-2, sur les modalités de la concertation avec la population. 
 
 Les dispositions des plans d'occupation des sols en cours de révision dont l'application anticipée a été décidée avant
 l'entrée en vigueur de la loi n° 2000-1208 du 13 décembre 2000 précitée demeurent applicables jusqu'à l'expiration du délai
-de six mois mentionné au dernier alinéa de l'article L. 123-4 dans sa rédaction antérieure à cette loi.
+de six mois mentionné au dernier alinéa de l'article L. 123-4 dans sa rédaction antérieure à cette loi. 
 
 Lorsqu'un plan d'occupation des sols approuvé avant l'entrée en vigueur de la loi n° 2000-1208 du 13 décembre 2000 précitée
 ou un plan d'occupation des sols approuvé dans le délai d'un an à compter de l'entrée en vigueur de ladite loi en application
 du septième alinéa est annulé pour vice de forme ou de procédure, la commune ou l'établissement public de coopération
 intercommunale compétent peut l'approuver à nouveau, après enquête publique, dans le délai d'un an à compter de la décision
-juridictionnelle qui l'a annulé, sans mettre le plan d'occupation des sols en forme de plan local d'urbanisme.
+juridictionnelle qui l'a annulé, sans mettre le plan d'occupation des sols en forme de plan local d'urbanisme. 
 
 Lorsque plusieurs communes sont dotées sur une partie de leur territoire d'un plan d'occupation des sols partiel couvrant un
 secteur d'aménagement et de développement touristique d'intérêt intercommunal, elles peuvent conserver ce régime et élaborer
@@ -4746,17 +4746,18 @@ des plans locaux d'urbanisme partiels dans les conditions définies par la derni
 
 	**Cite**:
 
-	  - Loi n°2000-1208 2000-12-13
-	  - Code de l'urbanisme - art. L121-10 (M)
-	  - Code de l'urbanisme - art. L121-11 (M)
-	  - Code de l'urbanisme - art. L123-1 (M)
-	  - Code de l'urbanisme - art. L123-13 (Ab)
-	  - Code de l'urbanisme - art. L123-16 (M)
-	  - Code de l'urbanisme - art. L123-3 (M)
-	  - Code de l'urbanisme - art. L123-4 (M)
-	  - Code de l'urbanisme - art. L123-6 (M)
-	  - Code de l'urbanisme - art. L300-2 (M)
-	  - Code de l'urbanisme L123-1-1 à L123-18, L123-1, L123-13, L123-16, L123-3, L123-4, L123-6, L300-2, L121-10, L121-11
+	  - Loi n°2000-1208 du 13 décembre 2000
+	  - Code de l'urbanisme - art. L121-10
+	  - Code de l'urbanisme - art. L121-11
+	  - Code de l'urbanisme - art. L123-1
+	  - Code de l'urbanisme - art. L123-1-1
+	  - Code de l'urbanisme - art. L123-13
+	  - Code de l'urbanisme - art. L123-16
+	  - Code de l'urbanisme - art. L123-3
+	  - Code de l'urbanisme - art. L123-4
+	  - Code de l'urbanisme - art. L123-5
+	  - Code de l'urbanisme - art. L123-6
+	  - Code de l'urbanisme - art. L300-2
 
 	**Cité par**:
 
@@ -4771,11 +4772,7 @@ des plans locaux d'urbanisme partiels dans les conditions définies par la derni
 
 	**Modifié par**:
 
-	  - loi n°2006-450 du 18 avril 2006 - art. 39 (V) JORF 19 avril 2006
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+	  - Loi n°2009-179 du 17 février 2009 - art. 2
 
 
 ###### Article L123-20
@@ -9850,50 +9847,51 @@ Sont soumis au droit de préemption institué par l'un ou l'autre des deux préc
 droits sociaux donnant vocation à l'attribution en propriété ou en jouissance d'un immeuble ou d'une partie d'immeuble, bâti
 ou non bâti, lorsqu'ils sont aliénés, à titre onéreux, sous quelque forme que ce soit, à l'exception de ceux qui sont compris
 dans un plan de cession arrêté en application de l'article L. 631-22 ou des articles L. 642-1 et suivants du code de
-commerce.
+commerce. 
 
 Sont également soumises à ce droit de préemption les cessions de droits indivis portant sur un immeuble ou une partie
 d'immeuble, bâti ou non bâti, sauf lorsqu'elles sont consenties à l'un des coindivisaires, ainsi que les cessions de
-tantièmes contre remise de locaux à construire.
+tantièmes contre remise de locaux à construire. 
 
 En cas d'adjudication, lorsque cette procédure est rendue obligatoire par une disposition législative ou réglementaire,
 l'acquisition par le titulaire du droit de préemption a lieu au prix de la dernière enchère, par substitution à
 l'adjudicataire. Cette disposition n'est toutefois pas applicable à la vente mettant fin à une indivision créée
-volontairement, à moins que celle-ci résulte d'une donation-partage.
+volontairement, à moins que celle-ci résulte d'une donation-partage. 
 
 En cas de contrat de location-accession régi par les dispositions de la loi n° 84-595 du 12 juillet 1984 définissant la
 location-accession à la propriété immobilière, le droit de préemption s'exerce avant la signature de ce contrat et non au
 moment de la levée de l'option par l'accédant. Le délai de dix ans mentionné au a) et au c) de l'article L. 211-4 s'apprécie
-à la date de la signature du contrat.
+à la date de la signature du contrat. 
 
-Ne sont pas soumis au droit de préemption :
+Ne sont pas soumis au droit de préemption : 
 
 a) Les immeubles construits ou acquis par les organismes visés à l'article L. 411-2 du code de la construction et de
 l'habitation et qui sont leur propriété, ainsi que les immeubles construits par les sociétés coopératives d'habitations à
-loyer modéré de location-attribution ;
+loyer modéré de location-attribution ; 
 
 b) Les immeubles qui font l'objet d'un contrat de vente d'immeuble à construire dans les conditions prévues par les articles
-1601-1 et suivants du code civil, sauf lorsque ces dispositions sont appliquées à des bâtiments existants ;
+1601-1 et suivants du code civil, sauf lorsque ces dispositions sont appliquées à des bâtiments existants ; 
 
 c) Les parts ou actions de sociétés d'attribution visées aux titres II et III de la loi n° 71-579 du 16 juillet 1971 relative
 à diverses opérations de construction, qui font l'objet d'une cession avant l'achèvement de l'immeuble ou pendant une période
-de dix ans à compter de son achèvement ;
+de dix ans à compter de son achèvement ; 
 
 d) Les immeubles cédés au locataire en exécution de la promesse de vente insérée dans un contrat de crédit-bail immobilier
 conclu en application du 2° de l'article premier de la loi n° 66-455 du 2 juillet 1966 relative aux entreprises pratiquant le
 crédit-bail, modifiée par l'ordonnance n° 67-837 du 28 septembre 1967 relative aux opérations de crédit-bail et aux sociétés
-immobilières pour le commerce et l'industrie, avec l'une des entreprises visées à l'article 2 de la même loi ;
+immobilières pour le commerce et l'industrie, avec l'une des entreprises visées à l'article 2 de la même loi ; 
 
 e) Les immeubles qui font l'objet d'une mise en demeure d'acquérir en application des articles L. 111-10, L. 123-2, L123-17
-ou L. 311-2 du présent code ou de l'article L. 11-7 du code de l'expropriation pour cause d'utilité publique ;
+ou L. 311-2 du présent code ou de l'article L. 11-7 du code de l'expropriation pour cause d'utilité publique ; 
 
 f) Pendant la durée d'application d'un arrêté préfectoral pris sur le fondement de l'article L. 302-9-1 du code de la
 construction et de l'habitation, l'aliénation d'un immeuble ou d'un terrain destiné à être affecté à une opération ayant fait
-l'objet de la convention prévue au même article ;
+l'objet de la convention prévue au même article ; 
 
 g) L'aliénation par l'Etat ou ses établissements publics de terrains, bâtis ou non bâtis, en vue de la réalisation des
 logements situés dans les périmètres mentionnés au deuxième alinéa du I de l'article 1er de la loi n° 2006-872 du 13 juillet
-2006 portant engagement national pour le logement, tant que les décrets prévus au même alinéa ne sont pas caducs ;
+2006 portant engagement national pour le logement, tant que les décrets prévus au même alinéa ne sont pas caducs ou en vue de
+la réalisation des opérations d'intérêt national mentionnées au premier alinéa de l'article L. 121-2; 
 
 h) Les transferts en pleine propriété des immeubles appartenant à l'Etat ou à ses établissements publics, réalisés
 conformément à l'article 141 de la loi n° 2006-1771 du 30 décembre 2006 de finances rectificative pour 2006.
@@ -9904,10 +9902,21 @@ conformément à l'article 141 de la loi n° 2006-1771 du 30 décembre 2006 de f
 
 	  - Loi n°66-455 du 2 juillet 1966 - art. 1
 	  - Ordonnance n°67-837 du 28 septembre 1967
+	  - Loi n°71-579 du 16 juillet 1971
 	  - Loi n°84-595 du 12 juillet 1984
 	  - Loi n°2006-872 du 13 juillet 2006 - art. 1
 	  - Loi n°2006-1771 du 30 décembre 2006 - art. 141
 	  - Code de commerce - art. L631-22
+	  - Code de commerce - art. L642-1
+	  - Code de l'urbanisme - art. L111-10
+	  - Code de l'urbanisme - art. L121-2
+	  - Code de l'urbanisme - art. L123-17
+	  - Code de l'urbanisme - art. L123-2
+	  - Code de l'urbanisme - art. L211-4
+	  - Code de l'urbanisme - art. L311-2
+	  - Code de la construction et de l'habitation. - art. L302-9-1
+	  - Code de la construction et de l'habitation. - art. L411-2
+	  - Code de l'expropriation pour cause d'utilité publique - art. L11-7
 
 	**Cité par**:
 
@@ -9940,7 +9949,7 @@ conformément à l'article 141 de la loi n° 2006-1771 du 30 décembre 2006 de f
 
 	**Modifié par**:
 
-	  - Loi n°2008-1425 du 27 décembre 2008 - art. 67 (V)
+	  - Loi n°2009-179 du 17 février 2009 - art. 3
 
 
 ###### Article L213-2
@@ -11225,12 +11234,14 @@ trois ans ;
 - à l'aliénation, par l'Etat, les établissements publics visés à l'article 1er de la loi n° 97-135 du 13 février 1997
 précitée, à l'article 18 de la loi n° 82-1153 du 30 décembre 1982 précitée et à l'article 176 du code du domaine public
 fluvial et de la navigation intérieure, ou les établissements publics figurant sur la liste prévue à l'article L. 240-1,
-d'immeubles en vue de réaliser les opérations d'intérêt national mentionnées au deuxième alinéa du I de l'article 1er de la
-loi n° 2006-872 du 13 juillet 2006 portant engagement national pour le logement ;
+d'immeubles en vue de réaliser les opérations d'intérêt national mentionnées au premier alinéa de l'article L. 121-2, y
+compris les opérations ayant ces effets en vertu du deuxième alinéa du I de l'article 1er de la loi n° 2006-872 du 13 juillet
+2006 portant engagement national pour le logement ;
 
 - aux transferts en pleine propriété des immeubles appartenant à l'Etat ou à ses établissements publics, réalisés
 conformément à l'
-article 141 de la loi n° 2006-1771 du 30 décembre 2006 de finances rectificative pour 2006.
+article 141 de la loi n° 2006-1771 du 30 décembre 2006 
+de finances rectificative pour 2006.
 
 A titre exceptionnel, lorsque la restructuration d'un ensemble d'administrations ou de services justifie de procéder à une
 vente groupée de plusieurs immeubles ou droits immobiliers appartenant à l'Etat, les dispositions du présent article
@@ -11240,10 +11251,11 @@ s'appliquent à l'ensemble des biens mis en vente.
 
 	**Cite**:
 
-	  - Loi n°82-1153 du 30 décembre 1982
+	  - Loi n°82-1153 du 30 décembre 1982 - art. 18
 	  - Loi n°97-135 du 13 février 1997 - art. 1
-	  - Loi n°2006-872 du 13 juillet 2006
+	  - Loi n°2006-872 du 13 juillet 2006 - art. 1
 	  - Loi n°2006-1771 du 30 décembre 2006 - art. 141
+	  - Code de l'urbanisme - art. L121-2
 	  - Code de l'urbanisme - art. L240-1
 	  - Code du domaine public fluvial et de la navigation intérieure - art. 176
 
@@ -11256,7 +11268,7 @@ s'appliquent à l'ensemble des biens mis en vente.
 
 	**Modifié par**:
 
-	  - Loi n°2007-1822 du 24 décembre 2007 - art. 51
+	  - Loi n°2009-179 du 17 février 2009 - art. 3
 
 
 ###### Article L240-3
