@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2009-04-05
+Version Consolidée au 2009-05-04
 
 # Partie législative
 
@@ -25473,28 +25473,20 @@ hectares.
 
 ###### Article R*121-15
 
-Le ministre chargé de l'environnement, pour les documents mentionnés aux 1° à 3° du I de l'article R. 121-14, le préfet de
-Corse, pour le document mentionné au 4° du même I et le préfet de département, pour les schémas de cohérence territoriale et
-les plans locaux d'urbanisme mentionnés au II du même article, sont consultés sur l'évaluation environnementale contenue dans
-le rapport de présentation et sur la prise en compte de l'environnement par le projet de document d'urbanisme, trois mois au
-plus tard avant l'ouverture de l'enquête publique ou de la consultation du public prévue par des textes particuliers. L'avis
-est réputé favorable s'il n'intervient pas dans un délai de trois mois. Il est, s'il y a lieu, joint au dossier d'enquête
-publique ou mis à la disposition du public.
+La formation d'autorité environnementale du Conseil général de l'environnement et du développement durable, pour les
+documents mentionnés aux 1° à 3° du I de l'article R. 121-14, le préfet de Corse, pour le document mentionné au 4° du même I
+et le préfet de département, pour les schémas de cohérence territoriale et les plans locaux d'urbanisme mentionnés au II du
+même article, sont consultés sur l'évaluation environnementale contenue dans le rapport de présentation et sur la prise en
+compte de l'environnement par le projet de document d'urbanisme, trois mois au plus tard avant l'ouverture de l'enquête
+publique ou de la consultation du public prévue par des textes particuliers.L'avis est réputé favorable s'il n'intervient pas
+dans un délai de trois mois. Il est, s'il y a lieu, joint au dossier d'enquête publique ou mis à la disposition du public. 
 
-Avant de rendre son avis, le préfet de Corse consulte le conseil des sites de Corse.
+Avant de rendre son avis, le préfet de Corse consulte le conseil des sites de Corse. 
 
 Lorsque le préfet est consulté, l'avis est préparé, sous son autorité, par le service régional de l'environnement concerné en
 liaison avec les services de l'Etat compétents.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°2005-608 du 27 mai 2005 - art. 2 () JORF 29 mai 2005
 
 	**Cité par**:
 
@@ -25502,9 +25494,13 @@ liaison avec les services de l'Etat compétents.
 	  - Décret n°2009-496 du 30 avril 2009 - art. 6 (V)
 	  - Code de l'urbanisme - art. R*121-14-1 (VT)
 
+	**Modifié par**:
+
+	  - Décret n°2009-496 du 30 avril 2009 - art. 5
+
 	**Cite**:
 
-	  - Code de l'urbanisme R121-14
+	  - Code de l'urbanisme - art. R*121-14
 
 
 ###### Article R*121-16
