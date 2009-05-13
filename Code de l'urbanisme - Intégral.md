@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2009-05-04
+Version Consolidée au 2009-05-14
 
 # Partie législative
 
@@ -122,32 +122,40 @@ des territoires. Elles fixent les principaux objectifs de l'Etat en matière de 
 transport et des grands équipements, ainsi qu'en matière de préservation des espaces naturels, des sites et des paysages. Ces
 directives peuvent également préciser pour les territoires concernés les modalités d'application des dispositions
 particulières aux zones de montagne et au littoral figurant aux chapitres V et VI du titre IV du présent livre, adaptées aux
-particularités géographiques locales.
+particularités géographiques locales. 
 
 Les directives territoriales d'aménagement sont élaborées sous la responsabilité de l'Etat, à son initiative ou, le cas
-échéant, sur la demande d'une région, après consultation du conseil économique et social régional.
+échéant, sur la demande d'une région, après consultation du conseil économique et social régional. 
 
 Les projets de directives sont élaborés en association avec les régions, les départements, les communes chefs-lieux
 d'arrondissement ainsi que les communes de plus de 20 000 habitants et les groupements de communes compétents en matière
 d'aménagement de l'espace ou d'urbanisme intéressés et les comités de massifs. Leur avis est réputé favorable s'il n'est pas
 intervenu dans un délai de trois mois à compter de leur saisine. Ces projets sont soumis à enquête publique dans des
 conditions prévues par décret. Les directives éventuellement modifiées pour tenir compte de ces avis sont approuvées par
-décret en Conseil d'Etat.
+décret en Conseil d'Etat. 
 
 Les schémas de cohérence territoriale et les schémas de secteur doivent être compatibles avec les directives territoriales
 d'aménagement et avec les prescriptions particulières prévues par le III de l'article L. 145-7. En l'absence de ces
 documents, ils doivent être compatibles avec les dispositions particulières aux zones de montagne et au littoral des articles
-L. 145-1 et suivants et L. 146-1 et suivants.
+L. 145-1 et suivants et L. 146-1 et suivants. 
 
 Les plans locaux d'urbanisme, les cartes communales ou les documents en tenant lieu doivent être compatibles avec les
 orientations des schémas de cohérence territoriale et des schémas de secteur. En l'absence de ces schémas, ils doivent être
 compatibles avec les directives territoriales d'aménagement et avec les prescriptions particulières prévues par le III de
 l'article L. 145-7. En l'absence de ces documents, ils doivent être compatibles avec les dispositions particulières aux zones
-de montagne et au littoral des articles L. 145-1 et suivants et L. 146-1 et suivants.
+de montagne et au littoral des articles L. 145-1 et suivants et L. 146-1 et suivants. 
 
 Les dispositions des directives territoriales d'aménagement qui précisent les modalités d'application des articles L. 145-1
 et suivants sur les zones de montagne et des articles L. 146-1 et suivants sur les zones littorales s'appliquent aux
-personnes et opérations qui y sont mentionnées.
+personnes et opérations qui y sont mentionnées. 
+
+Une directive territoriale d'aménagement peut être modifiée par le représentant de l'Etat dans la région ou, en Corse, par le
+représentant de l'Etat dans la collectivité territoriale de Corse lorsque la modification ne porte pas atteinte à l'économie
+générale de la directive. Le projet de modification est soumis par le représentant de l'Etat dans le département à enquête
+publique dans les conditions définies par le chapitre III du titre II du livre Ier du code de l'environnement. Lorsque la
+modification ne porte que sur un ou plusieurs établissements publics de coopération intercommunale compétents en matière de
+plan local d'urbanisme ou sur une ou plusieurs communes non membres d'un tel établissement public, l'enquête publique peut
+n'être organisée que sur le territoire de ces établissements publics ou de ces communes.
 
 **Liens relatifs à cet article**
 
@@ -223,16 +231,11 @@ personnes et opérations qui y sont mentionnées.
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 11 () JORF 14 décembre 2000
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
+	  - Loi n°2009-526 du 12 mai 2009 - art. 102
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L145-1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+	  - Code de l'urbanisme - art. L145-1 (V)
 
 
 ###### Article L111-1-2
@@ -429,9 +432,9 @@ des décrets en Conseil d'Etat.
 
 ###### Article L111-3
 
-La reconstruction à l'identique d'un bâtiment détruit par un sinistre est autorisée nonobstant toute disposition d'urbanisme
-contraire, sauf si la carte communale ou le plan local d'urbanisme en dispose autrement, dès lors qu'il a été régulièrement
-édifié.
+La reconstruction à l'identique d'un bâtiment détruit ou démoli depuis moins de dix ans est autorisée nonobstant toute
+disposition d'urbanisme contraire, sauf si la carte communale ou le plan local d'urbanisme en dispose autrement, dès lors
+qu'il a été régulièrement édifié. 
 
 Peut également être autorisée, sauf dispositions contraires des documents d'urbanisme et sous réserve des dispositions de
 l'article L. 421-5, la restauration d'un bâtiment dont il reste l'essentiel des murs porteurs lorsque son intérêt
@@ -442,12 +445,11 @@ bâtiment.
 
 	**Modifié par**:
 
-	  - Loi n°2003-590 du 2 juillet 2003 - art. 1 () JORF 3 juillet 2003
+	  - Loi n°2009-526 du 12 mai 2009 - art. 9
 
 	**Anciens textes**:
 
 	  - Code de l'urbanisme - art. L110-3 (T)
-	  - Code de l'urbanisme 92
 
 	**Cité par**:
 
@@ -460,11 +462,7 @@ bâtiment.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L421-5 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+	  - Code de l'urbanisme - art. L421-5 (V)
 
 
 ###### Article L111-3-1
@@ -15701,51 +15699,49 @@ par les conventions visées à l'article L. 332-11-3 ;
 
 ###### Article L332-6-1
 
-Les contributions aux dépenses d'équipements publics prévus au 2° de l'article L. 332-6 sont les suivantes :
+Les contributions aux dépenses d'équipements publics prévus au 2° de l'article L. 332-6 sont les suivantes : 
 
-1° a) (Abrogé) ;
+1° a) (Abrogé) ; 
 
-b) (Abrogé) ;
+b) (Abrogé) ; 
 
-c) La taxe départementale des espaces naturels sensibles prévue à l'article L. 142-2 ;
+c) La taxe départementale des espaces naturels sensibles prévue à l'article L. 142-2 ; 
 
 d) La taxe pour le financement des dépenses des conseils d'architecture, d'urbanisme et de l'environnement prévue à l'article
-1599 B du code général des impôts ;
+1599 B du code général des impôts ; 
 
-e) La taxe spéciale d'équipement prévue à l'article 1599-0 B du code général des impôts.
+e) La taxe spéciale d'équipement prévue à l'article 1599-0 B du code général des impôts. 
 
 2° a) La participation pour raccordement à l'égout prévue à l'article L. 1331-7 code de la santé publique ;
 
-b) La participation destinée à la réalisation de parcs publics de stationnement prévue au troisième alinéa de l'article L.
-421-3 ;
+b) La participation destinée à la réalisation de parcs publics de stationnement prévue à l'article L. 332-7-1 ; 
 
-c) La participation spécifique pour la réalisation d'équipements publics exceptionnels prévue à l'article L. 332-8 ;
+c) La participation spécifique pour la réalisation d'équipements publics exceptionnels prévue à l'article L. 332-8 ; 
 
-d) La participation pour voirie et réseaux prévue à l'article L. 332-11-1 ;
+d) La participation pour voirie et réseaux prévue à l'article L. 332-11-1 ; 
 
 e) Les cessions gratuites de terrains destinés à être affectés à certains usages publics qui, dans la limite de 10 % de la
 superficie du terrain auquel s'applique la demande, peuvent être exigées des bénéficiaires d'autorisations portant sur la
-création de nouveaux bâtiments ou de nouvelles surfaces construites ;
+création de nouveaux bâtiments ou de nouvelles surfaces construites ; 
 
 3° La participation des riverains prévue par la législation applicable dans les départements du Haut-Rhin, du Bas-Rhin et de
 la Moselle, celle-ci pouvant être actualisée pour tenir compte du délai écoulé entre la date de réalisation des travaux
 concernés et le montant de perception de cette participation. Elle peut également inclure les frais de premier établissement
 de l'éclairage public.
 
-**Nota:**
-
-Le renvoi vers l'article L421-3 doit désormais se faire vers l'article L332-7-1 du code de l'urbanisme.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 1599 B, 1599-0 B
-	  - Code de la santé publique - art. L1331-7 (M)
-	  - Code de l'urbanisme - art. L142-2 (M)
-	  - Code de l'urbanisme - art. L332-11-1 (M)
-	  - Code de l'urbanisme - art. L332-8 (M)
-	  - Code de l'urbanisme - art. L421-3 (M)
+	  - Code général des impôts, CGI. - art. 1599 B (V)
+	  - Code général des impôts, CGI. - art. 1599-0 B (V)
+	  - Code de la santé publique - art. L1331-7
+	  - Code de l'urbanisme - art. L*142-2 (V)
+	  - Code de l'urbanisme - art. L332-11-1
+	  - Code de l'urbanisme - art. L332-7-1 (V)
+	  - Code de l'urbanisme - art. L332-8 (V)
+	  - Code de l'urbanisme - art. L421-3
 
 	**Cité par**:
 
@@ -15756,7 +15752,7 @@ Le renvoi vers l'article L421-3 doit désormais se faire vers l'article L332-7-1
 	  - Code de l'urbanisme - art. L332-12 (V)
 	  - Code de l'urbanisme - art. L332-28 (M)
 	  - Code de l'urbanisme - art. L332-6 (V)
-	  - Code de l'urbanisme - art. L332-6-1 (M)
+	  - Code de l'urbanisme - art. L332-6-1 (V)
 	  - Code de l'urbanisme - art. R*160-5 (Ab)
 	  - Code de l'urbanisme - art. R*315-1 (Ab)
 	  - Code de l'urbanisme - art. R*421-15 (M)
@@ -15778,11 +15774,7 @@ Le renvoi vers l'article L421-3 doit désormais se faire vers l'article L332-7-1
 
 	**Modifié par**:
 
-	  - Loi n°2003-590 du 2 juillet 2003 - art. 53 () JORF 3 juillet 2003
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+	  - Loi n°2009-526 du 12 mai 2009 - art. 117
 
 
 ###### Article L332-7
@@ -16339,15 +16331,17 @@ L'autorité qui délivre l'autorisation de construire, d'aménager, ou de lotir 
 celle-ci la réalisation et le financement de tous travaux nécessaires à la viabilité et à l'équipement de la construction, du
 terrain aménagé ou du lotissement, notamment en ce qui concerne la voirie, l'alimentation en eau, gaz et électricité, les
 réseaux de télécommunication, l'évacuation et le traitement des eaux et matières usées, l'éclairage, les aires de
-stationnement, les espaces collectifs, les aires de jeux et les espaces plantés. Toutefois, en ce qui concerne le réseau
-électrique, le bénéficiaire du permis ou de la décision de non-opposition est redevable de la part de la contribution prévue
-au troisième alinéa du II de l'article 4 de la loi n° 2000-108 du 10 février 2000 relative à la modernisation et au
-développement du service public de l'électricité, correspondant au branchement et à la fraction de l'extension du réseau
-située sur le terrain d'assiette de l'opération, au sens de cette même loi et des textes pris pour son application. 
+stationnement, les espaces collectifs, les aires de jeux et les espaces plantés. 
 
 Les obligations imposées par l'alinéa ci-dessus s'étendent au branchement des équipements propres à l'opération sur les
 équipements publics qui existent au droit du terrain sur lequel ils sont implantés et notamment aux opérations réalisées à
-cet effet en empruntant des voies privées ou en usant de servitudes.
+cet effet en empruntant des voies privées ou en usant de servitudes. 
+
+Toutefois, en ce qui concerne le réseau électrique, le bénéficiaire du permis ou de la décision de non-opposition est
+redevable de la part de la contribution prévue au troisième alinéa du II de l'article 4 de la loi n° 2000-108 du 10 février
+2000 (1) relative à la modernisation et au développement du service public de l'électricité, correspondant au branchement et
+à la fraction de l'extension du réseau située sur le terrain d'assiette de l'opération, au sens de cette même loi et des
+textes pris pour son application. 
 
 L'autorisation peut également, avec l'accord du demandeur et dans les conditions définies par l'autorité organisatrice du
 service public de l'eau ou de l'électricité, prévoir un raccordement aux réseaux d'eau ou d'électricité empruntant, en tout
@@ -16356,16 +16350,22 @@ correspondants, dimensionnés pour correspondre exclusivement aux besoins du pro
 d'autres constructions existantes ou futures. 
 
 En cas de classement ultérieur dans la voirie et les réseaux publics, les travaux exigés au titre des équipements propres
-n'ouvrant pas droit à l'action en répétition prévue à l'article L. 332-6.
+n'ouvrant pas droit à l'action en répétition prévue à l'article L. 332-30. 
 
 L'autorité qui approuve le plan de remembrement peut imposer les mêmes obligations aux associations foncières urbaines de
 remembrement autorisées ou constituées d'office.
+
+**Nota:**
+
+L'article 4 de la loi n° 2000-108 du 10 février 2000 a été abrogé par l'article 4 de l'ordonnance n° 2011-504 du 9 mai 2011
+et codifié au code de l'énergie.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°2000-108 du 10 février 2000 - art. 4
+	  - Loi n°2000-108 du 10 février 2000 - art. 4 (V)
+	  - Code de l'urbanisme - art. L332-30 (V)
 
 	**Cité par**:
 
@@ -16379,7 +16379,7 @@ remembrement autorisées ou constituées d'office.
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 167
+	  - Loi n°2009-526 du 12 mai 2009 - art. 117
 
 
 ###### Article L332-16
@@ -16463,10 +16463,10 @@ de l'urbanisme.
 
 ###### Article L332-29
 
-Les contributions prescrites par l'autorisation ou l'acte mentionné à l'article L. 332-28 ainsi que celles exigées dans le
-cadre de la réalisation des zones d'aménagement concerté ou des projets urbains partenariaux sont inscrites sur un registre
-mis à la disposition du public en mairie. Un décret en Conseil d'Etat détermine, en tant que de besoin, les modalités
-d'application du présent article.
+Les contributions prescrites par les actes mentionnés à l'article L. 332-28 ainsi que celles exigées dans le cadre de la
+réalisation des zones d'aménagement concerté ou des projets urbains partenariaux sont inscrites sur un registre mis à la
+disposition du public en mairie. Un décret en Conseil d'Etat détermine, en tant que de besoin, les modalités d'application du
+présent article.
 
 **Liens relatifs à cet article**
 
@@ -16479,7 +16479,7 @@ d'application du présent article.
 
 	**Modifié par**:
 
-	  - Loi n°2009-323 du 25 mars 2009 - art. 43
+	  - Loi n°2009-526 du 12 mai 2009 - art. 117
 
 	**Cite**:
 
@@ -16490,14 +16490,14 @@ d'application du présent article.
 
 Les taxes et contributions de toute nature qui sont obtenues ou imposées en violation des dispositions des articles L. 311-4
 et L. 332-6 sont réputées sans cause ; les sommes versées ou celles qui correspondent au coût de prestations fournies sont
-sujettes à répétition.L'action en répétition se prescrit par cinq ans à compter du dernier versement ou de l'obtention des
+sujettes à répétition. L'action en répétition se prescrit par cinq ans à compter du dernier versement ou de l'obtention des
 prestations indûment exigées. 
 
-Les acquéreurs successifs de biens ayant fait l'objet des autorisations mentionnées à l'article L. 332-28 ou situés dans une
-zone d'aménagement concerté ou dans une zone couverte par une convention de projet urbain partenarial peuvent également
-exercer l'action en répétition prévue à l'alinéa précédent. Pour ces personnes, l'action en répétition se prescrit par cinq
-ans à compter de l'inscription sur le registre prévu à l'article L. 332-29 attestant que le dernier versement a été opéré ou
-la prestation obtenue. 
+Les acquéreurs successifs de biens ayant fait l'objet des actes mentionnés à l'article L. 332-28 ou situés dans une zone
+d'aménagement concerté ou dans une zone couverte par une convention de projet urbain partenarial peuvent également exercer
+l'action en répétition prévue à l'alinéa précédent. Pour ces personnes, l'action en répétition se prescrit par cinq ans à
+compter de l'inscription sur le registre prévu à l'article L. 332-29 attestant que le dernier versement a été opéré ou la
+prestation obtenue. 
 
 Les sommes à rembourser au titre des deux alinéas précédents portent intérêt au taux légal majoré de cinq points.
 
@@ -16505,12 +16505,13 @@ Les sommes à rembourser au titre des deux alinéas précédents portent intér�
 
 	**Modifié par**:
 
-	  - Loi n°2009-323 du 25 mars 2009 - art. 43
+	  - Loi n°2009-526 du 12 mai 2009 - art. 117
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L311-4
 	  - Code de l'urbanisme - art. L332-28
+	  - Code de l'urbanisme - art. L332-29 (V)
 	  - Code de l'urbanisme - art. L332-6
 
 	**Cité par**:
@@ -20063,10 +20064,10 @@ déclarations préalables.
 
 ###### Article L480-4-1
 
-Est puni d'une amende de 18 000 euros et, en cas de récidive, d'une amende de 45 000 euros le fait de vendre ou de louer des
-terrains bâtis ou non bâtis compris dans un lotissement sans avoir obtenu un permis d'aménager ou sans avoir respecté les
-obligations imposées par l'article L. 442-3, lorsque le lotissement est soumis à une déclaration préalable, ou sans s'être
-conformé aux prescriptions imposées par le permis d'aménager ou par la décision prise sur la déclaration préalable.
+Est puni d'une amende de 15 000 euros le fait de vendre ou de louer des terrains bâtis ou non bâtis compris dans un
+lotissement sans avoir obtenu un permis d'aménager ou sans avoir respecté les obligations imposées par l'article L. 442-3,
+lorsque le lotissement est soumis à une déclaration préalable, ou sans s'être conformé aux prescriptions imposées par le
+permis d'aménager ou par la décision prise sur la déclaration préalable. 
 
 Lorsque les prescriptions imposées n'ont pas été respectées, le tribunal peut en outre impartir un délai au lotisseur pour
 mettre les travaux en conformité avec lesdites prescriptions, sous peine d'une astreinte prononcée et exécutée dans les
@@ -20077,26 +20078,18 @@ faire effectuer les travaux d'office, aux frais et risques financiers de l'amén
 
 **Nota:**
 
-L'article 41 de l'ordonnance n° 2005-1527 énonce : " La présente ordonnance entrera en vigueur à des dates fixées par décret
-en Conseil d'Etat et au plus tard le 1er juillet 2007. " 
 
-Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
-dans ce même article 26. 
-
-En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
-l'ordonnance au 1er octobre 2007.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 18 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+	  - Loi n°2009-526 du 12 mai 2009 - art. 123
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L442-3 (V)
-	  - Code de l'urbanisme - art. L480-7 (M)
-	  - Code de l'urbanisme - art. L480-8 (M)
+	  - Code de l'urbanisme - art. L480-7 (V)
 
 	**Nouveaux textes**:
 
@@ -20106,10 +20099,6 @@ l'ordonnance au 1er octobre 2007.
 
 	  - Code de l'urbanisme - art. L480-4-2 (V)
 	  - Code de l'urbanisme - art. L740-6 (VT)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L480-4-2
@@ -20860,42 +20849,34 @@ redevance ne peut excéder le seuil des montants prévus au 3° de l'article R. 
 ###### Article L520-2
 
 La redevance est due par la personne physique ou morale qui est propriétaire des locaux à la date de l'émission de l'avis de
-mise en recouvrement. L'avis de mise en recouvrement doit être émis dans les deux ans qui suivent soit la délivrance du
-permis de construire, soit le dépôt des déclarations prévues par les articles L. 520-9 et R. 422-3, soit, à défaut, le début
-des travaux.
+mise en recouvrement.L'avis de mise en recouvrement doit être émis dans les deux ans qui suivent soit la délivrance du permis
+de construire, soit la non-opposition à la déclaration préalable prévue à l'article L. 421-4, soit le dépôt de la déclaration
+prévue à l'article L. 520-9, soit, à défaut, le début des travaux. 
 
 Si l'avis de mise en recouvrement est émis avant l'achèvement de la construction, il peut être établi au nom du maître de
 l'ouvrage qui pourra demander remboursement de son montant au propriétaire des locaux.
 
 A défaut de paiement par les débiteurs désignés aux alinéas précédents, le recouvrement peut être poursuivi sur les
-propriétaires successifs des locaux.
+propriétaires successifs des locaux. 
 
 Toutefois, ces poursuites ne peuvent être engagées après l'expiration d'un délai d'un an à compter de la déclaration
 d'achèvement des travaux ou de la constatation de l'achèvement de ces travaux.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°60-790 1960-08-02 art. 2
-
-	**Modifié par**:
-
-	  - Loi n°82-1020 1982-12-03 art. 2, art. 3 JORF 4 décembre 1982
-
 	**Cité par**:
 
 	  - Loi n°94-112 du 9 février 1994 - art. 12 (V)
 	  - Code de l'urbanisme - art. L520-8 (M)
 
+	**Modifié par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 117
+
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L520-9 (M)
-	  - Code de l'urbanisme L520-9, R422-3
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+	  - Code de l'urbanisme - art. L421-4 (V)
+	  - Code de l'urbanisme - art. L520-9 (V)
 
 
 ###### Article L520-3
@@ -20966,31 +20947,28 @@ industrielles ou tertiaires.
 ###### Article L520-5
 
 La redevance est calculée sur la surface utile de plancher prévue pour la construction ; son montant est arrêté par décision
-de l'autorité administrative.
+de l'autorité administrative. 
 
 La redevance est réduite à la demande du redevable si celui-ci établit que la surface de plancher prévue n'a pas été
-entièrement construite.
+entièrement construite. 
 
 Elle est supprimée, à la demande du redevable, si celui-ci établit que la construction n'a pas été entreprise et s'il renonce
-au bénéfice du permis de construire ou de la déclaration prévue par l'article R. 422-3.
+au bénéfice du permis de construire ou de la non-opposition à la déclaration préalable prévue par l'article L. 421-4. 
 
-Les litiges relatifs à l'assiette et à la liquidation de la redevance sont de la compétence des tribunaux administratifs.
+Les litiges relatifs à l'assiette et à la liquidation de la redevance sont de la compétence des tribunaux administratifs. 
 
 La redevance est recouvrée par l'administration des domaines dans les mêmes conditions que les créances domaniales.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code de l'urbanisme R422-3
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
 	**Modifié par**:
 
-	  - Loi n°82-1020 1982-12-03 art. 6 JORF 4 décembre 1982
+	  - Loi n°2009-526 du 12 mai 2009 - art. 117
+
+	**Cite**:
+
+	  - Code de l'urbanisme
+	  - Code de l'urbanisme - art. L421-4 (V)
 
 
 ###### Article L520-6
