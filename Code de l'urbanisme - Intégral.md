@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2009-06-13
+Version Consolidée au 2009-06-21
 
 # Partie législative
 
@@ -25472,41 +25472,37 @@ liaison avec les services de l'Etat compétents.
 ###### Article R*121-16
 
 Sont dispensées de l'évaluation environnementale, à condition qu'elles n'aient pas pour objet d'autoriser la réalisation de
-travaux, ouvrages ou aménagements mentionnés à l'article L. 414-4 du code de l'environnement :
+travaux, ouvrages ou aménagements mentionnés à l'article L. 414-4 du code de l'environnement : 
 
 1° Les modifications et révisions des documents d'urbanisme mentionnés aux 1° à 4° de l'article R. 121-14 qui ne portent pas
-atteinte à l'économie générale du document ;
+atteinte à l'économie générale du document ; 
 
 2° Les modifications et les mises en compatibilité des schémas de cohérence territoriale prévues au deuxième alinéa de
-l'article L. 122-13 et à l'article L. 122-15 ;
+l'article L. 122-13 et à l'article L. 122-15 ; 
 
-3° Les modifications des plans locaux d'urbanisme ainsi que les révisions simplifiées prévues aux deuxième et huitième
-alinéas de l'article L. 123-13 et les mises en compatibilité prévues à l'article L. 123-16, à l'exception :
+3° Les modifications des plans locaux d'urbanisme ainsi que les révisions simplifiées prévues aux deuxième et neuvième
+alinéas de l'article L. 123-13 et les mises en compatibilité prévues à l'article L. 123-16, à l'exception : 
 
 a) Des modifications ou révisions simplifiées concernant des opérations ou travaux mentionnés au c du 2° du II de l'article
-R. 121-14 ;
+R. 121-14 ; 
 
 b) Des révisions simplifiées créant, dans des secteurs agricoles ou naturels, des zones U ou AU d'une superficie supérieure à
 celles qui sont mentionnées au b et d du 2° du II de l'article R. 121-14.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-608 du 27 mai 2005 - art. 2 () JORF 29 mai 2005
+	  - Décret n°2009-722 du 18 juin 2009 - art. 3
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L122-13 (M)
-	  - Code de l'urbanisme - art. L122-15 (M)
-	  - Code de l'urbanisme - art. L123-13 (Ab)
-	  - Code de l'urbanisme - art. L123-16 (M)
-	  - Code de l'urbanisme R121-14, L122-13, L122-15, L123-13, L123-16
-	  - Code de l'environnement - art. L414-4 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
+	  - Code de l'urbanisme - art. L122-13
+	  - Code de l'urbanisme - art. L122-15 (V)
+	  - Code de l'urbanisme - art. L123-13 (V)
+	  - Code de l'urbanisme - art. L123-16 (V)
+	  - Code de l'urbanisme - art. R*121-14
+	  - Code de l'environnement - art. L414-4
 
 
 ###### Article R*121-17
@@ -27236,6 +27232,70 @@ de cette personne publique.
 	  - Code de l'urbanisme - art. L123-15 (VT)
 
 
+###### Article R*123-20-1
+
+La procédure de modification simplifiée prévue au septième alinéa de l'article L. 123-13 peut être utilisée pour : 
+
+a) Rectifier une erreur matérielle ; 
+
+b) Augmenter, dans la limite de 20 %, le coefficient d'emprise au sol, le coefficient d'occupation des sols ou la hauteur
+maximale des constructions, ainsi que les plafonds dans lesquels peut être autorisée l'extension limitée des constructions
+existantes ; 
+
+c) Diminuer les obligations de recul des constructions par rapport aux limites de leur terrain d'assiette ou par rapport aux
+autres constructions situées sur le même terrain ; 
+
+d) Diminuer, dans la limite de 20 %, la superficie minimale des terrains constructibles ; 
+
+e) Supprimer des règles qui auraient pour objet ou pour effet d'interdire l'installation de systèmes domestiques solaires
+thermiques ou photovoltaïques ou de tout autre dispositif individuel de production d'énergie renouvelable, l'utilisation en
+façade du bois ou de tout autre matériau renouvelable permettant d'éviter des émissions de gaz à effet de serre ou la pose de
+toitures végétalisées ou retenant les eaux pluviales ; 
+
+f) Supprimer un ou plusieurs emplacements réservés ou réduire leur emprise. 
+
+Ces modifications ne peuvent avoir pour objet ou pour effet de porter atteinte aux prescriptions édictées en application du
+7° de l'article L. 123-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-722 du 18 juin 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L123-1
+	  - Code de l'urbanisme - art. L123-13 (V)
+
+
+###### Article R*123-20-2
+
+Un avis précisant l'objet de la modification simplifiée, le lieu et les heures où le public pourra consulter le dossier et
+formuler des observations est publié en caractères apparents dans un journal diffusé dans le département et affiché en mairie
+ou au siège de l'établissement public compétent et, dans ce cas, dans les mairies des communes membres concernées.L'avis est
+publié huit jours au moins avant le début de la mise à disposition du public et affiché dans le même délai et pendant toute
+la durée de la mise à disposition. 
+
+Le projet de modification, l'exposé de ses motifs, ainsi que le registre permettant au public de formuler ses observations,
+sont mis à sa disposition en mairie ou au siège de l'établissement public compétent et, dans ce cas, dans les mairies des
+communes membres concernées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-722 du 18 juin 2009 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2009-722 du 18 juin 2009 - art. 2 (V)
+	  - Code de l'urbanisme - art. R*111-50-1 (V)
+	  - Code de l'urbanisme - art. R*123-20-3 (Ab)
+	  - Code de l'urbanisme - art. R*127-1 (Ab)
+	  - Code de l'urbanisme - art. R*128-1 (Ab)
+
+
 ###### Article R*123-21
 
 Lorsqu'il engage la procédure de révision dans les conditions prévues aux deuxième et troisième alinéas de l'article L.
@@ -27275,50 +27335,40 @@ articles R. 123-15 à R. 123-19.
 
 ###### Article R*123-21-1
 
-Lorsqu'il décide d'engager une procédure de révision simplifiée en application du huitième alinéa de l'article L. 123-13, le
+Lorsqu'il décide d'engager une procédure de révision simplifiée en application du neuvième alinéa de l'article L. 123-13, le
 maire ou le président de l'établissement public de coopération intercommunale compétent saisit le conseil municipal ou
 l'organe délibérant de l'établissement public qui délibère sur les objectifs poursuivis et les modalités de la concertation
-conformément à l'article L. 300-2.
+conformément à l'article L. 300-2. 
 
 Le débat prévu à l'article L. 123-9 peut avoir lieu au cours de la même séance lorsque la révision implique de changer les
 orientations du projet d'aménagement et de développement durable.
 
 L'examen conjoint des personnes publiques associées a lieu, à l'initiative du maire ou du président de l'établissement
 public, avant l'ouverture de l'enquête publique. Lorsqu'une association mentionnée à l'article L. 121-5 demande à être
-consultée, son président adresse la demande au maire ou au président de l'établissement public.
+consultée, son président adresse la demande au maire ou au président de l'établissement public. 
 
 Le projet de révision simplifiée, accompagné du procès-verbal de la réunion d'examen conjoint, est soumis à l'enquête
 publique par le maire ou par le président de l'établissement public dans les formes prévues par les articles R. 123-7 à R.
 123-23 du code de l'environnement. Le maire ou le président de l'établissement public exerce les compétences attribuées au
 préfet par les articles attribuées au préfet par les articles R. 123-7, R. 123-8, R. 123-13, R. 123-14, R. 123-18 et R.
-123-20 à R. 123-23 de ce code.
+123-20 à R. 123-23 de ce code. 
 
 La délibération qui approuve la révision du plan local d'urbanisme peut simultanément tirer le bilan de la concertation
 organisée en application du sixième alinéa de l'article L. 300-2.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
-
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L121-5 (M)
-	  - Code de l'urbanisme - art. L123-13 (Ab)
-	  - Code de l'urbanisme - art. L123-9 (M)
-	  - Code de l'urbanisme - art. L300-2 (M)
-	  - Code de l'environnement - art. R123-13 (M)
-	  - Code de l'environnement - art. R123-14 (V)
-	  - Code de l'environnement - art. R123-18 (V)
-	  - Code de l'environnement - art. R123-20 (V)
-	  - Code de l'environnement - art. R123-23 (V)
-	  - Code de l'environnement - art. R123-7 (V)
-	  - Code de l'environnement - art. R123-8 (V)
+	  - Ordonnance no 90-571 du 25 juin 1990 portant extension et adaptation de    dispositions du code de l'urbanisme dans la collectivité territoriale de    Mayotte - art. L121-5
+	  - Code de l'urbanisme - art. L123-13
+	  - Code de l'urbanisme - art. L123-9
+	  - Code de l'urbanisme - art. L300-2
+	  - Code de l'urbanisme - art. R*123-7
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°73-1023 1973-11-08
+	  - Décret n°2009-722 du 18 juin 2009 - art. 3
 
 
 ###### Article R*123-22
@@ -44368,14 +44418,15 @@ c) Trois mois pour les autres demandes de permis de construire et pour les deman
 
 Le délai d'instruction de droit commun prévu par l'article R. 423-23 est majoré d'un mois lorsque le projet est soumis, dans
 les conditions mentionnées au chapitre V, à un régime d'autorisation ou à des prescriptions prévus par d'autres législations
-ou réglementations que le code de l'urbanisme ou lorsque le projet est situé dans un secteur sauvegardé dont le périmètre a
-été délimité.
+ou réglementations que le code de l'urbanisme, lorsque la décision nécessite une dérogation en application des troisième,
+quatrième et cinquième alinéas de l'article L. 123-5 du code de l'urbanisme ou lorsque le projet est situé dans un secteur
+sauvegardé dont le périmètre a été délimité.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+	  - Décret n°2009-723 du 18 juin 2009 - art. 1
 
 	**Cité par**:
 
@@ -44387,9 +44438,10 @@ ou réglementations que le code de l'urbanisme ou lorsque le projet est situé d
 	  - Code de l'urbanisme - art. R*423-44 (V)
 	  - Code de l'urbanisme - art. R*423-5 (V)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°73-1023 1973-11-08
+	  - Code de l'urbanisme - art. L123-5
+	  - Code de l'urbanisme - art. R*423-23
 
 
 ###### Article R*423-25
@@ -48170,6 +48222,27 @@ l'article R. 123-22 du même code.
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R*431-31
+
+Lorsque le projet est accompagné d'une demande de dérogation au titre du cinquième alinéa de l'article L. 123-5 du code de
+l'urbanisme, celle-ci est accompagnée d'une note précisant la nature des travaux pour lesquels une dérogation est sollicitée
+et justifiant que ces travaux sont nécessaires pour permettre l'accessibilité du logement à des personnes handicapées.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-723 du 18 juin 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L123-5
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*431-36 (V)
+
+
 ###### Article R*431-32
 
 Lorsque l'édification des constructions est subordonnée, pour l'application des dispositions relatives à l'urbanisme, à
@@ -48338,28 +48411,24 @@ R. 423-1 pour déposer une déclaration préalable.
 
 ###### Article R*431-36
 
-Le dossier joint à la déclaration comprend :
+Le dossier joint à la déclaration comprend : 
 
-a) Un plan permettant de connaître la situation du terrain à l'intérieur de la commune ;
+a) Un plan permettant de connaître la situation du terrain à l'intérieur de la commune ; 
 
 b) Un plan de masse coté dans les trois dimensions lorsque le projet a pour effet de créer une construction ou de modifier le
-volume d'une construction existante ;
+volume d'une construction existante ; 
 
 c) Une représentation de l'aspect extérieur de la construction faisant apparaître les modifications projetées et si le projet
-a pour effet de modifier celui-ci.
+a pour effet de modifier celui-ci. 
 
 Il est complété, s'il y a lieu, par les documents mentionnés aux articles R. 431-14 et R. 431-15, au e de l'article R. 431-16
-et aux articles R. 431-10, R. 431-21, R. 431-25, R. 431-32 et R. 431-33.
+et aux articles R. 431-10, R. 431-21, R. 431-25, R. 431-31, R. 431-32 et R. 431-33.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
 	**Modifié par**:
 
-	  - Décret n°2007-817 du 11 mai 2007 - art. 3 () JORF 12 mai 2007
+	  - Décret n°2009-723 du 18 juin 2009 - art. 1
 
 	**Cité par**:
 
@@ -48367,12 +48436,12 @@ et aux articles R. 431-10, R. 431-21, R. 431-25, R. 431-32 et R. 431-33.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R*431-16 (MMN)
-	  - Code de l'urbanisme R431-14, R431-15, R431-16, R431-10, R431-21, R431-25, R431-32, R431-33
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
+	  - Code de l'urbanisme - art. R*431-10
+	  - Code de l'urbanisme - art. R*431-14
+	  - Code de l'urbanisme - art. R*431-21
+	  - Code de l'urbanisme - art. R*431-25
+	  - Code de l'urbanisme - art. R*431-32
+	  - Code de l'urbanisme - art. R431-16
 
 
 ###### Article R*431-37
