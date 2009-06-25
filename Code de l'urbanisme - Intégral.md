@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2009-06-25
+Version Consolidée au 2009-06-26
 
 # Partie législative
 
@@ -33455,7 +33455,7 @@ Marseille et Lyon et des établissements publics de coopération intercommunale.
 	  - Décret n°73-1023 1973-11-08
 
 
-#### Chapitre IV : Droit de préemption des communes sur les fonds artisanaux, les fonds de commerce et les baux commerciaux.
+#### Chapitre IV : Droit de préemption des communes sur les fonds artisanaux, les fonds de commerce et les baux commerciaux et les terrains faisant l'objet de projets d'aménagement commercial
 
 #####  Section 1 : Délimitation du périmètre
 
@@ -33863,14 +33863,6 @@ préalable mentionnée à l'article R. 214-4, bénéficie d'un droit de priorit�
 
 	  - Code de l'urbanisme - art. *R214-4 (V)
 
-
-#### Chapitre IV : Droit de préemption des communes sur les fonds artisanaux, les fonds de commerce et les baux commerciaux et les terrains faisant l'objet de projets d'aménagement commercial
-
-#####  Section 1 : Délimitation du périmètre
-
-#####  Section 2 : Exercice du droit de préemption
-
-#####  Section 3 : Rétrocession
 
 ## Livre III : Aménagement foncier
 
@@ -41772,27 +41764,37 @@ compte rendu de la situation comptable des fonds régionaux d'aménagement fonci
 ###### Article R340-4
 
 Le fonctionnement de chaque fonds régional d'aménagement foncier et urbain est assuré par un comité de gestion et
-d'engagement et un comité permanent.
+d'engagement et un comité permanent. 
 
-Le comité de gestion et d'engagement est composé de trois représentants de l'Etat, de trois représentants du conseil général
-élus par le conseil général, de trois représentants du conseil régional élus par le conseil régional et de deux représentants
-désignés par l'association des maires. Il est présidé alternativement et par période d'un an par le président du conseil
-général puis par le président du conseil régional. Il arrête son règlement intérieur. Il se réunit au moins quatre fois par
-an. Il détermine les orientations générales, les modalités d'instructions, statue sur chaque demande d'aides et arrête le
-programme des aides accordées par le fonds régional d'aménagement foncier et urbain aux projets éligibles, dans le cadre de
-modalités d'intervention définies contractuellement entre les contributeurs.
+Le comité de gestion et d'engagement est composé de trois représentants de l'Etat, de trois conseillers généraux désignés par
+le conseil général, de trois conseillers régionaux désignés par le conseil régional et de deux représentants désignés par
+l'Association des maires. Il est présidé alternativement et par période d'un an par le président du conseil général puis par
+le président du conseil régional. Il arrête son règlement intérieur dans lequel sont fixées les modalités d'instruction des
+demandes d'aide. Il se réunit au moins une fois par an. Dans le cadre de modalités d'intervention définies contractuellement
+entre les contributeurs, le comité de gestion et d'engagement :
+
+- détermine les orientations générales du fonds. Il s'appuie pour ce faire, d'une part, sur les objectifs des schémas
+d'aménagement régionaux prévus aux articles L. 4433-7 et suivants du code général des collectivités territoriales, des
+contrats mentionnés aux articles R. 4251-1 et suivants du même code et des contrats établis dans le cadre de la programmation
+des aides européennes et, d'autre part, sur les programmes départementaux et locaux de l'habitat lorsqu'ils existent ;
+
+- arrête une programmation financière et physique prévisionnelle pour trois ans des projets éligibles aux aides accordées par
+le fonds régional d'aménagement foncier et urbain ;
+
+- statue sur les demandes d'aide. 
 
 Les représentants qui, en cours de mandat, n'occupent plus les fonctions en raison desquelles ils ont été désignés sont
-réputés démissionnaires.
+réputés démissionnaires. 
 
 Le comité permanent est composé de deux représentants de l'Etat, de deux représentants du conseil général et de deux
 représentants du conseil régional. Le comité permanent peut s'associer en tant que de besoin les représentants d'autres
 institutions ou organismes qu'il estime utiles à l'exercice de ses missions. Son secrétariat est assuré par la direction
-départementale de l'équipement.
+départementale de l'équipement. 
 
-Le comité permanent est chargé d'instruire les demandes d'aides, dans le cadre des modalités d'intervention définies
-contractuellement entre les contributeurs et orientations générales, et des modalités d'instruction déterminées par le comité
-de gestion et d'engagement, et d'exécuter les autres missions qui lui seraient confiées par ce même comité.
+Le comité permanent peut être chargé par délégation du comité de gestion et d'engagement de statuer sur chaque demande
+d'aide. En cas de désaccord entre ses membres, il demande au comité de gestion et d'engagement de statuer en dernier ressort.
+Le comité permanent instruit les demandes d'aides dans le cadre des documents établis par le comité de gestion et
+d'engagement. Il exécute les autres missions qui peuvent lui être confiées par le comité de gestion et d'engagement.  
 
 Le comité permanent est chargé de soumettre au comité de gestion et d'engagement, au plus tard le 1er mars de chaque année
 après consultation des représentants des maîtres d'ouvrage sociaux, le bilan de l'intervention du fonds régional
@@ -41800,66 +41802,65 @@ d'aménagement foncier et urbain de l'année précédente. Ce bilan porte notamm
 d'intervention du fonds. Il propose, le cas échéant, au comité de gestion et d'engagement des modifications des modalités
 d'intervention du fonds.
 
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-787 du 23 juin 2009 - art. 1
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L4433-7
+	  - Code général des collectivités territoriales - art. R4251-1
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*730-2 (Ab)
 
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°2002-666 du 29 avril 2002 - art. 1 () JORF 2 mai 2002
-
 
 ###### Article R340-5
 
-Les aides des fonds régionaux d'aménagement foncier et urbain peuvent être attribuées :
+I.-Les aides des fonds régionaux d'aménagement foncier et urbain peuvent être attribuées : 
 
-- pour le financement des études pré-opérationnelles de projet d'aménagement. Le fonds régional d'aménagement foncier et
+a) Pour le financement des études préopérationnelles de projets d'aménagement. Le fonds régional d'aménagement foncier et
 urbain peut alors accorder une subvention que le bénéficiaire devra rembourser si l'opération projetée n'a pas reçu un début
-d'exécution dans un délai de trois ans, sauf dans le cas contraire ou dans le cas où l'étude a révélé des difficultés de
-réalisation, liées à la nature des sols, non prévisibles au moment de son lancement ;
+d'exécution dans un délai de trois ans, sauf dans le cas où l'étude a révélé des difficultés de réalisation, liées à la
+nature des sols, non prévisibles au moment de son lancement ; 
 
-- pour le financement des études de mise en place de programmes pluriannuels communaux ou intercommunaux d'intervention
-foncière ;
+b) Pour le financement des études de mise en place de programmes pluriannuels communaux ou intercommunaux d'intervention
+foncière ; 
 
-- pour le financement des études de mises en place d'établissements publics fonciers locaux tels que définis aux articles L.
-324-1 et suivants du code de l'urbanisme ;
+c) Pour le financement des études de mises en place d'établissements publics fonciers tels que définis aux articles L. 321-1
+et L. 324-1 et suivants du code de l'urbanisme ; 
 
-- pour participer aux frais financiers liés à l'acquisition de terrains dans l'objectif de réaliser des réserves foncières à
-moyen terme et ayant pour objet la réalisation d'équipements de viabilisation ou de logements dont 60 % devront être des
-logements aidés par l'Etat ;
+d) Pour participer aux frais financiers liés à l'acquisition de terrains dans l'objectif de réaliser des réserves foncières à
+moyen terme en vue de la réalisation d'équipements de viabilisation ou de logements ; 
 
-- pour le financement des équipements de viabilisation primaire :
+e) Pour le financement des équipements de viabilisation primaire : équipements structurants dont la réalisation ou le
+renforcement ne sont pas directement induits par une opération d'aménagement ; 
 
-équipements structurants dont la réalisation n'est pas directement induite par une opération d'aménagement ;
+f) Pour le financement d'équipements de viabilisation secondaire : équipements dont la réalisation ou le renforcement sont
+induits par une opération d'aménagement et qui viennent se raccorder au réseau primaire. Ils ont pour objet de desservir les
+opérations et sont constitués par les voiries et réseaux divers secondaires. 
 
-- pour le financement d'équipements de viabilisation secondaire :
+II.-Les taux et plafonds de subvention des opérations finançables par le fonds régional d'aménagement foncier et urbain,
+lorsque cette aide provient de la contribution de l'Etat, sont fixés par arrêté préfectoral conformément au présent titre et
+dans les limites des plafonds définis par les dispositions réglementaires relatives aux subventions de l'Etat pour les
+projets d'investissements. 
 
-équipements dont la réalisation ou le renforcement est induit par une opération d'urbanisme et qui viennent se raccorder au
-réseau primaire. Ils ont pour objet de desservir les opérations d'aménagement, essentiellement à vocation de construction de
-logements, et sont constitués par les voiries et réseaux divers secondaires. Les opérations éligibles devront comprendre dans
-leur programmation au minimum 60 % de logements aidés par l'Etat à la sortie ;
-
-- pour le financement du déficit d'opérations d'aménagement au sens de l'article L. 300-1 du code de l'urbanisme dès lors
-qu'elles comportent plus de 60 % de logements aidés par l'Etat ;
-
-- pour le financement de surcoûts de construction de logements aidés par l'Etat liés à des contraintes particulières à
-certaines zones dans les départements d'outre-mer.
-
-Les taux de subvention des opérations finançables par le fonds régional d'aménagement foncier et urbain, pour le financement
-provenant de la contribution de l'Etat, sont fixés par arrêté préfectoral dans les limites des plafonds définis par les
-dispositions réglementaires relatives aux subventions de l'Etat pour les projets d'investissements.
+Les conditions de subventions de l'Etat au titre des d et f du présent article sont précisées par un arrêté des ministres
+chargés de l'outre-mer, du logement, de l'économie et de l'urbanisme. Pour le financement mentionné au f, cette subvention
+est proportionnelle au nombre de logements aidés de l'opération d'aménagement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-666 du 29 avril 2002 - art. 1 () JORF 2 mai 2002
+	  - Décret n°2009-787 du 23 juin 2009 - art. 1
 
 	**Cité par**:
 
@@ -41869,12 +41870,8 @@ dispositions réglementaires relatives aux subventions de l'Etat pour les projet
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L300-1 (M)
-	  - Code de l'urbanisme - art. L324-1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
+	  - Code de l'urbanisme - art. L321-1
+	  - Code de l'urbanisme - art. L324-1
 
 
 ###### Article R340-6
