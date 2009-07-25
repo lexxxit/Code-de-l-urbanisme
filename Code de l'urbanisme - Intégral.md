@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2009-07-25
+Version Consolidée au 2009-07-26
 
 # Partie législative
 
@@ -793,34 +793,23 @@ n'a pas été, selon le cas, autorisée ou agréée en vertu des articles préci
 
 Nonobstant toute disposition contraire du plan local d'urbanisme, l'emprise au sol des surfaces, bâties ou non, affectées aux
 aires de stationnement annexes d'un commerce soumis à l'autorisation d'exploitation commerciale prévue aux 1°, 6° et 8° du I
-de l'article L. 720-5 du code de commerce et à l'autorisation prévue à l'article 30-2 du code de l'industrie
-cinématographique, ne peut excéder une fois et demie la surface hors oeuvre nette des bâtiments affectés au commerce. 
+de l'article L. 720-5 du code de commerce et à l'autorisation prévue aux articles L. 212-7 et L. 212-8 du code du cinéma et
+de l'image animée, ne peut excéder une fois et demie la surface hors oeuvre nette des bâtiments affectés au commerce. 
 
-Lorsqu'un établissement de spectacles cinématographiques soumis à l'autorisation prévue à l'article 30-2 du code de
-l'industrie cinématographique n'est pas installé sur le même site qu'un commerce soumis aux autorisations d'exploitation
-commerciale prévues à l'article L. 752-1 du code de commerce, l'emprise au sol des surfaces, bâties ou non, affectées aux
-aires de stationnement annexes de cet établissement de spectacles cinématographiques ne doit pas excéder une place de
-stationnement pour trois places de spectateur. 
+Lorsqu'un établissement de spectacles cinématographiques soumis à l'autorisation prévue aux articles L. 212-7 et L. 212-8 du
+code du cinéma et de l'image animée n'est pas installé sur le même site qu'un commerce soumis aux autorisations
+d'exploitation commerciale prévues à l'article L. 752-1 du code de commerce, l'emprise au sol des surfaces, bâties ou non,
+affectées aux aires de stationnement annexes de cet établissement de spectacles cinématographiques ne doit pas excéder une
+place de stationnement pour trois places de spectateur. 
 
 Ces dispositions ne font pas obstacle aux travaux de réfection et d'amélioration ou à l'extension limitée des bâtiments
 commerciaux existant le 15 décembre 2000.
-
-**Nota:**
-
-Loi n° 2008-776 du 4 août 2008 JORF 5 août 2008 art. 105 III : Le présent article entre en vigueur à une date fixée par
-décret et au plus tard le 1er janvier 2009. 
-
-Les demandes d'autorisation présentées avant la date d'entrée en vigueur du présent article sont instruites et les
-autorisations accordées dans les conditions prévues par les dispositions en vigueur avant cette date. 
-
-Décret n° 2008-1212 du 24 novembre 2008 article 8 : l'article 105 de la loi n° 2008-776 du 4 août 2008 entre en vigueur dès
-la publication du présent décret au Journal officiel de la République française.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 105 (V)
+	  - Ordonnance n°2009-901 du 24 juillet 2009 - art. 2 (V)
 
 	**Cité par**:
 
@@ -828,9 +817,9 @@ la publication du présent décret au Journal officiel de la République frança
 
 	**Cite**:
 
-	  - Code de commerce - art. L720-5
-	  - Code de commerce - art. L752-1
-	  - Code de l'industrie cinématographique - art. 30-2
+	  - Code du cinéma et de l'image animée - art. L212-7 (V)
+	  - Code de commerce - art. L720-5 (Ab)
+	  - Code de commerce - art. L752-1 (V)
 
 
 ###### Article L111-7
@@ -2309,33 +2298,10 @@ Les programmes locaux de l'habitat, les plans de déplacements urbains, les sch�
 locaux d'urbanisme, les plans de sauvegarde et de mise en valeur, les cartes communales, la délimitation des périmètres
 d'intervention prévus à l'article L. 143-1, les opérations foncières et les opérations d'aménagement définies par décret en
 Conseil d'Etat doivent être compatibles avec les schémas de cohérence territoriale et les schémas de secteur. Il en est de
-même pour les autorisations prévues par l'article L. 752-1 du code de commerce et l'article 30-2 du code de l'industrie
-cinématographique.
-
-**Nota:**
-
-Loi n° 2008-776 du 4 août 2008 JORF 5 août 2008 art. 105 III : Le présent article entre en vigueur à une date fixée par
-décret et au plus tard le 1er janvier 2009. 
-
-Les demandes d'autorisation présentées avant la date d'entrée en vigueur du présent article sont instruites et les
-autorisations accordées dans les conditions prévues par les dispositions en vigueur avant cette date. 
-
-Décret n° 2008-1212 du 24 novembre 2008 article 8 : les articles 102 et 105 de la loi n° 2008-776 du 4 août 2008 entrent en
-vigueur dès la publication du présent décret au Journal officiel de la République française.
+même pour les autorisations prévues par l'article L. 752-1 du code de commerce et des articles L. 212-7 et L. 212-8 du code
+du cinéma et de l'image animée.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°73-1193 du 27 décembre 1973 - art. 36-1
-	  - Code de commerce - art. L752-1
-	  - Code de l'industrie cinématographique - art. 30-2 (VD)
-	  - Code de l'urbanisme - art. L110
-	  - Code de l'urbanisme - art. L121-1
-	  - Code de l'urbanisme - art. L143-1
-	  - Code de l'urbanisme - art. L145-11
-	  - Code de l'environnement - art. L212-1
-	  - Code de l'environnement - art. L212-3 (V)
 
 	**Cité par**:
 
@@ -2345,7 +2311,6 @@ vigueur dès la publication du présent décret au Journal officiel de la Répub
 	  - Loi n°95-115 du 4 février 1995 - art. 22 (M)
 	  - Décret n°2000-909 du 19 septembre 2000 - art. 4 (V)
 	  - Décret n°2002-1369 du 20 novembre 2002 - art. 1 (Ab)
-	  - Code du cinéma et de l'image animée - art. L212-12 (V)
 	  - Décret n°2015-986 du 31 juillet 2015 - art. 1 (V)
 	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L24-1 (V)
 	  - Code de commerce. - art. R751-18 (V)
@@ -2361,11 +2326,22 @@ vigueur dès la publication du présent décret au Journal officiel de la Répub
 	  - Code de l'urbanisme - art. R*122-1 (V)
 	  - Code de l'urbanisme - art. R*122-2 (V)
 	  - Code de l'urbanisme - art. R*122-5 (V)
+	  - Code du cinéma et de l'image animée - art. L212-12 (V)
 
-	**Modifié par**:
+	**Abrogé par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 102
-	  - Loi n°2008-776 du 4 août 2008 - art. 105 (V)
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 17 (V)
+
+	**Cite**:
+
+	  - Code de commerce - art. L752-1
+	  - Code de l'urbanisme - art. L110
+	  - Code de l'urbanisme - art. L121-1
+	  - Code de l'urbanisme - art. L143-1
+	  - Code de l'urbanisme - art. L145-11
+	  - Code de l'environnement - art. L212-1
+	  - Code de l'environnement - art. L212-3
+	  - Code du cinéma et de l'image animée - art. L212-7
 
 
 ###### Article L122-2
@@ -2377,8 +2353,8 @@ révisé en vue d'ouvrir à l'urbanisation une zone à urbaniser délimitée apr
 
 Dans les communes mentionnées au premier alinéa et à l'intérieur des zones à urbaniser ouvertes à l'urbanisation après
 l'entrée en vigueur de la loi n° 2003-590 du 2 juillet 2003 urbanisme et habitat, il ne peut être délivré d'autorisation
-d'exploitation commerciale en application de l'article L. 752-1 du code de commerce ou l'autorisation prévue à l'article 30-2
-du code de l'industrie cinématographique. 
+d'exploitation commerciale en application de l'article L. 752-1 du code de commerce ou l'autorisation prévue aux articles L.
+212-7 et L. 212-8 du code du cinéma et de l'image animée. 
 
 Il peut être dérogé aux dispositions des deux alinéas précédents soit avec l'accord du préfet donné après avis de la
 commission départementale compétente en matière de nature, de paysages et de sites et de la chambre d'agriculture, soit,
@@ -2401,17 +2377,6 @@ ont valeur de schéma de cohérence territoriale.
 
 Les dispositions du présent article sont applicables à compter du 1er juillet 2002.
 
-**Nota:**
-
-Loi n° 2008-776 du 4 août 2008 JORF 5 août 2008 art. 105 III : Le présent article entre en vigueur à une date fixée par
-décret et au plus tard le 1er janvier 2009. 
-
-Les demandes d'autorisation présentées avant la date d'entrée en vigueur du présent article sont instruites et les
-autorisations accordées dans les conditions prévues par les dispositions en vigueur avant cette date. 
-
-Décret n° 2008-1212 du 24 novembre 2008 article 8 : l'article 105 de la loi n° 2008-776 du 4 août 2008 entre en vigueur dès
-la publication du présent décret au Journal officiel de la République française.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -2419,15 +2384,15 @@ la publication du présent décret au Journal officiel de la République frança
 	  - Loi n°84-747 du 2 août 1984
 	  - Loi n°2002-92 du 22 janvier 2002 - art. 13
 	  - Loi n°2003-590 du 2 juillet 2003
+	  - Code du cinéma et de l'image animée - art. L212-7 (V)
 	  - Code de commerce - art. L752-1
 	  - Code général des collectivités territoriales - art. L4424-9
-	  - Code de l'industrie cinématographique - art. 30-2
 	  - Code de l'urbanisme - art. L122-4
 	  - Code de l'urbanisme - art. L141-1
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 105 (V)
+	  - Ordonnance n°2009-901 du 24 juillet 2009 - art. 2 (V)
 
 	**Cité par**:
 
@@ -17896,35 +17861,20 @@ Conseil d'Etat et au plus tard le 18 décembre 2014.
 
 ###### Article L425-8
 
-Conformément à l'article 30-2 du code de l'industrie cinématographique
-, lorsque le permis de construire porte sur un projet de création, d'extension ou de réouverture au public d'un établissement
-de spectacles cinématographiques, le permis ne peut être accordé avant la délivrance de cette autorisation. Sa mise en œuvre
-ne peut être entreprise avant l'expiration des recours entrepris contre elle.
-
-**Nota:**
-
-Loi n° 2008-776 du 4 août 2008 JORF 5 août 2008 art. 105 III : Le présent article entre en vigueur à une date fixée par
-décret et au plus tard le 1er janvier 2009. 
-
-Les demandes d'autorisation présentées avant la date d'entrée en vigueur du présent article sont instruites et les
-autorisations accordées dans les conditions prévues par les dispositions en vigueur avant cette date. 
-
-Décret n° 2008-1212 du 24 novembre 2008 article 8 : l'article 105 de la loi n° 2008-776 du 4 août 2008 entre en vigueur dès
-la publication du présent décret au Journal officiel de la République française.
+Conformément aux articles L. 212-7 et L. 212-8 du code du cinéma et de l'image animée, lorsque le permis de construire porte
+sur un projet de création, d'extension ou de réouverture au public d'un établissement de spectacles cinématographiques, le
+permis ne peut être accordé avant la délivrance de cette autorisation. Sa mise en œuvre ne peut être entreprise avant
+l'expiration des recours entrepris contre elle.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 105 (V)
-
-	**Nouveaux textes**:
-
-	  - Code du cinéma et de l'image animée - art. L212-13 (V)
+	  - Ordonnance n°2009-901 du 24 juillet 2009 - art. 2 (V)
 
 	**Cite**:
 
-	  - Code de l'industrie cinématographique - art. 30-2
+	  - Code du cinéma et de l'image animée - art. L212-7 (V)
 
 
 ###### Article L425-9
