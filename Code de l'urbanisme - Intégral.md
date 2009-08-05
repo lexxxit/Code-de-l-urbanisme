@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2009-08-01
+Version Consolidée au 2009-08-06
 
 # Partie législative
 
@@ -12,10 +12,13 @@ Version Consolidée au 2009-08-01
 Le territoire français est le patrimoine commun de la nation. Chaque collectivité publique en est le gestionnaire et le
 garant dans le cadre de ses compétences. Afin d'aménager le cadre de vie, d'assurer sans discrimination aux populations
 résidentes et futures des conditions d'habitat, d'emploi, de services et de transports répondant à la diversité de ses
-besoins et de ses ressources, de gérer le sol de façon économe, d'assurer la protection des milieux naturels et des paysages
-ainsi que la sécurité et la salubrité publiques et de promouvoir l'équilibre entre les populations résidant dans les zones
-urbaines et rurales et de rationaliser la demande de déplacements, les collectivités publiques harmonisent, dans le respect
-réciproque de leur autonomie, leurs prévisions et leurs décisions d'utilisation de l'espace.
+besoins et de ses ressources, de gérer le sol de façon économe, de réduire les émissions de gaz à effet de serre, de réduire
+les consommations d'énergie, d'économiser les ressources fossiles d'assurer la protection des milieux naturels et des
+paysages, la préservation de la biodiversité notamment par la conservation, la restauration et la création de continuités
+écologiques, ainsi que la sécurité et la salubrité publiques et de promouvoir l'équilibre entre les populations résidant dans
+les zones urbaines et rurales et de rationaliser la demande de déplacements, les collectivités publiques harmonisent, dans le
+respect réciproque de leur autonomie, leurs prévisions et leurs décisions d'utilisation de l'espace. Leur action en matière
+d'urbanisme contribue à la lutte contre le changement climatique et à l'adaptation à ce changement.
 
 **Liens relatifs à cet article**
 
@@ -33,7 +36,7 @@ réciproque de leur autonomie, leurs prévisions et leurs décisions d'utilisati
 	  - Code de l'urbanisme - art. L123-1 (VT)
 	  - Code de l'urbanisme - art. L123-12 (VT)
 	  - Code de l'urbanisme - art. L124-2 (VT)
-	  - Code de l'urbanisme - art. L142-1 (M)
+	  - Code de l'urbanisme - art. L142-1 (VT)
 	  - Code de l'urbanisme - art. L710-1 (VT)
 	  - Code de l'urbanisme - art. R*122-2 (M)
 	  - Code de l'urbanisme - art. R*122-3 (V)
@@ -44,11 +47,16 @@ réciproque de leur autonomie, leurs prévisions et leurs décisions d'utilisati
 
 	**Modifié par**:
 
-	  - Loi n°96-1236 du 30 décembre 1996 - art. 17 (V) JORF 1er janvier 1997
+	  - Loi n°2009-967 du 3 août 2009 - art. 8
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L101-1 (VD)
+	  - Code de l'urbanisme - art. L101-2 (VD)
 
 
 ####  Chapitre Ier : Règles générales de l'urbanisme.
@@ -4689,7 +4697,9 @@ L. 121-10, de l'application de la procédure prévue aux articles L. 121-11 et s
 réalisation d'une construction ou d'une opération, à caractère public ou privé, présentant un intérêt général notamment pour
 la commune ou toute autre collectivité, ou la rectification d'une erreur matérielle. L'opération mentionnée à la phrase
 précédente peut également consister en un projet d'extension des zones constructibles qui ne porte pas atteinte à l'économie
-générale du plan d'occupation des sols et ne comporte pas de graves risques de nuisance ; 
+générale du plan d'occupation des sols et ne comporte pas de graves risques de nuisance. En cas d'annulation contentieuse du
+plan local d'urbanisme, l'ancien plan d'occupation des sols peut faire l'objet de révisions simplifiées pendant le délai de
+deux ans suivant la décision du juge devenue définitive ; 
 
 c) D'une mise en compatibilité selon les modalités définies par l'article L. 123-16. 
 
@@ -4762,7 +4772,7 @@ des plans locaux d'urbanisme partiels dans les conditions définies par la derni
 
 	**Modifié par**:
 
-	  - Loi n°2009-179 du 17 février 2009 - art. 2
+	  - Loi n°2009-967 du 3 août 2009 - art. 52 (V)
 
 
 ###### Article L123-20
@@ -5179,6 +5189,28 @@ sols ou un dépassement des limites résultant des règles relatives au gabarit,
 
 	  - Code de l'urbanisme - art. L127-1
 	  - Code de l'urbanisme - art. L128-1
+
+
+###### Article L128-4
+
+Toute action ou opération d'aménagement telle que définie à l'article L. 300-1 et faisant l'objet d'une étude d'impact doit
+faire l'objet d'une étude de faisabilité sur le potentiel de développement en énergies renouvelables de la zone, en
+particulier sur l'opportunité de la création ou du raccordement à un réseau de chaleur ou de froid ayant recours aux énergies
+renouvelables et de récupération.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-967 du 3 août 2009 - art. 8
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L300-1
 
 
 ### Titre III : Espaces boisés.
