@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2009-09-19
+Version Consolidée au 2009-10-10
 
 # Partie législative
 
@@ -53999,6 +53999,110 @@ l'urbanisme, et au constructeur concerné.
 	**Abrogé par**:
 
 	  - Arrêté du 25 mars 2013 - art. 1
+
+
+### Titre IV : Départements d'outre-mer
+
+###### Article A340-1
+
+La subvention de l'Etat prévue à la dernière phrase du dernier alinéa de l'article R. 340-5 est destinée à compenser, pour
+l'aménageur, la perte de recettes éventuelle induite par le différentiel de prix entre les recettes attendues dans le bilan
+prévisionnel de l'opération d'aménagement et le prix de cession des terrains aménagés aux opérateurs de logements sociaux.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 16 septembre 2009 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. A340-3 (V)
+	  - Code de l'urbanisme - art. A350-1 (Ab)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R340-5
+
+
+###### Article A340-2
+
+Pour chaque opération, cette subvention est fixée par arrêté du représentant de l'Etat dans le département. Il évalue à cet
+effet la compensation financière nécessaire en fonction du différentiel entre le montant de la charge foncière d'équilibre de
+l'opération et le montant de la charge foncière pratiquée pour les logements sociaux. Ce différentiel détermine le montant de
+la subvention qui ne pourra dépasser 15 000 € par logement aidé. Ce plafond pourra être porté à 20 000 € si l'opération se
+situe en quartiers existants et a pour objet de densifier le tissu urbain afin de réaliser des quartiers à mixité sociale et
+urbaine.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 16 septembre 2009 - art. 1
+
+
+###### Article A340-3
+
+La subvention de l'Etat prévue à l'article A. 340-1 du présent arrêté, ainsi que celle établie en vertu du d de l'article R.
+340-5 du présent code ne seront mobilisées que pour les opérations comportant au moins 20 % de logements aidés, à moins qu'un
+arrêté du représentant de l'Etat dans le département ne fixe, en fonction des circonstances locales, une proportion
+supérieure à ce seuil.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 16 septembre 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. A340-1
+	  - Code de l'urbanisme - art. R340-5
+
+
+###### Article A340-4
+
+Le préfet peut par arrêté préciser les modalités d'application du présent arrêté dans le département au vu des circonstances
+locales et notamment les logements aidés pris en compte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 16 septembre 2009 - art. 1
+
+
+### Titre V : Collectivités d'outre-mer
+
+###### Article A350-1
+
+Les articles A. 340-1 à A. 340-4 sont applicables à Mayotte et à Saint-Martin, sous réserve des adaptations prévues ci-
+après : 
+
+I. ― Les mots : " le représentant de l'Etat dans le département ” ou " le préfet ” sont remplacés suivant les cas par les
+mots : " le représentant de l'Etat à Mayotte ” ou " le représentant de l'Etat à Saint-Martin ”. 
+
+II. ― A Mayotte, les mots : " logements aidés ” sont remplacés par les mots : " logements prévus à l'article 3 de
+l'ordonnance n° 98-520 du 24 juin 1998 relative à l'action foncière, aux offices d'intervention économique dans le secteur de
+l'agriculture et de la pêche et à l'aide au logement dans la collectivité territoriale de Mayotte, ainsi que les logements
+faisant l'objet d'un prêt en faveur du logement locatif conformément à l'article 55 de la loi modifiée n° 96-609 du 5 juillet
+1996 ”.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°96-609 du 5 juillet 1996 - art. 55
+	  - Ordonnance n°98-520 du 24 juin 1998 - art. 3
+	  - Code de l'urbanisme - art. A340-1
+
+	**Créé par**:
+
+	  - Arrêté du 16 septembre 2009 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 22 mars 2016 - art. 2
 
 
 ## Livre  IV : Régime applicable aux constructions, aménagements et démolitions
