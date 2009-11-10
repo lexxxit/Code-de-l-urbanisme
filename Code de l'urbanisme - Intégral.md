@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2009-11-08
+Version Consolidée au 2009-11-11
 
 # Partie législative
 
@@ -5219,13 +5219,13 @@ renouvelables et de récupération.
 
 Les plans locaux d'urbanisme peuvent classer comme espaces boisés, les bois, forêts, parcs à conserver, à protéger ou à
 créer, qu'ils relèvent ou non du régime forestier, enclos ou non, attenant ou non à des habitations. Ce classement peut
-s'appliquer également à des arbres isolés, des haies ou réseaux de haies, des plantations d'alignements.
+s'appliquer également à des arbres isolés, des haies ou réseaux de haies, des plantations d'alignements. 
 
 Le classement interdit tout changement d'affectation ou tout mode d'occupation du sol de nature à compromettre la
-conservation, la protection ou la création des boisements.
+conservation, la protection ou la création des boisements. 
 
 Nonobstant toutes dispositions contraires, il entraîne le rejet de plein droit de la demande d'autorisation de défrichement
-prévue aux chapitres Ier et II du titre Ier livre III du code forestier.
+prévue aux chapitres Ier et II du titre Ier livre III du code forestier. 
 
 Il est fait exception à ces interdictions pour l'exploitation des produits minéraux importants pour l'économie nationale ou
 régionale, et dont les gisements ont fait l'objet d'une reconnaissance par un plan d'occupation des sols rendu public ou
@@ -5244,23 +5244,12 @@ prévue par l'article L. 421-4, sauf dans les cas suivants :
 règlement type de gestion approuvé conformément aux dispositions du II de l'article L. 8 et de l'article L. 222-6 du même
 code ;
 
-- si les coupes entrent dans le cadre d'une autorisation par catégories définies par arrêté préfectoral, après avis du centre
-régional de la propriété forestière.
+- si les coupes entrent dans le cadre d'une autorisation par catégories définies par arrêté préfectoral, après avis du Centre
+national de la propriété forestière. 
 
 La délibération prescrivant l'élaboration d'un plan local d'urbanisme peut également soumettre à déclaration préalable, sur
 tout ou partie du territoire concerné par ce plan, les coupes ou abattages d'arbres isolés, de haies ou réseaux de haies et
 de plantations d'alignement.
-
-**Nota:**
-
-L'article 41 de l'ordonnance n° 2005-1527 énonce : " La présente ordonnance entrera en vigueur à des dates fixées par décret
-en Conseil d'Etat et au plus tard le 1er juillet 2007. " 
-
-Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
-dans ce même article 26. 
-
-En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
-l'ordonnance au 1er octobre 2007.
 
 **Liens relatifs à cet article**
 
@@ -5327,22 +5316,18 @@ l'ordonnance au 1er octobre 2007.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 9 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+	  - Ordonnance n°2009-1369 du 6 novembre 2009 - art. 2
 
 	**Cite**:
 
-	  - Code forestier - art. L222-1 (M)
-	  - Code forestier - art. L222-6 (M)
-	  - Code forestier - art. L8 (M)
-	  - Code de l'urbanisme - art. L421-4 (M)
+	  - Code forestier - art. L222-1 (Ab)
+	  - Code forestier - art. L222-6 (Ab)
+	  - Code forestier - art. L8 (Ab)
+	  - Code de l'urbanisme - art. L421-4 (V)
 
-	**Anciens textes**:
+	**Nouveaux textes**:
 
-	  - Code de l'urbanisme 19 I
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+	  - Code forestier (nouveau) - art. L111-3 (VD)
 
 
 ###### Article L130-2
