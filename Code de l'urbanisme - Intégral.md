@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2009-11-11
+Version Consolidée au 2009-12-01
 
 # Partie législative
 
@@ -27246,21 +27246,27 @@ thermiques ou photovoltaïques ou de tout autre dispositif individuel de product
 façade du bois ou de tout autre matériau renouvelable permettant d'éviter des émissions de gaz à effet de serre ou la pose de
 toitures végétalisées ou retenant les eaux pluviales ; 
 
-f) Supprimer un ou plusieurs emplacements réservés ou réduire leur emprise. 
+f) Supprimer un ou plusieurs emplacements réservés ou réduire leur emprise ;
+
+g) Supprimer des règles qui auraient pour seul objet ou pour seul effet d'interdire l'installation d'ouvrages de production
+d'électricité à partir de l'énergie solaire installés sur le sol d'une puissance crête inférieure ou égale à douze mégawatts,
+dans les parties des zones naturelles qui ne font pas l'objet d'une protection spécifique en raison de la qualité des sites,
+des milieux naturels et des paysages et qui ne présentent ni un intérêt écologique particulier ni un intérêt pour
+l'exploitation forestière.  
 
 Ces modifications ne peuvent avoir pour objet ou pour effet de porter atteinte aux prescriptions édictées en application du
 7° de l'article L. 123-1.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-722 du 18 juin 2009 - art. 1
+	  - Décret n°2009-1414 du 19 novembre 2009 - art. 4
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L123-1
-	  - Code de l'urbanisme - art. L123-13 (V)
+	  - Code de l'urbanisme - art. L123-13
 
 
 ###### Article R*123-20-2
@@ -34217,6 +34223,49 @@ choix des candidats.
 	  - Code de l'urbanisme - art. R*300-10 (VT)
 
 
+###### Article R300-9-1
+
+1° Lorsque le montant total des produits de l'opération d'aménagement qui fait l'objet de la concession est égal ou supérieur
+au seuil mentionné pour les marchés de travaux par le 2° du IV de l'article 40 du code des marchés publics, la personne
+publique, dès qu'elle a fait son choix pour une candidature ou une offre, notifie à tous les autres candidats le rejet de
+leur candidature ou de leur offre, en leur indiquant les motifs de ce rejet. 
+
+Cette notification précise le nom de l'attributaire et les motifs qui ont conduit au choix de son offre aux candidats ayant
+soumis une offre et à ceux n'ayant pas encore reçu communication du rejet de leur candidature. 
+
+Un délai d'au moins seize jours est respecté entre la date d'envoi de la notification prévue aux alinéas précédents et la
+date de conclusion de la concession d'aménagement. Ce délai est réduit à au moins onze jours en cas de transmission
+électronique de la notification à l'ensemble des candidats intéressés. 
+
+La notification de l'attribution du contrat comporte l'indication de la durée du délai de suspension que le pouvoir
+adjudicateur s'impose, eu égard notamment au mode de transmission retenu. 
+
+2° Le respect des délais mentionnés au 1° n'est pas exigé lorsque le marché est attribué au seul candidat ayant présenté une
+offre répondant aux exigences indiquées dans l'avis mentionné à l'article R. 300-5 ou dans les documents de la consultation. 
+
+3° Dans le cas où le montant total des produits de l'opération n'atteint pas le seuil défini au 1°, pour rendre applicables
+les dispositions du premier alinéa de l'article L. 551-15 du code de justice administrative, la personne publique publie un
+avis, conforme au modèle fixé par le règlement précité de la Commission européenne, relatif à son intention de conclure la
+concession d'aménagement. Elle doit alors respecter un délai d'au moins onze jours entre la date de publication de cet avis
+et la date de conclusion de la concession d'aménagement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1456 du 27 novembre 2009 - art. 25
+
+	**Cité par**:
+
+	  - Décret n°2016-86 du 1er février 2016 - art. 54
+
+	**Cite**:
+
+	  - Code des marchés publics - art. 40
+	  - Code de justice administrative - art. L551-15
+	  - Code de l'urbanisme - art. R*300-5
+
+
 #### Sous-section 2 : Procédure relative aux concessions d'aménagement soumises au droit communautaire des marchés
 
 
@@ -34376,6 +34425,46 @@ aux organes de publication qui ont publié l'avis mentionné à l'article R. 300
 	  - Code de l'urbanisme - art. R*300-11-5 (VT)
 
 
+###### Article R300-11-5-1
+
+1° Lorsque le montant total des produits de l'opération d'aménagement qui fait l'objet de la concession est égal ou supérieur
+au seuil mentionné pour les marchés de travaux par le 2° du IV de l'article 40 du code des marchés publics, la personne
+publique, dès qu'elle a fait son choix pour une candidature ou une offre, notifie à tous les autres candidats le rejet de
+leur candidature ou de leur offre, en leur indiquant les motifs de ce rejet. 
+
+Cette notification précise le nom de l'attributaire et les motifs qui ont conduit au choix de son offre aux candidats ayant
+soumis une offre et à ceux n'ayant pas encore reçu communication du rejet de leur candidature. 
+
+Un délai d'au moins seize jours est respecté entre la date d'envoi de la notification prévue aux alinéas précédents et la
+date de conclusion du marché. Ce délai est réduit à au moins onze jours en cas de transmission électronique de la
+notification à l'ensemble des candidats intéressés. 
+
+La notification de l'attribution du contrat comporte l'indication de la durée du délai de suspension que le pouvoir
+adjudicateur s'impose, eu égard notamment au mode de transmission retenu. 
+
+2° Le respect des délais mentionnés au 1° n'est pas exigé lorsque le contrat est attribué au seul candidat ayant présenté une
+offre répondant aux exigences indiquées dans l'avis mentionné à l'article R. 300-11-5 ou dans les documents de la
+consultation. 
+
+3° Dans le cas des contrats autres que ceux mentionnés au 1°, pour rendre applicables les dispositions du premier alinéa de
+l'article L. 551-15 du code de justice administrative, la personne publique publie un avis, conforme au modèle fixé par le
+règlement mentionné plus haut de la Commission européenne, relatif à son intention de conclure la concession d'aménagement.
+Elle doit alors respecter un délai d'au moins onze jours entre la date de publication de cet avis et la date de conclusion de
+la concession d'aménagement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1456 du 27 novembre 2009 - art. 26
+
+	**Cite**:
+
+	  - Code des marchés publics - art. 40
+	  - Code de justice administrative - art. L551-15
+	  - Code de l'urbanisme - art. R*300-11-5
+
+
 #### Sous-section 3 : Procédure relative aux autres concessions d'aménagement 
 
 
@@ -34400,6 +34489,31 @@ caractéristiques de l'opération envisagée.
 
 	  - Code de l'urbanisme - art. R*300-11-1 (V)
 	  - Code de l'urbanisme - art. R*300-4 (V)
+
+
+###### Article R300-11-8
+
+Lorsque le montant total des produits de l'opération qui fait l'objet de la concession est inférieur au seuil mentionné aux
+articles R. 300-4 et R. 300-11-1, pour rendre applicables les dispositions du premier alinéa de l'article R. 551-7 du code de
+justice administrative, la personne publique publie au Journal officiel de l'Union européenne un avis d'attribution, conforme
+au modèle fixé par le règlement précité de la Commission européenne, informant de la conclusion de la concession
+d'aménagement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1456 du 27 novembre 2009 - art. 27
+
+	**Abrogé par**:
+
+	  - Décret n°2016-86 du 1er février 2016 - art. 51
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R551-7
+	  - Code de l'urbanisme - art. R*300-11-1
+	  - Code de l'urbanisme - art. R*300-4
 
 
 ###  Section 3 : Contrats conclus par le concessionnaire d'une opération d'aménagement
@@ -42636,37 +42750,52 @@ b) Des constructions mentionnées aux articles R. 421-9 à R. 421-12 qui doivent
 ###### Article *R421-2
 
 Sont dispensées de toute formalité au titre du présent code, en raison de leur nature ou de leur très faible importance, sauf
-lorsqu'ils sont implantés dans un secteur sauvegardé dont le périmètre a été délimité ou dans un site classé :
+lorsqu'ils sont implantés dans un secteur sauvegardé dont le périmètre a été délimité ou dans un site classé : 
 
 a) Les constructions nouvelles dont la hauteur au-dessus du sol est inférieure à douze mètres et qui n'ont pas pour effet de
 créer de surface de plancher ou qui ont pour effet de créer une surface hors oeuvre brute inférieure ou égale à deux mètres
-carrés ;
+carrés ; 
 
 b) Les habitations légères de loisirs implantées dans un terrain de camping ou un parc résidentiel de loisirs autorisé et
-dont la surface hors oeuvre nette est inférieure ou égale à trente-cinq mètres carrés ;
+dont la surface hors oeuvre nette est inférieure ou égale à trente-cinq mètres carrés ; 
 
-c) Les éoliennes dont la hauteur du mât et de la nacelle au-dessus du sol est inférieure à douze mètres ;
+c) Les éoliennes dont la hauteur du mât et de la nacelle au-dessus du sol est inférieure à douze mètres ainsi que les
+ouvrages de production d'électricité à partir de l'énergie solaire installés sur le sol dont la puissance crête est
+inférieure à trois kilowatts et dont la hauteur maximum au-dessus du sol ne peut pas dépasser un mètre quatre-vingt ; 
 
-d) Les piscines dont le bassin a une superficie inférieure ou égale à dix mètres carrés ;
+d) Les piscines dont le bassin a une superficie inférieure ou égale à dix mètres carrés ; 
 
-e) Les châssis et serres dont la hauteur au-dessus du sol est inférieure ou égale à un mètre quatre-vingts ;
+e) Les châssis et serres dont la hauteur au-dessus du sol est inférieure ou égale à un mètre quatre-vingts ; 
 
 f) Les murs dont la hauteur au-dessus du sol est inférieure à deux mètres, sauf s'ils constituent des clôtures régies par
-l'article R. 421-12 ;
+l'article R. 421-12 ; 
 
 g) Les clôtures, en dehors des cas prévus à l'article R. 421-12, ainsi que les clôtures nécessaires à l'activité agricole ou
-forestière ;
+forestière ; 
 
-h) Le mobilier urbain ;
+h) Le mobilier urbain ; 
 
 i) Les caveaux et monuments funéraires situés dans l'enceinte d'un cimetière.
+
+**Nota:**
+
+Décret n° 2009-1414 du 19 novembre 2009 art 9 : Les dispositions du présent article entrent en vigueur le premier jour du
+mois suivant la date de sa publication au Journal officiel.
+
+Toutefois, elles ne sont pas applicables aux ouvrages de production d'électricité à partir de l'énergie solaire installés sur
+le sol :
+
+a) Lorsque ces ouvrages comportent des installations ou constructions ayant fait l'objet d'une décision de non-opposition à
+déclaration préalable ou d'un permis de construire avant l'entrée en vigueur du présent décret ;
+
+b) Lorsque ces ouvrages sont dispensés de toute formalité au titre du code de l'urbanisme et que les travaux ont été
+entrepris ou achevés à la date de l'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 8 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+	  - Décret n°2009-1414 du 19 novembre 2009 - art. 1
 
 	**Cité par**:
 
@@ -42679,11 +42808,7 @@ i) Les caveaux et monuments funéraires situés dans l'enceinte d'un cimetière.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R421-12 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
+	  - Code de l'urbanisme - art. R421-12
 
 
 ###### Article *R421-3
@@ -42872,35 +42997,54 @@ article est limitée à trois mois.
 
 En dehors des secteurs sauvegardés dont le périmètre a été délimité et des sites classés, les constructions nouvelles
 suivantes doivent être précédées d'une déclaration préalable, à l'exception des cas mentionnés à la sous-section 2 ci-
-dessus :
+dessus : 
 
 a) Les constructions ayant pour effet de créer une surface hors oeuvre brute supérieure à deux mètres carrés et inférieure ou
-égale à vingt mètres carrés ;
+égale à vingt mètres carrés ; 
 
 b) Les habitations légères de loisirs implantées dans les conditions définies à l'article R. 111-32, dont la surface hors
-oeuvre nette est supérieure à trente-cinq mètres carrés ;
+oeuvre nette est supérieure à trente-cinq mètres carrés ; 
 
-c) Les constructions, autres que les éoliennes, dont la hauteur au-dessus du sol est supérieure à douze mètres et qui n'ont
-pas pour effet de créer de surface hors oeuvre brute ou qui ont pour effet de créer une surface hors oeuvre brute inférieure
-ou égale à deux mètres carrés ;
+c) Les constructions dont la hauteur au-dessus du sol est supérieure à douze mètres et qui n'ont pas pour effet de créer de
+surface hors œuvre brute ou qui ont pour effet de créer une surface hors œuvre brute inférieure ou égale à deux mètres
+carrés ; les dispositions du présent alinéa ne sont applicables ni aux éoliennes ni aux ouvrages de production d'électricité
+à partir de l'énergie solaire installés sur le sol ; 
 
 d) Les ouvrages et accessoires des lignes de distribution d'énergie électrique dont la tension est inférieure à soixante-
-trois mille volts ;
+trois mille volts ; 
 
-e) Les murs dont la hauteur au-dessus du sol est supérieure ou égale à deux mètres ;
+e) Les murs dont la hauteur au-dessus du sol est supérieure ou égale à deux mètres ; 
 
 f) Les piscines dont le bassin a une superficie inférieure ou égale à cent mètres carrés et qui ne sont pas couvertes ou dont
-la couverture, fixe ou mobile, a une hauteur au-dessus du sol inférieure à un mètre quatre-vingts ;
+la couverture, fixe ou mobile, a une hauteur au-dessus du sol inférieure à un mètre quatre-vingts ; 
 
 g) Les châssis et serres dont la hauteur au-dessus du sol est comprise entre un mètre quatre-vingts et quatre mètres, et dont
-la surface au sol n'excède pas deux mille mètres carrés sur une même unité foncière.
+la surface au sol n'excède pas deux mille mètres carrés sur une même unité foncière ; 
+
+h) Les ouvrages de production d'électricité à partir de l'énergie solaire installés sur le sol dont la puissance crête est
+inférieure à trois kilowatts et dont la hauteur maximum au-dessus du sol peut dépasser un mètre quatre-vingt ainsi que ceux
+dont la puissance crête est supérieure ou égale à trois kilowatts et inférieure ou égale à deux cent cinquante kilowatts
+quelle que soit leur hauteur.
+
+**Nota:**
+
+Décret n° 2009-1414 du 19 novembre 2009 art 9 : Les dispositions du présent article entrent en vigueur le premier jour du
+mois suivant la date de sa publication au Journal officiel.
+
+Toutefois, elles ne sont pas applicables aux ouvrages de production d'électricité à partir de l'énergie solaire installés sur
+le sol :
+
+a) Lorsque ces ouvrages comportent des installations ou constructions ayant fait l'objet d'une décision de non-opposition à
+déclaration préalable ou d'un permis de construire avant l'entrée en vigueur du présent décret ;
+
+b) Lorsque ces ouvrages sont dispensés de toute formalité au titre du code de l'urbanisme et que les travaux ont été
+entrepris ou achevés à la date de l'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 8 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+	  - Décret n°2009-1414 du 19 novembre 2009 - art. 2
 
 	**Cité par**:
 
@@ -42921,17 +43065,13 @@ la surface au sol n'excède pas deux mille mètres carrés sur une même unité 
 	  - Code de la construction et de l'habitation. - art. R*421-8 (M)
 	  - Code du tourisme. - art. D333-1 (V)
 
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*111-32
+
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-10 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R111-32
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article *R421-11
@@ -42940,23 +43080,30 @@ Dans les secteurs sauvegardés dont le périmètre a été délimité, dans un s
 espaces ayant vocation à être classés dans le coeur d'un futur parc national dont la création a été prise en considération en
 application de l'article R. 331-4 du code de l'environnement et à l'intérieur du coeur des parcs nationaux délimités en
 application de l'article L. 331-2 du même code, les constructions nouvelles suivantes doivent être précédées d'une
-déclaration préalable :
+déclaration préalable : 
 
-a) Les constructions n'ayant pas pour effet de créer une surface hors oeuvre brute ou ayant pour effet de créer une surface
-hors oeuvre brute inférieure ou égale à vingt mètres carrés, quelle que soit leur hauteur ;
+a) Les constructions n'ayant pas pour effet de créer une surface hors œuvre brute ou ayant pour effet de créer une surface
+hors œuvre brute inférieure ou égale à vingt mètres carrés, quelle que soit leur hauteur, ainsi que les ouvrages de
+production d'électricité à partir de l'énergie solaire installés sur le sol dont la puissance crête est inférieure à trois
+kilowatts ; 
 
 b) Les murs, quelle que soit leur hauteur.
 
+**Nota:**
+
+Décret n° 2009-1414 du 19 novembre 2009 art 9 : Les dispositions du présent article entrent en vigueur le premier jour du
+mois suivant la date de sa publication au Journal officiel.
+
+Toutefois, elles ne sont pas applicables aux ouvrages de production d'électricité à partir de l'énergie solaire installés sur
+le sol :
+
+a) Lorsque ces ouvrages comportent des installations ou constructions ayant fait l'objet d'une décision de non-opposition à
+déclaration préalable ou d'un permis de construire avant l'entrée en vigueur du présent décret ;
+
+b) Lorsque ces ouvrages sont dispensés de toute formalité au titre du code de l'urbanisme et que les travaux ont été
+entrepris ou achevés à la date de l'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 8 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 	**Cité par**:
 
@@ -42970,14 +43117,18 @@ b) Les murs, quelle que soit leur hauteur.
 	  - Code de l'urbanisme - art. R421-24 (M)
 	  - Code de la construction et de l'habitation. - art. R*421-8 (M)
 
+	**Modifié par**:
+
+	  - Décret n°2009-1414 du 19 novembre 2009 - art. 3
+
 	**Anciens textes**:
 
 	  - Code de l'urbanisme - art. R421-10-1 (T)
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L331-2 (M)
-	  - Code de l'environnement - art. R*331-4 (Ab)
+	  - Code de l'environnement - art. L331-2
+	  - Code de l'environnement - art. R331-4
 
 
 ###### Article R*421-10
