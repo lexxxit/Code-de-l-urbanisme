@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2009-12-01
+Version Consolidée au 2009-12-16
 
 # Partie législative
 
@@ -52266,22 +52266,14 @@ Le préfet de la région d'Ile-de-France et les préfets de département veillen
 opérations qui leur sont soumises et les agréments délivrés soient compatibles avec les orientations fixées par les
 directives territoriales d'aménagement et le schéma directeur de la région d'Ile-de-France, avec les orientations de la
 politique d'aménagement et de développement du territoire, ainsi qu'avec celles de la politique de la ville et notamment
-celles qui ont été approuvées en comité interministériel d'aménagement et de compétitivité des territoires et et en comité
-interministériel de la ville.
+celles qui ont été approuvées en         comité interministériel d'aménagement et de développement du territoire  et et en
+comité interministériel de la ville.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°67-944 1967-10-24 ART. 7
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
 	**Modifié par**:
 
-	  - Décret n°2007-1599 du 12 novembre 2007 - art. 4 () JORF 14 novembre 2007
+	  - Décret n°2009-1549 du 14 décembre 2009 - art. 6 (Ab)
 
 
 ###### Article R*510-8
