@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2009-12-16
+Version Consolidée au 2009-12-28
 
 # Partie législative
 
@@ -24503,23 +24503,28 @@ La pratique du camping en dehors des terrains aménagés à cet effet peut en ou
 plan local d'urbanisme ou le document d'urbanisme en tenant lieu. Lorsque cette pratique est de nature à porter atteinte à la
 salubrité, à la sécurité ou à la tranquillité publiques, aux paysages naturels ou urbains, à la conservation des perspectives
 monumentales, à la conservation des milieux naturels ou à l'exercice des activités agricoles et forestières, l'interdiction
-peut également être prononcée par arrêté du maire pris après avis de la commission départementale d'action touristique.
+peut également être prononcée par arrêté du maire.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°73-1023 1973-11-08
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 18
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 1 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 	**Cité par**:
 
 	  - Code de l'environnement - art. R365-3 (M)
 	  - Code de l'urbanisme - art. A111-4 (V)
 	  - Code de l'urbanisme - art. R*111-39 (VT)
+	  - Code de l'urbanisme - art. R*111-44 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R111-34 (V)
 
 
 ##### Sous-section 5 : Information du public.
@@ -45748,26 +45753,6 @@ l'accord de l'architecte des Bâtiments de France.
 	  - Décret n°2014-1299 du 23 octobre 2014 - art. (V)
 
 
-###### Article R*423-55
-
-Lorsque la demande de permis porte sur l'aménagement d'un terrain de camping, l'autorité compétente recueille l'avis de la
-commission départementale de l'action touristique.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1650 du 23 décembre 2009 - art. 18
-
-
 ###### Article R*423-56
 
 Lorsque la demande porte sur un projet d'implantation en Corse d'un ouvrage de production utilisant la géothermie, l'énergie
@@ -50410,24 +50395,22 @@ mandataire de son choix.
 ###### Article R443-12
 
 Sont habilités à inspecter, même inopinément, les terrains aménagés pour le camping et ceux sur lesquels se trouvent des
-caravanes dont le stationnement a été autorisé ou aurait dû l'être :
+caravanes dont le stationnement a été autorisé ou aurait dû l'être : 
 
-a) Les personnes visées à l'article L. 461-1 ;
+a) Les personnes visées à l'article L. 461-1 ; 
 
 b) Les fonctionnaires et agents assermentés désignés par le ministre chargé du tourisme et porteurs d'un ordre de mission ou
-d'une commission ;
-
-c) Les membres de la commission départementale de l'action touristique.
+d'une commission.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 18
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L461-1 (V)
+	  - Code de l'urbanisme - art. L461-1
 
 	**Cité par**:
 
@@ -50441,10 +50424,6 @@ c) Les membres de la commission départementale de l'action touristique.
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code du tourisme. - art. D331-9 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 #### Chapitre IV : Modèles nationaux de demande et de décision
@@ -51871,27 +51850,26 @@ l'amende prévue pour les contraventions de la 5e classe.
 
 ###### Article R*480-7
 
-Il est interdit, dans les terrains de camping et dans les parcs résidentiels de loisirs :
+Il est interdit, dans les terrains de camping et dans les parcs résidentiels de loisirs : 
 
 - d'entreposer ou d'ajouter, tant sur les emplacements que sur les parties communes, des objets usagés, des abris de bois, de
 tôle ou d'autres matériaux ;
 
 - de laisser en état de délabrement les habitations légères de loisirs, les résidences mobiles de loisirs, les caravanes ou
-tout autre véhicule ;
+tout autre véhicule ; 
 
-- de ne pas entretenir la végétation.
+- de ne pas entretenir la végétation. 
 
 Si les prescriptions de sécurité et d'hygiène, les prescriptions fixées par l'autorisation, le permis d'aménager ou la
-décision de non-opposition à la déclaration préalable ne sont pas respectées, le maire peut, après avis de la commission
-départementale de l'action touristique, mettre en demeure le propriétaire ou l'exploitant, par décision motivée, de procéder
-aux aménagements ou aux réparations nécessaires.
+décision de non-opposition à la déclaration préalable ne sont pas respectées, le maire peut mettre en demeure le propriétaire
+ou l'exploitant, par décision motivée, de procéder aux aménagements ou aux réparations nécessaires. 
 
 La mise en demeure informe les intéressés qu'ils peuvent présenter des observations écrites ou, sur leur demande, des
-observations orales et qu'ils peuvent se faire assister par un conseil ou représenter par un mandataire de leur choix.
+observations orales et qu'ils peuvent se faire assister par un conseil ou représenter par un mandataire de leur choix. 
 
 En cas de refus ou de silence du propriétaire ou de l'exploitant pendant un délai d'un mois à compter de la réception de la
 mise en demeure, le préfet peut ordonner la fermeture temporaire du terrain et l'évacuation des emplacements tant que les
-aménagements ou les réparations nécessaires n'auront pas été effectués.
+aménagements ou les réparations nécessaires n'auront pas été effectués. 
 
 Lorsque les travaux à réaliser nécessitent la délivrance d'un permis d'aménager, la décision de fermeture temporaire ne peut
 intervenir que si la demande de permis d'aménager n'a pas été déposée dans le délai de six mois à compter de la mise en
@@ -51901,21 +51879,12 @@ demeure ou si, déposée dans ce délai, elle a été refusée.
 
 	**Modifié par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 10 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L111-1 (M)
-	  - Code de l'urbanisme L111-1, R444-3
+	  - Décret n°2009-1650 du 23 décembre 2009 - art. 18
 
 	**Cité par**:
 
 	  - Code du tourisme. - art. D331-6 (V)
 	  - Code du tourisme. - art. D333-3-1 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R480-3
