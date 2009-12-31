@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2009-12-28
+Version Consolidée au 2010-01-01
 
 # Partie législative
 
@@ -1151,7 +1151,7 @@ La même définition est retenue en ce qui concerne l'établissement de l'assiet
 
 L'édification d'une construction d'une densité excédant le plafond légal est subordonnée au versement par le bénéficiaire de
 l'autorisation de construire d'une somme égale à la valeur du terrain dont l'acquisition serait nécessaire pour que la
-densité de la construction n'excède pas ce plafond.
+densité de la construction n'excède pas ce plafond. 
 
 L'attribution, expresse ou tacite, du permis de construire entraîne pour le bénéficiaire de l'autorisation de construire
 l'obligation d'effectuer ce versement. 
@@ -1167,6 +1167,14 @@ résultant des deux premiers alinéas du présent article n'est pas applicable s
 d'immeubles affectés à l'habitation, soit aux seuls immeubles ou parties d'immeubles affectés à l'habitation visés au I de
 l'article 278 sexies du code général des impôts pour une durée limitée qui ne peut excéder trois ans. 
 
+Lorsque des constructions de logements sont acquises dans le cadre d'un contrat prévu par l'article 1601-3 du code civil et
+régi par les articles L. 261-10 à L. 261-22 du code de la construction et de l'habitation, ouvrant droit au bénéfice du I de
+l'article 278 sexies du code général des impôts, elles peuvent bénéficier, sur demande du constructeur, de la dérogation
+instituée, le cas échéant, en application de l'alinéa précédent. Dans ce cas, la fraction du versement éventuellement
+recouvrée en excès est remboursée. La demande du constructeur peut être formulée dès la conclusion d'un contrat prévu à
+l'article L. 261-10 ou L. 261-15 du code de la construction et de l'habitation, sans excéder un délai de trente-six mois à
+compter de la demande de permis de construire. 
+
 En outre, l'autorité compétente peut décider que l'obligation de versement n'est pas applicable aux constructions édifiées
 dans une zone d'aménagement concerté. Cette décision prend effet au plus tôt lorsque le programme des équipements publics et,
 s'il en est établi un, le plan d'aménagement de zone ont été approuvés. Elle demeure applicable jusqu'à l'expiration de la
@@ -1174,20 +1182,13 @@ validité de l'acte portant création de la zone.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°90-449 du 31 mai 1990 - art. 1
-	  - Loi n°98-657 du 29 juillet 1998
-	  - Code de l'urbanisme - art. L112-1
-	  - Code de la construction et de l'habitation. - art. L351-2
-
 	**Cité par**:
 
 	  - Loi n°2008-735 du 28 juillet 2008 - art. 52 (V)
 	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 2020 (Ab)
 	  - Code de l'urbanisme - art. L112-3 (VT)
-	  - Code de l'urbanisme - art. L112-4 (M)
+	  - Code de l'urbanisme - art. L112-4 (VT)
 	  - Code de l'urbanisme - art. L112-7 (M)
 	  - Code de l'urbanisme - art. L113-2 (Ab)
 	  - Code de l'urbanisme - art. L331-36 (M)
@@ -1222,44 +1223,51 @@ validité de l'acte portant création de la zone.
 
 	**Modifié par**:
 
-	  - Loi n°2008-1443 du 30 décembre 2008 - art. 112
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 44
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 278 sexies
+	  - Code civil - art. 1601-3
+	  - Code de la construction et de l'habitation. - art. L261-10
+	  - Code de la construction et de l'habitation. - art. L261-15
 
 
 ###### Article L112-3
 
 Lorsqu'une construction nouvelle est édifiée sur un terrain qui comprend un bâtiment qui n'est pas destiné à être démoli, la
-densité est calculée en ajoutant sa surface de plancher à celle de la construction nouvelle.
+densité est calculée en ajoutant sa surface de plancher à celle de la construction nouvelle. 
 
 Toutefois, il n'est pas tenu compte, dans le calcul du versement défini au premier alinéa de l'article L. 112-2, de la
 surface de plancher du bâtiment déjà implanté sur ce terrain lorsque ce bâtiment appartient à l'Etat, à la région, au
 département, à la commune ou à un établissement public administratif et qu'il est à fois affecté à un service public ou
-d'utilité générale et non productif de revenus.
+d'utilité générale et non productif de revenus. 
 
-Il n'est pas non plus tenu compte, dans le cas d'une décision prise en application du cinquième alinéa de l'article L. 112-2,
+Il n'est pas non plus tenu compte, dans le cas d'une décision prise en application du dernier alinéa de l'article L. 112-2,
 de la surface de plancher des immeubles ou parties d'immeubles déjà implantés sur ce terrain et affectés à l'habitation.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 2000-12-13 art. 50 I JORF 14 décembre 2000
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 44
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Loi n°2000-1208 2000-12-13 art. 50 II
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L112-2 (M)
+	  - Code de l'urbanisme - art. L112-2
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*333-1 (Ab)
 	  - Code de l'urbanisme - art. R*333-14 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L112-4
@@ -6012,13 +6020,27 @@ du code de la construction et de l'habitation et par les sociétés d'économie 
 prépondérant au moyen de prêts ouvrant droit au bénéfice des dispositions prévues au titre V du livre III du code de la
 construction et de l'habitation. 
 
-Il peut également exonérer de ladite taxe des locaux artisanaux et industriels situés dans les communes de moins de deux
-mille habitants. 
+Lorsque des constructions de logements sont acquises par les organismes et sociétés mentionnés à l'alinéa précédent, dans le
+cadre d'un contrat prévu par l'article 1601-3 du code civil et régi par les L. 261-10 à L. 261-22 du code de la construction
+et de l'habitation, elles peuvent bénéficier, sur demande du constructeur, de l'exonération décidée, le cas échéant, en
+application de l'alinéa précédent. Dans ce cas, la fraction de la taxe éventuellement recouvrée en excès est remboursée. La
+demande du constructeur peut être formulée dès la conclusion d'un contrat prévu à l'article L. 261-10 ou L. 261-15 du même
+code, sans excéder un délai de trente-six mois à compter de la demande de permis de construire. 
+
+Le conseil général peut également exonérer de ladite taxe des locaux artisanaux et industriels situés dans les communes de
+moins de deux mille habitants. 
 
 Dans les départements d'outre-mer, le conseil général peut exonérer de la taxe :
 
 - les locaux à usage d'habitation principale à caractère social financés à l'aide de prêts aidés par l'Etat, et édifiés par
 les organismes et sociétés d'économie mixte mentionnés ci-dessus, pour leur compte ou à titre de prestataires de services ;
+
+Lorsque des constructions de logements sont acquises par les organismes et sociétés mentionnés à l'alinéa précédent, dans le
+cadre d'un contrat prévu par l'article 1601-3 du code civil et régi par les L. 261-10 à L. 261-22 du code de la construction
+et de l'habitation, elles peuvent bénéficier, sur demande du constructeur, de l'exonération décidée, le cas échéant, en
+application de l'alinéa précédent. Dans ce cas, la fraction de la taxe éventuellement recouvrée en excès est remboursée. La
+demande du constructeur peut être formulée dès la conclusion d'un contrat prévu à l'article L. 261-10 ou L. 261-15 du même
+code, sans excéder un délai de trente-six mois à compter de la demande de permis de construire. 
 
 - les logements à vocation très sociale. 
 
@@ -6027,7 +6049,7 @@ la taxe locale d'équipement.
 
 La taxe est assise sur la valeur de l'ensemble immobilier déterminée conformément aux paragraphes I et II de l'article 1585 D
 du code général des impôts. Par délibération, le conseil général en fixe le taux, qui peut varier suivant les catégories de
-construction, sans pouvoir excéder 2  %. 
+construction, sans pouvoir excéder 2 %. 
 
 Lorsqu'elle est établie sur les aménagements, la taxe est assise sur la superficie des terrains faisant l'objet de
 l'autorisation. Son taux est fixé par délibération du conseil général dans la limite de 1, 52 euro par mètre carré. Cette
@@ -6041,32 +6063,16 @@ La taxe constitue, du point de vue fiscal, un élément du prix de revient de l'
 La taxe est perçue au profit du département en tant que recette grevée d'affectation spéciale et a le caractère d'une recette
 de fonctionnement.
 
-**Nota:**
-
-L'article 41 de l'ordonnance n° 2005-1527 énonce : " La présente ordonnance entrera en vigueur à des dates fixées par décret
-en Conseil d'Etat et au plus tard le 1er juillet 2007. " 
-
-Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
-dans ce même article 26. 
-
-En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
-l'ordonnance au 1er octobre 2007.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1585 C, 1585 D
-	  - Loi n°83-8 1983-01-07
-	  - Loi n°83-597 1983-07-07
-	  - Loi n°83-663 1983-07-22 art. 56
-	  - Loi n°96-1241 1996-12-30
-	  - Code de l'urbanisme - art. L130-5 (M)
-	  - Code de l'urbanisme - art. L142-1 (M)
-	  - Code de l'urbanisme - art. L142-10 (V)
-	  - Code de la construction et de l'habitation. - art. L411-2 (M)
-	  - Code de l'environnement - art. L332-1 (V)
-	  - Code de l'environnement - art. L414-1 (M)
+	  - Loi n°83-8 du 7 janvier 1983
+	  - Loi n°83-597 du 7 juillet 1983
+	  - Loi n°83-663 du 22 juillet 1983 - art. 56
+	  - Loi n°96-1241 du 30 décembre 1996
+	  - Code général des impôts, CGI. - art. 1585 C
+	  - Code civil - art. 1601-3
 
 	**Cité par**:
 
@@ -6100,12 +6106,7 @@ l'ordonnance au 1er octobre 2007.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 8 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
-	  - Ordonnance n°2006-596 du 23 mai 2006 - art. 3 (V) JORF 25 mai 2006
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 44
 
 
 ###### Article L142-3
