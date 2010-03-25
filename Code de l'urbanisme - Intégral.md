@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2010-03-25
+Version Consolidée au 2010-03-26
 
 # Partie législative
 
@@ -25876,29 +25876,25 @@ du schéma.
 ###### Article R*122-8
 
 Conformément à l'article L. 112-1 du code rural, le président de l'établissement public consulte lors de l'élaboration du
-schéma de cohérence territoriale le document de gestion de l'espace agricole et forestier, lorsqu'il existe.
+schéma de cohérence territoriale le document de gestion de l'espace agricole et forestier, lorsqu'il existe. 
 
 Conformément à l'article L. 112-3 du code rural, le schéma de cohérence territoriale ne peut être approuvé qu'après avis de
 la chambre d'agriculture et, le cas échéant, de l'Institut national de l'origine et de la qualité dans les zones
-d'appellation d'origine contrôlée et du centre régional de la propriété forestière lorsqu'il prévoit une réduction des
+d'appellation d'origine contrôlée et du Centre national de la propriété forestière lorsqu'il prévoit une réduction des
 espaces agricoles ou forestiers. Il va de même en cas de révision, de modification et de mise en compatibilité en application
 de l'article L. 122-15. Ces avis sont rendus dans un délai de deux mois à compter de la saisine. En l'absence de réponse à
 l'issue de ce délai, l'avis est réputé favorable.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L122-15 (M)
-	  - Code rural L112-1, L112-3
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
 	**Modifié par**:
 
-	  - Ordonnance n°2006-1547 du 7 décembre 2006 - art. 6 (V) JORF 8 décembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2010-326 du 22 mars 2010 - art. 3
+
+	**Cite**:
+
+	  - Code rural - art. L112-1
+	  - Code rural - art. L112-3
 
 
 ###### Article R*122-9
@@ -27138,11 +27134,11 @@ fois qu'ils le demandent pendant la durée de l'élaboration ou de la révision 
 
 Conformément à l'article L. 112-1 du code rural, le maire ou le président de l'établissement public de coopération
 intercommunale compétent consulte lors de l'élaboration du plan local d'urbanisme le document de gestion de l'espace agricole
-et forestier, lorsqu'il existe.
+et forestier, lorsqu'il existe. 
 
 Conformément à l'article L. 112-3 du code rural, le plan local d'urbanisme ne peut être approuvé qu'après avis de la chambre
 d'agriculture et, le cas échéant, de l'Institut national de l'origine et de la qualité dans les zones d'appellation d'origine
-contrôlée et du centre régional de la propriété forestière lorsqu'il prévoit une réduction des espaces agricoles ou
+contrôlée et du Centre national de la propriété forestière lorsqu'il prévoit une réduction des espaces agricoles ou
 forestiers. Il va de même en cas de révision, de révision simplifiée et d'une mise en compatibilité en application de
 l'article L. 123-16. Ces avis sont rendus dans un délai de deux mois à compter de la saisine. En l'absence de réponse à
 l'issue de ce délai, l'avis est réputé favorable.
@@ -27151,16 +27147,13 @@ l'issue de ce délai, l'avis est réputé favorable.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-1547 du 7 décembre 2006 - art. 6 (V) JORF 8 décembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2010-326 du 22 mars 2010 - art. 3
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L123-16 (M)
-	  - Code rural L112-1, L112-3
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
+	  - Code rural - art. L112-1
+	  - Code rural - art. L112-16
+	  - Code rural - art. L112-3
 
 
 ###### Article R*123-18
@@ -28228,23 +28221,23 @@ La zone 3 est constituée des communes métropolitaines qui ne sont comprises ni
 
 Les coupes et abattages d'arbres sont soumis à déclaration préalable dans les bois, forêts et parcs situés sur le territoire
 des communes ou parties de communes où l'établissement d'un plan local d'urbanisme a été prescrit mais où ce plan n'a pas
-encore été autorisé ainsi que dans les espaces boisés classés.
+encore été autorisé ainsi que dans les espaces boisés classés. 
 
-Toutefois, cette déclaration n'est pas requise :
+Toutefois, cette déclaration n'est pas requise : 
 
-1° Lorsque le propriétaire procède à l'enlèvement des arbres dangereux, des chablis et des bois morts ;
+1° Lorsque le propriétaire procède à l'enlèvement des arbres dangereux, des chablis et des bois morts ; 
 
 2° Lorsque les bois et forêts sont soumis au régime forestier et administrés conformément aux dispositions du titre I du
-livre Ier de la première partie du code forestier ;
+livre Ier de la première partie du code forestier ; 
 
 3° Lorsque le propriétaire a fait agréer un plan simple de gestion dans les conditions prévues aux articles L. 222-1 à L.
-222-4 et à l'article L. 223-2 du code forestier ;
+222-4 et à l'article L. 223-2 du code forestier ; 
 
 4° Lorsque les coupes entrent dans le cadre d'une autorisation par catégories définies par arrêté du préfet pris après avis
-du centre régional de la propriété forestière en application de l'article L. 130-1 (5e alinéa) ;
+du Centre national de la propriété forestière en application de l'article L. 130-1 (5e alinéa) ; 
 
 5° Lorsque les coupes font l'objet d'une autorisation délivrée au titre des articles R. 222-13 à R. 222-20, R. 412-2 à R.
-412-6 du code forestier, ou du décret du 28 juin 1930 pris pour l'application de l'article 793 du code général des impôts.
+412-6 du code forestier, ou du décret du 28 juin 1930 pris pour l'application de l'article 793 du code général des impôts. 
 
 La demande d'autorisation de défrichement présentée en application des articles L. 312-1 et suivants du code forestier dans
 les cas prévus au quatrième alinéa de l'article L. 130-1 vaut déclaration préalable de coupe ou d'abattage d'arbres au titre
@@ -28252,39 +28245,44 @@ de cet article.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 793
-	  - Code forestier - art. L223-2 (M)
-	  - Code forestier - art. L312-1 (M)
-	  - Code forestier L223-2, R222-13 à R222-20, R412-2 à R412-6, L312-1
-	  - Code de l'urbanisme - art. L130-1 (M)
-	  - Code de l'urbanisme L222-1 à L222-4, L130-1
-	  - Décret n°1930-06-28
-
 	**Modifié par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 4 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+	  - Décret n°2010-326 du 22 mars 2010 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 793
+	  - Code forestier - art. R*412-2
+	  - Code forestier - art. R222-13
+	  - Code de l'urbanisme - art. L130-1
+	  - Code forestier (nouveau) - art. L222-1
+	  - Code forestier (nouveau) - art. L223-2
+	  - Code forestier (nouveau) - art. L312-1
 
 	**Cité par**:
 
-	  - Code forestier (nouveau) - art. R141-26 (M)
 	  - Code de l'environnement - art. R300-2 (M)
 	  - Code de l'urbanisme - art. R*130-5 (Ab)
 	  - Code de l'urbanisme - art. R*710-1 (Ab)
 	  - Code de l'urbanisme - art. R130-14 (M)
 	  - Code de l'urbanisme - art. R130-3 (M)
 	  - Code de l'urbanisme - art. R142-3 (M)
+	  - Code forestier (nouveau) - art. R141-26 (M)
 	  - Code forestier - art. R412-8 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. *R421-23 (V)
+	  - Code de l'urbanisme - art. R421-23-2 (V)
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*130-3 (M)
 	  - PILOTE_SUIVEUR: Code forestier - art. R412-8 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 ####  Section 2 : Caractère exécutoire de la décision de non-opposition à la déclaration préalable.
@@ -28493,28 +28491,28 @@ notamment des possibilités de construction.
 
 ###### Article R*130-20
 
-Le maire ou le président de l'établissement public de coopération intercommunale informe le centre régional de la propriété
+Le maire ou le président de l'établissement public de coopération intercommunale informe le Centre national de la propriété
 forestière des décisions prescrivant l'établissement du plan local d'urbanisme ou du document d'urbanisme en tenant lieu,
 ainsi que de classements d'espaces boisés intervenus en application du premier alinéa de l'article L. 130-1 du code de
 l'urbanisme.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
 	**Modifié par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 4 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+	  - Décret n°2010-326 du 22 mars 2010 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L130-1 (M)
+	  - Code de l'urbanisme - art. L130-1
 
-	**Anciens textes**:
+	**Nouveaux textes**:
 
-	  - Code de l'urbanisme - art. R130-11 (M)
+	  - Code de l'urbanisme - art. R113-1 (V)
 
 
 ###### Article R*130-21
@@ -40338,8 +40336,6 @@ les réclamations sont présentées instruites et jugées selon les régles de p
 
 	  - Décret n°2016-6 du 5 janvier 2016 - art. 1
 
-
-#####    Sous-section 3 : Participation à la réalisation d'équipements publics instituée dans les secteurs d'aménagement
 
 ##### Sous-section 3 : Participation à la réalisation d'équipements publics dans les secteurs de programme d'aménagement d'ensemble et de projet urbain partenarial
 
