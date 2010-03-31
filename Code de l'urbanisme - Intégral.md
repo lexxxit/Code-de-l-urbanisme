@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2010-03-26
+Version Consolidée au 2010-04-01
 
 # Partie législative
 
@@ -25445,7 +25445,13 @@ et le préfet de département, pour les schémas de cohérence territoriale et l
 même article, sont consultés sur l'évaluation environnementale contenue dans le rapport de présentation et sur la prise en
 compte de l'environnement par le projet de document d'urbanisme, trois mois au plus tard avant l'ouverture de l'enquête
 publique ou de la consultation du public prévue par des textes particuliers.L'avis est réputé favorable s'il n'intervient pas
-dans un délai de trois mois. Il est, s'il y a lieu, joint au dossier d'enquête publique ou mis à la disposition du public. 
+dans un délai de trois mois. Il est, s'il y a lieu, joint au dossier d'enquête publique ou mis à la disposition du public.
+
+Dès réception des documents qui lui sont soumis, l'autorité environnementale consulte le ministre chargé de la santé pour les
+documents mentionnés aux 1° à 3° du I de l'article R. 121-14 ou le directeur général de l'agence régionale de santé pour les
+autres documents. Cette consultation est réputée réalisée en l'absence de réponse du directeur général de cette agence dans
+le délai d'un mois à compter de la réception par l'agence de la demande de l'autorité environnementale. En cas d'urgence,
+cette autorité peut réduire ce délai sans que celui-ci puisse être inférieur à dix jours ouvrés.  
 
 Avant de rendre son avis, le préfet de Corse consulte le conseil des sites de Corse. 
 
@@ -25462,7 +25468,7 @@ liaison avec les services de l'Etat compétents.
 
 	**Modifié par**:
 
-	  - Décret n°2009-496 du 30 avril 2009 - art. 5
+	  - Décret n°2010-344 du 31 mars 2010 - art. 351
 
 	**Cite**:
 
