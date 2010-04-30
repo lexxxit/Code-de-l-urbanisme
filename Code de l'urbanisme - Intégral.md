@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2010-04-15
+Version Consolidée au 2010-05-01
 
 # Partie législative
 
@@ -6246,28 +6246,27 @@ de préemption.
 
 Toute aliénation mentionnée à l'article L. 142-3 est subordonnée, à peine de nullité, à une déclaration préalable adressée
 par le propriétaire au président du conseil général du département dans lequel sont situés les biens ; ce dernier en transmet
-copie au directeur des services fiscaux. Cette déclaration comporte obligatoirement l'indication du prix et des conditions de
-l'aliénation projetée ou, en cas d'adjudication, l'estimation du bien ou sa mise à prix.
+copie au directeur départemental des finances publiques. Cette déclaration comporte obligatoirement l'indication du prix et
+des conditions de l'aliénation projetée ou, en cas d'adjudication, l'estimation du bien ou sa mise à prix. 
 
 Lorsque la contrepartie de l'aliénation fait l'objet d'un paiement en nature, la déclaration doit mentionner le prix
-d'estimation de cette contrepartie.
+d'estimation de cette contrepartie. 
 
 Le silence des titulaires des droits de préemption et de substitution pendant trois mois à compter de la réception de la
-déclaration mentionnée au premier alinéa vaut renonciation à l'exercice de ces droits.
+déclaration mentionnée au premier alinéa vaut renonciation à l'exercice de ces droits. 
 
 L'action en nullité prévue au premier alinéa se prescrit par cinq ans à compter de la publication de l'acte portant transfert
 de propriété.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 12 () JORF 19 juillet 1985 en vigueur le 1er juin 1987
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-516 du 14 mars 1986 - art. 10 (M)
-	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
+	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 121
 
 	**Cité par**:
 
@@ -6282,11 +6281,7 @@ de propriété.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L142-3 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+	  - Code de l'urbanisme - art. L142-3 (VT)
 
 
 ###### Article L142-5
@@ -9483,34 +9478,30 @@ mentionnées au présent article sur la totalité ou certaines parties du territ
 
 Tout propriétaire d'un bien soumis au droit de préemption peut proposer au titulaire de ce droit l'acquisition de ce bien, en
 indiquant le prix qu'il en demande. Le titulaire doit se prononcer dans un délai de deux mois à compter de ladite proposition
-dont copie doit être transmise par le maire au directeur des services fiscaux.
+dont copie doit être transmise par le maire au directeur départemental des finances publiques. 
 
 A défaut d'accord amiable, le prix est fixé par la juridiction compétente en matière d'expropriation selon les règles
-mentionnées à l'article L. 213-4.
+mentionnées à l'article L. 213-4. 
 
 En cas d'acquisition, le titulaire du droit de préemption devra régler le prix au plus tard six mois après sa décision
-d'acquérir le bien au prix demandé ou six mois après la décision définitive de la juridiction.
+d'acquérir le bien au prix demandé ou six mois après la décision définitive de la juridiction. 
 
 En cas de refus ou à défaut de réponse du titulaire du droit de préemption dans le délai de deux mois prévu à l'alinéa
-premier, le propriétaire bénéficie des dispositions de l'article L. 213-8.
+premier, le propriétaire bénéficie des dispositions de l'article L. 213-8. 
 
 En l'absence de paiement ou, s'il y a obstacle au paiement, de consignation de la somme due à l'expiration du délai prévu au
 troisième alinéa, le bien est, sur leur demande, rétrocédé à l'ancien propriétaire ou à ses ayants cause universels ou à
 titre universel qui en reprennent la libre disposition. Dans le cas où le transfert de propriété n'a pas été constaté par un
-acte notarié ou authentique en la forme administrative, la rétrocession s'opère par acte sous seing privé.
+acte notarié ou authentique en la forme administrative, la rétrocession s'opère par acte sous seing privé. 
 
 Les dispositions des articles L. 213-11 et L. 213-12 ne sont pas applicables à un bien acquis dans les conditions prévues par
 le présent article.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 6 () JORF 19 juillet 1985 en vigueur le 1er juin 1987
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
+	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 121
 
 	**Cité par**:
 
@@ -9533,14 +9524,10 @@ le présent article.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L213-11 (M)
-	  - Code de l'urbanisme - art. L213-12 (M)
-	  - Code de l'urbanisme - art. L213-4 (M)
-	  - Code de l'urbanisme - art. L213-8 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+	  - Code de l'urbanisme - art. L213-11 (V)
+	  - Code de l'urbanisme - art. L213-12 (V)
+	  - Code de l'urbanisme - art. L213-4 (V)
+	  - Code de l'urbanisme - art. L213-8 (V)
 
 
 ###### Article L211-7
@@ -9756,36 +9743,32 @@ l'arrêté délimitant le périmètre provisoire devient caduc dans les conditio
 Tout propriétaire, à la date de publication de l'acte instituant la zone d'aménagement différé, ou délimitant son périmètre
 provisoire d'un bien soumis au droit de préemption, ou ses ayants cause universels ou à titre universel peut proposer au
 titulaire de ce droit l'acquisition de ce bien, en indiquant le prix qu'il en demande. Le titulaire doit se prononcer dans un
-délai de deux mois à compter de ladite proposition dont copie doit être transmise par le maire au directeur des services
-fiscaux.
+délai de deux mois à compter de ladite proposition dont copie doit être transmise par le maire au directeur départemental des
+finances publiques. 
 
 A défaut d'accord amiable, le prix est fixé par la juridiction compétente en matière d'expropriation selon les règles
-mentionnées à l'article L. 213-4.
+mentionnées à l'article L. 213-4. 
 
 En cas d'acquisition, le titulaire du droit de préemption devra régler le prix au plus tard six mois après sa décision
-d'acquérir le bien au prix demandé ou six mois après la décision définitive de la juridiction.
+d'acquérir le bien au prix demandé ou six mois après la décision définitive de la juridiction. 
 
 En cas de refus ou à défaut de réponse du titulaire du droit de préemption dans les deux mois, le bien visé cesse d'être
-soumis au droit de préemption.
+soumis au droit de préemption. 
 
 En l'absence de paiement ou, s'il y a obstacle au paiement, de consignation de la somme due à l'expiration du délai prévu au
 troisième alinéa, le bien est rétrocédé à l'ancien propriétaire ou à ses ayants cause universels ou à titre universel qui en
 reprennent la libre disposition, sur demande de ceux-ci. Dans le cas où le transfert de propriété n'a pas été constaté par un
 acte notarié ou authentique en la forme administrative, la rétrocession s'opère par acte sous seing privé. Le bien visé cesse
-alors d'être soumis au droit de préemption.
+alors d'être soumis au droit de préemption. 
 
 Les dispositions des articles L. 213-11 et L. 213-12 ne sont pas applicables à un bien acquis dans les conditions définies
 par le présent article.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
-
 	**Modifié par**:
 
-	  - Loi - art. 34 () JORF 19 juillet 1991
+	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 121
 
 	**Cité par**:
 
@@ -9812,13 +9795,9 @@ par le présent article.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L213-11 (M)
-	  - Code de l'urbanisme - art. L213-12 (M)
-	  - Code de l'urbanisme - art. L213-4 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+	  - Code de l'urbanisme - art. L213-11 (V)
+	  - Code de l'urbanisme - art. L213-12 (V)
+	  - Code de l'urbanisme - art. L213-4 (V)
 
 
 ###### Article L212-4
@@ -9989,23 +9968,19 @@ collectivité titulaire du droit de préemption urbain.
 
 Toute aliénation visée à l'article L. 213-1 est subordonnée, à peine de nullité, à une déclaration préalable faite par le
 propriétaire à la mairie de la commune où se trouve situé le bien. Cette déclaration, dont le maire transmet copie au
-directeur des services fiscaux, comporte obligatoirement l'indication du prix et des conditions de l'aliénation projetée, ou
-en cas d'adjudication, l'estimation du bien ou sa mise à prix.
+directeur départemental des finances publiques, comporte obligatoirement l'indication du prix et des conditions de
+l'aliénation projetée, ou en cas d'adjudication, l'estimation du bien ou sa mise à prix. 
 
 Lorsque la contrepartie de l'aliénation fait l'objet d'un paiement en nature, la déclaration doit mentionner le prix
-d'estimation de cette contrepartie.
+d'estimation de cette contrepartie. 
 
 Le silence du titulaire du droit de préemption pendant deux mois à compter de la réception de la déclaration mentionnée au
-premier alinéa vaut renonciation à l'exercice du droit de préemption.
+premier alinéa vaut renonciation à l'exercice du droit de préemption. 
 
 L'action en nullité prévue au premier alinéa se prescrit par cinq ans à compter de la publication de l'acte portant transfert
 de propriété.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°62-848 1962-07-26 art. 11 ter
 
 	**Cité par**:
 
@@ -10035,21 +10010,13 @@ de propriété.
 	  - Code du patrimoine - art. R621-98 (V)
 	  - Code du patrimoine - art. R621-99 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 5 (V)
-
 	**Modifié par**:
 
-	  - Loi - art. 34 () JORF 19 juillet 1991
+	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 121
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L213-1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+	  - Code de l'urbanisme - art. L213-1 (V)
 
 
 ###### Article L213-2-1
@@ -10178,11 +10145,11 @@ vendeur mais peut réviser le montant de cette rente et du capital éventuel.
 ###### Article L213-4-1
 
 Lorsque la juridiction compétente en matière d'expropriation a été saisie dans les cas prévus aux articles L. 211-5, L.
-211-6, L. 212-3 et L. 213-4, le titulaire du droit de préemption doit consigner une somme égale à 15  % de l'évaluation faite
-par le directeur des services fiscaux. 
+211-6, L. 212-3 et L. 213-4, le titulaire du droit de préemption doit consigner une somme égale à 15 % de l'évaluation faite
+par le directeur départemental des finances publiques. 
 
-La consignation s'opère au seul vu de l'acte par lequel la juridiction a été saisie et de l'évaluation du directeur des
-services fiscaux.
+La consignation s'opère au seul vu de l'acte par lequel la juridiction a été saisie et de l'évaluation du directeur
+départemental des finances publiques.
 
 A défaut de notification d'une copie du récépissé de consignation à la juridiction et au propriétaire dans le délai de trois
 mois à compter de la saisine de cette juridiction, le titulaire du droit de préemption est réputé avoir renoncé à
@@ -10190,24 +10157,21 @@ l'acquisition ou à l'exercice du droit de préemption.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 121
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L211-5 (V)
+	  - Code de l'urbanisme - art. L211-6 (Ab)
+	  - Code de l'urbanisme - art. L212-3 (V)
+	  - Code de l'urbanisme - art. L213-4 (V)
+
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. L213-4-2 (V)
 	  - Code de l'urbanisme - art. R213-11 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme l211-5, l211-6, l212-3, l213-4
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-	**Créé par**:
-
-	  - Loi - art. 33 () JORF 19 juillet 1991
-	  - Loi - art. 34 () JORF 19 juillet 1991
-	  - Loi n°91-662 1991-07-13 art. 33, 34 IV, VI JORF 19 juillet 1991
 
 
 ###### Article L213-4-2
@@ -11248,27 +11212,27 @@ s'appliquent à l'ensemble des biens mis en vente.
 
 L'Etat, les sociétés et les établissements publics mentionnés à l'article L. 240-1 notifient à la commune ou à
 l'établissement public de coopération intercommunale compétent leur intention d'aliéner leurs biens et droits immobiliers et
-en indiquent le prix de vente tel qu'il est estimé par le directeur des services fiscaux. La commune ou l'établissement
-public de coopération intercommunale compétent peut, dans un délai de deux mois à compter de cette notification, décider
-d'acquérir les biens et droits immobiliers au prix déclaré ou proposer de les acquérir à un prix inférieur en application des
-dispositions de l'article L. 3211-7 du code général de la propriété des personnes publiques. A défaut d'accord sur le prix,
-la commune ou l'établissement public de coopération intercommunale peut, dans le même délai ou dans un délai de quinze jours
-à compter de la notification de la réponse de l'Etat à sa demande d'une diminution du prix de vente, saisir le juge de
-l'expropriation en vue de fixer le prix de l'immeuble et en informe le vendeur. Le prix est fixé comme en matière
-d'expropriation ; il est exclusif de toute indemnité accessoire et notamment de l'indemnité de réemploi. La commune ou
-l'établissement public de coopération intercommunale dispose d'un délai de deux mois à compter de la décision
+en indiquent le prix de vente tel qu'il est estimé par le directeur départemental des finances publiques. La commune ou
+l'établissement public de coopération intercommunale compétent peut, dans un délai de deux mois à compter de cette
+notification, décider d'acquérir les biens et droits immobiliers au prix déclaré ou proposer de les acquérir à un prix
+inférieur en application des dispositions de l'article L. 3211-7 du code général de la propriété des personnes publiques. A
+défaut d'accord sur le prix, la commune ou l'établissement public de coopération intercommunale peut, dans le même délai ou
+dans un délai de quinze jours à compter de la notification de la réponse de l'Etat à sa demande d'une diminution du prix de
+vente, saisir le juge de l'expropriation en vue de fixer le prix de l'immeuble et en informe le vendeur. Le prix est fixé
+comme en matière d'expropriation ; il est exclusif de toute indemnité accessoire et notamment de l'indemnité de réemploi. La
+commune ou l'établissement public de coopération intercommunale dispose d'un délai de deux mois à compter de la décision
 juridictionnelle devenue définitive pour décider d'acquérir les biens et droits immobiliers au prix fixé par le juge. A moins
 que le bien ne soit retiré de la vente, la commune ou l'établissement public en règle le prix six mois au plus tard après sa
-décision d'acquérir.
+décision d'acquérir. 
 
-En cas de refus d'acquérir au prix estimé par le directeur des services fiscaux, d'absence de saisine du juge de
-l'expropriation, de refus d'acquérir au prix fixé par lui ou à défaut de réponse dans le délai de deux mois mentionné dans la
-cinquième phrase du premier alinéa, la procédure d'aliénation des biens peut se poursuivre.
+En cas de refus d'acquérir au prix estimé par le directeur départemental des finances publiques, d'absence de saisine du juge
+de l'expropriation, de refus d'acquérir au prix fixé par lui ou à défaut de réponse dans le délai de deux mois mentionné dans
+la cinquième phrase du premier alinéa, la procédure d'aliénation des biens peut se poursuivre. 
 
 Si l'Etat, les sociétés et les établissements publics mentionnés à l'article L. 240-1 décident d'aliéner les biens et droits
-immobiliers à un prix inférieur à celui initialement proposé par le directeur des services fiscaux ou fixé par le juge de
-l'expropriation, ils en proposent l'acquisition à la commune ou à l'établissement public de coopération intercommunale qui
-disposent d'un délai de deux mois pour répondre.
+immobiliers à un prix inférieur à celui initialement proposé par le directeur départemental des finances publiques ou fixé
+par le juge de l'expropriation, ils en proposent l'acquisition à la commune ou à l'établissement public de coopération
+intercommunale qui disposent d'un délai de deux mois pour répondre. 
 
 Si les biens et droits immobiliers n'ont pas été aliénés dans un délai de trois ans à compter de la notification de la
 déclaration d'intention d'aliéner ou de la décision devenue définitive du juge de l'expropriation, la commune ou
@@ -11276,23 +11240,19 @@ l'établissement public de coopération intercommunale recouvre son droit de pri
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2006-872 du 13 juillet 2006 - art. 15 () JORF 16 juillet 2006
+	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 121
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publiqu - art. L3211-7 (M)
+	  - Code général de la propriété des personnes publiques. - art. L3211-7
 	  - Code de l'urbanisme - art. L240-1 (V)
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. L211-3 (V)
 	  - Code général de la propriété des personnes publ... - art. L3211-7-1 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 ## Livre III : Aménagement foncier
@@ -14923,8 +14883,8 @@ son patrimoine et le produit de la vente des biens et droits mobiliers et immobi
 
 ###### Article L324-9
 
-Le comptable de l'établissement public est un comptable direct du Trésor nommé par le préfet après avis conforme du
-trésorier-payeur général.
+Le comptable de l'établissement public est un comptable public de l'Etat nommé par le préfet après avis conforme du directeur
+départemental des finances publiques.
 
 Les dispositions des articles L. 1617-2, L. 1617-3 et L. 1617-5 du code général des collectivités territoriales sont
 applicables à l'établissement public. Celui-ci est, en outre, soumis à la première partie du livre II du code des
@@ -14934,17 +14894,11 @@ juridictions financières.
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 28 () JORF 14 décembre 2000
+	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 121
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L1617-2 (V)
-	  - Code général des collectivités territoriales - art. L1617-3 (V)
-	  - Code général des collectivités territoriales - art. L1617-5 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+	  - Code général des collectivités territoriales - art. L1617-2
 
 
 ###### Article L324-10
@@ -15240,8 +15194,8 @@ du même code.
 
 ###### Article L326-7
 
-Le comptable de l'établissement public est un comptable du Trésor nommé par le préfet après avis conforme du trésorier-payeur
-général.
+Le comptable de l'établissement public est un comptable public de l'Etat nommé par le préfet après avis conforme du directeur
+départemental des finances publiques. 
 
 Les dispositions des articles L. 1617-2, L. 1617-3 et L. 1617-5 du code général des collectivités territoriales sont
 applicables à l'établissement public. Celui-ci est, en outre, soumis à la première partie du livre II du code des
@@ -15249,19 +15203,14 @@ juridictions financières.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-	**Créé par**:
-
-	  - Loi n°2003-710 du 1 août 2003 - art. 61 () JORF 2 août 2003
+	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 121
 
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. L1617-2 (V)
-	  - Code général des collectivités territoriales - art. L1617-3 (V)
-	  - Code général des collectivités territoriales - art. L1617-5 (M)
+	  - Code général des collectivités territoriales - art. L1617-5 (V)
 
 
 #### Chapitre VII : Sociétés publiques locales d'aménagement
@@ -20278,7 +20227,7 @@ comportement de celui à qui l'injonction a été adressée et des difficultés 
 
 ###### Article L480-8
 
-Les astreintes prononcées sont recouvrées par les comptables directs du Trésor sur la réquisition du préfet pour le compte de
+Les astreintes prononcées sont recouvrées par les comptables publics de l'Etat sur la réquisition du préfet pour le compte de
 la ou des communes aux caisses desquelles sont versées les sommes recouvrées.
 
 **Nota:**
@@ -20301,16 +20250,7 @@ la ou des communes aux caisses desquelles sont versées les sommes recouvrées.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
-	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 19 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 104-3
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 121
 
 
 ###### Article L480-9
@@ -20933,18 +20873,17 @@ au bénéfice du permis de construire ou de la non-opposition à la déclaration
 
 Les litiges relatifs à l'assiette et à la liquidation de la redevance sont de la compétence des tribunaux administratifs. 
 
-La redevance est recouvrée par l'administration des domaines dans les mêmes conditions que les créances domaniales.
+La redevance est recouvrée dans les mêmes conditions que les créances domaniales.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2009-526 du 12 mai 2009 - art. 117
+	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 121
 
 	**Cite**:
 
-	  - Code de l'urbanisme
-	  - Code de l'urbanisme - art. L421-4 (V)
+	  - Code de l'urbanisme - art. L421-4
 
 
 ###### Article L520-6
