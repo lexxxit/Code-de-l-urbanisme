@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2010-05-01
+Version Consolidée au 2010-05-08
 
 # Partie législative
 
@@ -6140,7 +6140,7 @@ l'adjudicataire. Cette disposition n'est toutefois pas applicable à la vente me
 volontairement, à moins que celle-ci ne résulte d'une donation-partage.
 
 Les échanges d'immeubles ruraux situés dans les zones de préemption définies au présent article réalisés dans les conditions
-prévues au titre 1er du livre Ier du code rural ne sont pas soumis à ce droit.
+prévues au titre 1er du livre Ier du code rural et de la pêche maritime ne sont pas soumis à ce droit.
 
 Au cas où le Conservatoire de l'espace littoral et des rivages lacustres est territorialement compétent, celui-ci ou, à
 défaut, la commune, peut se substituer au département si celui-ci n'exerce pas le droit de préemption. Sur le territoire d'un
@@ -6182,10 +6182,6 @@ Les représentants des organisations professionnelles agricoles et forestières 
 de préemption.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 	**Cité par**:
 
@@ -6235,7 +6231,7 @@ de préemption.
 
 	**Modifié par**:
 
-	  - Loi n°2002-276 du 27 février 2002 - art. 165 () JORF 28 février 2002
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cite**:
 
@@ -6787,46 +6783,50 @@ régional, le programme d'action doit être compatible avec la charte du parc.
 A l'intérieur d'un périmètre délimité en application de l'article L. 143-1, les terrains peuvent être acquis par le
 département ou avec son accord et après information des communes et des établissements publics de coopération intercommunale
 concernés en vue de la protection et de la mise en valeur des espaces agricoles et naturels périurbains. Ces acquisitions se
-font dans les conditions suivantes :
+font dans les conditions suivantes : 
 
 1° Dans l'ensemble du périmètre, par le département ou, avec l'accord de celui-ci, par une autre collectivité territoriale ou
 un établissement public de coopération intercommunale, à l'amiable ou par expropriation ou, dans les zones de préemption des
 espaces naturels sensibles délimitées en application de l'article L. 142-3, par exercice de ce droit de préemption. Dans la
 région Ile-de-France, l'Agence des espaces verts prévue à l'article L. 4413-2 du code général des collectivités territoriales
-peut, avec l'accord du département, acquérir à l'amiable des terrains situés dans le périmètre ;
+peut, avec l'accord du département, acquérir à l'amiable des terrains situés dans le périmètre ; 
 
 2° En dehors de zones de préemption des espaces naturels sensibles, par la société d'aménagement foncier et d'établissement
 rural exerçant à la demande et au nom du département le droit de préemption prévu par le 9° de l'article L. 143-2 du code
-rural ;
+rural et de la pêche maritime ; 
 
 3° Par un établissement public mentionné au troisième ou au quatrième alinéa de l'article L. 321-1 du présent code ou un
 établissement public foncier local mentionné à l'article L. 324-1 agissant à la demande et au nom du département ou, avec son
-accord, d'une autre collectivité territoriale ou d'un établissement public de coopération intercommunale.
+accord, d'une autre collectivité territoriale ou d'un établissement public de coopération intercommunale. 
 
 En l'absence de société d'aménagement foncier et d'établissement rural compétente, s'il n'a pas donné mandat à un
 établissement public mentionné à l'alinéa précédent, le département exerce lui-même ce droit de préemption prévu par le 9° de
-l'article L. 143-2 du code rural dans les conditions prévues par le chapitre III du titre IV du livre Ier du même code.
+l'article L. 143-2 du code rural et de la pêche maritime dans les conditions prévues par le chapitre III du titre IV du livre
+Ier du même code. 
 
 Ces biens sont intégrés dans le domaine privé de la collectivité territoriale ou de l'établissement public qui les a acquis.
 Ils doivent être utilisés en vue de la réalisation des objectifs définis par le programme d'action. Ils peuvent être cédés de
-gré à gré, loués conformément aux dispositions du titre Ier du livre IV du code rural ou concédés temporairement à des
-personnes publiques ou privées à la condition que ces personnes les utilisent aux fins prescrites par le cahier des charges
-annexé à l'acte de vente, de location ou de concession temporaire.
+gré à gré, loués conformément aux dispositions du titre Ier du livre IV du code rural et de la pêche maritime ou concédés
+temporairement à des personnes publiques ou privées à la condition que ces personnes les utilisent aux fins prescrites par le
+cahier des charges annexé à l'acte de vente, de location ou de concession temporaire. 
 
 Lorsque le département décide de ne pas faire usage du droit de préemption prévu par le 9° de l'article L. 143-2 du code
-rural, la société d'aménagement foncier et d'établissement rural peut néanmoins exercer le droit de préemption déjà prévu par
-les 1° à 8° de cet article.
+rural et de la pêche maritime, la société d'aménagement foncier et d'établissement rural peut néanmoins exercer le droit de
+préemption déjà prévu par les 1° à 8° de cet article.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. L4413-2 (V)
-	  - Code de l'urbanisme - art. L142-3 (M)
-	  - Code de l'urbanisme - art. L143-1 (M)
-	  - Code de l'urbanisme - art. L321-1 (M)
-	  - Code de l'urbanisme - art. L324-1 (M)
-	  - Code rural L143-2
+	  - Code rural - art. L143-2 (V)
+	  - Code de l'urbanisme - art. L142-3 (V)
+	  - Code de l'urbanisme - art. L143-1 (V)
+	  - Code de l'urbanisme - art. L321-1 (V)
 
 	**Cité par**:
 
@@ -6836,14 +6836,6 @@ les 1° à 8° de cet article.
 	  - Code général de la propriété des personnes publ... - art. R1112-2 (V)
 	  - Code général de la propriété des personnes publ... - art. R1112-4 (V)
 	  - Code rural et de la pêche maritime - art. L143-7-1 (VT)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Créé par**:
-
-	  - Loi n°2005-157 du 23 février 2005 - art. 73 () JORF 24 février 2005
 
 
 ###### Article L143-4
@@ -8754,10 +8746,10 @@ e) En cas d'exécution, dans une zone d'aménagement concerté, de travaux dont 
 précédée d'une étude de sécurité publique en application de l'article L. 111-3-1, avant la réception de cette étude par la
 commission compétente en matière de sécurité publique.
 
-Toute association agréée de protection de l'environnement en application des dispositions de l'article L. 252-1 du code
-rural, peut exercer les droits reconnus à la partie civile en ce qui concerne les faits constituant une infraction aux
-alinéas premier et second du présent article et portant un préjudice direct ou indirect aux intérêts collectifs qu'elle a
-pour objet de défendre.
+Toute association agréée de protection de l'environnement en application des dispositions de l'article L. 252-1 du code rural
+et de la pêche maritime, peut exercer les droits reconnus à la partie civile en ce qui concerne les faits constituant une
+infraction aux alinéas premier et second du présent article et portant un préjudice direct ou indirect aux intérêts
+collectifs qu'elle a pour objet de défendre.
 
 Un décret en Conseil d'Etat fixe les conditions dans lesquelles les associations visées à l'alinéa précédent pourront être
 agréées. Dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, la procédure d'agrément est applicable aux
@@ -8804,7 +8796,7 @@ constituant une infraction aux dispositions du présent article.
 
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 14 () JORF 7 mars 2007
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cite**:
 
@@ -8818,10 +8810,6 @@ constituant une infraction aux dispositions du présent article.
 	  - Code de l'urbanisme - art. L480-4 (M)
 	  - Code de l'urbanisme L124-1, L150-1, L480-1 à L480-9, L480-4, L111-1 à L111-1-4, L111-3, L111-5-2, L130-1, L142-11, L143-1, L111-3-1
 	  - Code rural L252-1
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L160-2
@@ -10754,26 +10742,20 @@ Un décret en Conseil d'Etat précise les conditions d'application des dispositi
 ###### Article L216-1
 
 Conformément à l'article 1er, deuxième alinéa, de la loi n° 76-1022 du 10 novembre 1976, à la demande des organismes de
-jardins familiaux mentionnés aux articles 610 et 611 du code rural, les collectivités locales ou les établissements publics
-de coopération intercommunale compétents peuvent exercer leur droit de préemption, conformément aux dispositions du présent
-code, en vue de l'acquisition de terrains destinés à la création ou à l'aménagement de jardins familiaux.
-
-**Nota:**
-
-La loi n° 76-1022 du 10 novembre 1976 est abrogée et a été codifiée dans le code rural. 
-
-Les articles 610 et 611 sont devenus respectivement les articles L561-1 et L561-2 du (nouveau) code rural.
+jardins familiaux mentionnés aux articles 610 et 611 du code rural et de la pêche maritime, les collectivités locales ou les
+établissements publics de coopération intercommunale compétents peuvent exercer leur droit de préemption, conformément aux
+dispositions du présent code, en vue de l'acquisition de terrains destinés à la création ou à l'aménagement de jardins
+familiaux.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+	  - Loi n°76-1022 du 10 novembre 1976 - art. 1 (Ab)
 
 	**Modifié par**:
 
-	  - Loi n°85-729 1985-07-18 art. 26 IX, X JORF 19 juillet 1985
-	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 
 ### Titre II : Réserves foncières
@@ -13461,7 +13443,7 @@ troisième et quatrième alinéas peuvent procéder, après information des comm
 intercommunale concernés, aux acquisitions foncières nécessaires à la protection d'espaces agricoles et naturels périurbains,
 le cas échéant en exerçant, à la demande et au nom du département, le droit de préemption prévu par l'article L. 142-3 ou, en
 dehors des zones de préemption des espaces naturels sensibles, le droit de préemption prévu par le 9° de l'article L. 143-2
-du code rural. 
+du code rural et de la pêche maritime. 
 
 Les établissements publics mentionnés au a du présent article peuvent se voir déléguer l'instruction et le traitement des
 demandes d'aides à la réhabilitation de l'habitat privé dans les conditions prévues à l'article L. 321-1-3 du code de la
@@ -13590,7 +13572,7 @@ rénovation urbaine.
 
 	**Modifié par**:
 
-	  - Loi n°2009-323 du 25 mars 2009 - art. 26 (V)
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 
 ###### Article L321-2
@@ -14606,18 +14588,18 @@ l'article L. 300-1. A l'intérieur des périmètres délimités en application d
 information des communes et des établissements publics de coopération intercommunale concernés, aux acquisitions foncières
 nécessaires à la protection d'espaces agricoles et naturels périurbains, le cas échéant en exerçant, à la demande et au nom
 du département, le droit de préemption prévu par l'article L. 142-3 ou, en dehors des zones de préemption des espaces
-naturels sensibles, le droit de préemption prévu par le 9° de l'article L. 143-2 du code rural.
+naturels sensibles, le droit de préemption prévu par le 9° de l'article L. 143-2 du code rural et de la pêche maritime. 
 
 Ces établissements interviennent sur le territoire des communes ou des établissements publics de coopération intercommunale
 qui en sont membres et, à titre exceptionnel, ils peuvent intervenir à l'extérieur de ce territoire pour des acquisitions
-nécessaires à des actions ou opérations menées à l'intérieur de celui-ci.
+nécessaires à des actions ou opérations menées à l'intérieur de celui-ci. 
 
 Les acquisitions et cessions foncières et immobilières réalisées par ces établissements pour leur propre compte ou pour le
 compte d'une collectivité territoriale, d'un établissement public de coopération intercommunale ou d'un syndicat mixte sont
-soumises aux dispositions relatives à la transparence des opérations immobilières de ces collectivités ou établissements.
+soumises aux dispositions relatives à la transparence des opérations immobilières de ces collectivités ou établissements. 
 
 Ils peuvent exercer, par délégation de leurs titulaires, les droits de préemption définis par le présent code dans les cas et
-conditions qu'il prévoit et agir par voie d'expropriation.
+conditions qu'il prévoit et agir par voie d'expropriation. 
 
 Aucune opération de l'établissement public ne peut être réalisée sans l'avis favorable de la commune sur le territoire de
 laquelle l'opération est prévue. Cet avis est réputé donné dans un délai de deux mois à compter de la saisine de la commune.
@@ -14662,21 +14644,18 @@ laquelle l'opération est prévue. Cet avis est réputé donné dans un délai d
 
 	**Modifié par**:
 
-	  - Loi n°2005-157 du 23 février 2005 - art. 74 () JORF 24 février 2005
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L143-1 (M)
-	  - Code de l'urbanisme - art. L300-1 (M)
-	  - Code rural L143-2
+	  - Code rural - art. L143-2 (V)
+	  - Code de l'urbanisme - art. L143-1 (V)
+	  - Code de l'urbanisme - art. L221-2 (V)
+	  - Code de l'urbanisme - art. L300-1 (V)
 
 	**Nouveaux textes**:
 
 	  - Code général de la propriété des personnes publiqu - art. L3222-3 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 ###### Article L324-2
@@ -19662,8 +19641,9 @@ prévoient les articles L. 160-1 et L. 480-4, ils sont tenus d'en faire dresser 
 Copie du procès-verbal constatant une infraction est transmise sans délai au ministère public.
 
 Toute association agréée de protection de l'environnement en application des dispositions de l'article L. 252-1 du code rural
-peut exercer les droits reconnus à la partie civile en ce qui concerne les faits constituant une infraction à l'alinéa 1er du
-présent article et portant un préjudice direct ou indirect aux intérêts collectifs qu'elle a pour objet de défendre.
+et de la pêche maritime peut exercer les droits reconnus à la partie civile en ce qui concerne les faits constituant une
+infraction à l'alinéa 1er du présent article et portant un préjudice direct ou indirect aux intérêts collectifs qu'elle a
+pour objet de défendre.
 
 La commune peut exercer les droits reconnus à la partie civile, en ce qui concerne les faits commis sur son territoire et
 constituant une infraction à l'alinéa premier du présent article.
@@ -19722,20 +19702,12 @@ constituant une infraction à l'alinéa premier du présent article.
 
 	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 art. 3 JORF 24 février 2004
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L480-4 (M)
 	  - PILOTE_SUIVEUR: Code du patrimoine - art. L641-2 (VD)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 101
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 ###### Article L480-2
@@ -25820,26 +25792,28 @@ du schéma.
 
 ###### Article R*122-8
 
-Conformément à l'article L. 112-1 du code rural, le président de l'établissement public consulte lors de l'élaboration du
-schéma de cohérence territoriale le document de gestion de l'espace agricole et forestier, lorsqu'il existe. 
+Conformément à l'article L. 112-1 du code rural et de la pêche maritime, le président de l'établissement public consulte lors
+de l'élaboration du schéma de cohérence territoriale le document de gestion de l'espace agricole et forestier, lorsqu'il
+existe. 
 
-Conformément à l'article L. 112-3 du code rural, le schéma de cohérence territoriale ne peut être approuvé qu'après avis de
-la chambre d'agriculture et, le cas échéant, de l'Institut national de l'origine et de la qualité dans les zones
-d'appellation d'origine contrôlée et du Centre national de la propriété forestière lorsqu'il prévoit une réduction des
-espaces agricoles ou forestiers. Il va de même en cas de révision, de modification et de mise en compatibilité en application
-de l'article L. 122-15. Ces avis sont rendus dans un délai de deux mois à compter de la saisine. En l'absence de réponse à
-l'issue de ce délai, l'avis est réputé favorable.
+Conformément à l'article L. 112-3 du code rural et de la pêche maritime, le schéma de cohérence territoriale ne peut être
+approuvé qu'après avis de la chambre d'agriculture et, le cas échéant, de l'Institut national de l'origine et de la qualité
+dans les zones d'appellation d'origine contrôlée et du Centre national de la propriété forestière lorsqu'il prévoit une
+réduction des espaces agricoles ou forestiers. Il va de même en cas de révision, de modification et de mise en compatibilité
+en application de l'article L. 122-15. Ces avis sont rendus dans un délai de deux mois à compter de la saisine. En l'absence
+de réponse à l'issue de ce délai, l'avis est réputé favorable.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-326 du 22 mars 2010 - art. 3
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cite**:
 
 	  - Code rural - art. L112-1
 	  - Code rural - art. L112-3
+	  - Code de l'urbanisme - art. L122-15 (VT)
 
 
 ###### Article R*122-9
@@ -26862,7 +26836,7 @@ relatives au permis de démolir prévues aux articles L. 430-2 et suivants ;
 
 7° Les périmètres d'interdiction ou de réglementation des plantations et semis d'essences forestières, les périmètres
 d'actions forestières et les périmètres de zones dégradées à faible taux de boisement, délimités en application des 1°, 2° et
-3° de l'article L. 126-1 du code rural ; 
+3° de l'article L. 126-1 du code rural et de la pêche maritime ; 
 
 8° Les périmètres miniers définis en application des titres II, III et V du livre Ier du code minier ; 
 
@@ -26916,7 +26890,7 @@ apparaître ces secteurs ;
 
 	**Modifié par**:
 
-	  - Décret n°2010-304 du 22 mars 2010 - art. 2
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cité par**:
 
@@ -26926,33 +26900,33 @@ apparaître ces secteurs ;
 
 ###### Article R*123-14
 
-Les annexes comprennent à titre informatif également :
+Les annexes comprennent à titre informatif également : 
 
 1° Les servitudes d'utilité publique soumises aux dispositions de l'article L. 126-1 ainsi que les bois ou forêts soumis au
-régime forestier ;
+régime forestier ; 
 
 2° La liste des lotissements dont les règles d'urbanisme ont été maintenues en application du deuxième alinéa de l'article L.
-315-2-1 (nota) ;
+315-2-1 (nota) ; 
 
 3° Les schémas des réseaux d'eau et d'assainissement et des systèmes d'élimination des déchets, existants ou en cours de
 réalisation, en précisant les emplacements retenus pour le captage, le traitement et le stockage des eaux destinées à la
-consommation, les stations d'épuration des eaux usées et le stockage et le traitement des déchets ;
+consommation, les stations d'épuration des eaux usées et le stockage et le traitement des déchets ; 
 
-4° Le plan d'exposition au bruit des aérodromes, établi en application des articles L. 147-1 à L. 147-6 ;
+4° Le plan d'exposition au bruit des aérodromes, établi en application des articles L. 147-1 à L. 147-6 ; 
 
 5° D'une part, les prescriptions d'isolement acoustique édictées, en application des articles L. 571-9 et L. 571-10 du code
 de l'environnement, dans les secteurs qui, situés au voisinage des infrastructures de transports terrestres, sont affectés
 par le bruit et, d'autre part, la référence des arrêtés préfectoraux correspondants et l'indication des lieux où ils peuvent
-être consultés ;
+être consultés ; 
 
 6° Les actes instituant des zones de publicité restreinte et des zones de publicité élargie, en application des articles L.
-581-10 à L. 581-14 du code de l'environnement ;
+581-10 à L. 581-14 du code de l'environnement ; 
 
 7° Les dispositions d'un projet de plan de prévention des risques naturels prévisibles rendues opposables en application de
 l'article L. 562-2 du code de l'environnement et les dispositions d'un projet de plan de prévention des risques miniers
-établi en application de l'article 94 du code minier ;
+établi en application de l'article 94 du code minier ; 
 
-8° Les zones agricoles protégées délimitées en application de l'article L. 112-2 du code rural ;
+8° Les zones agricoles protégées délimitées en application de l'article L. 112-2 du code rural et de la pêche maritime ; 
 
 9° L'arrêté du préfet coordonnateur de massif prévu au septième alinéa de l'article L. 145-5.
 
@@ -26964,29 +26938,33 @@ L'article L315-2-1 est abrogé par l'ordonnance n° 2005-1527, article 22.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1683 du 22 décembre 2006 - art. 1 () JORF 28 décembre 2006 en vigueur le 1er février 2007
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 	**Cite**:
 
-	  - Code minier 94
-	  - Code de l'urbanisme - art. L126-1 (M)
-	  - Code de l'urbanisme - art. L145-5 (M)
-	  - Code de l'urbanisme - art. L315-2-1 (M)
-	  - Code de l'urbanisme L126-1, L315-2-1, L147-1 à L147-6, L145-5
-	  - Code de l'environnement - art. L562-2 (V)
-	  - Code de l'environnement - art. L571-10 (M)
-	  - Code de l'environnement - art. L571-9 (M)
-	  - Code de l'environnement L571-9, L571-10, L581-10 à L581-14, L562-2
-	  - Code rural L112-2
+	  - Code rural - art. L112-2
+	  - Code minier - art. 94
+	  - Code de l'urbanisme - art. L126-1
+	  - Code de l'urbanisme - art. L145-5
+	  - Code de l'urbanisme - art. L147-1
+	  - Code de l'urbanisme - art. L315-2-1
+	  - Code de l'environnement - art. L562-2
+	  - Code de l'environnement - art. L571-9
+	  - Code de l'environnement - art. L581-10
 
 	**Cité par**:
 
-	  - Code de l'urbanisme - art. R*123-22 (V)
+	  - Code de l'urbanisme - art. R*123-22 (VT)
 	  - Code de l'urbanisme - art. R*313-6 (VD)
 
-	**Codifié par**:
+	**Nouveaux textes**:
 
-	  - Décret n°73-1023 1973-11-08
+	  - Code de l'urbanisme - art. R151-52 (M)
+	  - Code de l'urbanisme - art. R151-53 (M)
 
 
 ###### Article R*123-14-1
@@ -27077,22 +27055,22 @@ fois qu'ils le demandent pendant la durée de l'élaboration ou de la révision 
 
 ###### Article R*123-17
 
-Conformément à l'article L. 112-1 du code rural, le maire ou le président de l'établissement public de coopération
-intercommunale compétent consulte lors de l'élaboration du plan local d'urbanisme le document de gestion de l'espace agricole
-et forestier, lorsqu'il existe. 
+Conformément à l'article L. 112-1 du code rural et de la pêche maritime, le maire ou le président de l'établissement public
+de coopération intercommunale compétent consulte lors de l'élaboration du plan local d'urbanisme le document de gestion de
+l'espace agricole et forestier, lorsqu'il existe. 
 
-Conformément à l'article L. 112-3 du code rural, le plan local d'urbanisme ne peut être approuvé qu'après avis de la chambre
-d'agriculture et, le cas échéant, de l'Institut national de l'origine et de la qualité dans les zones d'appellation d'origine
-contrôlée et du Centre national de la propriété forestière lorsqu'il prévoit une réduction des espaces agricoles ou
-forestiers. Il va de même en cas de révision, de révision simplifiée et d'une mise en compatibilité en application de
-l'article L. 123-16. Ces avis sont rendus dans un délai de deux mois à compter de la saisine. En l'absence de réponse à
-l'issue de ce délai, l'avis est réputé favorable.
+Conformément à l'article L. 112-3 du code rural et de la pêche maritime, le plan local d'urbanisme ne peut être approuvé
+qu'après avis de la chambre d'agriculture et, le cas échéant, de l'Institut national de l'origine et de la qualité dans les
+zones d'appellation d'origine contrôlée et du Centre national de la propriété forestière lorsqu'il prévoit une réduction des
+espaces agricoles ou forestiers. Il va de même en cas de révision, de révision simplifiée et d'une mise en compatibilité en
+application de l'article L. 123-16. Ces avis sont rendus dans un délai de deux mois à compter de la saisine. En l'absence de
+réponse à l'issue de ce délai, l'avis est réputé favorable.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-326 du 22 mars 2010 - art. 3
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cite**:
 
@@ -27875,23 +27853,23 @@ les dispositions et documents mentionnés à l'article R. 121-1. Il peut procéd
 
 ###### Article R*124-5
 
-Conformément à l'article L. 112-1 du code rural, le maire ou le président de l'établissement public de coopération
-intercommunale compétent consulte, lors de l'élaboration ou de la révision de la carte communale, le document de gestion de
-l'espace agricole et forestier, lorsqu'il existe.
+Conformément à l'article L. 112-1 du code rural et de la pêche maritime, le maire ou le président de l'établissement public
+de coopération intercommunale compétent consulte, lors de l'élaboration ou de la révision de la carte communale, le document
+de gestion de l'espace agricole et forestier, lorsqu'il existe.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2013-142 du 14 février 2013 - art. 5
+
 	**Cite**:
 
-	  - Code rural L112-1
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
+	  - Code rural - art. L112-1
 
 
 ###### Article R*124-6
@@ -29802,30 +29780,34 @@ les candidatures doivent être présentées ainsi que les moyens d'obtenir des r
 
 Les terrains acquis par application de l'article L. 143-3 peuvent être mis à la disposition de la société d'aménagement
 foncier et de développement rural par les collectivités territoriales et établissements publics propriétaires, dans le cadre
-des conventions prévues par l'article L. 142-6 du code rural.
+des conventions prévues par l'article L. 142-6 du code rural et de la pêche maritime. 
 
 Ces conventions assurent que l'usage agricole du bien sera maintenu ou rétabli, dans le respect des exigences
 environnementales ; elles comportent un cahier des charges contenant les clauses types prévues par l'article R. 143-9.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L143-3 (V)
-	  - Code de l'urbanisme - art. R*143-9 (Ab)
-	  - Code rural L142-6
+	  - Code rural - art. L142-6
+	  - Code de l'urbanisme - art. L143-3
+	  - Code de l'urbanisme - art. R*143-9
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*143-20 (Ab)
 
-	**Codifié par**:
+	**Nouveaux textes**:
 
-	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°2006-821 du 7 juillet 2006 - art. 1 () JORF 9 juillet 2006
+	  - Code de l'urbanisme - art. R113-28 (V)
 
 
 ###### Article R143-9
@@ -35447,33 +35429,30 @@ président de l'établissement public de coopération intercommunale compétent.
 
 ###### Article R313-9
 
-Conformément à l'article L. 112-1 du code rural, le préfet et le maire ou président de l'établissement public de coopération
-intercommunale compétent consultent, lors de l'élaboration du plan de sauvegarde et de mise en valeur, le document de gestion
-de l'espace agricole et forestier, lorsqu'il existe.
+Conformément à l'article L. 112-1 du code rural et de la pêche maritime, le préfet et le maire ou président de
+l'établissement public de coopération intercommunale compétent consultent, lors de l'élaboration du plan de sauvegarde et de
+mise en valeur, le document de gestion de l'espace agricole et forestier, lorsqu'il existe. 
 
-Conformément à l'article L. 112-3 du code rural, le projet de plan de sauvegarde et de mise en valeur, lorsqu'il prévoit une
-réduction des espaces agricoles ou forestiers, est soumis pour avis à la chambre d'agriculture et, le cas échéant, à
-l'Institut national de l'origine et de la qualité dans les zones d'appellation d'origine contrôlée et au centre régional de
-la propriété forestière. Ces avis sont rendus dans un délai de deux mois à compter de la saisine. En l'absence de réponse à
-l'issue de ce délai, l'avis est réputé favorable.
+Conformément à l'article L. 112-3 du code rural et de la pêche maritime, le projet de plan de sauvegarde et de mise en
+valeur, lorsqu'il prévoit une réduction des espaces agricoles ou forestiers, est soumis pour avis à la chambre d'agriculture
+et, le cas échéant, à l'Institut national de l'origine et de la qualité dans les zones d'appellation d'origine contrôlée et
+au centre régional de la propriété forestière. Ces avis sont rendus dans un délai de deux mois à compter de la saisine. En
+l'absence de réponse à l'issue de ce délai, l'avis est réputé favorable.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+
+	**Cite**:
+
+	  - Code rural - art. L112-1 (V)
+	  - Code rural - art. L112-3 (V)
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-6 (M)
-
-	**Cite**:
-
-	  - Code rural L112-1, L112-3
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
 
 
 ###### Article R313-11
@@ -43804,7 +43783,8 @@ a) Les lotissements autres que ceux mentionnés au a de l'article R. 421-19 ;
 b) Les divisions des propriétés foncières situées à l'intérieur des zones délimitées en application de l'article L. 111-5-2,
 à l'exception des divisions opérées dans le cadre d'une opération d'aménagement autorisée, des divisions effectuées, avant la
 clôture de l'opération, dans le cadre d'une opération d'aménagement foncier rural relevant du titre II du livre Ier du code
-rural et des divisions résultant d'un bail rural consenti à des preneurs exerçant la profession agricole ;
+rural et de la pêche maritime et des divisions résultant d'un bail rural consenti à des preneurs exerçant la profession
+agricole ;
 
 c) L'aménagement ou la mise à disposition des campeurs, de façon habituelle, de terrains ne nécessitant pas un permis
 d'aménager en application de l'article R. 421-19 ;
@@ -43848,8 +43828,7 @@ k) Les aires d'accueil des gens du voyage.
 
 	**Modifié par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 8 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cité par**:
 
@@ -43874,10 +43853,6 @@ k) Les aires d'accueil des gens du voyage.
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-22 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article *R421-24
@@ -44898,32 +44873,24 @@ sauvegardé dont le périmètre a été délimité.
 
 Le délai d'instruction prévu par le b et le c de l'article R. 423-23 est majoré de deux mois lorsqu'il y a lieu de consulter
 une commission départementale ou régionale. Il en est de même lorsqu'il y a lieu d'instruire une dérogation en application du
-quatrième alinéa de l'article L. 111-3 du code rural.
+quatrième alinéa de l'article L. 111-3 du code rural et de la pêche maritime.
 
 Cette majoration de délai n'est pas cumulable avec celle prévue par l'article R. 423-24.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code rural L111-3
-	  - Code de l'urbanisme R423-23, R423-24
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
 	**Modifié par**:
 
-	  - Décret n°2007-817 du 11 mai 2007 - art. 3 () JORF 12 mai 2007
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*423-33 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme R423-23, R423-24
+	  - Code rural L111-3
 
 
 ###### Article R*423-26
@@ -46060,7 +46027,7 @@ favorable est de deux mois.
 Par exception aux dispositions de l'article R. 423-59, le délai à l'issue duquel la chambre d'agriculture et la commission
 départementale d'orientation agricole sont réputées avoir émis un avis favorable sur un projet situé sur un terrain non
 couvert par un plan local d'urbanisme ou un document d'urbanisme en tenant lieu et dans une zone agricole protégée créée en
-application de l'article L. 112-2 du code rural est de deux mois.
+application de l'article L. 112-2 du code rural et de la pêche maritime est de deux mois. 
 
 En cas d'avis défavorable de l'une d'entre elles, le permis ne peut être délivré qu'avec l'accord du préfet. Dans ce cas le
 préfet se prononce par décision motivée, dans le délai d'un mois suivant la transmission de l'avis défavorable par l'autorité
@@ -46068,40 +46035,29 @@ compétente. Passé ce délai, il est réputé avoir émis un avis défavorable.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°73-1023 1973-11-08
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+	  - Code rural - art. L112-2 (V)
+	  - Code de l'urbanisme - art. R*423-59 (V)
 
 
 ###### Article R*423-65
 
 Par exception aux dispositions de l'article R. 423-59, le délai à l'issue duquel le ministre chargé de l'agriculture,
-consulté en application de l'article L. 643-4 du code rural est réputé avoir émis un avis favorable sur un projet de nature à
-porter atteinte à l'aire ou aux conditions de production, à la qualité ou à l'image du produit d'appellation d'origine
-contrôlée est de trois mois.
+consulté en application de l'article L. 643-4 du code rural et de la pêche maritime est réputé avoir émis un avis favorable
+sur un projet de nature à porter atteinte à l'aire ou aux conditions de production, à la qualité ou à l'image du produit
+d'appellation d'origine contrôlée est de trois mois.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code rural L643-4
-	  - Code de l'urbanisme R423-59
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
-	**Modifié par**:
-
-	  - Décret n°2007-817 du 11 mai 2007 - art. 3 () JORF 12 mai 2007
+	  - Code rural - art. L643-4 (V)
+	  - Code de l'urbanisme - art. R*423-59 (V)
 
 
 ###### Article R*423-66
@@ -47280,27 +47236,24 @@ locale du 2 juillet 1891 dès lors que la décision a fait l'objet de l'accord d
 ###### Article R*425-12
 
 Lorsque le projet porte sur une construction, une clôture ou une plantation située dans une zone de servitude de protection
-des canaux d'irrigation instituée en application de l'article L. 152-7 du code rural, le permis de construire, le permis
-d'aménager ou la décision prise sur la déclaration préalable tient lieu de l'autorisation prévue à l'article L. 152-8 de ce
-code dès lors que la décision a fait l'objet de l'accord du préfet.
+des canaux d'irrigation instituée en application de l'article L. 152-7 du code rural et de la pêche maritime, le permis de
+construire, le permis d'aménager ou la décision prise sur la déclaration préalable tient lieu de l'autorisation prévue à
+l'article L. 152-8 de ce code dès lors que la décision a fait l'objet de l'accord du préfet.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+
+	**Cite**:
+
+	  - Code rural - art. L152-7 (V)
+	  - Code rural - art. L152-8 (V)
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*740-1 (Ab)
-
-	**Cite**:
-
-	  - Code rural L152-7, L152-8
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*425-13
@@ -47505,26 +47458,22 @@ Dans les cas prévus aux a et b de l'article R. 425-6, l'accord du directeur de 
 ###### Article R*425-20
 
 Lorsque le projet porte sur une construction ou un aménagement qui altère durablement le potentiel agronomique, biologique ou
-économique d'une zone agricole protégée créée en application de l'article L. 112-2 du code rural et situé dans un territoire
-non couvert par un plan local d'urbanisme ou un document d'urbanisme en tenant lieu, la décision prise sur la demande de
-permis ou sur la déclaration préalable ne peut intervenir qu'après avis de la chambre d'agriculture et de la commission
-départementale d'orientation agricole.
+économique d'une zone agricole protégée créée en application de l'article L. 112-2 du code rural et de la pêche maritime et
+situé dans un territoire non couvert par un plan local d'urbanisme ou un document d'urbanisme en tenant lieu, la décision
+prise sur la demande de permis ou sur la déclaration préalable ne peut intervenir qu'après avis de la chambre d'agriculture
+et de la commission départementale d'orientation agricole. 
 
 En cas d'avis défavorable de l'une d'entre elles, le projet ne peut être autorisé qu'après l'accord motivé du préfet.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+
 	**Cite**:
 
-	  - Code rural L112-2
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+	  - Code rural - art. L112-2 (V)
 
 
 ###### Article R*425-21
@@ -56287,9 +56236,9 @@ Servitude de passage sur le littoral instituée en application des articles L. 1
 c) Eaux.
 
 Servitudes prévues aux articles L. 215-4 et L. 215-5 
-  _(2bis)_ du code de l'environnement ainsi qu'à l'article L. 151-37-1 du code rural, y compris les servitudes instituées en
-application du décret n° 59-96 du 7 janvier 1959 validées dans les conditions prévues au IV de l'article L. 211-7 du code de
-l'environnement ;
+  _(2bis)_ du code de l'environnement ainsi qu'à l'article L. 151-37-1 du code rural et de la pêche maritime, y compris les
+servitudes instituées en application du décret n° 59-96 du 7 janvier 1959 validées dans les conditions prévues au IV de
+l'article L. 211-7 du code de l'environnement ;
 
 Servitudes attachées à la protection des eaux potables instituées en vertu des articles L. 1321-2 et R. 1321-13 du code de la
 santé publique ;
@@ -56309,7 +56258,7 @@ Règles prévues au I de l'article L. 331-4 du code de l'environnement applicabl
 
 e) Zones agricoles protégées.
 
-Zones agricoles protégées délimitées et classées en application de l'article L. 112-2 du code rural.
+Zones agricoles protégées délimitées et classées en application de l'article L. 112-2 du code rural et de la pêche maritime.
 
 B. - Patrimoine culturel.
 
@@ -56398,15 +56347,16 @@ Zones où ont été instituées, en application de la loi n° 62-904 du 4 août 
 servitudes attachées aux canalisations publiques d'eau et d'assainissement.
 
 Servitudes attachées à l'établissement des canalisations souterraines d'irrigation instituées en application des articles
-128-7 et 128-9 du code rural 
+128-7 et 128-9 du code rural et de la pêche maritime 
   _(4)_ ;
 
 Servitudes de passage des engins mécaniques d'entretien et de dépôt des produits de curage et faucardement attachées aux
-canaux d'irrigation et émissaires d'assainissement instituées en application des articles 128-6 et 138-1 du code rural 
+canaux d'irrigation et émissaires d'assainissement instituées en application des articles 128-6 et 138-1 du code rural et de
+la pêche maritime 
   _(5)_ ;
 
 Servitudes d'écoulement des eaux nuisibles attachées aux travaux d'assainissement des terres par le drainage instituées en
-application des articles 135 à 138 du code rural 
+application des articles 135 à 138 du code rural et de la pêche maritime 
   _(6)_.
 
 D. - Communications.
@@ -56414,7 +56364,7 @@ D. - Communications.
 a) Cours d'eau.
 
 Servitudes de halage et de marchepied instituées par les articles 15, 16 et 28 du code du domaine public fluvial et de la
-navigation intérieure et par l'article 424 du code rural 
+navigation intérieure et par l'article 424 du code rural et de la pêche maritime 
   _(7)_.
 
 b) Navigation maritime.
@@ -56483,7 +56433,7 @@ application des articles L. 57 à L. 62-1 et R. 27 à R. 39 du code des postes e
 Servitudes attachées aux réseaux de télécommunications instituées en application des articles L. 45-1 et L. 48 du code des
 postes et des communications électroniques.
 
-III -  Servitudes relatives à la Défense Nationale
+III - Servitudes relatives à la Défense Nationale
 
 Servitudes de champ de vue instituées par la loi du 18 juillet 1895 concernant la détermination et la conservation des postes
 électro-sémaphoriques, modifiée par la loi du 27 mai 1933 ;
@@ -56528,7 +56478,7 @@ B. - Sécurité publique
 Plans de prévention des risques naturels prévisibles établis en application de l'article L. 562-1 du code de l'environnement,
 ou plans de prévention des risques miniers établis en application de l'article 94 du code minier ;
 
-Documents valant plans de prévention des risques naturels prévisibles en application de l'article L. 562-6 du code  de
+Documents valant plans de prévention des risques naturels prévisibles en application de l'article L. 562-6 du code de
 l'environnement ;
 
 Servitudes instituées, en ce qui concerne la Loire et ses affluents, par les articles 55 et suivants du code du domaine
@@ -56578,8 +56528,44 @@ transparence et à la sécurité en matière nucléaire.
 
 	**Cite**:
 
+	  - Code rural L151-37-1, L112-2, L642-1, L642-2, 128-7, 128-9, 128-6, 138-1, 135 à 138, 424
+	  - Décret n°1935-10-30 art. 6, art. 3, art. 2
+	  - Loi n°58-336 du 29 mars 1958 - art. 11 (M)
+	  - Décret n°58-1316 1958-12-23
 	  - Décret n°59-96 1959-01-07
 	  - Décret n°59-645 1959-05-16
+	  - Décret n°64-153 1964-02-15
+	  - Décret n°64-481 1964-01-23 art. 25
+	  - Loi n°1791-07-08
+	  - Loi n°1819-07-17
+	  - Loi n°1845-07-15
+	  - Loi n°1851-07-10
+	  - Loi n°1895-07-18
+	  - Loi n°1906-06-15 art. 12, art. 12 bis
+	  - Loi n°1913-12-31 art. 1 à 5, art. 1, art. 13 bis
+	  - Loi n°1919-10-16 art. 4
+	  - Loi n°1925-07-13 art. 298
+	  - Loi n°1927-07-13 art. 25
+	  - Loi n°1929-08-08
+	  - Loi n°1930-05-02 art. 28, art. 17
+	  - Loi n°1933-05-27
+	  - Loi n°1933-07-11
+	  - Loi n°1941-07-08
+	  - Loi n°46-628 1946-04-08 art. 35
+	  - Ordonnance 58-1311 1958-12-23
+	  - Loi n°62-904 1962-08-04
+	  - Loi n°63-1178 du 28 novembre 1963 - art. 4, v. init.
+	  - Loi n°65-498 1965-06-29
+	  - Loi n°66-1066 1966-12-31
+	  - Loi n°69-7 du 3 janvier 1969 - art. 4 (Ab)
+	  - Loi n°69-7 du 3 janvier 1969 - art. 5 (Ab)
+	  - Loi n°80-531 1980-07-15
+	  - Loi n°84-610 du 16 juillet 1984 - art. 42 (M)
+	  - Loi n°85-30 1985-01-09 art. 53
+	  - Loi n°87-954 1987-11-27
+	  - Loi n°91-1385 1991-12-31
+	  - Ordonnance 2004-632 2004-07-01 art. 28
+	  - Loi n°2006-686 2006-06-13 art. 31
 	  - CODE DES COMMUNES. - art. L361-1 (M)
 	  - CODE DES COMMUNES. - art. L361-4 (M)
 	  - Code forestier - art. L421-1 (V)
@@ -56612,50 +56598,10 @@ transparence et à la sécurité en matière nucléaire.
 	  - Code du domaine public fluvial et de la navigation - art. 16 (M)
 	  - Code du domaine public fluvial et de la navigation - art. 28 (M)
 	  - Code du domaine public fluvial et de la navigation - art. 55 (Ab)
-	  - Code rural L151-37-1, L112-2, L642-1, L642-2, 128-7, 128-9, 128-6, 138-1, 135 à 138, 424
-	  - Décret n°1935-10-30 art. 6, art. 3, art. 2
-	  - Décret n°58-1316 1958-12-23
-	  - Décret n°64-153 1964-02-15
-	  - Décret n°64-481 1964-01-23 art. 25
-	  - Loi n°1791-07-08
-	  - Loi n°1819-07-17
-	  - Loi n°1845-07-15
-	  - Loi n°1851-07-10
-	  - Loi n°1895-07-18
-	  - Loi n°1906-06-15 art. 12, art. 12 bis
-	  - Loi n°1913-12-31 art. 1 à 5, art. 1, art. 13 bis
-	  - Loi n°1919-10-16 art. 4
-	  - Loi n°1925-07-13 art. 298
-	  - Loi n°1927-07-13 art. 25
-	  - Loi n°1929-08-08
-	  - Loi n°1930-05-02 art. 28, art. 17
-	  - Loi n°1933-05-27
-	  - Loi n°1933-07-11
-	  - Loi n°1941-07-08
-	  - Loi n°46-628 1946-04-08 art. 35
-	  - Loi n°58-336 du 29 mars 1958 - art. 11 (M)
-	  - Ordonnance 58-1311 1958-12-23
-	  - Loi n°62-904 1962-08-04
-	  - Loi n°63-1178 du 28 novembre 1963 - art. 4, v. init.
-	  - Loi n°65-498 1965-06-29
-	  - Loi n°66-1066 1966-12-31
-	  - Loi n°69-7 du 3 janvier 1969 - art. 4 (Ab)
-	  - Loi n°69-7 du 3 janvier 1969 - art. 5 (Ab)
-	  - Loi n°80-531 1980-07-15
-	  - Loi n°84-610 du 16 juillet 1984 - art. 42 (M)
-	  - Loi n°85-30 1985-01-09 art. 53
-	  - Loi n°87-954 1987-11-27
-	  - Loi n°91-1385 1991-12-31
-	  - Ordonnance 2004-632 2004-07-01 art. 28
-	  - Loi n°2006-686 2006-06-13 art. 31
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 	**Modifié par**:
 
-	  - Décret n°2007-1557 du 2 novembre 2007 - art. 72 () JORF 3 novembre 2007
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 
 ## Liste des communes comprises dans la zone 1

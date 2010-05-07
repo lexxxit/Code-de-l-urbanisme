@@ -26,9 +26,9 @@ Servitude de passage sur le littoral instituée en application des articles L. 1
 c) Eaux.
 
 Servitudes prévues aux articles L. 215-4 et L. 215-5 
-  _(2bis)_ du code de l'environnement ainsi qu'à l'article L. 151-37-1 du code rural, y compris les servitudes instituées en
-application du décret n° 59-96 du 7 janvier 1959 validées dans les conditions prévues au IV de l'article L. 211-7 du code de
-l'environnement ;
+  _(2bis)_ du code de l'environnement ainsi qu'à l'article L. 151-37-1 du code rural et de la pêche maritime, y compris les
+servitudes instituées en application du décret n° 59-96 du 7 janvier 1959 validées dans les conditions prévues au IV de
+l'article L. 211-7 du code de l'environnement ;
 
 Servitudes attachées à la protection des eaux potables instituées en vertu des articles L. 1321-2 et R. 1321-13 du code de la
 santé publique ;
@@ -48,7 +48,7 @@ Règles prévues au I de l'article L. 331-4 du code de l'environnement applicabl
 
 e) Zones agricoles protégées.
 
-Zones agricoles protégées délimitées et classées en application de l'article L. 112-2 du code rural.
+Zones agricoles protégées délimitées et classées en application de l'article L. 112-2 du code rural et de la pêche maritime.
 
 B. - Patrimoine culturel.
 
@@ -137,15 +137,16 @@ Zones où ont été instituées, en application de la loi n° 62-904 du 4 août 
 servitudes attachées aux canalisations publiques d'eau et d'assainissement.
 
 Servitudes attachées à l'établissement des canalisations souterraines d'irrigation instituées en application des articles
-128-7 et 128-9 du code rural 
+128-7 et 128-9 du code rural et de la pêche maritime 
   _(4)_ ;
 
 Servitudes de passage des engins mécaniques d'entretien et de dépôt des produits de curage et faucardement attachées aux
-canaux d'irrigation et émissaires d'assainissement instituées en application des articles 128-6 et 138-1 du code rural 
+canaux d'irrigation et émissaires d'assainissement instituées en application des articles 128-6 et 138-1 du code rural et de
+la pêche maritime 
   _(5)_ ;
 
 Servitudes d'écoulement des eaux nuisibles attachées aux travaux d'assainissement des terres par le drainage instituées en
-application des articles 135 à 138 du code rural 
+application des articles 135 à 138 du code rural et de la pêche maritime 
   _(6)_.
 
 D. - Communications.
@@ -153,7 +154,7 @@ D. - Communications.
 a) Cours d'eau.
 
 Servitudes de halage et de marchepied instituées par les articles 15, 16 et 28 du code du domaine public fluvial et de la
-navigation intérieure et par l'article 424 du code rural 
+navigation intérieure et par l'article 424 du code rural et de la pêche maritime 
   _(7)_.
 
 b) Navigation maritime.
@@ -222,7 +223,7 @@ application des articles L. 57 à L. 62-1 et R. 27 à R. 39 du code des postes e
 Servitudes attachées aux réseaux de télécommunications instituées en application des articles L. 45-1 et L. 48 du code des
 postes et des communications électroniques.
 
-III -  Servitudes relatives à la Défense Nationale
+III - Servitudes relatives à la Défense Nationale
 
 Servitudes de champ de vue instituées par la loi du 18 juillet 1895 concernant la détermination et la conservation des postes
 électro-sémaphoriques, modifiée par la loi du 27 mai 1933 ;
@@ -267,7 +268,7 @@ B. - Sécurité publique
 Plans de prévention des risques naturels prévisibles établis en application de l'article L. 562-1 du code de l'environnement,
 ou plans de prévention des risques miniers établis en application de l'article 94 du code minier ;
 
-Documents valant plans de prévention des risques naturels prévisibles en application de l'article L. 562-6 du code  de
+Documents valant plans de prévention des risques naturels prévisibles en application de l'article L. 562-6 du code de
 l'environnement ;
 
 Servitudes instituées, en ce qui concerne la Loire et ses affluents, par les articles 55 et suivants du code du domaine
@@ -317,8 +318,44 @@ transparence et à la sécurité en matière nucléaire.
 
 	**Cite**:
 
+	  - Code rural L151-37-1, L112-2, L642-1, L642-2, 128-7, 128-9, 128-6, 138-1, 135 à 138, 424
+	  - Décret n°1935-10-30 art. 6, art. 3, art. 2
+	  - Loi n°58-336 du 29 mars 1958 - art. 11 (M)
+	  - Décret n°58-1316 1958-12-23
 	  - Décret n°59-96 1959-01-07
 	  - Décret n°59-645 1959-05-16
+	  - Décret n°64-153 1964-02-15
+	  - Décret n°64-481 1964-01-23 art. 25
+	  - Loi n°1791-07-08
+	  - Loi n°1819-07-17
+	  - Loi n°1845-07-15
+	  - Loi n°1851-07-10
+	  - Loi n°1895-07-18
+	  - Loi n°1906-06-15 art. 12, art. 12 bis
+	  - Loi n°1913-12-31 art. 1 à 5, art. 1, art. 13 bis
+	  - Loi n°1919-10-16 art. 4
+	  - Loi n°1925-07-13 art. 298
+	  - Loi n°1927-07-13 art. 25
+	  - Loi n°1929-08-08
+	  - Loi n°1930-05-02 art. 28, art. 17
+	  - Loi n°1933-05-27
+	  - Loi n°1933-07-11
+	  - Loi n°1941-07-08
+	  - Loi n°46-628 1946-04-08 art. 35
+	  - Ordonnance 58-1311 1958-12-23
+	  - Loi n°62-904 1962-08-04
+	  - Loi n°63-1178 du 28 novembre 1963 - art. 4, v. init.
+	  - Loi n°65-498 1965-06-29
+	  - Loi n°66-1066 1966-12-31
+	  - Loi n°69-7 du 3 janvier 1969 - art. 4 (Ab)
+	  - Loi n°69-7 du 3 janvier 1969 - art. 5 (Ab)
+	  - Loi n°80-531 1980-07-15
+	  - Loi n°84-610 du 16 juillet 1984 - art. 42 (M)
+	  - Loi n°85-30 1985-01-09 art. 53
+	  - Loi n°87-954 1987-11-27
+	  - Loi n°91-1385 1991-12-31
+	  - Ordonnance 2004-632 2004-07-01 art. 28
+	  - Loi n°2006-686 2006-06-13 art. 31
 	  - CODE DES COMMUNES. - art. L361-1 (M)
 	  - CODE DES COMMUNES. - art. L361-4 (M)
 	  - Code forestier - art. L421-1 (V)
@@ -351,47 +388,7 @@ transparence et à la sécurité en matière nucléaire.
 	  - Code du domaine public fluvial et de la navigation - art. 16 (M)
 	  - Code du domaine public fluvial et de la navigation - art. 28 (M)
 	  - Code du domaine public fluvial et de la navigation - art. 55 (Ab)
-	  - Code rural L151-37-1, L112-2, L642-1, L642-2, 128-7, 128-9, 128-6, 138-1, 135 à 138, 424
-	  - Décret n°1935-10-30 art. 6, art. 3, art. 2
-	  - Décret n°58-1316 1958-12-23
-	  - Décret n°64-153 1964-02-15
-	  - Décret n°64-481 1964-01-23 art. 25
-	  - Loi n°1791-07-08
-	  - Loi n°1819-07-17
-	  - Loi n°1845-07-15
-	  - Loi n°1851-07-10
-	  - Loi n°1895-07-18
-	  - Loi n°1906-06-15 art. 12, art. 12 bis
-	  - Loi n°1913-12-31 art. 1 à 5, art. 1, art. 13 bis
-	  - Loi n°1919-10-16 art. 4
-	  - Loi n°1925-07-13 art. 298
-	  - Loi n°1927-07-13 art. 25
-	  - Loi n°1929-08-08
-	  - Loi n°1930-05-02 art. 28, art. 17
-	  - Loi n°1933-05-27
-	  - Loi n°1933-07-11
-	  - Loi n°1941-07-08
-	  - Loi n°46-628 1946-04-08 art. 35
-	  - Loi n°58-336 du 29 mars 1958 - art. 11 (M)
-	  - Ordonnance 58-1311 1958-12-23
-	  - Loi n°62-904 1962-08-04
-	  - Loi n°63-1178 du 28 novembre 1963 - art. 4, v. init.
-	  - Loi n°65-498 1965-06-29
-	  - Loi n°66-1066 1966-12-31
-	  - Loi n°69-7 du 3 janvier 1969 - art. 4 (Ab)
-	  - Loi n°69-7 du 3 janvier 1969 - art. 5 (Ab)
-	  - Loi n°80-531 1980-07-15
-	  - Loi n°84-610 du 16 juillet 1984 - art. 42 (M)
-	  - Loi n°85-30 1985-01-09 art. 53
-	  - Loi n°87-954 1987-11-27
-	  - Loi n°91-1385 1991-12-31
-	  - Ordonnance 2004-632 2004-07-01 art. 28
-	  - Loi n°2006-686 2006-06-13 art. 31
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 	**Modifié par**:
 
-	  - Décret n°2007-1557 du 2 novembre 2007 - art. 72 () JORF 3 novembre 2007
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
