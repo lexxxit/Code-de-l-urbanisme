@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2010-05-30
+Version Consolidée au 2010-06-06
 
 # Partie législative
 
@@ -4284,6 +4284,8 @@ b) Compromettent gravement les principes énoncés aux articles L. 110 et L. 121
 
 c) Font apparaître des incompatibilités manifestes avec l'utilisation ou l'affectation des sols des communes voisines ; 
 
+c bis Sont manifestement contraires au programme d'action visé à l'article L. 141-7 ;
+
 d) Sont de nature à compromettre la réalisation d'une directive territoriale d'aménagement, d'un programme local de
 l'habitat, d'un schéma de cohérence territoriale, d'un schéma de secteur ou d'un schéma de mise en valeur de la mer en cours
 d'établissement, le plan local d'urbanisme est exécutoire dès publication et transmission au préfet de la délibération
@@ -4293,7 +4295,8 @@ approuvant les modifications demandées.
 
 	**Modifié par**:
 
-	  - Loi n°2009-323 du 25 mars 2009 - art. 29
+	  - Loi n°2010-597 du 3 juin 2010 - art. 35
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
 
 	**Cité par**:
 
@@ -4307,6 +4310,7 @@ approuvant les modifications demandées.
 	  - Code de l'urbanisme - art. L110
 	  - Code de l'urbanisme - art. L111-1-1
 	  - Code de l'urbanisme - art. L121-1
+	  - Code de l'urbanisme - art. L141-7
 	  - Code de l'urbanisme - art. L145-7
 
 	**Nouveaux textes**:
@@ -5869,6 +5873,134 @@ d'urbanisme en tenant lieu.
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+#####  Section 3 : Zone de protection naturelle, agricole et forestière du plateau de Saclay
+
+###### Article L141-5
+
+Il est créé une zone de protection naturelle, agricole et forestière dans le périmètre de l'opération d'intérêt national du
+plateau de Saclay et de la petite région agricole de ce plateau qui comprend les communes dont la liste figure à l'annexe B à
+la loi n° 2010-597 du 3 juin 2010 relative au Grand Paris. Cette zone, non urbanisable, est délimitée par décret en Conseil
+d'Etat, pris dans un délai d'un an à compter de la promulgation de la même loi, après avis du conseil régional d'Ile-de-
+France, des conseils généraux de l'Essonne et des Yvelines, des conseils municipaux et des organes délibérants des
+établissements publics de coopération intercommunale compétents situés dans le périmètre de l'opération d'intérêt national,
+ainsi que de la chambre interdépartementale d'agriculture d'Ile-de-France, de la société d'aménagement foncier et
+d'établissement rural de l'Ile-de-France, de l'Office national des forêts et des associations agréées pour la protection de
+l'environnement présentes dans le périmètre d'intervention de l'Etablissement public de Paris-Saclay. 
+
+Cette zone comprend au moins 2 300 hectares de terres consacrées à l'activité agricole situées sur les communes figurant à
+l'annexe B précitée. 
+
+Pour l'exercice de ses missions, l'organe délibérant de l'Etablissement public de Paris-Saclay définit les secteurs
+indispensables au développement du pôle scientifique et technologique. Ces secteurs ne peuvent être inclus dans la zone de
+protection. 
+
+La zone est délimitée après enquête publique conduite dans les conditions définies par le chapitre III du titre II du livre
+Ier du code de l'environnement. L'enquête porte également sur la ou les mises en compatibilité visées au dernier alinéa du
+présent article. 
+
+Une carte précisant le mode d'occupation du sol est annexée au décret en Conseil d'Etat précité. 
+
+L'interdiction d'urbaniser dans la zone de protection vaut servitude d'utilité publique et est annexée aux plans locaux
+d'urbanisme des communes intéressées, dans les conditions prévues par l'article L. 126-1 du présent code. 
+
+Les communes intéressées disposent d'un délai de six mois à compter de la publication du décret en Conseil d'Etat visé au
+premier alinéa du présent article pour mettre en compatibilité leur plan local d'urbanisme.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
+départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
+s'appliquera aux élections organisées en mars 2015 à l'occasion du prochain renouvellement général des conseils
+départementaux, y compris aux opérations préparatoires à ce scrutin (date indéterminée).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2010-597 du 3 juin 2010
+	  - Code de l'urbanisme - art. L126-1 (V)
+
+	**Créé par**:
+
+	  - Loi n°2010-597 du 3 juin 2010 - art. 35
+
+	**Cité par**:
+
+	  - Décret n°2013-1298 du 27 décembre 2013 (V)
+	  - Code de l'urbanisme - art. R141-7 (VT)
+	  - Code de l'urbanisme - art. R141-8 (VT)
+
+
+###### Article L141-6
+
+La révision du périmètre de la zone est prononcée par décret en Conseil d'Etat, selon les modalités définies à l'article L.
+141-5.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-597 du 3 juin 2010 - art. 35
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L123-30 (VD)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L141-5 (VT)
+
+
+###### Article L141-7
+
+Au sein de la zone de protection, l'Etablissement public de Paris-Saclay élabore, en concertation avec les communes ou
+établissements publics de coopération intercommunale situés dans la zone de protection, un programme d'action qui précise les
+aménagements et les orientations de gestion destinés à favoriser l'exploitation agricole, la gestion forestière, la
+préservation et la valorisation des espaces naturels et des paysages. 
+
+Lorsqu'il concerne la gestion agricole, le programme d'action est établi après consultation de la chambre interdépartementale
+d'agriculture d'Ile-de-France. 
+
+Lorsqu'il concerne la gestion forestière, le programme d'action est établi en accord avec l'Office national des forêts et le
+centre régional de la propriété forestière d'Ile-de-France et du Centre. Les documents d'orientation et de gestion des forêts
+concernées élaborés en application du code forestier sont adaptés, si nécessaire, en fonction des orientations retenues, et
+valent aménagement et orientation de gestion au titre du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-597 du 3 juin 2010 - art. 35
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L123-12 (VT)
+	  - Code de l'urbanisme - art. R141-13 (VT)
+
+
+###### Article L141-8
+
+Un décret en Conseil d'Etat détermine les conditions d'application de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-597 du 3 juin 2010 - art. 35
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L171-1 (VD)
 
 
 #### Chapitre II : Espaces naturels sensibles des départements.
@@ -9603,18 +9735,14 @@ créée que par décret en Conseil d'Etat.
 
 ###### Article L212-2
 
-Dans les zones d'aménagement différé, un droit de préemption, qui peut être exercé pendant une période de quatorze ans à
-compter de la publication de l'acte qui a créé la zone, sous réserve de ce qui est dit à l'article L. 212-2-1, est ouvert
-soit à une collectivité publique ou à un établissement public y ayant vocation, soit au concessionnaire d'une opération
-d'aménagement.
+Dans les zones d'aménagement différé, un droit de préemption, qui peut être exercé pendant une période de six ans
+renouvelable à compter de la publication de l'acte qui a créé la zone, sous réserve de ce qui est dit à l'article L. 212-2-1,
+est ouvert soit à une collectivité publique ou à un établissement public y ayant vocation, soit au concessionnaire d'une
+opération d'aménagement.
 
 L'acte créant la zone désigne le titulaire du droit de préemption.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 	**Cité par**:
 
@@ -9646,7 +9774,7 @@ L'acte créant la zone désigne le titulaire du droit de préemption.
 
 	**Modifié par**:
 
-	  - Loi n°2005-809 du 20 juillet 2005 - art. 5 () JORF 21 juillet 2005
+	  - Loi n°2010-597 du 3 juin 2010 - art. 6 (V)
 
 	**Liens**:
 
@@ -9657,36 +9785,32 @@ L'acte créant la zone désigne le titulaire du droit de préemption.
 
 Lorsqu'il est saisi d'une proposition de création de zone d'aménagement différé par la commune ou l'établissement public de
 coopération intercommunale compétent ou qu'il lui demande son avis sur un tel projet, le représentant de l'Etat dans le
-département peut prendre un arrêté délimitant le périmètre provisoire de la zone.
+département peut prendre un arrêté délimitant le périmètre provisoire de la zone. 
 
 A compter de la publication de cet arrêté et jusqu'à la publication de l'acte créant la zone d'aménagement différé, un droit
 de préemption est ouvert à l'Etat dans le périmètre provisoire. Les zones urbaines ou d'urbanisation future délimitées par un
 plan d'occupation des sols rendu public ou par un plan local d'urbanisme approuvé ne sont plus soumises au droit de
-préemption urbain institué sur ces territoires.
+préemption urbain institué sur ces territoires. 
 
-L'arrêté délimitant le périmètre provisoire peut désigner un autre titulaire du droit de préemption.
+L'arrêté délimitant le périmètre provisoire peut désigner un autre titulaire du droit de préemption. 
 
 Si l'acte créant la zone d'aménagement différé n'est pas publié à l'expiration d'un délai de deux ans à compter de la
-publication de l'arrêté délimitant le périmètre provisoire, cet arrêté devient caduc.
+publication de l'arrêté délimitant le périmètre provisoire, cet arrêté devient caduc. 
 
 Par dérogation à l'article L. 212-2, la date de publication de l'acte délimitant le périmètre provisoire de zone
-d'aménagement différé se substitue à celle de l'acte créant la zone d'aménagement différé pour le calcul du délai de quatorze
-ans pendant lequel le droit de préemption peut être exercé.
+d'aménagement différé se substitue à celle de l'acte créant la zone d'aménagement différé pour le calcul du délai de six ans
+renouvelable pendant lequel le droit de préemption peut être exercé.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
+	  - Loi n°2010-597 du 3 juin 2010 - art. 6 (V)
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. L212-2 (V)
 	  - Code de l'urbanisme - art. L212-2-2 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 ###### Article L212-2-2
@@ -10071,33 +10195,38 @@ préemption " s'entend également, s'il y a lieu, du délégataire en applicatio
 ###### Article L213-4
 
 A défaut d'accord amiable, le prix d'acquisition est fixé par la juridiction compétente en matière d'expropriation ; ce prix
-est exclusif de toute indemnité accessoire, et notamment de l'indemnité de réemploi.
+est exclusif de toute indemnité accessoire, et notamment de l'indemnité de réemploi. 
 
 Lorsqu'il est fait application de l'article L. 213-2-1, le prix d'acquisition fixé par la juridiction compétente en matière
 d'expropriation tient compte de l'éventuelle dépréciation subie, du fait de la préemption partielle, par la fraction restante
-de l'unité foncière.
+de l'unité foncière. 
 
 Le prix est fixé, payé ou, le cas échéant, consigné selon les règles applicables en matière d'expropriation. Toutefois, dans
-ce cas :
+ce cas : 
 
-a) La date de référence prévue à l'article L. 13-15 du code de l'expropriation pour cause d'utilité publique est la date à
-laquelle est devenu opposable aux tiers le plus récent des actes rendant public, approuvant, révisant ou modifiant le plan
-d'occupation des sols ou approuvant, modifiant ou révisant le plan local d'urbanisme et délimitant la zone dans laquelle est
-situé le bien.
+a) La date de référence prévue à l'article L. 13-15 du code de l'expropriation pour cause d'utilité publique est :
 
-En l'absence d'un tel document, cette date de référence est :
+- pour les biens compris dans le périmètre d'une zone d'aménagement différé : 
 
-- un an avant la publication de l'acte délimitant le périmètre provisoire de zone d'aménagement différé, lorsque le bien est
-situé dans un tel périmètre ou lorsque l'acte créant la zone est publié dans le délai de validité d'un périmètre provisoire ;
+i) la date de publication de l'acte délimitant le périmètre provisoire de la zone d'aménagement différé lorsque le bien est
+situé dans un tel périmètre ou lorsque l'acte créant la zone est publié dans le délai de validité d'un périmètre
+provisoire ; 
 
-- un an avant la publication de l'acte créant la zone d'aménagement différé ;
+ii) la date de publication de l'acte créant la zone d'aménagement différé si un périmètre provisoire de zone d'aménagement
+différé n'a pas été délimité ; 
+
+iii) dans tous les cas, la date du dernier renouvellement de l'acte créant la zone d'aménagement différé ;
+
+- pour les biens non compris dans une telle zone, la date à laquelle est devenu opposable aux tiers le plus récent des actes
+rendant public, approuvant, révisant ou modifiant le plan d'occupation des sols, ou approuvant, révisant ou modifiant le plan
+local d'urbanisme et délimitant la zone dans laquelle est situé le bien ; 
 
 b) Les améliorations, les transformations ou les changements d'affectation opérés par le propriétaire postérieurement à la
-date mentionnée au a) ci-dessus ne sont pas présumés revêtir un caractère spéculatif ;
+date mentionnée au a) ci-dessus ne sont pas présumés revêtir un caractère spéculatif ; 
 
 c) A défaut de transactions amiables constituant des références suffisantes pour l'évaluation du bien dans la même zone, il
 pourra être tenu compte des mutations et accords amiables intervenus pour des biens de même qualification situés dans des
-zones comparables.
+zones comparables. 
 
 Lorsque la juridiction compétente en matière d'expropriation est appelée à fixer le prix d'un bien dont l'aliénation est
 envisagée sous forme de vente avec constitution de rente viagère, elle respecte les conditions de paiement proposées par le
@@ -10107,8 +10236,7 @@ vendeur mais peut réviser le montant de cette rente et du capital éventuel.
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 21 () JORF 14 décembre 2000
+	  - Loi n°2010-597 du 3 juin 2010 - art. 6 (V)
 
 	**Cité par**:
 
@@ -10122,12 +10250,8 @@ vendeur mais peut réviser le montant de cette rente et du capital éventuel.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L213-2-1 (V)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L13-15 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+	  - Code de l'urbanisme - art. L213-2-1
+	  - Code de l'expropriation pour cause d'utilité publique - art. L13-15
 
 
 ###### Article L213-4-1
