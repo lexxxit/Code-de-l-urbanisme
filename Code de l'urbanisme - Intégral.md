@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2010-06-06
+Version Consolidée au 2010-07-01
 
 # Partie législative
 
@@ -52176,19 +52176,19 @@ transferts à titre gratuit sont exclus du champ d'application du présent titre
 ###### Article R*510-2
 
 L'agrément institué à l'article R. 510-1 est accordé, accordé sous condition, refusé ou ajourné pour complément
-d'instruction :
+d'instruction : 
 
 1° Par le préfet du département pour toute opération de construction, reconstruction ou extension, lorsqu'il existe une
 convention mentionnée à l'article R. 510-5 en cours de validité. Sa décision fait l'objet d'un arrêté publié au recueil des
-actes administratifs de la préfecture ;
+actes administratifs de la préfecture ; 
 
 2° Par le préfet de la région d'Ile-de-France dans les autres cas. Sa décision fait l'objet d'un arrêté publié au recueil des
-actes administratifs de la préfecture de la région d'Ile-de-France.
+actes administratifs de la préfecture de la région d'Ile-de-France, préfecture de Paris. 
 
 Tout refus d'agrément ou agrément sous condition doit être motivé.
 
 L'autorité compétente dispose d'un délai de trois mois à compter de la réception de la demande pour statuer. En l'absence de
-réponse dans ce délai, l'agrément est réputé accordé dans les termes où il a été demandé.
+réponse dans ce délai, l'agrément est réputé accordé dans les termes où il a été demandé. 
 
 Toutefois, l'autorité compétente peut prendre une décision motivée d'ajournement pour complément d'instruction. Elle dispose
 alors de trois mois à compter de la réception de cette décision par le demandeur pour statuer. Faute de décision dans ce
@@ -52196,21 +52196,14 @@ délai, l'agrément est réputé accordé dans les termes où il a été demand�
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°67-944 1967-10-24 ART. 2
+	  - Décret n°2010-687 du 24 juin 2010 - art. 37
 
 	**Cite**:
 
-	  - Code de l'urbanisme R510-1, R510-5
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°2007-1599 du 12 novembre 2007 - art. 2 () JORF 14 novembre 2007
+	  - Code de l'urbanisme - art. R*510-1
+	  - Code de l'urbanisme - art. R*510-5
 
 
 ###### Article R*510-4
