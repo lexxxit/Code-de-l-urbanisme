@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2010-09-23
+Version Consolidée au 2010-10-09
 
 # Partie législative
 
@@ -25928,34 +25928,36 @@ concernées.
 
 ###### Article R*121-14
 
-I. - Font l'objet d'une évaluation environnementale dans les conditions prévues par la présente section  :
+I.-Font l'objet d'une évaluation environnementale dans les conditions prévues par la présente section : 
 
-1° Les directives territoriales d'aménagement ;
+1° Les directives territoriales d'aménagement ; 
 
-2° Le schéma directeur de la région d'Ile-de-France ;
+2° Le schéma directeur de la région d'Ile-de-France ; 
 
-3° Les schémas d'aménagement régionaux des régions d'outre-mer ;
+3° Les schémas d'aménagement régionaux des régions d'outre-mer ; 
 
-4° Le plan d'aménagement et de développement durable de Corse ;
+4° Le plan d'aménagement et de développement durable de Corse ; 
 
-5° Les schémas de cohérence territoriale.
+5° Les schémas de cohérence territoriale ; 
 
-II. - Font également l'objet d'une évaluation environnementale :
+6° Le plan d'aménagement et de développement durable de Mayotte. 
+
+II.-Font également l'objet d'une évaluation environnementale : 
 
 1° Les plans locaux d'urbanisme qui permettent la réalisation de travaux, ouvrages ou aménagements mentionnés à l'article L.
-414-4 du code de l'environnement ;
+414-4 du code de l'environnement ; 
 
 2° Lorsque les territoires concernés ne sont pas couverts par un schéma de cohérence territoriale ayant fait l'objet d'une
-évaluation environnementale dans les conditions de la présente section :
+évaluation environnementale dans les conditions de la présente section : 
 
 a) Les plans locaux d'urbanisme relatifs à un territoire d'une superficie supérieure ou égale à 5 000 hectares et comprenant
-une population supérieure ou égale à 10 000 habitants ;
+une population supérieure ou égale à 10 000 habitants ; 
 
 b) Les plans locaux d'urbanisme qui prévoient la création, dans des secteurs agricoles ou naturels, de zones U ou AU d'une
-superficie totale supérieure à 200 hectares ;
+superficie totale supérieure à 200 hectares ; 
 
 c) Les plans locaux d'urbanisme des communes situées en zone de montagne qui prévoient la réalisation d'unités touristiques
-nouvelles soumises à l'autorisation du préfet coordonnateur de massif ;
+nouvelles soumises à l'autorisation du préfet coordonnateur de massif ; 
 
 d) Les plans locaux d'urbanisme des communes littorales au sens de l'article L. 321-2 du code de l'environnement qui
 prévoient la création, dans des secteurs agricoles ou naturels, de zones U ou AU d'une superficie totale supérieure à 50
@@ -25963,13 +25965,9 @@ hectares.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°2005-608 du 27 mai 2005 - art. 2 () JORF 29 mai 2005
+	  - Décret n°2010-1178 du 6 octobre 2010 - art. 2
 
 	**Cité par**:
 
@@ -25981,19 +25979,20 @@ hectares.
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L321-2 (V)
-	  - Code de l'environnement - art. L414-4 (M)
+	  - Code de l'environnement - art. L321-2
+	  - Code de l'environnement - art. L414-4
 
 
 ###### Article R*121-15
 
 La formation d'autorité environnementale du Conseil général de l'environnement et du développement durable, pour les
-documents mentionnés aux 1° à 3° du I de l'article R. 121-14, le préfet de Corse, pour le document mentionné au 4° du même I
-et le préfet de département, pour les schémas de cohérence territoriale et les plans locaux d'urbanisme mentionnés au II du
-même article, sont consultés sur l'évaluation environnementale contenue dans le rapport de présentation et sur la prise en
-compte de l'environnement par le projet de document d'urbanisme, trois mois au plus tard avant l'ouverture de l'enquête
-publique ou de la consultation du public prévue par des textes particuliers.L'avis est réputé favorable s'il n'intervient pas
-dans un délai de trois mois. Il est, s'il y a lieu, joint au dossier d'enquête publique ou mis à la disposition du public.
+documents mentionnés aux 1° à 3°  et au 6° du I de l'article R. 121-14, le préfet de Corse, pour le document mentionné au 4°
+du même I et le préfet de département, pour les schémas de cohérence territoriale et les plans locaux d'urbanisme mentionnés
+au II du même article, sont consultés sur l'évaluation environnementale contenue dans le rapport de présentation et sur la
+prise en compte de l'environnement par le projet de document d'urbanisme, trois mois au plus tard avant l'ouverture de
+l'enquête publique ou de la consultation du public prévue par des textes particuliers.L'avis est réputé favorable s'il
+n'intervient pas dans un délai de trois mois. Il est, s'il y a lieu, joint au dossier d'enquête publique ou mis à la
+disposition du public.
 
 Dès réception des documents qui lui sont soumis, l'autorité environnementale consulte le ministre chargé de la santé pour les
 documents mentionnés aux 1° à 3° du I de l'article R. 121-14 ou le directeur général de l'agence régionale de santé pour les
@@ -26016,7 +26015,7 @@ liaison avec les services de l'Etat compétents.
 
 	**Modifié par**:
 
-	  - Décret n°2010-344 du 31 mars 2010 - art. 351
+	  - Décret n°2010-1178 du 6 octobre 2010 - art. 2
 
 	**Cite**:
 
@@ -28704,46 +28703,32 @@ lieu fait l'objet des procédures d'association du public et de publicité prév
 
 Le coût foncier imputé à la partie des constructions ayant la destination de logements locatifs sociaux et dépassant, dans
 les conditions fixées par l'article L. 127-1, la densité résultant du coefficient d'occupation des sols ne peut excéder le
-montant obtenu par l'application du barème ci-après à la surface hors oeuvre nette de cette partie des constructions :
+montant obtenu par l'application du barème ci-après à la surface hors oeuvre nette de cette partie des constructions : 
 
 1. Dans les communes de la zone 1 définie à l'article R. 127-3, 205 euros (T.T.C.) par mètre carré de plancher hors oeuvre
 net des maisons d'habitation individuelle et 140 euros (T.T.C.) par mètre carré de plancher hors oeuvre net des autres
-constructions à usage d'habitation ;
+constructions à usage d'habitation ; 
 
 2. Dans les communes de la zone 2 définie au même article, 140 euros (T.T.C.) par mètre carré de plancher hors oeuvre net des
 maisons d'habitation individuelle et 90 euros (T.T.C.) par mètre carré de plancher hors oeuvre net des autres constructions à
-usage d'habitation ;
+usage d'habitation ; 
 
 3. Dans les communes de la zone 3 définie au même article, 70 euros (T.T.C.) par mètre carré de plancher hors oeuvre net des
 maisons d'habitation individuelle et 45 euros (T.T.C.) par mètre carré de plancher hors oeuvre net des autres constructions à
-usage d'habitation ;
+usage d'habitation ; 
 
-4. Dans les communes des départements d'outre-mer, 55 euros (T.T.C.) par mètre carré de plancher hors oeuvre net des
-constructions à usage d'habitation.
+4. Dans les communes des départements d'outre-mer et de Mayotte, 55 euros (T.T.C.) par mètre carré de plancher hors oeuvre
+net des constructions à usage d'habitation.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - TXT_SOURCE: Directive 96-26 CE 1996-04-29
-	  - TXT_SOURCE: Directive 98-76 CE 1998-10-01
-	  - SPEC_APPLI: Décret n°2001-1327 2001-12-28 art. 5 : champ d'application
-	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-	  - TXT_SOURCE: Règlement CE 2866/98 1998-12-31
-	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
 	**Modifié par**:
 
-	  - Décret n°2001-1327 du 28 décembre 2001 - art. 1 () JORF 29 décembre 2001 en vigueur le 1er janvier 2002
+	  - Décret n°2010-1178 du 6 octobre 2010 - art. 2
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L127-1 (M)
-	  - Code de l'urbanisme L127-1, R127-3
+	  - Code de l'urbanisme - art. L127-1
 
 
 ###### Article R*127-3
@@ -31312,32 +31297,32 @@ Le schéma approuvé est annexé au plan local d'urbanisme, s'il existe.
 
 En application du premier alinéa de l'article L. 146-6, sont préservés, dès lors qu'ils constituent un site ou un paysage
 remarquable ou caractéristique du patrimoine naturel et culturel du littoral, sont nécessaires au maintien des équilibres
-biologiques ou présentent un intérêt écologique :
+biologiques ou présentent un intérêt écologique : 
 
-a) Les dunes, les landes côtières, les plages et les lidos, les estrans, les falaises et les abords de celles-ci ;
+a) Les dunes, les landes côtières, les plages et les lidos, les estrans, les falaises et les abords de celles-ci ; 
 
 b) Les forêts et zones boisées proches du rivage de la mer et des plans d'eau intérieurs d'une superficie supérieure à 1 000
-hectares ;
+hectares ; 
 
-c) Les îlots inhabités ;
+c) Les îlots inhabités ; 
 
-d) Les parties naturelles des estuaires, des rias ou abers et des caps ;
+d) Les parties naturelles des estuaires, des rias ou abers et des caps ; 
 
-e) Les marais, les vasières, les tourbières, les plans d'eau, les zones humides et milieux temporairement immergés ;
+e) Les marais, les vasières, les tourbières, les plans d'eau, les zones humides et milieux temporairement immergés ; 
 
 f) Les milieux abritant des concentrations naturelles d'espèces animales ou végétales telles que les herbiers, les frayères,
 les nourrisseries et les gisements naturels de coquillages vivants ; les espaces délimités pour conserver les espèces en
 application de l'article 4 de la loi n° 76-629 du 10 juillet 1976 et les zones de repos, de nidification et de gagnage de
-l'avifaune désignée par la directive européenne n° 79-409 du 2 avril 1979 concernant la conservation des oiseaux sauvages ;
+l'avifaune désignée par la directive européenne n° 79-409 du 2 avril 1979 concernant la conservation des oiseaux sauvages ; 
 
 g) Les parties naturelles des sites inscrits ou classés en application de la loi du 2 mai 1930 modifiée et des parcs
 nationaux créés en application de la loi n° 60-708 du 22 juillet 1960, ainsi que les réserves naturelles instituées en
-application de la loi n° 76-629 du 10 juillet 1976 ;
+application de la loi n° 76-629 du 10 juillet 1976 ; 
 
 h) Les formations géologiques telles que les gisements de minéraux ou de fossiles, les stratotypes, les grottes ou les
-accidents géologiques remarquables ;
+accidents géologiques remarquables ; 
 
-i) Les récifs coralliens, les lagons et les mangroves dans les départements d'outre-mer.
+i) Les récifs coralliens, les lagons et les mangroves dans les départements d'outre-mer et à Mayotte. 
 
 Lorsqu'ils identifient des espaces ou milieux relevant du présent article, les documents d'urbanisme précisent, le cas
 échéant, la nature des activités et catégories d'équipements nécessaires à leur gestion ou à leur mise en valeur notamment
@@ -31347,25 +31332,19 @@ Lorsqu'ils identifient des espaces ou milieux relevant du présent article, les 
 
 	**Cite**:
 
-	  - Loi n°60-708 1960-07-22
-	  - Loi n°76-629 du 10 juillet 1976 - art. 4 (Ab)
-	  - Code de l'urbanisme - art. L146-6 (M)
-	  - Directive CEE 79-409 1979-04-02
-	  - Loi n°1930-05-02
+	  - Loi n°60-708 du 22 juillet 1960
+	  - Loi n°76-629 du 10 juillet 1976
+	  - Code de l'urbanisme - art. L146-6
 
 	**Modifié par**:
 
-	  - Décret n°2004-310 du 29 mars 2004 - art. 1 () JORF 30 mars 2004
+	  - Décret n°2010-1178 du 6 octobre 2010 - art. 2
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*711-1 (Ab)
 	  - Code de l'urbanisme - art. R146-2 (M)
 	  - Code général des collectivités territoriales - art. R4424-6 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 #### Chapitre VII : Dispositions particulières aux zones de bruit des aérodromes
@@ -53771,6 +53750,602 @@ signature à ses subordonnés en ce qui concerne les matières relevant en propr
 	**Modifié par**:
 
 	  - Décret n°94-701 du 16 août 1994 - art. 1 () JORF 18 août 1994
+
+
+## Livre VII : Dispositions applicables à Mayotte
+
+### Titre préliminaire
+
+###### Article R*700-1
+
+Pour l'application à Mayotte du présent code, les références au code général des impôts sont remplacées par les références
+aux dispositions correspondantes applicables à la collectivité départementale de Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1178 du 6 octobre 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1529 du 28 décembre 2012 - art. 12 (V)
+
+
+###### Article R*700-2
+
+Les formalités de publicité relatives à une mention en caractères apparents dans deux journaux régionaux ou locaux prévues
+notamment aux articles R. * 130-17, 
+R. * 142-5, R. * 211-2, R. * 212-2, R. 212-2-1 et R. * 332-25 sont remplacées par une mention en caractères apparents dans un
+journal local.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1178 du 6 octobre 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1529 du 28 décembre 2012 - art. 12 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*130-17
+	  - Code de l'urbanisme - art. R*212-2
+	  - Code de l'urbanisme - art. R*332-25
+	  - Code de l'urbanisme - art. R142-5
+	  - Code de l'urbanisme - art. R211-2
+
+
+### Titre Ier : Règles générales d'aménagement et d'urbanisme
+
+#### Chapitre Ier : Dispositions générales
+
+###### Article R*710-1
+
+Les articles R. * 111-1 à R. * 111-24, R. * 111-26, 
+R. * 111-30 à R. * 111-47, R. * 112-1 à R. * 112-2, R. * 121-1 à R. * 121-16, 
+R. * 123-1 à R. * 123-25, R. * 124-1 à R. * 124-8, 
+R. * 126-1 à R. 126-3, R. 127-1 à R. 127-3, R. * 130-1 à R. * 130-23, R. * 142-1 à R. 142-19, R. 143-1 à R. 143-9 sont
+applicables à Mayotte sous réserve des dispositions ci-après.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1178 du 6 octobre 2010 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*111-1
+	  - Code de l'urbanisme - art. R*111-30
+	  - Code de l'urbanisme - art. R*112-1
+	  - Code de l'urbanisme - art. R*121-1
+	  - Code de l'urbanisme - art. R*123-1
+	  - Code de l'urbanisme - art. R*124-1
+	  - Code de l'urbanisme - art. R*126-1
+	  - Code de l'urbanisme - art. R*127-1
+	  - Code de l'urbanisme - art. R*130-1
+	  - Code de l'urbanisme - art. R111-26
+	  - Code de l'urbanisme - art. R142-1
+	  - Code de l'urbanisme - art. R143-1
+
+
+###### Article R*710-2
+
+Pour l'application de l'article R. * 121-6, les deuxième et troisième alinéas sont remplacés par les dispositions
+suivantes : 
+
+" 1° Deux élus communaux représentant au moins deux communes différentes ; 
+
+2° Un conseiller général ; 
+
+3° Trois personnes qualifiées en matière d'aménagement, d'urbanisme, d'architecture ou d'environnement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1178 du 6 octobre 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1529 du 28 décembre 2012 - art. 12 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*121-6
+
+
+###### Article R*710-3
+
+Pour l'application de l'article R. * 121-7, les mots : " six élus ” sont remplacés par les mots : " deux élus ”. Il est
+inséré un dernier alinéa ainsi rédigé : " Le conseiller général est désigné par le président du conseil général.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1178 du 6 octobre 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1529 du 28 décembre 2012 - art. 12 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*121-7
+
+
+#### Chapitre II : Dispositions particulières au littoral à Mayotte
+
+###### Article R*711-1
+
+Les articles R. 146-1 à R. * 146-4 sont applicables à Mayotte sous réserve des dispositions ci-après.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1178 du 6 octobre 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1529 du 28 décembre 2012 - art. 12 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R146-1
+
+
+###### Article R*711-2
+
+Pour l'application de l'article R*46-2, les mots : " dans les cas prévus par les articles R. 123-1 à R. 123-33 du code de
+l'environnement ” sont remplacés par les mots : " dans les cas où le représentant de l'Etat l'a prévu ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1178 du 6 octobre 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1529 du 28 décembre 2012 - art. 12 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R146-2
+	  - Code de l'environnement - art. R123-1
+
+
+###### Article R*711-3
+
+L'autorisation visée au deuxième alinéa du II de l'article L. 711-3 est délivrée par le représentant de l'Etat à Mayotte. Cet
+accord est donné sur demande motivée de la commune et après avis du conseil général. Les communes intéressées peuvent
+également faire connaître leur avis dans un délai de deux mois suivant le dépôt de la demande d'autorisation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1178 du 6 octobre 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1529 du 28 décembre 2012 - art. 12 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L711-3
+
+
+###### Article R*711-4
+
+Pour l'application de l'article R. * 146-3, les mots : " bande des cent mètres mentionnée au III de l'article L. 146-4 ”
+figurant au 4° de cet article sont remplacés par les mots : " bande littorale définie à l'article L. 711-3”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1178 du 6 octobre 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1529 du 28 décembre 2012 - art. 12 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L146-4
+	  - Code de l'urbanisme - art. L711-3
+	  - Code de l'urbanisme - art. R*146-3
+
+
+#### Chapitre III : Dispositions particulières aux zones de bruit des aérodromes à Mayotte
+
+###### Article R*712-1
+
+Les articles R. 147-1 à R. * 147-11 sont applicables à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1178 du 6 octobre 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1529 du 28 décembre 2012 - art. 12 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R147-1
+
+
+#### Chapitre IV : Dispositions particulières aux sanctions et servitudes à Mayotte
+
+###### Article R*713-1
+
+Les articles R. 160-1 à R. 160-3 et R. * 160-7 sont applicables à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1178 du 6 octobre 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1529 du 28 décembre 2012 - art. 12 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R160-1
+
+
+### Titre II : Préemption et réserves foncières
+
+###### Article R*720-1
+
+Les articles R. * 211-1 à R. * 211-8, R. * 212-1 à R. 212-6, R. * 213-1 à R. * 213-26 sont applicables à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1178 du 6 octobre 2010 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*212-1
+	  - Code de l'urbanisme - art. R*213-1
+	  - Code de l'urbanisme - art. R211-1
+
+
+### Titre III : Aménagement foncier
+
+###### Article R*730-1
+
+Les articles R. * 300-1 à R. * 300-14, R. * 311-1 à R. * 311-12, R. * 318-1 à R. * 318-15, R. * 321-1 à R. * 321-25, R. *
+322-1 à R. * 322-30, R. * 322-38, R. * 322-40, R. 324-1 à R. 324-15, R. 332-15 à R. 332-42 et R. 340-1 à R. 340-6 sont
+applicables à Mayotte sous réserve des dispositions ci-après.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1178 du 6 octobre 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1529 du 28 décembre 2012 - art. 12 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*311-1
+	  - Code de l'urbanisme - art. R*318-1
+	  - Code de l'urbanisme - art. R*321-1
+	  - Code de l'urbanisme - art. R*322-1
+	  - Code de l'urbanisme - art. R*332-15
+	  - Code de l'urbanisme - art. R300-1
+	  - Code de l'urbanisme - art. R322-38
+	  - Code de l'urbanisme - art. R324-1
+	  - Code de l'urbanisme - art. R340-1
+
+
+###### Article R*730-2
+
+I. ― Pour l'application de l'article R. 340-4, le deuxième alinéa est remplacé par les dispositions suivantes : 
+
+" Le comité de gestion et d'engagement est composé de deux représentants de l'Etat, de deux représentants du conseil général
+élus par le conseil général et de deux représentants désignés par l'Association des maires de Mayotte. Il est présidé par le
+président du conseil général. Il arrête son règlement intérieur dans lequel sont fixées les modalités d'instruction des
+demandes d'aide. Il se réunit au moins une fois par an. Dans le cadre de modalités d'intervention définies contractuellement
+entre les contributeurs, le comité de gestion et d'engagement : 
+
+― détermine les orientations générales du fonds. Il s'appuie pour ce faire notamment sur les objectifs du plan d'aménagement
+et de développement durable prévu à l'article LO 6161-42 du code général des collectivités territoriales ; 
+
+― arrête une programmation financière et physique prévisionnelle pour trois ans des projets éligibles aux aides accordées par
+le fonds régional d'aménagement foncier et urbain ; 
+
+― fixe les modalités d'instructions et statue sur les demandes d'aide. ” 
+
+II. ― Pour l'application de l'article R. 340-4, le quatrième alinéa est remplacé par les dispositions suivantes : 
+
+" Le comité permanent est composé d'un représentant de l'Etat, d'un représentant du conseil général élu par celui-ci et d'un
+représentant désigné par l'Association des maires de Mayotte. Le comité permanent peut s'associer en tant que de besoin les
+représentants d'autres institutions ou organismes qu'il estime utiles à l'exercice de ses missions. Son secrétariat est
+assuré par la direction de l'équipement. ”
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1178 du 6 octobre 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1529 du 28 décembre 2012 - art. 12 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. LO6161-42
+	  - Code de l'urbanisme - art. R340-4
+
+
+###### Article R*730-3
+
+Pour l'application du dernier alinéa de l'article R. 340-5, les mots : " logements aidés ” sont remplacés par les mots : "
+logements prévus à l'article 3 de l'ordonnance n° 98-520 du 24 juin 1998 relative à l'action foncière, aux offices
+d'intervention économique dans le secteur de l'agriculture et de la pêche et à l'aide au logement dans la collectivité
+territoriale de Mayotte, ainsi que les logements faisant l'objet d'un prêt en faveur du logement locatif conformément à
+l'article 55 de la loi n° 96-609 du 5 juillet 1996 portant dispositions diverses relatives à l'outre-mer ”.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°96-609 du 5 juillet 1996 - art. 55
+	  - Ordonnance n°98-520 du 24 juin 1998 - art. 3
+	  - Code de l'urbanisme - art. R340-5
+
+	**Créé par**:
+
+	  - Décret n°2010-1178 du 6 octobre 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1529 du 28 décembre 2012 - art. 12 (V)
+
+
+### Titre IV : Régime applicable aux constructions, aménagements et démolitions
+
+###### Article R*740-1
+
+Les articles R. * 410-1 à R. * 423-55, R. * 423-57 à R. * 425-9, R. * 425-12, R. * 425-13, R. * 425-15 à R. * 431-28, 
+R. * 431-30 à R. * 431-36, R. * 433-1 à R. * 471-5, R. 480-3 à R. * 480-7 sont applicables à Mayotte sous réserve des
+dispositions ci-après.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1178 du 6 octobre 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1529 du 28 décembre 2012 - art. 12 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*410-1
+	  - Code de l'urbanisme - art. R*423-57
+	  - Code de l'urbanisme - art. R*425-12
+	  - Code de l'urbanisme - art. R*431-30
+	  - Code de l'urbanisme - art. R*433-1
+	  - Code de l'urbanisme - art. R480-3
+
+
+###### Article R*740-2
+
+Pour l'application du d de l'article R. * 410-5, les mots : " lorsque la commune ou l'établissement public de coopération
+intercommunale remplit les conditions fixées à l'article L. 422-8 ” sont supprimés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1178 du 6 octobre 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1529 du 28 décembre 2012 - art. 12 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*410-5
+
+
+###### Article R*740-3
+
+Pour l'application de l'article R. * 422-5, les références à l'article " L. 422-8 ” sont remplacées par les références à
+l'article " L. 740-3-1”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1178 du 6 octobre 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1529 du 28 décembre 2012 - art. 12 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L740-3-1
+	  - Code de l'urbanisme - art. R*422-5
+
+
+###### Article R*740-4
+
+Pour l'application du d de l'article R. * 423-15, les mots : " lorsque la commune ou l'établissement public de coopération
+intercommunale remplit les conditions fixées à l'article L. 422-8” sont supprimés..
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1178 du 6 octobre 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1529 du 28 décembre 2012 - art. 12 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L422-8
+	  - Code de l'urbanisme - art. R*423-15
+
+
+###### Article R*740-5
+
+Pour l'application de l'article R. * 423-20, les mots : " part de la réception par l'autorité compétente du rapport du
+commissaire enquêteur ou de la commission d'enquête ” sont remplacés par les mots : " part de la fin de la mise à disposition
+du public ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1178 du 6 octobre 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1529 du 28 décembre 2012 - art. 12 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*423-20
+
+
+###### Article R*740-6
+
+Pour l'application de l'article R. * 423-21, les mots : " part du jour de la réception par le préfet du rapport du
+commissaire enquêteur ou de la commission d'enquête ” sont remplacés par les mots : " part de la fin de la mise à disposition
+du public ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1178 du 6 octobre 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1529 du 28 décembre 2012 - art. 12 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*423-21
+
+
+###### Article R*740-7
+
+Pour l'application de l'article R. * 423-23 : 
+
+Le b de l'article R. * 423-23 est remplacé par un alinéa b ainsi rédigé : 
+
+" b) Deux mois pour les demandes de permis de démolir ; ”. 
+
+Le c de l'article R. * 423-23 est remplacé par un alinéa c ainsi rédigé : 
+
+" c) Trois mois pour les demandes de permis de construire portant sur une maison individuelle, au sens du titre III du livre
+II du code de la construction et de l'habitation ou de ses annexes ; ”. 
+
+Il est inséré après le c de l'article R. * 423-23 un d ainsi rédigé : 
+
+" d) Quatre mois pour les autres demandes de permis de construire et pour les demandes de permis d'aménager. ”
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1178 du 6 octobre 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1529 du 28 décembre 2012 - art. 12 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*423-23
+
+
+###### Article R*740-8
+
+Pour l'application des articles R. * 431-19 et R. * 441-7, les mots : " de la lettre par laquelle le préfet fait connaître au
+demandeur que son dossier de demande d'autorisation de défrichement est complet ” sont remplacés par les mots : " de
+l'autorisation de défrichement délivrée par le représentant de l'Etat ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1178 du 6 octobre 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1529 du 28 décembre 2012 - art. 12 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*431-19
+	  - Code de l'urbanisme - art. R*441-7
+
+
+###### Article R*740-9
+
+Pour l'application de l'article R. * 423-32, les mots : " deux mois ” sont remplacés par les mots : " trois mois ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1178 du 6 octobre 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1529 du 28 décembre 2012 - art. 12 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*423-32
+
+
+### Titre VI : Dispositions relatives au contentieux de l'urbanisme
+
+###### Article R*760-1
+
+Les articles R. 600-1 à R. * 600-3 et R. * 620-1 sont applicables à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1178 du 6 octobre 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1529 du 28 décembre 2012 - art. 12 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*600-1
+	  - Code de l'urbanisme - art. R*620-1
 
 
 # Partie réglementaire - Arrêtés
