@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2010-10-31
+Version Consolidée au 2010-11-01
 
 # Partie législative
 
@@ -8755,13 +8755,12 @@ d'utilité publique.
 Pour l'application des prescriptions édictées par le présent chapitre, un plan d'exposition au bruit est établi pour chacun
 des aérodromes mentionnés à l'article L. 147-2. Ce plan est établi par l'autorité administrative, après consultation :
 
-- des communes intéressées ;
+― des communes intéressées ;
 
-- de l'Autorité de contrôle des nuisances sonores aéroportuaires pour les aérodromes mentionnés au I de l'article 1609
-quatervicies A du code général des impôts, qui recueille au préalable l'avis de la commission consultative de l'environnement
-concernée ;
+― de l'Autorité de contrôle des nuisances aéroportuaires pour les aérodromes mentionnés au I de l'article 1609 quatervicies A
+du code général des impôts, qui recueille au préalable l'avis de la commission consultative de l'environnement concernée ;
 
-- de la commission consultative de l'environnement concernée, lorsqu'elle existe, pour les autres aérodromes. 
+― de la commission consultative de l'environnement concernée, lorsqu'elle existe, pour les autres aérodromes. 
 
 Il est soumis à enquête publique réalisée conformément au chapitre III du titre II du livre Ier du code de l'environnement. 
 
@@ -8775,20 +8774,14 @@ relative à la construction dans les zones de bruit des aérodromes valent, dans
 au bruit au titre du code de l'environnement. Cette révision intervient selon les conditions fixées par le décret en Conseil
 d'Etat prévu au troisième alinéa du présent article.
 
-**Nota:**
-
-Ces dispositions s'appliquent aux projets, plans, programmes ou autres documents de planification pour lesquels l'arrêté
-d'ouverture et d'organisation de l'enquête publique est publié à compter du premier jour du sixième mois après la publication
-du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environnement.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°83-630 1983-07-12
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1609 quatervicies A (V)
-	  - Code de l'urbanisme - art. L147-2 (V)
-	  - Code de l'urbanisme - art. L147-5 (V)
+	  - Loi n°83-630 du 12 juillet 1983
+	  - Code général des impôts, CGI. - art. 1609 quatervicies A
+	  - Code de l'urbanisme - art. L147-2 (VT)
+	  - Code de l'urbanisme - art. L147-5
 
 	**Liens**:
 
@@ -8810,7 +8803,18 @@ du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environn
 
 	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 240
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 174 (V)
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L112-16 (VD)
+	  - Code de l'urbanisme - art. L112-17 (VD)
+	  - Code de l'urbanisme - art. L112-4 (VD)
+	  - Code de l'urbanisme - art. L112-6 (VD)
 
 
 ###### Article L147-4
@@ -31616,36 +31620,37 @@ Dès réception des avis ou, à défaut, dès l'expiration du délai mentionné 
 de plan d'exposition au bruit accompagné des avis des conseils municipaux et, le cas échéant, des organes délibérants des
 établissements publics de coopération intercommunale compétents est transmis pour avis par le préfet à :
 
-- l'Autorité de contrôle des nuisances sonores aéroportuaires pour les aérodromes mentionnés au I de l'article 1609
-quatervicies A du code général des impôts, qui recueille au préalable l'avis de la commission consultative de l'environnement
-concernée ;
+- l'Autorité de contrôle des nuisances aéroportuaires pour les aérodromes mentionnés au I de l'article 1609 quatervicies A du
+code général des impôts, qui recueille au préalable l'avis de la commission consultative de l'environnement concernée ;
 
-- la commission consultative de l'environnement, lorsqu'elle existe, pour les autres aérodromes.
+- la commission consultative de l'environnement, lorsqu'elle existe, pour les autres aérodromes. 
 
 La commission consultative de l'environnement dispose d'un délai de deux mois à compter de la date de la saisine, soit par le
-préfet, soit par l'Autorité de contrôle des nuisances sonores aéroportuaires, pour formuler son avis sur le projet
-communiqué.
+préfet, soit par l'Autorité de contrôle des nuisances aéroportuaires, pour formuler son avis sur le projet communiqué.
 
-L'Autorité de contrôle des nuisances sonores aéroportuaires dispose d'un délai de quatre mois à compter de la date de la
-saisine par le préfet pour émettre son avis sur le projet communiqué.
+L'Autorité de contrôle des nuisances aéroportuaires dispose d'un délai de quatre mois à compter de la date de la saisine par
+le préfet pour émettre son avis sur le projet communiqué. 
 
 Lorsque plusieurs départements sont concernés, le délai court à compter de la date de la dernière saisine. A défaut de
 réponse dans les délais impartis, ces avis sont réputés favorables.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 1609 quatervicies A
-	  - Code de l'urbanisme - art. R147-7 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
 	**Modifié par**:
 
-	  - Décret n°2004-1079 du 11 octobre 2004 - art. 1 () JORF 13 octobre 2004
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 174 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R112-14 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R147-7 (VT)
 
 
 ###### Article R147-9
