@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2010-11-01
+Version Consolidée au 2010-11-14
 
 # Partie législative
 
@@ -29360,6 +29360,272 @@ d'urbanisme soumis à l'enquête publique ou tenu à la disposition du public.
 	**Nouveaux textes**:
 
 	  - Code de l'urbanisme - art. R134-1 (V)
+
+
+##### Section 3 : Zone de protection naturelle, agricole et forestière du plateau de Saclay 
+
+
+
+###### Article R141-7
+
+Le projet de délimitation de la zone de protection naturelle, agricole et forestière est élaboré par l'Etablissement public
+de Paris-Saclay. 
+
+Le dossier comprend : 
+
+1° Un document graphique indiquant le périmètre envisagé ; 
+
+2° Une notice qui expose les motifs ayant présidé au choix de ce périmètre et décrit l'état actuel de la zone ainsi
+délimitée ; 
+
+3° La carte prévue par le cinquième alinéa de l'article L. 141-5, qui précise le mode d'occupation du sol à la date de
+publication de la loi n° 2010-597 du 3 juin 2010 dans le périmètre ainsi délimité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2010-597 du 3 juin 2010
+	  - Code de l'urbanisme - art. L141-5
+
+	**Créé par**:
+
+	  - Décret n°2010-1368 du 10 novembre 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R123-4 (V)
+	  - Code de l'urbanisme - art. R123-5 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R141-10 (VT)
+
+
+###### Article R141-8
+
+Le projet est transmis au comité consultatif institué auprès du conseil d'administration de l'Etablissement public de Paris-
+Saclay et aux organes délibérants des collectivités territoriales, établissements publics et société énumérés au premier
+alinéa de l'article L. 141-5, qui disposent de deux mois à compter de la réception du dossier pour faire connaître leur avis.
+A défaut, celui-ci est réputé favorable. 
+
+Sont réputés compétents au sens du premier alinéa de l'article L. 141-5 les établissements publics de coopération
+intercommunale compétents en matière de schéma de cohérence territoriale situés dans le périmètre défini par ce même alinéa.
+
+A compter de la date de transmission du projet au comité consultatif institué auprès du conseil d'administration de
+l'Etablissement public de Paris-Saclay, le dossier est mis à disposition des associations pour la protection de
+l'environnement agréées à cette date par les préfets des départements de l'Essonne et des Yvelines ainsi que par le ministre
+chargé de l'environnement présentes dans le périmètre d'intervention de l'Etablissement public de Paris-Saclay, au siège et
+sur le site internet de cet établissement, pendant une durée de deux mois, pour permettre auxdites associations, après les
+avoir informées de cette possibilité par courrier, d'exprimer leur avis dans ce délai.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1368 du 10 novembre 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L141-5
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R123-6 (V)
+	  - Code de l'urbanisme - art. R123-7 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R141-10 (VT)
+	  - Code de l'urbanisme - art. R141-11 (VT)
+
+
+###### Article R141-9
+
+Le projet de délimitation de la zone de protection naturelle, agricole et forestière est, compte tenu des avis recueillis,
+arrêté par délibération du conseil d'administration de l'Etablissement public de Paris-Saclay.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1368 du 10 novembre 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R123-8 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R141-10 (VT)
+
+
+###### Article R141-10
+
+L'enquête publique sur le projet de délimitation de la zone de protection naturelle, agricole et forestière est ouverte et
+organisée dans les formes prévues par les articles R. 123-6 à R. 123-23 du code de l'environnement, par le préfet désigné par
+le préfet de la région d'Ile-de-France. 
+
+Le dossier d'enquête, établi et transmis par l'Etablissement public de Paris-Saclay, comprend, outre les éléments énumérés
+par l'article R. 141-7 : 
+
+1° Un tableau parcellaire établi d'après les documents cadastraux donnant, pour chaque parcelle ou partie de parcelle incluse
+dans la zone à protéger, le territoire communal, la section et le numéro de la matrice cadastrale, la contenance et le nom du
+propriétaire ; 
+
+2° Les avis recueillis en application de l'article R. 141-8 ; 
+
+3° La délibération prévue par l'article R. 141-9 ; 
+
+4° Les documents d'urbanisme qui doivent être mis en compatibilité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1368 du 10 novembre 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R123-10 (V)
+	  - Code de l'urbanisme - art. R123-9 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R141-7 (VT)
+	  - Code de l'urbanisme - art. R141-8
+	  - Code de l'urbanisme - art. R141-9 (VT)
+	  - Code de l'environnement - art. R123-6
+
+
+###### Article R141-11
+
+Si les modifications apportées à la délimitation du périmètre à l'issue de la procédure d'enquête rendent nécessaire de
+procéder à nouveau aux consultations prévues par l'article R. 141-8, le délai indiqué par ledit article est ramené à un mois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1368 du 10 novembre 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R123-11 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R141-8 (VT)
+
+
+###### Article R141-12
+
+Le décret en Conseil d'Etat délimitant la zone de protection naturelle, agricole et forestière du plateau de Saclay et la
+carte précisant le mode d'occupation du sol qui lui est annexée sont affichés pendant deux mois dans chacune des communes
+dont tout ou partie du territoire est inclus dans la zone de protection. 
+
+La publication au Journal officiel de ce décret fait l'objet d'une mention dans deux journaux diffusés dans les départements
+de l'Essonne et des Yvelines.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1368 du 10 novembre 2010 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2013-1298 du 27 décembre 2013 (V)
+	  - Décret n°2013-1298 du 27 décembre 2013 - art. 2 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R123-12 (V)
+
+
+###### Article R141-13
+
+Le programme d'action dans la zone de protection prévu par l'article L. 141-7 est cohérent, pour les espaces régis par des
+dispositions des livres III et IV du code de l'environnement compris dans son périmètre, avec les objectifs, orientations ou
+mesures définis pour la préservation ou la gestion desdits espaces. 
+
+La chambre interdépartementale d'agriculture dispose de deux mois à compter de la réception du programme d'action pour donner
+son avis sur ce programme en tant qu'il concerne la gestion agricole. A défaut de réponse dans ce délai, l'avis est réputé
+favorable.
+
+L'Office national des forêts et le centre régional de la propriété forestière d'Ile-de-France et du Centre disposent de deux
+mois à compter de la réception du programme d'action pour se prononcer sur ce programme en tant qu'il concerne la gestion
+forestière. Le défaut de réponse dans un délai de deux mois vaut accord.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1368 du 10 novembre 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L141-7
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R123-13 (V)
+	  - Code de l'urbanisme - art. R123-14 (V)
+	  - Code de l'urbanisme - art. R123-15 (V)
+
+
+###### Article R141-14
+
+Le programme d'action est approuvé par le conseil d'administration de l'Etablissement public de Paris-Saclay. 
+
+La délibération et le programme d'action font l'objet d'une mention au recueil des actes administratifs des préfectures de
+l'Essonne et des Yvelines et sont affichés pendant deux mois dans les mairies de chacune des communes dont tout ou partie du
+territoire est inclus dans le périmètre de la zone de protection. 
+
+Le programme d'action est en outre mis à la disposition du public au siège de l'établissement public et par voie
+électronique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1368 du 10 novembre 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R123-16 (V)
 
 
 #### Chapitre II : Espaces naturels sensibles des départements
