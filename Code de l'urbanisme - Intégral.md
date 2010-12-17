@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2010-11-14
+Version Consolidée au 2010-12-18
 
 # Partie législative
 
@@ -1453,12 +1453,18 @@ un ou plusieurs de ces domaines.
 ###### Article L113-2
 
 Le projet de directive territoriale d'aménagement et de développement durables est élaboré par l'Etat, en association avec la
-région, le département, les communautés urbaines, les communautés d'agglomération, les communautés de communes compétentes en
-matière de schéma de cohérence territoriale et les communes non membres d'une de ces communautés qui sont situées dans le
-périmètre du projet ainsi que les établissements publics mentionnés à l'article L. 122-4. 
+région, le département, les métropoles, les communautés urbaines, les communautés d'agglomération, les communautés de
+communes compétentes en matière de schéma de cohérence territoriale et les communes non membres d'une de ces communautés qui
+sont situées dans le périmètre du projet ainsi que les établissements publics mentionnés à l'article L. 122-4.
 
 Il est soumis pour avis à ces collectivités territoriales et établissements publics. Cet avis est réputé favorable s'il n'a
 pas été rendu par écrit dans un délai de trois mois à compter de leur saisine.
+
+**Nota:**
+
+Conformément à l'article 13 2° de l'ordonnance n° 2015-1174 du 23 septembre 2015, l'abrogation de la deuxième phrase du
+deuxième alinéa de l'article L. 113-2 ne prendra effet qu'à compter de la publication des dispositions réglementaires du
+livre Ier du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
@@ -1467,12 +1473,27 @@ pas été rendu par écrit dans un délai de trois mois à compter de leur saisi
 	  - Loi n°2000-1208 du 13 décembre 2000 - art. 50 (M)
 	  - Code de l'urbanisme - art. L113-3 (VT)
 	  - Code de l'urbanisme - art. L113-5 (Ab)
-	  - Code de l'urbanisme - art. L113-6 (V)
+	  - Code de l'urbanisme - art. L113-6 (VT)
 	  - Code de l'urbanisme - art. R*332-1 (Ab)
 
 	**Créé par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 13 (V)
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 13 (VD)
+
+	**Modifié par**:
+
+	  - Loi n°2010-1563 du 16 décembre 2010 - art. 17
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 13
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L102-6 (VD)
+	  - Code de l'urbanisme - art. L102-7 (VD)
+	  - Code de l'urbanisme - art. R102-2 (V)
 
 	**Liens**:
 
@@ -2944,26 +2965,27 @@ concernant le schéma.
 
 Lorsque le périmètre de l'établissement public prévu à l'article L. 122-4 est étendu, dans les conditions définies par le
 code général des collectivités territoriales, à une ou plusieurs communes, ou à un ou plusieurs établissements publics de
-coopération intercommunale, la décision d'extension emporte extension du périmètre du schéma de cohérence territoriale.
+coopération intercommunale, la décision d'extension emporte extension du périmètre du schéma de cohérence territoriale. 
 
 Lorsqu'une commune ou un établissement public de coopération intercommunale se retire de l'établissement public prévu à
 l'article L. 122-4 dans les conditions définies par le code général des collectivités territoriales, la décision de retrait
-emporte réduction du périmètre du schéma de cohérence territoriale.
+emporte réduction du périmètre du schéma de cohérence territoriale. 
 
 Toutefois, par dérogation aux dispositions des articles L. 5214-21, L. 5215-22 et L. 5216-7 du code général des collectivités
-territoriales, lorsque le périmètre d'une communauté urbaine, d'une communauté d'agglomération ou d'une communauté de
-communes compétente en matière de schéma de cohérence territoriale est entièrement compris dans celui d'un schéma de
-cohérence territoriale, la communauté est substituée de plein droit à ses communes membres ou à l'établissement public de
-coopération intercommunale dont elle est issue dans l'établissement public prévu à l'article L. 122-4. Ni les attributions de
-l'établissement public ni le périmètre dans lequel il exerce ses compétences ne sont modifiés.
+territoriales, lorsque le périmètre d'une communauté urbaine, d'une métropole, d'une communauté d'agglomération ou d'une
+communauté de communes compétente en matière de schéma de cohérence territoriale est entièrement compris dans celui d'un
+schéma de cohérence territoriale, la communauté est substituée de plein droit à ses communes membres ou à l'établissement
+public de coopération intercommunale dont elle est issue dans l'établissement public prévu à l'article L. 122-4. Ni les
+attributions de l'établissement public ni le périmètre dans lequel il exerce ses compétences ne sont modifiés. 
 
-Lorsque le périmètre d'une communauté urbaine, d'une communauté d'agglomération ou d'une communauté de communes compétente en
-matière de schéma de cohérence territoriale n'est pas entièrement compris dans celui d'un schéma de cohérence territoriale,
-la communauté devient, au terme d'un délai de six mois, membre de plein droit de l'établissement public prévu à l'article L.
-122-4 et le périmètre du schéma est étendu en conséquence, sauf lorsque l'organe délibérant de la communauté s'est prononcé,
-dans ce délai, contre son appartenance à cet établissement public ou si, dans ce même délai, l'établissement public chargé de
-l'élaboration du schéma s'oppose à l'extension. Dans l'un ou l'autre de ces cas, la délibération de la communauté ou
-l'opposition de l'établissement public emporte réduction du périmètre du schéma de cohérence territoriale.
+Lorsque le périmètre d'une communauté urbaine, d'une métropole, d'une communauté d'agglomération ou d'une communauté de
+communes compétente en matière de schéma de cohérence territoriale n'est pas entièrement compris dans celui d'un schéma de
+cohérence territoriale, la communauté devient, au terme d'un délai de six mois, membre de plein droit de l'établissement
+public prévu à l'article L. 122-4 et le périmètre du schéma est étendu en conséquence, sauf lorsque l'organe délibérant de la
+communauté s'est prononcé, dans ce délai, contre son appartenance à cet établissement public ou si, dans ce même délai,
+l'établissement public chargé de l'élaboration du schéma s'oppose à l'extension. Dans l'un ou l'autre de ces cas, la
+délibération de la communauté ou l'opposition de l'établissement public emporte réduction du périmètre du schéma de cohérence
+territoriale. 
 
 Lorsque le périmètre d'une communauté mentionnée à l'alinéa précédent comprend des communes appartenant à plusieurs schémas
 de cohérence territoriale, la communauté devient, au terme d'un délai de six mois, membre de plein droit de l'établissement
@@ -2971,7 +2993,7 @@ public prévu à l'article L. 122-4 sur le territoire duquel est comprise la maj
 délibérant de la communauté s'est prononcé dans ce délai contre son appartenance à cet établissement public ou pour son
 appartenance à l'établissement public d'un des autres schémas. Les communes appartenant à la communauté sont retirées des
 établissements publics prévus à l'article L. 122-4 dont la communauté n'est pas devenue membre. Ce retrait emporte réduction
-du périmètre des schémas de cohérence territoriale correspondants.
+du périmètre des schémas de cohérence territoriale correspondants. 
 
 Dans le cas prévu à l'article L. 122-4-1, lorsqu'une commune ou un établissement public de coopération intercommunale
 compétent en matière de schéma de cohérence territoriale adhère, dans les conditions définies par le code général des
@@ -2986,14 +3008,14 @@ territoriale.
 
 	**Modifié par**:
 
-	  - Loi n°2006-436 du 14 avril 2006 - art. 17 () JORF 15 avril 2006
+	  - Loi n°2010-1563 du 16 décembre 2010 - art. 17
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L5214-21 (M)
-	  - Code général des collectivités territoriales - art. L5215-22 (M)
-	  - Code général des collectivités territoriales - art. L5216-7 (Ab)
-	  - Code de l'urbanisme - art. L122-4 (M)
+	  - Code général des collectivités territoriales - art. L5214-21 (V)
+	  - Code général des collectivités territoriales - art. L5215-22 (V)
+	  - Code général des collectivités territoriales - art. L5216-7 (V)
+	  - Code de l'urbanisme - art. L122-4 (V)
 	  - Code de l'urbanisme - art. L122-4-1 (V)
 
 	**Cité par**:
@@ -3279,28 +3301,23 @@ de la mer existant qui concerne son territoire.
 Lorsqu'une commune ou un établissement public de coopération intercommunale qui a fait usage de la procédure prévue à
 l'article L. 122-9 n'a pas obtenu les modifications demandées malgré un avis favorable du préfet, le conseil municipal ou
 l'organe délibérant de l'établissement public de coopération intercommunale peut, dans un délai de deux mois suivant la
-notification qui lui est faite de la délibération approuvant le schéma, décider de se retirer.
+notification qui lui est faite de la délibération approuvant le schéma, décider de se retirer. 
 
 Le préfet, par dérogation aux dispositions applicables du code général des collectivités territoriales, constate le retrait
 de la commune ou de l'établissement public de coopération intercommunale de l'établissement public prévu à l'article L.
-122-4.
+122-4. 
 
 Dès la publication de l'arrêté du préfet, les dispositions du schéma concernant la commune ou l'établissement public de
-coopération intercommunale sont abrogées.
+coopération intercommunale sont abrogées. 
 
 Les dispositions des alinéas précédents ne sont pas applicables lorsque l'établissement public prévu à l'article L. 122-4 est
-une communauté urbaine, une communauté d'agglomérations ou une communauté de communes.
+une communauté urbaine, une métropole, une communauté d'agglomérations ou une communauté de communes.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 3 () JORF 14 décembre 2000 en vigueur le 1er avril 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2000-1208 du 13 décembre 2000 - art. 43 (V)
-	  - SPEC_APPLI: Décret n°2001-260 du 27 mars 2001 - art. 6 (V)
+	  - Loi n°2010-1563 du 16 décembre 2010 - art. 17
 
 	**Cité par**:
 
@@ -3308,7 +3325,7 @@ une communauté urbaine, une communauté d'agglomérations ou une communauté de
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L122-4 (M)
+	  - Code de l'urbanisme - art. L122-4 (V)
 	  - Code de l'urbanisme - art. L122-9 (V)
 
 	**Codifié par**:
@@ -4422,9 +4439,8 @@ local d'urbanisme.
 Le président du conseil régional, le président du conseil général, et, le cas échéant, le président de l'établissement public
 prévu à l'article L. 122-4, le président de l'établissement public de coopération intercommunale compétent en matière de
 programme local de l'habitat dont la commune est membre, le président de l'autorité compétente en matière d'organisation des
-transports urbains, le président de la communauté ou du syndicat d'agglomération nouvelle ainsi que ceux des organismes
-mentionnés à l'article L. 121-4 ou leurs représentants sont consultés à leur demande au cours de l'élaboration du projet de
-plan local d'urbanisme.
+transports urbains, le président du syndicat d'agglomération nouvelle ainsi que ceux des organismes mentionnés à l'article L.
+121-4 ou leurs représentants sont consultés à leur demande au cours de l'élaboration du projet de plan local d'urbanisme.
 
 Il en est de même des présidents des établissements publics de coopération intercommunale voisins compétents, des maires des
 communes voisines, ainsi que du président de l'établissement public chargé, en application de l'article L. 122-4, d'un schéma
@@ -4464,17 +4480,14 @@ le projet de plan local d'urbanisme afin de recueillir son avis. Cet avis est r�
 
 	**Modifié par**:
 
-	  - Loi n°2006-872 2006-07-13 art. 4 IV, XI JORF 16 juillet 2006
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+	  - Loi n°2010-1563 du 16 décembre 2010 - art. 31
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L121-4 (M)
-	  - Code de l'urbanisme - art. L122-4 (M)
-	  - Code de la construction et de l'habitation. - art. L411-2 (M)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 17
+	  - Code de l'urbanisme - art. L121-4
+	  - Code de l'urbanisme - art. L122-4
+	  - Code de la construction et de l'habitation. - art. L411-2
 
 	**Codifié par**:
 
@@ -14311,12 +14324,16 @@ Cette assemblée élit des représentants au conseil d'administration. Si l'asse
 au conseil d'administration de l'établissement, cette désignation peut être opérée par décision de l'autorité administrative.
 
 Lorsqu'un établissement public a été créé pour l'aménagement d'une agglomération nouvelle, les représentants, au conseil
-d'administration de cet établissement, des communes incluses dans l'agglomération nouvelle sont élus par le conseil
-d'agglomération de la communauté ou par le comité du syndicat ou le conseil municipal s'il s'agit d'une commune unique ; les
-autres communes, qui sont liées à cet établissement par une convention de délégation de maîtrise d'ouvrage, désignent un
-représentant chacune. Dans ce cas, il n'est pas créé d'assemblée spéciale au sens du premier alinéa ci-dessus.
+d'administration de cet établissement, des communes incluses dans l'agglomération nouvelle sont élus par le comité du
+syndicat ou le conseil municipal s'il s'agit d'une commune unique ; les autres communes, qui sont liées à cet établissement
+par une convention de délégation de maîtrise d'ouvrage, désignent un représentant chacune. Dans ce cas, il n'est pas créé
+d'assemblée spéciale au sens du premier alinéa ci-dessus.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 	**Cité par**:
 
@@ -14338,24 +14355,20 @@ représentant chacune. Dans ce cas, il n'est pas créé d'assemblée spéciale a
 
 	**Modifié par**:
 
-	  - Loi n°2005-32 du 18 janvier 2005 - art. 94 () JORF 19 janvier 2005
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+	  - Loi n°2010-1563 du 16 décembre 2010 - art. 31
 
 
 ###### Article L321-6
 
 Le conseil d'administration doit être composé, à concurrence de la moitié au moins, de membres représentant les collectivités
-et établissements publics intéressés.
+et établissements publics intéressés. 
 
-Lorsqu'un établissement public a été créé pour l'aménagement d'une agglomération nouvelle, les présidents des communautés ou
-des syndicats d'agglomération nouvelle sont membres de droit du conseil d'administration de cet établissement public, en sus
-de la représentation statutaire des collectivités locales intéressées. Dans le cas où l'établissement public a été créé pour
+Lorsqu'un établissement public a été créé pour l'aménagement d'une agglomération nouvelle, les présidents des syndicats
+d'agglomération nouvelle sont membres de droit du conseil d'administration de cet établissement public, en sus de la
+représentation statutaire des collectivités locales intéressées. Dans le cas où l'établissement public a été créé pour
 l'aménagement de plusieurs agglomérations nouvelles au sens de la loi n° 83-636 du 13 juillet 1983 portant modification du
 statut des agglomérations nouvelles, un décret détermine la répartition des sièges revenant aux représentants de ces
-agglomérations nouvelles.
+agglomérations nouvelles. 
 
 Les membres du conseil d'administration peuvent être suspendus de leurs fonctions par l'autorité chargée du contrôle de
 l'établissement. Ils peuvent être révoqués par arrêté interministériel. Le conseil d'administration peut être dissous par
@@ -14369,7 +14382,7 @@ décret motivé pris en Conseil d'Etat.
 
 	**Cite**:
 
-	  - Loi n°83-636 1983-07-13
+	  - Loi n°83-636 du 13 juillet 1983
 
 	**Cité par**:
 
@@ -14377,7 +14390,7 @@ décret motivé pris en Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2005-32 du 18 janvier 2005 - art. 94 () JORF 19 janvier 2005
+	  - Loi n°2010-1563 du 16 décembre 2010 - art. 31
 
 
 ###### Article L321-7
