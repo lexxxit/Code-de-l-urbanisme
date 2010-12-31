@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2011-01-01
+Version Consolidée au 2011-01-01 00:00:01 +0100
 
 # Partie législative
 
@@ -22947,10 +22947,9 @@ l'article L. 160-5 ou à des indemnités d'expropriation.
 
 ###### Article L520-1
 
-Il est perçu en région d'Ile-de-France une redevance à l'occasion de la construction de locaux à usage de bureaux définis à
-l'article R. 520-1-1, de locaux de recherche définis à l'article R. 520-1 du présent code, de locaux commerciaux définis au
-2° du III de l'article 231 ter du code général des impôts et de locaux de stockage définis au 3° du même III, ainsi que de
-leurs annexes.
+En région d'Ile-de-France, une redevance est perçue à l'occasion de la construction, de la reconstruction ou de
+l'agrandissement des locaux à usage de bureaux, des locaux commerciaux et des locaux de stockage définis au III de l'article
+231 ter du code général des impôts.
 
 **Liens relatifs à cet article**
 
@@ -22962,12 +22961,12 @@ leurs annexes.
 
 	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 31 (V)
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 31 (M)
+	  - Loi n°2011-900 du 29 juillet 2011 - art. 34 (V)
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 231 ter (V)
-	  - Code de l'urbanisme - art. R520-1-1 (V)
 
 	**Cité par**:
 
@@ -22980,6 +22979,7 @@ leurs annexes.
 	  - Code de l'urbanisme - art. R*520-12 (V)
 	  - Code de l'urbanisme - art. R421-4 (M)
 	  - Code de l'urbanisme - art. R520-1 (V)
+	  - Code de l'urbanisme - art. R520-1-1 (V)
 	  - Code de l'urbanisme - art. R520-1-2 (V)
 	  - Code de l'urbanisme - art. R520-9 (V)
 	  - Code général des collectivités territoriales - art. L4414-3 (V)
@@ -23026,31 +23026,123 @@ d'achèvement des travaux ou de la constatation de l'achèvement de ces travaux.
 
 ###### Article L520-3
 
-Le montant de cette redevance est fixé à : 
+I. ― Les tarifs de la redevance sont appliqués par circonscriptions, telles que définies au a du 1 du VI de l'article 231 ter
+du code général des impôts. 
 
-1° 344 € par mètre carré dans les communes de Paris et des Hauts-de-Seine ; 
+II. ― Les tarifs au mètre carré sont ainsi fixés : 
 
-2° 214 € par mètre carré dans les communes de l'unité urbaine de Paris au sens de l'Institut national de la statistique et
-des études économiques, telle que délimitée par arrêté conjoint des ministres chargés de l'économie et du budget, autres que
-Paris et les communes du département des Hauts-de-Seine. 
+a) Pour les locaux à usage de bureaux : 
 
-Ces tarifs sont réduits de 65 % pour les locaux commerciaux définis au 2° du III de l'article 231 ter du code général des
-impôts et de 85 % pour les locaux de stockage définis au 3° du même III ; 
+(En euros) 
 
-3° 86 € par mètre carré dans les autres communes de la région d'Ile-de-France n'appartenant pas à l'unité urbaine de Paris
-et, par dérogation aux alinéas précédents, dans toutes les communes d'Ile-de-France éligibles à la fois à la dotation de
-solidarité urbaine et de cohésion sociale et au bénéfice du fonds de solidarité des communes de la région d'Ile-de-France,
-respectivement prévus aux articles L. 2334-15 et L. 2531-12 du code général des collectivités territoriales. 
+<table>
+    <tbody>
+      <tr>
+        <td>1re CIRCONSCRIPTION </td>
+        <td>2e CIRCONSCRIPTION </td>
+        <td colspan="2">3e CIRCONSCRIPTION </td>
+      </tr>
+      <tr>
+        <td align="center">
 
-Ces tarifs, fixés au 1er janvier 2011, sont actualisés par arrêté du ministre chargé de l'économie au 1er janvier de chaque
+344 
+
+</td>
+        <td align="center">
+
+214 
+
+</td>
+        <td align="center">
+
+86 
+
+</td>
+      </tr>
+    </tbody>
+  </table>
+
+b) Pour les locaux commerciaux : 
+
+(En euros) 
+
+<table>
+    <tbody>
+      <tr>
+        <td>1re CIRCONSCRIPTION </td>
+        <td>2e CIRCONSCRIPTION </td>
+        <td colspan="2">3e CIRCONSCRIPTION </td>
+      </tr>
+      <tr>
+        <td align="center">
+
+120 
+
+</td>
+        <td align="center">
+
+75 
+
+</td>
+        <td align="center">
+
+30 
+
+</td>
+      </tr>
+    </tbody>
+  </table>
+
+c) Pour les locaux de stockage : 
+
+(En euros) 
+
+<table>
+    <tbody>
+      <tr>
+        <td>1re CIRCONSCRIPTION </td>
+        <td>2e CIRCONSCRIPTION </td>
+        <td colspan="2">3e CIRCONSCRIPTION </td>
+      </tr>
+      <tr>
+        <td align="center">
+
+52 
+
+</td>
+        <td align="center">
+
+32 
+
+</td>
+        <td align="center">
+
+13 
+
+</td>
+      </tr>
+    </tbody>
+  </table>
+
+Ces tarifs, fixés au 1er janvier 2011, sont actualisés par arrêté du ministre chargé de l'urbanisme au 1er janvier de chaque
 année en fonction du dernier indice du coût de la construction publié par l'Institut national de la statistique et des études
-économiques. Les valeurs sont arrondies, s'il y a lieu, au centime d'euro supérieur.
+économiques. Les valeurs sont arrondies, s'il y a lieu, au centime d'euro supérieur. 
+
+III. ― Les communes de la région d'Ile-de-France perdant leur éligibilité soit à la dotation de solidarité urbaine, soit au
+bénéfice du fonds de solidarité des communes de la région d'Ile-de-France, respectivement prévus aux articles L. 2334-15 et
+L. 2531-12 du code général des collectivités territoriales, bénéficient, au titre de l'année suivant cette perte
+d'éligibilité et pendant les deux années suivantes, d'un abattement respectivement des trois quarts, de la moitié et du quart
+de l'augmentation du tarif de la redevance liée à cette perte d'éligibilité. 
+
+L'augmentation du tarif de la redevance est égale à la différence entre le tarif applicable après cette perte d'éligibilité
+en application du II du présent article et le tarif de la troisième circonscription.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 31 (V)
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 31 (M)
+	  - Loi n°2011-900 du 29 juillet 2011 - art. 34 (M)
 
 	**Cité par**:
 
@@ -23074,8 +23166,7 @@ année en fonction du dernier indice du coût de la construction publié par l'I
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 231 ter (V)
-	  - Code général des collectivités territoriales - art. L2334-15 (V)
-	  - Code général des collectivités territoriales - art. L2531-12 (V)
+	  - Code général des collectivités territoriales - art. L2334-15
 
 	**Codifié par**:
 
@@ -23109,10 +23200,10 @@ industrielles ou tertiaires.
 
 ###### Article L520-5
 
-La redevance est assise sur la surface utile de plancher prévue pour la construction ; son montant est établi par les
-services de l'Etat en charge de l'urbanisme dans le département.
+La redevance est assise sur la surface de construction prévue à l'article L. 331-10 ; son montant est établi par les services
+de l'Etat en charge de l'urbanisme dans le département. 
 
-La redevance est réduite à la demande du redevable si celui-ci établit que la surface de plancher prévue n'a pas été
+La redevance est réduite à la demande du redevable si celui-ci établit que la surface de construction prévue n'a pas été
 entièrement construite. 
 
 Elle est supprimée, à la demande du redevable, si celui-ci établit que la construction n'a pas été entreprise et s'il renonce
@@ -23126,10 +23217,12 @@ La redevance est recouvrée dans les mêmes conditions que les créances domania
 
 	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 31 (V)
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 31 (M)
+	  - Loi n°2011-900 du 29 juillet 2011 - art. 34 (V)
 
 	**Cite**:
 
+	  - Code de l'urbanisme - art. L331-10 (V)
 	  - Code de l'urbanisme - art. L421-4
 
 
@@ -23177,13 +23270,17 @@ Les locaux de recherche compris dans les établissements industriels ;
 Les bureaux utilisés par les membres des professions libérales et les officiers ministériels ; 
 
 Les locaux affectés aux groupements constitués dans les formes prévues par l'article 10 de la loi du 1er juillet 1901
-relative au contrat d'association.
+relative au contrat d'association. 
+
+Les surfaces de stationnement au sens du 4° du III de l'article 231 ter du code général des impôts et les locaux mentionnés
+au 1° du V du même article.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi du 1er juillet 1901 - art. 10
+	  - Code général des impôts, CGI. - art. 231 ter (V)
 
 	**Cité par**:
 
@@ -23194,7 +23291,8 @@ relative au contrat d'association.
 
 	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 31 (V)
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 31 (M)
+	  - Loi n°2011-900 du 29 juillet 2011 - art. 34 (V)
 
 
 ###### Article L520-8
@@ -23222,26 +23320,24 @@ construction de l'immeuble avant reconstruction.
 
 Est assimilé, pour l'application du présent titre, à la construction de locaux à usage de bureaux, de locaux de recherche, de
 locaux commerciaux ou de locaux de stockage le fait de transformer en de tels locaux des locaux précédemment affectés à un
-autre usage.
+autre usage. 
 
 Les transformations de locaux visées au présent article devront à défaut d'une demande de permis de construire, faire l'objet
-d'une déclaration dont les modalités seront déterminées par le décret en conseil d'Etat prévu à l'article L. 520-11.
+d'une déclaration dont les modalités seront déterminées par le décret en conseil d'Etat prévu à l'article L. 520-11. 
 
 Lorsque l'agrément prévu par l'article L. 510-1 autorise la transformation de locaux soumis à redevance en locaux d'une
 catégorie soumise à une redevance d'un taux plus élevé que précédemment, la redevance due est arrêtée sous déduction du
 montant de la redevance versée au titre de l'usage antérieur.
 
-La redevance n'est pas due pour les opérations réalisées dans les zones franches urbaines définies au B du 3 de l'article 42
-de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire lorsqu'elles visent
-la transformation de locaux en locaux à usage de bureaux, en locaux de recherche, en locaux commerciaux ou en locaux de
-stockage.
-
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 31 (M)
+	  - Loi n°2011-900 du 29 juillet 2011 - art. 34 (V)
 
 	**Cité par**:
 
-	  - Décret n°87-744 du 9 septembre 1987 - art. 3 (V)
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 31 (V)
 	  - Loi n°2015-1786 du 29 décembre 2015 - art. 50 (V)
 	  - Code de l'urbanisme - art. A520-4 (V)
 	  - Code de l'urbanisme - art. L520-2 (V)
@@ -23250,16 +23346,13 @@ stockage.
 	  - Code de l'urbanisme - art. R520-4 (V)
 	  - Code de l'urbanisme - art. R520-5 (V)
 	  - Code de l'urbanisme - art. R520-6 (V)
+	  - Décret n°87-744 du 9 septembre 1987 - art. 3 (V)
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 31 (V)
 
 	**Cite**:
 
-	  - Loi n°95-115 du 4 février 1995 - art. 42
-	  - Code de l'urbanisme - art. L510-1
-	  - Code de l'urbanisme - art. L520-11
-
-	**Modifié par**:
-
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 31 (V)
+	  - Code de l'urbanisme - art. L510-1 (V)
+	  - Code de l'urbanisme - art. L520-11 (V)
 
 	**Codifié par**:
 
