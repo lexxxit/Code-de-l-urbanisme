@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2010-12-18
+Version Consolidée au 2011-01-01
 
 # Partie législative
 
@@ -1802,13 +1802,13 @@ L'Etat, les régions, les départements, les autorités compétentes en matière
 de gestion des parcs naturels régionaux et des parcs nationaux sont associés à l'élaboration des schémas de cohérence
 territoriale et des plans locaux d'urbanisme dans les conditions définies aux chapitres II et III. 
 
-Il en est de même des chambres de commerce et d'industrie, des chambres de métiers, des chambres d'agriculture et, dans les
-communes littorales au sens de l'article 2 de la loi n° 86-2 du 3 janvier 1986 relative à l'aménagement, la protection et la
-mise en valeur du littoral, des sections régionales de la conchyliculture. Ces organismes assurent les liaisons avec les
-organisations professionnelles intéressées. 
+Il en est de même des chambres de commerce et d'industrie territoriales, des chambres de métiers, des chambres d'agriculture
+et, dans les communes littorales au sens de l'article 2 de la loi n° 86-2 du 3 janvier 1986
+relative à l'aménagement, la protection et la mise en valeur du littoral, des sections régionales de la conchyliculture. Ces
+organismes assurent les liaisons avec les organisations professionnelles intéressées. 
 
 Les études économiques nécessaires à la préparation des documents prévisionnels d'organisation commerciale et artisanale
-peuvent être réalisées à l'initiative des chambres de commerce et d'industrie et des chambres de métiers.
+peuvent être réalisées à l'initiative des chambres de commerce et d'industrie territoriales et des chambres de métiers.
 
 **Liens relatifs à cet article**
 
@@ -1818,7 +1818,7 @@ peuvent être réalisées à l'initiative des chambres de commerce et d'industri
 
 	**Modifié par**:
 
-	  - Loi n°2006-872 2006-07-13 art. 4 XI JORF 16 juillet 2006
+	  - Loi n°2010-853 du 23 juillet 2010 - art. 8
 
 	**Cité par**:
 
@@ -1849,10 +1849,6 @@ peuvent être réalisées à l'initiative des chambres de commerce et d'industri
 	  - Code de l'urbanisme - art. L141-10 (VT)
 	  - Code de l'urbanisme - art. R*122-7 (VT)
 	  - Code rural - art. L511-3 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L121-4-1
@@ -6545,7 +6541,12 @@ milieux naturels ;
 l'environnement et des territoires classés en réserve naturelle au sens de l'article L. 332-1 du même code ;
 
 - pour les études et inventaires du patrimoine naturel nécessaires à l'élaboration et à la mise en oeuvre de la politique de
-protection et de gestion des espaces naturels sensibles destinés à être ouverts au public. 
+protection et de gestion des espaces naturels sensibles destinés à être ouverts au public.
+
+- pour l'acquisition de sites destinés à la préservation de la ressource en eau, leur aménagement et leur gestion,
+
+- pour les travaux contribuant à la préservation ou à la remise en bon état des continuités écologiques identifiées dans les
+schémas prévus à l'article L. 371-3 du code de l'environnement. 
 
 Cette taxe est perçue sur la totalité du territoire du département. 
 
@@ -6593,14 +6594,14 @@ moins de deux mille habitants.
 Dans les départements d'outre-mer, le conseil général peut exonérer de la taxe :
 
 - les locaux à usage d'habitation principale à caractère social financés à l'aide de prêts aidés par l'Etat, et édifiés par
-les organismes et sociétés d'économie mixte mentionnés ci-dessus, pour leur compte ou à titre de prestataires de services ;
+les organismes et sociétés d'économie mixte mentionnés ci-dessus, pour leur compte ou à titre de prestataires de services ; 
 
 Lorsque des constructions de logements sont acquises par les organismes et sociétés mentionnés à l'alinéa précédent, dans le
-cadre d'un contrat prévu par l'article 1601-3 du code civil et régi par les L. 261-10 à L. 261-22 du code de la construction
-et de l'habitation, elles peuvent bénéficier, sur demande du constructeur, de l'exonération décidée, le cas échéant, en
-application de l'alinéa précédent. Dans ce cas, la fraction de la taxe éventuellement recouvrée en excès est remboursée. La
-demande du constructeur peut être formulée dès la conclusion d'un contrat prévu à l'article L. 261-10 ou L. 261-15 du même
-code, sans excéder un délai de trente-six mois à compter de la demande de permis de construire. 
+cadre d'un contrat prévu par l'article 1601-3 du code civil et régi par les articles L. 261-10 à L. 261-22 du code de la
+construction et de l'habitation, elles peuvent bénéficier, sur demande du constructeur, de l'exonération décidée, le cas
+échéant, en application de l'alinéa précédent. Dans ce cas, la fraction de la taxe éventuellement recouvrée en excès est
+remboursée. La demande du constructeur peut être formulée dès la conclusion d'un contrat prévu à l'article L. 261-10 ou L.
+261-15 du même code, sans excéder un délai de trente-six mois à compter de la demande de permis de construire.
 
 - les logements à vocation très sociale. 
 
@@ -6612,10 +6613,10 @@ du code général des impôts. Par délibération, le conseil général en fixe 
 construction, sans pouvoir excéder 2 %. 
 
 Lorsqu'elle est établie sur les aménagements, la taxe est assise sur la superficie des terrains faisant l'objet de
-l'autorisation. Son taux est fixé par délibération du conseil général dans la limite de 1, 52 euro par mètre carré. Cette
+l'autorisation. Son taux est fixé par délibération du conseil général dans la limite de 1,52 euro par mètre carré. Cette
 limite et le taux fixé par la délibération du conseil général sont modifiés au 1er juillet de chaque année en fonction de
 l'évolution de l'indice du coût de la construction publié par l'Institut national de la statistique et des études
-économiques.L'indice de référence est, pour la réévaluation de la limite de 1, 52 euro, celui du quatrième trimestre de
+économiques. L'indice de référence est, pour la réévaluation de la limite de 1,52 euro, celui du quatrième trimestre de
 l'année 1994 et, pour celle du taux, l'indice du trimestre précédant la délibération du conseil général ayant fixé le taux. 
 
 La taxe constitue, du point de vue fiscal, un élément du prix de revient de l'ensemble immobilier. 
@@ -6632,7 +6633,14 @@ de fonctionnement.
 	  - Loi n°83-663 du 22 juillet 1983 - art. 56
 	  - Loi n°96-1241 du 30 décembre 1996
 	  - Code général des impôts, CGI. - art. 1585 C
+	  - Code général des impôts, CGI. - art. 1585 D (VT)
 	  - Code civil - art. 1601-3
+	  - Code de l'urbanisme - art. L142-1 (V)
+	  - Code de l'urbanisme - art. L142-10 (V)
+	  - Code de la construction et de l'habitation. - art. L261-10 (V)
+	  - Code de l'environnement - art. L142-3 (V)
+	  - Code de l'environnement - art. L371-3 (V)
+	  - Code de l'environnement - art. L414-1 (V)
 
 	**Cité par**:
 
@@ -6666,7 +6674,7 @@ de fonctionnement.
 
 	**Modifié par**:
 
-	  - Loi n°2009-1674 du 30 décembre 2009 - art. 44
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 30
 
 
 ###### Article L142-3
@@ -16190,6 +16198,1652 @@ disposition visées aux mêmes articles.
 
 ### Titre III : Dispositions financières
 
+####  Chapitre Ier : Fiscalité de l'aménagement
+
+##### Section 1 : Taxe d'aménagement
+
+##### Sous-section 1 : Généralités
+
+###### Article L331-1
+
+En vue de financer les actions et opérations contribuant à la réalisation des objectifs définis à l'article L. 121-1, les
+communes ou établissements publics de coopération intercommunale, les départements et la région d'Ile-de-France perçoivent
+une taxe d'aménagement. 
+
+La taxe d'aménagement constitue un élément du prix de revient de l'ensemble immobilier au sens de l'article 302 septies B du
+code général des impôts.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
+déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
+
+Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
+compter du 1er mars 2012.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 302 septies B (VT)
+	  - Code de l'urbanisme - art. L121-1 (V)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L236-4 (Ab)
+	  - Code de l'urbanisme - art. L331-5 (V)
+	  - Code de l'urbanisme - art. L332-12 (V)
+	  - Code de l'urbanisme - art. L332-6 (V)
+	  - Code de l'urbanisme - art. R*331-16 (Ab)
+	  - Code de l'urbanisme - art. R*331-2 (Ab)
+	  - Code de l'urbanisme - art. R*332-25-3 (V)
+	  - Code de la construction et de l'habitation. - art. R31-10-8 (V)
+	  - Code général des collectivités territoriales - art. L2331-5 (V)
+	  - Livre des procédures fiscales - art. L255 A (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L331-2
+
+La part communale ou intercommunale de la taxe d'aménagement est instituée : 
+
+1° De plein droit dans les communes dotées d'un plan local d'urbanisme ou d'un plan d'occupation des sols, sauf renonciation
+expresse décidée par délibération dans les conditions prévues au huitième alinéa ; 
+
+2° Par délibération du conseil municipal dans les autres communes ; 
+
+3° De plein droit dans les communautés urbaines, sauf renonciation expresse décidée par délibération dans les conditions
+prévues au huitième alinéa ; 
+
+4° Par délibération de l'organe délibérant dans les autres établissements publics de coopération intercommunale compétents en
+matière de plan local d'urbanisme en lieu et place des communes qu'ils regroupent et avec leur accord exprimé dans les
+conditions prévues par le II de l'article L. 5211-5 du code général des collectivités territoriales. 
+
+La taxe mentionnée aux 1° à 4° est instituée sur l'ensemble du territoire de la commune ou dans l'ensemble des communes
+membres de l'établissement public de coopération intercommunale. 
+
+Dans les cas mentionnés aux 3° et 4°, une délibération de l'organe délibérant prévoit les conditions de reversement de tout
+ou partie de la taxe perçue par l'établissement public de coopération intercommunale à ses communes membres compte tenu de la
+charge des équipements publics relevant de leurs compétences. 
+
+Les délibérations par lesquelles le conseil municipal ou l'organe délibérant de l'établissement public de coopération
+intercommunale institue la taxe, renonce à la percevoir ou la supprime sont valables pour une durée minimale de trois ans à
+compter de leur entrée en vigueur. 
+
+Le produit de la taxe est affecté en section d'investissement du budget des communes ou des établissements publics de
+coopération intercommunale.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
+déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
+
+Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
+compter du 1er mars 2012.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L5211-5 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L331-14 (V)
+	  - Code de l'urbanisme - art. L331-15 (V)
+	  - Code de l'urbanisme - art. L331-3 (VD)
+	  - Code de l'urbanisme - art. L331-4 (V)
+	  - Code de l'urbanisme - art. L331-7 (VD)
+	  - Code de l'urbanisme - art. L331-9 (VD)
+	  - Code de l'urbanisme - art. R*331-17 (Ab)
+	  - Code de l'urbanisme - art. R331-1 (V)
+	  - Code de l'urbanisme - art. R331-2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L331-3
+
+La part départementale de la taxe d'aménagement est instituée par délibération du conseil général dans les conditions fixées
+au huitième alinéa de l'article L. 331-2 en vue de financer, d'une part, la politique de protection des espaces naturels
+sensibles prévue à l'article L. 142-1 ainsi que les dépenses prévues à l'article L. 142-2 et, d'autre part, les dépenses des
+conseils d'architecture, d'urbanisme et de l'environnement en application de l'article 8 de la loi n° 77-2 du 3 janvier 1977
+sur l'architecture. 
+
+La part départementale de la taxe est instituée dans toutes les communes du département. 
+
+Le produit de la part départementale de la taxe a le caractère d'une recette de fonctionnement.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
+déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
+
+Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
+compter du 1er mars 2012.
+
+Une nouvelle version de cet article modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
+départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
+s'appliquera aux élections organisées en mars 2015 à l'occasion du prochain renouvellement général des conseils
+départementaux, y compris aux opérations préparatoires à ce scrutin (date indéterminée).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°77-2 du 3 janvier 1977 - art. 3 (V)
+	  - Code de l'urbanisme - art. L142-1 (V)
+	  - Code de l'urbanisme - art. L142-2 (VT)
+
+	**Cité par**:
+
+	  - Loi n°89-935 du 29 décembre 1989 - art. 118 (VD)
+	  - Code de l'urbanisme - art. L113-10 (VD)
+	  - Code de l'urbanisme - art. L331-17 (VT)
+	  - Code de l'urbanisme - art. L331-2 (VT)
+	  - Code de l'urbanisme - art. L331-8 (V)
+	  - Code de l'urbanisme - art. L331-9 (VT)
+	  - Code de l'urbanisme - art. R*331-5 (Ab)
+	  - Code général des collectivités territoriales - art. L3332-1 (V)
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L331-4
+
+La part de la taxe d'aménagement versée à la région d'Ile-de-France est instituée par délibération du conseil régional, dans
+les conditions fixées au huitième alinéa de l'article L. 331-2, en vue de financer des équipements collectifs, principalement
+des infrastructures de transport, rendus nécessaires par l'urbanisation. 
+
+Elle est instituée dans toutes les communes de la région. 
+
+Le produit de la taxe est affecté en section d'investissement du budget de la région d'Ile-de-France.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
+déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
+
+Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
+compter du 1er mars 2012.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L331-2 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L331-5 (V)
+	  - Code de l'urbanisme - art. R421-38-7 (Ab)
+	  - Code général des collectivités territoriales - art. L4414-2 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L331-5
+
+Les délibérations prises en application des articles L. 331-1 à L. 331-4 sont adoptées au plus tard le 30 novembre pour
+entrer en vigueur au 1er janvier de l'année suivante et sont transmises aux services de l'Etat chargés de l'urbanisme dans le
+département au plus tard le premier jour du deuxième mois qui suit la date à laquelle elles ont été adoptées.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
+déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
+
+Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
+compter du 1er mars 2012.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Modifié par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L331-1 (V)
+	  - Code de l'urbanisme - art. L331-4 (V)
+
+
+##### Sous-section 2 : Champ d'application et fait générateur
+
+###### Article L331-6
+
+Les opérations d'aménagement et les opérations de construction, de reconstruction et d'agrandissement des bâtiments,
+installations ou aménagements de toute nature soumises à un régime d'autorisation en vertu du présent code donnent lieu au
+paiement d'une taxe d'aménagement, sous réserve des dispositions des articles L. 331-7 à L. 331-9. 
+
+Les redevables de la taxe sont les personnes bénéficiaires des autorisations mentionnées au premier alinéa du présent article
+ou, en cas de construction sans autorisation ou en infraction aux obligations résultant de l'autorisation de construire ou
+d'aménager, les personnes responsables de la construction. 
+
+Le fait générateur de la taxe est, selon les cas, la date de délivrance de l'autorisation de construire ou d'aménager, celle
+de délivrance du permis modificatif, celle de la naissance d'une autorisation tacite de construire ou d'aménager, celle de la
+décision de non-opposition à une déclaration préalable ou, en cas de construction sans autorisation ou en infraction aux
+obligations résultant de l'autorisation de construire ou d'aménager, celle du procès-verbal constatant la ou les infractions.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
+déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
+
+Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
+compter du 1er mars 2012.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L331-25 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L331-7 (V)
+	  - Code de l'urbanisme - art. L331-9 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+##### Sous-section 3 : Exonérations
+
+###### Article L331-7
+
+Sont exonérés de la part communale ou intercommunale de la taxe : 
+
+1° Les constructions et aménagements destinés à être affectés à un service public ou d'utilité publique, dont la liste est
+fixée par un décret en Conseil d'Etat ; 
+
+2° Les constructions de locaux d'habitation et d'hébergement mentionnés aux articles 278 sexies et 296 ter du code général
+des impôts et, en Guyane et à Mayotte, les constructions de mêmes locaux, dès lors qu'ils sont financés dans les conditions
+du II de l'article R. 331-1 du code de la construction et de l'habitation ou du b du 2 de l'article R. 372-9 du même code ; 
+
+3° Dans les exploitations et coopératives agricoles, les surfaces de plancher des serres de production, celles des locaux
+destinés à abriter les récoltes, à héberger les animaux, à ranger et à entretenir le matériel agricole, celles des locaux de
+production et de stockage des produits à usage agricole, celles des locaux de transformation et de conditionnement des
+produits provenant de l'exploitation et, dans les centres équestres de loisir, les surfaces des bâtiments affectées aux
+activités équestres ; 
+
+4° Les constructions et aménagements réalisés dans les périmètres des opérations d'intérêt national prévues à l'article L.
+121-9-1 lorsque le coût des équipements, dont la liste est fixée par décret en Conseil d'Etat, a été mis à la charge des
+constructeurs ou des aménageurs ; 
+
+5° Les constructions et aménagements réalisés dans les zones d'aménagement concerté mentionnées à l'article L. 311-1 lorsque
+le coût des équipements publics, dont la liste est fixée par un décret en Conseil d'Etat, a été mis à la charge des
+constructeurs ou des aménageurs. Cette liste peut être complétée par une délibération du conseil municipal ou de l'organe
+délibérant de l'établissement public de coopération intercommunale valable pour une durée minimale de trois ans ; 
+
+6° Les constructions et aménagements réalisés dans les périmètres délimités par une convention de projet urbain partenarial
+prévue par l'article L. 332-11-3, dans les limites de durée prévues par cette convention, en application de l'article L.
+332-11-4 ; 
+
+7° Les aménagements prescrits par un plan de prévention des risques naturels prévisibles, un plan de prévention des risques
+technologiques ou un plan de prévention des risques miniers sur des biens construits ou aménagés conformément aux
+dispositions du présent code avant l'approbation de ce plan et mis à la charge des propriétaires ou exploitants de ces
+biens ; 
+
+8° La reconstruction à l'identique d'un bâtiment détruit ou démoli depuis moins de dix ans dans les conditions prévues au
+premier alinéa de l'article L. 111-3, sous réserve des dispositions du 4° de l'article L. 331-30, ainsi que la reconstruction
+sur d'autres terrains de la même commune ou des communes limitrophes des bâtiments de même nature que les locaux sinistrés
+dont le terrain d'implantation a été reconnu comme extrêmement dangereux et classé inconstructible, pourvu que le
+contribuable justifie que les indemnités versées en réparation des dommages occasionnés à l'immeuble ne comprennent pas le
+montant de la taxe d'aménagement normalement exigible sur les reconstructions ; 
+
+9° Les constructions dont la surface est inférieure ou égale à 5 mètres carrés.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
+déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
+
+Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
+compter du 1er mars 2012.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 278 sexies (V)
+	  - Code général des impôts, CGI. - art. 296 ter (V)
+	  - Code de l'urbanisme - art. L111-3 (V)
+	  - Code de l'urbanisme - art. L121-9-1 (V)
+	  - Code de l'urbanisme - art. L311-1 (V)
+	  - Code de l'urbanisme - art. L332-11-3 (V)
+	  - Code de l'urbanisme - art. L332-11-4 (VT)
+	  - Code de la construction et de l'habitation. - art. R331-1 (V)
+	  - Code de la construction et de l'habitation. - art. R372-9 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L331-30 (V)
+	  - Code de l'urbanisme - art. L331-41 (M)
+	  - Code de l'urbanisme - art. L331-6 (V)
+	  - Code de l'urbanisme - art. L331-8 (V)
+	  - Code de l'urbanisme - art. L331-9 (VD)
+	  - Code de l'urbanisme - art. R*331-4 (V)
+	  - Code de l'urbanisme - art. R*331-5 (V)
+	  - Code de l'urbanisme - art. R*331-6 (V)
+	  - Code de l'urbanisme - art. R331-3 (V)
+	  - Code du patrimoine. - art. L524-3 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L331-8
+
+Sont exonérés des parts départementale et régionale les constructions et aménagements mentionnés aux 1° à 3° et 7° à 9° de
+l'article L. 331-7.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
+déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
+
+Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
+compter du 1er mars 2012.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L331-7 (V)
+
+
+###### Article L331-9
+
+Par délibération prise dans les conditions prévues au premier alinéa de l'article L. 331-14, les organes délibérants des
+communes ou des établissements publics de coopération intercommunale, les conseils généraux et le conseil régional de la
+région d'Ile-de-France peuvent exonérer de la taxe d'aménagement, en tout ou partie, chacune des catégories de construction
+ou aménagement suivantes : 
+
+1° Les locaux d'habitation et d'hébergement mentionnés au 1° de l'article L. 331-12 qui ne bénéficient pas de l'exonération
+prévue au 2° de l'article L. 331-7 ; 
+
+2° Dans la limite de 50 % de leur surface, les surfaces des locaux à usage d'habitation principale qui ne bénéficient pas de
+l'abattement mentionné au 2° de l'article L. 331-12 et qui sont financés à l'aide du prêt ne portant pas intérêt prévu à
+l'article L. 31-10-1 du code de la construction et de l'habitation ; 
+
+3° Les locaux à usage industriel mentionnés au 3° de l'article L. 331-12 du présent code ; 
+
+4° Les commerces de détail d'une surface de vente inférieure à 400 mètres carrés ; 
+
+5° Les immeubles classés parmi les monuments historiques ou inscrits à l'inventaire supplémentaire des monuments historiques.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
+déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
+
+Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
+compter du 1er mars 2012. 
+
+Loi n° 2012-1510 du 29 décembre 2012 article 44 II : Par dérogation à l'article L. 331-14 du code de l'urbanisme, les
+délibérations prises en application des 6° et 7° de l'article L. 331-9 du même code adoptées au plus tard le 28 février 2013
+entrent en vigueur au 1er avril 2013 et sont transmises au service de l'Etat chargé de l'urbanisme dans le département au
+plus tard le premier jour du deuxième mois qui suit la date à laquelle elles ont été adoptées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L331-12 (V)
+	  - Code de l'urbanisme - art. L331-14 (V)
+	  - Code de l'urbanisme - art. L331-7 (V)
+	  - Code de la construction et de l'habitation. - art. L31-10-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L331-41 (M)
+	  - Code de l'urbanisme - art. L331-6 (V)
+
+
+##### Sous-section 4 : Base d'imposition
+
+###### Article L331-10
+
+L'assiette de la taxe d'aménagement est constituée par : 
+
+1° La valeur, déterminée forfaitairement par mètre carré, de la surface de la construction ; 
+
+2° La valeur des aménagements et installations, déterminée forfaitairement dans les conditions prévues à l'article L.
+331-13. 
+
+La surface de la construction mentionnée au 1° s'entend de la somme des surfaces de plancher closes et couvertes, sous une
+hauteur de plafond supérieure à 1,80 mètre, calculée à partir du nu intérieur des façades du bâtiment, déduction faite des
+vides et des trémies.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
+déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
+
+Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
+compter du 1er mars 2012.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L111-14 (VD)
+	  - Code de l'urbanisme - art. L112-1 (VT)
+	  - Code de l'urbanisme - art. L331-13 (V)
+	  - Code de l'urbanisme - art. L520-5 (M)
+	  - Code de l'urbanisme - art. L520-7 (V)
+	  - Code de l'urbanisme - art. L520-9 (V)
+	  - Code de l'urbanisme - art. R331-16 (V)
+	  - Code du patrimoine - art. L524-7 (V)
+
+
+###### Article L331-11
+
+La valeur par mètre carré de la surface de la construction est fixée à 660 €. Dans les communes de la région d'Ile-de-France,
+cette valeur est fixée à 748 €. 
+
+Ces valeurs, fixées au 1er janvier 2011, sont révisées au 1er janvier de chaque année par arrêté du ministre chargé de
+l'urbanisme en fonction du dernier indice du coût de la construction publié par l'Institut national de la statistique et des
+études économiques. Elles sont arrondies à l'euro inférieur.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
+déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
+
+Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
+compter du 1er mars 2012.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 22 décembre 2011 - art. 4 (V)
+	  - Arrêté du 15 novembre 2013 (V)
+	  - Arrêté du 15 novembre 2013 - art. 1 (V)
+	  - Arrêté du 24 octobre 2014 (V)
+	  - Arrêté du 24 octobre 2014 - art. 1 (V)
+	  - Arrêté du 6 novembre 2015 (V)
+	  - Arrêté du 6 novembre 2015 - art. 1 (V)
+
+
+###### Article L331-12
+
+Un abattement de 50 % est appliqué sur ces valeurs pour : 
+
+1° Les locaux d'habitation et d'hébergement ainsi que leurs annexes mentionnés aux articles 278 sexies et 296 ter du code
+général des impôts et, en Guyane et à Mayotte, les mêmes locaux mentionnés aux mêmes articles 278 sexies et 296 ter ; 
+
+2° Les cent premiers mètres carrés des locaux d'habitation et leurs annexes à usage d'habitation principale, cet abattement
+ne pouvant être cumulé avec l'abattement visé au 1° ; 
+
+3° Les locaux à usage industriel ou artisanal et leurs annexes, les entrepôts et hangars non ouverts au public faisant
+l'objet d'une exploitation commerciale et les parcs de stationnement couverts faisant l'objet d'une exploitation commerciale.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
+déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
+
+Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
+compter du 1er mars 2012.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2004-490 du 3 juin 2004 - art. 104-1 (VD)
+	  - Décret n°2012-1334 du 30 novembre 2012 - art. 3 (V)
+	  - Code de l'urbanisme - art. L331-9 (VD)
+	  - Code de l'urbanisme - art. R331-16 (V)
+	  - Code du patrimoine - art. L524-14 (V)
+	  - Code du patrimoine. - art. R524-27-1 (VD)
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 278 sexies (V)
+	  - Code général des impôts, CGI. - art. 296 ter (V)
+
+
+###### Article L331-13
+
+La valeur forfaitaire des installations et aménagements est fixée comme suit : 
+
+1° Pour les emplacements de tentes, caravanes et résidences mobiles de loisirs, 3 000 € par emplacement ; 
+
+2° Pour les emplacements des habitations légères de loisirs, 10 000 € par emplacement ; 
+
+3° Pour les piscines, 200 € par mètre carré ; 
+
+4° Pour les éoliennes d'une hauteur supérieure à 12 mètres, 3 000 € par éolienne ; 
+
+5° Pour les panneaux photovoltaïques au sol, 10 € par mètre carré ; 
+
+6° Pour les aires de stationnement non comprises dans la surface visée à l'article L. 331-10, 2 000 € par emplacement, cette
+valeur pouvant être augmentée jusqu'à 5 000 € par délibération de l'organe délibérant de la collectivité territoriale ou de
+l'établissement public compétent en matière de plan local d'urbanisme ou de plan d'occupation des sols. La valeur forfaitaire
+ainsi déterminée sert également d'assiette départementale et à la part versée à la région d'Ile-de-France.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
+déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
+
+Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
+compter du 1er mars 2012.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L331-10 (V)
+	  - Code de l'urbanisme - art. R331-16 (V)
+
+
+##### Sous-section 5 : Taux d'imposition
+
+###### Article L331-14
+
+Par délibération adoptée avant le 30 novembre, les communes ou établissements publics de coopération intercommunale
+bénéficiaires de la part communale ou intercommunale de la taxe d'aménagement fixent les taux applicables à compter du 1er
+janvier de l'année suivante. 
+
+Les communes ou établissements publics de coopération intercommunale peuvent fixer des taux différents dans une fourchette
+comprise entre 1 % et 5 %, selon les aménagements à réaliser, par secteurs de leur territoire définis par un document
+graphique figurant, à titre d'information, dans une annexe au plan local d'urbanisme ou au plan d'occupation des sols. A
+défaut de plan local d'urbanisme ou de plan d'occupation des sols, la délibération déterminant les taux et les secteurs ainsi
+que le plan font l'objet d'un affichage en mairie, conformément aux dispositions des articles L. 2121-24 et L. 2131-1 du code
+général des collectivités territoriales. 
+
+La délibération est valable pour une période d'un an. Elle est reconduite de plein droit pour l'année suivante si une
+nouvelle délibération n'a pas été adoptée dans le délai prévu au premier alinéa. 
+
+En l'absence de toute délibération fixant le taux de la taxe, ce dernier est fixé à 1 % dans les communes ou les
+établissements publics de coopération intercommunale où la taxe est instituée de plein droit.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
+déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
+
+Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
+compter du 1er mars 2012.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2121-24 (V)
+	  - Code général des collectivités territoriales - art. L2131-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L331-16 (M)
+	  - Code de l'urbanisme - art. L331-9 (VD)
+	  - Code de l'urbanisme - art. R*123-13 (VT)
+	  - Code de l'urbanisme - art. R151-52 (V)
+	  - Code de l'urbanisme - art. R331-8 (V)
+
+
+###### Article L331-15
+
+Le taux de la part communale ou intercommunale de la taxe d'aménagement peut être augmenté jusqu'à 20 % dans certains
+secteurs par une délibération motivée, si la réalisation de travaux substantiels de voirie ou de réseaux ou la création
+d'équipements publics généraux est rendue nécessaire en raison de l'importance des constructions nouvelles édifiées dans ces
+secteurs. 
+
+Il ne peut être mis à la charge des aménageurs ou constructeurs que le coût des équipements publics à réaliser pour répondre
+aux besoins des futurs habitants ou usagers des constructions à édifier dans ces secteurs ou, lorsque la capacité des
+équipements excède ces besoins, la fraction du coût proportionnelle à ceux-ci. 
+
+En cas de vote d'un taux supérieur à 5 % dans un ou plusieurs secteurs, les contributions mentionnées au b du 1°, aux a, b et
+d du 2° et au 3° de l'article L. 332-6-1 ne sont plus applicables dans ce ou ces secteurs.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
+déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
+
+Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
+compter du 1er mars 2012.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L332-6-1
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*123-13 (VT)
+	  - Code de l'urbanisme - art. R331-8 (V)
+
+
+###### Article L331-16
+
+Lorsqu'une zone d'aménagement concerté est supprimée, la taxe d'aménagement est rétablie de plein droit pour la part
+communale ou intercommunale. Le conseil municipal ou l'organe délibérant de l'établissement public de coopération
+intercommunale fixe le taux de la taxe pour cette zone dans les conditions prévues à l'article L. 331-14.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
+déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
+
+Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
+compter du 1er mars 2012.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L331-14 (V)
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. L133 (V)
+
+
+###### Article L331-17
+
+Par délibération adoptée avant le 30 novembre, les conseils généraux fixent le taux de la part départementale de la taxe
+d'aménagement applicable à compter du 1er janvier de l'année suivante. 
+
+Cette délibération peut également fixer les taux de répartition de la part départementale de la taxe d'aménagement entre la
+politique de protection des espaces naturels sensibles et les conseils d'architecture, d'urbanisme et de l'environnement. 
+
+Le taux de la part départementale de la taxe ne peut excéder 2,5 %. 
+
+La délibération est valable pour une période d'un an. Elle est reconduite de plein droit pour l'année suivante si une
+nouvelle délibération n'a pas été adoptée dans le délai prévu au premier alinéa.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
+déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
+
+Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
+compter du 1er mars 2012. 
+
+Une nouvelle version de cet article modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
+départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
+s'appliquera aux élections organisées en mars 2015 à l'occasion du prochain renouvellement général des conseils
+départementaux, y compris aux opérations préparatoires à ce scrutin (date indéterminée).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+
+###### Article L331-18
+
+Par délibération adoptée avant le 30 novembre, le conseil régional d'Ile-de-France fixe le taux de la part régionale de la
+taxe d'aménagement applicable à compter du 1er janvier de l'année suivante. 
+
+Le taux de la part régionale de la taxe ne peut excéder 1 % et peut être différent selon les départements. 
+
+La délibération est valable pour une période d'un an. Elle est reconduite de plein droit pour l'année suivante si une
+nouvelle délibération n'a pas été adoptée dans le délai prévu au premier alinéa.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
+déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
+
+Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
+compter du 1er mars 2012.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+
+##### Sous-section 6 : Etablissement de la taxe
+
+###### Article L331-19
+
+Les services de l'Etat chargés de l'urbanisme dans le département sont seuls compétents pour établir et liquider la taxe.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
+déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
+
+Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
+compter du 1er mars 2012.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L331-42 (V)
+	  - Code du patrimoine - art. L524-8 (V)
+
+
+###### Article L331-20
+
+La taxe d'aménagement est liquidée selon la valeur et les taux en vigueur à la date soit de la délivrance de l'autorisation
+de construire ou d'aménager ou du permis modificatif, soit de la naissance d'une autorisation tacite de construire ou
+d'aménager, soit de la décision de non-opposition à une déclaration préalable, soit du procès-verbal constatant les
+infractions. 
+
+Si l'autorisation est déposée pendant la période de validité d'un certificat d'urbanisme, le taux le plus favorable est
+appliqué.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
+déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
+
+Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
+compter du 1er mars 2012.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+
+##### Sous-section 7 : Contrôle et sanctions
+
+###### Article L331-21
+
+Le droit de reprise de l'administration s'exerce jusqu'au 31 décembre de la troisième année qui suit, selon les cas, celle de
+la délivrance de l'autorisation de construire ou d'aménager, celle de la décision de non-opposition ou celle à laquelle
+l'autorisation est réputée avoir été accordée. 
+
+En cas de construction ou d'aménagement sans autorisation ou en infraction aux obligations résultant d'une autorisation de
+construire, le droit de reprise s'exerce jusqu'au 31 décembre de la sixième année qui suit celle de l'achèvement des
+constructions ou aménagements en cause.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
+déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
+
+Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
+compter du 1er mars 2012.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L331-45 (V)
+	  - Code de l'urbanisme - art. R331-12 (V)
+	  - Code du patrimoine - art. L524-8 (V)
+
+
+###### Article L331-22
+
+Lorsqu'une demande d'autorisation de construire a été déposée, la procédure de rectification contradictoire prévue par
+l'article L. 57 du livre des procédures fiscales peut être mise en œuvre. 
+
+Si aucune déclaration n'a été déposée, les bases ou les éléments servant au calcul de la taxe et des sanctions applicables
+sont portés à la connaissance du redevable trente jours au moins avant la mise en recouvrement.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
+déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
+
+Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
+compter du 1er mars 2012.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L57 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L331-45 (V)
+
+
+###### Article L331-23
+
+En cas de construction ou d'aménagement sans autorisation ou en infraction aux obligations résultant de l'autorisation de
+construire ou d'aménager, le montant de la taxe ou du complément de taxe due est assorti d'une pénalité de 80 % du montant de
+la taxe. Cette pénalité ne peut être prononcée avant l'expiration d'un délai de trente jours à compter de la notification du
+document par lequel l'administration a fait connaître au contribuable concerné la sanction qu'elle se propose d'appliquer,
+les motifs de celle-ci et la possibilité dont dispose l'intéressé de présenter dans ce délai ses observations.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
+déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
+
+Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
+compter du 1er mars 2012.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L331-24 (V)
+	  - Code de l'urbanisme - art. L331-28 (V)
+	  - Code de l'urbanisme - art. L331-43 (V)
+	  - Code de l'urbanisme - art. R331-12 (V)
+
+
+##### Sous-section 8 : Recouvrement de la taxe
+
+###### Article L331-24
+
+La taxe d'aménagement et la pénalité dont elle peut être assortie en vertu de l'article L. 331-23 sont recouvrées par les
+comptables publics compétents comme des créances étrangères à l'impôt et au domaine. 
+
+Le recouvrement de la taxe fait l'objet de l'émission de deux titres de perception correspondant à deux fractions égales à la
+moitié de la somme totale à acquitter, ou de l'émission d'un titre unique lorsque le montant n'excède pas 1 500 €. 
+
+Les titres sont respectivement émis douze et vingt-quatre mois après la date de délivrance de l'autorisation de construire ou
+d'aménager, la date de la décision de non-opposition ou la date à laquelle l'autorisation est réputée avoir été accordée. 
+
+En cas de modification apportée au permis de construire ou d'aménager ou à l'autorisation tacite de construire ou d'aménager,
+le complément de taxe dû en échéance unique fait l'objet d'un titre de perception émis dans le délai de douze mois à compter
+de la date de la délivrance du permis modificatif ou de l'autorisation réputée accordée. 
+
+Les sommes liquidées en application de l'article L. 331-23 font l'objet de l'émission d'un titre unique dont le recouvrement
+est immédiatement poursuivi contre le constructeur ou la personne responsable de l'aménagement.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
+déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
+
+Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
+compter du 1er mars 2012.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L331-23 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L331-42 (V)
+
+
+###### Article L331-25
+
+Sont solidaires du paiement de la taxe avec le ou les redevables mentionnés au deuxième alinéa de l'article L. 331-6 : 
+
+1° Les établissements qui sont garants de l'achèvement de la construction ; 
+
+2° Les époux et les partenaires liés par un pacte civil de solidarité.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
+déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
+
+Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
+compter du 1er mars 2012.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L331-6 (V)
+
+
+###### Article L331-26
+
+En cas de transfert total de l'autorisation de construire ou d'aménager, le redevable de la taxe d'aménagement est le nouveau
+titulaire du droit à construire ou d'aménager. Un titre d'annulation est émis au profit du redevable initial. De nouveaux
+titres de perception sont émis à l'encontre du ou des nouveaux titulaires du droit à construire. 
+
+En cas de transfert partiel, un titre d'annulation des sommes correspondant à la surface transférée est émis au profit du
+titulaire initial du droit à construire. Un ou des titres de perception sont émis à l'encontre du ou des titulaires du ou des
+transferts partiels. 
+
+Lorsque la taxe qui fait l'objet d'un titre d'annulation a été acquittée par le redevable en tout ou partie et répartie entre
+les collectivités territoriales et les établissements publics bénéficiaires, le versement indu fait l'objet d'un
+remboursement par le comptable et un titre de perception est émis à l'égard des collectivités territoriales ou établissements
+publics de coopération intercommunale bénéficiaires pour les montants indûment reversés. Le comptable peut recouvrer ce titre
+par voie de compensation avec le produit de la taxe qu'il répartit par ailleurs ou par voie de prélèvement sur les avances
+prévues par les articles L. 2336-1 et suivants du code général des collectivités territoriales.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
+déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
+
+Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
+compter du 1er mars 2012.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2336-1 (V)
+
+
+###### Article L331-27
+
+La taxe d'aménagement est exigible à la date d'émission du titre de perception. 
+
+Le recouvrement de la taxe et de la pénalité est garanti par le privilège prévu au 1 de l'article 1929 du code général des
+impôts.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
+déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
+
+Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
+compter du 1er mars 2012.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1929 (VD)
+
+
+###### Article L331-28
+
+Après avis de l'administration chargée de l'urbanisme et consultation de la collectivité territoriale ou de l'établissement
+public de coopération intercommunale bénéficiaire, lorsqu'elle concerne la pénalité prévue à l'article L. 331-23, le
+comptable public chargé du recouvrement de la taxe et de la pénalité dont elle peut être assortie peut faire droit à une
+demande de remise gracieuse, partielle ou totale.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
+déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
+
+Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
+compter du 1er mars 2012.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L331-23 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R331-13 (V)
+
+
+###### Article L331-29
+
+L'action en recouvrement se prescrit par cinq ans à compter de l'émission du titre de perception.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
+déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
+
+Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
+compter du 1er mars 2012.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+
+##### Sous-section 9 : Recours
+
+###### Article L331-30
+
+Le redevable de la taxe peut en obtenir la décharge, la réduction ou la restitution totale ou partielle : 
+
+1° S'il justifie qu'il n'a pas donné suite à l'autorisation de construire ou d'aménager ; 
+
+2° Si, en cas de modification de l'autorisation de construire ou d'aménager, il est redevable d'un montant inférieur au
+montant initial ; 
+
+3° Si les constructions sont démolies en vertu d'une décision du juge civil ; 
+
+4° Dans le cas de catastrophe naturelle, lorsque les locaux ont été détruits ou ont subi des dégâts tels qu'après expertise
+ou décision administrative ils sont voués à la démolition. La remise s'applique, sur demande du contribuable, sur le montant
+total de la taxe dont le dernier versement n'est pas arrivé à échéance à la date du sinistre. Le contribuable doit justifier
+que les indemnités versées en réparation des dommages occasionnés à l'immeuble ne comprennent pas le montant des taxes
+d'urbanisme dues lors de la construction. Si une telle remise est accordée, le 8° de l'article L. 331-7 ne s'applique pas à
+la reconstruction du bâtiment ; 
+
+5° Si le contribuable démontre qu'il remplit les conditions pour pouvoir bénéficier d'une exclusion, d'une exonération ou
+d'un abattement auquel il ne pouvait prétendre au moment du dépôt de la demande ; 
+
+6° Si une erreur a été commise dans l'assiette ou le calcul de la taxe.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
+déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
+
+Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
+compter du 1er mars 2012.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L331-45 (V)
+	  - Code de l'urbanisme - art. L331-7 (VD)
+	  - Code du patrimoine. - art. L524-15 (V)
+
+
+###### Article L331-31
+
+En matière d'assiette, les réclamations concernant la taxe d'aménagement sont recevables jusqu'au 31 décembre de la deuxième
+année qui suit celle de l'émission du premier titre de perception ou du titre unique. 
+
+Lorsque le contribuable a fait l'objet d'une procédure de rectification, il dispose d'un délai expirant le 31 décembre de la
+troisième année qui suit celle de la notification de la proposition de rectification pour présenter ses réclamations. 
+
+Les réclamations concernant la taxe d'aménagement sont présentées, instruites et jugées selon les règles applicables en
+matière d'impôts directs locaux.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
+déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
+
+Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
+compter du 1er mars 2012.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+
+###### Article L331-32
+
+En matière de recouvrement, les réclamations sont présentées, instruites et jugées selon les règles applicables en matière de
+créances étrangères à l'impôt et au domaine.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
+déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
+
+Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
+compter du 1er mars 2012.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L331-45 (V)
+
+
+##### Sous-section 10 : Versement aux collectivités
+
+###### Article L331-33
+
+La taxe d'aménagement est versée aux collectivités territoriales et établissements publics de coopération intercommunale
+bénéficiaires pour le montant recouvré net de frais de gestion. 
+
+L'Etat effectue un prélèvement pour frais d'assiette et de recouvrement de 3 % sur le montant des recouvrements. 
+
+Les modalités de reversement mensuel de ces sommes aux collectivités territoriales bénéficiaires sont précisées par décret.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
+déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
+
+Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
+compter du 1er mars 2012.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L331-44 (M)
+
+
+###### Article L331-34
+
+Avant le 1er mars de chaque année, l'administration chargée de l'urbanisme fournit aux collectivités territoriales et
+établissements publics de coopération intercommunale bénéficiaires de la taxe d'aménagement les éléments concernant l'année
+civile précédente nécessaires à l'établissement des prévisions de recettes, en vue de la préparation de leur budget.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
+déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
+
+Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
+compter du 1er mars 2012.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L331-44 (M)
+
+
+##### Section 2 : Versement pour sous-densité
+
+##### Sous-section 1 : Etablissement du seuil minimal de densité et du versement pour sous-densité
+
+###### Article L331-35
+
+La densité de la construction est définie par le rapport entre la surface de plancher d'une construction déterminée
+conformément à l'article L. 112-1 et la surface du terrain de l'unité foncière sur laquelle cette construction est ou doit
+être implantée. 
+
+N'est pas retenue dans l'unité foncière la partie des terrains rendus inconstructibles pour des raisons physiques ou du fait
+de prescriptions ou de servitudes administratives. 
+
+Lorsqu'une construction nouvelle est édifiée sur un terrain qui comprend un bâtiment qui n'est pas destiné à être démoli, la
+densité est calculée en ajoutant sa surface de plancher à celle de la construction nouvelle.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 II C : Ces dispositions sont applicables aux demandes d'autorisations
+d'urbanisme déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L112-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L331-40 (V)
+	  - Code de l'urbanisme - art. R331-17 (V)
+
+
+###### Article L331-36
+
+En vue de financer les actions et opérations contribuant à la réalisation des objectifs définis à l'article L. 121-1, les
+communes et établissements publics de coopération intercommunale compétents en matière de plan local d'urbanisme ou de plan
+d'occupation des sols peuvent instituer, par délibération, un seuil minimal de densité en deçà duquel un versement pour sous-
+densité est dû par les personnes mentionnées à l'article L. 331-39. 
+
+Le seuil minimal de densité est déterminé par secteurs du territoire de la commune ou de l'établissement public de
+coopération intercommunale, dans les zones urbaines et à urbaniser, définis sur un document graphique figurant, à titre
+d'information, dans une annexe au plan local d'urbanisme ou au plan d'occupation des sols. 
+
+Le seuil minimal de densité est fixé pour une durée minimale de trois ans à compter de la date d'entrée en vigueur de la
+délibération l'ayant institué. 
+
+Toutefois, une nouvelle délibération motivée tendant à favoriser l'investissement locatif, l'accession à la propriété et le
+développement de l'offre foncière peut être prise sans condition de délai. 
+
+Le versement pour sous-densité constitue un élément du prix de revient de l'ensemble immobilier au sens de l'article 302
+septies B du code général des impôts. 
+
+En cas d'institution du versement pour sous-densité, le versement pour dépassement du plafond légal de densité prévu par
+l'article L. 112-2 du présent code est supprimé de plein droit sur l'ensemble du territoire de la commune. 
+
+Les délibérations sont adressées aux services de l'Etat chargés de l'urbanisme dans le département au plus tard le premier
+jour du deuxième mois qui suit la date à laquelle elles ont été adoptées.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 II C : Ces dispositions sont applicables aux demandes d'autorisations
+d'urbanisme déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. *R442-11 (V)
+	  - Code de l'urbanisme - art. L331-38 (V)
+	  - Code de l'urbanisme - art. L331-46 (V)
+	  - Code de l'urbanisme - art. L332-12 (M)
+	  - Code de l'urbanisme - art. L332-6 (V)
+	  - Code de l'urbanisme - art. R*123-13 (VT)
+	  - Code de l'urbanisme - art. R*442-10-1 (V)
+	  - Code de l'urbanisme - art. R151-52 (V)
+	  - Code de l'urbanisme - art. R331-18 (V)
+	  - Code général des collectivités territoriales - art. L3662-1 (V)
+	  - Code général des impôts, CGI. - art. 302 septies B (V)
+	  - Livre des procédures fiscales - art. L255 A (VD)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L112-2 (V)
+	  - Code de l'urbanisme - art. L121-1 (V)
+	  - Code de l'urbanisme - art. L331-39 (V)
+
+
+###### Article L331-37
+
+Pour chaque secteur, le seuil minimal de densité ne peut être inférieur à la moitié ni supérieur aux trois quarts de la
+densité maximale autorisée par les règles définies dans le plan local d'urbanisme. 
+
+Lorsqu'un coefficient d'occupation des sols est applicable dans le cadre d'une opération de lotissement, le seuil minimal de
+densité ne peut être inférieur à la moitié ni supérieur aux trois quarts de la surface de plancher attribuée à chaque lot par
+le lotisseur.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 II C : Ces dispositions sont applicables aux demandes d'autorisations
+d'urbanisme déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*442-10-1 (V)
+
+
+##### Sous-section 2 : Détermination du versement pour sous-densité
+
+###### Article L331-38
+
+Le bénéficiaire d'une autorisation de construire expresse ou tacite ou, en cas de construction sans autorisation ou en
+infraction aux obligations résultant de l'autorisation de construire, la personne responsable de la construction est
+assujetti au paiement du versement pour sous-densité pour toute construction nouvelle d'une densité inférieure au seuil
+minimal défini à l'article L. 331-36. 
+
+Ce versement est égal au produit de la moitié de la valeur du terrain par le rapport entre la surface manquante pour que la
+construction atteigne le seuil minimal de densité et la surface de la construction résultant de l'application du seuil
+minimal de densité. 
+
+Le versement pour sous-densité ne peut en tout état de cause être supérieur à 25 % de la valeur du terrain. 
+
+Les projets d'extension ou les projets de construction de locaux annexes aux bâtiments déjà existants et les constructions
+situées sur les terrains de camping ou parcs résidentiels de loisirs ne sont pas considérés comme des constructions nouvelles
+au sens du premier alinéa. 
+
+Lorsque le seuil minimal de densité ne peut être atteint du fait des servitudes administratives qui frappent le terrain,
+aucun versement n'est dû.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 II C : Ces dispositions sont applicables aux demandes d'autorisations
+d'urbanisme déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L331-36 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L331-40 (V)
+	  - Code de l'urbanisme - art. L332-12 (V)
+	  - Code de l'urbanisme - art. L332-6 (V)
+	  - Livre des procédures fiscales - art. L133 (V)
+	  - Livre des procédures fiscales - art. L255 A (VD)
+
+
+##### Sous-section 3 : Détermination de la valeur du terrain
+
+###### Article L331-39
+
+Lors du dépôt de la demande de permis de construire relatif à une construction d'une densité n'atteignant pas le seuil
+minimal de densité, le demandeur déclare la valeur du terrain sur lequel la construction doit être édifiée. 
+
+La valeur du terrain est appréciée à la date du dépôt de la demande de permis de construire.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 II C : Ces dispositions sont applicables aux demandes d'autorisations
+d'urbanisme déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L331-36 (VD)
+	  - Code de l'urbanisme - art. R331-21 (V)
+	  - Code de l'urbanisme - art. R331-22 (V)
+
+
+##### Sous-section 4 : Procédure de rescrit
+
+###### Article L331-40
+
+Lorsqu'un contribuable de bonne foi, avant le dépôt de la demande d'autorisation de construire et à partir d'une présentation
+écrite, précise et complète de la situation de fait, a demandé à l'administration de l'Etat chargée de l'urbanisme dans le
+département des éclaircissements sur l'application à sa situation du deuxième alinéa de l'article L. 331-35 et du dernier
+alinéa de l'article L. 331-38, l'administration doit répondre de manière motivée dans un délai de trois mois. A défaut de
+réponse dans ce délai, les propositions de solution présentées par le contribuable dans sa demande sont opposables à
+l'administration. 
+
+En l'absence de coefficient d'occupation des sols, le contribuable peut également fournir une estimation motivée et détaillée
+de la constructibilité maximale qui s'attache au terrain d'assiette de la construction projetée compte tenu, notamment, de la
+nature du sol, de la configuration des parcelles, du caractère des constructions avoisinantes ou de motifs tenant aux
+économies d'énergie. A défaut de réponse de l'administration dans le délai de trois mois, le seuil minimal de densité
+applicable à ce terrain ne peut être supérieur aux trois quarts de la densité maximale déclarée. 
+
+Lorsque l'administration de l'Etat chargée de l'urbanisme dans le département a pris formellement position à la suite d'une
+demande écrite, précise et complète déposée au titre des premier et deuxième alinéas par un contribuable, ce dernier peut
+saisir l'administration centrale chargée de l'urbanisme, dans un délai de deux mois, pour solliciter un second examen de
+cette demande, à la condition qu'il n'invoque pas d'éléments nouveaux. Lorsqu'elle est saisie d'une telle demande,
+l'administration répond selon les mêmes règles et délais que ceux applicables à la demande initiale, décomptés à partir de la
+nouvelle saisine. 
+
+Pour l'application du présent article, l'administration répond au moins un mois après avoir transmis la demande du
+contribuable au maire de la commune qui dispose de ce délai pour formuler des observations.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 II C : Ces dispositions sont applicables aux demandes d'autorisations
+d'urbanisme déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L331-35 (V)
+	  - Code de l'urbanisme - art. L331-38 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R331-23 (V)
+
+
+##### Sous-section 5 : Exclusions et exonérations
+
+###### Article L331-41
+
+Les constructions et aménagements mentionnés aux 1° à 3° et 7° à 9° de l'article L. 331-7 sont exonérés du versement pour
+sous-densité. 
+
+En outre, la commune ou l'établissement public de coopération intercommunale peut exonérer du versement pour sous-densité les
+locaux mentionnés à l'article L. 331-9, dans les conditions et les limites prévues par cet article.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 II C : Ces dispositions sont applicables aux demandes d'autorisations
+d'urbanisme déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L331-7 (V)
+	  - Code de l'urbanisme - art. L331-9 (V)
+
+
+##### Sous-section 6 : Etablissement et recouvrement
+
+###### Article L331-42
+
+Le versement pour sous-densité est liquidé et recouvré selon les mêmes modalités, prévues aux articles L. 331-19, L. 331-20
+et L. 331-24 à L. 331-29, que la taxe d'aménagement.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 II C : Ces dispositions sont applicables aux demandes d'autorisations
+d'urbanisme déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L331-19 (V)
+	  - Code de l'urbanisme - art. L331-24 (V)
+
+
+###### Article L331-43
+
+En cas de construction sans autorisation ou en infraction aux obligations résultant de l'autorisation de construire, le
+montant du versement pour sous-densité éventuellement dû est assorti d'une pénalité de 80 %. Elle est prononcée dans les
+conditions prévues à l'article L. 331-23.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 II C : Ces dispositions sont applicables aux demandes d'autorisations
+d'urbanisme déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L331-23 (V)
+
+
+###### Article L331-44
+
+Le reversement aux collectivités territoriales s'effectue selon les modalités prévues aux articles L. 331-33 et L. 331-34.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 II C : Ces dispositions sont applicables aux demandes d'autorisations
+d'urbanisme déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L331-33 (V)
+	  - Code de l'urbanisme - art. L331-34 (V)
+
+
+##### Sous-section 7 : Contrôle et recours
+
+###### Article L331-45
+
+Le contrôle de l'administration s'exerce dans les conditions prévues par les articles L. 331-21 et L. 331-22. 
+
+Les litiges sont présentés, instruits et jugés dans les conditions prévues par les articles L. 331-30 à L. 331-32.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 II C : Ces dispositions sont applicables aux demandes d'autorisations
+d'urbanisme déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L331-21 (V)
+	  - Code de l'urbanisme - art. L331-22 (V)
+	  - Code de l'urbanisme - art. L331-30 (V)
+	  - Code de l'urbanisme - art. L331-32 (V)
+
+
+##### Sous-section 8 : Affectation du versement
+
+###### Article L331-46
+
+Le produit des versements dus au titre des densités de construction inférieures au seuil minimal de densité et le produit de
+ceux dus en application des articles L. 112-2 et L. 333-2 sont attribués aux communes ou établissements publics de
+coopération intercommunale mentionnés au premier alinéa de l'article L. 331-36.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 II C : Ces dispositions sont applicables aux demandes d'autorisations
+d'urbanisme déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L112-2 (V)
+	  - Code de l'urbanisme - art. L331-36 (V)
+	  - Code de l'urbanisme - art. L333-2 (Ab)
+
+
 #### Chapitre II : Participation des constructeurs et des lotisseurs
 
 #####  Section 2 : Participations à la réalisation d'équipements publics exigibles à l'occasion de la délivrance d'autorisations de construire ou d'utiliser le sol
@@ -19587,26 +21241,6 @@ En cas de carence de l'autorité compétente, le préfet se substitue à elle ap
 	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
 
 
-###### Article L443-3-1
-
-Les résidences mobiles de loisirs situées sur des terrains de camping classés au sens du code du tourisme ne peuvent être
-installées sur des emplacements ayant fait l'objet d'une cession en pleine propriété.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 15
-
-	**Abrogé par**:
-
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 33 (V)
-
-	**Cite**:
-
-	  - Code du tourisme.
-
-
 ###### Article L443-4
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent chapitre et précise notamment les conditions dans
@@ -21313,29 +22947,27 @@ l'article L. 160-5 ou à des indemnités d'expropriation.
 
 ###### Article L520-1
 
-Dans les zones comprises dans les limites de la région d'Ile-de-France telles qu'elles ont été fixées par l'article premier
-de la loi n° 76-394 du 6 mai 1976 et qui seront déterminées par décret en Conseil d'Etat, il est perçu une redevance à
-l'occasion de la construction de locaux à usage de bureaux et de locaux de recherche ainsi que de leurs annexes.
-
-A compter de la promulgation de la loi n° 2000-1208 du 13 décembre 2000 relative à la solidarité et au renouvellement
-urbains, dans les communes éligibles à la dotation de solidarité urbaine et de cohésion sociale, le montant de cette
-redevance ne peut excéder le seuil des montants prévus au 3° de l'article R. 520-12 du présent code et fixés par le décret n°
-89-86 du 10 février 1989.
+Il est perçu en région d'Ile-de-France une redevance à l'occasion de la construction de locaux à usage de bureaux définis à
+l'article R. 520-1-1, de locaux de recherche définis à l'article R. 520-1 du présent code, de locaux commerciaux définis au
+2° du III de l'article 231 ter du code général des impôts et de locaux de stockage définis au 3° du même III, ainsi que de
+leurs annexes.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°76-394 1976-05-06
-	  - Décret n°89-86 1989-02-10
-	  - Loi n°2000-1208 2000-12-13
-	  - Code de l'urbanisme R520-12
 
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°87-744 du 9 septembre 1987
 	  - TXT_SOURCE: Décret n°87-744 du 9 septembre 1987 - art. 2 (V)
 	  - TXT_SOURCE: Code de l'urbanisme - art. R*520-12 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 31 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 231 ter (V)
+	  - Code de l'urbanisme - art. R520-1-1 (V)
 
 	**Cité par**:
 
@@ -21348,7 +22980,6 @@ redevance ne peut excéder le seuil des montants prévus au 3° de l'article R. 
 	  - Code de l'urbanisme - art. R*520-12 (V)
 	  - Code de l'urbanisme - art. R421-4 (M)
 	  - Code de l'urbanisme - art. R520-1 (V)
-	  - Code de l'urbanisme - art. R520-1-1 (V)
 	  - Code de l'urbanisme - art. R520-1-2 (V)
 	  - Code de l'urbanisme - art. R520-9 (V)
 	  - Code général des collectivités territoriales - art. L4414-3 (V)
@@ -21358,10 +22989,6 @@ redevance ne peut excéder le seuil des montants prévus au 3° de l'article R. 
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Modifié par**:
-
-	  - Loi n°2005-329 2005-01-18 art. 135 II JORF 19 janvier 2005
 
 
 ###### Article L520-2
@@ -21399,19 +23026,31 @@ d'achèvement des travaux ou de la constatation de l'achèvement de ces travaux.
 
 ###### Article L520-3
 
-Le montant de la redevance due par mètre carré de surface utile de plancher peut varier selon les périmètres considérés, sans
-pouvoir excéder 244 euros. Ce montant et ces périmètres sont fixés par décret en Conseil d'Etat en fonction du taux d'emploi
-et de son évolution.
+Le montant de cette redevance est fixé à : 
+
+1° 344 € par mètre carré dans les communes de Paris et des Hauts-de-Seine ; 
+
+2° 214 € par mètre carré dans les communes de l'unité urbaine de Paris au sens de l'Institut national de la statistique et
+des études économiques, telle que délimitée par arrêté conjoint des ministres chargés de l'économie et du budget, autres que
+Paris et les communes du département des Hauts-de-Seine. 
+
+Ces tarifs sont réduits de 65 % pour les locaux commerciaux définis au 2° du III de l'article 231 ter du code général des
+impôts et de 85 % pour les locaux de stockage définis au 3° du même III ; 
+
+3° 86 € par mètre carré dans les autres communes de la région d'Ile-de-France n'appartenant pas à l'unité urbaine de Paris
+et, par dérogation aux alinéas précédents, dans toutes les communes d'Ile-de-France éligibles à la fois à la dotation de
+solidarité urbaine et de cohésion sociale et au bénéfice du fonds de solidarité des communes de la région d'Ile-de-France,
+respectivement prévus aux articles L. 2334-15 et L. 2531-12 du code général des collectivités territoriales. 
+
+Ces tarifs, fixés au 1er janvier 2011, sont actualisés par arrêté du ministre chargé de l'économie au 1er janvier de chaque
+année en fonction du dernier indice du coût de la construction publié par l'Institut national de la statistique et des études
+économiques. Les valeurs sont arrondies, s'il y a lieu, au centime d'euro supérieur.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°60-790 1960-08-02 ART. 3
-
 	**Modifié par**:
 
-	  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 31 (V)
 
 	**Cité par**:
 
@@ -21431,6 +23070,12 @@ et de son évolution.
 	  - Code de l'urbanisme - art. L520-5 (M)
 	  - Code de l'urbanisme - art. R520-2 (M)
 	  - Code de l'urbanisme - art. R520-3 (M)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 231 ter (V)
+	  - Code général des collectivités territoriales - art. L2334-15 (V)
+	  - Code général des collectivités territoriales - art. L2531-12 (V)
 
 	**Codifié par**:
 
@@ -21464,8 +23109,8 @@ industrielles ou tertiaires.
 
 ###### Article L520-5
 
-La redevance est calculée sur la surface utile de plancher prévue pour la construction ; son montant est arrêté par décision
-de l'autorité administrative. 
+La redevance est assise sur la surface utile de plancher prévue pour la construction ; son montant est établi par les
+services de l'Etat en charge de l'urbanisme dans le département.
 
 La redevance est réduite à la demande du redevable si celui-ci établit que la surface de plancher prévue n'a pas été
 entièrement construite. 
@@ -21481,7 +23126,7 @@ La redevance est recouvrée dans les mêmes conditions que les créances domania
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 121
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 31 (V)
 
 	**Cite**:
 
@@ -21490,31 +23135,27 @@ La redevance est recouvrée dans les mêmes conditions que les créances domania
 
 ###### Article L520-6
 
-Le décret en Conseil d'Etat prévu à l'article L. 520-11 précise les conditions dans lesquelles, à dater du 8 juillet 1971 :
+Le décret en Conseil d'Etat prévu à l'article L. 520-11 précise les conditions dans lesquelles, à dater du 8 juillet 1971 : 
 
 Les propriétaires des locaux construits à titre précaire pour une durée de temps limitée pourront être remboursés de la
-redevance en tout ou partie, lors de la démolition de ces locaux ;
+redevance en tout ou partie, lors de la démolition de ces locaux ; 
 
 Les propriétaires de locaux détruits par sinistre ou expropriés pour cause d'utilité publique auront le droit de reconstituer
-en exonération de la redevance une superficie de plancher utile équivalente à celle des locaux détruits ou expropriés.
+en exonération de la redevance une superficie de construction équivalente à celle des locaux détruits ou expropriés.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L520-11 (M)
 
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
-	**Anciens textes**:
-
-	  - Loi n°60-790 1960-08-02 art. 6
-
 	**Modifié par**:
 
-	  - Décret n°80-621 1980-07-31 art. 2 JORF 6 août 1980
+	  - Loi n°2011-900 du 29 juillet 2011 - art. 34 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L520-11 (V)
 
 
 ###### Article L520-7
@@ -21527,8 +23168,6 @@ Les locaux affectés au service public et appartenant ou destinés à appartenir
 aux établissements publics ne présentant pas un caractère industriel et commercial ainsi que ceux utilisés par des organismes
 de sécurité sociale ou d'allocations familiales et appartenant ou destinés à appartenir à ces organismes ou à des sociétés
 civiles constituées exclusivement entre ces organismes ; 
-
-Les garages ; 
 
 Dans les établissements industriels, les locaux à usage de bureaux dépendants de locaux de production, et les locaux à usage
 de bureaux d'une superficie inférieure à 1 000 mètres carrés indépendants des locaux de production ; 
@@ -21555,34 +23194,35 @@ relative au contrat d'association.
 
 	**Modifié par**:
 
-	  - Loi n°2008-735 du 28 juillet 2008 - art. 36
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 31 (V)
 
 
 ###### Article L520-8
 
 Les opérations de reconstruction d'un immeuble pour lesquelles le permis de construire est délivré avant le 1er janvier 2014
-ne sont assujetties à la redevance qu'à raison des mètres carrés de surface utile de plancher qui excèdent la surface utile
-de plancher de l'immeuble avant reconstruction.
+ne sont assujetties à la redevance qu'à raison des mètres carrés de surface de construction qui excèdent la surface de
+construction de l'immeuble avant reconstruction.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Créé par**:
-
-	  - Loi n°2006-1771 du 30 décembre 2006 - art. 151 () JORF 31 décembre 2006
+	  - Loi n°2011-900 du 29 juillet 2011 - art. 34 (V)
 
 	**Cité par**:
 
 	  - Loi n°2015-1786 du 29 décembre 2015 - art. 50 (V)
 
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
 
 ###### Article L520-9
 
-Est assimilé, pour l'application du présent titre, à la construction de locaux à usage de bureaux ou de locaux de recherche
-le fait de transformer en de tels locaux des locaux précédemment affectés à un autre usage.
+Est assimilé, pour l'application du présent titre, à la construction de locaux à usage de bureaux, de locaux de recherche, de
+locaux commerciaux ou de locaux de stockage le fait de transformer en de tels locaux des locaux précédemment affectés à un
+autre usage.
 
 Les transformations de locaux visées au présent article devront à défaut d'une demande de permis de construire, faire l'objet
 d'une déclaration dont les modalités seront déterminées par le décret en conseil d'Etat prévu à l'article L. 520-11.
@@ -21593,13 +23233,10 @@ montant de la redevance versée au titre de l'usage antérieur.
 
 La redevance n'est pas due pour les opérations réalisées dans les zones franches urbaines définies au B du 3 de l'article 42
 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire lorsqu'elles visent
-la transformation de locaux en bureaux.
+la transformation de locaux en locaux à usage de bureaux, en locaux de recherche, en locaux commerciaux ou en locaux de
+stockage.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°60-790 1960-08-02 art. 9
 
 	**Cité par**:
 
@@ -21616,13 +23253,13 @@ la transformation de locaux en bureaux.
 
 	**Cite**:
 
-	  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
-	  - Code de l'urbanisme - art. L510-1 (M)
-	  - Code de l'urbanisme - art. L520-11 (M)
+	  - Loi n°95-115 du 4 février 1995 - art. 42
+	  - Code de l'urbanisme - art. L510-1
+	  - Code de l'urbanisme - art. L520-11
 
 	**Modifié par**:
 
-	  - Loi n°96-987 du 14 novembre 1996 - art. 38 () JORF 15 novembre 1996
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 31 (V)
 
 	**Codifié par**:
 
@@ -34462,18 +36099,18 @@ Marseille et Lyon et des établissements publics de coopération intercommunale.
 Lorsqu'une commune envisage d'instituer, en application de l'article L. 214-1, le droit de préemption sur les fonds
 artisanaux, les fonds de commerce, les baux commerciaux et les terrains portant ou destinés à porter des commerces d'une
 surface de vente comprise entre 300 et 1 000 mètres carrés, le maire soumet pour avis le projet de délibération du conseil
-municipal à la chambre de commerce et d'industrie et à la chambre des métiers et de l'artisanat dans le ressort desquelles se
-trouve la commune. Le projet de délibération est accompagné du projet de plan délimitant le périmètre de sauvegarde du
-commerce et de l'artisanat de proximité et d'un rapport analysant la situation du commerce et de l'artisanat de proximité à
-l'intérieur de ce périmètre et les menaces pesant sur la diversité commerciale et artisanale. En l'absence d'observations de
-la chambre de commerce et d'industrie et de la chambre des métiers et de l'artisanat dans les deux mois de leur saisine,
-l'avis de l'organisme consulaire est réputé favorable.
+municipal à la      chambre de commerce et d'industrie territoriale et à la chambre des métiers et de l'artisanat dans le
+ressort desquelles se trouve la commune. Le projet de délibération est accompagné du projet de plan délimitant le périmètre
+de sauvegarde du commerce et de l'artisanat de proximité et d'un rapport analysant la situation du commerce et de l'artisanat
+de proximité à l'intérieur de ce périmètre et les menaces pesant sur la diversité commerciale et artisanale. En l'absence
+d'observations de la      chambre de commerce et d'industrie territoriale et de la chambre des métiers et de l'artisanat dans
+les deux mois de leur saisine, l'avis de l'organisme consulaire est réputé favorable.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-753 du 22 juin 2009 - art. 1
+	  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
 
 	**Cite**:
 
