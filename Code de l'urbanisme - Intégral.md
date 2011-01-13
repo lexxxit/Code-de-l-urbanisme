@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2011-01-13
+Version Consolidée au 2011-01-14
 
 # Partie législative
 
@@ -4240,23 +4240,14 @@ l'établissement public prévu à l'article L. 122-4.
 
 Les dispositions du présent chapitre sont applicables aux schémas de secteur. Toutefois, lorsqu'un schéma de secteur concerne
 le territoire d'une seule commune ou d'un seul établissement public de coopération intercommunale, celui-ci exerce les
-compétences de l'établissement public prévu à l'article L. 122-4.
+compétences de l'établissement public prévu à l'article L. 122-4. L'enquête publique est organisée dans les seules communes
+comprises dans le périmètre du schéma de secteur.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Créé par**:
-
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 3 () JORF 14 décembre 2000 en vigueur le 1er avril 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2000-1208 du 13 décembre 2000 - art. 43 (V)
-	  - SPEC_APPLI: Décret n°2001-260 du 27 mars 2001 - art. 6 (V)
-	  - SPEC_APPLI: Code de l'urbanisme - art. L122-4 (M)
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 17 (V)
 
 	**Cité par**:
 
@@ -4264,9 +4255,13 @@ compétences de l'établissement public prévu à l'article L. 122-4.
 	  - Décret n°2011-724 du 24 juin 2011 - art. 9 (V)
 	  - Code rural - art. L511-3 (V)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Code de l'urbanisme - art. L122-4 (M)
+
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L122-4 (M)
+	  - Code de l'urbanisme - art. L122-4 (VT)
 
 
 ###### Article L122-18
