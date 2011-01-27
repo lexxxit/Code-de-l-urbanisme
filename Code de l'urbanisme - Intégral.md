@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2011-01-14
+Version Consolidée au 2011-01-28
 
 # Partie législative
 
@@ -251,9 +251,16 @@ lieu, seules sont autorisées, en dehors des parties actuellement urbanisées de
 bâtiments nouveaux à usage d'habitation à l'intérieur du périmètre regroupant les bâtiments d'une ancienne exploitation
 agricole, dans le respect des traditions architecturales locales ; 
 
-2° Les constructions et installations nécessaires à des équipements collectifs, à la réalisation d'aires d'accueil ou de
-terrains de passage des gens du voyage, à l'exploitation agricole, à la mise en valeur des ressources naturelles et à la
-réalisation d'opérations d'intérêt national ; 
+2° Les constructions et installations nécessaires à l'exploitation agricole, à des équipements collectifs dès lors qu'elles
+ne sont pas incompatibles avec l'exercice d'une activité agricole, pastorale ou forestière sur le terrain sur lequel elles
+sont implantées, à la réalisation d'aires d'accueil ou de terrains de passage des gens du voyage, à la mise en valeur des
+ressources naturelles et à la réalisation d'opérations d'intérêt national. 
+
+Les projets de constructions, aménagements, installations et travaux ayant pour conséquence une réduction des surfaces
+situées dans les espaces autres qu'urbanisés et sur lesquelles est exercée une activité agricole ou qui sont à vocation
+agricole doivent être préalablement soumis pour avis par le représentant de l'Etat dans le département à la commission
+départementale de la consommation des espaces agricoles prévue à l'article L. 112-1-1 du code rural et de la pêche maritime.
+Cet avis est réputé favorable s'il n'est pas intervenu dans un délai d'un mois à compter de la saisine de la commission ; 
 
 3° Les constructions et installations incompatibles avec le voisinage des zones habitées et l'extension mesurée des
 constructions et installations existantes. 
@@ -264,6 +271,11 @@ pas atteinte à la sauvegarde des espaces naturels et des paysages, à la salubr
 n'entraînent pas un surcroît important de dépenses publiques et que le projet n'est pas contraire aux objectifs visés à
 l'article L. 110 et aux dispositions des chapitres V et VI du titre IV du livre Ier ou aux directives territoriales
 d'aménagement précisant leurs modalités d'application.
+
+**Nota:**
+
+Loi n° 2010-874 du 28 juillet 2010 artcile 51 IV : Les présentes dispositions entrent en vigueur à une date et dans les
+conditions fixées par décret en Conseil d'Etat et  au plus tard le  28 janvier  2011.
 
 **Liens relatifs à cet article**
 
@@ -288,7 +300,11 @@ d'aménagement précisant leurs modalités d'application.
 
 	**Modifié par**:
 
-	  - Loi n°2009-323 du 25 mars 2009 - art. 36
+	  - Loi n°2010-874 du 27 juillet 2010 - art. 51 (V)
+
+	**Cite**:
+
+	  - Code rural - art. L112-1-1 (V)
 
 
 ###### Article L111-1-4
@@ -3274,9 +3290,12 @@ ont valeur de schéma de cohérence territoriale.
 
 ###### Article L122-3
 
-I.-Le schéma de cohérence territoriale est élaboré à l'initiative des communes ou de leurs groupements compétents. 
+I. ― Le schéma de cohérence territoriale est élaboré à l'initiative des communes ou de leurs groupements compétents. Toute
+élaboration d'un schéma de cohérence territoriale ayant pour conséquence une réduction des surfaces des zones agricoles est
+soumise à l'avis de la commission prévue à l'article L. 112-1-1 du code rural et de la pêche maritime. Cette commission rend
+son avis au plus tard trois mois après sa saisine. A défaut, cet avis est réputé favorable. 
 
-II.-Le périmètre du schéma de cohérence territoriale délimite un territoire d'un seul tenant et sans enclave. Lorsque ce
+II. ― Le périmètre du schéma de cohérence territoriale délimite un territoire d'un seul tenant et sans enclave. Lorsque ce
 périmètre concerne des établissements publics de coopération intercommunale compétents en matière de schémas de cohérence
 territoriale, il recouvre la totalité du périmètre de ces établissements. Toutefois, lorsque le périmètre d'un de ces
 établissements n'est pas d'un seul tenant, le périmètre du schéma peut ne pas comprendre la totalité des communes membres de
@@ -3291,7 +3310,7 @@ Il prend également en compte les déplacements urbains, notamment les déplacem
 de la zone de chalandise des commerces, ainsi que les déplacements vers les équipements culturels, sportifs, sociaux et de
 loisirs. 
 
-III.-Un projet de périmètre est déterminé, selon les cas, par les conseils municipaux ou l'organe délibérant du ou des
+III. ― Un projet de périmètre est déterminé, selon les cas, par les conseils municipaux ou l'organe délibérant du ou des
 établissements publics de coopération intercommunale compétents, à la majorité des deux tiers au moins des communes
 intéressées représentant plus de la moitié de la population totale de celles-ci ou la majorité de la moitié au moins des
 communes intéressées représentant les deux tiers de la population totale. Si des communes ne sont pas membres d'un
@@ -3299,7 +3318,7 @@ communes intéressées représentant les deux tiers de la population totale. Si 
 comprendre, dans chaque cas, au moins un tiers d'entre elles. Pour le calcul de la majorité, les établissements publics de
 coopération intercommunale comptent pour autant de communes qu'ils comprennent de communes membres. 
 
-IV.-Le projet de périmètre est communiqué au préfet. Ce dernier recueille l'avis du ou des conseils généraux concernés. Cet
+IV. ― Le projet de périmètre est communiqué au préfet. Ce dernier recueille l'avis du ou des conseils généraux concernés. Cet
 avis est réputé positif s'il n'a pas été formulé dans un délai de trois mois. Le préfet publie par arrêté le périmètre du
 schéma de cohérence territoriale après avoir vérifié, en tenant compte des situations locales et éventuellement des autres
 périmètres arrêtés ou proposés, que le périmètre retenu permet la mise en cohérence des questions d'urbanisme, d'habitat, de
@@ -3309,6 +3328,13 @@ Lorsque le schéma de cohérence territoriale englobe une ou des communes littor
 mentionné à l'article L. 122-4 décide d'élaborer un chapitre individualisé valant schéma de mise en valeur de la mer, le
 préfet est consulté sur la compatibilité du périmètre de ce schéma avec les enjeux d'aménagement, de protection et de mise en
 valeur du littoral.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
+départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
+s'appliquera aux élections organisées en mars 2015 à l'occasion du prochain renouvellement général des conseils
+départementaux, y compris aux opérations préparatoires à ce scrutin (date indéterminée).
 
 **Liens relatifs à cet article**
 
@@ -3330,15 +3356,12 @@ valeur du littoral.
 
 	**Modifié par**:
 
-	  - Loi n°2005-157 du 23 février 2005 - art. 235 () JORF 24 février 2005
+	  - Loi n°2010-874 du 27 juillet 2010 - art. 51 (V)
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L122-4 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+	  - Code rural - art. L112-1-1 (V)
+	  - Code de l'urbanisme - art. L122-4 (VT)
 
 
 ###### Article L122-4
@@ -6299,14 +6322,21 @@ Les cartes communales respectent les principes énoncés aux articles L. 110 et 
 
 Elles délimitent les secteurs où les constructions sont autorisées et les secteurs où les constructions ne sont pas admises,
 à l'exception de l'adaptation, du changement de destination, de la réfection ou de l'extension des constructions existantes
-ou des constructions et installations nécessaires à des équipements collectifs, à l'exploitation agricole ou forestière et à
-la mise en valeur des ressources naturelles. 
+ou des constructions et installations nécessaires à des équipements collectifs dès lors qu'elles ne sont pas incompatibles
+avec l'exercice d'une activité agricole, pastorale ou forestière sur le terrain sur lequel elles sont implantées et qu'elles
+ne portent pas atteinte à la sauvegarde des espaces naturels et des paysages, à l'exploitation agricole ou forestière et à la
+mise en valeur des ressources naturelles. 
 
 Les cartes communales sont approuvées, après enquête publique réalisée conformément au chapitre III du titre II du livre Ier
-du code de l'environnement , par le conseil municipal et le préfet. Elles sont approuvées par délibération du conseil
-municipal puis transmises pour approbation au préfet, qui dispose d'un délai de deux mois pour les approuver.A l'expiration
-de ce délai, le préfet est réputé les avoir approuvées. Les cartes communales approuvées sont tenues à la disposition du
-public. 
+du code de l'environnement, consultation de la chambre d'agriculture et avis de la commission départementale de la
+consommation des espaces agricoles prévue à l'article L. 112-1-1 du code rural et de la pêche maritime, par le conseil
+municipal et le préfet. Cette commission rend son avis au plus tard deux mois après la transmission du projet de carte par le
+maire. A défaut, cet avis est réputé favorable. Les cartes communales sont approuvées par délibération du conseil municipal,
+puis transmises par le maire au préfet qui dispose d'un délai de deux mois pour les approuver. A l'expiration de ce délai, le
+préfet est réputé avoir approuvé la carte. La carte approuvée est tenue à disposition du public. Le projet de révision d'une
+carte communale concernant une commune située en dehors du périmètre d'un schéma de cohérence territoriale approuvé et ayant
+pour conséquence une réduction des surfaces des zones agricoles est soumis pour avis, par la commune, à la commission
+départementale de la consommation des espaces agricoles. 
 
 Elles doivent être compatibles, s'il y a lieu, avec les dispositions du schéma de cohérence territoriale, du schéma de
 secteur, du schéma de mise en valeur de la mer, de la charte du parc naturel régional ou du parc national, ainsi que du plan
@@ -6324,9 +6354,15 @@ rendue compatible dans un délai de trois ans.
 
 **Nota:**
 
-Ces dispositions s'appliquent aux projets, plans, programmes ou autres documents de planification pour lesquels l'arrêté
-d'ouverture et d'organisation de l'enquête publique est publié à compter du premier jour du sixième mois après la publication
-du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environnement.
+Ordonnance n° 2012-11 du 5 janvier 2012 article 19 : Les présentes dispositions entrent en vigueur à une date déterminée par
+décret en Conseil d'Etat et au plus tard le 1er janvier 2013. Toutefois, les dispositions en vigueur antérieurement à
+l'entrée en vigueur de l'ordonnance demeurent applicables :
+
+- aux procédures d'élaboration et de révision des schémas de cohérence territoriale et des plans locaux d'urbanisme
+prescrites à cette même date ;
+
+- aux procédures de modification des schémas de cohérence territoriale et des plans locaux d'urbanisme lorsque le projet de
+modification a été notifié aux personnes publiques associées à la date d'entrée en vigueur de l'ordonnance ;
 
 **Liens relatifs à cet article**
 
@@ -6346,8 +6382,16 @@ du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environn
 
 	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 221
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 240
+	  - Loi n°2010-874 du 27 juillet 2010 - art. 51 (V)
+
+	**Cite**:
+
+	  - Code rural - art. L112-1-1 (V)
+	  - Code de l'urbanisme - art. L110
+	  - Code de l'urbanisme - art. L121-1
+	  - Code de l'environnement - art. L212-1 (V)
+	  - Code de l'environnement - art. L212-3 (V)
+	  - Code de l'environnement - art. L566-7 (V)
 
 	**Liens**:
 
