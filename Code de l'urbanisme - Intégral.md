@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2011-01-28
+Version Consolidée au 2011-02-19
 
 # Partie législative
 
@@ -59454,27 +59454,34 @@ article, enregistré par la direction générale de la modernisation de l'Etat s
 
 La déclaration préalable portant sur un projet de construction prévue aux articles R. 421-9 à R. 421-12 et R. 421-17 est
 établie conformément au formulaire annexé au présent titre, enregistré par la direction générale de la modernisation de
-l'Etat sous le numéro CERFA 13404*01.
+l'Etat sous le numéro CERFA 13404*01. 
+
+Lorsque les travaux portent sur une maison individuelle ou ses annexes, la déclaration préalable peut être établie
+conformément au formulaire enregistré par la direction générale de la modernisation de l'Etat sous le numéro CERFA 13703*01. 
+
+Ces formulaires sont disponibles sur le site internet de la direction générale de la modernisation de l'Etat :  http :// www.
+service-public. fr, ainsi que sur le site internet du ministère chargé de l'urbanisme :  http :// www. developpement-durable.
+gouv. fr.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
-
 	**Codifié par**:
 
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+	  - Décret n°77-38 du 3 janvier 1977
+
+	**Modifié par**:
+
+	  - Arrêté du 10 février 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. *R421-17
+	  - Code de l'urbanisme - art. R421-9
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. A431-2 (V)
 	  - Code de l'urbanisme - art. A431-3 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R421-17 (Ab)
-	  - Code de l'urbanisme R421-9 à R421-12, R421-17
 
 
 ###### Article A431-2
@@ -59757,27 +59764,34 @@ accessibles sur le site internet du ministère chargé de l'urbanisme.
 
 La déclaration préalable portant sur un projet d'aménagement prévue aux articles R. 421-23 à R. 421-25 est établie
 conformément au formulaire annexé au présent titre, enregistré par la direction générale de la modernisation de l'Etat sous
-le numéro Cerfa 13404*01.
+le numéro Cerfa 13404*01. 
+
+Lorsque la déclaration préalable porte sur un lotissement ou une division foncière, elle peut être établie conformément au
+formulaire enregistré par la direction générale de la modernisation de l'Etat sous le numéro Cerfa 13702*01. 
+
+Ces formulaires sont disponibles sur le site internet de la direction générale de la modernisation de l'Etat :  http://
+www.service-public.fr, ainsi que sur le site internet du ministère chargé de l'urbanisme :  http://www.developpement-
+durable.gouv.fr.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
-
 	**Codifié par**:
 
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+	  - Décret n°77-38 du 3 janvier 1977
+
+	**Modifié par**:
+
+	  - Arrêté du 10 février 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. *R421-23
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. A441-2 (V)
 	  - Code de l'urbanisme - art. A441-3 (V)
 	  - Code de l'urbanisme - art. A442-1 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R421-23 à R421-25
 
 
 ###### Article A441-2
