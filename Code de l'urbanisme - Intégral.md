@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2011-02-19
+Version Consolidée au 2011-03-01
 
 # Partie législative
 
@@ -378,11 +378,11 @@ administrative peut, par arrêté pris dans des conditions fixées par décret e
 l'intérieur duquel l'exécution de travaux de la nature de ceux visés à l'article L. 421-1 est soumise à des règles
 particulières rendues nécessaires par l'existence d'installations classées pour la protection de l'environnement ou de
 stockage souterrain de gaz naturel, d'hydrocarbures liquides, liquéfiés ou gazeux ou de produits chimiques à destination
-industrielle.
+industrielle. 
 
 Ces dispositions ne sont pas applicables aux installations classées bénéficiant de l'application des articles L. 515-8 à L.
 515-12 du code de l'environnement ainsi qu'aux stockages souterrains visés à l'alinéa précédent bénéficiant de l'application
-du II de l'article 104-3 du code minier.
+du deuxième alinéa de l'article L. 264-1 du code minier. 
 
 Le permis de construire mentionne explicitement, le cas échéant, les servitudes instituées en application des dispositions
 précitées du code de l'environnement et du code minier.
@@ -393,9 +393,9 @@ précitées du code de l'environnement et du code minier.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 1 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 12
 
 	**Cité par**:
 
@@ -403,11 +403,19 @@ précitées du code de l'environnement et du code minier.
 	  - Code de l'environnement - art. L514-6 (V)
 	  - Code minier - art. 104-3 (VT)
 
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L112-1 (VD)
+	  - Code de l'urbanisme - art. L112-2 (VD)
+
 	**Cite**:
 
-	  - Code minier 104-3
-	  - Code de l'urbanisme - art. L421-1 (M)
-	  - Code de l'environnement L515-8 à L515-12
+	  - Code de l'urbanisme - art. L421-1
+	  - Code de l'environnement - art. L515-8
 
 	**Codifié par**:
 
