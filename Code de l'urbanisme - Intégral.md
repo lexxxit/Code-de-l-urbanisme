@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2011-03-01
+Version Consolidée au 2011-03-31
 
 # Partie législative
 
@@ -25677,21 +25677,25 @@ village ou de commune, les plans locaux d'urbanisme et les cartes communales doi
 
 ###### Article L713-1
 
-Les articles L. 160-1 à L. 160-5 sont applicables à Mayotte.
+Les articles L. 160-1 à L. 160-8 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Ordonnance n°2005-868 du 28 juillet 2005 - art. 1 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
-
 	**Cite**:
 
-	  - Code de l'urbanisme L160-1 à L160-5
+	  - Code de l'urbanisme - art. L160-1
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08 JORF 13 novembre 1973
+
+	**Modifié par**:
+
+	  - Loi n°2010-1487 du 7 décembre 2010 - art. 26
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-787 du 31 mai 2012 - art. 7 (VD)
 
 
 ### Titre II : Préemption et réserves foncières
