@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2011-04-20
+Version Consolidée au 2011-05-19
 
 # Partie législative
 
@@ -313,7 +313,10 @@ En dehors des espaces urbanisés des communes, les constructions ou installation
 mètres de part et d'autre de l'axe des autoroutes, des routes express et des déviations au sens du code de la voirie routière
 et de soixante-quinze mètres de part et d'autre de l'axe des autres routes classées à grande circulation. 
 
-Cette interdiction ne s'applique pas :
+Cette interdiction s'applique également dans une bande de soixante-quinze mètres de part et d'autre des routes visées au
+dernier alinéa du III de l'article L. 122-1-5. 
+
+Elle ne s'applique pas :
 
 - aux constructions ou installations liées ou nécessaires aux infrastructures routières ;
 
@@ -326,8 +329,8 @@ Cette interdiction ne s'applique pas :
 Elle ne s'applique pas non plus à l'adaptation, au changement de destination, à la réfection ou à l'extension de
 constructions existantes. Un règlement local de publicité pris en application de l'article L. 581-14 du code de
 l'environnement est établi par l'établissement public de coopération intercommunale compétent en matière de plan local
-d'urbanisme ou la commune.L'élaboration et l'approbation des dispositions d'urbanisme et du règlement local de publicité font
-l'objet d'une procédure unique et d'une même enquête publique. 
+d'urbanisme ou la commune. L'élaboration et l'approbation des dispositions d'urbanisme et du règlement local de publicité
+font l'objet d'une procédure unique et d'une même enquête publique. 
 
 Le plan local d'urbanisme, ou un document d'urbanisme en tenant lieu, peut fixer des règles d'implantation différentes de
 celles prévues par le présent article lorsqu'il comporte une étude justifiant, en fonction des spécificités locales, que ces
@@ -364,11 +367,11 @@ lors que l'intérêt que représente pour la commune l'installation ou la constr
 
 	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 47
+	  - Loi n°2011-525 du 17 mai 2011 - art. 124
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L581-14 (V)
+	  - Code de l'environnement - art. L581-14
 
 
 ###### Article L111-1-5
@@ -1623,12 +1626,14 @@ permettant d'assurer, dans le respect des objectifs du développement durable :
 1° L'équilibre entre : 
 
 a) Le renouvellement urbain, le développement urbain maîtrisé, la restructuration des espaces urbanisés, la revitalisation
-des centres urbains et ruraux, la mise en valeur des entrées de ville et le développement rural ; 
+des centres urbains et ruraux             ; 
 
 b) L'utilisation économe des espaces naturels, la préservation des espaces affectés aux activités agricoles et forestières,
 et la protection des sites, des milieux et paysages naturels ; 
 
 c) La sauvegarde des ensembles urbains et du patrimoine bâti remarquables ; 
+
+1° bis La qualité urbaine, architecturale et paysagère des entrées de ville ;  
 
 2° La diversité des fonctions urbaines et rurales et la mixité sociale dans l'habitat, en prévoyant des capacités de
 construction et de réhabilitation suffisantes pour la satisfaction, sans discrimination, des besoins présents et futurs en
@@ -1679,7 +1684,7 @@ la prévention des risques naturels prévisibles, des risques technologiques, de
 
 	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 14
+	  - Loi n°2011-525 du 17 mai 2011 - art. 123
 
 
 ###### Article L121-2
@@ -1780,30 +1785,26 @@ sur le territoire des communes où ils exercent leur compétence et appartenant 
 
 Les communes, les établissements publics de coopération intercommunale et les collectivités territoriales peuvent créer avec
 l'Etat et les établissements publics ou autres organismes qui contribuent à l'aménagement et au développement de leur
-territoire des organismes de réflexion et d'études appelés "agences d'urbanisme". Ces agences ont notamment pour mission de
+territoire des organismes de réflexion et d'études appelés " agences d'urbanisme ". Ces agences ont notamment pour mission de
 suivre les évolutions urbaines, de participer à la définition des politiques d'aménagement et de développement, à
 l'élaboration des documents d'urbanisme, notamment des schémas de cohérence territoriale, et de préparer les projets
 d'agglomération dans un souci d'harmonisation des politiques publiques. Elles peuvent prendre la forme d'association ou de
-groupement d'intérêt public. Ces derniers sont soumis aux dispositions de l'article 21 de la loi n° 82-610 du 15 juillet 1982
-d'orientation et de programmation pour la recherche et le développement technologique de la France. Ils peuvent recruter du
-personnel propre régi par les dispositions du code du travail.
+groupement d'intérêt public. Ces derniers sont soumis aux dispositions du chapitre II de la loi n° 2011-525 du 17 mai 2011 de
+simplification et d'amélioration de la qualité du droit. Ils peuvent recruter du personnel propre régi par les dispositions
+du code du travail. 
 
 Un commissaire du Gouvernement est nommé auprès du groupement lorsque la part de la participation de l'Etat excède un montant
 déterminé par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
 	**Cite**:
 
-	  - Loi n°82-610 1982-07-15 art. 21
+	  - Loi n°2011-525 du 17 mai 2011
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 3 () JORF 5 juin 2004
+	  - Loi n°2011-525 du 17 mai 2011 - art. 119
 
 	**Cité par**:
 
@@ -1814,9 +1815,9 @@ déterminé par décret en Conseil d'Etat.
 	  - Code de la construction et de l'habitation. - art. L441-2-8 (V)
 	  - Livre des procédures fiscales - art. L135 B (V)
 
-	**Liens**:
+	**Codifié par**:
 
-	  - TXT_SOURCE: Directive 2001-42 2001-06-27
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
 ###### Article L121-4
@@ -2739,6 +2740,9 @@ urbanisés qui le nécessitent.
 Il peut déterminer des secteurs dans lesquels l'ouverture de nouvelles zones à l'urbanisation est subordonnée à leur desserte
 par les transports collectifs. 
 
+Il peut étendre l'application de l'article L. 111-1-4 à d'autres routes que celles mentionnées au premier alinéa dudit
+article. 
+
 IV. ― Pour la réalisation des objectifs définis à l'article L. 122-1-4, il peut, en fonction des circonstances locales,
 imposer préalablement à toute ouverture à l'urbanisation d'un secteur nouveau : 
 
@@ -2746,7 +2750,7 @@ imposer préalablement à toute ouverture à l'urbanisation d'un secteur nouveau
 
 2° La réalisation d'une étude d'impact prévue par l'article L. 122-1 du code de l'environnement ; 
 
-3° La réalisation d'une étude de densification des zones déjà urbanisées.
+3° La réalisation d'une étude de densification des zones déjà urbanisées. 
 
 V. ― Il peut définir des secteurs dans lesquels l'ouverture de nouvelles zones à l'urbanisation est subordonnée à
 l'obligation pour les constructions, travaux, installations et aménagements de respecter : 
@@ -2793,6 +2797,10 @@ public de coopération intercommunale avant la date prévue à l'alinéa précé
 
 	  - Loi n°2010-788 du 12 juillet 2010 - art. 17 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2011-525 du 17 mai 2011 - art. 124
+
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. L111-1-4 (VT)
@@ -2803,8 +2811,8 @@ public de coopération intercommunale avant la date prévue à l'alinéa précé
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L111-4 (V)
-	  - Code de l'environnement - art. L122-1 (V)
+	  - Code de l'urbanisme - art. L111-4
+	  - Code de l'environnement - art. L122-1
 
 
 ###### Article L122-1-6
@@ -5743,6 +5751,9 @@ c) Font apparaître des incompatibilités manifestes avec l'utilisation ou l'aff
 
 c bis) Sont manifestement contraires au programme d'action visé à l'article L. 141-7 ; 
 
+c bis a) Comprennent des dispositions applicables aux entrées de ville incompatibles avec la prise en compte des nuisances,
+de la sécurité, de la qualité urbaine, architecturale et paysagère ;
+
 d) Sont de nature à compromettre la réalisation d'une directive territoriale d'aménagement maintenue en vigueur après la
 publication de la loi n° 2010-788 du 12 juillet 2010 précitée, d'un programme local de l'habitat, d'un schéma de cohérence
 territoriale, d'un schéma de secteur ou d'un schéma de mise en valeur de la mer en cours d'établissement ; 
@@ -5756,7 +5767,7 @@ f) Font apparaître une ou des incompatibilités manifestes avec le programme lo
 
 	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+	  - Loi n°2011-525 du 17 mai 2011 - art. 123
 
 	**Cité par**:
 
@@ -5767,9 +5778,9 @@ f) Font apparaître une ou des incompatibilités manifestes avec le programme lo
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L110 (V)
+	  - Code de l'urbanisme - art. L110
 	  - Code de l'urbanisme - art. L111-1-1
-	  - Code de l'urbanisme - art. L121-1 (V)
+	  - Code de l'urbanisme - art. L121-1
 	  - Code de l'urbanisme - art. L141-7
 	  - Code de l'urbanisme - art. L145-7
 
@@ -13790,7 +13801,7 @@ intercommunale compétent est favorable, par décret en Conseil d'Etat dans le c
 
 III.-Les dispositions applicables aux plans locaux d'urbanisme le sont également aux plans de sauvegarde et de mise en valeur
 à l'exception de l'article L. 123-1-3, du premier alinéa de l'article L. 123-6, des articles L. 123-7 à L. 123-16 et des
-trois derniers alinéas de l'article L. 130-2.
+trois derniers alinéas de l'article L. 130-2. 
 
 Le plan de sauvegarde et de mise en valeur peut en outre comporter l'indication des immeubles ou parties intérieures ou
 extérieures d'immeubles : 
@@ -13807,7 +13818,7 @@ dispositions qui ne sont pas compatibles avec le projet d'aménagement et de dé
 il ne peut être approuvé que si l'enquête publique, organisée par le préfet conformément aux dispositions du chapitre III du
 titre II du livre Ier du code de l'environnement, après accord de la commune ou de l'établissement public de coopération
 intercommunale compétent, a porté à la fois sur le projet de plan de sauvegarde et de mise en valeur et sur la modification
-ou la révision du plan local d'urbanisme.L'approbation du plan de sauvegarde et de mise en valeur emporte alors modification
+ou la révision du plan local d'urbanisme. L'approbation du plan de sauvegarde et de mise en valeur emporte alors modification
 ou révision du plan local d'urbanisme. 
 
 La révision du plan de sauvegarde et de mise en valeur a lieu dans les formes prévues pour son établissement. 
@@ -13815,7 +13826,7 @@ La révision du plan de sauvegarde et de mise en valeur a lieu dans les formes p
 Le plan de sauvegarde et de mise en valeur peut également être modifié à condition que la modification envisagée ne porte pas
 atteinte à son économie générale ou ne réduise pas un espace boisé classé. 
 
-La modification est décidée par l'autorité administrative, à la demande ou après consultation du conseil municipal de la
+La modification est approuvée par l'autorité administrative, à la demande ou après consultation du conseil municipal de la
 commune ou de l'organe délibérant de l'établissement public de coopération intercommunale compétent, après avis de la
 commission locale du secteur sauvegardé et enquête publique réalisée conformément aux dispositions du chapitre III du titre
 II du livre Ier du code de l'environnement.
@@ -13876,17 +13887,15 @@ II du livre Ier du code de l'environnement.
 
 	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+	  - Loi n°2011-525 du 17 mai 2011 - art. 134 (V)
 
 	**Cite**:
 
-	  - Code de l'urbanisme
-	  - Code de l'urbanisme - art. L123-1
-	  - Code de l'urbanisme - art. L123-1-3 (VT)
-	  - Code de l'urbanisme - art. L123-13 (V)
+	  - Code de l'urbanisme - art. L123-1-3 (V)
+	  - Code de l'urbanisme - art. L123-13
 	  - Code de l'urbanisme - art. L123-6
-	  - Code de l'urbanisme - art. L123-7 (VT)
-	  - Code de l'urbanisme - art. L130-2 (V)
+	  - Code de l'urbanisme - art. L123-7
+	  - Code de l'urbanisme - art. L130-2
 
 	**Liens**:
 
@@ -23153,9 +23162,8 @@ et 10 du présent article, il reçoit, au lieu et place du maire, les avis et no
 
 ###### Article L480-3
 
-En cas de continuation des travaux nonobstant la décision judiciaire ou l'arrêté en ordonnant l'interruption, une amende de
-75 000 euros et un emprisonnement de trois mois, ou l'une de ces deux peines seulement, sont prononcés par le tribunal contre
-les personnes visées à l'article L. 480-4 (2. alinéa).
+En cas de continuation des travaux nonobstant la décision judiciaire ou l'arrêté en ordonnant l'interruption, les personnes
+visées au deuxième alinéa de l'article L. 480-4 encourent une amende de 75 000 € et une peine de trois mois d'emprisonnement.
 
 **Nota:**
 
@@ -23181,19 +23189,13 @@ les personnes visées à l'article L. 480-4 (2. alinéa).
 	  - Code rural - art. L242-23 (Ab)
 	  - Loi n°1930-05-02 du 2 mai 1930 - art. 21 (Ab)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+	  - Loi n°2011-525 du 17 mai 2011 - art. 160
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code de l'urbanisme 102-1
+	  - Code de l'urbanisme - art. L480-4
 
 	**Codifié par**:
 
