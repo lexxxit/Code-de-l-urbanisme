@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2011-05-19
+Version Consolidée au 2011-05-21
 
 # Partie législative
 
@@ -52483,35 +52483,41 @@ procédé à ces transferts.
 
 ###### Article R431-16
 
-Le dossier joint à la demande de permis de construire comprend en outre, selon les cas :
+Le dossier joint à la demande de permis de construire comprend en outre, selon les cas : 
 
-a) L'étude d'impact, lorsqu'elle est prévue en application du code de l'environnement ;
+a) L'étude d'impact, lorsqu'elle est prévue en application du code de l'environnement ; 
 
 b) Dans les cas prévus par les 4° et 5° de l'article R. 111-38 du code de la construction et de l'habitation, un document
 établi par un contrôleur technique mentionné à l'article L. 111-23 de ce code, attestant qu'il a fait connaître au maître
 d'ouvrage son avis sur la prise en compte, au stade de la conception, des règles parasismiques et paracycloniques prévues par
-l'article L. 563-1 du code de l'environnement ;
+l'article L. 563-1 du code de l'environnement ; 
 
 c) Lorsque la construction projetée est subordonnée par un plan de prévention des risques naturels prévisibles approuvé, ou
 rendu immédiatement opposable en application de l'article L. 562-2 du code de l'environnement, ou par un plan de prévention
 des risques technologiques approuvé, à la réalisation d'une étude préalable permettant d'en déterminer les conditions de
 réalisation, d'utilisation ou d'exploitation, une attestation établie par l'architecte du projet ou par un expert agréé
 certifiant la réalisation de cette étude et constatant que le projet prend en compte ces conditions au stade de la
-conception ;
+conception ; 
 
-d) L'agrément prévu à l'article L. 510-1, lorsqu'il est exigé ;
+d) L'agrément prévu à l'article L. 510-1, lorsqu'il est exigé ; 
 
 e) Une notice précisant l'activité économique qui doit être exercée dans le bâtiment et justifiant, s'il y a lieu, que cette
 activité répond aux critères définis par l'article R. 146-2, lorsque la demande concerne un projet de construction visé au d
-de cet article et situé dans un espace remarquable ou dans un milieu à préserver d'une commune littorale ;
+de cet article et situé dans un espace remarquable ou dans un milieu à préserver d'une commune littorale ; 
 
-f) L'étude de sécurité publique, lorsqu'elle est exigée en application de l'article R. 111-48.
+f) L'étude de sécurité publique, lorsqu'elle est exigée en application de l'article R. 111-48 ; 
+
+g) Lorsque le projet est tenu de respecter les dispositions mentionnées à l'article R. 111-20 du code de la construction et
+de l'habitation, un document établi par le maître d'ouvrage attestant la prise en compte de la réglementation thermique, en
+application de l'article R. 111-20-1 de ce code, et pour les projets concernés par le cinquième alinéa de l'article L. 111-9
+du même code la réalisation de l'étude de faisabilité relative aux approvisionnements en énergie en application de l'article
+R. 111-20-2 dudit code.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2007-1177 du 3 août 2007 - art. 4 () JORF 5 août 2007 en vigueur le 1er octobre 2007
+	  - Décret n°2011-544 du 18 mai 2011 - art. 2
 
 	**Cité par**:
 
@@ -52527,11 +52533,9 @@ f) L'étude de sécurité publique, lorsqu'elle est exigée en application de l'
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L510-1 (M)
-	  - Code de l'urbanisme - art. R111-48 (V)
-	  - Code de l'urbanisme - art. R146-2 (M)
-	  - Code de la construction et de l'habitation R111-38, L111-23
-	  - Code de l'environnement - art. L563-1 (M)
+	  - Code de la construction et de l'habitation. - art. R111-38
+	  - Code de l'environnement - art. L562-2
+	  - Code de l'environnement - art. L563-1
 
 	**Codifié par**:
 
@@ -54610,6 +54614,30 @@ construction parasismiques et paracycloniques prévues par l'article L. 563-1 du
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R462-4-1
+
+Dans les cas prévus à l'article R. 111-20 du code de la construction et de l'habitation, la déclaration d'achèvement est
+accompagnée d'un document établi par l'une des personnes habilitées, telles que mentionnées à l'article R. 111-20-4 de ce
+code, attestant, pour chaque bâtiment concerné, la prise en compte de la réglementation thermique par le maître d'œuvre ou
+par le maître d'ouvrage, selon les cas prévus par l'article R. 111-20-3 du même code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-544 du 18 mai 2011 - art. 3
+
+	**Cité par**:
+
+	  - Décret n°2011-544 du 18 mai 2011 - art. 4 (V)
+	  - Code de la construction et de l'habitation. - art. R111-20-3 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R*111-20
+	  - Code de la construction et de l'habitation. - art. R111-20-4
 
 
 ###### Article R462-5
