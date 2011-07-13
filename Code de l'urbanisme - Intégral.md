@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2011-06-23
+Version Consolidée au 2011-07-14
 
 # Partie législative
 
@@ -28141,6 +28141,64 @@ plus de 10 % de l'emprise au sol ou modifiant les accès sur la voie publique.
 	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 
+#####  Section 7 : Dispositions favorisant la performance environnementale et les énergies renouvelables dans les constructions
+
+###### Article R*111-50-1
+
+La délibération par laquelle, en application du troisième alinéa de l'article L. 111-6-2, la commune ou l'établissement
+public de coopération intercommunale compétent délimite un périmètre dans lequel les dispositions du premier alinéa de cet
+article ne s'appliquent pas fait l'objet des procédures d'association du public et de publicité prévues par les articles R. *
+123-20-2 et R. * 123-25.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-830 du 12 juillet 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L111-6-2
+	  - Code de l'urbanisme - art. R*123-20-2
+	  - Code de l'urbanisme - art. R*123-25
+
+
+###### Article R111-50
+
+Pour l'application de l'article L. 111-6-2, les dispositifs, matériaux ou procédés sont : 
+
+1° Les matériaux d'isolation thermique des parois opaques des constructions et, notamment, le bois et les végétaux en façade
+ou en toiture ; 
+
+2° Les portes, portes-fenêtres et volets isolants définis par un arrêté du ministre chargé de l'urbanisme ; 
+
+3° Les systèmes de production d'énergie à partir de sources renouvelables, lorsqu'ils correspondent aux besoins de la
+consommation domestique des occupants de l'immeuble ou de la partie d'immeuble concernée. Un arrêté du ministre chargé de
+l'urbanisme précise les critères d'appréciation des besoins de consommation précités ; 
+
+4° Les équipements de récupération des eaux de pluie, lorsqu'ils correspondent aux besoins de la consommation domestique des
+occupants de l'immeuble ou de la partie d'immeuble concernée ; 
+
+5° Les pompes à chaleur ; 
+
+6° Les brise-soleils.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-830 du 12 juillet 2011 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 19 décembre 2014 - art. 1 (V)
+	  - Code de l'urbanisme - art. R*431-18-1 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L111-6-2
+
+
 #### Chapitre II : Plafond légal de densité.
 
 ###### Article R*112-1
@@ -30332,7 +30390,7 @@ rédaction issue de la même loi ;
 suivants, ainsi que les périmètres provisoires ou définitifs des zones d'aménagement différé ; 
 
 5° Les zones délimitées en application du e de l'article L. 430-1 à l'intérieur desquelles s'appliquent les dispositions
-relatives au permis de démolir prévues aux articles L. 430-2 et suivants ; 
+relatives au permis de démolir prévues aux articles L. 430-2 et suivants (1) ; 
 
 6° Les périmètres de développement prioritaires délimités en application de la loi n° 80-531 du 15 juillet 1980 relative aux
 économies d'énergie et à l'utilisation de la chaleur ; 
@@ -30368,7 +30426,21 @@ intercommunale compétent a autorisé un dépassement des règles du plan local 
 123-1-1 et L. 127-1. La délibération qui précise les limites de ce dépassement est jointe au document graphique faisant
 apparaître ces secteurs ; 
 
-17° Les périmètres fixés par les conventions de projet urbain partenarial visées à l'article L. 332-11-3.
+17° Les périmètres fixés par les conventions de projet urbain partenarial visées à l'article L. 332-11-3 ; 
+
+18° Les secteurs où une délibération du conseil municipal ou de l'organe délibérant de l'établissement public de coopération
+intercommunale compétent a autorisé, pour les constructions respectant les critères de performance énergétique prévus par
+l'article R. 111-21 du code de la construction et de l'habitation, un dépassement des règles du plan local d'urbanisme en
+application de l'article L. 128-1. La délibération qui précise les limites de ce dépassement est jointe au document graphique
+faisant apparaître ces secteurs. 
+
+19° Les périmètres délimités par une délibération du conseil municipal ou de l'organe délibérant de l'établissement public de
+coopération intercommunale compétent dans lesquels le premier alinéa de l'article L. 111-6-2 ne s'applique pas.
+
+**Nota:**
+
+Les articles L. 430-1 à L. 430-9 du code de l'urbanisme ont été abrogés par l'article 15 II l'ordonnance n° 2005-1527 du 8
+décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -30380,8 +30452,10 @@ apparaître ces secteurs ;
 	  - Code minier - art. 109
 	  - Code de l'urbanisme - art. L111-10
 	  - Code de l'urbanisme - art. L111-5-2
+	  - Code de l'urbanisme - art. L111-6-2
 	  - Code de l'urbanisme - art. L123-1-1
 	  - Code de l'urbanisme - art. L127-1
+	  - Code de l'urbanisme - art. L128-1
 	  - Code de l'urbanisme - art. L142-1
 	  - Code de l'urbanisme - art. L142-3
 	  - Code de l'urbanisme - art. L143-1
@@ -30389,11 +30463,12 @@ apparaître ces secteurs ;
 	  - Code de l'urbanisme - art. L313-1
 	  - Code de l'urbanisme - art. L332-11-3
 	  - Code de l'urbanisme - art. L332-9
+	  - Code de l'urbanisme - art. R111-21
 	  - Code de l'environnement - art. L571-10
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+	  - Décret n°2011-830 du 12 juillet 2011 - art. 2
 
 	**Cité par**:
 
@@ -31623,6 +31698,33 @@ La zone 3 est constituée des communes métropolitaines qui ne sont comprises ni
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+#### Chapitre VIII : Dispositions favorisant la performance énergétique et les énergies renouvelables dans l'habitat
+
+###### Article R*128-1
+
+La délibération par laquelle, en application des articles L. 128-1 et L. 128-2, la commune ou l'établissement public de
+coopération intercommunale compétent autorise, module ou supprime un dépassement des règles du plan local d'urbanisme ou du
+document d'urbanisme en tenant lieu fait l'objet des procédures d'association du public et de publicité prévues par les
+articles R. * 123-20-2 et R. * 123-25.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-830 du 12 juillet 2011 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2013-142 du 14 février 2013 - art. 8
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L128-1
+	  - Code de l'urbanisme - art. L128-2
+	  - Code de l'urbanisme - art. R*123-20-2
+	  - Code de l'urbanisme - art. R*123-25
 
 
 ### Titre III : Espaces boisés
@@ -51828,6 +51930,28 @@ le projet respecte les critères de performance énergétique définis par cet a
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R*431-18-1
+
+Lorsque la demande de permis de construire porte sur un projet comportant l'installation de portes, de portes-fenêtres ou de
+volets isolants ou de systèmes de production d'énergie à partir de sources renouvelables alors que des dispositions
+d'urbanisme s'opposent à leur installation, le demandeur joint au dossier un document par lequel il atteste que ces
+dispositifs sont conformes aux dispositions de l'arrêté visé aux 2° et 3° de l'article R. 111-50.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-830 du 12 juillet 2011 - art. 4
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*431-36 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R111-50
+
+
 ###### Article R*431-19
 
 Lorsque les travaux projetés nécessitent une autorisation de défrichement en application des articles L. 311-1 ou L. 312-1 du
@@ -52362,13 +52486,13 @@ c) Une représentation de l'aspect extérieur de la construction faisant appara�
 a pour effet de modifier celui-ci. 
 
 Il est complété, s'il y a lieu, par les documents mentionnés aux articles R. 431-14 et R. 431-15, au e de l'article R. 431-16
-et aux articles R. 431-10, R. 431-21, R. 431-25, R. 431-31, R. 431-32 et R. 431-33.
+et aux articles R. 431-10, R. * 431-18, R. * 431-18-1, R. 431-21, R. 431-25, R. 431-31, R. 431-32 et R. 431-33.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-723 du 18 juin 2009 - art. 1
+	  - Décret n°2011-830 du 12 juillet 2011 - art. 5
 
 	**Cité par**:
 
@@ -52378,6 +52502,8 @@ et aux articles R. 431-10, R. 431-21, R. 431-25, R. 431-31, R. 431-32 et R. 431-
 
 	  - Code de l'urbanisme - art. R*431-10
 	  - Code de l'urbanisme - art. R*431-14
+	  - Code de l'urbanisme - art. R*431-18
+	  - Code de l'urbanisme - art. R*431-18-1
 	  - Code de l'urbanisme - art. R*431-21
 	  - Code de l'urbanisme - art. R*431-25
 	  - Code de l'urbanisme - art. R*431-32
