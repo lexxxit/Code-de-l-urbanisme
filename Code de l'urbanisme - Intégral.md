@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2011-07-14
+Version Consolidée au 2011-08-27
 
 # Partie législative
 
@@ -37936,19 +37936,19 @@ Il en va de même des travaux et aménagements mentionnés à l'article R. 123-4
 ###### Article R*300-4
 
 Les dispositions de la présente sous-section sont applicables aux concessions d'aménagement lorsque le montant total des
-produits de l'opération d'aménagement concédée est égal ou supérieur au seuil mentionné pour les marchés de travaux au 2° du
-IV de l'article 40 du code des marchés publics et que le concessionnaire assume une part significative du risque économique
+produits de l'opération d'aménagement concédée est égal ou supérieur au seuil mentionné pour les marchés de travaux au 5° du
+II de l'article 26 du code des marchés publics et que le concessionnaire assume une part significative du risque économique
 de l'opération.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-889 du 22 juillet 2009 - art. 2
+	  - Décret n°2011-1000 du 25 août 2011 - art. 50
 
 	**Cite**:
 
-	  - Code des marchés publics - art. 40 (V)
+	  - Code des marchés publics - art. 26
 
 	**Cité par**:
 
@@ -38176,7 +38176,7 @@ choix des candidats.
 ###### Article R300-9-1
 
 1° Lorsque le montant total des produits de l'opération d'aménagement qui fait l'objet de la concession est égal ou supérieur
-au seuil mentionné pour les marchés de travaux par le 2° du IV de l'article 40 du code des marchés publics, la personne
+au seuil mentionné pour les marchés de travaux par le 5° du II de l'article 26 du code des marchés publics, la personne
 publique, dès qu'elle a fait son choix pour une candidature ou une offre, notifie à tous les autres candidats le rejet de
 leur candidature ou de leur offre, en leur indiquant les motifs de ce rejet. 
 
@@ -38201,17 +38201,21 @@ et la date de conclusion de la concession d'aménagement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1456 du 27 novembre 2009 - art. 25
+	  - Décret n°2011-1000 du 25 août 2011 - art. 50
 
 	**Cité par**:
 
 	  - Décret n°2016-86 du 1er février 2016 - art. 54
 
+	**Abrogé par**:
+
+	  - Décret n°2016-86 du 1er février 2016 - art. 54
+
 	**Cite**:
 
-	  - Code des marchés publics - art. 40
+	  - Code des marchés publics - art. 26
 	  - Code de justice administrative - art. L551-15
 	  - Code de l'urbanisme - art. R*300-5
 
@@ -38223,18 +38227,18 @@ et la date de conclusion de la concession d'aménagement.
 
 Les dispositions de la présente sous-section sont applicables aux concessions d'aménagement lorsque le montant total des
 produits de l'opération d'aménagement faisant l'objet du contrat est égal ou supérieur au seuil mentionné pour les marchés de
-travaux au 2° du IV de l'article 40 du code des marchés publics, sans présenter les autres caractéristiques mentionnées à
+travaux au 5° du II de l'article 26 du code des marchés publics, sans présenter les autres caractéristiques mentionnées à
 l'article R. * 300-4.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-889 du 22 juillet 2009 - art. 3
+	  - Décret n°2011-1000 du 25 août 2011 - art. 50
 
 	**Cite**:
 
-	  - Code des marchés publics - art. 40
+	  - Code des marchés publics - art. 26
 	  - Code de l'urbanisme - art. R*300-4
 
 	**Cité par**:
@@ -38378,7 +38382,7 @@ aux organes de publication qui ont publié l'avis mentionné à l'article R. 300
 ###### Article R300-11-5-1
 
 1° Lorsque le montant total des produits de l'opération d'aménagement qui fait l'objet de la concession est égal ou supérieur
-au seuil mentionné pour les marchés de travaux par le 2° du IV de l'article 40 du code des marchés publics, la personne
+au seuil mentionné pour les marchés de travaux par le 5° du II de l'article 26 du code des marchés publics, la personne
 publique, dès qu'elle a fait son choix pour une candidature ou une offre, notifie à tous les autres candidats le rejet de
 leur candidature ou de leur offre, en leur indiquant les motifs de ce rejet. 
 
@@ -38404,13 +38408,17 @@ la concession d'aménagement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1456 du 27 novembre 2009 - art. 26
+	  - Décret n°2011-1000 du 25 août 2011 - art. 50
+
+	**Abrogé par**:
+
+	  - Décret n°2016-360 du 25 mars 2016 - art. 182
 
 	**Cite**:
 
-	  - Code des marchés publics - art. 40
+	  - Code des marchés publics - art. 26
 	  - Code de justice administrative - art. L551-15
 	  - Code de l'urbanisme - art. R*300-11-5
 
