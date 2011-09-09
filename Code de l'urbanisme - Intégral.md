@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2011-08-27
+Version Consolidée au 2011-09-10
 
 # Partie législative
 
@@ -15143,51 +15143,33 @@ du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environn
 
 ### Titre II : Organismes d'exécution
 
-#### Chapitre I : Etablissements publics fonciers et d'aménagement.
+#### Chapitre Ier : Etablissements publics fonciers et d'aménagement de l'Etat
+
+##### Section 1 : Etablissements publics fonciers de l'Etat
 
 ###### Article L321-1
 
-Les établissements publics créés en application du présent chapitre sont compétents pour réaliser, pour leur compte ou, avec
-leur accord, pour le compte de l'Etat, d'une collectivité locale ou d'un autre établissement public, ou faire réaliser : 
+L'Etat peut créer des établissements publics fonciers en considération d'enjeux d'intérêt général en matière d'aménagement et
+de développement durable. 
 
-a) En ce qui concerne les établissements publics d'aménagement, toutes les opérations d'aménagement prévues par le présent
-code et les acquisitions foncières nécessaires aux opérations qu'ils réalisent ; 
+Les établissements publics fonciers mettent en place des stratégies foncières afin de mobiliser du foncier et de favoriser le
+développement durable et la lutte contre l'étalement urbain. Ces stratégies contribuent à la réalisation de logements,
+notamment de logements sociaux, en tenant compte des priorités définies par les programmes locaux de l'habitat. 
 
-b) En ce qui concerne les établissements publics fonciers, les acquisitions foncières et les opérations immobilières et
-foncières de nature à faciliter l'aménagement ultérieur des terrains. Ces acquisitions et opérations sont réalisées dans le
-cadre de programmes pluriannuels adoptés par le conseil d'administration de ces établissements qui, tenant compte des
-priorités définies par les programmes locaux de l'habitat, déterminent les objectifs d'acquisitions destinées à la
-réalisation de logements locatifs sociaux. 
+Dans le cadre de leurs compétences, ils peuvent contribuer au développement des activités économiques, à la politique de
+protection contre les risques technologiques et naturels ainsi qu'à titre subsidiaire, à la préservation des espaces naturels
+et agricoles. 
 
-Les établissements publics créés avant la promulgation de la loi n° 2005-32 du 18 janvier 2005 de programmation pour la
-cohésion sociale restent soumis aux dispositions du présent article dans sa rédaction antérieure à ladite loi, sauf si leur
-statut est modifié pour les faire entrer dans le champ d'application du a ou du b du présent article. 
+Les établissements publics fonciers sont compétents pour réaliser toutes acquisitions foncières et immobilières dans le cadre
+de projets conduits par les personnes publiques et pour réaliser ou faire réaliser toutes les actions de nature à faciliter
+l'utilisation et l'aménagement ultérieur, au sens de l'article L. 300-1, des biens fonciers ou immobiliers acquis. 
 
-Lorsqu'ils procèdent à des opérations de restructuration urbaine, les établissements publics d'aménagement sont compétents
-pour réaliser ou faire réaliser, après avis des communes ou groupements de communes concernés, toutes opérations ou actions
-ou tous aménagements ou équipements de nature à favoriser une politique de développement social urbain telle que définie à
-l'article 1er de la loi n° 96-987 du 14 novembre 1996 relative à la mise en oeuvre du pacte de relance pour la ville, pouvant
-inclure des actions d'insertion professionnelle et sociale en faveur des habitants des grands ensembles ou quartiers
-d'habitat dégradé mentionnés au 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et
-le développement du territoire inclus dans leurs zones d'activité territoriale. 
+Ils sont compétents pour constituer des réserves foncières. 
 
-Les établissements publics d'aménagement qui mènent des opérations de restructuration urbaine dans les conditions prévues à
-l'alinéa précédent peuvent, par délégation de l'Etablissement public national pour l'aménagement et la restructuration des
-espaces commerciaux, assurer la maîtrise d'ouvrage des opérations définies à l'article L. 325-1 et accomplir les actes de
-disposition et d'administration définis à l'article L. 325-2.
+Les biens acquis par les établissements publics fonciers ont vocation à être cédés. 
 
-A l'intérieur des périmètres délimités en application de l'article L. 143-1, les établissements publics mentionnés aux
-troisième et quatrième alinéas peuvent procéder, après information des communes et des établissements publics de coopération
-intercommunale concernés, aux acquisitions foncières nécessaires à la protection d'espaces agricoles et naturels périurbains,
-le cas échéant en exerçant, à la demande et au nom du département, le droit de préemption prévu par l'article L. 142-3 ou, en
-dehors des zones de préemption des espaces naturels sensibles, le droit de préemption prévu par le 9° de l'article L. 143-2
-du code rural et de la pêche maritime. 
-
-Les établissements publics mentionnés au a du présent article peuvent se voir déléguer l'instruction et le traitement des
-demandes d'aides à la réhabilitation de l'habitat privé dans les conditions prévues à l'article L. 321-1-3 du code de la
-construction et de l'habitation, la gestion comptable et financière ainsi que l'instruction et le traitement des demandes
-d'aides dans les conditions prévues à l'article 10-2 de la loi n° 2003-710 du 1er août 2003 d'orientation pour la ville et la
-rénovation urbaine.
+L'action des établissements publics fonciers pour le compte de l'Etat, des collectivités territoriales et de leurs
+groupements ou d'un autre établissement public s'inscrit dans le cadre de conventions.
 
 **Liens relatifs à cet article**
 
@@ -15296,27 +15278,29 @@ rénovation urbaine.
 	  - Code rural et de la pêche maritime - art. L181-24 (V)
 	  - Livre des procédures fiscales - art. L135 B (VT)
 
-	**Cite**:
-
-	  - Loi n°95-115 du 4 février 1995 - art. 42
-	  - Loi n°96-987 du 14 novembre 1996 - art. 1
-	  - Loi n°2005-32 du 18 janvier 2005
-	  - Code de l'urbanisme - art. L142-3
-	  - Code de l'urbanisme - art. L143-1
-	  - Code de l'urbanisme - art. L143-2
-	  - Code de l'urbanisme - art. L325-1
-	  - Code de l'urbanisme - art. L325-2
-	  - Code de la construction et de l'habitation. - art. L321-1-3
-
 	**Modifié par**:
 
-	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L300-1
 
 
 ###### Article L321-2
 
-Les établissements publics créés en application de l'article L. 321-1 ont un caractère industriel et commercial. Ils sont
-dotés de la personnalité morale et de l'autonomie financière.
+Les établissements publics fonciers de l'Etat sont créés par décret en Conseil d'Etat après avis des conseils régionaux, des
+conseils généraux, des organes délibérants des établissements publics de coopération intercommunale à fiscalité propre
+compétents en matière de plan local d'urbanisme ainsi que des conseils municipaux des communes de 20 000 habitants et plus
+non membres de ces établissements, situés dans leur périmètre de compétence. L'avis est réputé favorable s'il n'est pas émis
+dans un délai de trois mois.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
+départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
+s'appliquera aux élections organisées en mars 2015 à l'occasion du prochain renouvellement général des conseils
+départementaux, y compris aux opérations préparatoires à ce scrutin (date indéterminée).
 
 **Liens relatifs à cet article**
 
@@ -15328,11 +15312,7 @@ dotés de la personnalité morale et de l'autonomie financière.
 
 	**Modifié par**:
 
-	  - Loi n°2005-32 du 18 janvier 2005 - art. 94 () JORF 19 janvier 2005
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L321-1 (M)
+	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
 
 	**Codifié par**:
 
@@ -15341,11 +15321,9 @@ dotés de la personnalité morale et de l'autonomie financière.
 
 ###### Article L321-3
 
-Les établissements visés aux a et b de l'article L. 321-1 sont créés par décret en Conseil d'Etat après avis des conseils
-régionaux, des conseils généraux, des organes délibérants des établissements publics de coopération intercommunale compétents
-en matière d'aménagement de l'espace communautaire, d'équilibre social de l'habitat et de développement économique et des
-conseils municipaux des communes de plus de 20 000 habitants non membres de ces établissements situés dans leur périmètre de
-compétence. L'avis est réputé favorable s'il n'est pas émis dans un délai de trois mois.
+Les établissements publics fonciers de l'Etat sont habilités à créer des filiales et à acquérir des participations dans des
+sociétés, groupements ou organismes dont l'objet concourt à la réalisation de leurs missions dans les conditions déterminées
+par le décret prévu à l'article L. 321-13.
 
 **Liens relatifs à cet article**
 
@@ -15371,19 +15349,18 @@ compétence. L'avis est réputé favorable s'il n'est pas émis dans un délai d
 
 	**Modifié par**:
 
-	  - Loi n°2005-32 du 18 janvier 2005 - art. 94 () JORF 19 janvier 2005
+	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L321-1 (M)
+	  - Code de l'urbanisme - art. L321-13
 
 
 ###### Article L321-4
 
-Le décret qui crée l'établissement détermine son objet, sa zone d'activité territoriale et, éventuellement, sa durée. Il fixe
-son statut, notamment en ce qui concerne la composition du conseil d'administration, la désignation du président, celle du
-directeur, les pouvoirs du conseil d'administration, du président et du directeur et, le cas échéant, les conditions de
-représentation à l'assemblée spéciale prévue à l'article L. 321-5 des collectivités et établissements publics intéressés.
+Les établissements publics fonciers de l'Etat peuvent agir par voie d'expropriation et exercer les droits de préemption et de
+priorité définis dans le code de l'urbanisme, dans les cas et conditions prévus par le même code, ainsi que le droit de
+préemption prévu par le 9° de l'article L. 143-2 du code rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
 
@@ -15408,11 +15385,11 @@ représentation à l'assemblée spéciale prévue à l'article L. 321-5 des coll
 
 	**Modifié par**:
 
-	  - Loi n°2005-32 du 18 janvier 2005 - art. 94 () JORF 19 janvier 2005
+	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L321-5 (M)
+	  - Code rural - art. L143-2
 
 	**Liens**:
 
@@ -15421,18 +15398,18 @@ représentation à l'assemblée spéciale prévue à l'article L. 321-5 des coll
 
 ###### Article L321-5
 
-Lorsque, en raison de leur nombre, les collectivités locales et, le cas échéant, les établissements publics intéressés aux
-opérations et travaux entrant dans l'objet de l'établissement ne peuvent être tous représentés directement au conseil
-d'administration, ceux d'entre eux qui ne le sont pas sont groupés en une assemblée spéciale.
+I. ―  L'établissement élabore un programme pluriannuel d'intervention qui :
 
-Cette assemblée élit des représentants au conseil d'administration. Si l'assemblée spéciale ne désigne pas ses représentants
-au conseil d'administration de l'établissement, cette désignation peut être opérée par décision de l'autorité administrative.
+1° Définit ses actions, leurs modalités et les moyens mis en œuvre ;
 
-Lorsqu'un établissement public a été créé pour l'aménagement d'une agglomération nouvelle, les représentants, au conseil
-d'administration de cet établissement, des communes incluses dans l'agglomération nouvelle sont élus par le comité du
-syndicat ou le conseil municipal s'il s'agit d'une commune unique ; les autres communes, qui sont liées à cet établissement
-par une convention de délégation de maîtrise d'ouvrage, désignent un représentant chacune. Dans ce cas, il n'est pas créé
-d'assemblée spéciale au sens du premier alinéa ci-dessus.
+2° Précise les conditions de cession du foncier propres à garantir un usage conforme aux missions de l'établissement.
+
+II. ―  Le programme pluriannuel d'intervention tient compte :
+
+1° Des orientations stratégiques définies par l'autorité administrative compétente de l'Etat ;
+
+2° Des priorités énoncées dans les documents d'urbanisme ainsi que des objectifs de réalisation de logements précisés par les
+programmes locaux de l'habitat.
 
 **Liens relatifs à cet article**
 
@@ -15460,34 +15437,23 @@ d'assemblée spéciale au sens du premier alinéa ci-dessus.
 
 	**Modifié par**:
 
-	  - Loi n°2010-1563 du 16 décembre 2010 - art. 31
+	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
 
 
 ###### Article L321-6
 
-Le conseil d'administration doit être composé, à concurrence de la moitié au moins, de membres représentant les collectivités
-et établissements publics intéressés. 
+Le conseil d'administration de l'établissement approuve le programme pluriannuel d'intervention et procède à sa révision. 
 
-Lorsqu'un établissement public a été créé pour l'aménagement d'une agglomération nouvelle, les présidents des syndicats
-d'agglomération nouvelle sont membres de droit du conseil d'administration de cet établissement public, en sus de la
-représentation statutaire des collectivités locales intéressées. Dans le cas où l'établissement public a été créé pour
-l'aménagement de plusieurs agglomérations nouvelles au sens de la loi n° 83-636 du 13 juillet 1983 portant modification du
-statut des agglomérations nouvelles, un décret détermine la répartition des sièges revenant aux représentants de ces
-agglomérations nouvelles. 
+Cette approbation et cette révision interviennent dans les conditions prévues par le décret mentionné à l'article L. 321-13. 
 
-Les membres du conseil d'administration peuvent être suspendus de leurs fonctions par l'autorité chargée du contrôle de
-l'établissement. Ils peuvent être révoqués par arrêté interministériel. Le conseil d'administration peut être dissous par
-décret motivé pris en Conseil d'Etat.
+En cas de modification des orientations stratégiques de l'Etat, le programme pluriannuel d'intervention est, si nécessaire,
+révisé et approuvé dans un délai fixé par le décret prévu à l'article L. 321-13.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Cite**:
-
-	  - Loi n°83-636 du 13 juillet 1983
 
 	**Cité par**:
 
@@ -15495,40 +15461,53 @@ décret motivé pris en Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2010-1563 du 16 décembre 2010 - art. 31
+	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L321-13
 
 
 ###### Article L321-7
 
-Les prévisions budgétaires, les projets d'emprunt et les délibérations déterminant les opérations à entreprendre par
-l'établissement ou fixant les modalités générales de leur résiliation sont soumis à l'approbation de l'autorité chargée du
-contrôle.
+La délibération approuvant le programme pluriannuel d'intervention devient exécutoire dans les conditions prévues par le
+décret mentionné à l'article L. 321-13. 
+
+A défaut d'approbation par le conseil d'administration du programme pluriannuel d'intervention initial ou révisé dans les
+délais prévus par ce décret, il peut être adopté par l'autorité administrative compétente de l'Etat. Le programme pluriannuel
+d'intervention est alors exécutoire dès son adoption.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+	  - Code de l'urbanisme - art. L321-13
 
 	**Cité par**:
 
+	  - Code de l'urbanisme - art. R*321-11 (V)
 	  - Décret n°91-121 du 29 janvier 1991 - art. 23 (V)
 	  - Décret n°95-1102 du 13 octobre 1995 - art. 14 (M)
 	  - Décret n°96-325 du 10 avril 1996 - art. 15 (M)
 	  - Décret n°2000-1237 du 19 décembre 2000 - art. 16 (Ab)
-	  - Code de l'urbanisme - art. R*321-11 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 	**Modifié par**:
 
-	  - Loi n°2005-32 du 18 janvier 2005 - art. 94 () JORF 19 janvier 2005
+	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
 
 
 ###### Article L321-8
 
-Pour les établissements publics dont la zone d'activité territoriale s'étend sur plus de cent communes, il peut être dérogé
-aux dispositions relatives au contrôle exercé sur l'établissement public, à la constitution de l'assemblée spéciale et à la
-désignation des représentants des collectivités locales au conseil d'administration, qui devront être choisis par des
-assemblées ou des élus de ces collectivités suivant les modalités fixées par le décret créant l'établissement.
+Le conseil d'administration est composé de représentants de l'Etat et, pour au moins la moitié, de membres représentant les
+collectivités territoriales et les établissements publics de coopération intercommunale à fiscalité propre désignés dans les
+conditions définies à l'article L. 321-9. 
+
+Le décret qui crée l'établissement peut prévoir la possibilité pour d'autres personnes d'assister de manière permanente aux
+réunions du conseil d'administration.
 
 **Liens relatifs à cet article**
 
@@ -15538,12 +15517,39 @@ assemblées ou des élus de ces collectivités suivant les modalités fixées pa
 
 	**Modifié par**:
 
-	  - Loi n°2005-32 du 18 janvier 2005 - art. 94 () JORF 19 janvier 2005
+	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L321-9
 
 
 ###### Article L321-9
 
-Un décret en Conseil d'Etat détermine les conditions d'application du présent chapitre.
+Les régions et les départements sont chacun représentés au conseil d'administration par un ou plusieurs membres désignés,
+respectivement, par leur organe délibérant. 
+
+Les établissements publics de coopération intercommunale à fiscalité propre et les communes non membres de ces établissements
+sont représentés directement ou indirectement. Les modalités de désignation de leurs représentants indirects sont fixées aux
+alinéas suivants. 
+
+Le ou les représentants des établissements publics de coopération intercommunale à fiscalité propre et des communes non
+membres de ces établissements au conseil d'administration des établissements publics créés en application de l'article L.
+321-1 sont désignés dans les conditions fixées par le décret qui crée l'établissement par une assemblée composée des
+présidents de ces établissements et des maires de ces communes. 
+
+Les présidents de ces établissements et les maires de ces communes peuvent se faire représenter par un autre membre de leur
+organe délibérant désigné par celui-ci. 
+
+Cette assemblée est réunie par l'autorité administrative compétente de l'Etat qui en fixe le règlement. Si l'assemblée ne
+désigne pas ses représentants au conseil d'administration de l'établissement, cette désignation peut être effectuée par cette
+autorité dans un délai de deux mois suivant la réunion de l'assemblée. 
+
+Nonobstant les dispositions prévues au troisième alinéa du présent article, le décret qui crée l'établissement peut prévoir
+que les représentants des établissements publics de coopération intercommunale à fiscalité propre et ceux des communes non
+membres de ces établissements publics au conseil d'administration sont désignés par les associations départementales
+représentatives des maires et des établissements publics de coopération intercommunale à fiscalité propre des départements
+concernés, selon des modalités fixées par arrêté du ministre chargé de l'urbanisme.
 
 **Liens relatifs à cet article**
 
@@ -15573,11 +15579,695 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 
 	**Modifié par**:
 
-	  - Loi n°2005-32 du 18 janvier 2005 - art. 94 () JORF 19 janvier 2005
+	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L321-1
 
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L321-10
+
+La liste des délibérations du conseil d'administration transmises à l'autorité administrative compétente de l'Etat en vue de
+leur approbation ainsi que les conditions dans lesquelles ces délibérations deviennent exécutoires sont fixées par le décret
+prévu à l'article L. 321-13.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L321-13
+
+
+###### Article L321-11
+
+Le directeur général est chargé de l'administration de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+
+
+###### Article L321-12
+
+Dans les départements de la Guadeloupe et de la Martinique, les établissements publics fonciers de l'Etat peuvent exercer, en
+sus de leurs compétences, les missions visées aux 1°, 3°, 4° et 5° de l'article 5 de la loi n° 96-1241 du 30 décembre 1996
+relative à l'aménagement, la protection et la mise en valeur de la zone dite des cinquante pas géométriques dans les
+départements d'outre-mer, lorsque les agences créées à l'article 4 de cette même loi cessent leurs activités.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°96-1241 du 30 décembre 1996 - art. 5
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+
+
+###### Article L321-13
+
+Un décret en Conseil d'Etat détermine les conditions d'application de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L321-10 (V)
+	  - Code de l'urbanisme - art. L321-3 (V)
+	  - Code de l'urbanisme - art. L321-6 (V)
+	  - Code de l'urbanisme - art. L321-7 (V)
+
+
+##### Section 2 : Etablissements publics d'aménagement
+
+
+
+
+###### Article L321-14
+
+L'Etat peut créer des établissements publics d'aménagement ayant pour objet de favoriser l'aménagement et le développement
+durable de territoires présentant un caractère d'intérêt national. 
+
+Pour répondre à ces objectifs, les établissements publics d'aménagement ont pour mission principale de conduire toute action
+de nature à favoriser l'aménagement, le renouvellement urbain et le développement économique de leur territoire, dans le
+respect de la diversité des fonctions urbaines, de la mixité sociale dans l'habitat ainsi que de la protection de
+l'environnement. 
+
+A cet effet, ils sont compétents pour réaliser pour leur compte ou, par voie de convention passée avec eux, pour celui de
+l'Etat, des collectivités territoriales et de leurs groupements ou d'un autre établissement public, et pour faire réaliser
+les opérations d'aménagement prévues par le présent code et les acquisitions foncières et immobilières nécessaires à ces
+opérations. 
+
+Pour favoriser le développement économique de leur territoire, ils peuvent également, par voie de convention passée avec les
+collectivités territoriales et leurs groupements ainsi qu'avec tout opérateur économique public ou privé, proposer une
+stratégie de développement économique et assurer sa coordination et sa mise en œuvre. Ils peuvent également assurer la
+promotion de leur territoire auprès des opérateurs économiques. 
+
+Ils peuvent notamment, dans le cadre d'opérations de restructuration urbaine : 
+
+1° Réaliser des opérations immobilières et les acquisitions foncières nécessaires à ces opérations ; 
+
+2° Se voir déléguer par l'Etablissement public national pour l'aménagement et la restructuration des espaces commerciaux la
+maîtrise d'ouvrage des opérations définies à l'article L. 325-1 et accomplir les actes de disposition et d'administration
+définis à l'article L. 325-2 ; 
+
+3° Se voir déléguer l'instruction et le traitement des demandes d'aides à la réhabilitation de l'habitat privé dans les
+conditions prévues à l'article L. 321-1-3 du code de la construction et de l'habitation, la gestion comptable et financière
+ainsi que l'instruction et le traitement des demandes d'aides dans les conditions prévues aux articles 10 et 10-2 de la loi
+n° 2003-710 du 1er août 2003 d'orientation pour la ville et la rénovation urbaine ; 
+
+4° Assurer, de manière accessoire, des actions d'insertion professionnelle et sociale en faveur des habitants des grands
+ensembles ou quartiers d'habitat dégradé, mentionnés au 3° de l'article 42 de la loi n° 95-115 du 4 février 1995
+d'orientation pour l'aménagement et le développement du territoire. 
+
+Sous réserve des compétences dévolues à d'autres personnes publiques, les établissements publics d'aménagement peuvent
+également conduire pour leur compte, ou par voie de convention passée avec eux, pour celui de l'Etat, des collectivités
+territoriales ou leurs groupements des missions présentant un caractère complémentaire et un intérêt directement utile aux
+missions principales mentionnées dans le présent article en vue de favoriser le développement durable de leur territoire. Ils
+exercent ces missions à titre accessoire. 
+
+Dans le ressort territorial des établissements publics fonciers créés en application de l'article L. 321-1, des conventions
+peuvent prévoir les conditions dans lesquelles les établissements publics d'aménagement et les établissements publics
+fonciers réalisent les acquisitions foncières nécessaires aux missions mentionnées dans le présent article.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°65-557 du 10 juillet 1965 - art. 29-11 (V)
+	  - Décret n°72-770 du 17 août 1972 - art. 1 (V)
+	  - Décret n°72-770 du 17 août 1972 - art. 2 (V)
+	  - Loi n°83-675 du 26 juillet 1983 - art. Annexe III (V)
+	  - Décret n°95-1102 du 13 octobre 1995 - art. 1 (V)
+	  - Décret n°95-1102 du 13 octobre 1995 - art. 2 (V)
+	  - Décret n°96-325 du 10 avril 1996 - art. 1 (V)
+	  - Décret n°96-325 du 10 avril 1996 - art. 2 (V)
+	  - Décret n°2007-88 du 24 janvier 2007 - art. 1 (V)
+	  - Décret n°2007-88 du 24 janvier 2007 - art. 2 (V)
+	  - Décret n°2010-306 du 22 mars 2010 - art. 1 (V)
+	  - Décret n°2010-306 du 22 mars 2010 - art. 2 (V)
+	  - Décret n°2012-327  du 6 mars 2012 - art. 1 (V)
+	  - Décret n°2012-327  du 6 mars 2012 - art. 2 (V)
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 102 (V)
+	  - Décret n°2017-831 du 5 mai 2017 - art. 10
+	  - Décret n°2017-838 du 5 mai 2017 - art. 1
+	  - Code de l'urbanisme - art. L321-22 (V)
+	  - Code de l'urbanisme - art. L321-29 (V)
+	  - Code de l'urbanisme - art. L321-37 (VD)
+	  - Code de l'urbanisme - art. L321-38 (VD)
+	  - Code de l'urbanisme - art. R*321-1 (V)
+	  - Code de l'urbanisme - art. R*321-16 (V)
+	  - Code de l'urbanisme - art. R*321-19 (V)
+	  - Code de la construction et de l'habitation. - art. L443-11 (V)
+	  - Code de la construction et de l'habitation. - art. R*321-12 (V)
+	  - Code de la construction et de l'habitation. - art. R321-13 (V)
+	  - Livre des procédures fiscales - art. L135 B (VD)
+
+	**Cite**:
+
+	  - Loi n°95-115 du 4 février 1995 - art. 42
+	  - Loi n°2003-710 du 1 août 2003 - art. 10
+	  - Code de l'urbanisme - art. L321-1
+	  - Code de l'urbanisme - art. L325-1
+	  - Code de l'urbanisme - art. L325-2
+	  - Code de la construction et de l'habitation. - art. L321-1-3
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+
+
+###### Article L321-15
+
+Les établissements publics d'aménagement sont créés par décret en Conseil d'Etat après avis des conseils régionaux, des
+conseils généraux, des organes délibérants des établissements publics de coopération intercommunale à fiscalité propre ainsi
+que des conseils municipaux des communes de 20 000 habitants et plus non membres de ces établissements, situés dans leur
+périmètre de compétence. L'avis est réputé favorable s'il n'est pas émis dans un délai de trois mois.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*321-2 (V)
+
+
+###### Article L321-16
+
+Les établissements publics d'aménagement sont habilités à créer des filiales et à acquérir des participations dans des
+sociétés, groupements ou organismes dont l'objet concourt à la réalisation de leurs missions dans les conditions déterminées
+par le décret prévu à l'article L. 321-28.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°72-770 du 17 août 1972 - art. 4 (V)
+	  - Décret n°95-1102 du 13 octobre 1995 - art. 4 (V)
+	  - Décret n°96-325 du 10 avril 1996 - art. 4 (V)
+	  - Décret n°2007-88 du 24 janvier 2007 - art. 4 (V)
+	  - Décret n°2008-773 du 30 juillet 2008 - art. 4 (V)
+	  - Décret n°2010-306 du 22 mars 2010 - art. 4 (V)
+	  - Décret n°2012-327  du 6 mars 2012 - art. 4 (V)
+	  - Code de l'urbanisme - art. L327-3 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L321-28
+
+
+###### Article L321-17
+
+Les établissements publics d'aménagement peuvent agir par voie d'expropriation et exercer les droits de préemption et de
+priorité définis dans le présent code dans les cas et conditions prévus par le même code.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°72-770 du 17 août 1972 - art. 4 (V)
+	  - Décret n°96-325 du 10 avril 1996 - art. 4 (V)
+	  - Décret n°2007-88 du 24 janvier 2007 - art. 4 (V)
+	  - Décret n°2008-773 du 30 juillet 2008 - art. 4 (V)
+	  - Décret n°2010-306 du 22 mars 2010 - art. 4 (V)
+	  - Décret n°2012-327  du 6 mars 2012 - art. 4 (V)
+	  - Code de l'urbanisme - art. R*321-19 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+
+
+###### Article L321-18
+
+I. ― L'établissement élabore un projet stratégique et opérationnel qui définit ses objectifs, sa stratégie ainsi que les
+moyens qui seront mis en œuvre pour les atteindre.
+
+II. ― Le projet stratégique et opérationnel tient compte :
+
+1° Des orientations stratégiques définies par l'autorité administrative compétente de l'Etat ;
+
+2° Des priorités énoncées dans les documents d'urbanisme ainsi que des objectifs de réalisation de logements précisés par les
+programmes locaux de l'habitat.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°95-1102 du 13 octobre 1995 - art. 3 (V)
+	  - Décret n°96-325 du 10 avril 1996 - art. 3 (V)
+	  - Décret n°2007-88 du 24 janvier 2007 - art. 3 (V)
+	  - Décret n°2008-773 du 30 juillet 2008 - art. 3 (V)
+	  - Décret n°2010-306 du 22 mars 2010 - art. 3 (V)
+	  - Décret n°2012-327  du 6 mars 2012 - art. 3 (V)
+	  - Code de l'urbanisme - art. L321-36-3 (V)
+	  - Code de l'urbanisme - art. R*321-14 (V)
+	  - Code de l'urbanisme - art. R*321-16 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+
+
+###### Article L321-19
+
+Le conseil d'administration approuve le projet stratégique et opérationnel et procède à sa révision. 
+
+L'approbation et la révision prévues à l'alinéa précédent interviennent dans les conditions prévues par le décret mentionné à
+l'article L. 321-28. 
+
+En cas de modification des orientations stratégiques de l'Etat, le projet stratégique et opérationnel est, si nécessaire,
+révisé et approuvé dans un délai fixé par le décret prévu à l'article L. 321-28.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L321-28
+
+
+###### Article L321-20
+
+La délibération approuvant le projet stratégique et opérationnel devient exécutoire dans les conditions prévues par le décret
+mentionné à l'article L. 321-28. 
+
+A défaut d'approbation par le conseil d'administration du projet stratégique et opérationnel initial ou révisé dans les
+délais prévus par le décret mentionné à l'article L. 321-28, il peut être adopté par l'autorité administrative compétente de
+l'Etat. Ce projet est alors exécutoire dès son adoption.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L321-28
+
+
+###### Article L321-21
+
+Le conseil d'administration est composé de représentants de l'Etat et, pour au moins la moitié, de membres représentant les
+collectivités territoriales et établissements publics de coopération intercommunale à fiscalité propre, désignés dans les
+conditions définies à l'article L. 321-22. Il peut être complété par des personnalités qualifiées et pour les établissements
+publics d'aménagement créés en vue de réaliser des villes nouvelles, par des représentants des communautés et des syndicats
+d'agglomération nouvelle et des représentants du personnel de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2010-306 du 22 mars 2010 - art. 9 (V)
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 25 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+
+	**Modifié par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 44 (VD)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L321-22
+
+
+###### Article L321-22
+
+Lorsque, en raison de leur nombre, les établissements publics de coopération intercommunale à fiscalité propre et les
+communes non membres de ces établissements ne peuvent être tous représentés directement au conseil d'administration, leurs
+représentants sont désignés indirectement suivant les modalités fixées aux alinéas suivants. 
+
+Le ou les représentants des établissements publics de coopération intercommunale à fiscalité propre et des communes non
+membres de ces établissements au conseil d'administration des établissements publics créés en application de l'article L.
+321-14 sont désignés dans les conditions fixées par le décret qui crée l'établissement par une assemblée composée des
+présidents de ces établissements et des maires de ces communes. 
+
+Les présidents de ces établissements et les maires de ces communes peuvent se faire représenter par un autre membre de leur
+organe délibérant désigné par celui-ci. 
+
+Cette assemblée est réunie par l'autorité administrative compétente de l'Etat qui en fixe le règlement. Si l'assemblée ne
+désigne pas ses représentants au conseil d'administration de l'établissement, cette désignation peut être opérée par cette
+autorité dans un délai de deux mois suivant la réunion de l'assemblée. 
+
+Nonobstant les dispositions prévues au deuxième alinéa du présent article, le décret qui crée l'établissement peut prévoir
+que les représentants des établissements publics de coopération intercommunale à fiscalité propre et ceux des communes non
+membres de ces établissements publics au conseil d'administration sont désignés par les associations départementales
+représentatives des maires et des établissements publics de coopération intercommunale à fiscalité propre des départements
+concernés, selon des modalités fixées par arrêté du ministre chargé de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 11 septembre 2012 - art. 1 (V)
+	  - Décret n°2016-1865 du 23 décembre 2016 - art. 5 (VD)
+	  - Code de l'urbanisme - art. L321-21 (VD)
+	  - Code de l'urbanisme - art. L321-36-4 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L321-14
+
+
+###### Article L321-23
+
+Les établissements publics d'aménagement peuvent, en dehors du périmètre de compétence défini dans leurs statuts, procéder à
+des acquisitions foncières et immobilières et à des opérations d'aménagement complémentaires et utiles à la stratégie mise en
+œuvre dans ce périmètre.
+
+L'autorité administrative compétente de l'Etat, après avis du ou des établissements publics de coopération intercommunale à
+fiscalité propre, compétents en matière de plan local d'urbanisme ou de schéma de cohérence territoriale, et du ou des
+conseils municipaux de la ou des communes non membres de ces établissements concernés, autorise les établissements publics à
+procéder à l'aménagement de terrains situés hors de leur périmètre de compétence. L'avis du ou des établissements publics de
+coopération intercommunale et de la ou des communes est réputé favorable à l'expiration d'un délai de trois mois.
+
+Lorsqu'un établissement public réalise une opération d'aménagement en dehors de son périmètre de compétence, un représentant
+de chaque établissement public de coopération intercommunale à fiscalité propre et un représentant de chaque commune non
+membre de ces établissements concernés assistent au conseil d'administration avec voix consultative à chaque fois que des
+décisions relatives à cette opération lui sont soumises.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*321-20 (V)
+
+
+###### Article L321-24
+
+La liste des délibérations du conseil d'administration de l'établissement qui sont transmises à l'autorité administrative
+compétente de l'Etat en vue de leur approbation ainsi que les conditions dans lesquelles elles deviennent exécutoires sont
+fixées par le décret prévu à l'article L. 321-28.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L321-28
+
+
+###### Article L321-25
+
+Lorsqu'un établissement public a été créé pour l'aménagement d'une agglomération nouvelle, les représentants au conseil
+d'administration de cet établissement des communes incluses dans l'agglomération nouvelle sont élus par le conseil
+d'agglomération de la communauté ou par le comité du syndicat ou le conseil municipal s'il s'agit d'une commune unique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 44 (VD)
+
+
+###### Article L321-26
+
+Lorsqu'un établissement public a été créé pour l'aménagement d'une agglomération nouvelle, les présidents des communautés ou
+des syndicats d'agglomération nouvelle sont membres de droit du conseil d'administration de cet établissement public, en sus
+de la représentation statutaire des collectivités locales intéressées. Dans le cas où l'établissement public a été créé pour
+l'aménagement de plusieurs agglomérations nouvelles au sens des articles L. 5311-1 et L. 5311-2 du code général des
+collectivités territoriales un décret détermine la répartition des sièges revenant aux représentants de ces agglomérations
+nouvelles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 44 (VD)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L5311-1
+
+
+###### Article L321-27
+
+Le directeur général est chargé de l'administration de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°95-1102 du 13 octobre 1995 - art. 4 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+
+
+###### Article L321-28
+
+Un décret en Conseil d'Etat détermine les conditions d'application de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°96-325 du 10 avril 1996 - art. 1 (V)
+	  - Code de l'urbanisme - art. L321-16 (V)
+	  - Code de l'urbanisme - art. L321-19 (V)
+	  - Code de l'urbanisme - art. L321-20 (V)
+	  - Code de l'urbanisme - art. L321-24 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+
+
+##### Section 3 : Agence foncière et technique de la région parisienne
+
+
+###### Article L321-29
+
+L'Agence foncière et technique de la région parisienne est un établissement public de l'Etat qui a pour mission principale de
+conduire toute action de nature à favoriser l'aménagement, le renouvellement et le développement urbains et durables du
+territoire de la région d'Ile-de-France. 
+
+A cet effet, elle est compétente pour y réaliser : 
+
+1° Toutes interventions foncières et toutes opérations immobilières pour son compte ou par convention passée avec eux, pour
+l'Etat, les collectivités territoriales, les établissements publics ou personnes publiques ou privées y ayant vocation ; 
+
+2° Toutes actions ou opérations d'aménagement au sens du présent code, pour son compte, ou pour celui de l'Etat, de
+collectivités territoriales, d'établissements publics ou de personnes publiques ou privées y ayant vocation ; 
+
+3° Tous ouvrages de bâtiment ou d'infrastructure, en qualité de mandataire au sens de l'article 3 de la loi du 12 juillet
+1985 relative à la maîtrise d'ouvrage publique et ses rapports avec la maîtrise d'œuvre privée. 
+
+Afin de favoriser la protection et la mise en valeur de l'environnement, elle peut procéder dans la même région, à titre
+secondaire, à des acquisitions foncières d'espaces naturels, agricoles ou forestiers dont la préservation doit être assurée. 
+
+Elle peut également y conduire des missions présentant un caractère complémentaire à ses missions principales en vue de
+favoriser le développement durable du territoire. Elle exerce ces missions à titre accessoire. 
+
+Elle peut exercer les compétences dévolues aux établissements publics d'aménagement, telles que définies à l'article L.
+321-14. 
+
+En dehors du territoire de la région d'Ile-de-France, l'agence peut réaliser des missions de conseil et d'expertise entrant
+dans le cadre de ses compétences.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°65-557 du 10 juillet 1965 - art. 29-11 (V)
+	  - Décret n°2015-980 du 31 juillet 2015 - art. 3 (V)
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 102 (V)
+	  - Décret n°2017-831 du 5 mai 2017 - art. 10
+	  - Code de l'urbanisme - art. L321-1-1 (V)
+	  - Code de l'urbanisme - art. R*321-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*321-12 (V)
+	  - Code de la construction et de l'habitation. - art. R321-13 (V)
+	  - Livre des procédures fiscales - art. L135 B (VD)
+
+	**Cite**:
+
+	  - Loi n°85-704 du 12 juillet 1985 - art. 3
+	  - Code de l'urbanisme - art. L321-14
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+
+
+###### Article L321-30
+
+L'Agence foncière et technique de la région parisienne est habilitée à créer des filiales et à acquérir des participations
+dans des sociétés, groupements ou organismes dont l'objet concourt à la réalisation de ses missions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2015-980 du 31 juillet 2015 - art. 3 (V)
+	  - Décret n°2016-1865 du 23 décembre 2016 - art. 4 (VD)
+	  - Décret n°2017-341 du 15 mars 2017 - art. 4 (VD)
+	  - Code de l'urbanisme - art. L327-3 (V)
+
+
+###### Article L321-31
+
+L'Agence foncière et technique de la région parisienne peut agir par voie d'expropriation et exercer les droits de préemption
+et de priorité définis dans le présent code, dans les cas et conditions prévus par le même code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2015-980 du 31 juillet 2015 - art. 3 (V)
+	  - Décret n°2016-1865 du 23 décembre 2016 - art. 4 (VD)
+	  - Décret n°2017-341 du 15 mars 2017 - art. 4 (V)
+
+
+###### Article L321-32
+
+L'autorité administrative compétente de l'Etat définit les orientations stratégiques de l'Etat. Ces orientations sont mises
+en œuvre par l'Agence foncière et technique de la région parisienne dans le cadre d'un contrat d'objectifs signé avec l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2015-980 du 31 juillet 2015 - art. 2 (VD)
+	  - Décret n°2015-980 du 31 juillet 2015 - art. 8 (VD)
+	  - Code de l'urbanisme - art. L321-36-1 (V)
+	  - Code de l'urbanisme - art. R*321-13 (V)
+
+
+###### Article L321-33
+
+Le conseil d'administration de l'Agence foncière et technique de la région parisienne est composé, en nombre égal :
+
+1° De représentants de la région d'Ile-de-France et des départements d'Ile-de-France ;
+
+2° De représentants de l'Etat.
+
+Il peut être complété par des personnalités qualifiées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2015-980 du 31 juillet 2015 - art. 4 (VT)
+	  - Loi n°2017-257 du 28 février 2017 - art. 48 (V)
+
+
+###### Article L321-34
+
+Le président du conseil d'administration exerce les fonctions de directeur général.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2015-980 du 31 juillet 2015 - art. 6 (VD)
+
+
+###### Article L321-35
+
+La liste des délibérations du conseil d'administration qui sont transmises à l'autorité administrative compétente de l'Etat
+en vue de leur approbation ainsi que les conditions dans lesquelles elles deviennent exécutoires sont fixées par le décret
+prévu à l'article L. 321-36.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L321-36
+
+
+###### Article L321-36
+
+Un décret en Conseil d'Etat détermine les conditions d'application de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2017-777 du 5 mai 2017 (V)
+	  - Code de l'urbanisme - art. L321-33 (V)
+	  - Code de l'urbanisme - art. L321-35 (V)
 
 
 #### Chapitre II : Associations foncières urbaines
