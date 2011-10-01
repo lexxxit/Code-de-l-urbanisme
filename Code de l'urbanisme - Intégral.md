@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2011-09-10
+Version Consolidée au 2011-10-02
 
 # Partie législative
 
@@ -28155,20 +28155,22 @@ occupation temporaire ou saisonnière à usage de loisir.
 
 ###### Article R*111-32
 
-Les habitations légères de loisirs peuvent être implantées :
+Les habitations légères de loisirs peuvent être implantées : 
 
-1° Dans les parcs résidentiels de loisirs spécialement aménagés à cet effet ;
+1° Dans les parcs résidentiels de loisirs spécialement aménagés à cet effet ; 
 
-2° Dans les terrains de camping classés au sens du code du tourisme, sous réserve que leur nombre soit inférieur à trente-
-cinq lorsque le terrain comprend moins de 175 emplacements ou à 20 % du nombre total d'emplacements dans les autres cas ;
+2° Dans les terrains de camping régulièrement créés, sous réserve que leur nombre soit inférieur à trente-cinq lorsque le
+terrain comprend moins de 175 emplacements ou à 20 % du nombre total d'emplacements dans les autres cas ; 
 
-3° Dans les villages de vacances classés en hébergement léger au sens du code du tourisme ;
+3° Dans les villages de vacances classés en hébergement léger au sens du code du tourisme ; 
 
 4° Dans les dépendances des maisons familiales de vacances agréées au sens du code du tourisme.
 
-En dehors de ces emplacements, leur implantation est soumise au droit commun des constructions.
-
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2011-1214 du 29 septembre 2011 - art. 1
 
 	**Cité par**:
 
@@ -28185,9 +28187,26 @@ En dehors de ces emplacements, leur implantation est soumise au droit commun des
 
 	  - Décret n°73-1023 1973-11-08
 
+
+###### Article R*111-32-1
+
+En dehors des emplacements prévus à l'article R. 111-32, l'implantation des habitations légères de loisirs est soumise au
+droit commun des constructions. 
+
+Il en est de même en cas d'implantation d'une habitation légère de loisirs sur un emplacement situé à l'intérieur du
+périmètre d'un terrain, village de vacances ou maison familiale mentionné aux 2° à 4° de l'article R. 111-32 qui a fait
+l'objet d'une cession en pleine propriété, de la cession de droits sociaux donnant vocation à son attribution en propriété ou
+en jouissance ou d'une location pour une durée supérieure à deux ans.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 1 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+	  - Décret n°2011-1214 du 29 septembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*111-32
 
 
 ##### Sous-section 2 : Résidences mobiles de loisirs.
@@ -28227,25 +28246,21 @@ traction mais que le code de la route interdit de faire circuler.
 
 ###### Article R*111-34
 
-Les résidences mobiles de loisirs ne peuvent être installées que :
+Les résidences mobiles de loisirs ne peuvent être installées que : 
 
 1° Dans les parcs résidentiels de loisirs mentionnés au 1° de l'article R. 111-32, à l'exception des terrains créés après le
 1er octobre 2007 et exploités par cession d'emplacements ou par location d'emplacements d'une durée supérieure à un an
-renouvelable ;
+renouvelable ; 
 
-2° Dans les terrains de camping classés au sens du code du tourisme ;
+2° Dans les terrains de camping régulièrement créés ; 
 
 3° Dans les villages de vacances classés en hébergement léger au sens du code du tourisme.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 1 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
 	**Modifié par**:
 
-	  - Décret n°2007-817 du 11 mai 2007 - art. 3 () JORF 12 mai 2007
+	  - Décret n°2011-1214 du 29 septembre 2011 - art. 1
 
 	**Cité par**:
 
@@ -28256,11 +28271,76 @@ renouvelable ;
 
 	**Cite**:
 
-	  - Code de l'urbanisme R111-32
+	  - Code de l'urbanisme - art. R*111-32 (V)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*111-34-1
+
+Les résidences mobiles de loisirs ne peuvent être installées sur un emplacement situé à l'intérieur du périmètre d'un
+terrain, village de vacances ou maison familiale mentionné au 2° et au 3° de l'article R. 111-34 ayant fait l'objet d'une
+cession en pleine propriété, de la cession de droits sociaux donnant vocation à son attribution en propriété ou en jouissance
+ou d'une location pour une durée supérieure à deux ans.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1214 du 29 septembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 17 février 2014 - art. Annexe II (VD)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*111-34
+
+
+###### Article R*111-34-2
+
+Les dispositions du deuxième alinéa de l'article R. 111-32-1 et de l'article R. 111-34-1 ne sont pas applicables : 
+
+1° Aux terrains de camping constitués en société dont les parts ou les droits sociaux donnent vocation à l'attribution d'un
+emplacement en propriété ou en jouissance, enregistrée avant la date de publication du décret n° 2011-1214 du 29 septembre
+2011 portant adaptation des dispositions du code de l'urbanisme relatives aux terrains de camping et aux parcs résidentiels
+de loisirs ; 
+
+2° Aux emplacements de terrains de camping, de villages de vacances classés en hébergement léger au sens du code du tourisme
+ou de dépendances de maisons familiales de vacances agréées au sens du code du tourisme ayant fait l'objet d'une cession en
+pleine propriété ou de la cession de droits sociaux donnant vocation à son attribution en propriété ou en jouissance avant la
+date de publication du décret n° 2011-1214 du 29 septembre 2011 portant adaptation des dispositions du code de l'urbanisme
+relatives aux terrains de camping et aux parcs résidentiels de loisirs ; 
+
+3° Jusqu'au terme du contrat, aux emplacements de terrains de camping, de villages de vacances classés en hébergement léger
+au sens du code du tourisme ou de dépendances de maisons familiales de vacances agréées au sens du code du tourisme ayant
+fait l'objet d'une location d'une durée supérieure à deux ans avant la date de publication du décret n° 2011-1214 du 29
+septembre 2011 portant adaptation des dispositions du code de l'urbanisme relatives aux terrains de camping et aux parcs
+résidentiels de loisirs.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2011-1214 du 29 septembre 2011
+	  - Code de l'urbanisme - art. R*111-32-1 (VT)
+	  - Code de l'urbanisme - art. R*111-34-1 (VT)
+
+	**Créé par**:
+
+	  - Décret n°2011-1214 du 29 septembre 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R111-40 (V)
+	  - Code de l'urbanisme - art. R111-44 (V)
 
 
 ###### Article R*111-35
@@ -48111,43 +48191,54 @@ préservés en application de l'article L. 146-6, les aménagements mentionnés 
 
 ###### Article *R421-23
 
-Doivent être précédés d'une déclaration préalable les travaux, installations et aménagements suivants :
+Doivent être précédés d'une déclaration préalable les travaux, installations et aménagements suivants : 
 
-a) Les lotissements autres que ceux mentionnés au a de l'article R. 421-19 ;
+a) Les lotissements autres que ceux mentionnés au a de l'article R. 421-19 ; 
 
 b) Les divisions des propriétés foncières situées à l'intérieur des zones délimitées en application de l'article L. 111-5-2,
 à l'exception des divisions opérées dans le cadre d'une opération d'aménagement autorisée, des divisions effectuées, avant la
 clôture de l'opération, dans le cadre d'une opération d'aménagement foncier rural relevant du titre II du livre Ier du code
 rural et de la pêche maritime et des divisions résultant d'un bail rural consenti à des preneurs exerçant la profession
-agricole ;
+agricole ; 
 
 c) L'aménagement ou la mise à disposition des campeurs, de façon habituelle, de terrains ne nécessitant pas un permis
-d'aménager en application de l'article R. 421-19 ;
+d'aménager en application de l'article R. 421-19 ; 
 
-d) L'installation, en dehors des terrains de camping et parcs résidentiels de loisirs, d'une caravane autre qu'une résidence
-mobile mentionnée au j ci-dessous lorsque la durée de cette installation est supérieure à trois mois par an ; sont prises en
-compte, pour le calcul de cette durée, toutes les périodes de stationnement, consécutives ou non ;
+d) L'installation, pour une durée supérieure à trois mois par an, d'une caravane autre qu'une résidence mobile mentionnée au
+j ci-dessous :
+
+- sur un terrain situé en dehors d'un parc résidentiel de loisirs, d'un terrain de camping, d'un village de vacances classé
+en hébergement léger au sens du code du tourisme ou d'une dépendance de maison familiale de vacances agréée au sens du code
+du tourisme ;
+
+- sur un emplacement d'un terrain de camping, d'un village de vacances classé en hébergement léger au sens du code du
+tourisme ou d'une dépendance de maison familiale de vacances agréée au sens du code du tourisme qui a fait l'objet d'une
+cession en pleine propriété, de la cession de droits sociaux donnant vocation à sa propriété en attribution ou en jouissance
+ou d'une location d'une durée supérieure à deux ans renouvelable. 
+
+Pour le calcul de la durée de trois mois par an mentionnée au cinquième alinéa, toutes les périodes de stationnement,
+consécutives ou non, sont prises en compte ; 
 
 e) Lorsqu'ils sont susceptibles de contenir de dix à quarante-neuf unités, les aires de stationnement ouvertes au public, les
-dépôts de véhicules et les garages collectifs de caravanes ;
+dépôts de véhicules et les garages collectifs de caravanes ; 
 
 f) A moins qu'ils ne soient nécessaires à l'exécution d'un permis de construire, les affouillements et exhaussements du sol
 dont la hauteur, s'il s'agit d'un exhaussement, ou la profondeur dans le cas d'un affouillement, excède deux mètres et qui
-portent sur une superficie supérieure ou égale à cent mètres carrés ;
+portent sur une superficie supérieure ou égale à cent mètres carrés ; 
 
-g) Les coupes ou abattages d'arbres dans les cas prévus par l'article L. 130-1 ;
+g) Les coupes ou abattages d'arbres dans les cas prévus par l'article L. 130-1 ; 
 
 h) Les travaux ayant pour effet de modifier ou de supprimer un élément que le plan local d'urbanisme ou un document
 d'urbanisme en tenant lieu a identifié, en application du 7° de l'article L. 123-1, comme présentant un intérêt patrimonial
-ou paysager ;
+ou paysager ; 
 
 i) Les travaux autres que ceux exécutés sur des constructions existantes ayant pour effet, dans une commune non couverte par
 un plan local d'urbanisme, de modifier ou de supprimer un élément, qu'une délibération du conseil municipal, prise après
-enquête publique, a identifié comme présentant un intérêt patrimonial ou paysager ;
+enquête publique, a identifié comme présentant un intérêt patrimonial ou paysager ; 
 
 j) L'installation d'une résidence mobile visée par l'article 1er de la loi n° 2000-614 du 5 juillet 2000 relative à l'accueil
 et à l'habitat des gens du voyage, constituant l'habitat permanent des gens du voyage, lorsque cette installation dure plus
-de trois mois consécutifs ;
+de trois mois consécutifs ; 
 
 k) Les aires d'accueil des gens du voyage.
 
@@ -48155,15 +48246,15 @@ k) Les aires d'accueil des gens du voyage.
 
 	**Cite**:
 
-	  - Loi n°2000-614 du 5 juillet 2000 - art. 1 (M)
-	  - Code de l'urbanisme - art. L111-5-2 (M)
-	  - Code de l'urbanisme - art. L123-1 (M)
-	  - Code de l'urbanisme - art. L130-1 (M)
-	  - Code de l'urbanisme - art. R421-19 (M)
+	  - Loi n°2000-614 du 5 juillet 2000 - art. 1
+	  - Code de l'urbanisme - art. *R421-19
+	  - Code de l'urbanisme - art. L111-5-2
+	  - Code de l'urbanisme - art. L123-1
+	  - Code de l'urbanisme - art. L130-1
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+	  - Décret n°2011-1214 du 29 septembre 2011 - art. 2
 
 	**Cité par**:
 
@@ -48210,6 +48301,39 @@ d'une déclaration préalable.
 
 	  - Décret n°2007-18 du 5 janvier 2007 - art. 8 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+
+###### Article R*421-23-1
+
+Les dispositions du d de l'article R. 421-23 ne sont pas applicables : 
+
+1° Aux terrains de camping constitués en société dont les parts ou les droits sociaux donnent vocation à l'attribution d'un
+emplacement en propriété ou en jouissance, enregistrée avant la date de publication du décret n° 2011-1214 du 29 septembre
+2011 portant adaptation des dispositions du code de l'urbanisme relatives aux terrains de camping et aux parcs résidentiels
+de loisirs ; 
+
+2° Aux emplacements de terrains de camping, de villages de vacances classés en hébergement léger au sens du code du tourisme
+ou de dépendances de maisons familiales de vacances agréées au sens du code du tourisme ayant fait l'objet d'une cession en
+pleine propriété ou de la cession de droits sociaux donnant vocation à son attribution en propriété ou en jouissance avant la
+date de publication du décret n° 2011-1214 du 29 septembre 2011 portant adaptation des dispositions du code de l'urbanisme
+relatives aux terrains de camping et aux parcs résidentiels de loisirs ; 
+
+3° Jusqu'au terme du contrat, aux emplacements de terrains de camping, de villages de vacances classés en hébergement léger
+au sens du code du tourisme ou de dépendances de maisons familiales de vacances agréées au sens du code du tourisme ayant
+fait l'objet d'une location d'une durée supérieure à deux ans avant la date de publication du décret n° 2011-1214 du 29
+septembre 2011 portant adaptation des dispositions du code de l'urbanisme relatives aux terrains de camping et aux parcs
+résidentiels de loisirs.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2011-1214 du 29 septembre 2011
+	  - Code de l'urbanisme - art. *R421-23
+
+	**Créé par**:
+
+	  - Décret n°2011-1214 du 29 septembre 2011 - art. 2
 
 
 ###### Article R*421-25
@@ -50256,26 +50380,21 @@ d'avis sont réputés avoir émis un avis favorable.
 
 Par exception aux dispositions de l'article R. 423-59, le délai à l'issue duquel les commissions qui n'ont pas fait parvenir
 à l'autorité compétente leur réponse motivée sont réputées avoir émis un avis favorable est porté à deux mois en ce qui
-concerne la commission départementale de la nature, des paysages et des sites et la commission départementale de l'action
-touristique.
+concerne la commission départementale de la nature, des paysages et des sites.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*423-59 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R423-59
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°2011-1214 du 29 septembre 2011 - art. 3
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*423-59 (V)
 
 
 ###### Article R*423-61
@@ -54420,6 +54539,30 @@ application de la loi n° 2000-614 du 5 juillet 2000 relative à l'accueil et à
 
 #####  Section 1 : Composition du dossier de demande
 
+###### Article R*443-2-1
+
+Lorsque la demande de permis d'aménager est déposée pour se conformer aux normes d'urbanisme, d'insertion dans les paysages,
+d'aménagement, d'équipement et de fonctionnement visées à l'article R. 111-45 du code de l'urbanisme, elle comporte : 
+
+a) Une description sommaire de l'état actuel du terrain de camping indiquant les équipements et aménagements qui ne sont pas
+conformes aux normes en vigueur ; 
+
+b) Une description détaillée des mesures proposées pour assurer la mise aux normes ; 
+
+c) Un document graphique permettant d'apprécier l'insertion du terrain de camping après réalisation des travaux dans
+l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1214 du 29 septembre 2011 - art. 4
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*111-45
+
+
 ###### Article R*443-3
 
 Le plan de composition du projet mentionné au 2° de l'article R. 441-4 indique, s'il y a lieu, les espaces de regroupement
@@ -54643,12 +54786,7 @@ sur le terrain.
 ###### Article R*443-8
 
 Le bénéficiaire du permis d'aménager ne peut commencer l'exploitation du terrain de camping ou du parc résidentiel de loisirs
-qu'après avoir :
-
-a) Adressé à la mairie la déclaration d'achèvement prévue à l'article L. 462-1 ;
-
-b) Obtenu du préfet, dans les conditions prévues par le code du tourisme, un arrêté de classement qui détermine, le cas
-échéant, le mode d'exploitation autorisé.
+qu'après avoir adressé à la mairie la déclaration d'achèvement prévue à l'article L. 462-1. 
 
 Il est tenu d'interrompre l'exploitation jusqu'à obtention d'un permis modificatif ou mise en conformité des travaux lorsque
 l'autorité compétente lui a adressé une mise en demeure dans les conditions prévues à l'article L. 462-2.
@@ -54657,8 +54795,7 @@ l'autorité compétente lui a adressé une mise en demeure dans les conditions p
 
 	**Modifié par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 8 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+	  - Décret n°2011-1214 du 29 septembre 2011 - art. 4
 
 	**Cité par**:
 
@@ -54673,8 +54810,8 @@ l'autorité compétente lui a adressé une mise en demeure dans les conditions p
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L462-1 (V)
-	  - Code de l'urbanisme - art. L462-2 (V)
+	  - Code de l'urbanisme - art. L462-1
+	  - Code de l'urbanisme - art. L462-2
 
 	**Anciens textes**:
 
