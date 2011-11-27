@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2011-11-25
+Version Consolidée au 2011-11-28
 
 # Partie législative
 
@@ -29203,13 +29203,13 @@ précédent. Il peut être renouvelé.
 
 ###### Article R*121-4-1
 
-Sont opérations d'intérêt national, au sens de l'article L. 121-9, les travaux relatifs : 
+Sont opérations d'intérêt national, au sens de l'article L. 121-9-1, les travaux relatifs : 
 
 a) Aux agglomérations nouvelles régies par le livre III de la cinquième partie du code général des collectivités
 territoriales, dans leur périmètre d'urbanisation défini en application des articles L. 5311-1 et L. 5311-2 de ce code ; 
 
 b) A l'opération d'aménagement du quartier d'affaires de La Défense, dans un périmètre délimité par décret en Conseil d'Etat
-(4) ;
+(4) ; 
 
 c) Aux domaines industrialo-portuaires d'Antifer, du Verdon et de Dunkerque, dans les périmètres respectifs des ports
 autonomes du Havre, de Bordeaux et de Dunkerque ; 
@@ -29220,7 +29220,7 @@ e) A l'opération d'aménagement Euroméditerranée dans la commune de Marseille
 l'Etablissement public d'aménagement Euroméditerranée ; 
 
 f) A l'opération d'aménagement de Nanterre et de La Garenne-Colombes, dans un périmètre délimité par décret en Conseil d'Etat
-(5) ;
+(5) ; 
 
 g) A l'aménagement et au développement des aérodromes de Paris-Charles-de-Gaulle, de Paris-Orly et de Paris-Le Bourget, à
 l'intérieur des périmètres délimités, pour l'application de l'article L. 251-3 du code de l'aviation civile, par le cahier
@@ -29232,14 +29232,17 @@ i) A l'aménagement du secteur du Mantois-Seine aval, dans les périmètres déf
 
 j) A l'aménagement du secteur d'Orly-Rungis-Seine amont, dans les périmètres définis par décret en Conseil d'Etat ; 
 
-k) Aux opérations d'aménagement de la Plaine du Var, dans le périmètre défini par décret en Conseil d'Etat (1) ;
+k) Aux opérations d'aménagement de la Plaine du Var, dans le périmètre défini par décret en Conseil d'Etat (1) ; 
 
-l) Aux opérations d'aménagement du Plateau de Saclay, dans le périmètre défini par décret en Conseil d'Etat (2) ;
+l) Aux opérations d'aménagement du Plateau de Saclay, dans le périmètre défini par décret en Conseil d'Etat (2) ; 
 
 m) A l'opération d'aménagement Bordeaux-Euratlantique dans les communes de Bordeaux, Bègles et Floirac dans le périmètre
-défini par décret en Conseil d'Etat (3) ;
+défini par décret en Conseil d'Etat (3) ; 
 
-n) A l'opération d'aménagement dite d'Alzette-Belval, dans le périmètre défini par décret en Conseil d'Etat (6).
+n) A l'opération d'aménagement dite d'Alzette-Belval, dans le périmètre défini par décret en Conseil d'Etat (6) ; 
+
+o) A l'opération d'aménagement dite " Villages Nature " sur la commune de Villeneuve-le-Comte dans le périmètre défini par
+décret en Conseil d'Etat (7).
 
 **Nota:**
 
@@ -29273,7 +29276,11 @@ Dans les mairies des communes d'Audun-le-Tiche, 12, rue du Maréchal-Foch, 57390
 de-Ville, 57710 Aumetz, Boulange, 3, rue des Ecoles, 57655 Boulange, Ottange, 1, rue Principale, 57840 Ottange, Rédange, 8 A,
 rue de la Tour, 57390 Rédange, Russange, 26, rue Jean-Moulin, 57390 Russange, Thil, place du 8-Mai-1945, 54880 Thil, et
 Villerupt, 5, avenue Albert-Lebrun, 54190 Villerupt, peuvent être consultés le plan général et le plan au 1/5 000 concernant
-la commune concernée.
+la commune concernée. 
+
+(7) Ce plan peut être consulté à la préfecture de Seine-et-Marne (12, rue des Saints-Pères, 77010 Melun), à la mairie de
+Villeneuve-le-Comte (place de la Mairie, 77174 Villeneuve-le-Comte) et au siège de l'Etablissement public d'aménagement du
+secteur IV de Marne-la-Vallée (5, boulevard Pierre-Carle, Noisiel, 77425 Marne-la-Vallée).
 
 **Liens relatifs à cet article**
 
@@ -29285,13 +29292,13 @@ la commune concernée.
 
 	**Modifié par**:
 
-	  - Décret n°2011-414 du 18 avril 2011 - art. 1
+	  - Décret n°2011-1649 du 25 novembre 2011 - art. 1
 
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. L5311-1
 	  - Code général des collectivités territoriales - art. L5311-2
-	  - Code de l'urbanisme - art. L121-9
+	  - Code de l'urbanisme - art. L121-9-1
 	  - Code de l'aviation civile - art. L251-3
 
 
