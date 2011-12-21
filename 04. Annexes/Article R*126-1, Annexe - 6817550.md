@@ -14,8 +14,9 @@ Servitudes relatives aux forêts dites de protection instituées en application 
 forestier ;
 
 Prescriptions et interdictions auxquelles sont soumis les propriétaires en application des articles L. 421-1, L. 432-1, L.
-432-2, L. 531-1 et L. 541-2 du code forestier 
-  _(2)_ ;
+432-2, L. 531-1 et L. 541-2 du code forestier
+
+_(2)_ ;
 
 b) Littoral maritime.
 
@@ -61,10 +62,13 @@ Périmètres de protection éventuellement délimités par décrets en Conseil d
 3) de la loi du 31 décembre 1913, autour des monuments historiques classés ou inscrits ;
 
 Zones de protection des monuments historiques créées en application de l'article 28 de la loi du 2 mai 1930 modifiée 
-  _(3)_
+  _(3)_ ;
 
 Périmètres de protection des monuments historiques classés ou inscrits et portés sur la liste visée ci-dessus, tels qu'ils
-résultent des dispositions combinées des articles 1er et 13 bis de la loi du 31 décembre 1913.
+résultent des dispositions combinées des articles 1er et 13 bis de la loi du 31 décembre 1913 ;
+
+Aires de mise en valeur de l'architecture et du patrimoine créées en application de l'article L. 642-1 du code du
+patrimoine. 
 
 b) Monuments naturels et sites.
 
@@ -186,8 +190,9 @@ n° 58-1311 du 23 décembre 1958 et du décret n° 58-1316 du 23 décembre 1958 
 Servitudes attachées à l'alignement des voies nationales, départementales ou communales ;
 
 Servitudes relatives aux interdictions d'accès grevant les propriétés limitrophes des routes express et des déviations
-d'agglomérations en application des articles 4 et 5 de la loi n° 69-7 du 3 janvier 1969 
-  _(10)_.
+d'agglomérations en application des articles 4 et 5 de la loi n° 69-7 du 3 janvier 1969
+
+_(10)_.
 
 e) Circulation aérienne.
 
@@ -251,11 +256,12 @@ a) Cimetières.
 
 Servitudes relatives aux cimetières instituées par :
 
-L'article L. 361-1 du code des communes 
+L'article L. 361-1 du code des communes
   _(11)_ ;
 
-L'article L. 361-4 du code des communes 
-  _(12)_.
+L'article L. 361-4 du code des communes
+
+_(12)_.
 
 b) Etablissements conchylicoles.
 
@@ -318,77 +324,46 @@ transparence et à la sécurité en matière nucléaire.
 
 	**Cite**:
 
-	  - Code rural L151-37-1, L112-2, L642-1, L642-2, 128-7, 128-9, 128-6, 138-1, 135 à 138, 424
-	  - Décret n°1935-10-30 art. 6, art. 3, art. 2
-	  - Loi n°58-336 du 29 mars 1958 - art. 11 (M)
-	  - Décret n°58-1316 1958-12-23
-	  - Décret n°59-96 1959-01-07
-	  - Décret n°59-645 1959-05-16
-	  - Décret n°64-153 1964-02-15
-	  - Décret n°64-481 1964-01-23 art. 25
-	  - Loi n°1791-07-08
-	  - Loi n°1819-07-17
-	  - Loi n°1845-07-15
-	  - Loi n°1851-07-10
-	  - Loi n°1895-07-18
-	  - Loi n°1906-06-15 art. 12, art. 12 bis
-	  - Loi n°1913-12-31 art. 1 à 5, art. 1, art. 13 bis
-	  - Loi n°1919-10-16 art. 4
-	  - Loi n°1925-07-13 art. 298
-	  - Loi n°1927-07-13 art. 25
-	  - Loi n°1929-08-08
-	  - Loi n°1930-05-02 art. 28, art. 17
-	  - Loi n°1933-05-27
-	  - Loi n°1933-07-11
-	  - Loi n°1941-07-08
-	  - Loi n°46-628 1946-04-08 art. 35
-	  - Ordonnance 58-1311 1958-12-23
-	  - Loi n°62-904 1962-08-04
-	  - Loi n°63-1178 du 28 novembre 1963 - art. 4, v. init.
-	  - Loi n°65-498 1965-06-29
-	  - Loi n°66-1066 1966-12-31
-	  - Loi n°69-7 du 3 janvier 1969 - art. 4 (Ab)
-	  - Loi n°69-7 du 3 janvier 1969 - art. 5 (Ab)
-	  - Loi n°80-531 1980-07-15
-	  - Loi n°84-610 du 16 juillet 1984 - art. 42 (M)
-	  - Loi n°85-30 1985-01-09 art. 53
-	  - Loi n°87-954 1987-11-27
-	  - Loi n°91-1385 1991-12-31
-	  - Ordonnance 2004-632 2004-07-01 art. 28
-	  - Loi n°2006-686 2006-06-13 art. 31
-	  - CODE DES COMMUNES. - art. L361-1 (M)
-	  - CODE DES COMMUNES. - art. L361-4 (M)
-	  - Code forestier - art. L421-1 (V)
-	  - Code forestier - art. L432-1 (M)
-	  - Code forestier - art. L432-2 (V)
-	  - Code forestier - art. L531-1 (Ab)
-	  - Code forestier - art. L541-2 (Ab)
-	  - Code forestier L151-1 à L151-6, L411-1 à L413-1, L421-1, L432-1, L432-2, L531-1, L541-2
-	  - Code minier 71 à 73, 104-3, 94
-	  - Code de la santé publique - art. L1321-2 (M)
-	  - Code de la santé publique - art. R1321-13 (M)
-	  - Code de la santé publique L1321-2, R1321-13, L1322-3 à L1322-13
-	  - Code de l'urbanisme - art. L160-6 (M)
-	  - Code de l'urbanisme - art. L160-6-1 (V)
-	  - Code de l'urbanisme L160-6, L160-6-1, 11
-	  - Code de l'environnement - art. L211-12 (M)
-	  - Code de l'environnement - art. L211-7 (M)
-	  - Code de l'environnement - art. L215-4 (M)
-	  - Code de l'environnement - art. L215-5 (Ab)
-	  - Code de l'environnement - art. L331-4 (M)
-	  - Code de l'environnement - art. L515-15 (V)
-	  - Code de l'environnement - art. L562-1 (M)
-	  - Code de l'environnement - art. L562-6 (V)
-	  - Code de l'environnement L215-4, L215-5, L211-7, L332-1 à L332-19-1, L332-16 à L332-18, L331-4, L562-1, L562-6, L515-8 à L515-12, L211-12, L515-15
-	  - Code de l'aviation civile - art. L281-1 (M)
-	  - Code de l'aviation civile - art. R244-1 (M)
-	  - Code de l'aviation civile - art. R245-1 (M)
-	  - Code de l'aviation civile L281-1, R241-1 à R243-3, R245-1, R244-1, D244-1 à D244-4, L54 à L56-1, R21 à R26-1, L57 à L62-1, R27 à R39, L45-1, L48
-	  - Code du domaine public fluvial et de la navigation - art. 15 (M)
-	  - Code du domaine public fluvial et de la navigation - art. 16 (M)
-	  - Code du domaine public fluvial et de la navigation - art. 28 (M)
-	  - Code du domaine public fluvial et de la navigation - art. 55 (Ab)
+	  - Loi du 15 juin 1906 - art. 12
+	  - Loi du 31 décembre 1913
+	  - Loi du 27 mai 1933
+	  - Loi du 8 juillet 1941
+	  - Loi n°46-628 du 8 avril 1946 - art. 35
+	  - Loi n°58-336 du 29 mars 1958 - art. 11
+	  - Ordonnance n°58-1311 du 23 décembre 1958
+	  - Décret n°58-1316 du 23 décembre 1958
+	  - Décret n°59-96 du 7 janvier 1959
+	  - Décret n°59-645 du 16 mai 1959
+	  - Loi n°62-904 du 4 août 1962
+	  - Loi n°63-1178 du 28 novembre 1963 - art. 4
+	  - Décret n°64-153 du 15 février 1964
+	  - Loi n°65-498 du 29 juin 1965
+	  - Loi n°66-1066 du 31 décembre 1966
+	  - Loi n°69-7 du 3 janvier 1969 - art. 4
+	  - Loi n°80-531 du 15 juillet 1980
+	  - Loi n°84-610 du 16 juillet 1984 - art. 42
+	  - Loi n°85-30 du 9 janvier 1985 - art. 53
+	  - Loi n°87-954 du 27 novembre 1987
+	  - Loi n°91-1385 du 31 décembre 1991
+	  - Ordonnance n°2004-632 du 1 juillet 2004 - art. 28
+	  - Loi n°2006-686 du 13 juin 2006 - art. 31
+	  - Loi du 15 juillet 1845
+	  - Loi du 8 juillet 1791
+	  - Code des communes
+	  - Loi  du 10 juillet 1851
+	  - Loi du 17 juillet 1819
+	  - Code forestier - art. L421-1
+	  - Code minier - art. 94
+	  - Code de la santé publique - art. L1321-2
+	  - Loi du 18 juillet 1895
+	  - Loi du 11 juillet 1933
+	  - Loi  du 8 août 1929
+	  - Décret du 30 octobre 1935 - art. 3
+	  - Code du patrimoine - art. L642-1
+	  - Loi du 2 mai 1930 - art. 17
+	  - Loi du 2 mai 1930 - art. 28
+	  - décret du 30 octobre 1935
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 2

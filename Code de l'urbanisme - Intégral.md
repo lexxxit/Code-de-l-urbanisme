@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2011-11-28
+Version Consolidée au 2011-12-22
 
 # Partie législative
 
@@ -26925,30 +26925,34 @@ remplacés par les mots : " du plan d'aménagement et de développement durable 
 
 Les dispositions du présent chapitre sont applicables aux constructions, aménagements, installations et travaux faisant
 l'objet d'un permis de construire, d'un permis d'aménager ou d'une déclaration préalable ainsi qu'aux autres utilisations du
-sol régies par le présent code.
+sol régies par le présent code. 
 
-Toutefois :
+Toutefois : 
 
 a) Les dispositions des articles R. 111-3, R. 111-5 à 111-14, R. 111-16 à R. 111-20 et R. 111-22 à R. 111-24-2 ne sont pas
-applicables dans les territoires dotés d'un plan local d'urbanisme ou d'un document d'urbanisme en tenant lieu ;
+applicables dans les territoires dotés d'un plan local d'urbanisme ou d'un document d'urbanisme en tenant lieu ; 
 
-b) Les dispositions de l'article R. 111-21 ne sont pas applicables dans les zones de protection du patrimoine architectural,
-urbain et paysager créées en application de l'article L. 642-1 du code du patrimoine ni dans les territoires dotés d'un plan
-de sauvegarde et de mise en valeur approuvé en application de l'article L. 313-1 du présent code.
+b) Les dispositions de l'article R. * 111-21 ne sont applicables ni dans les zones de protection du patrimoine architectural,
+urbain et paysager, ni dans les aires de mise en valeur de l'architecture et du patrimoine, ni dans les territoires dotés
+d'un plan de sauvegarde et de mise en valeur approuvé en application de l'article L. 313-1 du présent code.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 1 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-	  - Décret n°2007-1222 du 20 août 2007 - art. 1 (V) JORF 21 août 2007
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L313-1 (M)
-	  - Code de l'urbanisme - art. R111-21 (M)
-	  - Code de l'urbanisme - art. R111-3 (M)
-	  - Code de l'urbanisme R111-3, R111-5 à 111-14, R111-16 à R111-20, R111-22 à R111-24-2, L313-1, R111-21
+	  - Code de l'urbanisme - art. L313-1
+	  - Code de l'urbanisme - art. R111-16
+	  - Code de l'urbanisme - art. R111-21
+	  - Code de l'urbanisme - art. R111-22
+	  - Code de l'urbanisme - art. R111-3
 
 	**Liens**:
 
@@ -26964,11 +26968,15 @@ de sauvegarde et de mise en valeur approuvé en application de l'article L. 313-
 	  - Code de l'urbanisme - art. R*143-17 (Ab)
 	  - Code de l'urbanisme - art. R*315-28 (Ab)
 	  - Code de l'urbanisme - art. R*710-1 (Ab)
-	  - Code de l'urbanisme - art. R150-1 (V)
+	  - Code de l'urbanisme - art. R150-1 (VT)
 
 	**Anciens textes**:
 
 	  - Code de l'urbanisme - art. R110-1 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R111-1 (M)
 
 	**Codifié par**:
 
@@ -28576,20 +28584,20 @@ propriétaire.
 
 ###### Article R*111-42
 
-Le camping pratiqué isolément ainsi que la création de terrains de camping sont interdits :
+Le camping pratiqué isolément ainsi que la création de terrains de camping sont interdits : 
 
 1° Sauf dérogation accordée, après avis de l'architecte des Bâtiments de France et de la commission départementale de la
 nature, des paysages et des sites, par l'autorité compétente définie aux articles L. 422-1 et L. 422-2, sur les rivages de la
-mer et dans les sites inscrits en application de l'article L. 341-1 du code de l'environnement ;
+mer et dans les sites inscrits en application de l'article L. 341-1 du code de l'environnement ; 
 
 2° Sauf dérogation accordée par l'autorité administrative après avis de la commission départementale de la nature, des
-paysages et des sites, dans les sites classés en application de l'article L. 341-2 du code de l'environnement ;
+paysages et des sites, dans les sites classés en application de l'article L. 341-2 du code de l'environnement ; 
 
 3° Sauf dérogation accordée dans les mêmes conditions qu'au 1°, dans les secteurs sauvegardés créés en application de
 l'article L. 313-1, dans le champ de visibilité des édifices classés ou inscrits au titre des monuments historiques et des
 parcs et jardins classés ou inscrits ayant fait l'objet d'un périmètre de protection délimité dans les conditions fixées à
 l'article L. 621-30-1 du code du patrimoine et dans les zones de protection du patrimoine architectural, urbain et paysager
-instituées en application de l'article L. 642-1 du même code ;
+ou dans les aires de mise en valeur de l'architecture et du patrimoine ; 
 
 4° Sauf dérogation accordée, après avis favorable du conseil départemental de l'environnement et des risques sanitaires et
 technologiques, par l'autorité compétente définie aux articles L. 422-1 et L. 422-2, dans un rayon de 200 mètres autour des
@@ -28598,15 +28606,18 @@ application de l'article L. 1321-2 du code de la santé publique.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 2
+
 	**Cite**:
 
-	  - Code de la santé publique - art. L1321-2 (M)
-	  - Code de l'urbanisme - art. L313-1 (M)
-	  - Code de l'urbanisme - art. L422-1 (M)
-	  - Code de l'urbanisme - art. L422-2 (M)
-	  - Code de l'environnement - art. L341-1 (M)
-	  - Code de l'environnement - art. L341-2 (M)
-	  - Code de l'environnement L341-1, L341-2, L621-30-1, L642-1
+	  - Code de la santé publique - art. L1321-2
+	  - Code de l'urbanisme - art. L313-1
+	  - Code de l'urbanisme - art. L422-1
+	  - Code de l'environnement - art. L341-1
+	  - Code de l'environnement - art. L341-2
+	  - Code du patrimoine - art. L621-30-1
 
 	**Cité par**:
 
@@ -28616,10 +28627,6 @@ application de l'article L. 1321-2 du code de la santé publique.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 1 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
 ###### Article R*111-43
@@ -39251,6 +39258,21 @@ d'aménagement.
 	  - Code de l'urbanisme - art. R*300-4
 
 
+#### Sous-section 4 : Concessions d'aménagement accordées par l'Etat
+
+###### Article R*300-11-9
+
+Lorsque la concession est accordée au nom de l'Etat, elle est consentie par arrêté conjoint du ministre chargé de
+l'urbanisme, du ministre de l'intérieur et du ministre de l'économie et des finances, après consultation des collectivités
+territoriales intéressées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1900 du 20 décembre 2011 - art. 2
+
+
 ###  Section 3 : Contrats conclus par le concessionnaire d'une opération d'aménagement
 
 ###### Article R*300-12
@@ -41581,18 +41603,34 @@ l'enquête publique ou tenu à la disposition du public.
 
 ### Titre II : Organismes d'exécution
 
-#### Chapitre I : Sociétés d'économie mixte et établissements publics
-
-#####  Section 1 : Opérations d'aménagement
+#### Chapitre Ier : Etablissements publics
 
 ###### Article R*321-1
 
-Les opérations mentionnées au premier alinéa de l'article L. 321-1 peuvent être confiées à des sociétés d'économie mixte dont
-le capital social est détenu, à concurrence de plus de 50 % sans pouvoir excéder 65 %, par des collectivités territoriales et
-des groupements de ces collectivités. Les statuts de ces sociétés comportent des clauses types fixées par décret en Conseil
-d'Etat.
+Les établissements publics fonciers de l'Etat créés en application de l'article L. 321-1, les établissements publics
+d'aménagement créés en application de l'article L. 321-14  et l'Agence foncière et technique de la région parisienne
+mentionnée à l'article L. 321-29 ont un caractère industriel et commercial. 
+
+Ils sont placés sous la tutelle du ministre chargé de l'urbanisme. 
+
+Le décret constitutif de l'établissement public détermine son objet, son périmètre de compétence et éventuellement sa durée. 
+
+Il fixe ses statuts, notamment en ce qui concerne :
+
+- la composition du conseil d'administration, celle du bureau et la désignation de son président le cas échéant ;
+
+- les pouvoirs du conseil d'administration ;
+
+- les délégations au bureau sous réserve des dispositions de l'article R. * 321-6 et au directeur général sous réserve de
+celles du I de l'article R. * 321-9 ;
+
+- les modalités de publicité des délibérations et des décisions sous réserve des dispositions de l'article R. * 321-12.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 	**Cité par**:
 
@@ -41609,33 +41647,59 @@ d'Etat.
 	  - Code de l'urbanisme - art. R*318-1 (V)
 	  - Code de l'urbanisme - art. R*730-1 (Ab)
 
+	**Modifié par**:
+
+	  - Décret n°2011-1900 du 20 décembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L321-1
+	  - Code de l'urbanisme - art. L321-14
+	  - Code de l'urbanisme - art. L321-29
+	  - Code de l'urbanisme - art. R*321-12 (V)
+	  - Code de l'urbanisme - art. R*321-6 (V)
+	  - Code de l'urbanisme - art. R*321-9 (V)
+
+
+###### Article R*321-2
+
+Les dispositions des décrets en Conseil d'Etat prévues aux articles L. 321-2  et L. 321-15 autres que celles relatives au
+périmètre de l'établissement, à la composition et aux pouvoirs du conseil d'administration et du bureau et aux ressources de
+l'établissement peuvent être modifiées par décret.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2009-6 du 5 janvier 2009 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2011-1900 du 20 décembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L321-15
+	  - Code de l'urbanisme - art. L321-2
+
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Cite**:
 
-	  - Code de l'urbanisme - art. L321-1 (M)
+###### Article R*321-3
 
-	**Liens**:
+Le conseil d'administration des établissements publics fonciers de l'Etat, des établissements publics d'aménagement et de
+l'Agence foncière et technique de la région parisienne se réunit au moins deux fois par an. 
 
-	  - TXT_ASSOCIE: Code de l'urbanisme R321-13
+Le conseil d'administration est convoqué par son président qui fixe l'ordre du jour et dirige les débats. Le préfet compétent
+peut soumettre au conseil d'administration toute question dont l'examen lui paraît utile. Le président est tenu de l'inscrire
+à l'ordre du jour de la séance du conseil d'administration la plus proche. 
 
-
-#####  Section 2 : Modalités de constitution et de fonctionnement des établissements publics et des sociétés d'économie mixte
-
-##### Paragraphe 1 : Etablissements publics
-
-###### Article R*321-2
-
-Les établissements publics créés en application des articles L. 321-1 et R. 321-1 ont un caractère industriel et commercial.
-Ils sont dotés de la personnalité morale et de l'autonomie financière.
+La convocation du conseil d'administration est de droit si la moitié des membres au moins ou le préfet compétent adressent la
+demande écrite à son président.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1959-05-19 ART. 1
 
 	**Codifié par**:
 
@@ -41643,27 +41707,89 @@ Ils sont dotés de la personnalité morale et de l'autonomie financière.
 
 	**Cité par**:
 
-	  - Décret n°2009-6 du 5 janvier 2009 (V)
+	  - Décret n°68-376 du 26 avril 1968 - art. 9 (V)
+	  - Décret n°72-770 du 17 août 1972 - art. 8 (V)
+	  - Décret n°73-250 du 7 mars 1973 - art. 8 (V)
+	  - Décret n°90-1154 du 19 décembre 1990 - art. 10 (V)
+	  - Décret n°96-325 du 10 avril 1996 - art. 8 (V)
+	  - Décret n°2001-1234 du 20 décembre 2001 - art. 8 (V)
+	  - Décret n°2006-1140 du 13 septembre 2006 - art. 10 (V)
+	  - Décret n°2007-88 du 24 janvier 2007 - art. 8 (V)
+	  - Décret n°2008-645 du 30 juin 2008 - art. 9 (V)
+	  - Décret n°2008-670 du 2 juillet 2008 - art. 9 (V)
+	  - Décret n°2008-773 du 30 juillet 2008 - art. 8 (V)
+	  - Décret n°2009-636 du 8 juin 2009 - art. 10 (V)
+	  - Décret n°2010-306 du 22 mars 2010 - art. 8 (V)
+	  - Décret n°2010-503 du 18 mai 2010 - art. 8 (V)
+	  - Décret n°2012-327  du 6 mars 2012 - art. 8 (V)
+	  - Décret n°2012-764 du 9 mai 2012 - art. 9 (V)
+	  - Décret n°2015-980 du 31 juillet 2015 - art. 7 (VD)
+	  - Décret n°2016-1865 du 23 décembre 2016 - art. 8 (VD)
+	  - Décret n°2017-341 du 15 mars 2017 - art. 8 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2011-1900 du 20 décembre 2011 - art. 1
+
+
+###### Article R*321-4
+
+Pour chaque membre du conseil d'administration des établissements publics fonciers de l'Etat, des établissements publics
+d'aménagement et de l'Agence foncière et technique de la région parisienne, un membre suppléant est désigné dans les mêmes
+conditions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cité par**:
+
+	  - Décret n°68-376 du 26 avril 1968 - art. 5 (V)
+	  - Décret n°72-27 du 10 janvier 1972 - art. 5 (V)
+	  - Décret n°72-770 du 17 août 1972 - art. 5 (V)
+	  - Décret n°73-250 du 7 mars 1973 - art. 5 (V)
+	  - Décret n°90-1154 du 19 décembre 1990 - art. 6 (V)
+	  - Décret n°95-1102 du 13 octobre 1995 - art. 5 (V)
+	  - Décret n°98-923 du 14 octobre 1998 - art. 7 (V)
+	  - Décret n°2001-1234 du 20 décembre 2001 - art. 5 (V)
+	  - Décret n°2006-1140 du 13 septembre 2006 - art. 6 (V)
+	  - Décret n°2007-88 du 24 janvier 2007 - art. 5 (V)
+	  - Décret n°2008-645 du 30 juin 2008 - art. 5 (V)
+	  - Décret n°2008-670 du 2 juillet 2008 - art. 5 (V)
+	  - Décret n°2008-773 du 30 juillet 2008 - art. 5 (V)
+	  - Décret n°2009-636 du 8 juin 2009 - art. 6 (V)
+	  - Décret n°2010-306 du 22 mars 2010 - art. 5 (V)
+	  - Décret n°2010-503 du 18 mai 2010 - art. 4 (V)
+	  - Décret n°2012-327  du 6 mars 2012 - art. 5 (VD)
+	  - Décret n°2012-764 du 9 mai 2012 - art. 5 (VD)
+	  - Décret n°2015-980 du 31 juillet 2015 - art. 4 (VD)
+	  - Décret n°2016-1865 du 23 décembre 2016 - art. 5 (VD)
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L321-1 (M)
-	  - Code de l'urbanisme L321-1, R321-1
+	  - Loi n°83-636 du 13 juillet 1983
+	  - Code de l'urbanisme - art. L321-5
+
+	**Modifié par**:
+
+	  - Décret n°2011-1900 du 20 décembre 2011 - art. 1
 
 
 ###### Article R*321-5
 
-Faute par l'assemblée spéciale instituée en application de l'article L. 321-5 d'avoir élu ses représentants au conseil
-d'administration de l'établissement, il est procédé à cette désignation par le préfet.
-
-L'assemblée spéciale est réunie au moins une fois par an dans des conditions fixées par le statut. Elle peut être convoquée
-en séance extraordinaire soit par le président du conseil d'administration, soit à la demande d'un tiers des membres de
-l'assemblée.
-
-Elle entend le compte-rendu de l'activité du conseil d'administration. Elle donne son avis notamment sur les prévisions
-budgétaires, les comptes et l'orientation générale de l'activité de l'établissement.
+Les membres du conseil d'administration des établissements publics fonciers de l'Etat, des établissements publics
+d'aménagement et de l'Agence foncière et technique de la région parisienne ne peuvent prendre ou conserver aucun intérêt
+directement lié à l'activité de l'établissement, occuper aucune fonction dans les entreprises traitant avec l'établissement
+pour des marchés de services, de travaux ou de fournitures ou assurer des prestations pour ces entreprises. Ils ne peuvent en
+aucun cas prêter leur concours à titre onéreux à l'établissement.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 	**Cité par**:
 
@@ -41689,20 +41815,42 @@ budgétaires, les comptes et l'orientation générale de l'activité de l'établ
 	  - Décret n°2016-1865 du 23 décembre 2016 - art. 6 (VD)
 	  - Décret n°2017-341 du 15 mars 2017 - art. 6 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2011-1900 du 20 décembre 2011 - art. 1
+
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L321-5 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
+	  - Code de l'urbanisme - art. L321-5
 
 
 ###### Article R*321-6
 
-Les membres du conseil d'administration ne peuvent prendre ou conserver aucun intérêt, occuper aucune fonction dans les
-entreprises privées traitant avec l'établissement pour des marchés de travaux ou de fournitures ou assurer des prestations
-pour ces entreprises. Ils ne peuvent, en aucun cas, prêter leur concours, à titre onéreux, à l'établissement.
+Le conseil d'administration des établissements publics fonciers de l'Etat et des établissements publics d'aménagement peut
+déléguer le cas échéant ses pouvoirs au bureau, à l'exception des décisions concernant : 
+
+1° La définition de l'orientation de la politique de l'établissement ; 
+
+2° L'approbation du programme pluriannuel d'intervention ou du projet stratégique et opérationnel ; 
+
+3° L'approbation de l'état prévisionnel des recettes et des dépenses ; 
+
+4° L'autorisation des emprunts ; 
+
+5° L'arrêt du compte financier et l'affectation des résultats ; 
+
+6° La mise en œuvre des investissements au-delà d'un seuil fixé dans le règlement intérieur ; 
+
+7° L'adoption du règlement intérieur, qui définit notamment les conditions de fonctionnement du bureau ; 
+
+8° La fixation de la domiciliation du siège. 
+
+S'ajoutent à cette liste : 
+
+Pour les établissements publics fonciers de l'Etat : la fixation du montant de la ressource fiscale spécifique autorisée par
+la loi. 
+
+Pour les établissements publics d'aménagement : le recours à l'arbitrage.
 
 **Liens relatifs à cet article**
 
@@ -41720,58 +41868,21 @@ pour ces entreprises. Ils ne peuvent, en aucun cas, prêter leur concours, à ti
 	  - Décret n°2016-1865 du 23 décembre 2016 - art. 9 (VD)
 	  - Décret n°2017-341 du 15 mars 2017 - art. 9 (V)
 
-	**Anciens textes**:
-
-	  - Décret  1959-05-19 ART. 5
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*321-6-1
-
-Le statut des personnels de ceux des établissements publics, créés en application du premier alinéa de l'article L. 321-1,
-qui sont chargés de l'aménagement d'une agglomération nouvelle, est fixé par arrêté conjoint du ministre chargé de
-l'urbanisme, du ministre de l'économie et des finances et du ministre de l'intérieur pris après avis des conseils
-d'administration des établissements publics intéressés et consultation des organisations syndicales les plus représentatives.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2011-1900 du 20 décembre 2011 - art. 1
 
-	**Cite**:
+	**Codifié par**:
 
-	  - Code de l'urbanisme - art. L321-1
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*321-7
 
-Les fonctions d'agent-comptable sont confiées par le préfet, après avis du trésorier-payeur général, soit à un comptable
-direct du Trésor, soit à un agent comptable spécial nommé sur proposition du conseil d'administration.
-
-L'agent comptable est chargé, sous sa responsabilité propre, de la perception des recettes, du payement des dépenses, de la
-caisse et du portefeuille. Il a seul qualité pour opérer tout maniement de fonds ou de valeurs. Il veille à la conservation
-des droits et à la rentrée des revenus, créances et autres ressources de l'établissement.
-
-Il est personnellement et pécuniairement responsable de sa gestion et de la sincérité de ses écritures. Il doit, dans
-l'exécution de son service, se conformer aux directives générales d'ordre financier et comptable applicables, sauf
-dispositions contraires du décret institutif, aux établissements publics communaux.
-
-Il est justiciable de la Cour des comptes et soumis au contrôle de l'inspection générale des finances et du trésorier-payeur
-général.
+Le président du conseil d'administration de l'Agence foncière et technique de la région parisienne est nommé par décret parmi
+les membres du conseil d'administration représentant l'Etat.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1959-05-19 ART. 6
 
 	**Codifié par**:
 
@@ -41785,17 +41896,25 @@ général.
 	  - Décret n°2015-980 du 31 juillet 2015 - art. 6 (M)
 	  - Décret n°2015-980 du 31 juillet 2015 - art. 15 (Ab)
 
+	**Modifié par**:
+
+	  - Décret n°2011-1900 du 20 décembre 2011 - art. 1
+
 
 ###### Article R*321-8
 
-Le compte financier, visé par le directeur, délibéré par le conseil d'administration et arrêté par le préfet, est présenté
-par l'agent comptable à la Cour des comptes dans les quatre mois qui suivent la clôture de l'exercice.
+Les directeurs généraux des établissements publics de l'Etat et des établissements publics d'aménagement sont nommés par
+arrêté du ministre chargé de l'urbanisme après avis du préfet compétent et du président du conseil d'administration pour une
+durée de cinq ans renouvelable. Il peut être mis fin à leurs fonctions dans les mêmes formes avant l'expiration de leur
+mandat. 
+
+Les avis du préfet compétent et du président du conseil d'administration sont réputés favorables s'ils n'ont pas été émis
+dans le délai d'un mois. 
+
+Les fonctions de directeur général d'un établissement public foncier de l'Etat ou d'un établissement public d'aménagement
+sont incompatibles avec celles de membre du conseil d'administration.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1959-05-19 art. 7
 
 	**Codifié par**:
 
@@ -41827,31 +41946,40 @@ par l'agent comptable à la Cour des comptes dans les quatre mois qui suivent la
 
 	**Modifié par**:
 
-	  - Décret n°2005-387 du 19 avril 2005 - art. 3 () JORF 27 avril 2005
+	  - Décret n°2011-1900 du 20 décembre 2011 - art. 1
 
 
 ###### Article R*321-9
 
-Les établissements publics sont soumis au contrôle du préfet lorsque leur activité s'exerce dans le cadre d'un seul
-département.
+I. - Le directeur général d'un établissement public foncier de l'Etat ou d'un établissement public d'aménagement, le
+président-directeur général de l'Agence foncière et technique de la région parisienne sont ordonnateurs des dépenses et des
+recettes. 
 
-Lorsque cette activité s'étend sur plusieurs départements, le contrôle est exercé par l'un des préfets désigné par le décret
-institutif, sans préjudice de l'application des dispositions du décret n. 55-733 du 26 mai 1955 relatif au contrôle
-économique et financier de l'Etat.
+Dans ces établissements publics, le directeur général est compétent pour : 
+
+1° Préparer et passer les contrats, les marchés, les actes d'acquisition, d'aliénation, d'échange et de location ; 
+
+2° Préparer et conclure les transactions ; 
+
+3° Représenter l'établissement dans les actes de la vie civile et commerciale et ester en justice. 
+
+En outre, il est chargé de l'instruction préalable des affaires qui sont de la compétence de l'établissement. Il prépare et
+exécute les décisions du conseil d'administration et du bureau. Il prépare et présente l'état prévisionnel des recettes et
+des dépenses. Il recrute le personnel et a autorité sur lui. Il peut déléguer sa signature. 
+
+II. - Le directeur général d'un établissement public foncier de l'Etat ou d'un établissement public d'aménagement assiste de
+droit aux réunions du conseil d'administration et du bureau. Il prépare et présente le programme pluriannuel d'intervention
+ou le programme stratégique et opérationnel et le bilan annuel.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1959-05-19 ART. 8
-
-	**Cite**:
-
-	  - Décret n°55-733 1955-05-26
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Décret n°55-733 du 26 mai 1955
 
 	**Cité par**:
 
@@ -41876,38 +42004,43 @@ institutif, sans préjudice de l'application des dispositions du décret n. 55-7
 	  - Décret n°2017-341 du 15 mars 2017 - art. 11 (VD)
 	  - Code de l'urbanisme - art. R*321-1 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2011-1900 du 20 décembre 2011 - art. 1
+
 
 ###### Article R*321-10
 
-Les prévisions budgétaires sont adressées pour approbation avant le 1er octobre de chaque année à l'autorité chargée du
-contrôle qui doit statuer avant le 15 décembre.
-
-Les projets d'emprunt sont soumis à la même approbation.
+Le directeur général, dans les limites des compétences qui lui ont été déléguées, peut, par délégation du conseil
+d'administration, être chargé d'exercer au nom de l'établissement public foncier de l'Etat, de l'établissement public
+d'aménagement ou de l'Agence foncière et technique de la région parisienne les droits de préemption dont l'établissement est
+titulaire ou délégataire et le droit de priorité dont l'établissement est délégataire.
 
 **Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°2015-980 du 31 juillet 2015 - art. 9 (V)
-	  - Décret n°96-325 du 10 avril 1996 - art. 11 (V)
-	  - Décret n°2008-645 du 30 juin 2008 - art. 12 (V)
-	  - Décret n°2008-670 du 2 juillet 2008 - art. 12 (V)
-
-	**Anciens textes**:
-
-	  - Décret  1959-05-19 ART. 9
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
+	**Cité par**:
+
+	  - Décret n°96-325 du 10 avril 1996 - art. 11 (V)
+	  - Décret n°2008-645 du 30 juin 2008 - art. 12 (V)
+	  - Décret n°2008-670 du 2 juillet 2008 - art. 12 (V)
+	  - Décret n°2015-980 du 31 juillet 2015 - art. 9 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2011-1900 du 20 décembre 2011 - art. 1
+
 
 ###### Article R*321-11
 
-Les délibérations mentionnées à l'article L. 321-7 ne sont exécutoires qu'après approbation par l'autorité chargée du
-contrôle.
+Les établissements publics fonciers de l'Etat, les établissements publics d'aménagement et l'Agence foncière et technique de
+la région parisienne sont autorisés à transiger. 
 
-Cette approbation est donnée après avis du ou des directeurs départementaux de l'équipement.
+Les établissements publics d'aménagement et l'Agence foncière et technique de la région parisienne sont autorisés à
+compromettre.
 
 **Liens relatifs à cet article**
 
@@ -41924,55 +42057,67 @@ Cette approbation est donnée après avis du ou des directeurs départementaux d
 	  - Décret n°2016-1865 du 23 décembre 2016 - art. 4 (V)
 	  - Décret n°2017-341 du 15 mars 2017 - art. 4 (VD)
 
+	**Modifié par**:
+
+	  - Décret n°2011-1900 du 20 décembre 2011 - art. 1
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L321-7 (M)
+	  - Code de l'urbanisme - art. L321-7
 
-	**Anciens textes**:
 
-	  - Décret n°1959-05-19 art. 10
+###### Article R*321-12
+
+Les actes à caractère réglementaire pris par délibération du conseil d'administration ou du bureau des établissements publics
+fonciers de l'Etat, des établissements publics d'aménagement, de l'Agence foncière et technique de la région parisienne ou
+par le directeur général par délégation du conseil d'administration ou en vertu de ses compétences propres en application des
+lois et règlements sont publiés dans un recueil tenu par l'établissement dans les conditions fixées par le règlement
+intérieur. 
+
+Les décisions relatives à l'exercice du droit de préemption ou de priorité font, en plus de la publication prévue à l'alinéa
+précédent, l'objet d'un affichage dans les mairies concernées par celles-ci pendant une durée de deux mois.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°72-770 du 17 août 1972 - art. 10 (V)
+	  - Décret n°96-325 du 10 avril 1996 - art. 10 (V)
+	  - Décret n°2006-1140 du 13 septembre 2006 - art. 13 (V)
+	  - Décret n°2007-88 du 24 janvier 2007 - art. 10 (V)
+	  - Décret n°2008-773 du 30 juillet 2008 - art. 10 (V)
+	  - Décret n°2010-306 du 22 mars 2010 - art. 10 (V)
+	  - Décret n°2012-327  du 6 mars 2012 - art. 10 (V)
+	  - Code de l'urbanisme - art. R*321-1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2011-1900 du 20 décembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
 
-###### Article R321-4
+###### Article R*321-13
 
-Pour l'application du dernier alinéa de l'article L. 321-5 du code de l'urbanisme une commune est regardée comme liée à un
-établissement public d'aménagement lorsqu'elle a passé avec cet établissement une convention de délégation de maîtrise
-d'ouvrage répondant aux conditions suivantes :
+I.-Le ministre chargé de l'urbanisme définit les orientations stratégiques de l'Etat devant être prises en compte,
+respectivement, par le programme pluriannuel d'intervention et par le projet stratégique opérationnel. 
 
-1° La convention doit avoir été signée avant la date d'installation ou de renouvellement du conseil d'administration de
-l'établissement et couvrir une période d'au moins trois années [*durée*] pleines à compter de celle-ci ;
+Il les notifie au président du conseil d'administration, au directeur général ainsi qu'au préfet compétent, chargé de veiller
+à leur prise en compte lors de l'élaboration de ces documents. 
 
-2° Elle doit s'appliquer à tous les équipements et aménagements relevant de la maîtrise d'ouvrage communale qui sont soit
-prévus dans le cadre de la convention mentionnée à l'article 10 de la loi du 13 juillet 1983 susvisée, soit, à défaut de
-convention, rendus nécessaires par le développement de l'urbanisation sous forme d'une zone d'aménagement concerté où de
-lotissements ou d'opérations groupées comprenant chacune plus de trente logements ;
-
-3° Elle doit confier à l'établissement public un ensemble de missions comprenant notamment ;
-
-a) La définition, dans la limite du programme des opérations et de l'enveloppe financière prévisionnelle que la commune aura
-arrêtées, des conditions administratives et techniques selon lesquelles les ouvrages seront étudiés et exécutés ;
-
-b) Le choix des maîtres d'oeuvre ;
-
-c) La signature des contrats de maîtrise d'oeuvre ;
-
-d) Le choix des entreprises ;
-
-e) La signature des contrats de travaux ;
-
-f) Le paiement de la maîtrise d'oeuvre et des travaux ;
-
-g) La réception des ouvrages.
+II.-Le ministre chargé de l'urbanisme définit les orientations stratégiques prévues à l'article L. 321-32.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1959-05-19 art. 3
 
 	**Codifié par**:
 
@@ -41980,79 +42125,52 @@ g) La réception des ouvrages.
 
 	**Cité par**:
 
-	  - Décret n°68-376 du 26 avril 1968 - art. 5 (V)
-	  - Décret n°72-27 du 10 janvier 1972 - art. 5 (V)
-	  - Décret n°72-770 du 17 août 1972 - art. 5 (V)
-	  - Décret n°73-250 du 7 mars 1973 - art. 5 (V)
-	  - Décret n°90-1154 du 19 décembre 1990 - art. 6 (V)
-	  - Décret n°95-1102 du 13 octobre 1995 - art. 5 (V)
-	  - Décret n°98-923 du 14 octobre 1998 - art. 7 (V)
-	  - Décret n°2001-1234 du 20 décembre 2001 - art. 5 (V)
-	  - Décret n°2006-1140 du 13 septembre 2006 - art. 6 (V)
-	  - Décret n°2007-88 du 24 janvier 2007 - art. 5 (V)
-	  - Décret n°2008-645 du 30 juin 2008 - art. 5 (V)
-	  - Décret n°2008-670 du 2 juillet 2008 - art. 5 (V)
-	  - Décret n°2008-773 du 30 juillet 2008 - art. 5 (V)
-	  - Décret n°2009-636 du 8 juin 2009 - art. 6 (V)
-	  - Décret n°2010-306 du 22 mars 2010 - art. 5 (V)
-	  - Décret n°2010-503 du 18 mai 2010 - art. 4 (V)
-	  - Décret n°2012-327  du 6 mars 2012 - art. 5 (VD)
-	  - Décret n°2012-764 du 9 mai 2012 - art. 5 (VD)
-	  - Décret n°2015-980 du 31 juillet 2015 - art. 4 (VD)
-	  - Décret n°2016-1865 du 23 décembre 2016 - art. 5 (VD)
-
-	**Cite**:
-
-	  - Loi n°83-636 1983-07-13
-	  - Code de l'urbanisme - art. L321-5 (M)
-
-
-##### Paragraphe 2 : Sociétés d'économie mixte
-
-###### Article R*321-16
-
-Lorsque la concession est accordée au nom de l'Etat, elle est consentie par arrêté conjoint du ministre chargé de
-l'urbanisme, du ministre de l'intérieur et du ministre de l'économie et des finances, après consultation des collectivités
-locales intéressées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1959-05-19 ART. 14
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Cité par**:
-
+	  - Décret n°68-376 du 26 avril 1968 - art. 3 (V)
+	  - Décret n°72-770 du 17 août 1972 - art. 3 (V)
+	  - Décret n°73-250 du 7 mars 1973 - art. 3 (V)
+	  - Décret n°90-1154 du 19 décembre 1990 - art. 3 (V)
+	  - Décret n°95-1102 du 13 octobre 1995 - art. 3 (V)
 	  - Décret n°96-325 du 10 avril 1996 - art. 3 (V)
+	  - Décret n°2001-1234 du 20 décembre 2001 - art. 3 (V)
+	  - Décret n°2006-1140 du 13 septembre 2006 - art. 3 (V)
+	  - Décret n°2007-88 du 24 janvier 2007 - art. 3 (V)
+	  - Décret n°2008-670 du 2 juillet 2008 - art. 3 (V)
+	  - Décret n°2008-773 du 30 juillet 2008 - art. 3 (V)
+	  - Décret n°2009-636 du 8 juin 2009 - art. 3 (V)
+	  - Décret n°2010-306 du 22 mars 2010 - art. 3 (V)
+	  - Décret n°2012-327  du 6 mars 2012 - art. 3 (V)
+	  - Décret n°2012-764 du 9 mai 2012 - art. 3 (V)
+	  - Décret n°2016-1865 du 23 décembre 2016 - art. 3 (V)
+	  - Décret n°2017-341 du 15 mars 2017 - art. 3 (VD)
+
+	**Modifié par**:
+
+	  - Décret n°2011-1900 du 20 décembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L321-32
 
 
-##### Paragraphe 3 : Dispositions communes
+###### Article R*321-14
 
-###### Article R*321-20
+Le projet stratégique et opérationnel mentionné à l'article L. 321-18 comporte : 
 
-L'Etat, les collectivités locales et les établissements publics peuvent, par convention passée avec un des organismes prévus
-au présent chapitre, lui confier le soin de procéder en leur nom et pour leur compte à la réalisation d'études, à des
-acquisitions foncières, à l'exécution de travaux et à la construction d'ouvrages ou de bâtiments de toute nature.
+1° Un document déclinant sur le long terme les orientations stratégiques et opérationnelles de l'établissement sur son
+territoire de compétence, assorties des moyens techniques et financiers susceptibles d'être mobilisés ; 
 
-La convention détermine les conditions techniques, administratives et financières de la réalisation des travaux. Elle précise
-notamment les conditions dans lesquelles l'Etat, la collectivité locale ou l'établissement public intéressé exercera un
-contrôle technique des travaux ou assurera leur direction technique et procédera à la réception des ouvrages ou bâtiments.
-Elle fixe, le cas échéant, les conditions dans lesquelles l'Etat, la collectivité locale ou l'établissement public mettra à
-la disposition de l'organisme les fonds nécessaires ou procédera au remboursement des dépenses exposées par lui. Dans ce
-dernier cas, elle précise, s'il y a lieu, les garanties exigées.
+2° Un document planifiant à moyen terme, sous la forme d'un programme prévisionnel d'aménagement (PPA), les actions,
+opérations et projets à réaliser, leur localisation, l'échéancier prévisionnel de leur réalisation ainsi que les perspectives
+financières à leur achèvement. 
 
-Cette convention peut, éventuellement, habiliter l'organisme à solliciter et à percevoir directement les subventions ou les
-prêts susceptibles d'être accordés.
+Le projet stratégique et opérationnel fait l'objet d'un bilan annuel permettant d'examiner l'état d'avancement des opérations
+et d'actualiser leurs perspectives financières.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret  1959-05-19 ART. 18
+	  - Code de l'urbanisme - art. L321-18
 
 	**Codifié par**:
 
@@ -42060,28 +42178,325 @@ prêts susceptibles d'être accordés.
 
 	**Modifié par**:
 
-	  - Décret n°86-517 du 14 mars 1986 - art. 53 () JORF 16 mars 1986 en vigueur le 1er juillet 1986
+	  - Décret n°2011-1900 du 20 décembre 2011 - art. 1
+
+
+###### Article R*321-15
+
+I. - L'approbation, respectivement, du programme pluriannuel d'intervention et du projet stratégique opérationnel intervient
+dans un délai de deux ans à compter de la création de l'établissement. 
+
+Le programme pluriannuel d'intervention et le projet stratégique et opérationnel sont révisés dans un délai maximum de cinq
+ans à compter de leur approbation. 
+
+En cas de modification des orientations stratégiques de l'Etat, le programme pluriannuel d'intervention ou le projet
+stratégique opérationnel est, si nécessaire, révisé et approuvé dans un délai de neuf mois suivant la date de notification au
+président du conseil d'administration et au directeur général de ces modifications. 
+
+II. - La délibération approuvant le programme pluriannuel d'intervention ou le projet stratégique opérationnel devient
+exécutoire dans un délai de trois mois à compter de sa transmission au préfet compétent. 
+
+Si, dans ce délai, le préfet compétent notifie, par lettre motivée au président de l'établissement public, les modifications
+qu'il estime nécessaire d'apporter au programme pluriannuel d'intervention ou au programme stratégique opérationnel dont les
+dispositions ne seraient pas compatibles avec les orientations stratégiques données, celui-ci ne devient exécutoire qu'après
+que lui a été transmise la délibération apportant les modifications demandées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cité par**:
+
+	  - Décret n°68-376 du 26 avril 1968 - art. 3 (V)
+	  - Décret n°73-250 du 7 mars 1973 - art. 3 (V)
+	  - Décret n°90-1154 du 19 décembre 1990 - art. 3 (V)
+	  - Décret n°2001-1234 du 20 décembre 2001 - art. 3 (V)
+	  - Décret n°2008-645 du 30 juin 2008 - art. 3 (V)
+	  - Décret n°2008-670 du 2 juillet 2008 - art. 3 (V)
+	  - Décret n°2009-636 du 8 juin 2009 - art. 3 (V)
+	  - Décret n°2010-503 du 18 mai 2010 - art. 3 (V)
+	  - Décret n°2012-764 du 9 mai 2012 - art. 3 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2011-1900 du 20 décembre 2011 - art. 1
+
+
+###### Article R*321-16
+
+Les actions des établissements publics créés en application des articles L. 321-1 et L. 321-14, leurs modalités et les moyens
+mis en œuvre définis dans le programme pluriannuel d'intervention ou dans le projet stratégique et opérationnel prévus
+respectivement aux articles L. 321-5 et L. 321-18 font l'objet d'un bilan annuel transmis par l'établissement au préfet
+compétent.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°96-325 du 10 avril 1996 - art. 3 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2011-1900 du 20 décembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L321-1
+	  - Code de l'urbanisme - art. L321-14
+	  - Code de l'urbanisme - art. L321-18
+	  - Code de l'urbanisme - art. L321-5
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*321-17
+
+Sans préjudice de l'application des dispositions du décret n° 55-733 du 26 mai 1955 relatif au contrôle économique et
+financier de l'Etat, les établissements publics fonciers de l'Etat, les établissements publics d'aménagement et l'Agence
+foncière et technique de la région parisienne, ainsi que les filiales dont ils détiennent directement ou indirectement plus
+de la moitié du capital social ou des droits de vote à l'assemblée générale, sont soumis au contrôle du préfet du département
+lorsque leur activité s'exerce dans le cadre de ce seul ressort territorial. Lorsque cette activité s'étend sur plusieurs
+départements et n'excède pas le périmètre régional, le contrôle est exercé par le préfet de la région. 
+
+Dans les autres cas, ils sont soumis au contrôle du préfet désigné en application de l'article 66 du décret n° 2004-374 du 29
+avril 2004 relatif aux pouvoirs des préfets, à l'organisation et à l'action des services de l'Etat dans les régions et
+départements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Décret n°55-733 du 26 mai 1955 (V)
+	  - Décret n°2004-374 du 29 avril 2004 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2011-1900 du 20 décembre 2011 - art. 1
+
+
+###### Article R*321-18
+
+I.-Les délibérations du conseil d'administration et du bureau des établissements publics fonciers de l'Etat et des
+établissements publics d'aménagement relatives aux prévisions budgétaires, aux emprunts, aux opérations à entreprendre, aux
+créations de filiales, aux acquisitions de participations, aux procédures de transaction, à l'exercice du droit de préemption
+ou de priorité ainsi que les décisions du directeur général prises pour l'exercice de ce droit sont transmises au préfet
+compétent et sont soumises à son approbation. 
+
+Il en est de même des délibérations du conseil d'administration des établissements publics d'aménagement relatives aux
+procédures d'arbitrage. 
+
+II.-Les délibérations du conseil d'administration de l'Agence foncière et technique de la région parisienne relatives aux
+prévisions budgétaires, aux projets d'emprunt, aux créations de filiales, aux acquisitions de participations et aux
+procédures d'arbitrage et de transaction sont transmises au préfet compétent et soumises à son approbation. 
+
+III.-Les délibérations mentionnées au présent article sont exécutoires dans les conditions prévues à l'article R* 321-19. 
+
+Le préfet compétent peut demander au conseil d'administration d'en délibérer à nouveau préalablement à son approbation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cité par**:
+
+	  - Décret n°68-376 du 26 avril 1968 - art. 17 (V)
+	  - Décret n°68-376 du 26 avril 1968 - art. 4-1 (V)
+	  - Décret n°72-770 du 17 août 1972 - art. 13 (V)
+	  - Décret n°72-770 du 17 août 1972 - art. 3 (V)
+	  - Décret n°72-770 du 17 août 1972 - art. 4 (V)
+	  - Décret n°73-250 du 7 mars 1973 - art. 15 (V)
+	  - Décret n°73-250 du 7 mars 1973 - art. 4-1 (V)
+	  - Décret n°90-1154 du 19 décembre 1990 - art. 20 (V)
+	  - Décret n°90-1154 du 19 décembre 1990 - art. 5 (V)
+	  - Décret n°95-1102 du 13 octobre 1995 - art. 13 (V)
+	  - Décret n°95-1102 du 13 octobre 1995 - art. 4 (V)
+	  - Décret n°96-325 du 10 avril 1996 - art. 14 (V)
+	  - Décret n°96-325 du 10 avril 1996 - art. 4 (V)
+	  - Décret n°2001-1234 du 20 décembre 2001 - art. 16 (V)
+	  - Décret n°2001-1234 du 20 décembre 2001 - art. 4-1 (V)
+	  - Décret n°2006-1140 du 13 septembre 2006 - art. 18 (V)
+	  - Décret n°2006-1140 du 13 septembre 2006 - art. 5 (V)
+	  - Décret n°2007-88 du 24 janvier 2007 - art. 13 (V)
+	  - Décret n°2007-88 du 24 janvier 2007 - art. 4 (V)
+	  - Décret n°2008-645 du 30 juin 2008 - art. 4-1 (V)
+	  - Décret n°2008-645 du 30 juin 2008 - art. 16 (V)
+	  - Décret n°2008-670 du 2 juillet 2008 - art. 16 (V)
+	  - Décret n°2008-670 du 2 juillet 2008 - art. 4-1 (V)
+	  - Décret n°2008-773 du 30 juillet 2008 - art. 13 (V)
+	  - Décret n°2008-773 du 30 juillet 2008 - art. 4 (V)
+	  - Décret n°2009-636 du 8 juin 2009 - art. 18 (V)
+	  - Décret n°2009-636 du 8 juin 2009 - art. 5 (V)
+	  - Décret n°2010-306 du 22 mars 2010 - art. 13 (V)
+	  - Décret n°2010-306 du 22 mars 2010 - art. 4 (V)
+	  - Décret n°2010-503 du 18 mai 2010 - art. 3-2 (V)
+	  - Décret n°2010-503 du 18 mai 2010 - art. 15 (V)
+	  - Décret n°2012-327  du 6 mars 2012 - art. 13 (V)
+	  - Décret n°2012-327  du 6 mars 2012 - art. 15 (Ab)
+	  - Décret n°2012-327  du 6 mars 2012 - art. 4 (V)
+	  - Décret n°2012-764 du 9 mai 2012 - art. 16 (V)
+	  - Décret n°2012-764 du 9 mai 2012 - art. 4 (V)
+	  - Décret n°2015-980 du 31 juillet 2015 - art. 14 (V)
+	  - Décret n°2015-980 du 31 juillet 2015 - art. 3 (V)
+	  - Décret n°2016-1865 du 23 décembre 2016 - art. 17 (VD)
+	  - Décret n°2016-1865 du 23 décembre 2016 - art. 4 (VD)
+	  - Décret n°2017-341 du 15 mars 2017 - art. 13 (VD)
+	  - Décret n°2017-341 du 15 mars 2017 - art. 4 (VD)
+	  - Code de l'urbanisme - art. R*321-19 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2011-1900 du 20 décembre 2011 - art. 1
+
+
+###### Article R*321-19
+
+I.-L'absence de rejet ou d'approbation expresse dans le délai d'un mois après réception par le préfet compétent des
+délibérations visées à l'article R* 321-18 vaut approbation tacite. 
+
+II.-Toutefois, les délibérations du conseil d'administration ou du bureau et les décisions du directeur général relatives à
+l'exercice du droit de préemption ou de priorité sont exécutoires de plein droit dès leur transmission au préfet compétent si
+l'exercice par l'établissement du droit de préemption ou de priorité est prévu dans une convention mentionnée aux articles L.
+321-1 et L. 321-14, qu'il a préalablement approuvée. Lorsque l'exercice par l'établissement du droit de préemption ou de
+priorité n'est pas prévu par une de ces conventions, l'absence de rejet ou d'approbation expresse des délibérations ou
+décisions susmentionnées dans le délai de dix jours après réception vaut approbation tacite. 
+
+III.-Par dérogation aux dispositions du I, les délibérations du conseil d'administration des établissements publics fonciers
+de l'Etat et des établissements publics d'aménagement relatives à la création de filiales et aux acquisitions de
+participations prévues aux articles L. 321-3 et L. 321-17 du code de l'urbanisme ne sont exécutoires qu'après approbation par
+arrêté conjoint des ministres chargés de l'économie, du budget et de l'urbanisme lorsque ces acquisitions de participations
+ou les capitaux investis dans les filiales créées sont supérieurs à un seuil fixé par arrêté de ces ministres. 
+
+Lorsque les acquisitions ou participations portent sur la majorité des parts ou actions et sont inférieures au seuil précité,
+elles sont exécutoires de plein droit. 
+
+Lorsque les acquisitions ou participations portent sur la minorité des parts ou actions et sont inférieures au seuil précité,
+elles ne sont exécutoires qu'après approbation par le préfet compétent dans les conditions fixées au I du présent article. 
+
+IV.-Par dérogation aux dispositions du I, les délibérations du conseil d'administration de l'Agence foncière et technique de
+la région parisienne relatives aux créations de filiales, prises, extensions ou cessions de participations financières ne
+sont exécutoires qu'après approbation par arrêté conjoint des ministres chargés de l'économie, du budget et de l'urbanisme. 
+
+Lorsque les prises, extensions ou cessions sont inférieures à un seuil fixé par arrêté de ces ministres et sont relatives à
+des sociétés, groupements ou organismes dont le siège et l'activité sont en rapport avec les champs de compétence de
+l'établissement, ces délibérations sont exécutoires à l'expiration d'un délai d'un mois partant de la date la plus tardive de
+leur réception par ces mêmes ministres, à moins que l'un de ceux-ci n'y fasse opposition dans ce délai.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Cité par**:
+
+	  - Décret n°68-376 du 26 avril 1968 - art. 17 (V)
+	  - Décret n°68-376 du 26 avril 1968 - art. 4-1 (V)
+	  - Décret n°72-770 du 17 août 1972 - art. 13 (V)
+	  - Décret n°73-250 du 7 mars 1973 - art. 15 (V)
+	  - Décret n°73-250 du 7 mars 1973 - art. 4-1 (V)
+	  - Décret n°90-1154 du 19 décembre 1990 - art. 20 (V)
+	  - Décret n°90-1154 du 19 décembre 1990 - art. 5 (V)
+	  - Décret n°95-1102 du 13 octobre 1995 - art. 13 (V)
+	  - Décret n°96-325 du 10 avril 1996 - art. 14 (V)
+	  - Décret n°96-325 du 10 avril 1996 - art. 4 (V)
+	  - Décret n°2001-1234 du 20 décembre 2001 - art. 16 (V)
+	  - Décret n°2007-88 du 24 janvier 2007 - art. 13 (V)
+	  - Décret n°2007-88 du 24 janvier 2007 - art. 4 (V)
+	  - Décret n°2008-645 du 30 juin 2008 - art. 4-1 (V)
+	  - Décret n°2008-645 du 30 juin 2008 - art. 16 (V)
+	  - Décret n°2008-670 du 2 juillet 2008 - art. 16 (V)
+	  - Décret n°2008-670 du 2 juillet 2008 - art. 4-1 (V)
+	  - Décret n°2008-773 du 30 juillet 2008 - art. 13 (V)
+	  - Décret n°2009-636 du 8 juin 2009 - art. 18 (V)
+	  - Décret n°2009-636 du 8 juin 2009 - art. 5 (V)
+	  - Décret n°2010-306 du 22 mars 2010 - art. 13 (V)
+	  - Décret n°2010-503 du 18 mai 2010 - art. 15 (V)
+	  - Décret n°2010-503 du 18 mai 2010 - art. 3-2 (V)
+	  - Décret n°2012-327  du 6 mars 2012 - art. 13 (V)
+	  - Décret n°2012-327  du 6 mars 2012 - art. 15 (Ab)
+	  - Décret n°2012-764 du 9 mai 2012 - art. 16 (V)
+	  - Décret n°2012-764 du 9 mai 2012 - art. 4 (V)
+	  - Décret n°2015-980 du 31 juillet 2015 - art. 3 (V)
+	  - Décret n°2016-1865 du 23 décembre 2016 - art. 13 (VD)
+	  - Décret n°2016-1865 du 23 décembre 2016 - art. 4 (VD)
+	  - Code de l'urbanisme - art. R*321-18 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2011-1900 du 20 décembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L321-1
+	  - Code de l'urbanisme - art. L321-14
+	  - Code de l'urbanisme - art. L321-17 (V)
+	  - Code de l'urbanisme - art. L321-3 (V)
+
+
+###### Article R*321-20
+
+Le ministre chargé de l'urbanisme et le ministre chargé du budget délivrent, par arrêté conjoint, l'autorisation prévue à
+l'article L. 321-23.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 	**Cité par**:
 
 	  - Décret n°2009-6 du 5 janvier 2009 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 ter (V)
 
+	**Modifié par**:
+
+	  - Décret n°2011-1900 du 20 décembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L321-23
+
 
 ###### Article R*321-21
 
-Les établissements publics et les sociétés d'économie mixte doivent tenir leur comptabilité conformément à un plan comptable
-particulier établi sur les bases du plan comptable général et approuvé par le ministre de l'économie et des finances.
+L'agent comptable est nommé par le préfet compétent, après avis du directeur départemental des finances publiques. 
+
+Les établissements publics fonciers de l'Etat, les établissements publics d'aménagement et l'Agence foncière et technique de
+la région parisienne sont soumis au régime financier et comptable défini aux articles 151 à 153-1 et 190 à 225 du décret n°
+62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique. 
+
+Il peut être institué au sein de ces établissements publics des régies de recettes et des régies d'avances dans les
+conditions prévues par le décret n° 92-681 du 20 juillet 1992 relatif aux régies de recettes et aux régies d'avances des
+organismes publics. 
+
+Ces établissements publics sont soumis au contrôle économique et financier de l'Etat prévu par le décret n° 53-707 du 9 août
+1953 relatif au contrôle de l'Etat sur les entreprises publiques nationales et certains organismes ayant un objet d'ordre
+économique et social et par le décret n° 55-733 du 26 mai 1955 relatif au contrôle économique et financier de l'Etat.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1959-05-19 ART. 19
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Décret n°53-707 du 9 août 1953 (V)
+	  - Décret n°55-733 du 26 mai 1955 (M)
+	  - Décret n°62-1587 du 29 décembre 1962 - art. 151 (V)
+	  - Décret n°62-1587 du 29 décembre 1962 - art. 190 (V)
+	  - Décret n°92-681 du 20 juillet 1992 (V)
 
 	**Cité par**:
 
@@ -42119,56 +42534,15 @@ particulier établi sur les bases du plan comptable général et approuvé par l
 	  - Décret n°2017-341 du 15 mars 2017 - art. 12 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 ter (V)
 
-
-###### Article R*321-22
-
-Le concours du fonds national d'aménagement foncier et d'urbanisme peut être consenti aux établissements publics et aux
-sociétés d'économie mixte prévus au présent chapitre dans les mêmes conditions qu'aux collectivités locales.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret  1959-05-19 ART. 20
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*321-24
-
-Les établissements publics et sociétés d'économie mixte déjà créés en application du décret n. 56-1109 du 6 novembre 1956
-restent soumis aux dispositions de leurs décrets institutifs.
-
-Ils sont régis pour leur fonctionnement par le présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*211-12 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret  1959-05-19 ART. 22
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Cite**:
-
-	  - Décret n°56-1109 du 6 novembre 1956
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2011-1900 du 20 décembre 2011 - art. 1
 
 
-###### Article R*321-25
+###### Article R*321-22
 
-Les dispositions du présent chapitre ne peuvent être modifiées que par décret en Conseil d'Etat.
+Le compte financier, visé par le directeur général, arrêté par le conseil d'administration et approuvé par le préfet
+compétent, est adressé par l'agent comptable à la Cour des comptes dans les quatre mois qui suivent la clôture de l'exercice.
 
 **Liens relatifs à cet article**
 
@@ -42176,7 +42550,7 @@ Les dispositions du présent chapitre ne peuvent être modifiées que par décre
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2011-1900 du 20 décembre 2011 - art. 1
 
@@ -47647,15 +48021,15 @@ Dans les secteurs sauvegardés dont le périmètre a été délimité, les ouvra
 
 ###### Article R*421-12
 
-Doit être précédée d'une déclaration préalable l'édification d'une clôture située :
+Doit être précédée d'une déclaration préalable l'édification d'une clôture située : 
 
 a) Dans un secteur sauvegardé dont le périmètre a été délimité, dans le champ de visibilité d'un monument historique défini à
-l'article L. 621-30-1 du code du patrimoine ou dans une zone de protection du patrimoine architectural, urbain et paysager
-créée en application de l'article L. 642-1 du code du patrimoine ;
+l'article L. 621-30-1 du code du patrimoine dans une zone de protection du patrimoine architectural, urbain et paysager ou
+dans une aire de mise en valeur de l'architecture et du patrimoine ; 
 
-b) Dans un site inscrit ou dans un site classé en application des articles L. 341-1 et L. 341-2 du code de l'environnement ;
+b) Dans un site inscrit ou dans un site classé en application des articles L. 341-1 et L. 341-2 du code de l'environnement ; 
 
-c) Dans un secteur délimité par le plan local d'urbanisme en application du 7° de l'article L. 123-1 ;
+c) Dans un secteur délimité par le plan local d'urbanisme en application du 7° de l'article L. 123-1 ; 
 
 d) Dans une commune ou partie de commune où le conseil municipal ou l'organe délibérant de l'établissement public de
 coopération intercommunale compétent en matière de plan local d'urbanisme a décidé de soumettre les clôtures à déclaration.
@@ -47689,15 +48063,13 @@ coopération intercommunale compétent en matière de plan local d'urbanisme a d
 
 	**Modifié par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 8 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 2
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L123-1 (M)
-	  - Code de l'environnement - art. L341-1 (M)
-	  - Code de l'environnement - art. L341-2 (M)
-	  - Code du patrimoine. - art. L642-1 (M)
+	  - Code de l'urbanisme - art. L123-1
+	  - Code de l'environnement - art. L341-1
+	  - Code du patrimoine - art. L621-30-1
 
 	**Liens**:
 
@@ -48433,18 +48805,18 @@ démolir.
 ###### Article R*421-28
 
 Doivent en outre être précédés d'un permis de démolir les travaux ayant pour objet de démolir ou de rendre inutilisable tout
-ou partie d'une construction :
+ou partie d'une construction : 
 
 a) Située dans un secteur sauvegardé dont le périmètre a été délimité ou dans un périmètre de restauration immobilière créé
-en application des articles L. 313-1 à L. 313-15 ;
+en application des articles L. 313-1 à L. 313-15 ; 
 
-b) Inscrite au titre des monuments historiques ou adossée à un immeuble classé au titre des monuments historiques ;
+b) Inscrite au titre des monuments historiques ou adossée à un immeuble classé au titre des monuments historiques ; 
 
-c) Située dans le champ de visibilité d'un monument historique défini à l'article L. 621-30-1 du code du patrimoine ou dans
-une zone de protection du patrimoine architectural, urbain et paysager créée en application de l'article L. 642-1 du code du
-patrimoine ;
+c) Située dans le champ de visibilité d'un monument historique défini à l'article L. 621-30-1 du code du patrimoine dans une
+zone de protection du patrimoine architectural, urbain et paysager ou dans une aire de mise en valeur de l'architecture et du
+patrimoine ; 
 
-d) Située dans un site inscrit ou classé en application des articles L. 341-1 et L. 341-2 du code de l'environnement ;
+d) Située dans un site inscrit ou classé en application des articles L. 341-1 et L. 341-2 du code de l'environnement ; 
 
 e) Identifiée comme devant être protégée par un plan local d'urbanisme, en application du 7° de l'article L. 123-1, située
 dans un périmètre délimité par le plan en application du même article ou, dans une commune non dotée d'un plan local
@@ -48455,16 +48827,14 @@ enquête publique, comme constituant un élément de patrimoine ou de paysage à
 
 	**Modifié par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 8 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 2
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L123-1 (M)
-	  - Code de l'urbanisme L313-1 à L313-15, L123-1
-	  - Code de l'environnement - art. L341-1 (M)
-	  - Code de l'environnement - art. L341-2 (M)
-	  - Code du patrimoine. - art. L621-30-1 (V)
+	  - Code de l'urbanisme - art. L123-1
+	  - Code de l'urbanisme - art. L313-1
+	  - Code de l'environnement - art. L341-1
+	  - Code du patrimoine - art. L621-30-1
 
 	**Cité par**:
 
@@ -49628,25 +49998,30 @@ code forestier, le délai d'instruction est prolongé de trois mois quand le pr�
 ###### Article R*423-35
 
 Lorsque la délivrance du permis est subordonnée à l'accord de l'architecte des Bâtiments de France, le délai d'instruction
-est prolongé de trois mois quand le maire ou l'autorité compétente pour délivrer le permis a saisi le préfet de région ou le
-préfet de Corse d'un recours contre l'avis de l'architecte des Bâtiments de France, en application du quatrième alinéa de
-l'article L. 313-2 du présent code, du cinquième alinéa de l'article L. 621-31 du code du patrimoine ou du deuxième alinéa de
-l'article L. 642-3 du code du patrimoine.
+est prolongé :
+
+- d'un mois lorsque le projet est situé dans une aire de mise en valeur de l'architecture et du patrimoine ou une zone de
+protection du patrimoine architectural, urbain et paysager et que l'autorité compétente pour délivrer le permis a saisi le
+préfet de région ou le préfet de Corse d'un recours contre l'avis de l'architecte des Bâtiments de France ;
+
+- de deux mois lorsque le projet n'est pas situé dans une aire de mise en valeur de l'architecture et du patrimoine ou une
+zone de protection du patrimoine architectural, urbain et paysager et que l'autorité compétente pour délivrer le permis a
+saisi le préfet de région ou le préfet de Corse d'un recours contre l'avis de l'architecte des Bâtiments de France.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 2
 
 	**Cité par**:
 
 	  - Décret n°2014-1299 du 23 octobre 2014 - art. (V)
 	  - Décret n°2015-1461 du 10 novembre 2015 - art. (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*423-36
@@ -49678,15 +50053,17 @@ d'instruction déterminé comme il est dit à la section IV du présent chapitre
 
 ###### Article R*423-37
 
-Lorsque le projet fait l'objet d'une évocation par le ministre chargé des sites, par le ministre chargé de la protection de
-la nature ou par le ministre chargé des monuments historiques et des espaces protégés, le délai d'instruction est porté à un
-an.
+Lorsque le projet fait l'objet d'une évocation par le ministre chargé des monuments historiques et des espaces protégés, le
+délai d'instruction est porté à six mois.
+
+Lorsque le projet fait l'objet d'une évocation par le ministre chargé des sites ou par le ministre chargé de la protection de
+la nature, le délai d'instruction est porté à un an.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 2
 
 	**Cité par**:
 
@@ -49996,24 +50373,30 @@ adressée dans les conditions définies par la sous-section 3 ci-dessous.
 
 Lorsque le délai d'instruction fait l'objet d'une prolongation exceptionnelle en application des articles R. 423-34 à R.
 423-37, cette prolongation doit être notifiée au demandeur avant l'expiration du délai d'instruction initialement fixé en
-application de l'article R. 423-23, le cas échéant majoré en application des articles R. 423-24 à R. 423-33.
+application de l'article R. 423-23, le cas échéant majoré en application des articles R. 423-24 à R. 423-33. 
 
-Lorsque le projet est évoqué par le ministre chargé des sites ou par le ministre chargé des monuments historiques ou des
-espaces protégés, la lettre notifiant la prolongation du délai informe en outre le demandeur qu'à l'issue du délai d'un an
-prévu à l'article R. 423-37, le silence éventuel de l'autorité compétente vaudra refus et non-octroi tacite du permis.
+Lorsque le projet est évoqué par le ministre chargé des sites, la lettre notifiant la prolongation du délai informe en outre
+le demandeur qu'à l'issue du délai d'un an prévu à l'article R. 423-37, le silence éventuel de l'autorité compétente vaudra
+refus et non-octroi tacite du permis. 
 
 Copie de cette notification est adressée au préfet.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
 	**Cité par**:
 
 	  - Code du cinéma et de l'image animée - art. R212-8 (V)
 	  - Code du cinéma et de l'image animée - art. R212-9 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 2
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*423-24
+	  - Code de l'urbanisme - art. R*423-34
+	  - Code de l'urbanisme - art. R*423-37
 
 	**Codifié par**:
 
@@ -50553,18 +50936,16 @@ compétente dans le délai de quatre mois.
 ###### Article R*423-67
 
 Par exception aux dispositions de l'article R. 423-59, le délai à l'issue duquel l'architecte des Bâtiments de France est
-réputé avoir émis un avis favorable est de :
+réputé avoir émis un avis favorable est de : 
 
-a) Deux mois lorsque la demande concerne la démolition d'une construction située dans un secteur sauvegardé, dans le champ de
-visibilité d'un monument historique défini à l'article L. 621-30-1 du code du patrimoine ou dans une zone de protection du
-patrimoine architectural, urbain et paysager créée en application de l'article L. 642-1 du code du patrimoine ;
+a) Deux mois lorsque la demande concerne la démolition d'une construction située dans un secteur sauvegardé ou dans le champ
+de visibilité d'un monument historique défini à l'article L. 621-30-1 du code du patrimoine ; 
 
 b) Deux mois lorsque la demande de permis de construire ou d'aménager porte sur un projet situé dans un secteur sauvegardé
-dont le plan de sauvegarde et de mise en valeur a été approuvé ou dans une zone de protection du patrimoine architectural,
-urbain et paysager créée en application de l'article L. 642-1 du code du patrimoine ;
+dont le plan de sauvegarde et de mise en valeur a été approuvé ; 
 
 c) Deux mois lorsque le projet est situé dans un site inscrit ou classé en application des articles L. 341-1 et L. 341-2 du
-code de l'environnement ;
+code de l'environnement ; 
 
 d) Quatre mois lorsque la demande de permis de construire ou d'aménager porte sur un projet situé dans le périmètre de
 protection des immeubles classés ou inscrits au titre des monuments historiques, dans un secteur sauvegardé dont le plan de
@@ -50572,23 +50953,19 @@ sauvegarde et de mise en valeur n'est pas approuvé.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
 	**Modifié par**:
 
-	  - Décret n°2007-817 du 11 mai 2007 - art. 3 () JORF 12 mai 2007
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 2
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*423-59
+	  - Code de l'environnement - art. L341-1
+	  - Code du patrimoine - art. L621-30-1
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*424-3 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R423-59
-	  - Code de l'environnement - art. L341-1 (M)
-	  - Code de l'environnement - art. L341-2 (M)
 
 	**Codifié par**:
 
@@ -50597,32 +50974,49 @@ sauvegarde et de mise en valeur n'est pas approuvé.
 
 ###### Article R*423-68
 
-Par exception aux dispositions de l'article R. 423-59, le délai à l'issue duquel le préfet de région doit se prononcer sur un
-recours de l'autorité compétente contre l'avis émis par l'architecte des Bâtiments de France est de trois mois à compter de
-sa saisine, sauf si le dossier a été évoqué, dans ce délai, par le ministre chargé de la culture.
+Le délai à l'issue duquel le préfet de région doit se prononcer sur un recours de l'autorité compétente contre l'avis émis
+par l'architecte des Bâtiments de France est, en l'absence d'évocation par le ministre chargé des monuments historiques et
+des espaces protégés :
 
-En l'absence de décision expresse du préfet de région avant l'expiration du délai mentionné à l'alinéa précédent, le recours
-est réputé rejeté.
+a) De quinze jours lorsque l'avis porte sur des travaux soumis à déclaration préalable et situés dans une aire de mise en
+valeur de l'architecture et du patrimoine ou une zone de protection du patrimoine architectural, urbain et paysager ;
 
-Le recours doit être adressé au préfet de région par lettre recommandée avec demande d'avis de réception dans le délai d'un
-mois à compter de la réception par l'autorité compétente de l'avis émis par l'architecte des Bâtiments de France.
+b) D'un mois lorsque l'avis porte sur des travaux soumis à permis et situés dans une aire de mise en valeur du patrimoine ou
+une zone de protection du patrimoine architectural, urbain et paysager ;
 
-Le préfet de région adresse notification de la demande dont il est saisi au demandeur, ainsi qu'au maire lorsque celui-ci
-n'est pas l'auteur de la saisine.
+c) De deux mois lorsque l'avis porte sur des travaux situés en secteur sauvegardé ou dans le champ de visibilité d'un
+monument historique défini à l'article L. 621-30-1 du code du patrimoine.
 
-Le préfet de région émet après consultation de la section de la commission régionale du patrimoine et des sites un avis qui
-se substitue à celui de l'architecte des Bâtiments de France.
+En l'absence de décision expresse du préfet de région à l'issue du délai mentionné aux alinéas précédents, le recours est
+réputé admis.
 
-L'avis du préfet de région est notifié au maire et à l'autorité compétente pour délivrer le permis ainsi qu'au demandeur.
+Le recours doit être adressé au préfet de région par lettre recommandée avec demande d'avis de réception dans le délai de
+sept jours à compter de la réception par l'autorité compétente de l'avis émis par l'architecte des Bâtiments de France. Une
+copie du recours est également adressée à l'architecte des Bâtiments de France.
+
+Le préfet de région adresse notification du recours dont il est saisi au maire, lorsque celui-ci n'est pas l'auteur de la
+saisine, et au demandeur.
+
+Le préfet statue :
+
+a) Après avoir entendu, le cas échéant, l'instance consultative prévue par l'article L. 642-5 du code du patrimoine, lorsque
+le projet porte sur des travaux soumis à permis et est situé dans une aire de mise en valeur de l'architecture et du
+patrimoine ou une zone de protection du patrimoine architectural, urbain et paysager ;
+
+b) Après consultation de la section de la commission régionale du patrimoine et des sites, lorsque le projet est situé dans
+un secteur sauvegardé ou dans le champ de visibilité d'un monument historique défini à l'article L. 621-30-1 du code du
+patrimoine.
+
+La décision expresse du préfet de région est notifiée à l'autorité compétente, ainsi qu'au maire et au demandeur.
 
 Dans la collectivité territoriale de Corse, les attributions conférées par le présent article au préfet de région sont
 exercées par le préfet de Corse.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 2
 
 	**Cité par**:
 
@@ -50630,11 +51024,40 @@ exercées par le préfet de Corse.
 
 	**Cite**:
 
-	  - Code de l'urbanisme R423-59
+	  - Code du patrimoine - art. L621-30-1
+	  - Code du patrimoine - art. L642-5
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*423-68-1
+
+Le délai à l'issue duquel le ministre chargé des monuments historiques et des espaces protégés doit se prononcer, en cas
+d'évocation du dossier en application du septième alinéa de l'article L. 642-6 du code du patrimoine, est de quatre mois à
+compter de la date du dépôt d'un dossier complet de demande de permis ou de déclaration préalable.
+
+Le silence gardé par le ministre vaut approbation de la demande d'autorisation au titre de l'article L. 642-6 du code du
+patrimoine.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 16
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*424-14 (V)
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L642-6
 
 
 ###### Article R*423-69
@@ -50818,30 +51241,29 @@ b) Permis de construire, permis d'aménager ou permis de démolir tacite.
 ###### Article R*424-2
 
 Par exception au b de l'article R. 424-1, le défaut de notification d'une décision expresse dans le délai d'instruction vaut
-décision implicite de rejet dans les cas suivants : 
+décision implicite de rejet dans les cas suivants :
 
 a) Lorsque les travaux sont soumis à l'autorisation du ministre de la défense ou à une autorisation au titre des sites
-classés ou des réserves naturelles ; 
+classés ou des réserves naturelles ;
 
-b) Lorsque le projet fait l'objet d'une évocation par le ministre chargé des sites ou par le ministre chargé des monuments
-historiques et des espaces protégés ; 
+b) Lorsque le projet fait l'objet d'une évocation par le ministre chargé des sites ;
 
 c) Lorsque le projet porte sur un immeuble inscrit ou un immeuble adossé à un immeuble classé au titre des monuments
-historiques ; 
+historiques ;
 
 d) Lorsque le projet est soumis à enquête publique en application des articles R. 123-7 à R. 123-23 du code de
-l'environnement ; 
+l'environnement ;
 
-e) Lorsqu'il y a lieu de consulter l'Assemblée de Corse en application de l'article R. 423-56 ; 
+e) Lorsqu'il y a lieu de consulter l'Assemblée de Corse en application de l'article R. 423-56 ;
 
 f) Lorsque le projet est situé dans un espace ayant vocation à être classé dans le coeur d'un futur parc national dont la
 création a été prise en considération en application de l'article R. 331-4 du code de l'environnement ou dans le coeur d'un
-parc national délimité en application de l'article L. 331-2 du même code ; 
+parc national délimité en application de l'article L. 331-2 du même code ;
 
 g) Lorsque la délivrance du permis est subordonnée, en application des articles L. 752-1 à L. 752-3 du code de commerce, à
 une autorisation d'exploitation commerciale ou, en application de l'article 30-2 du code de l'industrie cinématographique, à
 une autorisation de création, d'extension ou de réouverture au public d'établissements de spectacles cinématographiques et
-que la demande a fait l'objet d'un refus de la commission départementale compétente ; 
+que la demande a fait l'objet d'un refus de la commission départementale compétente ;
 
 h) Lorsque le projet a été soumis pour avis à la commission départementale d'aménagement commercial en application de
 l'article L. 752-4 du code de commerce, en cas d'avis défavorable de la commission départementale d'aménagement commercial
@@ -50851,7 +51273,7 @@ ou, le cas échéant, de la Commission nationale d'aménagement commercial.
 
 	**Modifié par**:
 
-	  - Décret n°2008-1212 du 24 novembre 2008 - art. 2
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 2
 
 	**Cité par**:
 
@@ -50882,15 +51304,14 @@ ou, le cas échéant, de la Commission nationale d'aménagement commercial.
 
 Par exception au b de l'article R. 424-1, le défaut de notification d'une décision expresse dans le délai d'instruction vaut
 décision implicite de rejet lorsque la décision est soumise à l'accord de l'architecte des Bâtiments de France et que celui-
-ci a notifié, dans le délai mentionné à l'article R. 423-67, un avis défavorable ou un avis favorable assorti de
-prescriptions.
+ci a notifié, dans le délai mentionné aux articles R. 423-59 ou R. 423-67, un avis défavorable ou un avis favorable assorti
+de prescriptions. 
+
+Il en est de même, en cas de recours de l'autorité compétente contre l'avis défavorable de l'architecte des Bâtiments de
+France, lorsque le préfet de région ou, en cas d'évocation, le ministre chargé des monuments historiques et des espaces
+protégés, a rejeté le recours par une décision expresse.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 8 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 	**Cité par**:
 
@@ -50899,31 +51320,33 @@ prescriptions.
 
 	**Cite**:
 
-	  - Code de l'urbanisme R424-1, R423-67
+	  - Code de l'urbanisme - art. R*423-59
+	  - Code de l'urbanisme - art. R*424-1
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 2
 
 
 ###### Article R*424-4
 
-Dans le cas prévu à l'article précédent, l'architecte des Bâtiments de France adresse copie de son avis au demandeur et lui
-fait savoir qu'en conséquence de cet avis il ne pourra pas se prévaloir d'un permis tacite.
+Dans les cas prévus à l'article précédent, l'architecte des Bâtiments de France, le préfet de région ou le ministre chargé
+des monuments historiques et des espaces protégés adresse copie de son avis ou de sa décision au demandeur et lui fait savoir
+qu'en conséquence il ne pourra pas se prévaloir d'un permis tacite.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
-	**Cite**:
-
-	  - Code de l'urbanisme R424-3
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 2
 
 
 #####  Section 2 : Contenu de la décision
@@ -51158,37 +51581,36 @@ délivre certificat sur simple demande du demandeur, du déclarant ou de ses aya
 
 ###### Article R*424-14
 
-En cas de refus de permis ou d'opposition à une déclaration préalable fondés sur une opposition de l'architecte des Bâtiments
-de France, le demandeur peut, en application du troisième alinéa de l'article L. 313-2 du présent code, du cinquième alinéa
-de l'article L. 621-31 ou du deuxième alinéa de l'article L. 642-3 du code du patrimoine, dans le délai de deux mois à
-compter de la notification de la décision, saisir le préfet de région, par lettre recommandée avec demande d'avis de
-réception, d'un recours contre cette décision.
+Lorsque le projet n'est pas situé dans une aire de mise en valeur de l'architecture et du patrimoine ou une zone de
+protection du patrimoine architectural, urbain et paysager, le demandeur peut, en cas d'opposition à une déclaration
+préalable ou de refus de permis fondé sur une opposition de l'architecte des Bâtiments de France, saisir le préfet de région,
+par lettre recommandée avec demande d'avis de réception, d'un recours contre cette décision dans le délai de deux mois à
+compter de la notification de l'opposition ou du refus. 
 
 Le préfet de région adresse notification de la demande dont il est saisi au maire et à l'autorité compétente en matière de
-permis.
+permis. 
 
-Les dispositions des premier et deuxième et cinquième à septième alinéas de l'article R. 423-68 sont applicables au recours
-du demandeur.
+Les dispositions des premier à cinquième et huitième à douzième alinéas de l'article R. * 423-68 et celles de l'article R. *
+423-68-1 sont applicables au recours du demandeur. 
 
 Si le préfet de région, ou le ministre chargé des monuments historiques et des espaces protégés en cas d'évocation, infirme
 l'avis de l'architecte des Bâtiments de France, le maire ou l'autorité compétente doit statuer à nouveau dans le délai d'un
-mois suivant la réception du nouvel avis.
+mois suivant la réception du nouvel avis ou suivant la date à laquelle est intervenue l'admission tacite du recours.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L313-2 (M)
-	  - Code du patrimoine L621-31, R423-68
-	  - Code du patrimoine. - art. L621-31 (M)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 2
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*423-68
+	  - Code de l'urbanisme - art. R*423-68-1 (V)
 
 
 #####  Section 4 : Affichage de la décision
@@ -51464,10 +51886,11 @@ adossés aux immeubles classés.
 
 ###### Article R*425-2
 
-Lorsque le projet est situé dans une zone de protection du patrimoine architectural, urbain et paysager, le permis de
-construire, le permis d'aménager, le permis de démolir ou la décision prise sur la déclaration préalable tient lieu de
-l'autorisation prévue à l'article L. 642-3 du code du patrimoine dès lors que la décision a fait l'objet de l'accord, selon
-les cas prévus par le code du patrimoine, de l'architecte des Bâtiments de France ou du préfet de région.
+Lorsque le projet est situé dans une aire de mise en valeur de l'architecture et du patrimoine ou une zone de protection du
+patrimoine architectural, urbain et paysager, le permis de construire, le permis d'aménager, le permis de démolir ou la
+décision prise sur la déclaration préalable tient lieu de l'autorisation prévue à l'article L. 642-6 du code du patrimoine
+dès lors que cette décision a fait l'objet de l'accord, selon les cas prévus par cet article, de l'architecte des Bâtiments
+de France, du préfet de région ou du ministre chargé des monuments historiques et des espaces protégés.
 
 **Liens relatifs à cet article**
 
@@ -51475,13 +51898,13 @@ les cas prévus par le code du patrimoine, de l'architecte des Bâtiments de Fra
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 2
 
 	**Cite**:
 
-	  - Code du patrimoine. - art. L642-3 (V)
+	  - Code du patrimoine - art. L642-6
 
 
 ###### Article R*425-4
@@ -52626,24 +53049,21 @@ d'occupation temporaire du domaine public.
 Lorsque le projet porte sur des travaux nécessaires à la réalisation d'une opération de restauration immobilière au sens de
 l'article L. 313-4 ou sur un immeuble inscrit au titre des monuments historiques, sur un immeuble adossé à un immeuble classé
 ou sur une construction existante située dans un secteur sauvegardé, dans le champ de visibilité d'un monument historique
-défini à l'article L. 621-30-1 du code du patrimoine ou dans une zone de protection du patrimoine architectural, urbain et
-paysager créée en application de l'article L. 642-1 du code du patrimoine, la notice mentionnée à l'article R. 431-8 indique
-en outre les matériaux utilisés et les modalités d'exécution des travaux.
+défini à l'article L. 621-30-1 du code du patrimoine, dans une zone de protection du patrimoine architectural, urbain et
+paysager, ou dans une aire de mise en valeur de l'architecture et du patrimoine, la notice mentionnée à l'article R. 431-8
+indique en outre les matériaux utilisés et les modalités d'exécution des travaux.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
 	**Modifié par**:
 
-	  - Décret n°2007-817 du 11 mai 2007 - art. 2 () JORF 12 mai 2007
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 2
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L313-4 (M)
-	  - Code de l'urbanisme L313-4, R431-8
+	  - Code de l'urbanisme - art. L313-4
+	  - Code de l'urbanisme - art. R*431-8
+	  - Code du patrimoine - art. L621-30-1
 
 	**Cité par**:
 
@@ -53357,33 +53777,31 @@ des parties du bâtiment faisant l'objet des travaux.
 ###### Article R*433-1
 
 L'arrêté accordant un permis de construire à titre précaire comporte obligatoirement l'indication du délai à l'expiration
-duquel le pétitionnaire doit enlever la construction autorisée dans les cas suivants :
+duquel le pétitionnaire doit enlever la construction autorisée dans les cas suivants : 
 
 a) Lorsque le terrain d'assiette du projet n'est situé ni dans une zone urbaine, une zone à urbaniser ou un emplacement
-réservé délimités par un plan local d'urbanisme ni dans un secteur constructible délimité par une carte communale ;
+réservé délimités par un plan local d'urbanisme ni dans un secteur constructible délimité par une carte communale ; 
 
 b) Ou lorsque le terrain est situé dans un secteur sauvegardé ou un périmètre de restauration immobilière créé en application
 des articles L. 313-1 à L. 313-15 du code de l'urbanisme, dans un site inscrit ou classé en application des articles L. 341-1
 et suivants du code de l'environnement, dans le champ de visibilité d'un monument historique tel que défini par le code du
-patrimoine ou dans une zone de protection du patrimoine architectural, urbain et paysager créée en application de l'article
-L. 642-1 du code du patrimoine.
+patrimoine, dans une zone de protection du patrimoine architectural, urbain et paysager, ou dans une aire de mise en valeur
+de l'architecture et du patrimoine.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 2
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L313-1
+	  - Code de l'environnement - art. L341-1
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*740-1 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme L313-1 à L313-15
-	  - Code de l'environnement - art. L341-1 (M)
-	  - Code de l'environnement L341-1, L642-1
-	  - Code du patrimoine. - art. L642-1 (M)
 
 	**Codifié par**:
 
@@ -61399,8 +61817,9 @@ Servitudes relatives aux forêts dites de protection instituées en application 
 forestier ;
 
 Prescriptions et interdictions auxquelles sont soumis les propriétaires en application des articles L. 421-1, L. 432-1, L.
-432-2, L. 531-1 et L. 541-2 du code forestier 
-  _(2)_ ;
+432-2, L. 531-1 et L. 541-2 du code forestier
+
+_(2)_ ;
 
 b) Littoral maritime.
 
@@ -61446,10 +61865,13 @@ Périmètres de protection éventuellement délimités par décrets en Conseil d
 3) de la loi du 31 décembre 1913, autour des monuments historiques classés ou inscrits ;
 
 Zones de protection des monuments historiques créées en application de l'article 28 de la loi du 2 mai 1930 modifiée 
-  _(3)_
+  _(3)_ ;
 
 Périmètres de protection des monuments historiques classés ou inscrits et portés sur la liste visée ci-dessus, tels qu'ils
-résultent des dispositions combinées des articles 1er et 13 bis de la loi du 31 décembre 1913.
+résultent des dispositions combinées des articles 1er et 13 bis de la loi du 31 décembre 1913 ;
+
+Aires de mise en valeur de l'architecture et du patrimoine créées en application de l'article L. 642-1 du code du
+patrimoine. 
 
 b) Monuments naturels et sites.
 
@@ -61571,8 +61993,9 @@ n° 58-1311 du 23 décembre 1958 et du décret n° 58-1316 du 23 décembre 1958 
 Servitudes attachées à l'alignement des voies nationales, départementales ou communales ;
 
 Servitudes relatives aux interdictions d'accès grevant les propriétés limitrophes des routes express et des déviations
-d'agglomérations en application des articles 4 et 5 de la loi n° 69-7 du 3 janvier 1969 
-  _(10)_.
+d'agglomérations en application des articles 4 et 5 de la loi n° 69-7 du 3 janvier 1969
+
+_(10)_.
 
 e) Circulation aérienne.
 
@@ -61636,11 +62059,12 @@ a) Cimetières.
 
 Servitudes relatives aux cimetières instituées par :
 
-L'article L. 361-1 du code des communes 
+L'article L. 361-1 du code des communes
   _(11)_ ;
 
-L'article L. 361-4 du code des communes 
-  _(12)_.
+L'article L. 361-4 du code des communes
+
+_(12)_.
 
 b) Etablissements conchylicoles.
 
@@ -61703,80 +62127,49 @@ transparence et à la sécurité en matière nucléaire.
 
 	**Cite**:
 
-	  - Code rural L151-37-1, L112-2, L642-1, L642-2, 128-7, 128-9, 128-6, 138-1, 135 à 138, 424
-	  - Décret n°1935-10-30 art. 6, art. 3, art. 2
-	  - Loi n°58-336 du 29 mars 1958 - art. 11 (M)
-	  - Décret n°58-1316 1958-12-23
-	  - Décret n°59-96 1959-01-07
-	  - Décret n°59-645 1959-05-16
-	  - Décret n°64-153 1964-02-15
-	  - Décret n°64-481 1964-01-23 art. 25
-	  - Loi n°1791-07-08
-	  - Loi n°1819-07-17
-	  - Loi n°1845-07-15
-	  - Loi n°1851-07-10
-	  - Loi n°1895-07-18
-	  - Loi n°1906-06-15 art. 12, art. 12 bis
-	  - Loi n°1913-12-31 art. 1 à 5, art. 1, art. 13 bis
-	  - Loi n°1919-10-16 art. 4
-	  - Loi n°1925-07-13 art. 298
-	  - Loi n°1927-07-13 art. 25
-	  - Loi n°1929-08-08
-	  - Loi n°1930-05-02 art. 28, art. 17
-	  - Loi n°1933-05-27
-	  - Loi n°1933-07-11
-	  - Loi n°1941-07-08
-	  - Loi n°46-628 1946-04-08 art. 35
-	  - Ordonnance 58-1311 1958-12-23
-	  - Loi n°62-904 1962-08-04
-	  - Loi n°63-1178 du 28 novembre 1963 - art. 4, v. init.
-	  - Loi n°65-498 1965-06-29
-	  - Loi n°66-1066 1966-12-31
-	  - Loi n°69-7 du 3 janvier 1969 - art. 4 (Ab)
-	  - Loi n°69-7 du 3 janvier 1969 - art. 5 (Ab)
-	  - Loi n°80-531 1980-07-15
-	  - Loi n°84-610 du 16 juillet 1984 - art. 42 (M)
-	  - Loi n°85-30 1985-01-09 art. 53
-	  - Loi n°87-954 1987-11-27
-	  - Loi n°91-1385 1991-12-31
-	  - Ordonnance 2004-632 2004-07-01 art. 28
-	  - Loi n°2006-686 2006-06-13 art. 31
-	  - CODE DES COMMUNES. - art. L361-1 (M)
-	  - CODE DES COMMUNES. - art. L361-4 (M)
-	  - Code forestier - art. L421-1 (V)
-	  - Code forestier - art. L432-1 (M)
-	  - Code forestier - art. L432-2 (V)
-	  - Code forestier - art. L531-1 (Ab)
-	  - Code forestier - art. L541-2 (Ab)
-	  - Code forestier L151-1 à L151-6, L411-1 à L413-1, L421-1, L432-1, L432-2, L531-1, L541-2
-	  - Code minier 71 à 73, 104-3, 94
-	  - Code de la santé publique - art. L1321-2 (M)
-	  - Code de la santé publique - art. R1321-13 (M)
-	  - Code de la santé publique L1321-2, R1321-13, L1322-3 à L1322-13
-	  - Code de l'urbanisme - art. L160-6 (M)
-	  - Code de l'urbanisme - art. L160-6-1 (V)
-	  - Code de l'urbanisme L160-6, L160-6-1, 11
-	  - Code de l'environnement - art. L211-12 (M)
-	  - Code de l'environnement - art. L211-7 (M)
-	  - Code de l'environnement - art. L215-4 (M)
-	  - Code de l'environnement - art. L215-5 (Ab)
-	  - Code de l'environnement - art. L331-4 (M)
-	  - Code de l'environnement - art. L515-15 (V)
-	  - Code de l'environnement - art. L562-1 (M)
-	  - Code de l'environnement - art. L562-6 (V)
-	  - Code de l'environnement L215-4, L215-5, L211-7, L332-1 à L332-19-1, L332-16 à L332-18, L331-4, L562-1, L562-6, L515-8 à L515-12, L211-12, L515-15
-	  - Code de l'aviation civile - art. L281-1 (M)
-	  - Code de l'aviation civile - art. R244-1 (M)
-	  - Code de l'aviation civile - art. R245-1 (M)
-	  - Code de l'aviation civile L281-1, R241-1 à R243-3, R245-1, R244-1, D244-1 à D244-4, L54 à L56-1, R21 à R26-1, L57 à L62-1, R27 à R39, L45-1, L48
-	  - Code du domaine public fluvial et de la navigation - art. 15 (M)
-	  - Code du domaine public fluvial et de la navigation - art. 16 (M)
-	  - Code du domaine public fluvial et de la navigation - art. 28 (M)
-	  - Code du domaine public fluvial et de la navigation - art. 55 (Ab)
+	  - Loi du 15 juin 1906 - art. 12
+	  - Loi du 31 décembre 1913
+	  - Loi du 27 mai 1933
+	  - Loi du 8 juillet 1941
+	  - Loi n°46-628 du 8 avril 1946 - art. 35
+	  - Loi n°58-336 du 29 mars 1958 - art. 11
+	  - Ordonnance n°58-1311 du 23 décembre 1958
+	  - Décret n°58-1316 du 23 décembre 1958
+	  - Décret n°59-96 du 7 janvier 1959
+	  - Décret n°59-645 du 16 mai 1959
+	  - Loi n°62-904 du 4 août 1962
+	  - Loi n°63-1178 du 28 novembre 1963 - art. 4
+	  - Décret n°64-153 du 15 février 1964
+	  - Loi n°65-498 du 29 juin 1965
+	  - Loi n°66-1066 du 31 décembre 1966
+	  - Loi n°69-7 du 3 janvier 1969 - art. 4
+	  - Loi n°80-531 du 15 juillet 1980
+	  - Loi n°84-610 du 16 juillet 1984 - art. 42
+	  - Loi n°85-30 du 9 janvier 1985 - art. 53
+	  - Loi n°87-954 du 27 novembre 1987
+	  - Loi n°91-1385 du 31 décembre 1991
+	  - Ordonnance n°2004-632 du 1 juillet 2004 - art. 28
+	  - Loi n°2006-686 du 13 juin 2006 - art. 31
+	  - Loi du 15 juillet 1845
+	  - Loi du 8 juillet 1791
+	  - Code des communes
+	  - Loi  du 10 juillet 1851
+	  - Loi du 17 juillet 1819
+	  - Code forestier - art. L421-1
+	  - Code minier - art. 94
+	  - Code de la santé publique - art. L1321-2
+	  - Loi du 18 juillet 1895
+	  - Loi du 11 juillet 1933
+	  - Loi  du 8 août 1929
+	  - Décret du 30 octobre 1935 - art. 3
+	  - Code du patrimoine - art. L642-1
+	  - Loi du 2 mai 1930 - art. 17
+	  - Loi du 2 mai 1930 - art. 28
+	  - décret du 30 octobre 1935
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 2
 
 
 ## Liste des communes comprises dans la zone 1
