@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2012-01-01
+Version Consolidée au 2012-01-07
 
 # Partie législative
 
@@ -21964,31 +21964,20 @@ l'achèvement de ces opérations.
 
 ###### Article L425-12
 
-Lorsque le projet porte sur une installation nucléaire de base soumise à une autorisation de création en vertu du I ou à une
-nouvelle autorisation en vertu du 3° du II de l'article 29 de la loi n° 2006-686 du 13 juin 2006 relative à la transparence
-et à la sécurité en matière nucléaire, les travaux ne peuvent être exécutés avant la clôture de l'enquête publique préalable
-à cette autorisation.
-
-**Nota:**
-
-La section 4, telle qu'elle résulte de l'article 41 de l'ordonnance n° 2005-1527 du 8 décembre 2005, entrera en vigueur à des
-dates fixées par décret en Conseil d'Etat et au plus tard le 1er juillet 2007.
+Lorsque le projet porte sur une installation nucléaire de base soumise à une autorisation de création en vertu de l'article
+L. 593-7 du code de l'environnement ou à une nouvelle autorisation en vertu du II de l'article L. 593-14 du même code, les
+travaux ne peuvent être exécutés avant la clôture de l'enquête publique préalable à cette autorisation.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+	  - Ordonnance n°2012-6 du 5 janvier 2012 - art. 5, v. init.
 
 	**Cite**:
 
-	  - Ordonnance 2005-1527 2005-12-08
-	  - Loi n°2006-686 2006-06-13 art. 29
-	  - Code de l'urbanisme 41
-
-	**Créé par**:
-
-	  - Loi n°2006-686 du 13 juin 2006 - art. 32 () JORF 14 juin 2006
+	  - Code de l'environnement - art. L593-14 (V)
+	  - Code de l'environnement - art. L593-7 (V)
 
 
 #### Chapitre VI : Dispositions diverses
