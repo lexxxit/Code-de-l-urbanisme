@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2012-01-07
+Version Consolidée au 2012-01-15
 
 # Partie législative
 
@@ -47549,18 +47549,14 @@ Un arrêté du ministre chargé de l'urbanisme fixe les modèles nationaux de de
 
 ###### Article *R421-1
 
-Les constructions nouvelles doivent être précédées de la délivrance d'un permis de construire, à l'exception :
+Les constructions nouvelles doivent être précédées de la délivrance d'un permis de construire, à l'exception : 
 
-a) Des constructions mentionnées aux articles R. 421-2 à R. 421-8 qui sont dispensées de toute formalité au titre du code de
-l'urbanisme ;
+a) Des constructions mentionnées aux articles R. 421-2 à R. 421-8-1 qui sont dispensées de toute formalité au titre du code
+de l'urbanisme ; 
 
 b) Des constructions mentionnées aux articles R. 421-9 à R. 421-12 qui doivent faire l'objet d'une déclaration préalable.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 	**Cité par**:
 
@@ -47579,16 +47575,20 @@ b) Des constructions mentionnées aux articles R. 421-9 à R. 421-12 qui doivent
 
 	**Modifié par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 8 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+	  - Décret n°2012-41 du 12 janvier 2012 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. *R421-2 (V)
+	  - Code de l'urbanisme - art. *R421-9 (V)
 
 	**Nouveaux textes**:
 
 	  - Code de l'urbanisme - art. R421-1-1 (Ab)
 
-	**Cite**:
+	**Codifié par**:
 
-	  - Code de l'urbanisme R421-2 à R421-8, R421-9 à R421-12
+	  - Décret n°73-1023 1973-11-08
 
 
 ##### Sous-section 2 : Constructions nouvelles dispensées de toute formalité au titre du présent code
@@ -47605,8 +47605,8 @@ carrés ;
 b) Les habitations légères de loisirs implantées dans un terrain de camping ou un parc résidentiel de loisirs autorisé et
 dont la surface hors oeuvre nette est inférieure ou égale à trente-cinq mètres carrés ; 
 
-c) Les éoliennes dont la hauteur du mât et de la nacelle au-dessus du sol est inférieure à douze mètres ainsi que les
-ouvrages de production d'électricité à partir de l'énergie solaire installés sur le sol dont la puissance crête est
+c) Les éoliennes terrestres dont la hauteur du mât et de la nacelle au-dessus du sol est inférieure à douze mètres ainsi que
+les ouvrages de production d'électricité à partir de l'énergie solaire installés sur le sol dont la puissance crête est
 inférieure à trois kilowatts et dont la hauteur maximum au-dessus du sol ne peut pas dépasser un mètre quatre-vingt ; 
 
 d) Les piscines dont le bassin a une superficie inférieure ou égale à dix mètres carrés ; 
@@ -47625,23 +47625,13 @@ i) Les caveaux et monuments funéraires situés dans l'enceinte d'un cimetière.
 
 **Nota:**
 
-Décret n° 2009-1414 du 19 novembre 2009 art 9 : Les dispositions du présent article entrent en vigueur le premier jour du
-mois suivant la date de sa publication au Journal officiel.
 
-Toutefois, elles ne sont pas applicables aux ouvrages de production d'électricité à partir de l'énergie solaire installés sur
-le sol :
-
-a) Lorsque ces ouvrages comportent des installations ou constructions ayant fait l'objet d'une décision de non-opposition à
-déclaration préalable ou d'un permis de construire avant l'entrée en vigueur du présent décret ;
-
-b) Lorsque ces ouvrages sont dispensés de toute formalité au titre du code de l'urbanisme et que les travaux ont été
-entrepris ou achevés à la date de l'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1414 du 19 novembre 2009 - art. 1
+	  - Décret n°2012-41 du 12 janvier 2012 - art. 1
 
 	**Cité par**:
 
@@ -47835,6 +47825,29 @@ article est limitée à trois mois.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*421-8-1
+
+En application du e de l'article L. 421-5, sont dispensées de toute formalité au titre du présent code, en raison de leur
+nature et de leur implantation sur le domaine public maritime immergé au-delà de la laisse de la basse mer, les installations
+de production d'électricité à partir de sources d'énergie renouvelable, y compris leurs ouvrages de raccordement aux réseaux
+publics d'électricité, notamment les éoliennes, les hydroliennes, les installations houlomotrices et marémotrices ainsi que
+celles utilisant l'énergie thermique des mers.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-41 du 12 janvier 2012 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. *R421-13 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L421-5 (V)
 
 
 ##### Sous-section 3 : Constructions nouvelles soumises à déclaration préalable
@@ -48078,15 +48091,15 @@ coopération intercommunale compétent en matière de plan local d'urbanisme a d
 ###### Article *R421-13
 
 Les travaux exécutés sur des constructions existantes sont dispensés de toute formalité au titre du code de l'urbanisme à
-l'exception :
+l'exception : 
 
-a) Des travaux mentionnés aux articles R. 421-14 à R. 421-16, qui sont soumis à permis de construire ;
+a) Des travaux mentionnés aux articles R. 421-14 à R. 421-16, qui sont soumis à permis de construire ; 
 
-b) Des travaux mentionnés à l'article R. 421-17, qui doivent faire l'objet d'une déclaration préalable.
+b) Des travaux mentionnés à l'article R. 421-17, qui doivent faire l'objet d'une déclaration préalable. 
 
-Les travaux réalisés sur les constructions mentionnées à l'article R. 421-8 ainsi que les travaux relatifs à la
-reconstruction d'établissements pénitentiaires après mutinerie sont également dispensés de toute formalité au titre du code
-de l'urbanisme, même s'ils entrent dans le champ des prévisions des a et b du présent article.
+Les travaux réalisés sur les constructions et les installations mentionnées aux articles R. 421-8 et R. 421-8-1 ainsi que les
+travaux relatifs à la reconstruction d'établissements pénitentiaires après mutinerie sont également dispensés de toute
+formalité au titre du code de l'urbanisme, même s'ils entrent dans le champ des prévisions des a et b du présent article. 
 
 Les changements de destination de ces constructions sont soumis à permis de construire dans les cas prévus à l'article R.
 421-14 et à déclaration préalable dans les cas prévus à l'article R. 421-17.
@@ -48104,20 +48117,18 @@ Les changements de destination de ces constructions sont soumis à permis de con
 
 	**Modifié par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 8 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-	  - Décret n°2007-817 du 11 mai 2007 - art. 3 () JORF 12 mai 2007
+	  - Décret n°2012-41 du 12 janvier 2012 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*421-8-1
+	  - Code de l'urbanisme - art. R421-17
+	  - Code de l'urbanisme - art. R421-8
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-12 (M)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R421-9 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R421-17 (Ab)
-	  - Code de l'urbanisme - art. R421-8 (M)
-	  - Code de l'urbanisme R421-14 à R421-16, R421-17, R421-8, R421-14
 
 	**Codifié par**:
 
@@ -50661,6 +50672,25 @@ de l'article L. 4424-39 du code général des collectivités territoriales.
 	**Créé par**:
 
 	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
+
+###### Article R*423-56-1
+
+Dans le cas d'un projet éolien soumis à permis de construire et situé en dehors d'une zone de développement de l'éolien
+définie par le préfet, l'autorité compétente recueille, conformément aux dispositions prévues au XI de l'article 90 de la loi
+n° 2010-788 du 12 juillet 2010 portant engagement national pour l'environnement, l'avis des communes et des établissements
+publics de coopération intercommunale compétents en matière de plan local d'urbanisme ou d'autorisations d'urbanisme
+limitrophes de l'unité foncière d'implantation du projet.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 90
+
+	**Créé par**:
+
+	  - Décret n°2012-41 du 12 janvier 2012 - art. 2
 
 
 ##### Sous-section 2 : Enquête publique
