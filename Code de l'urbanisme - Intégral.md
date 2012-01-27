@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2012-01-15
+Version Consolidée au 2012-01-28
 
 # Partie législative
 
@@ -6766,15 +6766,16 @@ conseil d'Etat détermine les conditions d'application du présent alinéa.
 
 Dans les bois, forêts ou parcs situés sur le territoire de communes où l'établissement d'un plan local d'urbanisme a été
 prescrit, ainsi que dans tout espace boisé classé, les coupes et abattages d'arbres sont soumis à la déclaration préalable
-prévue par l'article L. 421-4, sauf dans les cas suivants :
+prévue par l'article L. 421-4, sauf dans les cas suivants : 
 
-- s'il est fait application des dispositions du livre I du code forestier ;
+― s'il est fait application des dispositions du livre I du code forestier ; 
 
-- s'il est fait application d'un plan simple de gestion agréé conformément à l'article L. 222-1 du code forestier ou d'un
-règlement type de gestion approuvé conformément aux dispositions du II de l'article L. 8 et de l'article L. 222-6 du même
-code ;
+― s'il est fait application d'un plan simple de gestion agréé conformément aux articles L312-2 et L312-3 du nouveau code
+forestier, d'un règlement type de gestion approuvé conformément aux articles L. 124-1 et L. 313-1 du même code ou d'un
+programme des coupes et travaux d'un adhérent au code des bonnes pratiques sylvicoles agréé en application de l'article L.
+124-2 dudit code ; 
 
-- si les coupes entrent dans le cadre d'une autorisation par catégories définies par arrêté préfectoral, après avis du Centre
+― si les coupes entrent dans le cadre d'une autorisation par catégories définies par arrêté préfectoral, après avis du Centre
 national de la propriété forestière. 
 
 La délibération prescrivant l'élaboration d'un plan local d'urbanisme peut également soumettre à déclaration préalable, sur
@@ -6846,18 +6847,16 @@ de plantations d'alignement.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-1369 du 6 novembre 2009 - art. 2
+	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. 5
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 81
 
 	**Cite**:
 
-	  - Code forestier - art. L222-1 (Ab)
-	  - Code forestier - art. L222-6 (Ab)
-	  - Code forestier - art. L8 (Ab)
-	  - Code de l'urbanisme - art. L421-4 (V)
-
-	**Nouveaux textes**:
-
-	  - Code forestier (nouveau) - art. L111-3 (VD)
+	  - Code de l'urbanisme - art. L421-4
+	  - Code forestier (nouveau) - art. L124-1
+	  - Code forestier (nouveau) - art. L124-2
+	  - Code forestier (nouveau) - art. L312-2
+	  - Code forestier (nouveau) - art. L313-1
 
 
 ###### Article L130-2
@@ -39561,24 +39560,24 @@ l'établissement public de coopération intercommunale du dossier de création.
 ###### Article R*311-5
 
 L'acte qui crée la zone d'aménagement concerté en délimite le ou les périmètres. Il indique le programme global prévisionnel
-des constructions à édifier à l'intérieur de la zone. Il mentionne le régime applicable au regard de la taxe locale
-d'équipement.
+des constructions à édifier à l'intérieur de la zone. Il mentionne le régime applicable au regard de la part communale ou
+intercommunale de la taxe d'aménagement. 
 
 Il est affiché pendant un mois en mairie ou au siège de l'établissement public de coopération intercommunale compétent et,
 dans ce cas, dans les mairies des communes membres concernées. Mention de cet affichage est insérée en caractères apparents
-dans un journal diffusé dans le département.
+dans un journal diffusé dans le département. 
 
-Il est en outre publié :
+Il est en outre publié : 
 
 a) Lorsqu'il s'agit d'une délibération du conseil municipal d'une commune de 3 500 habitants et plus, au recueil des actes
 administratifs mentionné à l'article R. 2121-10 du code général des collectivités territoriales ou, lorsqu'il s'agit d'une
 délibération de l'organe délibérant d'un établissement public de coopération intercommunale comportant au moins une commune
 de 3 500 habitants et plus, au recueil des actes administratifs mentionné à l'article R. 5211-41 dudit code si un tel recueil
-existe ;
+existe ; 
 
-b) Lorsqu'il s'agit d'un arrêté préfectoral, au recueil des actes administratifs de l'Etat dans le département.
+b) Lorsqu'il s'agit d'un arrêté préfectoral, au recueil des actes administratifs de l'Etat dans le département. 
 
-Chacune de ces formalités de publicité mentionne le ou les lieux où le dossier peut être consulté.
+Chacune de ces formalités de publicité mentionne le ou les lieux où le dossier peut être consulté. 
 
 Les effets juridiques attachés à la création de la zone ont pour point de départ l'exécution de l'ensemble des formalités de
 publicité prévues au deuxième alinéa ci-dessus. Pour l'application du présent alinéa, la date à prendre en compte pour
@@ -39587,13 +39586,9 @@ où il est effectué.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°68-1107 1968-12-03 ART. 5
-
 	**Modifié par**:
 
-	  - Décret n°2006-959 du 31 juillet 2006 - art. 3 () JORF 2 août 2006
+	  - Décret n°2012-87 du 25 janvier 2012 - art. 2
 
 	**Cite**:
 
