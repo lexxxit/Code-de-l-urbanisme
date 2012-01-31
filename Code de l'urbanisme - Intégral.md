@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2012-01-28 00:00:01 +0100
+Version Consolidée au 2012-02-01
 
 # Partie législative
 
@@ -33036,24 +33036,37 @@ cohérence territoriale de la région d'Ile-de-France.
 ###### Article R*141-5
 
 Lorsque, lors de l'élaboration, de la révision ou de la modification du plan local d'urbanisme, il y a lieu, par application
-des dispositions des articles L. 2511-15, L. 2113-14, L. 2113-17 à L. 2113-20 et L. 2113-26 du code général des collectivités
-territoriales, à la consultation des conseils d'arrondissement des communes de Paris, Marseille et Lyon ou dans les communes
-issues d'une fusion, des conseils consultatifs ou commissions consultatives existant dans les communes issues d'une fusion,
-il est procédé à cette consultation dans les conditions prévues à l'article R. 141-6 pour les conseils d'arrondissement.
+des dispositions des articles L. 2113-14, 
+L. 2113-17 à L. 2113-20 et L. 2113-26 du code général des collectivités territoriales, dans leur rédaction antérieure à la
+loi n° 2010-1563 du 16 décembre 2010 de réforme des collectivités territoriales, de l'article L. 2113-17 du même code issu de
+la même loi, ou de l'article L. 2511-15 du même code, de procéder à la consultation des conseils consultatifs ou commissions
+consultatives existant dans les communes issues d'une fusion, des conseils des communes déléguées dans les communes
+nouvelles, ou des conseils d'arrondissement des communes de Paris, Marseille et Lyon, il est procédé à cette consultation
+dans les conditions prévues à l'article R. 141-6 pour les conseils d'arrondissement.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2001-260 du 27 mars 2001 - art. 3 () JORF 28 mars 2001
-
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L2113-14 (V)
-	  - Code général des collectivités territoriales - art. L2113-26 (V)
-	  - Code général des collectivités territoriales - art. L2511-15 (M)
-	  - Code général des collectivités territoriales L2511-15, L2113-14, L2113-17 à L2113-20, L2113-26
-	  - Code de l'urbanisme R141-6
+	  - Loi n°2010-1563 du 16 décembre 2010
+	  - Code général des collectivités territoriales - art. L2113-14
+	  - Code général des collectivités territoriales - art. L2113-17
+	  - Code général des collectivités territoriales - art. L2113-20
+	  - Code général des collectivités territoriales - art. L2113-26
+	  - Code général des collectivités territoriales - art. L2511-15
+	  - Code de l'urbanisme - art. R*141-6
+
+	**Modifié par**:
+
+	  - Décret n°2012-124 du 30 janvier 2012 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R132-8 (V)
 
 	**Codifié par**:
 
@@ -38163,26 +38176,26 @@ joint au projet de délibération et annexé à la délibération du conseil mun
 ###### Article R213-30
 
 Les dispositions des articles R. 213-27 à R. 213-29 sont applicables dans les communes issues d'une fusion comportant
-création d'une ou plusieurs communes associées lorsqu'il y a lieu à la consultation des conseils ou commissions consultatifs
-en application de l'article 66 de la loi n° 82-1169 du 31 décembre 1982 relative à l'organisation administrative de Paris,
-Marseille et Lyon et des établissements publics de coopération intercommunale.
+création d'une ou plusieurs communes associées et dans les communes nouvelles comportant la création d'une ou plusieurs
+communes déléguées lorsqu'il y a lieu à la consultation des conseils ou commissions consultatifs en application des articles
+L. 2113-17 à L. 2113-20 du code général des collectivités territoriales dans leur rédaction antérieure à la loi n° 2010-1563
+du 16 décembre 2010 de réforme des collectivités territoriales ou de l'article L. 2113-17 du même code issu de même loi.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°82-1169 1982-12-31 art. 66
-	  - Code de l'urbanisme - art. R213-27 (M)
-	  - Code de l'urbanisme - art. R213-28 (Ab)
-	  - Code de l'urbanisme - art. R213-29 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°92-967 du 10 septembre 1992 - art. 3 () JORF 11 septembre 1992
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Loi n°2010-1563 du 16 décembre 2010
+	  - Code général des collectivités territoriales - art. L2113-17
+	  - Code de l'urbanisme - art. R213-27 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-124 du 30 janvier 2012 - art. 2
 
 
 #### Chapitre IV : Droit de préemption des communes sur les fonds artisanaux, les fonds de commerce et les baux commerciaux et les terrains faisant l'objet de projets d'aménagement commercial
@@ -41447,22 +41460,26 @@ d'urbanisme et d'architecture dans la zone peuvent être modifiées, suivant les
 
 ###### Article R*318-16
 
-Lorsqu'il y a lieu, par application des dispositions des articles 9 et 66 de la loi du 31 décembre 1982 susvisée, à la
-consultation des conseils d'arrondissement des communes de Paris, Marseille et Lyon ou des conseils consultatifs ou
-commissions consultatives existant dans les communes issues d'une fusion, sur un projet de zone d'habitation, de zone de
-rénovation urbaine, de zone de réhabilitation, de zone industrielle et de zone artisanale, il est procédé à cette
-consultation dans les conditions prévues aux articles ci-après pour les conseils d'arrondissement.
+Lorsqu'il y a lieu, par application des dispositions des articles L. 2113-17 à L. 2113-20 et L. 2113-26 du code général des
+collectivités territoriales dans leur rédaction antérieure à la loi n° 2010-1563 du 16 décembre 2010 de réforme des
+collectivités territoriales, de l'article L. 2113-17 du même code issu de la même loi, ou de l'article L. 2511-15 du même
+code, de procéder à la consultation des conseils consultatifs ou commissions consultatives existant dans les communes issues
+d'une fusion, des conseils des communes déléguées existant dans les communes nouvelles, ou des conseils d'arrondissement des
+communes de Paris, Marseille et Lyon, sur un projet de zone d'habitation, de zone de rénovation urbaine, de zone de
+réhabilitation, de zone industrielle et de zone artisanale, il est procédé à la consultation dans les conditions prévues aux
+articles ci-après pour les conseils d'arrondissement.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2012-124 du 30 janvier 2012 - art. 2
+
 	**Cite**:
 
-	  - Loi n°82-1169 1982-12-31 ART. 9 ET ART. 66
-	  - Code de l'urbanisme R318-17, R318-18, R318-19, R318-20, R318-21, R318-22
-
-	**Créé par**:
-
-	  - Décret n°83-666 1983-07-22 art. 5 JORF 24 juillet 1983
+	  - Code général des collectivités territoriales - art. L2113-17 (V)
+	  - Code général des collectivités territoriales - art. L2113-26 (Ab)
+	  - Code général des collectivités territoriales - art. L2511-15 (V)
 
 	**Cité par**:
 
@@ -51189,24 +51206,23 @@ chargé de l'instruction dans les mêmes conditions et délais.
 
 Dans le cas prévu à l'article L. 5333-3 du code général des collectivités territoriales, où le projet de construction, situé
 dans le périmètre d'urbanisation d'une agglomération nouvelle, se trouve dans une zone d'aménagement concerté ou dans un
-lotissement de plus de trente logements ou constitue une opération groupée de plus de trente logements, le président de la
-communauté ou du syndicat d'agglomération nouvelle et le maire font chacun connaître leur avis au responsable du service de
-l'Etat dans le département chargé de l'instruction, dans les conditions prévues à l'article précédent.
+lotissement de plus de trente logements ou constitue une opération groupée de plus de trente logements, le président du
+syndicat d'agglomération nouvelle et le maire font chacun connaître leur avis au responsable du service de l'Etat dans le
+département chargé de l'instruction, dans les conditions prévues à l'article précédent.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L5333-3 (V)
-	  - Code de l'urbanisme R423-72
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°2012-124 du 30 janvier 2012 - art. 3
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L5333-3
 
 
 ###### Article R*423-74
