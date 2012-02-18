@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2012-02-09
+Version Consolidée au 2012-02-19
 
 # Partie législative
 
@@ -59974,26 +59974,26 @@ faisant l'objet d'un prêt en faveur du logement locatif conformément à l'arti
 
 ###### Article A410-1
 
-La demande de certificat d'urbanisme prévue à l'article R. 410-1 est établie conformément au formulaire annexé au présent
-titre, enregistré par la direction générale de la modernisation de l'Etat sous le numéro Cerfa 13410*01.
+La demande de certificat d'urbanisme prévue à l'article R. 410-1 est établie conformément au formulaire enregistré par la
+direction générale de la modernisation de l'Etat sous le numéro Cerfa 13410. 
 
-Ce modèle peut être obtenu auprès des mairies ou des directions départementales de l'équipement et est accessible sur le site
-internet du ministère chargé de l'urbanisme.
+Ce modèle de formulaire peut être obtenu auprès des mairies ou des services départementaux de l'Etat chargés de l'urbanisme
+et est disponible sur le site internet officiel de l'administration française :  http://www.service-public.fr/.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
-
 	**Codifié par**:
 
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+	  - Décret n°77-38 du 3 janvier 1977
 
 	**Liens**:
 
 	  - TXT_SOURCE: Arrêté du 17 décembre 2002
 	  - TXT_SOURCE: Arrêté du 17 décembre 2002 - art. 1 ()
+
+	**Modifié par**:
+
+	  - Arrêté du 10 février 2012 - art. 1
 
 	**Cité par**:
 
@@ -60002,7 +60002,7 @@ internet du ministère chargé de l'urbanisme.
 
 	**Cite**:
 
-	  - Code de l'urbanisme R410-1
+	  - Code de l'urbanisme - art. R*410-1
 
 
 ###### Article A410-2
@@ -60766,22 +60766,29 @@ publique ou des espaces ouverts au public pendant toute la durée du chantier.
 
 ###### Article A424-19
 
-La déclaration d'ouverture de chantier prévue à l'article R. 424-16 est établie conformément au formulaire annexé au présent
-article, enregistré par la direction générale de la modernisation de l'Etat sous le numéro Cerfa 13407.01.
+La déclaration d'ouverture de chantier prévue à l'article R. 424-16 est établie conformément au formulaire enregistré par la
+direction générale de la modernisation de l'Etat sous le numéro Cerfa 13407. 
+
+Ce modèle de formulaire peut être obtenu auprès des mairies ou des services départementaux de l'Etat chargés de l'urbanisme
+et est disponible sur le site internet officiel de l'administration française :  http://www.service-public.fr.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Arrêté 2007-09-11 art. 4 II JORF 13 septembre 2007 en vigueur le 1er octobre 2007
-
 	**Codifié par**:
 
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+	  - Décret n°77-38 du 3 janvier 1977
+
+	**Modifié par**:
+
+	  - Arrêté du 10 février 2012 - art. 1
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. A424-8 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*424-16
 
 
 ### Titre  III : Dispositions propres aux constructions
@@ -60793,15 +60800,14 @@ article, enregistré par la direction générale de la modernisation de l'Etat s
 ###### Article A431-1
 
 La déclaration préalable portant sur un projet de construction prévue aux articles R. 421-9 à R. 421-12 et R. 421-17 est
-établie conformément au formulaire annexé au présent titre, enregistré par la direction générale de la modernisation de
-l'Etat sous le numéro CERFA 13404*01. 
+établie conformément au formulaire enregistré par la direction générale de la modernisation de l'Etat sous le numéro CERFA
+13404. 
 
 Lorsque les travaux portent sur une maison individuelle ou ses annexes, la déclaration préalable peut être établie
-conformément au formulaire enregistré par la direction générale de la modernisation de l'Etat sous le numéro CERFA 13703*01. 
+conformément au formulaire enregistré par la direction générale de la modernisation de l'Etat sous le numéro CERFA 13703. 
 
-Ces formulaires sont disponibles sur le site internet de la direction générale de la modernisation de l'Etat :  http :// www.
-service-public. fr, ainsi que sur le site internet du ministère chargé de l'urbanisme :  http :// www. developpement-durable.
-gouv. fr.
+La déclaration préalable précise également les éléments nécessaires au calcul des impositions prévus à l'article R. 431-35,
+établis conformément au modèle joint aux formulaires susmentionnés.
 
 **Liens relatifs à cet article**
 
@@ -60811,11 +60817,12 @@ gouv. fr.
 
 	**Modifié par**:
 
-	  - Arrêté du 10 février 2011 - art. 1
+	  - Arrêté du 10 février 2012 - art. 1
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. *R421-17
+	  - Code de l'urbanisme - art. R*431-35
 	  - Code de l'urbanisme - art. R421-9
 
 	**Cité par**:
@@ -60871,33 +60878,36 @@ conformément au modèle joint au formulaire mentionné à l'article A. 431-1.
 ###### Article A431-4
 
 La demande de permis de construire prévue aux articles R. 421-1 et R. 421-14 à R. 421-16 est établie conformément aux
-formulaires annexés au présent titre, enregistrés par la direction générale de la modernisation de l'Etat :
+formulaires enregistrés par la direction générale de la modernisation de l'Etat : 
 
-a) Sous le numéro Cerfa 13406*01 lorsque la demande porte sur une maison individuelle ou ses annexes ;
+a) Sous le numéro Cerfa 13406 lorsque la demande porte sur une maison individuelle ou ses annexes ; 
 
-b) Sous le numéro Cerfa 13409*01 lorsque la demande porte sur une construction autre qu'une maison individuelle ou ses
-annexes.
+b) Sous le numéro Cerfa 13409 lorsque la demande porte sur une construction autre qu'une maison individuelle ou ses annexes. 
+
+La demande de permis de construire contient également la déclaration des éléments nécessaires au calcul des impositions
+prévus à l'article R. 431-5, établie conformément au modèle joint aux formulaires susmentionnés.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
-
 	**Codifié par**:
 
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+	  - Décret n°77-38 du 3 janvier 1977
+
+	**Modifié par**:
+
+	  - Arrêté du 10 février 2012 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. *R421-1
+	  - Code de l'urbanisme - art. R*421-14
+	  - Code de l'urbanisme - art. R*431-5
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. A431-5 (V)
 	  - Code de l'urbanisme - art. A431-6 (V)
 	  - Code de l'urbanisme - art. A520-1 (VD)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R421-1 (M)
-	  - Code de l'urbanisme R421-1, R421-14 à R421-16
 
 
 ###### Article A431-5
@@ -60944,34 +60954,34 @@ joint aux formulaires mentionnés à l'article A. 431-4.
 
 ###### Article A431-7
 
-La demande de modification d'un permis de construire en cours de validité est établie conformément au formulaire annexé au
-présent titre, enregistré par la direction générale de la modernisation de l'Etat sous le numéro Cerfa 13411*01.
+La demande de modification d'un permis de construire en cours de validité est établie conformément au formulaire enregistré
+par la direction générale de la modernisation de l'Etat sous le numéro Cerfa 13411.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
-
 	**Codifié par**:
 
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+	  - Décret n°77-38 du 3 janvier 1977
+
+	**Modifié par**:
+
+	  - Arrêté du 10 février 2012 - art. 1
 
 
 ###### Article A431-8
 
-La demande de transfert d'un permis de construire en cours de validité est établie conformément au formulaire annexé au
-présent titre, enregistré par la direction générale de la modernisation de l'Etat sous le numéro Cerfa 13412*01.
+La demande de transfert d'un permis de construire en cours de validité est établie conformément au formulaire enregistré par
+la direction générale de la modernisation de l'Etat sous le numéro Cerfa 13412.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
-
 	**Codifié par**:
 
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+	  - Décret n°77-38 du 3 janvier 1977
+
+	**Modifié par**:
+
+	  - Arrêté du 10 février 2012 - art. 1
 
 
 #####  Section 3 : Dispositions communes
@@ -61079,19 +61089,20 @@ et de soutènement.
 
 ###### Article A434-1
 
-Les modèles de formulaires, de bordereaux de dépôt des pièces jointes et de récépissés prévus par les sections I et II du
-chapitre premier peuvent être obtenus auprès des mairies ou des directions départementales de l'équipement et sont
-accessibles sur le site internet du ministère chargé de l'urbanisme.
+Les modèles de formulaires, de bordereaux de dépôt des pièces jointes, de récépissés et de déclarations des éléments
+nécessaires au calcul des impositions prévus par les sections I et II du chapitre Ier peuvent être obtenus auprès des mairies
+ou des services départementaux de l'Etat chargés de l'urbanisme et sont disponibles sur le site internet officiel de
+l'administration française :  http://www.service-public.fr/.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
-
 	**Codifié par**:
 
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+	  - Décret n°77-38 du 3 janvier 1977
+
+	**Modifié par**:
+
+	  - Arrêté du 10 février 2012 - art. 1
 
 
 ### Titre  IV : Dispositions propres aux aménagements
@@ -61103,15 +61114,7 @@ accessibles sur le site internet du ministère chargé de l'urbanisme.
 ###### Article A441-1
 
 La déclaration préalable portant sur un projet d'aménagement prévue aux articles R. 421-23 à R. 421-25 est établie
-conformément au formulaire annexé au présent titre, enregistré par la direction générale de la modernisation de l'Etat sous
-le numéro Cerfa 13404*01. 
-
-Lorsque la déclaration préalable porte sur un lotissement ou une division foncière, elle peut être établie conformément au
-formulaire enregistré par la direction générale de la modernisation de l'Etat sous le numéro Cerfa 13702*01. 
-
-Ces formulaires sont disponibles sur le site internet de la direction générale de la modernisation de l'Etat :  http://
-www.service-public.fr, ainsi que sur le site internet du ministère chargé de l'urbanisme :  http://www.developpement-
-durable.gouv.fr.
+conformément au formulaire enregistré par la direction générale de la modernisation de l'Etat sous le numéro Cerfa 13404.
 
 **Liens relatifs à cet article**
 
@@ -61121,7 +61124,7 @@ durable.gouv.fr.
 
 	**Modifié par**:
 
-	  - Arrêté du 10 février 2011 - art. 1
+	  - Arrêté du 10 février 2012 - art. 1
 
 	**Cite**:
 
@@ -61180,18 +61183,21 @@ conformément au modèle joint au formulaire mentionné à l'article A. 441-1.
 
 ###### Article A441-4
 
-La demande de permis d'aménager prévue aux articles R. 421-18 à R. 421-22 est établie conformément au formulaire annexé au
-présent titre, enregistré par la direction générale de la modernisation de l'Etat sous le numéro Cerfa 13409*01.
+La demande de permis d'aménager prévue aux articles R. 421-18 à R. 421-22 est établie conformément au formulaire enregistré
+par la direction générale de la modernisation de l'Etat sous le numéro Cerfa 13409. 
+
+La demande de permis d'aménager contient également la déclaration des éléments nécessaires au calcul des impositions prévus à
+l'article R. 441-1, établie conformément au modèle joint au formulaire susmentionné.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
-
 	**Codifié par**:
 
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+	  - Décret n°77-38 du 3 janvier 1977
+
+	**Modifié par**:
+
+	  - Arrêté du 10 février 2012 - art. 1
 
 	**Cité par**:
 
@@ -61200,7 +61206,8 @@ présent titre, enregistré par la direction générale de la modernisation de l
 
 	**Cite**:
 
-	  - Code de l'urbanisme R421-18 à R421-22
+	  - Code de l'urbanisme - art. R*441-1
+	  - Code de l'urbanisme - art. R421-18
 
 
 ###### Article A441-5
@@ -61247,34 +61254,34 @@ aux formulaires mentionnés à l'article A. 441-4.
 
 ###### Article A441-7
 
-La demande de modification d'un permis d'aménager en cours de validité est établie conformément au formulaire annexé au
-présent titre, enregistré par la direction générale de la modernisation de l'Etat sous le numéro Cerfa 13411*01.
+La demande de modification d'un permis d'aménager en cours de validité est établie conformément au formulaire enregistré par
+la direction générale de la modernisation de l'Etat sous le numéro Cerfa 13411.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
-
 	**Codifié par**:
 
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+	  - Décret n°77-38 du 3 janvier 1977
+
+	**Modifié par**:
+
+	  - Arrêté du 10 février 2012 - art. 1
 
 
 ###### Article A441-8
 
-La demande de transfert d'un permis d'aménager en cours de validité est établie conformément au formulaire annexé au présent
-titre, enregistré par la direction générale de la modernisation de l'Etat sous le numéro Cerfa 13412*01.
+La demande de transfert d'un permis d'aménager en cours de validité est établie conformément au formulaire enregistré par la
+direction générale de la modernisation de l'Etat sous le numéro Cerfa 13412.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
-
 	**Codifié par**:
 
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+	  - Décret n°77-38 du 3 janvier 1977
+
+	**Modifié par**:
+
+	  - Arrêté du 10 février 2012 - art. 1
 
 
 #####  Section 3 : Dispositions communes
@@ -61334,19 +61341,20 @@ demandeur doit en outre fournir cinq exemplaires supplémentaires des pièces me
 
 ###### Article A444-1
 
-Les modèles de formulaires, de bordereaux de dépôt des pièces jointes et de récépissés prévus par les sections I et II du
-chapitre Ier peuvent être obtenus auprès des mairies ou des directions départementales de l'équipement et sont accessibles
-sur le site internet du ministère chargé de l'urbanisme.
+Les modèles de formulaires, de bordereaux de dépôt des pièces jointes, de récépissés et de déclarations des éléments
+nécessaires au calcul des impositions prévus par les sections I et II du chapitre Ier peuvent être obtenus auprès des mairies
+ou des services départementaux de l'Etat chargés de l'urbanisme et sont disponibles sur le site internet officiel de
+l'administration française :  http://www.service-public.fr/.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
-
 	**Codifié par**:
 
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+	  - Décret n°77-38 du 3 janvier 1977
+
+	**Modifié par**:
+
+	  - Arrêté du 10 février 2012 - art. 1
 
 
 ### Titre  V : Dispositions propres aux démolitions
@@ -61355,22 +61363,18 @@ sur le site internet du ministère chargé de l'urbanisme.
 
 ###### Article A451-1
 
-La demande de permis de démolir prévue aux articles R. 421-28 à R. 421-28 (1) est établie conformément au formulaire annexé
-au présent titre, enregistré par la direction générale de la modernisation de l'Etat sous le numéro Cerfa 13405*01.
-
-**Nota:**
-
-(1) Lire R. 421-26 à R. 421-28.
+La demande de permis de démolir prévue aux articles R. 421-26 à R. 421-28 est établie conformément au formulaire enregistré
+par la direction générale de la modernisation de l'Etat sous le numéro Cerfa 13405.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
-
 	**Codifié par**:
 
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+	  - Décret n°77-38 du 3 janvier 1977
+
+	**Modifié par**:
+
+	  - Arrêté du 10 février 2012 - art. 1
 
 	**Cité par**:
 
@@ -61379,7 +61383,7 @@ au présent titre, enregistré par la direction générale de la modernisation d
 
 	**Cite**:
 
-	  - Code de l'urbanisme R421-26 à R421-28
+	  - Code de l'urbanisme - art. R421-26
 
 
 ###### Article A451-2
@@ -61429,18 +61433,18 @@ au formulaire mentionné à l'article A. 451-1.
 ###### Article A453-4
 
 Les modèles de formulaires, de bordereaux de dépôt des pièces jointes et de récépissés prévus par le présent chapitre peuvent
-être obtenus auprès des mairies ou des directions départementales de l'équipement et sont accessibles sur le site internet du
-ministère chargé de l'urbanisme.
+être obtenus auprès des mairies ou des services départementaux de l'Etat chargés de l'urbanisme et sont disponibles sur le
+site internet officiel de l'administration française :  http://www.service-public.fr/.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007
-
 	**Codifié par**:
 
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+	  - Décret n°77-38 du 3 janvier 1977
+
+	**Modifié par**:
+
+	  - Arrêté du 10 février 2012 - art. 1
 
 
 ### Titre  VI : Contrôle de la conformité des travaux
@@ -61452,23 +61456,24 @@ ministère chargé de l'urbanisme.
 ###### Article A462-1
 
 La déclaration attestant l'achèvement et la conformité des travaux prévue à l'article R. 462-1 est établie conformément au
-formulaire annexé au présent article, enregistré par la direction générale de la modernisation de l'Etat sous le numéro Cerfa
-13408*01.
+formulaire enregistré par la direction générale de la modernisation de l'Etat sous le numéro Cerfa 13408. 
+
+Ce modèle de formulaire peut être obtenu auprès des mairies ou des services départementaux de l'Etat chargés de l'urbanisme
+et est disponible sur le site internet officiel de l'administration française :  http://www.service-public.fr/.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Arrêté 2007-09-10 art. 2 I JORF 26 septembre 2007 en vigueur le 1er octobre 2007
-	  - Arrêté du 10 septembre 2007 - art. 2
-
 	**Codifié par**:
 
-	  - Décret n°77-38 1977-01-03 JORF 18 JANVIER 1977
+	  - Décret n°77-38 du 3 janvier 1977
+
+	**Modifié par**:
+
+	  - Arrêté du 10 février 2012 - art. 1
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R462-1 (V)
+	  - Code de l'urbanisme - art. R462-1
 
 
 ##### Section 2 : Dispositions applicables aux constructions soumises à des règles parasismiques
