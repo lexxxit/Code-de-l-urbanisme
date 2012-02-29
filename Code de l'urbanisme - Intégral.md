@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2012-03-01
+Version Consolidée au 2012-03-01 00:00:01 +0100
 
 # Partie législative
 
@@ -50753,8 +50753,6 @@ grande hauteur avec les règles de sécurité.
 	  - Décret n°73-1023 1973-11-08
 
 
-##### Sous-section 2 : Notification des majorations et prolongations du délai d'instruction
-
 ##### Sous-section 2 : Notification de la majoration, de la prolongation ou de la suspension du délai d'instruction
 
 ###### Article *R423-44-1
@@ -53414,44 +53412,51 @@ mentionnées au a et au b ci-dessus.
 
 ###### Article R*431-5
 
-La demande de permis de construire précise :
+La demande de permis de construire précise : 
 
-a) L'identité du ou des demandeurs ;
+a) L'identité du ou des demandeurs ; 
 
-b) L'identité de l'architecte auteur du projet, sauf dans les cas prévus à l'article R. 431-2 ;
+b) L'identité de l'architecte auteur du projet, sauf dans les cas prévus à l'article R*431-2 ; 
 
-c) La localisation et la superficie du ou des terrains ;
+c) La localisation et la superficie du ou des terrains ; 
 
-d) La nature des travaux ;
+d) La nature des travaux ; 
 
-e) La destination des constructions, par référence aux différentes destinations définies à l'article R. 123-9 ;
+e) La destination des constructions, par référence aux différentes destinations définies à l'article R*123-9 ; 
 
 f) La surface de plancher des constructions projetées, s'il y a lieu répartie selon les différentes destinations définies à
-l'article R. 123-9.
+l'article R*123-9 ; 
 
-La demande comporte également l'attestation du ou des demandeurs qu'ils remplissent les conditions définies à l'article R.
-423-1 pour déposer une demande de permis.
+g) La puissance électrique nécessaire au projet, lorsque la puissance électrique est supérieure à 12 kilovoltampères
+monophasé ou 36 kilovoltampères triphasé ; 
+
+h) Les éléments, fixés par arrêté, nécessaires au calcul des impositions. 
+
+La demande comporte également l'attestation du ou des demandeurs qu'ils remplissent les conditions définies à l'article
+R*423-1 pour déposer une demande de permis.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'urbanisme
+	  - Décret n°2012-274 du 28 février 2012 - art. 4
 
 	**Cité par**:
 
+	  - Décret n°2014-450 du 2 mai 2014 - art. 4 (VT)
 	  - Code de l'urbanisme - art. A431-4 (V)
 	  - Code de l'urbanisme - art. R*333-3 (V)
 	  - Code de l'urbanisme - art. R*431-4 (VD)
-	  - Décret n°2014-450 du 2 mai 2014 - art. 4 (VT)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*123-9
+	  - Code de l'urbanisme - art. R*423-1
+	  - Code de l'urbanisme - art. R*431-2
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°2011-2054 du 29 décembre 2011 - art. 4
 
 
 ###### Article R*431-6
@@ -54026,23 +54031,21 @@ b) Soit porter à la fois sur la démolition et sur la construction ou l'aménag
 ###### Article R*431-22
 
 Lorsque les travaux projetés portent sur une construction à édifier sur un terrain inclus dans un lotissement, la demande est
-accompagnée, s'il y a lieu : 
-
-a) Du certificat prévu par le premier alinéa de l'article R. 442-11, quand la   surface de plancher constructible a été
-répartie par le lotisseur ; 
-
-b) Du certificat prévu par le quatrième alinéa de l'article R. 442-18, quand l'ensemble des travaux mentionnés dans le permis
-d'aménager n'est pas achevé.
+accompagnée, s'il y a lieu, du ou des certificats prévus à l'article *R. 442-11.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2012-274 du 28 février 2012 - art. 4
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R442-11
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°2011-2054 du 29 décembre 2011 - art. 6 (VD)
 
 
 ###### Article R*431-22-1
@@ -54424,28 +54427,30 @@ b) La localisation et la superficie du ou des terrains ;
 
 c) La nature des travaux ou du changement de destination ; 
 
-d) S'il y a lieu, la   surface de plancher et la destination des constructions projetées. 
+d) S'il y a lieu, la surface de plancher et la destination des constructions projetées ; 
+
+e) Les éléments, fixés par arrêtés, nécessaires au calcul des impositions. 
 
 La déclaration comporte également l'attestation du ou des déclarants qu'ils remplissent les conditions définies à l'article
-R. 423-1 pour déposer une déclaration préalable.
+R*423-1 pour déposer une déclaration préalable.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2011-2054 du 29 décembre 2011 - art. 6 (VD)
-
-	**Cite**:
-
-	  - Code de l'urbanisme
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. A431-1 (V)
 
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*423-1
+
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°2012-274 du 28 février 2012 - art. 4
 
 
 ###### Article R*431-36
@@ -55042,8 +55047,6 @@ n° 2010-1658 du 29 décembre 2010 de finances rectificative pour 2010, ou de l'
 	  - Décret n°2012-274 du 28 février 2012 - art. 5
 
 
-#####  Section 2 : Contenu de la demande
-
 #####  Section 2 : Contenu de la demande de permis d'aménager un lotissement
 
 ###### Article *R442-3
@@ -55622,8 +55625,6 @@ préalable, d'un permis d'aménager, d'un permis valant division ou d'une divisi
 
 	  - Décret n°73-1023 1973-11-08
 
-
-#####  Section 7 : Caducité des règles d'urbanisme spécifiques des lotissements
 
 #####  Section 7 : Caducité des règles d'urbanisme spécifiques des lotissements autorisés par un permis d'aménager ou une autorisation de lotir
 
