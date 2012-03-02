@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2012-03-01 00:00:01 +0100
+Version Consolidée au 2012-03-03
 
 # Partie législative
 
@@ -28930,11 +28930,12 @@ Lorsqu'il reçoit la décision d'une commune, d'un établissement public de coop
 d'élaborer ou de réviser un schéma de cohérence territoriale ou un plan local d'urbanisme, le préfet porte à la connaissance
 du maire ou du président de l'établissement public les dispositions particulières applicables au territoire concerné,
 notamment les directives territoriales d'aménagement, les dispositions relatives aux zones de montagne et au littoral
-figurant aux chapitres V et VI du titre IV du présent livre, les servitudes d'utilité publique ainsi que les projets
-d'intérêt général et les opérations d'intérêt national au sens de l'article L. 121-9.
+figurant aux chapitres V et VI du titre IV du présent livre, les servitudes d'utilité publique, les projets d'intérêt général
+et les opérations d'intérêt national au sens des articles L. 121-9 et L. 121-9-1, le plan régional de l'agriculture durable
+ainsi que le plan pluriannuel régional de développement forestier. 
 
 Il fournit également les études techniques dont dispose l'Etat en matière de prévention des risques et de protection de
-l'environnement.
+l'environnement. 
 
 Au cours de l'élaboration du document, le préfet communique au maire ou au président de l'établissement public tout élément
 nouveau.
@@ -28943,7 +28944,7 @@ nouveau.
 
 	**Modifié par**:
 
-	  - Décret n°2005-608 du 27 mai 2005 - art. 2 () JORF 29 mai 2005
+	  - Décret n°2012-290 du 29 février 2012 - art. 1
 
 	**Cité par**:
 
@@ -28959,7 +28960,8 @@ nouveau.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L121-9 (M)
+	  - Code de l'urbanisme - art. L121-9 (V)
+	  - Code de l'urbanisme - art. L121-9-1 (V)
 
 	**Codifié par**:
 
@@ -29676,11 +29678,11 @@ Ces dispositions ne font pas obstacle aux consultations prévues par l'article L
 
 ###### Article R*122-1
 
-Le schéma de cohérence territoriale comprend un rapport de présentation, un projet d'aménagement et de développement durable
-et un document d'orientations générales assortis de documents graphiques.
+Le schéma de cohérence territoriale comprend un rapport de présentation, un projet d'aménagement et de développement durables
+et un document d'orientation et d'objectifs assortis de documents graphiques. 
 
-Les documents et décisions mentionnées au dernier alinéa de l'article L. 122-1 doivent être compatibles avec le document
-d'orientations générales et les documents graphiques dont il est assorti.
+Les documents et décisions mentionnées à l'article L. 122-1-15 doivent être compatibles avec le document d'orientation et
+d'objectifs et les documents graphiques dont il est assorti. 
 
 En zone de montagne, il comporte, s'il y a lieu, les études prévues au a du III de l'article L. 145-3 et au troisième alinéa
 de l'article L. 145-5. Les plans locaux d'urbanisme et les cartes communales doivent respecter les conclusions de cette
@@ -29688,82 +29690,90 @@ de l'article L. 145-5. Les plans locaux d'urbanisme et les cartes communales doi
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2012-290 du 29 février 2012 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L122-1 (M)
-	  - Code de l'urbanisme - art. L145-3 (M)
-	  - Code de l'urbanisme - art. L145-5 (M)
+	  - Code de l'urbanisme - art. L122-1-15
+	  - Code de l'urbanisme - art. L145-3
+	  - Code de l'urbanisme - art. L145-5
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*122-10 (V)
 
-	**Anciens textes**:
+	**Nouveaux textes**:
 
-	  - Décret n°69-551 1969-05-28 art. 1
+	  - Code de l'urbanisme - art. R141-1 (V)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Modifié par**:
-
-	  - Décret n°2006-1683 du 22 décembre 2006 - art. 1 () JORF 28 décembre 2006 en vigueur le 1er février 2007
-
 
 ###### Article R*122-2
 
-Le rapport de présentation :
+Le rapport de présentation : 
 
-1° Expose le diagnostic prévu à l'article L. 122-1 ;
+1° Expose le diagnostic prévu à l'article L. 122-1-2 et présente une analyse de la consommation d'espaces naturels, agricoles
+et forestiers au cours des dix dernières années précédant l'approbation du schéma et justifie les objectifs chiffrés de
+limitation de cette consommation compris dans le document d'orientation et d'objectifs ; 
 
-2° Décrit l'articulation du schéma avec les autres documents d'urbanisme et les plans ou programmes mentionnés à l'article L.
-122-4 du code de l'environnement avec lesquels il doit être compatible ou qu'il doit prendre en considération ;
+2° Décrit l'articulation du schéma avec les documents mentionnés aux articles L. 111-1-1, L. 122-1-12 et L. 122-1-13 et les
+plans ou programmes mentionnés à l'article L. 122-4 du code de l'environnement avec lesquels il doit être compatible ou qu'il
+doit prendre en compte ; 
 
 3° Analyse l'état initial de l'environnement et les perspectives de son évolution en exposant, notamment, les
-caractéristiques des zones susceptibles d'être touchées de manière notable par la mise en oeuvre du schéma ;
+caractéristiques des zones susceptibles d'être touchées de manière notable par la mise en oeuvre du schéma ; 
 
 4° Analyse les incidences notables prévisibles de la mise en oeuvre du schéma sur l'environnement et expose les problèmes
 posés par l'adoption du schéma sur la protection des zones revêtant une importance particulière pour l'environnement telles
-que celles désignées conformément aux articles R. 214-18 à R. 214-22 (1) du code de l'environnement ainsi qu'à l'article 2 du
-décret n° 2001-1031 du 8 novembre 2001 relatif à la procédure de désignation des sites Natura 2000 ;
+que celles désignées conformément aux articles R. 414-3 à R. 414-7 du code de l'environnement ainsi qu'à l'article 2 du
+décret n° 2001-1031 du 8 novembre 2001 relatif à la procédure de désignation des sites Natura 2000 ; 
 
-5° Explique les choix retenus pour établir le projet d'aménagement et de développement durable et le document d'orientations
-générales et, le cas échéant, les raisons pour lesquelles des projets alternatifs ont été écartés, au regard notamment des
-objectifs de protection de l'environnement établis au niveau international, communautaire ou national et les raisons qui
-justifient le choix opéré au regard des autres solutions envisagées ;
+5° Explique les choix retenus pour établir le projet d'aménagement et de développement durables et le document d'orientation
+et d'objectifs. Le cas échéant, il explique les raisons pour lesquelles des projets alternatifs ont été écartés, au regard
+notamment des objectifs de protection de l'environnement établis au niveau international, communautaire ou national et les
+raisons qui justifient le choix opéré au regard des autres solutions envisagées ; 
 
 6° Présente les mesures envisagées pour éviter, réduire et, si possible, compenser s'il y a lieu, les conséquences
-dommageables de la mise en oeuvre du schéma sur l'environnement et rappelle que le schéma fera l'objet d'une analyse des
-résultats de son application, notamment en ce qui concerne l'environnement, au plus tard à l'expiration d'un délai de dix ans
-à compter de son approbation ;
+dommageables de la mise en œuvre du schéma sur l'environnement ; il précise les indicateurs qui devront être élaborés pour
+l'évaluation des résultats de l'application du schéma prévue à l'article L. 122-14, notamment en ce qui concerne
+l'environnement ; 
 
 7° Comprend un résumé non technique des éléments précédents et une description de la manière dont l'évaluation a été
-effectuée ;
+effectuée ; 
 
-8° Précise le cas échéant, les principales phases de réalisation envisagées.
+8° Précise le cas échéant, les principales phases de réalisation envisagées. 
 
 Le rapport de présentation peut se référer aux renseignements relatifs à l'environnement figurant dans d'autres études, plans
-et documents.
+et documents. 
 
 Lorsque le schéma de cohérence territoriale comprend un chapitre individualisé valant schéma de mise en valeur de la mer, le
 rapport de présentation du schéma de cohérence territoriale décrit les conditions de l'utilisation de l'espace marin et
 terrestre du littoral, indique les perspectives d'évolution de ce milieu et explique les orientations retenues, en matière de
 développement, de protection et d'équipement.
 
-**Nota:**
-
-(1) Les articles R. 214-18 et R. 214-17 sont abrogés par le décret n° 2005-935 du 5 août 2005 ; se reporter dorénavant aux
-articles R. 414-3 à R. 414-7 du code de l'environnement.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L122-1 (M)
-	  - Code de l'environnement - art. L122-4 (V)
-	  - Code de l'environnement L122-4, R214-18 à R214-22
-	  - Décret n°2001-1031 du 8 novembre 2001 - art. 2 (M)
+	  - Décret n°2001-1031 du 8 novembre 2001 - art. 2 (V)
+	  - Code de l'urbanisme - art. L111-1-1 (V)
+	  - Code de l'urbanisme - art. L122-1-12 (V)
+	  - Code de l'urbanisme - art. L122-1-2 (V)
+	  - Code de l'urbanisme - art. L122-14 (VT)
+	  - Code de l'environnement - art. R414-3 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-290 du 29 février 2012 - art. 3
 
 	**Cité par**:
 
@@ -29773,98 +29783,92 @@ articles R. 414-3 à R. 414-7 du code de l'environnement.
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Modifié par**:
-
-	  - Décret n°2007-1586 du 8 novembre 2007 - art. 12 () JORF 10 novembre 2007
-
 
 ###### Article R*122-2-1
 
-Le projet d'aménagement et de développement durable fixe les objectifs des politiques publiques d'urbanisme en matière
-d'habitat, de développement économique, de loisirs, de déplacements des personnes et des marchandises, de stationnement des
-véhicules et de régulation du trafic automobile.
+Le projet d'aménagement et de développement durables comprend les éléments mentionnés à l'article L. 122-1-3.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L122-1-3
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-531 du 9 juin 2004 - art. 1 () JORF 13 juin 2004
+	  - Décret n°2012-290 du 29 février 2012 - art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 
 ###### Article R*122-3
 
-Le document d'orientations générales, dans le respect des objectifs et des principes énoncés aux articles L. 110 et L. 121-1,
-précise :
+Le document d'orientation et d'objectifs comprend les éléments mentionnés aux articles L. 122-1-4 à L. 122-1-10. 
 
-1° Les orientations générales de l'organisation de l'espace et de la restructuration des espaces urbanisés ;
+Le document graphique du document d'aménagement commercial doit permettre d'identifier les terrains situés dans les zones
+d'aménagement commercial délimitées en application de l'article L. 122-1-9. 
 
-2° Les espaces et sites naturels ou urbains à protéger dont il peut définir la localisation ou la délimitation ;
+Lorsque les documents graphiques délimitent : 
 
-3° Les grands équilibres entre les espaces urbains et à urbaniser et les espaces naturels et agricoles ou forestiers ;
+a) En application du II de l'article L. 122-1-5, des espaces ou sites à protéger ; 
 
-4° Les objectifs relatifs, notamment :
+b) En application du VIII de l'article L. 122-1-5, des secteurs à l'intérieur desquels la valeur en dessous de laquelle ne
+peut être fixée la densité maximale de construction résultant de l'application de l'ensemble des règles du plan local
+d'urbanisme ou du document d'urbanisme en tenant lieu, 
 
-a) A l'équilibre social de l'habitat et à la construction de logements sociaux ;
-
-b) A la cohérence entre l'urbanisation et la création de dessertes en transports collectifs ;
-
-c) A l'équipement commercial et artisanal, aux localisations préférentielles des commerces et aux autres activités
-économiques ;
-
-d) A la protection des paysages, à la mise en valeur des entrées de ville ;
-
-e) A la prévention des risques ;
-
-5° Les conditions permettant de favoriser le développement de l'urbanisation prioritaire dans les secteurs desservis par les
-transports collectifs.
-
-Il peut, le cas échéant, subordonner l'ouverture à l'urbanisation de zones naturelles ou agricoles et les extensions urbaines
-à la création de dessertes en transports collectifs et à l'utilisation préalable de terrains situés en zone urbanisée et
-desservis par les équipements mentionnés à l'article L. 421-5.
-
-Il peut, en outre, définir les grands projets d'équipements et de services, en particulier de transport, nécessaires à la
-mise en oeuvre du schéma.
-
-Lorsque les documents graphiques délimitent des espaces ou sites à protéger en application du 2° ci-dessus, ils doivent
-permettre d'identifier les terrains inscrits dans ces limites.
+ils doivent permettre d'identifier les terrains situés dans ces secteurs. 
 
 En zone de montagne, le schéma de cohérence territoriale désigne, le cas échéant, les plans d'eau de faible importance
-auxquels il est décidé de faire application du huitième alinéa de l'article L. 145-5.
+auxquels il est décidé de faire application du huitième alinéa de l'article L. 145-5. 
 
 Lorsque le schéma de cohérence territoriale comporte un chapitre individualisé valant schéma de mise en valeur de la mer, ce
 chapitre porte sur une partie du territoire qui constitue une unité géographique et maritime et présente des intérêts liés,
-concurrents ou complémentaires, au regard de l'aménagement, de la protection et de la mise en valeur du littoral.
+concurrents ou complémentaires, au regard de l'aménagement, de la protection et de la mise en valeur du littoral. 
 
 Il mentionne les orientations relatives aux cultures marines et aux activités de loisirs. Il précise dans une perspective de
 gestion intégrée de la zone côtière, les vocations des différents secteurs de l'espace maritime, les conditions de la
 compatibilité entre les différents usages de ces derniers, et les conséquences qui en résultent pour l'utilisation des
 diverses parties du littoral qui sont liées à cet espace. Il précise les mesures de protection du milieu marin. Il définit
-les orientations et principes de localisation des équipements industriels et portuaires, s'il en est prévu.
+les orientations et principes de localisation des équipements industriels et portuaires, s'il en est prévu. 
 
 Il comprend également les dispositions prévues par le décret n° 86-1252 du 5 décembre 1986 relatif au contenu et à
 l'élaboration du schéma de mise en valeur de la mer lorsqu'elles ne sont pas prévues par ailleurs dans le document.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°86-1252 1986-12-05
-	  - Code de l'urbanisme - art. L110 (M)
-	  - Code de l'urbanisme - art. L121-1 (M)
-	  - Code de l'urbanisme - art. L145-5 (M)
-	  - Code de l'urbanisme - art. L421-5 (M)
-
 	**Modifié par**:
 
-	  - Décret n°2007-1586 du 8 novembre 2007 - art. 13 () JORF 10 novembre 2007
+	  - Décret n°2012-290 du 29 février 2012 - art. 5
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L122-1-4
+	  - Code de l'urbanisme - art. L122-1-5
+	  - Code de l'urbanisme - art. L122-1-9
+	  - Code de l'urbanisme - art. L145-5
+	  - Décret n°86-1252 du 5 décembre 1986
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L141-25 (VD)
+	  - Code de l'urbanisme - art. R141-6 (M)
+	  - Code de l'urbanisme - art. R141-7 (V)
+	  - Code de l'urbanisme - art. R141-8 (V)
+	  - Code de l'urbanisme - art. R141-9 (V)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 
 ###### Article R*122-3-1
@@ -29919,46 +29923,53 @@ Les schémas de secteur comprennent tout ou partie des éléments mentionnés au
 
 ###### Article R*122-5
 
-Les opérations foncières et les opérations d'aménagement mentionnées au dernier alinéa de l'article L. 122-1 sont : 
+Les opérations foncières et les opérations d'aménagement mentionnées au premier alinéa de l'article L. 122-1-15 sont : 
 
 1° Les zones d'aménagement différé et les périmètres provisoires de zones d'aménagement différé ; 
 
 2° Les zones d'aménagement concerté ; 
 
 3° Les lotissements, les remembrements réalisés par des associations foncières urbaines et les constructions soumises à
-autorisations, lorsque ces opérations ou constructions portent sur une   surface de plancher de plus de 5 000 mètres
-carrés ; 
+autorisations, lorsque ces opérations ou constructions portent sur une surface de plancher de plus de 5 000 mètres carrés ; 
 
 4° La constitution, par des collectivités et établissements publics, de réserves foncières de plus de cinq hectares d'un seul
 tenant.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2012-290 du 29 février 2012 - art. 6
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L122-1-15
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R142-1 (V)
+
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°2011-2054 du 29 décembre 2011 - art. 6 (VD)
 
 
 #####  Section 2 : Elaboration et révision des schémas de cohérence territoriale
 
 ###### Article R*122-6
 
-Le président de l'établissement public mentionné à l'article L. 122-4 conduit la procédure d'élaboration du schéma de
-cohérence territoriale.
+Le président de l'établissement public mentionné aux articles L. 122-4 à L. 122-4-1 conduit la procédure d'élaboration du
+schéma de cohérence territoriale.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
-
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L122-4 (M)
+	  - Code de l'urbanisme - art. L122-4 (VT)
 
 	**Cité par**:
 
@@ -29967,6 +29978,10 @@ cohérence territoriale.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°2012-290 du 29 février 2012 - art. 7
 
 
 ###### Article R*122-7
@@ -30042,30 +30057,26 @@ Elle est affichée pendant un mois au siège de l'établissement public et aux m
 ###### Article R*122-10
 
 Le projet de schéma de cohérence territoriale est soumis à enquête publique par le président de l'établissement public dans
-les formes prévues par les articles R. 123-7 à R. 123-23 du code de l'environnement.
+les formes prévues par les articles R. 123-7 à R. 123-23 du code de l'environnement. 
 
 Le président de l'établissement public exerce les compétences attribuées au préfet par les articles R. 123-7, R. 123-8, R.
-123-13, R. 123-14, R. 123-18 et R. 123-20 à R. 123-23 de ce code.
+123-13, R. 123-14, R. 123-18 et R. 123-20 à R. 123-23 de ce code. 
 
-Le dossier est composé des pièces mentionnées à l'article R. 122-1 (du code de l'urbanisme) et des avis émis par les
-collectivités ou organismes associés ou consultés. Il peut être complété par tout ou partie des documents mentionnés à
-l'article R. 121-1 (du code de l'urbanisme).
+Le dossier est composé des pièces mentionnées à l'article R.* 122-1 du présent code et des avis émis par les collectivités ou
+organismes associés ou consultés. Il peut être complété par tout ou partie des documents mentionnés à l'article R.* 121-1 du
+présent code.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
+	  - Décret n°2012-290 du 29 février 2012 - art. 8
 
 	**Cite**:
 
-	  - Code de l'urbanisme R122-1, R121-1
-	  - Code de l'environnement - art. R123-13 (M)
-	  - Code de l'environnement - art. R123-14 (V)
-	  - Code de l'environnement - art. R123-18 (V)
+	  - Code de l'urbanisme - art. R*121-1 (V)
+	  - Code de l'urbanisme - art. R*122-1 (V)
 	  - Code de l'environnement - art. R123-7 (V)
-	  - Code de l'environnement - art. R123-8 (V)
-	  - Code de l'environnement R123-7 à R123-23, R123-7, R123-8, R123-13, R123-14, R123-18, R123-20 à R123-23
 
 	**Codifié par**:
 
@@ -30131,8 +30142,8 @@ L'examen conjoint prévu au 2° de l'article L. 122-15 a lieu avant l'ouverture 
 président de l'établissement public. Lorsqu'une association mentionnée à l'article L. 121-5 demande à être consultée, son
 président adresse la demande au président de l'établissement public.
 
-L'enquête publique est organisée dans les formes prévues par les articles R. 123-1 à R. 123-33 du code de l'environnement. Le
-président de l'établissement public exerce les compétences attribuées au préfet par les articles R. 123-7, R. 123-8 , R.
+L'enquête publique est organisée dans les formes prévues au chapitre III du titre II du livre Ier du code de l'environnement.
+Le président de l'établissement public exerce les compétences attribuées au préfet par les articles R. 123-7, R. 123-8 , R.
 123-13, R. 123-14, R. 123-18 et R. 123-20 à R. 123-23 de ce code. 
 
 Le dossier de mise en compatibilité du schéma de cohérence territoriale, le rapport et les conclusions du commissaire
@@ -30148,7 +30159,11 @@ l'alinéa précédent. La déclaration de projet emporte approbation des nouvell
 
 	**Modifié par**:
 
-	  - Décret n°2010-304 du 22 mars 2010 - art. 1
+	  - Décret n°2012-290 du 29 février 2012 - art. 9
+
+	**Abrogé par**:
+
+	  - Décret n°2013-142 du 14 février 2013 - art. 3
 
 	**Cite**:
 
@@ -30156,8 +30171,7 @@ l'alinéa précédent. La déclaration de projet emporte approbation des nouvell
 	  - Code de l'urbanisme - art. L122-15
 	  - Code de l'urbanisme - art. L122-4
 	  - Code de l'urbanisme - art. L300-6
-	  - Code de l'environnement - art. L126-1 (V)
-	  - Code de l'environnement - art. R123-1
+	  - Code de l'environnement - art. L126-1
 	  - Code de l'environnement - art. R123-13
 	  - Code de l'environnement - art. R123-18
 	  - Code de l'environnement - art. R123-20
@@ -30186,9 +30200,9 @@ L'examen conjoint prévu au 2° de l'article L. 122-15 a lieu avant l'ouverture 
 l'autorité chargée de la procédure. Lorsqu'une association mentionnée à l'article L. 121-5 demande à être consultée, son
 président adresse la demande à l'autorité chargée de la procédure.
 
-L'enquête publique est organisée dans les formes prévues par les articles R. 123-1 à R. 123-33 du code de
-l'environnement.L'autorité chargée de la procédure exerce les compétences attribuées au préfet par les articles R. 123-7, R.
-123-8, R. 123-13, R. 123-14, R. 123-18 et R. 123-20 à R. 123-23 de ce code. 
+L'enquête publique est organisée dans les formes prévues au chapitre III du titre II du livre Ier du code de l'environnement.
+L'autorité chargée de la procédure exerce les compétences attribuées au préfet par les articles R. 123-7, R. 123-8, R.
+123-13, R. 123-14, R. 123-18 et R. 123-20 à R. 123-23 de ce code. 
 
 Le dossier de mise en compatibilité du schéma de cohérence territoriale, le rapport et les conclusions du commissaire
 enquêteur ou de la commission d'enquête ainsi que le procès-verbal de la réunion d'examen conjoint sont soumis pour avis par
@@ -30207,7 +30221,11 @@ La délibération de l'établissement public ou la décision du préfet est noti
 
 	**Modifié par**:
 
-	  - Décret n°2010-304 du 22 mars 2010 - art. 1
+	  - Décret n°2012-290 du 29 février 2012 - art. 10
+
+	**Abrogé par**:
+
+	  - Décret n°2013-142 du 14 février 2013 - art. 3
 
 	**Cite**:
 
@@ -30216,7 +30234,6 @@ La délibération de l'établissement public ou la décision du préfet est noti
 	  - Code de l'urbanisme - art. L122-4
 	  - Code de l'urbanisme - art. L300-6
 	  - Code de l'environnement - art. L126-1
-	  - Code de l'environnement - art. R123-1
 	  - Code de l'environnement - art. R123-13
 	  - Code de l'environnement - art. R123-18
 	  - Code de l'environnement - art. R123-20
@@ -30238,7 +30255,8 @@ réalisation d'un programme de construction.
 L'examen conjoint prévu au 2° de l'article L. 122-15 a lieu avant l'ouverture de l'enquête publique à l'initiative du préfet.
 Lorsqu'une association mentionnée à l'article L. 121-5 demande à être consultée, son président adresse la demande au préfet.
 
-L'enquête publique est organisée dans les formes prévues par les articles R. 123-1 à R. 123-33 du code de l'environnement. 
+L'enquête publique est organisée dans les formes prévues au chapitre III du titre II du livre Ier du code de
+l'environnement. 
 
 Le dossier de mise en compatibilité du schéma de cohérence territoriale, le rapport et les conclusions du commissaire
 enquêteur ou de la commission d'enquête ainsi que le procès-verbal de la réunion d'examen conjoint sont soumis pour avis par
@@ -30255,7 +30273,11 @@ suivant l'expiration du délai ou de la transmission en préfecture de la délib
 
 	**Modifié par**:
 
-	  - Décret n°2010-304 du 22 mars 2010 - art. 1
+	  - Décret n°2012-290 du 29 février 2012 - art. 11
+
+	**Abrogé par**:
+
+	  - Décret n°2013-142 du 14 février 2013 - art. 3
 
 	**Cite**:
 
@@ -30264,26 +30286,25 @@ suivant l'expiration du délai ou de la transmission en préfecture de la délib
 	  - Code de l'urbanisme - art. L122-4
 	  - Code de l'urbanisme - art. L300-6
 	  - Code de l'environnement - art. L126-1
-	  - Code de l'environnement - art. R123-1
 
 
 ###### Article R*122-12
 
-Font l'objet des mesures de publicité et d'information édictées à l'article R. 122-13 :
+Font l'objet des mesures de publicité et d'information édictées à l'article R.* 122-13 : 
 
 a) L'arrêté préfectoral qui délimite ou modifie le périmètre du schéma de cohérence territoriale, en application des articles
-L. 122-3 et L. 122-5 ;
+L. 122-3, L. 122-5 et L. 122-5-2 ; 
 
 b) La délibération qui définit les modalités de la concertation lors de l'élaboration ou de la révision du schéma de
-cohérence territoriale, en application de l'article L. 122-4 ou de l'article L. 122-13 ;
+cohérence territoriale, en application de l'article L. 122-4 ou de l'article L. 122-13 ; 
 
 c) La délibération qui approuve le schéma de cohérence territoriale, sa modification ou sa révision, en application de
-l'article L. 122-11 ou de l'article L. 122-13 ;
+l'article L. 122-11 ou de l'article L. 122-13 ; 
 
 d) La délibération décidant de maintenir en vigueur ou de mettre en révision un schéma de cohérence territoriale, en
-application de l'article L. 122-14 ;
+application de l'article L. 122-14 ; 
 
-e) Le décret ou l'arrêté prononçant la déclaration d'utilité publique prévue à l'article L. 122-15 ;
+e) Le décret ou l'arrêté prononçant la déclaration d'utilité publique prévue à l'article L. 122-15 ; 
 
 f) La décision ou la délibération prononçant la déclaration de projet ainsi que la délibération ou l'arrêté mettant le schéma
 en compatibilité avec cette déclaration de projet dans les conditions prévues à l'article L. 122-15.
@@ -30292,18 +30313,18 @@ en compatibilité avec cette déclaration de projet dans les conditions prévues
 
 	**Modifié par**:
 
-	  - Décret n°2004-531 du 9 juin 2004 - art. 1 () JORF 13 juin 2004
+	  - Décret n°2012-290 du 29 février 2012 - art. 12
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L122-11 (M)
-	  - Code de l'urbanisme - art. L122-13 (M)
-	  - Code de l'urbanisme - art. L122-14 (M)
-	  - Code de l'urbanisme - art. L122-15 (M)
-	  - Code de l'urbanisme - art. L122-3 (M)
-	  - Code de l'urbanisme - art. L122-4 (M)
-	  - Code de l'urbanisme - art. L122-5 (M)
-	  - Code de l'urbanisme R122-13, L122-3, L122-5, L122-4, L122-13, L122-11, L122-14, L122-15
+	  - Code de l'urbanisme - art. L122-11 (VT)
+	  - Code de l'urbanisme - art. L122-13 (VT)
+	  - Code de l'urbanisme - art. L122-14 (VT)
+	  - Code de l'urbanisme - art. L122-15 (VT)
+	  - Code de l'urbanisme - art. L122-3 (V)
+	  - Code de l'urbanisme - art. L122-4 (VT)
+	  - Code de l'urbanisme - art. L122-5 (V)
+	  - Code de l'urbanisme - art. L122-5-2
 
 	**Cité par**:
 
@@ -30359,24 +30380,32 @@ alinéa ci-dessus, la date à prendre en compte pour l'affichage étant celle du
 
 ###### Article R*122-14
 
-Le périmètre des schémas de secteurs est délimité par délibération de l'établissement prévu à l'article L. 122-4 sur
-proposition ou après avis de la ou des communes ou établissements publics de coopération intercommunale intéressés. Il peut
-s'étendre sur tout ou partie du territoire d'une ou plusieurs communes ou établissements publics de coopération
-intercommunale situés dans le périmètre du schéma de cohérence territoriale.
+Le périmètre des schémas de secteurs est délimité par délibération de l'établissement prévu aux articles L. 122-4 à L.
+122-4-1 sur proposition ou après avis de la ou des communes ou établissements publics de coopération intercommunale
+intéressés. Il peut s'étendre sur tout ou partie du territoire d'une ou plusieurs communes ou établissements publics de
+coopération intercommunale situés dans le périmètre du schéma de cohérence territoriale.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2012-290 du 29 février 2012 - art. 13
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-142 du 14 février 2013 - art. 3
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L122-4
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R*122-11 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°2004-531 du 9 juin 2004 - art. 1 () JORF 13 juin 2004
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L122-4 (M)
 
 
 #### Chapitre III : Plans locaux d'urbanisme
@@ -30385,59 +30414,79 @@ intercommunale situés dans le périmètre du schéma de cohérence territoriale
 
 ###### Article R*123-1
 
-Le plan local d'urbanisme comprend un rapport de présentation, le projet d'aménagement et de développement durable de la
-commune et un règlement ainsi que des documents graphiques. Il peut comporter en outre des orientations d'aménagement
-relatives à des quartiers ou à des secteurs, assorties le cas échéant de documents graphiques.
+Le plan local d'urbanisme comprend : 
+
+1° Un rapport de présentation ; 
+
+2° Un projet d'aménagement et de développement durables ; 
+
+3° Des orientations d'aménagement et de programmation, dans les conditions prévues à l'article L. 123-1-4 ; 
+
+4° Un règlement ; 
+
+5° Le cas échéant, le ou les plans de secteurs prévus par l'article L. 123-1-1-1. 
+
+Chacun de ces documents peut comprendre un ou plusieurs documents graphiques. 
 
 Il comporte, s'il y a lieu, l'étude prévue au huitième alinéa de l'article L. 111-1-4 et, en zone de montagne, les études
-prévues au a du III de l'article L. 145-3 et au troisième alinéa de l'article L. 145-5.
+prévues au a du III de l'article L. 145-3 et au troisième alinéa de l'article L. 145-5. 
 
 Le plan local d'urbanisme est accompagné d'annexes.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°70-1016 1970-10-28 art. 1
+	  - Décret n°73-1023 1973-11-08
 
 	**Modifié par**:
 
-	  - Décret n°2006-1683 du 22 décembre 2006 - art. 1 () JORF 28 décembre 2006 en vigueur le 1er février 2007
+	  - Décret n°2012-290 du 29 février 2012 - art. 14
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L111-1-4 (M)
-	  - Code de l'urbanisme - art. L145-3 (M)
-	  - Code de l'urbanisme - art. L145-5 (M)
+	  - Code de l'urbanisme - art. L111-1-4
+	  - Code de l'urbanisme - art. L123-1-1-1
+	  - Code de l'urbanisme - art. L123-1-4
+	  - Code de l'urbanisme - art. L145-3
+	  - Code de l'urbanisme - art. L145-5
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*710-1 (Ab)
 
-	**Codifié par**:
+	**Nouveaux textes**:
 
-	  - Décret n°73-1023 1973-11-08
+	  - Code de l'urbanisme - art. R151-51 (V)
 
 
 ###### Article R*123-2
 
 Le rapport de présentation : 
 
-1° Expose le diagnostic prévu au premier alinéa de l'article L. 123-1 ; 
+1° Expose le diagnostic prévu au deuxième alinéa de l'article L. 123-1-2 ; 
 
-2° Analyse l'état initial de l'environnement ; 
+2° Analyse l'état initial de l'environnement, présente une analyse de la consommation d'espaces naturels, agricoles et
+forestiers et justifie les objectifs de modération de cette consommation et de lutte contre l'étalement urbain arrêtés dans
+le projet d'aménagement et de développement durables au regard, notamment, des objectifs fixés, le cas échéant, par le schéma
+de cohérence territoriale, et des dynamiques économiques et démographiques ; 
 
-3° Explique les choix retenus pour établir le projet d'aménagement et de développement durable, expose les motifs de la
-délimitation des zones, des règles qui y sont applicables et des orientations d'aménagement. Il justifie l'institution des
-secteurs des zones urbaines où les constructions ou installations d'une superficie supérieure à un seuil défini par le
-règlement sont interdites en application du a de l'article L. 123-2 ; 
+3° Explique les choix retenus pour établir le projet d'aménagement et de développement durable et, le cas échéant, les
+orientations d'aménagement et de programmation ; il expose les motifs de la délimitation des zones, des règles et des
+orientations d'aménagement et de programmation mentionnées au 1 de l'article L. 123-1-4, des règles qui y sont applicables,
+notamment au regard des objectifs et orientations du projet d'aménagement et de développement durables. Il justifie
+l'institution des secteurs des zones urbaines où les constructions ou installations d'une superficie supérieure à un seuil
+défini par le règlement sont interdites en application du a de l'article L. 123-2 ; 
 
 4° Evalue les incidences des orientations du plan sur l'environnement et expose la manière dont le plan prend en compte le
 souci de sa préservation et de sa mise en valeur ; 
 
-Dans le cas prévu au cinquième alinéa de l'article L. 123-1, le rapport de présentation comprend, en outre, le diagnostic sur
-le fonctionnement du marché local du logement et sur les conditions d'habitat défini par l'article R. 302-1-1 du code de la
-construction et de l'habitation. 
+5° Précise les indicateurs qui devront être élaborés pour l'évaluation des résultats de l'application du plan prévue à
+l'article L. 123-12-1. 
 
 En cas de modification ou de révision, le rapport de présentation est complété par l'exposé des motifs des changements
 apportés.
@@ -30446,73 +30495,69 @@ apportés.
 
 	**Modifié par**:
 
-	  - Décret n°2010-304 du 22 mars 2010 - art. 2
+	  - Décret n°2012-290 du 29 février 2012 - art. 15
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L123-1 (VT)
+	  - Code de l'urbanisme - art. L123-1-2
+	  - Code de l'urbanisme - art. L123-1-4 (V)
+	  - Code de l'urbanisme - art. L123-12-1
 	  - Code de l'urbanisme - art. L123-2
-	  - Code de la construction et de l'habitation. - art. R302-1-1 (V)
 
 
 ###### Article R*123-2-1
 
 Lorsque le plan local d'urbanisme doit faire l'objet d'une évaluation environnementale conformément aux articles L. 121-10 et
-suivants, le rapport de présentation :
+suivants, le rapport de présentation : 
 
-1° Expose le diagnostic prévu au premier alinéa de l'article L. 123-1 et décrit l'articulation du plan avec les autres
+1° Expose le diagnostic prévu au deuxième alinéa de l'article L. 123-1-2 et décrit l'articulation du plan avec les autres
 documents d'urbanisme et les plans ou programmes mentionnés à l'article L. 122-4 du code de l'environnement avec lesquels il
-doit être compatible ou qu'il doit prendre en considération ;
+doit être compatible ou qu'il doit prendre en considération ; 
 
 2° Analyse l'état initial de l'environnement et les perspectives de son évolution en exposant, notamment, les
-caractéristiques des zones susceptibles d'être touchées de manière notable par la mise en oeuvre du plan ;
+caractéristiques des zones susceptibles d'être touchées de manière notable par la mise en oeuvre du plan ; 
 
-3° Analyse les incidences notables prévisibles de la mise en oeuvre du plan sur l'environnement et expose les conséquences
+3° Analyse les incidences notables prévisibles de la mise en œuvre du plan sur l'environnement et expose les conséquences
 éventuelles de l'adoption du plan sur la protection des zones revêtant une importance particulière pour l'environnement
-telles que celles désignées conformément aux articles R. 214-18 à R. 214-22 (1) du code de l'environnement ainsi qu'à
-l'article 2 du décret n° 2001-1031 du 8 novembre 2001 relatif à la procédure de désignation des sites Natura 2000 ;
+telles que celles désignées conformément aux articles R. 414-3 à R. 414-7 du code de l'environnement ainsi qu'à l'article 2
+du décret n° 2001-1031 du 8 novembre 2001 relatif à la procédure de désignation des sites Natura 2000 ; 
 
-4° Explique les choix retenus pour établir le projet d'aménagement et de développement durable, au regard notamment des
+4° Explique les choix retenus pour établir le projet d'aménagement et de développement durables, au regard notamment des
 objectifs de protection de l'environnement établis au niveau international, communautaire ou national, et, le cas échéant,
 les raisons qui justifient le choix opéré par rapport aux autres solutions envisagées. Il expose les motifs de la
 délimitation des zones, des règles qui y sont applicables et des orientations d'aménagement. Il justifie l'institution des
 secteurs des zones urbaines où les constructions ou installations d'une superficie supérieure à un seuil défini par le
-règlement sont interdites en application du a de l'article L. 123-2 ;
+règlement sont interdites en application du a de l'article L. 123-2 ; 
 
 5° Présente les mesures envisagées pour éviter, réduire et, si possible, compenser s'il y a lieu, les conséquences
-dommageables de la mise en oeuvre du plan sur l'environnement et rappelle que le plan fera l'objet d'une analyse des
-résultats de son application, notamment en ce qui concerne l'environnement, au plus tard à l'expiration d'un délai de dix ans
-à compter de son approbation ;
+dommageables de la mise en oeuvre du plan sur l'environnement ; il précise les indicateurs qui devront être élaborés pour
+l'analyse des résultats de l'application du plan prévue par l'article L. 123-13-1, notamment en ce qui concerne
+l'environnement et la maîtrise de la consommation de l'espace ; 
 
 6° Comprend un résumé non technique des éléments précédents et une description de la manière dont l'évaluation a été
-effectuée.
+effectuée. 
 
 En cas de modification ou de révision, le rapport de présentation est complété par l'exposé des motifs des changements
-apportés.
+apportés. 
 
 Le rapport de présentation peut se référer aux renseignements relatifs à l'environnement figurant dans d'autres études, plans
 et documents.
-
-**Nota:**
-
-(1) Les articles R. 211-1 à R. 223-25 du code de l'environnement sont abrogés, sauf en tant que leurs dispositions
-s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les Terres australes et antarctiques
-françaises et à Mayotte. Se reporter désormais aux articles R. 411-1 à R. 423-20 du même code.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°2001-1031 du 8 novembre 2001 - art. 2 (M)
-	  - Code de l'urbanisme - art. L121-10 (M)
-	  - Code de l'urbanisme - art. L123-1 (M)
-	  - Code de l'urbanisme - art. L123-2 (M)
+	  - Décret n°2001-1031 du 8 novembre 2001 - art. 2 (V)
+	  - Code de l'urbanisme - art. L121-10 (V)
+	  - Code de l'urbanisme - art. L123-1-2
+	  - Code de l'urbanisme - art. L123-13-1 (VT)
+	  - Code de l'urbanisme - art. L123-2 (V)
 	  - Code de l'environnement - art. L122-4 (V)
-	  - Code de l'environnement L122-4, R214-18 à R214-22
+	  - Code de l'environnement - art. R414-3 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-608 du 27 mai 2005 - art. 4 () JORF 29 mai 2005
+	  - Décret n°2012-290 du 29 février 2012 - art. 16
 
 	**Cité par**:
 
@@ -30523,93 +30568,160 @@ françaises et à Mayotte. Se reporter désormais aux articles R. 411-1 à R. 42
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R*123-2-2
+
+Lorsque le plan local d'urbanisme est élaboré par un établissement public de coopération intercommunale, le rapport de
+présentation comprend le diagnostic sur le fonctionnement du marché local du logement et sur les conditions d'habitat
+définies par l'article R. 302-1-1 du code de la construction et de l'habitation. 
+
+Lorsque le plan local d'urbanisme est établi par un établissement public intercommunal qui est autorité organisatrice des
+transports urbains, le rapport de présentation expose les dispositions retenues en matière de transports et de déplacements
+dans le projet d'aménagement et de développement durables et dans les orientations d'aménagement et de programmation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-290 du 29 février 2012 - art. 17
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R151-54 (V)
+	  - Code de l'urbanisme - art. R151-55 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R302-1-1
+
+
 ###### Article R*123-3
 
-Le projet d'aménagement et de développement durable définit, dans le respect des objectifs et des principes énoncés aux
-articles L. 110 et L. 121-1, les orientations d'urbanisme et d'aménagement retenues pour l'ensemble de la commune. 
+Le projet d'aménagement et de développement durables comprend l'ensemble des éléments mentionnés à l'article L. 123-1-3. 
 
-Dans le cas prévu au cinquième alinéa de l'article L. 123-1, le projet d'aménagement et de développement durable énonce, en
-outre, les principes et objectifs mentionnés aux a à c et f de l'article R. 302-1-2 du code de la construction et de
-l'habitation.
+Lorsque le plan local d'urbanisme est élaboré par un établissement public de coopération intercommunale, le projet
+d'aménagement et de développement durables énonce, en outre, les principes et objectifs mentionnés aux a à c et f de
+l'article R. 302-1-2 du code de la construction et de l'habitation. 
+
+Lorsque le plan local d'urbanisme est élaboré par un établissement public de coopération intercommunale qui est autorité
+organisatrice des transports urbains, le projet d'aménagement et de développement durables détermine, en outre, les principes
+mentionnés à l'article L. 1214-1 du code des transports.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-304 du 22 mars 2010 - art. 2
+	  - Décret n°2012-290 du 29 février 2012 - art. 18
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - RECTIFICATION: Décret n°2010-304 du 22 mars 2010, v. init.
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L110
-	  - Code de l'urbanisme - art. L121-1
-	  - Code de l'urbanisme - art. L123-1
+	  - Code de l'urbanisme - art. L123-1-3
 	  - Code de la construction et de l'habitation. - art. R302-1-2
+	  - Code des transports - art. L1214-1
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R151-54 (V)
+	  - Code de l'urbanisme - art. R151-55 (V)
 
 
 ###### Article R*123-3-1
 
-Les orientations d'aménagement peuvent, par quartier ou par secteur, prévoir les actions et opérations d'aménagement
-mentionnées au troisième alinéa de l'article L. 123-1. 
+Les orientations d'aménagement et de programmation mentionnées au 1 de l'article L. 123-1-4 peuvent, le cas échéant par
+quartier ou par secteur, prévoir les actions et opérations d'aménagement prévues par ces dispositions. 
 
-Dans le cas prévu au cinquième alinéa de l'article L. 123-1, s'il y a lieu, les orientations d'aménagement comprennent en
-outre les objectifs mentionnés aux d, e et g de l'article R. 302-1-2 du code de la construction et de l'habitation. Dans
-cette partie figure également le programme d'actions défini à l'article R. 302-1-3 du même code.
+Lorsque le plan local d'urbanisme est élaboré par un établissement public de coopération intercommunale, les orientations
+d'aménagement et de programmation mentionnées aux 2 et 3 de l'article L. 123-1-4 définissent : 
+
+1° En ce qui concerne l'habitat, les objectifs et les principes mentionnés au 2° de l'article L. 123-1-4. Elles comprennent,
+notamment, les objectifs mentionnés aux d, e et g de l'article R. 302-1-2 du code de la construction et de l'habitation ainsi
+que le programme d'actions défini à l'article R. 302-1-3 du même code ; 
+
+2° Le cas échéant, en ce qui concerne les transports et les déplacements, l'organisation des transports de personnes et de
+marchandises, de la circulation et le stationnement. Elles déterminent les mesures arrêtées pour permettre d'assurer la
+réalisation des objectifs mentionnés à l'article L. 1214-2 du code des transports. 
+
+Ces orientations d'aménagement et de programmation peuvent, en outre, comprendre tout élément d'information nécessaire à la
+mise en œuvre des politiques du logement et du transport et des déplacements.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2010-304 du 22 mars 2010 - art. 2
-
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L123-1
+	  - Code des transports - art. L1214-2
+	  - Code de l'urbanisme - art. L123-1-4
 	  - Code de la construction et de l'habitation. - art. R302-1-2
 	  - Code de la construction et de l'habitation. - art. R302-1-3
+
+	**Modifié par**:
+
+	  - Décret n°2012-290 du 29 février 2012 - art. 19
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 
 ###### Article R*123-3-2
 
 Les dispositions relatives aux zones d'aménagement concerté, prévues aux a et b de l'article L. 123-3, figurent dans le
-règlement du plan local d'urbanisme ou dans les orientations d'aménagement ou leurs documents graphiques.
+règlement du plan local d'urbanisme ou dans les orientations d'aménagement et de programmation ou leurs documents graphiques.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2012-290 du 29 février 2012 - art. 20
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L123-3 (M)
+	  - Code de l'urbanisme - art. L123-3
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Modifié par**:
-
-	  - Décret n°2004-531 du 9 juin 2004 - art. 2 () JORF 13 juin 2004
-
 
 ###### Article R*123-4
 
 Le règlement délimite les zones urbaines, les zones à urbaniser, les zones agricoles et les zones naturelles et forestières.
-Il fixe les règles applicables à l'intérieur de chacune de ces zones dans les conditions prévues à l'article R. 123-9.
+Il fixe les règles applicables à l'intérieur de chacune de ces zones dans les conditions prévues à l'article R.* 123-9. 
+
+Il peut délimiter, dans des secteurs situés à proximité des transports collectifs existants ou programmés, des secteurs dans
+lesquels une densité minimale de construction est imposée.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
+	  - Décret n°2012-290 du 29 février 2012 - art. 21
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*123-9
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R151-17 (V)
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R313-4 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme R123-9
 
 	**Codifié par**:
 
@@ -30647,14 +30759,15 @@ implanter.
 
 ###### Article R*123-6
 
-Les zones à urbaniser sont dites "zones AU". Peuvent être classés en zone à urbaniser les secteurs à caractère naturel de la
-commune destinés à être ouverts à l'urbanisation.
+Les zones à urbaniser sont dites " zones AU ". Peuvent être classés en zone à urbaniser les secteurs à caractère naturel de
+la commune destinés à être ouverts à l'urbanisation. 
 
 Lorsque les voies publiques et les réseaux d'eau, d'électricité et, le cas échéant, d'assainissement existant à la périphérie
 immédiate d'une zone AU ont une capacité suffisante pour desservir les constructions à implanter dans l'ensemble de cette
-zone, les orientations d'aménagement et le règlement définissent les conditions d'aménagement et d'équipement de la zone. Les
-constructions y sont autorisées soit lors de la réalisation d'une opération d'aménagement d'ensemble, soit au fur et à mesure
-de la réalisation des équipements internes à la zone prévus par les orientations d'aménagement et le règlement.
+zone, les   orientations d'aménagement et de programmation et le règlement définissent les conditions d'aménagement et
+d'équipement de la zone. Les constructions y sont autorisées soit lors de la réalisation d'une opération d'aménagement
+d'ensemble, soit au fur et à mesure de la réalisation des équipements internes à la zone prévus par les   orientations
+d'aménagement et de programmation et le règlement. 
 
 Lorsque les voies publiques et les réseaux d'eau, d'électricité et, le cas échéant, d'assainissement existant à la périphérie
 immédiate d'une zone AU n'ont pas une capacité suffisante pour desservir les constructions à implanter dans l'ensemble de
@@ -30669,31 +30782,59 @@ d'urbanisme.
 
 	**Modifié par**:
 
-	  - Décret n°2004-531 du 9 juin 2004 - art. 2 () JORF 13 juin 2004
+	  - Décret n°2012-290 du 29 février 2012 - art. 22
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R151-20 (V)
 
 
 ###### Article R*123-7
 
-Les zones agricoles sont dites "zones A". Peuvent être classés en zone agricole les secteurs de la commune, équipés ou non, à
-protéger en raison du potentiel agronomique, biologique ou économique des terres agricoles.
+Les zones agricoles sont dites " zones A ". Peuvent être classés en zone agricole les secteurs de la commune, équipés ou non,
+à protéger en raison du potentiel agronomique, biologique ou économique des terres agricoles. 
 
-Les constructions et installations nécessaires aux services publics ou d'intérêt collectif et à l'exploitation agricole sont
-seules autorisées en zone A. Est également autorisé, en application du 2° de l'article R. 123-12, le changement de
-destination des bâtiments agricoles identifiés dans les documents graphiques du règlement.
+En zone A peuvent seules être autorisées : 
+
+― les constructions et installations nécessaires à l'exploitation agricole ; 
+
+― les constructions et installations nécessaires à des équipements collectifs ou à des services publics, dès lors qu'elles ne
+sont pas incompatibles avec l'exercice d'une activité agricole, pastorale ou forestière dans l'unité foncière où elles sont
+implantées et qu'elles ne portent pas atteinte à la sauvegarde des espaces naturels et des paysages. 
+
+Les dispositions des trois alinéas précédents ne s'appliquent pas dans les secteurs délimités en application du deuxième
+alinéa du 14° de l'article L. 123-1-5. 
+
+En zone A est également autorisé en application du 2° de l'article R.* 123-12, le changement de destination des bâtiments
+agricoles identifiés dans les documents graphiques du règlement.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2004-531 du 9 juin 2004 - art. 2 () JORF 13 juin 2004
+	  - Décret n°2012-290 du 29 février 2012 - art. 23
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L123-1-5
+	  - Code de l'urbanisme - art. R*123-12
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*123-21-1 (V)
 
-	**Cite**:
+	**Nouveaux textes**:
 
-	  - Code de l'urbanisme R123-12
+	  - Code de l'urbanisme - art. R151-22 (V)
+	  - Code de l'urbanisme - art. R151-23 (V)
 
 	**Codifié par**:
 
@@ -30702,32 +30843,55 @@ destination des bâtiments agricoles identifiés dans les documents graphiques d
 
 ###### Article R*123-8
 
-Les zones naturelles et forestières sont dites "zones N". Peuvent être classés en zone naturelle et forestière les secteurs
-de la commune, équipés ou non, à protéger en raison soit de la qualité des sites, des milieux naturels, des paysages et de
-leur intérêt, notamment du point de vue esthétique, historique ou écologique, soit de l'existence d'une exploitation
-forestière, soit de leur caractère d'espaces naturels.
+Les zones naturelles et forestières sont dites " zones N ”. Peuvent être classés en zone naturelle et forestière, les
+secteurs de la commune, équipés ou non, à protéger en raison : 
+
+a) Soit de la qualité des sites, milieux et espaces naturels, des paysages et de leur intérêt, notamment du point de vue
+esthétique, historique ou écologique ; 
+
+b) Soit de l'existence d'une exploitation forestière ; 
+
+c) Soit de leur caractère d'espaces naturels. 
+
+En zone N, peuvent seules être autorisées : 
+
+― les constructions et installations nécessaires à l'exploitation agricole et forestière ; 
+
+― les constructions et installations nécessaires à des équipements collectifs ou à des services publics, dès lors qu'elles ne
+sont pas incompatibles avec l'exercice d'une activité agricole, pastorale ou forestière dans l'unité foncière où elles sont
+implantées et qu'elles ne portent pas atteinte à la sauvegarde des espaces naturels et des paysages. 
+
+Les dispositions des trois alinéas précédents ne s'appliquent pas dans les secteurs bénéficiant des transferts de coefficient
+d'occupation des sols mentionnés à l'article L. 123-4, ainsi que dans les secteurs délimités en application du deuxième
+alinéa du 14° de l'article L. 123-1-5. 
 
 En zone N peuvent être délimités des périmètres à l'intérieur desquels s'effectuent les transferts des possibilités de
 construire prévus à l'article L. 123-4. Les terrains présentant un intérêt pour le développement des exploitations agricoles
 et forestières sont exclus de la partie de ces périmètres qui bénéficie des transferts de coefficient d'occupation des sols.
 
-En dehors des périmètres définis à l'alinéa précédent, des constructions peuvent être autorisées dans des secteurs de taille
-et de capacité d'accueil limitées, à la condition qu'elles ne portent atteinte ni à la préservation des sols agricoles et
-forestiers ni à la sauvegarde des sites, milieux naturels et paysages.
-
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2012-290 du 29 février 2012 - art. 24
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L123-1-5
+	  - Code de l'urbanisme - art. L123-4
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R151-24 (V)
+	  - Code de l'urbanisme - art. R151-25 (V)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L123-4 (M)
 
 
 ###### Article R*123-9
@@ -30760,26 +30924,48 @@ l'urbanisation traditionnelle ou l'intérêt paysager de la zone considérée ;
 
 11° L'aspect extérieur des constructions et l'aménagement de leurs abords ainsi que, éventuellement, les prescriptions de
 nature à assurer la protection des éléments de paysage, des quartiers, îlots, immeubles, espaces publics, monuments, sites et
-secteurs à protéger mentionnés au i de l'article R. 123-11 ; 
+secteurs à protéger mentionnés au h de l'article R.* 123-11 ; 
 
-12° Les obligations imposées aux constructeurs en matière de réalisation d'aires de stationnement ; 
+12° Les obligations imposées aux constructeurs en matière de réalisation d'aires de stationnement compatibles, lorsque le
+plan local d'urbanisme ne tient pas lieu de plan de déplacements urbains, avec les obligations définies par le schéma de
+cohérence territoriale en application des deuxième à quatrième alinéas de l'article L. 122-1-8 ; 
 
 13° Les obligations imposées aux constructeurs en matière de réalisation d'espaces libres, d'aires de jeux et de loisirs, et
 de plantations ; 
 
-14° Le coefficient d'occupation du sol défini par l'article R. 123-10 et, le cas échéant, dans les zones d'aménagement
-concerté, la     surface de plancher  nette dont la construction est autorisée dans chaque îlot. 
+14° Le coefficient d'occupation du sol défini par l'article R.* 123-10 et, le cas échéant, dans les zones d'aménagement
+concerté, la surface de plancher nette dont la construction est autorisée dans chaque îlot ; 
 
-Lorsque le plan de déplacements urbains a délimité, en application de l'article 28-1-2 de la loi n° 82-1153 du 30 décembre
-1982 modifiée, des périmètres à l'intérieur desquels les conditions de desserte par les transports publics réguliers
-permettent de réduire ou de supprimer les obligations imposées en matière de réalisation d'aires de stationnement, notamment
-lors de la construction d'immeubles de bureaux, le plan local d'urbanisme respecte ces limitations et, le cas échéant, fixe
-un nombre maximum d'aires de stationnement à réaliser lors de la construction de bâtiments à un usage autre que
-d'habitation. 
+15° Les obligations imposées aux constructions, travaux, installations et aménagements, en matière de performances
+énergétiques et environnementales ; 
 
-Dans les secteurs mentionnés au troisième alinéa de l'article R. 123-8, le règlement prévoit les conditions de hauteur,
-d'implantation et de densité des constructions permettant d'assurer l'insertion de ces constructions dans l'environnement et
-compatibles avec le maintien du caractère naturel de la zone. 
+16° Les obligations imposées aux constructions, travaux, installations et aménagements, en matière d'infrastructures et
+réseaux de communications électroniques. 
+
+Lorsque le plan local d'urbanisme est élaboré par un établissement public de coopération intercommunale qui est autorité
+organisatrice des transports urbains, le règlement délimite des périmètres à l'intérieur desquels les conditions de desserte
+par les transports publics réguliers permettent de réduire ou de supprimer les obligations imposées en matière de réalisation
+d'aires de stationnement, notamment lors de la construction d'immeubles de bureaux. 
+
+Lorsque le plan local d'urbanisme n'est pas élaboré par un établissement public de coopération intercommunale qui est
+autorité organisatrice des transports urbains, il respecte les limitations fixées, le cas échéant, par le schéma de cohérence
+territoriale et le plan de déplacements urbains dans les cas suivants : 
+
+a) Si le plan de déplacements urbains a délimité, en application de l'article L. 1214-4 du code des transports, des
+périmètres à l'intérieur desquels les conditions de desserte par les transports publics réguliers permettent de réduire ou de
+supprimer les obligations imposées par les plans locaux d'urbanisme et les plans de sauvegarde et de mise en valeur en
+matière de réalisation d'aires de stationnement, notamment lors de la construction d'immeubles de bureaux ; 
+
+b) Si le schéma de cohérence territoriale précise, en application de l'article L. 122-1-8, des obligations minimales ou
+maximales de réalisation d'aires de stationnement pour les véhicules motorisés ou des obligations minimales de réalisation
+d'aires de stationnement pour les véhicules non motorisés. 
+
+Le règlement fixe un nombre maximum d'aires de stationnement à réaliser lors de la construction de bâtiments à usage autre
+que d'habitation. 
+
+Dans les secteurs mentionnés au deuxième alinéa du 14° de l'article L. 123-1-5, le règlement prévoit les conditions de
+hauteur, d'implantation et de densité des constructions permettant d'assurer l'insertion de ces constructions dans
+l'environnement et compatibles avec le maintien du caractère naturel, agricole ou forestier de la zone. 
 
 Les règles édictées dans le présent article peuvent être différentes, dans une même zone, selon que les constructions sont
 destinées à l'habitation, à l'hébergement hôtelier, aux bureaux, au commerce, à l'artisanat, à l'industrie, à l'exploitation
@@ -30795,17 +30981,12 @@ faire application du huitième alinéa de l'article L. 145-5.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°82-1153 du 30 décembre 1982 - art. 28-1-2
-	  - Code général des collectivités territoriales - art. L2224-10
-
 	**Cité par**:
 
 	  - Arrêté du 12 avril 2010 - art. Annexe (V)
 	  - Décret n°2014-450 du 2 mai 2014 - art. 4 (VT)
 	  - Code de l'environnement - art. R123-13 (M)
-	  - Code de l'urbanisme - art. *R421-17 (VD)
+	  - Code de l'urbanisme - art. *R421-17 (M)
 	  - Code de l'urbanisme - art. R*123-10 (VT)
 	  - Code de l'urbanisme - art. R*123-11 (VT)
 	  - Code de l'urbanisme - art. R*123-4 (VT)
@@ -30815,7 +30996,33 @@ faire application du huitième alinéa de l'article L. 145-5.
 
 	**Modifié par**:
 
-	  - Décret n°2011-2054 du 29 décembre 2011 - art. 6 (VD)
+	  - Décret n°2012-290 du 29 février 2012 - art. 25
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2224-10
+	  - Code de l'urbanisme - art. L122-1-8
+	  - Code de l'urbanisme - art. L123-1-5
+	  - Code de l'urbanisme - art. L145-5
+	  - Code des transports - art. L1214-4
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R122-2 (V)
+	  - Code de l'urbanisme - art. R151-27 (V)
+	  - Code de l'urbanisme - art. R151-28 (V)
+	  - Code de l'urbanisme - art. R151-30 (V)
+	  - Code de l'urbanisme - art. R151-33 (V)
+	  - Code de l'urbanisme - art. R151-39 (V)
+	  - Code de l'urbanisme - art. R151-41 (V)
+	  - Code de l'urbanisme - art. R151-42 (M)
+	  - Code de l'urbanisme - art. R151-43 (V)
+	  - Code de l'urbanisme - art. R151-47 (V)
+	  - Code de l'urbanisme - art. R151-49 (V)
 
 	**Codifié par**:
 
@@ -30825,15 +31032,15 @@ faire application du huitième alinéa de l'article L. 145-5.
 ###### Article R*123-10
 
 Le coefficient d'occupation du sol qui détermine la densité de construction admise est le rapport exprimant le nombre de
-mètres carrés de   surface de plancher ou le nombre de mètres cubes susceptibles d'être construits par mètre carré de sol. 
+mètres carrés de surface de plancher ou le nombre de mètres cubes susceptibles d'être construits par mètre carré de sol. 
 
 Pour le calcul du coefficient d'occupation du sol, la superficie du ou des terrains faisant l'objet de la demande
 d'autorisation de construire ou de lotir comprend, le cas échéant, les terrains classés comme espaces boisés en application
-de l'article L. 130-1 et les terrains cédés gratuitement dans les conditions fixées par les articles R. 332-15 et R. 332-16.
-La surface de plancher ou, le cas échéant, le volume des bâtiments existants conservés sur le ou les terrains faisant l'objet
-de la demande est déduit des possibilités de construction. 
+de l'article L. 130-1 et les terrains cédés gratuitement dans les conditions fixées par les articles R.* 332-15 et R.*
+332-16. La surface de plancher ou, le cas échéant, le volume des bâtiments existants conservés sur le ou les terrains faisant
+l'objet de la demande est déduit des possibilités de construction. 
 
-Les emplacements réservés mentionnés au 8° de l'article L. 123-1 (1) sont déduits de la superficie prise en compte pour le
+Les emplacements réservés mentionnés au 8° de l'article L. 123-1-5 sont déduits de la superficie prise en compte pour le
 calcul des possibilités de construction. Toutefois, le propriétaire d'un terrain dont une partie est comprise dans un de ces
 emplacements et qui accepte de céder gratuitement cette partie à la collectivité bénéficiaire de la réserve peut être
 autorisé à reporter sur la partie restante de son terrain un droit de construire correspondant à tout ou partie du
@@ -30842,24 +31049,31 @@ coefficient d'occupation du sol affectant la superficie du terrain qu'il cède g
 Le règlement peut fixer un coefficient d'occupation des sols dans les zones U et AU. 
 
 Dans ces zones ou parties de zone, il peut fixer des coefficients différents suivant les catégories de destination des
-constructions définies à l'avant-dernier alinéa de l'article R. 123-9. Il peut également prévoir, dans les conditions prévues
-à l'article L. 123-1-1, la limitation des droits à construire en cas de division du terrain à bâtir. 
+constructions définies à l'avant-dernier alinéa de l'article R.* 123-9. Il peut également prévoir, dans les conditions
+prévues à l'article L. 123-1-11, la limitation des droits à construire en cas de division du terrain à bâtir. 
 
 Lorsque dans la zone N a été délimité un périmètre pour effectuer les transferts des possibilités de construction prévus à
 l'article L. 123-4, le règlement fixe deux coefficients d'occupation des sols, l'un applicable à l'ensemble des terrains
 inclus dans le périmètre délimité pour le calcul des transferts et l'autre définissant la densité maximale des constructions
 du secteur dans lequel celles-ci peuvent être implantées.
 
-**Nota:**
-
-(1) Loi n° 2010-788 du 12 juillet 2010 article 19 7° : Les septième à vingt-septième alinéas de l'article L. 123-1 du code de
-l'urbanisme (dont le 8°) deviennent l'article L. 123-1-5 du même code.
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-2054 du 29 décembre 2011 - art. 6 (V)
+	  - Décret n°2012-290 du 29 février 2012 - art. 26
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L123-1-11
+	  - Code de l'urbanisme - art. L123-1-5
+	  - Code de l'urbanisme - art. L123-4
+	  - Code de l'urbanisme - art. L130-1
+	  - Code de l'urbanisme - art. R*332-15
 
 	**Cité par**:
 
@@ -30898,75 +31112,93 @@ règlement de ce plan s'y oppose.
 
 ###### Article R*123-11
 
-Les zones U, AU, A et N sont délimitées sur un ou plusieurs documents graphiques.
+Les zones U, AU, A et N sont délimitées sur un ou plusieurs documents graphiques. 
 
-Les documents graphiques du règlement font, en outre, apparaître s'il y a lieu :
+Les documents graphiques du règlement font, en outre, apparaître s'il y a lieu : 
 
-a) Les espaces boisés classés définis à l'article L. 130-1 ;
+a) Les espaces boisés classés définis à l'article L. 130-1 ; 
 
 b) Les secteurs où les nécessités du fonctionnement des services publics, de l'hygiène, de la protection contre les nuisances
 et de la préservation des ressources naturelles ou l'existence de risques naturels, tels qu'inondations, incendies de forêt,
 érosion, affaissements, éboulements, avalanches, ou de risques technologiques justifient que soient interdites ou soumises à
 des conditions spéciales les constructions et installations de toute nature, permanentes ou non, les plantations, dépôts,
-affouillements, forages et exhaussements des sols ;
+affouillements, forages et exhaussements des sols ; 
 
 c) Les secteurs protégés en raison de la richesse du sol ou du sous-sol, dans lesquels les constructions et installations
-nécessaires à la mise en valeur de ces ressources naturelles sont autorisées ;
+nécessaires à la mise en valeur de ces ressources naturelles sont autorisées ; 
 
 d) Les emplacements réservés aux voies et ouvrages publics, aux installations d'intérêt général et aux espaces verts, en
-précisant leur destination et les collectivités, services et organismes publics bénéficiaires ;
+précisant leur destination et les collectivités, services et organismes publics bénéficiaires ; 
 
 e) Les secteurs dans lesquels, pour des motifs d'urbanisme ou d'architecture, la reconstruction sur place ou l'aménagement de
 bâtiments existants peut être imposé ou autorisé avec une densité au plus égale à celle qui existait antérieurement,
-nonobstant le ou les coefficients d'occupation du sol fixés pour la zone ou le secteur ;
+nonobstant le ou les coefficients d'occupation du sol fixés pour la zone ou le secteur ; 
 
 f) Les secteurs dans lesquels la délivrance du permis de construire peut être subordonnée à la démolition de tout ou partie
-des bâtiments existants sur le terrain où l'implantation de la construction est envisagée ;
+des bâtiments existants sur le terrain où l'implantation de la construction est envisagée ; 
 
-g) Les périmètres, tels que délimités par le plan de déplacements urbains en application de l'article 28-1-2 de la loi n°
-82-1153 du 30 décembre 1982 modifiée, à l'intérieur desquels les conditions de desserte par les transports publics réguliers
-permettent de réduire ou de supprimer les obligations imposées en matière de réalisation d'aires de stationnement, notamment
-lors de la construction d'immeubles de bureaux, ou à l'intérieur desquels le plan local d'urbanisme fixe un nombre maximum
-d'aires de stationnement à réaliser lors de la construction de bâtiments à usage autre que d'habitation ;
+g) Les périmètres, tels que délimités par le plan de déplacements urbains en application de l'article L. 1214-4 du code des
+transports, à l'intérieur desquels les conditions de desserte par les transports publics réguliers permettent de réduire ou
+de supprimer les obligations imposées en matière de réalisation d'aires de stationnement, notamment lors de la construction
+d'immeubles de bureaux, ou à l'intérieur desquels le plan local d'urbanisme fixe un nombre maximum d'aires de stationnement à
+réaliser lors de la construction de bâtiments à usage autre que d'habitation ; 
 
 h) Les éléments de paysage, les quartiers, îlots, immeubles, espaces publics, monuments, sites et secteurs à protéger ou à
 mettre en valeur pour des motifs d'ordre culturel, historique ou écologique, et notamment les secteurs dans lesquels la
-démolition des immeubles est subordonnée à la délivrance d'un permis de démolir ;
+démolition des immeubles est subordonnée à la délivrance d'un permis de démolir ; 
 
-i) Les zones qui sont ou peuvent être aménagées en vue de la pratique du ski et les secteurs réservés aux remontées
-mécaniques en indiquant, le cas échéant, les équipements et aménagements susceptibles d'y être prévus.
+i) Les espaces et secteurs contribuant aux continuités écologiques et à la trame verte et bleue ; 
+
+j) Les zones qui sont ou peuvent être aménagées en vue de la pratique du ski et les secteurs réservés aux remontées
+mécaniques en indiquant, le cas échéant, les équipements et aménagements susceptibles d'y être prévus. 
 
 Les documents graphiques peuvent également faire apparaître des règles d'implantation des constructions dans les conditions
-prévues au dernier alinéa de l'article R. 123-9.
+prévues à l'avant-dernier alinéa de l'article R.* 123-9. 
+
+Lorsque le plan local d'urbanisme comporte des plans de secteurs, le document graphique délimite ces secteurs.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2012-290 du 29 février 2012 - art. 27
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L130-1
+	  - Code des transports - art. L1214-4
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*123-12 (VT)
+	  - Code de l'urbanisme - art. R*123-9 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R151-31 (V)
+	  - Code de l'urbanisme - art. R151-34 (V)
+	  - Code de l'urbanisme - art. R151-38 (V)
+	  - Code de l'urbanisme - art. R151-41 (V)
+	  - Code de l'urbanisme - art. R151-43 (V)
+	  - Code de l'urbanisme - art. R151-48 (V)
+	  - Code de l'urbanisme - art. R151-50 (V)
+	  - Code de l'urbanisme - art. R151-9 (V)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Cite**:
-
-	  - Loi n°82-1153 du 30 décembre 1982 - art. 28-1-2 (V)
-	  - Code de l'urbanisme - art. L130-1 (M)
-	  - Code de l'urbanisme L130-1, R123-9
-
-	**Modifié par**:
-
-	  - Décret n°2004-531 du 9 juin 2004 - art. 2 () JORF 13 juin 2004
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*123-12 (V)
-	  - Code de l'urbanisme - art. R*123-9 (VT)
-
 
 ###### Article R*123-12
 
-Les documents graphiques prévus à l'article R. 123-11 font également apparaître, s'il y a lieu : 
+Les documents graphiques prévus à l'article R. * 123-11 font également apparaître, s'il y a lieu : 
 
 1° Dans les zones U, les terrains cultivés à protéger et inconstructibles délimités en application du 9° de l'article L.
-123-1 ; 
+123-1-5 ; 
 
 2° Dans les zones A, les bâtiments agricoles qui, en raison de leur intérêt architectural ou patrimonial, peuvent faire
 l'objet d'un changement de destination, dès lors que ce changement de destination ne compromet pas l'exploitation agricole ; 
@@ -30978,7 +31210,7 @@ prévu à l'article L. 123-4 ;
 
 4° Dans les zones U et AU : 
 
-a) Les secteurs pour lesquels un plan de masse coté à trois dimensions définit des règles spéciales ; 
+a) (Supprimé) ; 
 
 b) Les secteurs délimités en application du a de l'article L. 123-2 en précisant à partir de quelle surface les constructions
 ou installations sont interdites et la date à laquelle la servitude sera levée ; 
@@ -30988,29 +31220,54 @@ objectifs de mixité sociale, de programmes de logements en précisant la nature
 
 d) Les terrains concernés par la localisation des équipements mentionnés au c de l'article L. 123-2 ; 
 
-e) Les secteurs où les programmes de logements doivent, en application du 15° de l'article L. 123-1, comporter une proportion
-de logements d'une taille minimale, en précisant cette taille minimale ; 
+e) Les secteurs où les programmes de logements doivent, en application du 15° de l'article L. 123-1-5, comporter une
+proportion de logements d'une taille minimale, en précisant cette taille minimale ; 
 
-f) Les secteurs où, en application du 16° de l'article L. 123-1, un pourcentage des programmes de logements doit être affecté
-à des catégories de logement en précisant ce pourcentage et les catégories prévues.
+f) Les secteurs où, en application du 16° de l'article L. 123-1-5, un pourcentage des programmes de logements doit être
+affecté à des catégories de logement en précisant ce pourcentage et les catégories prévues ; 
+
+5° Dans les zones U, AU, dans les secteurs de taille et de capacité d'accueil limitées délimités en application de l'article
+L. 123-1-5, ainsi que dans les zones où un transfert de coefficient d'occupation des sols a été décidé en application de
+l'article L. 123-4, le règlement peut définir des secteurs de plan masse côté en trois dimensions ; 
+
+6° Les secteurs où, en application du 14° de l'article L. 123-1-5, des performances énergétiques et environnementales
+renforcées doivent être respectées ; 
+
+7° Les secteurs où, en application du 14° de l'article L. 123-1-5, des critères de qualité renforcés en matière
+d'infrastructures et réseaux de communications électroniques doivent être respectés.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-304 du 22 mars 2010 - art. 2
+	  - Décret n°2012-290 du 29 février 2012 - art. 28
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L123-1
-	  - Code de l'urbanisme - art. L123-2 (V)
+	  - Code de l'urbanisme - art. L123-1-5
+	  - Code de l'urbanisme - art. L123-2
 	  - Code de l'urbanisme - art. L123-4
-	  - Code de l'urbanisme - art. R*123-11
+	  - Code de l'urbanisme - art. R*123-11 (VT)
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*123-7 (VT)
 	  - Code de l'urbanisme - art. R313-4 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R151-32 (V)
+	  - Code de l'urbanisme - art. R151-35 (V)
+	  - Code de l'urbanisme - art. R151-36 (V)
+	  - Code de l'urbanisme - art. R151-38 (V)
+	  - Code de l'urbanisme - art. R151-40 (V)
+	  - Code de l'urbanisme - art. R151-42 (M)
+	  - Code de l'urbanisme - art. R151-43 (V)
+	  - Code de l'urbanisme - art. R151-50 (V)
 
 
 ###### Article R*123-13
@@ -31062,14 +31319,14 @@ espaces agricoles et naturels périurbains ;
 
 16° Les secteurs où une délibération du conseil municipal ou de l'organe délibérant de l'établissement public de coopération
 intercommunale compétent a autorisé un dépassement des règles du plan local d'urbanisme en application des articles L.
-123-1-1 et L. 127-1. La délibération qui précise les limites de ce dépassement est jointe au document graphique faisant
+123-1-11 et L. 127-1. La délibération qui précise les limites de ce dépassement est jointe au document graphique faisant
 apparaître ces secteurs ; 
 
 17° Les périmètres fixés par les conventions de projet urbain partenarial visées à l'article L. 332-11-3 ; 
 
 18° Les secteurs où une délibération du conseil municipal ou de l'organe délibérant de l'établissement public de coopération
 intercommunale compétent a autorisé, pour les constructions respectant les critères de performance énergétique prévus par
-l'article R. 111-21 du code de la construction et de l'habitation, un dépassement des règles du plan local d'urbanisme en
+l'article *R. 111-21 du code de la construction et de l'habitation, un dépassement des règles du plan local d'urbanisme en
 application de l'article L. 128-1. La délibération qui précise les limites de ce dépassement est jointe au document graphique
 faisant apparaître ces secteurs. 
 
@@ -31092,7 +31349,7 @@ décembre 2005.
 	  - Code de l'urbanisme - art. L111-10
 	  - Code de l'urbanisme - art. L111-5-2
 	  - Code de l'urbanisme - art. L111-6-2
-	  - Code de l'urbanisme - art. L123-1-1
+	  - Code de l'urbanisme - art. L123-1-11
 	  - Code de l'urbanisme - art. L127-1
 	  - Code de l'urbanisme - art. L128-1
 	  - Code de l'urbanisme - art. L142-1
@@ -31107,7 +31364,7 @@ décembre 2005.
 
 	**Modifié par**:
 
-	  - Décret n°2011-830 du 12 juillet 2011 - art. 2
+	  - Décret n°2012-290 du 29 février 2012 - art. 29
 
 	**Cité par**:
 
@@ -31186,54 +31443,59 @@ L'article L315-2-1 est abrogé par l'ordonnance n° 2005-1527, article 22.
 
 ###### Article R*123-14-1
 
-Dans le cas prévu au cinquième alinéa de l'article L. 123-1, l'établissement public de coopération intercommunale compétent
-met en place le dispositif d'observation de l'habitat mentionné au sixième alinéa de l'article L. 302-1 du code de la
-construction et de l'habitation, dans les conditions définies par l'article R. 302-1-4 du même code.
+Dans le cas prévu au 2° de l'article L. 123-1-4, l'établissement public de coopération intercommunale compétent met en place
+le dispositif d'observation de l'habitat mentionné au sixième alinéa de l'article L. 302-1 du code de la construction et de
+l'habitation, dans les conditions définies par l'article R. 302-1-4 du même code.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-304 du 22 mars 2010 - art. 2
+	  - Décret n°2012-290 du 29 février 2012 - art. 30
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L123-1
+	  - Code de l'urbanisme - art. L123-1-4
 	  - Code de la construction et de l'habitation. - art. L302-1
 	  - Code de la construction et de l'habitation. - art. R302-1-4
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R152-1 (V)
 
 
 #####  Section 2 : Elaboration, modification, révision et mise à jour des plans locaux d'urbanisme
 
 ###### Article R*123-15
 
-Le maire ou le président de l'établissement public de coopération intercommunale compétent conduit la procédure d'élaboration
-du plan local d'urbanisme.
+Le président de l'établissement public de coopération intercommunale compétent ou le maire conduit la procédure d'élaboration
+du plan local d'urbanisme. 
 
-Le préfet porte à la connaissance du maire ou du président de l'établissement public, outre les dispositions et documents
-mentionnés à l'article R. 121-1, s'il y a lieu, la proposition faite par l'architecte des Bâtiments de France, en application
-de l'article L. 621-30-1 du code du patrimoine, de modifier un ou plusieurs des périmètres mentionnés au cinquième alinéa du
-même article.
+Le préfet porte à la connaissance du président de l'établissement public ou du maire, outre les dispositions et documents
+mentionnés à l'article R.* 121-1, s'il y a lieu, la proposition faite par l'architecte des Bâtiments de France, en
+application de l'article L. 621-30-1 du code du patrimoine, de modifier un ou plusieurs des périmètres mentionnés au
+cinquième alinéa du même article. 
 
 Dans le délai de trois mois suivant la publication du schéma départemental d'organisation sociale et médico-sociale mentionné
-à l'article L. 312-4 du code de l'action sociale et des familles, le préfet le notifie au maire ou au président de
-l'établissement public de coopération intercommunale compétent. Il en est tenu compte lors de la plus prochaine révision du
-plan local d'urbanisme.
+à l'article L. 312-4 du code de l'action sociale et des familles, le préfet le notifie au président de l'établissement public
+de coopération intercommunale compétent ou au maire. Il en est tenu compte lors de la plus prochaine révision du plan local
+d'urbanisme.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°70-1016 1970-10-28 art. 15
-
 	**Modifié par**:
 
-	  - Décret n°2007-1327 du 11 septembre 2007 - art. 6 () JORF 12 septembre 2007 en vigueur le 1er octobre 2007
+	  - Décret n°2012-290 du 29 février 2012 - art. 31
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L312-4 (M)
-	  - Code de l'urbanisme R121-1
+	  - Code de l'action sociale et des familles - art. L312-4 (V)
+	  - Code de l'urbanisme - art. R*121-1 (V)
+	  - Code du patrimoine. - art. L621-30-1 (Ab)
 
 	**Cité par**:
 
@@ -31248,18 +31510,13 @@ plan local d'urbanisme.
 
 Les présidents des organes délibérants des collectivités publiques, des établissements publics des organismes associés et des
 associations agréées ainsi que les maires mentionnés aux deux premiers alinéas de l'article L. 123-8, ou leurs représentants,
-sont consultés par le maire ou par le président de l'établissement public de coopération intercommunale compétente à chaque
-fois qu'ils le demandent pendant la durée de l'élaboration ou de la révision du plan.
+sont consultés par le président de l'établissement public de coopération intercommunale compétent ou par le maire à chaque
+fois qu'ils le demandent pendant la durée de l'élaboration ou de la révision du plan. 
+
+L'avis prévu à l'article L. 123-9-1 est rendu dans un délai de deux mois à compter de la saisine. En l'absence de réponse à
+l'issue de ce délai, l'avis est réputé favorable.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1016 1970-10-28 art. 16
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L123-8 (M)
 
 	**Codifié par**:
 
@@ -31267,14 +31524,19 @@ fois qu'ils le demandent pendant la durée de l'élaboration ou de la révision 
 
 	**Modifié par**:
 
-	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
+	  - Décret n°2012-290 du 29 février 2012 - art. 32
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L123-8 (VT)
+	  - Code de l'urbanisme - art. L123-9-1 (V)
 
 
 ###### Article R*123-17
 
-Conformément à l'article L. 112-1 du code rural et de la pêche maritime, le maire ou le président de l'établissement public
-de coopération intercommunale compétent consulte lors de l'élaboration du plan local d'urbanisme le document de gestion de
-l'espace agricole et forestier, lorsqu'il existe. 
+Conformément à l'article L. 112-1 du code rural et de la pêche maritime, le président de l'établissement public de
+coopération intercommunale compétent ou le maire consulte lors de l'élaboration du plan local d'urbanisme le document de
+gestion de l'espace agricole et forestier, lorsqu'il existe. 
 
 Conformément à l'article L. 112-3 du code rural et de la pêche maritime, le plan local d'urbanisme ne peut être approuvé
 qu'après avis de la chambre d'agriculture et, le cas échéant, de l'Institut national de l'origine et de la qualité dans les
@@ -31287,7 +31549,7 @@ réponse à l'issue de ce délai, l'avis est réputé favorable.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+	  - Décret n°2012-290 du 29 février 2012 - art. 33
 
 	**Cite**:
 
@@ -31299,16 +31561,12 @@ réponse à l'issue de ce délai, l'avis est réputé favorable.
 ###### Article R*123-18
 
 La délibération qui arrête un projet de plan local d'urbanisme peut simultanément tirer le bilan de la concertation, en
-application du sixième alinéa de l'article L. 300-2.
+application du sixième alinéa de l'article L. 300-2. 
 
-Elle est affichée pendant un mois en mairie ou au siège de l'établissement public de coopération intercommunale compétent et,
-ce dans ce cas, dans les mairies des communes membres concernées.
+Elle est affichée pendant un mois au siège de l'établissement public de coopération intercommunale compétent et dans les
+mairies des communes membres concernées, ou en mairie.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1016 1970-10-28 art. 18 I
 
 	**Codifié par**:
 
@@ -31316,7 +31574,7 @@ ce dans ce cas, dans les mairies des communes membres concernées.
 
 	**Modifié par**:
 
-	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
+	  - Décret n°2012-290 du 29 février 2012 - art. 34
 
 	**Cité par**:
 
@@ -31325,25 +31583,25 @@ ce dans ce cas, dans les mairies des communes membres concernées.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L300-2 (M)
+	  - Code de l'urbanisme - art. L300-2 (VT)
 
 
 ###### Article R*123-19
 
-Le projet de plan local d'urbanisme est soumis à l'enquête publique par le maire ou le président de l'établissement public de
-coopération intercommunale compétent dans les formes prévues par les articles R. 123-7 à R. 123-23 du code de
-l'environnement. Toutefois, le maire ou le président de l'établissement public exerce les compétences attribuées au préfet
-par les articles R. 123-7, R. 123-8, R. 123-13, R. 123-14, R. 123-18 et R. 123-20 à R. 123-23 de ce code.
+Le projet de plan local d'urbanisme est soumis à l'enquête publique par le président de l'établissement public de coopération
+intercommunale compétent ou par le maire dans les formes prévues par les articles R. 123-7 à R. 123-23 du code de
+l'environnement. Toutefois, le président de l'établissement public ou le maire exerce les compétences attribuées au préfet
+par les articles R. 123-7, R. 123-8, R. 123-13, R. 123-14, R. 123-18 et R. 123-20 à R. 123-23 de ce code. 
 
 L'enquête concernant un plan local d'urbanisme vaut enquête préalable à la déclaration d'utilité publique des opérations,
 acquisitions ou expropriations prévues à ce plan à l'intérieur d'une zone d'aménagement concerté lorsque le dossier soumis à
-l'enquête comprend les pièces mentionnées au I de l'article R. 11-3 du code de l'expropriation pour cause d'utilité publique.
-Dans ce cas, l'enquête publique est organisée dans les formes prévues par les articles R. 11-14-1 et suivants du code de
-l'expropriation pour cause d'utilité publique. Toutefois, le maire ou le président de l'établissement public exerce les
-compétences attribuées au préfet par les articles R. 11-14-2 à R. 11-14-5 et R. 11-14-7 à R. 11-14-15 du même code.
+l'enquête comprend les pièces mentionnées au I de l'article **R. 11-3 du code de l'expropriation pour cause d'utilité
+publique. Dans ce cas, l'enquête publique est organisée dans les formes prévues par les articles R. 11-14-1 et suivants du
+code de l'expropriation pour cause d'utilité publique. Toutefois, le président de l'établissement public ou le maire exerce
+les compétences attribuées au préfet par les articles R. 11-14-2 à R. 11-14-5 et R. 11-14-7 à R. 11-14-15 du même code. 
 
-Le dossier est composé des pièces mentionnées à l'article R. 123-1 et des avis émis par les collectivités ou organismes
-associés ou consultés. Il peut être complété par tout ou partie des documents mentionnés à l'article R. 121-1.
+Le dossier est composé des pièces mentionnées à l'article R.* 123-1 et des avis émis par les collectivités ou organismes
+associés ou consultés. Il peut être complété par tout ou partie des documents mentionnés à l'article R.* 121-1. 
 
 L'approbation du plan local d'urbanisme dispense de l'enquête préalable aux classements et déclassements de voies et places
 publiques communales prévus à ce plan, sous réserve que celui-ci précise la catégorie dans laquelle elles doivent entrer et
@@ -31353,13 +31611,9 @@ de l'avis conforme, selon le cas, du préfet ou du président du conseil génér
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°70-1016 1970-10-28 art. 18 II 1 à 3
-
 	**Modifié par**:
 
-	  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
+	  - Décret n°2012-290 du 29 février 2012 - art. 35
 
 	**Cité par**:
 
@@ -31368,10 +31622,11 @@ de l'avis conforme, selon le cas, du préfet ou du président du conseil génér
 
 	**Cite**:
 
-	  - Code de l'urbanisme R123-1, R121-1
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-1 (M)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-3 (M)
-	  - Code de l'expropriation pour cause d'utilité publique R11-3, R11-14-1, R11-14-2 à R11-14-5, R11-14-7 à R11-14-15
+	  - Code de l'environnement - art. R123-7 (V)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R11-3 (V)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. R11-14-1 (Ab)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. R11-14-2 (Ab)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. R11-14-7 (Ab)
 
 	**Codifié par**:
 
@@ -31424,46 +31679,46 @@ thermiques ou photovoltaïques ou de tout autre dispositif individuel de product
 façade du bois ou de tout autre matériau renouvelable permettant d'éviter des émissions de gaz à effet de serre ou la pose de
 toitures végétalisées ou retenant les eaux pluviales ; 
 
-f) Supprimer un ou plusieurs emplacements réservés ou réduire leur emprise ;
+f) Supprimer un ou plusieurs emplacements réservés ou réduire leur emprise ; 
 
 g) Supprimer des règles qui auraient pour seul objet ou pour seul effet d'interdire l'installation d'ouvrages de production
 d'électricité à partir de l'énergie solaire installés sur le sol d'une puissance crête inférieure ou égale à douze mégawatts,
 dans les parties des zones naturelles qui ne font pas l'objet d'une protection spécifique en raison de la qualité des sites,
 des milieux naturels et des paysages et qui ne présentent ni un intérêt écologique particulier ni un intérêt pour
-l'exploitation forestière.  
+l'exploitation forestière. 
 
 Ces modifications ne peuvent avoir pour objet ou pour effet de porter atteinte aux prescriptions édictées en application du
-7° de l'article L. 123-1.
+7° de l'article L. 123-1-5.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1414 du 19 novembre 2009 - art. 4
+	  - Décret n°2012-290 du 29 février 2012 - art. 36
+
+	**Abrogé par**:
+
+	  - Décret n°2013-142 du 14 février 2013 - art. 4
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L123-1
+	  - Code de l'urbanisme - art. L123-1-5
 	  - Code de l'urbanisme - art. L123-13
 
 
 ###### Article R*123-20-2
 
 Un avis précisant l'objet de la modification simplifiée, le lieu et les heures où le public pourra consulter le dossier et
-formuler des observations est publié en caractères apparents dans un journal diffusé dans le département et affiché en mairie
-ou au siège de l'établissement public compétent et, dans ce cas, dans les mairies des communes membres concernées.L'avis est
-publié huit jours au moins avant le début de la mise à disposition du public et affiché dans le même délai et pendant toute
-la durée de la mise à disposition. 
+formuler des observations est publié en caractères apparents dans un journal diffusé dans le département et affiché au  siège
+de l'établissement public de coopération intercommunale compétent  et, dans ce cas, dans les mairies des communes membres
+concernées ou en  mairie. L'avis est publié huit jours au moins avant le début de la mise à disposition du public et affiché
+dans le même délai et pendant toute la durée de la mise à disposition. 
 
 Le projet de modification, l'exposé de ses motifs, ainsi que le registre permettant au public de formuler ses observations,
-sont mis à sa disposition en mairie ou au siège de l'établissement public compétent et, dans ce cas, dans les mairies des
-communes membres concernées.
+sont mis à sa disposition au  siège de l'établissement public de coopération intercommunale compétent  et, dans ce cas, dans
+les mairies des communes membres concernées ou en  mairie.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-722 du 18 juin 2009 - art. 1
 
 	**Cité par**:
 
@@ -31473,22 +31728,34 @@ communes membres concernées.
 	  - Code de l'urbanisme - art. R*127-1 (Ab)
 	  - Code de l'urbanisme - art. R*128-1 (Ab)
 
+	**Modifié par**:
+
+	  - Décret n°2012-290 du 29 février 2012 - art. 37
+
+	**Abrogé par**:
+
+	  - Décret n°2013-142 du 14 février 2013 - art. 4
+
 
 ###### Article R*123-20-3
 
-Les dispositions de l'article R. 123-20-2 sont applicables lorsqu'en application de l'article L. 123-1-1, la commune ou
-l'établissement public de coopération intercommunale compétent autorise un dépassement des règles du plan local d'urbanisme
-ou du document d'urbanisme en tenant lieu.
+Les dispositions de l'article R. 123-20-2 sont applicables lorsqu'en application de l'article L. 123-1-11, l'établissement
+public de coopération intercommunale compétent, ou la commune autorise un dépassement des règles du plan local d'urbanisme ou
+du document d'urbanisme en tenant lieu.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-304 du 22 mars 2010 - art. 2
+	  - Décret n°2012-290 du 29 février 2012 - art. 38
+
+	**Abrogé par**:
+
+	  - Décret n°2013-142 du 14 février 2013 - art. 4
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L123-1-1
+	  - Code de l'urbanisme - art. L123-1-11
 	  - Code de l'urbanisme - art. R*123-20-2
 
 
@@ -31496,19 +31763,15 @@ ou du document d'urbanisme en tenant lieu.
 
 Lorsqu'il engage la procédure de révision dans les conditions prévues aux deuxième et troisième alinéas de l'article L.
 123-14, le préfet en informe les personnes publiques mentionnées au premier alinéa de l'article L. 123-8. Il exerce les
-compétences attribuées au maire, au conseil municipal, au président ou à l'organe délibérant de l'établissement public de
-coopération intercommunale, pour l'application des articles L. 123-6, L. 123-8, L. 123-9 (2e alinéa), L. 123-10 et les
-articles R. 123-15 à R. 123-19.
+compétences attribuées au président ou à l'organe délibérant de l'établissement public de coopération intercommunale, au
+maire, au conseil municipal, pour l'application des articles L. 123-6, L. 123-8, L. 123-9 (2e alinéa), L. 123-10 et les
+articles R.* 123-15 à R.* 123-19.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°70-1016 1970-10-28 ART. 19
-
 	**Modifié par**:
 
-	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
+	  - Décret n°2012-290 du 29 février 2012 - art. 39
 
 	**Cité par**:
 
@@ -31517,12 +31780,13 @@ articles R. 123-15 à R. 123-19.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L123-10 (Ab)
-	  - Code de l'urbanisme - art. L123-14 (M)
-	  - Code de l'urbanisme - art. L123-6 (M)
-	  - Code de l'urbanisme - art. L123-8 (M)
-	  - Code de l'urbanisme - art. L123-9 (M)
-	  - Code de l'urbanisme L123-14, L123-8, L123-6, L123-9, L123-10, R123-15 à R123-19
+	  - Code de l'urbanisme - art. L123-10 (VT)
+	  - Code de l'urbanisme - art. L123-14 (VT)
+	  - Code de l'urbanisme - art. L123-6 (VT)
+	  - Code de l'urbanisme - art. L123-8 (VT)
+	  - Code de l'urbanisme - art. L123-9 (VT)
+	  - Code de l'urbanisme - art. R*123-15 (V)
+	  - Code de l'urbanisme - art. R*123-19 (V)
 
 	**Codifié par**:
 
@@ -31532,20 +31796,20 @@ articles R. 123-15 à R. 123-19.
 ###### Article R*123-21-1
 
 Lorsqu'il décide d'engager une procédure de révision simplifiée en application du neuvième alinéa de l'article L. 123-13, le
-maire ou le président de l'établissement public de coopération intercommunale compétent saisit le conseil municipal ou
-l'organe délibérant de l'établissement public qui délibère sur les objectifs poursuivis et les modalités de la concertation
+président de l'établissement public de coopération intercommunale compétent ou le maire saisit l'organe délibérant de
+l'établissement public ou le conseil municipal qui délibère sur les objectifs poursuivis et les modalités de la concertation
 conformément à l'article L. 300-2. 
 
 Le débat prévu à l'article L. 123-9 peut avoir lieu au cours de la même séance lorsque la révision implique de changer les
-orientations du projet d'aménagement et de développement durable.
+orientations du projet d'aménagement et de développement durable. 
 
-L'examen conjoint des personnes publiques associées a lieu, à l'initiative du maire ou du président de l'établissement
-public, avant l'ouverture de l'enquête publique. Lorsqu'une association mentionnée à l'article L. 121-5 demande à être
-consultée, son président adresse la demande au maire ou au président de l'établissement public. 
+L'examen conjoint des personnes publiques associées a lieu, à l'initiative du président de l'établissement public ou du
+maire, avant l'ouverture de l'enquête publique. Lorsqu'une association mentionnée à l'article L. 121-5 demande à être
+consultée, son président adresse la demande au président de l'établissement public ou au maire. 
 
 Le projet de révision simplifiée, accompagné du procès-verbal de la réunion d'examen conjoint, est soumis à l'enquête
-publique par le maire ou par le président de l'établissement public dans les formes prévues par les articles R. 123-7 à R.
-123-23 du code de l'environnement. Le maire ou le président de l'établissement public exerce les compétences attribuées au
+publique par le président de l'établissement public ou par le maire dans les formes prévues par les articles R. 123-7 à R.
+123-23 du code de l'environnement. Le président de l'établissement public ou le maire exerce les compétences attribuées au
 préfet par les articles attribuées au préfet par les articles R. 123-7, R. 123-8, R. 123-13, R. 123-14, R. 123-18 et R.
 123-20 à R. 123-23 de ce code. 
 
@@ -31554,49 +31818,50 @@ organisée en application du sixième alinéa de l'article L. 300-2.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2012-290 du 29 février 2012 - art. 40
+
+	**Abrogé par**:
+
+	  - Décret n°2013-142 du 14 février 2013 - art. 4
+
 	**Cite**:
 
-	  - Ordonnance no 90-571 du 25 juin 1990 portant extension et adaptation de    dispositions du code de l'urbanisme dans la collectivité territoriale de    Mayotte - art. L121-5
+	  - Code de l'urbanisme - art. L121-5
 	  - Code de l'urbanisme - art. L123-13
 	  - Code de l'urbanisme - art. L123-9
 	  - Code de l'urbanisme - art. L300-2
-	  - Code de l'urbanisme - art. R*123-7
-
-	**Modifié par**:
-
-	  - Décret n°2009-722 du 18 juin 2009 - art. 3
+	  - Code de l'environnement - art. R123-7
 
 
 ###### Article R*123-22
 
 La mise à jour du plan local d'urbanisme est effectuée chaque fois qu'il est nécessaire de modifier le contenu des annexes
-prévu aux articles R. 123-13 et R. 123-14.
+prévu aux articles R.* 123-13 et R.* 123-14. 
 
-Un arrêté du maire ou du président de l'établissement public de coopération intercommunale compétent constate dans chaque cas
-qu'il a été procédé à la mise à jour du plan.
+Un arrêté du président de l'établissement public de coopération intercommunale compétent ou du maire constate dans chaque cas
+qu'il a été procédé à la mise à jour du plan. 
 
 Lorsque le report des servitudes d'utilité publique mentionnées à l'article L. 126-1 ou instituées ou modifiées
 postérieurement à la date à laquelle le plan a été approuvé n'a pas été effectué dans le délai de trois mois suivant la mise
-en demeure adressée par le préfet à la commune ou à l'établissement public de coopération intercommunale compétent, le préfet
-y procède d'office par arrêté.
+en demeure adressée par le préfet à l'établissement public de coopération intercommunale compétent ou à la commune, le préfet
+y procède d'office par arrêté. 
 
-Les arrêtés mentionnés aux deux alinéas précédents sont affichés pendant un mois en mairie ou au siège de l'établissement
-public de coopération intercommunale compétent et, dans ce cas, dans les mairies des communes membres concernées.
+Les arrêtés mentionnés aux deux alinéas précédents sont affichés pendant un mois au siège de l'établissement public de
+coopération intercommunale compétent dans les mairies des communes membres concernées, ou en mairie.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°70-1016 1970-10-28 ART. 20
-
 	**Modifié par**:
 
-	  - Décret n°2001-260 du 27 mars 2001 - art. 1 () JORF 28 mars 2001
+	  - Décret n°2012-290 du 29 février 2012 - art. 41
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L126-1 (M)
-	  - Code de l'urbanisme R123-13, R123-14, L126-1
+	  - Code de l'urbanisme - art. L126-1 (V)
+	  - Code de l'urbanisme - art. R*123-13 (V)
+	  - Code de l'urbanisme - art. R*123-14 (V)
 
 	**Codifié par**:
 
@@ -31605,59 +31870,64 @@ public de coopération intercommunale compétent et, dans ce cas, dans les mairi
 
 ###### Article R*123-22-1
 
-L'abrogation d'un plan local d'urbanisme est prononcée par le conseil municipal après enquête publique menée dans les
-conditions prévues à l'article R. 123-19. Le dossier soumis à l'enquête publique comprend un rapport exposant les motifs et
-les conséquences juridiques de l'abrogation projetée.
+L'abrogation d'un plan local d'urbanisme est prononcée par l'organe délibérant de l'établissement public de coopération
+intercommunale compétent ou par le conseil municipal après enquête publique menée dans les conditions prévues à l'article R.*
+123-19. Le dossier soumis à l'enquête publique comprend un rapport exposant les motifs et les conséquences juridiques de
+l'abrogation projetée.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2012-290 du 29 février 2012 - art. 42
+
 	**Cite**:
 
-	  - Code de l'urbanisme R123-19
+	  - Code de l'urbanisme - art. R*123-19 (V)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Créé par**:
-
-	  - Décret n°2004-531 du 9 juin 2004 - art. 2 () JORF 13 juin 2004
-
 
 ###### Article R*123-23
 
 Les dispositions du présent article sont applicables à la déclaration d'utilité publique d'une opération qui n'est pas
-compatible avec un plan local d'urbanisme.
+compatible avec un plan local d'urbanisme. 
 
 L'examen conjoint prévu au b de l'article L. 123-16 a lieu avant l'ouverture de l'enquête publique à l'initiative du préfet.
-Lorsqu'une association mentionnée à l'article L. 121-5 demande à être consultée, son président adresse la demande au préfet.
+Lorsqu'une association mentionnée à l'article L. 121-5 demande à être consultée, son président adresse la demande au préfet. 
 
 L'enquête publique est organisée dans les formes prévues par les articles R. 11-14-1 et suivants du code de l'expropriation
-pour cause d'utilité publique.
+pour cause d'utilité publique. 
 
 Le dossier de mise en compatibilité du plan local d'urbanisme, le rapport et les conclusions du commissaire enquêteur ou de
-la commission d'enquête ainsi que le procès-verbal de la réunion d'examen conjoint sont soumis pour avis par le préfet au
-conseil municipal ou à l'organe délibérant de l'établissement public de coopération intercommunale compétent. Si ceux-ci ne
-se sont pas prononcés dans un délai de deux mois, ils sont réputés avoir donné un avis favorable.
+la commission d'enquête ainsi que le procès-verbal de la réunion d'examen conjoint sont soumis pour avis par le préfet à
+l'organe délibérant de l'établissement public de coopération intercommunale compétent ou au conseil municipal. Si ceux-ci ne
+se sont pas prononcés dans un délai de deux mois, ils sont réputés avoir donné un avis favorable. 
 
 Le ministre chargé de l'urbanisme contresigne ou cosigne la déclaration d'utilité publique emportant approbation des
 nouvelles dispositions du plan local d'urbanisme lorsque cette déclaration ne relève pas de la compétence du préfet.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°70-1016 1970-10-28 art. 21
-
 	**Modifié par**:
 
-	  - Décret n°2004-531 du 9 juin 2004 - art. 2 () JORF 13 juin 2004
+	  - Décret n°2012-290 du 29 février 2012 - art. 43
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-142 du 14 février 2013 - art. 4
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L121-5 (M)
-	  - Code de l'urbanisme - art. L123-16 (M)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-14-1 (M)
+	  - Code de l'urbanisme - art. L121-5 (V)
+	  - Code de l'urbanisme - art. L123-16 (VT)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. R11-14-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R*123-23-1 (VT)
 
 	**Codifié par**:
 
@@ -31677,21 +31947,21 @@ b) Soit lorsque la commune ou l'établissement public de coopération intercommu
 d'urbanisme a décidé, en application de l'article L. 300-6, de se prononcer, par une déclaration de projet, sur l'intérêt
 général d'une action ou d'une opération d'aménagement ou de la réalisation d'un programme de construction. 
 
-Le maire ou le président de l'organe délibérant de l'établissement public mène la procédure de mise en compatibilité.
+Le président de l'organe délibérant de l'établissement public ou le maire mène la procédure de mise en compatibilité.
 L'examen conjoint prévu au b de l'article L. 123-16 a lieu avant l'ouverture de l'enquête publique à son initiative.
-Lorsqu'une association mentionnée à l'article L. 121-5 demande à être consultée, son président adresse la demande au maire ou
-au président de l'organe délibérant.
+Lorsqu'une association mentionnée à l'article L. 121-5 demande à être consultée, son président adresse la demande au
+président de l'organe délibérant ou au maire.
 
-L'enquête publique est organisée dans les formes prévues par les articles R. 123-1 à R. 123-33 du code de
-l'environnement.L'autorité chargée de la procédure exerce les compétences attribuées au préfet par les articles R. 123-7, R.
+L'enquête publique est organisée dans les formes prévues par le chapitre III du titre II du livre Ier du code de
+l'environnement. L'autorité chargée de la procédure exerce les compétences attribuées au préfet par les articles R. 123-7, R.
 123-8, R. 123-13, R. 123-14, R. 123-18 et R. 123-20 à R. 123-23 de ce code. 
 
 Le dossier de mise en compatibilité du plan local d'urbanisme, le rapport et les conclusions du commissaire enquêteur ou de
 la commission d'enquête ainsi que le procès-verbal de la réunion d'examen conjoint sont soumis par l'autorité chargée de la
-procédure au conseil municipal ou à l'organe délibérant de l'établissement public de coopération intercommunale compétent,
+procédure à l'organe délibérant de l'établissement public de coopération intercommunale compétent ou au conseil municipal,
 qui dispose d'un délai de deux mois pour approuver la mise en compatibilité du plan. En l'absence de délibération dans ce
-délai ou en cas de désaccord, la décision de mise en compatibilité appartient au préfet qui notifie son arrêté au maire ou au
-président de l'établissement public dans les deux mois suivant la réception en préfecture de l'ensemble du dossier.
+délai ou en cas de désaccord, la décision de mise en compatibilité appartient au préfet qui notifie son arrêté au président
+de l'établissement public ou au maire dans les deux mois suivant la réception en préfecture de l'ensemble du dossier.
 
 **Liens relatifs à cet article**
 
@@ -31704,7 +31974,11 @@ président de l'établissement public dans les deux mois suivant la réception e
 
 	**Modifié par**:
 
-	  - Décret n°2010-304 du 22 mars 2010 - art. 2
+	  - Décret n°2012-290 du 29 février 2012 - art. 44
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-142 du 14 février 2013 - art. 4
 
 	**Cite**:
 
@@ -31712,11 +31986,14 @@ président de l'établissement public dans les deux mois suivant la réception e
 	  - Code de l'urbanisme - art. L123-16
 	  - Code de l'urbanisme - art. L300-6
 	  - Code de l'environnement - art. L126-1
-	  - Code de l'environnement - art. R123-1
 	  - Code de l'environnement - art. R123-13
 	  - Code de l'environnement - art. R123-18
 	  - Code de l'environnement - art. R123-20
 	  - Code de l'environnement - art. R123-7
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R*123-23-2 (VT)
 
 
 ###### Article R*123-23-2
@@ -31725,13 +32002,13 @@ Les dispositions du présent article sont applicables à la déclaration de proj
 un plan local d'urbanisme et ne requiert pas une déclaration d'utilité publique : 
 
 a) Soit lorsque cette opération est réalisée par une collectivité territoriale, un groupement de collectivités ou un
-établissement public dépendant d'une collectivité, autre que la commune ou l'établissement public de coopération
-intercommunale compétent en matière de plan local d'urbanisme, et nécessite une déclaration de projet en application de
-l'article L. 126-1 du code de l'environnement ; 
+établissement public dépendant d'une collectivité, autre que l'établissement public de coopération intercommunale compétent
+en matière de plan local d'urbanisme ou la commune, et nécessite une déclaration de projet en application de l'article L.
+126-1 du code de l'environnement ; 
 
 b) Soit lorsque une collectivité territoriale, un groupement de collectivités ou un établissement public dépendant d'une
-collectivité, autre que la commune ou l'établissement public de coopération intercommunale compétent en matière de plan local
-d'urbanisme, a décidé, en application de l'article L. 300-6, de se prononcer, par une déclaration de projet, sur l'intérêt
+collectivité, autre que l'établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme
+ou la commune, a décidé, en application de l'article L. 300-6, de se prononcer, par une déclaration de projet, sur l'intérêt
 général d'une action ou d'une opération d'aménagement ou de la réalisation d'un programme de construction. 
 
 La procédure de mise en compatibilité est menée par le président de l'organe délibérant de la collectivité ou du groupement
@@ -31742,25 +32019,29 @@ L'examen conjoint prévu au b de l'article L. 123-16 a lieu avant l'ouverture de
 l'autorité chargée de la procédure. Lorsqu'une association mentionnée à l'article L. 121-5 demande à être consultée, son
 président adresse la demande à l'autorité chargée de la procédure.
 
-L'enquête publique est organisée dans les formes prévues par les articles R. 123-1 à R. 123-33 du code de
-l'environnement.L'autorité chargée de la procédure exerce les compétences attribuées au préfet par les articles R. 123-7, R.
-123-8, R. 123-13, R. 123-14, R. 123-18 et R. 123-20 à R. 123-23 de ce code. 
+L'enquête publique est organisée dans les formes prévues par le chapitre III du titre II du livre Ier. L'autorité chargée de
+la procédure exerce les compétences attribuées au préfet par les articles R. 123-7, R. 123-8, R. 123-13, R. 123-14, R. 123-18
+et R. 123-20 à R. 123-23 de ce code. 
 
 Le dossier de mise en compatibilité du plan local d'urbanisme, le rapport et les conclusions du commissaire enquêteur ou de
 la commission d'enquête ainsi que le procès-verbal de la réunion d'examen conjoint sont soumis par l'autorité chargée de la
-procédure au conseil municipal ou à l'organe délibérant de l'établissement public de coopération intercommunale compétent,
+procédure à l'organe délibérant de l'établissement public de coopération intercommunale compétent ou au conseil municipal,
 qui dispose d'un délai de deux mois pour approuver la mise en compatibilité du plan. En l'absence de délibération dans ce
-délai ou en cas de désaccord, le préfet statue et notifie sa décision au maire ou au président de l'établissement public de
-coopération intercommunale compétent dans les deux mois suivant la réception en préfecture de l'ensemble du dossier. 
+délai ou en cas de désaccord, le préfet statue et notifie sa décision au président de l'établissement public de coopération
+intercommunale compétent ou au maire dans les deux mois suivant la réception en préfecture de l'ensemble du dossier. 
 
-Le préfet notifie à la personne publique qui réalise l'opération la délibération de la commune ou de l'établissement public
-de coopération intercommunale compétent ou la décision qu'il a prise.
+Le préfet notifie à la personne publique qui réalise l'opération la délibération de l'établissement public de coopération
+intercommunale compétent ou de la commune ou la décision qu'il a prise.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-304 du 22 mars 2010 - art. 2
+	  - Décret n°2012-290 du 29 février 2012 - art. 45
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-142 du 14 février 2013 - art. 4
 
 	**Cite**:
 
@@ -31768,7 +32049,6 @@ de coopération intercommunale compétent ou la décision qu'il a prise.
 	  - Code de l'urbanisme - art. L123-16
 	  - Code de l'urbanisme - art. L300-6
 	  - Code de l'environnement - art. L126-1
-	  - Code de l'environnement - art. R123-1
 	  - Code de l'environnement - art. R123-13
 	  - Code de l'environnement - art. R123-18
 	  - Code de l'environnement - art. R123-20
@@ -31777,6 +32057,10 @@ de coopération intercommunale compétent ou la décision qu'il a prise.
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*123-2-1 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R*123-23-3 (VT)
 
 
 ###### Article R*123-23-3
@@ -31794,21 +32078,26 @@ programme de construction.
 L'examen conjoint prévu au b de l'article L. 123-16 a lieu avant l'ouverture de l'enquête publique à l'initiative du préfet.
 Lorsqu'une association mentionnée à l'article L. 121-5 demande à être consultée, son président adresse la demande au préfet.
 
-L'enquête publique est organisée dans les formes prévues par les articles R. 123-1 à R. 123-33 du code de l'environnement. 
+L'enquête publique est organisée dans les formes prévues par le chapitre III du titre II du livre Ier du code de
+l'environnement. 
 
 Le dossier de mise en compatibilité du plan local d'urbanisme, le rapport et les conclusions du commissaire enquêteur ou de
-la commission d'enquête ainsi que le procès-verbal de la réunion d'examen conjoint sont soumis par le préfet au conseil
-municipal ou à l'organe délibérant de l'établissement public de coopération intercommunale compétent, qui dispose d'un délai
+la commission d'enquête ainsi que le procès-verbal de la réunion d'examen conjoint sont soumis par le préfet à l'organe
+délibérant de l'établissement public de coopération intercommunale compétent ou au conseil municipal, qui dispose d'un délai
 de deux mois pour approuver la mise en compatibilité du plan. En l'absence de délibération dans ce délai ou en cas de
-désaccord, le préfet statue et notifie sa décision au maire ou au président de l'établissement public de coopération
-intercommunale compétent dans les deux mois suivant l'expiration du délai précédent ou de la transmission de la délibération
+désaccord, le préfet statue et notifie sa décision au président de l'établissement public de coopération intercommunale
+compétent ou au maire dans les deux mois suivant l'expiration du délai précédent ou de la transmission de la délibération
 défavorable.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-304 du 22 mars 2010 - art. 2
+	  - Décret n°2012-290 du 29 février 2012 - art. 46
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-142 du 14 février 2013 - art. 4
 
 	**Cite**:
 
@@ -31817,10 +32106,14 @@ défavorable.
 	  - Code de l'urbanisme - art. L300-6
 	  - Code de l'environnement - art. L126-1
 
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R*123-23-4 (VT)
+
 
 ###### Article R*123-24
 
-Font l'objet des mesures de publicité et d'information édictées à l'article R. 123-25 : 
+Font l'objet des mesures de publicité et d'information édictées à l'article R.* 123-25 : 
 
 a) La délibération qui prescrit l'élaboration ou la révision du plan local d'urbanisme et définit les modalités de la
 concertation, en application des articles L. 123-6 et L. 123-13 ; 
@@ -31833,19 +32126,19 @@ c) Le décret ou l'arrêté prononçant la déclaration d'utilité publique pré
 d) La décision ou la délibération prononçant la déclaration de projet ainsi que la délibération ou l'arrêté mettant le plan
 en compatibilité avec la déclaration de projet dans les conditions prévues à l'article L. 123-16 ; 
 
-e) La délibération par laquelle, en application de l'article L. 123-1-1, la commune ou l'établissement public de coopération
-intercommunale compétent autorise un dépassement des règles du plan local d'urbanisme ou du document d'urbanisme en tenant
-lieu.
+e) La délibération par laquelle, en application de l'article L. 123-1-11, l'établissement public de coopération
+intercommunale compétent, ou la commune autorise un dépassement des règles du plan local d'urbanisme ou du document
+d'urbanisme en tenant lieu.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-304 du 22 mars 2010 - art. 2
+	  - Décret n°2012-290 du 29 février 2012 - art. 47
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L123-1-1
+	  - Code de l'urbanisme - art. L123-1-11
 	  - Code de l'urbanisme - art. L123-13
 	  - Code de l'urbanisme - art. L123-14
 	  - Code de l'urbanisme - art. L123-16
@@ -31858,44 +32151,36 @@ lieu.
 
 ###### Article R*123-25
 
-Tout acte mentionné à l'article R. 123-24 est affiché pendant un mois en mairie ou au siège de l'établissement public
-compétent et, dans ce cas, dans les mairies des communes membres concernées. Mention de cet affichage est insérée en
-caractères apparents dans un journal diffusé dans le département.
+Tout acte mentionné à l'article R.* 123-24 est affiché pendant un mois au siège de l'établissement public de coopération
+intercommunale compétent et dans les mairies des communes membres concernées, ou en mairie. Mention de cet affichage est
+insérée en caractères apparents dans un journal diffusé dans le département. 
 
-Il est en outre publié :
+Il est en outre publié : 
 
 a) Au recueil des actes administratifs mentionné à l'article R. 2121-10 du code général des collectivités territoriales,
-lorsqu'il s'agit d'une délibération du conseil municipal d'une commune de 3 500 habitants et plus ;
+lorsqu'il s'agit d'une délibération du conseil municipal d'une commune de 3 500 habitants et plus ; 
 
 b) Au recueil des actes administratifs mentionné à l'article R. 5211-41 du code général des collectivités territoriales, s'il
 existe, lorsqu'il s'agit d'une délibération de l'organe délibérant d'un établissement public de coopération intercommunale
-comportant au moins une commune de 3 500 habitants et plus ;
+comportant au moins une commune de 3 500 habitants et plus ; 
 
-c) Au Recueil des actes administratifs de l'Etat dans le département, lorsqu'il s'agit d'un arrêté préfectoral ;
+c) Au Recueil des actes administratifs de l'Etat dans le département, lorsqu'il s'agit d'un arrêté préfectoral ; 
 
-d) Au Journal officiel de la République française, lorsqu'il s'agit d'un décret en Conseil d'Etat.
+d) Au Journal officiel de la République française, lorsqu'il s'agit d'un décret en Conseil d'Etat. 
 
-Chacune de ces formalités de publicité mentionne le ou les lieux où le dossier peut être consulté.
+Chacune de ces formalités de publicité mentionne le ou les lieux où le dossier peut être consulté. 
 
 L'acte qui institue ou qui supprime la limitation des droits à construire en cas de division d'un terrain bâti en application
-de l'article L. 123-1-1 est adressé au Conseil supérieur du notariat et à la chambre départementale des notaires.
+de l'article L. 123-1-11 est adressé au Conseil supérieur du notariat et à la chambre départementale des notaires. 
 
 L'arrêté ou la délibération produit ses effets juridiques dès l'exécution de l'ensemble des formalités prévues au premier
 alinéa ci-dessus, la date à prendre en compte pour l'affichage étant celle du premier jour où il est effectué.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°70-1016 1970-10-28 ART. 23
-
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°2004-531 du 9 juin 2004 - art. 2 () JORF 13 juin 2004
 
 	**Cité par**:
 
@@ -31910,12 +32195,15 @@ alinéa ci-dessus, la date à prendre en compte pour l'affichage étant celle du
 	  - Code de l'urbanisme - art. R*128-1 (Ab)
 	  - Code de l'urbanisme - art. R331-1 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2012-290 du 29 février 2012 - art. 48
+
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. R2121-10 (V)
 	  - Code général des collectivités territoriales - art. R5211-41 (V)
-	  - Code de l'urbanisme - art. L123-1-1 (V)
-	  - Code de l'urbanisme R123-24, L123-1-1
+	  - Code de l'urbanisme - art. L123-1-11 (VT)
 
 
 #### Chapitre IV : Cartes communales
@@ -32002,18 +32290,28 @@ compte le souci de sa préservation et de sa mise en valeur.
 ###### Article R*124-3
 
 Le ou les documents graphiques délimitent les secteurs où les constructions sont autorisées et ceux où les constructions ne
-sont pas autorisées, à l'exception de l'adaptation, du changement de destination, de la réfection ou de l'extension des
-constructions existantes ou des constructions et installations nécessaires à des équipements collectifs, à l'exploitation
-agricole ou forestière et à la mise en valeur des ressources naturelles.
+peuvent pas être autorisées, à l'exception : 
 
-Ils peuvent préciser qu'un secteur est réservé à l'implantation d'activités, notamment celles qui sont incompatibles avec le
-voisinage des zones habitées.
+1° De l'adaptation, du changement de destination, de la réfection ou de l'extension des constructions existantes ; 
+
+2° Des constructions et installations nécessaires : 
+
+― à des équipements collectifs ou à des services publics si elles ne sont pas incompatibles avec l'exercice d'une activité
+agricole ou pastorale ou forestière dans l'unité foncière où elles sont implantées et ne portent pas atteinte à la sauvegarde
+des espaces naturels et des paysages ; 
+
+― à l'exploitation agricole ou forestière ; 
+
+― à la mise en valeur des ressources naturelles. 
+
+Le ou les documents graphiques peuvent préciser qu'un secteur est réservé à l'implantation d'activités, notamment celles qui
+sont incompatibles avec le voisinage des zones habitées. 
 
 En zone de montagne, ils indiquent, le cas échéant, les plans d'eau de faible importance auxquels il est décidé de faire
-application du huitième alinéa de l'article L. 145-5.
+application du huitième alinéa de l'article L. 145-5. 
 
 Ils délimitent, s'il y a lieu, les secteurs dans lesquels la reconstruction à l'identique d'un bâtiment détruit par un
-sinistre n'est pas autorisée.
+sinistre n'est pas autorisée. 
 
 Dans les territoires couverts par la carte communale, les autorisations d'occuper et d'utiliser le sol sont instruites et
 délivrées sur le fondement des règles générales de l'urbanisme définies au chapitre Ier du titre Ier du livre Ier et des
@@ -32021,17 +32319,29 @@ autres dispositions législatives et réglementaires applicables.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2012-290 du 29 février 2012 - art. 49
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L145-5 (M)
+	  - Code de l'urbanisme - art. L145-5
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R161-4 (V)
+	  - Code de l'urbanisme - art. R161-5 (V)
+	  - Code de l'urbanisme - art. R161-6 (V)
+	  - Code de l'urbanisme - art. R161-7 (V)
+	  - Code de l'urbanisme - art. R162-1 (V)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°2006-1683 du 22 décembre 2006 - art. 1 () JORF 28 décembre 2006 en vigueur le 1er février 2007
 
 
 #####  Section 2 : Elaboration et révision des cartes communales
@@ -50162,17 +50472,18 @@ c) Trois mois pour les autres demandes de permis de construire et pour les deman
 
 ###### Article R*423-24
 
-Le délai d'instruction de droit commun prévu par l'article R. 423-23 est majoré d'un mois lorsque le projet est soumis, dans
+Le délai d'instruction de droit commun prévu par l'article R.* 423-23 est majoré d'un mois lorsque le projet est soumis, dans
 les conditions mentionnées au chapitre V, à un régime d'autorisation ou à des prescriptions prévus par d'autres législations
 ou réglementations que le code de l'urbanisme, lorsque la décision nécessite une dérogation en application des troisième,
-quatrième et cinquième alinéas de l'article L. 123-5 du code de l'urbanisme ou lorsque le projet est situé dans un secteur
-sauvegardé dont le périmètre a été délimité.
+quatrième et cinquième alinéas de l'article L. 123-5 du code de l'urbanisme, lorsque le projet est situé dans un secteur
+sauvegardé dont le périmètre a été délimité ou lorsque le projet doit être soumis à l'avis de la commission départementale de
+la consommation des espaces agricoles prévu par l'article L. 112-1-1 du code rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-723 du 18 juin 2009 - art. 1
+	  - Décret n°2012-290 du 29 février 2012 - art. 50
 
 	**Cité par**:
 
@@ -50186,6 +50497,7 @@ sauvegardé dont le périmètre a été délimité.
 
 	**Cite**:
 
+	  - Code rural - art. L112-1-1
 	  - Code de l'urbanisme - art. L123-5
 	  - Code de l'urbanisme - art. R*423-23
 
