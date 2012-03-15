@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2012-03-03
+Version Consolidée au 2012-03-16
 
 # Partie législative
 
@@ -18547,8 +18547,8 @@ Il ne peut être mis à la charge des aménageurs ou constructeurs que le coût 
 aux besoins des futurs habitants ou usagers des constructions à édifier dans ces secteurs ou, lorsque la capacité des
 équipements excède ces besoins, la fraction du coût proportionnelle à ceux-ci. 
 
-En cas de vote d'un taux supérieur à 5 % dans un ou plusieurs secteurs, les contributions mentionnées au b du 1°, aux a, b et
-d du 2° et au 3° de l'article L. 332-6-1 ne sont plus applicables dans ce ou ces secteurs.
+En cas de vote d'un taux supérieur à 5 % dans un ou plusieurs secteurs, les contributions mentionnées au b du 1°, aux b et d
+du 2° et au 3° de l'article L. 332-6-1 ne sont plus applicables dans ce ou ces secteurs.
 
 **Nota:**
 
@@ -18560,9 +18560,9 @@ compter du 1er mars 2012.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+	  - Loi n°2012-354 du 14 mars 2012 - art. 30 (V)
 
 	**Cite**:
 
@@ -19602,19 +19602,19 @@ Les contributions aux dépenses d'équipements publics prévus au 2° de l'artic
 
 b) (Abrogé) ; 
 
-c) (Abrogé) ;
+c) (Abrogé) ; 
 
-d) (Abrogé) ;
+d) (Abrogé) ; 
 
-e) (Abrogé) ;
+e) (Abrogé) ; 
 
-2° a) La participation pour raccordement à l'égout prévue à l'article L. 1331-7 code de la santé publique ; (1)
+2° a) La participation pour raccordement à l'égout prévue à l'article L. 1331-7 code de la santé publique ; (2) 
 
-b) La participation destinée à la réalisation de parcs publics de stationnement prévue à l'article L. 332-7-1 ; (1)
+b) La participation destinée à la réalisation de parcs publics de stationnement prévue à l'article L. 332-7-1 ; (1) 
 
 c) La participation spécifique pour la réalisation d'équipements publics exceptionnels prévue à l'article L. 332-8 ; 
 
-d) La participation pour voirie et réseaux prévue à l'article L. 332-11-1 ; (1)
+d) La participation pour voirie et réseaux prévue à l'article L. 332-11-1 ; (1) 
 
 3° La participation des riverains prévue par la législation applicable dans les départements du Haut-Rhin, du Bas-Rhin et de
 la Moselle, celle-ci pouvant être actualisée pour tenir compte du délai écoulé entre la date de réalisation des travaux
@@ -19623,8 +19623,12 @@ de l'éclairage public. (1)
 
 **Nota:**
 
-(1) Loi n° 2010-1658 du 29 décembre 2010 article 28 I B 5° : Les a, b et d du 2° et le 3° sont abrogés à compter du 1er
-janvier 2015.
+(1) Loi n° 2010-1658 du 29 décembre 2010 article 28 I B 5° : Les b et d du 2° et le 3° sont abrogés à compter du 1er janvier
+2015.
+
+(2) Loi n° 2012-354 du 14 mars 2012 de finances rectificative pour 2012 JORF du 15 mars 2012 art. 30 III : Le a du 2° de
+l'article L. 332-6-1 du code de l'urbanisme est abrogé à compter du 1er juillet 2012. Cette disposition est applicable aux
+demandes d'autorisation ou aux déclarations préalables déposées à compter de cette même date.
 
 **Liens relatifs à cet article**
 
@@ -19659,17 +19663,12 @@ janvier 2015.
 
 	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+	  - Loi n°2012-354 du 14 mars 2012 - art. 30 (V)
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1599 B
-	  - Code général des impôts, CGI. - art. 1599-0 B
-	  - Code de la santé publique - art. L1331-7
-	  - Code de l'urbanisme - art. L142-2
-	  - Code de l'urbanisme - art. L332-11-1
-	  - Code de l'urbanisme - art. L332-7-1
-	  - Code de l'urbanisme - art. L332-8
+	  - Code de la santé publique - art. L1331-7 (V)
+	  - Code de l'urbanisme - art. L332-11-1 (V)
 
 
 ###### Article L332-7
@@ -19991,15 +19990,15 @@ b) La participation spécifique pour équipements publics exceptionnels dans les
 
 c) Une participation forfaitaire représentative de la participation prévue à l'article L. 332-9 dans sa rédaction antérieure
 à l'entrée en vigueur de la loi n° 2010-1658 du 29 décembre 2010 de finances rectificative pour 2010 ou à l'article L.
-332-11-3 et des contributions énumérées aux a, b et d du 2° et du 3° de l'article L. 332-6-1. Cette participation forfaitaire
-ne peut être exigée dans les secteurs de la commune ou de l'établissement public de coopération intercommunale où il est fait
-application de l'article L. 331-15 ;
+332-11-3 et des contributions énumérées aux b et d du 2° et du 3° de l'article L. 332-6-1. Cette participation forfaitaire ne
+peut être exigée dans les secteurs de la commune ou de l'établissement public de coopération intercommunale où il est fait
+application de l'article L. 331-15 ; 
 
 d) Le versement pour sous-densité prévu aux articles L. 331-36 et L. 331-38 pour les permis d'aménager autres qu'en
 lotissement. 
 
 En outre, les bénéficiaires de permis d'aménager peuvent être tenus au versement de la participation instituée dans les
-périmètres fixés par les conventions mentionnées à l'article L. 332-11-3.
+périmètres fixés par les conventions mentionnées à l'article L. 332-11-3. 
 
 Il ne peut être perçu sur les constructeurs aucune des contributions ou participations qui ont été mises à la charge du
 bénéficiaire du permis d'aménager ou de l'association foncière urbaine de remembrement.
@@ -20014,12 +20013,15 @@ relatives à une demande ou déclaration préalable déposée avant cette date.
 
 	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+	  - Loi n°2012-354 du 14 mars 2012 - art. 30 (V)
 
 	**Cite**:
 
+	  - Code de l'urbanisme - art. L331-36 (V)
+	  - Code de l'urbanisme - art. L331-38 (V)
 	  - Code de l'urbanisme - art. L332-11-3
 	  - Code de l'urbanisme - art. L332-6
+	  - Code de l'urbanisme - art. L332-9 (Ab)
 	  - Code de l'urbanisme - art. L333-9-1
 
 	**Cité par**:
