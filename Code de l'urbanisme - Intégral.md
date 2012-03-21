@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2012-03-16
+Version Consolidée au 2012-03-22
 
 # Partie législative
 
@@ -5065,9 +5065,9 @@ plan local d'urbanisme peut, par délibération motivée, déterminer des secteu
 un plan local d'urbanisme ou un document d'urbanisme en tenant lieu, à l'intérieur desquels un dépassement des règles
 relatives au gabarit, à la hauteur, à l'emprise au sol et au coefficient d'occupation des sols résultant de l'un de ces
 documents est autorisé pour permettre l'agrandissement ou la construction de bâtiments à usage d'habitation. La délibération
-fixe pour chaque secteur ce dépassement, qui ne peut excéder 20 % pour chacune des règles concernées. En l'absence de
+fixe pour chaque secteur ce dépassement, qui ne peut excéder 30 % pour chacune des règles concernées. En l'absence de
 coefficient d'occupation des sols, l'application du dépassement ainsi autorisé ne peut conduire à la création d'une surface
-de plancher supérieure de plus de 20 % à la surface de plancher existante. Le projet de délibération comprenant l'exposé des
+de plancher supérieure de plus de 30 % à la surface de plancher existante. Le projet de délibération comprenant l'exposé des
 motifs est porté à la connaissance du public en vue de lui permettre de formuler des observations pendant un délai d'un mois
 préalablement à la convocation de l'assemblée délibérante. 
 
@@ -5080,7 +5080,7 @@ Son application est exclusive de celle des articles L. 127-1 et L. 128-1 du pré
 
 	**Modifié par**:
 
-	  - Ordonnance n°2011-1539 du 16 novembre 2011 - art. 3 (VD)
+	  - Loi n°2012-376 du 20 mars 2012 - art. unique.
 
 	**Cité par**:
 
@@ -5094,6 +5094,100 @@ Son application est exclusive de celle des articles L. 127-1 et L. 128-1 du pré
 	  - Code de l'urbanisme - art. R*123-24 (V)
 	  - Code de l'urbanisme - art. R*123-25 (VT)
 	  - Code de l'urbanisme - art. R*431-15 (V)
+
+
+###### Article L123-1-11-1
+
+I. ― Les droits à construire résultant des règles de gabarit, de hauteur, d'emprise au sol ou de coefficient d'occupation des
+sols fixées par le plan local d'urbanisme, le plan d'occupation des sols ou le plan d'aménagement de zone sont majorés de 30
+% pour permettre l'agrandissement ou la construction de bâtiments à usage d'habitation, dans les conditions prévues au
+présent article. Cette majoration s'applique dans les communes dotées d'un plan local d'urbanisme, d'un plan d'occupation des
+sols ou d'un plan d'aménagement de zone en vigueur à la date de promulgation de la loi n° 2012-376 du 20 mars 2012 relative à
+la majoration des droits à construire. 
+
+La majoration de 30 % prévue au premier alinéa du présent I n'est applicable ni dans les zones A, B et C des plans
+d'exposition au bruit mentionnées à l'article L. 147-4, ni dans les secteurs sauvegardés. Elle ne peut avoir pour effet de
+modifier une règle édictée par l'une des servitudes d'utilité publique prévues à l'article L. 126-1, ni de déroger aux
+chapitres V et VI du titre IV du livre Ier. 
+
+Elle ne s'applique pas si le conseil municipal ou l'organe délibérant de l'établissement public de coopération intercommunale
+compétent en matière de plan local d'urbanisme a pris, avant la promulgation de la loi n° 2012-376 du 20 mars 2012 précitée,
+une délibération faisant application du sixième alinéa de l'article L. 123-1-11. 
+
+II. ― Dans un délai de six mois à compter de la promulgation de la loi n° 2012-376 du 20 mars 2012 précitée, l'autorité
+compétente, en application de l'article L. 123-6, pour élaborer le plan local d'urbanisme met à la disposition du public une
+note d'information présentant les conséquences de l'application de la majoration de 30 % prévue au I du présent article sur
+le territoire de la ou des communes concernées, notamment au regard des objectifs mentionnés à l'article L. 121-1. Le public
+dispose d'un délai d'un mois pour formuler ses observations à compter de la mise à disposition de cette note. 
+
+Les modalités de la consultation du public prévue au premier alinéa du présent II et du recueil et de la conservation de ses
+observations sont précisées, selon le cas, par le conseil municipal ou l'organe délibérant de l'établissement public de
+coopération intercommunale compétent et portées à la connaissance du public au moins huit jours avant le début de cette
+consultation. Elles peuvent prendre la forme d'une mise en ligne du dossier de consultation ou d'une présentation au cours
+d'une réunion publique. 
+
+A l'issue de la mise à disposition de la note d'information mentionnée au même premier alinéa, le président de
+l'établissement public ou le maire présente la synthèse des observations du public à l'organe délibérant de l'établissement
+public ou au conseil municipal. Cette synthèse est tenue à disposition du public. Un avis précisant le lieu dans lequel elle
+est tenue à disposition du public fait l'objet des mesures d'affichage et, le cas échéant, de publicité applicables aux actes
+modifiant un plan local d'urbanisme. 
+
+III. ― La majoration mentionnée au premier alinéa du I est applicable huit jours après la date de la séance au cours de
+laquelle la synthèse des observations du public a été présentée à l'organe délibérant de l'établissement public de
+coopération intercommunale ou au conseil municipal et au plus tard à l'expiration d'un délai de neuf mois à compter de la
+promulgation de la loi n° 2012-376 du 20 mars 2012 précitée, sauf si l'organe délibérant de l'établissement public de
+coopération intercommunale ou, dans le cas prévu au deuxième alinéa de l'article L. 123-6, le conseil municipal décide, à
+l'issue de cette présentation, qu'elle ne s'applique pas sur tout ou partie du territoire de la ou des communes concernées ou
+s'il adopte la délibération prévue au sixième alinéa de l'article L. 123-1-11. 
+
+A tout moment, le conseil municipal ou l'organe délibérant de l'établissement public de coopération intercommunale compétent
+peut adopter une délibération mettant fin à l'application de la majoration prévue au I du présent article sur tout ou partie
+du territoire de la commune ou des communes concernées. Il en est de même s'il décide d'adopter la délibération prévue au
+sixième alinéa de l'article L. 123-1-11. Dans les deux cas, cette délibération est précédée de la consultation du public
+prévue, respectivement, au II du présent article ou au sixième alinéa de l'article L. 123-1-11. 
+
+Les communes membres d'un établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme
+peuvent décider d'appliquer la majoration prévue au I du présent article sur leur territoire, nonobstant toute délibération
+contraire de l'établissement public, ou d'écarter cette application. 
+
+IV. ― Le présent article s'applique aux demandes de permis et aux déclarations déposées en application de l'article L. 423-1
+avant le 1er janvier 2016.
+
+**Nota:**
+
+Loi n° 2012-955 du 6 août 2012 art. 2 : Toute majoration née de l'application de l'article L. 123-1-11-1 du code de
+l'urbanisme dans sa rédaction antérieure à la présente loi et en vigueur à la date de sa promulgation continue à s'appliquer
+aux demandes de permis et aux déclarations déposées en application de l'article L. 423-1 du même code avant le 1er janvier
+2016.
+
+A tout moment, le conseil municipal ou l'organe délibérant de l'établissement public de coopération intercommunale compétent
+peut adopter une délibération mettant fin à l'application de cette majoration. Cette délibération est précédée de la
+consultation du public prévue au II de l'article L. 123-1-11-1 du même code dans sa rédaction antérieure à la présente loi.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2012-376 du 20 mars 2012
+	  - Code de l'urbanisme - art. L121-1
+	  - Code de l'urbanisme - art. L123-1-11
+	  - Code de l'urbanisme - art. L123-6
+	  - Code de l'urbanisme - art. L126-1
+	  - Code de l'urbanisme - art. L147-4
+	  - Code de l'urbanisme - art. L423-1
+
+	**Créé par**:
+
+	  - Loi n°2012-376 du 20 mars 2012 - art. unique.
+
+	**Abrogé par**:
+
+	  - Loi n°2012-955 du 6 août 2012 - art. 1
+
+	**Cité par**:
+
+	  - Loi n°2012-955 du 6 août 2012 - art. 2 (V)
+	  - Code de l'urbanisme - art. L128-3 (V)
 
 
 ###### Article L123-1-12
@@ -6698,18 +6792,21 @@ l'expiration d'un délai de deux ans.
 ###### Article L128-3
 
 L'application combinée des articles L. 127-1, L. 128-1 et L. 128-2 ne peut conduire à autoriser un dépassement de plus de 50
-% de la densité autorisée par le coefficient d'occupation des sols ou du volume autorisé par le gabarit.
+% de la densité autorisée par le coefficient d'occupation des sols ou du volume autorisé par le gabarit. 
+
+Il en est de même de l'application combinée des articles L. 123-1-11-1, L. 127-1, L. 128-1 et L. 128-2.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 20
+	  - Loi n°2012-376 du 20 mars 2012 - art. unique.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L127-1 (VT)
-	  - Code de l'urbanisme - art. L128-1 (VT)
+	  - Code de l'urbanisme - art. L123-1-11-1
+	  - Code de l'urbanisme - art. L127-1
+	  - Code de l'urbanisme - art. L128-1
 
 
 ###### Article L128-4
