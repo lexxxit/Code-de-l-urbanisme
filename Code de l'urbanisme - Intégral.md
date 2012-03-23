@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2012-03-22
+Version Consolidée au 2012-03-24
 
 # Partie législative
 
@@ -877,7 +877,7 @@ intégration architecturale du projet dans le bâti existant et dans le milieu e
 
 Le premier alinéa n'est pas applicable dans un secteur sauvegardé, dans une zone de protection du patrimoine architectural,
 urbain et paysager créée en application de l'article L. 642-1 du code du patrimoine, dans le périmètre de protection d'un
-immeuble classé ou inscrit au titre des monuments historiques défini par l'article L. 621-30-1 du même code, dans un site
+immeuble classé ou inscrit au titre des monuments historiques défini par l'article L. 621-30 du même code, dans un site
 inscrit ou classé en application des articles L. 341-1 et L. 341-2 du code de l'environnement, à l'intérieur du cœur d'un
 parc national délimité en application de l'article L. 331-2 du même code, ni aux travaux portant sur un immeuble classé ou
 inscrit au titre des monuments historiques ou adossé à un immeuble classé, ou sur un immeuble protégé en application du 7° de
@@ -886,11 +886,11 @@ l'article L. 123-1-5 du présent code.
 Il n'est pas non plus applicable dans des périmètres délimités, après avis de l'architecte des Bâtiments de France, par
 délibération du conseil municipal ou de l'organe délibérant de l'établissement public de coopération intercommunale compétent
 en matière de plan local d'urbanisme, motivée par la protection du patrimoine bâti ou non bâti, des paysages ou des
-perspectives monumentales et urbaines.L'avis de l'architecte des Bâtiments de France est réputé favorable s'il n'est pas
+perspectives monumentales et urbaines. L'avis de l'architecte des Bâtiments de France est réputé favorable s'il n'est pas
 rendu par écrit dans un délai de deux mois après la transmission du projet de périmètre par le maire ou le président de
 l'établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme. Le projet de
 délibération est mis à la disposition du public en vue de recueillir ses observations pendant une durée d'un mois avant la
-réunion du conseil municipal ou de l'organe délibérant de l'établissement public.
+réunion du conseil municipal ou de l'organe délibérant de l'établissement public. 
 
 A compter de la publication de la loi n° 2010-788 du 12 juillet 2010 portant engagement national pour l'environnement, toute
 règle nouvelle qui, à l'intérieur d'un des périmètres visés aux deux alinéas précédents, interdirait ou limiterait
@@ -902,15 +902,16 @@ Le premier alinéa est applicable six mois après la publication de la même loi
 
 	**Cite**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 (V)
-	  - Code de l'urbanisme - art. L123-1-5 (VD)
-	  - Code de l'environnement - art. L331-2 (V)
-	  - Code de l'environnement - art. L341-1 (V)
-	  - Code du patrimoine. - art. L642-1 (V)
+	  - Loi n°2010-788 du 12 juillet 2010
+	  - Code de l'urbanisme - art. L123-1-5
+	  - Code de l'environnement - art. L331-2
+	  - Code de l'environnement - art. L341-1
+	  - Code du patrimoine - art. L642-1
+	  - Code du patrimoine. - art. L621-30 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 12
+	  - Loi n°2012-387 du 22 mars 2012 - art. 106
 
 	**Cité par**:
 
@@ -6712,12 +6713,12 @@ de production d'énergie renouvelable ou de récupération.
 
 Ce dépassement ne peut excéder 20 % dans un secteur sauvegardé, dans une zone de protection du patrimoine architectural,
 urbain et paysager créée en application de l'article L. 642-1 du code du patrimoine, dans le périmètre de protection d'un
-immeuble classé ou inscrit au titre des monuments historiques défini par l'article L. 621-30-1 du même code, dans un site
+immeuble classé ou inscrit au titre des monuments historiques défini par l'article L. 621-30 du même code, dans un site
 inscrit ou classé en application des articles L. 341-1 et L. 341-2 du code de l'environnement, à l'intérieur du cœur d'un
-parc national délimité en application de l'article L. 331-2 du même code, ni aux travaux portant sur un immeuble classé ou
-inscrit au titre des monuments historiques ou adossé à un immeuble classé, ou sur un immeuble protégé en application du 7° de
-l'article L. 123-1 du présent code. Il ne peut permettre de déroger aux servitudes d'utilité publique visées à l'article L.
-126-1. 
+parc national délimité en application de l'article L. 331-2 du même code, ni pour les travaux portant sur un immeuble classé
+ou inscrit au titre des monuments historiques ou adossé à un immeuble classé, ou sur un immeuble protégé en application du 7°
+de l'article L. 123-1 du présent code. Il ne peut permettre de déroger aux servitudes d'utilité publique visées à l'article
+L. 126-1. 
 
 Un décret en Conseil d'Etat détermine les critères de performance et les équipements pris en compte. 
 
@@ -6728,7 +6729,7 @@ densité.
 
 	**Modifié par**:
 
-	  - Loi n°2011-12 du 5 janvier 2011 - art. 19
+	  - Loi n°2012-387 du 22 mars 2012 - art. 106
 
 	**Cité par**:
 
@@ -6750,12 +6751,12 @@ densité.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L123-1 (V)
-	  - Code de l'urbanisme - art. L126-1 (V)
-	  - Code de l'environnement - art. L331-2 (V)
-	  - Code de l'environnement - art. L341-1 (V)
-	  - Code du patrimoine. - art. L621-30-1 (V)
-	  - Code du patrimoine. - art. L642-1 (V)
+	  - Code de l'urbanisme - art. L123-1
+	  - Code de l'urbanisme - art. L126-1
+	  - Code de l'environnement - art. L331-2
+	  - Code de l'environnement - art. L341-1
+	  - Code du patrimoine - art. L621-30-1
+	  - Code du patrimoine - art. L642-1
 
 
 ###### Article L128-2
@@ -7815,35 +7816,35 @@ Cette taxe est perçue sur la totalité du territoire du département.
 ###### Article L142-3
 
 Pour la mise en oeuvre de la politique prévue à l'article L. 142-1, le conseil général peut créer des zones de préemption
-dans les conditions ci-après définies.
+dans les conditions ci-après définies. 
 
 Dans les communes dotées d'un plan d'occupation des sols rendu public ou d'un plan local d'urbanisme approuvé, les zones de
 préemption sont créées avec l'accord du conseil municipal. En l'absence d'un tel document, et à défaut d'accord des communes
 concernées, ces zones ne peuvent être créées par le conseil général qu'avec l'accord du représentant de l'Etat dans le
-département.
+département. 
 
 A l'intérieur de ces zones, le département dispose d'un droit de préemption sur tout terrain ou ensemble de droits sociaux
 donnant vocation à l'attribution en propriété ou en jouissance de terrains qui font l'objet d'une aliénation, à titre
-onéreux, sous quelque forme que ce soit.
+onéreux, sous quelque forme que ce soit. 
 
 A titre exceptionnel, l'existence d'une construction ne fait pas obstacle à l'exercice du droit de préemption dès lors que le
 terrain est de dimension suffisante pour justifier son ouverture au public et qu'il est, par sa localisation, nécessaire à la
 mise en oeuvre de la politique des espaces naturels sensibles des départements. Dans le cas où la construction acquise est
-conservée, elle est affectée à un usage permettant la fréquentation du public et la connaissance des milieux naturels.
+conservée, elle est affectée à un usage permettant la fréquentation du public et la connaissance des milieux naturels. 
 
 Lorsque la mise en oeuvre de la politique prévue à l'article L. 142-1 le justifie, le droit de préemption peut s'exercer pour
 acquérir la fraction d'une unité foncière comprise à l'intérieur de la zone de préemption. Dans ce cas, le propriétaire peut
 exiger que le titulaire du droit de préemption se porte acquéreur de l'ensemble de l'unité foncière. Le prix d'acquisition
 fixé par la juridiction compétente en matière d'expropriation tient compte de l'éventuelle dépréciation subie, du fait de la
-préemption partielle, par la fraction restante de l'unité foncière.
+préemption partielle, par la fraction restante de l'unité foncière. 
 
-En cas d'adjudication, lorsque cette procédure est rendue obligatoire par une disposition législative ou réglementaire,
-l'acquisition par le titulaire du droit de préemption a lieu au prix de la dernière enchère, par substitution à
-l'adjudicataire. Cette disposition n'est toutefois pas applicable à la vente mettant fin à une indivision créée
-volontairement, à moins que celle-ci ne résulte d'une donation-partage.
+En cas d'adjudication, lorsque cette procédure est autorisée ou ordonnée par un juge, l'acquisition par le titulaire du droit
+de préemption a lieu au prix de la dernière enchère, par substitution à l'adjudicataire. Cette disposition n'est toutefois
+pas applicable à la vente mettant fin à une indivision créée volontairement, à moins que celle-ci ne résulte d'une donation-
+partage. 
 
 Les échanges d'immeubles ruraux situés dans les zones de préemption définies au présent article réalisés dans les conditions
-prévues au titre 1er du livre Ier du code rural et de la pêche maritime ne sont pas soumis à ce droit.
+prévues au titre 1er du livre Ier du code rural et de la pêche maritime ne sont pas soumis à ce droit. 
 
 Au cas où le Conservatoire de l'espace littoral et des rivages lacustres est territorialement compétent, celui-ci ou, à
 défaut, la commune, peut se substituer au département si celui-ci n'exerce pas le droit de préemption. Sur le territoire d'un
@@ -7852,7 +7853,7 @@ public chargé du parc national ou du parc naturel régional ou, à défaut, la 
 cas échéant, au Conservatoire de l'espace littoral et des rivages lacustres, si ceux-ci n'exercent pas leur droit de
 préemption. Pour un parc naturel régional, l'exercice de ce droit de préemption est subordonné à l'accord explicite du
 département. Au cas où ni le conservatoire ni l'établissement public chargé d'un parc national ou d'un parc naturel régional
-n'est compétent, la commune peut se substituer au département si celui-ci n'exerce pas son droit de préemption.
+n'est compétent, la commune peut se substituer au département si celui-ci n'exerce pas son droit de préemption. 
 
 Lorsqu'il est territorialement compétent, le Conservatoire de l'espace littoral et des rivages lacustres peut prendre
 l'initiative de l'institution de zones de préemption à l'extérieur des zones délimitées par le département en application du
@@ -7862,7 +7863,7 @@ l'établissement public de coopération intercommunale compétent. Ces avis sont
 dans un délai de trois mois après transmission du projet. Le périmètre est délimité par arrêté préfectoral. En cas d'avis
 défavorable de la commune ou de l'établissement public de coopération intercommunale compétent, il ne peut être délimité que
 par décret en Conseil d'Etat. A l'intérieur des périmètres ainsi délimités, le conservatoire exerce les compétences
-attribuées au département par le présent article.
+attribuées au département par le présent article. 
 
 Le droit de préemption du Conservatoire de l'espace littoral et des rivages lacustres prévu aux deux alinéas précédents est
 applicable à la cession de droits indivis sur un immeuble ou une partie d'immeuble bâti ou non bâti ainsi qu'à la cession de
@@ -7870,10 +7871,10 @@ la majorité des parts d'une société civile immobilière lorsque le patrimoine
 foncière, bâtie ou non, sur la totalité ou certaines parties des zones de préemption créées par le conseil général ou le
 conservatoire. L'exercice par le conservatoire du droit de préemption sur des cessions de parts de société civile immobilière
 est subordonné à la production par la société civile immobilière d'un état de sa situation sociale et financière et à une
-délibération motivée du conseil d'administration du conservatoire.   
+délibération motivée du conseil d'administration du conservatoire. 
 
 Lorsque la commune fait partie d'un établissement public de coopération intercommunale y ayant vocation, elle peut, en accord
-avec cet établissement, lui déléguer ce droit.
+avec cet établissement, lui déléguer ce droit. 
 
 Le département peut déléguer son droit de préemption à l'occasion de l'aliénation d'un bien soumis à ce droit ou sur un ou
 plusieurs secteurs de la zone de préemption au Conservatoire de l'espace littoral et des rivages lacustres, lorsque celui-ci
@@ -7881,16 +7882,20 @@ est territorialement compétent, à l'établissement public chargé d'un parc na
 régional pour tout ou partie de la zone de préemption qui se trouve sur le territoire du parc ou dans les réserves naturelles
 dont la gestion leur est confiée, à l'Etat, à une collectivité territoriale, à un établissement public foncier, au sens de
 l'article L. 324-1 ou à l'Agence des espaces verts de la région d'Ile-de-France. Les biens acquis entrent dans le patrimoine
-du délégataire.
+du délégataire. 
 
 Si, à son expiration, le décret de classement d'un parc naturel régional n'est pas renouvelé, les biens que ce parc a acquis
-par exercice de ce droit de préemption deviennent propriété du département.
+par exercice de ce droit de préemption deviennent propriété du département. 
 
-Dans les articles L. 142-1 et suivants, l'expression "titulaire du droit de préemption" s'entend également du délégataire en
-application du précédent alinéa, s'il y a lieu.
+Dans les articles L. 142-1 et suivants, l'expression " titulaire du droit de préemption " s'entend également du délégataire
+en application du précédent alinéa, s'il y a lieu. 
 
 Les représentants des organisations professionnelles agricoles et forestières sont consultés sur la délimitation de ces zones
 de préemption.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -7942,7 +7947,7 @@ de préemption.
 
 	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 137
+	  - Loi n°2012-387 du 22 mars 2012 - art. 89 (V)
 
 	**Cite**:
 
@@ -10464,7 +10469,7 @@ obligations visées à l'article L. 480-4 s'entendant également de celles résu
 Les sanctions édictées à l'article L. 480-4 s'appliquent également : 
 
 a) En cas d'exécution de travaux ou d'utilisation du sol en méconnaissance des obligations imposées par les articles L. 111-1
-à L. 111-1-4, L111-3 et L. 111-5-2 ainsi que par les règlements pris pour leur application ; 
+à L. 111-1-4, L. 111-3 et L. 111-5-2 ainsi que par les règlements pris pour leur application ; 
 
 b) En cas de coupes et d'abattages d'arbres effectués en infraction aux dispositions du cinquième alinéa de l'article L.
 130-1, sur les territoires des communes, parties de communes ou ensemble de communes où l'établissement d'un plan
@@ -10480,14 +10485,14 @@ e) En cas d'exécution, dans une zone d'aménagement concerté, de travaux dont 
 précédée d'une étude de sécurité publique en application de l'article L. 111-3-1, avant la réception de cette étude par la
 commission compétente en matière de sécurité publique. 
 
-Toute association agréée de protection de l'environnement en application des dispositions de l'article L. 252-1 du code rural
-et de la pêche maritime, peut exercer les droits reconnus à la partie civile en ce qui concerne les faits constituant une
-infraction aux alinéas premier et second du présent article et portant un préjudice direct ou indirect aux intérêts
-collectifs qu'elle a pour objet de défendre. 
+Toute association agréée de protection de l'environnement en application des dispositions de l'article L. 141-1 du code de
+l'environnement, peut exercer les droits reconnus à la partie civile en ce qui concerne les faits constituant une infraction
+aux alinéas premier et second du présent article et portant un préjudice direct ou indirect aux intérêts collectifs qu'elle a
+pour objet de défendre. 
 
 Un décret en Conseil d'Etat fixe les conditions dans lesquelles les associations visées à l'alinéa précédent pourront être
 agréées. Dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, la procédure d'agrément est applicable aux
-associations inscrites depuis trois ans au moins.
+associations inscrites depuis trois ans au moins. 
 
 La commune ainsi que l'établissement public de coopération intercommunale compétent en matière d'urbanisme peuvent exercer
 les droits reconnus à la partie civile, en ce qui concerne les faits commis sur leur territoire et constituant une infraction
@@ -10531,20 +10536,25 @@ aux dispositions du présent article.
 
 	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 26
+	  - Loi n°2012-387 du 22 mars 2012 - art. 117
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 	**Cite**:
 
-	  - Code de l'urbanisme
+	  - Code de l'urbanisme - art. L111-1
 	  - Code de l'urbanisme - art. L111-3
-	  - Code de l'urbanisme - art. L111-3-1
-	  - Code de l'urbanisme - art. L111-5-2
-	  - Code de l'urbanisme - art. L124-1
+	  - Code de l'urbanisme - art. L111-3-1 (VT)
+	  - Code de l'urbanisme - art. L111-5-2 (VT)
+	  - Code de l'urbanisme - art. L124-1 (VT)
 	  - Code de l'urbanisme - art. L130-1
-	  - Code de l'urbanisme - art. L142-11
+	  - Code de l'urbanisme - art. L142-11 (VT)
 	  - Code de l'urbanisme - art. L143-1
 	  - Code de l'urbanisme - art. L480-4
-	  - Code rural L252-1
+	  - Code de l'urbanisme - art. L480-9
+	  - Code de l'environnement - art. L141-1
 
 
 ###### Article L160-2
@@ -11580,10 +11590,10 @@ Sont également soumises à ce droit de préemption les cessions de droits indiv
 d'immeuble, bâti ou non bâti, sauf lorsqu'elles sont consenties à l'un des coindivisaires, ainsi que les cessions de
 tantièmes contre remise de locaux à construire. 
 
-En cas d'adjudication, lorsque cette procédure est rendue obligatoire par une disposition législative ou réglementaire,
-l'acquisition par le titulaire du droit de préemption a lieu au prix de la dernière enchère, par substitution à
-l'adjudicataire. Cette disposition n'est toutefois pas applicable à la vente mettant fin à une indivision créée
-volontairement, à moins que celle-ci résulte d'une donation-partage. 
+En cas d'adjudication, lorsque cette procédure est autorisée ou ordonnée par un juge, l'acquisition par le titulaire du droit
+de préemption a lieu au prix de la dernière enchère, par substitution à l'adjudicataire. Cette disposition n'est toutefois
+pas applicable à la vente mettant fin à une indivision créée volontairement, à moins que celle-ci résulte d'une donation-
+partage. 
 
 En cas de contrat de location-accession régi par les dispositions de la loi n° 84-595 du 12 juillet 1984 définissant la
 location-accession à la propriété immobilière, le droit de préemption s'exerce avant la signature de ce contrat et non au
@@ -11637,6 +11647,7 @@ collectivité titulaire du droit de préemption urbain.
 	  - Loi n°2006-1771 du 30 décembre 2006 - art. 141
 	  - Code de commerce - art. L631-22
 	  - Code de commerce - art. L642-1
+	  - Code civil - art. 1601-1
 	  - Code de l'urbanisme - art. L111-10
 	  - Code de l'urbanisme - art. L121-2
 	  - Code de l'urbanisme - art. L123-17
@@ -11679,10 +11690,7 @@ collectivité titulaire du droit de préemption urbain.
 
 	**Modifié par**:
 
-	  - Loi n°2008-1425 du 27 décembre 2008 - art. 67 (VD)
-	  - Loi n°2009-323 du 25 mars 2009 - art. 106
-	  - Loi n°2009-323 du 25 mars 2009 - art. 39
-	  - Loi n°2009-323 du 25 mars 2009 - art. 42
+	  - Loi n°2012-387 du 22 mars 2012 - art. 89 (V)
 
 
 ###### Article L213-2
@@ -12386,14 +12394,15 @@ Un décret en Conseil d'Etat détermine, en tant que de besoin, les conditions d
 ###### Article L214-1
 
 Le conseil municipal peut, par délibération motivée, délimiter un périmètre de sauvegarde du commerce et de l'artisanat de
-proximité, à l'intérieur duquel sont soumises au droit de préemption institué par le présent chapitre les cessions de fonds
-artisanaux, de fonds de commerce ou de baux commerciaux.
+proximité, à l'intérieur duquel sont soumises au droit de préemption institué par le présent chapitre les aliénations à titre
+onéreux de fonds artisanaux, de fonds de commerce ou de baux commerciaux.
 
-A l'intérieur de ce périmètre, sont également soumises au droit de préemption visé à l'alinéa précédent les cessions de
-terrains portant ou destinés à porter des commerces d'une surface de vente comprise entre 300 et 1 000 mètres carrés. 
+A l'intérieur de ce périmètre, sont également soumises au droit de préemption visé à l'alinéa précédent les aliénations à
+titre onéreux de terrains portant ou destinés à porter des commerces d'une surface de vente comprise entre 300 et 1 000
+mètres carrés. 
 
-Chaque cession est subordonnée, à peine de nullité, à une déclaration préalable faite par le cédant à la commune. Cette
-déclaration précise le prix et les conditions de la cession. 
+Chaque aliénation à titre onéreux est subordonnée, à peine de nullité, à une déclaration préalable faite par le cédant à la
+commune. Cette déclaration précise le prix et les conditions de la cession. 
 
 Le droit de préemption est exercé selon les modalités prévues par les articles L. 213-4 à L. 213-7. Le silence de la commune
 pendant le délai de deux mois à compter de la réception de cette déclaration vaut renonciation à l'exercice du droit de
@@ -12421,7 +12430,7 @@ préemption. Le cédant peut alors réaliser la vente aux prix et conditions fig
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 101
+	  - Loi n°2012-387 du 22 mars 2012 - art. 5
 
 	**Cite**:
 
@@ -12430,23 +12439,31 @@ préemption. Le cédant peut alors réaliser la vente aux prix et conditions fig
 
 ###### Article L214-2
 
-La commune doit, dans le délai d'un an à compter de la prise d'effet de la cession, rétrocéder le fonds artisanal, le fonds
-de commerce, le bail commercial ou le terrain à une entreprise immatriculée au registre du commerce et des sociétés ou au
-répertoire des métiers, en vue d'une exploitation destinée à préserver la diversité et à promouvoir le développement de
-l'activité commerciale et artisanale dans le périmètre concerné. L'acte de rétrocession prévoit les conditions dans
-lesquelles il peut être résilié en cas d'inexécution par le cessionnaire du cahier des charges.
+La commune doit, dans le délai de deux ans à compter de la prise d'effet de l'aliénation à titre onéreux, rétrocéder le fonds
+artisanal, le fonds de commerce, le bail commercial ou le terrain à une entreprise immatriculée au registre du commerce et
+des sociétés ou au répertoire des métiers, en vue d'une exploitation destinée à préserver la diversité et à promouvoir le
+développement de l'activité commerciale et artisanale dans le périmètre concerné. L'acte de rétrocession prévoit les
+conditions dans lesquelles il peut être résilié en cas d'inexécution par le cessionnaire du cahier des charges. 
 
 L'acte de rétrocession d'un fonds de commerce est effectué dans le respect des conditions fixées par les dispositions du
-chapitre Ier du titre IV du livre Ier du code de commerce.
+chapitre Ier du titre IV du livre Ier du code de commerce. 
 
 La rétrocession d'un bail commercial est subordonnée, à peine de nullité, à l'accord préalable du bailleur. Cet accord figure
-dans l'acte de rétrocession.
+dans l'acte de rétrocession. 
+
+Pendant le délai indiqué au premier alinéa du présent article, la commune peut mettre le fonds en location-gérance dans les
+conditions prévues aux articles L. 144-1 à L. 144-13 du code de commerce.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 101
+	  - Loi n°2012-387 du 22 mars 2012 - art. 4
+	  - Loi n°2012-387 du 22 mars 2012 - art. 5
+
+	**Cite**:
+
+	  - Code de commerce - art. L144-1
 
 	**Cité par**:
 
@@ -13640,32 +13657,28 @@ relatives à une demande ou déclaration préalable déposée avant cette date.
 ###### Article L311-5
 
 L'aménagement et l'équipement de la zone sont conduits directement par la personne publique qui a pris l'initiative de sa
-création ou concédés par cette personne publique, dans les conditions précisées aux articles L. 300-4 et L. 300-5.
+création ou concédés par cette personne publique, dans les conditions précisées aux articles L. 300-4 et L. 300-5. 
 
-Lorsque le concédant ou le concessionnaire conclut avec des propriétaires de terrains situés à l'intérieur de la zone une
-convention définissant les conditions dans lesquelles ces propriétaires participent à l'aménagement, cette convention est
-distincte de la convention de participation financière prévue par le dernier alinéa de l'article L. 311-4.
+Lorsque la personne publique à l'initiative de la zone d'aménagement concerté ou le concessionnaire conclut avec des
+propriétaires de terrains situés à l'intérieur de la zone une convention définissant les conditions dans lesquelles ces
+propriétaires participent à l'aménagement, cette convention est distincte de la convention de participation financière prévue
+par le dernier alinéa de l'article L. 311-4.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2012-387 du 22 mars 2012 - art. 108
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L300-4 (V)
+	  - Code de l'urbanisme - art. L300-5 (V)
+	  - Code de l'urbanisme - art. L311-4 (V)
 
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2000-1208 du 13 décembre 2000 - art. 43 (V)
-	  - SPEC_APPLI: Décret n°2001-261 du 27 mars 2001 - art. 3 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2005-809 du 20 juillet 2005 - art. 4 () JORF 21 juillet 2005
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L300-4 (M)
-	  - Code de l'urbanisme - art. L300-5 (Ab)
-	  - Code de l'urbanisme - art. L311-4 (M)
 
 
 ###### Article L311-6
@@ -13968,14 +13981,10 @@ de l'habitation, sauf pour prévenir la dégradation du patrimoine concerné.
 ###### Article L313-2-1
 
 Les immeubles situés dans le périmètre d'un secteur sauvegardé dont le plan de sauvegarde et de mise en valeur a été approuvé
-ne sont pas soumis aux servitudes d'utilité publique instituées en application de l'article L. 621-30-1, des articles L.
-621-31 et L. 621-32 du code du patrimoine et de l'article L. 341-1 du code de l'environnement.
+ne sont pas soumis aux servitudes d'utilité publique instituées en application de l'article L. 621-30, des articles L. 621-31
+et L. 621-32 du code du patrimoine et de l'article L. 341-1 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 4 () JORF 9 novembre 2005 en vigueur le 1er janvier 2007
 
 	**Liens**:
 
@@ -13987,14 +13996,22 @@ ne sont pas soumis aux servitudes d'utilité publique instituées en application
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L341-1 (M)
-	  - Code du patrimoine. - art. L621-30-1 (V)
-	  - Code du patrimoine. - art. L621-31 (M)
-	  - Code du patrimoine. - art. L621-32 (M)
+	  - Code de l'environnement - art. L341-1
+	  - Code du patrimoine - art. L621-30
+	  - Code du patrimoine - art. L621-31
+	  - Code du patrimoine - art. L621-32
 
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Modifié par**:
+
+	  - Loi n°2012-387 du 22 mars 2012 - art. 106
+
+	**Abrogé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 105
 
 
 #####  Section 2 : Restauration immobilière
@@ -23612,10 +23629,10 @@ prévoient les articles L. 160-1 et L. 480-4, ils sont tenus d'en faire dresser 
 
 Copie du procès-verbal constatant une infraction est transmise sans délai au ministère public. 
 
-Toute association agréée de protection de l'environnement en application des dispositions de l'article L. 252-1 du code rural
-et de la pêche maritime peut exercer les droits reconnus à la partie civile en ce qui concerne les faits constituant une
-infraction à l'alinéa 1er du présent article et portant un préjudice direct ou indirect aux intérêts collectifs qu'elle a
-pour objet de défendre. 
+Toute association agréée de protection de l'environnement en application des dispositions de l'article L. 141-1 du code de
+l'environnement peut exercer les droits reconnus à la partie civile en ce qui concerne les faits constituant une infraction à
+l'alinéa 1er du présent article et portant un préjudice direct ou indirect aux intérêts collectifs qu'elle a pour objet de
+défendre. 
 
 La commune ainsi que l'établissement public de coopération intercommunale compétent en matière d'urbanisme peuvent exercer
 les droits reconnus à la partie civile, en ce qui concerne les faits commis sur leur territoire et constituant une infraction
@@ -23666,13 +23683,13 @@ les droits reconnus à la partie civile, en ce qui concerne les faits commis sur
 
 	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 26
+	  - Loi n°2012-387 du 22 mars 2012 - art. 117
 
 	**Cite**:
 
-	  - Code rural - art. L252-1 (V)
-	  - Code de l'urbanisme - art. L480-4 (V)
-	  - Code du patrimoine. - art. L122-1 (V)
+	  - Code de l'urbanisme - art. L480-4
+	  - Code de l'environnement - art. L141-1
+	  - Code du patrimoine - art. L122-1
 
 	**Liens**:
 
@@ -23787,6 +23804,9 @@ et 10 du présent article, il reçoit, au lieu et place du maire, les avis et no
 En cas de continuation des travaux nonobstant la décision judiciaire ou l'arrêté en ordonnant l'interruption, les personnes
 visées au deuxième alinéa de l'article L. 480-4 encourent une amende de 75 000 € et une peine de trois mois d'emprisonnement.
 
+Ces  peines sont également applicables en cas de continuation des travaux  nonobstant la décision de la juridiction
+administrative prononçant la  suspension ou le sursis à exécution de l'autorisation d'urbanisme.
+
 **Nota:**
 
 
@@ -23813,7 +23833,7 @@ visées au deuxième alinéa de l'article L. 480-4 encourent une amende de 75 00
 
 	**Modifié par**:
 
-	  - Loi n°2011-525 du 17 mai 2011 - art. 160
+	  - Loi n°2012-387 du 22 mars 2012 - art. 104
 
 	**Cite**:
 
