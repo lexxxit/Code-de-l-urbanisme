@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2012-03-24
+Version Consolidée au 2012-04-16
 
 # Partie législative
 
@@ -34026,36 +34026,47 @@ dispositions des articles R. 142-12 et R. 142-13.
 
 La déclaration par laquelle le propriétaire d'un bien soumis au droit de préemption défini au présent chapitre manifeste
 l'intention d'aliéner ce bien est établie dans les formes prescrites par un arrêté du ministre chargé de l'urbanisme. Elle
-est adressée en quatre exemplaires au président du conseil général par pli recommandé avec demande d'avis de réception, ou
-déposée contre décharge.
+est adressée en quatre exemplaires au président du conseil général par pli recommandé avec demande d'avis de réception,
+déposée contre décharge, ou adressée par voie électronique en un seul exemplaire dans les conditions prévues par le I de
+l'article 5 de l'ordonnance n° 2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les
+autorités administratives et entre les autorités administratives.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
-
-	**Modifié par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 7 () JORF 16 mars 1986 en vigueur le 1er juin 1987
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. A142-1 (V)
 	  - Code de l'urbanisme - art. R142-10 (M)
 	  - Code de l'urbanisme - art. R142-11 (M)
-	  - Code de l'urbanisme - art. R142-13 (VD)
+	  - Code de l'urbanisme - art. R142-13 (VT)
 	  - Code de l'urbanisme - art. R142-15 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R215-10 (M)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
+	**Cite**:
+
+	  - Ordonnance n°2005-1516 du 8 décembre 2005 - art. 5
+
+	**Modifié par**:
+
+	  - Décret n°2012-489 du 13 avril 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
 
 ###### Article R142-10
 
-Dès réception de la déclaration, le président du conseil général en transmet copie, en indiquant la date de l'avis de
-réception ou de la décharge de cette déclaration :
+Dès réception de la déclaration, le président du conseil général en transmet copie, éventuellement par voie électronique, en
+indiquant la date de l'avis de réception, de la décharge de cette déclaration, ou du premier des accusés de réception ou
+d'enregistrement délivré en application du I de l'article 5 de l'ordonnance n° 2005-1516 du 8 décembre 2005 : 
 
 - au maire de la commune concernée et, le cas échéant, au président de l'établissement public de coopération intercommunale
 compétent ;
@@ -34067,15 +34078,27 @@ compétent et, dans ce cas, pour information, au président du conseil de rivage
 
 - au délégataire du droit de préemption, s'il y a lieu.
 
+**Nota:**
+
+Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
+2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
+communautaires, et modifiant le calendrier électoral s'appliquera aux élections organisées en mars 2015 à l'occasion du
+prochain renouvellement général des conseils départementaux, y compris aux opérations préparatoires à ce scrutin (Fin de
+vigueur : date indéterminée).
+
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Codifié par**:
 
-	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
+	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Ordonnance n°2005-1516 du 8 décembre 2005 - art. 5
 
 	**Modifié par**:
 
-	  - Décret n°86-516 du 14 mars 1986 - art. 7 () JORF 16 mars 1986 en vigueur le   1er juin 1987
+	  - Décret n°2012-489 du 13 avril 2012 - art. 1
 
 	**Cité par**:
 
@@ -34084,55 +34107,59 @@ compétent et, dans ce cas, pour information, au président du conseil de rivage
 	  - Code de l'urbanisme - art. R142-15 (M)
 	  - Code de l'urbanisme - art. R142-9 (M)
 
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
 
 ###### Article R142-11
 
-Dans le délai de deux mois à compter de la date de l'avis de réception ou de la décharge de la déclaration d'intention
-d'aliéner, le président du conseil général notifie au propriétaire la décision prise par le département en vertu des articles
-R. 213-8 et R. 213-9.
+Dans le délai de deux mois à compter de la date de l'avis de réception postal, du premier des accusés de réception ou
+d'enregistrement délivré en application du I de l'article 5 de l'ordonnance n° 2005-1516 du 8 décembre 2005, ou de la
+décharge de la déclaration d'intention d'aliéner, le président du conseil général notifie au propriétaire la décision prise
+par le département en vertu des articles R. 213-8 et R. 213-9. 
 
 Lorsque le terrain est compris dans une zone ou partie de zone où le Conservatoire de l'espace littoral et des rivages
 lacustres est territorialement compétent, le président du conseil général adresse sans délai une copie de la décision du
 département audit établissement, au président du conseil de rivage territorialement compétent, au maire de la commune
-intéressée et, s'il y a lieu, au président de l'établissement public de coopération intercommunale compétent.
+intéressée et, s'il y a lieu, au président de l'établissement public de coopération intercommunale compétent. 
 
 A défaut du département, le Conservatoire de l'espace littoral et des rivages lacustres, la commune ou l'établissement public
-de coopération intercommunale compétent peut exercer le droit de préemption dans les conditions définies ci-après.
+de coopération intercommunale compétent peut exercer le droit de préemption dans les conditions définies ci-après. 
 
 Lorsque le département a renoncé à l'exercice du droit de préemption, le Conservatoire de l'espace littoral et des rivages
-lacustres notifie au propriétaire, dans un délai de soixante-quinze jours à compter de la date de l'avis de réception ou de
-la décharge de la déclaration d'intention d'aliéner, la décision qu'il prend en vertu des articles R. 213-8 et R. 213-9. Il
-adresse sans délai une copie de sa décision au président du conseil général et au maire de la commune concernée ainsi que,
-s'il y a lieu, au président de l'établissement public de coopération intercommunale compétent.
+lacustres notifie au propriétaire, dans un délai de soixante-quinze jours à compter de la date de l'avis de réception postal,
+du premier des accusés de réception ou d'enregistrement délivré en application du I de l'article 5 de l'ordonnance n°
+2005-1516 du 8 décembre 2005, ou de la décharge de la déclaration d'intention d'aliéner, la décision qu'il prend en vertu des
+articles R. 213-8 et R. 213-9. Il adresse sans délai une copie de sa décision au président du conseil général et au maire de
+la commune concernée ainsi que, s'il y a lieu, au président de l'établissement public de coopération intercommunale
+compétent. 
 
 La commune ou l'établissement public de coopération intercommunale compétent peut exercer le droit de préemption à défaut du
-département et à défaut du Conservatoire de l'espace littoral et des rivages lacustres.
+département et à défaut du Conservatoire de l'espace littoral et des rivages lacustres. 
 
 Dans les zones de préemption situées dans un périmètre d'intervention délimité en application de l'article L. 143-1, la
-commune ou l'établissement public de coopération intercommunale compétent exerce ce droit avec l'accord du département.
+commune ou l'établissement public de coopération intercommunale compétent exerce ce droit avec l'accord du département. 
 
 Le maire ou le président de l'établissement public de coopération intercommunale notifie la décision de la commune ou de
 l'établissement public de coopération intercommunale au propriétaire avant l'expiration du délai de trois mois courant à
-compter de la date de réception ou de la décharge de la déclaration d'intention d'aliéner. 
+compter de la date de la réception du premier des accusés de réception ou d'enregistrement délivré en application du I de
+l'article 5 de l'ordonnance n° 2005-1516 du 8 décembre 2005, ou de la décharge de la déclaration d'intention d'aliéner. 
 
 Il adresse sans délai une copie de cette décision au président du conseil général et, s'il y a lieu, au Conservatoire de
 l'espace littoral et des rivages lacustres.
 
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2006-821 du 7 juillet 2006 - art. 2 () JORF 9 juillet 2006
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L143-1 (M)
-	  - Code de l'urbanisme - art. R213-8 (Ab)
-	  - Code de l'urbanisme - art. R213-9 (Ab)
+	  - Ordonnance n°2005-1516 du 8 décembre 2005 - art. 5
+	  - Code de l'urbanisme - art. L143-1
+	  - Code de l'urbanisme - art. R213-8
+
+	**Modifié par**:
+
+	  - Décret n°2012-489 du 13 avril 2012 - art. 1
 
 	**Cité par**:
 
@@ -34185,46 +34212,45 @@ la vente mettant fin à une indivision créée volontairement et ne résultant p
 
 Les ventes soumises aux dispositions de la présente sous-section doivent être précédées d'une déclaration du greffier de la
 juridiction ou du notaire chargé de procéder à la vente faisant connaître la date et les modalités de la vente. Cette
-déclaration est établie dans les formes prescrites par l'arrêté prévu par l'article R. 142-9.
+déclaration est établie dans les formes prescrites par l'arrêté prévu par l'article R. 142-9. 
 
 Elle est adressée au siège du conseil général un mois avant la date fixée pour la vente, par lettre recommandée avec demande
-d'avis de réception. La déclaration fait l'objet des communications et transmissions mentionnées à l'article R. 142-10. Le
+d'avis de réception ou par voie électronique dans les conditions prévues par le I de l'article 5 de l'ordonnance n° 2005-1516
+du 8 décembre 2005. La déclaration fait l'objet des communications et transmissions mentionnées à l'article R. 142-10. Le
 titulaire dispose d'un délai de trente jours à compter de l'adjudication pour informer le greffier ou le notaire de sa
-décision de se substituer à l'adjudicataire.
+décision de se substituer à l'adjudicataire. 
 
-La substitution ne peut intervenir qu'au prix de la dernière enchère ou de la surenchère.
+La substitution ne peut intervenir qu'au prix de la dernière enchère ou de la surenchère. 
 
 La décision du Conservatoire de l'espace littoral et des rivages lacustres d'exercer le droit de préemption vaut sous réserve
 de la renonciation du département à l'exercice de son droit. La décision de la commune ou de l'établissement public de
 coopération intercommunale d'exercer ledit droit vaut sous réserve de la renonciation du département et du Conservatoire de
-l'espace littoral et des rivages lacustres à l'exercice de ce même droit.
+l'espace littoral et des rivages lacustres à l'exercice de ce même droit. 
 
 La décision de se substituer à l'adjudicataire est notifiée au greffier ou au notaire par lettre recommandée avec demande
-d'avis de réception.
+d'avis de réception ou par voie électronique dans les conditions prévues par le I de l'article 5 de l'ordonnance n° 2005-1516
+du 8 décembre 2005. 
 
 Copie de cette décision est annexée à l'acte ou au jugement d'adjudication et publiée au bureau des hypothèques en même temps
 que celui-ci.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
+	  - Ordonnance n°2005-1516 du 8 décembre 2005 - art. 5
+	  - Code de l'urbanisme - art. R142-10
+	  - Code de l'urbanisme - art. R142-9
 
 	**Modifié par**:
 
-	  - Décret n°86-516 du 14 mars 1986 - art. 7 () JORF 16 mars 1986 en vigueur le   1er juin 1987
+	  - Décret n°2012-489 du 13 avril 2012 - art. 1
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. A142-1 (V)
 	  - Code de l'urbanisme - art. R142-15 (M)
 	  - Code de l'urbanisme - art. R142-8 (VT)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R142-10 (M)
-	  - Code de l'urbanisme - art. R142-9 (M)
 
 	**Codifié par**:
 
@@ -34266,6 +34292,26 @@ de préemption en application des deux derniers alinéas de l'article L. 142-3.
 
 
 ##### Sous-section 3 : Dispositions communes
+
+###### Article R*142-19-1
+
+Un arrêté du ministre chargé de l'urbanisme fixe les conditions dans lesquelles sont effectuées les transmissions par voie
+électronique prévues au présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-489 du 13 avril 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R215-20 (Ab)
+
 
 ###### Article R142-15
 
@@ -37748,13 +37794,19 @@ Cette déclaration doit être présentée en quatre exemplaires et indiquer les 
 compris, s'il y a lieu, le prix d'estimation de l'immeuble ou du droit offert en contrepartie.
 
 Elle est adressée à la mairie de la commune où se trouve situé le bien, par pli recommandé avec demande d'avis de réception
-postal, ou déposée contre décharge.
+postal, déposée contre décharge, ou adressée par voie électronique en un seul exemplaire dans les conditions prévues par le I
+de l'article 5 de l'ordonnance n° 2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les
+autorités administratives et entre les autorités administratives.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Ordonnance n°2005-1516 du 8 décembre 2005 - art. 5
+
 	**Modifié par**:
 
-	  - Décret n°92-967 du 10 septembre 1992 - art. 3 () JORF 11 septembre 1992
+	  - Décret n°2012-489 du 13 avril 2012 - art. 2
 
 	**Cité par**:
 
@@ -37780,46 +37832,53 @@ Le maire transmet également copie de la déclaration au délégataire éventuel
 droit est la commune. Dans les autres cas, il transmet copie de la déclaration au titulaire du droit de préemption, à charge
 pour ce dernier de la transmettre à son tour à l'éventuel délégataire.
 
-Les transmissions visées aux deux alinéas précédents indiquent la date de l'avis de réception ou de la décharge de la
-déclaration.
+Les transmissions visées aux deux alinéas précédents, qui peuvent être effectuées par voie électronique, indiquent la date de
+l'avis de réception postal, du premier des accusés de réception ou d'enregistrement délivré en application du I de l'article
+5 de l'ordonnance n° 2005-1516 du 8 décembre 2005 ou de la décharge de la déclaration.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°92-967 du 10 septembre 1992 - art. 3 () JORF 11 septembre 1992
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R213-15 (VD)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
+	**Cite**:
+
+	  - Ordonnance n°2005-1516 du 8 décembre 2005 - art. 5
+
+	**Modifié par**:
+
+	  - Décret n°2012-489 du 13 avril 2012 - art. 2
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R213-15 (VD)
+
 
 ###### Article R213-7
 
 Le silence gardé par le titulaire du droit de préemption dans le délai de deux mois qui lui est imparti par l'article L.
-213-2 vaut renonciation à l'exercice de ce droit de préemption. Ce délai court à compter de la date de l'avis de réception ou
-de la décharge de la déclaration faite en application de l'article R. 213-5.
+213-2 vaut renonciation à l'exercice de ce droit de préemption. Ce délai court à compter de la date de l'avis de réception
+postal, du premier des accusés de réception ou d'enregistrement délivré en application du I de l'article 5 de l'ordonnance
+2005-1516 du 8 décembre 2005, ou de la décharge de la déclaration faite en application de l'article R. 213-5.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Ordonnance n°2005-1516 du 8 décembre 2005 - art. 5
+	  - Code de l'urbanisme - art. L213-2
+	  - Code de l'urbanisme - art. R213-5
+
 	**Modifié par**:
 
-	  - Décret n°92-967 du 10 septembre 1992 - art. 3 () JORF 11 septembre 1992
+	  - Décret n°2012-489 du 13 avril 2012 - art. 2
 
 	**Cité par**:
 
 	  - Décret n°2014-1572 du 22 décembre 2014 - art. 2 (V)
 	  - Code de l'urbanisme - art. R211-11 (Ab)
 	  - Code de l'urbanisme - art. R211-7 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L213-2 (M)
-	  - Code de l'urbanisme - art. R213-5 (Ab)
 
 	**Codifié par**:
 
@@ -38048,27 +38107,35 @@ la vente mettant fin à une indivision créée volontairement et ne résultant p
 
 Les ventes soumises aux dispositions de la présente sous-section doivent être précédées d'une déclaration du greffier de la
 juridiction ou du notaire chargé de procéder à la vente faisant connaître la date et les modalités de la vente. Cette
-déclaration est établie dans les formes prescrites par l'arrêté prévu par l'article R. 213-5.
+déclaration est établie dans les formes prescrites par l'arrêté prévu par l'article R. 213-5. 
 
 Elle est adressée au maire trente jours au moins avant la date fixée pour la vente par lettre recommandée avec demande d'avis
-de réception. La déclaration fait l'objet des communications et transmissions mentionnées à l'article R. 213-6.
+de réception ou par voie électronique dans les conditions prévues par le I de l'article 5 de l'ordonnance n° 2005-1516 du 8
+décembre 2005. La déclaration fait l'objet des communications et transmissions mentionnées à l'article R. 213-6. 
 
 Le titulaire dispose d'un délai de trente jours à compter de l'adjudication pour informer le greffier ou le notaire de sa
-décision de se substituer à l'adjudicataire.
+décision de se substituer à l'adjudicataire. 
 
-La substitution ne peut intervenir qu'au prix de la dernière enchère ou de la surenchère.
+La substitution ne peut intervenir qu'au prix de la dernière enchère ou de la surenchère. 
 
 La décision de se substituer à l'adjudicataire est notifiée au greffier ou au notaire par lettre recommandée avec demande
-d'avis de réception.
+d'avis de réception ou par voie électronique dans les conditions prévues par le I de l'article 5 de l'ordonnance n° 2005-1516
+du 8 décembre 2005. 
 
 Copie de cette décision est annexée au jugement ou à l'acte d'adjudication et publiée au bureau des hypothèques en même temps
 que celui-ci.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Ordonnance n°2005-1516 du 8 décembre 2005 - art. 5
+	  - Code de l'urbanisme - art. R213-5
+	  - Code de l'urbanisme - art. R213-6
+
 	**Modifié par**:
 
-	  - Décret n°92-967 du 10 septembre 1992 - art. 3 () JORF 11 septembre 1992
+	  - Décret n°2012-489 du 13 avril 2012 - art. 2
 
 	**Cité par**:
 
@@ -38077,11 +38144,6 @@ que celui-ci.
 	  - Code de l'urbanisme - art. R211-9 (Ab)
 	  - Code de l'urbanisme - art. R213-22 (Ab)
 	  - Code de l'urbanisme - art. R213-4 (Ab)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R213-5 (Ab)
-	  - Code de l'urbanisme - art. R213-6 (Ab)
 
 	**Codifié par**:
 
@@ -38251,6 +38313,22 @@ Le titulaire du droit de préemption notifie sans délai au maire de la commune 
 
 #####  Section 4 : Dispositions diverses
 
+###### Article R*213-26-1
+
+Un arrêté du ministre chargé de l'urbanisme fixe les conditions dans lesquelles sont effectuées les transmissions par voie
+électronique prévues au présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-489 du 13 avril 2012 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2017-932 du 10 mai 2017 - art. 3
+
+
 ###### Article R213-21
 
 Le titulaire du droit de préemption doit recueillir l'avis du service des domaines sur le prix de l'immeuble dont il envisage
@@ -38327,13 +38405,18 @@ conditions définies aux articles R. 261-1 et R. 261-2 du code de la constructio
 ###### Article R213-25
 
 Les demandes, offres et décisions du titulaire du droit de préemption et des propriétaires prévues par le présent titre sont
-notifiées par lettre recommandée avec demande d'avis de réception, par acte d'huissier ou par dépôt contre décharge.
+notifiées par lettre recommandée avec demande d'avis de réception,         par acte d'huissier, par dépôt contre décharge ou
+par voie électronique dans les conditions prévues par le I de l'article 5 de l'ordonnance n° 2005-1516 du 8 décembre 2005.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Ordonnance n°2005-1516 du 8 décembre 2005 - art. 5
+
 	**Modifié par**:
 
-	  - Décret n°92-967 du 10 septembre 1992 - art. 3 () JORF 11 septembre 1992
+	  - Décret n°2012-489 du 13 avril 2012 - art. 2
 
 	**Cité par**:
 
@@ -38615,10 +38698,12 @@ ou de l'immeuble dont dépendent les locaux loués ou du terrain.
 La déclaration préalable prévue au troisième aliéna de l'article L. 214-1 est établie dans les formes prescrites par un
 arrêté du ministre chargé de l'urbanisme et du ministre de la justice. 
 
-La déclaration en quatre exemplaires est adressée, par pli recommandé avec demande d'avis de réception, au maire de la
-commune où est situé le fonds, l'immeuble dont dépendent les locaux loués ou le terrain portant les commerces ou destiné à
-porter des commerces d'une surface de vente comprise entre 300 et 1 000 mètres carrés. La déclaration peut aussi être déposée
-en mairie contre récépissé. 
+La déclaration en quatre exemplaires est adressée au maire de la commune où est situé le fonds, l'immeuble dont dépendent les
+locaux loués ou le terrain portant les commerces ou destiné à porter des commerces d'une surface de vente comprise entre 300
+et 1 000 mètres carrés. Elle est adressée par pli recommandé avec demande d'avis de réception, ou par voie électronique en un
+seul exemplaire dans les conditions prévues par le I de l'article 5 de l'ordonnance n° 2005-1516 du 8 décembre 2005 relative
+aux échanges électroniques entre les usagers et les autorités administratives et entre les autorités administratives. La
+déclaration peut aussi être déposée en mairie contre récépissé. 
 
 Lorsque l'aliénation porte sur un terrain défini au b de l'article R. 214-3 et qu'elle est soumise au droit de préemption
 institué par le chapitre II ou le chapitre III du présent titre, la déclaration est souscrite dans les formes et conditions
@@ -38628,9 +38713,16 @@ entre 300 et 1 000 mètres carrés.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Ordonnance n°2005-1516 du 8 décembre 2005 - art. 5
+	  - Code de l'urbanisme - art. *R214-3
+	  - Code de l'urbanisme - art. L214-1
+	  - Code de l'urbanisme - art. R213-5
+
 	**Modifié par**:
 
-	  - Décret n°2009-753 du 22 juin 2009 - art. 1
+	  - Décret n°2012-489 du 13 avril 2012 - art. 3
 
 	**Cité par**:
 
@@ -38639,12 +38731,6 @@ entre 300 et 1 000 mètres carrés.
 	  - Code de l'urbanisme - art. R* 214-4-3 (V)
 	  - Code de l'urbanisme - art. R*214-5 (V)
 	  - Code de l'urbanisme - art. R*214-7 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. *R214-3
-	  - Code de l'urbanisme - art. L214-1
-	  - Code de l'urbanisme - art. R213-5
 
 
 ###### Article R*214-4-1
@@ -38697,23 +38783,31 @@ le cahier des charges.
 
 ###### Article R*214-5
 
-Dans un délai de deux mois à compter de la réception de la déclaration préalable, le titulaire du droit de préemption notifie
-au cédant soit sa décision d'acquérir aux prix et conditions indiqués dans la déclaration préalable, soit son offre
-d'acquérir aux prix et conditions fixés par l'autorité judiciaire saisie dans les conditions prévues à l'article R. 214-6,
-soit sa décision de renoncer à l'exercice du droit de préemption. 
+Dans un délai de deux mois à compter de la réception de la déclaration préalable, ou du premier des accusés de réception ou
+d'enregistrement délivré en application des articles L. 112-11 et L. 112-12 du code des relations entre le public et
+l'administration, le titulaire du droit de préemption notifie au cédant soit sa décision d'acquérir aux prix et conditions
+indiqués dans la déclaration préalable, soit son offre d'acquérir aux prix et conditions fixés par l'autorité judiciaire
+saisie dans les conditions prévues à l'article R. 214-6, soit sa décision de renoncer à l'exercice du droit de préemption. 
 
-Il notifie sa décision au cédant par pli recommandé avec demande d'avis de réception ou par remise contre décharge au
-domicile ou au siège social du cédant. Lorsque le cédant est lié par un contrat de bail, une copie de cette notification est
-adressée au bailleur. 
+Il notifie sa décision au cédant par pli recommandé avec demande d'avis de réception, par remise contre décharge au domicile
+ou au siège social du cédant, ou par voie électronique en un seul exemplaire dans les conditions prévues aux articles L.
+112-11 et L. 112-12 du code des relations entre le public et l'administration. La notification par voie électronique n'est
+possible que si la déclaration prévue à l'article R. * 214-4 a été faite de la même manière. Lorsque le cédant est lié par un
+contrat de bail, une copie de cette notification est adressée au bailleur. 
 
 Le silence gardé par le titulaire du droit de préemption au terme du délai fixé au premier alinéa vaut renonciation à
 l'exercice de son droit.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2007-1827 du 26 décembre 2007 - art. 1
+	  - Ordonnance n°2005-1516 du 8 décembre 2005 - art. 5
+	  - Code de l'urbanisme - art. *R214-4
+
+	**Modifié par**:
+
+	  - Décret n°2012-489 du 13 avril 2012 - art. 3
 
 	**Cité par**:
 
@@ -38742,14 +38836,16 @@ double exemplaire de son mémoire. Copie de la lettre de saisine et du mémoire 
 ###### Article R*214-7
 
 En cas de cession, par voie d'adjudication, d'un fonds artisanal, d'un fonds de commerce, d'un bail commercial ou d'un
-terrain portant ou destiné à porter des commerces d'une surface de vente comprise entre 300 et 1 000 mètres carrés , le
+terrain portant ou destiné à porter des commerces d'une surface de vente comprise entre 300 et 1 000 mètres carrés, le
 commissaire-priseur judiciaire, le greffier de la juridiction ou le notaire chargé de procéder à la vente, selon la nature de
 l'adjudication, procède à la déclaration préalable prévue à l'article L. 214-1. Cette déclaration est établie dans les formes
 prescrites à l'article R. 214-4 et indique la date et les modalités de la vente. Elle est adressée au maire trente jours au
-moins avant la date fixée pour la vente par lettre recommandée avec demande d'avis de réception. 
+moins avant la date fixée pour la vente par lettre recommandée avec demande d'avis de réception ou par voie électronique dans
+les conditions prévues par le I de l'article 5 de l'ordonnance n° 2005-1516 du 8 décembre 2005. 
 
 Le titulaire du droit de préemption dispose d'un délai de trente jours à compter de l'adjudication pour notifier, par lettre
-recommandée avec demande d'avis de réception, au greffier ou au notaire sa décision de se substituer à l'adjudicataire. Copie
+recommandée avec demande d'avis de réception ou par voie électronique dans les conditions prévues par le I de l'article 5 de
+l'ordonnance n° 2005-1516 du 8 décembre 2005, au greffier ou au notaire sa décision de se substituer à l'adjudicataire. Copie
 de cette décision est annexée au jugement ou à l'acte de l'adjudication et publiée au bureau des hypothèques en même temps
 que celui-ci. 
 
@@ -38760,18 +38856,35 @@ par voie de préemption.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2009-753 du 22 juin 2009 - art. 1
-
 	**Cite**:
 
+	  - Ordonnance n°2005-1516 du 8 décembre 2005 - art. 5
 	  - Code de l'urbanisme - art. *R214-4
 	  - Code de l'urbanisme - art. L214-1
+
+	**Modifié par**:
+
+	  - Décret n°2012-489 du 13 avril 2012 - art. 3
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. *R214-8 (V)
+
+
+###### Article R*214-10-1
+
+Un arrêté du ministre chargé de l'urbanisme fixe les conditions dans lesquelles sont effectuées les transmissions par voie
+électronique prévues au présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-489 du 13 avril 2012 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2017-932 du 10 mai 2017 - art. 3
 
 
 #####  Section 3 : Rétrocession
@@ -59492,14 +59605,18 @@ journal local.
 Les articles R. * 111-1 à R. * 111-24, R. * 111-26, 
 R. * 111-30 à R. * 111-47, R. * 112-1 à R. * 112-2, R. * 121-1 à R. * 121-16, 
 R. * 123-1 à R. * 123-25, R. * 124-1 à R. * 124-8, 
-R. * 126-1 à R. 126-3, R. 127-1 à R. 127-3, R. * 130-1 à R. * 130-23, R. * 142-1 à R. 142-19, R. 143-1 à R. 143-9 sont
+R. * 126-1 à R. 126-3, R. 127-1 à R. 127-3, R. * 130-1 à R. * 130-23, R. * 142-1 à R. * 142-19-1, R. 143-1 à R. 143-9 sont
 applicables à Mayotte sous réserve des dispositions ci-après.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-1178 du 6 octobre 2010 - art. 1
+	  - Décret n°2012-489 du 13 avril 2012 - art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1529 du 28 décembre 2012 - art. 12 (V)
 
 	**Cite**:
 
@@ -59694,13 +59811,17 @@ Les articles R. 160-1 à R. 160-3 et R. * 160-7 sont applicables à Mayotte.
 
 ###### Article R*720-1
 
-Les articles R. * 211-1 à R. * 211-8, R. * 212-1 à R. 212-6, R. * 213-1 à R. * 213-26 sont applicables à Mayotte.
+Les articles R. * 211-1 à R. * 211-8, R. * 212-1 à R. 212-6, R. * 213-1 à R. * 213-26-1 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-1178 du 6 octobre 2010 - art. 1
+	  - Décret n°2012-489 du 13 avril 2012 - art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1529 du 28 décembre 2012 - art. 12 (V)
 
 	**Cite**:
 
