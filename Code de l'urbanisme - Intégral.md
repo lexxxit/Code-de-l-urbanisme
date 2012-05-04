@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2012-04-16
+Version Consolidée au 2012-05-05
 
 # Partie législative
 
@@ -54319,87 +54319,6 @@ plancher des bâtiments qui existaient à la date de la division sur les autres 
 	  - Code de l'urbanisme - art. L123-1-1 (T)
 
 
-###### Article R*431-16
-
-Le dossier joint à la demande de permis de construire comprend en outre, selon les cas : 
-
-a) L'étude d'impact, lorsqu'elle est prévue en application du code de l'environnement, ou la décision de l'autorité
-administrative de l'Etat compétente en matière d'environnement dispensant le demandeur de réaliser une étude d'impact ; 
-
-b) Le dossier d'évaluation des incidences du projet sur un site Natura 2000 prévu à l'article R. 414-23 du code de
-l'environnement, dans le cas où le projet doit faire l'objet d'une telle évaluation en application de l'article L. 414-4 de
-ce code. Toutefois, lorsque le dossier de demande comporte une étude d'impact, cette étude tient lieu de dossier d'évaluation
-des incidences Natura 2000 si elle satisfait aux prescriptions de l'article R. 414-23 du code de l'environnement,
-conformément aux dispositions prévues à l'article R. 414-22 de ce code ; 
-
-c) Le document attestant de la conformité du projet d'installation d'assainissement non collectif au regard des prescriptions
-réglementaires, prévu au 1° du III de l'article L. 2224-8 du code général des collectivités territoriales, dans le cas où le
-projet est accompagné de la réalisation ou de la réhabilitation d'une telle installation ; 
-
-d) Dans les cas prévus par les 4° et 5° de l'article R. 111-38 du code de la construction et de l'habitation, un document
-établi par un contrôleur technique mentionné à l'article L. 111-23 de ce code, attestant qu'il a fait connaître au maître
-d'ouvrage son avis sur la prise en compte, au stade de la conception, des règles parasismiques et paracycloniques prévues par
-l'article L. 563-1 du code de l'environnement ; 
-
-e) Lorsque la construction projetée est subordonnée par un plan de prévention des risques naturels prévisibles ou un plan de
-prévention des risques miniers approuvés, ou rendus immédiatement opposables en application de l'article L. 562-2 du code de
-l'environnement, ou par un plan de prévention des risques technologiques approuvé, à la réalisation d'une étude préalable
-permettant d'en déterminer les conditions de réalisation, d'utilisation ou d'exploitation, une attestation établie par
-l'architecte du projet ou par un expert certifiant la réalisation de cette étude et constatant que le projet prend en compte
-ces conditions au stade de la conception ; 
-
-f) L'agrément prévu à l'article L. 510-1, lorsqu'il est exigé ; 
-
-g) Une notice précisant l'activité économique qui doit être exercée dans le bâtiment et justifiant, s'il y a lieu, que cette
-activité répond aux critères définis par l'article R. 146-2, lorsque la demande concerne un projet de construction visé au d
-de cet article et situé dans un espace remarquable ou dans un milieu à préserver d'une commune littorale ; 
-
-h) L'étude de sécurité publique, lorsqu'elle est exigée en application des articles R. 111-48 et R. 111-49 ; 
-
-i) Lorsque le projet est tenu de respecter les dispositions mentionnées à l'article R. 111-20 du code de la construction et
-de l'habitation, un document établi par le maître d'ouvrage attestant la prise en compte de la réglementation thermique, en
-application de l'article R. 111-20-1 de ce code, et pour les projets concernés par le cinquième alinéa de l'article L. 111-9
-du même code, la réalisation de l'étude de faisabilité relative aux approvisionnements en énergie, en application de
-l'article R. 111-20-2 dudit code.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°2011-544 du 18 mai 2011 - art. 4 (V)
-	  - Arrêté du 27 avril 2012 - art. 3 (VD)
-	  - Arrêté du 5 mars 2014 - art. 29 (V)
-	  - Décret n°2015-1353 du 26 octobre 2015 - art. 5 (V)
-	  - Code de l'urbanisme - art. A431-10 (V)
-	  - Code de l'urbanisme - art. A431-10 Annexe (V)
-	  - Code de l'urbanisme - art. R*431-36 (VD)
-	  - Code de la construction et de l'habitation. - art. R111-20-1 (V)
-	  - Code de la construction et de l'habitation. - art. R111-20-2 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2012-274 du 28 février 2012 - art. 4
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L2224-8
-	  - Code de l'urbanisme - art. L510-1
-	  - Code de l'urbanisme - art. R*146-2 (V)
-	  - Code de l'urbanisme - art. R111-48
-	  - Code de la construction et de l'habitation. - art. L111-23 (V)
-	  - Code de la construction et de l'habitation. - art. L111-9 (V)
-	  - Code de la construction et de l'habitation. - art. R111-20 (V)
-	  - Code de la construction et de l'habitation. - art. R111-38 (V)
-	  - Code de l'environnement - art. L414-4 (V)
-	  - Code de l'environnement - art. L562-2
-	  - Code de l'environnement - art. L563-1
-	  - Code de l'environnement - art. R414-23
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ###### Article R*431-16-1
 
 Lorsque la demande de permis de construire porte sur des constructions situées dans un emplacement réservé à la réalisation
@@ -54909,6 +54828,98 @@ demandes de permis d'aménager et aux demandes de permis de démolir déposées 
 	  - Code de l'urbanisme - art. R*423-13
 	  - Code de l'urbanisme - art. R*431-8
 	  - Code de l'environnement - art. R*331-19
+
+
+###### Article R431-16
+
+Le dossier joint à la demande de permis de construire comprend en outre, selon les cas : 
+
+a) L'étude d'impact, lorsqu'elle est prévue en application du code de l'environnement, ou la décision de l'autorité
+administrative de l'Etat compétente en matière d'environnement dispensant le demandeur de réaliser une étude d'impact ; 
+
+b) Le dossier d'évaluation des incidences du projet sur un site Natura 2000 prévu à l'article R. 414-23 du code de
+l'environnement, dans le cas où le projet doit faire l'objet d'une telle évaluation en application de l'article L. 414-4 de
+ce code. Toutefois, lorsque le dossier de demande comporte une étude d'impact, cette étude tient lieu de dossier d'évaluation
+des incidences Natura 2000 si elle satisfait aux prescriptions de l'article R. 414-23 du code de l'environnement,
+conformément aux dispositions prévues à l'article R. 414-22 de ce code ; 
+
+c) Le document attestant de la conformité du projet d'installation d'assainissement non collectif au regard des prescriptions
+réglementaires, prévu au 1° du III de l'article L. 2224-8 du code général des collectivités territoriales, dans le cas où le
+projet est accompagné de la réalisation ou de la réhabilitation d'une telle installation ; 
+
+d) Dans les cas prévus par les 4° et 5° de l'article R. 111-38 du code de la construction et de l'habitation, un document
+établi par un contrôleur technique mentionné à l'article L. 111-23 de ce code, attestant qu'il a fait connaître au maître
+d'ouvrage son avis sur la prise en compte, au stade de la conception, des règles parasismiques et paracycloniques prévues par
+l'article L. 563-1 du code de l'environnement ; 
+
+e) Lorsque la construction projetée est subordonnée par un plan de prévention des risques naturels prévisibles ou un plan de
+prévention des risques miniers approuvés, ou rendus immédiatement opposables en application de l'article L. 562-2 du code de
+l'environnement, ou par un plan de prévention des risques technologiques approuvé, à la réalisation d'une étude préalable
+permettant d'en déterminer les conditions de réalisation, d'utilisation ou d'exploitation, une attestation établie par
+l'architecte du projet ou par un expert certifiant la réalisation de cette étude et constatant que le projet prend en compte
+ces conditions au stade de la conception ; 
+
+f) L'agrément prévu à l'article L. 510-1, lorsqu'il est exigé ; 
+
+g) Une notice précisant l'activité économique qui doit être exercée dans le bâtiment et justifiant, s'il y a lieu, que cette
+activité répond aux critères définis par l'article R*146-2, lorsque la demande concerne un projet de construction visé au d
+de cet article et situé dans un espace remarquable ou dans un milieu à préserver d'une commune littorale ; 
+
+h) L'étude de sécurité publique, lorsqu'elle est exigée en application des articles R. 111-48 et R. 111-49 ; 
+
+i) Lorsque le projet est tenu de respecter les dispositions mentionnées à l'article R. 111-20 du code de la construction et
+de l'habitation, un document établi par le maître d'ouvrage attestant la prise en compte de la réglementation thermique, en
+application de l'article R. 111-20-1 de ce code, et pour les projets concernés par le cinquième alinéa de l'article L. 111-9
+du même code, la réalisation de l'étude de faisabilité relative aux approvisionnements en énergie, en application de
+l'article R. 111-20-2 dudit code ; 
+
+j) Dans le cas d'un projet de construction ou extension d'un établissement recevant du public de plus de 100 personnes ou
+d'un immeuble de grande hauteur à proximité d'une canalisation de transport, dans la zone de dangers définie au premier tiret
+du b de l'article R. 555-30 du code de l'environnement, l'analyse de compatibilité du projet avec la canalisation du point de
+vue de la sécurité des personnes prévue à l'article R. 555-31 du même code.
+
+**Nota:**
+
+Décret n° 2012-615 du 2 mai 2012 art. 11 : Les dispositions du j) de l'article R. 431-16 s'appliquent aux demandes de permis
+de construire déposées à compter de l'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2011-544 du 18 mai 2011 - art. 4 (V)
+	  - Arrêté du 27 avril 2012 - art. 3 (VD)
+	  - Arrêté du 5 mars 2014 - art. 29 (V)
+	  - Décret n°2015-1353 du 26 octobre 2015 - art. 5 (V)
+	  - Code de l'urbanisme - art. A431-10 (V)
+	  - Code de l'urbanisme - art. A431-10 Annexe (V)
+	  - Code de l'urbanisme - art. R*431-36 (VD)
+	  - Code de la construction et de l'habitation. - art. R111-20-1 (V)
+	  - Code de la construction et de l'habitation. - art. R111-20-2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-615 du 2 mai 2012 - art. 9
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2224-8
+	  - Code de l'urbanisme - art. L510-1
+	  - Code de l'urbanisme - art. R*146-2 (V)
+	  - Code de l'urbanisme - art. R111-48
+	  - Code de la construction et de l'habitation. - art. L111-23 (V)
+	  - Code de la construction et de l'habitation. - art. L111-9 (V)
+	  - Code de la construction et de l'habitation. - art. R111-20 (V)
+	  - Code de la construction et de l'habitation. - art. R111-38 (V)
+	  - Code de l'environnement - art. L414-4 (V)
+	  - Code de l'environnement - art. L562-2
+	  - Code de l'environnement - art. L563-1
+	  - Code de l'environnement - art. R414-23
+	  - Code de l'environnement - art. R555-30 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R431-16-2
@@ -63239,294 +63250,303 @@ et des finances.
 
 ###### Article R*126-1, Annexe
 
-I - Servitudes relatives à la conservation du patrimoine
+I ― Servitudes relatives à la conservation du patrimoine 
 
-A. - Patrimoine naturel.
+A. ― Patrimoine naturel. 
 
-a) Forêts.
+a) Forêts. 
 
 Servitudes de protection des forêts soumises au régime forestier et instituées en application des articles L. 151-1 à L.
 151-6 du code forestier 
-  _(1)_ ;
+  _(1) _; 
 
 Servitudes relatives aux forêts dites de protection instituées en application des articles L. 411-1 à L. 413-1 du code
-forestier ;
+forestier ; 
 
 Prescriptions et interdictions auxquelles sont soumis les propriétaires en application des articles L. 421-1, L. 432-1, L.
-432-2, L. 531-1 et L. 541-2 du code forestier
+432-2, L. 531-1 et L. 541-2 du code forestier 
 
-_(2)_ ;
+_(2) _; 
 
-b) Littoral maritime.
+b) Littoral maritime. 
 
-Réserves de terrains créées en application de l'article 4 de la loi n° 63-1178 du 28 novembre 1963 ;
+Réserves de terrains créées en application de l'article 4 de la loi n° 63-1178 du 28 novembre 1963 ; 
 
-Servitude de passage sur le littoral instituée en application des articles L. 160-6 et L160-6-1 du code de l'urbanisme.
+Servitude de passage sur le littoral instituée en application des articles L. 160-6 et L160-6-1 du code de l'urbanisme. 
 
-c) Eaux.
+c) Eaux. 
 
 Servitudes prévues aux articles L. 215-4 et L. 215-5 
-  _(2bis)_ du code de l'environnement ainsi qu'à l'article L. 151-37-1 du code rural et de la pêche maritime, y compris les
+  _(2bis) _du code de l'environnement ainsi qu'à l'article L. 151-37-1 du code rural et de la pêche maritime, y compris les
 servitudes instituées en application du décret n° 59-96 du 7 janvier 1959 validées dans les conditions prévues au IV de
-l'article L. 211-7 du code de l'environnement ;
+l'article L. 211-7 du code de l'environnement ; 
 
 Servitudes attachées à la protection des eaux potables instituées en vertu des articles L. 1321-2 et R. 1321-13 du code de la
-santé publique ;
+santé publique ; 
 
 Servitudes attachées à la protection des eaux minérales instituées en application des articles L. 1322-3 à L. 1322-13 du code
-de la santé publique.
+de la santé publique. 
 
-d) Réserves naturelles et parcs nationaux.
+d) Réserves naturelles et parcs nationaux. 
 
 Réserves naturelles instituées par l'autorité administrative en application des articles L. 332-1 à L. 332-19-1 du code de
-l'environnement ;
+l'environnement ; 
 
 Périmètres de protection autour des réserves naturelles institués en application des articles L. 332-16 à L. 332-18 du code
-de l'environnement ;
+de l'environnement ; 
 
-Règles prévues au I de l'article L. 331-4 du code de l'environnement applicables dans le coeur d'un parc national.
+Règles prévues au I de l'article L. 331-4 du code de l'environnement applicables dans le coeur d'un parc national. 
 
-e) Zones agricoles protégées.
+e) Zones agricoles protégées. 
 
-Zones agricoles protégées délimitées et classées en application de l'article L. 112-2 du code rural et de la pêche maritime.
+Zones agricoles protégées délimitées et classées en application de l'article L. 112-2 du code rural et de la pêche maritime. 
 
-B. - Patrimoine culturel.
+B. ― Patrimoine culturel. 
 
-a) Monuments historiques.
+a) Monuments historiques. 
 
 Mesures de classement et d'inscription prises en application des articles 1er à 5 de la loi du 31 décembre 1913 modifiée sur
-les monuments historiques avec l'indication de leur étendue ;
+les monuments historiques avec l'indication de leur étendue ; 
 
 Périmètres de protection éventuellement délimités par décrets en Conseil d'Etat en application de l'article 1er (alinéas 2 et
-3) de la loi du 31 décembre 1913, autour des monuments historiques classés ou inscrits ;
+3) de la loi du 31 décembre 1913, autour des monuments historiques classés ou inscrits ; 
 
 Zones de protection des monuments historiques créées en application de l'article 28 de la loi du 2 mai 1930 modifiée 
-  _(3)_ ;
+  _(3) _; 
 
 Périmètres de protection des monuments historiques classés ou inscrits et portés sur la liste visée ci-dessus, tels qu'ils
-résultent des dispositions combinées des articles 1er et 13 bis de la loi du 31 décembre 1913 ;
+résultent des dispositions combinées des articles 1er et 13 bis de la loi du 31 décembre 1913 ; 
 
 Aires de mise en valeur de l'architecture et du patrimoine créées en application de l'article L. 642-1 du code du
 patrimoine. 
 
-b) Monuments naturels et sites.
+b) Monuments naturels et sites. 
 
-Sites inscrits ;
+Sites inscrits ; 
 
-Sites classés ;
+Sites classés ; 
 
 Zones de protection des sites créées en application de l'article 17 de la loi du 2 mai 1930 modifiée 
-  _(3)_.
+  _(3)_. 
 
-c) patrimoine architectural et urbain.
+c) patrimoine architectural et urbain. 
 
 Zones de protection du patrimoine architectural et urbain instituées en application des articles L. 642-1 et L. 642-2 du code
-du patrimoine.
+du patrimoine. 
 
-C. - Patrimoine sportif.
+C. ― Patrimoine sportif. 
 
 Terrains de sport dont le changement d'affectation est soumis à autorisation en application des dispositions de l'article 42
-de la loi n° 84-610 du 16 juillet 1984.
+de la loi n° 84-610 du 16 juillet 1984. 
 
-II - Servitudes relatives à l'utilisation de certaines ressources et équipements
+II ― Servitudes relatives à l'utilisation de certaines ressources et équipements 
 
-A. - Energie.
+A. ― Energie. 
 
-a) Electricité et gaz.
+a) Electricité et gaz. 
 
-Périmètres à l'intérieur desquels ont été instituées des servitudes en application :
+Périmètres à l'intérieur desquels ont été instituées des servitudes en application : 
 
-Des articles 12 et 12 bis de la loi du 15 juin 1906 modifiée ;
+Des articles 12 et 12 bis de la loi du 15 juin 1906 modifiée ; 
 
-De l'article 298 de la loi de finances du 13 juillet 1925 ;
+De l'article 298 de la loi de finances du 13 juillet 1925 ; 
 
-De l'article 35 de la loi n° 46-628 du 8 avril 1946 modifiée ;
+De l'article 35 de la loi n° 46-628 du 8 avril 1946 modifiée ; 
 
-De l'article 25 du décret n° 64-481 du 23 janvier 1964.
+De l'article 25 du décret n° 64-481 du 23 janvier 1964 ; 
 
-b) Energie hydraulique.
+Servitudes relatives aux canalisations de transport de gaz instituées en application de l'article R. 555-30 du code de
+l'environnement. 
+
+b) Energie hydraulique. 
 
 Périmètres auxquels s'applique la servitude de submersion et d'occupation temporaire instituée par l'article 4 de la loi du
-16 octobre 1919.
+16 octobre 1919. 
 
-c) Hydrocarbures.
+c) Hydrocarbures. 
 
 Servitudes relatives à la construction et à l'exploitation de pipe-lines d'intérêt général instituées en application de
 l'article 11 de la loi n° 58-336 du 29 mars 1958 et du décret n° 59-645 du 16 mai 1959 pris pour l'application dudit article
-11 ;
+11 ; 
 
-d) Chaleur :
+Servitudes relatives aux canalisations de transport d'hydrocarbures instituées en application de l'article R. 555-30 du code
+de l'environnement. 
+
+d) Chaleur : 
 
 Servitudes relatives aux canalisations de transport et de distribution de chaleur instituées en application de la loi n°
-80-531 du 15 juillet 1980 relative aux économies d'énergie et à l'utilisation de la chaleur.
+80-531 du 15 juillet 1980 relative aux économies d'énergie et à l'utilisation de la chaleur. 
 
-B. - Mines et carrières.
+B. ― Mines et carrières. 
 
-Périmètres à l'intérieur desquels sont applicables les dispositions des articles 71 à 73 du code minier ;
+Périmètres à l'intérieur desquels sont applicables les dispositions des articles 71 à 73 du code minier ; 
 
 Servitudes relatives à la protection des stockages souterrains de gaz naturel, d'hydrocarbures liquides, liquéfiés ou gazeux
-ou de produits chimiques à destination industrielle prévues à l'article 104-3 (I et II) du code minier.
+ou de produits chimiques à destination industrielle prévues à l'article 104-3 (I et II) du code minier. 
 
-C. - Canalisations.
+C. ― Canalisations. 
 
-a) Produits chimiques.
+a) Produits chimiques. 
 
 Zones auxquelles s'appliquent les servitudes attachées à la construction et à l'exploitation de canalisations de transport de
-produits chimiques, instituées en application de la loi n° 65-498 du 29 juin 1965.
+produits chimiques, instituées en application de la loi n° 65-498 du 29 juin 1965 ; 
 
-b) Eaux et assainissement.
+Servitudes relatives aux canalisations de transport de produits chimiques instituées en application de l'article R. 555-30 du
+code de l'environnement. 
+
+b) Eaux et assainissement. 
 
 Zones où ont été instituées, en application de la loi n° 62-904 du 4 août 1962 et du décret n° 64-153 du 15 février 1964, les
-servitudes attachées aux canalisations publiques d'eau et d'assainissement.
+servitudes attachées aux canalisations publiques d'eau et d'assainissement. 
 
 Servitudes attachées à l'établissement des canalisations souterraines d'irrigation instituées en application des articles
 128-7 et 128-9 du code rural et de la pêche maritime 
-  _(4)_ ;
+  _(4) _; 
 
 Servitudes de passage des engins mécaniques d'entretien et de dépôt des produits de curage et faucardement attachées aux
 canaux d'irrigation et émissaires d'assainissement instituées en application des articles 128-6 et 138-1 du code rural et de
 la pêche maritime 
-  _(5)_ ;
+  _(5) _; 
 
 Servitudes d'écoulement des eaux nuisibles attachées aux travaux d'assainissement des terres par le drainage instituées en
 application des articles 135 à 138 du code rural et de la pêche maritime 
-  _(6)_.
+  _(6)_. 
 
-D. - Communications.
+D. ― Communications. 
 
-a) Cours d'eau.
+a) Cours d'eau. 
 
-Servitudes de halage et de marchepied instituées par les articles 15, 16 et 28 du code du domaine public fluvial et de la
+Servitudes de halage et de marchepied instituées par les articles 15,16 et 28 du code du domaine public fluvial et de la
 navigation intérieure et par l'article 424 du code rural et de la pêche maritime 
-  _(7)_.
+  _(7)_. 
 
-b) Navigation maritime.
+b) Navigation maritime. 
 
 Champs de vue et servitudes instituées ou maintenues en application de la loi n° 87-954 du 27 novembre 1987 relative à la
-visibilité des amers, des feux et des phares et au champ de vue des centres de surveillance de la navigation maritime.
+visibilité des amers, des feux et des phares et au champ de vue des centres de surveillance de la navigation maritime. 
 
-c) Voies ferrées et aérotrains.
+c) Voies ferrées et aérotrains. 
 
-Zones auxquelles s'appliquent les servitudes instituées par :
+Zones auxquelles s'appliquent les servitudes instituées par : 
 
-La loi du 15 juillet 1845 sur la police des chemins de fer ;
+La loi du 15 juillet 1845 sur la police des chemins de fer ; 
 
 L'article 6 du décret du 30 octobre 1935 modifié portant création de servitudes de visibilité sur les voies publiques 
-  _(8)_ ;
+  _(8) _; 
 
 La loi n° 66-1066 du 31 décembre 1966 établissant des servitudes au profit des lignes de transport public par véhicules
-guidés sur coussins d'air (aérotrains).
+guidés sur coussins d'air (aérotrains). 
 
-d) Réseau routier.
+d) Réseau routier. 
 
 Servitudes instituées en application de l'article 3 du décret du 30 octobre 1935 portant création de servitudes de visibilité
 sur les voies publiques 
-  _(9)_ ;
+  _(9) _; 
 
 Servitudes grevant les terrains nécessaires aux routes nationales et aux autoroutes instituées en application de l'ordonnance
-n° 58-1311 du 23 décembre 1958 et du décret n° 58-1316 du 23 décembre 1958 ;
+n° 58-1311 du 23 décembre 1958 et du décret n° 58-1316 du 23 décembre 1958 ; 
 
-Servitudes attachées à l'alignement des voies nationales, départementales ou communales ;
+Servitudes attachées à l'alignement des voies nationales, départementales ou communales ; 
 
 Servitudes relatives aux interdictions d'accès grevant les propriétés limitrophes des routes express et des déviations
-d'agglomérations en application des articles 4 et 5 de la loi n° 69-7 du 3 janvier 1969
+d'agglomérations en application des articles 4 et 5 de la loi n° 69-7 du 3 janvier 1969 
 
-_(10)_.
+_(10)_. 
 
-e) Circulation aérienne.
+e) Circulation aérienne. 
 
 Servitudes aéronautiques de dégagement et de balisage instituées en application des articles L. 281-1 et R. 241-1 à R. 243-3
-du code de l'aviation civile ;
+du code de l'aviation civile ; 
 
 Servitudes grevant les terrains nécessaires aux besoins de la navigation aérienne instituées en application de l'article R.
-245-1 du code de l'aviation civile ;
+245-1 du code de l'aviation civile ; 
 
 Servitudes établies à l'extérieur des zones de dégagement en application des articles R. 244-1 et D. 244-1 à D. 244-4 du code
-de l'aviation civile.
+de l'aviation civile. 
 
-f) Remontées mécaniques et pistes de ski.
+f) Remontées mécaniques et pistes de ski. 
 
-Zones auxquelles s'applique la servitude de survol instituée par la loi du 8 juillet 1941 ;
+Zones auxquelles s'applique la servitude de survol instituée par la loi du 8 juillet 1941 ; 
 
 Servitudes instituées en application de l'article 53 de la loi n° 85-30 du 9 janvier 1985 relative au développement et à la
-protection de la montagne.
+protection de la montagne. 
 
-g) Associations syndicales autorisées, associations syndicales constituées d'office et leurs unions :
+g) Associations syndicales autorisées, associations syndicales constituées d'office et leurs unions : 
 
 Servitudes de passage pour l'entretien d'ouvrages instituées en application du second alinéa de l'article 28 de l'ordonnance
-n° 2004-632 du 1er juillet 2004.
+n° 2004-632 du 1er juillet 2004. 
 
-E. - Télécommunications.
+E. ― Télécommunications. 
 
 Servitudes de protection des centres radio-électriques d'émission et de réception contre les obstacles instituées en
-application des articles L. 54 à L. 56-1 et R. 21 à R. 26-1 du code des postes et des communications électroniques ;
+application des articles L. 54 à L. 56-1 et R. 21 à R. 26-1 du code des postes et des communications électroniques ; 
 
 Servitudes de protection des centres de réception radio-électriques contre les perturbations électromagnétiques instituées en
-application des articles L. 57 à L. 62-1 et R. 27 à R. 39 du code des postes et des communications électroniques ;
+application des articles L. 57 à L. 62-1 et R. 27 à R. 39 du code des postes et des communications électroniques ; 
 
 Servitudes attachées aux réseaux de télécommunications instituées en application des articles L. 45-1 et L. 48 du code des
-postes et des communications électroniques.
+postes et des communications électroniques. 
 
-III - Servitudes relatives à la Défense Nationale
+III ― Servitudes relatives à la Défense Nationale 
 
 Servitudes de champ de vue instituées par la loi du 18 juillet 1895 concernant la détermination et la conservation des postes
-électro-sémaphoriques, modifiée par la loi du 27 mai 1933 ;
+électro-sémaphoriques, modifiée par la loi du 27 mai 1933 ; 
 
 Servitudes attachées à la sécurité de la navigation et à la défense des côtes instituées en application de la loi du 11
-juillet 1933 ;
+juillet 1933 ; 
 
 Zones et polygones d'isolement créés en application de la loi du 8 août 1929 concernant les servitudes autour des magasins et
 établissements servant à la conservation, à la manipulation ou à la fabrication des poudres, munitions, artifices ou
-explosifs ;
+explosifs ; 
 
 Servitudes concernant l'établissement de terrains d'atterrissage destinés en partie ou en totalité à l'armée de l'air
-instituées en application du décret du 30 octobre 1935 ;
+instituées en application du décret du 30 octobre 1935 ; 
 
 Servitudes relatives aux fortifications, places fortes, postes et ouvrages militaires instituées en application des lois du 8
-juillet 1791, 17 juillet 1819 et 10 juillet 1851 ;
+juillet 1791,17 juillet 1819 et 10 juillet 1851 ; 
 
-Servitudes aux abords des champs de tir créées en application de l'article 25 de la loi du 13 juillet 1927.
+Servitudes aux abords des champs de tir créées en application de l'article 25 de la loi du 13 juillet 1927. 
 
-IV - Servitudes relatives à la salubrité et à la sécurité publiques
+IV ― Servitudes relatives à la salubrité et à la sécurité publiques 
 
-A. - Salubrité publique.
+A. ― Salubrité publique. 
 
-a) Cimetières.
+a) Cimetières. 
 
-Servitudes relatives aux cimetières instituées par :
+Servitudes relatives aux cimetières instituées par : 
 
-L'article L. 361-1 du code des communes
-  _(11)_ ;
+L'article L. 361-1 du code des communes 
 
-L'article L. 361-4 du code des communes
+_(11) _; 
 
-_(12)_.
+L'article L. 361-4 du code des communes 
+  _(12)_. 
 
-b) Etablissements conchylicoles.
+b) Etablissements conchylicoles. 
 
 Périmètres de protection installés autour des établissements de conchyliculture et d'aquaculture et des gisements coquilliers
 en application de l'article 2 du décret du 30 octobre 1935 sur la protection des eaux potables et les établissements
-ostréicoles.
+ostréicoles. 
 
-B. - Sécurité publique
+B. ― Sécurité publique 
 
 Plans de prévention des risques naturels prévisibles établis en application de l'article L. 562-1 du code de l'environnement,
-ou plans de prévention des risques miniers établis en application de l'article 94 du code minier ;
+ou plans de prévention des risques miniers établis en application de l'article 94 du code minier ; 
 
 Documents valant plans de prévention des risques naturels prévisibles en application de l'article L. 562-6 du code de
-l'environnement ;
+l'environnement ; 
 
 Servitudes instituées, en ce qui concerne la Loire et ses affluents, par les articles 55 et suivants du code du domaine
-public fluvial et de la navigation intérieure ;
+public fluvial et de la navigation intérieure ; 
 
 Servitudes d'inondation pour la rétention des crues du Rhin résultant de l'application de la loi n° 91-1385 du 31 décembre
-1991 portant diverses dispositions en matière de transports ;
+1991 portant diverses dispositions en matière de transports ; 
 
-Servitudes résultant de l'application des articles L. 515-8 à L. 515-12 du code de l'environnement ;
+Servitudes résultant de l'application des articles L. 515-8 à L. 515-12 du code de l'environnement ; 
 
-Servitudes d'utilité publique instituées en application de l'article L. 211-12 du code de l'environnement ;
+Servitudes d'utilité publique instituées en application de l'article L. 211-12 du code de l'environnement ; 
 
-Plans de prévention des risques technologiques établis en application de l'article L. 515-15 du code de l'environnement.
+Plans de prévention des risques technologiques établis en application de l'article L. 515-15 du code de l'environnement. 
 
 Servitudes d'utilité publique instituées en application de l'article 31 de la loi n° 2006-686 du 13 juin 2006 relative à la
 transparence et à la sécurité en matière nucléaire.
@@ -63601,11 +63621,11 @@ transparence et à la sécurité en matière nucléaire.
 	  - Code du patrimoine - art. L642-1
 	  - Loi du 2 mai 1930 - art. 17
 	  - Loi du 2 mai 1930 - art. 28
-	  - décret du 30 octobre 1935
+	  - Code forestier (nouveau) - art. L151-1 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2011-1903 du 19 décembre 2011 - art. 2
+	  - Décret n°2012-615 du 2 mai 2012 - art. 9
 
 
 ## Liste des communes comprises dans la zone 1
