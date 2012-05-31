@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2012-05-08
+Version Consolidée au 2012-06-01
 
 # Partie législative
 
@@ -7335,34 +7335,30 @@ du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environn
 
 La déclaration d'utilité publique ou, si une déclaration d'utilité publique n'est pas requise, la déclaration de projet d'une
 opération qui n'est pas compatible avec les dispositions du schéma directeur de la région d'Ile-de-France ne peut intervenir
-que si :
+que si : 
 
-1° L'enquête publique concernant cette opération a porté à la fois sur l'utilité publique de l'opération et sur la mise en
-compatibilité du schéma qui en est la conséquence ;
+1° L'enquête publique, réalisée dans les mêmes conditions que celles prévues à l'article L. 141-1, concernant cette opération
+a porté à la fois sur l'utilité publique de l'opération et sur la mise en compatibilité du schéma qui en est la
+conséquence ; 
 
 2° La déclaration d'utilité publique ou la déclaration de projet est prononcée après que les dispositions proposées pour
 assurer la mise en compatibilité du schéma ont fait l'objet d'un examen conjoint de l'Etat, de la région d'Ile-de-France, du
-conseil économique et social régional, des départements et des chambres consulaires.
+conseil économique, social et environnemental régional, des départements et des chambres consulaires. 
 
 La déclaration d'utilité publique emporte approbation des nouvelles dispositions du schéma directeur de la région d'Ile-de-
-France. Elle est prise par décret en Conseil d'Etat en cas d'opposition de la région.
+France. Elle est prise par décret en Conseil d'Etat en cas d'opposition de la région. 
 
 La déclaration de projet ne peut intervenir qu'après mise en compatibilité du schéma par l'autorité administrative et, en cas
 de désaccord de la région, par décret en Conseil d'Etat.
 
+**Nota:**
+
+Ces dispositions s'appliquent aux projets, plans, programmes ou autres documents de planification pour lesquels l'arrêté
+d'ouverture et d'organisation de l'enquête publique est publié à compter du premier jour du sixième mois après la publication
+du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environnement. Décret n° 2011-2018 du 29 décembre 2011
+publié le 30 décembre 2011.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
-
-	**Créé par**:
-
-	  - Loi n°2004-809 du 13 août 2004 - art. 2 () JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -7370,6 +7366,15 @@ de désaccord de la région, par décret en Conseil d'Etat.
 	  - Décret n°2011-724 du 24 juin 2011 - art. 9 (V)
 	  - Code de l'urbanisme - art. L300-6-1 (V)
 	  - Code de l'urbanisme - art. R300-24 (VD)
+
+	**Modifié par**:
+
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 240
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 250 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L141-1 (V)
 
 
 ###### Article L141-1-3
@@ -34889,46 +34894,57 @@ fixées par les articles R. 145-2 à R. 145-10.
 ###### Article R145-2
 
 Sont soumises à autorisation du préfet coordonnateur de massif, en application du I de l'article L. 145-11, les unités
-touristiques nouvelles ayant pour objet :
+touristiques nouvelles ayant pour objet : 
 
-1° La création, l'extension ou le remplacement de remontées mécaniques, lorsque ces travaux ont pour effet :
+1° La création, l'extension ou le remplacement de remontées mécaniques, lorsque ces travaux ont pour effet : 
 
-a) La création d'un nouveau domaine skiable alpin ;
+a) La création d'un nouveau domaine skiable alpin ; 
 
 b) L'augmentation de la superficie totale d'un domaine skiable alpin existant, dès lors que cette augmentation est supérieure
-ou égale à 100 hectares ;
+ou égale à 100 hectares ; 
 
-2° Des opérations de construction ou d'extension d'hébergements et d'équipements touristiques d'une surface de plancher hors
-oeuvre nette totale supérieure à 12 000 mètres carrés, à l'exclusion des logements à destination des personnels saisonniers
-ou permanents des équipements et hébergements touristiques ;
+2° Des opérations de construction ou d'extension d'hébergements et d'équipements touristiques d'une surface de plancher
+totale supérieure à 12 000 mètres carrés, à l'exclusion des logements à destination des personnels saisonniers ou permanents
+des équipements et hébergements touristiques ; 
 
-3° Lorsqu'ils sont soumis à étude d'impact en application de l'article L. 122-1 du code de l'environnement :
+3° Lorsqu'ils sont soumis à étude d'impact en application de l'article L. 122-1 du code de l'environnement : 
 
-a) L'aménagement, la création et l'extension de terrains de golf ;
+a) L'aménagement, la création et l'extension de terrains de golf ; 
 
-b) L'aménagement de terrains de camping ;
+b) L'aménagement de terrains de camping ; 
 
-c) L'aménagement de terrains pour la pratique de sports ou de loisirs motorisés ;
+c) L'aménagement de terrains pour la pratique de sports ou de loisirs motorisés ; 
 
-d) Les travaux d'aménagement de pistes pour la pratique des sports d'hiver alpins, lorsque les pistes ne font pas partie du
-domaine skiable visé au 1°.
+d) Les travaux d'aménagement de pistes pour la pratique des sports d'hiver alpins, situés en site vierge au sens du tableau
+annexé à l'article R. 122-2 du code de l'environnement d'une superficie supérieure à 4 hectares.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2006-1683 du 22 décembre 2006 - art. 2 () JORF 28 décembre 2006 en vigueur le 1er février 2007
+	  - Décret n°2011-2019 du 29 décembre 2011 - art. 3
+	  - Décret n°2011-2054 du 29 décembre 2011 - art. 6 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L145-11 (M)
-	  - Code de l'environnement - art. L122-1 (M)
+	  - Code de l'urbanisme - art. L145-11
+	  - Code de l'environnement - art. L122-1
+	  - Code de l'environnement - art. R122-2
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R122-6 (M)
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R145-1 (VT)
 	  - Code de l'urbanisme - art. R145-5 (VT)
 	  - Code de l'urbanisme - art. R145-7 (VT)
+	  - Code de l'urbanisme - art. R145-9 (VT)
 
 	**Codifié par**:
 
@@ -39861,22 +39877,23 @@ un établissement public ayant vocation, de par la loi ou ses statuts, à réali
 
 ###### Article R*311-2
 
-La personne publique qui a pris l'initiative de la création de  la zone constitue un dossier de création, approuvé, sauf
-lorsqu'il  s'agit de l'Etat, par son organe délibérant. Cette délibération peut  tirer simultanément le bilan de la
-concertation, en application du  sixième alinéa de l'article L. 300-2. 
+La personne publique qui a pris l'initiative de la création de la zone constitue un dossier de création, approuvé, sauf
+lorsqu'il s'agit de l'Etat, par son organe délibérant. Cette délibération peut tirer simultanément le bilan de la
+concertation, en application du sixième alinéa de l'article L. 300-2. 
 
 Le dossier de création comprend : 
 
-a)  Un rapport de présentation, qui expose notamment l'objet et la  justification de l'opération, comporte une description de
-l'état du site  et de son environnement, indique le programme global prévisionnel des  constructions à édifier dans la zone,
-énonce les raisons pour  lesquelles, au regard des dispositions d'urbanisme en vigueur sur le  territoire de la commune et de
-l'insertion dans l'environnement naturel  ou urbain, le projet faisant l'objet du dossier de création a été retenu  ; 
+a) Un rapport de présentation, qui expose notamment l'objet et la justification de l'opération, comporte une description de
+l'état du site et de son environnement, indique le programme global prévisionnel des constructions à édifier dans la zone,
+énonce les raisons pour lesquelles, au regard des dispositions d'urbanisme en vigueur sur le territoire de la commune et de
+l'insertion dans l'environnement naturel ou urbain, le projet faisant l'objet du dossier de création a été retenu ; 
 
 b) Un plan de situation ; 
 
 c) Un plan de délimitation du ou des périmètres composant la zone ; 
 
-d) L'étude d'impact définie à l'article R. 122-3 du code de l'environnement. 
+d) L'étude d'impact définie à l'article R. 122-5 du code de l'environnement lorsque celle-ci est requise en application des
+articles R. 122-2 et R. 122-3 du même code. 
 
 Le dossier précise également si la part communale ou intercommunale de la taxe d'aménagement sera ou non exigible dans la
 zone.
@@ -39885,12 +39902,23 @@ zone.
 
 	**Modifié par**:
 
+	  - Décret n°2011-2019 du 29 décembre 2011 - art. 3
 	  - Décret n°2012-87 du 25 janvier 2012 - art. 2
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L300-2
+	  - Code de l'environnement - art. R122-2
+	  - Code de l'environnement - art. R122-5
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*311-7 (V)
 	  - Code de l'urbanisme - art. R*318-18 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*311-3
@@ -55300,8 +55328,8 @@ conserver ou à créer.
 
 ###### Article R*441-5
 
-Le dossier joint à la demande de permis d'aménager comprend en outre l'étude d'impact ou la notice d'impact, lorsqu'elle est
-prévue en application du code de l'environnement.
+Le dossier joint à la demande de permis d'aménager comprend en outre l'étude d'impact, lorsqu'elle est prévue en application
+du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -55309,9 +55337,9 @@ prévue en application du code de l'environnement.
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+	  - Décret n°2011-2019 du 29 décembre 2011 - art. 3
 
 
 ###### Article R*441-6
@@ -57582,51 +57610,53 @@ travaux portant sur la réalisation des remontées mécaniques.
 
 ###### Article R472-3
 
-Le dossier joint à la demande est composé des pièces ci-après :
+Le dossier joint à la demande est composé des pièces ci-après : 
 
 1° Un mémoire descriptif de l'installation indiquant notamment les caractéristiques principales et la capacité de transport
 de l'installation, la nature des ouvrages ou des modifications substantielles projetées et leur emplacement, l'identité et la
 qualité du maître d'oeuvre et celles des spécialistes dont il s'entoure pour l'assister dans sa mission, ainsi que la
 répartition entre eux des fonctions et des tâches techniques et, le cas échéant, l'identité et la qualité de l'expert ou de
 l'organisme qualifié agréé dans les conditions prévues à l'article 7 du décret n° 2003-425 du 9 mai 2003 relatif à la
-sécurité des transports publics guidés ;
+sécurité des transports publics guidés ; 
 
-2° Une note sur les mesures de préservation et de réhabilitation du milieu naturel prévues ;
+2° Une note sur les mesures de préservation et de réhabilitation du milieu naturel prévues ; 
 
-3° L'échéancier prévu pour la construction ou la modification substantielle de l'installation ;
+3° L'échéancier prévu pour la construction ou la modification substantielle de l'installation ; 
 
-4° Un plan de situation à une échelle comprise entre 1/5 000 et 1/25 000 comportant le tracé du projet ;
+4° Un plan de situation à une échelle comprise entre 1/5 000 et 1/25 000 comportant le tracé du projet ; 
 
 5° Un profil en long comportant en particulier la représentation de tous les obstacles traversés ou survolés par
 l'installation, l'indication des pentes transversales importantes ainsi que la figuration du profil des câbles et de la
-trajectoire des véhicules à vide et en charge prévus ;
+trajectoire des véhicules à vide et en charge prévus ; 
 
-6° La note de calcul correspondant au profil en long de l'installation ;
+6° La note de calcul correspondant au profil en long de l'installation ; 
 
 7° La liste des éventuelles dérogations à la réglementation technique et de sécurité demandées et, s'il y a lieu, le
-programme des essais à effectuer en vue de corroborer les hypothèses retenues et de vérifier les calculs ;
+programme des essais à effectuer en vue de corroborer les hypothèses retenues et de vérifier les calculs ; 
 
-8° Une note sur les dispositions de principe envisagées pour l'évacuation des usagers de la remontée mécanique ;
+8° Une note sur les dispositions de principe envisagées pour l'évacuation des usagers de la remontée mécanique ; 
 
 9° Une note sur les risques naturels et technologiques prévisibles et les dispositions principales prévues pour y faire
-face ;
+face ; 
 
-10° L'étude ou la notice d'impact prévue, selon le cas, par l'article R. 122-3 ou R. 122-9 du code de l'environnement.
+10° L'étude d'impact définie à l'article R. 122-5 du code de l'environnement, lorsque celle-ci est requise en application des
+articles R. 122-2 et R. 122-3 du même code.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°2003-425 2003-05-09 art. 7
-	  - Code de l'urbanisme R122-3, R122-9
-
-	**Créé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Cite**:
+
+	  - Décret n°2003-425 du 9 mai 2003 - art. 7
+	  - Code de l'environnement - art. R122-2
+	  - Code de l'environnement - art. R122-5
+
+	**Modifié par**:
+
+	  - Décret n°2011-2019 du 29 décembre 2011 - art. 3
 
 
 ###### Article R472-4
@@ -58182,14 +58212,14 @@ pistes de ski alpin.
 
 La demande comporte un plan de situation du projet dans le domaine skiable, la délimitation sur le plan cadastral des travaux
 faisant l'objet de la demande et les références cadastrales des parcelles concernées. Elle indique l'identité des
-propriétaires apparents.
+propriétaires apparents. 
 
 Elle comprend une note descriptive des travaux envisagés indiquant leur nature, les aménagements complémentaires de remise en
-état ou de réhabilitation et leurs délais de réalisation. Cette note est accompagnée d'un plan d'exécution coté.
+état ou de réhabilitation et leurs délais de réalisation. Cette note est accompagnée d'un plan d'exécution coté. 
 
-Elle comporte, selon le cas, l'étude d'impact prévue à l'article R. 122-3 du code de l'environnement ou la notice d'impact
-prévue à l'article R. 122-9 de ce code, qui précise les mesures de remise en état ou de réhabilitation mentionnées à l'alinéa
-précédent.
+Elle comporte l'étude d'impact définie à l'article R. 122-5 du code de l'environnement, lorsque celle-ci est requise en
+application des articles R. 122-2 et R. 122-3 du même code, qui précise les mesures de remise en état ou de réhabilitation
+mentionnées à l'alinéa précédent. 
 
 Lorsque le projet nécessite la coupe ou l'abattage d'arbres soumis à déclaration préalable en application des articles L.
 130-1 et L. 421-4 du présent code ou à l'autorisation de défricher en application des articles L. 311-1 ou L. 312-1 du code
@@ -58199,18 +58229,17 @@ demande.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+	  - Décret n°2011-2019 du 29 décembre 2011 - art. 3
 
 	**Cite**:
 
-	  - Code forestier - art. L311-1 (M)
-	  - Code forestier - art. L312-1 (M)
-	  - Code de l'urbanisme - art. L130-1 (M)
-	  - Code de l'urbanisme - art. L421-4 (M)
-	  - Code de l'environnement - art. R122-3 (V)
-	  - Code de l'environnement - art. R122-9 (M)
+	  - Code forestier - art. L311-1
+	  - Code de l'urbanisme - art. L130-1
+	  - Code de l'urbanisme - art. L421-4
+	  - Code de l'environnement - art. R122-2
+	  - Code de l'environnement - art. R122-5
 
 	**Codifié par**:
 
