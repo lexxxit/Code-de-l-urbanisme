@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2012-06-01
+Version Consolidée au 2012-07-01
 
 # Partie législative
 
@@ -21702,9 +21702,9 @@ demandes de permis de construire.
 
 ###### Article L425-6
 
-Conformément à l'article L. 311-5 du code forestier, lorsque le projet porte sur une opération ou des travaux soumis à
-l'autorisation de défrichement prévue à l'article L. 311-1 du même code, celle-ci doit être obtenue préalablement à la
-délivrance du permis.
+Conformément à l'article L. 341-7 du nouveau code forestier, lorsque le projet porte sur une opération ou des travaux soumis
+à l'autorisation de défrichement prévue aux articles L. 341-1 et L. 341-3 du même code, celle-ci doit être obtenue
+préalablement à la délivrance du permis.
 
 **Nota:**
 
@@ -21712,13 +21712,9 @@ délivrance du permis.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+	  - Ordonnance n°2012-92 du 26 janvier 2012 - art. 5
 
 	**Cité par**:
 
@@ -21728,8 +21724,8 @@ délivrance du permis.
 
 	**Cite**:
 
-	  - Code forestier - art. L311-1 (M)
-	  - Code forestier - art. L311-5 (M)
+	  - Code forestier (nouveau) - art. L341-1 (V)
+	  - Code forestier (nouveau) - art. L341-7 (V)
 
 
 ###### Article L425-7
@@ -50895,8 +50891,8 @@ prévue par l'article L. 122-1 du même code.
 
 ###### Article R*423-29
 
-Lorsque le permis doit être précédé d'une autorisation de défrichement en application des articles L. 311-1 et L. 312-1 du
-code forestier, le délai d'instruction de droit commun prévu par le b et le c de l'article R*423-23 est porté à : 
+Lorsque le permis doit être précédé d'une autorisation de défrichement en application des articles L. 341-1, L. 341-3 et L.
+214-13 du code forestier, le délai d'instruction de droit commun prévu par le b et le c de l'article R*423-23 est porté à : 
 
 a) Sept mois lorsque le défrichement est soumis à reconnaissance de la situation et de l'état des terrains ; 
 
@@ -50908,22 +50904,19 @@ c) Trois mois dans les autres cas.
 
 	**Modifié par**:
 
-	  - Décret n°2012-274 du 28 février 2012 - art. 3
+	  - Décret n°2012-836 du 29 juin 2012 - art. 3 (V)
 
 	**Cite**:
 
-	  - Code forestier - art. L311-1
-	  - Code forestier - art. L312-1
 	  - Code de l'urbanisme - art. R*423-23
+	  - Code forestier (nouveau) - art. L214-13 (M)
+	  - Code forestier (nouveau) - art. L341-1 (V)
+	  - Code forestier (nouveau) - art. L341-3 (V)
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*423-32 (V)
 	  - Code de l'urbanisme - art. R*423-43 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*423-31
@@ -54451,25 +54444,21 @@ dispositifs sont conformes aux dispositions de l'arrêté visé aux 2° et 3° d
 
 ###### Article R*431-19
 
-Lorsque les travaux projetés nécessitent une autorisation de défrichement en application des articles L. 311-1 ou L. 312-1 du
-code forestier, la demande de permis de construire est complétée par la copie de la lettre par laquelle le préfet fait
-connaître au demandeur que son dossier de demande d'autorisation de défrichement est complet, si le défrichement est ou non
-soumis à reconnaissance de la situation et de l'état des terrains et si la demande doit ou non faire l'objet d'une enquête
-publique.
+Lorsque les travaux projetés nécessitent une autorisation de défrichement en application des articles L. 341-1, L. 341-3 ou
+L. 214-13 du code forestier, la demande de permis de construire est complétée par la copie de la lettre par laquelle le
+préfet fait connaître au demandeur que son dossier de demande d'autorisation de défrichement est complet, si le défrichement
+est ou non soumis à reconnaissance de la situation et de l'état des terrains et si la demande doit ou non faire l'objet d'une
+enquête publique.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-274 du 28 février 2012 - art. 4
+	  - Décret n°2012-836 du 29 juin 2012 - art. 3 (V)
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*740-8 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*431-20
