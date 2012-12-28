@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2012-11-11
+Version Consolidée au 2012-12-29
 
 # Partie législative
 
@@ -35668,34 +35668,83 @@ périodes de nuit d'une année. La période de nuit s'étend de 22 heures à 6 h
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R147-1-1
+
+Pour les aérodromes où le nombre annuel de mouvements commerciaux n'excède pas 10 000 dans l'une des trois hypothèses de
+court, moyen ou long terme et caractérisés par une forte variation saisonnière ou hebdomadaire de l'activité aérienne telle
+qu'elle est prise en compte pour l'élaboration du plan d'exposition au bruit, l'indice Lden est déterminé sur un nombre de
+jours compris entre 180 et 365 au regard des périodes de trafic effectif.
+
+Le nombre de jours susmentionné est le nombre annuel estimé de jours au cours desquels, pour chacune des activités
+commerciale, militaire ou générale, l'activité aérienne est significative. L'activité aérienne significative et les
+prévisions de trafic justifiant de l'application du présent article sont explicitées dans le rapport de présentation du plan
+d'exposition au bruit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1470 du 26 décembre 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R112-2 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R147-2 (VT)
+
+
 ###### Article R147-2
 
-La zone de bruit fort A est la zone comprise à l'intérieur de la courbe d'indice Lden 70.
+La zone de bruit fort A est la zone comprise à l'intérieur de la courbe d'indice Lden 70. 
 
 La zone de bruit fort B est la zone comprise entre la courbe d'indice Lden 70 et la courbe d'indice Lden 62. Toutefois, pour
 les aérodromes mis en service avant la publication du décret n° 2002-626 du 26 avril 2002 fixant les conditions
 d'établissement des plans d'exposition au bruit et des plans de gêne sonore des aérodromes et modifiant le code de
 l'urbanisme, la valeur de l'indice servant à la délimitation de la limite extérieure de la zone B est comprise entre 65 et
-62.
+62. 
 
 La zone de bruit modéré C est la zone comprise entre la limite extérieure de la zone B et la courbe correspondant à une
-valeur de l'indice Lden choisie entre 57 et 55.
+valeur de l'indice Lden choisie entre 57 et 55. 
+
+Pour les aérodromes mentionnés à l'article R. 147-1-1, la zone de bruit modéré C est la zone comprise entre la limite
+extérieure de la zone B et la courbe correspondant à une valeur de l'indice Lden choisie entre 57 et 52. 
+
+Pour les aérodromes militaires figurant sur une liste fixée par arrêté du ministre de la défense, les dispositions de
+l'article R. 147-1-1 ne s'appliquent pas. Pour ces aérodromes, la zone de bruit fort B est la zone comprise entre la limite
+extérieure de la zone A et la courbe correspondant à une valeur d'indice Lden choisie entre 68 et 62. La zone de bruit modéré
+C est la zone comprise entre la limite extérieure de la zone B et la courbe correspondant à une valeur de l'indice Lden
+choisie entre 64 et 55. 
 
 La zone D est la zone comprise entre la limite extérieure de la zone C et la courbe d'indice Lden 50.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°2002-626 2002-04-26
-
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
+	**Cite**:
+
+	  - Décret n°2002-626 du 26 avril 2002
+	  - Code de l'urbanisme - art. R147-1-1 (VT)
+
 	**Modifié par**:
 
-	  - Décret n°2002-626 du 26 avril 2002 - art. 1 () JORF 28 avril 2002 en vigueur le 1er novembre 2002
+	  - Décret n°2012-1470 du 26 décembre 2012 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R112-3 (V)
 
 
 #####  Section 2 : Etablissement des plans d'exposition au bruit des aérodromes
