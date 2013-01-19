@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2013-01-01
+Version Consolidée au 2013-01-20
 
 # Partie législative
 
@@ -1187,6 +1187,41 @@ f) Dans les zones visées au 1° du II de l'article L. 562-1 du code de l'enviro
 	  - Code de l'environnement - art. L331-1
 	  - Code de l'environnement - art. L341-2
 	  - Code de l'environnement - art. L562-1
+
+
+###### Article L111-13
+
+Conformément à l'article L. 302-9-1-2 du code de la construction et de l'habitation, dans les communes faisant l'objet d'un
+arrêté au titre de l'article L. 302-9-1 du même code, dans toute opération de construction d'immeubles collectifs de plus de
+douze logements ou de plus de 800 mètres carrés de surface de plancher, au moins 30 % des logements familiaux sont des
+logements locatifs sociaux définis à l'article L. 302-5 dudit code, hors logements financés avec un prêt locatif social. Le
+représentant de l'Etat, sur demande motivée de la commune, peut déroger à cette obligation pour tenir compte de la typologie
+des logements situés à proximité de l'opération.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-61 du 18 janvier 2013 - art. 12
+
+	**Cité par**:
+
+	  - Décret n°2014-253 du 27 février 2014 (V)
+	  - Code de l'urbanisme - art. R*431-16-3 (M)
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L111-24 (VD)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L302-5
+	  - Code de la construction et de l'habitation. - art. L302-9-1
+	  - Code de la construction et de l'habitation. - art. L302-9-1-2
 
 
 #### Chapitre II : Surface hors oeuvre des constructions.
@@ -2747,16 +2782,10 @@ Dans le respect des orientations définies par le projet d'aménagement et de d�
 et d'objectifs détermine les orientations générales de l'organisation de l'espace et les grands équilibres entre les espaces
 urbains et à urbaniser et les espaces ruraux, naturels, agricoles et forestiers. Il définit les conditions d'un développement
 urbain maîtrisé et les principes de restructuration des espaces urbanisés, de revitalisation des centres urbains et ruraux,
-de mise en valeur des entrées de ville, de valorisation des paysages et de prévention des risques.
+de mise en valeur des entrées de ville, de valorisation des paysages et de prévention des risques. 
 
-**Nota:**
-
-Loi 2010-788 du 12 juillet 2010 art. 17 : VIII. ― Le présent article entre en vigueur six mois après la publication de la
-présente loi, le cas échéant après son intégration à droit constant dans une nouvelle rédaction du livre Ier du code de
-l'urbanisme à laquelle il pourra être procédé en application de l'article 25 de la présente loi.
-Toutefois, les dispositions antérieurement applicables continuent de s'appliquer lorsqu'un schéma de cohérence territoriale
-est en cours d'élaboration ou de révision et que le projet de schéma a été arrêté par l'organe délibérant de l'établissement
-public de coopération intercommunale avant la date prévue à l'alinéa précédent.
+Le document d'orientation et d'objectifs assure la cohérence d'ensemble des orientations arrêtées dans ces différents
+domaines.
 
 **Liens relatifs à cet article**
 
@@ -2764,11 +2793,23 @@ public de coopération intercommunale avant la date prévue à l'alinéa précé
 
 	  - Loi n°2010-788 du 12 juillet 2010 - art. 17 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2013-61 du 18 janvier 2013 - art. 22
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. L122-1-5 (VT)
-	  - Code de l'urbanisme - art. L122-14-2 (VD)
+	  - Code de l'urbanisme - art. L122-14-2 (VT)
 	  - Code de l'urbanisme - art. R*122-3 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L141-5 (VD)
 
 
 ###### Article L122-1-5
@@ -5562,11 +5603,12 @@ constructions avoisinantes.
 
 Le plan local d'urbanisme doit, s'il y a lieu, être compatible avec les dispositions du schéma de cohérence territoriale, du
 schéma de secteur, du schéma de mise en valeur de la mer et de la charte du parc naturel régional ou du parc national, ainsi
-que du plan de déplacements urbains et du programme local de l'habitat. Il doit également être compatible avec les
-orientations fondamentales d'une gestion équilibrée de la ressource en eau et les objectifs de qualité et de quantité des
-eaux définis par les schémas directeurs d'aménagement et de gestion des eaux en application de l'article L. 212-1 du code de
-l'environnement ainsi qu'avec les objectifs de protection définis par les schémas d'aménagement et de gestion des eaux en
-application de l'article L. 212-3 du même code. 
+que du plan de déplacements urbains et du programme local de l'habitat. Il n'est pas illégal du seul fait qu'il autorise la
+construction de plus de logements que les obligations minimales du programme local de l'habitat n'en prévoient. Il doit
+également être compatible avec les orientations fondamentales d'une gestion équilibrée de la ressource en eau et les
+objectifs de qualité et de quantité des eaux définis par les schémas directeurs d'aménagement et de gestion des eaux en
+application de l'article L. 212-1 du code de l'environnement ainsi qu'avec les objectifs de protection définis par les
+schémas d'aménagement et de gestion des eaux en application de l'article L. 212-3 du même code. 
 
 Lorsqu'un de ces documents est approuvé après l'approbation d'un plan local d'urbanisme, ce dernier doit, si nécessaire, être
 rendu compatible dans un délai de trois ans. Ce délai est ramené à un an pour permettre la réalisation d'un ou plusieurs
@@ -5578,9 +5620,9 @@ climat-énergie territoriaux.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+	  - Loi n°2013-61 du 18 janvier 2013 - art. 23
 
 	**Cité par**:
 
@@ -5592,8 +5634,8 @@ climat-énergie territoriaux.
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L212-1 (V)
-	  - Code de l'environnement - art. L212-3 (V)
+	  - Code de l'environnement - art. L212-1
+	  - Code de l'environnement - art. L212-3
 
 
 ###### Article L123-1-10
@@ -11908,11 +11950,13 @@ Pendant la durée d'application d'un arrêté préfectoral pris sur le fondement
 construction et de l'habitation, le droit de préemption est exercé par le représentant de l'Etat dans le département lorsque
 l'aliénation porte sur un terrain, bâti ou non bâti, affecté au logement ou destiné à être affecté à une opération ayant fait
 l'objet de la convention prévue à l'article L. 302-9-1 précité. Le représentant de l'Etat peut déléguer ce droit à un
-établissement public foncier créé en application de l'article L. 321-1 du présent code, à une société d'économie mixte ou à
-un des organismes d'habitations à loyer modéré prévus par l'article L. 411-2 du code de la construction et de l'habitation.
-Les biens acquis par exercice du droit de préemption en application du présent alinéa doivent être utilisés en vue de la
-réalisation d'opérations d'aménagement ou de construction permettant la réalisation des objectifs fixés dans le programme
-local de l'habitat ou déterminés en application du premier alinéa de l'article L. 302-8 du même code (1). 
+établissement public de coopération intercommunale à fiscalité propre ayant conclu une convention mentionnée au deuxième
+alinéa de l'article L. 301-5-1 du même code, à un établissement public foncier créé en application des articles L. 321-1 ou
+L. 324-1 du présent code, à une société d'économie mixte ou à un des organismes d'habitations à loyer modéré prévus par
+l'article L. 411-2 du code de la construction et de l'habitation. Les biens acquis par exercice du droit de préemption en
+application du présent alinéa doivent être utilisés en vue de la réalisation d'opérations d'aménagement ou de construction
+permettant la réalisation des objectifs fixés dans le programme local de l'habitat ou déterminés en application du premier
+alinéa de l'article L. 302-8 du même code.
 
 Toute décision de préemption doit mentionner l'objet pour lequel ce droit est exercé. Toutefois, lorsque le droit de
 préemption est exercé à des fins de réserves foncières dans la cadre d'une zone d'aménagement différé, la décision peut se
@@ -11929,7 +11973,7 @@ dans lesquels elle décide d'intervenir pour les aménager et améliorer leur qu
 
 	**Modifié par**:
 
-	  - Loi n°2009-323 du 25 mars 2009 - art. 39
+	  - Loi n°2013-61 du 18 janvier 2013 - art. 20
 
 	**Cité par**:
 
@@ -11946,11 +11990,12 @@ dans lesquels elle décide d'intervenir pour les aménager et améliorer leur qu
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L300-1 (V)
-	  - Code de l'urbanisme - art. L321-1 (V)
-	  - Code de la construction et de l'habitation. - art. L302-8 (V)
-	  - Code de la construction et de l'habitation. - art. L302-9-1 (V)
-	  - Code de la construction et de l'habitation. - art. L411-2 (V)
+	  - Code de l'urbanisme - art. L300-1
+	  - Code de l'urbanisme - art. L321-1
+	  - Code de la construction et de l'habitation. - art. L301-5-1
+	  - Code de la construction et de l'habitation. - art. L302-8
+	  - Code de la construction et de l'habitation. - art. L302-9-1
+	  - Code de la construction et de l'habitation. - art. L411-2
 
 
 ###### Article L210-2
@@ -13926,15 +13971,16 @@ l'établissement public de coopération intercommunale compétent leur intention
 en indiquent le prix de vente tel qu'il est estimé par le directeur départemental des finances publiques. La commune ou
 l'établissement public de coopération intercommunale compétent peut, dans un délai de deux mois à compter de cette
 notification, décider d'acquérir les biens et droits immobiliers au prix déclaré ou proposer de les acquérir à un prix
-inférieur en application des dispositions de l'article L. 3211-7 du code général de la propriété des personnes publiques. A
+inférieur en application des articles L. 3211-7 et L. 3211-13-1 du code général de la propriété des personnes publiques. A
 défaut d'accord sur le prix, la commune ou l'établissement public de coopération intercommunale peut, dans le même délai ou
-dans un délai de quinze jours à compter de la notification de la réponse de l'Etat à sa demande d'une diminution du prix de
-vente, saisir le juge de l'expropriation en vue de fixer le prix de l'immeuble et en informe le vendeur. Le prix est fixé
-comme en matière d'expropriation ; il est exclusif de toute indemnité accessoire et notamment de l'indemnité de réemploi. La
-commune ou l'établissement public de coopération intercommunale dispose d'un délai de deux mois à compter de la décision
-juridictionnelle devenue définitive pour décider d'acquérir les biens et droits immobiliers au prix fixé par le juge. A moins
-que le bien ne soit retiré de la vente, la commune ou l'établissement public en règle le prix six mois au plus tard après sa
-décision d'acquérir. 
+dans un délai de quinze jours à compter de la notification de la réponse de l'Etat ou des sociétés et des établissements
+publics visés simultanément aux articles L. 240-1 du présent code et L. 3211-13-1 du code général de la propriété des
+personnes publiques à sa demande d'une diminution du prix de vente, saisir le juge de l'expropriation en vue de fixer le prix
+de l'immeuble et en informe le vendeur. Le prix est fixé comme en matière d'expropriation ; il est exclusif de toute
+indemnité accessoire et notamment de l'indemnité de réemploi. La commune ou l'établissement public de coopération
+intercommunale dispose d'un délai de deux mois à compter de la décision juridictionnelle devenue définitive pour décider
+d'acquérir les biens et droits immobiliers au prix fixé par le juge. A moins que le bien ne soit retiré de la vente, la
+commune ou l'établissement public en règle le prix six mois au plus tard après sa décision d'acquérir. 
 
 En cas de refus d'acquérir au prix estimé par le directeur départemental des finances publiques, d'absence de saisine du juge
 de l'expropriation, de refus d'acquérir au prix fixé par lui ou à défaut de réponse dans le délai de deux mois mentionné dans
@@ -13953,12 +13999,13 @@ l'établissement public de coopération intercommunale recouvre son droit de pri
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 121
+	  - Loi n°2013-61 du 18 janvier 2013 - art. 6
 
 	**Cite**:
 
+	  - Code général de la propriété des personnes publiques. - art. L3211-13-1
 	  - Code général de la propriété des personnes publiques. - art. L3211-7
-	  - Code de l'urbanisme - art. L240-1 (V)
+	  - Code de l'urbanisme - art. L240-1
 
 	**Cité par**:
 
@@ -47734,8 +47781,6 @@ l'urbanisme.
 
 	  - Décret n°73-1023 1973-11-08
 
-
-### Titre IV : Départements d'outre-mer
 
 ### Titre IV : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique, La Réunion et Mayotte
 
