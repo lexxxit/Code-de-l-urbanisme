@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2013-01-20
+Version Consolidée au 2013-02-01
 
 # Partie législative
 
@@ -27777,27 +27777,33 @@ l'article L. 122-4 du code de l'environnement avec lesquels elle doit être comp
 considération ; 
 
 2° Analyse l'état initial de l'environnement et les perspectives de son évolution en exposant, notamment, les
-caractéristiques des zones susceptibles d'être touchées de manière notable par la mise en œuvre de la directive ; 
+caractéristiques des zones susceptibles d'être touchées de manière notable par la mise en oeuvre de la directive ; 
 
 3° Analyse les incidences notables prévisibles de la mise en œuvre de la directive sur l'environnement et expose les
-problèmes posés par son adoption sur la protection des zones revêtant une importance particulière pour l'environnement telles
-que celles désignées conformément aux articles R. 214-18 à R. 214-22 du code de l'environnement (1), ainsi qu'à l'article 2
-du décret n° 2001-1031 du 8 novembre 2001 relatif à la procédure de désignation des sites Natura 2000 ; 
+problèmes posés par son adoption sur la protection des zones revêtant une importance particulière pour l'environnement, en
+particulier l'évaluation des incidences Natura 2000 mentionnée à l'article L. 414-4 du code de l'environnement ; 
 
 4° Expose les motifs pour lesquels la directive a été adoptée au regard notamment des objectifs de protection de
 l'environnement établis au niveau international, communautaire ou national et, s'il y a lieu, les raisons qui justifient le
-choix opéré au regard des autres solutions envisagées ; 
+choix opéré au regard des solutions de substitution raisonnables tenant compte des objectifs et du champ d'application
+géographique de la directive ; 
 
 5° Présente les mesures envisagées pour éviter, réduire et, si possible, compenser, s'il y a lieu, les conséquences
-dommageables de la mise en œuvre de la directive territoriale d'aménagement sur l'environnement et précise que la directive
-fera l'objet d'une analyse des résultats de son application au plus tard à l'expiration d'un délai de dix ans à compter de
-son approbation ; 
+dommageables de la mise en œuvre de la directive territoriale d'aménagement sur l'environnement ; 
 
-6° Comprend un résumé non technique des éléments précédents et une description de la manière dont l'évaluation a été
+6° Précise que la directive fera l'objet d'une analyse des résultats de son application au plus tard à l'expiration d'un
+délai de dix ans à compter de son approbation. Il définit des critères, indicateurs et modalités qui devront être retenus
+pour suivre les effets de la directive sur l'environnement afin d'identifier, le cas échéant, à un stade précoce, les impacts
+négatifs imprévus et envisager, si nécessaire, les mesures appropriées ; 
+
+7° Comprend un résumé non technique des éléments précédents et une description de la manière dont l'évaluation a été
 effectuée. 
 
+En cas de modification de la directive territoriale d'aménagement, le rapport de présentation est complété, le cas échéant,
+par l'exposé des motifs des changements apportés. 
+
 Le rapport de présentation peut se référer aux renseignements relatifs à l'environnement figurant dans d'autres études, plans
-et documents.
+ou documents.
 
 **Nota:**
 
@@ -27805,21 +27811,46 @@ et documents.
 s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les Terres australes et antarctiques
 françaises et à Mayotte. Se reporter désormais aux articles R. 411-1 à R. 423-20 du même code.
 
+Décret n° 2012-995 du 23 août 2012 JORF du 25 août 2012, art. 11 : Les dispositions du présent décret entrent en vigueur le
+1er février 2013.
+
+Toutefois, pour les procédures qui sont soumises à évaluation environnementale du fait des dispositions nouvelles des
+articles R. 121-14 et R. 121-16 du code de l'urbanisme, elles s'appliqueront :
+
+1° A la déclaration de projet emportant la mise en compatibilité du schéma directeur de la région d'Ile-de-France, d'un
+schéma de cohérence territoriale ou d'un plan local d'urbanisme et procédant, le cas échéant, aux adaptations nécessaires
+d'un règlement ou d'une servitude mentionné au deuxième alinéa de l'article L. 300-6 du code de l'urbanisme, lorsque la
+réunion conjointe des personnes publiques associées n'a pas encore eu lieu à la date d'entrée en vigueur du présent décret ;
+
+2° A l'élaboration ou à la révision d'un plan local d'urbanisme, lorsque le débat portant sur le projet d'aménagement et de
+développement durables n'a pas encore eu lieu à la date d'entrée en vigueur du présent décret ;
+
+3° A l'élaboration ou à la révision d'une carte communale, lorsque l'enquête publique n'a pas encore eu lieu à la date
+d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2012-995 du 23 août 2012 - art. 9
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R172-1 (V)
+	  - Code de l'urbanisme - art. R172-2 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L122-4
+	  - Code de l'environnement - art. L414-4
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Cite**:
-
-	  - Décret n°2001-1031 du 8 novembre 2001 - art. 2 (V)
-	  - Code de l'environnement - art. L122-4 (V)
-	  - Code de l'environnement - art. R214-18 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 1 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
 ###### Article R*111-29
@@ -29418,46 +29449,78 @@ concernées.
 
 ###### Article R*121-14
 
-I.-Font l'objet d'une évaluation environnementale dans les conditions prévues par la présente section : 
+I. ― Font l'objet d'une évaluation environnementale, dans les conditions prévues par la présente section, les documents
+d'urbanisme suivants, à l'occasion de leur élaboration : 
 
-1° Les directives territoriales d'aménagement ; 
+1° Les directives territoriales d'aménagement et de développement durables ; 
 
 2° Le schéma directeur de la région d'Ile-de-France ; 
 
-3° Les schémas d'aménagement régionaux des régions d'outre-mer ; 
+3° Les schémas d'aménagement régionaux des régions d'outre-mer prévus à l'article L. 4433-7 du code général des collectivités
+territoriales ; 
 
-4° Le plan d'aménagement et de développement durable de Corse ; 
+4° Le plan d'aménagement et de développement durable de Corse prévu à l'article L. 4424-9 du code général des collectivités
+territoriales ; 
 
-5° Les schémas de cohérence territoriale ; 
+5° Les schémas de cohérence territoriale, les schémas de secteur et les plans locaux d'urbanisme intercommunaux comprenant
+les dispositions d'un schéma de cohérence territoriale dans les conditions prévues à l'article L. 123-1-7 ; 
 
-6° Le plan d'aménagement et de développement durable de Mayotte. 
+6° Les plans locaux d'urbanisme intercommunaux qui tiennent lieu de plans de déplacements urbains mentionnés à l'article L.
+1214-1 du code des transports ; 
 
-II.-Font également l'objet d'une évaluation environnementale : 
+7° Les prescriptions particulières de massif prévues à l'article L. 145-7 ; 
 
-1° Les plans locaux d'urbanisme qui permettent la réalisation de travaux, ouvrages ou aménagements mentionnés à l'article L.
-414-4 du code de l'environnement ; 
+8° Les schémas d'aménagement prévus à l'article L. 146-6-1 ; 
 
-2° Lorsque les territoires concernés ne sont pas couverts par un schéma de cohérence territoriale ayant fait l'objet d'une
-évaluation environnementale dans les conditions de la présente section : 
+9° Les cartes communales dont le territoire comprend en tout ou partie un site Natura 2000. 
 
-a) Les plans locaux d'urbanisme relatifs à un territoire d'une superficie supérieure ou égale à 5 000 hectares et comprenant
-une population supérieure ou égale à 10 000 habitants ; 
+II. ― Font également l'objet d'une évaluation environnementale les documents d'urbanisme suivants, à l'occasion de leur
+élaboration : 
 
-b) Les plans locaux d'urbanisme qui prévoient la création, dans des secteurs agricoles ou naturels, de zones U ou AU d'une
-superficie totale supérieure à 200 hectares ; 
+1° Les plans locaux d'urbanisme dont le territoire comprend en tout ou partie un site Natura 2000 ; 
 
-c) Les plans locaux d'urbanisme des communes situées en zone de montagne qui prévoient la réalisation d'unités touristiques
-nouvelles soumises à l'autorisation du préfet coordonnateur de massif ; 
+2° Les plans locaux d'urbanisme couvrant le territoire d'au moins une commune littorale au sens de l'article L. 321-2 du code
+de l'environnement ; 
 
-d) Les plans locaux d'urbanisme des communes littorales au sens de l'article L. 321-2 du code de l'environnement qui
-prévoient la création, dans des secteurs agricoles ou naturels, de zones U ou AU d'une superficie totale supérieure à 50
-hectares.
+3° Les plans locaux d'urbanisme situés en zone de montagne qui prévoient la réalisation d'une unité touristique nouvelle
+soumise à autorisation en application de l'article L. 145-11. 
+
+III. ― Font l'objet d'une évaluation environnementale, après un examen au cas par cas défini à l'article R. 121-14-1, à
+l'occasion de leur élaboration : 
+
+1° Les plans locaux d'urbanisme ne relevant ni du I ni du II du présent article, s'il est établi qu'ils sont susceptibles
+d'avoir des incidences notables sur l'environnement au sens de l'annexe II de la directive 2001/42/ CE du 27 juin 2001 du
+Parlement européen et du Conseil relative à l'évaluation des incidences de certains plans et programmes sur
+l'environnement ; 
+
+2° Les cartes communales de communes limitrophes d'une commune dont le territoire comprend en tout ou partie un site Natura
+2000, s'il est établi qu'elles sont susceptibles d'affecter de manière significative un site Natura 2000, individuellement ou
+en raison de leurs effets cumulés.
+
+**Nota:**
+
+Décret n° 2012-995 du 23 août 2012 JORF du 25 août 2012, art. 11 : Les dispositions du présent décret entrent en vigueur le
+1er février 2013.
+
+Toutefois, pour les procédures qui sont soumises à évaluation environnementale du fait des dispositions nouvelles des
+articles R. 121-14 et R. 121-16 du code de l'urbanisme, elles s'appliqueront :
+
+1° A la déclaration de projet emportant la mise en compatibilité du schéma directeur de la région d'Ile-de-France, d'un
+schéma de cohérence territoriale ou d'un plan local d'urbanisme et procédant, le cas échéant, aux adaptations nécessaires
+d'un règlement ou d'une servitude mentionné au deuxième alinéa de l'article L. 300-6 du code de l'urbanisme, lorsque la
+réunion conjointe des personnes publiques associées n'a pas encore eu lieu à la date d'entrée en vigueur du présent décret ;
+
+2° A l'élaboration ou à la révision d'un plan local d'urbanisme, lorsque le débat portant sur le projet d'aménagement et de
+développement durables n'a pas encore eu lieu à la date d'entrée en vigueur du présent décret ;
+
+3° A l'élaboration ou à la révision d'une carte communale, lorsque l'enquête publique n'a pas encore eu lieu à la date
+d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-1178 du 6 octobre 2010 - art. 2
+	  - Décret n°2012-995 du 23 août 2012 - art. 1
 
 	**Cité par**:
 
@@ -29465,35 +29528,206 @@ hectares.
 	  - Code de l'urbanisme - art. R*121-15 (VT)
 	  - Code de l'urbanisme - art. R*121-16 (VT)
 	  - Code de l'urbanisme - art. R*121-17 (VT)
+	  - Code de l'urbanisme - art. R*121-18 (VT)
 	  - Code de l'urbanisme - art. R*157-3 (VT)
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 	**Cite**:
 
+	  - Code général des collectivités territoriales - art. L4424-9
+	  - Code général des collectivités territoriales - art. L4433-7
+	  - Code de l'urbanisme - art. L123-1-7
+	  - Code de l'urbanisme - art. L145-11
+	  - Code de l'urbanisme - art. L145-7
+	  - Code de l'urbanisme - art. L146-6-1
+	  - Code de l'urbanisme - art. R*121-14-1
 	  - Code de l'environnement - art. L321-2
-	  - Code de l'environnement - art. L414-4
+	  - Code des transports - art. L1214-1
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R104-1 (V)
+	  - Code de l'urbanisme - art. R104-10 (V)
+	  - Code de l'urbanisme - art. R104-12 (M)
+	  - Code de l'urbanisme - art. R104-13 (V)
+	  - Code de l'urbanisme - art. R104-14 (V)
+	  - Code de l'urbanisme - art. R104-15 (V)
+	  - Code de l'urbanisme - art. R104-17 (V)
+	  - Code de l'urbanisme - art. R104-3 (V)
+	  - Code de l'urbanisme - art. R104-4 (V)
+	  - Code de l'urbanisme - art. R104-5 (V)
+	  - Code de l'urbanisme - art. R104-6 (V)
+	  - Code de l'urbanisme - art. R104-7 (V)
+	  - Code de l'urbanisme - art. R104-9 (V)
+
+
+###### Article R*121-14-1
+
+I.-L'autorité administrative de l'Etat compétente en matière d'environnement visée à l'article R. 121-15 décide, au regard
+des informations fournies par la personne publique responsable en application du II du présent article et des critères de
+l'annexe II de la directive 2001/42/ CE du Parlement européen et du Conseil du 27 juin 2001 relative à l'évaluation des
+incidences de certains plans et programmes sur l'environnement, de soumettre ou non à une évaluation environnementale
+l'élaboration ou la procédure d'évolution affectant un plan local d'urbanisme ou une carte communale relevant de la procédure
+d'examen au cas par cas. 
+
+II.-L'autorité administrative de l'Etat compétente en matière d'environnement est saisie : 
+
+1° Après le débat relatif aux orientations du projet d'aménagement et de développement durables pour l'élaboration ou pour la
+révision d'un plan local d'urbanisme portant atteinte aux orientations du projet d'aménagement et de développement
+durables ; 
+
+2° A un stade précoce et avant l'enquête publique pour l'élaboration ou la révision d'une carte communale ; 
+
+3° A un stade précoce et avant la réunion conjointe des personnes publiques associées dans les autres cas. 
+
+La personne publique responsable transmet à l'autorité administrative de l'Etat compétente en matière d'environnement les
+informations suivantes :
+
+- une description des caractéristiques principales du document ;
+
+- une description des caractéristiques principales, de la valeur et de la vulnérabilité de la zone susceptible d'être touchée
+par la mise en œuvre du document ;
+
+- une description des principales incidences sur l'environnement et la santé humaine de la mise en œuvre du document. 
+
+III.-Dès réception de ces informations, l'autorité administrative de l'Etat compétente en matière d'environnement en accuse
+réception, en indiquant la date à laquelle est susceptible de naître la décision implicite mentionnée au IV du présent
+article et consulte sans délai les autorités mentionnées au III de l'article R. 121-15. Cette consultation est réputée
+réalisée en l'absence de réponse de l'autorité consultée dans un délai d'un mois à compter de sa saisine par l'autorité
+administrative de l'Etat compétente en matière d'environnement. En cas d'urgence, l'autorité administrative de l'Etat
+compétente en matière d'environnement peut réduire ce délai sans que celui-ci puisse être inférieur à dix jours ouvrés. 
+
+IV.-L'autorité administrative de l'Etat compétente en matière d'environnement dispose d'un délai de deux mois à compter de la
+réception des informations mentionnées au II pour notifier à la personne publique responsable, la décision de soumettre ou
+non à une évaluation environnementale la procédure d'élaboration ou d'évolution affectant le plan local d'urbanisme ou la
+carte communale. Cette décision est motivée. L'absence de décision au terme de ce délai vaut obligation de réaliser une
+évaluation environnementale. 
+
+V.-La décision de l'autorité administrative de l'Etat compétente en matière d'environnement est publiée sur son site
+internet. Elle est jointe, le cas échéant, au dossier d'enquête publique.
+
+**Nota:**
+
+Décret n° 2012-995 du 23 août 2012 JORF du 25 août 2012, art. 11 : Les dispositions du présent décret entrent en vigueur le
+1er février 2013.
+
+Toutefois, pour les procédures qui sont soumises à évaluation environnementale du fait des dispositions nouvelles des
+articles R. 121-14 et R. 121-16 du code de l'urbanisme, elles s'appliqueront :
+
+1° A la déclaration de projet emportant la mise en compatibilité du schéma directeur de la région d'Ile-de-France, d'un
+schéma de cohérence territoriale ou d'un plan local d'urbanisme et procédant, le cas échéant, aux adaptations nécessaires
+d'un règlement ou d'une servitude mentionné au deuxième alinéa de l'article L. 300-6 du code de l'urbanisme, lorsque la
+réunion conjointe des personnes publiques associées n'a pas encore eu lieu à la date d'entrée en vigueur du présent décret ;
+
+2° A l'élaboration ou à la révision d'un plan local d'urbanisme, lorsque le débat portant sur le projet d'aménagement et de
+développement durables n'a pas encore eu lieu à la date d'entrée en vigueur du présent décret ;
+
+3° A l'élaboration ou à la révision d'une carte communale, lorsque l'enquête publique n'a pas encore eu lieu à la date
+d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-995 du 23 août 2012 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*121-14 (VT)
+	  - Code de l'urbanisme - art. R*121-15 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R104-28 (M)
+	  - Code de l'urbanisme - art. R104-29 (M)
+	  - Code de l'urbanisme - art. R104-30 (M)
+	  - Code de l'urbanisme - art. R104-31 (M)
+	  - Code de l'urbanisme - art. R104-32 (M)
+	  - Code de l'urbanisme - art. R104-33 (M)
 
 
 ###### Article R*121-15
 
-La formation d'autorité environnementale du Conseil général de l'environnement et du développement durable, pour les
-documents mentionnés aux 1° à 3°  et au 6° du I de l'article R. 121-14, le préfet de Corse, pour le document mentionné au 4°
-du même I et le préfet de département, pour les schémas de cohérence territoriale et les plans locaux d'urbanisme mentionnés
-au II du même article, sont consultés sur l'évaluation environnementale contenue dans le rapport de présentation et sur la
-prise en compte de l'environnement par le projet de document d'urbanisme, trois mois au plus tard avant l'ouverture de
-l'enquête publique ou de la consultation du public prévue par des textes particuliers.L'avis est réputé favorable s'il
-n'intervient pas dans un délai de trois mois. Il est, s'il y a lieu, joint au dossier d'enquête publique ou mis à la
-disposition du public.
+I. ― L'autorité administrative de l'Etat compétente en matière d'environnement est : 
 
-Dès réception des documents qui lui sont soumis, l'autorité environnementale consulte le ministre chargé de la santé pour les
-documents mentionnés aux 1° à 3° du I de l'article R. 121-14 ou le directeur général de l'agence régionale de santé pour les
-autres documents. Cette consultation est réputée réalisée en l'absence de réponse du directeur général de cette agence dans
-le délai d'un mois à compter de la réception par l'agence de la demande de l'autorité environnementale. En cas d'urgence,
-cette autorité peut réduire ce délai sans que celui-ci puisse être inférieur à dix jours ouvrés.  
+1° La formation d'autorité environnementale du Conseil général de l'environnement et du développement durable, pour les
+documents mentionnés aux 1° à 3° et aux 7° et 8° du I de l'article R. 121-14 ; 
+
+2° Le préfet de Corse, pour le document mentionné au 4° du même I ; 
+
+3° Le préfet de département, pour les schémas de cohérence territoriale et les plans locaux d'urbanisme ; 
+
+4° Le préfet de région pour les cartes communales. 
+
+L'autorité administrative de l'Etat compétente en matière d'environnement prévue aux alinéas précédents est également
+compétente pour les procédures d'évolution affectant ces documents. Toutefois, lorsqu'une déclaration de projet adoptée par
+l'Etat procède, dans le cadre de la mise en compatibilité d'un plan local d'urbanisme ou d'un schéma de cohérence
+territoriale, aux adaptations nécessaires d'un règlement ou d'une servitude mentionné au deuxième alinéa de l'article L.
+300-6, l'autorité administrative de l'Etat compétente en matière d'environnement est celle qui est consultée sur l'évaluation
+environnementale de ce règlement ou de cette servitude. 
+
+Dans les cas où, en application de l'alinéa précédent, l'autorité administrative de l'Etat compétente en matière
+d'environnement est également l'autorité compétente pour l'adoption de la déclaration de projet concernée, l'autorité
+administrative de l'Etat compétente en matière d'environnement est le préfet de région si le préfet de département est
+l'auteur de la déclaration de projet ou la formation d'autorité environnementale du Conseil général de l'environnement et du
+développement durable si le préfet de région est l'auteur de la déclaration de projet. 
+
+II. ― L'autorité administrative de l'Etat compétente en matière d'environnement est saisie par la personne publique
+responsable. Elle décide, en application de l'article R. 121-14-1, des cas dans lesquels l'élaboration et l'évolution du
+document est soumise à évaluation environnementale. Elle est consultée, selon la procédure fixée par les dispositions du III
+et du IV du présent article, sur l'évaluation environnementale et sur la prise en compte de l'environnement par le projet de
+document d'urbanisme. 
+
+III. ― Dès réception des documents qui lui sont soumis, l'autorité administrative de l'Etat compétente en matière
+d'environnement consulte le ministre chargé de la santé pour les documents mentionnés aux 1° à 3° du I de l'article R. 121-14
+ou le directeur général de l'agence régionale de santé pour les autres documents. Cette consultation est réputée réalisée en
+l'absence de réponse du directeur général de cette agence dans le délai d'un mois à compter de la réception par l'agence de
+la demande de l'autorité administrative de l'Etat compétente en matière d'environnement. En cas d'urgence, cette autorité
+peut réduire ce délai sans que celui-ci puisse être inférieur à dix jours ouvrés. 
 
 Avant de rendre son avis, le préfet de Corse consulte le conseil des sites de Corse. 
 
-Lorsque le préfet est consulté, l'avis est préparé, sous son autorité, par le service régional de l'environnement concerné en
-liaison avec les services de l'Etat compétents.
+IV. ― L'autorité administrative de l'Etat compétente en matière d'environnement formule un avis sur l'évaluation
+environnementale et le projet de document dans les trois mois suivant la date de sa saisine. L'avis est, dès sa signature,
+mis en ligne sur son site internet et transmis à la personne publique responsable. Il est, s'il y a lieu, joint au dossier
+d'enquête publique ou mis à la disposition du public. 
+
+A défaut de s'être prononcée dans le délai indiqué à l'alinéa précédent, l'autorité administrative de l'Etat compétente en
+matière d'environnement est réputée n'avoir aucune observation à formuler. Une information sur cette absence d'avis figure
+sur son site internet.
+
+**Nota:**
+
+Décret n° 2012-995 du 23 août 2012 JORF du 25 août 2012, art. 11 : Les dispositions du présent décret entrent en vigueur le
+1er février 2013.
+
+Toutefois, pour les procédures qui sont soumises à évaluation environnementale du fait des dispositions nouvelles des
+articles R. 121-14 et R. 121-16 du code de l'urbanisme, elles s'appliqueront :
+
+1° A la déclaration de projet emportant la mise en compatibilité du schéma directeur de la région d'Ile-de-France, d'un
+schéma de cohérence territoriale ou d'un plan local d'urbanisme et procédant, le cas échéant, aux adaptations nécessaires
+d'un règlement ou d'une servitude mentionné au deuxième alinéa de l'article L. 300-6 du code de l'urbanisme, lorsque la
+réunion conjointe des personnes publiques associées n'a pas encore eu lieu à la date d'entrée en vigueur du présent décret ;
+
+2° A l'élaboration ou à la révision d'un plan local d'urbanisme, lorsque le débat portant sur le projet d'aménagement et de
+développement durables n'a pas encore eu lieu à la date d'entrée en vigueur du présent décret ;
+
+3° A l'élaboration ou à la révision d'une carte communale, lorsque l'enquête publique n'a pas encore eu lieu à la date
+d'entrée en vigueur du présent décret.
+
+Par décision n° 365876 (ECLI:FR:CESSR:2015:365876.20150617) du 26 juin 2015 , article 1 : L'article 3 du décret n° 2012-995
+du 23 août 2012 relatif à l'évaluation environnementale des documents d'urbanisme (NOR: ETLL1207168D), portant remplacement
+de l'article R* 121-15 du code de l'urbanisme, est annulé en tant qu'il désigne l'autorité administrative de l'État
+compétente en matière d'environnement pour l'élaboration du chapitre individualisé du schéma de cohérence territoriale valant
+schéma de mise en valeur de la mer et la mise en compatibilité d'office par le préfet du plan local d'urbanisme ou du schéma
+de cohérence territoriale avec des documents supérieurs.
 
 **Liens relatifs à cet article**
 
@@ -29501,51 +29735,129 @@ liaison avec les services de l'Etat compétents.
 
 	  - Décret n°2008-679 du 9 juillet 2008 - art. 1 (V)
 	  - Décret n°2009-496 du 30 avril 2009 - art. 6 (V)
-	  - Code de l'urbanisme - art. R*121-14-1 (VT)
 
 	**Modifié par**:
 
-	  - Décret n°2010-1178 du 6 octobre 2010 - art. 2
+	  - Décret n°2012-995 du 23 août 2012 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. R*121-14
+	  - Code de l'urbanisme - art. R*121-14-1 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R104-21 (M)
+	  - Code de l'urbanisme - art. R104-22 (M)
+	  - Code de l'urbanisme - art. R104-23 (M)
+	  - Code de l'urbanisme - art. R104-24 (M)
+	  - Code de l'urbanisme - art. R104-25 (M)
+	  - Code de l'urbanisme - art. R104-28 (M)
 
 
 ###### Article R*121-16
 
-Sont dispensées de l'évaluation environnementale, à condition qu'elles n'aient pas pour objet d'autoriser la réalisation de
-travaux, ouvrages ou aménagements mentionnés à l'article L. 414-4 du code de l'environnement : 
+Une évaluation environnementale est réalisée à l'occasion des procédures d'évolution suivantes : 
 
-1° Les modifications et révisions des documents d'urbanisme mentionnés aux 1° à 4° de l'article R. 121-14 qui ne portent pas
-atteinte à l'économie générale du document ; 
+1° Les procédures d'évolution des documents d'urbanisme mentionnés à l'article R. 121-14 qui permettent la réalisation de
+travaux, aménagements, ouvrages ou installations susceptibles d'affecter de manière significative un site Natura 2000 ; 
 
-2° Les modifications et les mises en compatibilité des schémas de cohérence territoriale prévues au deuxième alinéa de
-l'article L. 122-13 et à l'article L. 122-15 ; 
+2° Les modifications, révisions et déclarations de projet relatives aux documents d'urbanisme mentionnés au 1° de l'article
+L. 121-10 et aux 2° à 4° du I de l'article R. 121-14 qui portent atteinte à l'économie générale du document ainsi que, pour
+les modifications, révisions et déclarations de projet relatives aux documents d'urbanisme mentionnés au 1° de l'article L.
+121-10 et au 2° du I de l'article R. 121-14, celles dont il est établi après examen au cas par cas qu'elles sont susceptibles
+d'avoir des incidences notables sur l'environnement au sens de l'annexe II de la directive 2001/42/ CE du 27 juin 2001 du
+Parlement européen et du Conseil relative à l'évaluation des incidences de certains plans et programmes sur
+l'environnement ; 
 
-3° Les modifications des plans locaux d'urbanisme ainsi que les révisions simplifiées prévues aux deuxième et neuvième
-alinéas de l'article L. 123-13 et les mises en compatibilité prévues à l'article L. 123-16, à l'exception : 
+3° En ce qui concerne les schémas de cohérence territoriale : 
 
-a) Des modifications ou révisions simplifiées concernant des opérations ou travaux mentionnés au c du 2° du II de l'article
-R. 121-14 ; 
+a) Les révisions ; 
 
-b) Des révisions simplifiées créant, dans des secteurs agricoles ou naturels, des zones U ou AU d'une superficie supérieure à
-celles qui sont mentionnées au b et d du 2° du II de l'article R. 121-14.
+b) Les déclarations de projet lorsqu'elles portent atteinte aux orientations définies par le projet d'aménagement et de
+développement durables du schéma ou changent les dispositions du document d'orientation et d'objectifs prises en application
+du II de l'article L. 122-1-5 ; 
+
+4° En ce qui concerne les plans locaux d'urbanisme : 
+
+a) Pour les plans locaux d'urbanisme mentionnés aux 5° et 6° du I et aux 1° et 2° du II, d'une part, les révisions et,
+d'autre part, les déclarations de projet qui soit changent les orientations définies par le projet d'aménagement et de
+développement durables, soit réduisent un espace boisé classé, une zone agricole ou une zone naturelle et forestière, soit
+réduisent une protection édictée en raison des risques de nuisance, de la qualité des sites, des paysages ou des milieux
+naturels, ou d'une évolution de nature à induire de graves risques de nuisance ; 
+
+b) Les révisions et modifications d'un plan local d'urbanisme autorisant des opérations ou travaux mentionnés au 3° du II de
+l'article R. 121-14 ; 
+
+c) Les révisions et les déclarations de projet des plans locaux d'urbanisme mentionnés au III de l'article R. 121-14, s'il
+est établi après examen au cas par cas, qu'elles sont susceptibles d'avoir des incidences notables sur l'environnement au
+sens de l'annexe II de la directive 2001/42/ CE du 27 juin 2001 du Parlement européen et du Conseil relative à l'évaluation
+des incidences de certains plans et programmes sur l'environnement ; 
+
+5° En ce qui concerne les cartes communales : 
+
+a) Les révisions de celles des communes dont le territoire comprend en tout ou partie un site Natura 2000 ; 
+
+b) Les révisions de celles des communes limitrophes d'une commune dont le territoire comprend en tout ou partie un site
+Natura 2000, s'il est établi, après examen au cas par cas, qu'elles sont susceptibles d'affecter de manière significative un
+site Natura 2000, individuellement ou en raison de leurs effets cumulés. 
+
+L'évaluation environnementale prend la forme soit d'une nouvelle évaluation environnementale, soit d'une actualisation de
+l'évaluation environnementale qui a déjà été réalisée.
+
+**Nota:**
+
+Décret n° 2012-995 du 23 août 2012 JORF du 25 août 2012, art. 11 : Les dispositions du présent décret entrent en vigueur le
+1er février 2013.
+
+Toutefois, pour les procédures qui sont soumises à évaluation environnementale du fait des dispositions nouvelles des
+articles R. 121-14 et R. 121-16 du code de l'urbanisme, elles s'appliqueront :
+
+1° A la déclaration de projet emportant la mise en compatibilité du schéma directeur de la région d'Ile-de-France, d'un
+schéma de cohérence territoriale ou d'un plan local d'urbanisme et procédant, le cas échéant, aux adaptations nécessaires
+d'un règlement ou d'une servitude mentionné au deuxième alinéa de l'article L. 300-6 du code de l'urbanisme, lorsque la
+réunion conjointe des personnes publiques associées n'a pas encore eu lieu à la date d'entrée en vigueur du présent décret ;
+
+2° A l'élaboration ou à la révision d'un plan local d'urbanisme, lorsque le débat portant sur le projet d'aménagement et de
+développement durables n'a pas encore eu lieu à la date d'entrée en vigueur du présent décret ;
+
+3° A l'élaboration ou à la révision d'une carte communale, lorsque l'enquête publique n'a pas encore eu lieu à la date
+d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-722 du 18 juin 2009 - art. 3
+	  - Décret n°2012-995 du 23 août 2012 - art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L122-13
-	  - Code de l'urbanisme - art. L122-15 (V)
-	  - Code de l'urbanisme - art. L123-13 (V)
-	  - Code de l'urbanisme - art. L123-16 (V)
+	  - Code de l'urbanisme - art. L121-10
+	  - Code de l'urbanisme - art. L122-1-5
 	  - Code de l'urbanisme - art. R*121-14
-	  - Code de l'environnement - art. L414-4
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R104-10 (V)
+	  - Code de l'urbanisme - art. R104-12 (M)
+	  - Code de l'urbanisme - art. R104-13 (V)
+	  - Code de l'urbanisme - art. R104-14 (V)
+	  - Code de l'urbanisme - art. R104-2 (V)
+	  - Code de l'urbanisme - art. R104-3 (V)
+	  - Code de l'urbanisme - art. R104-4 (V)
+	  - Code de l'urbanisme - art. R104-5 (V)
+	  - Code de l'urbanisme - art. R104-6 (V)
+	  - Code de l'urbanisme - art. R104-7 (V)
+	  - Code de l'urbanisme - art. R104-8 (V)
+	  - Code de l'urbanisme - art. R104-9 (V)
 
 
 ###### Article R*121-17
@@ -29589,6 +29901,88 @@ Ces dispositions ne font pas obstacle aux consultations prévues par l'article L
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*121-18
+
+Les documents d'urbanisme mentionnés à l'article R. 121-14 qui ne comportent pas de rapport en application d'autres
+dispositions sont accompagnés d'un rapport environnemental comprenant : 
+
+1° Une présentation résumée des objectifs du document, de son contenu et, s'il y a lieu, de son articulation avec les autres
+documents d'urbanisme et les autres plans et programmes mentionnés à l'article L. 122-4 du code de l'environnement avec
+lesquels il doit être compatible ou qu'il doit prendre en compte ; 
+
+2° Une analyse de l'état initial de l'environnement et des perspectives de son évolution en exposant, notamment, les
+caractéristiques des zones susceptibles d'être touchées de manière notable par la mise en œuvre du document ; 
+
+3° Une analyse exposant : 
+
+a) Les incidences notables probables de la mise en œuvre du document sur l'environnement ; 
+
+b) Les problèmes posés par l'adoption du document sur la protection des zones revêtant une importance particulière pour
+l'environnement, en particulier l'évaluation des incidences Natura 2000 mentionnée à l'article L. 414-4 ; 
+
+4° L'exposé des motifs pour lesquels le projet a été retenu au regard des objectifs de protection de l'environnement établis
+au niveau international, communautaire ou national et les raisons qui justifient le choix opéré au regard des solutions de
+substitution raisonnables tenant compte des objectifs et du champ d'application géographique du document ; 
+
+5° La présentation des mesures envisagées pour éviter, réduire et, si possible, compenser s'il y a lieu, les conséquences
+dommageables de la mise en œuvre du document sur l'environnement ; 
+
+6° La définition des critères, indicateurs et modalités retenus pour suivre les effets du document sur l'environnement afin
+d'identifier, notamment, à un stade précoce, les impacts négatifs imprévus et envisager, si nécessaire, les mesures
+appropriées ; 
+
+7° Un résumé non technique des éléments précédents et une description de la manière dont l'évaluation a été effectuée. 
+
+Le rapport est proportionné à l'importance du document d'urbanisme, aux effets de sa mise en œuvre ainsi qu'aux enjeux
+environnementaux de la zone considérée. 
+
+En cas de modification ou de révision du document, le rapport est complété, le cas échéant, par l'exposé des motifs des
+changements apportés. 
+
+Le rapport peut se référer aux renseignements relatifs à l'environnement figurant dans d'autres études, plans ou documents.
+
+**Nota:**
+
+Décret n° 2012-995 du 23 août 2012 JORF du 25 août 2012, art. 11 : Les dispositions du présent décret entrent en vigueur le
+1er février 2013.
+
+Toutefois, pour les procédures qui sont soumises à évaluation environnementale du fait des dispositions nouvelles des
+articles R. 121-14 et R. 121-16 du code de l'urbanisme, elles s'appliqueront :
+
+1° A la déclaration de projet emportant la mise en compatibilité du schéma directeur de la région d'Ile-de-France, d'un
+schéma de cohérence territoriale ou d'un plan local d'urbanisme et procédant, le cas échéant, aux adaptations nécessaires
+d'un règlement ou d'une servitude mentionné au deuxième alinéa de l'article L. 300-6 du code de l'urbanisme, lorsque la
+réunion conjointe des personnes publiques associées n'a pas encore eu lieu à la date d'entrée en vigueur du présent décret ;
+
+2° A l'élaboration ou à la révision d'un plan local d'urbanisme, lorsque le débat portant sur le projet d'aménagement et de
+développement durables n'a pas encore eu lieu à la date d'entrée en vigueur du présent décret ;
+
+3° A l'élaboration ou à la révision d'une carte communale, lorsque l'enquête publique n'a pas encore eu lieu à la date
+d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-995 du 23 août 2012 - art. 5
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*121-14 (VT)
+	  - Code de l'environnement - art. L122-4
+	  - Code de l'environnement - art. L414-4
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R104-18 (V)
+	  - Code de l'urbanisme - art. R104-19 (M)
+	  - Code de l'urbanisme - art. R104-20 (V)
 
 
 #### Chapitre II : Schémas de cohérence territoriale
@@ -29651,48 +30045,73 @@ doit prendre en compte ;
 3° Analyse l'état initial de l'environnement et les perspectives de son évolution en exposant, notamment, les
 caractéristiques des zones susceptibles d'être touchées de manière notable par la mise en oeuvre du schéma ; 
 
-4° Analyse les incidences notables prévisibles de la mise en oeuvre du schéma sur l'environnement et expose les problèmes
-posés par l'adoption du schéma sur la protection des zones revêtant une importance particulière pour l'environnement telles
-que celles désignées conformément aux articles R. 414-3 à R. 414-7 du code de l'environnement ainsi qu'à l'article 2 du
-décret n° 2001-1031 du 8 novembre 2001 relatif à la procédure de désignation des sites Natura 2000 ; 
+4° Analyse les incidences notables prévisibles de la mise en œuvre du schéma sur l'environnement et expose les problèmes
+posés par l'adoption du schéma sur la protection des zones revêtant une importance particulière pour l'environnement, en
+particulier l'évaluation des incidences Natura 2000 mentionnée à l'article L. 414-4 du code de l'environnement ; 
 
 5° Explique les choix retenus pour établir le projet d'aménagement et de développement durables et le document d'orientation
 et d'objectifs. Le cas échéant, il explique les raisons pour lesquelles des projets alternatifs ont été écartés, au regard
 notamment des objectifs de protection de l'environnement établis au niveau international, communautaire ou national et les
-raisons qui justifient le choix opéré au regard des autres solutions envisagées ; 
+raisons qui justifient le choix opéré au regard des solutions de substitution raisonnables tenant compte des objectifs et du
+champ d'application géographique du schéma ; 
 
 6° Présente les mesures envisagées pour éviter, réduire et, si possible, compenser s'il y a lieu, les conséquences
-dommageables de la mise en œuvre du schéma sur l'environnement ; il précise les indicateurs qui devront être élaborés pour
-l'évaluation des résultats de l'application du schéma prévue à l'article L. 122-14, notamment en ce qui concerne
-l'environnement ; 
+dommageables de la mise en œuvre du schéma sur l'environnement ; 
 
-7° Comprend un résumé non technique des éléments précédents et une description de la manière dont l'évaluation a été
+7° Définit les critères, indicateurs et modalités retenus pour l'analyse des résultats de l'application du schéma prévue par
+l'article L. 122-14. Ils doivent permettre notamment de suivre les effets du schéma sur l'environnement afin d'identifier, le
+cas échéant, à un stade précoce, les impacts négatifs imprévus et envisager, si nécessaire, les mesures appropriées ; 
+
+8° Comprend un résumé non technique des éléments précédents et une description de la manière dont l'évaluation a été
 effectuée ; 
 
-8° Précise le cas échéant, les principales phases de réalisation envisagées. 
+9° Précise, le cas échéant, les principales phases de réalisation envisagées. 
+
+Le rapport de présentation est proportionné à l'importance du schéma de cohérence territoriale, aux effets de sa mise en
+œuvre ainsi qu'aux enjeux environnementaux de la zone considérée. 
+
+En cas de modification ou de révision du schéma de cohérence territoriale, le rapport de présentation est complété, le cas
+échéant, par l'exposé des motifs des changements apportés. 
 
 Le rapport de présentation peut se référer aux renseignements relatifs à l'environnement figurant dans d'autres études, plans
-et documents. 
+ou documents. 
 
 Lorsque le schéma de cohérence territoriale comprend un chapitre individualisé valant schéma de mise en valeur de la mer, le
 rapport de présentation du schéma de cohérence territoriale décrit les conditions de l'utilisation de l'espace marin et
 terrestre du littoral, indique les perspectives d'évolution de ce milieu et explique les orientations retenues, en matière de
 développement, de protection et d'équipement.
 
+**Nota:**
+
+Décret n° 2012-995 du 23 août 2012 JORF du 25 août 2012, art. 11 : Les dispositions du présent décret entrent en vigueur le
+1er février 2013.
+
+Toutefois, pour les procédures qui sont soumises à évaluation environnementale du fait des dispositions nouvelles des
+articles R. 121-14 et R. 121-16 du code de l'urbanisme, elles s'appliqueront :
+
+1° A la déclaration de projet emportant la mise en compatibilité du schéma directeur de la région d'Ile-de-France, d'un
+schéma de cohérence territoriale ou d'un plan local d'urbanisme et procédant, le cas échéant, aux adaptations nécessaires
+d'un règlement ou d'une servitude mentionné au deuxième alinéa de l'article L. 300-6 du code de l'urbanisme, lorsque la
+réunion conjointe des personnes publiques associées n'a pas encore eu lieu à la date d'entrée en vigueur du présent décret ;
+
+2° A l'élaboration ou à la révision d'un plan local d'urbanisme, lorsque le débat portant sur le projet d'aménagement et de
+développement durables n'a pas encore eu lieu à la date d'entrée en vigueur du présent décret ;
+
+3° A l'élaboration ou à la révision d'une carte communale, lorsque l'enquête publique n'a pas encore eu lieu à la date
+d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°2001-1031 du 8 novembre 2001 - art. 2 (V)
-	  - Code de l'urbanisme - art. L111-1-1 (V)
-	  - Code de l'urbanisme - art. L122-1-12 (V)
-	  - Code de l'urbanisme - art. L122-1-2 (V)
-	  - Code de l'urbanisme - art. L122-14 (VT)
-	  - Code de l'environnement - art. R414-3 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2012-290 du 29 février 2012 - art. 3
+	  - Décret n°2012-995 du 23 août 2012 - art. 6
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L111-1-1
+	  - Code de l'urbanisme - art. L122-1-12
+	  - Code de l'environnement - art. L122-4
+	  - Code de l'environnement - art. L414-4 (V)
 
 	**Cité par**:
 
@@ -30437,46 +30856,69 @@ doit être compatible ou qu'il doit prendre en considération ;
 caractéristiques des zones susceptibles d'être touchées de manière notable par la mise en oeuvre du plan ; 
 
 3° Analyse les incidences notables prévisibles de la mise en œuvre du plan sur l'environnement et expose les conséquences
-éventuelles de l'adoption du plan sur la protection des zones revêtant une importance particulière pour l'environnement
-telles que celles désignées conformément aux articles R. 414-3 à R. 414-7 du code de l'environnement ainsi qu'à l'article 2
-du décret n° 2001-1031 du 8 novembre 2001 relatif à la procédure de désignation des sites Natura 2000 ; 
+éventuelles de l'adoption du plan sur la protection des zones revêtant une importance particulière pour l'environnement, en
+particulier l'évaluation des incidences Natura 2000 mentionnée à l'article L. 414-4 du code de l'environnement ; 
 
 4° Explique les choix retenus pour établir le projet d'aménagement et de développement durables, au regard notamment des
 objectifs de protection de l'environnement établis au niveau international, communautaire ou national, et, le cas échéant,
-les raisons qui justifient le choix opéré par rapport aux autres solutions envisagées. Il expose les motifs de la
-délimitation des zones, des règles qui y sont applicables et des orientations d'aménagement. Il justifie l'institution des
-secteurs des zones urbaines où les constructions ou installations d'une superficie supérieure à un seuil défini par le
-règlement sont interdites en application du a de l'article L. 123-2 ; 
+les raisons qui justifient le choix opéré au regard des solutions de substitution raisonnables tenant compte des objectifs et
+du champ d'application géographique du plan. Il expose les motifs de la délimitation des zones, des règles qui y sont
+applicables et des orientations d'aménagement. Il justifie l'institution des secteurs des zones urbaines où les constructions
+ou installations d'une superficie supérieure à un seuil défini par le règlement sont interdites en application du a de
+l'article L. 123-2 ; 
 
-5° Présente les mesures envisagées pour éviter, réduire et, si possible, compenser s'il y a lieu, les conséquences
-dommageables de la mise en oeuvre du plan sur l'environnement ; il précise les indicateurs qui devront être élaborés pour
-l'analyse des résultats de l'application du plan prévue par l'article L. 123-13-1, notamment en ce qui concerne
-l'environnement et la maîtrise de la consommation de l'espace ; 
+5° Présente les mesures envisagées pour éviter, réduire et, si possible, compenser, s'il y a lieu, les conséquences
+dommageables de la mise en œuvre du plan sur l'environnement ; 
 
-6° Comprend un résumé non technique des éléments précédents et une description de la manière dont l'évaluation a été
+6° Définit les critères, indicateurs et modalités retenus pour l'analyse des résultats de l'application du plan prévue par
+l'article L. 123-13-1. Ils doivent permettre notamment de suivre les effets du plan sur l'environnement afin d'identifier, le
+cas échéant, à un stade précoce, les impacts négatifs imprévus et envisager, si nécessaire, les mesures appropriées ; 
+
+7° Comprend un résumé non technique des éléments précédents et une description de la manière dont l'évaluation a été
 effectuée. 
 
-En cas de modification ou de révision, le rapport de présentation est complété par l'exposé des motifs des changements
-apportés. 
+Le rapport de présentation est proportionné à l'importance du plan local d'urbanisme, aux effets de sa mise en œuvre ainsi
+qu'aux enjeux environnementaux de la zone considérée. 
+
+En cas de modification ou de révision du plan local d'urbanisme, le rapport de présentation est complété, le cas échéant, par
+l'exposé des motifs des changements apportés. 
 
 Le rapport de présentation peut se référer aux renseignements relatifs à l'environnement figurant dans d'autres études, plans
-et documents.
+ou documents.
+
+**Nota:**
+
+Décret n° 2012-995 du 23 août 2012 JORF du 25 août 2012, art. 11 : Les dispositions du présent décret entrent en vigueur le
+1er février 2013.
+
+Toutefois, pour les procédures qui sont soumises à évaluation environnementale du fait des dispositions nouvelles des
+articles R. 121-14 et R. 121-16 du code de l'urbanisme, elles s'appliqueront :
+
+1° A la déclaration de projet emportant la mise en compatibilité du schéma directeur de la région d'Ile-de-France, d'un
+schéma de cohérence territoriale ou d'un plan local d'urbanisme et procédant, le cas échéant, aux adaptations nécessaires
+d'un règlement ou d'une servitude mentionné au deuxième alinéa de l'article L. 300-6 du code de l'urbanisme, lorsque la
+réunion conjointe des personnes publiques associées n'a pas encore eu lieu à la date d'entrée en vigueur du présent décret ;
+
+2° A l'élaboration ou à la révision d'un plan local d'urbanisme, lorsque le débat portant sur le projet d'aménagement et de
+développement durables n'a pas encore eu lieu à la date d'entrée en vigueur du présent décret ;
+
+3° A l'élaboration ou à la révision d'une carte communale, lorsque l'enquête publique n'a pas encore eu lieu à la date
+d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2012-995 du 23 août 2012 - art. 7
+
 	**Cite**:
 
-	  - Décret n°2001-1031 du 8 novembre 2001 - art. 2 (V)
 	  - Code de l'urbanisme - art. L121-10 (V)
-	  - Code de l'urbanisme - art. L123-1-2
+	  - Code de l'urbanisme - art. L123-1-2 (V)
 	  - Code de l'urbanisme - art. L123-13-1 (VT)
 	  - Code de l'urbanisme - art. L123-2 (V)
 	  - Code de l'environnement - art. L122-4 (V)
-	  - Code de l'environnement - art. R414-3 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2012-290 du 29 février 2012 - art. 16
+	  - Code de l'environnement - art. L414-4 (V)
 
 	**Cité par**:
 
@@ -32206,6 +32648,85 @@ compte le souci de sa préservation et de sa mise en valeur.
 	  - Code de l'urbanisme - art. R161-2 (V)
 
 
+###### Article R*124-2-1
+
+Lorsque la carte communale doit faire l'objet d'une évaluation environnementale, le rapport de présentation : 
+
+1° Expose les prévisions de développement, notamment en matière économique et démographique et décrit l'articulation de la
+carte avec les autres documents d'urbanisme et les plans ou programmes mentionnés à l'article L. 122-4 du code de
+l'environnement avec lesquels elle doit être compatible ou qu'elle doit prendre en considération ; 
+
+2° Analyse l'état initial de l'environnement et les perspectives de son évolution en exposant, notamment, les
+caractéristiques des zones susceptibles d'être touchées de manière notable par la mise en œuvre de la carte ; 
+
+3° Analyse les incidences notables probables de la mise en œuvre de la carte sur l'environnement et expose les conséquences
+éventuelles de l'adoption de la carte sur la protection des zones revêtant une importance particulière pour l'environnement,
+en particulier l'évaluation des incidences Natura 2000 mentionnée à l'article L. 414-4 du code de l'environnement ; 
+
+4° Expose les motifs de la délimitation des zones, au regard notamment des objectifs de protection de l'environnement établis
+au niveau international, communautaire ou national, et, le cas échéant, les raisons qui justifient le choix opéré au regard
+des solutions de substitution raisonnables tenant compte des objectifs et du champ d'application géographique de la carte ; 
+
+5° Présente les mesures envisagées pour éviter, réduire et, si possible, compenser, s'il y a lieu, les conséquences
+dommageables de la mise en œuvre de la carte sur l'environnement ; 
+
+6° Rappelle que la carte fera l'objet d'une analyse des résultats de son application, notamment en ce qui concerne
+l'environnement, au plus tard à l'expiration d'un délai de six ans à compter de son approbation ou de sa révision. Il définit
+des critères, indicateurs et modalités qui devront être retenus pour suivre les effets de la carte sur l'environnement afin
+d'identifier, le cas échéant, à un stade précoce, les impacts négatifs imprévus et envisager, si nécessaire, les mesures
+appropriées ; 
+
+7° Comprend un résumé non technique des éléments précédents et une description de la manière dont l'évaluation a été
+effectuée. 
+
+Le rapport de présentation est proportionné à l'importance de la carte communale, aux effets de sa mise en œuvre ainsi qu'aux
+enjeux environnementaux de la zone considérée. 
+
+En cas de révision de la carte communale, le rapport de présentation est complété, le cas échéant, par l'exposé des motifs
+des changements apportés. 
+
+Le rapport de présentation peut se référer aux renseignements relatifs à l'environnement figurant dans d'autres études, plans
+ou documents.
+
+**Nota:**
+
+Décret n° 2012-995 du 23 août 2012 JORF du 25 août 2012, art. 11 : Les dispositions du présent décret entrent en vigueur le
+1er février 2013.
+
+Toutefois, pour les procédures qui sont soumises à évaluation environnementale du fait des dispositions nouvelles des
+articles R. 121-14 et R. 121-16 du code de l'urbanisme, elles s'appliqueront :
+
+1° A la déclaration de projet emportant la mise en compatibilité du schéma directeur de la région d'Ile-de-France, d'un
+schéma de cohérence territoriale ou d'un plan local d'urbanisme et procédant, le cas échéant, aux adaptations nécessaires
+d'un règlement ou d'une servitude mentionné au deuxième alinéa de l'article L. 300-6 du code de l'urbanisme, lorsque la
+réunion conjointe des personnes publiques associées n'a pas encore eu lieu à la date d'entrée en vigueur du présent décret ;
+
+2° A l'élaboration ou à la révision d'un plan local d'urbanisme, lorsque le débat portant sur le projet d'aménagement et de
+développement durables n'a pas encore eu lieu à la date d'entrée en vigueur du présent décret ;
+
+3° A l'élaboration ou à la révision d'une carte communale, lorsque l'enquête publique n'a pas encore eu lieu à la date
+d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-995 du 23 août 2012 - art. 8
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R161-3 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L122-4
+	  - Code de l'environnement - art. L414-4
+
+
 ###### Article R*124-3
 
 Le ou les documents graphiques délimitent les secteurs où les constructions sont autorisées et ceux où les constructions ne
@@ -32991,24 +33512,30 @@ prendre en considération ;
 2° Analyse l'état initial de l'environnement et les perspectives de son évolution en exposant, notamment, les
 caractéristiques des zones susceptibles d'être touchées de manière notable par la mise en oeuvre du schéma ; 
 
-3° Analyse les incidences notables prévisibles de la mise en oeuvre du schéma sur l'environnement et expose les problèmes
-posés par son adoption sur la protection des zones revêtant une importance particulière pour l'environnement telles que
-celles désignées conformément aux articles R. 214-18 à R. 214-22 (1) du code de l'environnement ainsi qu'à l'article 2 du
-décret n° 2001-1031 du 8 novembre 2001 relatif à la procédure de désignation des sites Natura 2000 ; 
+3° Analyse les incidences notables prévisibles de la mise en œuvre du schéma sur l'environnement et expose les problèmes
+posés par son adoption sur la protection des zones revêtant une importance particulière pour l'environnement, en particulier
+l'évaluation des incidences Natura 2000 mentionnée à l'article L. 414-4 du code de l'environnement ; 
 
 4° Expose les motifs pour lesquels le schéma a été retenu au regard notamment des objectifs de protection de l'environnement
-établis au niveau international, communautaire ou national et les raisons qui justifient le choix opéré au regard des autres
-solutions envisagées ; 
+établis au niveau international, communautaire ou national et les raisons qui justifient le choix opéré au regard des
+solutions de substitution raisonnables tenant compte des objectifs et du champ d'application géographique du schéma ; 
 
 5° Présente les mesures envisagées pour éviter, réduire et, si possible, compenser s'il y a lieu, les conséquences
-dommageables de la mise en oeuvre du schéma sur l'environnement et rappelle que le schéma fera l'objet d'une analyse des
-résultats de son application au plus tard à l'expiration d'un délai de dix ans à compter de son approbation ; 
+dommageables de la mise en œuvre du schéma sur l'environnement ; 
 
-6° Comprend un résumé non technique des éléments précédents et une description de la manière dont l'évaluation a été
+6° Rappelle que le schéma fera l'objet d'une analyse des résultats de son application au plus tard à l'expiration d'un délai
+de dix ans à compter de son approbation. Il définit des critères, indicateurs et modalités qui devront être retenus pour
+suivre les effets du schéma sur l'environnement afin d'identifier, le cas échéant, à un stade précoce, les impacts négatifs
+imprévus et envisager, si nécessaire, les mesures appropriées ; 
+
+7° Comprend un résumé non technique des éléments précédents et une description de la manière dont l'évaluation a été
 effectuée. 
 
+En cas de modification du schéma directeur de la région d'Ile-de-France, le rapport est complété, le cas échéant, par
+l'exposé des motifs des changements apportés. 
+
 Le rapport de présentation peut se référer aux renseignements relatifs à l'environnement figurant dans d'autres études, plans
-et documents.
+ou documents.
 
 **Nota:**
 
@@ -33016,25 +33543,37 @@ et documents.
 s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les Terres australes et antarctiques
 françaises et à Mayotte. Se reporter désormais aux articles R. 411-1 à R. 423-20 du même code.
 
+Décret n° 2012-995 du 23 août 2012 JORF du 25 août 2012, art. 11 : Les dispositions du présent décret entrent en vigueur le
+1er février 2013.
+
+Toutefois, pour les procédures qui sont soumises à évaluation environnementale du fait des dispositions nouvelles des
+articles R. 121-14 et R. 121-16 du code de l'urbanisme, elles s'appliqueront :
+
+1° A la déclaration de projet emportant la mise en compatibilité du schéma directeur de la région d'Ile-de-France, d'un
+schéma de cohérence territoriale ou d'un plan local d'urbanisme et procédant, le cas échéant, aux adaptations nécessaires
+d'un règlement ou d'une servitude mentionné au deuxième alinéa de l'article L. 300-6 du code de l'urbanisme, lorsque la
+réunion conjointe des personnes publiques associées n'a pas encore eu lieu à la date d'entrée en vigueur du présent décret ;
+
+2° A l'élaboration ou à la révision d'un plan local d'urbanisme, lorsque le débat portant sur le projet d'aménagement et de
+développement durables n'a pas encore eu lieu à la date d'entrée en vigueur du présent décret ;
+
+3° A l'élaboration ou à la révision d'une carte communale, lorsque l'enquête publique n'a pas encore eu lieu à la date
+d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°2001-1031 du 8 novembre 2001 - art. 2 (V)
-	  - Code de l'environnement - art. L122-4 (V)
-	  - Code de l'environnement - art. R214-18 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2005-608 du 27 mai 2005 - art. 5 () JORF 29 mai 2005
+	  - Décret n°2012-995 du 23 août 2012 - art. 10
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R300-17 (V)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°69-551 1969-05-28 art. 21
+	  - Code de l'environnement - art. L122-4 (V)
+	  - Code de l'environnement - art. L414-4 (V)
 
 	**Codifié par**:
 
@@ -36169,19 +36708,18 @@ Pour l'application à Mayotte de l'article R. 121-7, les mots : " six élus ” 
 
 ###### Article R*157-3
 
-Pour l'application à Mayotte de l'article R. 121-14, il est inséré au d du 2° du II de cet article, après les mots : " au
-sens de l'article L. 321-2 du code de l'environnement ”, les mots : " et à Mayotte de l'ensemble des communes ”.
+Pour l'application à Mayotte de l'article R. 121-14, il est inséré au 2° du II de cet article, après les mots : " au sens de
+l'article L. 321-2 du code de l'environnement ”, les mots : " et à Mayotte de l'ensemble des communes ”.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°2012-1529 du 28 décembre 2012 - art. 4
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. R*121-14
-	  - Code de l'environnement - art. L321-2
 
 
 ### Titre VI : Sanctions et servitudes
