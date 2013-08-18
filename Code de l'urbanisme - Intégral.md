@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2013-07-01
+Version Consolidée au 2013-08-19
 
 # Partie législative
 
@@ -26552,6 +26552,41 @@ pétitionnaire.
 	  - Loi n°2006-872 du 13 juillet 2006 - art. 14 () JORF 16 juillet 2006
 
 
+###### Article L600-1-2
+
+Une personne autre que l'Etat, les collectivités territoriales ou leurs groupements ou une association n'est recevable à
+former un recours pour excès de pouvoir contre un permis de construire, de démolir ou d'aménager que si la construction,
+l'aménagement ou les travaux sont de nature à affecter directement les conditions d'occupation, d'utilisation ou de
+jouissance du bien qu'elle détient ou occupe régulièrement ou pour lequel elle bénéficie d'une promesse de vente, de bail, ou
+d'un contrat préliminaire mentionné à l'article L. 261-15 du code de la construction et de l'habitation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2013-638 du 18 juillet 2013 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L600-1-4 (VD)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L261-15
+
+
+###### Article L600-1-3
+
+Sauf pour le requérant à justifier de circonstances particulières, l'intérêt pour agir contre un permis de construire, de
+démolir ou d'aménager s'apprécie à la date d'affichage en mairie de la demande du pétitionnaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2013-638 du 18 juillet 2013 - art. 1
+
+
 ###### Article L600-2
 
 Lorsqu'un refus opposé à une demande d'autorisation d'occuper ou d'utiliser le sol ou l'opposition à une déclaration de
@@ -26660,27 +26695,41 @@ suspension, en l'état du dossier.
 
 ###### Article L600-5
 
-Lorsqu'elle constate que seule une partie d'un projet de construction ou d'aménagement ayant fait l'objet d'une autorisation
-d'urbanisme est illégale, la juridiction administrative peut prononcer une annulation partielle de cette autorisation.
-
-L'autorité compétente prend, à la demande du bénéficiaire de l'autorisation, un arrêté modificatif tenant compte de la
-décision juridictionnelle devenue définitive.
+Le juge administratif qui, saisi de conclusions dirigées contre un permis de construire, de démolir ou d'aménager, estime,
+après avoir constaté que les autres moyens ne sont pas fondés, qu'un vice n'affectant qu'une partie du projet peut être
+régularisé par un permis modificatif, peut limiter à cette partie la portée de l'annulation qu'il prononce et, le cas
+échéant, fixer le délai dans lequel le titulaire du permis pourra en demander la régularisation.
 
 **Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L760-1 (M)
+	  - Code des tribunaux administratifs et des cours adm - art. L25 (Ab)
+	  - Loi n°2000-597 du 30 juin 2000 - art. 24 (V)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08 JORF 13 NOVEMBRE 1973
 
-	**Cité par**:
+	**Modifié par**:
 
-	  - Loi n°2000-597 du 30 juin 2000 - art. 24 (V)
-	  - Code de l'urbanisme - art. L760-1 (M)
-	  - Code des tribunaux administratifs et des cours adm - art. L25 (Ab)
+	  - Ordonnance n°2013-638 du 18 juillet 2013 - art. 2
+
+
+###### Article L600-5-1
+
+Le juge administratif qui, saisi de conclusions dirigées contre un permis de construire, de démolir ou d'aménager, estime,
+après avoir constaté que les autres moyens ne sont pas fondés, qu'un vice entraînant l'illégalité de cet acte est susceptible
+d'être régularisé par un permis modificatif peut, après avoir invité les parties à présenter leurs observations, surseoir à
+statuer jusqu'à l'expiration du délai qu'il fixe pour cette régularisation. Si un tel permis modificatif est notifié dans ce
+délai au juge, celui-ci statue après avoir invité les parties à présenter leurs observations.
+
+**Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Loi n°2006-872 du 13 juillet 2006 - art. 11 () JORF 16 juillet 2006
+	  - Ordonnance n°2013-638 du 18 juillet 2013 - art. 2
 
 
 ###### Article L600-6
@@ -26707,6 +26756,53 @@ l'article L. 480-13.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L600-7
+
+Lorsque le droit de former un recours pour excès de pouvoir contre un permis de construire, de démolir ou d'aménager est mis
+en œuvre dans des conditions qui excèdent la défense des intérêts légitimes du requérant et qui causent un préjudice excessif
+au bénéficiaire du permis, celui-ci peut demander, par un mémoire distinct, au juge administratif saisi du recours de
+condamner l'auteur de celui-ci à lui allouer des dommages et intérêts. La demande peut être présentée pour la première fois
+en appel. 
+
+Lorsqu'une association régulièrement déclarée et ayant pour objet principal la protection de l'environnement au sens de
+l'article L. 141-1 du code de l'environnement est l'auteur du recours, elle est présumée agir dans les limites de la défense
+de ses intérêts légitimes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2013-638 du 18 juillet 2013 - art. 2
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L141-1
+
+
+###### Article L600-8
+
+Toute transaction par laquelle une personne ayant demandé au juge administratif l'annulation d'un permis de construire, de
+démolir ou d'aménager s'engage à se désister de ce recours en contrepartie du versement d'une somme d'argent ou de l'octroi
+d'un avantage en nature doit être enregistrée conformément à l'article 635 du code général des impôts.
+
+La contrepartie prévue par une transaction non enregistrée est réputée sans cause et les sommes versées ou celles qui
+correspondent au coût des avantages consentis sont sujettes à répétition. L'action en répétition se prescrit par cinq ans à
+compter du dernier versement ou de l'obtention de l'avantage en nature.
+
+Les acquéreurs successifs de biens ayant fait l'objet du permis mentionné au premier alinéa peuvent également exercer
+l'action en répétition prévue à l'alinéa précédent à raison du préjudice qu'ils ont subi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2013-638 du 18 juillet 2013 - art. 3
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 635
 
 
 # Partie réglementaire - Décrets en Conseil d'Etat
