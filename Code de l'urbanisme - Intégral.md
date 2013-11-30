@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2013-10-05
+Version Consolidée au 2013-12-01
 
 # Partie législative
 
@@ -60569,6 +60569,22 @@ Décret 2007-18 2007-01-05 art. 26 3. : ces dispositions sont applicables aux ac
 	**Cite**:
 
 	  - Code de l'urbanisme - art. R462-1 (V)
+
+
+###### Article R*600-4
+
+Saisi d'une demande motivée en ce sens, le juge devant lequel a été formé un recours contre un permis de construire, de
+démolir ou d'aménager peut fixer une date au-delà de laquelle des moyens nouveaux ne peuvent plus être invoqués.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-879 du 1er octobre 2013 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-1480 du 2 novembre 2016 - art. 33
 
 
 ### Titre II : Dispositions diverses
