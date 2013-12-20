@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2013-12-01
+Version Consolidée au 2013-12-21
 
 # Partie législative
 
@@ -4242,7 +4242,11 @@ modification a été notifié aux personnes publiques associées à la date d'en
 ###### Article L122-11-1
 
 Le schéma de cohérence territoriale est publié et transmis au préfet dans les conditions définies aux articles L. 2131-1 et
-L. 2131-2 du code général des collectivités territoriales. Il est exécutoire deux mois après sa transmission au préfet. 
+L. 2131-2 du code général des collectivités territoriales. Il est exécutoire deux mois après sa transmission au préfet. A
+compter du 1er janvier 2020, la publication prévue au premier alinéa de l'article L. 2131-1 du code général des collectivités
+territoriales s'effectue sur le portail national de l'urbanisme prévu à l'article L. 129-1 selon des modalités fixées par
+arrêté du ministre chargé de l'urbanisme. Le document demeure consultable au siège de l'établissement public compétent et
+dans les mairies des communes membres concernées. 
 
 Toutefois, dans ce délai de deux mois, le préfet notifie par lettre motivée à l'établissement public prévu aux articles L.
 122-4 et L. 122-4-1 les modifications qu'il estime nécessaire d'apporter au schéma lorsque les dispositions de celui-ci : 
@@ -4275,39 +4279,28 @@ son périmètre.
 
 Le schéma de cohérence territoriale approuvé est tenu à la disposition du public.
 
-**Nota:**
-
-Ordonnance n° 2012-11 du 5 janvier 2012 article 19 : Les présentes dispositions entrent en vigueur à une date déterminée par
-décret en Conseil d'Etat et au plus tard le 1er janvier 2013. Toutefois, les dispositions en vigueur antérieurement à
-l'entrée en vigueur de l'ordonnance demeurent applicables :
-
-- aux procédures d'élaboration et de révision des schémas de cohérence territoriale et des plans locaux d'urbanisme
-prescrites à cette même date ;
-
-- aux procédures de modification des schémas de cohérence territoriale et des plans locaux d'urbanisme lorsque le projet de
-modification a été notifié aux personnes publiques associées à la date d'entrée en vigueur de l'ordonnance.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°2010-788 du 12 juillet 2010
 	  - Code général des collectivités territoriales - art. L2131-1
-	  - Code de l'urbanisme - art. L110 (V)
-	  - Code de l'urbanisme - art. L111-1-1 (V)
-	  - Code de l'urbanisme - art. L121-1 (V)
-	  - Code de l'urbanisme - art. L122-1-11 (V)
-	  - Code de l'urbanisme - art. L122-4 (VT)
-	  - Code de l'urbanisme - art. L122-4-1 (V)
-	  - Code de l'urbanisme - art. L145-7 (V)
+	  - Code de l'urbanisme - art. L110
+	  - Code de l'urbanisme - art. L111-1-1
+	  - Code de l'urbanisme - art. L121-1
+	  - Code de l'urbanisme - art. L122-1-11
+	  - Code de l'urbanisme - art. L122-4
+	  - Code de l'urbanisme - art. L122-4-1
+	  - Code de l'urbanisme - art. L129-1
+	  - Code de l'urbanisme - art. L145-7
 
 	**Cité par**:
 
 	  - Loi n°2011-665 du 15 juin 2011 - art. 1 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-11 du 5 janvier 2012 - art. 2
+	  - Ordonnance n°2013-1184 du 19 décembre 2013 - art. 1
 
 
 ###### Article L122-12
@@ -6462,19 +6455,12 @@ d'un schéma de secteur ou d'un schéma de mise en valeur de la mer en cours d'�
 organisatrice des transports territorialement compétente. 
 
 Dans ce cas, le plan local d'urbanisme ne devient exécutoire qu'après l'intervention, la publication et la transmission au
-préfet des modifications demandées.
+préfet des modifications demandées. 
 
-**Nota:**
-
-Ordonnance n° 2012-11 du 5 janvier 2012 article 19 : Les présentes dispositions entrent en vigueur à une date déterminée par
-décret en Conseil d'Etat et au plus tard le 1er janvier 2013. Toutefois, les dispositions en vigueur antérieurement à
-l'entrée en vigueur de l'ordonnance demeurent applicables :
-
-- aux procédures d'élaboration et de révision des schémas de cohérence territoriale et des plans locaux d'urbanisme
-prescrites à cette même date ;
-
-- aux procédures de modification des schémas de cohérence territoriale et des plans locaux d'urbanisme lorsque le projet de
-modification a été notifié aux personnes publiques associées à la date d'entrée en vigueur de l'ordonnance.
+A compter du 1er janvier 2020, la publication prévue au premier alinéa de l'article L. 2131-1 du code général des
+collectivités territoriales s'effectue sur le portail national de l'urbanisme prévu à l'article L. 129-1 selon des modalités
+fixées par arrêté du ministre chargé de l'urbanisme. Le document demeure consultable en mairie ou au siège de l'établissement
+public compétent et dans les mairies des communes membres concernées.
 
 **Liens relatifs à cet article**
 
@@ -6482,11 +6468,12 @@ modification a été notifié aux personnes publiques associées à la date d'en
 
 	  - Loi n°2010-788 du 12 juillet 2010
 	  - Code général des collectivités territoriales - art. L2131-1
-	  - Code de l'urbanisme - art. L110 (V)
-	  - Code de l'urbanisme - art. L111-1-1 (V)
-	  - Code de l'urbanisme - art. L121-1 (V)
-	  - Code de l'urbanisme - art. L141-7 (V)
-	  - Code de la construction et de l'habitation. - art. L302-2 (VT)
+	  - Code de l'urbanisme - art. L110
+	  - Code de l'urbanisme - art. L111-1-1
+	  - Code de l'urbanisme - art. L121-1
+	  - Code de l'urbanisme - art. L129-1
+	  - Code de l'urbanisme - art. L141-7
+	  - Code de la construction et de l'habitation. - art. L302-2
 
 	**Cité par**:
 
@@ -6497,7 +6484,7 @@ modification a été notifié aux personnes publiques associées à la date d'en
 
 	**Modifié par**:
 
-	  - Ordonnance n°2012-11 du 5 janvier 2012 - art. 3
+	  - Ordonnance n°2013-1184 du 19 décembre 2013 - art. 1
 
 	**Nouveaux textes**:
 
@@ -7394,7 +7381,9 @@ pour tenir compte des avis qui ont été joints au dossier, des observations du 
 commission d'enquête, est approuvée par le conseil municipal ou par délibération de l'établissement public de coopération
 intercommunale compétent. Elle est alors transmise par le maire ou par le président de l'établissement public de coopération
 intercommunale au préfet. Celui-ci dispose d'un délai de deux mois pour l'approuver. A l'expiration de ce délai, le préfet
-est réputé avoir approuvé la carte. La carte approuvée est tenue à disposition du public. 
+est réputé avoir approuvé la carte. La carte approuvée est tenue à disposition du public. A compter du 1er janvier 2020,
+cette mise à disposition du public s'effectue par publication sur le portail national de l'urbanisme prévu à l'article L.
+129-1 selon des modalités fixées par arrêté du ministre chargé de l'urbanisme. 
 
 La carte communale est révisée selon les modalités définies à l'alinéa précédent. Toutefois, le projet de révision n'est
 soumis à la commission départementale de la consommation des espaces agricoles que s'il a pour conséquence une réduction des
@@ -7427,11 +7416,6 @@ dispositions des plans de gestion des risques d'inondation définis en applicati
 Lorsqu'un de ces documents est approuvé après l'approbation d'une carte communale, cette dernière doit, si nécessaire, être
 rendue compatible dans un délai de trois ans.
 
-**Nota:**
-
-Loi n° 2010-874 du 28 juillet 2010 article 51 IV : Les présentes dispositions entrent en vigueur à une date et dans les
-conditions fixées par décret en Conseil d'Etat et au plus tard le 28 janvier 2011.
-
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -7450,13 +7434,18 @@ conditions fixées par décret en Conseil d'Etat et au plus tard le 28 janvier 2
 
 	**Modifié par**:
 
-	  - Ordonnance n°2012-11 du 5 janvier 2012 - art. 4
+	  - Ordonnance n°2013-1184 du 19 décembre 2013 - art. 1
 
 	**Cite**:
 
+	  - Code rural - art. L112-1-1
 	  - Code de l'urbanisme - art. L110
 	  - Code de l'urbanisme - art. L121-1
 	  - Code de l'urbanisme - art. L122-4
+	  - Code de l'urbanisme - art. L122-4-1
+	  - Code de l'urbanisme - art. L129-1
+	  - Code de l'environnement - art. L212-3
+	  - Code de l'environnement - art. L566-7
 
 	**Liens**:
 
@@ -7823,6 +7812,144 @@ renouvelables et de récupération.
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L300-1
+
+
+#### Chapitre IX : Dispositions favorisant la transmission et l'accès à l'information en matière d'urbanisme
+
+###### Article L129-1
+
+Le portail national de l'urbanisme est, pour l'ensemble du territoire, le site national pour l'accès dématérialisé, à partir
+d'un point d'entrée unique, aux documents d'urbanisme et aux servitudes d'utilité publique, transmis à l'Etat selon les
+modalités définies à l'article L. 129-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2013-1184 du 19 décembre 2013 - art. 1
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L122-11-1 (VT)
+	  - Code de l'urbanisme - art. L123-12 (VT)
+	  - Code de l'urbanisme - art. L124-2 (VT)
+	  - Code de l'urbanisme - art. L126-1 (MMN)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L129-2
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L133-1 (VD)
+
+
+###### Article L129-2
+
+I.-A compter du 1er janvier 2016, les communes ou leurs groupements compétents transmettent à l'Etat sous format
+électronique, au fur et à mesure des modifications de leurs dispositions, la version en vigueur des schémas de cohérence
+territoriale, des plans locaux d'urbanisme, des documents en tenant lieu et des cartes communales applicables sur leur
+territoire incluant les délibérations les ayant approuvés. 
+
+II.-A compter du 1er juillet 2015, tout gestionnaire d'une servitude d'utilité publique visée à l'article L. 126-1 transmet à
+l'Etat, sous format électronique en vue de son insertion dans le portail national de l'urbanisme, la servitude dont il assure
+la gestion qui figure sur une liste dressée par décret en Conseil d'Etat. 
+
+L'insertion de ces servitudes dans le portail national de l'urbanisme ne doit pas porter atteinte à la conduite de la
+politique extérieure de la France, à la sécurité publique ou à la défense nationale. 
+
+Les dispositions du présent II ne font pas obstacle à ce que l'ensemble des servitudes demeurent transmises à l'Etat puis
+portées à la connaissance des communes et à leurs groupements dans le cadre de l'exercice de leurs compétences en matière
+d'urbanisme conformément aux dispositions de l'article L. 121-2 du code de l'urbanisme. 
+
+III.-La numérisation des documents d'urbanisme et des servitudes d'utilité publique en vue des transmissions prévues aux I et
+II s'effectue conformément aux standards de numérisation validés par la structure de coordination nationale prévue par les
+articles 18 et 19, paragraphe 2, de la directive 2007/2/ CE du Parlement européen et du Conseil du 14 mars 2007 établissant
+une infrastructure d'information géographique dans la Communauté européenne. 
+
+Si aucun standard de numérisation n'est validé dans les conditions du précédent alinéa, la numérisation des documents est
+effectuée dans un format de fichiers largement disponible. 
+
+IV.-Un arrêté du ministre chargé de l'urbanisme précise les modalités de transmission des documents d'urbanisme et des
+servitudes d'utilité publique prévus aux I et II.
+
+**Nota:**
+
+Conformément à l'article 13 25° de l'ordonnance n° 2015-1174 du 23 septembre 2015, l'abrogation des mots : "conformément aux
+standards de numérisation validés par la structure de coordination nationale prévue par les articles 18 et 19, paragraphe 2,
+de la directive 2007/2/CE du Parlement européen et du Conseil du 14 mars 2007 établissant une infrastructure d'information
+géographique dans la Communauté européenne" au cinquième alinéa, ainsi que les sixième et septième alinéas de l'article L.
+129-2 ne prendra effet qu'à compter de la publication des dispositions réglementaires du livre Ier du code de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2013-1184 du 19 décembre 2013 - art. 1
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 13
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L121-2
+	  - Code de l'urbanisme - art. L126-1
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L129-1 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L133-2 (VD)
+	  - Code de l'urbanisme - art. L133-3 (VD)
+	  - Code de l'urbanisme - art. L133-4 (VD)
+	  - Code de l'urbanisme - art. R133-1 (V)
+	  - Code de l'urbanisme - art. R133-2 (V)
+
+
+###### Article L129-3
+
+Les transmissions des documents arrêtés ou approuvés prévues aux chapitres II à IV du titre II du livre Ier de la partie
+législative du présent code peuvent être effectuées par échange électronique sur une plate-forme d'échange respectant le
+référentiel général de sécurité et le référentiel général d'interopérabilité définis par l'ordonnance n° 2005-1516 du 8
+décembre 2005 relative aux échanges électroniques entre les usagers et les autorités administratives et entre les autorités
+administratives ou par la production de supports physiques électroniques.
+
+**Nota:**
+
+Conformément à l'article 13 26° de l'ordonnance n° 2015-1174 du 23  septembre 2015, l'abrogation des mots : "sur une plate-
+forme d'échange respectant le référentiel général de sécurité et le référentiel général d'interopérabilité définis par
+l'ordonnance n° 2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités
+administratives et entre les autorités administratives ou par la production de supports physiques électroniques" de
+l'article L. 129-3 ne prendra effet qu'à compter de la publication des  dispositions réglementaires du livre Ier du code de
+l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2005-1516 du 8 décembre 2005
+
+	**Créé par**:
+
+	  - Ordonnance n°2013-1184 du 19 décembre 2013 - art. 1
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 13
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L133-5 (VD)
+	  - Code de l'urbanisme - art. R133-3 (V)
 
 
 ### Titre III : Espaces boisés.
