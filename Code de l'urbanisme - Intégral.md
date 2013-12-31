@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2013-12-21
+Version Consolidée au 2014-01-01
 
 # Partie législative
 
@@ -4750,15 +4750,15 @@ modification a été notifié aux personnes publiques associées à la date d'en
 
 ###### Article L122-16-1
 
-Les dispositions proposées pour assurer la mise en compatibilité du schéma prévue aux articles L. 122-15 et L. 122-16 font
-l'objet d'un examen conjoint de l'Etat, de l'établissement public prévu aux articles L. 122-4 et L. 122-4-1 et des personnes
-publiques associées mentionnées à l'article L. 121-4. 
+I.-Les dispositions proposées pour assurer la mise en compatibilité du schéma prévue aux articles L. 122-15, L. 122-16 et L.
+300-6-1 font l'objet d'un examen conjoint de l'Etat, de l'établissement public prévu aux articles L. 122-4 et L. 122-4-1 et
+des personnes publiques associées mentionnées à l'article L. 121-4. 
 
 Lorsque la mise en compatibilité est nécessaire pour permettre la création d'une ou plusieurs unités touristiques nouvelles,
 les dispositions proposées pour assurer la mise en compatibilité du schéma sont soumises aux avis prévus au 5° de l'article
 L. 122-8. 
 
-Le projet de mise en compatibilité est soumis à une enquête publique réalisée conformément au chapitre III du titre II du
+II.-Le projet de mise en compatibilité est soumis à une enquête publique réalisée conformément au chapitre III du titre II du
 livre Ier du code de l'environnement : 
 
 1° Par le préfet lorsqu'une déclaration d'utilité publique est requise, lorsque la mise en compatibilité est nécessaire pour
@@ -4778,14 +4778,14 @@ publique.
 
 Le procès-verbal de la réunion d'examen conjoint est joint au dossier de l'enquête publique. 
 
-A l'issue de l'enquête publique, l'établissement public prévu aux articles L. 122-4 et L. 122-4-1 : 
+III.-A l'issue de l'enquête publique, l'établissement public prévu aux articles L. 122-4 et L. 122-4-1 : 
 
 1° Emet un avis lorsque la décision de mise en compatibilité relève de la compétence de l'Etat. Cet avis est réputé favorable
 s'il n'est pas émis dans le délai de deux mois ; 
 
 2° Décide la mise en compatibilité du schéma, lorsque cette décision relève d'une personne publique autre que l'Etat. 
 
-La proposition de mise en compatibilité du schéma éventuellement modifié pour tenir compte des avis qui ont été joints au
+IV.-La proposition de mise en compatibilité du schéma éventuellement modifié pour tenir compte des avis qui ont été joints au
 dossier, des observations du public et du rapport du commissaire ou de la commission d'enquête est approuvée : 
 
 1° Par la déclaration d'utilité publique, lorsque celle-ci est requise ; 
@@ -4797,19 +4797,16 @@ deux mois à compter de la réception par l'établissement public de l'avis du c
 d'enquête ; 
 
 3° Par la déclaration de projet lorsqu'elle relève de la compétence de l'établissement public prévu aux articles L. 122-4 et
-L. 122-4-1 dans les autres cas.
+L. 122-4-1 dans les autres cas ; 
 
-**Nota:**
+4° Par arrêté préfectoral dans le cadre de la procédure intégrée pour le logement mentionnée à l'article L. 300-6-1 : 
 
-Ordonnance n° 2012-11 du 5 janvier 2012 article 19 : Les présentes dispositions entrent en vigueur à une date déterminée par
-décret en Conseil d'Etat et au plus tard le 1er janvier 2013. Toutefois, les dispositions en vigueur antérieurement à
-l'entrée en vigueur de l'ordonnance demeurent applicables :
+a) Lorsque celle-ci est engagée par l'Etat ; 
 
-- aux procédures d'élaboration et de révision des schémas de cohérence territoriale et des plans locaux d'urbanisme
-prescrites à cette même date ;
-
-- aux procédures de modification des schémas de cohérence territoriale et des plans locaux d'urbanisme lorsque le projet de
-modification a été notifié aux personnes publiques associées à la date d'entrée en vigueur de l'ordonnance.
+b) Lorsque celle-ci est engagée par une personne publique autre que l'établissement public prévu aux articles L. 122-4 et L.
+122-4-1 et que la décision de mise en compatibilité prévue au 2° du III du présent article n'est pas intervenue dans le délai
+de deux mois à compter de la réception par l'établissement public de l'avis du commissaire enquêteur ou de la commission
+d'enquête.
 
 **Liens relatifs à cet article**
 
@@ -4828,16 +4825,16 @@ modification a été notifié aux personnes publiques associées à la date d'en
 	  - Code de l'urbanisme - art. R*122-14 (VT)
 	  - Code de l'urbanisme - art. R300-20 (VD)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-11 du 5 janvier 2012 - art. 2
+	  - Ordonnance n°2013-888 du 3 octobre 2013 - art. 1
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L121-4 (VT)
-	  - Code de l'urbanisme - art. L122-16 (VD)
-	  - Code de l'urbanisme - art. L122-4 (VT)
-	  - Code de l'urbanisme - art. L122-8 (VD)
+	  - Code de l'urbanisme - art. L121-4
+	  - Code de l'urbanisme - art. L122-16
+	  - Code de l'urbanisme - art. L122-4
+	  - Code de l'urbanisme - art. L122-8
 
 
 ###### Article L122-17
@@ -6939,15 +6936,15 @@ modification a été notifié aux personnes publiques associées à la date d'en
 
 ###### Article L123-14-2
 
-Les dispositions proposées pour assurer la mise en compatibilité du plan font l'objet d'un examen conjoint de l'Etat, de
-l'établissement public de coopération intercommunale compétent ou, dans le cas prévu au deuxième alinéa de l'article L.
-123-6, de la commune, et des personnes publiques associées mentionnées au premier alinéa du I et au III de l'article L.
-121-4. 
+I.-Les dispositions proposées pour assurer la mise en compatibilité du plan prévue aux articles L. 123-14, L. 123-14-1 et L.
+300-6-1 font l'objet d'un examen conjoint de l'Etat, de l'établissement public de coopération intercommunale compétent ou,
+dans le cas prévu au deuxième alinéa de l'article L. 123-6, de la commune, et des personnes publiques associées mentionnées
+au premier alinéa du I et au III de l'article L. 121-4. 
 
 Lorsque la mise en compatibilité d'un plan local d'urbanisme intercommunal est nécessaire pour permettre la réalisation d'un
 projet, le maire de la ou des communes intéressées par ce projet est invité à participer à cet examen conjoint. 
 
-Le projet de mise en compatibilité est soumis à une enquête publique réalisée conformément au chapitre III du titre II du
+II.-Le projet de mise en compatibilité est soumis à une enquête publique réalisée conformément au chapitre III du titre II du
 livre Ier du code de l'environnement : 
 
 1° Par le préfet lorsqu'une déclaration d'utilité publique est requise, lorsque la mise en compatibilité est nécessaire pour
@@ -6966,7 +6963,7 @@ publique et l'adoption de la déclaration d'utilité publique.
 
 Le procès-verbal de la réunion d'examen conjoint est joint au dossier de l'enquête publique. 
 
-A l'issue de l'enquête publique, l'établissement public de coopération intercommunale compétent ou, dans le cas prévu au
+III.-A l'issue de l'enquête publique, l'établissement public de coopération intercommunale compétent ou, dans le cas prévu au
 deuxième alinéa de l'article L. 123-6, la commune : 
 
 1° Emet un avis lorsque la décision est de la compétence de l'Etat. Cet avis est réputé favorable s'il n'est pas émis dans le
@@ -6974,8 +6971,8 @@ délai de deux mois ;
 
 2° Décide la mise en compatibilité du plan, lorsque la décision relève d'une personne publique autre que l'Etat. 
 
-La mise en compatibilité du plan local d'urbanisme éventuellement modifié pour tenir compte des avis qui ont été joints au
-dossier et du résultat de l'enquête, est approuvée : 
+IV.-La mise en compatibilité du plan local d'urbanisme éventuellement modifié pour tenir compte des avis qui ont été joints
+au dossier et du résultat de l'enquête, est approuvée : 
 
 1° Par la déclaration d'utilité publique, lorsque celle-ci est requise ; 
 
@@ -6988,19 +6985,16 @@ commune de l'avis du commissaire enquêteur ou de la commission d'enquête ;
 3° Par la déclaration de projet lorsqu'elle est prise par l'établissement public de coopération intercommunale ou, dans le
 cas prévu au deuxième alinéa de l'article L. 123-6, par la commune, dans les autres cas. 
 
+4° Par arrêté préfectoral dans le cadre de la procédure intégrée pour le logement mentionnée à l'article L. 300-6-1 : 
+
+a) Lorsque celle-ci est engagée par l'Etat ; 
+
+b) Lorsque celle-ci est engagée par une personne publique autre que l'établissement public de coopération intercommunale ou,
+dans le cas prévu au deuxième alinéa de l'article L. 123-6, par la commune et que la décision de mise en compatibilité prévue
+au 2° du III du présent article n'est pas intervenue dans le délai de deux mois à compter de la réception par l'établissement
+public ou la commune de l'avis du commissaire enquêteur ou de la commission d'enquête. 
+
 Les procédures nécessaires à une ou plusieurs mises en compatibilité peuvent être menées conjointement.
-
-**Nota:**
-
-Ordonnance n° 2012-11 du 5 janvier 2012 article 19 : Les présentes dispositions entrent en vigueur à une date déterminée par
-décret en Conseil d'Etat et au plus tard le 1er janvier 2013. Toutefois, les dispositions en vigueur antérieurement à
-l'entrée en vigueur de l'ordonnance demeurent applicables :
-
-- aux procédures d'élaboration et de révision des schémas de cohérence territoriale et des plans locaux d'urbanisme
-prescrites à cette même date ;
-
-- aux procédures de modification des schémas de cohérence territoriale et des plans locaux d'urbanisme lorsque le projet de
-modification a été notifié aux personnes publiques associées à la date d'entrée en vigueur de l'ordonnance.
 
 **Liens relatifs à cet article**
 
@@ -7023,15 +7017,15 @@ modification a été notifié aux personnes publiques associées à la date d'en
 	  - Code de l'urbanisme - art. R300-22 (VD)
 	  - Code du patrimoine. - art. L642-3 (VD)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-11 du 5 janvier 2012 - art. 3
+	  - Ordonnance n°2013-888 du 3 octobre 2013 - art. 1
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L121-4 (VT)
-	  - Code de l'urbanisme - art. L123-14-1 (VD)
-	  - Code de l'urbanisme - art. L123-6 (VD)
+	  - Code de l'urbanisme - art. L121-4
+	  - Code de l'urbanisme - art. L123-14-1
+	  - Code de l'urbanisme - art. L123-6
 
 
 ###### Article L123-15
@@ -8453,9 +8447,9 @@ du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environn
 
 ###### Article L141-1-2
 
-La déclaration d'utilité publique ou, si une déclaration d'utilité publique n'est pas requise, la déclaration de projet d'une
-opération qui n'est pas compatible avec les dispositions du schéma directeur de la région d'Ile-de-France ne peut intervenir
-que si : 
+I. ― La déclaration d'utilité publique ou, si une déclaration d'utilité publique n'est pas requise, la déclaration de projet
+d'une opération qui n'est pas compatible avec les dispositions du schéma directeur de la région d'Ile-de-France ne peut
+intervenir que si : 
 
 1° L'enquête publique, réalisée dans les mêmes conditions que celles prévues à l'article L. 141-1, concernant cette opération
 a porté à la fois sur l'utilité publique de l'opération et sur la mise en compatibilité du schéma qui en est la
@@ -8469,14 +8463,19 @@ La déclaration d'utilité publique emporte approbation des nouvelles dispositio
 France. Elle est prise par décret en Conseil d'Etat en cas d'opposition de la région. 
 
 La déclaration de projet ne peut intervenir qu'après mise en compatibilité du schéma par l'autorité administrative et, en cas
-de désaccord de la région, par décret en Conseil d'Etat.
+de désaccord de la région, par décret en Conseil d'Etat. 
 
-**Nota:**
+II. ― Il peut également être procédé à la mise en compatibilité du schéma directeur de la région d'Ile-de-France en
+application de l'article L. 300-6-1. Les dispositions proposées pour assurer la mise en compatibilité du schéma font l'objet
+d'un examen conjoint de l'Etat, de la région d'Ile-de-France, des départements et des chambres consulaires. Le projet de mise
+en compatibilité est soumis à une enquête publique réalisée conformément au chapitre III du titre II du livre Ier du code de
+l'environnement. 
 
-Ces dispositions s'appliquent aux projets, plans, programmes ou autres documents de planification pour lesquels l'arrêté
-d'ouverture et d'organisation de l'enquête publique est publié à compter du premier jour du sixième mois après la publication
-du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environnement. Décret n° 2011-2018 du 29 décembre 2011
-publié le 30 décembre 2011.
+A l'issue de l'enquête publique, les dispositions de mise en compatibilité du schéma sont éventuellement modifiées pour tenir
+compte des avis qui ont été joints au dossier et du résultat de l'enquête. 
+
+La mise en compatibilité effectuée dans le cadre de la procédure intégrée pour le logement est approuvée par l'autorité
+administrative et, en cas de désaccord de la région, par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -8489,12 +8488,11 @@ publié le 30 décembre 2011.
 
 	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 240
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 250 (V)
+	  - Ordonnance n°2013-888 du 3 octobre 2013 - art. 1
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L141-1 (V)
+	  - Code de l'urbanisme - art. L141-1
 
 
 ###### Article L141-1-3
@@ -14712,6 +14710,188 @@ modification a été notifié aux personnes publiques associées à la date d'en
 	  - Code de l'urbanisme - art. L123-14-2 (VD)
 
 
+###### Article L300-6-1
+
+I. ― Lorsque la réalisation dans une unité urbaine d'une opération d'aménagement ou d'une construction comportant
+principalement des logements et présentant un caractère d'intérêt général nécessite la mise en compatibilité du schéma
+directeur de la région d'Ile-de-France, du plan d'aménagement et de développement durable de Corse, d'un schéma d'aménagement
+régional, d'un schéma de cohérence territoriale, d'un plan local d'urbanisme ou d'un document en tenant lieu, cette mise en
+compatibilité peut être réalisée dans le cadre de la procédure intégrée pour le logement définie au présent article. 
+
+L'opération d'aménagement ou la construction bénéficiant de la procédure intégrée pour le logement doit concourir, à
+l'échelle de la commune, à la mixité sociale dans l'habitat dans le respect de la diversité des fonctions urbaines,
+conformément aux dispositions de l'article L. 121-1. Elle peut relever d'un maître d'ouvrage public ou privé. Les unités
+urbaines sont celles mentionnées au III de l'article L. 5210-1-1 du code général des collectivités territoriales. 
+
+II. ― L'engagement de la procédure intégrée pour le logement peut être décidé soit par l'Etat ou ses établissements publics,
+soit par les collectivités territoriales ou leurs groupements compétents pour élaborer les documents d'urbanisme à mettre en
+compatibilité ou compétents pour autoriser ou réaliser l'opération d'aménagement ou de construction. 
+
+III. ― Lorsque la mise en compatibilité porte sur un schéma de cohérence territoriale, un plan local d'urbanisme ou un
+document en tenant lieu ou sur le schéma directeur de la région d'Ile-de-France, les dispositions des articles L. 122-16-1,
+L. 123-14-2 et L. 141-1-2 sont respectivement applicables sous réserve des dispositions du présent article. 
+
+Lorsque la mise en compatibilité concerne le plan d'aménagement et de développement durable de Corse ou un schéma
+d'aménagement régional, les dispositions des articles L. 4424-15-1 et L. 4433-10-1 du code général des collectivités
+territoriales sont respectivement applicables sous réserve des dispositions du présent article. 
+
+Pour la mise en œuvre des dispositions mentionnées aux deux alinéas précédents, l'opération d'aménagement ou la construction
+objet de la procédure intégrée pour le logement constitue le projet de la personne publique engageant cette procédure. 
+
+Lorsque la mise en compatibilité de plusieurs documents mentionnés au I du présent article est nécessaire, les procédures de
+mise en compatibilité applicables à chacun de ces documents peuvent être menées conjointement. 
+
+Lorsqu'une procédure intégrée pour le logement est engagée, les dispositions du document d'urbanisme dont la mise en
+compatibilité est requise ne peuvent faire l'objet d'une modification ou d'une révision entre l'ouverture de l'enquête
+publique organisée dans le cadre de la procédure intégrée et la décision procédant à la mise en compatibilité. 
+
+IV. ― Lorsque la mise en compatibilité des documents mentionnés au I impose l'adaptation : 
+
+― d'une directive territoriale d'aménagement ; 
+
+― du schéma directeur d'aménagement et de gestion des eaux ; 
+
+― du schéma d'aménagement et de gestion des eaux ; 
+
+― de la zone de protection du patrimoine architectural, urbain et paysager ; 
+
+― d'une aire de mise en valeur de l'architecture et du patrimoine ; 
+
+― d'un plan de prévention des risques naturels prévisibles, relatifs aux risques d'inondation à cinétique lente dans les
+zones urbaines d'un plan local d'urbanisme mentionné à l'article L. 562-1 du code de l'environnement, hors champs d'expansion
+des crues ; 
+
+― d'un plan de prévention des risques naturels prévisibles, mentionné à l'article L. 562-1 du code de l'environnement,
+relatif aux risques liés aux cavités souterraines et aux marnières dans l'hypothèse d'un comblement de la cavité ou de la
+marnière ; 
+
+― d'un plan de prévention des risques miniers mentionné à l'article L. 174-5 du nouveau code minier dans l'hypothèse d'un
+comblement des cavités minières ou d'une étude du sous-sol démontrant l'absence de telles cavités ; 
+
+― d'un schéma régional de cohérence écologique ; 
+
+― d'un plan climat-énergie territorial ; 
+
+― d'un plan de déplacements urbains ; 
+
+― d'un programme local de l'habitat, 
+
+l'Etat procède aux adaptations nécessaires dans les conditions prévues au présent IV. 
+
+Ces adaptations ne doivent pas méconnaître les objectifs fixés par les documents adaptés ni porter atteinte à l'intérêt
+culturel, historique ou écologique des zones concernées. Elles ne peuvent pas modifier la vocation de l'ensemble de la zone
+où se situe le projet mais seulement prévoir des exceptions ponctuelles et d'ampleur limitée à cette vocation. 
+
+Lorsque la procédure intégrée pour le logement conduit à l'adaptation d'un plan de prévention des risques d'inondation, le
+projet d'aménagement ou de construction prévoit les mesures de prévention, de protection et de sauvegarde nécessaires pour
+assurer la sécurité des personnes et des biens ; il ne peut aggraver les risques considérés. 
+
+Les adaptations proposées sont présentées par l'Etat dans le cadre des procédures prévues, selon le cas, aux articles L.
+122-16-1, L. 123-14-2 ou L. 141-1-2 du présent code ou aux articles L. 4424-15-1 ou L. 4433-10-1 du code général des
+collectivités territoriales auxquelles les autorités ou services compétents pour élaborer les documents mentionnés au IV du
+présent article ainsi que le comité régional " trame verte et bleue " lorsque l'adaptation porte sur le schéma régional de
+cohérence écologique participent. 
+
+Il est procédé à une seule enquête publique ouverte et organisée par le représentant de l'Etat dans le département et portant
+à la fois sur l'adaptation des documents mentionnés au présent IV et sur la mise en compatibilité des documents d'urbanisme
+mentionnés au III. Les dispositions des deuxième et troisième alinéas du I de l'article L. 123-6 du code de l'environnement
+sont applicables à cette enquête. 
+
+A l'issue de l'enquête publique, les adaptations sont soumises, chacun en ce qui le concerne, à l'avis des autorités ou
+services compétents pour élaborer les documents mentionnés au IV ainsi qu'au comité régional " trame verte et bleue " lorsque
+l'adaptation porte sur le schéma régional de cohérence écologique. Ils rendent leur avis au plus tard deux mois après leur
+saisine. A défaut, cet avis est réputé favorable. 
+
+Les mesures d'adaptation, éventuellement modifiées pour tenir compte des avis qui ont été joints au dossier, des observations
+du public et du rapport du commissaire ou de la commission d'enquête, sont approuvées par arrêté préfectoral ou, si le
+document adapté a été approuvé par décret en Conseil d'Etat, par décret en Conseil d'Etat. 
+
+Les documents mentionnés au présent IV ne peuvent faire l'objet d'une modification ou d'une révision portant sur les
+dispositions dont l'adaptation est requise dans le cadre de la procédure intégrée pour le logement entre l'ouverture de
+l'enquête publique organisée dans le cadre de la procédure intégrée et la décision procédant à l'adaptation des documents. 
+
+V. ― Les dispositions de mise en compatibilité et d'adaptation des documents mentionnés au présent article font l'objet d'une
+évaluation environnementale préalablement à la réalisation de l'examen conjoint si l'étude d'impact du projet n'a pas inclus
+l'analyse de l'incidence de ces dispositions sur l'environnement. 
+
+VI. ― Lorsque le projet d'opération d'aménagement ou de construction est suffisamment précis à la date de la décision
+d'engagement de la procédure intégrée pour le logement, les pièces nécessaires à la délivrance des autorisations requises
+pour sa réalisation peuvent être transmises dès cette date par l'autorité ayant décidé l'engagement de la procédure pour
+instruction aux autorités compétentes pour délivrer ces autorisations. 
+
+Un décret en Conseil d'Etat précise dans ce cas les pièces nécessaires aux autorités compétentes et les délais dont elles
+disposent pour se prononcer sur le projet.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 13 (VD)
+	  - Décret n°2015-218 du 25 février 2015 (V)
+	  - Décret n°2016-718 du 31 mai 2016 (V)
+	  - Ordonnance n°2016-1028 du 27 juillet 2016 - art. 32
+	  - Code de l'environnement - art. L212-2 (VT)
+	  - Code de l'environnement - art. L212-7 (VD)
+	  - Code de l'environnement - art. L229-26 (V)
+	  - Code de l'environnement - art. L371-3 (VD)
+	  - Code de l'environnement - art. L562-4-1 (VD)
+	  - Code de l'urbanisme - art. L122-16-1 (VT)
+	  - Code de l'urbanisme - art. L123-14-2 (VT)
+	  - Code de l'urbanisme - art. L123-23 (VD)
+	  - Code de l'urbanisme - art. L141-1-2 (VT)
+	  - Code de l'urbanisme - art. L143-44 (VD)
+	  - Code de l'urbanisme - art. L143-46 (VD)
+	  - Code de l'urbanisme - art. L143-47 (VD)
+	  - Code de l'urbanisme - art. L143-49 (VD)
+	  - Code de l'urbanisme - art. L153-54 (VD)
+	  - Code de l'urbanisme - art. L153-55 (VD)
+	  - Code de l'urbanisme - art. L153-56 (VD)
+	  - Code de l'urbanisme - art. L153-57 (VD)
+	  - Code de l'urbanisme - art. L153-58 (VD)
+	  - Code de l'urbanisme - art. L172-3 (VD)
+	  - Code de l'urbanisme - art. R*122-14 (VT)
+	  - Code de l'urbanisme - art. R*123-24 (VT)
+	  - Code de l'urbanisme - art. R*141-1 (VT)
+	  - Code de l'urbanisme - art. R104-4 (V)
+	  - Code de l'urbanisme - art. R104-5 (V)
+	  - Code de l'urbanisme - art. R104-7 (V)
+	  - Code de l'urbanisme - art. R104-8 (V)
+	  - Code de l'urbanisme - art. R143-14 (V)
+	  - Code de l'urbanisme - art. R172-1 (V)
+	  - Code de l'urbanisme - art. R300-15 (V)
+	  - Code de l'urbanisme - art. R300-16 (V)
+	  - Code de l'urbanisme - art. R300-17 (V)
+	  - Code de l'urbanisme - art. R300-18 (V)
+	  - Code de l'urbanisme - art. R300-19 (V)
+	  - Code de l'urbanisme - art. R300-21 (V)
+	  - Code de l'urbanisme - art. R300-23 (V)
+	  - Code de l'urbanisme - art. R300-25 (V)
+	  - Code de l'urbanisme - art. R300-27 (V)
+	  - Code de l'urbanisme - art. R423-21 (V)
+	  - Code de l'urbanisme - art. R423-32-1 (V)
+	  - Code de l'urbanisme - art. R423-71-2 (V)
+	  - Code de la construction et de l'habitation. - art. L302-4 (V)
+	  - Code des transports - art. L1214-23-1 (VD)
+	  - Code des transports - art. L1214-24 (VD)
+	  - Code du patrimoine. - art. L642-8 (VD)
+	  - Code général des collectivités territoriales - art. L4424-15-1 (VD)
+	  - Code général des collectivités territoriales - art. L4433-10-1 (VD)
+	  - Code général des collectivités territoriales - art. R4424-7-1 (V)
+	  - Code général des collectivités territoriales - art. R4433-16-1 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2013-888 du 3 octobre 2013 - art. 1
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L5210-1-1
+	  - Code de l'urbanisme - art. L121-1
+	  - Code de l'environnement - art. L123-6
+	  - Code de l'environnement - art. L562-1
+	  - Code minier (nouveau) - art. L174-5
+
+
 ###### Article L300-7
 
 Dans les zones urbaines sensibles, lorsque l'état de dégradation ou l'absence d'entretien par le ou les propriétaires d'un
@@ -19352,12 +19532,12 @@ compter du 1er mars 2012.
 La part communale ou intercommunale de la taxe d'aménagement est instituée : 
 
 1° De plein droit dans les communes dotées d'un plan local d'urbanisme ou d'un plan d'occupation des sols, sauf renonciation
-expresse décidée par délibération dans les conditions prévues au huitième alinéa ; 
+expresse décidée par délibération dans les conditions prévues au neuvième  alinéa ; 
 
 2° Par délibération du conseil municipal dans les autres communes ; 
 
 3° De plein droit dans les communautés urbaines, sauf renonciation expresse décidée par délibération dans les conditions
-prévues au huitième alinéa ; 
+prévues au neuvième  alinéa ; 
 
 4° Par délibération de l'organe délibérant dans les autres établissements publics de coopération intercommunale compétents en
 matière de plan local d'urbanisme en lieu et place des communes qu'ils regroupent et avec leur accord exprimé dans les
@@ -19366,9 +19546,15 @@ conditions prévues par le II de l'article L. 5211-5 du code général des colle
 La taxe mentionnée aux 1° à 4° est instituée sur l'ensemble du territoire de la commune ou dans l'ensemble des communes
 membres de l'établissement public de coopération intercommunale. 
 
+Dans les cas mentionnés aux 1° et 2°, tout ou partie de la taxe perçue par la commune peut être reversé à l'établissement
+public de coopération intercommunale ou aux groupements de collectivités dont elle est membre, compte tenu de la charge des
+équipements publics relevant, sur le territoire de cette commune, de leurs compétences, dans les conditions prévues par
+délibérations concordantes du conseil municipal et de l'organe délibérant de l'établissement public de coopération
+intercommunale ou du groupement de collectivités.  
+
 Dans les cas mentionnés aux 3° et 4°, une délibération de l'organe délibérant prévoit les conditions de reversement de tout
-ou partie de la taxe perçue par l'établissement public de coopération intercommunale à ses communes membres compte tenu de la
-charge des équipements publics relevant de leurs compétences. 
+ou partie de la taxe perçue par l'établissement public de coopération intercommunale à ses communes membres ou groupements de
+collectivités  compte tenu de la charge des équipements publics relevant de leurs compétences. 
 
 Les délibérations par lesquelles le conseil municipal ou l'organe délibérant de l'établissement public de coopération
 intercommunale institue la taxe, renonce à la percevoir ou la supprime sont valables pour une durée minimale de trois ans à
@@ -19387,13 +19573,13 @@ compter du 1er mars 2012.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+	  - Loi n°2013-1278 du 29 décembre 2013 - art. 89
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L5211-5 (V)
+	  - Code général des collectivités territoriales - art. L5211-5
 
 	**Cité par**:
 
@@ -19415,7 +19601,7 @@ compter du 1er mars 2012.
 ###### Article L331-3
 
 La part départementale de la taxe d'aménagement est instituée par délibération du conseil général dans les conditions fixées
-au huitième alinéa de l'article L. 331-2 en vue de financer, d'une part, la politique de protection des espaces naturels
+au neuvième  alinéa de l'article L. 331-2 en vue de financer, d'une part, la politique de protection des espaces naturels
 sensibles prévue à l'article L. 142-1 ainsi que les dépenses prévues à l'article L. 142-2 et, d'autre part, les dépenses des
 conseils d'architecture, d'urbanisme et de l'environnement en application de l'article 8 de la loi n° 77-2 du 3 janvier 1977
 sur l'architecture. 
@@ -19441,9 +19627,9 @@ départementaux, y compris aux opérations préparatoires à ce scrutin (date in
 
 	**Cite**:
 
-	  - Loi n°77-2 du 3 janvier 1977 - art. 3 (V)
-	  - Code de l'urbanisme - art. L142-1 (V)
-	  - Code de l'urbanisme - art. L142-2 (VT)
+	  - Loi n°77-2 du 3 janvier 1977 - art. 3
+	  - Code de l'urbanisme - art. L142-1
+	  - Code de l'urbanisme - art. L142-2
 
 	**Cité par**:
 
@@ -19456,9 +19642,9 @@ départementaux, y compris aux opérations préparatoires à ce scrutin (date in
 	  - Code de l'urbanisme - art. R*331-5 (Ab)
 	  - Code général des collectivités territoriales - art. L3332-1 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+	  - Loi n°2013-1278 du 29 décembre 2013 - art. 89
 
 	**Codifié par**:
 
@@ -19468,8 +19654,8 @@ départementaux, y compris aux opérations préparatoires à ce scrutin (date in
 ###### Article L331-4
 
 La part de la taxe d'aménagement versée à la région d'Ile-de-France est instituée par délibération du conseil régional, dans
-les conditions fixées au huitième alinéa de l'article L. 331-2, en vue de financer des équipements collectifs, principalement
-des infrastructures de transport, rendus nécessaires par l'urbanisation. 
+les conditions fixées au neuvième  alinéa de l'article L. 331-2, en vue de financer des équipements collectifs,
+principalement des infrastructures de transport, rendus nécessaires par l'urbanisation. 
 
 Elle est instituée dans toutes les communes de la région. 
 
@@ -19487,11 +19673,11 @@ compter du 1er mars 2012.
 
 	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+	  - Loi n°2013-1278 du 29 décembre 2013 - art. 89
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L331-2 (V)
+	  - Code de l'urbanisme - art. L331-2
 
 	**Cité par**:
 
@@ -19707,7 +19893,7 @@ prévue au 2° de l'article L. 331-7 ;
 l'abattement mentionné au 2° de l'article L. 331-12 et qui sont financés à l'aide du prêt ne portant pas intérêt prévu à
 l'article L. 31-10-1 du code de la construction et de l'habitation ; 
 
-3° Les locaux à usage industriel mentionnés au 3° de l'article L. 331-12 du présent code ; 
+3° Les locaux à usage industriel ou artisanal  mentionnés au 3° de l'article L. 331-12 du présent code ; 
 
 4° Les commerces de détail d'une surface de vente inférieure à 400 mètres carrés ; 
 
@@ -19716,7 +19902,9 @@ historiques ;
 
 6° Les surfaces annexes à usage de stationnement des locaux mentionnés au 1° et ne bénéficiant pas de l'exonération totale ;
 
-7° Les surfaces des locaux annexes à usage de stationnement des immeubles autres que d'habitations individuelles.
+7° Les surfaces des locaux annexes à usage de stationnement des immeubles autres que d'habitations individuelles ;
+
+8° Les abris de jardin soumis à déclaration préalable.
 
 **Nota:**
 
@@ -19729,7 +19917,7 @@ départementaux, y compris aux opérations préparatoires à ce scrutin (date in
 
 	**Modifié par**:
 
-	  - Loi n°2012-1510 du 29 décembre 2012 - art. 44 (VD)
+	  - Loi n°2013-1278 du 29 décembre 2013 - art. 90
 
 	**Cite**:
 
