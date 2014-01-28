@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2014-01-01
+Version Consolidée au 2014-01-29
 
 # Partie législative
 
@@ -9617,9 +9617,9 @@ peut, avec l'accord du département, acquérir à l'amiable des terrains situés
 rural exerçant à la demande et au nom du département le droit de préemption prévu par le 9° de l'article L. 143-2 du code
 rural et de la pêche maritime ; 
 
-3° Par un établissement public mentionné au troisième ou au quatrième alinéa de l'article L. 321-1 du présent code ou un
-établissement public foncier local mentionné à l'article L. 324-1 agissant à la demande et au nom du département ou, avec son
-accord, d'une autre collectivité territoriale ou d'un établissement public de coopération intercommunale. 
+3° Par un établissement public mentionné      à l'article L. 321-1 du présent code ou un établissement public foncier local
+mentionné à l'article L. 324-1 agissant à la demande et au nom du département ou, avec son accord, d'une autre collectivité
+territoriale ou d'un établissement public de coopération intercommunale. 
 
 En l'absence de société d'aménagement foncier et d'établissement rural compétente, s'il n'a pas donné mandat à un
 établissement public mentionné à l'alinéa précédent, le département exerce lui-même ce droit de préemption prévu par le 9° de
@@ -9640,18 +9640,31 @@ préemption déjà prévu par les 1° à 8° de cet article.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 17 (V)
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L4413-2 (V)
-	  - Code rural - art. L143-2 (V)
-	  - Code de l'urbanisme - art. L142-3 (V)
-	  - Code de l'urbanisme - art. L143-1 (V)
-	  - Code de l'urbanisme - art. L321-1 (V)
+	  - Code général des collectivités territoriales - art. L4413-2
+	  - Code rural - art. L143-2
+	  - Code de l'urbanisme - art. L142-3
+	  - Code de l'urbanisme - art. L143-1
+	  - Code de l'urbanisme - art. L321-1
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L113-24 (VD)
+	  - Code de l'urbanisme - art. L113-25 (VD)
+	  - Code de l'urbanisme - art. L113-26 (VD)
+	  - Code de l'urbanisme - art. L113-27 (VD)
+	  - Code de l'urbanisme - art. L113-28 (VD)
 
 	**Cité par**:
 
+	  - Code de l'urbanisme - art. L143-6 (VT)
 	  - Code de l'urbanisme - art. R143-7 (VT)
 	  - Code de l'urbanisme - art. R143-8 (VT)
 	  - Code de l'urbanisme - art. R143-9 (VT)
@@ -16651,6 +16664,8 @@ du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environn
 L'Etat peut créer des établissements publics fonciers en considération d'enjeux d'intérêt général en matière d'aménagement et
 de développement durable. 
 
+La région d'Ile-de-France compte un seul établissement public foncier de l'Etat. 
+
 Les établissements publics fonciers mettent en place des stratégies foncières afin de mobiliser du foncier et de favoriser le
 développement durable et la lutte contre l'étalement urbain. Ces stratégies contribuent à la réalisation de logements,
 notamment de logements sociaux, en tenant compte des priorités définies par les programmes locaux de l'habitat. 
@@ -16779,7 +16794,7 @@ groupements ou d'un autre établissement public s'inscrit dans le cadre de conve
 
 	**Modifié par**:
 
-	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 17 (M)
 
 	**Cite**:
 
@@ -19192,31 +19207,33 @@ quartier d'affaires de La Défense.
 
 ###### Article L328-2
 
-Cet établissement public est habilité à gérer les ouvrages et espaces publics ainsi que les services d'intérêt général situés
-dans le périmètre de l'opération d'intérêt national visée à l'article L. 141-3 :
+Dans le respect des compétences dévolues à l'Etablissement public d'aménagement de La Défense Seine Arche, l'Etablissement
+public de gestion du quartier d'affaires de La Défense est compétent pour gérer les ouvrages et espaces publics ainsi que les
+services d'intérêt général situés dans le périmètre de l'opération d'intérêt national mentionnée à l'article L. 141-3. 
+
+Cette gestion comprend l'exploitation, l'entretien et la maintenance des ouvrages, espaces publics et services d'intérêt
+général ainsi que l'animation du site. 
+
+Les ouvrages et espaces publics ainsi que les services d'intérêt général mentionnés au premier alinéa sont ceux :
 
 - lui appartenant ;
 
-- appartenant à l'établissement public pour l'aménagement de la région dite de " La Défense " ;
+- appartenant à l'Etablissement public d'aménagement de La Défense Seine Arche sauf décision contraire de ce dernier ;
 
 - appartenant aux communes de Courbevoie et de Puteaux ou à l'Etat, dès lors qu'ils en font la demande. 
 
-Il assure également la mise en valeur et l'animation du site par toute initiative appropriée. 
-
-Il entreprend toute réalisation en rapport avec ces missions afin d'améliorer la qualité de vie du quartier d'affaires ou de
-garantir le niveau des prestations bénéficiant à ses usagers ou à ses habitants. 
-
-Il exerce ces compétences dans le respect du pouvoir de police des maires des communes concernées.
+L'établissement public exerce ses compétences de gestion dans le respect du pouvoir de police des maires des communes
+concernées.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-254 du 27 février 2007 - art. 2 () JORF 28 février 2007
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 22
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L141-3 (V)
+	  - Code de l'urbanisme - art. L141-3
 
 	**Cité par**:
 
@@ -19235,25 +19252,37 @@ Il exerce ces compétences dans le respect du pouvoir de police des maires des c
 ###### Article L328-3
 
 Pour l'exercice des missions mentionnées à l'article L. 328-2, les ouvrages, espaces publics et services d'intérêt général
-visés audit article sont soit mis à disposition, soit transférés en pleine propriété à l'Etablissement public par
-l'établissement public pour l'aménagement de la région dite de " La Défense " ou par les communes concernées. 
+visés audit article sont mis à disposition de l'établissement public par l'Etablissement public d'aménagement de La Défense
+Seine Arche, par les communes concernées ou par l'Etat.
 
-Ces transferts sont réalisés à titre gratuit et ne donnent lieu à aucun versement ou honoraires, ni à aucune indemnité ou
-perception de droit ou taxe. Ils sont constatés par procès-verbal. 
+Ces mises à disposition ont lieu à titre gratuit et ne donnent lieu à aucun versement ou honoraires, ni à aucune indemnité ou
+perception de droit ou taxe. 
+
+La liste, la consistance et la situation juridique des ouvrages, espaces publics et services d'intérêt général mis à
+disposition de l'établissement public sont fixées par arrêté conjoint des ministres chargés du budget, de l'urbanisme et des
+collectivités territoriales, après avis de l'Etablissement public d'aménagement de La Défense Seine Arche et de
+l'Etablissement public de gestion du quartier d'affaires de La Défense qui se prononcent dans un délai de trois mois à
+compter de la notification de la liste. A défaut d'un avis dans ce délai, l'avis est réputé donné.  
 
 L'établissement public bénéficiaire de la mise à disposition assume l'ensemble des obligations du propriétaire et possède les
-pouvoirs de gestion définis à l'article L. 1321-2 du code général des collectivités territoriales.
+pouvoirs de gestion définis à l'article L. 1321-2 du code général des collectivités territoriales. Il ne peut ni changer
+l'affectation des biens qui sont mis à sa disposition pour l'exercice de sa mission, ni les aliéner.
+
+Lorsque sa durée d'occupation excède cinq ans, un titre d'occupation constitutif de droits réels sur les biens appartenant à
+l'Etablissement public d'aménagement de la Défense Seine Arche ne peut être délivré par l'Etablissement public de gestion du
+quartier d'affaires de La Défense qu'avec l'accord de l'Etablissement public d'aménagement de La Défense Seine Arche, en vue
+d'une utilisation compatible avec les missions confiées aux deux établissements.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-254 du 27 février 2007 - art. 2 () JORF 28 février 2007
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 22
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L1321-2 (V)
-	  - Code de l'urbanisme - art. L328-2 (V)
+	  - Code général des collectivités territoriales - art. L1321-2
+	  - Code de l'urbanisme - art. L328-2
 
 	**Cité par**:
 
@@ -19268,18 +19297,20 @@ pouvoirs de gestion définis à l'article L. 1321-2 du code général des collec
 
 ###### Article L328-4
 
-Les ouvrages et espaces publics visés à l'article L. 328-2 appartenant ou mis à la disposition de l'Etablissement public de
-gestion du quartier d'affaires de La Défense peuvent être mis à la disposition de l'Etablissement public pour l'aménagement
-de la région dite de " La Défense " pour l'exercice de la mission de ce dernier, qui assume l'ensemble des obligations du
-propriétaire et possède les pouvoirs de gestion définis à l'article L. 1321-2 du code général des collectivités
-territoriales. Cette mise à disposition est constatée par procès-verbal. Une compensation financière est instituée lorsque
-cette opération affecte les ressources de l'établissement public de gestion.
+Pour l'exercice de ses missions, l'Etablissement public d'aménagement de La Défense Seine Arche peut demander à tout moment
+la fin de la mise à disposition de tout ouvrage ou espace public mentionné à l'article L. 328-2 qui a été mis à la
+disposition de l'Etablissement public de gestion du quartier d'affaires de La Défense. Une compensation financière est
+instituée lorsque cette opération affecte les ressources de l'établissement public de gestion.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Loi n°2007-254 du 27 février 2007 - art. 2 () JORF 28 février 2007
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Modifié par**:
+
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 22
 
 	**Cité par**:
 
@@ -19289,12 +19320,7 @@ cette opération affecte les ressources de l'établissement public de gestion.
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L1321-2 (V)
-	  - Code de l'urbanisme - art. L328-2 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+	  - Code de l'urbanisme - art. L328-2
 
 
 ###### Article L328-5
@@ -19448,15 +19474,10 @@ Le comptable de l'établissement public est un comptable public nommé par le pr
 
 ###### Article L328-10
 
-Un décret en Conseil d'Etat précise les conditions d'application du présent chapitre. Il fixe, en particulier, les conditions
-d'établissement et le contenu du procès-verbal visé aux articles L. 328-3 et L. 328-4 et les modalités des mises à
-disposition visées aux mêmes articles.
+Un décret en Conseil d'Etat précise les conditions d'application du présent chapitre. Il fixe, en particulier, les modalités
+des mises à disposition mentionnées aux articles L. 328-3 et L. 328-4.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2007-254 du 27 février 2007 - art. 2 () JORF 28 février 2007
 
 	**Cité par**:
 
@@ -19465,12 +19486,15 @@ disposition visées aux mêmes articles.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L328-3 (V)
-	  - Code de l'urbanisme - art. L328-4 (V)
+	  - Code de l'urbanisme - art. L328-3
 
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Modifié par**:
+
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 22
 
 
 ### Titre III : Dispositions financières
