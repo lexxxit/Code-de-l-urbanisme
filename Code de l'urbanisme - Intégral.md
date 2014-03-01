@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2014-02-23
+Version Consolidée au 2014-03-02
 
 # Partie législative
 
@@ -55665,6 +55665,28 @@ d'urbanisme en tenant lieu.
 	  - Décret n°2013-142 du 14 février 2013 - art. 12
 
 
+###### Article R*431-16-3
+
+Lorsque la demande de permis de construire porte sur une opération de construction d'immeuble collectif de plus de douze
+logements ou de plus de huit cents mètres carrés de surface de plancher, située dans une commune faisant l'objet d'un arrêté
+au titre de l'article L. 302-9-1 du code de la construction et de l'habitation, et en l'absence de dérogation préfectorale
+mentionnée à l'article L. 111-13 du code de l'urbanisme, le dossier de demande est complété par un tableau indiquant le
+nombre de logements familiaux et la part de ces logements familiaux correspondant à des logements locatifs sociaux définis à
+l'article L. 302-5 du code la construction et de l'habitation hors logements financés avec un prêt locatif social.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-253 du 27 février 2014 - art. 5
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L111-13
+	  - Code de la construction et de l'habitation. - art. L302-5
+	  - Code de la construction et de l'habitation. - art. L302-9-1
+
+
 ###### Article R*431-17
 
 Lorsque la demande de permis de construire porte sur des constructions dont une partie, ayant la destination de logements
@@ -57149,20 +57171,35 @@ coefficient d'occupation des sols à la superficie de chaque lot.
 
 ###### Article *R442-10
 
-Pour les lotissements soumis à permis d'aménager, la surface de plancher maximale autorisée peut être répartie entre les
-différents lots soit par le permis d'aménager, soit par le lotisseur à l'occasion de la vente ou de la location des lots. 
+Pour les lotissements soumis à permis d'aménager, la surface de plancher maximale autorisée ainsi que les majorations des
+règles relatives au gabarit et à la densité prévues par l'article L. 128-1 peuvent être réparties entre les différents lots
+soit par le permis d'aménager, soit par le lotisseur à l'occasion de la vente ou de la location des lots. 
 
 Pour les lotissements soumis à déclaration préalable, lorsqu'un coefficient d'occupation des sols est applicable, la surface
-de plancher maximale autorisée peut être répartie par le lotisseur à l'occasion de la vente ou de la location des lots. 
+de plancher maximale autorisée ainsi que les majorations des règles relatives au gabarit et à la densité prévues par
+l'article L. 128-1 peuvent être réparties par le lotisseur à l'occasion de la vente ou de la location des lots. 
 
 En l'absence de répartition dans les conditions définies dans les deux alinéas précédents, la surface de plancher maximale
 autorisée pour chaque lot résulte de l'application du coefficient d'occupation des sols à la superficie de chaque lot.
 
+**Nota:**
+
+Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
+déposées à compter du 1er avril 2014.
+
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 	**Modifié par**:
 
-	  - Décret n°2012-274 du 28 février 2012 - art. 5
+	  - Décret n°2014-253 du 27 février 2014 - art. 6
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L128-1
 
 	**Cité par**:
 
