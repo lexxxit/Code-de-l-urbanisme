@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2014-03-27
+Version Consolidée au 2014-03-27 00:00:01 +0100
 
 # Partie législative
 
@@ -2201,10 +2201,15 @@ territoriale.
 	  - Code de l'urbanisme - art. R*122-7 (VT)
 	  - Code rural - art. L511-3 (V)
 
-	**Modifié par**:
+	**Abrogé par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 129 (V)
-	  - Loi n°2014-366 du 24 mars 2014 - art. 137 (V)
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L132-7 (VD)
+	  - Code de l'urbanisme - art. L132-8 (VD)
+	  - Code de l'urbanisme - art. L132-9 (VD)
 
 	**Cite**:
 
@@ -7798,9 +7803,18 @@ publié à la date de publication de la présente loi.
 	  - Code rural - art. L112-2 (V)
 	  - Code rural - art. R152-33 (M)
 
-	**Modifié par**:
+	**Abrogé par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 133 (V)
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L151-43 (VD)
+	  - Code de l'urbanisme - art. L152-7 (VD)
+	  - Code de l'urbanisme - art. L153-60 (VD)
+	  - Code de l'urbanisme - art. L161-1 (VD)
+	  - Code de l'urbanisme - art. L162-1 (VD)
+	  - Code de l'urbanisme - art. L163-10 (VD)
 
 	**Codifié par**:
 
