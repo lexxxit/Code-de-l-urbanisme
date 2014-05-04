@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2014-04-01
+Version Consolidée au 2014-05-05
 
 # Partie législative
 
@@ -55477,13 +55477,27 @@ laquelle la décision tacite est intervenue.
 
 Le permis de construire, d'aménager ou de démolir ou la décision de non-opposition à une déclaration préalable peut être
 prorogé pour une année, sur demande de son bénéficiaire si les prescriptions d'urbanisme et les servitudes administratives de
-tous ordres auxquelles est soumis le projet n'ont pas évolué de façon défavorable à son égard.
+tous ordres auxquelles est soumis le projet n'ont pas évolué de façon défavorable à son égard. 
+
+Pour les installations de production d'électricité utilisant l'énergie mécanique du vent, la demande de prorogation
+mentionnée au premier alinéa peut être présentée, tous les ans, dans la limite de dix ans à compter de la délivrance de
+l'autorisation, le cas échéant après prorogation de l'enquête publique en application de l'article R. 123-24 du code de
+l'environnement. 
+
+La prorogation de l'enquête publique mentionnée à l'alinéa précédent est acquise si aucune décision n'a été adressée à
+l'exploitant dans le délai de deux mois à compter de la date de l'avis de réception par le représentant de l'Etat dans le
+département.
+
+**Nota:**
+
+Conformément à l'article 45 III du décret n° 2014-450 du 2 mai 2014, les dispositions des I et II s'appliquent aux
+autorisations et aux permis de construire en cours de validité à la date d'entrée en vigueur dudit décret.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+	  - Décret n°73-1023 1973-11-08
 
 	**Cité par**:
 
@@ -55493,9 +55507,13 @@ tous ordres auxquelles est soumis le projet n'ont pas évolué de façon défavo
 	  - Décret n°2014-1661 du 29 décembre 2014 - art. 2 (Ab)
 	  - Décret n°2016-6 du 5 janvier 2016 - art. 7 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°73-1023 1973-11-08
+	  - Décret n°2014-450 du 2 mai 2014 - art. 45 (VT)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. R123-24 (V)
 
 
 ###### Article R*424-22
