@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2014-05-05
+Version Consolidée au 2014-05-30
 
 # Partie législative
 
@@ -34677,18 +34677,27 @@ suivant la procédure prévue à l'article    R. 123-22 pour la mise à jour dud
 
 ###### Article R*126-3
 
-La direction des services fiscaux reçoit communication, à l'initiative du maire, de l'annexe du plan local d'urbanisme
-consacrée aux servitudes d'utilité publique affectant l'utilisation du sol.
+La   direction départementale ou, le cas échéant, régionale des finances publiques reçoit communication, à l'initiative du
+maire, de l'annexe du plan local d'urbanisme consacrée aux servitudes d'utilité publique affectant l'utilisation du sol.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2014-551 du 27 mai 2014 - art. 31
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R153-18 (V)
+	  - Code de l'urbanisme - art. R163-8 (V)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°2001-260 du 27 mars 2001 - art. 3 () JORF 28 mars 2001
 
 
 #### Chapitre VII : Dispositions favorisant la diversité de l'habitat.
@@ -34881,10 +34890,10 @@ accompagnée des pièces justifiant que son auteur a la qualité de propriétair
 plan parcellaire de la propriété dans laquelle ce terrain est compris et d'un état des plantations ainsi que de l'étude
 d'impact définie à l'article R. 122-3 du code de l'environnement. 
 
-La demande est instruite par le préfet qui consulte le directeur des services fiscaux et établit un rapport relatif notamment
-à la localisation et à l'étendue du terrain à déclasser ainsi qu'à la nature et à l'importance des constructions pouvant être
-autorisées et qui par ailleurs fait apparaître les conséquences d'un éventuel défrichement au regard des dispositions de
-l'article L. 311-3 du code forestier. 
+La demande est instruite par le préfet qui consulte le directeur départemental ou, le cas échéant, régional des finances
+publiques et établit un rapport relatif notamment à la localisation et à l'étendue du terrain à déclasser ainsi qu'à la
+nature et à l'importance des constructions pouvant être autorisées et qui par ailleurs fait apparaître les conséquences d'un
+éventuel défrichement au regard des dispositions de l'article L. 311-3 du code forestier. 
 
 Sauf s'il apparaît que la demande ne peut être accueillie, le préfet saisit du dossier le maire de chacune des communes
 intéressées en vue de la délibération du conseil municipal sur l'accord prévu au troisième alinéa de l'article L. 130-2. Si
@@ -34895,27 +34904,35 @@ ministre chargé de l'urbanisme.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
-
 	**Cite**:
 
-	  - Code forestier - art. L311-3 (M)
-	  - Code de l'environnement - art. R122-3 (V)
+	  - Code forestier - art. L311-3
+	  - Code de l'urbanisme - art. L130-2
+	  - Code de l'environnement - art. R122-3
 
 	**Anciens textes**:
 
 	  - Code de l'urbanisme - art. R*130-7 (M)
-	  - Code de l'urbanisme - art. R130-7 (M)
 
 	**Nouveaux textes**:
 
+	  - Code de l'urbanisme - art. R113-3 (V)
+	  - Code de l'urbanisme - art. R113-4 (V)
+	  - Code de l'urbanisme - art. R113-6 (V)
+	  - Code de l'urbanisme - art. R113-7 (V)
 	  - Code de l'urbanisme - art. R130-24 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°2014-551 du 27 mai 2014 - art. 31
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 
 ###### Article R*130-17
@@ -35009,26 +35026,30 @@ Au cas où la demande n'est pas accueillie, le préfet en informe le pétitionna
 Pour l'application des premier, deuxième et quatrième alinéas de l'article L. 130-2 du code de l'urbanisme, la valeur du
 terrain à bâtir offert en compensation, la valeur du terrain classé cédé gratuitement à la collectivité et le surcroît de
 valeur pris, du fait de l'autorisation de construire, par la partie du terrain conservée par le propriétaire sont fixés
-conformément aux évaluations fournies par le service des domaines qui, en ce qui concerne ce dernier terme, tient compte
-notamment des possibilités de construction.
+conformément aux évaluations fournies par le directeur départemental ou, le cas échéant, régional des finances publiques
+qui, en ce qui concerne ce dernier terme, tient compte notamment des possibilités de construction.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°84-229 du 29 mars 1984 - art. 4 () JORF 31 mars 1984 date d'entrée en vigueur 1 avril 1984
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L130-2 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R130-10 (M)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°2014-551 du 27 mai 2014 - art. 31
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L130-2
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R113-5 (V)
 
 
 ####  Section 5 : Dispositions diverses.
@@ -36061,12 +36082,13 @@ autorités administratives et entre les autorités administratives.
 
 Dès réception de la déclaration, le président du conseil général en transmet copie, éventuellement par voie électronique, en
 indiquant la date de l'avis de réception, de la décharge de cette déclaration, ou du premier des accusés de réception ou
-d'enregistrement délivré en application du I de l'article 5 de l'ordonnance n° 2005-1516 du 8 décembre 2005 : 
+d'enregistrement délivré en application du I de l'article 5 de l'ordonnance n° 2005-1516 du 8 décembre 2005 :
 
 - au maire de la commune concernée et, le cas échéant, au président de l'établissement public de coopération intercommunale
 compétent ;
 
-- au directeur des services fiscaux, en lui précisant si cette transmission vaut demande d'avis ;
+- au   directeur départemental ou, le cas échéant, régional des finances publiques, en lui précisant si cette transmission
+vaut demande d'avis ;
 
 - au Conservatoire de l'espace littoral et des rivages lacustres, lorsque cet établissement public est territorialement
 compétent et, dans ce cas, pour information, au président du conseil de rivage ;
@@ -36075,17 +36097,9 @@ compétent et, dans ce cas, pour information, au président du conseil de rivage
 
 **Nota:**
 
-Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
-2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
-communautaires, et modifiant le calendrier électoral s'appliquera aux élections organisées en mars 2015 à l'occasion du
-prochain renouvellement général des conseils départementaux, y compris aux opérations préparatoires à ce scrutin (Fin de
-vigueur : date indéterminée).
+
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
 
 	**Cite**:
 
@@ -36093,7 +36107,7 @@ vigueur : date indéterminée).
 
 	**Modifié par**:
 
-	  - Décret n°2012-489 du 13 avril 2012 - art. 1
+	  - Décret n°2014-551 du 27 mai 2014 - art. 31
 
 	**Cité par**:
 
@@ -36101,6 +36115,10 @@ vigueur : date indéterminée).
 	  - Code de l'urbanisme - art. R142-13 (VD)
 	  - Code de l'urbanisme - art. R142-15 (M)
 	  - Code de l'urbanisme - art. R142-9 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R142-11
@@ -36571,36 +36589,32 @@ d'urbanisme et fait l'objet d'une mention dans un journal diffusé dans le dépa
 indiquent les lieux où le dossier peut être consulté. Pour l'application de l'article L. 3131-1 du code général des
 collectivités territoriales, la date à prendre en compte pour l'affichage est celle du premier jour où il est effectué. 
 
-Cette délibération, accompagnée des plans de situation et de délimitation, est simultanément transmise au directeur des
-services fiscaux, au Conseil supérieur du notariat, à la chambre départementale des notaires, aux barreaux constitués près
-les tribunaux de grande instance dans le ressort desquels est institué le périmètre de protection ainsi qu'au greffe de ces
-tribunaux.
+Cette délibération, accompagnée des plans de situation et de délimitation, est simultanément transmise au   directeur
+départemental ou, le cas échéant, régional des finances publiques, au Conseil supérieur du notariat, à la chambre
+départementale des notaires, aux barreaux constitués près les tribunaux de grande instance dans le ressort desquels est
+institué le périmètre de protection ainsi qu'au greffe de ces tribunaux.
 
 **Nota:**
 
-Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
-2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
-communautaires, et modifiant le calendrier électoral s'appliquera aux élections organisées en mars 2015 à l'occasion du
-prochain renouvellement général des conseils départementaux, y compris aux opérations préparatoires à ce scrutin (Fin de
-vigueur : date indéterminée).
+
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L3131-1
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R143-6 (V)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-821 du 7 juillet 2006 - art. 1 () JORF 9 juillet 2006
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L3131-1 (V)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R143-6 (V)
+	  - Décret n°2014-551 du 27 mai 2014 - art. 31
 
 
 ###### Article R143-4
@@ -39378,11 +39392,16 @@ c) le montant de l'indemnité sollicitée.
 
 ###### Article R*160-30
 
-Le préfet statue sur la demande après avoir recueilli l'avis du directeur des services fiscaux.
+Le préfet statue sur la demande après avoir recueilli l'avis du   directeur départemental ou, le cas échéant, régional des
+finances publiques. 
 
 L'indemnité allouée est à la charge de l'Etat.
 
 **Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R121-30 (V)
 
 	**Codifié par**:
 
@@ -39390,7 +39409,11 @@ L'indemnité allouée est à la charge de l'Etat.
 
 	**Modifié par**:
 
-	  - Décret n°90-481 du 12 juin 1990 - art. 1 () JORF 14 juin 1990
+	  - Décret n°2014-551 du 27 mai 2014 - art. 31
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 
 ###### Article R*160-31
@@ -39560,21 +39583,17 @@ considération pour l'affichage en mairie est celle du premier jour où il est e
 ###### Article R211-3
 
 Le maire ou, le cas échéant, le président de l'établissement public de coopération intercommunale compétent adresse sans
-délai au directeur départemental des services fiscaux, au Conseil supérieur du notariat, à la chambre départementale des
-notaires, aux barreaux constitués près les tribunaux de grande instance dans le ressort desquels est institué le droit de
-préemption urbain et au greffe des mêmes tribunaux copie des actes ayant pour effet d'instituer ou de supprimer le droit de
-préemption urbain ou d'en modifier le champ d'application. Cette copie est accompagnée, s'il y a lieu, d'un plan précisant le
-champ d'application du droit de préemption urbain.
+délai au directeur départemental ou, le cas échéant, régional des finances publiques, au Conseil supérieur du notariat, à la
+chambre départementale des notaires, aux barreaux constitués près les tribunaux de grande instance dans le ressort desquels
+est institué le droit de préemption urbain et au greffe des mêmes tribunaux copie des actes ayant pour effet d'instituer ou
+de supprimer le droit de préemption urbain ou d'en modifier le champ d'application. Cette copie est accompagnée, s'il y a
+lieu, d'un plan précisant le champ d'application du droit de préemption urbain.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°87-284 du 22 avril 1987 - art. 1 ()
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°87-284 du 22 avril 1987 - art. 3 ()
+	  - Décret n°2014-551 du 27 mai 2014 - art. 31
 
 	**Cité par**:
 
@@ -39632,8 +39651,8 @@ Toute proposition faite en application du premier alinéa de l'article L. 211-5 
 l'arrêté prévu par l'article R. 213-5. Elle est adressée en quatre exemplaires par pli recommandé avec demande d'avis de
 réception ou déposée contre décharge à la mairie de la commune où se trouve situé le bien. 
 
-Dès réception de la proposition, le maire en transmet copie au directeur des services fiscaux en lui précisant si cette
-transmission vaut demande d'avis. 
+Dès réception de la proposition, le maire en transmet copie au   directeur départemental ou, le cas échéant, régional des
+finances publiques en lui précisant si cette transmission vaut demande d'avis. 
 
 Le maire transmet également copie de la proposition au délégataire éventuel du droit de préemption lorsque le titulaire de ce
 droit est la commune. Dans les autres cas, il transmet copie de la proposition au titulaire du droit de préemption, à charge
@@ -39649,13 +39668,9 @@ R. 213-11, le titulaire du droit de préemption est réputé avoir renoncé à l
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
-
 	**Modifié par**:
 
-	  - Décret n°86-516 du 14 mars 1986 - art. 2 () JORF 16 mars 1986 en vigueur le 1er juin 1987
+	  - Décret n°2014-551 du 27 mai 2014 - art. 31
 
 	**Cité par**:
 
@@ -39667,11 +39682,11 @@ R. 213-11, le titulaire du droit de préemption est réputé avoir renoncé à l
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L211-5 (V)
-	  - Code de l'urbanisme - art. R213-11 (V)
-	  - Code de l'urbanisme - art. R213-12 (V)
-	  - Code de l'urbanisme - art. R213-5 (V)
-	  - Code de l'urbanisme - art. R213-7 (V)
+	  - Code de l'urbanisme - art. L211-5
+	  - Code de l'urbanisme - art. R213-11
+	  - Code de l'urbanisme - art. R213-12
+	  - Code de l'urbanisme - art. R213-5
+	  - Code de l'urbanisme - art. R213-7
 
 	**Codifié par**:
 
@@ -40060,12 +40075,12 @@ autorités administratives et entre les autorités administratives.
 
 ###### Article R213-6
 
-Dès réception de la déclaration, le maire en transmet copie au directeur des services fiscaux en lui précisant si cette
-transmission vaut demande d'avis.
+Dès réception de la déclaration, le maire en transmet copie au   directeur départemental ou, le cas échéant, régional des
+finances publiques en lui précisant si cette transmission vaut demande d'avis. 
 
 Le maire transmet également copie de la déclaration au délégataire éventuel du droit de préemption lorsque le titulaire de ce
 droit est la commune. Dans les autres cas, il transmet copie de la déclaration au titulaire du droit de préemption, à charge
-pour ce dernier de la transmettre à son tour à l'éventuel délégataire.
+pour ce dernier de la transmettre à son tour à l'éventuel délégataire. 
 
 Les transmissions visées aux deux alinéas précédents, qui peuvent être effectuées par voie électronique, indiquent la date de
 l'avis de réception postal, du premier des accusés de réception ou d'enregistrement délivré en application du I de l'article
@@ -40083,7 +40098,7 @@ l'avis de réception postal, du premier des accusés de réception ou d'enregist
 
 	**Modifié par**:
 
-	  - Décret n°2012-489 du 13 avril 2012 - art. 2
+	  - Décret n°2014-551 du 27 mai 2014 - art. 31
 
 	**Cité par**:
 
@@ -40572,11 +40587,12 @@ que le titulaire envisage de proposer excède le montant fixé par l'arrêté du
 1211-2 du code général de la propriété des personnes publiques. 
 
 Dans les zones d'aménagement différé les périmètres provisoires de zone d'aménagement différé et dans les secteurs ayant fait
-l'objet de la délibération prévue par le dernier alinéa de l'article L. 211-4, le service des domaines doit être consulté,
-quel que soit le prix figurant dans la déclaration d'intention d'aliéner. 
+l'objet de la délibération prévue par le dernier alinéa de l'article L. 211-4, le directeur départemental ou, le cas échéant,
+régional des finances publiques  doit être consulté, quel que soit le prix figurant dans la déclaration d'intention
+d'aliéner. 
 
-L'avis du service des domaines doit être formulé dans le délai d'un mois à compter de la date de réception de la demande
-d'avis. Passé ce délai, il peut être procédé librement à l'acquisition. 
+L'avis du directeur départemental ou, le cas échéant, régional des finances publiques doit être formulé dans le délai d'un
+mois à compter de la date de réception de la demande d'avis. Passé ce délai, il peut être procédé librement à l'acquisition. 
 
 Les dispositions du présent article s'appliquent également aux propositions faites en application des articles L. 211-5 et L.
 212-3.
@@ -40585,7 +40601,7 @@ Les dispositions du présent article s'appliquent également aux propositions fa
 
 	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art. 13
+	  - Décret n°2014-551 du 27 mai 2014 - art. 31
 
 	**Cite**:
 
@@ -40971,13 +40987,14 @@ entre 300 et 1 000 mètres carrés.
 ###### Article R*214-4-1
 
 Lorsque la déclaration préalable porte sur un terrain défini au b de l'article R. 214-3, le maire transmet copie de la
-déclaration dès sa réception au directeur des services fiscaux en lui précisant si cette transmission vaut demande d'avis.
+déclaration dès sa réception au   directeur départemental ou, le cas échéant, régional des finances publiques en lui
+précisant si cette transmission vaut demande d'avis.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-753 du 22 juin 2009 - art. 1
+	  - Décret n°2014-551 du 27 mai 2014 - art. 31
 
 	**Cite**:
 
@@ -43291,14 +43308,15 @@ restauration immobilière, la notice présente ce projet d'ensemble ;
 
 c) Comporte des indications sur la situation de droit ou de fait de l'occupation du ou des bâtiments ;
 
-5° Une estimation de la valeur des immeubles avant restauration faite par le service des domaines et l'estimation sommaire du
-coût des restaurations.
+5° Une estimation de la valeur des immeubles avant restauration faite par le directeur départemental ou, le cas échéant,
+régional des finances publiques  et l'estimation sommaire du coût des restaurations.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°64-1156 1964-11-17 art. 1
+	  - Code de l'urbanisme - art. L313-4
+	  - Code de l'expropriation pour cause d'utilité publique
 
 	**Codifié par**:
 
@@ -43306,12 +43324,7 @@ coût des restaurations.
 
 	**Modifié par**:
 
-	  - Décret n°2007-817 du 11 mai 2007 - art. 1 () JORF 12 mai 2007 en vigueur le 1er octobre 2007
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L313-4 (M)
-	  - Code de l'expropriation pour cause d'utilité publique R11-3 à R11-17
+	  - Décret n°2014-551 du 27 mai 2014 - art. 31
 
 
 ###### Article R313-25
@@ -45844,15 +45857,16 @@ Dans le cas où sont exigées la participation pour le financement d'équipement
 l'article L. 332-12 ou la participation forfaitaire mentionnée au c du même article, l'arrêté en fixe le montant et énonce le
 mode d'évaluation de ce dernier. 
 
-Lorsque la participation forfaitaire inclut le versement de la participation prévue à l'article L. 332-9   dans sa rédaction
-antérieure à l'entrée en vigueur de la loi n° 2010-1658 du 29 décembre 2010  de finances rectificative pour 2010, dans les
+Lorsque la participation forfaitaire inclut le versement de la participation prévue à l'article L. 332-9 dans sa rédaction
+antérieure à l'entrée en vigueur de la loi n° 2010-1658 du 29 décembre 2010 de finances rectificative pour 2010, dans les
 programmes d'aménagement d'ensemble et que l'association s'en acquitte en tout ou en partie, conformément à l'article L.
 332-10 dans sa rédaction antérieure à l'entrée en vigueur de la loi n° 2010-1658 du 29 décembre 2010 de finances
 rectificative pour 2010, sous forme d'exécution de travaux ou d'apport de terrain, l'arrêté mentionne :
 
 - les caractéristiques de travaux et leur valeur déterminées d'un commun accord par l'association et le préfet ;
 
-- la superficie des terrains à apporter ainsi que leur valeur déterminée par le directeur des services fiscaux. 
+- la superficie des terrains à apporter ainsi que leur valeur déterminée par le   directeur départemental ou, le cas échéant,
+régional des finances publiques. 
 
 L'arrêté préfectoral intervient dans un délai de deux mois à compter de la réception du plan de remembrement par le préfet.
 Toutefois, dans le cas où il est envisagé de modifier les prescriptions d'urbanisme propres à l'opération qui ont été
@@ -45868,7 +45882,7 @@ déposées à compter du 1er avril 2014.
 
 	**Modifié par**:
 
-	  - Décret n°2014-253 du 27 février 2014 - art. 2
+	  - Décret n°2014-551 du 27 mai 2014 - art. 31
 
 	**Cite**:
 
@@ -48642,8 +48656,8 @@ demande des justifications nécessaires.
 
 Au cas où l'autorité qui assoit et liquide le versement n'est pas l'autorité compétente pour statuer sur la demande de permis
 de construire et où elle estime qu'il n'y a pas lieu à exonération, elle informe le service chargé de l'instruction de la
-demande de permis de construire que l'avis du directeur des services fiscaux doit être sollicité sur la valeur du mètre carré
-de terrain déclarée par le demandeur.
+demande de permis de construire que l'avis du   directeur départemental ou, le cas échéant, régional des finances publiques
+doit être sollicité sur la valeur du mètre carré de terrain déclarée par le demandeur.
 
 **Nota:**
 
@@ -48656,16 +48670,20 @@ l'urbanisme.
 
 **Liens relatifs à cet article**
 
+	**Abrogé par**:
+
+	  - Décret n°2016-6 du 5 janvier 2016 - art. 2
+
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L112-2 (V)
-	  - Code de l'urbanisme - art. L333-11 (Ab)
-	  - Code de l'urbanisme - art. R*112-2 (V)
-	  - Code de l'urbanisme - art. R*431-5 (V)
+	  - Code de l'urbanisme - art. L112-2
+	  - Code de l'urbanisme - art. L333-11
+	  - Code de l'urbanisme - art. R*112-2
+	  - Code de l'urbanisme - art. R*431-5 (M)
 
 	**Cité par**:
 
-	  - Code de l'urbanisme - art. R*333-21 (V)
+	  - Code de l'urbanisme - art. R*333-21 (Ab)
 	  - Code de l'urbanisme - art. R*333-7 (M)
 	  - Code de l'urbanisme - art. R*430-10 (M)
 
@@ -48673,22 +48691,13 @@ l'urbanisme.
 
 	  - Code de l'urbanisme - art. R335-3 (Ab)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Date de fin de vigueur indéterminée
-
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
 	**Modifié par**:
 
-	  - Décret n°84-669 1984-07-17 art. 1 3° JORF 21 juillet 1984
-
-	**Abrogé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 14 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
+	  - Décret n°2014-551 du 27 mai 2014 - art. 31
 
 
 ###### Article R*333-4
@@ -48701,26 +48710,27 @@ construire.
 
 L'intéressé en est informé par l'autorité compétente pour statuer sur le de permis de construire. 
 
-Le directeur des services fiscaux est consulté par le service chargé de l'instruction de la demande de permis de construire
-en vue d'émettre un avis sur la déclaration de la valeur du mètre carré de terrain souscrite par l'auteur de cette demande.
-Cet avis doit être émis par le directeur des services fiscaux dans le délai d'un mois suivant la réception de la demande
-d'avis. 
+Le   directeur départemental ou, le cas échéant, régional des finances publiques est consulté par le service chargé de
+l'instruction de la demande de permis de construire en vue d'émettre un avis sur la déclaration de la valeur du mètre carré
+de terrain souscrite par l'auteur de cette demande. Cet avis doit être émis par le   directeur départemental ou, le cas
+échéant, régional des finances publiques dans le délai d'un mois suivant la réception de la demande d'avis. 
 
 Il constitue l'estimation administrative. 
 
-L'existence d'un désaccord entre le maire et le directeur des services fiscaux sur l'estimation de la valeur du terrain ne
-donne pas compétence au préfet pour statuer sur la demande de permis de construire. 
+L'existence d'un désaccord entre le maire et le   directeur départemental ou, le cas échéant, régional des finances publiques
+sur l'estimation de la valeur du terrain ne donne pas compétence au préfet pour statuer sur la demande de permis de
+construire. 
 
-Si le directeur des services fiscaux retient une valeur différente de celle que l'intéressé a déclarée, celui-ci en est
-informé, par lettre recommandée avec demande d'avis de réception, par le service chargé de l'instruction de la demande de
-permis de construire au plus tard dans le délai de deux mois suivant la délivrance de l'autorisation sollicitée. Lorsqu'il
-n'est pas fait application de l'article R. 332-26, ce service en informe immédiatement le responsable du service de l'Etat
-dans le département, chargé de l'urbanisme. 
+Si le   directeur départemental ou, le cas échéant, régional des finances publiques retient une valeur différente de celle
+que l'intéressé a déclarée, celui-ci en est informé, par lettre recommandée avec demande d'avis de réception, par le service
+chargé de l'instruction de la demande de permis de construire au plus tard dans le délai de deux mois suivant la délivrance
+de l'autorisation sollicitée. Lorsqu'il n'est pas fait application de l'article R. 332-26, ce service en informe
+immédiatement le responsable du service de l'Etat dans le département, chargé de l'urbanisme. 
 
-En cas de désaccord entre le directeur des services fiscaux et le pétitionnaire sur la valeur du terrain, la juridiction
-compétente en matière d'expropriation est saisie, à l'initiative de la partie la plus diligente, par lettre recommandée
-adressée au secrétariat de cette juridiction. Celle-ci statue selon la procédure prévue par le code de l'expropriation pour
-cause d'utilité publique.
+En cas de désaccord entre le   directeur départemental ou, le cas échéant, régional des finances publiques et le
+pétitionnaire sur la valeur du terrain, la juridiction compétente en matière d'expropriation est saisie, à l'initiative de la
+partie la plus diligente, par lettre recommandée adressée au secrétariat de cette juridiction. Celle-ci statue selon la
+procédure prévue par le code de l'expropriation pour cause d'utilité publique.
 
 **Nota:**
 
@@ -48735,32 +48745,27 @@ l'urbanisme.
 
 	**Modifié par**:
 
-	  - Décret n°93-422 du 19 mars 1993 - art. 2 () JORF 24 mars 1993
+	  - Décret n°2014-551 du 27 mai 2014 - art. 31
 
 	**Abrogé par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 14 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R*332-26 (Ab)
+	  - Décret n°2016-6 du 5 janvier 2016 - art. 2
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*332-3 (Ab)
-	  - Code de l'urbanisme - art. R*333-21 (V)
+	  - Code de l'urbanisme - art. R*333-21 (Ab)
 	  - Code de l'urbanisme - art. R*333-7 (M)
 	  - Code de l'urbanisme - art. R332-28 (Ab)
 	  - Code de l'urbanisme - art. R421-4 (M)
 
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R332-26
+
 	**Nouveaux textes**:
 
 	  - Code de l'urbanisme - art. R335-4 (Ab)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Date de fin de vigueur indéterminée
 
 	**Codifié par**:
 
@@ -48822,20 +48827,20 @@ l'urbanisme.
 ###### Article R*333-6
 
 Le responsable du service de l'Etat dans le département, chargé de l'urbanisme, arrête le montant global du versement et le
-communique avec les indications nécessaires à la détermination de la part revenant à chaque attributaire au trésorier-payeur
-général et au maire. Il le communique également au pétitionnaire. 
+communique avec les indications nécessaires à la détermination de la part revenant à chaque attributaire au directeur
+départemental ou, le cas échéant, régional des finances publiques et au maire. Il le communique également au pétitionnaire. 
 
 En cas d'application de l'article R. 332-26, le maire est substitué au responsable du service de l'Etat dans le département,
 chargé de l'urbanisme, et informe celui-ci du montant du versement dans les mêmes conditions. Il en avise également le
 pétitionnaire. 
 
-Le comptable du trésor notifie le montant du versement au redevable. Le paiement doit être effectué dans les conditions
-définies aux deuxième et troisième alinéas de l'article L. 333-2. 
+Le comptable de la direction générale des finances publiques notifie le montant du versement au redevable. Le paiement doit
+être effectué dans les conditions définies aux deuxième et troisième alinéas de l'article L. 333-2. 
 
 Lorsque la décision de la juridiction de l'expropriation n'est plus susceptible d'appel ni de pourvoi en cassation, le
-comptable du Trésor procède, s'il y a lieu, à la mise en recouvrement d'une somme complémentaire ou à la restitution du
-montant excédentaire. Le paiement du complément doit intervenir dans les conditions indiquées au quatrième alinéa de
-l'article L. 333-2.
+comptable de la direction générale des finances publiques procède, s'il y a lieu, à la mise en recouvrement d'une somme
+complémentaire ou à la restitution du montant excédentaire. Le paiement du complément doit intervenir dans les conditions
+indiquées au quatrième alinéa de l'article L. 333-2.
 
 **Nota:**
 
@@ -48850,32 +48855,26 @@ l'urbanisme.
 
 	**Modifié par**:
 
-	  - Décret n°93-422 1993-03-19 art. 6 I, II JORF 24 mars 1993
-	  - Décret n°93-422 du 19 mars 1993 - art. 6 () JORF 24 mars 1993
+	  - Décret n°2014-551 du 27 mai 2014 - art. 31
 
 	**Abrogé par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 14 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
+	  - Décret n°2016-6 du 5 janvier 2016 - art. 2
 
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 384 bis (P)
 	  - Code de l'urbanisme - art. R*332-5 (Ab)
 	  - Code de l'urbanisme - art. R*333-21 (M)
-	  - Code de l'urbanisme - art. R*333-7 (V)
+	  - Code de l'urbanisme - art. R*333-7 (Ab)
 	  - Code de l'urbanisme - art. R*613-5 (Ab)
 	  - Code de l'urbanisme - art. R332-31 (Ab)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 384 C (P)
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L333-2 (Ab)
-	  - Code de l'urbanisme - art. R*332-26 (Ab)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Date de fin de vigueur indéterminée
+	  - Code de l'urbanisme - art. L333-2
+	  - Code de l'urbanisme - art. R332-26
 
 	**Codifié par**:
 
@@ -48889,7 +48888,7 @@ complémentaire éventuellement exigible est liquidé, notifié et recouvré dan
 R. 333-6. 
 
 Lorsque l'autorité compétente autorise le transfert d'un permis de construire qui a rendu exigible le versement, elle doit en
-informer sans délai le trésorier payeur général.
+informer sans délai le directeur départemental ou, le cas échéant, régional des finances publiques.
 
 **Nota:**
 
@@ -48902,30 +48901,26 @@ l'urbanisme.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°93-422 du 19 mars 1993 - art. 6 () JORF 24 mars 1993
-
-	**Abrogé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
-
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R*333-1 (V)
-	  - Code de l'urbanisme - art. R*333-6 (V)
+	  - Code de l'urbanisme - art. R*333-1
+	  - Code de l'urbanisme - art. R*333-6 (Ab)
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 384 D (P)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Date de fin de vigueur indéterminée
-
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°2014-551 du 27 mai 2014 - art. 31
+
+	**Abrogé par**:
+
+	  - Décret n°2016-6 du 5 janvier 2016 - art. 2
 
 
 ###### Article R*333-8
@@ -48981,9 +48976,9 @@ jusqu'au 31 décembre de la deuxième année qui suit celle de leur mise en reco
 décembre de la deuxième année qui suit celle du versement. 
 
 Les demandes de dégrèvement ou de restitution sont adressées au responsable du service de l'Etat dans le département, chargé
-de l'urbanisme, ou, en cas d'application de l'article R. 332-26, au maire qui fait connaître, le cas échéant, au trésorier-
-payeur général le montant du dégrèvement ou de la restitution à effectuer. Ce montant est calculé déduction faite du
-prélèvement visé à l'article L. 333-12 (alinéa 2). 
+de l'urbanisme, ou, en cas d'application de l'article R. 332-26, au maire qui fait connaître, le cas échéant, au   directeur
+départemental ou, le cas échéant, régional des finances publiques le montant du dégrèvement ou de la restitution à effectuer.
+Ce montant est calculé déduction faite du prélèvement visé à l'article L. 333-12 (alinéa 2). 
 
 La décision de dégrèvement ou de restitution est prise par le responsable du service de l'Etat dans le département, chargé de
 l'urbanisme ou, en cas d'application de l'article R. 332-26, par le maire.
@@ -49001,27 +48996,21 @@ l'urbanisme.
 
 	**Modifié par**:
 
-	  - Décret n°93-422 1993-03-19 art. 6 I, III JORF 24 mars 1993
-	  - Décret n°93-422 du 19 mars 1993 - art. 6 () JORF 24 mars 1993
+	  - Décret n°2014-551 du 27 mai 2014 - art. 31
 
 	**Abrogé par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 14 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
+	  - Décret n°2016-6 du 5 janvier 2016 - art. 2
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L333-12 (Ab)
-	  - Code de l'urbanisme - art. R*332-26 (Ab)
-	  - Code de l'urbanisme - art. R*333-8 (V)
+	  - Code de l'urbanisme - art. L333-12
+	  - Code de l'urbanisme - art. R*333-8 (Ab)
+	  - Code de l'urbanisme - art. R332-26
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 384 F (P)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Date de fin de vigueur indéterminée
 
 	**Codifié par**:
 
@@ -49391,31 +49380,27 @@ l'urbanisme.
 ###### Article R*333-19
 
 Au moment de la constitution du dossier de réalisation ou du bilan financier prévisionnel, la personne publique qui aménage
-la zone demande au directeur des services fiscaux d'estimer la valeur moyenne d'un mètre carré de terrain nu et libre à
-l'intérieur de la zone. Cette estimation initiale est annuellement révisée par la personne publique dans les mêmes formes.
-
-**Nota:**
-
-Décret 2007-18 du 5 janvier 2007 art. 14 : Les dispositions du chapitre III du titre III du livre III du code de l'urbanisme
-relatives au plafond légal de densité, dans leur rédaction antérieure à l'entrée en vigueur du présent décret, demeurent
-applicables dans les communes où un plafond légal de densité était institué le 31 décembre 1999 et dont le conseil municipal
-ou l'organe délibérant de l'établissement public de coopération intercommunale compétent n'a pas décidé de supprimer le
-plafond légal de densité ou d'instaurer la participation pour voirie et réseaux définie par l'article L. 332-11-1 du code de
-l'urbanisme.
+la zone demande au   directeur départemental ou, le cas échéant, régional des finances publiques d'estimer la valeur moyenne
+d'un mètre carré de terrain nu et libre à l'intérieur de la zone. Cette estimation initiale est annuellement révisée par la
+personne publique dans les mêmes formes.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Cité par**:
 
-	  - SPEC_APPLI: Date de fin de vigueur indéterminée
+	  - Code de l'urbanisme - art. R*333-23 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
+	**Modifié par**:
+
+	  - Décret n°2014-551 du 27 mai 2014 - art. 31
+
 	**Abrogé par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
+	  - Décret n°2016-6 du 5 janvier 2016 - art. 2
 
 
 ###### Article R*333-20
@@ -49475,7 +49460,8 @@ l'urbanisme.
 La surface de terrain indiquée dans l'acte notifié*au bénéficiaire de cession, location ou concession d'usage de parcelle* en
 application de l'article R. 333-20 ainsi que la valeur du mètre carré de terrain sont déclarées lors du dépôt de la demande
 de permis de construire dans les conditions définies à l'article R. 333-4. La valeur du mètre carré de terrain nu et libre
-est contrôlé par le directeur des services fiscaux selon les modalités indiquées par les articles R. 333-4 à R. 333-6. 
+est contrôlé par le   directeur départemental ou, le cas échéant, régional des finances publiques selon les modalités
+indiquées par les articles R. 333-4 à R. 333-6. 
 
 Toutefois, lorsque l'opération concerne un bâtiment répondant aux conditions d'exonération du versement pour dépassement du
 plafond légal de densité prévues dans l'article L. 112-2, l'auteur de la demande de permis de construire accompagne sa
@@ -49495,14 +49481,10 @@ l'urbanisme.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L112-2 (V)
-	  - Code de l'urbanisme - art. R*333-20 (V)
-	  - Code de l'urbanisme - art. R*333-3 (V)
-	  - Code de l'urbanisme - art. R*333-4 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Date de fin de vigueur indéterminée
+	  - Code de l'urbanisme - art. L112-2
+	  - Code de l'urbanisme - art. R*333-20 (Ab)
+	  - Code de l'urbanisme - art. R*333-3 (Ab)
+	  - Code de l'urbanisme - art. R*333-4 (Ab)
 
 	**Codifié par**:
 
@@ -49510,11 +49492,11 @@ l'urbanisme.
 
 	**Modifié par**:
 
-	  - Décret n°84-669 1984-07-17 art. 3 3°, art. 7 8° JORF 21 juillet 1984
+	  - Décret n°2014-551 du 27 mai 2014 - art. 31
 
 	**Abrogé par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
+	  - Décret n°2016-6 du 5 janvier 2016 - art. 2
 
 
 ###### Article R*333-22
@@ -49617,16 +49599,17 @@ Dans laquelle :
 
 Pa'représente le montant du versement dû par l'aménageur ; 
 
-v la valeur vénale des terrains nus et libres estimés par le trésorier-payeur général à la date de l'établissement du dossier
-de réalisation ou du bilan prévisionnel ; 
+v la valeur vénale des terrains nus et libres estimés par le   directeur départemental ou, le cas échéant, régional des
+finances publiques à la date de l'établissement du dossier de réalisation ou du bilan prévisionnel ; 
 
 D le dépassement prévu pour la zone, calculé dans les conditions définies à l'article R. 333-14. 
 
 Lorsque l'aménageur justifie, notamment par la production des permis de construire correspondants, de l'édification d'un
 nombre de mètres carrés de surface de plancher répondant aux conditions d'exonération définies par les troisième et quatrième
 alinéas de l'article L. 112-2, supérieur à celui retenu pour le calcul effectué en application de l'article R. 333-14,
-l'autorité compétente pour liquider le versement notifie au trésorier-payeur général que le montant des échéances concernées
-est réduit à due concurrence. Le cas échéant, les sommes perçues en exédent sont remboursées.
+l'autorité compétente pour liquider le versement notifie au   directeur départemental ou, le cas échéant, régional des
+finances publiques que le montant des échéances concernées est réduit à due concurrence. Le cas échéant, les sommes perçues
+en exédent sont remboursées.
 
 **Nota:**
 
@@ -49641,25 +49624,21 @@ l'urbanisme.
 
 	**Modifié par**:
 
-	  - Décret n°93-422 du 19 mars 1993 - art. 6 () JORF 24 mars 1993
+	  - Décret n°2014-551 du 27 mai 2014 - art. 31
 
 	**Abrogé par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
+	  - Décret n°2016-6 du 5 janvier 2016 - art. 2
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L112-2 (V)
-	  - Code de l'urbanisme - art. R*333-14 (V)
+	  - Code de l'urbanisme - art. L112-2
+	  - Code de l'urbanisme - art. R*333-14
 
 	**Cité par**:
 
-	  - Code de l'urbanisme - art. R*333-32 (V)
+	  - Code de l'urbanisme - art. R*333-32 (Ab)
 	  - Code de l'urbanisme - art. R*333-33 (Ab)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Date de fin de vigueur indéterminée
 
 	**Codifié par**:
 
@@ -49715,8 +49694,8 @@ l'urbanisme.
 
 ###### Article R*333-26
 
-Le trésorier-payeur général reçoit notification du traité de concession à l'initiative du représentant de l'Etat dans le
-département ou de son délégué dans l'arrondissement.
+Le   directeur départemental ou, le cas échéant, régional des finances publiques reçoit notification du traité de concession
+à l'initiative du représentant de l'Etat dans le département ou de son délégué dans l'arrondissement.
 
 **Nota:**
 
@@ -49729,21 +49708,17 @@ l'urbanisme.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Date de fin de vigueur indéterminée
-
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
 	**Modifié par**:
 
-	  - Décret n°2006-959 du 31 juillet 2006 - art. 4 () JORF 2 août 2006
+	  - Décret n°2014-551 du 27 mai 2014 - art. 31
 
 	**Abrogé par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
+	  - Décret n°2016-6 du 5 janvier 2016 - art. 2
 
 
 ###### Article R*333-27
@@ -49899,24 +49874,11 @@ l'urbanisme.
 ###### Article R*333-32
 
 En cas de modification du périmètre de la zone, du plan d'aménagement de la zone, du plan local d'urbanisme ou du document
-d'urbanisme en tenant lieu, de modification supérieure à 10 % de la valeur des terrains constatée par le directeur des
-services fiscaux les versements non encore échus sont révisés dans les conditions définies aux articles R. 333-24 et R.
-333-25.
-
-**Nota:**
-
-Décret 2007-18 du 5 janvier 2007 art. 14 : Les dispositions du chapitre III du titre III du livre III du code de l'urbanisme
-relatives au plafond légal de densité, dans leur rédaction antérieure à l'entrée en vigueur du présent décret, demeurent
-applicables dans les communes où un plafond légal de densité était institué le 31 décembre 1999 et dont le conseil municipal
-ou l'organe délibérant de l'établissement public de coopération intercommunale compétent n'a pas décidé de supprimer le
-plafond légal de densité ou d'instaurer la participation pour voirie et réseaux définie par l'article L. 332-11-1 du code de
-l'urbanisme.
+d'urbanisme en tenant lieu, de modification supérieure à 10 % de la valeur des terrains constatée par le   directeur
+départemental ou, le cas échéant, régional des finances publiques les versements non encore échus sont révisés dans les
+conditions définies aux articles R. 333-24 et R. 333-25.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Date de fin de vigueur indéterminée
 
 	**Codifié par**:
 
@@ -49924,16 +49886,16 @@ l'urbanisme.
 
 	**Modifié par**:
 
-	  - Décret n°2001-260 du 27 mars 2001 - art. 3 () JORF 28 mars 2001
+	  - Décret n°2014-551 du 27 mai 2014 - art. 31
 
 	**Abrogé par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 13 (V) JORF 6 janvier 2007 en vigueur le 1er octobre 2007 sous réserve art. 14
+	  - Décret n°2016-6 du 5 janvier 2016 - art. 2
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R*333-24 (V)
-	  - Code de l'urbanisme - art. R*333-25 (V)
+	  - Code de l'urbanisme - art. R*333-24 (Ab)
+	  - Code de l'urbanisme - art. R*333-25 (Ab)
 
 
 ###### Article R*333-33
@@ -55031,7 +54993,8 @@ Lorsque la décision met à la charge du bénéficiaire du permis une ou plusieu
 
 Lorsqu'une des ces contributions prend la forme d'un apport de terrain en application de l'article L. 332-10, dans sa
 rédaction antérieure à l'entrée en vigueur de la loi n° 2010-1658 du 29 décembre 2010 de finances rectificative pour 2010 la
-décision précise la superficie à céder et en mentionne la valeur déterminée par le directeur des services fiscaux. 
+décision précise la superficie à céder et en mentionne la valeur déterminée par le   directeur départemental ou, le cas
+échéant, régional des finances publiques. 
 
 Lorsqu'une des ces contributions prend la forme d'exécution de travaux en application de l'article L. 332-10, dans sa
 rédaction antérieure à l'entrée en vigueur de la loi n° 2010-1658 du 29 décembre 2010 de finances rectificative pour 2010 la
@@ -55043,6 +55006,10 @@ Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions
 déposées à compter du 1er avril 2014.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 	**Cite**:
 
@@ -55059,11 +55026,7 @@ déposées à compter du 1er avril 2014.
 
 	**Modifié par**:
 
-	  - Décret n°2014-253 du 27 février 2014 - art. 4
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
+	  - Décret n°2014-551 du 27 mai 2014 - art. 31
 
 
 ###### Article R*424-8
@@ -61949,28 +61912,25 @@ départemental de l'équipement, la détermination de l'assiette et la liquidati
 
 Le directeur départemental de l'équipement et le maire peuvent déléguer leur signature aux agents placés sous leur autorité. 
 
-A défaut de paiement de la redevance dans le délai fixé à l'avertissement portant notification de la décision visée à
-l'alinéa précédent, la créance du Trésor fait l'objet d'un avis de mise en recouvrement. Ce dernier est émis conformément aux
-dispositions de l'article L. 79 du code du domaine de l'Etat par le service des domaines dans le délai de deux ans à compter
-soit de la délivrance du permis de construire, soit du dépôt des déclarations prévues par les articles L. 520-9 et R. 422-3
-du présent code ou à défaut de la constatation du début des travaux.
+A défaut de paiement de la redevance dans le délai fixé à l'avertissement portant notification de la décision visée au
+premier alinéa, la créance fait l'objet d'un titre de perception. Ce dernier est émis conformément aux dispositions de
+l'article L. 2323-1 du code général de la propriété des personnes publiques par le directeur départemental ou, le cas
+échéant, régional des finances publiques dans le délai de deux ans à compter soit de la délivrance du permis de construire,
+soit du dépôt des déclarations prévues par les articles L. 421-4 et L. 520-9 du présent code ou à défaut de la constatation
+du début des travaux.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°60-941 1960-09-05 ART. 7
-
 	**Modifié par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 11 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+	  - Décret n°2014-551 du 27 mai 2014 - art. 31
 
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. L79 (Ab)
+	  - Code général de la propriété des personnes publ... - art. L2323-1 (M)
+	  - Code de l'urbanisme - art. L421-4 (VD)
 	  - Code de l'urbanisme - art. L422-1 (V)
 	  - Code de l'urbanisme - art. L520-9 (V)
-	  - Code de l'urbanisme - art. R*422-3 (V)
 
 	**Cité par**:
 
@@ -61983,20 +61943,20 @@ du présent code ou à défaut de la constatation du début des travaux.
 
 ###### Article R520-7
 
-A défaut de paiement par le débiteur désigné sur l'avis de mise en recouvrement, l'administration des domaines peut émettre
-de nouveaux avis de mise en recouvrement au nom des propriétaires successifs des locaux et en poursuivre le recouvrement en
-principal, pénalité et intérêts, pendant un délai d'un an après la déclaration d'achèvement des travaux ou de la constatation
-de l'achèvement de ces travaux.
+A défaut de paiement par le débiteur désigné sur le titre de perception, le directeur départemental ou, le cas échéant,
+régional des finances publiques peut émettre de nouveaux titres de perception au nom des propriétaires successifs des locaux
+et en poursuivre le recouvrement en principal, pénalité et intérêts, pendant un délai d'un an après la déclaration
+d'achèvement des travaux ou de la constatation de l'achèvement de ces travaux.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°60-941 1960-09-05 ART. 8
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°2014-551 du 27 mai 2014 - art. 31
 
 
 ###### Article R520-8
@@ -62089,18 +62049,9 @@ retard.
 ###### Article R520-11
 
 Un arrêté conjoint du ministre chargé de l'urbanisme et du ministre chargé du budget fixe les conditions dans lesquelles la
-redevance est liquidée par les autorités mentionnées au premier alinéa de l'article R. 520-6 et perçue par le service des
-domaines.
+redevance est liquidée et perçue par les autorités mentionnées à l'article R. 520-6.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°60-941 1960-09-05 ART. 13
-
-	**Modifié par**:
-
-	  - Décret n°2002-676 du 30 avril 2002 - art. 2 () JORF 2 mai 2002
 
 	**Cite**:
 
@@ -62109,6 +62060,10 @@ domaines.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°2014-551 du 27 mai 2014 - art. 31
 
 
 ####  Section 2 : Montant des redevances
