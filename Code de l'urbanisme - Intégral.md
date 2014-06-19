@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2014-05-30
+Version Consolidée au 2014-06-20
 
 # Partie législative
 
@@ -3308,20 +3308,24 @@ population tout en limitant les obligations de déplacement et les émissions de
 localisation des équipements commerciaux et la maîtrise des flux de personnes et de marchandises, de consommation économe de
 l'espace et de préservation de l'environnement, des paysages et de l'architecture.
 
-Le document d'orientation et d'objectifs détermine les conditions d'implantation des équipements commerciaux qui, du fait de
-leur importance, sont susceptibles d'avoir un impact significatif sur l'aménagement du territoire.
+Il peut comprendre un document d'aménagement artisanal et commercial déterminant les conditions d'implantation des
+équipements commerciaux qui, du fait de leur importance, sont susceptibles d'avoir un impact significatif sur l'aménagement
+du territoire et le développement durable.
 
 Ces conditions privilégient la consommation économe de l'espace, notamment en entrée de ville, par la compacité des formes
 bâties, l'utilisation prioritaire des surfaces commerciales vacantes et l'optimisation des surfaces dédiées au stationnement.
 Elles portent également sur la desserte de ces équipements par les transports collectifs et leur accessibilité aux piétons et
 aux cyclistes ainsi que sur leur qualité environnementale, architecturale et paysagère, notamment au regard de la performance
-énergétique et de la gestion des eaux.
+énergétique et de la gestion des eaux. 
 
-**Nota:**
+Le document d'aménagement artisanal et commercial localise les secteurs d'implantation périphérique ainsi que les centralités
+urbaines, qui peuvent inclure tout secteur, notamment centre-ville ou centre de quartier, caractérisé par un bâti dense
+présentant une diversité des fonctions urbaines, dans lesquels se posent des enjeux spécifiques du point de vue des objectifs
+mentionnés au deuxième alinéa. Il peut prévoir des conditions d'implantation des équipements commerciaux spécifiques aux
+secteurs ainsi identifiés. 
 
-Loi n° 2014-366 du 24 mars 2014, article 129 II : L'article L. 122-1-9, dans sa rédaction antérieure à la présente loi,
-demeure applicable aux procédures en cours si le débat sur les orientations du projet d'aménagement et de développement
-durables a eu lieu avant la publication de la présente loi.
+L'annulation du document d'aménagement artisanal et commercial ne compromet pas les autres documents du schéma de cohérence
+territoriale.
 
 **Liens relatifs à cet article**
 
@@ -3331,14 +3335,24 @@ durables a eu lieu avant la publication de la présente loi.
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 129 (M)
+	  - Loi n°2014-366 du 24 mars 2014 - art. 129 (V)
+	  - Loi n°2014-626 du 18 juin 2014 - art. 38
 
 	**Cité par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 129 (V)
+	  - Loi n°2014-366 du 24 mars 2014 - art. 129 (VD)
 	  - Code de l'urbanisme - art. L122-14-2 (VT)
 	  - Code de l'urbanisme - art. L123-1-4 (VT)
 	  - Code de l'urbanisme - art. R*122-3 (VT)
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L141-16 (VD)
+	  - Code de l'urbanisme - art. L141-17 (VD)
 
 
 ###### Article L122-1-10
@@ -14002,11 +14016,14 @@ titre onéreux de terrains portant ou destinés à porter des commerces d'une su
 mètres carrés. 
 
 Chaque aliénation à titre onéreux est subordonnée, à peine de nullité, à une déclaration préalable faite par le cédant à la
-commune. Cette déclaration précise le prix et les conditions de la cession. 
+commune. Cette déclaration précise le prix, l'activité de l'acquéreur pressenti, le nombre de salariés du cédant, la nature
+de leur contrat de travail et les conditions de la cession. Elle comporte également le bail commercial, le cas échéant, et
+précise le chiffre d'affaires lorsque la cession porte sur un bail commercial ou un fonds artisanal ou commercial. 
 
-Le droit de préemption est exercé selon les modalités prévues par les articles L. 213-4 à L. 213-7. Le silence de la commune
-pendant le délai de deux mois à compter de la réception de cette déclaration vaut renonciation à l'exercice du droit de
-préemption. Le cédant peut alors réaliser la vente aux prix et conditions figurant dans sa déclaration.
+Le droit de préemption est exercé selon les modalités prévues par les articles L. 213-4 à L. 213-7. Le silence du titulaire
+du droit de préemption pendant le délai de deux mois à compter de la réception de cette déclaration vaut renonciation à
+l'exercice du droit de préemption. Le cédant peut alors réaliser la vente aux prix et conditions figurant dans sa
+déclaration.
 
 **Liens relatifs à cet article**
 
@@ -14030,20 +14047,55 @@ préemption. Le cédant peut alors réaliser la vente aux prix et conditions fig
 
 	**Modifié par**:
 
-	  - Loi n°2012-387 du 22 mars 2012 - art. 5
+	  - Loi n°2014-626 du 18 juin 2014 - art. 17
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L213-4
 
 
+###### Article L214-1-1
+
+Lorsque la commune fait partie d'un établissement public de coopération intercommunale y ayant vocation, elle peut, en accord
+avec cet établissement, lui déléguer tout ou partie des compétences qui lui sont attribuées par le présent chapitre. 
+
+La commune ou l'établissement public de coopération intercommunale délégataire mentionné au premier alinéa peut déléguer ce
+droit de préemption à un établissement public y ayant vocation, à une société d'économie mixte, au concessionnaire d'une
+opération d'aménagement ou au titulaire d'un contrat de revitalisation artisanale et commerciale prévu par la loi n° 2014-626
+du 18 juin 2014 relative à l'artisanat, au commerce et aux très petites entreprises. Cette délégation peut porter sur une ou
+plusieurs parties du périmètre de sauvegarde ou être accordée à l'occasion de l'aliénation d'un fonds de commerce, d'un fonds
+artisanal, d'un bail commercial ou de terrains. Les biens ainsi acquis entrent dans le patrimoine du délégataire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2014-626 du 18 juin 2014
+
+	**Créé par**:
+
+	  - Loi n°2014-626 du 18 juin 2014 - art. 17
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. *R214-14 (V)
+	  - Code de l'urbanisme - art. L214-2 (V)
+	  - Code de l'urbanisme - art. R*214-4 (V)
+	  - Code de l'urbanisme - art. R*214-7 (V)
+	  - Code de l'urbanisme - art. R214-17 (V)
+	  - Code de l'urbanisme - art. R214-18 (V)
+	  - Code de l'urbanisme - art. R214-19 (V)
+	  - Code général des collectivités territoriales - art. L2122-22 (V)
+
+
 ###### Article L214-2
 
-La commune doit, dans le délai de deux ans à compter de la prise d'effet de l'aliénation à titre onéreux, rétrocéder le fonds
-artisanal, le fonds de commerce, le bail commercial ou le terrain à une entreprise immatriculée au registre du commerce et
-des sociétés ou au répertoire des métiers, en vue d'une exploitation destinée à préserver la diversité et à promouvoir le
-développement de l'activité commerciale et artisanale dans le périmètre concerné. L'acte de rétrocession prévoit les
-conditions dans lesquelles il peut être résilié en cas d'inexécution par le cessionnaire du cahier des charges. 
+Le titulaire du droit de préemption doit, dans le délai de deux ans à compter de la prise d'effet de l'aliénation à titre
+onéreux, rétrocéder le fonds artisanal, le fonds de commerce, le bail commercial ou le terrain à une entreprise immatriculée
+au registre du commerce et des sociétés ou au répertoire des métiers, en vue d'une exploitation destinée à préserver la
+diversité et à promouvoir le développement de l'activité commerciale et artisanale dans le périmètre concerné. Ce délai peut
+être porté à trois ans en cas de mise en location-gérance du fonds de commerce ou du fonds artisanal. L'acte de rétrocession
+prévoit les conditions dans lesquelles il peut être résilié en cas d'inexécution par le cessionnaire du cahier des charges. 
 
 L'acte de rétrocession d'un fonds de commerce est effectué dans le respect des conditions fixées par les dispositions du
 chapitre Ier du titre IV du livre Ier du code de commerce. 
@@ -14051,19 +14103,23 @@ chapitre Ier du titre IV du livre Ier du code de commerce.
 La rétrocession d'un bail commercial est subordonnée, à peine de nullité, à l'accord préalable du bailleur. Cet accord figure
 dans l'acte de rétrocession. 
 
-Pendant le délai indiqué au premier alinéa du présent article, la commune peut mettre le fonds en location-gérance dans les
-conditions prévues aux articles L. 144-1 à L. 144-13 du code de commerce.
+Pendant le délai indiqué au premier alinéa du présent article, le titulaire du droit de préemption peut mettre le fonds en
+location-gérance dans les conditions prévues aux articles L. 144-1 à L. 144-13 du code de commerce. 
+
+A l'article L. 214-1 et au présent article, les mots : " titulaire du droit de préemption " s'entendent également, s'il y a
+lieu, du délégataire, en application de l'article L. 214-1-1.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2012-387 du 22 mars 2012 - art. 4
-	  - Loi n°2012-387 du 22 mars 2012 - art. 5
+	  - Loi n°2014-626 du 18 juin 2014 - art. 17
 
 	**Cite**:
 
 	  - Code de commerce - art. L144-1
+	  - Code de l'urbanisme - art. L214-1 (V)
+	  - Code de l'urbanisme - art. L214-1-1 (V)
 
 	**Cité par**:
 
