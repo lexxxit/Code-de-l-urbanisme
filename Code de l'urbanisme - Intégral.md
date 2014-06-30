@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2014-06-20
+Version Consolidée au 2014-07-01
 
 # Partie législative
 
@@ -8856,14 +8856,14 @@ France, des conseils généraux de l'Essonne et des Yvelines, des conseils munic
 établissements publics de coopération intercommunale compétents situés dans le périmètre de l'opération d'intérêt national,
 ainsi que de la chambre interdépartementale d'agriculture d'Ile-de-France, de la société d'aménagement foncier et
 d'établissement rural de l'Ile-de-France, de l'Office national des forêts et des associations agréées pour la protection de
-l'environnement présentes dans le périmètre d'intervention de l'Etablissement public de Paris-Saclay. 
+l'environnement présentes dans le périmètre d'intervention de l'Etablissement public d'aménagement de Paris-Saclay. 
 
 Cette zone comprend au moins 2 300 hectares de terres consacrées à l'activité agricole situées sur les communes figurant à
 l'annexe B précitée. 
 
-Pour l'exercice de ses missions, l'organe délibérant de l'Etablissement public de Paris-Saclay définit les secteurs
-indispensables au développement du pôle scientifique et technologique. Ces secteurs ne peuvent être inclus dans la zone de
-protection. 
+Pour l'exercice de ses missions, l'organe délibérant de l'Etablissement public d'aménagement de Paris-Saclay définit les
+secteurs indispensables au développement du pôle scientifique et technologique. Ces secteurs ne peuvent être inclus dans la
+zone de protection. 
 
 La zone est délimitée après enquête publique conduite dans les conditions définies par le chapitre III du titre II du livre
 Ier du code de l'environnement. L'enquête porte également sur la ou les mises en compatibilité visées au dernier alinéa du
@@ -8880,14 +8880,11 @@ premier alinéa du présent article pour mettre en compatibilité leur plan loca
 
 **Nota:**
 
-Une nouvelle version de cet article modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
-départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
-s'appliquera aux élections organisées en mars 2015 à l'occasion du prochain renouvellement général des conseils
-départementaux, y compris aux opérations préparatoires à ce scrutin (date indéterminée). 
-
-Aux termes de l'article 133 V de la loi n° 2014-366 du 24 mars 2014, ces dispositions ne s'appliquent pas aux procédures
-d'élaboration ou de révision des cartes communales dans lesquelles l'avis prescrivant l'ouverture de l'enquête publique a été
-publié à la date de publication de la présente loi.
+Aux termes de l'article 25 VI de la loi n° 2014-58 du 27 janvier 2014, le décret n° 2010-911 du 3 août 2010 relatif à
+l'Etablissement public de Paris-Saclay est modifié dans un délai de douze mois à compter de la publication de la présente loi
+pour prendre en compte les modifications introduites par ledit article. Les dispositions qu'il introduit entrent en vigueur à
+compter de la publication du décret modificatif et au plus tard le 1er juillet 2014. A compter de cette date, l'Etablissement
+public de Paris-Saclay devient l'Etablissement public d'aménagement de Paris-Saclay.
 
 **Liens relatifs à cet article**
 
@@ -8904,6 +8901,7 @@ publié à la date de publication de la présente loi.
 
 	**Modifié par**:
 
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 25 (M)
 	  - Loi n°2014-366 du 24 mars 2014 - art. 133 (V)
 
 
@@ -8933,10 +8931,10 @@ La révision du périmètre de la zone est prononcée par décret en Conseil d'E
 
 ###### Article L141-7
 
-Au sein de la zone de protection, l'Etablissement public de Paris-Saclay élabore, en concertation avec les communes ou
-établissements publics de coopération intercommunale situés dans la zone de protection, un programme d'action qui précise les
-aménagements et les orientations de gestion destinés à favoriser l'exploitation agricole, la gestion forestière, la
-préservation et la valorisation des espaces naturels et des paysages. 
+Au sein de la zone de protection, l'Etablissement public d'aménagement de Paris-Saclay élabore, en concertation avec les
+communes ou établissements publics de coopération intercommunale situés dans la zone de protection, un programme d'action qui
+précise les aménagements et les orientations de gestion destinés à favoriser l'exploitation agricole, la gestion forestière,
+la préservation et la valorisation des espaces naturels et des paysages. 
 
 Lorsqu'il concerne la gestion agricole, le programme d'action est établi après consultation de la chambre interdépartementale
 d'agriculture d'Ile-de-France. 
@@ -8948,14 +8946,24 @@ valent aménagement et orientation de gestion au titre du présent article.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-597 du 3 juin 2010 - art. 35
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 25 (V)
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. L123-12 (VT)
 	  - Code de l'urbanisme - art. R141-13 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L123-33 (VD)
+	  - Code de l'urbanisme - art. L123-34 (VD)
+	  - Code de l'urbanisme - art. L123-35 (VD)
 
 
 ###### Article L141-8
@@ -10479,7 +10487,14 @@ du chapitre II du titre IV du livre III du code du tourisme sont applicables aux
 ###### Article L145-11
 
 Dans les communes qui ne sont pas couvertes par un schéma de cohérence territoriale, la création et l'extension d'unités
-touristiques nouvelles sont soumises à autorisation. Le projet est préalablement mis à la disposition du public. 
+touristiques nouvelles sont soumises à autorisation. 
+
+Le projet est préalablement mis à la disposition du public pendant un mois, dans des conditions lui permettant de formuler
+ses observations. Ces observations sont enregistrées et conservées. La nature des documents communiqués au public et les
+modalités de leur mise à disposition sont précisées par l'autorité administrative compétente pour statuer et portées à la
+connaissance du public au moins huit jours avant le début de cette mise à disposition.
+
+A l'issue de la mise à disposition et avant de prendre sa décision, l'autorité administrative en établit le bilan. 
 
 I. ― L'autorisation est délivrée par le préfet coordonnateur de massif, après avis de la commission spécialisée du comité de
 massif, lorsqu'elle porte sur des remontées mécaniques qui ont pour effet la création d'un nouveau domaine skiable ou
@@ -10522,19 +10537,24 @@ ne peuvent être délivrées que dans les communes dotées d'une carte communale
 
 **Nota:**
 
-
+Conformément à l'article 13 30° de l'ordonnance n° 2015-1174 du 23 septembre 2015, l'abrogation des mots : "L'autorisation
+est délivrée par le préfet coordonnateur de massif, après avis de la commission spécialisée du comité de massif" au I, des
+mots "L'autorisation est délivrée par le représentant de l'Etat dans le département, après avis d'une formation spécialisée
+de la commission départementale compétente en matière de nature, de paysages et des sites" au II, ainsi que la deuxième
+phrase du deuxième alinéa du II de l'article L. 145-11 ne prendra effet qu'à compter de la publication des dispositions
+réglementaires du livre Ier du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°85-30 du 9 janvier 1985 (V)
-	  - Loi n°2005-157 du 23 février 2005 (V)
-	  - Code de l'urbanisme - art. L145-13 (V)
+	  - Loi n°85-30 du 9 janvier 1985
+	  - Loi n°2005-157 du 23 février 2005
+	  - Code de l'urbanisme - art. L145-13
 
 	**Cité par**:
 
-	  - Loi n°85-30 du 9 janvier 1985 - art. 74 (V)
+	  - Loi n°85-30 du 9 janvier 1985 - art. 74 (VT)
 	  - Loi n°85-30 du 9 janvier 1985 - art. 78 (Ab)
 	  - Décret n°2007-1091 du 13 juillet 2007 - art. 13 (V)
 	  - Code de l'environnement - art. L341-16 (V)
@@ -10552,7 +10572,21 @@ ne peuvent être délivrées que dans les communes dotées d'une carte communale
 
 	**Modifié par**:
 
-	  - Loi n°2005-157 du 23 février 2005 - art. 190 () JORF 24 février 2005 en vigueur le 24 février 2006
+	  - Loi n°2014-366 du 24 mars 2014 - art. 169 (V)
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 13
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L122-19 (VD)
+	  - Code de l'urbanisme - art. L122-20 (VD)
+	  - Code de l'urbanisme - art. L122-21 (VD)
+	  - Code de l'urbanisme - art. L122-22 (VD)
+	  - Code de l'urbanisme - art. L122-23 (VD)
+	  - Code de l'urbanisme - art. R122-14 (VT)
 
 	**Liens**:
 
@@ -10903,9 +10937,18 @@ la conservation des oiseaux sauvages et, dans les départements d'outre-mer, les
 mangroves. 
 
 Toutefois, des aménagements légers peuvent y être implantés lorsqu'ils sont nécessaires à leur gestion, à leur mise en valeur
-notamment économique ou, le cas échéant, à leur ouverture au public. Un décret définit la nature et les modalités de
-réalisation de ces aménagements qui incluent, selon leur importance et leur incidence sur l'environnement, soit une enquête
-publique, soit une mise à disposition du public préalablement à leur autorisation. 
+notamment économique ou, le cas échéant, à leur ouverture au public. 
+
+Un décret définit la nature et les modalités de réalisation de ces aménagements. Ces projets d'aménagement sont soumis,
+préalablement à leur autorisation, selon leur importance et leur incidence sur l'environnement, soit à l'enquête publique
+prévue au chapitre III du titre II du livre Ier du code de l'environnement lorsqu'ils entrent dans le champ d'application de
+cette enquête, soit à une mise à disposition du public pendant une durée d'au moins quinze jours, dans des conditions
+permettant à celui-ci de formuler ses observations. Ces observations sont enregistrées et conservées. La nature des documents
+communiqués au public et les modalités de leur mise à disposition sont précisées par l'autorité administrative compétente
+pour délivrer l'autorisation et portées à la connaissance du public au moins huit jours avant le début de cette mise à
+disposition. 
+
+A l'issue de la mise à disposition et avant de prendre sa décision, l'autorité administrative en établit le bilan. 
 
 Peuvent être également autorisées les canalisations du réseau public de transport ou de distribution d'électricité visant à
 promouvoir l'utilisation des énergies renouvelables. Les techniques utilisées pour la réalisation de ces ouvrages sont
@@ -10958,11 +11001,12 @@ commission départementale compétente en matière de nature, de paysages et de 
 
 	**Modifié par**:
 
-	  - Loi n°2013-312 du 15 avril 2013 - art. 25
+	  - Loi n°2014-366 du 24 mars 2014 - art. 169 (V)
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L130-1
+	  - Code de l'énergie - art. L323-11
 
 
 ###### Article L146-6-1
@@ -18367,6 +18411,144 @@ Un décret en Conseil d'Etat détermine les conditions d'application de la prés
 	  - Décret n°2017-777 du 5 mai 2017 (V)
 	  - Code de l'urbanisme - art. L321-33 (V)
 	  - Code de l'urbanisme - art. L321-35 (V)
+
+
+##### Section 4 : Etablissement public d'aménagement de Paris-Saclay
+
+###### Article L321-37
+
+L'Etablissement public d'aménagement de Paris-Saclay est un établissement public de l'Etat qui est régi par les dispositions
+applicables aux établissements publics d'aménagement créés en application de l'article L. 321-14, sous réserve des
+dispositions de la présente section. 
+
+Il a pour objet l'impulsion et la coordination du développement du pôle scientifique et technologique de Paris-Saclay, ainsi
+que son rayonnement international. A ce titre, il est placé sous la tutelle conjointe des ministres chargés de l'urbanisme,
+de l'enseignement supérieur et de la recherche. 
+
+Il exerce ses missions dans les communes dont la liste figure à l'annexe A de la loi n° 2010-597 du 3 juin 2010 relative au
+Grand Paris. Le périmètre d'intervention de l'établissement peut être modifié par décret en Conseil d'Etat, après
+consultation des organes délibérants des communes et des établissements publics de coopération intercommunale
+territorialement concernés.
+
+**Nota:**
+
+Conformément à l'article 25 VI de la loi n° 2014-58 du 27 janvier 2014, ces dispositions entrent en vigueur à compter de la
+publication du décret modificatif du décret 2010-911 du 3 août 2010 et au plus tard le 1er juillet 2014. A compter de cette
+date, l'Etablissement public de Paris-Saclay devient l'Etablissement public d'aménagement de Paris-Saclay.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2010-597 du 3 juin 2010 - art. Annexe A (V)
+	  - Code de l'urbanisme - art. L321-14
+
+	**Créé par**:
+
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 25 (V)
+
+	**Cité par**:
+
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 102 (V)
+	  - Livre des procédures fiscales - art. L135 B (VD)
+
+
+###### Article L321-38
+
+L'établissement est chargé de conduire toute action susceptible de favoriser les activités d'enseignement, de recherche et
+d'innovation et leur valorisation industrielle, et de réaliser des opérations d'aménagement du pôle scientifique et
+technologique de Paris-Saclay. 
+
+Outre les missions prévues à l'article L. 321-14, il est compétent pour : 
+
+1° Réaliser des investissements destinés à favoriser l'implantation d'organismes exerçant des activités d'enseignement
+supérieur et de recherche et d'entreprises ; 
+
+2° Participer à la collecte de fonds auprès de tiers afin de contribuer aux activités de développement du pôle ; 
+
+3° Mettre à disposition des organismes d'enseignement supérieur et de recherche et des entreprises des services mutualisés,
+notamment en matière d'hébergement et de restauration ; 
+
+4° Assurer des missions d'assistance aux maîtres d'ouvrage et aux pouvoirs adjudicateurs d'opérations immobilières ayant pour
+objet le développement du pôle scientifique et technologique ; 
+
+5° Soutenir les initiatives de ces organismes et entreprises relatives à la circulation des connaissances, la mobilité
+professionnelle, la diffusion des offres d'emploi et les rapprochements entre les milieux scientifiques et économiques ; 
+
+6° En concertation avec les collectivités territoriales et leurs groupements, favoriser la couverture par des réseaux de
+communications électroniques en très haut débit du pôle scientifique et technologique ; 
+
+7° Contribuer à la promotion de l'image de marque du pôle, notamment à l'étranger ; 
+
+8° En concertation avec les collectivités territoriales, les syndicats des eaux, la chambre interdépartementale d'agriculture
+d'Ile-de-France, la société d'aménagement foncier et d'établissement rural de l'Ile-de-France et l'agence de l'eau Seine-
+Normandie, contribuer à assurer les conditions du maintien de l'activité agricole, la protection des espaces naturels,
+agricoles et forestiers et la pérennité du patrimoine hydraulique. Dès lors que des projets d'urbanisation affectent
+l'écoulement des eaux superficielles ou souterraines, l'Etablissement public d'aménagement de Paris-Saclay prend les mesures
+permettant le maintien de l'équilibre hydrographique du plateau de Saclay et des vallées concernées par l'écoulement des eaux
+du plateau ; 
+
+9° Encourager les partenariats avec les collectivités territoriales ou leurs groupements, les organismes d'enseignement
+supérieur et de recherche ainsi que les entreprises des secteurs d'activité concernés sur l'ensemble du territoire national.
+
+**Nota:**
+
+Conformément à l'article 25 VI de la loi n° 2014-58 du 27 janvier 2014, ces dispositions entrent en vigueur à compter de la
+publication du décret modificatif du décret 2010-911 du 3 août 2010 et au plus tard le 1er juillet 2014. A compter de cette
+date, l'Etablissement public de Paris-Saclay devient l'Etablissement public d'aménagement de Paris-Saclay.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 25 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L321-14
+
+
+###### Article L321-39
+
+Il est institué, auprès du conseil d'administration, un comité consultatif de personnalités représentatives d'associations
+reconnues d'utilité publique, des organisations professionnelles agricoles, des chambres consulaires, des organisations
+professionnelles et syndicales ainsi que des associations agréées dans le domaine de l'environnement. Ce comité comprend un
+député et un sénateur désignés par leur assemblée respective, ainsi qu'un représentant de la ville de Paris et un
+représentant de chacun des départements de la région d'Ile-de-France qui ne sont pas représentés au conseil d'administration.
+Ce comité est saisi par le conseil d'administration des projets concernant la stratégie et les grandes opérations
+d'équipement et d'aménagement de l'établissement public, les plans d'investissement de celui-ci et les orientations
+envisagées pour agir en faveur de la protection des espaces naturels, agricoles et forestiers. Il peut être saisi de tout
+autre sujet par le conseil d'administration, émettre des propositions et demander que des questions soient inscrites à
+l'ordre du jour d'une réunion du conseil d'administration.
+
+**Nota:**
+
+Conformément à l'article 25 VI de la loi n° 2014-58 du 27 janvier 2014, ces dispositions entrent en vigueur à compter de la
+publication du décret modificatif du décret 2010-911 du 3 août 2010 et au plus tard le 1er juillet 2014. A compter de cette
+date, l'Etablissement public de Paris-Saclay devient l'Etablissement public d'aménagement de Paris-Saclay.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 25 (V)
+
+
+###### Article L321-40
+
+Un décret en Conseil d'Etat détermine les conditions d'application de la présente section.
+
+**Nota:**
+
+Conformément à l'article 25 VI de la loi n° 2014-58 du 27 janvier 2014, ces dispositions entrent en vigueur à compter de la
+publication du décret modificatif du décret 2010-911 du 3 août 2010 et au plus tard le 1er juillet 2014. A compter de cette
+date, l'Etablissement public de Paris-Saclay devient l'Etablissement public d'aménagement de Paris-Saclay.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 25 (V)
 
 
 #### Chapitre II : Associations foncières urbaines
