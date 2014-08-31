@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2014-08-06
+Version Consolidée au 2014-09-01
 
 # Partie législative
 
@@ -5082,7 +5082,8 @@ décision de mise en compatibilité prévue au onzième alinéa du présent arti
 3° Par la déclaration de projet lorsqu'elle relève de la compétence de l'établissement public prévu à l'article L. 122-4 dans
 les autres cas ; 
 
-4° Par arrêté préfectoral dans le cadre de la procédure intégrée pour le logement mentionnée à l'article L. 300-6-1 : 
+4° Par arrêté préfectoral dans le cadre de la procédure intégrée pour le logement ou de la procédure intégrée pour
+l'immobilier d'entreprise mentionnées à l'article L. 300-6-1 : 
 
 a) Lorsque celle-ci est engagée par l'Etat ; 
 
@@ -5094,7 +5095,7 @@ compter de la réception par l'établissement public de l'avis du commissaire en
 
 	**Cité par**:
 
-	  - Loi n°2010-597 du 3 juin 2010 - art. 21 (V)
+	  - Loi n°2010-597 du 3 juin 2010 - art. 21 (VD)
 	  - Décret n°2015-376 du 1er avril 2015 (V)
 	  - Code de l'urbanisme - art. L122-15 (VT)
 	  - Code de l'urbanisme - art. L122-18 (VT)
@@ -5109,14 +5110,29 @@ compter de la réception par l'établissement public de l'avis du commissaire en
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 129 (M)
+	  - Loi n°2014-366 du 24 mars 2014 - art. 129 (V)
+	  - ORDONNANCE n°2014-811 du 17 juillet 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L121-4
-	  - Code de l'urbanisme - art. L122-16
+	  - Code de l'urbanisme - art. L122-16 (VT)
 	  - Code de l'urbanisme - art. L122-4
-	  - Code de l'urbanisme - art. L122-8
+	  - Code de l'urbanisme - art. L122-8 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L143-43 (VD)
+	  - Code de l'urbanisme - art. L143-44 (VD)
+	  - Code de l'urbanisme - art. L143-45 (VD)
+	  - Code de l'urbanisme - art. L143-46 (VD)
+	  - Code de l'urbanisme - art. L143-47 (VD)
+	  - Code de l'urbanisme - art. L143-48 (VD)
+	  - Code de l'urbanisme - art. L143-49 (VD)
 
 
 ###### Article L122-17
@@ -7205,7 +7221,8 @@ commune de l'avis du commissaire enquêteur ou de la commission d'enquête ;
 3° Par la déclaration de projet lorsqu'elle est prise par l'établissement public de coopération intercommunale ou, dans le
 cas prévu au deuxième alinéa de l'article L. 123-6, par la commune, dans les autres cas. 
 
-4° Par arrêté préfectoral dans le cadre de la procédure intégrée pour le logement mentionnée à l'article L. 300-6-1 : 
+4° Par arrêté préfectoral dans le cadre de la procédure intégrée pour le logement ou de la procédure intégrée pour
+l'immobilier d'entreprise mentionnées à l'article L. 300-6-1 : 
 
 a) Lorsque celle-ci est engagée par l'Etat ; 
 
@@ -7239,13 +7256,13 @@ Les procédures nécessaires à une ou plusieurs mises en compatibilité peuvent
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 130
+	  - ORDONNANCE n°2014-811 du 17 juillet 2014 - art. 1
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L121-4
 	  - Code de l'urbanisme - art. L123-14-1
-	  - Code de l'urbanisme - art. L123-6
+	  - Code de l'urbanisme - art. L123-6 (VT)
 
 
 ###### Article L123-15
@@ -8686,8 +8703,9 @@ l'environnement.
 A l'issue de l'enquête publique, les dispositions de mise en compatibilité du schéma sont éventuellement modifiées pour tenir
 compte des avis qui ont été joints au dossier et du résultat de l'enquête. 
 
-La mise en compatibilité effectuée dans le cadre de la procédure intégrée pour le logement est approuvée par l'autorité
-administrative et, en cas de désaccord de la région, par décret en Conseil d'Etat.
+La mise en compatibilité effectuée dans le cadre de la procédure intégrée pour le logement ou de la procédure intégrée pour
+l'immobilier d'entreprise est approuvée par l'autorité administrative et, en cas de désaccord de la région, par décret en
+Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -8700,7 +8718,16 @@ administrative et, en cas de désaccord de la région, par décret en Conseil d'
 
 	**Modifié par**:
 
-	  - Ordonnance n°2013-888 du 3 octobre 2013 - art. 1
+	  - ORDONNANCE n°2014-811 du 17 juillet 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L123-22 (VD)
+	  - Code de l'urbanisme - art. L123-23 (VD)
 
 	**Cite**:
 
@@ -15293,9 +15320,21 @@ l'échelle de la commune, à la mixité sociale dans l'habitat dans le respect d
 conformément aux dispositions de l'article L. 121-1. Elle peut relever d'un maître d'ouvrage public ou privé. Les unités
 urbaines sont celles mentionnées au III de l'article L. 5210-1-1 du code général des collectivités territoriales. 
 
-II. ― L'engagement de la procédure intégrée pour le logement peut être décidé soit par l'Etat ou ses établissements publics,
-soit par les collectivités territoriales ou leurs groupements compétents pour élaborer les documents d'urbanisme à mettre en
-compatibilité ou compétents pour autoriser ou réaliser l'opération d'aménagement ou de construction. 
+I bis.-Lorsque la réalisation d'un projet immobilier de création ou d'extension de locaux d'activités économiques, présentant
+un caractère d'intérêt général en raison de son intérêt majeur pour l'activité économique locale ou nationale et au regard de
+l'objectif de développement durable, nécessite la mise en compatibilité du schéma directeur de la région d'Ile-de-France, du
+plan d'aménagement et de développement durable de Corse, d'un schéma d'aménagement régional, d'un schéma de cohérence
+territoriale, d'un plan local d'urbanisme ou d'un document en tenant lieu, cette mise en compatibilité peut être réalisée
+dans le cadre de la procédure intégrée pour l'immobilier d'entreprise définie au présent article. 
+
+L'intérêt économique majeur d'un projet s'apprécie compte tenu du caractère stratégique de l'activité concernée, de la valeur
+ajoutée qu'il produit, de la création ou de la préservation d'emplois qu'il permet ou du développement du territoire qu'il
+rend possible. 
+
+II. ― L'engagement de la procédure intégrée pour le logement ou de la procédure intégrée pour l'immobilier d'entreprise peut
+être décidé soit par l'Etat ou ses établissements publics, soit par les collectivités territoriales ou leurs groupements
+compétents pour élaborer les documents d'urbanisme à mettre en compatibilité ou compétents pour autoriser ou réaliser
+l'opération d'aménagement ou de construction. 
 
 III. ― Lorsque la mise en compatibilité porte sur un schéma de cohérence territoriale, un plan local d'urbanisme ou un
 document en tenant lieu ou sur le schéma directeur de la région d'Ile-de-France, les dispositions des articles L. 122-16-1,
@@ -15306,16 +15345,18 @@ d'aménagement régional, les dispositions des articles L. 4424-15-1 et L. 4433-
 territoriales sont respectivement applicables sous réserve des dispositions du présent article. 
 
 Pour la mise en œuvre des dispositions mentionnées aux deux alinéas précédents, l'opération d'aménagement ou la construction
-objet de la procédure intégrée pour le logement constitue le projet de la personne publique engageant cette procédure. 
+objet de la procédure intégrée pour le logement ou de la procédure intégrée pour l'immobilier d'entreprise constitue le
+projet de la personne publique engageant cette procédure. 
 
-Lorsque la mise en compatibilité de plusieurs documents mentionnés au I du présent article est nécessaire, les procédures de
-mise en compatibilité applicables à chacun de ces documents peuvent être menées conjointement. 
+Lorsque la mise en compatibilité de plusieurs documents mentionnés au I ou au I bis du présent article est nécessaire, les
+procédures de mise en compatibilité applicables à chacun de ces documents peuvent être menées conjointement. 
 
-Lorsqu'une procédure intégrée pour le logement est engagée, les dispositions du document d'urbanisme dont la mise en
-compatibilité est requise ne peuvent faire l'objet d'une modification ou d'une révision entre l'ouverture de l'enquête
-publique organisée dans le cadre de la procédure intégrée et la décision procédant à la mise en compatibilité. 
+Lorsqu'une procédure intégrée pour le logement ou une procédure intégrée pour l'immobilier d'entreprise est engagée, les
+dispositions du document d'urbanisme dont la mise en compatibilité est requise ne peuvent faire l'objet d'une modification ou
+d'une révision entre l'ouverture de l'enquête publique organisée dans le cadre de la procédure intégrée et la décision
+procédant à la mise en compatibilité. 
 
-IV. ― Lorsque la mise en compatibilité des documents mentionnés au I impose l'adaptation : 
+IV. ― Lorsque la mise en compatibilité des documents mentionnés au I et au I bis impose l'adaptation : 
 
 ― d'une directive territoriale d'aménagement ; 
 
@@ -15352,9 +15393,10 @@ Ces adaptations ne doivent pas méconnaître les objectifs fixés par les docume
 culturel, historique ou écologique des zones concernées. Elles ne peuvent pas modifier la vocation de l'ensemble de la zone
 où se situe le projet mais seulement prévoir des exceptions ponctuelles et d'ampleur limitée à cette vocation. 
 
-Lorsque la procédure intégrée pour le logement conduit à l'adaptation d'un plan de prévention des risques d'inondation, le
-projet d'aménagement ou de construction prévoit les mesures de prévention, de protection et de sauvegarde nécessaires pour
-assurer la sécurité des personnes et des biens ; il ne peut aggraver les risques considérés. 
+Lorsque la procédure intégrée pour le logement ou la procédure intégrée pour l'immobilier d'entreprise conduit à l'adaptation
+d'un plan de prévention des risques d'inondation, le projet d'aménagement ou de construction prévoit les mesures de
+prévention, de protection et de sauvegarde nécessaires pour assurer la sécurité des personnes et des biens ; il ne peut
+aggraver les risques considérés. 
 
 Les adaptations proposées sont présentées par l'Etat dans le cadre des procédures prévues, selon le cas, aux articles L.
 122-16-1, L. 123-14-2 ou L. 141-1-2 du présent code ou aux articles L. 4424-15-1 ou L. 4433-10-1 du code général des
@@ -15377,17 +15419,19 @@ du public et du rapport du commissaire ou de la commission d'enquête, sont appr
 document adapté a été approuvé par décret en Conseil d'Etat, par décret en Conseil d'Etat. 
 
 Les documents mentionnés au présent IV ne peuvent faire l'objet d'une modification ou d'une révision portant sur les
-dispositions dont l'adaptation est requise dans le cadre de la procédure intégrée pour le logement entre l'ouverture de
-l'enquête publique organisée dans le cadre de la procédure intégrée et la décision procédant à l'adaptation des documents. 
+dispositions dont l'adaptation est requise dans le cadre de la procédure intégrée pour le logement ou de la procédure
+intégrée pour l'immobilier d'entreprise entre l'ouverture de l'enquête publique organisée dans le cadre de la procédure
+intégrée et la décision procédant à l'adaptation des documents. 
 
 V. ― Les dispositions de mise en compatibilité et d'adaptation des documents mentionnés au présent article font l'objet d'une
 évaluation environnementale préalablement à la réalisation de l'examen conjoint si l'étude d'impact du projet n'a pas inclus
 l'analyse de l'incidence de ces dispositions sur l'environnement. 
 
 VI. ― Lorsque le projet d'opération d'aménagement ou de construction est suffisamment précis à la date de la décision
-d'engagement de la procédure intégrée pour le logement, les pièces nécessaires à la délivrance des autorisations requises
-pour sa réalisation peuvent être transmises dès cette date par l'autorité ayant décidé l'engagement de la procédure pour
-instruction aux autorités compétentes pour délivrer ces autorisations. 
+d'engagement de la procédure intégrée pour le logement ou de la procédure intégrée pour l'immobilier d'entreprise, les pièces
+nécessaires à la délivrance des autorisations requises pour sa réalisation peuvent être transmises dès cette date par
+l'autorité ayant décidé l'engagement de la procédure pour instruction aux autorités compétentes pour délivrer ces
+autorisations. 
 
 Un décret en Conseil d'Etat précise dans ce cas les pièces nécessaires aux autorités compétentes et les délais dont elles
 disposent pour se prononcer sur le projet.
@@ -15408,7 +15452,6 @@ disposent pour se prononcer sur le projet.
 	  - Code de l'urbanisme - art. L122-16-1 (VT)
 	  - Code de l'urbanisme - art. L123-14-2 (VT)
 	  - Code de l'urbanisme - art. L123-23 (VD)
-	  - Code de l'urbanisme - art. L141-1-2 (VT)
 	  - Code de l'urbanisme - art. L143-44 (VD)
 	  - Code de l'urbanisme - art. L143-46 (VD)
 	  - Code de l'urbanisme - art. L143-47 (VD)
@@ -15444,19 +15487,20 @@ disposent pour se prononcer sur le projet.
 	  - Code des transports - art. L1214-23-1 (VD)
 	  - Code des transports - art. L1214-24 (VD)
 	  - Code du patrimoine. - art. L642-8 (VD)
-	  - Code général des collectivités territoriales - art. L4424-15-1 (VD)
 	  - Code général des collectivités territoriales - art. L4433-10-1 (VD)
 	  - Code général des collectivités territoriales - art. R4424-7-1 (V)
 	  - Code général des collectivités territoriales - art. R4433-16-1 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2013-888 du 3 octobre 2013 - art. 1
+	  - ORDONNANCE n°2014-811 du 17 juillet 2014 - art. 1
 
 	**Cite**:
 
+	  - Code général des collectivités territoriales - art. L4424-15-1 (V)
 	  - Code général des collectivités territoriales - art. L5210-1-1
 	  - Code de l'urbanisme - art. L121-1
+	  - Code de l'urbanisme - art. L141-1-2 (VD)
 	  - Code de l'environnement - art. L123-6
 	  - Code de l'environnement - art. L562-1
 	  - Code minier (nouveau) - art. L174-5
