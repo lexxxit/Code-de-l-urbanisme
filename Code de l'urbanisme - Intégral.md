@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2014-09-01
+Version Consolidée au 2014-10-15
 
 # Partie législative
 
@@ -315,22 +315,13 @@ II.-La construction de bâtiments nouveaux mentionnée au 1° du I du présent a
 aménagements, installations et travaux mentionnés aux 2° et 3° du même I ayant pour conséquence une réduction des surfaces
 situées dans les espaces autres qu'urbanisés et sur lesquelles est exercée une activité agricole ou qui sont à vocation
 agricole doivent être préalablement soumis pour avis par le représentant de l'Etat dans le département à la commission
-départementale de la consommation des espaces agricoles prévue à l'article L. 112-1-1 du code rural et de la pêche maritime.
-Cet avis est réputé favorable s'il n'est pas intervenu dans un délai d'un mois à compter de la saisine de la commission. 
+départementale de la préservation des espaces naturels, agricoles et forestiers prévue à l'article L. 112-1-1 du code rural
+et de la pêche maritime. Cet avis est réputé favorable s'il n'est pas intervenu dans un délai d'un mois à compter de la
+saisine de la commission. 
 
-Les constructions ou installations mentionnées au 4° du même I sont soumises pour avis conforme à cette même commission
+La délibération mentionnée au 4° du I du présent article est soumise pour avis conforme à cette même commission
 départementale. Cet avis est réputé favorable s'il n'est pas intervenu dans un délai d'un mois à compter de la saisine de la
 commission.
-
-**Nota:**
-
-Loi n° 2014-366 du 24 mars 2014 article 140 IV : Les délibérations prises sur le fondement du 4° de l'article L. 111-1-2,
-dans sa rédaction antérieure à la publication de la présente loi, demeurent applicables jusqu'à la délivrance des permis et
-déclarations préalables déposés avant la publication de la même loi pour des constructions ou installations autorisées en
-application de ces délibérations.
-
-Le II de l'article L. 122-2 du même code, dans sa rédaction résultant de la présente loi, est applicable à ces constructions
-et installations.
 
 **Liens relatifs à cet article**
 
@@ -343,6 +334,7 @@ et installations.
 	  - Code de l'urbanisme - art. L110 (M)
 	  - Code de l'urbanisme - art. L111-1-3 (Ab)
 	  - Code de l'urbanisme - art. L121-12 (Ab)
+	  - Code de l'urbanisme - art. L122-2 (VT)
 	  - Code de l'urbanisme - art. L124-4 (M)
 	  - Code de l'urbanisme - art. L143-1 (M)
 	  - Code de l'urbanisme - art. L145-3 (VT)
@@ -355,11 +347,22 @@ et installations.
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 140 (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 25
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 	**Cite**:
 
-	  - Code rural - art. L112-1-1 (V)
+	  - Code rural - art. L112-1-1
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L111-3 (VD)
+	  - Code de l'urbanisme - art. L111-4 (VD)
+	  - Code de l'urbanisme - art. L111-5 (VD)
+	  - Code de l'urbanisme - art. R111-20 (V)
 
 
 ###### Article L111-1-4
@@ -2977,7 +2980,8 @@ public de coopération intercommunale avant la date prévue à l'alinéa précé
 Le rapport de présentation explique les choix retenus pour établir le projet d'aménagement et de développement durables et le
 document d'orientation et d'objectifs en s'appuyant sur un diagnostic établi au regard des prévisions économiques et
 démographiques et des besoins répertoriés en matière de développement économique, d'aménagement de l'espace, d'environnement,
-notamment en matière de biodiversité, d'équilibre social de l'habitat, de transports, d'équipements et de services. 
+notamment en matière de biodiversité, d'agriculture, de préservation du potentiel agronomique, d'équilibre social de
+l'habitat, de transports, d'équipements et de services. 
 
 Il identifie, en prenant en compte la qualité des paysages et du patrimoine architectural, les espaces dans lesquels les
 plans locaux d'urbanisme doivent analyser les capacités de densification et de mutation en application de l'article L.
@@ -2988,28 +2992,44 @@ l'approbation du schéma et justifie les objectifs chiffrés de limitation de ce
 d'orientation et d'objectifs. 
 
 Il décrit l'articulation du schéma avec les documents mentionnés aux I et II de l'article L. 111-1-1 et à l'article L.
-122-1-13 , avec lesquels il doit être compatible ou qu'il doit prendre en compte.
+122-1-13, avec lesquels il doit être compatible ou qu'il doit prendre en compte.
 
 **Nota:**
 
-Loi n° 2014-366 du 24 mars 2014 art. 139 II : L'article L. 122-1-2 du code de l'urbanisme, dans sa rédaction en vigueur
-antérieurement à la date de publication de la présente loi, demeure applicable aux procédures en cours si le débat sur les
-orientations du projet d'aménagement et de développement durables a eu lieu avant cette date.
+Loi n° 2014-1170 du 13 octobre 2014, article 25 : L'article L. 122-1-2 du code de l'urbanisme, dans sa rédaction résultant de
+la loi n° 2014-366 du 24 mars 2014, entre en vigueur au lendemain de la publication de la présente loi. Les organes
+délibérants des établissements publics ayant engagé l'élaboration, la révision ou la modification d'un schéma de cohérence
+territoriale avant la publication de la présente loi peuvent toutefois opter pour appliquer le même article L. 122-1-2 dans
+sa rédaction antérieure à la présente loi. Les schémas de cohérence territoriale élaborés ou révisés avant cette date, ainsi
+que ceux dont la procédure d'élaboration, de modification ou de révision est achevée après cette même date conformément aux
+dispositions applicables antérieurement à ladite date, sont mis en conformité avec ledit article L. 122-1-2 dans sa rédaction
+résultant de la présente loi lors de leur prochaine révision.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 17 (V)
-
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 129 (M)
-	  - Loi n°2014-366 du 24 mars 2014 - art. 139 (M)
+	  - Loi n°2014-366 du 24 mars 2014 - art. 129 (V)
+	  - Loi n°2014-366 du 24 mars 2014 - art. 139 (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 25
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L111-1-1
+	  - Code de l'urbanisme - art. L122-1-13
+	  - Code de l'urbanisme - art. L123-1-2
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L141-3 (VD)
 
 	**Cité par**:
 
-	  - Code de l'urbanisme - art. L600-1 (V)
+	  - Code de l'urbanisme - art. L600-1 (VD)
 	  - Code de l'urbanisme - art. R*122-2 (VT)
 
 
@@ -3103,8 +3123,8 @@ ou les documents en tenant lieu et les cartes communales.
 Il précise les modalités de protection des espaces nécessaires au maintien de la biodiversité et à la préservation ou à la
 remise en bon état des continuités écologiques. 
 
-Il arrête des objectifs chiffrés de consommation économe de l'espace et de lutte contre l'étalement urbain, qui peuvent être
-ventilés par secteur géographique. 
+Il arrête, par secteur géographique, des objectifs chiffrés de consommation économe de l'espace et de lutte contre
+l'étalement urbain et décrit, pour chacun d'eux, les enjeux qui lui sont propres. 
 
 III. ― Il précise les conditions permettant de favoriser le développement de l'urbanisation prioritaire dans les secteurs
 desservis par les transports collectifs ainsi que celles permettant le désenclavement par transport collectif des secteurs
@@ -3153,9 +3173,19 @@ fixées par le schéma de cohérence territoriale ou le schéma de secteur.
 
 IX. Le document d'orientation et d'objectifs peut, sous réserve d'une justification particulière, définir des secteurs,
 situés à proximité des transports collectifs existants ou programmés, dans lesquels les plans locaux d'urbanisme doivent
-imposer une densité minimale de construction.
+imposer une densité minimale de construction. 
 
-X. - Le document d'orientation et d'objectifs peut préciser les objectifs de qualité paysagère.
+X.-Le document d'orientation et d'objectifs peut préciser les objectifs de qualité paysagère.
+
+**Nota:**
+
+Conformément à la loi n° 2014-1170 du 13 octobre 2014, article 25 X les dispositions du présent article entrent en vigueur au
+lendemain de la publication de ladite loi. Les organes délibérants des établissements publics ayant engagé l'élaboration, la
+révision ou la modification d'un schéma de cohérence territoriale avant la publication de ladite loi peuvent toutefois opter
+pour l'application du dernier alinéa du II du présent article dans sa rédaction antérieure à ladite loi. Les schémas de
+cohérence territoriale élaborés ou révisés avant cette date ainsi que ceux dont la procédure d'élaboration, de modification
+ou de révision est achevée après cette même date conformément aux dispositions applicables antérieurement à ladite date sont
+mis en conformité avec ladite loi lors de leur prochaine révision.
 
 **Liens relatifs à cet article**
 
@@ -3165,20 +3195,43 @@ X. - Le document d'orientation et d'objectifs peut préciser les objectifs de qu
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 129 (M)
+	  - Loi n°2014-366 du 24 mars 2014 - art. 129 (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 25
 
-	**Cité par**:
+	**Abrogé par**:
 
-	  - Code de l'urbanisme - art. L111-1-4 (VT)
-	  - Code de l'urbanisme - art. L122-14 (VT)
-	  - Code de l'urbanisme - art. L122-14-2 (VD)
-	  - Code de l'urbanisme - art. R*121-16 (VT)
-	  - Code de l'urbanisme - art. R*122-3 (VT)
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L111-4
+	  - Code de l'urbanisme - art. L111-1-4 (VT)
+	  - Code de l'urbanisme - art. L111-4 (VT)
+	  - Code de l'urbanisme - art. L122-1-4
 	  - Code de l'environnement - art. L122-1
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L122-14 (VT)
+	  - Code de l'urbanisme - art. L122-14-2 (VT)
+	  - Code de l'urbanisme - art. R*121-16 (VT)
+	  - Code de l'urbanisme - art. R*122-3 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L141-10 (VD)
+	  - Code de l'urbanisme - art. L141-11 (VD)
+	  - Code de l'urbanisme - art. L141-14 (VD)
+	  - Code de l'urbanisme - art. L141-18 (VD)
+	  - Code de l'urbanisme - art. L141-19 (VD)
+	  - Code de l'urbanisme - art. L141-20 (VD)
+	  - Code de l'urbanisme - art. L141-21 (VD)
+	  - Code de l'urbanisme - art. L141-22 (VD)
+	  - Code de l'urbanisme - art. L141-5 (VD)
+	  - Code de l'urbanisme - art. L141-6 (VD)
+	  - Code de l'urbanisme - art. L141-7 (VD)
+	  - Code de l'urbanisme - art. L141-8 (VD)
+	  - Code de l'urbanisme - art. L141-9 (VD)
+	  - Code de l'urbanisme - art. L142-3 (VD)
 
 
 ###### Article L122-1-6
@@ -4155,30 +4208,38 @@ L'établissement public mentionné à l'article L. 122-4 prescrit l'élaboration
 les modalités de concertation, conformément à l'article L. 300-2. 
 
 La délibération prise en application de l'alinéa précédent est notifiée aux personnes publiques associées mentionnées à
-l'article L. 121-4 et à la commission départementale de la consommation des espaces agricoles prévue à l'article L. 112-1-1
-du code rural et de la pêche maritime.
+l'article L. 121-4 et à la commission départementale de la préservation des espaces naturels, agricoles et forestiers prévue
+à l'article L. 112-1-1 du code rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 129 (M)
+	  - Loi n°2014-366 du 24 mars 2014 - art. 129 (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 25
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 	**Cite**:
 
 	  - Code rural - art. L112-1-1
 	  - Code de l'urbanisme - art. L121-4
 	  - Code de l'urbanisme - art. L122-4
-	  - Code de l'urbanisme - art. L122-4-1
 	  - Code de l'urbanisme - art. L300-2
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. L122-13 (VD)
-	  - Code de l'urbanisme - art. L122-14 (VD)
+	  - Code de l'urbanisme - art. L122-14 (VT)
 	  - Code de l'urbanisme - art. L122-18 (VT)
 	  - Code de l'urbanisme - art. L122-4-3 (VT)
 	  - Code de l'urbanisme - art. R122-28 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L143-17 (VD)
 
 	**Codifié par**:
 
@@ -4212,25 +4273,46 @@ de l'Etat sont associés à l'élaboration du projet du schéma de cohérence te
 ###### Article L122-6-2
 
 A leur demande, le président de l'établissement public mentionné à l'article L. 122-4 ou son représentant consulte la
-commission départementale de la consommation des espaces agricoles prévue à l'article L. 112-1-1 du code rural et de la pêche
-maritime, les communes limitrophes du périmètre du schéma de cohérence territoriale ainsi que les associations mentionnées à
-l'article L. 121-5. 
+commission départementale de la   préservation des espaces naturels, agricoles et forestiers prévue à l'article L. 112-1-1 du
+code rural et de la pêche maritime, les communes limitrophes du périmètre du schéma de cohérence territoriale ainsi que les
+associations mentionnées à l'article L. 121-5. 
 
 Le président de l'établissement public, ou son représentant, peut recueillir l'avis de tout organisme ou association
 compétent en matière d'aménagement du territoire, d'urbanisme, d'environnement, d'architecture, d'habitat et de déplacements,
 y compris des collectivités territoriales des Etats limitrophes.
 
+**Nota:**
+
+Conformément à l'article 13 11° de l'ordonnance n° 2015-1174 du 23 septembre 2015, l'abrogation du second alinéa de l'article
+L. 122-6-2 ne prendra effet qu'à compter de la publication des dispositions réglementaires du livre Ier du code de
+l'urbanisme.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 129 (M)
+	  - Loi n°2014-366 du 24 mars 2014 - art. 129 (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 25
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 13
 
 	**Cite**:
 
-	  - Code rural - art. L112-1-1 (V)
-	  - Code de l'urbanisme - art. L121-5 (V)
-	  - Code de l'urbanisme - art. L122-4 (V)
+	  - Code rural - art. L112-1-1
+	  - Code de l'urbanisme - art. L121-5 (VT)
+	  - Code de l'urbanisme - art. L122-4
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L122-10 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L132-13 (VD)
+	  - Code de l'urbanisme - art. R132-5 (V)
 
 
 ###### Article L122-7
@@ -4316,7 +4398,7 @@ L'organe délibérant de l'établissement public prévu à l'article L. 122-4 ar
 limitrophes ; 
 
 4° A la commission prévue à l'article L. 112-1-1 du code rural et de la pêche maritime, lorsqu'il a pour conséquence une
-réduction des surfaces des espaces agricoles ; 
+réduction des surfaces des espaces agricoles, naturels ou forestiers ; 
 
 5° Lorsqu'il prévoit la création d'une ou plusieurs unités touristiques nouvelles :
 
@@ -4335,35 +4417,44 @@ trois mois à compter de la transmission du projet de schéma. A défaut de rép
 
 **Nota:**
 
-Ordonnance n° 2012-11 du 5 janvier 2012 article 19 : Les présentes dispositions entrent en vigueur à une date déterminée par
-décret en Conseil d'Etat et au plus tard le 1er janvier 2013. Toutefois, les dispositions en vigueur antérieurement à
-l'entrée en vigueur de l'ordonnance demeurent applicables :
-
-- aux procédures d'élaboration et de révision des schémas de cohérence territoriale et des plans locaux d'urbanisme
-prescrites à cette même date ;
-
-- aux procédures de modification des schémas de cohérence territoriale et des plans locaux d'urbanisme lorsque le projet de
-modification a été notifié aux personnes publiques associées à la date d'entrée en vigueur de l'ordonnance.
+Conformément à l'article 13 12° de l'ordonnance n° 2015-1174 du 23 septembre 2015, l'abrogation du dernier alinéa de
+l'article L. 122-8 ne prendra effet qu'à compter de la publication des dispositions réglementaires du livre Ier du code de
+l'urbanisme.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
 	  - Loi n°2010-788 du 12 juillet 2010 - art. 17 (V)
-	  - Loi n°2014-366 du 24 mars 2014 - art. 129 (M)
+	  - Loi n°2014-366 du 24 mars 2014 - art. 129 (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 25
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 13
 
 	**Cite**:
 
+	  - Code rural - art. L112-1-1
 	  - Code de l'urbanisme - art. L121-4
+	  - Code de l'urbanisme - art. L122-4
+	  - Code de l'urbanisme - art. L145-11
+	  - Code de la construction et de l'habitation. - art. L411-2
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. L122-13 (VD)
 	  - Code de l'urbanisme - art. L122-14-2 (VT)
-	  - Code de l'urbanisme - art. L122-16-1 (V)
+	  - Code de l'urbanisme - art. L122-16-1 (VT)
 	  - Code de l'urbanisme - art. L122-18 (VT)
 	  - Code de l'urbanisme - art. L122-9 (VT)
 	  - Code de l'urbanisme - art. L145-5 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L143-20 (VD)
+	  - Code de l'urbanisme - art. R143-4 (V)
 
 
 ###### Article L122-9
@@ -5600,8 +5691,8 @@ Le rapport de présentation explique les choix retenus pour établir le projet d
 orientations d'aménagement et de programmation et le règlement. 
 
 Il s'appuie sur un diagnostic établi au regard des prévisions économiques et démographiques et des besoins répertoriés en
-matière de développement économique, de surfaces agricoles, de développement forestier, d'aménagement de l'espace,
-d'environnement, notamment en matière de biodiversité, d'équilibre social de l'habitat, de transports, de commerce,
+matière de développement économique, de surfaces et de développement agricoles, de développement forestier, d'aménagement de
+l'espace, d'environnement, notamment en matière de biodiversité, d'équilibre social de l'habitat, de transports, de commerce,
 d'équipements et de services. 
 
 Il analyse la capacité de densification et de mutation de l'ensemble des espaces bâtis, en tenant compte des formes urbaines
@@ -5620,10 +5711,14 @@ consommation de l'espace fixés, le cas échéant, par le schéma de cohérence 
 
 **Nota:**
 
-Loi n° 2014-366 du 24 mars 2014 art. 139 II : L'article L. 123-1-2 du même code, dans sa rédaction en vigueur antérieurement
-à la date de publication de la présente loi, demeure applicable aux procédures en cours si le débat sur les orientations
-générales du projet d'aménagement et de développement durables a eu lieu avant cette date ou lorsque ce débat n'est pas exigé
-avant la date de notification aux personnes publiques associées.
+Loi n° 2014-1170 du 13 octobre 2014 art. 25 VIII : Les articles L. 123-1-2 et L. 123-1-3 du même code, dans leur rédaction
+résultant de la loi n° 2014-366 du 24 mars 2014, entrent en vigueur au lendemain de la publication de la présente loi. Les
+organes délibérants des établissements publics ayant engagé l'élaboration, la révision ou la modification d'un plan local
+d'urbanisme avant la publication de la présente loi peuvent toutefois opter pour appliquer les mêmes articles L. 123-1-2 et
+L. 123-1-3 dans leur rédaction antérieure à la présente loi. Les plans locaux d'urbanisme élaborés ou révisés avant cette
+date, ainsi que ceux dont la procédure d'élaboration, de modification ou de révision est achevée après cette même date
+conformément aux dispositions applicables antérieurement à ladite date, sont mis en conformité avec lesdits articles L.
+123-1-2 et L. 123-1-3 dans leur rédaction résultant de la présente loi lors de leur prochaine révision.
 
 **Liens relatifs à cet article**
 
@@ -5639,7 +5734,8 @@ avant la date de notification aux personnes publiques associées.
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 139 (M)
+	  - Loi n°2014-366 du 24 mars 2014 - art. 139 (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 25
 
 
 ###### Article L123-1-3
@@ -5780,25 +5876,21 @@ insertion dans l'environnement et leur compatibilité avec le maintien du caract
 Il fixe les conditions relatives aux raccordements aux réseaux publics, ainsi que les conditions relatives à l'hygiène et à
 la sécurité auxquelles les constructions, les résidences démontables ou les résidences mobiles doivent satisfaire. 
 
-Ces secteurs sont délimités après avis de la commission départementale de la consommation des espaces agricoles. Cet avis est
-réputé favorable s'il n'est pas intervenu dans un délai de trois mois à compter de la saisine. 
+Ces secteurs sont délimités après avis de la commission départementale de la préservation des espaces naturels, agricoles et
+forestiers. Cet avis est réputé favorable s'il n'est pas intervenu dans un délai de trois mois à compter de la saisine. 
 
-Les constructions existantes situées en dehors de ces secteurs et dans des zones naturelles, agricoles ou forestières ne
-peuvent faire l'objet que d'une adaptation ou d'une réfection, à l'exclusion de tout changement de destination. 
+Dans les zones agricoles ou naturelles et en dehors des secteurs mentionnés au présent 6°, le règlement peut désigner les
+bâtiments qui peuvent faire l'objet d'un changement de destination, dès lors que ce changement de destination ne compromet
+pas l'activité agricole ou la qualité paysagère du site. Le changement de destination est soumis, en zone agricole, à l'avis
+conforme de la commission départementale de la préservation des espaces agricoles, naturels et forestiers prévue à l'article
+L. 112-1-1 du code rural et de la pêche maritime, et, en zone naturelle, à l'avis conforme de la commission départementale de
+la nature, des paysages et des sites. 
 
-Dans les zones agricoles, le règlement peut désigner les bâtiments qui, en raison de leur intérêt architectural ou
-patrimonial, peuvent faire l'objet d'un changement de destination ou d'une extension limitée, dès lors que ce changement de
-destination ou cette extension limitée ne compromet pas l'exploitation agricole. Le changement de destination et les
-autorisations de travaux sont soumis à l'avis conforme de la commission départementale de la consommation des espaces
-agricoles prévue à l'article L. 112-1-1 du code rural et de la pêche maritime. 
-
-Dans les zones naturelles, le règlement peut désigner les bâtiments qui, en raison de leur intérêt architectural ou
-patrimonial, peuvent faire l'objet d'un changement de destination, dès lors que ce changement de destination ne compromet pas
-l'exploitation agricole ou la qualité paysagère du site. Dans ce cas, les autorisations de travaux sont soumises à l'avis
-conforme de la commission départementale de la nature, des paysages et des sites. 
-
-Le septième alinéa du présent 6° n'est applicable ni aux constructions et installations nécessaires à l'exploitation agricole
-ou forestière, ni aux constructions et installations nécessaires à des équipements collectifs ou à des services publics. 
+Dans les zones agricoles ou naturelles et en dehors des secteurs mentionnés au présent 6°, les bâtiments d'habitation peuvent
+faire l'objet d'une extension dès lors que cette extension ne compromet pas l'activité agricole ou la qualité paysagère du
+site. Le règlement précise les conditions de hauteur, d'implantation et de densité des extensions permettant d'assurer leur
+insertion dans l'environnement et leur compatibilité avec le maintien du caractère naturel, agricole ou forestier de la
+zone. 
 
 III.-Le règlement peut, en matière de caractéristiques architecturale, urbaine et écologique : 
 
@@ -5812,7 +5904,8 @@ la biodiversité et de la nature en ville ;
 2° Identifier et localiser les éléments de paysage et délimiter les quartiers, îlots, immeubles, espaces publics, monuments,
 sites et secteurs à protéger, à mettre en valeur ou à requalifier pour des motifs d'ordre culturel, historique, architectural
 ou écologique, notamment pour la préservation, le maintien ou la remise en état des continuités écologiques et définir, le
-cas échéant, les prescriptions de nature à assurer leur préservation ; 
+cas échéant, les prescriptions de nature à assurer leur préservation. Lorsqu'il s'agit d'espaces boisés, ces prescriptions
+sont celles prévues à l'article L. 130-1 ; 
 
 3° Dans des secteurs situés à proximité des transports collectifs, existants ou programmés, imposer dans des secteurs qu'il
 délimite une densité minimale de constructions ; 
@@ -5848,10 +5941,11 @@ général, aux espaces verts ainsi qu'aux espaces nécessaires aux continuités 
 
 	**Cite**:
 
-	  - Loi n°2000-614 du 5 juillet 2000 (V)
-	  - Code général des collectivités territoriales - art. L2224-10 (V)
+	  - Loi n°2000-614 du 5 juillet 2000
+	  - Code général des collectivités territoriales - art. L2224-10
 	  - Code rural - art. L112-1-1 (V)
-	  - Code de l'urbanisme - art. L121-1 (V)
+	  - Code de l'urbanisme - art. L121-1
+	  - Code de l'urbanisme - art. L130-1 (VT)
 
 	**Cité par**:
 
@@ -5885,11 +5979,12 @@ général, aux espaces verts ainsi qu'aux espaces nécessaires aux continuités 
 	  - Code des transports - art. R1241-32 (M)
 	  - Code du tourisme. - art. L342-18 (V)
 	  - Code du tourisme. - art. L342-23 (V)
-	  - Code rural - art. L411-57 (M)
+	  - Code rural et de la pêche maritime - art. L411-57 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 157 (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 25
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
 
 
 ###### Article L123-1-6
@@ -6370,9 +6465,9 @@ intercommunale lorsqu'il est doté de la compétence en matière de plan local d
 membres. L'organe délibérant de l'établissement public de coopération intercommunale arrête les modalités de cette
 collaboration après avoir réuni une conférence intercommunale rassemblant, à l'initiative de son président, l'ensemble des
 maires des communes membres. Toute élaboration d'un plan local d'urbanisme d'une commune située en dehors du périmètre d'un
-schéma de cohérence territoriale approuvé et ayant pour conséquence une réduction des surfaces des espaces agricoles est
-soumise pour avis à la commission départementale de la consommation des espaces agricoles prévue à l'article L. 112-1-1 du
-code rural et de la pêche maritime. 
+schéma de cohérence territoriale approuvé et ayant pour conséquence une réduction des surfaces des espaces naturels,
+agricoles et forestiers est soumise pour avis à la commission départementale de la préservation des espaces naturels,
+agricoles et forestiers prévue à l'article L. 112-1-1 du code rural et de la pêche maritime. 
 
 Dans les autres cas, le plan local d'urbanisme est élaboré à l'initiative et sous la responsabilité de la commune, le cas
 échéant en collaboration avec l'établissement public de coopération intercommunale à fiscalité propre dont elle est membre. 
@@ -6385,7 +6480,7 @@ personne, à celui de l'établissement public de coopération intercommunale com
 l'habitat dont la commune est membre, au syndicat d'agglomération nouvelle et aux représentants des organismes mentionnés à
 l'article L. 121-4. Lorsque la commune est limitrophe d'un schéma de cohérence territoriale sans être couverte par un autre
 schéma, la délibération est également notifiée à l'établissement public chargé de ce schéma en application de l'article L.
-122-4.
+122-4. 
 
 A compter de la publication de la délibération prescrivant l'élaboration d'un plan local d'urbanisme, l'autorité compétente
 peut décider de surseoir à statuer, dans les conditions et délai prévus à l'article L. 111-8, sur les demandes d'autorisation
@@ -6394,10 +6489,7 @@ l'exécution du futur plan.
 
 **Nota:**
 
-Une nouvelle version de cet article modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
-départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
-s'appliquera aux élections organisées en mars 2015 à l'occasion du prochain renouvellement général des conseils
-départementaux, y compris aux opérations préparatoires à ce scrutin (date indéterminée).
+
 
 **Liens relatifs à cet article**
 
@@ -6435,11 +6527,11 @@ départementaux, y compris aux opérations préparatoires à ce scrutin (date in
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 137 (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 25
 
 	**Cite**:
 
-	  - Code rural - art. L112-1-1
+	  - Code rural - art. L112-1-1 (V)
 	  - Code de l'urbanisme - art. L111-8
 	  - Code de l'urbanisme - art. L121-4
 	  - Code de l'urbanisme - art. L122-4
@@ -6551,18 +6643,18 @@ Un débat a lieu au sein de l'organe délibérant de l'établissement public de 
 municipaux ou, dans le cas prévu par le deuxième alinéa de l'article L. 123-6, du conseil municipal sur les orientations
 générales du projet d'aménagement et de développement durables mentionné à l'article L. 123-1-3, au plus tard deux mois avant
 l'examen du projet de plan local d'urbanisme. Dans le cas d'une révision, ce débat peut avoir lieu lors de la mise en
-révision du plan local d'urbanisme.
+révision du plan local d'urbanisme. 
 
 L'organe délibérant de l'établissement public de coopération intercommunale ou, dans le cas prévu par le deuxième alinéa de
 l'article L. 123-6, le conseil municipal arrête le projet de plan local d'urbanisme. Celui-ci est alors soumis pour avis aux
 personnes publiques associées à son élaboration ainsi que, à leur demande, aux communes limitrophes, aux établissements
-publics de coopération intercommunale directement intéressés, à la commission départementale de la consommation des espaces
-agricoles prévue à l'article L. 112-1-1 du code rural et de la pêche maritime, ainsi qu'à l'établissement public chargé d'un
-schéma de cohérence territoriale dont la commune est limitrophe, lorsqu'elle n'est pas couverte par un tel schéma. Le projet
-de plan local d'urbanisme tenant lieu de programme local de l'habitat est également soumis pour avis au comité régional de
-l'habitat et de l'hébergement prévu à l'article L. 364-1 du code de la construction et de l'habitation. Ces personnes et
-cette commission donnent un avis dans les limites de leurs compétences propres, au plus tard trois mois après transmission du
-projet de plan ; à défaut, ces avis sont réputés favorables. 
+publics de coopération intercommunale directement intéressés, à la commission départementale de la préservation des espaces
+naturels, agricoles et forestiers prévue à l'article L. 112-1-1 du code rural et de la pêche maritime, ainsi qu'à
+l'établissement public chargé d'un schéma de cohérence territoriale dont la commune est limitrophe, lorsqu'elle n'est pas
+couverte par un tel schéma. Le projet de plan local d'urbanisme tenant lieu de programme local de l'habitat est également
+soumis pour avis au comité régional de l'habitat et de l'hébergement prévu à l'article L. 364-1 du code de la construction et
+de l'habitation. Ces personnes et cette commission donnent un avis dans les limites de leurs compétences propres, au plus
+tard trois mois après transmission du projet de plan ; à défaut, ces avis sont réputés favorables. 
 
 Lorsqu'une commune membre de l'établissement public de coopération intercommunale émet un avis défavorable sur les
 orientations d'aménagement et de programmation ou les dispositions du règlement qui la concernent directement, l'organe
@@ -6604,13 +6696,14 @@ local d'urbanisme à la majorité des deux tiers des suffrages exprimés.
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 137 (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 25
 
 	**Cite**:
 
 	  - Code rural - art. L112-1-1
 	  - Code de l'urbanisme - art. L123-1-3
-	  - Code de l'urbanisme - art. L123-6
+	  - Code de l'urbanisme - art. L123-6 (VT)
+	  - Code de la construction et de l'habitation. - art. L364-1 (V)
 
 
 ###### Article L123-9-1
@@ -7482,18 +7575,18 @@ d'urbanisme prises en application de l'article L. 111-1 s'appliquent sur le terr
 sols est caduc. 
 
 Toutefois, lorsqu'une procédure de révision du plan d'occupation des sols a été engagée avant le 31 décembre 2015, cette
-procédure peut être menée à terme en application des articles L. 123-1 et suivants, dans leur rédaction en vigueur avant la
-publication de la loi n° 2014-366 du 24 mars 2014 pour l'accès au logement et un urbanisme rénové, sous réserve d'être
-achevée au plus tard trois ans à compter de la publication de cette même loi. Les dispositions du plan d'occupation des sols
-restent en vigueur jusqu'à l'approbation du plan local d'urbanisme et au plus tard jusqu'à l'expiration de ce délai de trois
-ans.
+procédure peut être menée à terme en application des articles L. 123-1 et suivants, dans leur rédaction en vigueur au
+lendemain de la publication de la loi n° 2014-366 du 24 mars 2014 pour l'accès au logement et un urbanisme rénové, sous
+réserve d'être achevée au plus tard trois ans à compter de la publication de cette même loi. Les dispositions du plan
+d'occupation des sols restent en vigueur jusqu'à l'approbation du plan local d'urbanisme et au plus tard jusqu'à l'expiration
+de ce délai de trois ans.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°2000-1208 du 13 décembre 2000
-	  - Loi n°2014-366 du 24 mars 2014 (V)
+	  - Loi n°2014-366 du 24 mars 2014
 	  - Code de l'urbanisme - art. L111-1
 	  - Code de l'urbanisme - art. L123-1
 	  - Code de l'urbanisme - art. L123-1-11
@@ -7514,7 +7607,7 @@ ans.
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 135
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 25 (V)
 
 
 ###### Article L123-20
@@ -7604,23 +7697,24 @@ ne portent pas atteinte à la sauvegarde des espaces naturels et des paysages, �
 mise en valeur des ressources naturelles. 
 
 La carte communale est élaborée à l'initiative de la commune ou de l'établissement public de coopération intercommunale
-compétent. Elle est soumise pour avis à la chambre d'agriculture et à la commission départementale de la consommation des
-espaces agricoles prévue à l'article L. 112-1-1 du code rural et de la pêche maritime. Cette commission rend son avis au plus
-tard deux mois après la transmission du projet de carte par le maire ou le président de l'établissement public de coopération
-intercommunale compétent. A défaut, cet avis est réputé favorable. La carte communale est soumise à enquête publique réalisée
-conformément au chapitre III du titre II du livre Ier du code de l'environnement. A l'issue de l'enquête publique, la carte
-communale, éventuellement modifiée pour tenir compte des avis qui ont été joints au dossier, des observations du public et du
-rapport du commissaire ou de la commission d'enquête, est approuvée par le conseil municipal ou par délibération de
-l'établissement public de coopération intercommunale compétent. Elle est alors transmise par le maire ou par le président de
-l'établissement public de coopération intercommunale au préfet. Celui-ci dispose d'un délai de deux mois pour l'approuver. A
-l'expiration de ce délai, le préfet est réputé avoir approuvé la carte. La carte approuvée est tenue à disposition du public.
-A compter du 1er janvier 2020, cette mise à disposition du public s'effectue par publication sur le portail national de
-l'urbanisme prévu à l'article L. 129-1 selon des modalités fixées par arrêté du ministre chargé de l'urbanisme. 
+compétent. Elle est soumise pour avis à la chambre d'agriculture et à la commission départementale de la préservation des
+espaces naturels, agricoles et forestiers prévue à l'article L. 112-1-1 du code rural et de la pêche maritime. Cette
+commission rend son avis au plus tard deux mois après la transmission du projet de carte par le maire ou le président de
+l'établissement public de coopération intercommunale compétent. A défaut, cet avis est réputé favorable. La carte communale
+est soumise à enquête publique réalisée conformément au chapitre III du titre II du livre Ier du code de l'environnement. A
+l'issue de l'enquête publique, la carte communale, éventuellement modifiée pour tenir compte des avis qui ont été joints au
+dossier, des observations du public et du rapport du commissaire ou de la commission d'enquête, est approuvée par le conseil
+municipal ou par délibération de l'établissement public de coopération intercommunale compétent. Elle est alors transmise par
+le maire ou par le président de l'établissement public de coopération intercommunale au préfet. Celui-ci dispose d'un délai
+de deux mois pour l'approuver. A l'expiration de ce délai, le préfet est réputé avoir approuvé la carte. La carte approuvée
+est tenue à disposition du public. A compter du 1er janvier 2020, cette mise à disposition du public s'effectue par
+publication sur le portail national de l'urbanisme prévu à l'article L. 129-1 selon des modalités fixées par arrêté du
+ministre chargé de l'urbanisme. 
 
 La carte communale est révisée selon les modalités définies à l'alinéa précédent. Toutefois, le projet de révision n'est
-soumis à la commission départementale de la consommation des espaces agricoles que s'il a pour conséquence une réduction des
-surfaces des espaces agricoles dans une commune située en dehors du périmètre d'un schéma de cohérence territoriale
-approuvé. 
+soumis à la commission départementale de la préservation des espaces naturels, agricoles et forestiers que s'il a pour
+conséquence, dans une commune située en dehors d'un schéma de cohérence territoriale approuvé, une réduction des surfaces des
+secteurs où les constructions ne sont pas admises, mentionnés au deuxième alinéa.  
 
 La carte communale peut faire l'objet d'une modification simplifiée lorsque la commune ou l'établissement public de
 coopération intercommunale envisage de rectifier une erreur matérielle. La modification simplifiée est engagée à l'initiative
@@ -7671,7 +7765,7 @@ procédure engagée avant l'intégration ou la fusion.
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 133 (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 25
 
 	**Cite**:
 
@@ -9754,20 +9848,23 @@ Un décret en Conseil d'Etat détermine, en tant que de besoin, les conditions d
 ###### Article L143-1
 
 Pour mettre en oeuvre une politique de protection et de mise en valeur des espaces agricoles et naturels périurbains, le
-département peut délimiter des périmètres d'intervention avec l'accord de la ou des communes concernées ou des établissements
+département ou un établissement public ou un syndicat mixte mentionné à l'article L. 122-4 peut délimiter des périmètres
+d'intervention associés à des programmes d'action avec l'accord de la ou des communes concernées ou des établissements
 publics compétents en matière de plan local d'urbanisme, après avis de la chambre départementale d'agriculture et enquête
-publique réalisée conformément au chapitre III du titre II du livre Ier du code de l'environnement . Les périmètres approuvés
-sont tenus à la disposition du public. 
+publique réalisée conformément au chapitre III du titre II du livre Ier du code de l'environnement. Les périmètres approuvés
+et les programmes d'action associés sont tenus à la disposition du public. 
 
 Ces périmètres doivent être compatibles avec le schéma de cohérence territoriale, s'il en existe un. Ils ne peuvent inclure
 des terrains situés dans une zone urbaine ou à urbaniser délimitée par un plan local d'urbanisme, dans un secteur
-constructible délimité par une carte communale ou dans un périmètre ou un périmètre provisoire de zone d'aménagement différé.
+constructible délimité par une carte communale ou dans un périmètre ou un périmètre provisoire de zone d'aménagement
+différé. 
 
-**Nota:**
+L'établissement public ou le syndicat mixte mentionné au même article L. 122-4 ne peut définir un tel périmètre que sur le
+territoire des communes qui le composent. 
 
-Ces dispositions s'appliquent aux projets, plans, programmes ou autres documents de planification pour lesquels l'arrêté
-d'ouverture et d'organisation de l'enquête publique est publié à compter du premier jour du sixième mois après la publication
-du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environnement.
+Lorsqu'un établissement public ou un syndicat mixte mentionné audit article L. 122-4 est à l'initiative du périmètre de
+protection et de mise en valeur des espaces agricoles et naturels périurbains, les enquêtes publiques préalables à la
+création de ce périmètre et du schéma de cohérence territoriale peuvent être concomitantes.
 
 **Liens relatifs à cet article**
 
@@ -9776,7 +9873,7 @@ du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environn
 	  - Décret du 5 mars 2009 - art. 2 (VD)
 	  - Décret n°2010-1591 du 17 décembre 2010 - art. 1 (V)
 	  - Décret n°2010-1591 du 17 décembre 2010 - art. 2 (V)
-	  - Ordonnance n°2012-787 du 31 mai 2012 - art. 7 (V)
+	  - Ordonnance n°2012-787 du 31 mai 2012 - art. 7 (VD)
 	  - Décret n°2015-339 du 25 mars 2015 - art. 2 (V)
 	  - Décret n°2015-1701 du 18 décembre 2015 - art. 2 (V)
 	  - Code de l'urbanisme - art. L122-1 (Ab)
@@ -9805,7 +9902,22 @@ du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environn
 
 	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 240
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 25
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L113-15 (VD)
+	  - Code de l'urbanisme - art. L113-16 (VD)
+	  - Code de l'urbanisme - art. L113-17 (VD)
+	  - Code de l'urbanisme - art. L113-18 (VD)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L122-4
 
 
 ###### Article L143-2
@@ -10093,18 +10205,19 @@ préservées. La nécessité de préserver ces terres s'apprécie au regard de l
 d'exploitation locaux. Sont également pris en compte leur situation par rapport au siège de l'exploitation, leur relief, leur
 pente et leur exposition. Les constructions nécessaires à ces activités ainsi que les équipements sportifs liés notamment à
 la pratique du ski et de la randonnée peuvent y être autorisés. Peuvent être également autorisées, par arrêté préfectoral,
-après avis de la commission départementale compétente en matière de nature, de paysages et de sites, dans un objectif de
-protection et de mise en valeur du patrimoine montagnard, la restauration ou la reconstruction d'anciens chalets d'alpage ou
-de bâtiments d'estive, ainsi que les extensions limitées de chalets d'alpage ou de bâtiments d'estive existants lorsque la
-destination est liée à une activité professionnelle saisonnière. 
+après avis de la commission départementale de la préservation des espaces naturels, agricoles et forestiers et de la
+commission départementale compétente en matière de nature, de paysages et de sites, dans un objectif de protection et de mise
+en valeur du patrimoine montagnard, la restauration ou la reconstruction d'anciens chalets d'alpage ou de bâtiments d'estive,
+ainsi que les extensions limitées de chalets d'alpage ou de bâtiments d'estive existants lorsque la destination est liée à
+une activité professionnelle saisonnière. 
 
 Lorsque des chalets d'alpage ou des bâtiments d'estive, existants ou anciens, ne sont pas desservis par les voies et réseaux,
 ou lorsqu'ils sont desservis par des voies qui ne sont pas utilisables en période hivernale, l'autorité compétente peut
 subordonner la réalisation des travaux faisant l'objet d'un permis de construire ou d'une déclaration de travaux à
-l'institution d'une servitude administrative, publiée   au fichier immobilier, interdisant l'utilisation du bâtiment en
-période hivernale ou limitant son usage pour tenir compte de l'absence de réseaux. Cette servitude précise que la commune est
-libérée de l'obligation d'assurer la desserte du bâtiment par les réseaux et équipements publics. Lorsque le terrain n'est
-pas desservi par une voie carrossable, la servitude rappelle l'interdiction de circulation des véhicules à moteur édictée par
+l'institution d'une servitude administrative, publiée au fichier immobilier, interdisant l'utilisation du bâtiment en période
+hivernale ou limitant son usage pour tenir compte de l'absence de réseaux. Cette servitude précise que la commune est libérée
+de l'obligation d'assurer la desserte du bâtiment par les réseaux et équipements publics. Lorsque le terrain n'est pas
+desservi par une voie carrossable, la servitude rappelle l'interdiction de circulation des véhicules à moteur édictée par
 l'article L. 362-1 du code de l'environnement. 
 
 II. ― Les documents et décisions relatifs à l'occupation des sols comportent les dispositions propres à préserver les
@@ -10142,9 +10255,9 @@ risques naturels imposent une urbanisation qui n'est pas située en continuité 
 
 c) Dans les communes ou parties de commune qui ne sont pas couvertes par un plan local d'urbanisme ou une carte communale,
 des constructions qui ne sont pas situées en continuité avec les bourgs, villages, hameaux, groupes de constructions
-traditionnelles ou d'habitations existants peuvent être autorisées, dans les conditions définies au 4° de l'article L.
-111-1-2, si la commune ne subit pas de pression foncière due au développement démographique ou à la construction de
-résidences secondaires et si la dérogation envisagée est compatible avec les objectifs de protection des terres agricoles,
+traditionnelles ou d'habitations existants peuvent être autorisées, dans les conditions définies au 4° du I et au II de
+l'article L. 111-1-2, si la commune ne subit pas de pression foncière due au développement démographique ou à la construction
+de résidences secondaires et si la dérogation envisagée est compatible avec les objectifs de protection des terres agricoles,
 pastorales et forestières et avec la préservation des paysages et milieux caractéristiques du patrimoine naturel prévus aux I
 et II. 
 
@@ -10167,7 +10280,7 @@ naturels.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-638 du 10 juin 2010 - art. 13
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 25
 
 	**Cité par**:
 
@@ -10176,16 +10289,33 @@ naturels.
 	  - Code de l'urbanisme - art. L145-10 (VT)
 	  - Code de l'urbanisme - art. L145-5 (VT)
 	  - Code de l'urbanisme - art. L145-7 (VT)
+	  - Code de l'urbanisme - art. L146-9 (VT)
 	  - Code de l'urbanisme - art. L480-13 (M)
 	  - Code de l'urbanisme - art. R*122-1 (VT)
 	  - Code de l'urbanisme - art. R*123-1 (VT)
 	  - Code du patrimoine. - art. L630-1 (VT)
 	  - Code général des impôts, CGI. - art. 1585 C (VT)
 
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L111-1-2
 	  - Code de l'environnement - art. L362-1
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L122-10 (VD)
+	  - Code de l'urbanisme - art. L122-11 (VD)
+	  - Code de l'urbanisme - art. L122-15 (VD)
+	  - Code de l'urbanisme - art. L122-5 (VD)
+	  - Code de l'urbanisme - art. L122-6 (VD)
+	  - Code de l'urbanisme - art. L122-7 (VD)
+	  - Code de l'urbanisme - art. L122-8 (VD)
+	  - Code de l'urbanisme - art. L122-9 (VD)
+	  - Code de l'urbanisme - art. R122-1 (VT)
 
 	**Liens**:
 
@@ -11677,8 +11807,8 @@ Un décret en Conseil d'Etat fixe, en tant que de besoin, les modalités d'appli
 ###### Article L150-1
 
 Des décrets en Conseil d'Etat peuvent apporter les adaptations et prévoir les dispositions transitoires éventuellement
-nécessaires à l'application dans les départements d'outre-mer des articles L. 121-1 à L. 121-7, L. 122-1 à L. 122-17, L.
-123-1 à L. 123-18, L. 130-1 à L. 130-6 et L. 160-1 (1er alinéa). 
+nécessaires à l'application dans les départements d'outre-mer des articles L. 121-1 à L. 121-7, L121-9, L. 122-1 à L. 122-17,
+L. 123-1 à L. 123-18, L. 130-1 à L. 130-6 et L. 160-1 (1er alinéa). 
 
 Les projets d'aménagement établis conformément à l'ordonnance n° 45-1423 du 28 juin 1945, abrogée par la loi n° 71-581 du 16
 juillet 1971 (art. 21), et les plans d'urbanisme qui ont été approuvés et mis en vigueur au 17 juillet 1971 continueront de
@@ -11697,20 +11827,29 @@ l'aire d'adhésion du parc national.
 	**Modifié par**:
 
 	  - Loi n°2010-788 du 12 juillet 2010 - art. 17 (V)
-	  - Loi n°2014-366 du 24 mars 2014 - art. 129 (M)
+	  - Loi n°2014-366 du 24 mars 2014 - art. 129 (V)
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 87
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L111-1-1 (V)
-	  - Code de l'urbanisme - art. L121-1
-	  - Code de l'urbanisme - art. L122-1 (Ab)
-	  - Code de l'urbanisme - art. L123-1 (V)
-	  - Code de l'urbanisme - art. L130-1 (V)
+	  - Code de l'urbanisme - art. L111-1-1
+	  - Code de l'urbanisme - art. L121-1 (VT)
+	  - Code de l'urbanisme - art. L122-1
+	  - Code de l'urbanisme - art. L123-1
+	  - Code de l'urbanisme - art. L130-1
 	  - Code de l'urbanisme - art. L160-6
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L135-1 (VD)
 
 	**Cité par**:
 
-	  - Code de l'urbanisme - art. L160-1 (V)
+	  - Code de l'urbanisme - art. L160-1 (VT)
 
 
 #### Chapitre VI : Dispositions particulières au littoral en Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte.
