@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2014-10-15
+Version Consolidée au 2014-11-05
 
 # Partie législative
 
@@ -30397,8 +30397,8 @@ paysages et des sites, dans les sites classés en application de l'article L. 34
 3° Sauf dérogation accordée dans les mêmes conditions qu'au 1°, dans les secteurs sauvegardés créés en application de
 l'article L. 313-1, dans le champ de visibilité des édifices classés ou inscrits au titre des monuments historiques et des
 parcs et jardins classés ou inscrits ayant fait l'objet d'un périmètre de protection délimité dans les conditions fixées à
-l'article L. 621-30-1 du code du patrimoine et dans les zones de protection du patrimoine architectural, urbain et paysager
-ou dans les aires de mise en valeur de l'architecture et du patrimoine ; 
+l'article L. 621-30 du code du patrimoine et dans les zones de protection du patrimoine architectural, urbain et paysager ou
+dans les aires de mise en valeur de l'architecture et du patrimoine ; 
 
 4° Sauf dérogation accordée, après avis favorable du conseil départemental de l'environnement et des risques sanitaires et
 technologiques, par l'autorité compétente définie aux articles L. 422-1 et L. 422-2, dans un rayon de 200 mètres autour des
@@ -30409,7 +30409,7 @@ application de l'article L. 1321-2 du code de la santé publique.
 
 	**Modifié par**:
 
-	  - Décret n°2011-1903 du 19 décembre 2011 - art. 2
+	  - Décret n°2014-1314 du 31 octobre 2014 - art. 28
 
 	**Cite**:
 
@@ -52592,11 +52592,12 @@ ou partie d'une construction :
 a) Située dans un secteur sauvegardé ou dans un périmètre de restauration immobilière créé en application des articles L.
 313-1 à L. 313-15 ; 
 
-b) Inscrite au titre des monuments historiques ou adossée à un immeuble classé au titre des monuments historiques ; 
+b) Inscrite au titre des monuments historiques ; 
 
-c) Située dans le champ de visibilité d'un monument historique défini à l'article L. 621-30 du code du patrimoine dans une
-zone de protection du patrimoine architectural, urbain et paysager ou dans une aire de mise en valeur de l'architecture et du
-patrimoine ; 
+c) Située dans le champ de visibilité d'un immeuble classé ou inscrit au titre des monuments historiques mentionné à
+l'article L. 621-30 du code du patrimoine, adossée, au sens du même article, à un immeuble classé au titre des monuments
+historiques, ou située dans une zone de protection du patrimoine architectural, urbain et paysager ou dans une aire de mise
+en valeur de l'architecture et du patrimoine ;
 
 d) Située dans un site inscrit ou un site classé ou en instance de classement en application des articles L. 341-1 et L.
 341-2 du code de l'environnement ; 
@@ -52606,24 +52607,17 @@ dans un périmètre délimité par le plan en application du même article ou, d
 d'urbanisme ou d'un document d'urbanisme en tenant lieu, identifiée par délibération du conseil municipal, prise après
 enquête publique, comme constituant un élément de patrimoine ou de paysage à protéger et à mettre en valeur.
 
-**Nota:**
-
-Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
-déposées à compter du 1er avril 2014.
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2014-253 du 27 février 2014 - art. 4
+	  - Décret n°2014-1314 du 31 octobre 2014 - art. 29
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L123-1-5
 	  - Code de l'urbanisme - art. L313-1
 	  - Code de l'environnement - art. L341-1
-	  - Code du patrimoine - art. L621-30
-	  - Code du patrimoine - art. L621-30-1
 
 	**Cité par**:
 
@@ -53127,21 +53121,20 @@ maire transmet en outre, dans le même délai, un exemplaire au président de ce
 
 ###### Article R*423-10
 
-Lorsque la demande de permis ou la déclaration préalable porte sur un immeuble inscrit au titre des monuments historiques ou
-sur un immeuble adossé à un immeuble classé, un des exemplaires de la demande et du dossier est transmis par l'autorité
-compétente au service départemental de l'architecture et du patrimoine, dans la semaine qui suit le dépôt, pour accord du
-préfet de région. Pour les immeubles inscrits, la réception de la demande tient lieu de la déclaration mentionnée au premier
-alinéa de l'article L. 621-27 du code du patrimoine.
+Lorsque la demande de permis ou la déclaration préalable porte sur un immeuble inscrit au titre des monuments historiques, un
+des exemplaires de la demande et du dossier est transmis par l'autorité compétente au service déconcentré chargé de
+l'architecture et du patrimoine, dans la semaine qui suit le dépôt, pour accord du préfet de région. La réception de la
+demande tient lieu de la déclaration mentionnée au premier alinéa de l'article L. 621-27 du code du patrimoine.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+	  - Décret n°2014-1314 du 31 octobre 2014 - art. 30
 
 	**Cite**:
 
-	  - Code du patrimoine. - art. L621-27 (V)
+	  - Code du patrimoine - art. L621-27
 
 	**Codifié par**:
 
@@ -53494,16 +53487,11 @@ c) Trois mois pour les autres demandes de permis de construire et pour les deman
 Le délai d'instruction de droit commun prévu par l'article R. * 423-23 est majoré d'un mois lorsque le projet est soumis,
 dans les conditions mentionnées au chapitre V, à un régime d'autorisation ou à des prescriptions prévus par d'autres
 législations ou réglementations que le code de l'urbanisme, lorsque la décision nécessite une dérogation en application des
-troisième, quatrième et cinquième alinéas        de l'article L. 123-5 ou de l'article L. 123-5-1 du code de l'urbanisme,
-lorsque le projet est situé dans un secteur sauvegardé dont le périmètre a été délimité ou lorsque le projet doit être soumis
-à l'avis de la commission départementale de la consommation des espaces agricoles prévu par l'article L. 112-1-1 du code
-rural et de la pêche maritime.
+quatrième et sixième alinéas de l'article L. 123-5 ou de l'article L. 123-5-1 du code de l'urbanisme, lorsque le projet est
+situé dans un secteur sauvegardé ou lorsque le projet doit être soumis à l'avis de la commission départementale de la
+consommation des espaces agricoles prévu par l'article L. 112-1-1 du code rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2013-891 du 3 octobre 2013 - art. 1
 
 	**Cité par**:
 
@@ -53514,6 +53502,10 @@ rural et de la pêche maritime.
 	  - Code de l'urbanisme - art. R*423-43 (V)
 	  - Code de l'urbanisme - art. R*423-44 (V)
 	  - Code de l'urbanisme - art. R*423-5 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2014-1314 du 31 octobre 2014 - art. 31
 
 	**Cite**:
 
@@ -53631,11 +53623,12 @@ déposées à compter du 1er avril 2014.
 
 Le délai d'instruction prévu par le b et le c de l'article R*423-23 est également porté à six mois : 
 
-a) Lorsqu'un permis porte sur un immeuble inscrit au titre des monuments historiques ou un immeuble adossé à un immeuble
-classé au titre des monuments historiques ; 
+a) Lorsqu'un permis porte sur un immeuble inscrit au titre des monuments historiques et, le cas échéant, lorsqu'il y a lieu
+d'instruire une dérogation en application du cinquième alinéa de l'article L. 123-5 du code de l'urbanisme ; 
 
-b) Lorsqu'un permis de construire ou d'aménager porte sur un projet situé dans le périmètre de protection des immeubles
-classés ou inscrits au titre des monuments historiques ; 
+b) Lorsqu'un permis de construire ou d'aménager porte sur un immeuble situé dans le périmètre de protection d'un immeuble
+classé ou inscrit au titre des monuments historiques ou sur un immeuble adossé à un immeuble classé au titre des monuments
+historiques ; 
 
 c) Lorsqu'un permis de construire porte sur des travaux relatifs à un établissement recevant du public et soumis à
 l'autorisation prévue à l'article L. 111-8 du code de la construction et de l'habitation ; 
@@ -53645,21 +53638,22 @@ prévue par l'article L. 122-1 du même code.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2012-274 du 28 février 2012 - art. 3
-
 	**Cité par**:
 
 	  - Décret n°2014-1299 du 23 octobre 2014 - art. (V)
 	  - Décret n°2014-1300 du 23 octobre 2014 - art. (VD)
 	  - Décret n°2015-1461 du 10 novembre 2015 - art. (V)
 
+	**Modifié par**:
+
+	  - Décret n°2014-1314 du 31 octobre 2014 - art. 32
+
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R*423-23 (V)
-	  - Code de la construction et de l'habitation. - art. L111-8 (V)
-	  - Code de la construction et de l'habitation. - art. L122-1 (V)
+	  - Code de l'urbanisme - art. L123-5 (V)
+	  - Code de l'urbanisme - art. R*423-23
+	  - Code de la construction et de l'habitation. - art. L111-8
+	  - Code de la construction et de l'habitation. - art. L122-1
 
 	**Codifié par**:
 
@@ -53833,27 +53827,29 @@ code forestier, le délai d'instruction est prolongé de trois mois quand le pr�
 
 ###### Article R*423-35
 
-Lorsque la délivrance du permis est subordonnée à l'accord de l'architecte des Bâtiments de France, le délai d'instruction
-est prolongé :
+Lorsque la délivrance du permis ou la décision de non-opposition à la déclaration préalable est subordonnée à l'accord de
+l'architecte des Bâtiments de France, le délai d'instruction est prolongé :
 
 - d'un mois lorsque le projet est situé dans une aire de mise en valeur de l'architecture et du patrimoine ou une zone de
-protection du patrimoine architectural, urbain et paysager et que l'autorité compétente pour délivrer le permis a saisi le
-préfet de région ou le préfet de Corse d'un recours contre l'avis de l'architecte des Bâtiments de France ;
+protection du patrimoine architectural, urbain et paysager et que l'autorité compétente pour délivrer le permis ou la
+décision de non-opposition à la déclaration préalable a saisi le préfet de région ou le préfet de Corse d'un recours contre
+l'avis de l'architecte des Bâtiments de France ;
 
 - de deux mois lorsque le projet n'est pas situé dans une aire de mise en valeur de l'architecture et du patrimoine ou une
-zone de protection du patrimoine architectural, urbain et paysager et que l'autorité compétente pour délivrer le permis a
-saisi le préfet de région ou le préfet de Corse d'un recours contre l'avis de l'architecte des Bâtiments de France.
+zone de protection du patrimoine architectural, urbain et paysager et que l'autorité compétente pour délivrer le permis ou la
+décision de non-opposition à la déclaration préalable a saisi le préfet de région ou le préfet de Corse d'un recours contre
+l'avis de l'architecte des Bâtiments de France.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2011-1903 du 19 décembre 2011 - art. 2
 
 	**Cité par**:
 
 	  - Décret n°2014-1299 du 23 octobre 2014 - art. (V)
 	  - Décret n°2015-1461 du 10 novembre 2015 - art. (V)
+
+	**Modifié par**:
+
+	  - Décret n°2014-1314 du 31 octobre 2014 - art. 33
 
 	**Codifié par**:
 
@@ -54802,15 +54798,10 @@ d'appellation d'origine contrôlée est de trois mois.
 ###### Article R*423-66
 
 Par exception aux dispositions de l'article R. 423-59, lorsque la demande de permis porte sur un immeuble ou une partie
-d'immeuble inscrit au titre des monuments historiques ou adossé à un immeuble classé, l'accord du préfet de région, prévu en
-application des articles L. 621-27 ou L. 621-30 du code du patrimoine, est réputé donné s'il n'est pas parvenu à l'autorité
-compétente dans le délai de quatre mois.
+d'immeuble inscrit au titre des monuments historiques, l'accord du préfet de région, prévu en application de l'article L.
+621-27 du code du patrimoine, est réputé donné s'il n'est pas parvenu à l'autorité compétente dans le délai de quatre mois.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 	**Cité par**:
 
@@ -54818,10 +54809,14 @@ compétente dans le délai de quatre mois.
 	  - Décret n°2015-1461 du 10 novembre 2015 - art. (V)
 	  - Code du patrimoine. - art. R621-88 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2014-1314 du 31 octobre 2014 - art. 34
+
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R*423-59 (V)
-	  - Code du patrimoine. - art. L621-27 (V)
+	  - Code de l'urbanisme - art. R*423-59
+	  - Code du patrimoine - art. L621-27 (V)
 
 	**Codifié par**:
 
@@ -54837,27 +54832,21 @@ a) Le projet soumis à permis est situé dans un secteur sauvegardé ;
 
 b) Le projet soumis à permis de construire ou d'aménager est situé dans un site inscrit ; 
 
-c) Le permis de démolir est situé dans un périmètre de protection des immeubles classés ou inscrits au titre des monuments
-historiques ; 
+c) Le permis de démolir porte sur un projet situé dans un périmètre de protection des immeubles classés ou inscrits au titre
+des monuments historiques ou sur un immeuble adossé à un immeuble classé au titre des monuments historiques ; 
 
 d) Le projet soumis à permis est situé dans un site classé ou en instance de classement en application des articles L. 341-2
 et L. 341-7 du code de l'environnement.
-
-**Nota:**
-
-Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
-déposées à compter du 1er avril 2014.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2014-253 du 27 février 2014 - art. 4
+	  - Décret n°2014-1314 du 31 octobre 2014 - art. 35
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. R*423-59
-	  - Code de l'environnement - art. L341-1
 	  - Code de l'environnement - art. L341-2
 	  - Code de l'environnement - art. L341-7
 
@@ -54873,18 +54862,19 @@ déposées à compter du 1er avril 2014.
 ###### Article R*423-67-1
 
 Par exception aux dispositions de l'article R*423-59, lorsqu'un permis de construire ou d'aménager porte sur un projet situé
-dans le périmètre de protection d'un immeuble classé ou inscrit au titre des monuments historiques, le délai à l'issue duquel
-l'architecte des Bâtiments de France est réputé avoir émis un avis favorable est de quatre mois.
+dans le périmètre de protection d'un immeuble classé ou inscrit au titre des monuments historiques ou sur un immeuble adossé
+à un immeuble classé au titre des monuments historiques, le délai à l'issue duquel l'architecte des Bâtiments de France est
+réputé avoir émis un avis favorable est de quatre mois.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2012-274 du 28 février 2012 - art. 3
 
 	**Cité par**:
 
 	  - Décret n°2014-450 du 2 mai 2014 - art. 10 (VT)
+
+	**Modifié par**:
+
+	  - Décret n°2014-1314 du 31 octobre 2014 - art. 36
 
 	**Cite**:
 
@@ -54917,38 +54907,39 @@ En cas de silence de l'architecte des Bâtiments de France à l'issue de ce dél
 
 Le délai à l'issue duquel le préfet de région doit se prononcer sur un recours de l'autorité compétente contre l'avis émis
 par l'architecte des Bâtiments de France est, en l'absence d'évocation par le ministre chargé des monuments historiques et
-des espaces protégés :
+des espaces protégés : 
 
 a) De quinze jours lorsque l'avis porte sur des travaux soumis à déclaration préalable et situés dans une aire de mise en
-valeur de l'architecture et du patrimoine ou une zone de protection du patrimoine architectural, urbain et paysager ;
+valeur de l'architecture et du patrimoine ou une zone de protection du patrimoine architectural, urbain et paysager ; 
 
 b) D'un mois lorsque l'avis porte sur des travaux soumis à permis et situés dans une aire de mise en valeur du patrimoine ou
-une zone de protection du patrimoine architectural, urbain et paysager ;
+une zone de protection du patrimoine architectural, urbain et paysager ; 
 
-c) De deux mois lorsque l'avis porte sur des travaux situés en secteur sauvegardé ou dans le champ de visibilité d'un
-monument historique défini à l'article L. 621-30-1 du code du patrimoine.
+c) De deux mois lorsque l'avis porte sur des travaux situés en secteur sauvegardé, dans le champ de visibilité d'un monument
+historique ou sur un immeuble adossé à un immeuble classé au titre des monuments historiques définis à l'article L. 621-30 du
+code du patrimoine. 
 
 En l'absence de décision expresse du préfet de région à l'issue du délai mentionné aux alinéas précédents, le recours est
-réputé admis.
+réputé admis. 
 
 Le recours doit être adressé au préfet de région par lettre recommandée avec demande d'avis de réception dans le délai de
 sept jours à compter de la réception par l'autorité compétente de l'avis émis par l'architecte des Bâtiments de France. Une
-copie du recours est également adressée à l'architecte des Bâtiments de France.
+copie du recours est également adressée à l'architecte des Bâtiments de France. 
 
 Le préfet de région adresse notification du recours dont il est saisi au maire, lorsque celui-ci n'est pas l'auteur de la
-saisine, et au demandeur.
+saisine, et au demandeur. 
 
-Le préfet statue :
+Le préfet statue : 
 
 a) Après avoir entendu, le cas échéant, l'instance consultative prévue par l'article L. 642-5 du code du patrimoine, lorsque
 le projet porte sur des travaux soumis à permis et est situé dans une aire de mise en valeur de l'architecture et du
-patrimoine ou une zone de protection du patrimoine architectural, urbain et paysager ;
+patrimoine ou une zone de protection du patrimoine architectural, urbain et paysager ; 
 
 b) Après consultation de la section de la commission régionale du patrimoine et des sites, lorsque le projet est situé dans
-un secteur sauvegardé ou dans le champ de visibilité d'un monument historique défini à l'article L. 621-30-1 du code du
-patrimoine.
+un secteur sauvegardé, dans le champ de visibilité d'un monument historique ou sur un immeuble adossé à un immeuble classé au
+titre des monuments historiques définis à l'article L. 621-30 du code du patrimoine. 
 
-La décision expresse du préfet de région est notifiée à l'autorité compétente, ainsi qu'au maire et au demandeur.
+La décision expresse du préfet de région est notifiée à l'autorité compétente, ainsi qu'au maire et au demandeur. 
 
 Dans la collectivité territoriale de Corse, les attributions conférées par le présent article au préfet de région sont
 exercées par le préfet de Corse.
@@ -54957,7 +54948,7 @@ exercées par le préfet de Corse.
 
 	**Modifié par**:
 
-	  - Décret n°2011-1903 du 19 décembre 2011 - art. 2
+	  - Décret n°2014-1314 du 31 octobre 2014 - art. 37
 
 	**Cité par**:
 
@@ -54965,7 +54956,7 @@ exercées par le préfet de Corse.
 
 	**Cite**:
 
-	  - Code du patrimoine - art. L621-30-1
+	  - Code du patrimoine - art. L621-30
 	  - Code du patrimoine - art. L642-5
 
 	**Codifié par**:
@@ -55250,8 +55241,7 @@ classés ou en instance de classement ou des réserves naturelles ;
 b) Lorsque le projet fait l'objet d'une évocation par le ministre chargé des sites ou par le ministre chargé de la protection
 des réserves naturelles ; 
 
-c) Lorsque le projet porte sur un immeuble inscrit ou un immeuble adossé à un immeuble classé au titre des monuments
-historiques ; 
+c) Lorsque le projet porte sur un immeuble inscrit        au titre des monuments historiques ; 
 
 d) Lorsque le projet est soumis à enquête publique en application des articles R. 123-7 à R. 123-23 du code de
 l'environnement ; 
@@ -55276,16 +55266,7 @@ i) Lorsque le projet porte sur une démolition soumise à permis en site inscrit
 j) Lorsque la délivrance du permis est subordonnée, en application de l'article L. 425-13, à l'obtention d'une dérogation
 prévue par l'article L. 111-4-1 du code de la construction et de l'habitation et que cette dérogation a été refusée.
 
-**Nota:**
-
-Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
-déposées à compter du 1er avril 2014.
-
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2014-253 du 27 février 2014 - art. 4
 
 	**Cité par**:
 
@@ -55300,6 +55281,10 @@ déposées à compter du 1er avril 2014.
 	  - Code de l'urbanisme - art. R472-11 (V)
 	  - Code du cinéma et de l'image animée - art. R212-8 (V)
 	  - Code du cinéma et de l'image animée - art. R212-9 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2014-1314 du 31 octobre 2014 - art. 38
 
 	**Cite**:
 
@@ -55933,29 +55918,28 @@ prorogation prend effet au terme de la validité de la décision initiale.
 
 Lorsque le projet est situé dans le champ de visibilité d'un édifice classé ou inscrit au titre des monuments historiques ou
 dans celui d'un parc ou d'un jardin classé ou inscrit ayant fait l'objet d'un périmètre de protection délimité dans les
-conditions fixées aux deuxième ou troisième alinéas de l'article L. 621-30-1 du code du patrimoine, le permis de construire,
-le permis d'aménager, le permis de démolir ou la décision prise sur la déclaration préalable tient lieu de l'autorisation
-prévue à l'article L. 621-31 du code du patrimoine dès lors que la décision a fait l'objet de l'accord de l'architecte des
-Bâtiments de France. 
+conditions fixées à l'article L. 621-30 du code du patrimoine, ou porte sur un immeuble adossé à un immeuble classé au titre
+des monuments historiques, le permis de construire, le permis d'aménager, le permis de démolir ou la décision prise sur la
+déclaration préalable tient lieu de l'autorisation prévue à l'article L. 621-31 du code du patrimoine dès lors que la
+décision a fait l'objet de l'accord de l'architecte des Bâtiments de France. 
 
-En application de l'article L. 621-31 du code du patrimoine, les dispositions du présent article ne sont pas applicables aux
-projets portant sur les immeubles classés au titre des monuments historiques, sur les immeubles inscrits et sur les immeubles
-adossés aux immeubles classés.
+En application de l'article L. 621-30 du code du patrimoine, les dispositions du présent article ne sont pas applicables aux
+projets portant sur les immeubles classés ou inscrits au titre des monuments historiques.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2014-1314 du 31 octobre 2014 - art. 39
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L621-30 (V)
+	  - Code du patrimoine - art. L621-31 (V)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
-	**Cite**:
-
-	  - Code du patrimoine. - art. L621-30-1 (Ab)
-	  - Code du patrimoine. - art. L621-31 (V)
 
 
 ###### Article R*425-2
@@ -56312,30 +56296,29 @@ départementale d'aménagement commercial ou, le cas échéant, de la Commission
 
 ###### Article R*425-16
 
-Lorsque le projet porte sur un immeuble inscrit au titre des monuments historiques ou sur un immeuble adossé à un immeuble
-classé monument historique, le permis de construire, le permis d'aménager, le permis de démolir ou la décision prise sur la
-déclaration préalable doit faire l'objet de l'accord prévu par les articles L. 621-27 ou L. 621-30 du code du patrimoine. 
+Lorsque le projet porte sur un immeuble inscrit au titre des monuments historiques, le permis de construire, le permis
+d'aménager, le permis de démolir ou la décision prise sur la déclaration préalable doit faire l'objet de l'accord prévu par
+l'article L. 621-27 du code du patrimoine. 
 
 Cet accord est donné par le préfet de région.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
 	**Cité par**:
 
 	  - Décret n°2014-1299 du 23 octobre 2014 - art. (V)
 
+	**Modifié par**:
+
+	  - Décret n°2014-1314 du 31 octobre 2014 - art. 40
+
 	**Cite**:
 
-	  - Code du patrimoine. - art. L621-27 (V)
-	  - Code du patrimoine. - art. L621-30 (V)
+	  - Code du patrimoine - art. L621-27 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*425-17
@@ -57261,7 +57244,7 @@ d'occupation temporaire du domaine public.
 Lorsque le projet porte sur des travaux nécessaires à la réalisation d'une opération de restauration immobilière au sens de
 l'article L. 313-4 ou sur un immeuble inscrit au titre des monuments historiques, sur un immeuble adossé à un immeuble classé
 ou sur une construction existante située dans un secteur sauvegardé, dans le champ de visibilité d'un monument historique
-défini à l'article L. 621-30-1 du code du patrimoine, dans une zone de protection du patrimoine architectural, urbain et
+défini à l'article L. 621-30 du code du patrimoine, dans une zone de protection du patrimoine architectural, urbain et
 paysager, ou dans une aire de mise en valeur de l'architecture et du patrimoine, la notice mentionnée à l'article R. 431-8
 indique en outre les matériaux utilisés et les modalités d'exécution des travaux.
 
@@ -57269,7 +57252,7 @@ indique en outre les matériaux utilisés et les modalités d'exécution des tra
 
 	**Modifié par**:
 
-	  - Décret n°2011-1903 du 19 décembre 2011 - art. 2
+	  - Décret n°2014-1314 du 31 octobre 2014 - art. 41
 
 	**Cite**:
 
