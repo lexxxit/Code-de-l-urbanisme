@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2014-11-05
+Version Consolidée au 2014-11-08
 
 # Partie législative
 
@@ -20696,30 +20696,27 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 ###### Article L331-1
 
 En vue de financer les actions et opérations contribuant à la réalisation des objectifs définis à l'article L. 121-1, les
-communes ou établissements publics de coopération intercommunale, les départements et la région d'Ile-de-France perçoivent
-une taxe d'aménagement. 
+communes ou établissements publics de coopération intercommunale, la métropole de Lyon, les départements et la région d'Ile-
+de-France perçoivent une taxe d'aménagement. 
 
 La taxe d'aménagement constitue un élément du prix de revient de l'ensemble immobilier au sens de l'article 302 septies B du
 code général des impôts.
 
 **Nota:**
 
-Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
-déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
-
-Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
-compter du 1er mars 2012.
+Conformément à l'article 43 III de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
+compter des impositions dues au titre de 2015.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+	  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 7
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 302 septies B (VT)
-	  - Code de l'urbanisme - art. L121-1 (V)
+	  - Code général des impôts, CGI. - art. 302 septies B
+	  - Code de l'urbanisme - art. L121-1
 
 	**Cité par**:
 
@@ -20744,50 +20741,48 @@ compter du 1er mars 2012.
 La part communale ou intercommunale de la taxe d'aménagement est instituée : 
 
 1° De plein droit dans les communes dotées d'un plan local d'urbanisme ou d'un plan d'occupation des sols, sauf renonciation
-expresse décidée par délibération dans les conditions prévues au neuvième  alinéa ; 
+expresse décidée par délibération dans les conditions prévues au neuvième alinéa ; 
 
 2° Par délibération du conseil municipal dans les autres communes ; 
 
-3° De plein droit dans les communautés urbaines, sauf renonciation expresse décidée par délibération dans les conditions
-prévues au neuvième  alinéa ; 
+3° De plein droit dans les communautés urbaines et la métropole de Lyon, sauf renonciation expresse décidée par délibération
+dans les conditions prévues au neuvième alinéa ; 
 
 4° Par délibération de l'organe délibérant dans les autres établissements publics de coopération intercommunale compétents en
 matière de plan local d'urbanisme en lieu et place des communes qu'ils regroupent et avec leur accord exprimé dans les
 conditions prévues par le II de l'article L. 5211-5 du code général des collectivités territoriales. 
 
 La taxe mentionnée aux 1° à 4° est instituée sur l'ensemble du territoire de la commune ou dans l'ensemble des communes
-membres de l'établissement public de coopération intercommunale. 
+membres de l'établissement public de coopération intercommunale ou situées dans le périmètre de la métropole de Lyon. 
 
 Dans les cas mentionnés aux 1° et 2°, tout ou partie de la taxe perçue par la commune peut être reversé à l'établissement
 public de coopération intercommunale ou aux groupements de collectivités dont elle est membre, compte tenu de la charge des
 équipements publics relevant, sur le territoire de cette commune, de leurs compétences, dans les conditions prévues par
 délibérations concordantes du conseil municipal et de l'organe délibérant de l'établissement public de coopération
-intercommunale ou du groupement de collectivités.  
+intercommunale ou du groupement de collectivités. 
 
 Dans les cas mentionnés aux 3° et 4°, une délibération de l'organe délibérant prévoit les conditions de reversement de tout
-ou partie de la taxe perçue par l'établissement public de coopération intercommunale à ses communes membres ou groupements de
-collectivités  compte tenu de la charge des équipements publics relevant de leurs compétences. 
+ou partie de la taxe perçue par l'établissement public de coopération intercommunale ou la métropole de Lyon à ses communes
+membres ou groupements de collectivités compte tenu de la charge des équipements publics relevant de leurs compétences. 
 
-Les délibérations par lesquelles le conseil municipal ou l'organe délibérant de l'établissement public de coopération
-intercommunale institue la taxe, renonce à la percevoir ou la supprime sont valables pour une durée minimale de trois ans à
-compter de leur entrée en vigueur. 
+Les délibérations par lesquelles le conseil municipal, le conseil de la métropole de Lyon ou l'organe délibérant de
+l'établissement public de coopération intercommunale institue la taxe, renonce à la percevoir ou la supprime sont valables
+pour une durée minimale de trois ans à compter de leur entrée en vigueur. 
 
 Le produit de la taxe est affecté en section d'investissement du budget des communes ou des établissements publics de
-coopération intercommunale.
+coopération intercommunale. A l'exclusion de la fraction prévue au dernier alinéa de l'article L. 331-3, le produit de la
+taxe est affecté en section d'investissement du budget principal de la métropole de Lyon.
 
 **Nota:**
 
-Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
-déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
-
-Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
-compter du 1er mars 2012.
+Conformément à l'article 43 III de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
+compter des impositions dues au titre de 2015.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2013-1278 du 29 décembre 2013 - art. 89
+	  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 7
 
 	**Cite**:
 
@@ -20813,7 +20808,7 @@ compter du 1er mars 2012.
 ###### Article L331-3
 
 La part départementale de la taxe d'aménagement est instituée par délibération du conseil général dans les conditions fixées
-au neuvième  alinéa de l'article L. 331-2 en vue de financer, d'une part, la politique de protection des espaces naturels
+au neuvième alinéa de l'article L. 331-2 en vue de financer, d'une part, la politique de protection des espaces naturels
 sensibles prévue à l'article L. 142-1 ainsi que les dépenses prévues à l'article L. 142-2 et, d'autre part, les dépenses des
 conseils d'architecture, d'urbanisme et de l'environnement en application de l'article 8 de la loi n° 77-2 du 3 janvier 1977
 sur l'architecture. 
@@ -20822,18 +20817,14 @@ La part départementale de la taxe est instituée dans toutes les communes du d�
 
 Le produit de la part départementale de la taxe a le caractère d'une recette de fonctionnement.
 
+La métropole de Lyon est substituée au département du Rhône pour l'application des trois alinéas précédents aux autorisations
+d'urbanisme délivrées à compter du 1er janvier 2017 dans le périmètre de la métropole de Lyon. Les produits perçus à ce titre
+reviennent à la métropole de Lyon, en sus de ceux qui lui échoient en vertu du 3° de l'article L. 331-2.
+
 **Nota:**
 
-Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
-déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
-
-Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
-compter du 1er mars 2012.
-
-Une nouvelle version de cet article modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
-départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
-s'appliquera aux élections organisées en mars 2015 à l'occasion du prochain renouvellement général des conseils
-départementaux, y compris aux opérations préparatoires à ce scrutin (date indéterminée).
+Conformément à l'article 43 III de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
+compter des impositions dues au titre de 2015.
 
 **Liens relatifs à cet article**
 
@@ -20856,7 +20847,7 @@ départementaux, y compris aux opérations préparatoires à ce scrutin (date in
 
 	**Modifié par**:
 
-	  - Loi n°2013-1278 du 29 décembre 2013 - art. 89
+	  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 7
 
 	**Codifié par**:
 
@@ -21021,38 +21012,39 @@ dont le terrain d'implantation a été reconnu comme extrêmement dangereux et c
 contribuable justifie que les indemnités versées en réparation des dommages occasionnés à l'immeuble ne comprennent pas le
 montant de la taxe d'aménagement normalement exigible sur les reconstructions ; 
 
-9° Les constructions dont la surface est inférieure ou égale à 5 mètres carrés.
+9° Les constructions dont la surface est inférieure ou égale à 5 mètres carrés. 
+
+Ces exonérations s'appliquent à la part de taxe d'aménagement perçue par la métropole de Lyon en vertu du 3° de l'article L.
+331-2.
 
 **Nota:**
 
-Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
-déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
-
-Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
-compter du 1er mars 2012.
+Conformément à l'article 43 III de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
+compter des impositions dues au titre de 2015.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+	  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 7
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 278 sexies (V)
-	  - Code général des impôts, CGI. - art. 296 ter (V)
-	  - Code de l'urbanisme - art. L111-3 (V)
-	  - Code de l'urbanisme - art. L121-9-1 (V)
-	  - Code de l'urbanisme - art. L311-1 (V)
-	  - Code de l'urbanisme - art. L332-11-3 (V)
-	  - Code de l'urbanisme - art. L332-11-4 (VT)
-	  - Code de la construction et de l'habitation. - art. R331-1 (V)
-	  - Code de la construction et de l'habitation. - art. R372-9 (V)
+	  - Code général des impôts, CGI. - art. 278 sexies
+	  - Code général des impôts, CGI. - art. 296 ter
+	  - Code de l'urbanisme - art. L111-3
+	  - Code de l'urbanisme - art. L121-9-1
+	  - Code de l'urbanisme - art. L311-1
+	  - Code de l'urbanisme - art. L331-2 (V)
+	  - Code de l'urbanisme - art. L332-11-3
+	  - Code de l'urbanisme - art. L332-11-4
+	  - Code de la construction et de l'habitation. - art. R331-1
+	  - Code de la construction et de l'habitation. - art. R372-9
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. L331-30 (V)
-	  - Code de l'urbanisme - art. L331-41 (M)
+	  - Code de l'urbanisme - art. L331-41 (V)
 	  - Code de l'urbanisme - art. L331-6 (V)
 	  - Code de l'urbanisme - art. L331-8 (V)
 	  - Code de l'urbanisme - art. L331-9 (VD)
@@ -21070,33 +21062,33 @@ compter du 1er mars 2012.
 ###### Article L331-8
 
 Sont exonérés des parts départementale et régionale les constructions et aménagements mentionnés aux 1° à 3° et 7° à 9° de
-l'article L. 331-7.
+l'article L. 331-7. 
+
+Ces exonérations s'appliquent à la part de taxe d'aménagement prévue au dernier alinéa de l'article L. 331-3.
 
 **Nota:**
 
-Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
-déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
-
-Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
-compter du 1er mars 2012.
+Conformément à l'article 43 III de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
+compter des impositions dues au titre de 2015.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+	  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 7
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L331-7 (V)
+	  - Code de l'urbanisme - art. L331-3 (VT)
+	  - Code de l'urbanisme - art. L331-7
 
 
 ###### Article L331-9
 
 Par délibération prise dans les conditions prévues au premier alinéa de l'article L. 331-14, les organes délibérants des
-communes ou des établissements publics de coopération intercommunale, les conseils généraux et le conseil régional de la
-région d'Ile-de-France peuvent exonérer de la taxe d'aménagement, en tout ou partie, chacune des catégories de construction
-ou aménagement suivantes : 
+communes ou des établissements publics de coopération intercommunale, le conseil de la métropole de Lyon, les conseils
+généraux et le conseil régional de la région d'Ile-de-France peuvent exonérer de la taxe d'aménagement, en tout ou partie,
+chacune des catégories de construction ou aménagement suivantes : 
 
 1° Les locaux d'habitation et d'hébergement mentionnés au 1° de l'article L. 331-12 qui ne bénéficient pas de l'exonération
 prévue au 2° de l'article L. 331-7 ; 
@@ -21105,42 +21097,46 @@ prévue au 2° de l'article L. 331-7 ;
 l'abattement mentionné au 2° de l'article L. 331-12 et qui sont financés à l'aide du prêt ne portant pas intérêt prévu à
 l'article L. 31-10-1 du code de la construction et de l'habitation ; 
 
-3° Les locaux à usage industriel ou artisanal  mentionnés au 3° de l'article L. 331-12 du présent code ; 
+3° Les locaux à usage industriel ou artisanal mentionnés au 3° de l'article L. 331-12 du présent code ; 
 
 4° Les commerces de détail d'une surface de vente inférieure à 400 mètres carrés ; 
 
 5° Les immeubles classés parmi les monuments historiques ou inscrits à l'inventaire supplémentaire des monuments
-historiques ;
+historiques ; 
 
-6° Les surfaces annexes à usage de stationnement des locaux mentionnés au 1° et ne bénéficiant pas de l'exonération totale ;
+6° Les surfaces annexes à usage de stationnement des locaux mentionnés au 1° et ne bénéficiant pas de l'exonération totale ; 
 
-7° Les surfaces des locaux annexes à usage de stationnement des immeubles autres que d'habitations individuelles ;
+7° Les surfaces des locaux annexes à usage de stationnement des immeubles autres que d'habitations individuelles ; 
 
-8° Les abris de jardin soumis à déclaration préalable.
+8° Les abris de jardin soumis à déclaration préalable. 
+
+Pour les autorisations d'urbanisme délivrées à compter du 1er janvier 2017, les exonérations adoptées par la métropole de
+Lyon sur le fondement du présent article s'appliquent simultanément à la part de taxe d'aménagement perçue en vertu du 3° de
+l'article L. 331-2 et à celle qui lui revient en application de l'article L. 331-3.
 
 **Nota:**
 
-Une nouvelle version de cet article modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
-départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
-s'appliquera aux élections organisées en mars 2015 à l'occasion du prochain renouvellement général des conseils
-départementaux, y compris aux opérations préparatoires à ce scrutin (date indéterminée).
+Conformément à l'article 43 III de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
+compter des impositions dues au titre de 2015.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2013-1278 du 29 décembre 2013 - art. 90
+	  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 7
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L331-12
 	  - Code de l'urbanisme - art. L331-14
+	  - Code de l'urbanisme - art. L331-2 (V)
+	  - Code de l'urbanisme - art. L331-3 (VT)
 	  - Code de l'urbanisme - art. L331-7
 	  - Code de la construction et de l'habitation. - art. L31-10-1
 
 	**Cité par**:
 
-	  - Code de l'urbanisme - art. L331-41 (M)
+	  - Code de l'urbanisme - art. L331-41 (V)
 	  - Code de l'urbanisme - art. L331-6 (V)
 
 
@@ -21276,23 +21272,21 @@ La valeur forfaitaire des installations et aménagements est fixée comme suit :
 5° Pour les panneaux photovoltaïques au sol, 10 € par mètre carré ; 
 
 6° Pour les aires de stationnement non comprises dans la surface visée à l'article L. 331-10, 2 000 € par emplacement, cette
-valeur pouvant être augmentée jusqu'à 5 000 € par délibération de l'organe délibérant de la collectivité territoriale ou de
-l'établissement public compétent en matière de plan local d'urbanisme ou de plan d'occupation des sols. La valeur forfaitaire
-ainsi déterminée sert également d'assiette départementale et à la part versée à la région d'Ile-de-France.
+valeur pouvant être augmentée jusqu'à 5 000 € par délibération de l'organe délibérant du conseil de la métropole de Lyon, de
+la collectivité territoriale ou de l'établissement public compétent en matière de plan local d'urbanisme ou de plan
+d'occupation des sols. La valeur forfaitaire ainsi déterminée sert également d'assiette départementale et à la part versée à
+la région d'Ile-de-France.
 
 **Nota:**
 
-Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
-déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
-
-Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
-compter du 1er mars 2012.
+Conformément à l'article 43 III de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
+compter des impositions dues au titre de 2015.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+	  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 7
 
 	**Cité par**:
 
@@ -21319,30 +21313,31 @@ La délibération est valable pour une période d'un an. Elle est reconduite de 
 nouvelle délibération n'a pas été adoptée dans le délai prévu au premier alinéa. 
 
 En l'absence de toute délibération fixant le taux de la taxe, ce dernier est fixé à 1 % dans les communes ou les
-établissements publics de coopération intercommunale où la taxe est instituée de plein droit.
+établissements publics de coopération intercommunale où la taxe est instituée de plein droit. 
+
+Les dispositions du présent article s'appliquent à la métropole de Lyon sur la part de taxe d'aménagement prévue au 3° de
+l'article L. 331-2.
 
 **Nota:**
 
-Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
-déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
-
-Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
-compter du 1er mars 2012.
+Conformément à l'article 43 III de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
+compter des impositions dues au titre de 2015.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+	  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 7
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L2121-24 (V)
-	  - Code général des collectivités territoriales - art. L2131-1 (V)
+	  - Code général des collectivités territoriales - art. L2121-24
+	  - Code général des collectivités territoriales - art. L2131-1
+	  - Code de l'urbanisme - art. L331-2 (V)
 
 	**Cité par**:
 
-	  - Code de l'urbanisme - art. L331-16 (M)
+	  - Code de l'urbanisme - art. L331-16 (V)
 	  - Code de l'urbanisme - art. L331-9 (VD)
 	  - Code de l'urbanisme - art. R*123-13 (VT)
 	  - Code de l'urbanisme - art. R151-52 (V)
@@ -21361,24 +21356,25 @@ aux besoins des futurs habitants ou usagers des constructions à édifier dans c
 équipements excède ces besoins, la fraction du coût proportionnelle à ceux-ci. 
 
 En cas de vote d'un taux supérieur à 5 % dans un ou plusieurs secteurs, les contributions mentionnées au b du 1°, aux b et d
-du 2° et au 3° de l'article L. 332-6-1 ne sont plus applicables dans ce ou ces secteurs.
+du 2° et au 3° de l'article L. 332-6-1 ne sont plus applicables dans ce ou ces secteurs. 
+
+Les dispositions du présent article s'appliquent à la métropole de Lyon sur la part de taxe d'aménagement prévue au 3° de
+l'article L. 331-2.
 
 **Nota:**
 
-Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
-déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
-
-Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
-compter du 1er mars 2012.
+Conformément à l'article 43 III de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
+compter des impositions dues au titre de 2015.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2012-354 du 14 mars 2012 - art. 30 (V)
+	  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 7
 
 	**Cite**:
 
+	  - Code de l'urbanisme - art. L331-2 (V)
 	  - Code de l'urbanisme - art. L332-6-1
 
 	**Cité par**:
@@ -21391,21 +21387,19 @@ compter du 1er mars 2012.
 
 Lorsqu'une zone d'aménagement concerté est supprimée, la taxe d'aménagement est rétablie de plein droit pour la part
 communale ou intercommunale. Le conseil municipal ou l'organe délibérant de l'établissement public de coopération
-intercommunale fixe le taux de la taxe pour cette zone dans les conditions prévues à l'article L. 331-14.
+intercommunale ou le conseil de la métropole de Lyon fixe le taux de la taxe pour cette zone dans les conditions prévues à
+l'article L. 331-14.
 
 **Nota:**
 
-Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
-déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
-
-Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
-compter du 1er mars 2012.
+Conformément à l'article 43 III de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
+compter des impositions dues au titre de 2015.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+	  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 7
 
 	**Cite**:
 
@@ -21427,26 +21421,25 @@ politique de protection des espaces naturels sensibles et les conseils d'archite
 Le taux de la part départementale de la taxe ne peut excéder 2,5 %. 
 
 La délibération est valable pour une période d'un an. Elle est reconduite de plein droit pour l'année suivante si une
-nouvelle délibération n'a pas été adoptée dans le délai prévu au premier alinéa.
+nouvelle délibération n'a pas été adoptée dans le délai prévu au premier alinéa. 
+
+Les dispositions du présent article s'appliquent, à compter du 1er janvier 2016, à la métropole de Lyon pour la part de taxe
+d'aménagement prévue à l'article L. 331-3.
 
 **Nota:**
 
-Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
-déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
-
-Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
-compter du 1er mars 2012. 
-
-Une nouvelle version de cet article modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
-départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
-s'appliquera aux élections organisées en mars 2015 à l'occasion du prochain renouvellement général des conseils
-départementaux, y compris aux opérations préparatoires à ce scrutin (date indéterminée).
+Conformément à l'article 43 III de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
+compter des impositions dues au titre de 2015.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+	  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 7
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L331-3 (VT)
 
 
 ###### Article L331-18
@@ -21704,26 +21697,21 @@ les collectivités territoriales et les établissements publics bénéficiaires,
 remboursement par le comptable et un titre de perception est émis à l'égard des collectivités territoriales ou établissements
 publics de coopération intercommunale bénéficiaires pour les montants indûment reversés. Le comptable peut recouvrer ce titre
 par voie de compensation avec le produit de la taxe qu'il répartit par ailleurs ou par voie de prélèvement sur les avances
-prévues par              le chapitre VII du titre III du livre III de la deuxième partie du code général des collectivités
-territoriales.
+prévues par le chapitre VII du titre III du livre III de la deuxième partie du code général des collectivités territoriales.
+
+Il en est de même lorsque la taxe qui fait l'objet d'un titre d'annulation a été acquittée par le redevable en tout ou partie
+et reversée à la métropole de Lyon.
 
 **Nota:**
 
-Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
-déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
-
-Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
-compter du 1er mars 2012.
+Conformément à l'article 43 III de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
+compter des impositions dues au titre de 2015.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
-
 	**Modifié par**:
 
-	  - Loi n°2011-1977 du 28 décembre 2011 - art. 144 (V)
+	  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 7
 
 
 ###### Article L331-27
@@ -21754,28 +21742,25 @@ compter du 1er mars 2012.
 
 ###### Article L331-28
 
-Après avis de l'administration chargée de l'urbanisme et consultation de la collectivité territoriale ou de l'établissement
-public de coopération intercommunale bénéficiaire, lorsqu'elle concerne la pénalité prévue à l'article L. 331-23, le
-comptable public chargé du recouvrement de la taxe et de la pénalité dont elle peut être assortie peut faire droit à une
-demande de remise gracieuse, partielle ou totale.
+Après avis de l'administration chargée de l'urbanisme et consultation de la métropole de Lyon, de la collectivité
+territoriale ou de l'établissement public de coopération intercommunale bénéficiaire, lorsqu'elle concerne la pénalité prévue
+à l'article L. 331-23, le comptable public chargé du recouvrement de la taxe et de la pénalité dont elle peut être assortie
+peut faire droit à une demande de remise gracieuse, partielle ou totale.
 
 **Nota:**
 
-Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
-déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
-
-Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
-compter du 1er mars 2012.
+Conformément à l'article 43 III de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
+compter des impositions dues au titre de 2015.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+	  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 7
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L331-23 (V)
+	  - Code de l'urbanisme - art. L331-23
 
 	**Cité par**:
 
@@ -21901,55 +21886,51 @@ compter du 1er mars 2012.
 
 ###### Article L331-33
 
-La taxe d'aménagement est versée aux collectivités territoriales et établissements publics de coopération intercommunale
-bénéficiaires pour le montant recouvré net de frais de gestion. 
+La taxe d'aménagement est versée à la métropole de Lyon,  aux collectivités territoriales et établissements publics de
+coopération intercommunale bénéficiaires pour le montant recouvré net de frais de gestion. 
 
 L'Etat effectue un prélèvement pour frais d'assiette et de recouvrement de 3 % sur le montant des recouvrements. 
 
-Les modalités de reversement mensuel de ces sommes aux collectivités territoriales bénéficiaires sont précisées par décret.
+Les modalités de reversement mensuel de ces sommes à la métropole de Lyon et aux collectivités territoriales bénéficiaires
+sont précisées par décret.
 
 **Nota:**
 
-Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
-déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
-
-Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
-compter du 1er mars 2012.
+Conformément à l'article 43 III de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
+compter des impositions dues au titre de 2015.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+	  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 7
 
 	**Cité par**:
 
-	  - Code de l'urbanisme - art. L331-44 (M)
+	  - Code de l'urbanisme - art. L331-44 (V)
 
 
 ###### Article L331-34
 
-Avant le 1er mars de chaque année, l'administration chargée de l'urbanisme fournit aux collectivités territoriales et
-établissements publics de coopération intercommunale bénéficiaires de la taxe d'aménagement les éléments concernant l'année
-civile précédente nécessaires à l'établissement des prévisions de recettes, en vue de la préparation de leur budget.
+Avant le 1er mars de chaque année, l'administration chargée de l'urbanisme fournit à la métropole de Lyon, aux collectivités
+territoriales et établissements publics de coopération intercommunale bénéficiaires de la taxe d'aménagement les éléments
+concernant l'année civile précédente nécessaires à l'établissement des prévisions de recettes, en vue de la préparation de
+leur budget.
 
 **Nota:**
 
-Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
-déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
-
-Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
-compter du 1er mars 2012.
+Conformément à l'article 43 III de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
+compter des impositions dues au titre de 2015.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+	  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 7
 
 	**Cité par**:
 
-	  - Code de l'urbanisme - art. L331-44 (M)
+	  - Code de l'urbanisme - art. L331-44 (V)
 
 
 ##### Section 2 : Versement pour sous-densité
@@ -21993,12 +21974,12 @@ d'urbanisme déposées à compter du 1er mars 2012, et à compter du 1er janvier
 
 En vue de financer les actions et opérations contribuant à la réalisation des objectifs définis à l'article L. 121-1, les
 communes et établissements publics de coopération intercommunale compétents en matière de plan local d'urbanisme ou de plan
-d'occupation des sols peuvent instituer, par délibération, un seuil minimal de densité en deçà duquel un versement pour sous-
-densité est dû par les personnes mentionnées à l'article L. 331-39. 
+d'occupation des sols ainsi que la métropole de Lyon peuvent instituer, par délibération, un seuil minimal de densité en deçà
+duquel un versement pour sous-densité est dû par les personnes mentionnées à l'article L. 331-39. 
 
-Le seuil minimal de densité est déterminé par secteurs du territoire de la commune ou de l'établissement public de
-coopération intercommunale, dans les zones urbaines et à urbaniser, définis sur un document graphique figurant, à titre
-d'information, dans une annexe au plan local d'urbanisme ou au plan d'occupation des sols. 
+Le seuil minimal de densité est déterminé par secteurs du territoire de la commune, de l'établissement public de coopération
+intercommunale ou de la métropole de Lyon, dans les zones urbaines et à urbaniser, définis sur un document graphique
+figurant, à titre d'information, dans une annexe au plan local d'urbanisme ou au plan d'occupation des sols. 
 
 Le seuil minimal de densité est fixé pour une durée minimale de trois ans à compter de la date d'entrée en vigueur de la
 délibération l'ayant institué. 
@@ -22017,14 +21998,14 @@ jour du deuxième mois qui suit la date à laquelle elles ont été adoptées.
 
 **Nota:**
 
-Loi n° 2010-1658 du 29 décembre 2010 art. 28 II C : Ces dispositions sont applicables aux demandes d'autorisations
-d'urbanisme déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte.
+Conformément à l'article 43 III de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
+compter des impositions dues au titre de 2015.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+	  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 7
 
 	**Cité par**:
 
@@ -22043,9 +22024,9 @@ d'urbanisme déposées à compter du 1er mars 2012, et à compter du 1er janvier
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L112-2 (V)
-	  - Code de l'urbanisme - art. L121-1 (V)
-	  - Code de l'urbanisme - art. L331-39 (V)
+	  - Code de l'urbanisme - art. L112-2
+	  - Code de l'urbanisme - art. L121-1
+	  - Code de l'urbanisme - art. L331-39
 
 
 ###### Article L331-37
@@ -22187,24 +22168,24 @@ contribuable au maire de la commune qui dispose de ce délai pour formuler des o
 Les constructions et aménagements mentionnés aux 1° à 3° et 7° à 9° de l'article L. 331-7 sont exonérés du versement pour
 sous-densité. 
 
-En outre, la commune ou l'établissement public de coopération intercommunale peut exonérer du versement pour sous-densité les
-locaux mentionnés à l'article L. 331-9, dans les conditions et les limites prévues par cet article.
+En outre, la commune, l'établissement public de coopération intercommunale ou la métropole de Lyon peut exonérer du versement
+pour sous-densité les locaux mentionnés à l'article L. 331-9, dans les conditions et les limites prévues par cet article.
 
 **Nota:**
 
-Loi n° 2010-1658 du 29 décembre 2010 art. 28 II C : Ces dispositions sont applicables aux demandes d'autorisations
-d'urbanisme déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte.
+Conformément à l'article 43 III de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
+compter des impositions dues au titre de 2015.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+	  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 7
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L331-7 (V)
-	  - Code de l'urbanisme - art. L331-9 (V)
+	  - Code de l'urbanisme - art. L331-9 (M)
 
 
 ##### Sous-section 6 : Etablissement et recouvrement
@@ -22255,18 +22236,19 @@ d'urbanisme déposées à compter du 1er mars 2012, et à compter du 1er janvier
 
 ###### Article L331-44
 
-Le reversement aux collectivités territoriales s'effectue selon les modalités prévues aux articles L. 331-33 et L. 331-34.
+Le reversement à la métropole de Lyon et aux collectivités territoriales s'effectue selon les modalités prévues aux articles
+L. 331-33 et L. 331-34.
 
 **Nota:**
 
-Loi n° 2010-1658 du 29 décembre 2010 art. 28 II C : Ces dispositions sont applicables aux demandes d'autorisations
-d'urbanisme déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte.
+Conformément à l'article 43 III de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
+compter des impositions dues au titre de 2015.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+	  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 7
 
 	**Cite**:
 
@@ -22306,25 +22288,25 @@ d'urbanisme déposées à compter du 1er mars 2012, et à compter du 1er janvier
 ###### Article L331-46
 
 Le produit des versements dus au titre des densités de construction inférieures au seuil minimal de densité et le produit de
-ceux dus en application des articles L. 112-2 et L. 333-2 sont attribués aux communes ou établissements publics de
-coopération intercommunale mentionnés au premier alinéa de l'article L. 331-36.
+ceux dus en application des articles L. 112-2 et L. 333-2 sont attribués à la métropole de Lyon, aux communes ou
+établissements publics de coopération intercommunale mentionnés au premier alinéa de l'article L. 331-36.
 
 **Nota:**
 
-Loi n° 2010-1658 du 29 décembre 2010 art. 28 II C : Ces dispositions sont applicables aux demandes d'autorisations
-d'urbanisme déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte.
+Conformément à l'article 43 III de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
+compter des impositions dues au titre de 2015.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+	  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 7
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L112-2 (V)
-	  - Code de l'urbanisme - art. L331-36 (V)
-	  - Code de l'urbanisme - art. L333-2 (Ab)
+	  - Code de l'urbanisme - art. L112-2
+	  - Code de l'urbanisme - art. L331-36 (M)
+	  - Code de l'urbanisme - art. L333-2
 
 
 #### Chapitre II : Participation des constructeurs et des lotisseurs
