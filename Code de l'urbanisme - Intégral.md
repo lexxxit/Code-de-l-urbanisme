@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2014-11-08
+Version Consolidée au 2014-11-30
 
 # Partie législative
 
@@ -30742,36 +30742,41 @@ article ne s'appliquent pas fait l'objet des procédures d'association du public
 
 Pour l'application de l'article L. 111-6-2, les dispositifs, matériaux ou procédés sont : 
 
-1° Les matériaux d'isolation thermique des parois opaques des constructions et, notamment, le bois et les végétaux en façade
-ou en toiture ; 
+1° Les bois, végétaux et matériaux biosourcés utilisés en façade ou en toiture 
 
-2° Les portes, portes-fenêtres et volets isolants définis par un arrêté du ministre chargé de l'urbanisme ; 
-
-3° Les systèmes de production d'énergie à partir de sources renouvelables, lorsqu'ils correspondent aux besoins de la
+2° Les systèmes de production d'énergie à partir de sources renouvelables, lorsqu'ils correspondent aux besoins de la
 consommation domestique des occupants de l'immeuble ou de la partie d'immeuble concernée. Un arrêté du ministre chargé de
 l'urbanisme précise les critères d'appréciation des besoins de consommation précités ; 
 
-4° Les équipements de récupération des eaux de pluie, lorsqu'ils correspondent aux besoins de la consommation domestique des
+3° Les équipements de récupération des eaux de pluie, lorsqu'ils correspondent aux besoins de la consommation domestique des
 occupants de l'immeuble ou de la partie d'immeuble concernée ; 
 
-5° Les pompes à chaleur ; 
+4° Les pompes à chaleur ; 
 
-6° Les brise-soleils.
+5° Les brise-soleils.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-830 du 12 juillet 2011 - art. 1
+	  - Décret n°2014-1414 du 27 novembre 2014 - art. 1
 
 	**Cité par**:
 
 	  - Arrêté du 19 décembre 2014 - art. 1 (V)
 	  - Code de l'urbanisme - art. R*431-18-1 (M)
 
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L111-6-2
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R111-23 (V)
 
 
 #### Chapitre II : Plafond légal de densité.
@@ -57375,16 +57380,16 @@ le projet respecte les critères de performance énergétique définis par cet a
 
 ###### Article R*431-18-1
 
-Lorsque la demande de permis de construire porte sur un projet comportant l'installation de portes, de portes-fenêtres ou de
-volets isolants ou de systèmes de production d'énergie à partir de sources renouvelables alors que des dispositions
-d'urbanisme s'opposent à leur installation, le demandeur joint au dossier un document par lequel il atteste que ces
-dispositifs sont conformes aux dispositions de l'arrêté visé aux 2° et 3° de l'article R. 111-50.
+Lorsque la demande de permis de construire porte sur un projet comportant l'installation de systèmes de production d'énergie
+à partir de sources renouvelables alors que des dispositions d'urbanisme s'opposent à leur installation, le demandeur joint
+au dossier un document par lequel il s'engage à installer des dispositifs conformes aux dispositions de l'arrêté prévu au 2°
+de l'article R. 111-50.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-830 du 12 juillet 2011 - art. 4
+	  - Décret n°2014-1414 du 27 novembre 2014 - art. 2
 
 	**Cité par**:
 
