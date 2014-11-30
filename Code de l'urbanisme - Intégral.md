@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2014-11-30
+Version Consolidée au 2014-12-01
 
 # Partie législative
 
@@ -57986,27 +57986,9 @@ du b de l'article R. 555-30 du code de l'environnement, l'analyse de compatibili
 vue de la sécurité des personnes prévue à l'article R. 555-31 du même code ; 
 
 k) Le récépissé de transmission du dossier à la commission départementale de la sécurité des transports de fonds, lors de la
-construction d'un bâtiment comportant un lieu sécurisé défini à l'article 1er-1 du décret n° 2000-376 du 28 avril 2000.
-
-**Nota:**
-
-Conformément à l'article 23 du décret n° 2012-1109 du 1er octobre 2012, les dispositions de l'article 21 du présent décret
-s'appliquent aux demandes de permis de construire et aux déclarations préalables déposées à compter du premier jour du
-huitième mois suivant sa publication.
+construction d'un bâtiment comportant un lieu sécurisé défini à l'article R. 613-28 du code de la sécurité intérieure.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°2000-376 du 28 avril 2000 - art. 1-1
-	  - Code général des collectivités territoriales - art. L2224-8
-	  - Code de l'urbanisme - art. L510-1
-	  - Code de l'urbanisme - art. R111-48
-	  - Code de l'environnement - art. L562-2
-	  - Code de l'environnement - art. L563-1
-	  - Code de l'environnement - art. R414-23
-	  - Code de l'environnement - art. R555-30
-	  - Code de l'environnement - art. R555-31
 
 	**Cité par**:
 
@@ -58022,11 +58004,19 @@ huitième mois suivant sa publication.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1109 du 1er octobre 2012 - art. 21
+	  - Décret n°2014-1253 du 27 octobre 2014 - art. 2 (VD)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°73-1023 1973-11-08
+	  - Code général des collectivités territoriales - art. L2224-8
+	  - Code de l'urbanisme - art. L510-1
+	  - Code de l'urbanisme - art. R111-48
+	  - Code de l'environnement - art. L562-2
+	  - Code de l'environnement - art. L563-1
+	  - Code de l'environnement - art. R414-23
+	  - Code de l'environnement - art. R555-30
+	  - Code de l'environnement - art. R555-31
+	  - Code de la sécurité intérieure - art. R613-28 (VD)
 
 
 ###### Article R431-16-2
