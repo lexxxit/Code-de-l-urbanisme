@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2014-12-01
+Version Consolidée au 2014-12-18
 
 # Partie législative
 
@@ -3531,19 +3531,16 @@ locaux d'urbanisme, les plans de sauvegarde et de mise en valeur, les cartes com
 d'intervention prévus à l'article L. 143-1, les opérations foncières et les opérations d'aménagement définies par décret en
 Conseil d'Etat sont compatibles avec le document d'orientation et d'objectifs des schémas de cohérence territoriale et les
 schémas de secteur. Il en est de même pour les autorisations prévues par l'article L. 752-1 du code de commerce et l'article
-L. 212-7 du code du cinéma et de l'image animée. 
+L. 212-7 du code du cinéma et de l'image animée, ainsi que pour le permis de construire tenant lieu d'autorisation
+d'exploitation commerciale prévu à l'article L. 425-4 du présent code. 
 
 Lorsqu'un schéma de cohérence territoriale est approuvé après l'approbation d'un programme local de l'habitat ou d'un plan de
 déplacements urbains, ces derniers sont, le cas échéant, rendus compatibles dans un délai de trois ans.
 
 **Nota:**
 
-Loi 2010-788 du 12 juillet 2010 art. 17 VIII. ― Le présent article entre en vigueur six mois après la publication de la
-présente loi, le cas échéant après son intégration à droit constant dans une nouvelle rédaction du livre Ier du code de
-l'urbanisme à laquelle il pourra être procédé en application de l'article 25 de la présente loi.
-Toutefois, les dispositions antérieurement applicables continuent de s'appliquer lorsqu'un schéma de cohérence territoriale
-est en cours d'élaboration ou de révision et que le projet de schéma a été arrêté par l'organe délibérant de l'établissement
-public de coopération intercommunale avant la date prévue à l'alinéa précédent.
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 60, ces dispositions entrent en vigueur à une date fixée par
+décret en Conseil d'Etat et au plus tard le 18 décembre 2014.
 
 **Liens relatifs à cet article**
 
@@ -3557,13 +3554,13 @@ public de coopération intercommunale avant la date prévue à l'alinéa précé
 
 	**Cite**:
 
-	  - Code du cinéma et de l'image animée - art. L212-7 (V)
+	  - Code du cinéma et de l'image animée - art. L212-7 (VD)
 	  - Code de commerce - art. L752-1
-	  - Code de l'urbanisme - art. L143-1 (V)
+	  - Code de l'urbanisme - art. L143-1
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 17 (V)
+	  - Loi n°2014-626 du 18 juin 2014 - art. 41
 
 
 ###### Article L122-2
@@ -24561,6 +24558,54 @@ ce qui concerne l'aménagement intérieur du bâtiment ou de la partie de bâtim
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
+###### Article L425-4
+
+Lorsque le projet est soumis à autorisation d'exploitation commerciale au sens de l'article L. 752-1 du code de commerce, le
+permis de construire tient lieu d'autorisation dès lors que la demande de permis a fait l'objet d'un avis favorable de la
+commission départementale d'aménagement commercial ou, le cas échéant, de la Commission nationale d'aménagement commercial. 
+
+A peine d'irrecevabilité, la saisine de la commission nationale par les personnes mentionnées à l'article L. 752-17 du même
+code est un préalable obligatoire au recours contentieux dirigé contre la décision de l'autorité administrative compétente
+pour délivrer le permis de construire. 
+
+Une nouvelle demande de permis de construire valant autorisation d'exploitation commerciale est nécessaire dès lors qu'un
+projet subit une modification substantielle au sens de l'article L. 752-15 dudit code. 
+
+La seule circonstance qu'un permis de construire valant autorisation d'exploitation commerciale fasse l'objet d'un permis
+modificatif ne saurait, à elle seule, justifier une nouvelle saisine pour avis de la commission départementale d'aménagement
+commercial dès lors que le permis modificatif n'a pas pour effet d'entraîner une modification substantielle du projet au sens
+du même article L. 752-15. 
+
+Le permis de construire, le permis d'aménager ou la décision prise sur la déclaration préalable valant autorisation
+d'exploitation commerciale est incessible et intransmissible.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 60, ces dispositions entrent en vigueur à une date fixée par
+décret en Conseil d'Etat et au plus tard le 18 décembre 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-626 du 18 juin 2014 - art. 39
+
+	**Cité par**:
+
+	  - Décret n°2014-1299 du 23 octobre 2014 - art. (V)
+	  - Code de commerce - art. L752-17 (VD)
+	  - Code de l'urbanisme - art. *R423-44-1 (V)
+	  - Code de l'urbanisme - art. L142-1 (VD)
+	  - Code de l'urbanisme - art. L600-1-4 (VD)
+	  - Code de l'urbanisme - art. L600-10 (VD)
+	  - Code de l'urbanisme - art. R*424-2 (V)
+
+	**Cite**:
+
+	  - Code de commerce - art. L752-1
+	  - Code de commerce - art. L752-15 (VT)
+
+
 #####  Section 3 : Opérations pour lesquelles l'autorisation prévue par une autre législation dispense de permis ou de déclaration préalable
 
 ###### Article L425-5
@@ -24621,37 +24666,6 @@ préalablement à la délivrance du permis.
 
 	  - Code forestier (nouveau) - art. L341-1 (V)
 	  - Code forestier (nouveau) - art. L341-7 (V)
-
-
-###### Article L425-7
-
-Conformément à l'article L. 752-1 du code de commerce, lorsque le permis de construire porte sur un projet soumis à une
-autorisation d'exploitation commerciale, le permis ne peut être accordé avant la délivrance de cette autorisation. Sa mise en
-oeuvre ne peut être entreprise avant l'expiration des recours entrepris contre elle.
-
-**Nota:**
-
-Conformément à la loi n° 2014-626 du 18 juin 2014, article 60, ces dispositions sont abrogées à une date fixée par décret en
-Conseil d'Etat et au plus tard le 18 décembre 2014.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2008-776 du 4 août 2008 - art. 105 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2014-626 du 18 juin 2014 - art. 39
-
-	**Cite**:
-
-	  - Code de commerce - art. L752-1
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. L427-2 (VD)
-	  - Code de l'urbanisme - art. L740-1 (VT)
 
 
 ###### Article L425-8
@@ -28400,6 +28414,37 @@ démolir ou d'aménager s'apprécie à la date d'affichage en mairie de la deman
 	  - Ordonnance n°2013-638 du 18 juillet 2013 - art. 1
 
 
+###### Article L600-1-4
+
+Lorsqu'il est saisi par une personne mentionnée à l'article L. 752-17 du code de commerce d'un recours pour excès de pouvoir
+dirigé contre le permis de construire mentionné à l'article L. 425-4 du présent code, le juge administratif ne peut être
+saisi de conclusions tendant à l'annulation de ce permis qu'en tant qu'il tient lieu d'autorisation d'exploitation
+commerciale. Les moyens relatifs à la régularité de ce permis en tant qu'il vaut autorisation de construire sont irrecevables
+à l'appui de telles conclusions. 
+
+Lorsqu'il est saisi par une personne mentionnée à l'article L. 600-1-2 d'un recours pour excès de pouvoir dirigé contre le
+permis de construire mentionné à l'article L. 425-4, le juge administratif ne peut être saisi de conclusions tendant à
+l'annulation de ce permis qu'en tant qu'il vaut autorisation de construire. Les moyens relatifs à la régularité de ce permis
+en tant qu'il tient lieu d'autorisation d'exploitation commerciale sont irrecevables à l'appui de telles conclusions.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 60, ces dispositions entrent en vigueur à une date fixée par
+décret en Conseil d'Etat et au plus tard le 18 décembre 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-626 du 18 juin 2014 - art. 40
+
+	**Cite**:
+
+	  - Code de commerce - art. L752-17 (VD)
+	  - Code de l'urbanisme - art. L425-4
+	  - Code de l'urbanisme - art. L600-1-2
+
+
 ###### Article L600-2
 
 Lorsqu'un refus opposé à une demande d'autorisation d'occuper ou d'utiliser le sol ou l'opposition à une déclaration de
@@ -28654,6 +28699,27 @@ l'annulation qu'il prononce.
 	  - Code de l'urbanisme - art. L122-14-1
 	  - Code de l'urbanisme - art. L123-13-1
 	  - Code de l'urbanisme - art. L124-2
+
+
+###### Article L600-10
+
+Les cours administratives d'appel sont compétentes pour connaître en premier et dernier ressort des litiges relatifs au
+permis de construire tenant lieu d'autorisation d'exploitation commerciale prévu à l'article L. 425-4.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 60 I, ces dispositions entrent en vigueur à une date fixée par
+décret en Conseil d'Etat et au plus tard le 18 décembre 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-626 du 18 juin 2014 - art. 58
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L425-4 (VD)
 
 
 # Partie réglementaire - Décrets en Conseil d'Etat
