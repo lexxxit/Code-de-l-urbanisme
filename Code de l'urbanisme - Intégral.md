@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2014-12-25
+Version Consolidée au 2014-12-30
 
 # Partie législative
 
@@ -6171,10 +6171,6 @@ les places qu'il ne peut réaliser lui-même, soit de l'obtention d'une concessi
 stationnement existant ou en cours de réalisation et situé à proximité de l'opération, soit de l'acquisition ou de la
 concession de places dans un parc privé de stationnement répondant aux mêmes conditions. 
 
-En l'absence d'un tel parc, le bénéficiaire du permis ou de la décision de non-opposition à une déclaration préalable peut
-être tenu de verser à la commune une participation en vue de la réalisation de parcs publics de stationnement, dans les
-conditions définies à l'article L. 332-7-1 du présent code. 
-
 Lorsqu'une aire de stationnement a été prise en compte dans le cadre d'une concession à long terme ou d'un parc privé de
 stationnement, au titre des obligations prévues aux deux premiers alinéas du présent article, elle ne peut plus être prise en
 compte, en tout ou en partie, à l'occasion d'une nouvelle autorisation.
@@ -6187,7 +6183,7 @@ compte, en tout ou en partie, à l'occasion d'une nouvelle autorisation.
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 137 (V)
+	  - Loi n°2014-1655 du 29 décembre 2014 - art. 44
 
 	**Cité par**:
 
@@ -7985,18 +7981,20 @@ publié à la date de publication de la présente loi.
 
 Le règlement peut délimiter des secteurs à l'intérieur desquels la réalisation de programmes de logements comportant des
 logements locatifs sociaux au sens de l'article L. 302-5 du code de la construction et de l'habitation bénéficie d'une
-majoration du volume constructible tel qu'il résulte        des règles relatives au gabarit, à la hauteur et à l'emprise au
-sol. Cette majoration, fixée pour chaque secteur, ne peut excéder 50 %. Pour chaque opération, elle ne peut être supérieure
-au rapport entre le nombre de logements locatifs sociaux et le nombre total des logements de l'opération. 
-
-La partie de la construction en dépassement n'est pas assujettie au versement résultant du dépassement du plafond légal de
-densité.
+majoration du volume constructible tel qu'il résulte des règles relatives au gabarit, à la hauteur et à l'emprise au sol.
+Cette majoration, fixée pour chaque secteur, ne peut excéder 50 %. Pour chaque opération, elle ne peut être supérieure au
+rapport entre le nombre de logements locatifs sociaux et le nombre total des logements de l'opération.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 158 (V)
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+	  - Loi n°2014-1655 du 29 décembre 2014 - art. 44
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 	**Cité par**:
 
@@ -8005,7 +8003,7 @@ densité.
 	  - Code de l'urbanisme - art. L123-13-2 (VT)
 	  - Code de l'urbanisme - art. L123-13-3 (VT)
 	  - Code de l'urbanisme - art. L127-2 (Ab)
-	  - Code de l'urbanisme - art. L128-3 (M)
+	  - Code de l'urbanisme - art. L128-3 (VT)
 	  - Code de l'urbanisme - art. R*123-13 (V)
 	  - Code de l'urbanisme - art. R*127-1 (Ab)
 	  - Code de l'urbanisme - art. R*127-2 (VT)
@@ -8014,6 +8012,10 @@ densité.
 	  - Code de l'urbanisme - art. R*431-17 (V)
 	  - Code de l'urbanisme - art. R421-2-1 (Ab)
 	  - Code de la construction et de l'habitation. - art. L302-1 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L151-28 (VD)
 
 	**Cite**:
 
@@ -8024,10 +8026,10 @@ densité.
 
 ###### Article L128-1
 
-Dans les zones urbaines ou à urbaniser, le règlement peut autoriser un dépassement des règles relatives au gabarit
-résultant du plan local d'urbanisme ou du document d'urbanisme en tenant lieu dans la limite de 30 % et dans le respect des
-autres règles établies par le document, pour les constructions satisfaisant à des critères de performance énergétique élevée
-ou alimentées à partir d'équipements performants de production d'énergie renouvelable ou de récupération. 
+Dans les zones urbaines ou à urbaniser, le règlement peut autoriser un dépassement des règles relatives au gabarit résultant
+du plan local d'urbanisme ou du document d'urbanisme en tenant lieu dans la limite de 30 % et dans le respect des autres
+règles établies par le document, pour les constructions satisfaisant à des critères de performance énergétique élevée ou
+alimentées à partir d'équipements performants de production d'énergie renouvelable ou de récupération. 
 
 Ce dépassement ne peut excéder 20 % dans un secteur sauvegardé, dans une zone de protection du patrimoine architectural,
 urbain et paysager créée en application de l'article L. 642-1 du code du patrimoine, dans le périmètre de protection d'un
@@ -8038,16 +8040,13 @@ inscrit au titre des monuments historiques ou adossé à un immeuble classé, ou
 III de l'article L. 123-1-5 du présent code. Il ne peut permettre de déroger aux servitudes d'utilité publique visées à
 l'article L. 126-1. 
 
-Un décret en Conseil d'Etat détermine les critères de performance et les équipements pris en compte. 
-
-La partie de la construction en dépassement n'est pas assujettie au versement résultant du dépassement du plafond légal de
-densité.
+Un décret en Conseil d'Etat détermine les critères de performance et les équipements pris en compte.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 158 (V)
+	  - Loi n°2014-1655 du 29 décembre 2014 - art. 44
 
 	**Cité par**:
 
@@ -20970,22 +20969,11 @@ d'aménager, les personnes responsables de la construction.
 
 Le fait générateur de la taxe est, selon les cas, la date de délivrance de l'autorisation de construire ou d'aménager, celle
 de délivrance du permis modificatif, celle de la naissance d'une autorisation tacite de construire ou d'aménager, celle de la
-décision de non-opposition à une déclaration préalable ou, en cas de construction sans autorisation ou en infraction aux
-obligations résultant de l'autorisation de construire ou d'aménager, celle du procès-verbal constatant la ou les infractions.
-
-**Nota:**
-
-Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
-déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
-
-Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
-compter du 1er mars 2012.
+décision de non-opposition à une déclaration préalable ou, en cas de constructions ou d'aménagements sans autorisation ou en
+infraction aux obligations résultant de l'autorisation de construire ou d'aménager, celle du procès-verbal constatant
+l'achèvement des constructions ou des aménagements en cause.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
 
 	**Cité par**:
 
@@ -20993,12 +20981,16 @@ compter du 1er mars 2012.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L331-7 (V)
-	  - Code de l'urbanisme - art. L331-9 (V)
+	  - Code de l'urbanisme - art. L331-7
+	  - Code de l'urbanisme - art. L331-9
 
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Modifié par**:
+
+	  - Loi n°2014-1655 du 29 décembre 2014 - art. 44
 
 
 ##### Sous-section 3 : Exonérations
@@ -21130,7 +21122,7 @@ prévue au 2° de l'article L. 331-7 ;
 l'abattement mentionné au 2° de l'article L. 331-12 et qui sont financés à l'aide du prêt ne portant pas intérêt prévu à
 l'article L. 31-10-1 du code de la construction et de l'habitation ; 
 
-3° Les locaux à usage industriel ou artisanal mentionnés au 3° de l'article L. 331-12 du présent code ; 
+3° Les locaux à usage industriel et artisanal mentionnés au 3° de l'article L. 331-12 du présent code ; 
 
 4° Les commerces de détail d'une surface de vente inférieure à 400 mètres carrés ; 
 
@@ -21141,7 +21133,7 @@ historiques ;
 
 7° Les surfaces des locaux annexes à usage de stationnement des immeubles autres que d'habitations individuelles ; 
 
-8° Les abris de jardin soumis à déclaration préalable. 
+8° Les abris de jardin, les pigeonniers et colombiers soumis à déclaration préalable. 
 
 Pour les autorisations d'urbanisme délivrées à compter du 1er janvier 2017, les exonérations adoptées par la métropole de
 Lyon sur le fondement du présent article s'appliquent simultanément à la part de taxe d'aménagement perçue en vertu du 3° de
@@ -21156,20 +21148,21 @@ compter des impositions dues au titre de 2015.
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 7
+	  - Loi n°2014-1655 du 29 décembre 2014 - art. 43
+	  - Loi n°2014-1655 du 29 décembre 2014 - art. 44
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L331-12
 	  - Code de l'urbanisme - art. L331-14
-	  - Code de l'urbanisme - art. L331-2 (V)
-	  - Code de l'urbanisme - art. L331-3 (VT)
+	  - Code de l'urbanisme - art. L331-2
+	  - Code de l'urbanisme - art. L331-3
 	  - Code de l'urbanisme - art. L331-7
 	  - Code de la construction et de l'habitation. - art. L31-10-1
 
 	**Cité par**:
 
-	  - Code de l'urbanisme - art. L331-41 (V)
+	  - Code de l'urbanisme - art. L331-41 (M)
 	  - Code de l'urbanisme - art. L331-6 (V)
 
 
@@ -21388,8 +21381,9 @@ Il ne peut être mis à la charge des aménageurs ou constructeurs que le coût 
 aux besoins des futurs habitants ou usagers des constructions à édifier dans ces secteurs ou, lorsque la capacité des
 équipements excède ces besoins, la fraction du coût proportionnelle à ceux-ci. 
 
-En cas de vote d'un taux supérieur à 5 % dans un ou plusieurs secteurs, les contributions mentionnées au b du 1°, aux b et d
-du 2° et au 3° de l'article L. 332-6-1 ne sont plus applicables dans ce ou ces secteurs. 
+En cas de vote d'un taux supérieur à 5 % dans un ou plusieurs secteurs, les contributions mentionnées au d du 2° et au 3° de
+l'article L. 332-6-1, dans leur rédaction antérieure à l'entrée en vigueur de la loi n° 2014-1655 du 29 décembre 2014 de
+finances rectificative pour 2014, ne sont plus applicables dans ce ou ces secteurs. 
 
 Les dispositions du présent article s'appliquent à la métropole de Lyon sur la part de taxe d'aménagement prévue au 3° de
 l'article L. 331-2.
@@ -21403,12 +21397,12 @@ compter des impositions dues au titre de 2015.
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 7
+	  - Loi n°2014-1655 du 29 décembre 2014 - art. 44
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L331-2 (V)
-	  - Code de l'urbanisme - art. L332-6-1
+	  - Code de l'urbanisme - art. L331-2
+	  - Code de l'urbanisme - art. L332-6-1 (V)
 
 	**Cité par**:
 
@@ -21587,28 +21581,20 @@ compter du 1er mars 2012.
 ###### Article L331-22
 
 Lorsqu'une demande d'autorisation de construire a été déposée, la procédure de rectification contradictoire prévue par
-l'article L. 57 du livre des procédures fiscales peut être mise en œuvre. 
+l'article L. 55 du livre des procédures fiscales peut être mise en œuvre. 
 
 Si aucune déclaration n'a été déposée, les bases ou les éléments servant au calcul de la taxe et des sanctions applicables
 sont portés à la connaissance du redevable trente jours au moins avant la mise en recouvrement.
 
-**Nota:**
-
-Loi n° 2010-1658 du 29 décembre 2010 art. 28 I B : Ces dispositions sont applicables aux demandes d'autorisations et aux
-déclarations préalables déposées à compter du 1er mars 2012, et à compter du 1er janvier 2014 à Mayotte. 
-
-Elles sont également applicables aux demandes d'autorisations modificatives générant un complément de taxation déposées à
-compter du 1er mars 2012.
-
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+	  - Loi n°2014-1655 du 29 décembre 2014 - art. 44
 
 	**Cite**:
 
-	  - Livre des procédures fiscales - art. L57 (V)
+	  - Livre des procédures fiscales - art. L55
 
 	**Cité par**:
 
@@ -21721,9 +21707,12 @@ En cas de transfert total de l'autorisation de construire ou d'aménager, le red
 titulaire du droit à construire ou d'aménager. Un titre d'annulation est émis au profit du redevable initial. De nouveaux
 titres de perception sont émis à l'encontre du ou des nouveaux titulaires du droit à construire. 
 
-En cas de transfert partiel, un titre d'annulation des sommes correspondant à la surface transférée est émis au profit du
-titulaire initial du droit à construire. Un ou des titres de perception sont émis à l'encontre du ou des titulaires du ou des
-transferts partiels. 
+En cas de transfert partiel, un titre d'annulation des sommes correspondant à la surface, à l'aménagement ou à l'installation
+transférés est émis au profit du titulaire initial du droit à construire ou à aménager. Un ou des titres de perception sont
+émis à l'encontre du ou des titulaires du ou des transferts partiels. 
+
+En cas de transfert total ou partiel, le ou les titres de perception sont émis dans les trente-six mois suivant l'émission du
+titre d'annulation.
 
 Lorsque la taxe qui fait l'objet d'un titre d'annulation a été acquittée par le redevable en tout ou partie et répartie entre
 les collectivités territoriales et les établissements publics bénéficiaires, le versement indu fait l'objet d'un
@@ -21744,7 +21733,7 @@ compter des impositions dues au titre de 2015.
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 7
+	  - Loi n°2014-1655 du 29 décembre 2014 - art. 44
 
 
 ###### Article L331-27
@@ -22023,9 +22012,6 @@ développement de l'offre foncière peut être prise sans condition de délai.
 Le versement pour sous-densité constitue un élément du prix de revient de l'ensemble immobilier au sens de l'article 302
 septies B du code général des impôts. 
 
-En cas d'institution du versement pour sous-densité, le versement pour dépassement du plafond légal de densité prévu par
-l'article L. 112-2 du présent code est supprimé de plein droit sur l'ensemble du territoire de la commune. 
-
 Les délibérations sont adressées aux services de l'Etat chargés de l'urbanisme dans le département au plus tard le premier
 jour du deuxième mois qui suit la date à laquelle elles ont été adoptées.
 
@@ -22038,14 +22024,14 @@ compter des impositions dues au titre de 2015.
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 7
+	  - Loi n°2014-1655 du 29 décembre 2014 - art. 44
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. *R442-11 (V)
 	  - Code de l'urbanisme - art. L331-38 (V)
 	  - Code de l'urbanisme - art. L331-46 (V)
-	  - Code de l'urbanisme - art. L332-12 (M)
+	  - Code de l'urbanisme - art. L332-12 (V)
 	  - Code de l'urbanisme - art. L332-6 (V)
 	  - Code de l'urbanisme - art. R*123-13 (VT)
 	  - Code de l'urbanisme - art. R*442-10-1 (V)
@@ -22057,7 +22043,6 @@ compter des impositions dues au titre de 2015.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L112-2
 	  - Code de l'urbanisme - art. L121-1
 	  - Code de l'urbanisme - art. L331-39
 
@@ -22320,9 +22305,9 @@ d'urbanisme déposées à compter du 1er mars 2012, et à compter du 1er janvier
 
 ###### Article L331-46
 
-Le produit des versements dus au titre des densités de construction inférieures au seuil minimal de densité et le produit de
-ceux dus en application des articles L. 112-2 et L. 333-2 sont attribués à la métropole de Lyon, aux communes ou
-établissements publics de coopération intercommunale mentionnés au premier alinéa de l'article L. 331-36.
+Le produit des versements dus au titre des densités de construction inférieures au seuil minimal de densité est attribué à la
+métropole de Lyon, aux communes ou établissements publics de coopération intercommunale mentionnés au premier alinéa de
+l'article L. 331-36.
 
 **Nota:**
 
@@ -22333,13 +22318,11 @@ compter des impositions dues au titre de 2015.
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 7
+	  - Loi n°2014-1655 du 29 décembre 2014 - art. 44
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L112-2
-	  - Code de l'urbanisme - art. L331-36 (M)
-	  - Code de l'urbanisme - art. L333-2
+	  - Code de l'urbanisme - art. L331-36
 
 
 #### Chapitre II : Participation des constructeurs et des lotisseurs
@@ -22355,23 +22338,20 @@ d'aménagement définis à l'article L. 332-9 dans sa rédaction antérieure à 
 décembre 2010 de finances rectificative pour 2010 ou dans les périmètres fixés par les conventions visées à l'article L.
 332-11-3 ; 
 
-2° Le versement des contributions aux dépenses d'équipements publics mentionnées à l'article L. 332-6-1. Toutefois ces
-contributions telles qu'elles sont définies aux 2° et 3° dudit article ne peuvent porter sur les équipements publics donnant
-lieu à la participation instituée dans les secteurs d'aménagement définis à l'article L. 332-9 dans sa rédaction antérieure à
-l'entrée en vigueur de la loi n° 2010-1658 du 29 décembre 2010 précitée ou dans les périmètres fixés par les conventions
-visées à l'article L. 332-11-3 ; 
+2° Le versement des contributions aux dépenses d'équipements publics mentionnées au c du 2° de l'article L. 332-6-1, la
+participation pour voirie et réseaux ainsi que la participation des riverains des départements du Bas-Rhin, du Haut-Rhin et
+de la Moselle définies au d du 2° et au 3° du même article L. 332-6-1, dans leur rédaction antérieure à l'entrée en vigueur
+de la loi n° 2014-1655 du 29 décembre 2014 de finances rectificative pour 2014. Toutefois, les contributions définies au d du
+2° et au 3° dudit article L. 332-6-1, dans leur rédaction antérieure à la même loi, ne peuvent porter sur les équipements
+publics donnant lieu à la participation instituée dans les secteurs d'aménagement définis à l'article L. 332-9, dans sa
+rédaction antérieure à la loi n° 2010-1658 du 29 décembre 2010 précitée, ou dans les périmètres fixés par les conventions
+mentionnées à l'article L. 332-11-3 ; 
 
 3° La réalisation des équipements propres mentionnées à l'article L. 332-15 ; 
 
 4° Le versement pour sous-densité prévu aux articles L. 331-36 et L. 331-38 ; 
 
 5° Le versement de la redevance d'archéologie préventive prévue aux articles L. 524-2 à L. 524-13 du code du patrimoine.
-
-**Nota:**
-
-Loi n° 2010-1658 du 29 décembre 2010 art. 28 III H : Ces dispositions sont applicables aux demandes d'autorisations et aux
-déclarations préalables déposées à compter du 1er mars 2012, y compris aux modifications ultérieures au 1er mars 2012
-relatives à une demande ou déclaration préalable déposée avant cette date.
 
 **Liens relatifs à cet article**
 
@@ -22381,7 +22361,7 @@ relatives à une demande ou déclaration préalable déposée avant cette date.
 	  - Arrêté du 10 juin 1996 - art. ANNEXE I (VT)
 	  - Arrêté du 13 mars 1986 - art. 3 (Ab)
 	  - Code de l'environnement - art. L332-27 (VT)
-	  - Code de l'urbanisme - art. L332-12 (M)
+	  - Code de l'urbanisme - art. L332-12 (V)
 	  - Code de l'urbanisme - art. L332-13 (M)
 	  - Code de l'urbanisme - art. L332-15 (V)
 	  - Code de l'urbanisme - art. L332-30 (V)
@@ -22398,14 +22378,15 @@ relatives à une demande ou déclaration préalable déposée avant cette date.
 
 	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+	  - Loi n°2014-1655 du 29 décembre 2014 - art. 44
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L331-1 (V)
-	  - Code de l'urbanisme - art. L331-36 (V)
-	  - Code de l'urbanisme - art. L331-38 (V)
+	  - Code de l'urbanisme - art. L331-1
+	  - Code de l'urbanisme - art. L331-36
+	  - Code de l'urbanisme - art. L331-38
 	  - Code de l'urbanisme - art. L332-11-3
+	  - Code du patrimoine - art. L524-2 (V)
 
 
 ###### Article L332-6-1
@@ -22520,40 +22501,6 @@ aux dépenses d'équipements publics.
 	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
 
-###### Article L332-7-1
-
-La participation pour non-réalisation d'aires de stationnement prévue par l'article L. 123-1-12 est fixée par le conseil
-municipal. Son montant ne peut excéder 12 195 euros par place de stationnement. Cette valeur, fixée à la date de promulgation
-de la loi n° 2000-1208 du 13 décembre 2000 relative à la solidarité et au renouvellement urbains, est modifiée au 1er
-novembre de chaque année en fonction de l'indice du coût de la construction publié par l'Institut national de la statistique
-et des études économiques.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°2000-1208 du 13 décembre 2000
-
-	**Modifié par**:
-
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2014-1655 du 29 décembre 2014 - art. 44
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. L123-1-12 (M)
-	  - Code de l'urbanisme - art. L123-1-2 (V)
-	  - Code de l'urbanisme - art. L332-6-1 (V)
-	  - Code de l'urbanisme - art. R*332-17 (Ab)
-
-
 ###### Article L332-8
 
 Une participation spécifique peut être exigée des bénéficiaires des autorisations de construire qui ont pour objet la
@@ -22586,132 +22533,6 @@ laquelle incombent ces équipements ou de son concessionnaire.
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-
-###### Article L332-11-1
-
-Le conseil municipal peut instituer une participation pour voirie et réseaux en vue de financer en tout ou en partie la
-construction des voies nouvelles ou l'aménagement des voies existantes ainsi que l'établissement ou l'adaptation des réseaux
-qui leur sont associés, lorsque ces travaux sont réalisés pour permettre l'implantation de nouvelles constructions. 
-
-Pour chaque voie, le conseil municipal précise les études, les acquisitions foncières et les travaux à prendre en compte pour
-le calcul de la participation, compte tenu de l'équipement de la voie prévu à terme. Peuvent être financés les études, les
-acquisitions foncières et les travaux relatifs à la voirie ainsi que les réseaux d'eau potable, d'électricité et
-d'assainissement. Les études, les acquisitions foncières et les travaux relatifs à la voirie comprennent l'éclairage public,
-le dispositif d'écoulement des eaux pluviales et les éléments nécessaires au passage des réseaux souterrains de
-communication. 
-
-Seuls les études, les acquisitions foncières et les travaux à réaliser, définis par le conseil municipal, sont mis à la
-charge des propriétaires. Lorsqu'une voie préexiste, si aucun aménagement supplémentaire de la voie n'est prévu par le
-conseil municipal, ces travaux peuvent ne concerner que les réseaux. Dans ce cas, le conseil municipal peut prévoir, avec
-l'accord du ou des établissements publics de coopération intercommunale ou syndicats mixtes compétents pour ces réseaux, que
-la participation leur sera versée directement ou par l'intermédiaire de la commune, en complément le cas échéant des autres
-financements que celle-ci affecte à la réalisation de ces travaux. 
-
-Le conseil municipal arrête la part du coût mise à la charge des propriétaires riverains. Cette part est répartie entre les
-propriétaires au prorata de la superficie des terrains bénéficiant de cette desserte et situés à moins de quatre-vingts
-mètres de la voie. Le conseil municipal peut, en fonction des circonstances locales, modifier la distance de quatre-vingts
-mètres sans que celle qu'il fixe puisse être supérieure à cent mètres ni inférieure à soixante mètres. Le conseil municipal
-peut également exclure les terrains qui ne peuvent supporter de constructions du fait de contraintes physiques et les
-terrains non constructibles du fait de prescriptions ou de servitudes administratives dont l'édiction ne relève pas de la
-compétence de la commune ou de l'établissement public de coopération intercommunale. Lorsque, en application de l'alinéa
-précédent, le conseil municipal n'a prévu aucun aménagement supplémentaire de la voie et que les travaux portent
-exclusivement sur les réseaux d'eau et d'électricité, la commune peut également exclure les terrains déjà desservis par ces
-réseaux. 
-
-La participation n'est pas due pour les voies et réseaux compris dans le programme d'équipements publics d'une zone
-d'aménagement concerté créée en application de l'article L. 311-1, d'une convention de projet urbain partenarial conclue en
-application de l'article L. 332-11-3 ou d'un programme d'aménagement d'ensemble créé en application de l'article L. 332-9
-dans sa rédaction antérieure à l'entrée en vigueur de la loi n° 2010-1658 du 29 décembre 2010 de finances rectificative pour
-2010. 
-
-Les opérations de construction de logements sociaux mentionnées au 2° de l'article L. 331-7 et au 1° de l'article L. 331-9
-peuvent être exemptées de la participation.
-
-**Nota:**
-
-Loi n° 2010-1658 du 29 décembre 2010 art. 28 III H : Ces dispositions sont applicables aux demandes d'autorisations et aux
-déclarations préalables déposées à compter du 1er mars 2012, y compris aux modifications ultérieures au 1er mars 2012
-relatives à une demande ou déclaration préalable déposée avant cette date.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°2000-108 du 10 février 2000 - art. 18 (VT)
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 50 (V)
-	  - Loi n°2003-590 du 2 juillet 2003 - art. 50 (V)
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 14 (V)
-	  - Code de l'urbanisme - art. L332-11-2 (Ab)
-	  - Code de l'urbanisme - art. L332-6-1 (M)
-	  - Code de l'énergie - art. L342-11 (V)
-	  - Code général de la propriété des personnes publ... - art. L5112-6-1 (V)
-	  - Code général des collectivités territoriales - art. L2224-11-6 (V)
-	  - Code général des collectivités territoriales - art. L2224-36 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2014-1655 du 29 décembre 2014 - art. 44 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L311-1
-	  - Code de l'urbanisme - art. L332-11-3
-	  - Code de l'urbanisme - art. L332-9
-
-
-###### Article L332-11-2
-
-La participation prévue à l'article L. 332-11-1 est due à compter de la construction d'un bâtiment sur le terrain. 
-
-Elle est recouvrée, comme en matière de produits locaux, dans des délais fixés par l'autorité qui délivre le permis de
-construire. 
-
-Toutefois les propriétaires peuvent conclure avec la commune une convention par laquelle ils offrent de verser la
-participation avant la délivrance d'une autorisation de construire. 
-
-La convention fixe le délai dans lequel la voie et les réseaux seront réalisés et les modalités de règlement de la
-participation. Elle précise le régime des autres contributions d'urbanisme applicables au terrain, les dispositions
-d'urbanisme, les limitations administratives au droit de propriété et l'état des équipements publics existants ou prévus. 
-
-La convention est, dès publication de la délibération du conseil municipal l'approuvant, créatrice de droit au sens des
-dispositions du deuxième alinéa de l'article L. 160-5. 
-
-Si la demande de permis de construire prévue à l'article L. 421-1 est déposée dans le délai de cinq ans à compter de la
-signature de la convention et respecte les dispositions d'urbanisme mentionnées par la convention, celles-ci ne peuvent être
-remises en cause pour ce qui concerne le cocontractant de la commune ou ses ayants droit. 
-
-Si la voie ou les réseaux n'ont pas été réalisés dans le délai fixé par la convention, les sommes représentatives du coût des
-travaux non réalisés sont restituées au propriétaire, sans préjudice des indemnités éventuelles fixées par les tribunaux. ;
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L160-5 (V)
-	  - Code de l'urbanisme - art. L332-11-1 (V)
-	  - Code de l'urbanisme - art. L421-1 (V)
-
-	**Cité par**:
-
-	  - Code général des collectivités territoriales - art. L2122-22 (V)
-	  - Loi n°2003-590 du 2 juillet 2003 - art. 50 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-	**Créé par**:
-
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 46 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2014-1655 du 29 décembre 2014 - art. 44 (V)
 
 
 ###### Article L332-11-3
@@ -22824,15 +22645,15 @@ Peuvent être mis à la charge des bénéficiaires de permis d'aménager par le 
 urbaine par l'acte administratif approuvant le plan de remembrement ou de l'association foncière urbaine de projet par l'acte
 autorisant sa création : 
 
-a) Le versement pour dépassement du plafond légal de densité dans les conditions prévues à l'article L. 333-9-1 ; 
+a) (Abrogé) ;
 
 b) La participation spécifique pour équipements publics exceptionnels dans les conditions prévues à l'article L. 332-8 ; 
 
 c) Une participation forfaitaire représentative de la participation prévue à l'article L. 332-9 dans sa rédaction antérieure
 à l'entrée en vigueur de la loi n° 2010-1658 du 29 décembre 2010 de finances rectificative pour 2010 et des contributions
-énumérées aux b et d du 2° et du 3° de l'article L. 332-6-1. Cette participation forfaitaire ne peut être exigée dans les
-secteurs de la commune ou de l'établissement public de coopération intercommunale où il est fait application de l'article L.
-331-15 ; 
+énumérées au d du 2° et au 3° de l'article L. 332-6-1, dans leur rédaction antérieure à la loi n° 2014-1655 du 29 décembre
+2014 de finances rectificative pour 2014. Cette participation forfaitaire ne peut être exigée dans les secteurs de la commune
+ou de l'établissement public de coopération intercommunale où il est fait application de l'article L. 331-15 ; 
 
 d) Le versement pour sous-densité prévu aux articles L. 331-36 et L. 331-38 pour les permis d'aménager autres qu'en
 lotissement ; 
@@ -22850,18 +22671,17 @@ de projet.
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 163
+	  - Loi n°2014-1655 du 29 décembre 2014 - art. 44
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L331-1 (V)
-	  - Code de l'urbanisme - art. L331-36
+	  - Code de l'urbanisme - art. L331-1
+	  - Code de l'urbanisme - art. L331-36 (V)
 	  - Code de l'urbanisme - art. L331-38
-	  - Code de l'urbanisme - art. L332-11-3 (V)
-	  - Code de l'urbanisme - art. L332-6
-	  - Code de l'urbanisme - art. L332-8 (V)
+	  - Code de l'urbanisme - art. L332-11-3
+	  - Code de l'urbanisme - art. L332-6 (V)
+	  - Code de l'urbanisme - art. L332-8
 	  - Code de l'urbanisme - art. L332-9
-	  - Code de l'urbanisme - art. L333-9-1
 
 	**Cité par**:
 
@@ -22996,25 +22816,20 @@ Un décret en Conseil d'Etat détermine, en tant que de besoin, les conditions d
 
 ###### Article L332-28
 
-Les contributions mentionnées ou prévues au 2° de l'article L. 332-6-1 et à l'article L. 332-9 dans sa rédaction antérieure à
-l'entrée en vigueur de la loi n° 2010-1658 du 29 décembre 2010 de finances rectificative pour 2010 sont prescrites, selon le
-cas, par le permis de construire, le permis d'aménager, les prescriptions faites par l'autorité compétente à l'occasion d'une
-déclaration préalable ou l'acte approuvant un plan de remembrement. Ces actes en constituent le fait générateur. Ils en
-fixent le montant, la superficie s'il s'agit d'un apport de terrains ou les caractéristiques générales s'il s'agit des
-travaux mentionnés au premier alinéa de l'article L. 332-10 dans sa rédaction antérieure à l'entrée en vigueur de la loi n°
-2010-1658 du 29 décembre 2010 précitée.
-
-**Nota:**
-
-Loi n° 2010-1658 du 29 décembre 2010 art. 28 III H : Ces dispositions sont applicables aux demandes d'autorisations et aux
-déclarations préalables déposées à compter du 1er mars 2012, y compris aux modifications ultérieures au 1er mars 2012
-relatives à une demande ou déclaration préalable déposée avant cette date.
+Les contributions mentionnées ou prévues au c du 2° de l'article L. 332-6-1, au d du 2° du même article, dans sa rédaction
+antérieure à la loi n° 2014-1655 du 29 décembre 2014 de finances rectificative pour 2014, et à l'article L. 332-9 dans sa
+rédaction antérieure à l'entrée en vigueur de la loi n° 2010-1658 du 29 décembre 2010 de finances rectificative pour 2010
+sont prescrites, selon le cas, par le permis de construire, le permis d'aménager, les prescriptions faites par l'autorité
+compétente à l'occasion d'une déclaration préalable ou l'acte approuvant un plan de remembrement. Ces actes en constituent le
+fait générateur. Ils en fixent le montant, la superficie s'il s'agit d'un apport de terrains ou les caractéristiques
+générales s'il s'agit des travaux mentionnés au premier alinéa de l'article L. 332-10 dans sa rédaction antérieure à l'entrée
+en vigueur de la loi n° 2010-1658 du 29 décembre 2010 précitée.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+	  - Loi n°2014-1655 du 29 décembre 2014 - art. 44
 
 	**Cité par**:
 
@@ -23026,9 +22841,8 @@ relatives à une demande ou déclaration préalable déposée avant cette date.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L332-10 (Ab)
-	  - Code de l'urbanisme - art. L332-6-1 (V)
-	  - Code de l'urbanisme - art. L332-9 (Ab)
+	  - Code de l'urbanisme - art. L332-10
+	  - Code de l'urbanisme - art. L332-9
 
 	**Codifié par**:
 
@@ -27538,9 +27352,9 @@ Ce décret fixe également les conditions dans lesquelles les maires des commune
 qui sont mentionnés au II, peuvent, par délégation et exclusivement dans le cadre d'une convention mentionnée au II, mettre
 en œuvre la décision d'agrément mentionnée au même II. 
 
-Les opérations visées au I ne sont pas soumises à agrément lorsqu'elles sont situées dans les zones franches urbaines
-définies au B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement
-du territoire et lorsqu'elles visent la transformation de locaux en bureaux. 
+Les opérations visées au I ne sont pas soumises à agrément lorsqu'elles sont situées dans les  zones franches urbaines-
+territoires entrepreneurs définies au B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour
+l'aménagement et le développement du territoire et lorsqu'elles visent la transformation de locaux en bureaux. 
 
 V. ― Un bilan de l'agrément est établi à l'expiration de chaque contrat de plan, dans les zones où cette procédure est
 instituée. 
@@ -27555,12 +27369,12 @@ lorsque l'agrément est accordé à titre temporaire, est puni dans les mêmes c
 
 	**Cite**:
 
-	  - Loi n°95-115 du 4 février 1995 - art. 42 (V)
-	  - Code de l'urbanisme - art. L480-4 (V)
+	  - Loi n°95-115 du 4 février 1995 - art. 42
+	  - Code de l'urbanisme - art. L480-4
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 70 (V)
+	  - Loi n°2014-1655 du 29 décembre 2014 - art. 48
 
 	**Cité par**:
 
@@ -27574,10 +27388,6 @@ lorsque l'agrément est accordé à titre temporaire, est puni dans les mêmes c
 	  - Code de l'urbanisme - art. R421-3 (M)
 	  - Code de l'urbanisme - art. R431-16 (V)
 	  - Code de la construction et de l'habitation. - art. L111-3 (VD)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 152-1
 
 	**Codifié par**:
 
@@ -28040,18 +27850,23 @@ au 1° du V du même article.
 ###### Article L520-8
 
 Les opérations de reconstruction d'un immeuble pour lesquelles le permis de construire est délivré avant le 1er janvier 2014
-ne sont assujetties à la redevance qu'à raison des mètres carrés de surface de construction qui excèdent la surface de
-construction de l'immeuble avant reconstruction.
+ou pour lesquelles l'avis de mise en recouvrement prévu à l'article L. 520-2 est émis à compter du 1er décembre 2014 ne sont
+assujetties à la redevance qu'à raison des mètres carrés de surface de construction qui excèdent la surface de construction
+de l'immeuble avant reconstruction.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2011-900 du 29 juillet 2011 - art. 34 (V)
+	  - Loi n°2014-1655 du 29 décembre 2014 - art. 45
 
 	**Cité par**:
 
 	  - Loi n°2015-1786 du 29 décembre 2015 - art. 50 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L520-2 (V)
 
 	**Codifié par**:
 
