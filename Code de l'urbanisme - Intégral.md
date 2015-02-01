@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2015-01-01
+Version Consolidée au 2015-02-02
 
 # Partie législative
 
@@ -30949,7 +30949,10 @@ défini par décret en Conseil d'Etat (3) ;
 n) A l'opération d'aménagement dite d'Alzette-Belval, dans le périmètre défini par décret en Conseil d'Etat (6) ; 
 
 o) A l'opération d'aménagement dite " Villages Nature " sur la commune de Villeneuve-le-Comte dans le périmètre défini par
-décret en Conseil d'Etat (7).
+décret en Conseil d'Etat (7) ;
+
+p) A l'opération de requalification de copropriétés dégradées d'intérêt national du quartier dit du Bas-Clichy à Clichy-sous-
+Bois, dans le périmètre défini par décret en Conseil d'Etat (8).
 
 **Nota:**
 
@@ -30987,7 +30990,11 @@ la commune concernée.
 
 (7) Ce plan peut être consulté à la préfecture de Seine-et-Marne (12, rue des Saints-Pères, 77010 Melun), à la mairie de
 Villeneuve-le-Comte (place de la Mairie, 77174 Villeneuve-le-Comte) et au siège de l'Etablissement public d'aménagement du
-secteur IV de Marne-la-Vallée (5, boulevard Pierre-Carle, Noisiel, 77425 Marne-la-Vallée).
+secteur IV de Marne-la-Vallée (5, boulevard Pierre-Carle, Noisiel, 77425 Marne-la-Vallée). 
+
+(8) Ce plan peut être consulté à la préfecture de la Seine-Saint-Denis (1, esplanade Jean-Moulin, 93007 Bobigny Cedex), à la
+mairie de Clichy-sous-Bois (place du 11-Novembre-1918, 93390 Clichy-sous-Bois) et au siège de l'Etablissement public foncier
+d'Ile-de-France (14, rue Ferrus, 75014 Paris).
 
 **Liens relatifs à cet article**
 
@@ -30999,7 +31006,11 @@ secteur IV de Marne-la-Vallée (5, boulevard Pierre-Carle, Noisiel, 77425 Marne-
 
 	**Modifié par**:
 
-	  - Décret n°2011-1649 du 25 novembre 2011 - art. 1
+	  - Décret n°2015-99 du 28 janvier 2015 - art. 1 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 	**Cite**:
 
@@ -31007,6 +31018,10 @@ secteur IV de Marne-la-Vallée (5, boulevard Pierre-Carle, Noisiel, 77425 Marne-
 	  - Code général des collectivités territoriales - art. L5311-2
 	  - Code de l'urbanisme - art. L121-9-1
 	  - Code de l'aviation civile - art. L251-3
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R102-3 (M)
 
 
 #####  Section 3 : Associations locales d'usagers
