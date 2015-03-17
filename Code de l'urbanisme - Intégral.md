@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2015-02-28
+Version Consolidée au 2015-03-18
 
 # Partie législative
 
@@ -5662,11 +5662,17 @@ Si un plan approuvé, révisé, modifié ou mis en compatibilité dans les condi
 couvre le territoire que d'une commune, il ne comprend ni de dispositions tenant lieu de programme local de l'habitat, ni de
 plan de déplacements urbains.
 
+En cas de création d'une commune nouvelle, les dispositions des plans locaux d'urbanisme applicables aux anciennes communes
+restent applicables. Elles peuvent être modifiées, selon les procédures prévues aux articles L. 123-13-1 à L. 123-13-3, ainsi
+qu'aux articles L. 123-14 et L. 123-14-2, jusqu'à l'approbation ou la révision d'un plan local d'urbanisme couvrant
+l'intégralité du territoire de la commune nouvelle. La procédure d'élaboration ou de révision de ce dernier plan est engagée
+au plus tard lorsqu'un des plans locaux d'urbanisme applicables sur le territoire de la commune nouvelle doit être révisé.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 137 (V)
+	  - Loi n°2015-292 du 16 mars 2015 - art. 9
 
 	**Cite**:
 
@@ -5773,24 +5779,16 @@ Le projet d'aménagement et de développement durables arrête les orientations 
 et les déplacements, le développement des communications numériques, l'équipement commercial, le développement économique et
 les loisirs, retenues pour l'ensemble de l'établissement public de coopération intercommunale ou de la commune. 
 
-Il fixe des objectifs chiffrés de modération de la consommation de l'espace et de lutte contre l'étalement urbain.
+Il fixe des objectifs chiffrés de modération de la consommation de l'espace et de lutte contre l'étalement urbain. 
 
-**Nota:**
-
-Loi n° 2014-1170 du 13 octobre 2014 art. 25 VIII : Les articles L. 123-1-2 et L. 123-1-3 du même code, dans leur rédaction
-résultant de la loi n° 2014-366 du 24 mars 2014, entrent en vigueur au lendemain de la publication de la présente loi. Les
-organes délibérants des établissements publics ayant engagé l'élaboration, la révision ou la modification d'un plan local
-d'urbanisme avant la publication de la présente loi peuvent toutefois opter pour appliquer les mêmes articles L. 123-1-2 et
-L. 123-1-3 dans leur rédaction antérieure à la présente loi. Les plans locaux d'urbanisme élaborés ou révisés avant cette
-date, ainsi que ceux dont la procédure d'élaboration, de modification ou de révision est achevée après cette même date
-conformément aux dispositions applicables antérieurement à ladite date, sont mis en conformité avec lesdits articles L.
-123-1-2 et L. 123-1-3 dans leur rédaction résultant de la présente loi lors de leur prochaine révision.
+Il peut prendre en compte les spécificités des anciennes communes, notamment paysagères, architecturales, patrimoniales et
+environnementales, lorsqu'il existe une ou plusieurs communes nouvelles.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 139 (V)
+	  - Loi n°2015-292 du 16 mars 2015 - art. 8
 
 	**Cité par**:
 
@@ -7764,7 +7762,7 @@ ministre chargé de l'urbanisme.
 La carte communale est révisée selon les modalités définies à l'alinéa précédent. Toutefois, le projet de révision n'est
 soumis à la commission départementale de la préservation des espaces naturels, agricoles et forestiers que s'il a pour
 conséquence, dans une commune située en dehors d'un schéma de cohérence territoriale approuvé, une réduction des surfaces des
-secteurs où les constructions ne sont pas admises, mentionnés au deuxième alinéa.  
+secteurs où les constructions ne sont pas admises, mentionnés au deuxième alinéa. 
 
 La carte communale peut faire l'objet d'une modification simplifiée lorsque la commune ou l'établissement public de
 coopération intercommunale envisage de rectifier une erreur matérielle. La modification simplifiée est engagée à l'initiative
@@ -7797,6 +7795,10 @@ communales engagées avant l'intégration ou la fusion. Dans ce cas, l'établiss
 substitué de plein droit, à la date de l'intégration ou de la fusion, dans tous les actes et délibérations afférents à la
 procédure engagée avant l'intégration ou la fusion.
 
+En cas de création d'une commune nouvelle, les dispositions des cartes communales applicables aux anciennes communes restent
+applicables. Elles peuvent être révisées ou modifiées jusqu'à l'approbation d'une carte communale ou d'un plan local
+d'urbanisme couvrant l'intégralité du territoire de la commune nouvelle.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -7815,7 +7817,7 @@ procédure engagée avant l'intégration ou la fusion.
 
 	**Modifié par**:
 
-	  - Loi n°2014-1170 du 13 octobre 2014 - art. 25
+	  - Loi n°2015-292 du 16 mars 2015 - art. 9
 
 	**Cite**:
 
