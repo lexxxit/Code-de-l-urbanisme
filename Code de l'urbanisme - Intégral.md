@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2015-03-18
+Version Consolidée au 2015-03-22
 
 # Partie législative
 
@@ -3714,9 +3714,9 @@ l'urbanisme.
 
 ###### Article L122-3
 
-I.-Le schéma de cohérence territoriale est élaboré à l'initiative des communes ou de leurs groupements compétents. 
+I. ― Le schéma de cohérence territoriale est élaboré à l'initiative des communes ou de leurs groupements compétents. 
 
-II.-Le périmètre du schéma de cohérence territoriale délimite un territoire d'un seul tenant et sans enclave. Lorsque ce
+II. ― Le périmètre du schéma de cohérence territoriale délimite un territoire d'un seul tenant et sans enclave. Lorsque ce
 périmètre concerne des établissements publics de coopération intercommunale compétents en matière de schémas de cohérence
 territoriale, il recouvre la totalité du périmètre de ces établissements. Toutefois, lorsque le périmètre d'un de ces
 établissements n'est pas d'un seul tenant, le périmètre du schéma peut ne pas comprendre la totalité des communes membres de
@@ -3734,7 +3734,7 @@ Il prend également en compte les déplacements urbains, notamment les déplacem
 de la zone de chalandise des commerces, ainsi que les déplacements vers les équipements culturels, sportifs, sociaux et de
 loisirs. 
 
-III.-Un projet de périmètre est déterminé, selon les cas, par les conseils municipaux ou l'organe délibérant du ou des
+III. ― Un projet de périmètre est déterminé, selon les cas, par les conseils municipaux ou l'organe délibérant du ou des
 établissements publics de coopération intercommunale compétents, à la majorité des deux tiers au moins des communes
 intéressées représentant plus de la moitié de la population totale de celles-ci ou la majorité de la moitié au moins des
 communes intéressées représentant les deux tiers de la population totale. Si des communes ne sont pas membres d'un
@@ -3742,13 +3742,14 @@ communes intéressées représentant les deux tiers de la population totale. Si 
 comprendre, dans chaque cas, au moins un tiers d'entre elles. Pour le calcul de la majorité, les établissements publics de
 coopération intercommunale comptent pour autant de communes qu'ils comprennent de communes membres. 
 
-IV.-Le projet de périmètre est communiqué au préfet. Ce dernier recueille l'avis du ou des conseils généraux concernés. Cet
-avis est réputé positif s'il n'a pas été formulé dans un délai de trois mois. Le préfet publie par arrêté le périmètre du
-schéma de cohérence territoriale après avoir vérifié, en tenant compte des situations locales et éventuellement des autres
-périmètres arrêtés ou proposés, que le périmètre retenu répond aux critères mentionnés au deuxième alinéa du II et permet la
-mise en cohérence des questions d'urbanisme, d'habitat, de développement économique, de déplacements et d'environnement. Sans
-préjudice des dispositions de l'article L. 123-1-7, il ne peut être arrêté de périmètre de schéma de cohérence territoriale
-correspondant au périmètre d'un seul établissement public de coopération intercommunale à compter du 1er juillet 2014. 
+IV. ― Le projet de périmètre est communiqué au préfet. Ce dernier recueille l'avis du ou des conseils départementaux
+concernés. Cet avis est réputé positif s'il n'a pas été formulé dans un délai de trois mois. Le préfet publie par arrêté le
+périmètre du schéma de cohérence territoriale après avoir vérifié, en tenant compte des situations locales et éventuellement
+des autres périmètres arrêtés ou proposés, que le périmètre retenu répond aux critères mentionnés au deuxième alinéa du II et
+permet la mise en cohérence des questions d'urbanisme, d'habitat, de développement économique, de déplacements et
+d'environnement. Sans préjudice des dispositions de l'article L. 123-1-7, il ne peut être arrêté de périmètre de schéma de
+cohérence territoriale correspondant au périmètre d'un seul établissement public de coopération intercommunale à compter du
+1er juillet 2014. 
 
 Lorsque le schéma de cohérence territoriale englobe une ou des communes littorales et dans le cas où l'établissement public
 mentionné à l'article L. 122-4 décide d'élaborer un chapitre individualisé valant schéma de mise en valeur de la mer, le
@@ -3779,11 +3780,11 @@ valeur du littoral.
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 129 (V)
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L122-4 (V)
+	  - Code de l'urbanisme - art. L122-4
 
 
 ###### Article L122-4
@@ -6522,8 +6523,8 @@ Dans les autres cas, le plan local d'urbanisme est élaboré à l'initiative et 
 
 La délibération qui prescrit l'élaboration du plan local d'urbanisme et précise les objectifs poursuivis ainsi que les
 modalités de concertation, conformément à l'article L. 300-2, est notifiée au préfet, au président du conseil régional, au
-président du conseil général et, le cas échéant, au président de l'établissement public prévu à l'article L. 122-4, ainsi
-qu'au président de l'autorité compétente en matière d'organisation des transports urbains et, si ce n'est pas la même
+président du conseil départemental et, le cas échéant, au président de l'établissement public prévu à l'article L. 122-4,
+ainsi qu'au président de l'autorité compétente en matière d'organisation des transports urbains et, si ce n'est pas la même
 personne, à celui de l'établissement public de coopération intercommunale compétent en matière de programme local de
 l'habitat dont la commune est membre, au syndicat d'agglomération nouvelle et aux représentants des organismes mentionnés à
 l'article L. 121-4. Lorsque la commune est limitrophe d'un schéma de cohérence territoriale sans être couverte par un autre
@@ -6575,6 +6576,8 @@ l'exécution du futur plan.
 
 	**Modifié par**:
 
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
+	  - Loi n°2014-366 du 24 mars 2014 - art. 137 (V)
 	  - Loi n°2014-1170 du 13 octobre 2014 - art. 25
 
 	**Cite**:
@@ -6617,8 +6620,8 @@ projet de plan local d'urbanisme.
 
 ###### Article L123-8
 
-Le président du conseil régional, le président du conseil général, et, le cas échéant, le président de l'établissement public
-prévu à l'article L. 122-4, le président de l'autorité compétente en matière d'organisation des transports urbains, le
+Le président du conseil régional, le président du conseil départemental, et, le cas échéant, le président de l'établissement
+public prévu à l'article L. 122-4, le président de l'autorité compétente en matière d'organisation des transports urbains, le
 président de la communauté ou du syndicat d'agglomération nouvelle ainsi que ceux des organismes mentionnés à l'article L.
 121-4 ou leurs représentants sont consultés à leur demande au cours de l'élaboration du projet de plan local d'urbanisme. 
 
@@ -6674,6 +6677,7 @@ maire lui notifie le projet de plan local d'urbanisme afin de recueillir son avi
 
 	**Modifié par**:
 
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 	  - Loi n°2014-366 du 24 mars 2014 - art. 137 (V)
 
 	**Cite**:
@@ -6682,7 +6686,6 @@ maire lui notifie le projet de plan local d'urbanisme afin de recueillir son avi
 	  - Code de l'urbanisme - art. L122-4
 	  - Code de l'urbanisme - art. L123-6
 	  - Code de la construction et de l'habitation. - art. L411-2
-	  - Code de l'environnement - art. L141-1 (V)
 
 
 ###### Article L123-9
@@ -8735,15 +8738,15 @@ mise en valeur de l'environnement, la localisation des grandes infrastructures d
 détermine également la localisation préférentielle des extensions urbaines, ainsi que des activités industrielles,
 artisanales, agricoles, forestières et touristiques. 
 
-Pour l'élaboration de ce schéma, le conseil régional recueille les propositions des conseils généraux des départementaux
-intéressés, du conseil économique, social et environnemental régional et des chambres consulaires.A l'issue de cette
-élaboration, le projet leur est soumis pour avis. 
+Pour l'élaboration de ce schéma, le conseil régional recueille les propositions des conseils départementaux des
+départementaux intéressés, du conseil économique, social et environnemental régional et des chambres consulaires. A l'issue
+de cette élaboration, le projet leur est soumis pour avis. 
 
-Avant son adoption par le conseil régional, le projet de schéma directeur, assorti de l'avis des conseils généraux
+Avant son adoption par le conseil régional, le projet de schéma directeur, assorti de l'avis des conseils départementaux
 intéressés, du conseil économique, social et environnemental régional et des chambres consulaires, est soumis à enquête
 publique réalisée conformément au chapitre III du titre II du livre Ier du code de l'environnement. 
 
-Le schéma directeur est approuvé par décret en Conseil d'Etat.L'initiative de l'élaboration du schéma directeur appartient
+Le schéma directeur est approuvé par décret en Conseil d'Etat. L'initiative de l'élaboration du schéma directeur appartient
 soit à la région, soit à l'Etat. 
 
 La procédure de révision du schéma directeur est ouverte par un décret en Conseil d'Etat, qui détermine l'objet de la
@@ -8779,15 +8782,12 @@ France.
 
 	**Cite**:
 
-	  - Loi n°95-115 du 4 février 1995 - art. 2 (V)
-	  - Loi n°99-533 du 25 juin 1999 (V)
+	  - Loi n°95-115 du 4 février 1995 - art. 2
+	  - Loi n°99-533 du 25 juin 1999
 
 	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 22
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 221
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 240
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 250 (V)
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 
 ###### Article L141-1-1
@@ -8893,7 +8893,7 @@ Dans le délai de trois mois à compter de la demande adressée au président du
 le conseil régional fait connaître à celui-ci s'il entend opérer la révision ou la modification nécessaire. 
 
 Dans la négative ou à défaut de réponse dans ce délai, le représentant de l'Etat dans la région peut engager et arrêter la
-révision ou la modification du schéma après avis du conseil régional, des conseils généraux et organes délibérants des
+révision ou la modification du schéma après avis du conseil régional, des conseils départementaux et organes délibérants des
 communautés d'agglomération concernés de la région. Il en est de même si l'intention exprimée de la région de procéder à la
 révision ou à la modification n'est pas suivie, dans un délai de vingt-quatre mois à compter de la notification de la demande
 initiale du représentant de l'Etat dans la région, d'une délibération approuvant le projet correspondant. 
@@ -8907,13 +8907,13 @@ chapitre III du titre II du livre Ier du code de l'environnement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 22
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L141-1 (V)
+	  - Code de l'urbanisme - art. L141-1
 
 
 ###### Article L141-2
@@ -9028,7 +9028,7 @@ Il est créé une zone de protection naturelle, agricole et forestière dans le 
 plateau de Saclay et de la petite région agricole de ce plateau qui comprend les communes dont la liste figure à l'annexe B à
 la loi n° 2010-597 du 3 juin 2010 relative au Grand Paris. Cette zone, non urbanisable, est délimitée par décret en Conseil
 d'Etat, pris dans un délai d'un an à compter de la promulgation de la même loi, après avis du conseil régional d'Ile-de-
-France, des conseils généraux de l'Essonne et des Yvelines, des conseils municipaux et des organes délibérants des
+France, des conseils départementaux de l'Essonne et des Yvelines, des conseils municipaux et des organes délibérants des
 établissements publics de coopération intercommunale compétents situés dans le périmètre de l'opération d'intérêt national,
 ainsi que de la chambre interdépartementale d'agriculture d'Ile-de-France, de la société d'aménagement foncier et
 d'établissement rural de l'Ile-de-France, de l'Office national des forêts et des associations agréées pour la protection de
@@ -9054,31 +9054,40 @@ code.
 Les communes intéressées disposent d'un délai de six mois à compter de la publication du décret en Conseil d'Etat visé au
 premier alinéa du présent article pour mettre en compatibilité leur plan local d'urbanisme.
 
-**Nota:**
-
-Aux termes de l'article 25 VI de la loi n° 2014-58 du 27 janvier 2014, le décret n° 2010-911 du 3 août 2010 relatif à
-l'Etablissement public de Paris-Saclay est modifié dans un délai de douze mois à compter de la publication de la présente loi
-pour prendre en compte les modifications introduites par ledit article. Les dispositions qu'il introduit entrent en vigueur à
-compter de la publication du décret modificatif et au plus tard le 1er juillet 2014. A compter de cette date, l'Etablissement
-public de Paris-Saclay devient l'Etablissement public d'aménagement de Paris-Saclay.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°2010-597 du 3 juin 2010
-	  - Code de l'urbanisme - art. L126-1
+	  - Code de l'urbanisme - art. L126-1 (VT)
+
+	**Modifié par**:
+
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 25 (M)
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 25 (V)
+	  - Loi n°2014-366 du 24 mars 2014 - art. 133 (V)
 
 	**Cité par**:
 
 	  - Décret n°2013-1298 du 27 décembre 2013 (V)
+	  - Code de l'urbanisme - art. L141-6 (VT)
 	  - Code de l'urbanisme - art. R141-7 (VT)
 	  - Code de l'urbanisme - art. R141-8 (VT)
 
-	**Modifié par**:
+	**Abrogé par**:
 
-	  - Loi n°2014-58 du 27 janvier 2014 - art. 25 (M)
-	  - Loi n°2014-366 du 24 mars 2014 - art. 133 (V)
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L123-25 (VD)
+	  - Code de l'urbanisme - art. L123-26 (VD)
+	  - Code de l'urbanisme - art. L123-27 (VD)
+	  - Code de l'urbanisme - art. L123-28 (VD)
+	  - Code de l'urbanisme - art. L123-29 (VD)
+	  - Code de l'urbanisme - art. L123-31 (VD)
+	  - Code de l'urbanisme - art. L123-32 (VD)
 
 
 ###### Article L141-6
@@ -9228,7 +9237,7 @@ les lois d'aménagement et d'urbanisme prévues au même article.
 ###### Article L142-2
 
 Pour mettre en oeuvre la politique prévue à l'article L. 142-1, le département peut instituer, par délibération du conseil
-général, une part départementale de la taxe d'aménagement destinée à financer les espaces naturels sensibles. 
+départemental, une part départementale de la taxe d'aménagement destinée à financer les espaces naturels sensibles. 
 
 Cette taxe tient lieu de participation forfaitaire aux dépenses du département :
 
@@ -9295,13 +9304,13 @@ Cette taxe est perçue sur la totalité du territoire du département.
 	  - Loi n°83-8 du 7 janvier 1983
 	  - Loi n°83-663 du 22 juillet 1983 - art. 56
 	  - Loi n°96-1241 du 30 décembre 1996
-	  - Code de l'urbanisme - art. L130-5 (V)
-	  - Code de l'urbanisme - art. L142-1 (V)
-	  - Code de l'urbanisme - art. L142-10 (V)
-	  - Code de l'urbanisme - art. L142-3 (V)
-	  - Code de l'environnement - art. L332-1 (V)
-	  - Code de l'environnement - art. L371-3 (V)
-	  - Code de l'environnement - art. L414-1 (V)
+	  - Code de l'urbanisme - art. L130-5 (VT)
+	  - Code de l'urbanisme - art. L142-1
+	  - Code de l'urbanisme - art. L142-10
+	  - Code de l'urbanisme - art. L142-3
+	  - Code de l'environnement - art. L332-1
+	  - Code de l'environnement - art. L371-3
+	  - Code de l'environnement - art. L414-1
 
 	**Cité par**:
 
@@ -9334,17 +9343,25 @@ Cette taxe est perçue sur la totalité du territoire du département.
 
 	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L113-10 (VD)
 
 
 ###### Article L142-3
 
-Pour la mise en oeuvre de la politique prévue à l'article L. 142-1, le conseil général peut créer des zones de préemption
-dans les conditions ci-après définies. 
+Pour la mise en oeuvre de la politique prévue à l'article L. 142-1, le conseil départemental peut créer des zones de
+préemption dans les conditions ci-après définies. 
 
 Dans les communes dotées d'un plan d'occupation des sols rendu public ou d'un plan local d'urbanisme approuvé, les zones de
 préemption sont créées avec l'accord du conseil municipal. En l'absence d'un tel document, et à défaut d'accord des communes
-concernées, ces zones ne peuvent être créées par le conseil général qu'avec l'accord du représentant de l'Etat dans le
+concernées, ces zones ne peuvent être créées par le conseil départemental qu'avec l'accord du représentant de l'Etat dans le
 département. 
 
 A l'intérieur de ces zones, le département dispose d'un droit de préemption sur tout terrain ou ensemble de droits sociaux
@@ -9392,10 +9409,10 @@ attribuées au département par le présent article.
 Le droit de préemption du Conservatoire de l'espace littoral et des rivages lacustres prévu aux deux alinéas précédents est
 applicable à la cession de droits indivis sur un immeuble ou une partie d'immeuble bâti ou non bâti ainsi qu'à la cession de
 la majorité des parts d'une société civile immobilière lorsque le patrimoine de cette société est constitué par une unité
-foncière, bâtie ou non, sur la totalité ou certaines parties des zones de préemption créées par le conseil général ou le
-conservatoire. L'exercice par le conservatoire du droit de préemption sur des cessions de parts de société civile immobilière
-est subordonné à la production par la société civile immobilière d'un état de sa situation sociale et financière et à une
-délibération motivée du conseil d'administration du conservatoire. 
+foncière, bâtie ou non, sur la totalité ou certaines parties des zones de préemption créées par le conseil départemental ou
+le conservatoire. L'exercice par le conservatoire du droit de préemption sur des cessions de parts de société civile
+immobilière est subordonné à la production par la société civile immobilière d'un état de sa situation sociale et financière
+et à une délibération motivée du conseil d'administration du conservatoire. 
 
 Lorsque la commune fait partie d'un établissement public de coopération intercommunale y ayant vocation, elle peut, en accord
 avec cet établissement, lui déléguer ce droit. 
@@ -9446,6 +9463,7 @@ de préemption.
 	  - Code de l'urbanisme - art. L143-3 (VT)
 	  - Code de l'urbanisme - art. L157-2 (VT)
 	  - Code de l'urbanisme - art. L160-1 (M)
+	  - Code de l'urbanisme - art. L160-4 (VT)
 	  - Code de l'urbanisme - art. L321-1 (V)
 	  - Code de l'urbanisme - art. L324-1 (V)
 	  - Code de l'urbanisme - art. L430-1 (Ab)
@@ -9471,7 +9489,15 @@ de préemption.
 
 	**Modifié par**:
 
-	  - Loi n°2012-387 du 22 mars 2012 - art. 89 (V)
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L113-14 (VD)
 
 	**Cite**:
 
@@ -9481,9 +9507,9 @@ de préemption.
 ###### Article L142-4
 
 Toute aliénation mentionnée à l'article L. 142-3 est subordonnée, à peine de nullité, à une déclaration préalable adressée
-par le propriétaire au président du conseil général du département dans lequel sont situés les biens ; ce dernier en transmet
-copie au directeur départemental des finances publiques. Cette déclaration comporte obligatoirement l'indication du prix et
-des conditions de l'aliénation projetée ou, en cas d'adjudication, l'estimation du bien ou sa mise à prix. 
+par le propriétaire au président du conseil départemental du département dans lequel sont situés les biens ; ce dernier en
+transmet copie au directeur départemental des finances publiques. Cette déclaration comporte obligatoirement l'indication du
+prix et des conditions de l'aliénation projetée ou, en cas d'adjudication, l'estimation du bien ou sa mise à prix. 
 
 Lorsque la contrepartie de l'aliénation fait l'objet d'un paiement en nature, la déclaration doit mentionner le prix
 d'estimation de cette contrepartie. 
@@ -9502,7 +9528,11 @@ de propriété.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 121
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 	**Cité par**:
 
@@ -9514,10 +9544,6 @@ de propriété.
 	  - Code de l'urbanisme - art. L142-5 (M)
 	  - Code de l'urbanisme - art. R142-16 (VT)
 	  - Code de l'urbanisme - art. R142-2 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L142-3 (VT)
 
 
 ###### Article L142-5
@@ -9769,11 +9795,11 @@ terrains en tant qu'espaces naturels.
 
 ###### Article L142-11
 
-A compter de la décision du département de percevoir la taxe départementale d'aménagement, le président du conseil général
-peut, par arrêté pris sur proposition du conseil général, après délibération des communes concernées et en l'absence de plan
-local d'urbanisme opposable, déterminer les bois, forêts et parcs, qu'ils relèvent ou non du régime forestier, enclos ou non,
-attenants ou non à des habitations, dont la préservation est nécessaire et auxquels est applicable le régime des espaces
-boisés classés défini par l'article L. 130-1 et les textes pris pour son application. 
+A compter de la décision du département de percevoir la taxe départementale d'aménagement, le président du conseil
+départemental peut, par arrêté pris sur proposition du conseil départemental, après délibération des communes concernées et
+en l'absence de plan local d'urbanisme opposable, déterminer les bois, forêts et parcs, qu'ils relèvent ou non du régime
+forestier, enclos ou non, attenants ou non à des habitations, dont la préservation est nécessaire et auxquels est applicable
+le régime des espaces boisés classés défini par l'article L. 130-1 et les textes pris pour son application. 
 
 Le même arrêté ou un arrêté ultérieur pris dans les mêmes formes peut édicter les mesures nécessaires à la protection des
 sites et paysages compris dans une zone de préemption délimitée en application de l'article L. 142-3 et prévoir notamment
@@ -9791,17 +9817,27 @@ dès qu'un plan local d'urbanisme est approuvé sur le territoire considéré.
 
 	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L113-11 (VD)
+	  - Code de l'urbanisme - art. L113-12 (VD)
+	  - Code de l'urbanisme - art. L113-13 (VD)
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L130-1 (V)
-	  - Code de l'urbanisme - art. L142-3 (V)
+	  - Code de l'urbanisme - art. L130-1
+	  - Code de l'urbanisme - art. L142-3
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. L142-12 (VT)
-	  - Code de l'urbanisme - art. L160-1 (V)
+	  - Code de l'urbanisme - art. L160-1 (VT)
 	  - Code de l'urbanisme - art. L430-1 (Ab)
 	  - Code de l'urbanisme - art. L441-1 (M)
 	  - Code de l'urbanisme - art. R142-2 (VT)
@@ -17644,10 +17680,10 @@ L. 321-29 du présent code, selon des modalités fixées par convention entre le
 ###### Article L321-2
 
 Sous réserve de l'accord prévu au premier alinéa de l'article L. 321-1, les établissements publics fonciers de l'Etat sont
-créés par décret en Conseil d'Etat après avis des conseils régionaux, des conseils généraux, des organes délibérants des
-établissements publics de coopération intercommunale à fiscalité propre compétents en matière de plan local d'urbanisme ainsi
-que des conseils municipaux des communes de 20 000 habitants et plus non membres de ces établissements, situés dans leur
-périmètre de compétence. L'avis est réputé favorable s'il n'est pas émis dans un délai de trois mois.
+créés par décret en Conseil d'Etat après avis des conseils régionaux, des conseils départementaux, des organes délibérants
+des établissements publics de coopération intercommunale à fiscalité propre compétents en matière de plan local d'urbanisme
+ainsi que des conseils municipaux des communes de 20 000 habitants et plus non membres de ces établissements, situés dans
+leur périmètre de compétence. L'avis est réputé favorable s'il n'est pas émis dans un délai de trois mois.
 
 **Nota:**
 
@@ -17663,11 +17699,12 @@ périmètre de compétence. L'avis est réputé favorable s'il n'est pas émis d
 
 	**Modifié par**:
 
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 	  - Loi n°2014-366 du 24 mars 2014 - art. 144
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L321-1
+	  - Code de l'urbanisme - art. L321-1 (V)
 
 	**Codifié par**:
 
@@ -18112,9 +18149,9 @@ fonciers réalisent les acquisitions foncières nécessaires aux missions mentio
 ###### Article L321-15
 
 Les établissements publics d'aménagement sont créés par décret en Conseil d'Etat après avis des conseils régionaux, des
-conseils généraux, des organes délibérants des établissements publics de coopération intercommunale à fiscalité propre ainsi
-que des conseils municipaux des communes de 20 000 habitants et plus non membres de ces établissements, situés dans leur
-périmètre de compétence. L'avis est réputé favorable s'il n'est pas émis dans un délai de trois mois.
+conseils départementaux, des organes délibérants des établissements publics de coopération intercommunale à fiscalité propre
+ainsi que des conseils municipaux des communes de 20 000 habitants et plus non membres de ces établissements, situés dans
+leur périmètre de compétence. L'avis est réputé favorable s'il n'est pas émis dans un délai de trois mois.
 
 **Nota:**
 
@@ -18122,9 +18159,9 @@ périmètre de compétence. L'avis est réputé favorable s'il n'est pas émis d
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 	**Cité par**:
 
@@ -20849,11 +20886,11 @@ compter des impositions dues au titre de 2015.
 
 ###### Article L331-3
 
-La part départementale de la taxe d'aménagement est instituée par délibération du conseil général dans les conditions fixées
-au neuvième alinéa de l'article L. 331-2 en vue de financer, d'une part, la politique de protection des espaces naturels
-sensibles prévue à l'article L. 142-1 ainsi que les dépenses prévues à l'article L. 142-2 et, d'autre part, les dépenses des
-conseils d'architecture, d'urbanisme et de l'environnement en application de l'article 8 de la loi n° 77-2 du 3 janvier 1977
-sur l'architecture. 
+La part départementale de la taxe d'aménagement est instituée par délibération du conseil départemental dans les conditions
+fixées au neuvième alinéa de l'article L. 331-2 en vue de financer, d'une part, la politique de protection des espaces
+naturels sensibles prévue à l'article L. 142-1 ainsi que les dépenses prévues à l'article L. 142-2 et, d'autre part, les
+dépenses des conseils d'architecture, d'urbanisme et de l'environnement en application de l'article 8 de la loi n° 77-2 du 3
+janvier 1977 sur l'architecture. 
 
 La part départementale de la taxe est instituée dans toutes les communes du département. 
 
@@ -20862,11 +20899,6 @@ Le produit de la part départementale de la taxe a le caractère d'une recette d
 La métropole de Lyon est substituée au département du Rhône pour l'application des trois alinéas précédents aux autorisations
 d'urbanisme délivrées à compter du 1er janvier 2017 dans le périmètre de la métropole de Lyon. Les produits perçus à ce titre
 reviennent à la métropole de Lyon, en sus de ceux qui lui échoient en vertu du 3° de l'article L. 331-2.
-
-**Nota:**
-
-Conformément à l'article 43 III de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
-compter des impositions dues au titre de 2015.
 
 **Liens relatifs à cet article**
 
@@ -20889,7 +20921,8 @@ compter des impositions dues au titre de 2015.
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 7
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
+	  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 7 (V)
 
 	**Codifié par**:
 
@@ -21122,8 +21155,8 @@ compter des impositions dues au titre de 2015.
 
 Par délibération prise dans les conditions prévues au premier alinéa de l'article L. 331-14, les organes délibérants des
 communes ou des établissements publics de coopération intercommunale, le conseil de la métropole de Lyon, les conseils
-généraux et le conseil régional de la région d'Ile-de-France peuvent exonérer de la taxe d'aménagement, en tout ou partie,
-chacune des catégories de construction ou aménagement suivantes : 
+départementaux et le conseil régional de la région d'Ile-de-France peuvent exonérer de la taxe d'aménagement, en tout ou
+partie, chacune des catégories de construction ou aménagement suivantes : 
 
 1° Les locaux d'habitation et d'hébergement mentionnés au 1° de l'article L. 331-12 qui ne bénéficient pas de l'exonération
 prévue au 2° de l'article L. 331-7 ; 
@@ -21149,24 +21182,18 @@ Pour les autorisations d'urbanisme délivrées à compter du 1er janvier 2017, l
 Lyon sur le fondement du présent article s'appliquent simultanément à la part de taxe d'aménagement perçue en vertu du 3° de
 l'article L. 331-2 et à celle qui lui revient en application de l'article L. 331-3.
 
-**Nota:**
-
-Conformément à l'article 43 III de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
-compter des impositions dues au titre de 2015.
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2014-1655 du 29 décembre 2014 - art. 43
-	  - Loi n°2014-1655 du 29 décembre 2014 - art. 44
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
+	  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 7 (V)
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L331-12
 	  - Code de l'urbanisme - art. L331-14
-	  - Code de l'urbanisme - art. L331-2
-	  - Code de l'urbanisme - art. L331-3
+	  - Code de l'urbanisme - art. L331-2 (V)
 	  - Code de l'urbanisme - art. L331-7
 	  - Code de la construction et de l'habitation. - art. L31-10-1
 
@@ -21449,8 +21476,8 @@ compter des impositions dues au titre de 2015.
 
 ###### Article L331-17
 
-Par délibération adoptée avant le 30 novembre, les conseils généraux fixent le taux de la part départementale de la taxe
-d'aménagement applicable à compter du 1er janvier de l'année suivante. 
+Par délibération adoptée avant le 30 novembre, les conseils départementaux fixent le taux de la part départementale de la
+taxe d'aménagement applicable à compter du 1er janvier de l'année suivante. 
 
 Cette délibération peut également fixer les taux de répartition de la part départementale de la taxe d'aménagement entre la
 politique de protection des espaces naturels sensibles et les conseils d'architecture, d'urbanisme et de l'environnement. 
@@ -21463,20 +21490,16 @@ nouvelle délibération n'a pas été adoptée dans le délai prévu au premier 
 Les dispositions du présent article s'appliquent, à compter du 1er janvier 2016, à la métropole de Lyon pour la part de taxe
 d'aménagement prévue à l'article L. 331-3.
 
-**Nota:**
-
-Conformément à l'article 43 III de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
-compter des impositions dues au titre de 2015.
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 7
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
+	  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 7 (V)
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L331-3 (VT)
+	  - Code de l'urbanisme - art. L331-3 (VD)
 
 
 ###### Article L331-18
@@ -23021,7 +23044,7 @@ d'intérêt majeur.
 ###### Article L350-2
 
 Avant la signature du contrat, le projet d'intérêt majeur est soumis pour avis au président du conseil régional, au président
-du conseil général et aux présidents des établissements publics de coopération intercommunale compétents en matière de
+du conseil départemental et aux présidents des établissements publics de coopération intercommunale compétents en matière de
 programme local de l'habitat ou en matière de plan local d'urbanisme.
 
 Peut être également recueilli l'avis de tout organisme ou association ayant compétence en matière d'habitat, d'urbanisme, de
@@ -23036,8 +23059,9 @@ l'environnement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 	  - Loi n°2014-366 du 24 mars 2014 - art. 168
 
 	**Cité par**:
@@ -34072,30 +34096,37 @@ L'approbation du plan local d'urbanisme dispense de l'enquête préalable aux cl
 publiques communales prévus à ce plan, sous réserve que celui-ci précise la catégorie dans laquelle elles doivent entrer et
 que ces classements et déclassements figurent parmi les opérations soumises à l'enquête prévue au premier alinéa du présent
 article. Cette dispense n'est applicable aux voiries nationale et départementale que si l'acte d'approbation est accompagné
-de l'avis conforme, selon le cas, du préfet ou du président du conseil général relatif à ce classement ou déclassement.
-
-**Nota:**
-
-
+de l'avis conforme, selon le cas, du préfet ou du président du conseil départemental relatif à ce classement ou déclassement.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L123-10
 	  - Code de l'urbanisme - art. R*121-1
 	  - Code de l'environnement - art. R123-8
-	  - Code de l'expropriation pour cause d'utilité pu... - art. R112-4 (V)
-	  - Code de l'expropriation pour cause d'utilité pu... - art. R112-5 (V)
+	  - Code de l'expropriation pour cause d'utilité publique - art. R11-14-2
+	  - Code de l'expropriation pour cause d'utilité publique - art. R11-14-7
+	  - Code de l'expropriation pour cause d'utilité publique - art. R11-3
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*123-21 (V)
-	  - Code de l'urbanisme - art. R*123-22-1 (V)
+	  - Code de l'urbanisme - art. R*123-22-1 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R153-10 (V)
+	  - Code de l'urbanisme - art. R153-8 (V)
+	  - Code de l'urbanisme - art. R153-9 (V)
 
 	**Codifié par**:
 
@@ -35636,32 +35667,28 @@ consultatif économique et social et des préfets des départements ; la procéd
 le chef du service de l'Etat dans la région, chargé de l'urbanisme, avec le concours des chefs des services de l'Etat. 
 
 Il est approuvé par décret pris sur le rapport du ministre chargé de l'urbanisme et du ministre de l'intérieur, après avis du
-conseil de Paris, des conseils généraux et du conseil régional de la région d'Ile-de-France. 
+conseil de Paris, des conseils départementaux et du conseil régional de la région d'Ile-de-France. 
 
-Toutefois, il est approuvé par décret en Conseil d'Etat lorsqu'un ou plusieurs conseils généraux, représentant un quart au
-moins de la population totale du territoire concerné, ou le conseil régional font connaître leur avis défavorable.
+Toutefois, il est approuvé par décret en Conseil d'Etat lorsqu'un ou plusieurs conseils départementaux, représentant un quart
+au moins de la population totale du territoire concerné, ou le conseil régional font connaître leur avis défavorable.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
+
 	**Abrogé par**:
 
-	  - Décret n°2015-218 du 25 février 2015 - art. 1
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L141-1
 
-	**Anciens textes**:
-
-	  - Décret n°69-551 1969-05-28 art. 22
-
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°2001-260 du 27 mars 2001 - art. 3 () JORF 28 mars 2001
 
 
 #####  Section 2 : Schémas de cohérence territoriale, schémas de secteurs et plans locaux d'urbanisme en région Ile-de-France
@@ -36088,19 +36115,19 @@ Le programme d'action est en outre mis à la disposition du public au siège de 
 
 ###### Article R142-1
 
-Lorsque, pour mettre en oeuvre la politique définie à l'article L. 142-1, le conseil général a décidé d'instituer la part
-départementale de la taxe d'aménagement destinée à financer les espaces naturels sensibles prévue à l'article L. 142-2, un
-tableau annexe au budget du département fait le bilan des recettes et des emplois de cette taxe.
-
-**Nota:**
-
-
+Lorsque, pour mettre en oeuvre la politique définie à l'article L. 142-1, le conseil départemental a décidé d'instituer la
+part départementale de la taxe d'aménagement destinée à financer les espaces naturels sensibles prévue à l'article L. 142-2,
+un tableau annexe au budget du département fait le bilan des recettes et des emplois de cette taxe.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-87 du 25 janvier 2012 - art. 2
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 	**Cité par**:
 
@@ -36112,7 +36139,11 @@ tableau annexe au budget du département fait le bilan des recettes et des emplo
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L142-1
-	  - Code de l'urbanisme - art. L142-2 (V)
+	  - Code de l'urbanisme - art. L142-2
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R113-18 (V)
 
 	**Codifié par**:
 
@@ -36123,11 +36154,11 @@ tableau annexe au budget du département fait le bilan des recettes et des emplo
 
 ###### Article R142-2
 
-Pour l'application des mesures de protection prévues à l'article L. 142-11, le préfet, sur proposition du conseil général,
-saisit pour avis le conseil municipal de la commune intéressée ou l'organe délibérant de l'établissement public de
-coopération intercommunale compétent, ainsi que la commission départementale de la nature, des paysages et des sites d'un
-projet tendant à déterminer les bois, forêts et parcs à soumettre au régime des espaces boisés classés en application de
-l'alinéa 1er de l'article L. 130-1 et des textes pris pour son application. 
+Pour l'application des mesures de protection prévues à l'article L. 142-11, le préfet, sur proposition du conseil
+départemental, saisit pour avis le conseil municipal de la commune intéressée ou l'organe délibérant de l'établissement
+public de coopération intercommunale compétent, ainsi que la commission départementale de la nature, des paysages et des
+sites d'un projet tendant à déterminer les bois, forêts et parcs à soumettre au régime des espaces boisés classés en
+application de l'alinéa 1er de l'article L. 130-1 et des textes pris pour son application. 
 
 Ce projet peut en outre, lorsqu'il concerne des espaces situés dans les zones de préemption créées dans les conditions
 prévues à l'article L. 142-3 :
@@ -36139,15 +36170,15 @@ pas pour objet d'assurer la desserte des bâtiments existants ou d'améliorer de
 - interdire ou soumettre à des conditions particulières l'aménagement et l'ouverture des terrains destinés à accueillir de
 manière habituelle des tentes, des caravanes ou des habitations légères de loisirs.
 
-**Nota:**
-
-
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2006-665 du 7 juin 2006 - art. 20 () JORF 8 juin 2006
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 	**Cité par**:
 
@@ -36158,9 +36189,13 @@ manière habituelle des tentes, des caravanes ou des habitations légères de lo
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L130-1 (V)
-	  - Code de l'urbanisme - art. L142-11 (V)
-	  - Code de l'urbanisme - art. L142-3 (V)
+	  - Code de l'urbanisme - art. L130-1
+	  - Code de l'urbanisme - art. L142-11
+	  - Code de l'urbanisme - art. L142-3
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R113-15 (V)
 
 	**Codifié par**:
 
@@ -36265,8 +36300,8 @@ l'établissement public a reçu communication du projet.
 
 ###### Article R142-5
 
-La délibération du conseil général créant, en application de l'article L. 142-3, une zone de préemption, est accompagnée d'un
-plan de situation et d'un plan de délimitation. 
+La délibération du conseil départemental créant, en application de l'article L. 142-3, une zone de préemption, est
+accompagnée d'un plan de situation et d'un plan de délimitation. 
 
 Cette délibération fait l'objet d'une publication au recueil officiel des actes du département et d'une mention dans deux
 journaux régionaux ou locaux diffusés dans le département. 
@@ -36282,66 +36317,69 @@ Copie de la délibération créant la zone de préemption accompagnée des plans
 conseil supérieur du notariat, à la chambre départementale des notaires et aux barreaux constitués près les tribunaux de
 grande instance dans le ressort desquels est créée la zone de préemption.
 
-**Nota:**
-
-
-
 **Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°81-534 du 12 mai 1981 - art. 5 (Ab)
-	  - Code de l'urbanisme - art. R*700-2 (Ab)
-	  - Code de l'urbanisme - art. R142-1 (M)
-	  - Code de l'urbanisme - art. R611-5 (Ab)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R111-13 (M)
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R111-21 (M)
 
 	**Modifié par**:
 
-	  - Décret n°86-516 du 14 mars 1986 - art. 7 () JORF 16 mars 1986 en vigueur le   1er juin 1987
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L142-3 (V)
+	  - Code de l'urbanisme - art. L142-3
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*700-2 (Ab)
+	  - Code de l'urbanisme - art. R142-1 (M)
+	  - Code de l'urbanisme - art. R611-5 (Ab)
+	  - Décret n°81-534 du 12 mai 1981 - art. 5 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R111-13 (M)
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R111-21 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R215-2 (M)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
 
 ###### Article R142-6
 
-Le président du conseil général est tenu de délivrer sans frais à tout propriétaire de terrain ou à tout titulaire de droits
-sociaux donnant vocation à l'attribution en propriété ou en jouissance de terrains, dans le délai d'un mois qui suit la
-demande qui en est faite, un certificat établi sur papier libre précisant si le bien est situé ou non à l'intérieur du
+Le président du conseil départemental est tenu de délivrer sans frais à tout propriétaire de terrain ou à tout titulaire de
+droits sociaux donnant vocation à l'attribution en propriété ou en jouissance de terrains, dans le délai d'un mois qui suit
+la demande qui en est faite, un certificat établi sur papier libre précisant si le bien est situé ou non à l'intérieur du
 périmètre d'une zone de préemption créée en application de l'article L. 142-3.
-
-**Nota:**
-
-
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
-
 	**Modifié par**:
 
-	  - Décret n°86-516 du 14 mars 1986 - art. 7 () JORF 16 mars 1986 en vigueur le   1er juin 1987
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L142-3 (V)
+	  - Code de l'urbanisme - art. L142-3
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*410-17 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R215-8 (V)
 
 	**Codifié par**:
 
@@ -36351,31 +36389,31 @@ périmètre d'une zone de préemption créée en application de l'article L. 142
 ###### Article R142-7
 
 La délégation du droit de préemption prévue à l'avant-dernier alinéa de l'article L. 142-3 résulte d'une délibération du
-conseil général ou d'une décision du bureau lorsque cette compétence a été déléguée à ce dernier. La délibération ou la
+conseil départemental ou d'une décision du bureau lorsque cette compétence a été déléguée à ce dernier. La délibération ou la
 décision précise l'objet ou le champ d'application territorial de la délégation et, le cas échéant, les conditions auxquelles
 cette délégation est subordonnée.
 
-**Nota:**
-
-
-
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
-
-	**Modifié par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 7 () JORF 16 mars 1986 en vigueur le 1er juin 1987
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L142-3 (V)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L142-3
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R215-4 (V)
 
 
 #####  Section 4 : Procédure de préemption
@@ -36471,24 +36509,19 @@ autorités administratives et entre les autorités administratives.
 
 ###### Article R142-10
 
-Dès réception de la déclaration, le président du conseil général en transmet copie, éventuellement par voie électronique, en
-indiquant la date de l'avis de réception, de la décharge de cette déclaration, ou du premier des accusés de réception ou
-d'enregistrement délivré en application du I de l'article 5 de l'ordonnance n° 2005-1516 du 8 décembre 2005 :
+Dès réception de la déclaration, le président du conseil départemental en transmet copie, éventuellement par voie
+électronique, en indiquant la date de l'avis de réception, de la décharge de cette déclaration, ou du premier des accusés de
+réception ou d'enregistrement délivré en application du I de l'article 5 de l'ordonnance n° 2005-1516 du 8 décembre 2005 :
 
 - au maire de la commune concernée et, le cas échéant, au président de l'établissement public de coopération intercommunale
 compétent ;
 
-- au   directeur départemental ou, le cas échéant, régional des finances publiques, en lui précisant si cette transmission
-vaut demande d'avis ;
+- au directeur des services fiscaux, en lui précisant si cette transmission vaut demande d'avis ;
 
 - au Conservatoire de l'espace littoral et des rivages lacustres, lorsque cet établissement public est territorialement
 compétent et, dans ce cas, pour information, au président du conseil de rivage ;
 
 - au délégataire du droit de préemption, s'il y a lieu.
-
-**Nota:**
-
-
 
 **Liens relatifs à cet article**
 
@@ -36498,14 +36531,22 @@ compétent et, dans ce cas, pour information, au président du conseil de rivage
 
 	**Modifié par**:
 
-	  - Décret n°2014-551 du 27 mai 2014 - art. 31
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R142-11 (M)
-	  - Code de l'urbanisme - art. R142-13 (VD)
+	  - Code de l'urbanisme - art. R142-13 (VT)
 	  - Code de l'urbanisme - art. R142-15 (M)
 	  - Code de l'urbanisme - art. R142-9 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R215-11 (M)
 
 	**Codifié par**:
 
@@ -36516,12 +36557,12 @@ compétent et, dans ce cas, pour information, au président du conseil de rivage
 
 Dans le délai de deux mois à compter de la date de l'avis de réception postal, du premier des accusés de réception ou
 d'enregistrement délivré en application du I de l'article 5 de l'ordonnance n° 2005-1516 du 8 décembre 2005, ou de la
-décharge de la déclaration d'intention d'aliéner, le président du conseil général notifie au propriétaire la décision prise
-par le département en vertu des articles R. 213-8 et R. 213-9. 
+décharge de la déclaration d'intention d'aliéner, le président du conseil départemental notifie au propriétaire la décision
+prise par le département en vertu des articles R. 213-8 et R. 213-9. 
 
 Lorsque le terrain est compris dans une zone ou partie de zone où le Conservatoire de l'espace littoral et des rivages
-lacustres est territorialement compétent, le président du conseil général adresse sans délai une copie de la décision du
-département audit établissement, au président du conseil de rivage territorialement compétent, au maire de la commune
+lacustres est territorialement compétent, le président du conseil départemental adresse sans délai une copie de la décision
+du département audit établissement, au président du conseil de rivage territorialement compétent, au maire de la commune
 intéressée et, s'il y a lieu, au président de l'établissement public de coopération intercommunale compétent. 
 
 A défaut du département, le Conservatoire de l'espace littoral et des rivages lacustres, la commune ou l'établissement public
@@ -36531,8 +36572,8 @@ Lorsque le département a renoncé à l'exercice du droit de préemption, le Con
 lacustres notifie au propriétaire, dans un délai de soixante-quinze jours à compter de la date de l'avis de réception postal,
 du premier des accusés de réception ou d'enregistrement délivré en application du I de l'article 5 de l'ordonnance n°
 2005-1516 du 8 décembre 2005, ou de la décharge de la déclaration d'intention d'aliéner, la décision qu'il prend en vertu des
-articles R. 213-8 et R. 213-9. Il adresse sans délai une copie de sa décision au président du conseil général et au maire de
-la commune concernée ainsi que, s'il y a lieu, au président de l'établissement public de coopération intercommunale
+articles R. 213-8 et R. 213-9. Il adresse sans délai une copie de sa décision au président du conseil départemental et au
+maire de la commune concernée ainsi que, s'il y a lieu, au président de l'établissement public de coopération intercommunale
 compétent. 
 
 La commune ou l'établissement public de coopération intercommunale compétent peut exercer le droit de préemption à défaut du
@@ -36546,12 +36587,8 @@ l'établissement public de coopération intercommunale au propriétaire avant l'
 compter de la date de la réception du premier des accusés de réception ou d'enregistrement délivré en application du I de
 l'article 5 de l'ordonnance n° 2005-1516 du 8 décembre 2005, ou de la décharge de la déclaration d'intention d'aliéner. 
 
-Il adresse sans délai une copie de cette décision au président du conseil général et, s'il y a lieu, au Conservatoire de
-l'espace littoral et des rivages lacustres.
-
-**Nota:**
-
-
+Il adresse sans délai une copie de cette décision au président du conseil départemental et, s'il y a lieu, au Conservatoire
+de l'espace littoral et des rivages lacustres.
 
 **Liens relatifs à cet article**
 
@@ -36563,12 +36600,23 @@ l'espace littoral et des rivages lacustres.
 
 	**Modifié par**:
 
-	  - Décret n°2012-489 du 13 avril 2012 - art. 1
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 	**Cité par**:
 
+	  - Code de l'urbanisme - art. R142-14 (VT)
 	  - Code de l'urbanisme - art. R142-15 (M)
 	  - Code de l'urbanisme - art. R142-9 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R215-12 (M)
+	  - Code de l'urbanisme - art. R215-13 (V)
+	  - Code de l'urbanisme - art. R215-14 (M)
 
 	**Codifié par**:
 
@@ -36618,11 +36666,11 @@ Les ventes soumises aux dispositions de la présente sous-section doivent être 
 juridiction ou du notaire chargé de procéder à la vente faisant connaître la date et les modalités de la vente. Cette
 déclaration est établie dans les formes prescrites par l'arrêté prévu par l'article R. 142-9. 
 
-Elle est adressée au siège du conseil général un mois avant la date fixée pour la vente, par lettre recommandée avec demande
-d'avis de réception ou par voie électronique dans les conditions prévues par le I de l'article 5 de l'ordonnance n° 2005-1516
-du 8 décembre 2005. La déclaration fait l'objet des communications et transmissions mentionnées à l'article R. 142-10. Le
-titulaire dispose d'un délai de trente jours à compter de l'adjudication pour informer le greffier ou le notaire de sa
-décision de se substituer à l'adjudicataire. 
+Elle est adressée au siège du conseil départemental un mois avant la date fixée pour la vente, par lettre recommandée avec
+demande d'avis de réception ou par voie électronique dans les conditions prévues par le I de l'article 5 de l'ordonnance n°
+2005-1516 du 8 décembre 2005. La déclaration fait l'objet des communications et transmissions mentionnées à l'article R.
+142-10. Le titulaire dispose d'un délai de trente jours à compter de l'adjudication pour informer le greffier ou le notaire
+de sa décision de se substituer à l'adjudicataire. 
 
 La substitution ne peut intervenir qu'au prix de la dernière enchère ou de la surenchère. 
 
@@ -36638,27 +36686,32 @@ du 8 décembre 2005.
 Copie de cette décision est annexée à l'acte ou au jugement d'adjudication et publiée au fichier immobilier en même temps que
 celui-ci.
 
-**Nota:**
-
-
-
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Ordonnance n°2005-1516 du 8 décembre 2005 - art. 5
-	  - Code de l'urbanisme - art. R142-10
-	  - Code de l'urbanisme - art. R142-9
+	  - Code de l'urbanisme - art. R142-10 (VT)
+	  - Code de l'urbanisme - art. R142-9 (VT)
 
 	**Modifié par**:
 
-	  - Décret n°2012-1462 du 26 décembre 2012 - art. 35
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. A142-1 (V)
+	  - Code de l'urbanisme - art. R142-14 (VT)
 	  - Code de l'urbanisme - art. R142-15 (M)
 	  - Code de l'urbanisme - art. R142-8 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R215-18 (M)
 
 	**Codifié par**:
 
@@ -36793,10 +36846,11 @@ L'action en nullité prévue à l'article L. 142-4 s'exerce devant le tribunal d
 ###### Article R142-17
 
 Toute demande de rétrocession formulée en application de l'article L. 142-8 doit contenir l'offre d'un prix. Elle est
-adressée au siège du conseil général par pli recommandé avec demande d'avis de réception ou déposée contre décharge. 
+adressée au siège du conseil départemental par pli recommandé avec demande d'avis de réception ou déposée contre décharge. 
 
 Lorsque le terrain a été acquis par le titulaire du droit de substitution ou par le délégataire du droit de préemption, le
-président du conseil général transmet sans délai la demande à ces derniers et informe le demandeur de cette transmission. 
+président du conseil départemental transmet sans délai la demande à ces derniers et informe le demandeur de cette
+transmission. 
 
 A défaut d'accord sur le prix ou de réponse du propriétaire du bien dans un délai de trois mois à compter de la date de
 l'avis de réception ou de la décharge, il est procédé comme indiqué aux alinéas 3 et 4 de l'article L. 142-8. 
@@ -36804,15 +36858,22 @@ l'avis de réception ou de la décharge, il est procédé comme indiqué aux ali
 Le transfert éventuel de propriété est constaté par acte authentique. Une copie de cet acte est transmise, s'il y a lieu, au
 département.
 
-**Nota:**
-
-
-
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L142-8
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R142-10 (M)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R142-11 (M)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R142-12 (M)
@@ -36822,13 +36883,9 @@ département.
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R142-16 (M)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R142-9 (M)
 
-	**Modifié par**:
+	**Nouveaux textes**:
 
-	  - Décret n°86-516 du 14 mars 1986 - art. 7 () JORF 16 mars 1986 en vigueur le   1er juin 1987
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L142-8 (V)
+	  - Code de l'urbanisme - art. R215-19 (V)
 
 	**Codifié par**:
 
@@ -36837,68 +36894,69 @@ département.
 
 ###### Article R142-18
 
-Le titulaire du droit de substitution ou le délégataire notifie sans délai au président du conseil général, les éléments
-d'information à transcrire sur le registre prévu par l'article L. 142-9. Le président du conseil général transcrit également
-dans ce registre les rétrocessions réalisées en application de l'article L. 142-8.
-
-**Nota:**
-
-
+Le titulaire du droit de substitution ou le délégataire notifie sans délai au président du conseil départemental, les
+éléments d'information à transcrire sur le registre prévu par l'article L. 142-9. Le président du conseil départemental
+transcrit également dans ce registre les rétrocessions réalisées en application de l'article L. 142-8.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°86-516 1986-03-14 art. 10 Décret 87-284 1987-04-22 art. 5
-
-	**Créé par**:
-
-	  - Décret n°86-516 du 14 mars 1986 - art. 7 () JORF 16 mars 1986 en vigueur le   1er juin 1987
-
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L142-8 (V)
-	  - Code de l'urbanisme - art. L142-9 (V)
+	  - Code de l'urbanisme - art. L142-8
+	  - Code de l'urbanisme - art. L142-9
 
 	**Cité par**:
 
-	  - Code de l'urbanisme - art. R142-19 (V)
+	  - Code de l'urbanisme - art. R142-19 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R215-15 (V)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
+	**Modifié par**:
+
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
 
 ###### Article R142-19
 
-Dans les cas mentionnés au neuvième alinéa de l'article L. 142-3, les attributions confiées au président du conseil général
-pour l'application des articles R. 142-8 à R. 142-18 sont exercées par le directeur du Conservatoire de l'espace littoral et
-des rivages lacustres.
-
-**Nota:**
-
-
+Dans les cas mentionnés au neuvième alinéa de l'article L. 142-3, les attributions confiées au président du conseil
+départemental pour l'application des articles R. 142-8 à R. 142-18 sont exercées par le directeur du Conservatoire de
+l'espace littoral et des rivages lacustres.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°61-910 1961-08-05 ART. 14
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°2003-839 du 29 août 2003 - art. 3 () JORF 3 septembre 2003
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L142-3 (V)
-	  - Code de l'urbanisme - art. R142-18 (V)
-	  - Code de l'urbanisme - art. R142-8 (V)
+	  - Code de l'urbanisme - art. L142-3
+	  - Code de l'urbanisme - art. R142-18 (VT)
+	  - Code de l'urbanisme - art. R142-8
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R142-21 (Ab)
 	  - Code de l'urbanisme - art. R142-22 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R215-16 (M)
+	  - Code de l'urbanisme - art. R215-3 (V)
 
 	**Codifié par**:
 
@@ -36913,22 +36971,28 @@ des rivages lacustres.
 
 Le projet de création d'un périmètre de protection et de mise en valeur des espaces agricoles et naturels périurbains
 comprend un plan de délimitation et une notice qui analyse l'état initial de ces espaces et expose les motifs du choix du
-périmètre, notamment les bénéfices attendus de son institution sur l'agriculture, la forêt et l'environnement.
+périmètre, notamment les bénéfices attendus de son institution sur l'agriculture, la forêt et l'environnement. 
 
-Le président du conseil général soumet le projet, pour accord, aux communes ou aux établissements publics compétents en
+Le président du conseil départemental soumet le projet, pour accord, aux communes ou aux établissements publics compétents en
 matière de plan local d'urbanisme concernés. Le projet est également adressé, pour avis, à la chambre départementale
 d'agriculture ainsi qu'à l'établissement public chargé du schéma de cohérence territoriale s'il existe ; les avis, s'ils ne
 sont pas exprimés dans le délai de deux mois à compter de la saisine, sont réputés favorables.
 
-**Nota:**
-
-
-
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-821 du 7 juillet 2006 - art. 1 () JORF 9 juillet 2006
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L113-16 (VD)
+	  - Code de l'urbanisme - art. R113-19 (V)
+	  - Code de l'urbanisme - art. R113-20 (V)
 
 	**Cité par**:
 
@@ -36943,26 +37007,27 @@ sont pas exprimés dans le délai de deux mois à compter de la saisine, sont r�
 
 Le projet de création du périmètre, assorti d'un plan de situation et de l'ensemble des accords et avis recueillis, est
 soumis à enquête publique selon la procédure prévue aux articles R. 123-7 à R. 123-23 du code de l'environnement, par le
-président du conseil général qui exerce les compétences attribuées au préfet par ces dispositions.
-
-**Nota:**
-
-
+président du conseil départemental qui exerce les compétences attribuées au préfet par ces dispositions.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-821 du 7 juillet 2006 - art. 1 () JORF 9 juillet 2006
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 	**Nouveaux textes**:
 
+	  - Code de l'urbanisme - art. R113-21 (V)
 	  - Code de l'urbanisme - art. R143-21 (Ab)
 
 	**Cite**:
 
-	  - Code de l'environnement - art. R123-23 (V)
-	  - Code de l'environnement - art. R123-7 (V)
+	  - Code de l'environnement - art. R123-23
+	  - Code de l'environnement - art. R123-7
 
 	**Codifié par**:
 
@@ -36971,7 +37036,7 @@ président du conseil général qui exerce les compétences attribuées au préf
 
 ###### Article R143-3
 
-La création du périmètre est décidée par une délibération du conseil général. 
+La création du périmètre est décidée par une délibération du conseil départemental. 
 
 Cette délibération, accompagnée des plans de situation et de délimitation, est publiée au recueil des actes administratifs du
 département, affichée pendant un mois à l'hôtel du département, dans les mairies des communes incluses dans le périmètre et,
@@ -36980,24 +37045,12 @@ d'urbanisme et fait l'objet d'une mention dans un journal diffusé dans le dépa
 indiquent les lieux où le dossier peut être consulté. Pour l'application de l'article L. 3131-1 du code général des
 collectivités territoriales, la date à prendre en compte pour l'affichage est celle du premier jour où il est effectué. 
 
-Cette délibération, accompagnée des plans de situation et de délimitation, est simultanément transmise au   directeur
-départemental ou, le cas échéant, régional des finances publiques, au Conseil supérieur du notariat, à la chambre
-départementale des notaires, aux barreaux constitués près les tribunaux de grande instance dans le ressort desquels est
-institué le périmètre de protection ainsi qu'au greffe de ces tribunaux.
-
-**Nota:**
-
-
+Cette délibération, accompagnée des plans de situation et de délimitation, est simultanément transmise au directeur des
+services fiscaux, au Conseil supérieur du notariat, à la chambre départementale des notaires, aux barreaux constitués près
+les tribunaux de grande instance dans le ressort desquels est institué le périmètre de protection ainsi qu'au greffe de ces
+tribunaux.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L3131-1
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R143-6 (V)
 
 	**Codifié par**:
 
@@ -37005,7 +37058,23 @@ institué le périmètre de protection ainsi qu'au greffe de ces tribunaux.
 
 	**Modifié par**:
 
-	  - Décret n°2014-551 du 27 mai 2014 - art. 31
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L3131-1
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R113-22 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R143-6 (VT)
 
 
 ###### Article R143-4
@@ -37046,23 +37115,29 @@ l'environnement.
 
 Le projet de programme d'action pour la protection et la mise en valeur des espaces agricoles et naturels périurbains dans un
 périmètre dont la création est projetée ou dont la délimitation a été approuvée est soumis pour accord par le président du
-conseil général aux communes incluses dans le périmètre ou aux établissements publics de coopération intercommunale
-compétents en matière de plan local d'urbanisme.
+conseil départemental aux communes incluses dans le périmètre ou aux établissements publics de coopération intercommunale
+compétents en matière de plan local d'urbanisme. 
 
 Le projet de programme est également adressé à la chambre départementale d'agriculture ainsi qu'à l'Office national des
 forêts si le périmètre comprend des parcelles soumises au régime forestier et, s'il y a lieu, à l'organe de gestion du parc
 national ou du parc naturel régional si le périmètre inclut une partie du territoire de ce parc. Leurs avis, s'ils ne sont
 pas exprimés dans le délai de deux mois à compter de la saisine, sont réputés favorables.
 
-**Nota:**
-
-
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2007-673 du 2 mai 2007 - art. 16 () JORF 4 mai 2007
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L113-21 (VD)
+	  - Code de l'urbanisme - art. L113-22 (VD)
+	  - Code de l'urbanisme - art. R113-25 (V)
 
 	**Cité par**:
 
@@ -37075,27 +37150,31 @@ pas exprimés dans le délai de deux mois à compter de la saisine, sont réput�
 
 ###### Article R143-6
 
-Le programme d'action est adopté par une délibération du conseil général. 
+Le programme d'action est adopté par une délibération du conseil départemental. 
 
 Les modalités de publicité prévues au deuxième alinéa de l'article R. 143-3 sont applicables à cette délibération.
 
-**Nota:**
-
-
-
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-821 du 7 juillet 2006 - art. 1 () JORF 9 juillet 2006
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. R*143-5 (Ab)
 
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R113-26 (V)
+
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R143-3 (V)
+	  - Code de l'urbanisme - art. R143-3 (VT)
 
 	**Codifié par**:
 
@@ -43841,18 +43920,14 @@ L'approbation du plan de sauvegarde et de mise en valeur dispense de l'enquête 
 voies et places publiques départementales et communales prévus à ce plan, sous réserve que celui-ci précise la catégorie dans
 laquelle elles doivent entrer et que ces classements et déclassements figurent parmi les opérations soumises à l'enquête
 prévue au premier alinéa de l'article R. 313-11. Cette dispense n'est applicable à la voirie départementale et communale que
-si l'acte d'approbation est accompagné de l'avis conforme, selon le cas, du président du conseil général ou du maire, relatif
-à ce classement ou déclassement.
-
-**Nota:**
-
-
+si l'acte d'approbation est accompagné de l'avis conforme, selon le cas, du président du conseil départemental ou du maire,
+relatif à ce classement ou déclassement.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2007-452 du 25 mars 2007 - art. 1 () JORF 28 mars 2007 en vigueur le 1er avril 2007
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 	**Cité par**:
 
@@ -43865,7 +43940,7 @@ si l'acte d'approbation est accompagné de l'avis conforme, selon le cas, du pr�
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R313-11 (V)
+	  - Code de l'urbanisme - art. R313-11
 
 	**Liens**:
 
@@ -44569,37 +44644,33 @@ consultation des assemblées des collectivités dont la dépossession est envisa
 
 Lorsque ces déclassements ou ces transferts doivent porter sur des parties du domaine public d'une commune ou d'un
 établissement public, le préfet adresse au maire ou au président de l'assemblée délibérante de l'établissement public un
-dossier contenant :
+dossier contenant : 
 
-1° Une notice explicative exposant notamment l'objet de l'opération envisagée ;
+1° Une notice explicative exposant notamment l'objet de l'opération envisagée ; 
 
 2° Un mémoire précisant la nature, la situation, les caractéristiques essentielles, les dimensions et, s'il s'agit
-d'immeubles, la désignation cadastrale de chacun des biens en cause.
+d'immeubles, la désignation cadastrale de chacun des biens en cause. 
 
-Ce mémoire indique également la personne morale bénéficiaire du transfert de propriété ;
+Ce mémoire indique également la personne morale bénéficiaire du transfert de propriété ; 
 
-3° Un plan de situation des biens ci-dessus mentionnés ayant un caractère immobilier.
+3° Un plan de situation des biens ci-dessus mentionnés ayant un caractère immobilier. 
 
 Le conseil municipal ou l'assemblée délibérante de l'établissement public doit donner son avis sur l'opération envisagée dans
-un délai de quatre mois à compter de la transmission du dossier au maire ou au président.
+un délai de quatre mois à compter de la transmission du dossier au maire ou au président. 
 
-Lorsque les déclassements et les transferts portent sur des dépendances domaniales d'un département, le conseil général,
-saisi par le préfet d'un dossier constitué de la même manière, doit donner son avis au cours de la première session qui suit
-la communication du dossier à son président.
+Lorsque les déclassements et les transferts portent sur des dépendances domaniales d'un département, le conseil
+départemental, saisi par le préfet d'un dossier constitué de la même manière, doit donner son avis au cours de la première
+session qui suit la communication du dossier à son président. 
 
 Le décret décidant les déclassements et les transferts doit contenir les indications relatives aux caractéristiques
 essentielles, à la nature, à la situation, aux dimensions des biens déclassés et transférés et, s'il s'agit d'immeubles à
 leur désignation cadastrale.
 
-**Nota:**
-
-
-
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°67-302 1967-03-31 ART. 2
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 	**Cité par**:
 
@@ -47889,21 +47960,17 @@ entreprises publiques nationales et certains organismes ayant un objet d'ordre �
 L'Etablissement public de gestion du quartier d'affaires de La Défense, créé par l'article L. 328-1, est administré par un
 conseil d'administration de treize membres composé de : 
 
-1° Sept représentants du département des Hauts-de-Seine, désignés par le conseil général parmi ses membres ; 
+1° Sept représentants du département des Hauts-de-Seine, désignés par le conseil départemental parmi ses membres ; 
 
 2° Trois représentants de la commune de Courbevoie, désignés par le conseil municipal parmi ses membres ; 
 
 3° Trois représentants de la commune de Puteaux, désignés par le conseil municipal parmi ses membres.
 
-**Nota:**
-
-
-
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1684 du 29 novembre 2007 - art. 1
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 	**Cité par**:
 
@@ -50855,7 +50922,7 @@ interventions financières des contributeurs suivants : l'Etat, les collectivit�
 I.-Pour l'accomplissement de leur mission, les fonds régionaux d'aménagement foncier et urbain disposent notamment des
 ressources suivantes :
 
-- des subventions allouées par l'Etat, le conseil général et le conseil régional ;
+- des subventions allouées par l'Etat, le conseil départemental et le conseil régional ;
 
 - des participations de l'Union européenne ;
 
@@ -50870,15 +50937,11 @@ II.-Les emplois des fonds sont constitués par les avances sur subventions ou su
 à l'article L. 411-2 du code de la construction et de l'habitation et les organismes et sociétés, agréés par le préfet à cet
 effet, qui assurent la maîtrise d'ouvrage de logements sociaux.
 
-**Nota:**
-
-
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2004-1207 du 8 novembre 2004 - art. 1 () JORF 16 novembre 2004
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 	**Cité par**:
 
@@ -50886,7 +50949,7 @@ effet, qui assurent la maîtrise d'ouvrage de logements sociaux.
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L411-2 (V)
+	  - Code de la construction et de l'habitation. - art. L411-2
 
 	**Codifié par**:
 
@@ -50928,12 +50991,12 @@ compte rendu de la situation comptable des fonds régionaux d'aménagement fonci
 Le fonctionnement de chaque fonds régional d'aménagement foncier et urbain est assuré par un comité de gestion et
 d'engagement et un comité permanent. 
 
-Le comité de gestion et d'engagement est composé de trois représentants de l'Etat, de trois conseillers généraux désignés par
-le conseil général, de trois conseillers régionaux désignés par le conseil régional et de deux représentants désignés par
-l'Association des maires. Il est présidé alternativement et par période d'un an par le président du conseil général puis par
-le président du conseil régional. Il arrête son règlement intérieur dans lequel sont fixées les modalités d'instruction des
-demandes d'aide. Il se réunit au moins une fois par an. Dans le cadre de modalités d'intervention définies contractuellement
-entre les contributeurs, le comité de gestion et d'engagement :
+Le comité de gestion et d'engagement est composé de trois représentants de l'Etat, de trois conseillers départementaux
+désignés par le conseil départemental, de trois conseillers régionaux désignés par le conseil régional et de deux
+représentants désignés par l'Association des maires. Il est présidé alternativement et par période d'un an par le président
+du conseil départemental puis par le président du conseil régional. Il arrête son règlement intérieur dans lequel sont fixées
+les modalités d'instruction des demandes d'aide. Il se réunit au moins une fois par an. Dans le cadre de modalités
+d'intervention définies contractuellement entre les contributeurs, le comité de gestion et d'engagement :
 
 - détermine les orientations générales du fonds. Il s'appuie pour ce faire, d'une part, sur les objectifs des schémas
 d'aménagement régionaux prévus aux articles L. 4433-7 et suivants du code général des collectivités territoriales, des
@@ -50948,7 +51011,7 @@ le fonds régional d'aménagement foncier et urbain ;
 Les représentants qui, en cours de mandat, n'occupent plus les fonctions en raison desquelles ils ont été désignés sont
 réputés démissionnaires. 
 
-Le comité permanent est composé de deux représentants de l'Etat, de deux représentants du conseil général et de deux
+Le comité permanent est composé de deux représentants de l'Etat, de deux représentants du conseil départemental et de deux
 représentants du conseil régional. Le comité permanent peut s'associer en tant que de besoin les représentants d'autres
 institutions ou organismes qu'il estime utiles à l'exercice de ses missions. Son secrétariat est assuré par la direction
 départementale de l'équipement. 
@@ -50956,7 +51019,7 @@ départementale de l'équipement.
 Le comité permanent peut être chargé par délégation du comité de gestion et d'engagement de statuer sur chaque demande
 d'aide. En cas de désaccord entre ses membres, il demande au comité de gestion et d'engagement de statuer en dernier ressort.
 Le comité permanent instruit les demandes d'aides dans le cadre des documents établis par le comité de gestion et
-d'engagement. Il exécute les autres missions qui peuvent lui être confiées par le comité de gestion et d'engagement.  
+d'engagement. Il exécute les autres missions qui peuvent lui être confiées par le comité de gestion et d'engagement. 
 
 Le comité permanent est chargé de soumettre au comité de gestion et d'engagement, au plus tard le 1er mars de chaque année
 après consultation des représentants des maîtres d'ouvrage sociaux, le bilan de l'intervention du fonds régional
@@ -50964,15 +51027,11 @@ d'aménagement foncier et urbain de l'année précédente. Ce bilan porte notamm
 d'intervention du fonds. Il propose, le cas échéant, au comité de gestion et d'engagement des modifications des modalités
 d'intervention du fonds.
 
-**Nota:**
-
-
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-787 du 23 juin 2009 - art. 1
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 	**Cite**:
 
