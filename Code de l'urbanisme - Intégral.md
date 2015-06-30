@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2015-03-22
+Version Consolidée au 2015-07-01
 
 # Partie législative
 
@@ -7001,6 +7001,10 @@ dans le cas prévu au deuxième alinéa de l'article L. 123-6, la commune envisa
 3° Soit de réduire une protection édictée en raison des risques de nuisance, de la qualité des sites, des paysages ou des
 milieux naturels, ou d'une évolution de nature à induire de graves risques de nuisance ;
 
+4° Soit d'ouvrir à l'urbanisation une zone à urbaniser qui, dans les neuf ans suivant sa création, n'a pas été ouverte à
+l'urbanisation ou n'a pas fait l'objet d'acquisitions foncières significatives de la part de la commune ou de l'établissement
+public de coopération intercommunale compétent, directement ou par l'intermédiaire d'un opérateur foncier. 
+
 La révision est prescrite par délibération de l'organe délibérant de l'établissement public de coopération intercommunale ou
 du conseil municipal. 
 
@@ -7047,8 +7051,7 @@ peuvent être menées conjointement.
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 130
-	  - Loi n°2014-366 du 24 mars 2014 - art. 139 (V)
+	  - Loi n°2014-366 du 24 mars 2014 - art. 139 (M)
 
 	**Cite**:
 
@@ -24020,13 +24023,14 @@ décision.
 
 ###### Article L422-8
 
-Lorsque la commune comprend moins de 10 000 habitants ou lorsque l'établissement public de coopération intercommunale
-compétent groupe des communes dont la population totale est inférieure à 20 000 habitants, le maire ou le président de
-l'établissement public compétent peut disposer gratuitement des services déconcentrés de l'Etat pour l'étude technique de
-celles des demandes de permis ou des déclarations préalables qui lui paraissent justifier l'assistance technique de ces
-services. Pendant la durée de cette mise à disposition, les services et les personnels agissent en concertation avec le maire
-ou le président de l'établissement public qui leur adresse toutes instructions nécessaires pour l'exécution des tâches qu'il
-leur confie.
+Lorsque la commune comprend moins de 10 000 habitants                     et ne fait pas partie d'un établissement public de
+coopération intercommunale regroupant 10 000 habitants ou plus, ou lorsque l'établissement public de coopération
+intercommunale compétent regroupe des communes dont la population totale est inférieure à 10 000 habitants, le maire ou le
+président de l'établissement public compétent peut disposer gratuitement des services déconcentrés de l'Etat pour l'étude
+technique de celles des demandes de permis ou des déclarations préalables qui lui paraissent justifier l'assistance technique
+de ces services. Pendant la durée de cette mise à disposition, les services et les personnels agissent en concertation avec
+le maire ou le président de l'établissement public qui leur adresse toutes instructions nécessaires pour l'exécution des
+tâches qu'il leur confie. 
 
 En outre, une assistance juridique et technique ponctuelle peut être gratuitement apportée par les services déconcentrés de
 l'Etat, pour l'instruction des demandes de permis, à toutes les communes et établissements publics de coopération
@@ -24034,13 +24038,20 @@ intercommunale compétents.
 
 **Nota:**
 
+Aux termes de l'article 134 III de la loi n° 2014-366 du 24 mars 2014, ces dispositions entrent en vigueur le 1er juillet
+2015. Toutefois, lorsque les seuils mentionnés au même premier alinéa sont dépassés en raison de la création, après le 1er
+juillet 2015, d'un nouvel établissement de coopération intercommunale de 10 000 habitants ou plus, la mise à disposition ne
+peut pas prendre fin avant un délai d'un an à compter de la création de cet établissement.
 
+Une convention entre l'Etat et la collectivité territoriale définit l'étendue et les modalités de cette mise à disposition
+des services déconcentrés de l'Etat. Pour les collectivités qui sont tenues de mettre fin au recours à la mise à disposition
+des services de l'Etat, une convention de transition peut être établie pour définir les modalités d'accompagnement de l'Etat.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+	  - Loi n°2014-366 du 24 mars 2014 - art. 134 (V)
 
 	**Cité par**:
 
@@ -29879,33 +29890,57 @@ occupation temporaire ou saisonnière à usage de loisir.
 
 ###### Article R*111-32
 
-Les habitations légères de loisirs peuvent être implantées : 
+I. - Les habitations légères de loisirs peuvent être implantées dans :
 
-1° Dans les parcs résidentiels de loisirs spécialement aménagés à cet effet ; 
+- les parcs résidentiels de loisirs spécialement aménagés à cet effet ;
 
-2° Dans les terrains de camping régulièrement créés, sous réserve que leur nombre soit inférieur à trente-cinq lorsque le
-terrain comprend moins de 175 emplacements ou à 20 % du nombre total d'emplacements dans les autres cas ; 
+- les villages de vacances classés en hébergement léger en application du code du tourisme ;
 
-3° Dans les villages de vacances classés en hébergement léger au sens du code du tourisme ; 
+- les dépendances des maisons familiales de vacances agréées en application du code du tourisme ;
 
-4° Dans les dépendances des maisons familiales de vacances agréées au sens du code du tourisme.
+- les terrains de camping régulièrement créés, à l'exception de ceux créés par une déclaration préalable ou créés sans
+autorisation d'aménager, par une déclaration en mairie, sur le fondement des dispositions du code de l'urbanisme dans leur
+rédaction antérieure au 1er octobre 2007 ou constituant des aires naturelles de camping.
+
+II. - Dans les terrains de camping définis au I où l'implantation d'habitations légères de loisirs est permise, leur nombre
+doit, en outre, demeurer inférieur soit à trente-cinq lorsque le terrain comprend moins de 175 emplacements, soit à 20 % du
+nombre total d'emplacements dans les autres cas.
+
+III. - Auvents, rampes d'accès et terrasses amovibles peuvent être accolés aux habitations légères de loisirs situées dans
+l'enceinte des lieux définis au I où leur implantation est permise. Ces installations accessoires, qui ne doivent pas être
+tenues au sol par scellement ou toute autre fixation définitive, doivent pouvoir être, à tout moment, facilement et
+rapidement démontables.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-1214 du 29 septembre 2011 - art. 1
+	  - Décret n°2015-482 du 27 avril 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Cite**:
+
+	  - Code du tourisme.
+	  - Code de l'urbanisme
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. *R421-2 (V)
 	  - Code de l'urbanisme - art. R*111-32-1 (VT)
-	  - Code de l'urbanisme - art. R*111-34 (V)
+	  - Code de l'urbanisme - art. R*111-34 (VT)
 	  - Code de l'urbanisme - art. R*421-8-2 (V)
 	  - Code de l'urbanisme - art. R421-11 (VD)
 	  - Code de l'urbanisme - art. R421-9 (V)
 	  - Code de l'urbanisme - art. R443-1 (V)
 	  - Code du tourisme. - art. D333-3 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R111-38 (V)
+	  - Code de l'urbanisme - art. R111-39 (V)
 
 	**Codifié par**:
 
@@ -29918,19 +29953,31 @@ En dehors des emplacements prévus à l'article R. 111-32, l'implantation des ha
 droit commun des constructions. 
 
 Il en est de même en cas d'implantation d'une habitation légère de loisirs sur un emplacement situé à l'intérieur du
-périmètre d'un terrain, village de vacances ou maison familiale mentionné aux 2° à 4° de l'article R. 111-32 qui a fait
-l'objet d'une cession en pleine propriété, de la cession de droits sociaux donnant vocation à son attribution en propriété ou
-en jouissance ou d'une location pour une durée supérieure à deux ans.
+périmètre   d'un terrain de camping, village de vacances ou maison familiale mentionné aux 2° à 4° de l'article R. 111-32 qui
+a fait l'objet d'une cession en pleine propriété, de la cession de droits sociaux donnant vocation à son attribution en
+propriété ou en jouissance ou d'une location pour une durée supérieure à deux ans.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1214 du 29 septembre 2011 - art. 1
+	  - Décret n°2015-482 du 27 avril 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. R*111-32
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*111-34-2 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R111-40 (V)
 
 
 ##### Sous-section 2 : Résidences mobiles de loisirs.
@@ -29970,32 +30017,48 @@ traction mais que le code de la route interdit de faire circuler.
 
 ###### Article R*111-34
 
-Les résidences mobiles de loisirs ne peuvent être installées que : 
+I.-Les résidences mobiles de loisirs ne peuvent être installées que dans :
 
-1° Dans les parcs résidentiels de loisirs mentionnés au 1° de l'article R. 111-32, à l'exception des terrains créés après le
-1er octobre 2007 et exploités par cession d'emplacements ou par location d'emplacements d'une durée supérieure à un an
-renouvelable ; 
+- les parcs résidentiels de loisirs mentionnés au I de l'article R. 111-32, autres que ceux créés après le 1er octobre 2007
+et exploités par cession d'emplacements ou par location d'emplacements d'une durée supérieure à un an ;
 
-2° Dans les terrains de camping régulièrement créés ; 
+- les villages de vacances classés en hébergement léger en application du code du tourisme ;
 
-3° Dans les villages de vacances classés en hébergement léger au sens du code du tourisme.
+- les terrains de camping régulièrement créés, à l'exception de ceux créés par une déclaration préalable ou créés sans
+autorisation d'aménager, par une déclaration en mairie, sur le fondement des dispositions du code de l'urbanisme dans leur
+rédaction antérieure au 1er octobre 2007 ou constituant des aires naturelles de camping. 
+
+II.-Auvents, rampes d'accès et terrasses amovibles peuvent être accolés aux résidences mobiles de loisirs situées dans
+l'enceinte des lieux définis au I où leur installation est permise. Ces installations accessoires, qui ne doivent pas être
+tenues au sol par scellement ou toute autre fixation définitive, doivent pouvoir être, à tout moment, facilement et
+rapidement démontables.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2011-1214 du 29 septembre 2011 - art. 1
 
 	**Cité par**:
 
 	  - Arrêté du 17 février 2014 - art. Annexe II (VD)
 	  - Code de l'urbanisme - art. *R421-19 (M)
 	  - Code de l'urbanisme - art. R*111-34-1 (VT)
-	  - Code de l'urbanisme - art. R*421-8-2 (VD)
+	  - Code de l'urbanisme - art. R*421-8-2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2015-482 du 27 avril 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R*111-32 (V)
+	  - Code du tourisme.
+	  - Code de l'urbanisme - art. R*111-32 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R111-42 (V)
+	  - Code de l'urbanisme - art. R111-43 (V)
 
 	**Codifié par**:
 
@@ -30004,24 +30067,33 @@ renouvelable ;
 
 ###### Article R*111-34-1
 
-Les résidences mobiles de loisirs ne peuvent être installées sur un emplacement situé à l'intérieur du périmètre d'un
-terrain, village de vacances ou maison familiale mentionné au 2° et au 3° de l'article R. 111-34 ayant fait l'objet d'une
-cession en pleine propriété, de la cession de droits sociaux donnant vocation à son attribution en propriété ou en jouissance
-ou d'une location pour une durée supérieure à deux ans.
+Les résidences mobiles de loisirs ne peuvent être installées sur un emplacement situé à l'intérieur du périmètre d'un terrain
+de camping ou d'un village de vacances mentionné au I de l'article R. 111-34 ayant fait l'objet d'une cession en pleine
+propriété, de la cession de droits sociaux donnant vocation à son attribution en propriété ou en jouissance ou d'une location
+pour une durée supérieure à deux ans.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-1214 du 29 septembre 2011 - art. 1
 
 	**Cité par**:
 
 	  - Arrêté du 17 février 2014 - art. Annexe II (VD)
+	  - Code de l'urbanisme - art. R*111-34-2 (VT)
+
+	**Modifié par**:
+
+	  - Décret n°2015-482 du 27 avril 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. R*111-34
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R111-44 (V)
 
 
 ###### Article R*111-34-2
@@ -30307,13 +30379,17 @@ nature, des paysages et des sites, par l'autorité compétente définie aux arti
 mer et dans les sites inscrits en application de l'article L. 341-1 du code de l'environnement ; 
 
 2° Sauf dérogation accordée par l'autorité administrative après avis de la commission départementale de la nature, des
-paysages et des sites, dans les sites classés en application de l'article L. 341-2 du code de l'environnement ; 
+paysages et des sites, dans les sites classés ou en instance de classement en application de l'article L. 341-2 du code de
+l'environnement ; 
 
-3° Sauf dérogation accordée dans les mêmes conditions qu'au 1°, dans les secteurs sauvegardés créés en application de
-l'article L. 313-1, dans le champ de visibilité des édifices classés ou inscrits au titre des monuments historiques et des
-parcs et jardins classés ou inscrits ayant fait l'objet d'un périmètre de protection délimité dans les conditions fixées à
-l'article L. 621-30 du code du patrimoine et dans les zones de protection du patrimoine architectural, urbain et paysager ou
-dans les aires de mise en valeur de l'architecture et du patrimoine ; 
+3° Sauf dérogation accordée dans les mêmes conditions que celles définies au 1°, dans les secteurs sauvegardés créés en
+application de l'article L. 313-1, dans le champ de visibilité des édifices classés au titre des monuments historiques et des
+parcs et jardins classés ou inscrits et ayant fait l'objet d'un périmètre de protection délimité dans les conditions prévues
+à l'article L. 621-30 du code du patrimoine ainsi que dans les aires de mise en valeur de l'architecture et du patrimoine ou,
+lorsqu'elles subsistent, dans les zones de protection du patrimoine architectural, urbain et paysager et dans les zones de
+protection mentionnées à l'article L. 642-9 du code du patrimoine, établies sur le fondement des articles 17 à 20 de la loi
+du 2 mai 1930 ayant pour objet de réorganiser la protection des monuments naturels et des sites de caractère artistique,
+historique, scientifique, légendaire ou pittoresque ; 
 
 4° Sauf dérogation accordée, après avis favorable du conseil départemental de l'environnement et des risques sanitaires et
 technologiques, par l'autorité compétente définie aux articles L. 422-1 et L. 422-2, dans un rayon de 200 mètres autour des
@@ -30324,7 +30400,11 @@ application de l'article L. 1321-2 du code de la santé publique.
 
 	**Modifié par**:
 
-	  - Décret n°2014-1314 du 31 octobre 2014 - art. 28
+	  - Décret n°2015-482 du 27 avril 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 	**Cite**:
 
@@ -30333,12 +30413,18 @@ application de l'article L. 1321-2 du code de la santé publique.
 	  - Code de l'urbanisme - art. L422-1
 	  - Code de l'environnement - art. L341-1
 	  - Code de l'environnement - art. L341-2
-	  - Code du patrimoine - art. L621-30-1
+	  - Code du patrimoine - art. L621-30
+	  - Code du patrimoine - art. L642-9
+	  - Loi du 2 mai 1930 - art. 17
 
 	**Cité par**:
 
 	  - Code de l'environnement - art. R365-2 (M)
 	  - Code de l'urbanisme - art. R*111-38 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R111-33 (M)
 
 	**Codifié par**:
 
@@ -30478,7 +30564,39 @@ publique et du tourisme.
 	  - Décret n°73-1023 1973-11-08
 
 
+#####  Section 5 : Dispositions relatives aux résidences démontables constituant l'habitat permanent de leurs utilisateurs
+
+###### Article R*111-46-1
+
+Sont regardées comme des résidences démontables constituant l'habitat permanent de leurs utilisateurs les installations sans
+fondation disposant d'équipements intérieurs ou extérieurs et pouvant être autonomes vis-à-vis des réseaux publics. Elles
+sont destinées à l'habitation et occupées à titre de résidence principale au moins huit mois par an. Ces résidences ainsi que
+leurs équipements extérieurs sont, à tout moment, facilement et rapidement démontables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-482 du 27 avril 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. *R421-19 (M)
+	  - Code de l'urbanisme - art. *R421-23 (VD)
+	  - Code de l'urbanisme - art. R*441-6-1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R111-51 (V)
+
+
 #####  Section 5 : Prise en considération d'un projet de travaux publics ou d'une opération d'aménagement en application de l'article L. 111-10.
+
+#####  Section 6 : Prise en considération d'un projet de travaux publics ou d'une opération d'aménagement en application de l'article L. 111-10.
 
 ###### Article R*111-47
 
@@ -30521,6 +30639,8 @@ effectué.
 
 
 #####  Section 6 : Etude de sécurité publique
+
+#####  Section 7 : Etude de sécurité publique
 
 ###### Article R111-48
 
@@ -30642,6 +30762,8 @@ plus de 10 % de l'emprise au sol ou modifiant les accès sur la voie publique.
 
 
 #####  Section 7 : Dispositions favorisant la performance environnementale et les énergies renouvelables dans les constructions
+
+##### Section 8 : Dispositions favorisant la performance environnementale et les énergies renouvelables dans les constructions
 
 ###### Article R*111-50-1
 
@@ -33779,12 +33901,15 @@ espaces agricoles et naturels périurbains ;
 16° Les secteurs où un dépassement des règles du plan local d'urbanisme est autorisé en application des articles L. 123-1-11,
 L. 127-1, L. 128-1 et L. 128-2 ; 
 
-17° Les périmètres fixés par les conventions de projet urbain partenarial visées à l'article L. 332-11-3 ; 
+17° Les périmètres délimités par une délibération du conseil municipal ou de l'organe délibérant de l'établissement public de
+coopération intercommunale compétent ou par arrêté préfectoral en application du II de l'article L. 332-11-3 ainsi que les
+périmètres fixés par les conventions de projet urbain partenarial mentionnées à l'article L. 332-11-3 ; 
 
 18° Les périmètres délimités par une délibération du conseil municipal ou de l'organe délibérant de l'établissement public de
 coopération intercommunale compétent dans lesquels le premier alinéa de l'article L. 111-6-2 ne s'applique pas ; 
 
-19° Le périmètre des secteurs relatifs au taux de la taxe d'aménagement, en application de l'article L. 331-14 et L. 331-15 ;
+19° Le périmètre des secteurs relatifs au taux de la taxe d'aménagement, en application de l'article L. 331-14 et L.
+331-15 ; 
 
 20° Le périmètre des secteurs affectés par un seuil minimal de densité, en application de l'article L. 331-36
 
@@ -33792,9 +33917,6 @@ coopération intercommunale compétent dans lesquels le premier alinéa de l'art
 
 Les articles L. 430-1 à L. 430-9 du code de l'urbanisme ont été abrogés par l'article 15 II de l'ordonnance n° 2005-1527 du 8
 décembre 2005.
-
-Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
-déposées à compter du 1er avril 2014.
 
 **Liens relatifs à cet article**
 
@@ -33812,8 +33934,6 @@ déposées à compter du 1er avril 2014.
 	  - Code de l'urbanisme - art. L143-1
 	  - Code de l'urbanisme - art. L211-1
 	  - Code de l'urbanisme - art. L313-1
-	  - Code de l'urbanisme - art. L331-14
-	  - Code de l'urbanisme - art. L331-36
 	  - Code de l'urbanisme - art. L332-11-3
 	  - Code de l'urbanisme - art. L332-9
 	  - Code de l'urbanisme - art. L430-1
@@ -33821,7 +33941,7 @@ déposées à compter du 1er avril 2014.
 
 	**Modifié par**:
 
-	  - Décret n°2014-253 du 27 février 2014 - art. 1
+	  - Décret n°2015-482 du 27 avril 2015 - art. 2
 
 	**Cité par**:
 
@@ -49400,26 +49520,6 @@ impositions dont la délivrance du permis ou la non-opposition à une déclarati
 	  - Décret n°73-1023 1973-11-08
 
 
-###### Article R*332-28
-
-Un arrêté du ministre chargé de l'urbanisme fixe les modèles nationaux des fiches de liquidation des impositions dont la
-délivrance du permis ou la non-opposition à une déclaration préalable constitue le fait générateur.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2015-482 du 27 avril 2015 - art. 3
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 6 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
-
 #####  Section 5 : Dispositions diverses
 
 ###### Article R*332-42
@@ -51777,8 +51877,8 @@ a) Les constructions nouvelles répondant aux critères cumulatifs suivants :
 
 - une surface de plancher inférieure ou égale à cinq mètres carrés ; 
 
-b) Les habitations légères de loisirs implantées dans les emplacements mentionnés aux 1° à 4° de l'article R. 111-32 et dont
-la surface de plancher est inférieure ou égale à trente-cinq mètres carrés ; 
+b) Les habitations légères de loisirs implantées dans les emplacements mentionnés au I de l'article R. 111-32 et dont la
+surface de plancher est inférieure ou égale à trente-cinq mètres carrés ; 
 
 c) Les éoliennes terrestres dont la hauteur du mât et de la nacelle au-dessus du sol est inférieure à douze mètres ainsi que
 les ouvrages de production d'électricité à partir de l'énergie solaire installés sur le sol dont la puissance crête est
@@ -51806,16 +51906,11 @@ l) Les fosses nécessaires à l'activité agricole dont le bassin a une superfic
 
 m) Les travaux de ravalement, en dehors des cas prévus à l'article R. 421-17-1.
 
-**Nota:**
-
-Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
-déposées à compter du 1er avril 2014.
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2014-253 du 27 février 2014 - art. 4
+	  - Décret n°2015-482 du 27 avril 2015 - art. 4
 
 	**Cité par**:
 
@@ -51829,7 +51924,7 @@ déposées à compter du 1er avril 2014.
 	**Cite**:
 
 	  - Code de l'urbanisme - art. R*111-32
-	  - Code de l'urbanisme - art. R421-12
+	  - Code de l'urbanisme - art. R*421-17-1
 
 
 ###### Article *R421-3
@@ -52049,6 +52144,29 @@ celles utilisant l'énergie thermique des mers.
 	  - Code de l'urbanisme - art. L421-5 (V)
 
 
+###### Article R*421-8-2
+
+Sont dispensés de toute formalité au titre du présent code, en raison de leur caractère amovible, les auvents, rampes d'accès
+et terrasses accolés :
+
+- aux habitations légères de loisirs implantées dans l'enceinte des lieux définis au I de l'article R. 111-32 où leur
+implantation est permise ;
+
+- aux résidences mobiles de loisirs installées dans l'enceinte des lieux définis au I de l'article R. 111-34 où leur
+installation est permise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-482 du 27 avril 2015 - art. 4
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*111-32
+	  - Code de l'urbanisme - art. R*111-34
+
+
 ##### Sous-section 3 : Constructions nouvelles soumises à déclaration préalable
 
 ###### Article R*421-10
@@ -52264,8 +52382,8 @@ c) Les murs, quelle que soit leur hauteur.
 
 II.-En outre, dans les sites classés ou en instance de classement, doivent être précédés d'une déclaration préalable : 
 
-a) Les habitations légères de loisirs implantées dans les emplacements mentionnés aux 1° à 4° de l'article R. 111-32, quelle
-que soit leur surface de plancher ; 
+a) Les habitations légères de loisirs implantées dans les emplacements mentionnés au I de l'article R. 111-32, quelle que
+soit leur surface de plancher ; 
 
 b) Les éoliennes terrestres dont la hauteur du mât et de la nacelle au-dessus du sol est inférieure à douze mètres ; 
 
@@ -52287,11 +52405,6 @@ h) Les plates-formes nécessaires à l'activité agricole ;
 i) Les fosses nécessaires à l'activité agricole dont le bassin a une superficie supérieure à dix mètres carrés et inférieure
 ou égale à cent mètres carrés.
 
-**Nota:**
-
-Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
-déposées à compter du 1er avril 2014.
-
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -52308,16 +52421,16 @@ déposées à compter du 1er avril 2014.
 
 	**Modifié par**:
 
-	  - Décret n°2014-253 du 27 février 2014 - art. 4
+	  - Décret n°2015-482 du 27 avril 2015 - art. 4
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*111-32
+	  - Code de l'environnement - art. L331-2
 
 	**Anciens textes**:
 
 	  - Code de l'urbanisme - art. R421-10-1 (T)
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L331-2
-	  - Code de l'environnement - art. R331-4
 
 
 #####  Section 2 : Dispositions applicables aux travaux exécutés sur des constructions existantes et aux changements de destination de ces constructions
@@ -52511,12 +52624,14 @@ c) Dans les secteurs sauvegardés dont le plan de sauvegarde et de mise en valeu
 sauvegarde et de mise en valeur a été mis en révision, les travaux effectués à l'intérieur des immeubles ; 
 
 d) Les travaux exécutés sur des constructions existantes ayant pour effet de modifier ou de supprimer un élément que le plan
-local d'urbanisme ou un document d'urbanisme en tenant lieu a identifié, en application du 7° de l'article L. 123-1-5, comme
-présentant un intérêt patrimonial ou paysager ; 
+local d'urbanisme ou un document d'urbanisme en tenant lieu a identifié, en application du 2° du III de l'article L. 123-1-5,
+comme présentant un intérêt d'ordre culturel, historique, architectural ou écologique ; 
 
-e) Les travaux exécutés sur des constructions existantes ayant pour effet, dans une commune non couverte par un plan local
-d'urbanisme, de modifier ou de supprimer un élément, qu'une délibération du conseil municipal, prise après enquête publique,
-a identifié comme présentant un intérêt patrimonial ou paysager ; 
+e) Les travaux exécutés sur des constructions existantes ayant pour effet, lorsque ces constructions sont situées sur un
+territoire non couvert par un plan local d'urbanisme ou par un document d'urbanisme en tenant lieu, de modifier ou de
+supprimer un élément identifié comme présentant un intérêt patrimonial, paysager ou écologique, en application de l'article
+L. 111-1-6, par une délibération du conseil municipal, prise après l'accomplissement de l'enquête publique prévue à ce même
+article ; 
 
 f) Les travaux qui ont pour effet la création soit d'une emprise au sol, soit d'une surface de plancher supérieure à cinq
 mètres carrés et qui répondent aux critères cumulatifs suivants :
@@ -52528,15 +52643,10 @@ mètres carrés et qui répondent aux critères cumulatifs suivants :
 Ces seuils sont portés à quarante mètres carrés pour les projets situés en zone urbaine d'un plan local d'urbanisme ou d'un
 document d'urbanisme en tenant lieu, à l'exclusion de ceux impliquant la création d'au moins vingt mètres carrés et d'au plus
 quarante mètres carrés de surface de plancher ou d'emprise au sol lorsque cette création conduit au dépassement de l'un des
-seuils fixés à l'article R*431-2 du présent code.
+seuils fixés à l'article R*431-2 du présent code. 
 
 g) La transformation de plus de cinq mètres carrés de surface close et couverte non comprise dans la surface de plancher de
 la construction en un local constituant de la surface de plancher.
-
-**Nota:**
-
-Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
-déposées à compter du 1er avril 2014.
 
 **Liens relatifs à cet article**
 
@@ -52551,10 +52661,11 @@ déposées à compter du 1er avril 2014.
 
 	**Modifié par**:
 
-	  - Décret n°2014-253 du 27 février 2014 - art. 4
+	  - Décret n°2015-482 du 27 avril 2015 - art. 4
 
 	**Cite**:
 
+	  - Code de l'urbanisme - art. L111-1-6
 	  - Code de l'urbanisme - art. L123-1-5
 	  - Code de l'urbanisme - art. R*123-9
 	  - Code de l'urbanisme - art. R*421-14
@@ -52666,9 +52777,10 @@ b) Les remembrements réalisés par une association foncière urbaine libre rég
 lorsqu'ils prévoient la réalisation de voies ou espaces communs ; 
 
 c) La création ou l'agrandissement d'un terrain de camping permettant l'accueil de plus de vingt personnes ou de plus de six
-tentes, caravanes ou résidences mobiles de loisirs ; 
+hébergements de loisirs constitués de tentes, de caravanes, de résidences mobiles de loisirs ou d'habitations légères de
+loisirs ; 
 
-d) La création ou l'agrandissement d'un parc résidentiel de loisirs prévu au 1° de l'article R. 111-34 ou d'un village de
+d) La création ou l'agrandissement d'un parc résidentiel de loisirs prévu au I de l'article R. 111-34 ou d'un village de
 vacances classé en hébergement léger prévu par l'article L. 325-1 du code du tourisme ; 
 
 e) Le réaménagement d'un terrain de camping ou d'un parc résidentiel de loisirs existant, lorsque ce réaménagement a pour
@@ -52688,14 +52800,26 @@ dépôts de véhicules et les garages collectifs de caravanes ou de résidences 
 
 k) A moins qu'ils ne soient nécessaires à l'exécution d'un permis de construire, les affouillements et exhaussements du sol
 dont la hauteur, s'il s'agit d'un exhaussement, ou la profondeur dans le cas d'un affouillement, excède deux mètres et qui
-portent sur une superficie supérieure ou égale à deux hectares.
+portent sur une superficie supérieure ou égale à deux hectares ; 
 
-**Nota:**
+l) L'aménagement de terrains bâtis ou non bâtis prévu à l'article L. 444-1, destinés aux aires d'accueil et aux terrains
+familiaux des gens du voyage, permettant l'installation de plus de deux résidences mobiles mentionnées à l'article 1er de la
+loi n° 2000-614 du 5 juillet 2000 relative à l'accueil et à l'habitat des gens du voyage, constituant l'habitat permanent des
+gens du voyage ; 
 
-Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
-déposées à compter du 1er avril 2014.
+m) L'aménagement de terrains bâtis ou non bâtis pour permettre l'installation d'au moins deux résidences démontables créant
+une surface de plancher totale supérieure à quarante mètres carrés, définies à l'article R. 111-46-1 et constituant l'habitat
+permanent de leurs utilisateurs.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2000-614 du 5 juillet 2000 - art. 1
+	  - Code du tourisme. - art. L325-1
+	  - Code de l'urbanisme - art. L444-1
+	  - Code de l'urbanisme - art. R*111-34
+	  - Code de l'urbanisme - art. R*111-46-1
 
 	**Cité par**:
 
@@ -52727,12 +52851,7 @@ déposées à compter du 1er avril 2014.
 
 	**Modifié par**:
 
-	  - Décret n°2014-253 du 27 février 2014 - art. 4
-
-	**Cite**:
-
-	  - Code du tourisme. - art. L325-1
-	  - Code de l'urbanisme - art. R*111-34
+	  - Décret n°2015-482 du 27 avril 2015 - art. 4
 
 	**Liens**:
 
@@ -52898,7 +53017,7 @@ du tourisme ;
 - sur un emplacement d'un terrain de camping, d'un village de vacances classé en hébergement léger au sens du code du
 tourisme ou d'une dépendance de maison familiale de vacances agréée au sens du code du tourisme qui a fait l'objet d'une
 cession en pleine propriété, de la cession de droits sociaux donnant vocation à sa propriété en attribution ou en jouissance
-ou d'une location d'une durée supérieure à deux ans renouvelable. 
+ou d'une location d'une durée supérieure à deux ans. 
 
 Pour le calcul de la durée de trois mois par an mentionnée au cinquième alinéa, toutes les périodes de stationnement,
 consécutives ou non, sont prises en compte ; 
@@ -52913,32 +53032,42 @@ portent sur une superficie supérieure ou égale à cent mètres carrés ;
 g) Les coupes ou abattages d'arbres dans les cas prévus par l'article L. 130-1 ; 
 
 h) Les travaux ayant pour effet de modifier ou de supprimer un élément que le plan local d'urbanisme ou un document
-d'urbanisme en tenant lieu a identifié, en application du 7° de l'article L. 123-1-5, comme présentant un intérêt patrimonial
-ou paysager ; 
+d'urbanisme en tenant lieu a identifié, en application du 2° du III de l'article L. 123-1-5, comme présentant un intérêt
+d'ordre culturel, historique, architectural ou écologique ; 
 
-i) Les travaux autres que ceux exécutés sur des constructions existantes ayant pour effet, dans une commune non couverte par
-un plan local d'urbanisme, de modifier ou de supprimer un élément, qu'une délibération du conseil municipal, prise après
-enquête publique, a identifié comme présentant un intérêt patrimonial ou paysager ; 
+i) Les travaux autres que ceux exécutés sur des constructions existantes ayant pour effet, lorsqu'ils ont lieu sur un
+territoire non couvert par un plan local d'urbanisme ou par un document d'urbanisme en tenant lieu, de modifier ou de
+supprimer un élément identifié comme présentant un intérêt patrimonial, paysager ou écologique, en application de l'article
+L. 111-1-6, par une délibération du conseil municipal, prise après l'accomplissement de l'enquête publique prévue à ce même
+article ; 
 
 j) L'installation d'une résidence mobile visée par l'article 1er de la loi n° 2000-614 du 5 juillet 2000 relative à l'accueil
 et à l'habitat des gens du voyage, constituant l'habitat permanent des gens du voyage, lorsque cette installation dure plus
 de trois mois consécutifs ; 
 
-k) Les aires d'accueil des gens du voyage.
+k) L'aménagement de terrains bâtis ou non bâtis prévu à l'article L. 444-1, destinés aux aires d'accueil et aux terrains
+familiaux des gens du voyage, ne nécessitant pas un permis d'aménager en application de l'article R. 421-19 ; 
+
+l) L'aménagement de terrains bâtis ou non bâtis pour permettre l'installation de plusieurs résidences démontables définies à
+l'article R. 111-46-1, créant une surface de plancher totale inférieure ou égale à quarante mètres carrés, constituant
+l'habitat permanent de leurs occupants et ne nécessitant pas un permis d'aménager en application de l'article R. 421-19.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°2000-614 du 5 juillet 2000 - art. 1
-	  - Code de l'urbanisme - art. *R421-19
+	  - Code de l'urbanisme - art. *R421-19 (VD)
+	  - Code de l'urbanisme - art. L111-1-6
 	  - Code de l'urbanisme - art. L111-5-2
 	  - Code de l'urbanisme - art. L123-1-5
 	  - Code de l'urbanisme - art. L130-1
+	  - Code de l'urbanisme - art. L444-1
+	  - Code de l'urbanisme - art. R*111-46-1
 
 	**Modifié par**:
 
-	  - Décret n°2013-142 du 14 février 2013 - art. 11
+	  - Décret n°2015-482 du 27 avril 2015 - art. 4
 
 	**Cité par**:
 
@@ -53124,24 +53253,26 @@ b) Inscrite au titre des monuments historiques ;
 c) Située dans le champ de visibilité d'un immeuble classé ou inscrit au titre des monuments historiques mentionné à
 l'article L. 621-30 du code du patrimoine, adossée, au sens du même article, à un immeuble classé au titre des monuments
 historiques, ou située dans une zone de protection du patrimoine architectural, urbain et paysager ou dans une aire de mise
-en valeur de l'architecture et du patrimoine ;
+en valeur de l'architecture et du patrimoine ; 
 
 d) Située dans un site inscrit ou un site classé ou en instance de classement en application des articles L. 341-1 et L.
 341-2 du code de l'environnement ; 
 
-e) Identifiée comme devant être protégée par un plan local d'urbanisme, en application du 7° de l'article L. 123-1-5, située
-dans un périmètre délimité par le plan en application du même article ou, dans une commune non dotée d'un plan local
-d'urbanisme ou d'un document d'urbanisme en tenant lieu, identifiée par délibération du conseil municipal, prise après
-enquête publique, comme constituant un élément de patrimoine ou de paysage à protéger et à mettre en valeur.
+e) Identifiée comme devant être protégée en étant située à l'intérieur d'un périmètre délimité par un plan local d'urbanisme
+ou un document d'urbanisme en tenant lieu en application du 2° du III de l'article L. 123-1-5, ou, lorsqu'elle est située sur
+un territoire non couvert par un plan local d'urbanisme ou un document d'urbanisme en tenant lieu, identifiée comme
+présentant un intérêt patrimonial, paysager ou écologique, en application de l'article L. 111-1-6, par une délibération du
+conseil municipal prise après l'accomplissement de l'enquête publique prévue à ce même article.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2014-1314 du 31 octobre 2014 - art. 29
+	  - Décret n°2015-482 du 27 avril 2015 - art. 4
 
 	**Cite**:
 
+	  - Code de l'urbanisme - art. L111-1-6
 	  - Code de l'urbanisme - art. L123-1-5
 	  - Code de l'urbanisme - art. L313-1
 	  - Code de l'environnement - art. L341-1
@@ -53241,16 +53372,24 @@ d'évocation par le ministre chargé de la protection de la nature ou par le min
 espaces protégés ; 
 
 e) En cas de désaccord entre le maire et le responsable du service de l'Etat dans le département chargé de l'instruction
-mentionné à l'article R. 423-16. 
+mentionné à l'article R. 423-16 ; 
+
+f) Pour les ouvrages, constructions ou installations mentionnés à l'article L. 2124-18 du code général de la propriété des
+personnes publiques ; 
+
+g) Pour les constructions à usage de logement situées dans les secteurs arrêtés par le préfet en application du deuxième
+alinéa de l'article L. 302-9-1 du code de la construction et de l'habitation. 
 
 Le préfet peut déléguer sa signature au responsable du service de l'Etat dans le département chargé de l'instruction ou à ses
 subordonnés, sauf dans le cas prévu au e ci-dessus.
 
+**Nota:**
+
+Conformément à l'article 8 du décret n° 2015-482 du 27 avril 2015, les dispositions de l'article R. 422-2, dans leur
+rédaction résultant du 8° de l'article 4 du présent décret, ne s'appliquent qu'aux demandes d'autorisation déposées à compter
+du 1er juillet 2015.
+
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2010-304 du 22 mars 2010 - art. 5
 
 	**Cité par**:
 
@@ -53262,11 +53401,17 @@ subordonnés, sauf dans le cas prévu au e ci-dessus.
 	  - Code de l'urbanisme - art. R473-6 (V)
 	  - Code de l'éducation - art. R211-6 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2015-482 du 27 avril 2015 - art. 4
+
 	**Cite**:
 
+	  - Code général de la propriété des personnes publiques. - art. L2124-18
 	  - Code de l'urbanisme - art. L422-1
 	  - Code de l'urbanisme - art. L422-2
 	  - Code de l'urbanisme - art. R*423-16
+	  - Code de la construction et de l'habitation. - art. L302-9-1
 
 
 ###### Article R*422-2-1
@@ -54574,6 +54719,25 @@ déposées à compter du 1er avril 2014.
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R*423-38-1
+
+Lorsque le permis de construire vaut autorisation d'exploitation commerciale, l'indication, le cas échéant, par le
+secrétariat de la commission départementale d'aménagement commercial au maire concerné des pièces manquant au dossier de
+demande d'autorisation d'exploitation commerciale mentionné à l'article R. 431-33-1 et la transmission par le maire de ces
+pièces sont effectuées dans les délais et selon les modalités prévus à l'article R. 752-10 du code de commerce.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-482 du 27 avril 2015 - art. 4
+
+	**Cite**:
+
+	  - Code de commerce - art. R752-10
+	  - Code de l'urbanisme - art. R*431-33-1
+
+
 ###### Article R*423-39
 
 L'envoi prévu à l'article R. 423-38 précise : 
@@ -54697,10 +54861,17 @@ grande hauteur avec les règles de sécurité.
 
 ###### Article *R423-44-1
 
-Lorsque la délivrance du permis est subordonnée, en application de l'article L. 212-7 du code du cinéma et de l'image animée,
-à une autorisation de création, d'extension ou de réouverture au public d'établissements de spectacles cinématographiques et
-que la demande a fait l'objet d'un refus de la commission départementale compétente, la lettre qui notifie ce refus au
-pétitionnaire l'informe :      ; 
+Lorsque la délivrance du permis est subordonnée, en application de l'
+article L. 212-7 du code du cinéma et de l'image animée
+, à une autorisation de création, d'extension ou de réouverture au public d'établissements de spectacles cinématographiques
+et que la demande a fait l'objet d'un refus de la commission départementale compétente, la lettre qui notifie ce refus au
+pétitionnaire l'informe : 
+
+a) Que, dans le cas où un recours serait déposé devant la commission nationale dans le délai d'instruction du permis de
+construire, ce délai d'instruction serait majoré de cinq mois à compter du recours ; 
+
+b) Qu'en cas d'absence de recours ou de rejet du recours, il ne pourra se prévaloir d'un permis tacite en application du g de
+l'article R. 424-2. 
 
 Lorsque le projet relève de l'article L. 425-4 : 
 
@@ -54714,7 +54885,9 @@ d'aménagement commercial ou de confirmation tacite d'un avis défavorable de la
 commercial, il ne pourra pas se prévaloir d'un permis tacite ; 
 
 2° La lettre de notification de la décision de la Commission nationale d'aménagement commercial de se saisir du projet en
-application du V de l'article L. 752-17 du code de commerce informe le demandeur : 
+application du 
+V de l'article L. 752-17 du code de commerce 
+informe le demandeur : 
 
 a) Que le délai d'instruction est prolongé de cinq mois ; 
 
@@ -54722,8 +54895,9 @@ b) Si le permis ne relève pas de la compétence de l'Etat, qu'en cas d'avis dé
 d'aménagement commercial ou de confirmation tacite d'un avis défavorable de la commission départementale d'aménagement
 commercial, il ne pourra pas se prévaloir d'un permis tacite. 
 
-Lorsque le projet a été soumis pour avis à la commission départementale d'aménagement commercial sur le fondement de
-l'article L. 752-4 du code de commerce, la lettre de notification de l'avis de la commission informe le demandeur : 
+Lorsque le projet a été soumis pour avis à la commission départementale d'aménagement commercial sur le fondement de l'
+article L. 752-4 du code de commerce
+, la lettre de notification de l'avis de la commission informe le demandeur : 
 
 a) Qu'en cas de recours devant la Commission nationale d'aménagement commercial, le délai d'instruction sera prolongé de deux
 mois ; 
@@ -54744,13 +54918,15 @@ commercial, il ne pourra pas se prévaloir d'un permis tacite.
 
 	**Modifié par**:
 
-	  - Décret n°2015-165 du 12 février 2015 - art. 2
+	  - Décret n°2015-482 du 27 avril 2015 - art. 4
 
 	**Cite**:
 
-	  - Code de commerce - art. L752-1
-	  - Code de l'industrie cinématographique - art. 30-2
+	  - Code de commerce - art. L752-17
+	  - Code de commerce - art. L752-4
+	  - Code de l'urbanisme - art. L425-4
 	  - Code de l'urbanisme - art. R*424-2
+	  - Code du cinéma et de l'image animée - art. L212-7
 
 
 ###### Article *R423-44-2
@@ -56784,21 +56960,26 @@ l'aviation civile et du ministre de la défense.
 ###### Article R*425-10
 
 Lorsque le projet porte sur une construction située le long de la Loire ou d'un de ses affluents mentionnés à l'article L.
-2124-16 du code général de la propriété des personnes publiques, sur un terrain compris entre les digues et la rivière ou sur
-les digues et levées, ou sur les îles, le permis de construire, le permis d'aménager ou la décision prise sur la déclaration
-préalable tient lieu de l'accord prévu à l'article L. 2124-18 du même code dès lors que la décision a fait l'objet de
-l'accord du préfet.
+2124-16 du code général de la propriété des personnes publiques, sur un terrain situé à moins de 19,50 mètres du pied des
+levées du côté du val, le permis de construire, le permis d'aménager ou la décision prise sur la déclaration préalable tient
+lieu d'autorisation préfectorale prise en application de l'article L. 2124-18 du même code.
+
+**Nota:**
+
+Conformément à l'article 8 du décret n° 2015-482 du 27 avril 2015, les dispositions de l'article R.* 425-10, dans leur
+rédaction résultant du 11° de l'article 4 du présent décret, ne s'appliquent qu'aux demandes d'autorisation déposées à
+compter du 1er juillet 2015.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+	  - Décret n°2015-482 du 27 avril 2015 - art. 4
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publ... - art. L2124-16 (V)
-	  - Code général de la propriété des personnes publ... - art. L2124-18 (V)
+	  - Code général de la propriété des personnes publiques. - art. L2124-16
+	  - Code général de la propriété des personnes publiques. - art. L2124-18
 
 	**Codifié par**:
 
@@ -56920,6 +57101,25 @@ l'aménagement intérieur du bâtiment ou de la partie de bâtiment concernée.
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L111-8 (V)
+
+
+###### Article R*425-15-1
+
+Lorsque le projet est soumis à autorisation d'exploitation commerciale en application de l'article L. 752-1 du code de
+commerce, le permis de construire tient lieu d'autorisation d'exploitation commerciale dès lors que la demande de permis a
+fait l'objet d'un avis favorable de la commission départementale d'aménagement commercial, ou de la Commission nationale
+d'aménagement commercial dans les cas et aux conditions fixés par l'article L. 752-17 du code de commerce.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-482 du 27 avril 2015 - art. 4
+
+	**Cite**:
+
+	  - Code de commerce - art. L752-1
+	  - Code de commerce - art. L752-17
 
 
 #####  Section 2 : Opérations pour lesquelles le permis ou la décision prise sur la déclaration préalable est subordonné à un accord prévu par une autre législation
@@ -57173,19 +57373,19 @@ ou par le décret n° 2006-649 du 2 juin 2006 dispense de la déclaration préal
 
 ###### Article R*425-25
 
-Lorsqu'un affouillement ou un exhaussement du sol est soumis à déclaration ou à autorisation en application des chapitres Ier
-et II du titre Ier du livre V ou du chapitre Ier du titre IV du livre V du code de l'environnement, cette déclaration ou
-cette autorisation dispense de la déclaration préalable ou du permis d'aménager.
+Lorsqu'un affouillement ou un exhaussement du sol est soumis à déclaration, enregistrement  ou à autorisation en application
+des chapitres Ier et II du titre Ier du livre V ou du chapitre Ier du titre IV du livre V du code de l'environnement, cette
+déclaration, cet enregistrement  ou cette autorisation dispense de la déclaration préalable ou du permis d'aménager.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2015-482 du 27 avril 2015 - art. 4
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
 ###### Article R*425-26
@@ -57247,19 +57447,18 @@ ou l'autorisation d'occupation de ce domaine dispense de la déclaration préala
 
 ###### Article R*425-29
 
-Lorsque le projet porte sur un dispositif de publicité, une enseigne ou une pré-enseigne, l'autorisation prévue par les
-sections 2 et 3 du chapitre Ier du titre VIII du livre V du code de l'environnement dispense de la déclaration préalable ou
-du permis de construire.
+L'installation de dispositifs de publicité, enseignes ou pré-enseignes, régie par les dispositions du chapitre Ier du titre
+VIII du livre V du code de l'environnement, est dispensée de déclaration préalable ou de permis de construire.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2015-482 du 27 avril 2015 - art. 4
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Créé par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
 
 
 #####  Section 4 : Opérations pour lesquelles la délivrance d'un permis ou la réalisation des travaux est différée dans l'attente de formalités prévues par une autre législation
@@ -57323,13 +57522,13 @@ Pour l'application à Mayotte de l'article R. * 422-2 :
 1° Au premier alinéa, après les mots : " par l'article L. 422-2 ", sont insérés les mots : " et III de l'article 7 de
 l'ordonnance n° 2012-787 du 31 mai 2012 portant extension et adaptation à Mayotte du code de l'urbanisme " ; 
 
-2° Après le sixième aliéna est inséré l'alinéa suivant : 
+2° Après le huitième alinéa est inséré l'alinéa suivant : 
 
-" f) Pour les projets de constructions, installations ou travaux nécessaires à la réalisation des opérations touristiques ou
+" h) Pour les projets de constructions, installations ou travaux nécessaires à la réalisation des opérations touristiques ou
 hôtelières prévues au second alinéa du III de l'article 7 de l'ordonnance n° 2012-787 du 31 mai 2012. " ; 
 
 3° Au dernier alinéa, les mots : " sauf dans le cas prévu au e " sont remplacés par les mots : " sauf dans les cas prévus aux
-e et f ".
+e et h ".
 
 **Liens relatifs à cet article**
 
@@ -57339,9 +57538,9 @@ e et f ".
 	  - Code de l'urbanisme - art. L422-2
 	  - Code de l'urbanisme - art. R*422-2
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-1529 du 28 décembre 2012 - art. 10
+	  - Décret n°2015-482 du 27 avril 2015 - art. 4
 
 
 ###### Article R*427-2
@@ -57545,18 +57744,20 @@ La demande de permis de construire comprend :
 
 a) Les informations mentionnées aux articles R. 431-5 à R. 431-12 ; 
 
-b) Les pièces complémentaires mentionnées aux  articles R. 431-13 à R. * 431-33-1 ; 
+b) Les pièces complémentaires mentionnées aux articles R. 431-13 à R. * 431-33-1 ; 
 
-c) Les informations prévues à l'article R. 431-34. 
+c) Les informations prévues aux articles R. 431-34 et R. 431-34-1. 
 
 Pour l'application des articles R. 423-19 à R. 423-22, le dossier est réputé complet lorsqu'il comprend les informations
-mentionnées au a et au b ci-dessus.
+mentionnées au a et au b ci-dessus. 
+
+Aucune autre information ou pièce ne peut être exigée par l'autorité compétente.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2015-165 du 12 février 2015 - art. 2
+	  - Décret n°2015-482 du 27 avril 2015 - art. 5
 
 	**Cite**:
 
@@ -58222,20 +58423,16 @@ déposées à compter du 1er avril 2014.
 
 ###### Article R*431-23-2
 
-Lorsque les travaux projetés portent sur une construction à édifier dans un périmètre de projet urbain partenarial mentionné
-à l'article L. 332-11-3, la demande est accompagnée d'un extrait de la convention précisant le lieu du projet urbain
-partenarial et la durée d'exonération de la taxe d'aménagement.
-
-**Nota:**
-
-Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
-déposées à compter du 1er avril 2014.
+Lorsque les travaux projetés font l'objet d'une convention de projet urbain partenarial ou portent sur une construction à
+édifier dans un périmètre de projet urbain partenarial mentionné au II de l'article L. 332-11-3, la demande est accompagnée
+d'un extrait de la convention précisant le lieu du projet urbain partenarial et la durée d'exonération de la taxe
+d'aménagement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-253 du 27 février 2014 - art. 5
+	  - Décret n°2015-482 du 27 avril 2015 - art. 5
 
 	**Cite**:
 
@@ -58709,6 +58906,24 @@ d) Les catégories de services collectifs et d'entrepôts.
 	  - Code de l'urbanisme - art. R*434-2 (VD)
 
 
+##### Sous-section 4 : Informations relatives à l'aménagement intérieur des immeubles de logements collectifs
+
+###### Article R*431-34-1
+
+Lorsque le projet porte sur la construction de logements collectifs, le  dossier joint à la demande de permis de construire
+comprend, si le maire  en a fait la demande, le plan intérieur de l'immeuble.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-482 du 27 avril 2015 - art. 5
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*431-36 (V)
+
+
 #####  Section 3 : Déclaration préalable portant sur un projet de construction, sur des travaux sur une construction existante ou sur un changement de destination d'une construction
 
 ###### Article R*431-35
@@ -58728,7 +58943,13 @@ e) Les éléments, fixés par arrêtés, nécessaires au calcul des impositions.
 La déclaration comporte également l'attestation du ou des déclarants qu'ils remplissent les conditions définies à l'article
 R*423-1 pour déposer une déclaration préalable.
 
+Aucune autre information ou pièce ne peut être exigée par l'autorité compétente.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2015-482 du 27 avril 2015 - art. 5
 
 	**Cité par**:
 
@@ -58741,10 +58962,6 @@ R*423-1 pour déposer une déclaration préalable.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°2012-274 du 28 février 2012 - art. 4
 
 
 ###### Article R*431-36
@@ -58763,26 +58980,23 @@ d) Le justificatif de dépôt de la demande d'autorisation prévue à l'article 
 projet porte sur une construction susceptible, en raison de son emplacement et de sa hauteur, de constituer un obstacle à la
 navigation aérienne. 
 
-Il est complété, s'il y a lieu, par les documents mentionnés aux a et b de l'article R. 431-10, aux articles R. 431-14 à R.
-431-15, aux b et g de l'article R. 431-16 et aux articles R. 431-18, R. 431-18-1, R. 431-21, R. 431-25 et R. 431-31 à R.
-431-33.
+Il est complété, s'il y a lieu, par les documents mentionnés aux a et b de l'article R. 431-10, aux articles R. 431-14 et R.
+431-15, aux b et g de l'article R. 431-16 et aux articles R. 431-18, R. 431-18-1, R. 431-21, R. 431-23-2, R. 431-25, R.
+431-31 à R. 431-33 et R. 431-34-1. 
 
 Ces pièces sont fournies sous l'entière responsabilité des demandeurs. 
 
 Lorsque la déclaration porte sur un projet de création ou de modification d'une construction et que ce projet est visible
 depuis l'espace public ou que ce projet est situé dans le périmètre de protection d'un immeuble classé ou inscrit au titre
-des monuments historiques, le dossier comprend également les documents mentionnés aux c et d de l'article R. 431-10.
+des monuments historiques, le dossier comprend également les documents mentionnés aux c et d de l'article R. 431-10. 
 
-**Nota:**
-
-Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
-déposées à compter du 1er avril 2014.
+Aucune autre information ou pièce ne peut être exigée par l'autorité compétente.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2014-253 du 27 février 2014 - art. 5
+	  - Décret n°2015-482 du 27 avril 2015 - art. 5
 
 	**Cité par**:
 
@@ -58792,9 +59006,11 @@ déposées à compter du 1er avril 2014.
 
 	  - Code de l'urbanisme - art. R*431-10
 	  - Code de l'urbanisme - art. R*431-14
+	  - Code de l'urbanisme - art. R*431-18
 	  - Code de l'urbanisme - art. R*431-21
+	  - Code de l'urbanisme - art. R*431-23-2 (VD)
 	  - Code de l'urbanisme - art. R*431-31
-	  - Code de l'urbanisme - art. R431-16
+	  - Code de l'urbanisme - art. R*431-34-1
 	  - Code de l'aviation civile - art. R244-1
 
 
@@ -58884,19 +59100,19 @@ travaux.
 
 ###### Article R*434-2
 
-Les arrêtés prévus à l'article R. 434-1 précisent les informations statistiques qui sont demandées au pétitionnaire en
-application de l'article R. 431-34, ainsi que les modalités de leur transmission par l'autorité compétente.
+Les arrêtés prévus à l'article R. 434-1 précisent les informations qui sont demandées au pétitionnaire en application des
+articles R. 431-34 et R. 431-34-1, ainsi que les modalités de leur transmission par l'autorité compétente.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+	  - Décret n°2015-482 du 27 avril 2015 - art. 5
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R*431-34 (V)
-	  - Code de l'urbanisme - art. R*434-1 (V)
+	  - Code de l'urbanisme - art. R*431-34
+	  - Code de l'urbanisme - art. R*434-1
 
 	**Cité par**:
 
@@ -59050,6 +59266,27 @@ conserver ou à créer.
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R*441-4-1
+
+Lorsque le projet d'aménagement fait l'objet d'une convention de projet urbain partenarial ou est situé dans un périmètre de
+projet urbain partenarial mentionné au II de l'article L. 332-11-3, la demande est accompagnée d'un extrait de la convention
+précisant le lieu du projet urbain partenarial et la durée de l'exonération de la taxe d'aménagement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-482 du 27 avril 2015 - art. 6
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L332-11-3
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*441-10 (VD)
+
+
 ###### Article R*441-5
 
 Le dossier joint à la demande de permis d'aménager comprend en outre l'étude d'impact lorsqu'elle est prévue en application
@@ -59124,6 +59361,39 @@ déposées à compter du 1er avril 2014.
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R*441-6-1
+
+Lorsque la demande porte sur l'aménagement d'un terrain en vue de l'installation de résidences démontables définies à
+l'article R. 111-46-1, constituant l'habitat permanent de leurs utilisateurs et disposant d'équipements non raccordés aux
+réseaux publics, le demandeur joint à son dossier, en application de l'article L. 111-4, une attestation permettant de
+s'assurer du respect des règles d'hygiène et de sécurité, notamment de sécurité contre les incendies, ainsi que des
+conditions dans lesquelles sont satisfaits les besoins des occupants en eau, assainissement et électricité. Ces conditions
+sont fixées, le cas échéant, par le plan local d'urbanisme, notamment dans les secteurs délimités en application du 6° du II
+de l'article L. 123-1-5. 
+
+Cette attestation est fournie sous la responsabilité du demandeur.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2015-482 du 27 avril 2015 - art. 6
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L111-4
+	  - Code de l'urbanisme - art. L123-1-5
+	  - Code de l'urbanisme - art. R*111-46-1
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*441-10 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ###### Article R*441-7
 
 Lorsque les travaux projetés nécessitent une autorisation de défrichement en application des articles L. 311-1 ou L. 312-1 du
@@ -59173,6 +59443,17 @@ indique en outre les matériaux utilisés et les modalités d'exécution des tra
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*441-8-2
+
+Aucune autre information ou pièce ne peut être exigée par l'autorité compétente.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-482 du 27 avril 2015 - art. 6
 
 
 ###### Article R441-8-1
@@ -59245,23 +59526,14 @@ b) Un plan sommaire des lieux indiquant les bâtiments de toute nature existant 
 c) Un croquis et un plan coté dans les trois dimensions de l'aménagement faisant apparaître, s'il y a lieu, la ou les
 divisions projetées. 
 
-Il est complété, s'il y a lieu, par les documents mentionnés au a de l'article R. 441-6, aux articles R. 441-7 à R. 441-8-1
-et au b de l'article R. 442-21.
-
-**Nota:**
-
-Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
-déposées à compter du 1er avril 2014.
+Il est complété, s'il y a lieu, par les documents mentionnés à l'article R. 441-4-1, au a de l'article R. 441-6, aux articles
+R. 441-6-1 à R. 441-8-1 et au b de l'article R. 442-21.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
 	**Modifié par**:
 
-	  - Décret n°2014-253 du 27 février 2014 - art. 6
+	  - Décret n°2015-482 du 27 avril 2015 - art. 6
 
 	**Cité par**:
 
@@ -59269,8 +59541,25 @@ déposées à compter du 1er avril 2014.
 
 	**Cite**:
 
+	  - Code de l'urbanisme - art. R*441-4-1
 	  - Code de l'urbanisme - art. R*441-6
+	  - Code de l'urbanisme - art. R*441-6-1
 	  - Code de l'urbanisme - art. R*442-21
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*441-10-1
+
+Aucune autre information ou pièce ne peut être exigée par l'autorité compétente.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-482 du 27 avril 2015 - art. 6
 
 
 #### Chapitre II : Dispositions propres aux lotissements
@@ -60227,25 +60516,20 @@ Lorsque la demande est présentée en vue d'une exploitation saisonnière, il y 
 
 ###### Article R*443-5
 
-Le dossier de demande comporte également : 
-
-a) L'étude d'impact définie à l'article R. 122-3 du code de l'environnement lorsque la demande vise un projet comportant deux
-cents emplacements ou plus ; 
-
-b) Une notice exposant les conditions dans lesquelles le projet satisfait aux préoccupations d'environnement définies par
-l'article R. 122-1 du même code dans les autres cas.
+Le dossier de demande comporte également l'étude d'impact prévue à l'article R. 122-5 du code de l'environnement ou la
+décision de l'autorité administrative de l'Etat compétente en matière d'environnement dispensant d'une telle étude prise dans
+les conditions fixées aux articles R. 122-2 et R. 122-3 du même code.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 8 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+	  - Décret n°2015-482 du 27 avril 2015 - art. 6
 
 	**Cite**:
 
-	  - Code de l'environnement - art. R122-1 (V)
-	  - Code de l'environnement - art. R122-3 (V)
+	  - Code de l'environnement - art. R122-2
+	  - Code de l'environnement - art. R122-5
 
 	**Codifié par**:
 
@@ -60657,32 +60941,6 @@ b) La description des moyens mis en oeuvre dans la démolition pour éviter tout
 	  - Décret n°2007-817 du 11 mai 2007 - art. 3 () JORF 12 mai 2007
 
 
-###### Article R*451-5
-
-Lorsque la démolition de la construction doit faire l'objet d'une évaluation de ses incidences sur un site Natura 2000 en
-application de l'article L. 414-4 du code de l'environnement, le dossier joint à la demande comprend en outre le dossier
-d'évaluation des incidences prévu à l'article R. 414-23 de ce code.
-
-**Nota:**
-
-Le numéro de l'article est un doublon. Il sera renuméroté ultérieurement.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2012-274 du 28 février 2012 - art. 5
-
-	**Abrogé par**:
-
-	  - Décret n°2015-482 du 27 avril 2015 - art. 7
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L414-4
-	  - Code de l'environnement - art. R414-23
-
-
 ###### Article R*451-6
 
 Lorsque la démolition de la construction doit faire l'objet d'une évaluation de ses incidences sur un site Natura 2000 en
@@ -60704,6 +60962,29 @@ déposées à compter du 1er avril 2014.
 
 	  - Code de l'environnement - art. L414-4
 	  - Code de l'environnement - art. R414-23
+
+
+###### Article R*451-7
+
+Aucune autre information ou pièce ne peut être exigée par l'autorité compétente.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2015-482 du 27 avril 2015 - art. 7
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*430-13 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R451-4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R451-1
