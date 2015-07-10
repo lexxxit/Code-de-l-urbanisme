@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2015-07-01
+Version Consolidée au 2015-07-11
 
 # Partie législative
 
@@ -30594,8 +30594,6 @@ leurs équipements extérieurs sont, à tout moment, facilement et rapidement d�
 	  - Code de l'urbanisme - art. R111-51 (V)
 
 
-#####  Section 5 : Prise en considération d'un projet de travaux publics ou d'une opération d'aménagement en application de l'article L. 111-10.
-
 #####  Section 6 : Prise en considération d'un projet de travaux publics ou d'une opération d'aménagement en application de l'article L. 111-10.
 
 ###### Article R*111-47
@@ -30637,8 +30635,6 @@ effectué.
 
 	  - Décret n°73-1023 1973-11-08
 
-
-#####  Section 6 : Etude de sécurité publique
 
 #####  Section 7 : Etude de sécurité publique
 
@@ -30760,8 +30756,6 @@ plus de 10 % de l'emprise au sol ou modifiant les accès sur la voie publique.
 
 	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
-
-#####  Section 7 : Dispositions favorisant la performance environnementale et les énergies renouvelables dans les constructions
 
 ##### Section 8 : Dispositions favorisant la performance environnementale et les énergies renouvelables dans les constructions
 
@@ -54285,26 +54279,18 @@ Ces majorations de délai ne sont pas cumulables avec celle prévue par l'articl
 Lorsque le projet est situé dans un espace ayant vocation à être classé dans le coeur d'un futur parc national dont la
 création a été prise en considération en application de l'article R. 331-5 du code de l'environnement ou dans le coeur d'un
 parc national délimité en application de l'article L. 331-2 du code de l'environnement, le délai d'instruction prévu par le b
-et le c de l'article R. 423-23 est porté à : 
-
-a) Cinq mois si les travaux prévus figurent sur la liste des travaux qui peuvent faire l'objet de l'autorisation spéciale
-prévue par le I de l'article L. 331-4 et par le I de l'article L. 331-14 du code de l'environnement arrêtée par le décret de
-création du parc ; 
-
-b) Six mois dans le cas contraire.
+et le c de l'article R. 423-23 est porté à cinq mois.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-377 du 3 avril 2009 - art. 13
+	  - Décret n°2015-836 du 9 juillet 2015 - art. 3
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. R*423-23
-	  - Code de l'environnement - art. L331-14
 	  - Code de l'environnement - art. L331-2
-	  - Code de l'environnement - art. L331-4
 	  - Code de l'environnement - art. R331-5
 
 	**Cité par**:
@@ -54314,7 +54300,7 @@ b) Six mois dans le cas contraire.
 
 ###### Article R*423-27
 
-Le délai d'instruction prévu par le b et le c de l'article R. 423-23 est porté à six mois : 
+Le délai d'instruction prévu par le b et le c de l'article R. 423-23 est porté à cinq mois : 
 
 a) Lorsqu'il y a lieu de consulter une commission nationale ; 
 
@@ -54323,16 +54309,18 @@ b) Lorsqu'il y a lieu de consulter l'assemblée de Corse en application de l'art
 c) Lorsqu'il y a lieu de consulter le préfet, dans les conditions prévues par l'article R. 332-24 du code de l'environnement,
 lorsqu'il s'agit d'une réserve naturelle nationale ou, en Corse, d'une réserve classée par l'Etat.
 
-**Nota:**
-
-Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
-déposées à compter du 1er avril 2014.
+Le délai d'instruction prévu par le a de l'article R.* 423-23 est de deux mois dans les conditions et cas prévus au c du
+présent article.
 
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
 	  - Décret n°2014-1300 du 23 octobre 2014 - art. (VD)
+
+	**Modifié par**:
+
+	  - Décret n°2015-836 du 9 juillet 2015 - art. 8
 
 	**Cite**:
 
@@ -54344,27 +54332,21 @@ déposées à compter du 1er avril 2014.
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Modifié par**:
-
-	  - Décret n°2014-253 du 27 février 2014 - art. 4
-
 
 ###### Article R*423-28
 
-Le délai d'instruction prévu par le b et le c de l'article R*423-23 est également porté à six mois : 
+Le délai d'instruction prévu par le b et le c de l'article R. * 423-23 est porté à : 
 
-a) Lorsqu'un permis porte sur un immeuble inscrit au titre des monuments historiques et, le cas échéant, lorsqu'il y a lieu
-d'instruire une dérogation en application du cinquième alinéa de l'article L. 123-5 du code de l'urbanisme ; 
+a) Quatre mois lorsqu'un permis de construire ou d'aménager porte sur un projet situé dans le périmètre de protection des
+immeubles classés ou inscrits au titre des monuments historiques ou sur un immeuble adossé à un immeuble classé au titre des
+monuments historiques ; 
 
-b) Lorsqu'un permis de construire ou d'aménager porte sur un immeuble situé dans le périmètre de protection d'un immeuble
-classé ou inscrit au titre des monuments historiques ou sur un immeuble adossé à un immeuble classé au titre des monuments
-historiques ; 
+b) Cinq mois lorsqu'un permis porte sur un immeuble inscrit au titre des monuments historiques et, le cas échéant, lorsqu'il
+y a lieu d'instruire une dérogation en application du cinquième alinéa de l'article L. 123-5 du code de l'urbanisme ; 
 
-c) Lorsqu'un permis de construire porte sur des travaux relatifs à un établissement recevant du public et soumis à
-l'autorisation prévue à l'article L. 111-8 du code de la construction et de l'habitation ; 
-
-d) Lorsqu'un permis de construire porte sur des travaux relatifs à un immeuble de grande hauteur et soumis à l'autorisation
-prévue par l'article L. 122-1 du même code.
+c) Cinq mois lorsqu'un permis de construire porte sur des travaux relatifs à un établissement recevant du public et soumis à
+l'autorisation prévue à l'article L. 111-8 du code de la construction et de l'habitation ou sur des travaux relatifs à un
+immeuble de grande hauteur et soumis à l'autorisation prévue à l'article L. 122-1 du même code.
 
 **Liens relatifs à cet article**
 
@@ -54376,12 +54358,11 @@ prévue par l'article L. 122-1 du même code.
 
 	**Modifié par**:
 
-	  - Décret n°2014-1314 du 31 octobre 2014 - art. 32
+	  - Décret n°2015-836 du 9 juillet 2015 - art. 8
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L123-5 (V)
-	  - Code de l'urbanisme - art. R*423-23
+	  - Code de l'urbanisme - art. L123-5
 	  - Code de la construction et de l'habitation. - art. L111-8
 	  - Code de la construction et de l'habitation. - art. L122-1
 
@@ -54395,9 +54376,9 @@ prévue par l'article L. 122-1 du même code.
 Lorsque le permis doit être précédé d'une autorisation de défrichement en application des articles L. 341-1, L. 341-3 et L.
 214-13 du code forestier, le délai d'instruction de droit commun prévu par le b et le c de l'article R*423-23 est porté à : 
 
-a) Sept mois lorsque le défrichement est soumis à reconnaissance de la situation et de l'état des terrains ; 
+a) Cinq mois lorsque le défrichement est soumis à reconnaissance de la situation et de l'état des terrains ; 
 
-b) Neuf mois lorsque le défrichement fait l'objet d'une enquête publique ; 
+b) Sept mois lorsque le défrichement fait l'objet d'une enquête publique ; 
 
 c) Trois mois dans les autres cas.
 
@@ -54405,44 +54386,59 @@ c) Trois mois dans les autres cas.
 
 	**Modifié par**:
 
-	  - Décret n°2012-836 du 29 juin 2012 - art. 3 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R*423-23
-	  - Code forestier (nouveau) - art. L214-13 (M)
-	  - Code forestier (nouveau) - art. L341-1 (V)
-	  - Code forestier (nouveau) - art. L341-3 (V)
+	  - Décret n°2015-836 du 9 juillet 2015 - art. 8
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*423-32 (V)
 	  - Code de l'urbanisme - art. R*423-43 (V)
 
+	**Cite**:
 
-###### Article R*423-31
-
-Le délai d'instruction prévu par le b et le c de l'article R. 423-23 est porté à un an lorsque les travaux sont soumis à
-l'autorisation du ministre de la défense ou du ministre chargé des sites.
-
-**Liens relatifs à cet article**
+	  - Code forestier (nouveau) - art. L214-13 (V)
+	  - Code forestier (nouveau) - art. L341-1 (V)
+	  - Code forestier (nouveau) - art. L341-3 (V)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Créé par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+###### Article R*423-31
+
+Le délai d'instruction prévu par le b et le c de l'article R.* 423-23 est porté à :
+
+a) Dix mois lorsqu'un permis porte sur des travaux soumis à autorisation spéciale du ministre de la défense ou du ministre
+chargé de l'aviation civile et soumis à l'autorisation prévue à l'
+article L. 512-1 du code de l'environnement
+ ;
+
+b) Cinq mois lorsqu'un permis porte sur des travaux soumis à autorisation spéciale du ministre de la défense ou du ministre
+chargé de l'aviation civile, sauf si le projet est soumis à l'autorisation prévue à l'
+article L. 512-1 du code de l'environnement
+ ;
+
+c) Huit mois lorsqu'un permis porte sur des travaux soumis à l'accord du ministre chargé des sites prévu par le b de
+l'article R.* 425-17.
+
+**Liens relatifs à cet article**
 
 	**Cité par**:
 
 	  - Décret n°2014-1271 du 23 octobre 2014 - art. (VD)
 	  - Décret n°2015-1461 du 10 novembre 2015 - art. (V)
 
+	**Modifié par**:
+
+	  - Décret n°2015-836 du 9 juillet 2015 - art. 8
+
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R*423-23 (V)
+	  - Code de l'environnement - art. L512-1
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*423-32
@@ -54638,19 +54634,19 @@ Lorsque le projet fait l'objet d'une évocation par le ministre chargé des monu
 délai d'instruction est porté à six mois.
 
 Lorsque le projet fait l'objet d'une évocation par le ministre chargé des sites ou par le ministre chargé de la protection de
-la nature, le délai d'instruction est porté à un an.
+la nature, le délai d'instruction est porté à huit mois.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2011-1903 du 19 décembre 2011 - art. 2
 
 	**Cité par**:
 
 	  - Décret n°2014-1271 du 23 octobre 2014 - art. (VD)
 	  - Décret n°2015-1461 du 10 novembre 2015 - art. (V)
 	  - Code de l'urbanisme - art. R*423-44 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2015-836 du 9 juillet 2015 - art. 8
 
 	**Codifié par**:
 
@@ -55500,6 +55496,38 @@ concerne les commissions nationales.
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R*423-61-1
+
+Par exception aux dispositions de l'article R. * 423-59, le délai à l'issue duquel le préfet, le conseil régional ou
+l'Assemblée de Corse doit se prononcer, sur un projet situé sur un territoire en instance de classement ou classé en réserve
+naturelle, est de : 
+
+a) Quarante-cinq jours, si les travaux doivent faire l'objet d'une déclaration préalable ; 
+
+b) Quatre mois, si les travaux doivent être précédés de la délivrance d'un permis de construire, d'un permis de démolir ou
+d'un permis d'aménager. 
+
+En cas de silence du préfet, du conseil régional ou de l'Assemblée de Corse à l'issue de ce délai, leur accord est réputé
+refusé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-836 du 9 juillet 2015 - art. 2
+
+	**Cité par**:
+
+	  - Décret n°2017-81 du 26 janvier 2017 - art. 4
+	  - Code de l'environnement - art. R332-24 (VD)
+	  - Code de l'environnement - art. R332-44 (V)
+	  - Code de l'environnement - art. R332-63 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R*423-59
+
+
 ###### Article R*423-62
 
 Par exception aux dispositions de l'article R. 423-59, le délai à l'issue duquel le préfet, le directeur de l'établissement
@@ -55508,11 +55536,10 @@ espace ayant vocation à être classé dans le coeur d'un futur parc national do
 application de l'article R. 331-4 du code de l'environnement ou dans le coeur d'un parc national délimité en application des
 articles L. 331-1 et L. 331-2 du même code est de : 
 
-a) Trois mois si les travaux prévus figurent sur la liste des travaux qui peuvent faire l'objet de l'autorisation spéciale
-prévue par le I de l'article L. 331-4 et par le I de l'article L. 331-14 du code de l'environnement arrêtée par le décret de
-création du parc ; 
+a) Quarante-cinq jours, si les travaux doivent faire l'objet d'une déclaration préalable ; 
 
-b) Cinq mois dans le cas contraire. 
+b) Quatre mois, si les travaux doivent être précédées de la délivrance d'un permis de construire, d'un permis de démolir ou
+d'un permis d'aménager. 
 
 En cas de silence du préfet ou du directeur de l'établissement public du parc ou, le cas échéant, du conseil d'administration
 à l'issue de ce délai, leur accord est réputé refusé.
@@ -55521,7 +55548,7 @@ En cas de silence du préfet ou du directeur de l'établissement public du parc 
 
 	**Modifié par**:
 
-	  - Décret n°2009-377 du 3 avril 2009 - art. 14
+	  - Décret n°2015-836 du 9 juillet 2015 - art. 3
 
 	**Cité par**:
 
@@ -55531,8 +55558,6 @@ En cas de silence du préfet ou du directeur de l'établissement public du parc 
 
 	  - Code de l'urbanisme - art. R*423-59
 	  - Code de l'environnement - art. L331-1
-	  - Code de l'environnement - art. L331-14
-	  - Code de l'environnement - art. L331-4
 	  - Code de l'environnement - art. R*331-4
 
 
@@ -55600,7 +55625,7 @@ d'appellation d'origine contrôlée est de trois mois.
 
 Par exception aux dispositions de l'article R. 423-59, lorsque la demande de permis porte sur un immeuble ou une partie
 d'immeuble inscrit au titre des monuments historiques, l'accord du préfet de région, prévu en application de l'article L.
-621-27 du code du patrimoine, est réputé donné s'il n'est pas parvenu à l'autorité compétente dans le délai de quatre mois.
+621-27 du code du patrimoine, est réputé donné s'il n'est pas parvenu à l'autorité compétente dans le délai de trois mois.
 
 **Liens relatifs à cet article**
 
@@ -55612,12 +55637,12 @@ d'immeuble inscrit au titre des monuments historiques, l'accord du préfet de r�
 
 	**Modifié par**:
 
-	  - Décret n°2014-1314 du 31 octobre 2014 - art. 34
+	  - Décret n°2015-836 du 9 juillet 2015 - art. 8
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. R*423-59
-	  - Code du patrimoine - art. L621-27 (V)
+	  - Code du patrimoine - art. L621-27
 
 	**Codifié par**:
 
@@ -55665,7 +55690,7 @@ et L. 341-7 du code de l'environnement.
 Par exception aux dispositions de l'article R*423-59, lorsqu'un permis de construire ou d'aménager porte sur un projet situé
 dans le périmètre de protection d'un immeuble classé ou inscrit au titre des monuments historiques ou sur un immeuble adossé
 à un immeuble classé au titre des monuments historiques, le délai à l'issue duquel l'architecte des Bâtiments de France est
-réputé avoir émis un avis favorable est de quatre mois.
+réputé avoir émis un avis favorable est de deux mois.
 
 **Liens relatifs à cet article**
 
@@ -55675,7 +55700,11 @@ réputé avoir émis un avis favorable est de quatre mois.
 
 	**Modifié par**:
 
-	  - Décret n°2014-1314 du 31 octobre 2014 - art. 36
+	  - Décret n°2015-836 du 9 juillet 2015 - art. 8
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 16
 
 	**Cite**:
 
@@ -55865,41 +55894,41 @@ réception du dossier transmis par le maire en application de l'article R. * 423
 Par exception aux dispositions de l'article R. 423-59, lorsque la demande de permis porte sur un établissement recevant du
 public, le délai à l'issue duquel le préfet est réputé avoir statué, dans les conditions prévues à l'article R. 111-19-26 du
 code de la construction et de l'habitation, sur les travaux faisant l'objet de l'autorisation prévue à l'article L. 111-8 du
-même code est de cinq mois.
+même code est de quatre mois.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2015-836 du 9 juillet 2015 - art. 1
+
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R*423-59 (V)
-	  - Code de la construction et de l'habitation. - art. R*111-8 (V)
-	  - Code de la construction et de l'habitation. - art. R111-19-26 (V)
+	  - Code de l'urbanisme - art. R*423-59
+	  - Code de la construction et de l'habitation. - art. R*111-8
+	  - Code de la construction et de l'habitation. - art. R111-19-26
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°2007-1327 du 11 septembre 2007 - art. 7 () JORF 12 septembre 2007 en vigueur le 1er octobre 2007
 
 
 ###### Article R*423-71
 
 Par exception aux dispositions de l'article R. 423-59, lorsque la demande de permis porte sur un immeuble de grande hauteur,
 le délai à l'issue duquel le préfet est réputé avoir donné son accord sur les travaux faisant l'objet de l'autorisation
-prévue à l'article L. 122-1 du code de la construction et de l'habitation est de cinq mois.
+prévue à l'article L. 122-1 du code de la construction et de l'habitation est de quatre mois.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2007-1327 du 11 septembre 2007 - art. 7 () JORF 12 septembre 2007 en vigueur le 1er octobre 2007
+	  - Décret n°2015-836 du 9 juillet 2015 - art. 1
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R*423-59 (V)
-	  - Code de la construction et de l'habitation. - art. L122-1 (V)
+	  - Code de l'urbanisme - art. R*423-59
+	  - Code de la construction et de l'habitation. - art. L122-1
 
 	**Codifié par**:
 
