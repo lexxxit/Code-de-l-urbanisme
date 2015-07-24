@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2015-07-17
+Version Consolidée au 2015-07-25
 
 # Partie législative
 
@@ -13523,7 +13523,9 @@ j) Les cessions entre la SNCF, SNCF Réseau et SNCF Mobilités.
 
 Sont également soumis au droit de préemption les immeubles ou ensembles de droits sociaux mentionnés au 1° de l'article L.
 213-1 lorsqu'ils font l'objet d'une aliénation à titre gratuit, sauf si celle-ci est effectuée entre personnes ayant des
-liens de parenté jusqu'au sixième degré ou des liens issus d'un mariage ou d'un pacte civil de solidarité. 
+liens de parenté jusqu'au sixième degré ou des liens issus d'un mariage ou d'un pacte civil de solidarité ou au profit des
+fondations, des congrégations, des associations ayant la capacité à recevoir des libéralités et, dans les départements du
+Bas-Rhin, du Haut-Rhin et de la Moselle, des établissements publics du culte et des associations inscrites de droit local.  
 
 Le présent chapitre est applicable aux aliénations mentionnées au premier alinéa. Toutefois, par dérogation au premier alinéa
 de l'article L. 213-2, la déclaration adressée à la mairie ne mentionne pas le prix. La décision du titulaire du droit de
@@ -13531,14 +13533,14 @@ préemption d'acquérir le bien indique l'estimation de celui-ci par les service
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 150
+	  - ORDONNANCE n°2015-904 du 23 juillet 2015 - art. 5
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L213-1 (VT)
-	  - Code de l'urbanisme - art. L213-2 (V)
+	  - Code de l'urbanisme - art. L213-1
+	  - Code de l'urbanisme - art. L213-2
 
 
 ###### Article L213-1-2
