@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2015-07-25
+Version Consolidée au 2015-07-26
 
 # Partie législative
 
@@ -33604,6 +33604,57 @@ faire application du huitième alinéa de l'article L. 145-5.
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R*123-9-1
+
+Pour l'application de l'article L. 123-1-13, trois places d'hébergement d'un établissement d'hébergement pour personnes âgées
+dépendantes ou d'une résidence universitaire équivalent à un logement. 
+
+Lorsque le quotient résultant de l'application du précédent alinéa donne un reste, celui-ci n'est pas pris en compte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-908 du 23 juillet 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L123-1-13
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R151-46 (V)
+
+
+###### Article R*123-9-2
+
+Les dérogations mentionnées au 5° de l'article L. 123-5-1 sont accordées par l'autorité compétente dans la limite des règles
+fixées à l'article R. * 111-18.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-908 du 23 juillet 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. *R111-18 (VT)
+	  - Code de l'urbanisme - art. L123-5-1
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. R152-4 (V)
+
+
 ###### Article R*123-10
 
 Le coefficient d'occupation du sol qui détermine la densité de construction admise est le rapport exprimant le nombre de
@@ -58699,6 +58750,24 @@ dérogation et à son instruction sont définies à l'article R. 111-1-2 du code
 
 	  - Code de la construction et de l'habitation. - art. L111-4-1
 	  - Code de la construction et de l'habitation. - art. R111-1-2
+
+
+###### Article R*431-31-2
+
+Lorsque le projet nécessite une ou plusieurs dérogations au titre de l'article L. 123-5-1, la demande de dérogation est
+jointe à la demande de permis de construire. Elle est accompagnée d'une note précisant la nature de la ou des dérogations
+demandées et justifiant du respect des objectifs et des conditions fixées à cet article pour chacune des dérogations
+demandées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-908 du 23 juillet 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L123-5-1
 
 
 ###### Article R*431-32
