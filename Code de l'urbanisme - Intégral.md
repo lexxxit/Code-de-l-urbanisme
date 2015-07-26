@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2015-07-26
+Version Consolidée au 2015-07-27
 
 # Partie législative
 
@@ -41641,21 +41641,24 @@ du 16 décembre 2010 de réforme des collectivités territoriales ou de l'articl
 
 ###### Article *R214-1
 
-Lorsqu'une commune envisage d'instituer, en application de l'article L. 214-1, le droit de préemption sur les fonds
-artisanaux, les fonds de commerce, les baux commerciaux et les terrains portant ou destinés à porter des commerces d'une
-surface de vente comprise entre 300 et 1 000 mètres carrés, le maire soumet pour avis le projet de délibération du conseil
-municipal à la      chambre de commerce et d'industrie territoriale et à la chambre des métiers et de l'artisanat dans le
-ressort desquelles se trouve la commune. Le projet de délibération est accompagné du projet de plan délimitant le périmètre
-de sauvegarde du commerce et de l'artisanat de proximité et d'un rapport analysant la situation du commerce et de l'artisanat
-de proximité à l'intérieur de ce périmètre et les menaces pesant sur la diversité commerciale et artisanale. En l'absence
-d'observations de la      chambre de commerce et d'industrie territoriale et de la chambre des métiers et de l'artisanat dans
-les deux mois de leur saisine, l'avis de l'organisme consulaire est réputé favorable.
+Lorsqu'une commune ou un établissement public de coopération intercommunale auquel la compétence en a été déléguée en
+application du premier alinéa de l'article L. 214-1-1 envisage d'instituer, en application de l'article L. 214-1, le droit de
+préemption sur les fonds artisanaux, les fonds de commerce, les baux commerciaux et les terrains portant ou destinés à porter
+des commerces d'une surface de vente comprise entre 300 et 1 000 mètres carrés, le maire ou, le cas échéant, le président de
+l'établissement public de coopération intercommunale soumet pour avis le projet de délibération du conseil municipal ou, le
+cas échéant, de l'organe délibérant de l'établissement public de coopération intercommunale à la chambre de commerce et
+d'industrie territoriale et à la chambre des métiers et de l'artisanat dans le ressort desquelles se trouve la commune. Le
+projet de délibération est accompagné du projet de plan délimitant le périmètre de sauvegarde du commerce et de l'artisanat
+de proximité et d'un rapport analysant la situation du commerce et de l'artisanat de proximité à l'intérieur de ce périmètre
+et les menaces pesant sur la diversité commerciale et artisanale. En l'absence d'observations de la chambre de commerce et
+d'industrie territoriale et de la chambre des métiers et de l'artisanat dans les deux mois de leur saisine, l'avis de
+l'organisme consulaire est réputé favorable.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
+	  - Décret n°2015-914 du 24 juillet 2015 - art. 2
 
 	**Cite**:
 
@@ -41669,14 +41672,15 @@ les deux mois de leur saisine, l'avis de l'organisme consulaire est réputé fav
 
 ###### Article *R214-2
 
-La délibération du conseil municipal délimitant le périmètre de sauvegarde du commerce et de l'artisanat de proximité fait
-l'objet des mesures de publicité et d'information dans les conditions prévues par l'article R. 211-2.
+La délibération du conseil municipal ou, le cas échéant, de l'organe délibérant de l'établissement public de coopération
+intercommunale délimitant le périmètre de sauvegarde du commerce et de l'artisanat de proximité fait l'objet des mesures de
+publicité et d'information dans les conditions prévues par l'article R. 211-2.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1827 du 26 décembre 2007 - art. 1
+	  - Décret n°2015-914 du 24 juillet 2015 - art. 3
 
 	**Cite**:
 
@@ -41783,7 +41787,7 @@ ou de l'immeuble dont dépendent les locaux loués ou du terrain.
 ###### Article R*214-4
 
 La déclaration préalable prévue au troisième aliéna de l'article L. 214-1 est établie dans les formes prescrites par un
-arrêté du ministre chargé de l'urbanisme et du ministre de la justice. 
+arrêté conjoint des ministres chargés de l'urbanisme, de la justice, du commerce et de l'artisanat. 
 
 La déclaration en quatre exemplaires est adressée au maire de la commune où est situé le fonds, l'immeuble dont dépendent les
 locaux loués ou le terrain portant les commerces ou destiné à porter des commerces d'une surface de vente comprise entre 300
@@ -41798,6 +41802,10 @@ prévues par l'article R. 213-5. Elle précise, selon le cas, la surface de vent
 possibilité d'implanter sur le terrain, dans les cinq ans suivant l'aliénation, un commerce d'une surface de vente comprise
 entre 300 et 1 000 mètres carrés.
 
+Lorsque la commune a délégué son droit de préemption, le maire transmet la déclaration au délégataire. Lorsque le délégataire
+est un établissement public de coopération intercommunale ayant lui-même délégué ce droit, en application du second alinéa de
+l'article L. 214-1-1, son président transmet à son tour la déclaration à son délégataire.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -41809,7 +41817,7 @@ entre 300 et 1 000 mètres carrés.
 
 	**Modifié par**:
 
-	  - Décret n°2012-489 du 13 avril 2012 - art. 3
+	  - Décret n°2015-914 du 24 juillet 2015 - art. 4
 
 	**Cité par**:
 
@@ -41839,15 +41847,15 @@ précisant si cette transmission vaut demande d'avis.
 
 ###### Article R*214-4-2
 
-Lorsque la commune décide d'acquérir un terrain qui est soumis à la fois au droit de préemption prévu par le présent chapitre
-et au droit de préemption institué par le chapitre II ou le chapitre III du présent titre, elle indique sur le fondement de
-quel chapitre elle exerce son droit de préemption.
+Lorsque le titulaire du droit de préemption décide d'acquérir un terrain qui est soumis à la fois au droit de préemption
+prévu par le présent chapitre et au droit de préemption institué par le chapitre I ou le chapitre II du présent titre, il
+indique sur le fondement de quel chapitre il exerce son droit de préemption.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-753 du 22 juin 2009 - art. 1
+	  - Décret n°2015-914 du 24 juillet 2015 - art. 5
 
 
 ###### Article R*214-4-3
@@ -41931,6 +41939,10 @@ prescrites à l'article R. 214-4 et indique la date et les modalités de la vent
 moins avant la date fixée pour la vente par lettre recommandée avec demande d'avis de réception ou par voie électronique dans
 les conditions prévues par le I de l'article 5 de l'ordonnance n° 2005-1516 du 8 décembre 2005. 
 
+Lorsque la commune a délégué son droit de préemption, le maire transmet la déclaration au délégataire. Lorsque le délégataire
+est un établissement public de coopération intercommunale ayant lui-même délégué ce droit, en application du second alinéa de
+l'article L. 214-1-1, son président transmet à son tour la déclaration à son délégataire. 
+
 Le titulaire du droit de préemption dispose d'un délai de trente jours à compter de l'adjudication pour notifier, par lettre
 recommandée avec demande d'avis de réception ou par voie électronique dans les conditions prévues par le I de l'article 5 de
 l'ordonnance n° 2005-1516 du 8 décembre 2005, au greffier ou au notaire sa décision de se substituer à l'adjudicataire. Copie
@@ -41949,10 +41961,11 @@ par voie de préemption.
 	  - Ordonnance n°2005-1516 du 8 décembre 2005 - art. 5
 	  - Code de l'urbanisme - art. *R214-4
 	  - Code de l'urbanisme - art. L214-1
+	  - Code de l'urbanisme - art. L214-1-1 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2012-489 du 13 avril 2012 - art. 3
+	  - Décret n°2015-914 du 24 juillet 2015 - art. 6
 
 	**Cité par**:
 
@@ -41979,13 +41992,15 @@ Un arrêté du ministre chargé de l'urbanisme fixe les conditions dans lesquell
 
 ###### Article *R214-11
 
-Le cahier des charges de rétrocession mentionné à l'article L. 214-2 est approuvé par délibération du conseil municipal.
+Le cahier des charges de rétrocession mentionné à l'article L. 214-2 est approuvé par délibération du conseil municipal ou,
+le cas échéant, de l'organe délibérant de l'établissement public de coopération intercommunale ayant reçu délégation à cet
+effet en application du premier alinéa de l'article L. 214-1-1.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-753 du 22 juin 2009 - art. 1
+	  - Décret n°2015-914 du 24 juillet 2015 - art. 7
 
 	**Cite**:
 
@@ -41996,9 +42011,12 @@ Le cahier des charges de rétrocession mentionné à l'article L. 214-2 est appr
 
 Avant toute décision de rétrocession du fonds artisanal, du fonds de commerce, du bail commercial ou du terrain, le maire
 publie, par voie d'affichage en mairie pendant une durée de quinze jours, un avis de rétrocession. Cet avis comporte un appel
-à candidatures,      la description du fonds, du bail ou du terrain, le prix proposé et mentionne que le cahier des charges
-peut être consulté en mairie. Lorsque la rétrocession porte sur un bail commercial, l'avis précise que la rétrocession est
+à candidatures, la description du fonds, du bail ou du terrain, le prix proposé et mentionne que le cahier des charges peut
+être consulté en mairie. Lorsque la rétrocession porte sur un bail commercial, l'avis précise que la rétrocession est
 subordonnée à l'accord préalable du bailleur. Il indique le délai dans lequel les candidatures doivent être présentées. 
+
+Lorsque l'exercice du droit de préemption a été délégué, le délégataire transmet l'avis de rétrocession au maire qui en
+assure la publicité dans les conditions fixées au premier alinéa. 
 
 Les personnes candidates à la rétrocession justifient de leur immatriculation au registre du commerce et des sociétés ou au
 répertoire des métiers ou, lorsqu'elles sont établies dans un autre Etat membre de l'Union européenne, d'un titre équivalent
@@ -42008,71 +42026,134 @@ leur conférant ou leur reconnaissant la qualité de commerçant ou d'artisan.
 
 	**Modifié par**:
 
-	  - Décret n°2009-753 du 22 juin 2009 - art. 1
+	  - Décret n°2015-914 du 24 juillet 2015 - art. 8
 
 
 ###### Article *R214-13
 
-En cas de rétrocession d'un bail commercial, le maire recueille l'accord préalable du bailleur sur le projet d'acte
-accompagné du cahier des charges qu'il lui a transmis par lettre recommandée avec demande d'avis de réception.
+En cas de rétrocession d'un bail commercial, le titulaire du droit de préemption recueille l'accord préalable du bailleur sur
+le projet d'acte accompagné du cahier des charges qu'il lui a transmis par lettre recommandée avec demande d'avis de
+réception.
 
 Si le bailleur entend s'opposer au projet de rétrocession, il saisit, en la forme du référé, le président du tribunal de
 grande instance du lieu de situation de l'immeuble dont dépendent les lieux loués pour faire valider son opposition à la
-rétrocession. A défaut d'avoir notifié à la commune, dans le délai de deux mois suivant la réception du projet d'acte, la
-saisine motivée de la juridiction, le bailleur est réputé avoir donné son accord à la rétrocession.
+rétrocession. A défaut d'avoir notifié au titulaire du droit de préemption, dans le délai de deux mois suivant la réception
+du projet d'acte, la saisine motivée de la juridiction, le bailleur est réputé avoir donné son accord à la rétrocession.
 
-Le délai d'un an imparti à la commune pour procéder à la rétrocession est suspendu à compter de la notification du projet
-d'acte au bailleur jusqu'au recueil de l'accord du bailleur ou, à défaut d'accord, pendant la durée de la procédure jusqu'à
-l'intervention d'une décision juridictionnelle devenue définitive. La cession ne peut intervenir avant le terme de cette
-procédure, sauf accord exprès du bailleur.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2007-1827 du 26 décembre 2007 - art. 1
-
-
-###### Article *R214-14
-
-La rétrocession est autorisée par délibération du conseil municipal indiquant les conditions de la rétrocession et les
-raisons du choix du cessionnaire.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2007-1827 du 26 décembre 2007 - art. 1
-
-
-###### Article *R214-15
-
-Dans le mois suivant la signature de l'acte de rétrocession, le maire procède à l'affichage en mairie, pendant une durée de
-quinze jours, d'un avis comportant        la désignation sommaire du fonds, du bail ou du terrain rétrocédé, le nom et la
-qualité du cessionnaire, ainsi que les conditions financières de l'opération.
+Le délai imparti au titulaire du droit de préemption pour procéder à la rétrocession est suspendu à compter de la
+notification du projet d'acte au bailleur jusqu'au recueil de l'accord du bailleur ou, à défaut d'accord, pendant la durée de
+la procédure jusqu'à l'intervention d'une décision juridictionnelle devenue définitive. La cession ne peut intervenir avant
+le terme de cette procédure, sauf accord exprès du bailleur.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-753 du 22 juin 2009 - art. 1
+	  - Décret n°2015-914 du 24 juillet 2015 - art. 9
+
+
+###### Article *R214-14
+
+La rétrocession est autorisée par délibération du conseil municipal, ou, le cas échéant, de l'organe délibérant de
+l'établissement public de coopération intercommunale ayant reçu délégation à cet effet en application du premier alinéa de
+l'article L. 214-1-1, indiquant les conditions de la rétrocession et les raisons du choix du cessionnaire.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2015-914 du 24 juillet 2015 - art. 10
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L214-1-1 (V)
+
+
+###### Article *R214-15
+
+Dans le mois suivant la signature de l'acte de rétrocession, le maire procède à l'affichage en mairie, pendant une durée de
+quinze jours, d'un avis comportant la désignation sommaire du fonds, du bail ou du terrain rétrocédé, le nom et la qualité du
+cessionnaire, ainsi que les conditions financières de l'opération.
+
+Lorsque l'exercice du droit de préemption a été délégué, le délégataire transmet cet avis au maire qui en assure la publicité
+dans les conditions fixées au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2015-914 du 24 juillet 2015 - art. 11
 
 
 ###### Article *R214-16
 
-Si la rétrocession n'est pas intervenue à l'expiration du délai d'un an à compter de la prise d'effet de l'acquisition par le
-titulaire du droit de préemption, l'acquéreur évincé, dans le cas où son identité a été mentionnée dans la déclaration
-préalable mentionnée à l'article R. 214-4, bénéficie d'un droit de priorité d'acquisition.
+Si la rétrocession n'est pas intervenue à l'expiration du délai fixé à l'article L. 214-2, l'acquéreur évincé, dans le cas où
+son identité a été mentionnée dans la déclaration préalable mentionnée à l'article R. 214-4, bénéficie d'un droit de priorité
+d'acquisition.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2015-914 du 24 juillet 2015 - art. 12
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. *R214-4
+	  - Code de l'urbanisme - art. L214-2
+
+
+###### Article R214-17
+
+A la présente section et à la section II, les mots : " titulaire du droit de préemption " s'entendent également, s'il y a
+lieu, du délégataire, en application de l'article L. 214-1-1.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2007-1827 du 26 décembre 2007 - art. 1
+	  - Décret n°2015-914 du 24 juillet 2015 - art. 13
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. *R214-4 (V)
+	  - Code de l'urbanisme - art. L214-1-1 (V)
+
+
+#####  Section 4 : Délégation du droit de préemption
+
+###### Article R214-18
+
+La délégation prévue au premier alinéa de l'article L. 214-1-1 résulte d'une délibération du conseil municipal. Cette
+délibération précise, le cas échéant, les conditions auxquelles est subordonné l'exercice des compétences déléguées. Elle
+peut être retirée par une délibération prise dans les mêmes formes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-914 du 24 juillet 2015 - art. 14
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L214-1-1
+
+
+###### Article R214-19
+
+La délégation du droit de préemption prévue au deuxième alinéa de l'article L. 214-1-1 résulte d'une délibération du conseil
+municipal ou, le cas échéant, de l'organe délibérant de l'établissement public de coopération intercommunale auquel la
+commune a délégué cette compétence. Cette délibération précise, le cas échéant, les conditions auxquelles est subordonné
+l'exercice des compétences déléguées. Elle peut être retirée par une délibération prise dans les mêmes formes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-914 du 24 juillet 2015 - art. 14
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L214-1-1
 
 
 ## Livre III : Aménagement foncier
