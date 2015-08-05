@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2015-07-27
+Version Consolidée au 2015-08-06
 
 # Partie législative
 
@@ -18487,13 +18487,15 @@ Un décret en Conseil d'Etat détermine les conditions d'application de la prés
 ##### Section 3 : Agence foncière et technique de la région parisienne
 
 
+##### Section 3 : Grand Paris Aménagement
+
 ###### Article L321-29
 
-L'Agence foncière et technique de la région parisienne est un établissement public de l'Etat qui a pour mission principale de
-conduire toute action de nature à favoriser l'aménagement, le renouvellement et le développement urbains et durables du
-territoire de la région d'Ile-de-France. 
+Grand Paris Aménagement est un établissement public de l'Etat qui a pour mission principale de conduire toute action de
+nature à favoriser l'aménagement, le renouvellement et le développement urbains et durables du territoire de la région d'Ile-
+de-France. 
 
-A cet effet, elle est compétente pour y réaliser : 
+A cet effet, il est compétent pour y réaliser : 
 
 1° Toutes interventions foncières et toutes opérations immobilières pour son compte ou par convention passée avec eux, pour
 l'Etat, les collectivités territoriales, les établissements publics ou personnes publiques ou privées y ayant vocation ; 
@@ -18504,21 +18506,21 @@ collectivités territoriales, d'établissements publics ou de personnes publique
 3° Tous ouvrages de bâtiment ou d'infrastructure, en qualité de mandataire au sens de l'article 3 de la loi du 12 juillet
 1985 relative à la maîtrise d'ouvrage publique et ses rapports avec la maîtrise d'œuvre privée. 
 
-Elle peut mener des opérations de requalification des copropriétés dégradées mentionnées à l'article L. 741-1 du code de la
+Il peut mener des opérations de requalification des copropriétés dégradées mentionnées à l'article L. 741-1 du code de la
 construction et de l'habitation ou apporter son concours à l'établissement public foncier d'Ile-de-France pour la réalisation
 d'opérations de requalification des copropriétés dégradées d'intérêt national. 
 
-Afin de favoriser la protection et la mise en valeur de l'environnement, elle peut procéder dans la même région, à titre
+Afin de favoriser la protection et la mise en valeur de l'environnement, il peut procéder dans la même région, à titre
 secondaire, à des acquisitions foncières d'espaces naturels, agricoles ou forestiers dont la préservation doit être assurée. 
 
-Elle peut également y conduire des missions présentant un caractère complémentaire à ses missions principales en vue de
-favoriser le développement durable du territoire. Elle exerce ces missions à titre accessoire. 
+Il peut également y conduire des missions présentant un caractère complémentaire à ses missions principales en vue de
+favoriser le développement durable du territoire. Il exerce ces missions à titre accessoire. 
 
-Elle peut exercer les compétences dévolues aux établissements publics d'aménagement, telles que définies à l'article L.
+Il peut exercer les compétences dévolues aux établissements publics d'aménagement, telles que définies à l'article L.
 321-14. 
 
-En dehors du territoire de la région d'Ile-de-France, l'agence peut réaliser des missions de conseil et d'expertise entrant
-dans le cadre de ses compétences.
+En dehors du territoire de la région d'Ile-de-France, l'établissement peut réaliser des missions de conseil et d'expertise
+entrant dans le cadre de ses compétences.
 
 **Liens relatifs à cet article**
 
@@ -18542,19 +18544,19 @@ dans le cadre de ses compétences.
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 66
+	  - Décret n°2015-980 du 31 juillet 2015 - art. 1 (V)
 
 
 ###### Article L321-30
 
-L'Agence foncière et technique de la région parisienne est habilitée à créer des filiales et à acquérir des participations
-dans des sociétés, groupements ou organismes dont l'objet concourt à la réalisation de ses missions.
+Grand Paris Aménagement est habilité à créer des filiales et à acquérir des participations dans des sociétés, groupements ou
+organismes dont l'objet concourt à la réalisation de ses missions.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+	  - Décret n°2015-980 du 31 juillet 2015 - art. 1 (V)
 
 	**Cité par**:
 
@@ -18566,14 +18568,14 @@ dans des sociétés, groupements ou organismes dont l'objet concourt à la réal
 
 ###### Article L321-31
 
-L'Agence foncière et technique de la région parisienne peut agir par voie d'expropriation et exercer les droits de préemption
-et de priorité définis dans le présent code, dans les cas et conditions prévus par le même code.
+Grand Paris Aménagement peut agir par voie d'expropriation et exercer les droits de préemption et de priorité définis dans le
+présent code, dans les cas et conditions prévus par le même code.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+	  - Décret n°2015-980 du 31 juillet 2015 - art. 1 (V)
 
 	**Cité par**:
 
@@ -18585,13 +18587,13 @@ et de priorité définis dans le présent code, dans les cas et conditions prév
 ###### Article L321-32
 
 L'autorité administrative compétente de l'Etat définit les orientations stratégiques de l'Etat. Ces orientations sont mises
-en œuvre par l'Agence foncière et technique de la région parisienne dans le cadre d'un contrat d'objectifs signé avec l'Etat.
+en œuvre par Grand Paris Aménagement dans le cadre d'un contrat d'objectifs signé avec l'Etat.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+	  - Décret n°2015-980 du 31 juillet 2015 - art. 1 (V)
 
 	**Cité par**:
 
@@ -18603,19 +18605,19 @@ en œuvre par l'Agence foncière et technique de la région parisienne dans le c
 
 ###### Article L321-33
 
-Le conseil d'administration de l'Agence foncière et technique de la région parisienne est composé, en nombre égal :
+Le conseil d'administration du       Grand Paris Aménagement est composé, en nombre égal : 
 
-1° De représentants de la région d'Ile-de-France et des départements d'Ile-de-France ;
+1° De représentants de la région d'Ile-de-France et des départements d'Ile-de-France ; 
 
-2° De représentants de l'Etat.
+2° De représentants de l'Etat. 
 
 Il peut être complété par des personnalités qualifiées.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+	  - Décret n°2015-980 du 31 juillet 2015 - art. 1 (V)
 
 	**Cité par**:
 
@@ -45453,8 +45455,8 @@ l'enquête publique ou tenu à la disposition du public.
 ###### Article R*321-1
 
 Les établissements publics fonciers de l'Etat créés en application de l'article L. 321-1, les établissements publics
-d'aménagement créés en application de l'article L. 321-14  et l'Agence foncière et technique de la région parisienne
-mentionnée à l'article L. 321-29 ont un caractère industriel et commercial. 
+d'aménagement créés en application de l'article L. 321-14 et l'établissement public Grand Paris Aménagement mentionné à
+l'article L. 321-29 ont un caractère industriel et commercial. 
 
 Ils sont placés sous la tutelle du ministre chargé de l'urbanisme. 
 
@@ -45473,10 +45475,6 @@ celles du I de l'article R. * 321-9 ;
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
 	**Cité par**:
 
 	  - Décret n°2001-1234 du 20 décembre 2001 - art. 4-1 (V)
@@ -45494,16 +45492,20 @@ celles du I de l'article R. * 321-9 ;
 
 	**Modifié par**:
 
-	  - Décret n°2011-1900 du 20 décembre 2011 - art. 1
+	  - Décret n°2015-980 du 31 juillet 2015 - art. 1 (V)
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L321-1
 	  - Code de l'urbanisme - art. L321-14
 	  - Code de l'urbanisme - art. L321-29
-	  - Code de l'urbanisme - art. R*321-12 (V)
-	  - Code de l'urbanisme - art. R*321-6 (V)
-	  - Code de l'urbanisme - art. R*321-9 (V)
+	  - Code de l'urbanisme - art. R*321-12
+	  - Code de l'urbanisme - art. R*321-6
+	  - Code de l'urbanisme - art. R*321-9
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R*321-2
@@ -45535,7 +45537,7 @@ l'établissement peuvent être modifiées par décret.
 ###### Article R*321-3
 
 Le conseil d'administration des établissements publics fonciers de l'Etat, des établissements publics d'aménagement et de
-l'Agence foncière et technique de la région parisienne se réunit au moins deux fois par an. 
+l'établissement public Grand Paris Aménagement  se réunit au moins deux fois par an. 
 
 Le conseil d'administration est convoqué par son président qui fixe l'ordre du jour et dirige les débats. Le préfet compétent
 peut soumettre au conseil d'administration toute question dont l'examen lui paraît utile. Le président est tenu de l'inscrire
@@ -45574,13 +45576,13 @@ demande écrite à son président.
 
 	**Modifié par**:
 
-	  - Décret n°2011-1900 du 20 décembre 2011 - art. 1
+	  - Décret n°2015-980 du 31 juillet 2015 - art. 1 (V)
 
 
 ###### Article R*321-4
 
 Pour chaque membre du conseil d'administration des établissements publics fonciers de l'Etat, des établissements publics
-d'aménagement et de l'Agence foncière et technique de la région parisienne, un membre suppléant est désigné dans les mêmes
+d'aménagement et de l'établissement public Grand Paris Aménagement, un membre suppléant est désigné dans les mêmes
 conditions.
 
 **Liens relatifs à cet article**
@@ -45619,16 +45621,42 @@ conditions.
 
 	**Modifié par**:
 
-	  - Décret n°2011-1900 du 20 décembre 2011 - art. 1
+	  - Décret n°2015-980 du 31 juillet 2015 - art. 1 (V)
 
 
 ###### Article R*321-5
 
 Les membres du conseil d'administration des établissements publics fonciers de l'Etat, des établissements publics
-d'aménagement et de l'Agence foncière et technique de la région parisienne ne peuvent prendre ou conserver aucun intérêt
-directement lié à l'activité de l'établissement, occuper aucune fonction dans les entreprises traitant avec l'établissement
-pour des marchés de services, de travaux ou de fournitures ou assurer des prestations pour ces entreprises. Ils ne peuvent en
-aucun cas prêter leur concours à titre onéreux à l'établissement.
+d'aménagement et de l'établissement public Grand Paris Aménagement ne peuvent prendre ou conserver aucun intérêt directement
+lié à l'activité de l'établissement, occuper aucune fonction dans les entreprises traitant avec l'établissement pour des
+marchés de services, de travaux ou de fournitures ou assurer des prestations pour ces entreprises. Ils ne peuvent en aucun
+cas prêter leur concours à titre onéreux à l'établissement. 
+
+Ils adressent au préfet compétent, dans les quinze jours suivant leur nomination ou désignation, une déclaration
+mentionnant :
+
+- les fonctions exercées par eux-mêmes et leurs conjoints non séparés de corps ou les personnes avec lesquelles ils sont liés
+par un pacte civil de solidarité, dans les organismes ou les sociétés, ainsi que les sociétés qu'elles contrôlent ou qui les
+contrôlent au sens de l'article L. 233-3 du code de commerce, susceptibles, du fait de leur secteur d'activité, de conclure
+des conventions avec l'établissement public ;
+
+- la liste et le nombre des actions et droits sociaux représentant au moins un vingtième du capital ou des droits de vote,
+possédés par eux-mêmes, leurs conjoints et enfants mineurs non émancipés dans les mêmes sociétés ou organismes.
+
+Le préfet compétent invite l'administrateur qui n'a pas adressé cette déclaration dans le délai prescrit au premier alinéa à
+la produire dans un délai qu'il fixe. Cet administrateur ne peut siéger au conseil d'administration avant de s'être acquitté
+de cette obligation, à moins qu'il ait justifié être dans l'impossibilité temporaire de le faire.
+
+Chaque année, le préfet compétent demande aux membres du conseil d'administration de lui signaler les modifications
+intervenues dans les éléments figurant dans sa déclaration.
+
+Les informations ainsi fournies ont un caractère confidentiel.
+
+Toutefois, le préfet compétent communique à l'autorité chargée du contrôle économique et financier de l'Etat les déclarations
+remplies par les administrateurs ainsi que les modifications qui y sont apportées.
+
+Les membres du conseil d'administration ne peuvent prendre part aux délibérations ayant pour objet une affaire à laquelle ils
+ont un intérêt personnel.
 
 **Liens relatifs à cet article**
 
@@ -45662,11 +45690,12 @@ aucun cas prêter leur concours à titre onéreux à l'établissement.
 
 	**Modifié par**:
 
-	  - Décret n°2011-1900 du 20 décembre 2011 - art. 1
+	  - Décret n°2015-979 du 31 juillet 2015 - art. 1
+	  - Décret n°2015-980 du 31 juillet 2015 - art. 1 (V)
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L321-5
+	  - Code de commerce - art. L233-3
 
 
 ###### Article R*321-6
@@ -45724,8 +45753,8 @@ Pour les établissements publics d'aménagement : le recours à l'arbitrage.
 
 ###### Article R*321-7
 
-Le président du conseil d'administration de l'Agence foncière et technique de la région parisienne est nommé par décret parmi
-les membres du conseil d'administration représentant l'Etat.
+Le président du conseil d'administration de l'établissement public Grand Paris Aménagement  est nommé par décret parmi les
+membres du conseil d'administration représentant l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -45738,19 +45767,23 @@ les membres du conseil d'administration représentant l'Etat.
 	  - Décret n°2008-773 du 30 juillet 2008 - art. 9 (V)
 	  - Décret n°2010-306 du 22 mars 2010 - art. 9 (V)
 	  - Décret n°2010-743 du 2 juillet 2010 - art. 9 (V)
-	  - Décret n°2015-980 du 31 juillet 2015 - art. 6 (M)
 	  - Décret n°2015-980 du 31 juillet 2015 - art. 15 (Ab)
+	  - Décret n°2015-980 du 31 juillet 2015 - art. 6 (VD)
 
 	**Modifié par**:
 
-	  - Décret n°2011-1900 du 20 décembre 2011 - art. 1
+	  - Décret n°2015-980 du 31 juillet 2015 - art. 1 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2017-777 du 5 mai 2017 - art. 3
 
 
 ###### Article R*321-8
 
-Les directeurs généraux des établissements publics de l'Etat et des établissements publics d'aménagement sont nommés par
-arrêté du ministre chargé de l'urbanisme après avis du préfet compétent et du président du conseil d'administration pour une
-durée de cinq ans renouvelable. Il peut être mis fin à leurs fonctions dans les mêmes formes avant l'expiration de leur
+Les directeurs généraux des établissements publics fonciers de l'Etat et des établissements publics d'aménagement sont nommés
+par arrêté du ministre chargé de l'urbanisme après avis du préfet compétent et du président du conseil d'administration pour
+une durée de cinq ans renouvelable. Il peut être mis fin à leurs fonctions dans les mêmes formes avant l'expiration de leur
 mandat. 
 
 Les avis du préfet compétent et du président du conseil d'administration sont réputés favorables s'ils n'ont pas été émis
@@ -45791,13 +45824,13 @@ sont incompatibles avec celles de membre du conseil d'administration.
 
 	**Modifié par**:
 
-	  - Décret n°2011-1900 du 20 décembre 2011 - art. 1
+	  - Décret n°2015-979 du 31 juillet 2015 - art. 1
 
 
 ###### Article R*321-9
 
 I. ― Le directeur général d'un établissement public foncier de l'Etat ou d'un établissement public d'aménagement, le
-président-directeur général de l'Agence foncière et technique de la région parisienne sont ordonnateurs des dépenses et des
+président-directeur général de l'établissement public Grand Paris Aménagement sont ordonnateurs des dépenses et des
 recettes. 
 
 Dans ces établissements publics, le directeur général est compétent pour : 
@@ -45806,11 +45839,14 @@ Dans ces établissements publics, le directeur général est compétent pour :
 
 2° Préparer et conclure les transactions ; 
 
-3° Représenter l'établissement dans les actes de la vie civile et commerciale et ester en justice. 
+3° Représenter l'établissement dans les actes de la vie civile et commerciale et ester en justice ;
+
+4° Ouvrir et organiser celles des enquêtes publiques prévues aux articles L. 123-1 et L. 123-2 du code de l'environnement qui
+sont requises pour les décisions ressortant de la compétence de l'établissement. 
 
 En outre, il est chargé de l'instruction préalable des affaires qui sont de la compétence de l'établissement. Il prépare et
-exécute les décisions du conseil d'administration et du bureau. Il prépare et présente        le budget. Il recrute le
-personnel et a autorité sur lui. Il peut déléguer sa signature. 
+exécute les décisions du conseil d'administration et du bureau. Il prépare et présente le budget. Il recrute le personnel et
+a autorité sur lui. Il peut déléguer sa signature. 
 
 II. ― Le directeur général d'un établissement public foncier de l'Etat ou d'un établissement public d'aménagement assiste de
 droit aux réunions du conseil d'administration et du bureau. Il prépare et présente le programme pluriannuel d'intervention
@@ -45821,10 +45857,6 @@ ou le programme stratégique et opérationnel et le bilan annuel.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Cite**:
-
-	  - Décret n°55-733 du 26 mai 1955
 
 	**Cité par**:
 
@@ -45851,14 +45883,20 @@ ou le programme stratégique et opérationnel et le bilan annuel.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
+	  - Décret n°2015-979 du 31 juillet 2015 - art. 1
+	  - Décret n°2015-980 du 31 juillet 2015 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L123-1
+	  - Code de l'environnement - art. L123-2
 
 
 ###### Article R*321-10
 
 Le directeur général, dans les limites des compétences qui lui ont été déléguées, peut, par délégation du conseil
 d'administration, être chargé d'exercer au nom de l'établissement public foncier de l'Etat, de l'établissement public
-d'aménagement ou de l'Agence foncière et technique de la région parisienne les droits de préemption dont l'établissement est
+d'aménagement ou de l'établissement public Grand Paris Aménagement  les droits de préemption dont l'établissement est
 titulaire ou délégataire et le droit de priorité dont l'établissement est délégataire.
 
 **Liens relatifs à cet article**
@@ -45876,16 +45914,15 @@ titulaire ou délégataire et le droit de priorité dont l'établissement est d�
 
 	**Modifié par**:
 
-	  - Décret n°2011-1900 du 20 décembre 2011 - art. 1
+	  - Décret n°2015-980 du 31 juillet 2015 - art. 1 (V)
 
 
 ###### Article R*321-11
 
-Les établissements publics fonciers de l'Etat, les établissements publics d'aménagement et l'Agence foncière et technique de
-la région parisienne sont autorisés à transiger. 
+Les établissements publics fonciers de l'Etat, les établissements publics d'aménagement et l'établissement public Grand Paris
+Aménagement  sont autorisés à transiger. 
 
-Les établissements publics d'aménagement et l'Agence foncière et technique de la région parisienne sont autorisés à
-compromettre.
+Les établissements publics d'aménagement et l'établissement public Grand Paris Aménagement  sont autorisés à compromettre.
 
 **Liens relatifs à cet article**
 
@@ -45904,7 +45941,7 @@ compromettre.
 
 	**Modifié par**:
 
-	  - Décret n°2011-1900 du 20 décembre 2011 - art. 1
+	  - Décret n°2015-980 du 31 juillet 2015 - art. 1 (V)
 
 	**Codifié par**:
 
@@ -45918,10 +45955,9 @@ compromettre.
 ###### Article R*321-12
 
 Les actes à caractère réglementaire pris par délibération du conseil d'administration ou du bureau des établissements publics
-fonciers de l'Etat, des établissements publics d'aménagement, de l'Agence foncière et technique de la région parisienne ou
-par le directeur général par délégation du conseil d'administration ou en vertu de ses compétences propres en application des
-lois et règlements sont publiés dans un recueil tenu par l'établissement dans les conditions fixées par le règlement
-intérieur. 
+fonciers de l'Etat, des établissements publics d'aménagement, de l'établissement public Grand Paris Aménagement  ou par le
+directeur général par délégation du conseil d'administration ou en vertu de ses compétences propres en application des lois
+et règlements sont publiés dans un recueil tenu par l'établissement dans les conditions fixées par le règlement intérieur. 
 
 Les décisions relatives à l'exercice du droit de préemption ou de priorité font, en plus de la publication prévue à l'alinéa
 précédent, l'objet d'un affichage dans les mairies concernées par celles-ci pendant une durée de deux mois.
@@ -45941,7 +45977,7 @@ précédent, l'objet d'un affichage dans les mairies concernées par celles-ci p
 
 	**Modifié par**:
 
-	  - Décret n°2011-1900 du 20 décembre 2011 - art. 1
+	  - Décret n°2015-980 du 31 juillet 2015 - art. 1 (V)
 
 	**Cite**:
 
@@ -46001,8 +46037,9 @@ II.-Le ministre chargé de l'urbanisme définit les orientations stratégiques p
 
 Le projet stratégique et opérationnel mentionné à l'article L. 321-18 comporte : 
 
-1° Un document déclinant sur le long terme les orientations stratégiques et opérationnelles de l'établissement sur son
-territoire de compétence, assorties des moyens techniques et financiers susceptibles d'être mobilisés ; 
+1° Un document présentant les orientations stratégiques et opérationnelles à long terme de l'établissement sur son territoire
+de compétence, assorties des moyens techniques et financiers susceptibles d'être mobilisés et intégrant un calendrier
+indicatif de réalisation ;
 
 2° Un document planifiant à moyen terme, sous la forme d'un programme prévisionnel d'aménagement (PPA), les actions,
 opérations et projets à réaliser, leur localisation, l'échéancier prévisionnel de leur réalisation ainsi que les perspectives
@@ -46013,6 +46050,10 @@ et d'actualiser leurs perspectives financières.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2015-979 du 31 juillet 2015 - art. 1
+
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L321-18
@@ -46020,10 +46061,6 @@ et d'actualiser leurs perspectives financières.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°2011-1900 du 20 décembre 2011 - art. 1
 
 
 ###### Article R*321-15
@@ -46102,11 +46139,11 @@ compétent.
 
 Sans préjudice de l'application des dispositions du décret n° 55-733 du 26 mai 1955 relatif au contrôle économique et
 financier de l'Etat et du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique, les
-établissements publics fonciers de l'Etat, les établissements publics d'aménagement et l'Agence foncière et technique de la
-région parisienne, ainsi que les filiales dont ils détiennent directement ou indirectement plus de la moitié du capital
-social ou des droits de vote à l'assemblée générale, sont soumis au contrôle du préfet du département lorsque leur activité
-s'exerce dans le cadre de ce seul ressort territorial. Lorsque cette activité s'étend sur plusieurs départements et n'excède
-pas le périmètre régional, le contrôle est exercé par le préfet de la région. 
+établissements publics fonciers de l'Etat, les établissements publics d'aménagement et l'établissement public Grand Paris
+Aménagement, ainsi que les filiales dont ils détiennent directement ou indirectement plus de la moitié du capital social ou
+des droits de vote à l'assemblée générale, sont soumis au contrôle du préfet du département lorsque leur activité s'exerce
+dans le cadre de ce seul ressort territorial. Lorsque cette activité s'étend sur plusieurs départements et n'excède pas le
+périmètre régional, le contrôle est exercé par le préfet de la région. 
 
 Dans les autres cas, ils sont soumis au contrôle du préfet désigné en application de l'article 66 du décret n° 2004-374 du 29
 avril 2004 relatif aux pouvoirs des préfets, à l'organisation et à l'action des services de l'Etat dans les régions et
@@ -46122,11 +46159,11 @@ départements.
 
 	  - Décret n°55-733 du 26 mai 1955
 	  - Décret n°2004-374 du 29 avril 2004
-	  - Décret n°2012-1246 du 7 novembre 2012 (V)
+	  - Décret n°2012-1246 du 7 novembre 2012
 
 	**Modifié par**:
 
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 46
+	  - Décret n°2015-980 du 31 juillet 2015 - art. 1 (V)
 
 
 ###### Article R*321-18
@@ -46140,9 +46177,9 @@ compétent et sont soumises à son approbation.
 Il en est de même des délibérations du conseil d'administration des établissements publics d'aménagement relatives aux
 procédures d'arbitrage. 
 
-II.-Les délibérations du conseil d'administration de l'Agence foncière et technique de la région parisienne relatives aux
-prévisions budgétaires, aux projets d'emprunt, aux créations de filiales, aux acquisitions de participations et aux
-procédures d'arbitrage et de transaction sont transmises au préfet compétent et soumises à son approbation. 
+II.-Les délibérations du conseil d'administration de l'établissement public Grand Paris Aménagement  relatives aux prévisions
+budgétaires, aux projets d'emprunt, aux créations de filiales, aux acquisitions de participations et aux procédures
+d'arbitrage et de transaction sont transmises au préfet compétent et soumises à son approbation. 
 
 III.-Les délibérations mentionnées au présent article sont exécutoires dans les conditions prévues à l'article R* 321-19. 
 
@@ -46198,11 +46235,11 @@ Le préfet compétent peut demander au conseil d'administration d'en délibérer
 	  - Décret n°2016-1865 du 23 décembre 2016 - art. 4 (VD)
 	  - Décret n°2017-341 du 15 mars 2017 - art. 13 (VD)
 	  - Décret n°2017-341 du 15 mars 2017 - art. 4 (VD)
-	  - Code de l'urbanisme - art. R*321-19 (M)
+	  - Code de l'urbanisme - art. R*321-19 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2011-1900 du 20 décembre 2011 - art. 1
+	  - Décret n°2015-980 du 31 juillet 2015 - art. 1 (V)
 
 
 ###### Article R*321-19
@@ -46229,9 +46266,9 @@ elles sont exécutoires de plein droit.
 Lorsque les acquisitions ou participations portent sur la minorité des parts ou actions et sont inférieures au seuil précité,
 elles ne sont exécutoires qu'après approbation par le préfet compétent dans les conditions fixées au I du présent article. 
 
-IV.-Par dérogation aux dispositions du I, les délibérations du conseil d'administration de l'Agence foncière et technique de
-la région parisienne relatives aux créations de filiales, prises, extensions ou cessions de participations financières ne
-sont exécutoires qu'après approbation par arrêté conjoint des ministres chargés de l'économie, du budget et de l'urbanisme. 
+IV.-Par dérogation aux dispositions du I, les délibérations du conseil d'administration de l'établissement public Grand Paris
+Aménagement  relatives aux créations de filiales, prises, extensions ou cessions de participations financières ne sont
+exécutoires qu'après approbation par arrêté conjoint des ministres chargés de l'économie, du budget et de l'urbanisme. 
 
 Lorsque les prises, extensions ou cessions sont inférieures à un seuil fixé par arrêté de ces ministres et sont relatives à
 des sociétés, groupements ou organismes dont le siège et l'activité sont en rapport avec les champs de compétence de
@@ -46280,14 +46317,14 @@ leur réception par ces mêmes ministres, à moins que l'un de ceux-ci n'y fasse
 
 	**Modifié par**:
 
-	  - Décret n°2011-1900 du 20 décembre 2011 - art. 1
+	  - Décret n°2015-980 du 31 juillet 2015 - art. 1 (V)
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L321-1
 	  - Code de l'urbanisme - art. L321-14
-	  - Code de l'urbanisme - art. L321-17 (V)
-	  - Code de l'urbanisme - art. L321-3 (V)
+	  - Code de l'urbanisme - art. L321-17
+	  - Code de l'urbanisme - art. L321-3
 
 
 ###### Article R*321-20
@@ -46323,9 +46360,9 @@ Les établissements publics fonciers de l'Etat sont soumis aux dispositions des 
 novembre 2012 relatif à la gestion budgétaire et comptable publique. 
 
 Par dérogation aux dispositions de l'article 3 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
-comptable publique, les établissements publics d'aménagement et l'Agence foncière et technique de la région parisienne sont
-soumis aux dispositions des titres Ier et III de ce décret, à l'exception des 1° et 2° de l'article 175 et des articles 178 à
-185, 204 à 208, 220 à 228 de ce même décret, ainsi qu'aux dispositions du décret n° 55-733 du 26 mai 1955 relatif au contrôle
+comptable publique, les établissements publics d'aménagement et l'établissement public Grand Paris Aménagement  sont soumis
+aux dispositions des titres Ier et III de ce décret, à l'exception des 1° et 2° de l'article 175 et des articles 178 à 185,
+204 à 208, 220 à 228 de ce même décret, ainsi qu'aux dispositions du décret n° 55-733 du 26 mai 1955 relatif au contrôle
 économique et financier de l'Etat. 
 
 Il peut être institué au sein de ces établissements publics des régies de recettes et des régies d'avances dans les
@@ -46343,10 +46380,10 @@ les entreprises publiques nationales et certains organismes ayant un objet d'ord
 
 	**Cite**:
 
-	  - Décret n°53-707 du 9 août 1953 (V)
-	  - Décret n°55-733 du 26 mai 1955 (V)
-	  - Décret n°92-681 du 20 juillet 1992 (V)
-	  - Décret n°2012-1246 du 7 novembre 2012 (V)
+	  - Décret n°53-707 du 9 août 1953
+	  - Décret n°55-733 du 26 mai 1955
+	  - Décret n°92-681 du 20 juillet 1992
+	  - Décret n°2012-1246 du 7 novembre 2012
 
 	**Cité par**:
 
@@ -46365,6 +46402,7 @@ les entreprises publiques nationales et certains organismes ayant un objet d'ord
 	  - Décret n°98-923 du 14 octobre 1998 - art. 15 (VD)
 	  - Décret n°2001-1234 du 20 décembre 2001 - art. 12 (VD)
 	  - Décret n°2002-477 du 8 avril 2002 - art. 10 (Ab)
+	  - Décret n°2002-623 du 25 avril 2002 - art. 16 (Ab)
 	  - Décret n°2006-1140 du 13 septembre 2006 - art. 14 (VD)
 	  - Décret n°2007-88 du 24 janvier 2007 - art. 12 (V)
 	  - Décret n°2007-88 du 24 janvier 2007 - art. 9 (VD)
@@ -46386,7 +46424,7 @@ les entreprises publiques nationales et certains organismes ayant un objet d'ord
 
 	**Modifié par**:
 
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 46
+	  - Décret n°2015-980 du 31 juillet 2015 - art. 1 (V)
 
 
 ###### Article R*321-22
