@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2015-08-06
+Version Consolidée au 2015-08-08
 
 # Partie législative
 
@@ -5914,11 +5914,13 @@ conforme de la commission départementale de la préservation des espaces agrico
 L. 112-1-1 du code rural et de la pêche maritime, et, en zone naturelle, à l'avis conforme de la commission départementale de
 la nature, des paysages et des sites. 
 
-Dans les zones agricoles ou naturelles et en dehors des secteurs mentionnés au présent 6°, les bâtiments d'habitation peuvent
-faire l'objet d'une extension dès lors que cette extension ne compromet pas l'activité agricole ou la qualité paysagère du
-site. Le règlement précise les conditions de hauteur, d'implantation et de densité des extensions permettant d'assurer leur
-insertion dans l'environnement et leur compatibilité avec le maintien du caractère naturel, agricole ou forestier de la
-zone. 
+Dans les zones agricoles ou naturelles et en dehors des secteurs mentionnés au présent 6°, les bâtiments d'habitation
+existants peuvent faire l'objet d'extensions ou d'annexes, dès lors que ces extensions ou annexes ne compromettent pas
+l'activité agricole ou la qualité paysagère du site. Le règlement précise la zone d'implantation et les conditions de
+hauteur, d'emprise et de densité de ces extensions ou annexes permettant d'assurer leur insertion dans l'environnement et
+leur compatibilité avec le maintien du caractère naturel, agricole ou forestier de la zone. Les dispositions du règlement
+prévues au présent alinéa sont soumises à l'avis de la commission départementale de la préservation des espaces naturels,
+agricoles et forestiers prévue à l'article L. 112-1-1 du code rural et de la pêche maritime.
 
 III.-Le règlement peut, en matière de caractéristiques architecturale, urbaine et écologique : 
 
@@ -5971,9 +5973,9 @@ général, aux espaces verts ainsi qu'aux espaces nécessaires aux continuités 
 
 	  - Loi n°2000-614 du 5 juillet 2000
 	  - Code général des collectivités territoriales - art. L2224-10
-	  - Code rural - art. L112-1-1 (V)
+	  - Code rural - art. L112-1-1
 	  - Code de l'urbanisme - art. L121-1
-	  - Code de l'urbanisme - art. L130-1 (VT)
+	  - Code de l'urbanisme - art. L130-1
 
 	**Cité par**:
 
@@ -6007,12 +6009,11 @@ général, aux espaces verts ainsi qu'aux espaces nécessaires aux continuités 
 	  - Code des transports - art. R1241-32 (M)
 	  - Code du tourisme. - art. L342-18 (V)
 	  - Code du tourisme. - art. L342-23 (V)
-	  - Code rural et de la pêche maritime - art. L411-57 (V)
+	  - Code rural - art. L411-57 (M)
 
 	**Modifié par**:
 
-	  - Loi n°2014-1170 du 13 octobre 2014 - art. 25
-	  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
+	  - Loi n°2015-990 du 6 août 2015 - art. 80
 
 
 ###### Article L123-1-6
@@ -6137,18 +6138,18 @@ document d'urbanisme en tenant lieu, à l'intérieur desquels un dépassement de
 l'emprise au sol résultant de l'un de ces documents est autorisé pour permettre l'agrandissement ou la construction de
 bâtiments à usage d'habitation. Ce dépassement, fixé pour chaque secteur, ne peut excéder 20 % pour chacune des règles
 concernées. L'application du dépassement ainsi autorisé ne peut conduire à la création d'une surface de plancher supérieure
-de plus de 20 % à la surface de plancher existante.
+de plus de 20 % à la surface de plancher existante. 
 
 Le deuxième alinéa n'est pas applicable dans les zones A, B et C des plans d'exposition au bruit mentionnées à l'article L.
 147-4 du présent code et dans les zones mentionnées aux 1° et 2° du II de l'article L. 562-1 du code de l'environnement. 
 
-Son application est exclusive de celle des articles L. 127-1 et L. 128-1 du présent code.
+Son application est exclusive de celle des articles    L. 127-1, L. 127-2  et L. 128-1 du présent code.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 158 (V)
+	  - Loi n°2015-990 du 6 août 2015 - art. 79
 
 	**Cité par**:
 
@@ -7111,7 +7112,7 @@ publication de la présente loi.
 ###### Article L123-13-2
 
 Sauf dans le cas des majorations des possibilités de construire prévues au deuxième alinéa de l'article L. 123-1-11 ainsi
-qu'aux articles L. 127-1, L. 128-1 et L. 128-2, lorsque le projet de modification a pour effet : 
+qu'aux articles    L. 127-1, L. 127-2 , L. 128-1 et L. 128-2, lorsque le projet de modification a pour effet : 
 
 1° Soit de majorer de plus de 20 % les possibilités de construction résultant, dans une zone, de l'application de l'ensemble
 des règles du plan ; 
@@ -7137,7 +7138,7 @@ l'article L. 123-6, du conseil municipal.
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 158 (V)
+	  - Loi n°2015-990 du 6 août 2015 - art. 79
 
 	**Cite**:
 
@@ -7155,10 +7156,10 @@ l'article L. 123-6, du conseil municipal.
 ###### Article L123-13-3
 
 I.-En dehors des cas mentionnés à l'article L. 123-13-2, et dans le cas des majorations des possibilités de construire
-prévues au deuxième alinéa de l'article L. 123-1-11 ainsi qu'aux articles L. 127-1, L. 128-1 et L. 128-2, le projet de
-modification peut, à l'initiative du président de l'établissement public de coopération intercommunale ou, dans le cas prévu
-au deuxième alinéa de l'article L. 123-6, du maire, être adopté selon une procédure simplifiée. Il en est de même lorsque le
-projet de modification a uniquement pour objet la rectification d'une erreur matérielle. 
+prévues au deuxième alinéa de l'article L. 123-1-11 ainsi qu'aux articles    L. 127-1, L. 127-2 , L. 128-1 et L. 128-2, le
+projet de modification peut, à l'initiative du président de l'établissement public de coopération intercommunale ou, dans le
+cas prévu au deuxième alinéa de l'article L. 123-6, du maire, être adopté selon une procédure simplifiée. Il en est de même
+lorsque le projet de modification a uniquement pour objet la rectification d'une erreur matérielle. 
 
 II.-Le projet de modification, l'exposé de ses motifs et, le cas échéant, les avis émis par les personnes associées
 mentionnées aux I et III de l'article L. 121-4 sont mis à disposition du public pendant un mois, dans des conditions lui
@@ -7177,7 +7178,7 @@ tenir compte des avis émis et des observations du public par délibération mot
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 158 (V)
+	  - Loi n°2015-990 du 6 août 2015 - art. 79
 
 	**Cité par**:
 
@@ -7189,8 +7190,8 @@ tenir compte des avis émis et des observations du public par délibération mot
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L121-4
-	  - Code de l'urbanisme - art. L123-1-11
-	  - Code de l'urbanisme - art. L123-13-2
+	  - Code de l'urbanisme - art. L123-1-11 (M)
+	  - Code de l'urbanisme - art. L123-13-2 (M)
 	  - Code de l'urbanisme - art. L123-6
 	  - Code de l'urbanisme - art. L127-1
 	  - Code de l'urbanisme - art. L128-1
@@ -8051,6 +8052,35 @@ rapport entre le nombre de logements locatifs sociaux et le nombre total des log
 	  - Code de la construction et de l'habitation. - art. L302-5
 
 
+###### Article L127-2
+
+Le règlement peut délimiter des secteurs à l'intérieur desquels la réalisation de programmes de logements comportant des
+logements intermédiaires, définis à l'article L. 302-16 du code de la construction et de l'habitation, bénéficie d'une
+majoration du volume constructible qui résulte des règles relatives au gabarit, à la hauteur et à l'emprise au sol. Cette
+majoration, fixée pour chaque secteur, ne peut excéder 30 %. Pour chaque opération, elle ne peut être supérieure au rapport
+entre le nombre de logements intermédiaires et le nombre total de logements de l'opération. 
+
+Cette majoration ne s'applique pas aux logements mentionnés à l'article 199 novovicies du code général des impôts. 
+
+La partie de la construction en dépassement n'est pas assujettie au versement résultant du dépassement du plafond légal de
+densité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 79
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L151-28 (VD)
+	  - Code de l'urbanisme - art. L151-29 (VD)
+
+
 #### Chapitre VIII : Dispositions favorisant la performance énergétique et les énergies renouvelables dans l'habitat
 
 ###### Article L128-1
@@ -8155,19 +8185,27 @@ modification a été notifié aux personnes publiques associées à la date d'en
 
 ###### Article L128-3
 
-L'application combinée des articles L. 127-1, L. 128-1 et L. 128-2 ne peut conduire à autoriser un dépassement de plus de 50
-%                  du volume autorisé par le gabarit de la construction.
+L'application combinée des articles    L. 127-1, L. 127-2 , L. 128-1 et L. 128-2 ne peut conduire à autoriser un dépassement
+de plus de 50 % du volume autorisé par le gabarit de la construction.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 158 (V)
+	  - Loi n°2015-990 du 6 août 2015 - art. 79
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L127-1
-	  - Code de l'urbanisme - art. L128-1
+	  - Code de l'urbanisme - art. L127-1 (VT)
+	  - Code de l'urbanisme - art. L128-1 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L151-29 (VD)
 
 
 ###### Article L128-4
@@ -12889,17 +12927,27 @@ de cinq ans à compter du jour où la délibération est exécutoire.
 ###### Article L211-2
 
 Lorsque la commune fait partie d'un établissement public de coopération intercommunale y ayant vocation, elle peut, en accord
-avec cet établissement, lui déléguer tout ou partie des compétences qui lui sont attribuées par le présent chapitre.
+avec cet établissement, lui déléguer tout ou partie des compétences qui lui sont attribuées par le présent chapitre. 
 
 Toutefois, la compétence d'un établissement public de coopération intercommunale à fiscalité propre, ainsi que celle de la
 métropole de Lyon en matière de plan local d'urbanisme, emporte leur compétence de plein droit en matière de droit de
-préemption urbain.
+préemption urbain. 
+
+Le titulaire du droit de préemption urbain peut déléguer son droit à une société d'économie mixte agréée mentionnée à
+l'article L. 481-1 du code de la construction et de l'habitation, à l'un des organismes d'habitations à loyer modéré prévus à
+l'article L. 411-2 du même code ou à l'un des organismes agréés mentionnés à l'article L. 365-2 dudit code lorsque
+l'aliénation porte sur un des biens ou des droits affectés au logement. Leur organe délibérant peut déléguer l'exercice de ce
+droit, dans des conditions définies par décret en Conseil d'Etat. Par dérogation à l'article L. 213-11 du présent code, les
+biens acquis par exercice du droit de préemption en application du présent alinéa ne peuvent être utilisés qu'en vue de la
+réalisation d'opérations d'aménagement ou de construction permettant la réalisation des objectifs fixés dans le programme
+local de l'habitat ou déterminés en application du premier alinéa de l'article L. 302-8 du code de la construction et de
+l'habitation.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 149
+	  - Loi n°2015-990 du 6 août 2015 - art. 87
 
 	**Cité par**:
 
@@ -12924,6 +12972,14 @@ préemption urbain.
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L211-2 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L213-11 (V)
+	  - Code de la construction et de l'habitation. - art. L302-8
+	  - Code de la construction et de l'habitation. - art. L365-2 (V)
+	  - Code de la construction et de l'habitation. - art. L411-2 (V)
+	  - Code de la construction et de l'habitation. - art. L481-1
 
 	**Codifié par**:
 
@@ -12951,17 +13007,15 @@ mentionnées au même article L. 411-2.
 ###### Article L211-3
 
 Le droit de préemption urbain n'est pas applicable aux aliénations de biens et droits immobiliers ayant fait l'objet de la
-notification prévue par l'article L. 240-3.
+notification prévue par l'article L. 240-3 du présent code, ni à l'aliénation de terrains au profit du preneur à bail à
+construction conclu à l'occasion d'une opération d'accession sociale à la propriété, prévue au dernier alinéa de l'article L.
+251-1 du code de la construction et de l'habitation.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Créé par**:
-
-	  - Loi n°2006-872 du 13 juillet 2006 - art. 15 () JORF 16 juillet 2006
+	  - Loi n°2015-990 du 6 août 2015 - art. 96
 
 	**Cité par**:
 
@@ -12979,7 +13033,12 @@ notification prévue par l'article L. 240-3.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L240-3 (V)
+	  - Code de l'urbanisme - art. L240-3
+	  - Code de la construction et de l'habitation. - art. L251-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L211-4
@@ -13522,10 +13581,16 @@ j) Les cessions entre la SNCF, SNCF Réseau et SNCF Mobilités.
 ###### Article L213-1-1
 
 Sont également soumis au droit de préemption les immeubles ou ensembles de droits sociaux mentionnés au 1° de l'article L.
-213-1 lorsqu'ils font l'objet d'une aliénation à titre gratuit, sauf si celle-ci est effectuée entre personnes ayant des
-liens de parenté jusqu'au sixième degré ou des liens issus d'un mariage ou d'un pacte civil de solidarité ou au profit des
-fondations, des congrégations, des associations ayant la capacité à recevoir des libéralités et, dans les départements du
-Bas-Rhin, du Haut-Rhin et de la Moselle, des établissements publics du culte et des associations inscrites de droit local.  
+213-1 lorsqu'ils font l'objet d'une donation entre vifs, sauf si celle-ci est effectuée :
+
+1° Entre ascendants et descendants ;
+
+2° Entre collatéraux jusqu'au sixième degré ;
+
+3° Entre époux ou partenaires d'un pacte civil de solidarité ;
+
+4° Entre une personne et les descendants de son conjoint ou de son partenaire de pacte civil de solidarité, ou entre ces
+descendants. 
 
 Le présent chapitre est applicable aux aliénations mentionnées au premier alinéa. Toutefois, par dérogation au premier alinéa
 de l'article L. 213-2, la déclaration adressée à la mairie ne mentionne pas le prix. La décision du titulaire du droit de
@@ -13535,7 +13600,7 @@ préemption d'acquérir le bien indique l'estimation de celui-ci par les service
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-904 du 23 juillet 2015 - art. 5
+	  - Loi n°2015-990 du 6 août 2015 - art. 113
 
 	**Cite**:
 
@@ -18482,9 +18547,6 @@ Un décret en Conseil d'Etat détermine les conditions d'application de la prés
 	**Créé par**:
 
 	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
-
-
-##### Section 3 : Agence foncière et technique de la région parisienne
 
 
 ##### Section 3 : Grand Paris Aménagement
@@ -24172,7 +24234,10 @@ Un décret en Conseil d'Etat précise les cas dans lesquels un permis tacite ne 
 
 ###### Article L424-3
 
-Lorsque la décision rejette la demande ou s'oppose à la déclaration préalable, elle doit être motivée.
+Lorsque la décision rejette la demande ou s'oppose à la déclaration préalable, elle doit être motivée. 
+
+Cette motivation doit indiquer l'intégralité des motifs justifiant la décision de rejet ou d'opposition, notamment l'ensemble
+des absences de conformité des travaux aux dispositions législatives et réglementaires mentionnées à l'article L. 421-6. 
 
 Il en est de même lorsqu'elle est assortie de prescriptions, oppose un sursis à statuer ou comporte une dérogation ou une
 adaptation mineure aux règles d'urbanisme applicables.
@@ -24183,13 +24248,17 @@ adaptation mineure aux règles d'urbanisme applicables.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L421-6 (V)
+
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+	  - Loi n°2015-990 du 6 août 2015 - art. 108
 
 
 ###### Article L424-4
@@ -24445,33 +24514,17 @@ ce qui concerne l'aménagement intérieur du bâtiment ou de la partie de bâtim
 
 Lorsque le projet est soumis à autorisation d'exploitation commerciale au sens de l'article L. 752-1 du code de commerce, le
 permis de construire tient lieu d'autorisation dès lors que la demande de permis a fait l'objet d'un avis favorable de la
-commission départementale d'aménagement commercial ou, le cas échéant, de la Commission nationale d'aménagement commercial. 
+commission départementale d'aménagement commercial ou, le cas échéant, de la Commission nationale d'aménagement commercial.
+Une modification du projet qui revêt un caractère substantiel, au sens de l'article L. 752-15 du même code, mais n'a pas
+d'effet sur la conformité des travaux projetés par rapport aux dispositions législatives et réglementaires mentionnées à
+l'article L. 421-6 du présent code nécessite une nouvelle demande d'autorisation d'exploitation commerciale auprès de la
+commission départementale. 
 
 A peine d'irrecevabilité, la saisine de la commission nationale par les personnes mentionnées à l'article L. 752-17 du même
 code est un préalable obligatoire au recours contentieux dirigé contre la décision de l'autorité administrative compétente
-pour délivrer le permis de construire. 
-
-Une nouvelle demande de permis de construire valant autorisation d'exploitation commerciale est nécessaire dès lors qu'un
-projet subit une modification substantielle au sens de l'article L. 752-15 dudit code. 
-
-La seule circonstance qu'un permis de construire valant autorisation d'exploitation commerciale fasse l'objet d'un permis
-modificatif ne saurait, à elle seule, justifier une nouvelle saisine pour avis de la commission départementale d'aménagement
-commercial dès lors que le permis modificatif n'a pas pour effet d'entraîner une modification substantielle du projet au sens
-du même article L. 752-15. 
-
-Le permis de construire, le permis d'aménager ou la décision prise sur la déclaration préalable valant autorisation
-d'exploitation commerciale est incessible et intransmissible.
-
-**Nota:**
-
-Conformément à la loi n° 2014-626 du 18 juin 2014, article 60, ces dispositions entrent en vigueur à une date fixée par
-décret en Conseil d'Etat et au plus tard le 18 décembre 2014.
+pour délivrer le permis de construire.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2014-626 du 18 juin 2014 - art. 39
 
 	**Cité par**:
 
@@ -24483,10 +24536,15 @@ décret en Conseil d'Etat et au plus tard le 18 décembre 2014.
 	  - Code de l'urbanisme - art. L600-10 (VD)
 	  - Code de l'urbanisme - art. R*424-2 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 36
+
 	**Cite**:
 
 	  - Code de commerce - art. L752-1
-	  - Code de commerce - art. L752-15 (VT)
+	  - Code de commerce - art. L752-15 (V)
+	  - Code de l'urbanisme - art. L421-6 (V)
 
 
 #####  Section 3 : Opérations pour lesquelles l'autorisation prévue par une autre législation dispense de permis ou de déclaration préalable
@@ -24818,10 +24876,10 @@ bâtiments ainsi que le traitement de leurs accès et de leurs abords.
 ###### Article L431-3
 
 Conformément aux dispositions de l'article 4 de la loi n° 77-2 du 3 janvier 1977 sur l'architecture, par dérogation à
-l'article L. 431-1, ne sont pas tenues de recourir à un architecte les personnes physiques ou exploitations agricoles à
-responsabilité limitée à associé unique qui déclarent vouloir édifier ou modifier, pour elles-mêmes, une construction de
-faible importance dont les caractéristiques, notamment la surface maximale de plancher, sont déterminées par décret en
-Conseil d'Etat. Ces caractéristiques peuvent être différentes selon la destination des constructions. 
+l'article L. 431-1, ne sont pas tenues de recourir à un architecte les personnes physiques ou exploitations agricoles
+qui déclarent vouloir édifier ou modifier, pour elles-mêmes, une construction de faible importance dont les caractéristiques,
+notamment la surface maximale de plancher, sont déterminées par décret en Conseil d'Etat. Ces caractéristiques peuvent être
+différentes selon la destination des constructions. 
 
 Le recours à l'architecte n'est pas non plus obligatoire pour les travaux soumis au permis de construire qui portent
 exclusivement sur l'aménagement et l'équipement des espaces intérieurs des constructions et des vitrines commerciales ou qui
@@ -24844,13 +24902,13 @@ le maître d'ouvrage qui les utilise.
 
 	**Cite**:
 
-	  - Loi n°77-2 du 3 janvier 1977 - art. 4 (V)
-	  - Loi n°77-2 du 3 janvier 1977 - art. 5 (V)
-	  - Code de l'urbanisme - art. L431-1 (V)
+	  - Loi n°77-2 du 3 janvier 1977 - art. 4
+	  - Loi n°77-2 du 3 janvier 1977 - art. 5
+	  - Code de l'urbanisme - art. L431-1
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+	  - Loi n°2015-990 du 6 août 2015 - art. 112
 
 	**Cité par**:
 
@@ -27230,12 +27288,62 @@ En outre un emprisonnement de un mois pourra être prononcé.
 
 Lorsqu'une construction a été édifiée conformément à un permis de construire : 
 
-a) Le propriétaire ne peut être condamné par un tribunal de l'ordre judiciaire à la démolir du fait de la méconnaissance des
+1° Le propriétaire ne peut être condamné par un tribunal de l'ordre judiciaire à la démolir du fait de la méconnaissance des
 règles d'urbanisme ou des servitudes d'utilité publique que si, préalablement, le permis a été annulé pour excès de pouvoir
-par la juridiction administrative. L'action en démolition doit être engagée au plus tard dans le délai de deux ans qui suit
-la décision devenue définitive de la juridiction administrative ; 
+par la juridiction administrative et si la construction est située dans l'une des zones suivantes : 
 
-b) Le constructeur ne peut être condamné par un tribunal de l'ordre judiciaire à des dommages et intérêts que si,
+a) Les espaces, paysages et milieux caractéristiques du patrimoine naturel et culturel montagnard mentionnés au II de
+l'article L. 145-3, lorsqu'ils ont été identifiés et délimités par des documents réglementaires relatifs à l'occupation et à
+l'utilisation des sols ; 
+
+b) Les espaces terrestres et marins, sites et paysages remarquables ou caractéristiques du patrimoine naturel et culturel du
+littoral et les milieux nécessaires au maintien des équilibres biologiques mentionnés à l'article L. 146-6, lorsqu'ils ont
+été identifiés et délimités par des documents réglementaires relatifs à l'occupation et à l'utilisation des sols ; 
+
+c) La bande de trois cents mètres des parties naturelles des rives des plans d'eau naturels ou artificiels d'une superficie
+inférieure à mille hectares mentionnée à l'article L. 145-5 ; 
+
+d) La bande littorale de cent mètres mentionnée au III de l'article L. 146-4 ; 
+
+e) Les cœurs des parcs nationaux délimités en application de l'article L. 331-2 du code de l'environnement ; 
+
+f) Les réserves naturelles et les périmètres de protection autour de ces réserves institués en application, respectivement,
+de l'article L. 332-1 et des articles L. 332-16 à L. 332-18 du même code ; 
+
+g) Les sites inscrits ou classés en application des articles L. 341-1 et L. 341-2 dudit code ; 
+
+h) Les sites désignés Natura 2000 en application de l'article L. 414-1 du même code ; 
+
+i) Les zones qui figurent dans les plans de prévention des risques technologiques mentionnés au I de l'article L. 515-16
+dudit code, celles qui figurent dans les plans de prévention des risques naturels prévisibles mentionnés aux 1° et 2° du II
+de l'article L. 562-1 du même code ainsi que celles qui figurent dans les plans de prévention des risques miniers prévus à
+l'article L. 174-5 du code minier, lorsque le droit de réaliser des aménagements, des ouvrages ou des constructions nouvelles
+et d'étendre les constructions existantes y est limité ou supprimé ; 
+
+j) Les périmètres des servitudes relatives aux installations classées pour la protection de l'environnement instituées en
+application de l'article L. 515-8 du code de l'environnement, lorsque les servitudes instituées dans ces périmètres
+comportent une limitation ou une suppression du droit d'implanter des constructions ou des ouvrages ; 
+
+k) Les périmètres des servitudes sur des terrains pollués, sur l'emprise des sites de stockage de déchets, sur l'emprise
+d'anciennes carrières ou dans le voisinage d'un site de stockage géologique de dioxyde de carbone instituées en application
+de l'article L. 515-12 du même code, lorsque les servitudes instituées dans ces périmètres comportent une limitation ou une
+suppression du droit d'implanter des constructions ou des ouvrages ; 
+
+l) Les aires de mise en valeur de l'architecture et du patrimoine créées en application de l'article L. 642-1 du code du
+patrimoine ; 
+
+m) Les périmètres de protection d'un immeuble classé ou inscrit au titre des monuments historiques prévus aux quatrième et
+cinquième alinéas de l'article L. 621-30 du même code ; 
+
+n) Les secteurs délimités par le plan local d'urbanisme en application des 2° et 5° du III de l'article L. 123-1-5 du présent
+code ; 
+
+o) Les secteurs sauvegardés créés en application de l'article L. 313-1. 
+
+L'action en démolition doit être engagée dans le délai de deux ans qui suit la décision devenue définitive de la juridiction
+administrative ; 
+
+2° Le constructeur ne peut être condamné par un tribunal de l'ordre judiciaire à des dommages et intérêts que si,
 préalablement, le permis a été annulé pour excès de pouvoir ou si son illégalité a été constatée par la juridiction
 administrative. L'action en responsabilité civile doit être engagée au plus tard deux ans après l'achèvement des travaux. 
 
@@ -27248,17 +27356,30 @@ engagement national pour le logement, la prescription antérieure continue à co
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+	  - Loi n°2006-872 du 13 juillet 2006
+	  - Code de l'urbanisme - art. L123-1-5 (V)
+	  - Code de l'urbanisme - art. L145-3 (V)
+	  - Code de l'urbanisme - art. L145-5 (V)
+	  - Code de l'urbanisme - art. L146-4 (V)
+	  - Code de l'urbanisme - art. L313-1 (V)
+	  - Code de l'environnement - art. L331-2
+	  - Code de l'environnement - art. L332-1 (V)
+	  - Code de l'environnement - art. L332-16 (V)
+	  - Code de l'environnement - art. L341-1 (V)
+	  - Code de l'environnement - art. L414-1 (V)
+	  - Code de l'environnement - art. L515-12 (V)
+	  - Code de l'environnement - art. L515-16 (V)
+	  - Code de l'environnement - art. L515-8
+	  - Code de l'environnement - art. L562-1 (V)
+	  - Code du patrimoine - art. L621-30 (V)
+	  - Code du patrimoine - art. L642-1
+	  - Code minier (nouveau) - art. L174-5 (V)
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
-
-	**Cite**:
-
-	  - Loi n°2006-872 du 13 juillet 2006 (V)
+	  - Loi n°2015-990 du 6 août 2015 - art. 111
 
 	**Cité par**:
 
@@ -27273,9 +27394,13 @@ engagement national pour le logement, la prescription antérieure continue à co
 	  - Code de l'urbanisme - art. L111-12 (VT)
 	  - Code de l'urbanisme - art. L421-9 (VD)
 	  - Code de l'urbanisme - art. L471-2 (V)
-	  - Code de l'urbanisme - art. L600-6 (M)
+	  - Code de l'urbanisme - art. L600-6 (V)
 	  - Code de l'urbanisme - art. R*421-32 (Ab)
 	  - Code de l'urbanisme - art. R*424-19 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L480-14
@@ -28475,18 +28600,18 @@ délai au juge, celui-ci statue après avoir invité les parties à présenter l
 
 Lorsque la juridiction administrative, saisie d'un déféré préfectoral, a annulé par une décision devenue définitive un permis
 de construire pour un motif non susceptible de régularisation, le représentant de l'Etat dans le département peut engager une
-action civile en vue de la démolition de la construction dans les conditions et délais définis par le deuxième alinéa de
-l'article L. 480-13.
+action civile en vue de la démolition de la construction dans les conditions et délais définis par le 1° de l'article L.
+480-13.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2006-872 du 13 juillet 2006 - art. 12 () JORF 16 juillet 2006
+	  - Loi n°2015-990 du 6 août 2015 - art. 111
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L480-13 (V)
+	  - Code de l'urbanisme - art. L480-13 (M)
 
 	**Cité par**:
 
