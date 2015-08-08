@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2015-08-08
+Version Consolidée au 2015-08-09
 
 # Partie législative
 
@@ -3547,41 +3547,49 @@ l'environnement.
 
 ###### Article L122-1-15
 
-Les programmes locaux de l'habitat, les plans de déplacements urbains, les schémas de développement commercial, les plans
-locaux d'urbanisme, les plans de sauvegarde et de mise en valeur, les cartes communales, la délimitation des périmètres
-d'intervention prévus à l'article L. 143-1, les opérations foncières et les opérations d'aménagement définies par décret en
-Conseil d'Etat sont compatibles avec le document d'orientation et d'objectifs des schémas de cohérence territoriale et les
-schémas de secteur. Il en est de même pour les autorisations prévues par l'article L. 752-1 du code de commerce et l'article
-L. 212-7 du code du cinéma et de l'image animée, ainsi que pour le permis de construire tenant lieu d'autorisation
-d'exploitation commerciale prévu à l'article L. 425-4 du présent code. 
+Les programmes locaux de l'habitat, les plans de déplacements urbains,      les plans locaux d'urbanisme, les plans de
+sauvegarde et de mise en valeur, les cartes communales, la délimitation des périmètres d'intervention prévus à l'article L.
+143-1, les opérations foncières et les opérations d'aménagement définies par décret en Conseil d'Etat sont compatibles avec
+le document d'orientation et d'objectifs des schémas de cohérence territoriale et les schémas de secteur. Il en est de même
+pour les autorisations prévues par l'article L. 752-1 du code de commerce et l'article L. 212-7 du code du cinéma et de
+l'image animée, ainsi que pour le permis de construire tenant lieu d'autorisation d'exploitation commerciale prévu à
+l'article L. 425-4 du présent code. 
 
 Lorsqu'un schéma de cohérence territoriale est approuvé après l'approbation d'un programme local de l'habitat ou d'un plan de
 déplacements urbains, ces derniers sont, le cas échéant, rendus compatibles dans un délai de trois ans.
 
-**Nota:**
-
-Conformément à la loi n° 2014-626 du 18 juin 2014, article 60, ces dispositions entrent en vigueur à une date fixée par
-décret en Conseil d'Etat et au plus tard le 18 décembre 2014.
-
 **Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 17 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 14
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Cite**:
+
+	  - Code de commerce - art. L752-1
+	  - Code de l'urbanisme - art. L143-1
+	  - Code du cinéma et de l'image animée - art. L212-7
 
 	**Cité par**:
 
-	  - Code du cinéma et de l'image animée - art. L212-12 (V)
 	  - Code de commerce - art. R751-18 (Ab)
 	  - Code de l'urbanisme - art. L122-16 (VD)
 	  - Code de l'urbanisme - art. R*122-1 (VT)
 	  - Code de l'urbanisme - art. R*122-5 (VT)
+	  - Code du cinéma et de l'image animée - art. L212-12 (V)
 
-	**Cite**:
+	**Nouveaux textes**:
 
-	  - Code du cinéma et de l'image animée - art. L212-7 (VD)
-	  - Code de commerce - art. L752-1
-	  - Code de l'urbanisme - art. L143-1
-
-	**Modifié par**:
-
-	  - Loi n°2014-626 du 18 juin 2014 - art. 41
+	  - Code de l'urbanisme - art. L142-1 (VD)
+	  - Code de l'urbanisme - art. L142-2 (VD)
 
 
 ###### Article L122-2
@@ -3747,9 +3755,7 @@ concernés. Cet avis est réputé positif s'il n'a pas été formulé dans un d�
 périmètre du schéma de cohérence territoriale après avoir vérifié, en tenant compte des situations locales et éventuellement
 des autres périmètres arrêtés ou proposés, que le périmètre retenu répond aux critères mentionnés au deuxième alinéa du II et
 permet la mise en cohérence des questions d'urbanisme, d'habitat, de développement économique, de déplacements et
-d'environnement. Sans préjudice des dispositions de l'article L. 123-1-7, il ne peut être arrêté de périmètre de schéma de
-cohérence territoriale correspondant au périmètre d'un seul établissement public de coopération intercommunale à compter du
-1er juillet 2014. 
+d'environnement. 
 
 Lorsque le schéma de cohérence territoriale englobe une ou des communes littorales et dans le cas où l'établissement public
 mentionné à l'article L. 122-4 décide d'élaborer un chapitre individualisé valant schéma de mise en valeur de la mer, le
@@ -3758,7 +3764,9 @@ valeur du littoral.
 
 **Nota:**
 
-
+Conformément à l'article 13 10° de l'ordonnance n° 2015-1174 du 23 septembre 2015, l'abrogation de la troisième phrase du IV
+de l'article L. 122-3 ne prendra effet qu'à compter de la publication des dispositions réglementaires du livre Ier du code de
+l'urbanisme.
 
 **Liens relatifs à cet article**
 
@@ -3770,7 +3778,7 @@ valeur du littoral.
 	  - Code de l'urbanisme - art. L122-4-3 (VT)
 	  - Code de l'urbanisme - art. L122-5 (M)
 	  - Code de l'urbanisme - art. L123-1-7 (VT)
-	  - Code de l'urbanisme - art. L145-4 (M)
+	  - Code de l'urbanisme - art. L145-4 (VT)
 	  - Code de l'urbanisme - art. R*122-12 (V)
 	  - Code de l'urbanisme - art. R*122-14 (VT)
 	  - Code de l'urbanisme - art. R*122-19 (M)
@@ -3780,11 +3788,27 @@ valeur du littoral.
 
 	**Modifié par**:
 
-	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
+	  - Loi n°2015-991 du 7 août 2015 - art. 36
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 13
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L122-4
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L143-1 (VD)
+	  - Code de l'urbanisme - art. L143-2 (VD)
+	  - Code de l'urbanisme - art. L143-3 (VD)
+	  - Code de l'urbanisme - art. L143-4 (VD)
+	  - Code de l'urbanisme - art. L143-5 (VD)
+	  - Code de l'urbanisme - art. L143-6 (VD)
+	  - Code de l'urbanisme - art. L143-9 (VD)
+	  - Code de l'urbanisme - art. R143-1 (V)
 
 
 ###### Article L122-4
@@ -5434,434 +5458,6 @@ Les conditions d'application du présent chapitre sont définies, en tant que de
 
 #### Chapitre III : Plans locaux d'urbanisme.
 
-###### Article L123-1
-
-I.-Le plan local d'urbanisme respecte les principes énoncés aux articles L. 110 et L. 121-1. Il comprend un rapport de
-présentation, un projet d'aménagement et de développement durables, des orientations d'aménagement et de programmation, un
-règlement et des annexes. Lorsque le plan local d'urbanisme tient lieu de programme local de l'habitat ou de plan de
-déplacements urbains, il comprend également un programme d'orientations et d'actions. Chacun de ces éléments peut comprendre
-un ou plusieurs documents graphiques. 
-
-Le programme d'orientations et d'actions comprend toute mesure ou tout élément d'information nécessaire à la mise en œuvre de
-la politique de l'habitat ou des transports et des déplacements définie par le plan local d'urbanisme tenant lieu de
-programme local de l'habitat ou de plan de déplacements urbains. 
-
-II.-Lorsqu'il est élaboré par un établissement public de coopération intercommunale compétent, le plan local d'urbanisme
-couvre l'intégralité de son territoire. L'établissement public de coopération intercommunale compétent engage une procédure
-d'élaboration ou de révision d'un plan local d'urbanisme couvrant l'intégralité de son territoire lorsqu'il le décide et, au
-plus tard, lorsqu'il révise un des plans locaux d'urbanisme applicables dans son périmètre. 
-
-Lorsqu'il est élaboré par un établissement public de coopération intercommunale ou par la Métropole de Lyon, le plan local
-d'urbanisme peut tenir lieu de programme local de l'habitat. Dans ce cas, il poursuit les objectifs énoncés à l'article L.
-302-1 du code de la construction et de l'habitation. 
-
-Lorsqu'il est élaboré par un établissement public de coopération intercommunale compétent qui est autorité organisatrice au
-sens de l'article L. 1231-1 du code des transports, le plan local d'urbanisme peut tenir lieu de plan de déplacements
-urbains. Dans ce cas, il poursuit les objectifs énoncés aux articles L. 1214-1 et L. 1214-2 du même code. Il comprend le ou
-les plans de mise en accessibilité de la voirie et des espaces publics, prévus à l'article 45 de la loi n° 2005-102 du 11
-février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées,
-applicables sur le territoire de l'établissement public de coopération intercommunale. 
-
-Lorsqu'une communauté de communes de moins de 30 000 habitants élabore un plan local d'urbanisme tenant lieu de programme
-local de l'habitat ou lorsqu'un établissement public de coopération intercommunale qui n'est pas soumis à l'obligation
-d'élaborer un plan de déplacements urbains en application de l'article L. 1214-3 du code des transports élabore un plan local
-d'urbanisme tenant lieu de plan de déplacements urbains, ce plan comprend un programme d'orientations et d'actions et, si
-nécessaire, des dispositions relatives à l'habitat ou aux transports et déplacements dans les orientations d'aménagement et
-de programmation. 
-
-Lorsque le programme local de l'habitat ou le plan de déplacements urbains arrive à échéance ou lorsque l'expiration du délai
-de validité du programme local de l'habitat ou du plan de déplacements urbains intervient avant la délibération portant
-approbation d'un plan local d'urbanisme tenant lieu de programme local de l'habitat ou de plan de déplacements urbains, ce
-programme ou ce plan peut être prorogé jusqu'à l'approbation du plan local d'urbanisme. Cette prorogation est décidée, pour
-une durée de trois ans renouvelable une fois, par délibération de l'organe délibérant de l'établissement public de
-coopération intercommunale compétent, et après accord du préfet de département. 
-
-Il en est de même lorsqu'un plan local d'urbanisme élaboré par un établissement public de coopération intercommunale est
-révisé pour intégrer les dispositions tenant lieu de programme local de l'habitat ou de plan de déplacements urbains. 
-
-II bis.-Un établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme, de document en
-tenant lieu ou de carte communale peut décider, le cas échéant après accord de la commune concernée, d'achever toute
-procédure d'élaboration ou d'évolution d'un plan local d'urbanisme, d'un document en tenant lieu ou d'une carte communale,
-engagée avant la date de sa création ou du transfert de cette compétence. 
-
-Le premier alinéa du présent II bis est applicable à la métropole de Lyon. 
-
-III.-Lorsqu'il est élaboré par une commune non membre d'un établissement public compétent, le plan local d'urbanisme couvre
-l'intégralité de son territoire. 
-
-IV.-Dans tous les cas, le plan local d'urbanisme ne couvre pas les parties de territoire couvertes par un plan de sauvegarde
-et de mise en valeur. 
-
-Toutefois, dans les communes couvertes par un schéma de cohérence territoriale qui identifie les secteurs d'aménagement et de
-développement touristique d'intérêt intercommunal, un plan local d'urbanisme partiel couvrant ces secteurs peut être élaboré
-par un établissement public de coopération intercommunale compétent, sous réserve que chaque commune concernée couvre sans
-délai le reste de son territoire par un plan local d'urbanisme et recueille l'avis de l'établissement public de coopération
-intercommunale compétent sur la compatibilité de son projet d'aménagement et de développement durables avec celui de
-l'établissement public. 
-
-V.-En cas d'annulation partielle par voie juridictionnelle d'un plan local d'urbanisme, l'autorité compétente élabore sans
-délai les nouvelles dispositions du plan applicables à la partie du territoire communal concernée par l'annulation. Il en est
-de même des plans d'occupation des sols qui, à la date de publication de la loi n° 2000-1208 du 13 décembre 2000 précitée, ne
-couvrent pas l'intégralité du territoire communal concerné. 
-
-En cas de déclaration d'illégalité ou d'annulation par voie juridictionnelle de l'intégralité d'un plan local d'urbanisme
-couvrant le territoire d'une commune située dans le périmètre d'un établissement public de coopération intercommunale
-compétent, celui-ci peut approuver un plan local d'urbanisme sur le territoire de la commune concernée. 
-
-VI.-Les constructions et installations nécessaires à des équipements collectifs peuvent être autorisées dans les zones
-naturelles, agricoles ou forestières dès lors qu'elles ne sont pas incompatibles avec l'exercice d'une activité agricole,
-pastorale ou forestière du terrain sur lequel elles sont implantées et qu'elles ne portent pas atteinte à la sauvegarde des
-espaces naturels et des paysages.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°59-157 du 7 janvier 1959 - art. 1 (M)
-	  - Loi n°78-753 du 17 juillet 1978 - art. 21 (V)
-	  - Loi n°94-112 du 9 février 1994 - art. 6 (V)
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 26-1 (V)
-	  - Loi n°2003-590 du 2 juillet 2003 - art. 16 (V)
-	  - Décret n°2005-664 du 10 juin 2005 - art. 15 (Ab)
-	  - Ordonnance n°2005-864 du 28 juillet 2005 - art. 4 (V)
-	  - Arrêté du 3 mai 2007 - art. 15 (VD)
-	  - Arrêté du 3 mai 2007 - art. 6 (V)
-	  - Arrêté du 13 juin 2008 - art. 45 (V)
-	  - Arrêté du 2 septembre 2008 - art. 3 (V)
-	  - Décret du 5 mars 2009 - art. 2 (VD)
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
-	  - Loi n°2014-366 du 24 mars 2014 - art. 129 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1635 quater (P)
-	  - Code de l'environnement - art. L555-16 (VD)
-	  - Code de l'environnement - art. R333-13 (V)
-	  - Code de l'expropriation pour cause d'utilité pu... - art. L13-15 (VT)
-	  - Code de l'expropriation pour cause d'utilité pu... - art. L322-6 (VD)
-	  - Code de l'urbanisme - art. *R421-17 (V)
-	  - Code de l'urbanisme - art. *R421-23 (V)
-	  - Code de l'urbanisme - art. L111-1-4 (M)
-	  - Code de l'urbanisme - art. L121-12 (Ab)
-	  - Code de l'urbanisme - art. L123-1 (M)
-	  - Code de l'urbanisme - art. L123-13 (VT)
-	  - Code de l'urbanisme - art. L123-14 (V)
-	  - Code de l'urbanisme - art. L123-19 (VT)
-	  - Code de l'urbanisme - art. L123-22 (VT)
-	  - Code de l'urbanisme - art. L123-3 (M)
-	  - Code de l'urbanisme - art. L123-5 (V)
-	  - Code de l'urbanisme - art. L123-9 (M)
-	  - Code de l'urbanisme - art. L124-3 (M)
-	  - Code de l'urbanisme - art. L128-1 (VT)
-	  - Code de l'urbanisme - art. L141-10 (VT)
-	  - Code de l'urbanisme - art. L150-1 (VT)
-	  - Code de l'urbanisme - art. L311-4 (M)
-	  - Code de l'urbanisme - art. L311-7 (V)
-	  - Code de l'urbanisme - art. L313-1 (VT)
-	  - Code de l'urbanisme - art. L332-1 (Ab)
-	  - Code de l'urbanisme - art. L430-1 (M)
-	  - Code de l'urbanisme - art. L430-3 (M)
-	  - Code de l'urbanisme - art. L442-2 (M)
-	  - Code de l'urbanisme - art. L473-2 (V)
-	  - Code de l'urbanisme - art. L700-2 (VT)
-	  - Code de l'urbanisme - art. L710-1 (VT)
-	  - Code de l'urbanisme - art. L710-6 (V)
-	  - Code de l'urbanisme - art. R*123-10 (V)
-	  - Code de l'urbanisme - art. R*123-12 (V)
-	  - Code de l'urbanisme - art. R*123-18 (M)
-	  - Code de l'urbanisme - art. R*123-2 (V)
-	  - Code de l'urbanisme - art. R*123-2-1 (V)
-	  - Code de l'urbanisme - art. R*123-20-1 (VD)
-	  - Code de l'urbanisme - art. R*123-21 (M)
-	  - Code de l'urbanisme - art. R*123-22 (M)
-	  - Code de l'urbanisme - art. R*123-3 (V)
-	  - Code de l'urbanisme - art. R*123-3-1 (V)
-	  - Code de l'urbanisme - art. R*332-13 (Ab)
-	  - Code de l'urbanisme - art. R*421-12 (VD)
-	  - Code de l'urbanisme - art. R*421-15 (V)
-	  - Code de l'urbanisme - art. R*421-28 (V)
-	  - Code de l'urbanisme - art. R*431-16-1 (V)
-	  - Code de l'urbanisme - art. R123-14-1 (V)
-	  - Code de l'urbanisme - art. R313-3 (V)
-	  - Code de l'urbanisme - art. R313-5 (V)
-	  - Code de l'urbanisme - art. R431-16-2 (V)
-	  - Code de la construction et de l'habitation. - art. L302-1 (M)
-	  - Code de la construction et de l'habitation. - art. R*111-18-10 (V)
-	  - Code de la construction et de l'habitation. - art. R*111-19-10 (V)
-	  - Code des transports - art. L1214-10 (VD)
-	  - Code du tourisme. - art. L342-18 (V)
-	  - Code du tourisme. - art. L342-23 (V)
-
-	**Cite**:
-
-	  - Loi n°2000-1208 du 13 décembre 2000
-	  - Loi n°2005-102 du 11 février 2005 - art. 45
-	  - Code de l'urbanisme - art. L110
-	  - Code des transports - art. L1214-1
-	  - Code des transports - art. L1214-3
-	  - Code des transports - art. L1231-1
-
-	**Modifié par**:
-
-	  - Loi n°2014-1545 du 20 décembre 2014 - art. 14
-
-
-###### Article L123-1-1
-
-En cas de modification de la limite territoriale entre deux communes, les dispositions du plan local d'urbanisme applicables
-à la partie de territoire communal détachée d'une des communes restent applicables dans ce territoire après le rattachement à
-l'autre commune. 
-
-Toutefois, si la commune de rattachement a précisé, dans le dossier soumis à enquête publique, en application de l'article L.
-2112-2 du code général des collectivités territoriales, qu'elle entendait que la modification de limite territoriale emporte,
-par dérogation au premier alinéa du présent article, abrogation des dispositions du plan local d'urbanisme applicables à la
-partie rattachée, ces dispositions sont abrogées. Cette faculté n'est pas ouverte à la commune de rattachement si celle-ci
-est membre du même établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme que la
-commune d'origine. 
-
-En cas de modification du périmètre d'un établissement public de coopération intercommunale compétent en matière de plan
-local d'urbanisme ou en cas de fusion d'au moins deux établissements publics de coopération intercommunale, les dispositions
-du ou des plans locaux d'urbanisme applicables aux territoires concernés par cette modification ou cette fusion restent
-applicables. Elles peuvent être modifiées selon les procédures prévues aux articles L. 123-13-1 à L. 123-13-3, ainsi qu'aux
-articles L. 123-14 et L. 123-14-2 du présent code, jusqu'à l'approbation ou la révision d'un plan local d'urbanisme couvrant
-l'intégralité du territoire de l'établissement public de coopération intercommunale concerné. Celui-ci engage la procédure
-d'élaboration ou de révision de ce plan lorsqu'il le décide et au plus tard lorsqu'il doit réviser un des plans locaux
-d'urbanisme applicables dans son périmètre. 
-
-Lorsqu'un établissement public de coopération intercommunale compétent dont le plan local d'urbanisme est en cours
-d'élaboration, de révision, de modification ou de mise en compatibilité avec une déclaration de projet intègre dans son
-périmètre une commune ou un établissement public de coopération intercommunale, il peut approuver, réviser, modifier ou
-mettre en compatibilité ce plan dans son périmètre initial. La procédure d'élaboration ou de révision de ce plan peut être
-étendue à la commune ou à l'établissement public de coopération intercommunale nouvellement intégré si le débat sur le projet
-d'aménagement et de développement durables de ce plan n'a pas eu lieu au moment de leur intégration. 
-
-Lorsqu'au moins deux établissements publics de coopération intercommunale fusionnent, l'établissement public nouvellement
-compétent peut achever dans leur périmètre initial les procédures d'élaboration, de révision, de modification ou de mise en
-compatibilité avec une déclaration de projet de leur plan local d'urbanisme engagées avant la fusion. L'établissement public
-nouvellement compétent peut étendre la procédure d'élaboration ou de révision d'un de ces plans à l'ensemble de son
-territoire, si le débat sur le projet d'aménagement et de développement durables de ce plan n'a pas eu lieu au moment de la
-fusion. 
-
-Dans les cas mentionnés aux quatrième ou cinquième alinéas du présent article, l'établissement public de coopération
-intercommunale nouvellement compétent achève la procédure d'élaboration, de révision, de modification ou de mise en
-compatibilité dans un délai de deux ans à compter de l'intégration ou de la fusion. 
-
-Lorsque le périmètre d'un plan local d'urbanisme en cours d'élaboration ou de révision est intégré dans sa totalité dans le
-périmètre d'un établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme, ce plan ne
-peut être approuvé ou révisé que par l'établissement public nouvellement compétent, et ce dans son périmètre initial, si le
-débat sur le projet d'aménagement et de développement durables a été tenu avant cette intégration et si l'approbation ou la
-révision a lieu dans le délai de deux ans suivant l'intégration. 
-
-Lorsque le périmètre d'un plan local d'urbanisme en cours de modification ou de mise en compatibilité en application des
-articles L. 123-14 et L. 123-14-2 est intégré dans sa totalité dans le périmètre d'un établissement public de coopération
-intercommunale compétent en matière de plan local d'urbanisme, la modification ou la mise en compatibilité du plan local
-d'urbanisme ne peut être adoptée que par l'établissement public nouvellement compétent, dans son périmètre initial, et ce
-dans un délai de deux ans à compter de son intégration. 
-
-Dans les cas prévus aux cinquième, septième et huitième alinéas du présent article, l'établissement public nouvellement
-compétent est substitué de plein droit, à la date de l'intégration ou de la fusion, dans tous les actes et délibérations
-afférents à la procédure engagée avant l'intégration ou la fusion. 
-
-Si un plan approuvé, révisé, modifié ou mis en compatibilité dans les conditions prévues aux septième et huitième alinéas ne
-couvre le territoire que d'une commune, il ne comprend ni de dispositions tenant lieu de programme local de l'habitat, ni de
-plan de déplacements urbains.
-
-En cas de création d'une commune nouvelle, les dispositions des plans locaux d'urbanisme applicables aux anciennes communes
-restent applicables. Elles peuvent être modifiées, selon les procédures prévues aux articles L. 123-13-1 à L. 123-13-3, ainsi
-qu'aux articles L. 123-14 et L. 123-14-2, jusqu'à l'approbation ou la révision d'un plan local d'urbanisme couvrant
-l'intégralité du territoire de la commune nouvelle. La procédure d'élaboration ou de révision de ce dernier plan est engagée
-au plus tard lorsqu'un des plans locaux d'urbanisme applicables sur le territoire de la commune nouvelle doit être révisé.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2015-292 du 16 mars 2015 - art. 9
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L2112-2
-	  - Code de l'urbanisme - art. L123-13-1
-	  - Code de l'urbanisme - art. L123-14
-	  - Code de l'urbanisme - art. L123-14-2
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. L123-12-1 (V)
-	  - Code de l'urbanisme - art. L123-19 (M)
-	  - Code de l'urbanisme - art. R*123-10 (V)
-	  - Code de l'urbanisme - art. R*123-13 (V)
-	  - Code de l'urbanisme - art. R*123-20-3 (V)
-	  - Code de l'urbanisme - art. R*123-24 (V)
-	  - Code de l'urbanisme - art. R*123-25 (V)
-	  - Code de l'urbanisme - art. R*431-15 (V)
-
-
-###### Article L123-1-1-1
-
-Lorsqu'il est élaboré par un établissement public de coopération intercommunale compétent, le plan local d'urbanisme peut
-comporter des plans de secteur qui couvrent chacun l'intégralité du territoire d'une ou plusieurs communes membres de
-l'établissement public de coopération intercommunale et qui précisent les orientations d'aménagement et de programmation
-ainsi que le règlement spécifiques à ce secteur.
-
-Une ou plusieurs communes membres d'une communauté de communes ou d'une communauté d'agglomération peuvent demander à être
-couvertes par un plan de secteur. Après un débat au sein de l'organe délibérant de l'établissement public de coopération
-intercommunale, celui-ci délibère sur l'opportunité d'élaborer ce plan.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2014-366 du 24 mars 2014 - art. 137 (V)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*123-1 (VT)
-	  - Code général des collectivités territoriales - art. L5219-1 (M)
-
-
-###### Article L123-1-2
-
-Le rapport de présentation explique les choix retenus pour établir le projet d'aménagement et de développement durables, les
-orientations d'aménagement et de programmation et le règlement. 
-
-Il s'appuie sur un diagnostic établi au regard des prévisions économiques et démographiques et des besoins répertoriés en
-matière de développement économique, de surfaces et de développement agricoles, de développement forestier, d'aménagement de
-l'espace, d'environnement, notamment en matière de biodiversité, d'équilibre social de l'habitat, de transports, de commerce,
-d'équipements et de services. 
-
-Il analyse la capacité de densification et de mutation de l'ensemble des espaces bâtis, en tenant compte des formes urbaines
-et architecturales. Il expose les dispositions qui favorisent la densification de ces espaces ainsi que la limitation de la
-consommation des espaces naturels, agricoles ou forestiers. 
-
-Il établit un inventaire des capacités de stationnement de véhicules motorisés, de véhicules hybrides et électriques et de
-vélos des parcs ouverts au public et des possibilités de mutualisation de ces capacités. 
-
-Il présente une analyse de la consommation d'espaces naturels, agricoles et forestiers au cours des dix années précédant
-l'approbation du plan ou depuis la dernière révision du document d'urbanisme. 
-
-Il justifie les objectifs compris dans le projet d'aménagement et de développement durables au regard des objectifs de
-consommation de l'espace fixés, le cas échéant, par le schéma de cohérence territoriale et au regard des dynamiques
-économiques et démographiques.
-
-**Nota:**
-
-Loi n° 2014-1170 du 13 octobre 2014 art. 25 VIII : Les articles L. 123-1-2 et L. 123-1-3 du même code, dans leur rédaction
-résultant de la loi n° 2014-366 du 24 mars 2014, entrent en vigueur au lendemain de la publication de la présente loi. Les
-organes délibérants des établissements publics ayant engagé l'élaboration, la révision ou la modification d'un plan local
-d'urbanisme avant la publication de la présente loi peuvent toutefois opter pour appliquer les mêmes articles L. 123-1-2 et
-L. 123-1-3 dans leur rédaction antérieure à la présente loi. Les plans locaux d'urbanisme élaborés ou révisés avant cette
-date, ainsi que ceux dont la procédure d'élaboration, de modification ou de révision est achevée après cette même date
-conformément aux dispositions applicables antérieurement à ladite date, sont mis en conformité avec lesdits articles L.
-123-1-2 et L. 123-1-3 dans leur rédaction résultant de la présente loi lors de leur prochaine révision.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°2014-366 du 24 mars 2014 - art. 129 (V)
-	  - Loi n°2014-366 du 24 mars 2014 - art. 139 (V)
-	  - Code de l'urbanisme - art. L122-1-2 (VT)
-	  - Code de l'urbanisme - art. L332-7-1 (V)
-	  - Code de l'urbanisme - art. R*123-2 (VT)
-	  - Code de l'urbanisme - art. R*123-2-1 (VT)
-	  - Code de l'urbanisme - art. R313-3 (M)
-
-	**Modifié par**:
-
-	  - Loi n°2014-366 du 24 mars 2014 - art. 139 (V)
-	  - Loi n°2014-1170 du 13 octobre 2014 - art. 25
-
-
-###### Article L123-1-3
-
-Le projet d'aménagement et de développement durables définit les orientations générales des politiques d'aménagement,
-d'équipement, d'urbanisme, de paysage, de protection des espaces naturels, agricoles et forestiers, et de préservation ou de
-remise en bon état des continuités écologiques. 
-
-Le projet d'aménagement et de développement durables arrête les orientations générales concernant l'habitat, les transports
-et les déplacements, le développement des communications numériques, l'équipement commercial, le développement économique et
-les loisirs, retenues pour l'ensemble de l'établissement public de coopération intercommunale ou de la commune. 
-
-Il fixe des objectifs chiffrés de modération de la consommation de l'espace et de lutte contre l'étalement urbain. 
-
-Il peut prendre en compte les spécificités des anciennes communes, notamment paysagères, architecturales, patrimoniales et
-environnementales, lorsqu'il existe une ou plusieurs communes nouvelles.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2015-292 du 16 mars 2015 - art. 8
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. L229-26 (V)
-	  - Code de l'urbanisme - art. L123-13 (VT)
-	  - Code de l'urbanisme - art. L123-9 (M)
-	  - Code de l'urbanisme - art. L313-1 (VT)
-	  - Code de l'urbanisme - art. L710-6-1 (V)
-	  - Code de l'urbanisme - art. R*123-3 (VT)
-	  - Code du patrimoine. - art. L641-1 (V)
-
-
-###### Article L123-1-4
-
-Dans le respect des orientations définies par le projet d'aménagement et de développement durables, les orientations
-d'aménagement et de programmation comprennent des dispositions portant sur l'aménagement, l'habitat, les transports et les
-déplacements. 
-
-1. En ce qui concerne l'aménagement, les orientations peuvent définir les actions et opérations nécessaires pour mettre en
-valeur l'environnement, notamment les continuités écologiques, les paysages, les entrées de villes et le patrimoine, lutter
-contre l'insalubrité, permettre le renouvellement urbain et assurer le développement de la commune. Elles peuvent favoriser
-la mixité fonctionnelle en prévoyant qu'en cas de réalisation d'opérations d'aménagement, de construction ou de
-réhabilitation, un pourcentage de ces opérations est destiné à la réalisation de commerces. 
-
-Elles peuvent comporter un échéancier prévisionnel de l'ouverture à l'urbanisation des zones à urbaniser et de la réalisation
-des équipements correspondants. 
-
-Elles peuvent porter sur des quartiers ou des secteurs à mettre en valeur, réhabiliter, restructurer ou aménager. 
-
-Elles peuvent prendre la forme de schémas d'aménagement et préciser les principales caractéristiques des voies et espaces
-publics. 
-
-Elles peuvent adapter la délimitation des périmètres, en fonction de la qualité de la desserte, où s'applique le plafonnement
-à proximité des transports prévu à l'article L. 123-1-13.
-
-2. En ce qui concerne l'habitat, dans le cas des plans locaux d'urbanisme tenant lieu de programme local de l'habitat, ces
-orientations précisent les actions et opérations d'aménagement visant à poursuivre les objectifs énoncés à l'article L. 302-1
-du code de la construction et de l'habitation. 
-
-3. En ce qui concerne les transports et les déplacements, dans le cas des plans tenant lieu de plan de déplacements urbains,
-elles précisent les actions et opérations d'aménagement visant à poursuivre les principes et les objectifs énoncés aux
-articles L. 1214-1 et L. 1214-2 du code des transports. 
-
-En l'absence de schéma de cohérence territoriale, les orientations d'aménagement et de programmation d'un plan local
-d'urbanisme élaboré par un établissement public de coopération intercommunale comprennent les dispositions mentionnées à
-l'article L. 122-1-9 du présent code.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2014-1545 du 20 décembre 2014 - art. 12
-
-	**Cité par**:
-
-	  - Code de commerce - art. L752-6 (V)
-	  - Code de l'urbanisme - art. L123-1 (VD)
-	  - Code de l'urbanisme - art. L123-5 (M)
-	  - Code de l'urbanisme - art. R*123-1 (VT)
-	  - Code de l'urbanisme - art. R*123-14-1 (VT)
-	  - Code de l'urbanisme - art. R*123-2 (VT)
-	  - Code de l'urbanisme - art. R*123-3-1 (VT)
-	  - Code de l'urbanisme - art. R313-5 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L122-1-9
-	  - Code de l'urbanisme - art. L123-1-13 (V)
-	  - Code de la construction et de l'habitation. - art. L302-1
-	  - Code des transports - art. L1214-1
-
-
 ###### Article L123-1-5
 
 I.-Le règlement fixe, en cohérence avec le projet d'aménagement et de développement durables, les règles générales et les
@@ -6016,6 +5612,488 @@ général, aux espaces verts ainsi qu'aux espaces nécessaires aux continuités 
 	  - Loi n°2015-990 du 6 août 2015 - art. 80
 
 
+##### Section 1 : Dispositions communes
+
+###### Article L123-1
+
+I.-Le plan local d'urbanisme respecte les principes énoncés aux articles L. 110 et L. 121-1. Il comprend un rapport de
+présentation, un projet d'aménagement et de développement durables, des orientations d'aménagement et de programmation, un
+règlement et des annexes. Lorsque le plan local d'urbanisme tient lieu de programme local de l'habitat ou de plan de
+déplacements urbains, il comprend également un programme d'orientations et d'actions. Chacun de ces éléments peut comprendre
+un ou plusieurs documents graphiques. 
+
+Le programme d'orientations et d'actions comprend toute mesure ou tout élément d'information nécessaire à la mise en œuvre de
+la politique de l'habitat ou des transports et des déplacements définie par le plan local d'urbanisme tenant lieu de
+programme local de l'habitat ou de plan de déplacements urbains. 
+
+II.-Lorsqu'il est élaboré par un établissement public de coopération intercommunale compétent, le plan local d'urbanisme
+couvre l'intégralité de son territoire. L'établissement public de coopération intercommunale compétent engage une procédure
+d'élaboration ou de révision d'un plan local d'urbanisme couvrant l'intégralité de son territoire lorsqu'il le décide et, au
+plus tard, lorsqu'il révise un des plans locaux d'urbanisme applicables dans son périmètre. 
+
+Lorsqu'il est élaboré par un établissement public de coopération intercommunale ou par la Métropole de Lyon, le plan local
+d'urbanisme peut tenir lieu de programme local de l'habitat. Dans ce cas, il poursuit les objectifs énoncés à l'article L.
+302-1 du code de la construction et de l'habitation. 
+
+Lorsqu'il est élaboré par un établissement public de coopération intercommunale compétent qui est autorité organisatrice au
+sens de l'article L. 1231-1 du code des transports, le plan local d'urbanisme peut tenir lieu de plan de déplacements
+urbains. Dans ce cas, il poursuit les objectifs énoncés aux articles L. 1214-1 et L. 1214-2 du même code. Il comprend le ou
+les plans de mise en accessibilité de la voirie et des espaces publics, prévus à l'article 45 de la loi n° 2005-102 du 11
+février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées,
+applicables sur le territoire de l'établissement public de coopération intercommunale. 
+
+Lorsqu'une communauté de communes de moins de 30 000 habitants élabore un plan local d'urbanisme tenant lieu de programme
+local de l'habitat ou lorsqu'un établissement public de coopération intercommunale qui n'est pas soumis à l'obligation
+d'élaborer un plan de déplacements urbains en application de l'article L. 1214-3 du code des transports élabore un plan local
+d'urbanisme tenant lieu de plan de déplacements urbains, ce plan comprend un programme d'orientations et d'actions et, si
+nécessaire, des dispositions relatives à l'habitat ou aux transports et déplacements dans les orientations d'aménagement et
+de programmation. 
+
+Lorsque le programme local de l'habitat ou le plan de déplacements urbains arrive à échéance ou lorsque l'expiration du délai
+de validité du programme local de l'habitat ou du plan de déplacements urbains intervient avant la délibération portant
+approbation d'un plan local d'urbanisme tenant lieu de programme local de l'habitat ou de plan de déplacements urbains, ce
+programme ou ce plan peut être prorogé jusqu'à l'approbation du plan local d'urbanisme. Cette prorogation est décidée, pour
+une durée de trois ans renouvelable une fois, par délibération de l'organe délibérant de l'établissement public de
+coopération intercommunale compétent, et après accord du préfet de département. 
+
+Il en est de même lorsqu'un plan local d'urbanisme élaboré par un établissement public de coopération intercommunale est
+révisé pour intégrer les dispositions tenant lieu de programme local de l'habitat ou de plan de déplacements urbains. 
+
+II bis.-Un établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme, de document en
+tenant lieu ou de carte communale peut décider, le cas échéant après accord de la commune concernée, d'achever toute
+procédure d'élaboration ou d'évolution d'un plan local d'urbanisme, d'un document en tenant lieu ou d'une carte communale,
+engagée avant la date de sa création, y compris lorsqu'elle est issue d'une fusion, ou du transfert de cette compétence. 
+
+Pour l'application du premier alinéa du présent II bis, l'établissement public de coopération intercommunale compétent est
+substitué de plein droit dans tous les actes et délibérations afférents à la procédure engagée avant la date de sa création,
+de sa fusion, de la modification de son périmètre ou du transfert de la compétence.
+
+Le présent II bis est applicable à la métropole de Lyon. 
+
+III.-Lorsqu'il est élaboré par une commune non membre d'un établissement public compétent, le plan local d'urbanisme couvre
+l'intégralité de son territoire. 
+
+IV.-Dans tous les cas, le plan local d'urbanisme ne couvre pas les parties de territoire couvertes par un plan de sauvegarde
+et de mise en valeur. 
+
+Toutefois, dans les communes couvertes par un schéma de cohérence territoriale qui identifie les secteurs d'aménagement et de
+développement touristique d'intérêt intercommunal, un plan local d'urbanisme partiel couvrant ces secteurs peut être élaboré
+par un établissement public de coopération intercommunale compétent, sous réserve que chaque commune concernée couvre sans
+délai le reste de son territoire par un plan local d'urbanisme et recueille l'avis de l'établissement public de coopération
+intercommunale compétent sur la compatibilité de son projet d'aménagement et de développement durables avec celui de
+l'établissement public. 
+
+V.-En cas d'annulation partielle par voie juridictionnelle d'un plan local d'urbanisme, l'autorité compétente élabore sans
+délai les nouvelles dispositions du plan applicables à la partie du territoire communal concernée par l'annulation. Il en est
+de même des plans d'occupation des sols qui, à la date de publication de la loi n° 2000-1208 du 13 décembre 2000 précitée, ne
+couvrent pas l'intégralité du territoire communal concerné. 
+
+En cas de déclaration d'illégalité ou d'annulation par voie juridictionnelle de l'intégralité d'un plan local d'urbanisme
+couvrant le territoire d'une commune située dans le périmètre d'un établissement public de coopération intercommunale
+compétent, celui-ci peut approuver un plan local d'urbanisme sur le territoire de la commune concernée. 
+
+VI.-Les constructions et installations nécessaires à des équipements collectifs peuvent être autorisées dans les zones
+naturelles, agricoles ou forestières dès lors qu'elles ne sont pas incompatibles avec l'exercice d'une activité agricole,
+pastorale ou forestière du terrain sur lequel elles sont implantées et qu'elles ne portent pas atteinte à la sauvegarde des
+espaces naturels et des paysages.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°59-157 du 7 janvier 1959 - art. 1 (M)
+	  - Loi n°78-753 du 17 juillet 1978 - art. 21 (VT)
+	  - Loi n°94-112 du 9 février 1994 - art. 6 (V)
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 26-1 (V)
+	  - Loi n°2003-590 du 2 juillet 2003 - art. 16 (V)
+	  - Décret n°2005-664 du 10 juin 2005 - art. 15 (Ab)
+	  - Ordonnance n°2005-864 du 28 juillet 2005 - art. 4 (V)
+	  - Arrêté du 3 mai 2007 - art. 15 (VD)
+	  - Arrêté du 3 mai 2007 - art. 6 (V)
+	  - Arrêté du 13 juin 2008 - art. 45 (V)
+	  - Arrêté du 2 septembre 2008 - art. 3 (V)
+	  - Décret du 5 mars 2009 - art. 2 (VD)
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+	  - Loi n°2014-366 du 24 mars 2014 - art. 129 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1635 quater (P)
+	  - Code de l'environnement - art. L555-16 (VD)
+	  - Code de l'environnement - art. R333-13 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L13-15 (VT)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L322-6 (VD)
+	  - Code de l'urbanisme - art. *R421-17 (V)
+	  - Code de l'urbanisme - art. *R421-23 (V)
+	  - Code de l'urbanisme - art. L111-1-4 (M)
+	  - Code de l'urbanisme - art. L121-12 (Ab)
+	  - Code de l'urbanisme - art. L123-1 (M)
+	  - Code de l'urbanisme - art. L123-13 (VT)
+	  - Code de l'urbanisme - art. L123-14 (V)
+	  - Code de l'urbanisme - art. L123-19 (VT)
+	  - Code de l'urbanisme - art. L123-22 (VT)
+	  - Code de l'urbanisme - art. L123-3 (M)
+	  - Code de l'urbanisme - art. L123-5 (V)
+	  - Code de l'urbanisme - art. L123-9 (M)
+	  - Code de l'urbanisme - art. L124-3 (M)
+	  - Code de l'urbanisme - art. L128-1 (VT)
+	  - Code de l'urbanisme - art. L141-10 (VT)
+	  - Code de l'urbanisme - art. L150-1 (VT)
+	  - Code de l'urbanisme - art. L311-4 (M)
+	  - Code de l'urbanisme - art. L311-7 (V)
+	  - Code de l'urbanisme - art. L313-1 (VT)
+	  - Code de l'urbanisme - art. L332-1 (Ab)
+	  - Code de l'urbanisme - art. L430-1 (M)
+	  - Code de l'urbanisme - art. L430-3 (M)
+	  - Code de l'urbanisme - art. L442-2 (M)
+	  - Code de l'urbanisme - art. L473-2 (V)
+	  - Code de l'urbanisme - art. L700-2 (VT)
+	  - Code de l'urbanisme - art. L710-1 (VT)
+	  - Code de l'urbanisme - art. L710-6 (V)
+	  - Code de l'urbanisme - art. R*123-10 (V)
+	  - Code de l'urbanisme - art. R*123-12 (V)
+	  - Code de l'urbanisme - art. R*123-18 (M)
+	  - Code de l'urbanisme - art. R*123-2 (V)
+	  - Code de l'urbanisme - art. R*123-2-1 (V)
+	  - Code de l'urbanisme - art. R*123-20-1 (VD)
+	  - Code de l'urbanisme - art. R*123-21 (M)
+	  - Code de l'urbanisme - art. R*123-22 (M)
+	  - Code de l'urbanisme - art. R*123-3 (V)
+	  - Code de l'urbanisme - art. R*123-3-1 (V)
+	  - Code de l'urbanisme - art. R*332-13 (Ab)
+	  - Code de l'urbanisme - art. R*421-12 (VD)
+	  - Code de l'urbanisme - art. R*421-15 (V)
+	  - Code de l'urbanisme - art. R*421-28 (V)
+	  - Code de l'urbanisme - art. R*431-16-1 (V)
+	  - Code de l'urbanisme - art. R123-14-1 (V)
+	  - Code de l'urbanisme - art. R313-3 (V)
+	  - Code de l'urbanisme - art. R313-5 (V)
+	  - Code de l'urbanisme - art. R431-16-2 (V)
+	  - Code de la construction et de l'habitation. - art. L302-1 (M)
+	  - Code de la construction et de l'habitation. - art. R*111-18-10 (V)
+	  - Code de la construction et de l'habitation. - art. R*111-19-10 (V)
+	  - Code des transports - art. L1214-10 (VD)
+	  - Code du tourisme. - art. L342-18 (V)
+	  - Code du tourisme. - art. L342-23 (V)
+
+	**Cite**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000
+	  - Loi n°2005-102 du 11 février 2005 - art. 45
+	  - Code de l'urbanisme - art. L110
+	  - Code des transports - art. L1214-1
+	  - Code des transports - art. L1214-3
+	  - Code des transports - art. L1231-1
+
+	**Modifié par**:
+
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+	  - Loi n°2015-991 du 7 août 2015 - art. 37
+	  - Loi n°2015-991 du 7 août 2015 - art. 39
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L151-1 (VD)
+	  - Code de l'urbanisme - art. L151-11 (VD)
+	  - Code de l'urbanisme - art. L151-2 (VD)
+	  - Code de l'urbanisme - art. L151-45 (VD)
+	  - Code de l'urbanisme - art. L151-46 (VD)
+	  - Code de l'urbanisme - art. L151-47 (VD)
+	  - Code de l'urbanisme - art. L151-48 (VD)
+	  - Code de l'urbanisme - art. L152-9 (VD)
+	  - Code de l'urbanisme - art. L153-1 (VD)
+	  - Code de l'urbanisme - art. L153-2 (VD)
+	  - Code de l'urbanisme - art. L153-3 (VD)
+	  - Code de l'urbanisme - art. L153-7 (VD)
+	  - Code de l'urbanisme - art. L153-9 (VD)
+	  - Code de l'urbanisme - art. L163-3 (VD)
+
+
+###### Article L123-1-1
+
+En cas de modification de la limite territoriale entre deux communes, les dispositions du plan local d'urbanisme applicables
+à la partie de territoire communal détachée d'une des communes restent applicables dans ce territoire après le rattachement à
+l'autre commune. 
+
+Toutefois, si la commune de rattachement a précisé, dans le dossier soumis à enquête publique, en application de l'article L.
+2112-2 du code général des collectivités territoriales, qu'elle entendait que la modification de limite territoriale emporte,
+par dérogation au premier alinéa du présent article, abrogation des dispositions du plan local d'urbanisme applicables à la
+partie rattachée, ces dispositions sont abrogées. Cette faculté n'est pas ouverte à la commune de rattachement si celle-ci
+est membre du même établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme que la
+commune d'origine. 
+
+En cas de création d'un établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme, y
+compris lorsqu'il est issu d'une fusion, ou de modification du périmètre d'un établissement public de coopération
+intercommunale compétent ou de transfert de cette compétence à un tel établissement public, les dispositions des plans locaux
+d'urbanisme applicables aux territoires concernés restent applicables. Elles peuvent être modifiées selon les procédures
+prévues aux articles L. 123-13-1 à L. 123-13-3, ainsi qu'aux articles L. 123-14 et L. 123-14-2 du présent code, jusqu'à
+l'approbation ou la révision d'un plan local d'urbanisme couvrant l'intégralité du territoire de l'établissement public de
+coopération intercommunale concerné. Celui-ci engage la procédure d'élaboration ou de révision de ce plan lorsqu'il le décide
+et au plus tard lorsqu'il doit réviser un des plans locaux d'urbanisme applicables dans son périmètre. 
+
+La commune nouvelle compétente en matière de plan local d'urbanisme ou de document en tenant lieu peut décider d'achever
+toute procédure d'élaboration ou d'évolution d'un plan local d'urbanisme ou de document en tenant lieu applicable sur le
+territoire des anciennes communes qui aurait été engagée avant la date de création de la commune nouvelle. La commune
+nouvelle se substitue de plein droit aux anciennes communes dans tous les actes et délibérations afférents aux procédures
+engagées avant la date de sa création.
+
+En cas de création d'une commune nouvelle, les dispositions des plans locaux d'urbanisme applicables aux anciennes communes
+restent applicables. Elles peuvent être modifiées, selon les procédures prévues aux articles L. 123-13-1 à L. 123-13-3, ainsi
+qu'aux articles L. 123-14 et L. 123-14-2, jusqu'à l'approbation ou la révision d'un plan local d'urbanisme couvrant
+l'intégralité du territoire de la commune nouvelle. La procédure d'élaboration ou de révision de ce dernier plan est engagée
+au plus tard lorsqu'un des plans locaux d'urbanisme applicables sur le territoire de la commune nouvelle doit être révisé.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+	  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
+
+	**Cité par**:
+
+	  - Loi n°2014-1545 du 20 décembre 2014 - art. 13 (VT)
+	  - Code de l'urbanisme - art. L123-12-1 (V)
+	  - Code de l'urbanisme - art. L123-19 (M)
+	  - Code de l'urbanisme - art. R*123-10 (V)
+	  - Code de l'urbanisme - art. R*123-13 (V)
+	  - Code de l'urbanisme - art. R*123-20-3 (V)
+	  - Code de l'urbanisme - art. R*123-24 (V)
+	  - Code de l'urbanisme - art. R*123-25 (V)
+	  - Code de l'urbanisme - art. R*431-15 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 37
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2112-2
+	  - Code de l'urbanisme - art. L123-13-1
+	  - Code de l'urbanisme - art. L123-14
+	  - Code de l'urbanisme - art. L123-14-2
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L153-10 (VD)
+	  - Code de l'urbanisme - art. L153-4 (VD)
+	  - Code de l'urbanisme - art. L153-5 (VD)
+	  - Code de l'urbanisme - art. L153-6 (VD)
+
+
+###### Article L123-1-1-1
+
+Lorsqu'il est élaboré par un établissement public de coopération intercommunale compétent, le plan local d'urbanisme peut
+comporter des plans de secteur qui couvrent chacun l'intégralité du territoire d'une ou plusieurs communes membres de
+l'établissement public de coopération intercommunale et qui précisent les orientations d'aménagement et de programmation
+ainsi que le règlement spécifiques à ce secteur.
+
+Une ou plusieurs communes membres d'une communauté de communes ou d'une communauté d'agglomération peuvent demander à être
+couvertes par un plan de secteur. Après un débat au sein de l'organe délibérant de l'établissement public de coopération
+intercommunale, celui-ci délibère sur l'opportunité d'élaborer ce plan.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L151-3 (VD)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*123-1 (VT)
+	  - Code général des collectivités territoriales - art. L5219-1 (M)
+
+
+###### Article L123-1-2
+
+Le rapport de présentation explique les choix retenus pour établir le projet d'aménagement et de développement durables, les
+orientations d'aménagement et de programmation et le règlement. 
+
+Il s'appuie sur un diagnostic établi au regard des prévisions économiques et démographiques et des besoins répertoriés en
+matière de développement économique, de surfaces et de développement agricoles, de développement forestier, d'aménagement de
+l'espace, d'environnement, notamment en matière de biodiversité, d'équilibre social de l'habitat, de transports, de commerce,
+d'équipements et de services. 
+
+Il analyse la capacité de densification et de mutation de l'ensemble des espaces bâtis, en tenant compte des formes urbaines
+et architecturales. Il expose les dispositions qui favorisent la densification de ces espaces ainsi que la limitation de la
+consommation des espaces naturels, agricoles ou forestiers. 
+
+Il établit un inventaire des capacités de stationnement de véhicules motorisés, de véhicules hybrides et électriques et de
+vélos des parcs ouverts au public et des possibilités de mutualisation de ces capacités. 
+
+Il présente une analyse de la consommation d'espaces naturels, agricoles et forestiers au cours des dix années précédant
+l'approbation du plan ou depuis la dernière révision du document d'urbanisme. 
+
+Il justifie les objectifs compris dans le projet d'aménagement et de développement durables au regard des objectifs de
+consommation de l'espace fixés, le cas échéant, par le schéma de cohérence territoriale et au regard des dynamiques
+économiques et démographiques.
+
+**Nota:**
+
+Loi n° 2014-1170 du 13 octobre 2014 art. 25 VIII : Les articles L. 123-1-2 et L. 123-1-3 du même code, dans leur rédaction
+résultant de la loi n° 2014-366 du 24 mars 2014, entrent en vigueur au lendemain de la publication de la présente loi. Les
+organes délibérants des établissements publics ayant engagé l'élaboration, la révision ou la modification d'un plan local
+d'urbanisme avant la publication de la présente loi peuvent toutefois opter pour appliquer les mêmes articles L. 123-1-2 et
+L. 123-1-3 dans leur rédaction antérieure à la présente loi. Les plans locaux d'urbanisme élaborés ou révisés avant cette
+date, ainsi que ceux dont la procédure d'élaboration, de modification ou de révision est achevée après cette même date
+conformément aux dispositions applicables antérieurement à ladite date, sont mis en conformité avec lesdits articles L.
+123-1-2 et L. 123-1-3 dans leur rédaction résultant de la présente loi lors de leur prochaine révision.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+	  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
+
+	**Cité par**:
+
+	  - Loi n°2014-366 du 24 mars 2014 - art. 129 (V)
+	  - Loi n°2014-366 du 24 mars 2014 - art. 139 (V)
+	  - Code de l'urbanisme - art. L122-1-2 (VT)
+	  - Code de l'urbanisme - art. L332-7-1 (V)
+	  - Code de l'urbanisme - art. R*123-2 (VT)
+	  - Code de l'urbanisme - art. R*123-2-1 (VT)
+	  - Code de l'urbanisme - art. R313-3 (M)
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L151-4 (VD)
+
+
+###### Article L123-1-3
+
+Le projet d'aménagement et de développement durables définit les orientations générales des politiques d'aménagement,
+d'équipement, d'urbanisme, de paysage, de protection des espaces naturels, agricoles et forestiers, et de préservation ou de
+remise en bon état des continuités écologiques. 
+
+Le projet d'aménagement et de développement durables arrête les orientations générales concernant l'habitat, les transports
+et les déplacements, le développement des communications numériques, l'équipement commercial, le développement économique et
+les loisirs, retenues pour l'ensemble de l'établissement public de coopération intercommunale ou de la commune. 
+
+Il fixe des objectifs chiffrés de modération de la consommation de l'espace et de lutte contre l'étalement urbain. 
+
+Il peut prendre en compte les spécificités des anciennes communes, notamment paysagères, architecturales, patrimoniales et
+environnementales, lorsqu'il existe une ou plusieurs communes nouvelles.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L229-26 (V)
+	  - Code de l'urbanisme - art. L123-13 (VT)
+	  - Code de l'urbanisme - art. L123-9 (M)
+	  - Code de l'urbanisme - art. L313-1 (VT)
+	  - Code de l'urbanisme - art. L710-6-1 (V)
+	  - Code de l'urbanisme - art. R*123-3 (VT)
+	  - Code du patrimoine. - art. L641-1 (V)
+
+
+###### Article L123-1-4
+
+Dans le respect des orientations définies par le projet d'aménagement et de développement durables, les orientations
+d'aménagement et de programmation comprennent des dispositions portant sur l'aménagement, l'habitat, les transports et les
+déplacements. 
+
+1. En ce qui concerne l'aménagement, les orientations peuvent définir les actions et opérations nécessaires pour mettre en
+valeur l'environnement, notamment les continuités écologiques, les paysages, les entrées de villes et le patrimoine, lutter
+contre l'insalubrité, permettre le renouvellement urbain et assurer le développement de la commune. Elles peuvent favoriser
+la mixité fonctionnelle en prévoyant qu'en cas de réalisation d'opérations d'aménagement, de construction ou de
+réhabilitation, un pourcentage de ces opérations est destiné à la réalisation de commerces. 
+
+Elles peuvent comporter un échéancier prévisionnel de l'ouverture à l'urbanisation des zones à urbaniser et de la réalisation
+des équipements correspondants. 
+
+Elles peuvent porter sur des quartiers ou des secteurs à mettre en valeur, réhabiliter, restructurer ou aménager. 
+
+Elles peuvent prendre la forme de schémas d'aménagement et préciser les principales caractéristiques des voies et espaces
+publics. 
+
+Elles peuvent adapter la délimitation des périmètres, en fonction de la qualité de la desserte, où s'applique le plafonnement
+à proximité des transports prévu à l'article L. 123-1-13.
+
+2. En ce qui concerne l'habitat, dans le cas des plans locaux d'urbanisme tenant lieu de programme local de l'habitat, ces
+orientations précisent les actions et opérations d'aménagement visant à poursuivre les objectifs énoncés à l'article L. 302-1
+du code de la construction et de l'habitation. 
+
+3. En ce qui concerne les transports et les déplacements, dans le cas des plans tenant lieu de plan de déplacements urbains,
+elles précisent les actions et opérations d'aménagement visant à poursuivre les principes et les objectifs énoncés aux
+articles L. 1214-1 et L. 1214-2 du code des transports. 
+
+En l'absence de schéma de cohérence territoriale, les orientations d'aménagement et de programmation d'un plan local
+d'urbanisme élaboré par un établissement public de coopération intercommunale comprennent les dispositions mentionnées à
+l'article L. 122-1-9 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Cité par**:
+
+	  - Code de commerce - art. L752-6 (V)
+	  - Code de l'urbanisme - art. L123-1 (VD)
+	  - Code de l'urbanisme - art. L123-5 (VT)
+	  - Code de l'urbanisme - art. R*123-1 (VT)
+	  - Code de l'urbanisme - art. R*123-14-1 (VT)
+	  - Code de l'urbanisme - art. R*123-2 (VT)
+	  - Code de l'urbanisme - art. R*123-3-1 (VT)
+	  - Code de l'urbanisme - art. R313-5 (M)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L122-1-9
+	  - Code de l'urbanisme - art. L123-1-13
+	  - Code de la construction et de l'habitation. - art. L302-1
+	  - Code des transports - art. L1214-1
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L151-44 (VD)
+	  - Code de l'urbanisme - art. L151-46 (VD)
+	  - Code de l'urbanisme - art. L151-47 (VD)
+	  - Code de l'urbanisme - art. L151-6 (VD)
+	  - Code de l'urbanisme - art. L151-7 (VD)
+
+
 ###### Article L123-1-6
 
 Le rapport de présentation peut comporter un échéancier prévisionnel de  l'ouverture à l'urbanisation des zones à urbaniser
@@ -6025,7 +6103,15 @@ et de la réalisation des  équipements correspondants.
 
 	**Créé par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (M)
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 
 ###### Article L123-1-7
@@ -6040,12 +6126,24 @@ L. 122-3. Le plan local d'urbanisme a alors les effets du schéma de cohérence 
 
 	**Créé par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (M)
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. L122-3 (VT)
 	  - Code de l'urbanisme - art. R*121-14 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L144-2 (VD)
 
 
 ###### Article L123-1-8
@@ -6057,11 +6155,23 @@ il s'applique.
 
 	**Créé par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (M)
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
 
 	**Cité par**:
 
 	  - Loi n°2014-366 du 24 mars 2014 - art. 129 (V)
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L151-2 (VD)
 
 
 ###### Article L123-1-9
@@ -6085,9 +6195,9 @@ local de l'habitat et nécessitant une modification du plan.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 137 (V)
+	  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
 
 	**Cité par**:
 
@@ -6115,15 +6225,23 @@ directeurs d'aménagement et de gestion des eaux en application de l'article L. 
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 137 (V)
+	  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L111-1-1
 	  - Code de l'environnement - art. L212-1
 	  - Code de l'environnement - art. L566-7
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L131-7 (VD)
 
 
 ###### Article L123-1-11
@@ -6147,22 +6265,36 @@ Son application est exclusive de celle des articles    L. 127-1, L. 127-2  et L.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Loi n°2015-990 du 6 août 2015 - art. 79
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. L123-1-11-1 (Ab)
 	  - Code de l'urbanisme - art. L123-13-2 (VT)
 	  - Code de l'urbanisme - art. L123-13-3 (VT)
-	  - Code de l'urbanisme - art. L123-19 (M)
+	  - Code de l'urbanisme - art. L123-19 (VT)
 	  - Code de l'urbanisme - art. R*123-10 (VT)
 	  - Code de l'urbanisme - art. R*123-13 (V)
 	  - Code de l'urbanisme - art. R*123-20-3 (Ab)
 	  - Code de l'urbanisme - art. R*123-24 (V)
 	  - Code de l'urbanisme - art. R*123-25 (VT)
 	  - Code de l'urbanisme - art. R*431-15 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L151-20 (VD)
+	  - Code de l'urbanisme - art. L151-28 (VD)
+	  - Code de l'urbanisme - art. L151-29 (VD)
 
 
 ###### Article L123-1-12
@@ -6202,9 +6334,9 @@ compte, en tout ou en partie, à l'occasion d'une nouvelle autorisation.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2014-1655 du 29 décembre 2014 - art. 44
+	  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
 
 	**Cité par**:
 
@@ -6245,21 +6377,35 @@ construction des logements mentionnés aux trois premiers alinéas.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+
 	**Cité par**:
 
-	  - Ordonnance n°2012-787 du 31 mai 2012 - art. 7 (V)
+	  - Ordonnance n°2012-787 du 31 mai 2012 - art. 7 (VD)
 	  - Code de l'urbanisme - art. L123-1-4 (VT)
 	  - Code de l'urbanisme - art. L710-6-1 (VT)
 	  - Code de l'urbanisme - art. R*123-9-1 (VT)
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2014-1545 du 20 décembre 2014 - art. 12 (V)
+	  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L312-1 (V)
-	  - Code de la construction et de l'habitation. - art. L631-12 (V)
+	  - Code de l'action sociale et des familles - art. L312-1
+	  - Code de la construction et de l'habitation. - art. L631-12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L151-34 (VD)
+	  - Code de l'urbanisme - art. L151-35 (VD)
+	  - Code de l'urbanisme - art. L151-36 (VD)
 
 
 ###### Article L123-2
@@ -6282,14 +6428,18 @@ d) Abrogé.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2009-323 du 25 mars 2009 - art. 32
+	  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 1722 quater (V)
-	  - Code de l'urbanisme - art. L123-17 (M)
+	  - Code de l'urbanisme - art. L123-17 (VT)
 	  - Code de l'urbanisme - art. L124-4 (Ab)
 	  - Code de l'urbanisme - art. L213-1 (VD)
 	  - Code de l'urbanisme - art. L230-1 (V)
@@ -6309,6 +6459,10 @@ d) Abrogé.
 	  - Code de l'urbanisme - art. R*431-16-1 (V)
 	  - Code de l'urbanisme - art. R313-3 (M)
 	  - Code de la construction et de l'habitation. - art. L302-1 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L151-41 (VD)
 
 
 ###### Article L123-3
@@ -6341,9 +6495,18 @@ Il peut également déterminer la surface de plancher dont la construction est a
 	  - Code de l'urbanisme - art. R311-6 (VD)
 	  - Code rural - art. R244-15 (Ab)
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Ordonnance n°2011-1539 du 16 novembre 2011 - art. 3 (VD)
+	  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L151-27 (VD)
+	  - Code de l'urbanisme - art. L151-42 (VD)
 
 
 ###### Article L123-4
@@ -6377,13 +6540,18 @@ Cette servitude ne peut être levée que par décret pris sur avis conforme du C
 	  - Code de l'urbanisme - art. R*123-8 (VT)
 	  - Code de l'urbanisme - art. R*431-33 (M)
 
-	**Modifié par**:
-
-	  - Loi n°2014-366 du 24 mars 2014 - art. 158 (V)
-
 	**Liens**:
 
+	  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L123-3 (M)
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L151-25 (VD)
 
 
 ###### Article L123-5
@@ -6420,18 +6588,18 @@ construire.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code des transports - art. L1214-5
-	  - Code de l'urbanisme - art. L123-1-4
-
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 137 (V)
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
 
 	**Liens**:
 
+	  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L111-8 (M)
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 	**Cité par**:
 
@@ -6449,6 +6617,17 @@ construire.
 	  - Code de l'urbanisme - art. R421-17 (Ab)
 	  - Code de l'urbanisme - art. R421-30 (M)
 	  - Code du patrimoine - art. R621-12 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L123-1-4 (VT)
+	  - Code des transports - art. L1214-5
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L152-1 (VD)
+	  - Code de l'urbanisme - art. L152-4 (VD)
+	  - Code de l'urbanisme - art. L152-8 (VD)
 
 
 ###### Article L123-5-1
@@ -6492,13 +6671,9 @@ que le projet s'intègre harmonieusement dans le milieu urbain environnant.
 
 	**Cite**:
 
-	  - Loi n°89-462 du 6 juillet 1989 - art. 18 (V)
+	  - Loi n°89-462 du 6 juillet 1989 - art. 18
 	  - Code général des impôts, CGI. - art. 232
 	  - Code de la construction et de l'habitation. - art. L302-5
-
-	**Modifié par**:
-
-	  - Loi n°2014-1545 du 20 décembre 2014 - art. 14
 
 	**Cité par**:
 
@@ -6506,6 +6681,18 @@ que le projet s'intègre harmonieusement dans le milieu urbain environnant.
 	  - Code de l'urbanisme - art. R*123-9-2 (VT)
 	  - Code de l'urbanisme - art. R*431-31-2 (M)
 	  - Code de la construction et de l'habitation. - art. L111-4-1 (V)
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L152-6 (VD)
 
 
 ###### Article L123-6
@@ -6575,11 +6762,9 @@ l'exécution du futur plan.
 	  - Code du patrimoine. - art. L641-1 (V)
 	  - Code général des collectivités territoriales - art. L4251-5 (VD)
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
-	  - Loi n°2014-366 du 24 mars 2014 - art. 137 (V)
-	  - Loi n°2014-1170 du 13 octobre 2014 - art. 25
+	  - DEPLACEMENT: Loi n°2015-991 du 7 août 2015 - art. 39 (V)
 
 	**Cite**:
 
@@ -6599,7 +6784,15 @@ projet de plan local d'urbanisme.
 
 	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (M)
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 	**Cité par**:
 
@@ -6616,7 +6809,11 @@ projet de plan local d'urbanisme.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L123-6 (VT)
+	  - Code de l'urbanisme - art. L123-6
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L132-10 (VD)
 
 
 ###### Article L123-8
@@ -6676,11 +6873,6 @@ maire lui notifie le projet de plan local d'urbanisme afin de recueillir son avi
 	  - Code de l'urbanisme - art. R*313-8 (M)
 	  - Code de la voirie routière - art. R*151-5 (V)
 
-	**Modifié par**:
-
-	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
-	  - Loi n°2014-366 du 24 mars 2014 - art. 137 (V)
-
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L121-4
@@ -6713,6 +6905,12 @@ orientations d'aménagement et de programmation ou les dispositions du règlemen
 délibérant compétent de l'établissement public de coopération intercommunale délibère à nouveau et arrête le projet de plan
 local d'urbanisme à la majorité des deux tiers des suffrages exprimés.
 
+**Nota:**
+
+Conformément à l'article 13 18° de l'ordonnance n° 2015-1174 du 23 septembre 2015, l'abrogation de la quatrième phrase du
+deuxième alinéa de l'article L. 123-9 ne prendra effet qu'à compter de la publication des dispositions réglementaires du
+livre Ier du code de l'urbanisme.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -6729,7 +6927,7 @@ local d'urbanisme à la majorité des deux tiers des suffrages exprimés.
 	  - Code de l'urbanisme - art. A123-6 (Ab)
 	  - Code de l'urbanisme - art. L111-11 (M)
 	  - Code de l'urbanisme - art. L123-13 (VD)
-	  - Code de l'urbanisme - art. L123-18 (M)
+	  - Code de l'urbanisme - art. L123-18 (VT)
 	  - Code de l'urbanisme - art. L123-23 (VT)
 	  - Code de l'urbanisme - art. L123-7 (M)
 	  - Code de l'urbanisme - art. L124-2 (M)
@@ -6748,14 +6946,32 @@ local d'urbanisme à la majorité des deux tiers des suffrages exprimés.
 
 	**Modifié par**:
 
-	  - Loi n°2014-1170 du 13 octobre 2014 - art. 25
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 13
 
 	**Cite**:
 
 	  - Code rural - art. L112-1-1
-	  - Code de l'urbanisme - art. L123-1-3
-	  - Code de l'urbanisme - art. L123-6 (VT)
-	  - Code de la construction et de l'habitation. - art. L364-1 (V)
+	  - Code de l'urbanisme - art. L123-1-3 (VT)
+	  - Code de l'urbanisme - art. L123-6
+	  - Code de la construction et de l'habitation. - art. L364-1
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L153-12 (VD)
+	  - Code de l'urbanisme - art. L153-14 (VD)
+	  - Code de l'urbanisme - art. L153-15 (VD)
+	  - Code de l'urbanisme - art. L153-16 (VD)
+	  - Code de l'urbanisme - art. L153-17 (VD)
+	  - Code de l'urbanisme - art. R153-4 (V)
 
 
 ###### Article L123-9-1
@@ -6772,7 +6988,19 @@ Le présent article n'est pas applicable aux communes situées en Ile-de-France.
 
 	**Créé par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (M)
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L153-13 (VD)
 
 	**Cité par**:
 
@@ -6803,12 +7031,18 @@ public et du rapport du commissaire ou de la commission d'enquête, est approuv�
 
 Le plan local d'urbanisme approuvé est tenu à la disposition du public.
 
+**Nota:**
+
+Conformément à l'article 13 19° de l'ordonnance n° 2015-1174 du 23 septembre 2015, l'abrogation de la deuxième phrase du
+premier alinéa de l'article L. 123-10  ne prendra effet qu'à compter de la publication des dispositions réglementaires du
+livre Ier du code de l'urbanisme.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
 	  - Loi n°82-600 du 13 juillet 1982 - art. 5 (M)
-	  - Code de l'urbanisme - art. L123-11 (M)
+	  - Code de l'urbanisme - art. L123-11 (VT)
 	  - Code de l'urbanisme - art. L123-23 (VT)
 	  - Code de l'urbanisme - art. R*123-19 (VT)
 	  - Code de l'urbanisme - art. R*123-20 (M)
@@ -6819,13 +7053,29 @@ Le plan local d'urbanisme approuvé est tenu à la disposition du public.
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 137 (V)
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 13
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L121-5
 	  - Code de l'urbanisme - art. L123-6
-	  - Code de l'urbanisme - art. L123-8
+	  - Code de l'urbanisme - art. L123-8 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L153-19 (VD)
+	  - Code de l'urbanisme - art. L153-21 (VD)
+	  - Code de l'urbanisme - art. L153-22 (VD)
+	  - Code de l'urbanisme - art. R153-8 (V)
 
 
 ###### Article L123-11
@@ -6849,18 +7099,21 @@ pièces requises par le code de l'expropriation pour cause d'utilité publique.
 	  - Code de l'urbanisme - art. L123-12-1 (VD)
 	  - Code de l'urbanisme - art. R*123-17 (M)
 
-	**Modifié par**:
-
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 4 () JORF 14 décembre 2000 en vigueur le 1er avril 2001
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°2000-1208 du 13 décembre 2000 - art. 43 (V)
-	  - SPEC_APPLI: Décret n°2001-260 du 27 mars 2001 - art. 6 (V)
+	  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L123-10 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L153-20 (VD)
 
 
 ###### Article L123-12
@@ -6914,6 +7167,12 @@ collectivités territoriales s'effectue sur le portail national de l'urbanisme p
 fixées par arrêté du ministre chargé de l'urbanisme. Le document demeure consultable en mairie ou au siège de l'établissement
 public compétent et dans les mairies des communes membres concernées.
 
+**Nota:**
+
+Conformément à l'article 13 20° de l'ordonnance n° 2015-1174 du 23 septembre 2015, l'abrogation de la première phrase du
+dernier alinéa de l'article L. 123-12  ne prendra effet qu'à compter de la publication des dispositions réglementaires du
+livre Ier du code de l'urbanisme.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -6927,6 +7186,10 @@ public compétent et dans les mairies des communes membres concernées.
 	  - Code de l'urbanisme - art. L141-7
 	  - Code de la construction et de l'habitation. - art. L302-2
 
+	**Modifié par**:
+
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+
 	**Cité par**:
 
 	  - Loi n°2011-665 du 15 juin 2011 - art. 1 (V)
@@ -6934,13 +7197,23 @@ public compétent et dans les mairies des communes membres concernées.
 	  - Code de l'urbanisme - art. R*123-23 (M)
 	  - Code de la construction et de l'habitation. - art. L301-5-1 (VT)
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 137 (V)
+	  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 13
 
 	**Nouveaux textes**:
 
+	  - Code de l'urbanisme - art. L153-23 (VD)
+	  - Code de l'urbanisme - art. L153-24 (VD)
+	  - Code de l'urbanisme - art. L153-25 (VD)
+	  - Code de l'urbanisme - art. L153-26 (VD)
 	  - Code de l'urbanisme - art. L318-9 (V)
+	  - Code de l'urbanisme - art. R153-22 (V)
 
 
 ###### Article L123-12-1
@@ -6980,9 +7253,9 @@ organisé tous les trois ans dès lors que le plan n'a pas été mis en révisio
 	  - Code de la construction et de l'habitation. - art. L302-1
 	  - Code de la construction et de l'habitation. - art. L302-2
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 137 (V)
+	  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
 
 	**Cité par**:
 
@@ -7037,7 +7310,7 @@ peuvent être menées conjointement.
 	  - Code de l'urbanisme - art. L123-12-1 (VD)
 	  - Code de l'urbanisme - art. L123-13-1 (VT)
 	  - Code de l'urbanisme - art. L123-18 (VT)
-	  - Code de l'urbanisme - art. L123-19 (M)
+	  - Code de l'urbanisme - art. L123-19 (VT)
 	  - Code de l'urbanisme - art. L311-7 (VT)
 	  - Code de l'urbanisme - art. L313-1 (VD)
 	  - Code de l'urbanisme - art. R*121-16 (V)
@@ -7052,12 +7325,28 @@ peuvent être menées conjointement.
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 139 (M)
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L121-4
 	  - Code de l'urbanisme - art. L123-6
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L153-31 (VD)
+	  - Code de l'urbanisme - art. L153-32 (VD)
+	  - Code de l'urbanisme - art. L153-33 (VD)
+	  - Code de l'urbanisme - art. L153-34 (VD)
+	  - Code de l'urbanisme - art. L153-35 (VD)
 
 
 ###### Article L123-13-1
@@ -7088,14 +7377,21 @@ publication de la présente loi.
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 130
-	  - Loi n°2014-366 du 24 mars 2014 - art. 139 (V)
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. L. 600-9 (V)
 	  - Code de l'urbanisme - art. L123-1-1 (VT)
-	  - Code de l'urbanisme - art. L123-18 (M)
+	  - Code de l'urbanisme - art. L123-18 (VT)
 	  - Code de l'urbanisme - art. L311-7 (V)
 	  - Code de l'urbanisme - art. L313-1 (VD)
 	  - Code de l'urbanisme - art. R*123-2-1 (VD)
@@ -7103,10 +7399,17 @@ publication de la présente loi.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L121-4 (V)
+	  - Code de l'urbanisme - art. L121-4
 	  - Code de l'urbanisme - art. L123-13
 	  - Code de l'urbanisme - art. L123-13-3
 	  - Code de l'urbanisme - art. L123-6
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L153-36 (VD)
+	  - Code de l'urbanisme - art. L153-37 (VD)
+	  - Code de l'urbanisme - art. L153-38 (VD)
+	  - Code de l'urbanisme - art. L153-40 (VD)
 
 
 ###### Article L123-13-2
@@ -7134,11 +7437,22 @@ des observations du public et du rapport du commissaire ou de la commission d'en
 l'organe délibérant de l'établissement public de coopération intercommunale ou, dans le cas prévu au deuxième alinéa de
 l'article L. 123-6, du conseil municipal.
 
+**Nota:**
+
+Conformément à l'article 13 21° de l'ordonnance n° 2015-1174 du 23 septembre 2015, l'abrogation de la troisième phrase du
+sixième alinéa de l'article L. 123-13-2 ne prendra effet qu'à compter de la publication des dispositions réglementaires du
+livre Ier du code de l'urbanisme.
+
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2015-990 du 6 août 2015 - art. 79
+	  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 13
 
 	**Cite**:
 
@@ -7150,7 +7464,14 @@ l'article L. 123-6, du conseil municipal.
 
 	**Cité par**:
 
-	  - Code de l'urbanisme - art. L123-13-3 (M)
+	  - Code de l'urbanisme - art. L123-13-3 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L153-41 (VD)
+	  - Code de l'urbanisme - art. L153-42 (VD)
+	  - Code de l'urbanisme - art. L153-43 (VD)
+	  - Code de l'urbanisme - art. R153-8 (V)
 
 
 ###### Article L123-13-3
@@ -7176,25 +7497,35 @@ tenir compte des avis émis et des observations du public par délibération mot
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2015-990 du 6 août 2015 - art. 79
+	  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 	**Cité par**:
 
 	  - Code de l'environnement - art. L581-14-1 (V)
 	  - Code de l'urbanisme - art. L123-13-1 (VT)
+	  - Code de l'urbanisme - art. L128-2 (VT)
 	  - Code de l'urbanisme - art. L311-7 (V)
 	  - Code de l'urbanisme - art. R*111-50-1 (VT)
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L121-4
-	  - Code de l'urbanisme - art. L123-1-11 (M)
-	  - Code de l'urbanisme - art. L123-13-2 (M)
+	  - Code de l'urbanisme - art. L123-1-11
+	  - Code de l'urbanisme - art. L123-13-2 (VT)
 	  - Code de l'urbanisme - art. L123-6
 	  - Code de l'urbanisme - art. L127-1
 	  - Code de l'urbanisme - art. L128-1
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L153-45 (VD)
+	  - Code de l'urbanisme - art. L153-47 (VD)
 
 
 ###### Article L123-14
@@ -7226,7 +7557,7 @@ modification a été notifié aux personnes publiques associées à la date d'en
 
 	**Cité par**:
 
-	  - Loi n°2010-597 du 3 juin 2010 - art. 21 (V)
+	  - Loi n°2010-597 du 3 juin 2010 - art. 21 (VD)
 	  - Ordonnance n°2012-787 du 31 mai 2012 - art. 7 (VD)
 	  - Code de l'environnement - art. R555-32 (VD)
 	  - Code de l'urbanisme - art. L123-1-1 (VT)
@@ -7244,12 +7575,20 @@ modification a été notifié aux personnes publiques associées à la date d'en
 
 	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (M)
-	  - Ordonnance n°2012-11 du 5 janvier 2012 - art. 3
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
 
 	**Liens**:
 
+	  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
 	  - PILOTE_SUIVEUR: Code de l'expropriation pour cause d'utilité pu... - art. L11-4 (VT)
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L153-54 (VD)
 
 
 ###### Article L123-14-1
@@ -7300,22 +7639,34 @@ modification a été notifié aux personnes publiques associées à la date d'en
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 137 (V)
+	  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L111-1-1
-	  - Code de l'urbanisme - art. L123-1-9
+	  - Code de l'urbanisme - art. L123-1-9 (VT)
 	  - Code de l'urbanisme - art. L123-6
 
 	**Cité par**:
 
-	  - Code de l'urbanisme - art. L123-14-2 (VD)
+	  - Code de l'urbanisme - art. L123-14-2 (VT)
 	  - Code de l'urbanisme - art. R*121-4 (VT)
 	  - Code de l'urbanisme - art. R*123-23 (VT)
 	  - Code de l'urbanisme - art. R*123-24 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L131-6 (VD)
+	  - Code de l'urbanisme - art. L131-7 (VD)
+	  - Code de l'urbanisme - art. L153-49 (VD)
+	  - Code de l'urbanisme - art. L153-50 (VD)
+	  - Code de l'urbanisme - art. L153-51 (VD)
 
 
 ###### Article L123-14-2
@@ -7381,6 +7732,12 @@ public ou la commune de l'avis du commissaire enquêteur ou de la commission d'e
 
 Les procédures nécessaires à une ou plusieurs mises en compatibilité peuvent être menées conjointement.
 
+**Nota:**
+
+Conformément à l'article 13 22° de l'ordonnance n° 2015-1174 du 23 septembre 2015, l'abrogation du dernier alinéa du II de
+l'article L. 123-14-2 ne prendra effet qu'à compter de la publication des dispositions réglementaires du livre Ier du code de
+l'urbanisme.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -7391,7 +7748,7 @@ Les procédures nécessaires à une ou plusieurs mises en compatibilité peuvent
 	  - Code de l'urbanisme - art. L123-1-1 (VT)
 	  - Code de l'urbanisme - art. L123-14 (VT)
 	  - Code de l'urbanisme - art. L123-18 (VT)
-	  - Code de l'urbanisme - art. L123-19 (M)
+	  - Code de l'urbanisme - art. L123-19 (VT)
 	  - Code de l'urbanisme - art. L300-6 (V)
 	  - Code de l'urbanisme - art. L300-6-1 (V)
 	  - Code de l'urbanisme - art. R*123-23-1 (VT)
@@ -7402,15 +7759,31 @@ Les procédures nécessaires à une ou plusieurs mises en compatibilité peuvent
 	  - Code de l'urbanisme - art. R300-22 (VD)
 	  - Code du patrimoine. - art. L642-3 (VD)
 
-	**Modifié par**:
+	**Liens**:
 
-	  - ORDONNANCE n°2014-811 du 17 juillet 2014 - art. 1
+	  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 13
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L121-4
-	  - Code de l'urbanisme - art. L123-14-1
-	  - Code de l'urbanisme - art. L123-6 (VT)
+	  - Code de l'urbanisme - art. L123-14-1 (VT)
+	  - Code de l'urbanisme - art. L123-6
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L153-52 (VD)
+	  - Code de l'urbanisme - art. L153-53 (VD)
+	  - Code de l'urbanisme - art. L153-54 (VD)
+	  - Code de l'urbanisme - art. L153-55 (VD)
+	  - Code de l'urbanisme - art. L153-56 (VD)
+	  - Code de l'urbanisme - art. L153-57 (VD)
+	  - Code de l'urbanisme - art. L153-58 (VD)
+	  - Code de l'urbanisme - art. R153-13 (V)
 
 
 ###### Article L123-15
@@ -7442,13 +7815,27 @@ modification a été notifié aux personnes publiques associées à la date d'en
 
 	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (M)
-	  - Ordonnance n°2012-11 du 5 janvier 2012 - art. 3
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. L2131-1
-	  - Code de l'urbanisme - art. L123-12 (VD)
+	  - Code de l'urbanisme - art. L123-12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L153-33 (VD)
+	  - Code de l'urbanisme - art. L153-44 (VD)
+	  - Code de l'urbanisme - art. L153-48 (VD)
+	  - Code de l'urbanisme - art. L153-59 (VD)
 
 	**Cité par**:
 
@@ -7481,7 +7868,7 @@ modification a été notifié aux personnes publiques associées à la date d'en
 
 	**Cité par**:
 
-	  - Loi n°2010-597 du 3 juin 2010 - art. 21 (V)
+	  - Loi n°2010-597 du 3 juin 2010 - art. 21 (VD)
 	  - Décret n°2011-724 du 24 juin 2011 - art. 13 (V)
 	  - Décret n°2011-724 du 24 juin 2011 - art. 9 (V)
 	  - Code de l'environnement - art. R555-32 (V)
@@ -7504,12 +7891,25 @@ modification a été notifié aux personnes publiques associées à la date d'en
 
 	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (M)
-	  - Ordonnance n°2012-11 du 5 janvier 2012 - art. 3
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L123-6 (VD)
+	  - Code de l'urbanisme - art. L123-6 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L153-18 (VD)
+	  - Code de l'urbanisme - art. L153-33 (VD)
+	  - Code de l'urbanisme - art. L153-39 (VD)
 
 
 ###### Article L123-17
@@ -7526,14 +7926,13 @@ L. 230-1 et suivants.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 4 () JORF 14 décembre 2000 en vigueur le 1er avril 2001
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°2000-1208 du 13 décembre 2000 - art. 43 (V)
-	  - SPEC_APPLI: Décret n°2001-260 du 27 mars 2001 - art. 6 (V)
+	  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 	**Cité par**:
 
@@ -7546,7 +7945,11 @@ L. 230-1 et suivants.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L123-2 (V)
+	  - Code de l'urbanisme - art. L123-2 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L152-2 (VD)
 
 	**Codifié par**:
 
@@ -7566,20 +7969,42 @@ conditions prévues au deuxième alinéa de l'article L. 123-13-1.
 
 **Nota:**
 
-
+Conformément à l'article 13 23° de l'ordonnance n° 2015-1174 du 23 septembre 2015, l'abrogation de la troisième phrase du
+premier alinéa de l'article L. 123-18 ne prendra effet qu'à compter de la publication des dispositions réglementaires du
+livre Ier du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 139 (V)
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 13
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L123-13
-	  - Code de l'urbanisme - art. L123-13-1
+	  - Code de l'urbanisme - art. L123-13-1 (VT)
 	  - Code de l'urbanisme - art. L123-14-2
-	  - Code de l'urbanisme - art. L123-9
+	  - Code de l'urbanisme - art. L123-9 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L153-12 (VD)
+	  - Code de l'urbanisme - art. L153-16 (VD)
+	  - Code de l'urbanisme - art. L153-33 (VD)
+	  - Code de l'urbanisme - art. L153-34 (VD)
+	  - Code de l'urbanisme - art. L153-40 (VD)
+	  - Code de l'urbanisme - art. L153-53 (VD)
+	  - Code de l'urbanisme - art. L153-54 (VD)
+	  - Code de l'urbanisme - art. R153-11 (V)
 
 	**Cité par**:
 
@@ -7644,16 +8069,16 @@ de ce délai de trois ans.
 	  - Loi n°2014-366 du 24 mars 2014
 	  - Code de l'urbanisme - art. L111-1
 	  - Code de l'urbanisme - art. L123-1
-	  - Code de l'urbanisme - art. L123-1-11
-	  - Code de l'urbanisme - art. L123-13
+	  - Code de l'urbanisme - art. L123-1-11 (VT)
+	  - Code de l'urbanisme - art. L123-13 (VT)
 	  - Code de l'urbanisme - art. L123-14
-	  - Code de l'urbanisme - art. L123-14-2
+	  - Code de l'urbanisme - art. L123-14-2 (VT)
 
 	**Cité par**:
 
 	  - Loi n°2003-590 du 2 juillet 2003 - art. 30 (V)
 	  - Loi n°2014-366 du 24 mars 2014 - art. 135 (V)
-	  - Loi n°2014-1545 du 20 décembre 2014 - art. 13 (M)
+	  - Loi n°2014-1545 du 20 décembre 2014 - art. 13 (VT)
 	  - Code de l'environnement - art. L581-14-1 (V)
 	  - Code de l'urbanisme - art. L422-6 (V)
 	  - Code général des collectivités territoriales - art. L1614-9 (V)
@@ -7662,7 +8087,22 @@ de ce délai de trois ans.
 
 	**Modifié par**:
 
-	  - Loi n°2014-1170 du 13 octobre 2014 - art. 25 (V)
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L174-1 (VD)
+	  - Code de l'urbanisme - art. L174-3 (VD)
+	  - Code de l'urbanisme - art. L174-4 (VD)
+	  - Code de l'urbanisme - art. L174-6 (VD)
 
 
 ###### Article L123-20
@@ -7670,6 +8110,18 @@ de ce délai de trois ans.
 Un décret en Conseil d'Etat détermine, en tant que de besoin, les modalités d'application du présent chapitre.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2015-991 du 7 août 2015 - art. 39
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L171-1 (VD)
 
 	**Cité par**:
 
@@ -7679,14 +8131,102 @@ Un décret en Conseil d'Etat détermine, en tant que de besoin, les modalités d
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
+
+##### Section 2 : Dispositions particulières applicables à la métropole d'Aix-Marseille-Provence
+
+###### Article L123-21
+
+La métropole d'Aix-Marseille-Provence est soumise à la section 1 du présent chapitre, sous réserve de la présente section.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 4 () JORF 14 décembre 2000 en vigueur le 1er avril 2001
+	  - Loi n°2015-991 du 7 août 2015 - art. 39
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Loi n°2000-1208 du 13 décembre 2000 - art. 43 (V)
-	  - SPEC_APPLI: Décret n°2001-260 du 27 mars 2001 - art. 6 (V)
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L134-11 (VD)
+
+
+###### Article L123-22
+
+Par dérogation au II de l'article L. 123-1, la métropole Aix-Marseille-Provence élabore, dans le cadre de ses conseils de
+territoire, plusieurs plans locaux d'urbanisme intercommunaux. Le périmètre de chacun de ces plans couvre un territoire de la
+métropole.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 39
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L123-1 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L134-12 (VD)
+
+
+###### Article L123-23
+
+Le conseil de territoire est chargé de la préparation et du suivi de l'élaboration et de toute procédure d'évolution du
+projet de plan local d'urbanisme. 
+
+Il prépare les actes de procédure nécessaires. 
+
+Par dérogation au premier alinéa de l'article L. 123-6, le conseil de territoire arrête les modalités de la collaboration
+avec les communes concernées, après avoir réuni l'ensemble des maires de ces communes. 
+
+Le conseil de la métropole transmet au conseil de territoire les orientations stratégiques de nature à assurer la cohérence
+du projet métropolitain ainsi que toutes les informations utiles. 
+
+Le débat mentionné à l'article L. 123-9 a lieu au sein du conseil de territoire et des conseils municipaux concernés, au plus
+tard deux mois avant l'examen du projet de plan local d'urbanisme. Un représentant du conseil de la métropole participe au
+débat réalisé au sein du conseil de territoire. 
+
+Par dérogation au même article L. 123-9, le conseil de territoire soumet, pour avis, aux communes du territoire le projet de
+plan local d'urbanisme arrêté. Les communes donnent leur avis au plus tard trois mois après la transmission du projet de
+plan ; à défaut, l'avis est réputé favorable. Lorsqu'une commune d'un territoire de la métropole d'Aix-Marseille-Provence
+émet un avis défavorable sur les orientations d'aménagement et de programmation ou les dispositions du règlement qui la
+concernent directement, le conseil de la métropole délibère à nouveau et arrête le projet de plan local d'urbanisme
+intercommunal concerné à la majorité des deux tiers des suffrages exprimés. 
+
+Par dérogation à l'article L. 123-10, après l'enquête publique réalisée conformément au chapitre III du titre II du livre Ier
+du code de l'environnement, les avis joints au dossier, les observations du public et le rapport du commissaire enquêteur ou
+de la commission d'enquête sont présentés par le conseil de territoire aux maires des communes concernées. 
+
+Le plan local d'urbanisme est approuvé par le conseil de la métropole à la majorité simple des suffrages exprimés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 39
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L123-10 (VT)
+	  - Code de l'urbanisme - art. L123-6 (VT)
+	  - Code de l'urbanisme - art. L123-9 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L134-13 (VD)
 
 
 #### Chapitre IV : Cartes communales.
@@ -7787,24 +8327,26 @@ tenir compte des observations du public, par délibération motivée.
 Elle doit être compatible, s'il y a lieu, avec les dispositions du schéma de cohérence territoriale, du schéma de secteur, du
 schéma de mise en valeur de la mer, ainsi que du plan de déplacements urbains et du programme local de l'habitat. 
 
-En cas de modification du périmètre d'un établissement public de coopération intercommunale compétent en matière de plan
-local d'urbanisme ou en cas de fusion d'au moins deux établissements publics de coopération intercommunale, les dispositions
-des cartes communales applicables aux territoires concernés par cette modification ou cette fusion restent applicables. Elles
-peuvent être révisées ou modifiées par l'établissement public de coopération intercommunale nouvellement compétent jusqu'à
-l'approbation ou la révision d'un plan local d'urbanisme couvrant l'intégralité du territoire de l'établissement public de
-coopération intercommunale concerné. 
+En cas de création d'un établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme, de
+document en tenant lieu ou de carte communale, y compris lorsqu'il est issu d'une fusion, ou de modification du périmètre
+d'un établissement public de coopération intercommunale compétent ou de transfert de cette compétence à un tel établissement
+public, les dispositions des cartes communales applicables aux territoires concernés restent applicables. Elles peuvent être
+modifiées ou révisées selon les procédures prévues au présent article.
 
-Lorsque le périmètre d'une carte communale est intégré dans sa totalité dans le périmètre d'un établissement public de
-coopération intercommunale compétent ou lorsqu'au moins deux établissements publics de coopération intercommunale fusionnent,
-l'établissement public nouvellement compétent peut, dans un délai de deux ans à compter de l'intégration ou de la fusion,
-achever dans leur périmètre initial les procédures d'élaboration, de révision ou de modification simplifiée des cartes
-communales engagées avant l'intégration ou la fusion. Dans ce cas, l'établissement public nouvellement compétent est
-substitué de plein droit, à la date de l'intégration ou de la fusion, dans tous les actes et délibérations afférents à la
-procédure engagée avant l'intégration ou la fusion.
+La commune nouvelle compétente en matière de carte communale peut décider d'achever toute procédure d'élaboration ou
+d'évolution d'une carte communale applicable sur le territoire des anciennes communes qui aurait été engagée avant la date de
+création de la commune nouvelle. La commune nouvelle se substitue de plein droit aux anciennes communes dans tous les actes
+et délibérations afférents aux procédures engagées avant la date de sa création.
 
 En cas de création d'une commune nouvelle, les dispositions des cartes communales applicables aux anciennes communes restent
 applicables. Elles peuvent être révisées ou modifiées jusqu'à l'approbation d'une carte communale ou d'un plan local
 d'urbanisme couvrant l'intégralité du territoire de la commune nouvelle.
+
+**Nota:**
+
+Conformément à l'article 13 24° de l'ordonnance n° 2015-1174 du 23 septembre 2015, l'abrogation des troisième et quatrième
+phrases ainsi que la dernière phrase du troisième alinéa de l'article L. 124-2 ne prendra effet qu'à compter de la
+publication des dispositions réglementaires du livre Ier du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
@@ -7824,7 +8366,12 @@ d'urbanisme couvrant l'intégralité du territoire de la commune nouvelle.
 
 	**Modifié par**:
 
-	  - Loi n°2015-292 du 16 mars 2015 - art. 9
+	  - Loi n°2015-991 du 7 août 2015 - art. 37
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 13
 
 	**Cite**:
 
@@ -7839,6 +8386,23 @@ d'urbanisme couvrant l'intégralité du territoire de la commune nouvelle.
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L123-7 (V)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L123-8 (M)
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L123-9 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L131-4 (VD)
+	  - Code de l'urbanisme - art. L161-3 (VD)
+	  - Code de l'urbanisme - art. L161-4 (VD)
+	  - Code de l'urbanisme - art. L163-1 (VD)
+	  - Code de l'urbanisme - art. L163-2 (VD)
+	  - Code de l'urbanisme - art. L163-3 (VD)
+	  - Code de l'urbanisme - art. L163-4 (VD)
+	  - Code de l'urbanisme - art. L163-5 (VD)
+	  - Code de l'urbanisme - art. L163-6 (VD)
+	  - Code de l'urbanisme - art. L163-7 (VD)
+	  - Code de l'urbanisme - art. L163-8 (VD)
+	  - Code de l'urbanisme - art. L163-9 (VD)
+	  - Code de l'urbanisme - art. R163-3 (V)
+	  - Code de l'urbanisme - art. R163-6 (V)
 
 
 ###### Article L124-3
@@ -8758,10 +9322,6 @@ l'utilisation de l'espace tout en garantissant le rayonnement international de c
 en oeuvre pour corriger les disparités spatiales, sociales et économiques de la région, coordonner l'offre de déplacement et
 préserver les zones rurales et naturelles afin d'assurer les conditions d'un développement durable de la région. 
 
-Les dispositions de l'alinéa précédent prennent effet à la première révision du schéma directeur de la région d'Ile-de-France
-selon les modalités prévues au huitième alinéa du présent article suivant la promulgation de la loi n° 99-533 du 25 juin 1999
-d'orientation pour l'aménagement et le développement durable du territoire. 
-
 Le schéma directeur de la région d'Ile-de-France doit respecter les règles générales d'aménagement et d'urbanisme à caractère
 obligatoire prévues au présent livre ainsi que les servitudes d'utilité publique affectant l'utilisation des sols et les
 dispositions nécessaires à la mise en oeuvre de projets d'intérêt général relevant de l'Etat et d'opérations d'intérêt
@@ -8778,24 +9338,6 @@ Ce schéma détermine notamment la destination générale de différentes partie
 mise en valeur de l'environnement, la localisation des grandes infrastructures de transport et des grands équipements. Il
 détermine également la localisation préférentielle des extensions urbaines, ainsi que des activités industrielles,
 artisanales, agricoles, forestières et touristiques. 
-
-Pour l'élaboration de ce schéma, le conseil régional recueille les propositions des conseils départementaux des
-départementaux intéressés, du conseil économique, social et environnemental régional et des chambres consulaires. A l'issue
-de cette élaboration, le projet leur est soumis pour avis. 
-
-Avant son adoption par le conseil régional, le projet de schéma directeur, assorti de l'avis des conseils départementaux
-intéressés, du conseil économique, social et environnemental régional et des chambres consulaires, est soumis à enquête
-publique réalisée conformément au chapitre III du titre II du livre Ier du code de l'environnement. 
-
-Le schéma directeur est approuvé par décret en Conseil d'Etat. L'initiative de l'élaboration du schéma directeur appartient
-soit à la région, soit à l'Etat. 
-
-La procédure de révision du schéma directeur est ouverte par un décret en Conseil d'Etat, qui détermine l'objet de la
-révision. Cette dernière est effectuée par la région d'Ile-de-France, en association avec l'Etat, selon les règles fixées aux
-sixième et septième alinéas du présent article. Elle est approuvée par décret en Conseil d'Etat. 
-
-Au plus tard à l'expiration d'un délai de dix ans à compter du décret approuvant le schéma directeur de la région d'Ile-de-
-France, la région procède à une analyse des résultats de son application, notamment du point de vue de l'environnement. 
 
 Les schémas de cohérence territoriale et, en l'absence de schéma de cohérence territoriale, les plans locaux d'urbanisme, les
 cartes communales ou les documents en tenant lieu doivent être compatibles avec le schéma directeur de la région d'Ile-de-
@@ -8824,44 +9366,140 @@ France.
 	**Cite**:
 
 	  - Loi n°95-115 du 4 février 1995 - art. 2
-	  - Loi n°99-533 du 25 juin 1999
+	  - Code de l'environnement - art. L566-7
 
 	**Modifié par**:
 
-	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
+	  - Loi n°2015-991 du 7 août 2015 - art. 11
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L123-1 (VD)
+	  - Code de l'urbanisme - art. L123-2 (VD)
+	  - Code de l'urbanisme - art. L123-3 (VD)
+	  - Code de l'urbanisme - art. L123-4 (VD)
+	  - Code de l'urbanisme - art. L123-5 (VD)
 
 
 ###### Article L141-1-1
 
-Le schéma directeur de la région d'Ile-de-France peut être modifié à l'initiative du président du conseil régional ou de
-l'Etat, à condition que la modification ne porte pas atteinte à l'économie générale du schéma. 
+I.-L'élaboration du schéma directeur de la région d'Ile-de-France est engagée par délibération du conseil régional. 
 
-Le projet de modification, élaboré par le président du conseil régional en association avec l'Etat, est soumis pour avis aux
-personnes mentionnées au sixième alinéa de l'article L. 141-1. Ces avis sont réputés favorables s'ils n'interviennent pas
-dans un délai de trois mois après transmission du projet de modification. 
+Les orientations stratégiques du schéma font l'objet d'un débat, préalable à cette élaboration, au sein du conseil régional. 
 
-Le projet de modification, assorti des avis prévus à l'alinéa précédent, est soumis à enquête publique, dans les mêmes
-conditions que celles prévues à l'article L. 141-1, par le président du conseil régional. 
+Sont associés à l'élaboration du projet de schéma : 
 
-A l'issue de l'enquête publique, le projet, éventuellement modifié pour tenir compte notamment des observations du public et
-des avis émis par les personnes publiques consultées, est adopté par le conseil régional d'Ile-de-France et approuvé par
-l'autorité administrative. La modification est approuvée par décret en Conseil d'Etat en cas d'opposition d'un département.
+1° Le représentant de l'Etat dans la région ; 
+
+2° Les conseils départementaux des départements intéressés ; 
+
+3° Les établissements publics mentionnés à l'article L. 122-4 ; 
+
+4° Les établissements publics de coopération intercommunale à fiscalité propre intéressés qui ne sont pas situés dans le
+périmètre d'un établissement public mentionné au même article L. 122-4 ; 
+
+5° Le conseil économique, social et environnemental régional ainsi que les chambres d'agriculture, les chambres de commerce
+et d'industrie et les chambres de métiers et de l'artisanat. 
+
+Le conseil régional peut consulter tout autre organisme ou personne en vue de l'élaboration du projet de schéma. 
+
+Le représentant de l'Etat dans la région porte à la connaissance de la région toutes les informations nécessaires, dans les
+conditions prévues à l'article L. 121-2.
+
+Le projet de schéma arrêté par le conseil régional est soumis pour avis : 
+
+a) Au représentant de l'Etat dans la région ; 
+
+b) Aux organes délibérants des collectivités territoriales, établissements publics et organismes énumérés aux 1° à 5° du
+présent I ; 
+
+c) A l'autorité administrative de l'Etat compétente en matière d'environnement ; 
+
+d) A la conférence territoriale de l'action publique. 
+
+Ces avis sont réputés favorables s'ils n'ont pas été rendus dans un délai de trois mois. 
+
+Le projet de schéma est soumis à enquête publique par le président du conseil régional, dans les conditions prévues au
+chapitre III du titre II du livre Ier du code de l'environnement. 
+
+Après l'enquête publique, le schéma, éventuellement modifié pour tenir compte des avis recueillis, des observations du public
+et des conclusions de la commission d'enquête, est adopté par délibération du conseil régional. 
+
+Le schéma directeur de la région d'Ile-de-France est transmis au représentant de l'Etat dans la région en vue de son
+approbation par décret en Conseil d'Etat. 
+
+Le schéma directeur de la région d'Ile-de-France est approuvé par décret en Conseil d'Etat. 
+
+II.-Le schéma directeur de la région d'Ile-de-France peut être modifié, à l'initiative du président du conseil régional,
+lorsque les changements envisagés n'ont pas pour effet de porter atteinte à son économie générale. 
+
+Les modifications envisagées sont soumises pour avis au représentant de l'Etat et aux collectivités territoriales,
+établissements publics et organismes énumérés aux 1° à 5° du I, qui se prononcent dans les conditions prévues au présent
+article. 
+
+La procédure de modification fait l'objet d'une concertation associant les habitants, les associations locales et les autres
+personnes concernées. Les modalités de la concertation permettent au public, pendant une durée suffisante et selon des moyens
+adaptés au regard des caractéristiques des modifications, d'accéder aux informations relatives aux modifications envisagées
+et aux avis requis précités et de formuler des observations et des propositions qui sont enregistrées et conservées par le
+conseil régional. 
+
+Le projet de modification et les avis précités sont mis à la disposition du public par voie électronique pendant au moins
+deux mois. Un bilan de cette mise à disposition est présenté au conseil régional, qui délibère sur le projet de modification
+et le transmet au représentant de l'Etat dans la région pour approbation. 
+
+Lorsque le représentant de l'Etat dans la région estime ne pas pouvoir approuver en l'état le projet arrêté de modification
+du schéma, il le notifie au conseil régional par une décision motivée et lui renvoie le projet, dans les trois mois suivant
+sa transmission, afin qu'y soient apportées les modifications nécessaires. 
+
+III.-Le schéma directeur de la région d'Ile-de-France peut être révisé selon les modalités prévues au I pour son
+élaboration. 
+
+IV.-Six mois avant l'expiration d'un délai de six ans à compter de la date d'approbation du schéma directeur de la région
+d'Ile-de-France, un bilan de la mise en œuvre du schéma est présenté au conseil régional. Celui-ci délibère et peut décider
+le maintien en vigueur du schéma directeur de la région d'Ile-de-France, sa modification, sa révision partielle ou totale ou
+son abrogation.
 
 **Nota:**
 
-Ces dispositions s'appliquent aux projets, plans, programmes ou autres documents de planification pour lesquels l'arrêté
-d'ouverture et d'organisation de l'enquête publique est publié à compter du premier jour du sixième mois après la publication
-du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environnement.
+Conformément à l'article 13 28° de l'ordonnance n° 2015-1174 du 23 septembre 2015, l'abrogation de la deuxième phrase du
+deuxième alinéa de l'article L. 141-1-1 ne prendra effet qu'à compter de la publication des dispositions réglementaires du
+livre Ier du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 240
+	  - Loi n°2015-991 du 7 août 2015 - art. 11
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 13
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L141-1 (V)
+	  - Code de l'urbanisme - art. L121-2
+	  - Code de l'urbanisme - art. L122-4
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L123-10 (VD)
+	  - Code de l'urbanisme - art. L123-11 (VD)
+	  - Code de l'urbanisme - art. L123-12 (VD)
+	  - Code de l'urbanisme - art. L123-13 (VD)
+	  - Code de l'urbanisme - art. L123-14 (VD)
+	  - Code de l'urbanisme - art. L123-15 (VD)
+	  - Code de l'urbanisme - art. L123-16 (VD)
+	  - Code de l'urbanisme - art. L123-17 (VD)
+	  - Code de l'urbanisme - art. L123-6 (VD)
+	  - Code de l'urbanisme - art. L123-7 (VD)
+	  - Code de l'urbanisme - art. L123-8 (VD)
+	  - Code de l'urbanisme - art. L123-9 (VD)
+	  - Code de l'urbanisme - art. R123-3 (V)
 
 
 ###### Article L141-1-2
@@ -8927,7 +9565,7 @@ Conseil d'Etat.
 ###### Article L141-1-3
 
 Lorsque le schéma directeur de la région d'Ile-de-France doit être révisé ou modifié pour assurer sa conformité aux règles et
-dispositions prévues au quatrième alinéa de l'article L. 141-1, le représentant de l'Etat dans la région en informe le
+dispositions prévues au troisième alinéa de l'article L. 141-1, le représentant de l'Etat dans la région en informe le
 président du conseil régional. 
 
 Dans le délai de trois mois à compter de la demande adressée au président du conseil régional par le représentant de l'Etat,
@@ -8950,46 +9588,22 @@ chapitre III du titre II du livre Ier du code de l'environnement.
 
 	**Modifié par**:
 
-	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L141-1
-
-
-###### Article L141-2
-
-Des décrets en Conseil d'Etat fixeront, en tant que de besoin, les modalités d'application de l'article L. 141-1 ci-dessus.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Modifié par**:
-
-	  - Loi n°83-8 du 7 janvier 1983 - art. 75 () JORF 9 janvier 1983
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°83-851 1983-09-23
+	  - Loi n°2015-991 du 7 août 2015 - art. 11
 
 	**Abrogé par**:
 
-	  - Loi n°2015-991 du 7 août 2015 - art. 11
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L123-18 (VD)
+	  - Code de l'urbanisme - art. L123-19 (VD)
+	  - Code de l'urbanisme - art. L123-20 (VD)
+	  - Code de l'urbanisme - art. L123-21 (VD)
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L141-1
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. L171-1 (VD)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 24
 
 
 #####  Section 2 : Règles d'urbanisme applicables dans le périmètre de l'opération d'intérêt national de La Défense.
@@ -9209,6 +9823,234 @@ Un décret en Conseil d'Etat détermine les conditions d'application de la prés
 	**Nouveaux textes**:
 
 	  - Code de l'urbanisme - art. L171-1 (VD)
+
+
+#### Chapitre Ier : Dispositions particulières à Paris, à la métropole du Grand Paris et à la région d'Ile-de-France
+
+#####  Section 1 : Schéma directeur.
+
+#####  Section 2 : Règles d'urbanisme applicables dans le périmètre de l'opération d'intérêt national de La Défense.
+
+#####  Section 3 : Zone de protection naturelle, agricole et forestière du plateau de Saclay
+
+#####  Section 4 : Schéma de cohérence territoriale et plan local d'urbanisme intercommunal sur le territoire de la métropole du Grand Paris
+
+###### Article L141-9
+
+Le projet d'aménagement et de développement durables du schéma de cohérence territoriale tient lieu de projet métropolitain,
+au sens de l'article L. 5219-1 du code général des collectivités territoriales. Il comporte un diagnostic général, social,
+économique et environnemental du territoire métropolitain, des orientations stratégiques pour le développement de la
+métropole ainsi que des domaines d'intervention prioritaires. 
+
+Le schéma de cohérence territoriale de la métropole du Grand Paris comprend un cahier de recommandations pour l'élaboration
+des plans locaux d'urbanisme intercommunaux portant sur la présentation du règlement, l'identification des catégories de
+zonage, les règles d'urbanisme et les documents graphiques. 
+
+Le schéma de cohérence territoriale est compatible avec le schéma directeur de la région d'Ile-de-France et prend en compte
+le schéma régional de l'habitat et de l'hébergement en Ile-de-France. 
+
+Le plan métropolitain de l'habitat et de l'hébergement est compatible avec le schéma de cohérence territoriale.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 59 (V)
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L5219-1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L134-1 (VD)
+
+
+###### Article L141-10
+
+Les établissements publics territoriaux mentionnés à l'article L. 5219-2 du code général des collectivités territoriales
+élaborent un plan local d'urbanisme intercommunal, couvrant l'intégralité de leur territoire, dans les conditions prévues au
+chapitre III du titre II du présent livre, sous réserve de la présente section. 
+
+Le conseil de la métropole du Grand Paris est associé à la procédure d'élaboration du plan local d'urbanisme intercommunal
+des établissements publics territoriaux, dans les conditions prévues à l'article L. 121-4 du présent code. 
+
+Les plans locaux d'urbanisme intercommunaux ne peuvent pas tenir lieu de programme local de l'habitat, au sens de l'article
+L. 123-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 59 (V)
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L5219-2 (V)
+	  - Code de l'urbanisme - art. L121-4 (VT)
+	  - Code de l'urbanisme - art. L123-1 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L134-2 (VD)
+
+
+###### Article L141-11
+
+Les plans locaux d'urbanisme intercommunaux sont compatibles avec le schéma de cohérence territoriale élaboré par la
+métropole du Grand Paris et le plan métropolitain de l'habitat et de l'hébergement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 59 (V)
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L134-3 (VD)
+
+
+###### Article L141-12
+
+Le conseil de territoire arrête les modalités de la collaboration avec les communes concernées, après avoir réuni l'ensemble
+des maires de ces communes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 59 (V)
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L134-4 (VD)
+
+
+###### Article L141-13
+
+Le plan local d'urbanisme intercommunal peut comporter des plans de secteur qui couvrent chacun l'intégralité du territoire
+d'une ou de plusieurs communes membres de l'établissement public territorial et qui précisent les orientations d'aménagement
+et de programmation ainsi que le règlement spécifiques à ce secteur. 
+
+Une ou plusieurs communes membres d'un établissement public territorial peuvent demander à être couvertes par un plan de
+secteur. Après un débat au sein du conseil de territoire, l'établissement délibère sur l'opportunité d'élaborer ce plan.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 59 (V)
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L134-5 (VD)
+
+
+###### Article L141-14
+
+Le projet de plan local d'urbanisme intercommunal arrêté par le conseil de territoire est transmis, pour avis, au conseil de
+la métropole du Grand Paris. Cet avis est rendu dans un délai de trois mois ; à défaut, il est réputé favorable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 59 (V)
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L134-6 (VD)
+
+
+###### Article L141-15
+
+Le conseil de territoire soumet, pour avis, aux communes du territoire le projet de plan local d'urbanisme arrêté. Les
+communes donnent leur avis au plus tard trois mois après la transmission du projet de plan. A défaut, l'avis est réputé
+favorable. Lorsqu'une commune d'un territoire de la métropole émet un avis défavorable sur les orientations d'aménagement et
+de programmation ou sur les dispositions du règlement du projet de plan local d'urbanisme intercommunal arrêté qui la
+concernent directement, le conseil de territoire délibère à nouveau et arrête le projet de plan local d'urbanisme
+intercommunal concerné à la majorité des deux tiers des suffrages exprimés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 59 (V)
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L134-7 (VD)
+
+
+###### Article L141-16
+
+Après l'enquête publique réalisée conformément au chapitre III du titre II du livre Ier du code de l'environnement, les avis
+joints au dossier, les observations du public et le rapport du commissaire enquêteur ou de la commission d'enquête sont
+présentés par le conseil de territoire aux maires des communes concernées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 59 (V)
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L134-8 (VD)
+
+
+###### Article L141-17
+
+Le conseil de territoire peut décider, le cas échéant après accord de la commune concernée, d'achever toute procédure
+d'élaboration ou d'évolution d'un plan local d'urbanisme ou d'un document en tenant lieu engagée avant la date de sa création
+et encore en cours à cette même date.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 59 (V)
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L134-9 (VD)
 
 
 #### Chapitre II : Espaces naturels sensibles des départements.
@@ -20830,6 +21672,65 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 
 	  - Code général de la propriété des personnes publ... - art. L3211-7 (V)
 	  - Code de la construction et de l'habitation. - art. L301-1 (V)
+
+
+#### Chapitre X : Société d'économie mixte d'aménagement à opération unique
+
+###### Article L32-10-1
+
+I.-L'Etat ou l'un de ses établissements publics mentionnés aux sections 2 et 3 du chapitre Ier du présent titre peut créer
+avec une ou plusieurs collectivités territoriales ou un groupement de collectivités territoriales compétent et avec au moins
+un actionnaire opérateur économique, sélectionné après une mise en concurrence dans les conditions définies à l'article L.
+1541-2 du code général des collectivités territoriales, une société d'économie mixte d'aménagement à opération unique. 
+
+II.-La société d'économie mixte d'aménagement à opération unique est constituée, pour une durée limitée, à titre exclusif en
+vue de la conclusion et de l'exécution d'un contrat dont l'objet unique est la réalisation d'une opération de construction,
+de développement du logement ou d'aménagement, avec l'Etat ou l'un de ses établissements publics mentionnés au I et la
+collectivité territoriale ou le groupement de collectivités territoriales compétent. 
+
+Cet objet unique ne peut être modifié pendant toute la durée du contrat. 
+
+III.-La société d'économie mixte d'aménagement à opération unique revêt la forme de société anonyme régie par le livre II du
+code de commerce et par le titre II du livre V de la première partie du code général des collectivités territoriales. Elle
+est composée, par dérogation à l'article L. 225-1 du code de commerce, d'au moins trois actionnaires. Elle ne peut pas
+prendre de participation dans des sociétés commerciales. 
+
+IV.-Les statuts de la société d'économie mixte d'aménagement à opération unique fixent le nombre de sièges d'administrateur
+ou de membre du conseil de surveillance dont dispose chaque actionnaire. Ils sont attribués en proportion du capital détenu,
+ce nombre étant, le cas échéant, arrondi à l'unité supérieure. 
+
+V.-Le président du conseil d'administration ou du conseil de surveillance est un représentant de l'Etat ou de l'un de ses
+établissements publics mentionnés aux sections 2 et 3 du chapitre Ier du présent titre ou de la collectivité territoriale ou
+du groupement de collectivités territoriales compétent. 
+
+VI.-L'Etat ou l'un de ses établissements publics mentionnés aux mêmes sections 2 et 3 détient avec la collectivité
+territoriale ou le groupement de collectivités territoriales entre 34 % et 85 % du capital de la société et 34 % au moins des
+voix dans les organes délibérants. La part de capital de l'ensemble des actionnaires opérateurs économiques ne peut être
+inférieure à 15 %. 
+
+VII.-La société d'économie mixte d'aménagement à opération unique est dissoute de plein droit au terme du contrat avec l'Etat
+ou l'un de ses établissements publics mentionnés auxdites sections 2 et 3 et la collectivité territoriale ou le groupement de
+collectivités territoriales compétent ou dès que l'objet de ce contrat est réalisé ou a expiré. 
+
+VIII.-Pour l'application du présent article, les dispositions de l'article L. 1541-2 du code général des collectivités
+territoriales qui se réfèrent à la collectivité territoriale ou au groupement de collectivités territoriales s'appliquent
+également à l'Etat ou à l'un de ses établissements publics mentionnés aux mêmes sections 2 et 3. 
+
+IX.-L'article L. 1541-3 du code général des collectivités territoriales s'applique à la ou aux collectivités territoriales ou
+au groupement de collectivités territoriales compétent actionnaire d'une société d'économie mixte d'aménagement à opération
+unique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 62
+
+	**Cite**:
+
+	  - Code de commerce - art. L225-1
+	  - Code général des collectivités territoriales - art. L1541-2
+	  - Code général des collectivités territoriales - art. L1541-3 (V)
 
 
 ### Titre III : Dispositions financières
