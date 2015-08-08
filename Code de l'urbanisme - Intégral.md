@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2015-08-09
+Version Consolidée au 2015-08-09 00:00:01 +0200
 
 # Partie législative
 
@@ -6746,7 +6746,7 @@ l'exécution du futur plan.
 	  - Code de l'urbanisme - art. L123-14-1 (VT)
 	  - Code de l'urbanisme - art. L123-14-2 (VT)
 	  - Code de l'urbanisme - art. L123-15 (VD)
-	  - Code de l'urbanisme - art. L123-16 (VD)
+	  - Code de l'urbanisme - art. L123-16 (VT)
 	  - Code de l'urbanisme - art. L123-19 (M)
 	  - Code de l'urbanisme - art. L123-23 (VT)
 	  - Code de l'urbanisme - art. L123-7 (VT)
@@ -6762,16 +6762,26 @@ l'exécution du futur plan.
 	  - Code du patrimoine. - art. L641-1 (V)
 	  - Code général des collectivités territoriales - art. L4251-5 (VD)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACEMENT: Loi n°2015-991 du 7 août 2015 - art. 39 (V)
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
 
 	**Cite**:
 
-	  - Code rural - art. L112-1-1 (V)
-	  - Code de l'urbanisme - art. L111-8
+	  - Code rural - art. L112-1-1
+	  - Code de l'urbanisme - art. L111-8 (VT)
 	  - Code de l'urbanisme - art. L121-4
 	  - Code de l'urbanisme - art. L122-4
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L153-11 (VD)
+	  - Code de l'urbanisme - art. L153-16 (VD)
+	  - Code de l'urbanisme - art. L153-8 (VD)
 
 
 ###### Article L123-7
@@ -6849,7 +6859,9 @@ maire lui notifie le projet de plan local d'urbanisme afin de recueillir son avi
 
 **Nota:**
 
-
+Conformément à l'article 13 17° de l'ordonnance n° 2015-1174 du 23 septembre 2015, l'abrogation du cinquième alinéa et la
+deuxième phrase du sixième alinéa de l'article L. 123-8 ne prendra effet qu'à compter de la publication des dispositions
+réglementaires du livre Ier du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
@@ -6862,7 +6874,7 @@ maire lui notifie le projet de plan local d'urbanisme afin de recueillir son avi
 	  - Loi n°85-729 du 18 juillet 1985 - art. 26 (V)
 	  - Décret n°88-486 du 27 avril 1988 - art. 16 (Ab)
 	  - Décret n°94-894 du 13 octobre 1994 - art. 19 (Ab)
-	  - Code de l'urbanisme - art. L123-10 (M)
+	  - Code de l'urbanisme - art. L123-10 (VT)
 	  - Code de l'urbanisme - art. L124-2 (M)
 	  - Code de l'urbanisme - art. L313-1 (M)
 	  - Code de l'urbanisme - art. R*123-16 (VT)
@@ -6873,12 +6885,28 @@ maire lui notifie le projet de plan local d'urbanisme afin de recueillir son avi
 	  - Code de l'urbanisme - art. R*313-8 (M)
 	  - Code de la voirie routière - art. R*151-5 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 13
+
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L121-4
 	  - Code de l'urbanisme - art. L122-4
 	  - Code de l'urbanisme - art. L123-6
 	  - Code de la construction et de l'habitation. - art. L411-2
+
+	**Nouveaux textes**:
+
+	  - Code de l'urbanisme - art. L132-11 (VD)
+	  - Code de l'urbanisme - art. L132-12 (VD)
+	  - Code de l'urbanisme - art. L132-13 (VD)
+	  - Code de l'urbanisme - art. R132-9 (V)
 
 
 ###### Article L123-9
@@ -9309,7 +9337,7 @@ Des décrets en Conseil d'Etat fixeront, en tant que de besoin, les modalités d
 
 ### Titre IV : Dispositions particulières à certaines parties du territoire
 
-#### Chapitre Ier : Dispositions particulières à Paris et à la région d'Ile-de-France
+#### Chapitre Ier : Dispositions particulières à Paris, à la métropole du Grand Paris et à la région d'Ile-de-France
 
 #####  Section 1 : Schéma directeur.
 
@@ -9824,14 +9852,6 @@ Un décret en Conseil d'Etat détermine les conditions d'application de la prés
 
 	  - Code de l'urbanisme - art. L171-1 (VD)
 
-
-#### Chapitre Ier : Dispositions particulières à Paris, à la métropole du Grand Paris et à la région d'Ile-de-France
-
-#####  Section 1 : Schéma directeur.
-
-#####  Section 2 : Règles d'urbanisme applicables dans le périmètre de l'opération d'intérêt national de La Défense.
-
-#####  Section 3 : Zone de protection naturelle, agricole et forestière du plateau de Saclay
 
 #####  Section 4 : Schéma de cohérence territoriale et plan local d'urbanisme intercommunal sur le territoire de la métropole du Grand Paris
 
