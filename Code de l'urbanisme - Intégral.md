@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2015-08-19
+Version Consolidée au 2015-09-12
 
 # Partie législative
 
@@ -21530,7 +21530,7 @@ juridictions financières.
 ###### Article L327-1
 
 Les collectivités territoriales et leurs groupements peuvent, créer, dans le cadre des compétences qui leur sont attribuées
-par la loi, des sociétés publiques locales d'aménagement dont ils détiennent la totalité du capital. 
+par la loi, des sociétés publiques locales d'aménagement dont ils détiennent la totalité du capital.
 
 Une des collectivités territoriales ou un des groupements de collectivités territoriales participant à une société publique
 locale d'aménagement détient au moins la majorité des droits de vote. 
@@ -21548,8 +21548,7 @@ leurs membres.
 Ces sociétés exercent leurs activités exclusivement pour le compte de leurs actionnaires et sur le territoire des
 collectivités territoriales et des groupements de collectivités territoriales qui en sont membres. 
 
-Ces sociétés revêtent la forme de société anonyme régie par le livre II du code de commerce et sont composées, par dérogation
-à l'article L. 225-1 du même code, d'au moins deux actionnaires. 
+Ces sociétés revêtent la forme de société anonyme régie par le livre II du code de commerce. 
 
 Sous réserve des dispositions du présent article, elles sont soumises au titre II du livre V de la première partie du code
 général des collectivités territoriales.
@@ -21569,11 +21568,10 @@ général des collectivités territoriales.
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 66
+	  - ORDONNANCE n°2015-1127 du 10 septembre 2015 - art. 2
 
 	**Cite**:
 
-	  - Code de commerce - art. L225-1
 	  - Code de l'urbanisme - art. L221-1
 	  - Code de l'urbanisme - art. L221-2
 	  - Code de l'urbanisme - art. L300-1
