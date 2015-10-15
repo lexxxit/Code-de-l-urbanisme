@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2015-09-23
+Version Consolidée au 2015-10-16
 
 # Partie législative
 
@@ -19660,7 +19660,9 @@ Un décret en Conseil d'Etat détermine les conditions d'application de la prés
 	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
 
 
-##### Section 3 : Grand Paris Aménagement
+##### Section 3 : Etablissements publics fonciers et d'aménagement de l'Etat
+
+##### Sous-section 1 : Agence foncière et technique de la région parisienne
 
 ###### Article L321-29
 
@@ -19715,9 +19717,9 @@ entrant dans le cadre de ses compétences.
 	  - Code de l'urbanisme - art. L321-14
 	  - Code de la construction et de l'habitation. - art. L741-1
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2015-980 du 31 juillet 2015 - art. 1 (V)
+	  - DEPLACE: Loi n°2015-1268 du 14 octobre 2015 - art. 18
 
 
 ###### Article L321-30
@@ -19727,16 +19729,16 @@ organismes dont l'objet concourt à la réalisation de ses missions.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2015-980 du 31 juillet 2015 - art. 1 (V)
-
 	**Cité par**:
 
 	  - Décret n°2015-980 du 31 juillet 2015 - art. 3 (V)
 	  - Décret n°2016-1865 du 23 décembre 2016 - art. 4 (VD)
 	  - Décret n°2017-341 du 15 mars 2017 - art. 4 (VD)
 	  - Code de l'urbanisme - art. L327-3 (V)
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2015-1268 du 14 octobre 2015 - art. 18
 
 
 ###### Article L321-31
@@ -19746,15 +19748,15 @@ présent code, dans les cas et conditions prévus par le même code.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2015-980 du 31 juillet 2015 - art. 1 (V)
-
 	**Cité par**:
 
 	  - Décret n°2015-980 du 31 juillet 2015 - art. 3 (V)
 	  - Décret n°2016-1865 du 23 décembre 2016 - art. 4 (VD)
 	  - Décret n°2017-341 du 15 mars 2017 - art. 4 (V)
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2015-1268 du 14 octobre 2015 - art. 18
 
 
 ###### Article L321-32
@@ -19764,16 +19766,16 @@ en œuvre par Grand Paris Aménagement dans le cadre d'un contrat d'objectifs si
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2015-980 du 31 juillet 2015 - art. 1 (V)
-
 	**Cité par**:
 
 	  - Décret n°2015-980 du 31 juillet 2015 - art. 2 (VD)
 	  - Décret n°2015-980 du 31 juillet 2015 - art. 8 (VD)
 	  - Code de l'urbanisme - art. L321-36-1 (V)
 	  - Code de l'urbanisme - art. R*321-13 (V)
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2015-1268 du 14 octobre 2015 - art. 18
 
 
 ###### Article L321-33
@@ -19788,14 +19790,14 @@ Il peut être complété par des personnalités qualifiées.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2015-980 du 31 juillet 2015 - art. 1 (V)
-
 	**Cité par**:
 
 	  - Décret n°2015-980 du 31 juillet 2015 - art. 4 (VT)
 	  - Loi n°2017-257 du 28 février 2017 - art. 48 (V)
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2015-1268 du 14 octobre 2015 - art. 18
 
 
 ###### Article L321-34
@@ -19804,13 +19806,13 @@ Le président du conseil d'administration exerce les fonctions de directeur gén
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
-
 	**Cité par**:
 
 	  - Décret n°2015-980 du 31 juillet 2015 - art. 6 (VD)
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2015-1268 du 14 octobre 2015 - art. 18
 
 
 ###### Article L321-35
@@ -19821,9 +19823,9 @@ prévu à l'article L. 321-36.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+	  - DEPLACE: Loi n°2015-1268 du 14 octobre 2015 - art. 18
 
 	**Cite**:
 
@@ -19836,15 +19838,179 @@ Un décret en Conseil d'Etat détermine les conditions d'application de la prés
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+	  - DEPLACE: Loi n°2015-1268 du 14 octobre 2015 - art. 18
 
 	**Cité par**:
 
 	  - Décret n°2017-777 du 5 mai 2017 (V)
 	  - Code de l'urbanisme - art. L321-33 (V)
 	  - Code de l'urbanisme - art. L321-35 (V)
+
+
+##### Sous-section 2 : Dispositions particulières aux établissements publics de l'Etat en Guyane et à Mayotte 
+
+
+
+###### Article L321-36-1
+
+En Guyane et à Mayotte, il est créé un établissement public foncier et d'aménagement, après consultation des conseils
+régionaux, des conseils départementaux, des établissements publics de coopération intercommunale à fiscalité propre
+compétents en matière de plan local d'urbanisme ainsi que des conseils municipaux. L'avis de chaque collectivité ou
+établissement est réputé favorable s'il n'est pas rendu dans un délai de trois mois à compter de la notification du début de
+la consultation par le représentant de l'Etat. 
+
+Ces établissements exercent les missions et relèvent du régime définis à la sous-section 1 de la présente section, à
+l'exception de ses articles L. 321-32 et L. 321-34, sous réserve de la présente sous-section.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°83-675 du 26 juillet 1983 - art. Annexe III (V)
+	  - Décret n°2016-1865 du 23 décembre 2016 (V)
+	  - Décret n°2016-1865 du 23 décembre 2016 - art. 1 (VD)
+	  - Décret n°2016-1865 du 23 décembre 2016 - art. 2 (VD)
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 102 (V)
+	  - Décret n°2017-341 du 15 mars 2017 (V)
+	  - Décret n°2017-341 du 15 mars 2017 - art. 1 (V)
+	  - Décret n°2017-341 du 15 mars 2017 - art. 2 (V)
+	  - Code rural - art. D181-42 (V)
+	  - Code rural - art. L181-49 (VD)
+	  - Code rural - art. R181-41 (V)
+	  - Code rural et de la pêche maritime - art. L181-39 (VD)
+	  - Livre des procédures fiscales - art. L135 B (VD)
+
+	**Créé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 18
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L321-32 (V)
+
+
+###### Article L321-36-2
+
+Chacun des établissements peut se voir confier, par convention, la mission de passer, au nom de l'Etat, des contrats de
+concession et de cession pour l'aménagement et la mise en valeur agricole des terres domaniales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 18
+
+	**Cité par**:
+
+	  - Décret n°2016-1865 du 23 décembre 2016 - art. 2 (VD)
+	  - Décret n°2017-341 du 15 mars 2017 - art. 2 (V)
+
+
+###### Article L321-36-3
+
+Chacun des établissements élabore un projet stratégique et opérationnel, dans les conditions prévues aux articles L. 321-18 à
+L. 321-20, ainsi qu'un programme pluriannuel d'intervention, dans les conditions prévues aux articles L. 321-5 à L. 321-7. 
+
+Le conseil d'administration approuve le projet stratégique et opérationnel, le programme pluriannuel d'intervention ainsi que
+chaque tranche annuelle de ce dernier et procède à leur révision.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 18
+
+	**Cité par**:
+
+	  - Décret n°2016-1865 du 23 décembre 2016 - art. 3 (VD)
+	  - Décret n°2017-341 du 15 mars 2017 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L321-18 (V)
+	  - Code de l'urbanisme - art. L321-5 (V)
+
+
+###### Article L321-36-4
+
+Le conseil d'administration de chacun des établissements publics prévus à la présente sous-section est composé, en nombre
+égal : 
+
+1° De représentants du conseil régional et du conseil départemental, désignés par leur assemblée délibérante et de
+représentants des communes et des établissements publics de coopération intercommunale à fiscalité propre compétents en
+matière de plan local d'urbanisme compris dans le périmètre de compétence de l'établissement, désignés dans les conditions
+prévues à l'article L. 321-22 ; 
+
+2° De représentants de l'Etat. 
+
+A Mayotte, le président du conseil d'administration est nommé par décret parmi les membres mentionnés au 2°.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 18
+
+	**Cité par**:
+
+	  - Décret n°2017-341 du 15 mars 2017 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L321-22 (V)
+
+
+###### Article L321-36-5
+
+Un directeur général est chargé de l'administration de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 18
+
+
+###### Article L321-36-6
+
+Les ressources de l'établissement comprennent : 
+
+1° Toute ressource fiscale affectée par la loi ; 
+
+2° Les dotations, subventions, avances, fonds de concours ou participations apportées par l'Union européenne, l'Etat, les
+collectivités territoriales, leurs établissements publics, les sociétés nationales ainsi que toutes personnes publiques ou
+privées intéressées ; 
+
+3° Le produit des emprunts qu'il est autorisé à contracter ; 
+
+4° Les subventions obtenues en lieu et place des collectivités territoriales, des établissements publics et des sociétés
+intéressés en exécution des conventions passées avec ceux-ci ; 
+
+5° Le produit de la vente de ses biens meubles et immeubles, ainsi que les revenus nets de ceux-ci ; 
+
+6° Les dons et legs ; 
+
+7° Les rémunérations de prestations de services et les remboursements d'avances et de préfinancements divers consentis par
+l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 18
+
+
+###### Article L321-36-7
+
+Un décret en Conseil d'Etat détermine les conditions d'application de la présente sous-section.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1268 du 14 octobre 2015 - art. 18
 
 
 ##### Section 4 : Etablissement public d'aménagement de Paris-Saclay
