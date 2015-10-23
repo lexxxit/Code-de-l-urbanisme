@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2015-10-16
+Version Consolidée au 2015-10-24
 
 # Partie législative
 
@@ -13971,8 +13971,8 @@ maintien dans les lieux des locataires.
 Les communes dotées d'un plan d'occupation des sols rendu public ou d'un plan local d'urbanisme approuvé peuvent, par
 délibération, instituer un droit de préemption urbain sur tout ou partie des zones urbaines et des zones d'urbanisation
 future délimitées par ce plan, dans les périmètres de protection rapprochée de prélèvement d'eau destinée à l'alimentation
-des collectivités humaines définis en application de l'article L. 1321-2 du code de la santé publique, dans les périmètres
-définis par un plan de prévention des risques technologiques en application du I de l'article L. 515-16 du code de
+des collectivités humaines définis en application de l'article L. 1321-2 du code de la santé publique, dans les zones et
+secteurs définis par un plan de prévention des risques technologiques en application de l'article L. 515-16 du code de
 l'environnement, dans les zones soumises aux servitudes prévues au II de l'article L. 211-12 du même code, ainsi que sur tout
 ou partie de leur territoire couvert par un plan de sauvegarde et de mise en valeur rendu public ou approuvé en application
 de l'article L. 313-1 lorsqu'il n'a pas été créé de zone d'aménagement différé ou de périmètre provisoire de zone
@@ -14031,7 +14031,7 @@ de cinq ans à compter du jour où la délibération est exécutoire.
 
 	**Modifié par**:
 
-	  - Loi n°2009-323 du 25 mars 2009 - art. 39
+	  - ORDONNANCE n°2015-1324 du 22 octobre 2015 - art. 5
 
 	**Cite**:
 
@@ -28644,7 +28644,7 @@ g) Les sites inscrits ou classés en application des articles L. 341-1 et L. 341
 
 h) Les sites désignés Natura 2000 en application de l'article L. 414-1 du même code ; 
 
-i) Les zones qui figurent dans les plans de prévention des risques technologiques mentionnés au I de l'article L. 515-16
+i) Les zones qui figurent dans les plans de prévention des risques technologiques mentionnées au 1° de l'article L. 515-16
 dudit code, celles qui figurent dans les plans de prévention des risques naturels prévisibles mentionnés aux 1° et 2° du II
 de l'article L. 562-1 du même code ainsi que celles qui figurent dans les plans de prévention des risques miniers prévus à
 l'article L. 174-5 du code minier, lorsque le droit de réaliser des aménagements, des ouvrages ou des constructions nouvelles
@@ -28689,27 +28689,27 @@ engagement national pour le logement, la prescription antérieure continue à co
 	**Cite**:
 
 	  - Loi n°2006-872 du 13 juillet 2006
-	  - Code de l'urbanisme - art. L123-1-5 (V)
-	  - Code de l'urbanisme - art. L145-3 (V)
-	  - Code de l'urbanisme - art. L145-5 (V)
-	  - Code de l'urbanisme - art. L146-4 (V)
-	  - Code de l'urbanisme - art. L313-1 (V)
+	  - Code de l'urbanisme - art. L123-1-5
+	  - Code de l'urbanisme - art. L145-3
+	  - Code de l'urbanisme - art. L145-5
+	  - Code de l'urbanisme - art. L146-4
+	  - Code de l'urbanisme - art. L313-1
 	  - Code de l'environnement - art. L331-2
-	  - Code de l'environnement - art. L332-1 (V)
-	  - Code de l'environnement - art. L332-16 (V)
-	  - Code de l'environnement - art. L341-1 (V)
-	  - Code de l'environnement - art. L414-1 (V)
-	  - Code de l'environnement - art. L515-12 (V)
-	  - Code de l'environnement - art. L515-16 (V)
+	  - Code de l'environnement - art. L332-1
+	  - Code de l'environnement - art. L332-16
+	  - Code de l'environnement - art. L341-1
+	  - Code de l'environnement - art. L414-1
+	  - Code de l'environnement - art. L515-12
+	  - Code de l'environnement - art. L515-16
 	  - Code de l'environnement - art. L515-8
-	  - Code de l'environnement - art. L562-1 (V)
-	  - Code du patrimoine - art. L621-30 (V)
+	  - Code de l'environnement - art. L562-1
+	  - Code du patrimoine - art. L621-30
 	  - Code du patrimoine - art. L642-1
-	  - Code minier (nouveau) - art. L174-5 (V)
+	  - Code minier (nouveau) - art. L174-5
 
 	**Modifié par**:
 
-	  - Loi n°2015-990 du 6 août 2015 - art. 111
+	  - ORDONNANCE n°2015-1324 du 22 octobre 2015 - art. 5
 
 	**Cité par**:
 
@@ -28724,7 +28724,7 @@ engagement national pour le logement, la prescription antérieure continue à co
 	  - Code de l'urbanisme - art. L111-12 (VT)
 	  - Code de l'urbanisme - art. L421-9 (VD)
 	  - Code de l'urbanisme - art. L471-2 (V)
-	  - Code de l'urbanisme - art. L600-6 (V)
+	  - Code de l'urbanisme - art. L600-6 (M)
 	  - Code de l'urbanisme - art. R*421-32 (Ab)
 	  - Code de l'urbanisme - art. R*424-19 (VD)
 
