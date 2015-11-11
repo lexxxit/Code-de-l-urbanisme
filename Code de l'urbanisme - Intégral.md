@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2015-10-29
+Version Consolidée au 2015-11-12
 
 # Partie législative
 
@@ -56536,9 +56536,8 @@ Lorsque le projet relève de l'article L. 425-4 :
 a) Qu'en cas de recours devant la Commission nationale d'aménagement commercial, le délai d'instruction sera prolongé de cinq
 mois ; 
 
-b) Si le permis ne relève pas de la compétence de l'Etat, qu'en cas d'avis défavorable de la Commission nationale
-d'aménagement commercial ou de confirmation tacite d'un avis défavorable de la commission départementale d'aménagement
-commercial, il ne pourra pas se prévaloir d'un permis tacite ; 
+b) Qu'en cas d'avis défavorable de la Commission nationale d'aménagement commercial ou de confirmation tacite d'un avis
+défavorable de la commission départementale d'aménagement commercial, il ne pourra pas se prévaloir d'un permis tacite ; 
 
 2° La lettre de notification de la décision de la Commission nationale d'aménagement commercial de se saisir du projet en
 application du 
@@ -56547,9 +56546,8 @@ informe le demandeur :
 
 a) Que le délai d'instruction est prolongé de cinq mois ; 
 
-b) Si le permis ne relève pas de la compétence de l'Etat, qu'en cas d'avis défavorable de la Commission nationale
-d'aménagement commercial ou de confirmation tacite d'un avis défavorable de la commission départementale d'aménagement
-commercial, il ne pourra pas se prévaloir d'un permis tacite. 
+b) Qu'en cas d'avis défavorable de la Commission nationale d'aménagement commercial ou de confirmation tacite d'un avis
+défavorable de la commission départementale d'aménagement commercial, il ne pourra pas se prévaloir d'un permis tacite. 
 
 Lorsque le projet a été soumis pour avis à la commission départementale d'aménagement commercial sur le fondement de l'
 article L. 752-4 du code de commerce
@@ -56558,9 +56556,8 @@ article L. 752-4 du code de commerce
 a) Qu'en cas de recours devant la Commission nationale d'aménagement commercial, le délai d'instruction sera prolongé de deux
 mois ; 
 
-b) Si le permis ne relève pas de la compétence de l'Etat, qu'en cas d'avis défavorable de la Commission nationale
-d'aménagement commercial ou de confirmation tacite d'un avis défavorable de la commission départementale d'aménagement
-commercial, il ne pourra pas se prévaloir d'un permis tacite.
+b) Qu'en cas d'avis défavorable de la Commission nationale d'aménagement commercial ou de confirmation tacite d'un avis
+défavorable de la commission départementale d'aménagement commercial, il ne pourra pas se prévaloir d'un permis tacite.
 
 **Liens relatifs à cet article**
 
@@ -56574,7 +56571,7 @@ commercial, il ne pourra pas se prévaloir d'un permis tacite.
 
 	**Modifié par**:
 
-	  - Décret n°2015-482 du 27 avril 2015 - art. 4
+	  - Décret n°2015-1461 du 10 novembre 2015 - art. 3
 
 	**Cite**:
 
@@ -57768,10 +57765,9 @@ g) Lorsque la délivrance du permis est subordonnée, en application de l'articl
 animée, à une autorisation de création, d'extension ou de réouverture au public d'établissements de spectacles
 cinématographiques et que la demande a fait l'objet d'un refus de la commission départementale compétente ; 
 
-h) Si le permis ne relève pas de la compétence de l'Etat, lorsque le projet relève de l'article L. 425-4 ou a été soumis pour
-avis à la commission départementale d'aménagement commercial sur le fondement de l'article L. 752-4 du code de commerce et
-que la commission départementale d'aménagement commercial ou, le cas échéant, de la Commission nationale d'aménagement
-commercial a rendu un avis défavorable ;
+h) Lorsque le projet relève de l'article L. 425-4 ou a été soumis pour avis à la commission départementale d'aménagement
+commercial sur le fondement de l'article L. 752-4 du code de commerce et que la commission départementale d'aménagement
+commercial ou, le cas échéant, de la Commission nationale d'aménagement commercial a rendu un avis défavorable ; 
 
 i) Lorsque le projet porte sur une démolition soumise à permis en site inscrit ; 
 
@@ -57796,19 +57792,20 @@ prévue par l'article L. 111-4-1 du code de la construction et de l'habitation e
 
 	**Modifié par**:
 
-	  - Décret n°2015-165 du 12 février 2015 - art. 2
+	  - Décret n°2015-1461 du 10 novembre 2015 - art. 3
 
 	**Cite**:
 
-	  - Code de commerce - art. L752-1
-	  - Code de commerce - art. L752-4
+	  - Code de commerce - art. L752-4 (VT)
 	  - Code de l'urbanisme - art. L425-13
+	  - Code de l'urbanisme - art. L425-4 (V)
 	  - Code de l'urbanisme - art. R*423-56
 	  - Code de l'urbanisme - art. R*424-1
 	  - Code de la construction et de l'habitation. - art. L111-4-1
 	  - Code de l'environnement - art. L331-2
 	  - Code de l'environnement - art. R123-7
 	  - Code de l'environnement - art. R331-4
+	  - Code du cinéma et de l'image animée - art. L212-7 (V)
 
 
 ###### Article R*424-3
