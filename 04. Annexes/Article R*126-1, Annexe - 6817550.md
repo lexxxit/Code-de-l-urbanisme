@@ -187,6 +187,8 @@ L'article 6 du décret du 30 octobre 1935 modifié portant création de servitud
 La loi n° 66-1066 du 31 décembre 1966 établissant des servitudes au profit des lignes de transport public par véhicules
 guidés sur coussins d'air (aérotrains). 
 
+Le chapitre III du titre Ier du livre Ier de la deuxième partie du code des transports. 
+
 d) Réseau routier. 
 
 Servitudes instituées en application de l'article 3 du décret du 30 octobre 1935 portant création de servitudes de visibilité
@@ -371,8 +373,8 @@ transparence et à la sécurité en matière nucléaire.
 	  - Code du patrimoine - art. L642-1
 	  - Loi du 2 mai 1930 - art. 17
 	  - Loi du 2 mai 1930 - art. 28
-	  - Code forestier (nouveau) - art. L151-1 (V)
+	  - Code forestier (nouveau) - art. L151-1
 
 	**Modifié par**:
 
-	  - Décret n°2012-615 du 2 mai 2012 - art. 9
+	  - Décret n°2015-1572 du 2 décembre 2015 - art. 5
