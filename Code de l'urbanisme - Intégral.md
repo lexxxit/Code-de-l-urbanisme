@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2015-12-05
+Version Consolidée au 2015-12-06
 
 # Partie législative
 
@@ -68554,7 +68554,7 @@ b) Navigation maritime.
 Champs de vue et servitudes instituées ou maintenues en application de la loi n° 87-954 du 27 novembre 1987 relative à la
 visibilité des amers, des feux et des phares et au champ de vue des centres de surveillance de la navigation maritime. 
 
-c) Voies ferrées et aérotrains. 
+c) Transports ferroviaires ou guidés. 
 
 Zones auxquelles s'appliquent les servitudes instituées par : 
 
@@ -68567,6 +68567,8 @@ La loi n° 66-1066 du 31 décembre 1966 établissant des servitudes au profit de
 guidés sur coussins d'air (aérotrains). 
 
 Le chapitre III du titre Ier du livre Ier de la deuxième partie du code des transports. 
+
+La  section 1 du chapitre Ier du titre V du livre II de la première partie du code des transports 
 
 d) Réseau routier. 
 
@@ -68599,13 +68601,16 @@ f) Remontées mécaniques et pistes de ski.
 
 Zones auxquelles s'applique la servitude de survol instituée par la loi du 8 juillet 1941 ; 
 
-Servitudes instituées en application de l'article 53 de la loi n° 85-30 du 9 janvier 1985 relative au développement et à la
-protection de la montagne. 
+Servitudes d'utilité publique instituée en application des  articles L. 342-18 à L. 342-26 du code du tourisme. 
 
 g) Associations syndicales autorisées, associations syndicales constituées d'office et leurs unions : 
 
 Servitudes de passage pour l'entretien d'ouvrages instituées en application du second alinéa de l'article 28 de l'ordonnance
 n° 2004-632 du 1er juillet 2004. 
+
+h) Transport par câbles en milieu urbain. 
+
+Servitudes instituées en application des articles L. 1251-3 à L. 1251-8 du code des transports. 
 
 E. ― Télécommunications. 
 
@@ -68756,7 +68761,11 @@ transparence et à la sécurité en matière nucléaire.
 
 	**Modifié par**:
 
-	  - Décret n°2015-1572 du 2 décembre 2015 - art. 5
+	  - Décret n°2015-1581 du 3 décembre 2015 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 10
 
 
 ## Liste des communes comprises dans la zone 1
