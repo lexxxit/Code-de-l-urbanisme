@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2015-12-06
+Version Consolidée au 2015-12-30
 
 # Partie législative
 
@@ -3006,9 +3006,9 @@ public de coopération intercommunale avant la date prévue à l'alinéa précé
 
 Le rapport de présentation explique les choix retenus pour établir le projet d'aménagement et de développement durables et le
 document d'orientation et d'objectifs en s'appuyant sur un diagnostic établi au regard des prévisions économiques et
-démographiques et des besoins répertoriés en matière de développement économique, d'aménagement de l'espace, d'environnement,
-notamment en matière de biodiversité, d'agriculture, de préservation du potentiel agronomique, d'équilibre social de
-l'habitat, de transports, d'équipements et de services. 
+démographiques, notamment au regard du vieillissement de la population, et des besoins répertoriés en matière de
+développement économique, d'aménagement de l'espace, d'environnement, notamment en matière de biodiversité, d'agriculture, de
+préservation du potentiel agronomique, d'équilibre social de l'habitat, de transports, d'équipements et de services. 
 
 Il identifie, en prenant en compte la qualité des paysages et du patrimoine architectural, les espaces dans lesquels les
 plans locaux d'urbanisme doivent analyser les capacités de densification et de mutation en application de l'article L.
@@ -3034,15 +3034,17 @@ résultant de la présente loi lors de leur prochaine révision.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 129 (V)
-	  - Loi n°2014-366 du 24 mars 2014 - art. 139 (V)
-	  - Loi n°2014-1170 du 13 octobre 2014 - art. 25
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 17 (V)
 
 	**Abrogé par**:
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 12
+
+	**Modifié par**:
+
+	  - Loi n°2015-1776 du 28 décembre 2015 - art. 19
 
 	**Cite**:
 
@@ -3050,13 +3052,9 @@ résultant de la présente loi lors de leur prochaine révision.
 	  - Code de l'urbanisme - art. L122-1-13
 	  - Code de l'urbanisme - art. L123-1-2
 
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. L141-3 (VD)
-
 	**Cité par**:
 
-	  - Code de l'urbanisme - art. L600-1 (VD)
+	  - Code de l'urbanisme - art. L600-1 (V)
 	  - Code de l'urbanisme - art. R*122-2 (VT)
 
 
@@ -55863,38 +55861,6 @@ c) Trois mois pour les autres demandes de permis de construire et pour les deman
 
 ##### Paragraphe 1 : Modification du délai d'instruction de droit commun
 
-###### Article R*423-24
-
-Le délai d'instruction de droit commun prévu par l'article R. * 423-23 est majoré d'un mois lorsque le projet est soumis,
-dans les conditions mentionnées au chapitre V, à un régime d'autorisation ou à des prescriptions prévus par d'autres
-législations ou réglementations que le code de l'urbanisme, lorsque la décision nécessite une dérogation en application des
-quatrième et sixième alinéas de l'article L. 123-5 ou de l'article L. 123-5-1 du code de l'urbanisme, lorsque le projet est
-situé dans un secteur sauvegardé ou lorsque le projet doit être soumis à l'avis de la commission départementale de la
-consommation des espaces agricoles prévu par l'article L. 112-1-1 du code rural et de la pêche maritime.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°2014-1299 du 23 octobre 2014 - art. (V)
-	  - Code de l'urbanisme - art. R*423-25 (M)
-	  - Code de l'urbanisme - art. R*423-33 (V)
-	  - Code de l'urbanisme - art. R*423-42 (V)
-	  - Code de l'urbanisme - art. R*423-43 (V)
-	  - Code de l'urbanisme - art. R*423-44 (V)
-	  - Code de l'urbanisme - art. R*423-5 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2014-1314 du 31 octobre 2014 - art. 31
-
-	**Cite**:
-
-	  - Code rural - art. L112-1-1
-	  - Code de l'urbanisme - art. L123-5
-	  - Code de l'urbanisme - art. R*423-23
-
-
 ###### Article R*423-25
 
 Le délai d'instruction prévu par le b et le c de l'article R*423-23 est majoré de deux mois : 
@@ -56157,6 +56123,47 @@ articles R. 423-26 à R. 423-32-1.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R423-24
+
+Le délai d'instruction de droit commun prévu par l'article R. 423-23 est majoré d'un mois : 
+
+a) Lorsque le projet est soumis, dans les conditions mentionnées au chapitre V, à un régime d'autorisation ou à des
+prescriptions prévus par d'autres législations ou réglementations que le code de l'urbanisme ; 
+
+b) Lorsque la décision nécessite une dérogation en application des quatrième et sixième alinéas de l'article L. 123-5 ou de
+l'article L. 123-5-1 ; 
+
+c) Lorsque le projet est situé dans un secteur sauvegardé ; 
+
+d) Lorsque le projet doit être soumis à l'avis de la commission départementale de la préservation des espaces naturels,
+agricoles et forestiers prévu par l'article L. 112-1-1 du code rural et de la pêche maritime ; 
+
+e) Lorsque le projet fait l'objet d'une mise à disposition du public en application du III bis de l'article L. 300-2 ou du
+quatrième alinéa du 1° du I de l'article L. 123-2 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2014-1299 du 23 octobre 2014 - art. (V)
+	  - Code de l'urbanisme - art. R*423-25 (M)
+	  - Code de l'urbanisme - art. R*423-33 (V)
+	  - Code de l'urbanisme - art. R*423-42 (V)
+	  - Code de l'urbanisme - art. R*423-43 (V)
+	  - Code de l'urbanisme - art. R*423-44 (V)
+	  - Code de l'urbanisme - art. R*423-5 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2015-1782 du 28 décembre 2015 - art. 3
+
+	**Cite**:
+
+	  - Code rural - art. L112-1-1
+	  - Code de l'urbanisme
+	  - Code de l'environnement - art. L123-2
 
 
 ###### Article R423-32-1
@@ -57019,9 +57026,11 @@ limitrophes de l'unité foncière d'implantation du projet.
 
 ###### Article R*423-57
 
-Lorsque le projet est soumis à enquête publique en application de l'article R. 123-1 du code de l'environnement, celle-ci est
-organisée par le maire ou le président de l'établissement public de coopération intercommunale lorsque le permis est délivré
-au nom de la commune ou de l'établissement public et par le préfet lorsque le permis est délivré au nom de l'Etat. 
+Sous réserve des dispositions prévues aux quatrième et cinquième alinéas du III bis de l'article L. 300-2 et au 1° du I de
+l'article L. 123-2 du code de l'environnement, lorsque le projet est soumis à enquête publique en application de l'article R.
+123-1 du code de l'environnement, celle-ci est organisée par le maire ou le président de l'établissement public de
+coopération intercommunale lorsque le permis est délivré au nom de la commune ou de l'établissement public et par le préfet
+lorsque le permis est délivré au nom de l'Etat. 
 
 Le commissaire enquêteur ou la commission d'enquête doivent rendre leur avis dans le délai d'un mois à compter de la clôture
 de l'enquête. 
@@ -57037,15 +57046,15 @@ des conclusions du commissaire enquêteur ou de la commission d'enquête.
 
 	**Cite**:
 
-	  - Code de l'environnement - art. R123-1 (V)
+	  - Code de l'environnement - art. R123-1
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+	  - Décret n°2015-1782 du 28 décembre 2015 - art. 4
 
 
 ###### Article R*423-58
@@ -60484,8 +60493,9 @@ demandes de permis d'aménager et aux demandes de permis de démolir déposées 
 
 Le dossier joint à la demande de permis de construire comprend en outre, selon les cas : 
 
-a) L'étude d'impact, lorsqu'elle est prévue en application du code de l'environnement, ou la décision de l'autorité
-administrative de l'Etat compétente en matière d'environnement dispensant le demandeur de réaliser une étude d'impact ; 
+a) Lorsqu'elles sont exigées au titre du permis de construire auquel est soumis le projet figurant dans l'énumération du
+tableau annexé à l'article R. 122-2 du code de l'environnement, l'étude d'impact ou la décision de l'autorité administrative
+de l'Etat compétente en matière d'environnement dispensant le demandeur de réaliser une étude d'impact ;
 
 b) Le dossier d'évaluation des incidences du projet sur un site Natura 2000 prévu à l'article R. 414-23 du code de
 l'environnement, dans le cas où le projet doit faire l'objet d'une telle évaluation en application de l'article L. 414-4 de
@@ -60565,7 +60575,7 @@ déposées après la publication au recueil des actes administratifs dans le dé
 
 	**Modifié par**:
 
-	  - Décret n°2015-1353 du 26 octobre 2015 - art. 4
+	  - Décret n°2015-1782 du 28 décembre 2015 - art. 5
 
 	**Cite**:
 
@@ -61011,28 +61021,6 @@ précisant le lieu du projet urbain partenarial et la durée de l'exonération d
 	  - Code de l'urbanisme - art. R*441-10 (VD)
 
 
-###### Article R*441-5
-
-Le dossier joint à la demande de permis d'aménager comprend en outre l'étude d'impact lorsqu'elle est prévue en application
-du code de l'environnement ou la décision de l'autorité administrative de l'Etat compétente en matière d'environnement
-dispensant le demandeur de réaliser une étude d'impact.
-
-**Nota:**
-
-Décret n° 2014-253 du 27 février 2014 article 9 : Les présentes dispositions sont applicables aux demandes d'autorisation
-déposées à compter du 1er avril 2014.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°2014-253 du 27 février 2014 - art. 6
-
-
 ###### Article R*441-6
 
 Lorsque la demande prévoit l'édification, par l'aménageur, de constructions à l'intérieur du périmètre, la notice prévue par
@@ -61178,6 +61166,28 @@ Aucune autre information ou pièce ne peut être exigée par l'autorité compét
 	**Créé par**:
 
 	  - Décret n°2015-482 du 27 avril 2015 - art. 6
+
+
+###### Article R441-5
+
+Le dossier joint à la demande de permis d'aménager comprend en outre, lorsqu'elles sont exigées au titre de la soumission du
+projet à permis d'aménager en application du tableau annexé à l'article R. 122-2 du code de l'environnement, l'étude d'impact
+ou la décision de l'autorité administrative de l'Etat compétente en matière d'environnement dispensant le demandeur de
+réaliser une étude d'impact.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'environnement - art. R122-2
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°2015-1782 du 28 décembre 2015 - art. 6
 
 
 ###### Article R441-8-1
@@ -62278,28 +62288,6 @@ Lorsque la demande est présentée en vue d'une exploitation saisonnière, il y 
 	  - Code de l'urbanisme - art. R440-11 (T)
 
 
-###### Article R*443-5
-
-Le dossier de demande comporte également l'étude d'impact prévue à l'article R. 122-5 du code de l'environnement ou la
-décision de l'autorité administrative de l'Etat compétente en matière d'environnement dispensant d'une telle étude prise dans
-les conditions fixées aux articles R. 122-2 et R. 122-3 du même code.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2015-482 du 27 avril 2015 - art. 6
-
-	**Cite**:
-
-	  - Code de l'environnement - art. R122-2
-	  - Code de l'environnement - art. R122-5
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 ###### Article R443-2
 
 La notice jointe à la demande de permis d'aménager précise, outre les éléments mentionnés à l'article R. 441-3, les mesures
@@ -62334,6 +62322,27 @@ Elle précise en outre si l'implantation d'habitations légères de loisirs est 
 	**Nouveaux textes**:
 
 	  - Code de l'urbanisme - art. R443-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R443-5
+
+Le dossier de demande comporte également, lorsqu'elles sont exigées au titre de la soumission du projet à permis d'aménager
+en application du tableau annexé à l'article R. 122-2 du code de l'environnement, l'étude d'impact ou la décision de
+l'autorité administrative de l'Etat compétente en matière d'environnement dispensant le demandeur de réaliser cette étude.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2015-1782 du 28 décembre 2015 - art. 7
+
+	**Cite**:
+
+	  - Code de l'environnement - art. R122-2
 
 	**Codifié par**:
 
