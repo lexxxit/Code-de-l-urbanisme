@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2016-01-01
+Version Consolidée au 2016-01-01 00:00:01 +0100
 
 # Partie législative
 
@@ -65324,7 +65324,7 @@ g) Une notice précisant l'activité économique qui doit être exercée dans le
 activité répond aux critères définis par l'article R. 146-2, lorsque la demande concerne un projet de construction visé au d
 de cet article et situé dans un espace remarquable ou dans un milieu à préserver d'une commune littorale ; 
 
-h) L'étude de sécurité publique, lorsqu'elle est exigée en application des articles R. 111-48 et R. 111-49 ; 
+h) L'étude de sécurité publique, lorsqu'elle est exigée en application des articles R. 114-1 et R. 114-2 ; 
 
 i) Lorsque le projet est tenu de respecter les dispositions mentionnées à l'article R. 111-20 du code de la construction et
 de l'habitation, un document établi par le maître d'ouvrage attestant la prise en compte de la réglementation thermique, en
@@ -65372,13 +65372,12 @@ Le décret n° 2015-1782 du 28 décembre 2015, article 5, 2°, a inséré un sec
 
 	**Modifié par**:
 
-	  - Décret n°2015-1782 du 28 décembre 2015 - art. 5
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 6
 
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. L2224-8
 	  - Code de l'urbanisme - art. L510-1
-	  - Code de l'urbanisme - art. R111-48
 	  - Code de l'environnement - art. L556-1
 	  - Code de l'environnement - art. L556-2
 	  - Code de l'environnement - art. L562-2
