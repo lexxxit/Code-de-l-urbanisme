@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2016-01-07
+Version Consolidée au 2016-02-01
 
 # Partie législative
 
@@ -1719,10 +1719,10 @@ Nonobstant toute disposition contraire du plan local d'urbanisme, l'emprise au s
 aires de stationnement annexes d'un commerce soumis à l'autorisation d'exploitation commerciale prévue aux 1° et 4° du I de
 l'article L. 752-1 du code de commerce et à l'autorisation prévue au 1° de l'article L. 212-7 du code du cinéma et de l'image
 animée, ne peut excéder un plafond correspondant aux trois quarts de la surface de plancher des bâtiments affectés au
-commerce. Les espaces paysagers en pleine terre, les surfaces réservées à l'auto-partage et les places de stationnement
-destinées à l'alimentation des véhicules électriques ou hybrides rechargeables sont déduits de l'emprise au sol des surfaces
-affectées au stationnement. La surface des places de stationnement non imperméabilisées compte pour la moitié de leur
-surface.
+commerce. Les espaces paysagers en pleine terre, les surfaces des aménagements relevant de l'article L. 3114-1 du code des
+transports, les surfaces réservées à l'auto-partage et les places de stationnement destinées à l'alimentation des véhicules
+électriques ou hybrides rechargeables sont déduits de l'emprise au sol des surfaces affectées au stationnement. La surface
+des places de stationnement non imperméabilisées compte pour la moitié de leur surface.
 
 **Liens relatifs à cet article**
 
@@ -1730,24 +1730,21 @@ surface.
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Ordonnance n°2016-79 du 29 janvier 2016 - art. 9
 
 	**Cite**:
 
-	  - Code de commerce - art. L752-1 (M)
-	  - Code du cinéma et de l'image animée - art. L212-7 (M)
+	  - Code de commerce - art. L752-1 (V)
+	  - Code du cinéma et de l'image animée - art. L212-7 (V)
+	  - Code des transports - art. L3114-1 (V)
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. L111-21 (VD)
 	  - Code de l'urbanisme - art. L151-37 (VD)
 	  - Code du cinéma et de l'image animée - art. L212-11 (VD)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L111-6-1, alinéa 1 (VT)
 
 
 ###### Article L111-20
