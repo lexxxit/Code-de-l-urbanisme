@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2016-03-27
+Version Consolidée au 2016-04-01
 
 # Partie législative
 
@@ -19536,14 +19536,15 @@ des collectivités territoriales et leurs groupements ou des établissements pub
 soumis aux dispositions du II, même si le concédant ne participe pas au financement de l'opération. Le concessionnaire doit
 également rendre compte de l'utilisation des subventions reçues aux personnes publiques qui les ont allouées.
 
+IV. ―  L'article 52 de l'ordonnance n° 2016-65 du 29 janvier 2016 relative aux contrats de concession n'est pas applicable
+aux concessions d'aménagement.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
-	  - Loi n°94-112 du 9 février 1994 - art. 6 (V)
 	  - Loi n°2013-1278 du 29 décembre 2013 - art. 29 (V)
 	  - Loi n°2014-891 du 8 août 2014 - art. 27 (V)
-	  - Loi n°2015-1785 du 29 décembre 2015 - art. 12 (V)
 	  - Code de l'urbanisme - art. L311-5 (V)
 	  - Code de l'urbanisme - art. R*300-10 (T)
 	  - Code de l'urbanisme - art. R*300-11 (VT)
@@ -19557,18 +19558,20 @@ soumis aux dispositions du II, même si le concédant ne participe pas au financ
 	  - Code général des collectivités territoriales - art. L2313-1 (V)
 	  - Code rural - art. L112-9 (V)
 	  - Code rural - art. L112-9-1 (T)
-
-	**Modifié par**:
-
-	  - Loi n°2005-809 du 20 juillet 2005 - art. 2 () JORF 21 juillet 2005
+	  - Loi n°94-112 du 9 février 1994 - art. 6 (V)
+	  - Loi n°2015-1785 du 29 décembre 2015 - art. 12 (V)
 
 	**Cite**:
 
-	  - Code de l'urbanisme annexe
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 52
 
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 75
 
 
 ###### Article L300-5-1
@@ -19591,36 +19594,6 @@ procédure de publicité et de mise en concurrence définie par décret en Conse
 	**Créé par**:
 
 	  - Loi n°2005-809 du 20 juillet 2005 - art. 3 () JORF 21 juillet 2005
-
-
-###### Article L300-5-2
-
-Les dispositions du deuxième alinéa de l'article L. 300-4 ne sont pas applicables aux concessions d'aménagement conclues
-entre le concédant et un aménageur sur lequel il exerce un contrôle analogue à celui qu'il exerce sur ses propres services et
-qui réalise l'essentiel de ses activités avec lui ou, le cas échéant, les autres personnes publiques qui le contrôlent.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Créé par**:
-
-	  - Loi n°2005-809 du 20 juillet 2005 - art. 3 () JORF 21 juillet 2005
-
-	**Cité par**:
-
-	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 77 (VD)
-	  - Code de l'urbanisme - art. R311-6 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 77 (VD)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L300-4
 
 
 ###### Article L300-6
@@ -45990,6 +45963,37 @@ conditions prévues à l'article R. 211-2. Elle est adressée aux organismes et 
 	  - Décret n°73-1023 1973-11-08
 
 
+###### Article R211-5
+
+L'exercice du droit de préemption urbain peut être délégué au président-directeur général, au président du directoire, au
+directeur général ou à l'un des directeurs par le conseil d'administration, le conseil de surveillance ou le directoire des
+sociétés ou organismes mentionnés au troisième alinéa de l'article L. 211-2. Cette délégation fait l'objet d'une publication
+de nature à la rendre opposable aux tiers. 
+
+Lorsqu'il exerce ce droit par délégation, le président-directeur général, le président du directoire, le directeur général ou
+le directeur rend compte, au moins une fois par an, de son action au conseil d'administration, au directoire ou au conseil de
+surveillance.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2016-384 du 30 mars 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L211-2
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*211-6 (M)
+	  - Code de l'urbanisme - art. R*214-5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 ###### Article R211-7
 
 Toute proposition faite en application du premier alinéa de l'article L. 211-5 est établie dans les formes prescrites par
@@ -48468,20 +48472,19 @@ prévus par le cinquième alinéa de l'article L. 300-2.
 
 ###  Section 2 : Concessions d'aménagement
 
-#### Sous-section 1 : Procédure relative aux concessions d'aménagement soumises au droit communautaire des concessions.
+#### Sous-section 1 : Procédure relative aux concessions d'aménagement transférant un risque économique
 
 ###### Article R*300-4
 
-Les dispositions de la présente sous-section sont applicables aux concessions d'aménagement lorsque le montant total des
-produits de l'opération d'aménagement concédée est égal ou supérieur au seuil mentionné pour les marchés de travaux au 5° du
-II de l'article 26 du code des marchés publics et que le concessionnaire assume une part significative du risque économique
-de l'opération.
+Les dispositions de l'ordonnance n° 2016-65 du 29 janvier 2016 relative aux contrats de concession, du décret n° 2016-86 du
+1er février 2016 relatif aux contrats de concession et les dispositions de la présente sous-section sont applicables aux
+concessions d'aménagement lorsque le concessionnaire assume un risque économique lié à l'opération d'aménagement.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-1000 du 25 août 2011 - art. 50
+	  - Décret n°2016-86 du 1er février 2016 - art. 51
 
 	**Cite**:
 
@@ -48501,16 +48504,11 @@ Préalablement à la passation d'une concession d'aménagement, le concédant pu
 des annonces légales et dans une publication spécialisée dans les domaines de l'urbanisme, des travaux publics ou de
 l'immobilier, un avis conforme au modèle fixé par les autorités communautaires.
 
-Cet avis précise la date limite de présentation des candidatures, qui doit être fixée de sorte qu'un délai d'au moins un mois
-s'écoule depuis la date de la dernière des publications de l'avis prévues à l'alinéa précédent, et mentionne les
-caractéristiques essentielles de l'opération d'aménagement projetée, c'est-à-dire son objet, sa localisation et les principes
-de son financement.
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-889 du 22 juillet 2009 - art. 2
+	  - Décret n°2016-86 du 1er février 2016 - art. 51
 
 	**Cité par**:
 
@@ -48520,59 +48518,19 @@ de son financement.
 	  - Code de l'urbanisme - art. R*300-9 (T)
 	  - Code de l'urbanisme - art. R300-9-1 (VT)
 
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R*300-4 (VT)
-
-
-###### Article R*300-6
-
-Un avis, conforme au modèle fixé par les autorités communautaires, est en outre adressé pour publication à l'Office des
-publications de l'Union européenne. Le délai entre la date de l'envoi de l'avis à l'Office des publications de l'Union
-européenne et la date limite de présentation des candidatures mentionnée à l'article R. * 300-5 est d'au moins cinquante-deux
-jours. Ce délai peut être réduit de sept jours lorsque l'avis pour publication est envoyé par voie électronique.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-889 du 22 juillet 2009 - art. 2
-
-	**Cité par**:
-
-	  - Décret n°2016-86 du 1er février 2016 - art. 54
-	  - Code de l'urbanisme - art. R*300-10 (T)
-
-	**Abrogé par**:
-
-	  - Décret n°2016-86 du 1er février 2016 - art. 54
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R*300-5
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R*300-5 (VT)
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. R*300-7 (VD)
-
 
 ###### Article R*300-7
 
-Le concédant adresse, le cas échéant par courrier électronique, à chacun des candidats un document précisant les
-caractéristiques essentielles de la concession d'aménagement et indiquant le programme global prévisionnel des équipements et
-des constructions projetés ainsi que les conditions de mise en oeuvre de l'opération. Il précise également les modalités et
-la date limite de réception des propositions des candidats. Cette date doit être postérieure d'un mois au moins à celle de
-l'envoi du document.
+Sans préjudice des articles 4, 5 et 18 du décret n° 2016-86 du 1er février 2016 relatif aux contrats de concession, le
+concédant adresse à chacun des candidats un document précisant les caractéristiques essentielles de la concession
+d'aménagement et indiquant le programme global prévisionnel des équipements et des constructions projetés ainsi que les
+conditions de mise en œuvre de l'opération.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-889 du 22 juillet 2009 - art. 2
+	  - Décret n°2016-86 du 1er février 2016 - art. 51
 
 	**Cité par**:
 
@@ -48583,43 +48541,14 @@ l'envoi du document.
 	  - Code de l'urbanisme - art. R*300-6 (VT)
 
 
-###### Article R*300-8
-
-Le concédant choisit le concessionnaire en prenant notamment en compte les capacités techniques et financières des candidats
-et leur aptitude à conduire l'opération d'aménagement projetée, après avoir engagé librement toute discussion utile avec une
-ou plusieurs personnes ayant remis une proposition.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-889 du 22 juillet 2009 - art. 2
-
-	**Cité par**:
-
-	  - Décret n°2016-86 du 1er février 2016 - art. 54
-	  - Code de l'urbanisme - art. R*300-9 (VD)
-
-	**Abrogé par**:
-
-	  - Décret n°2016-86 du 1er février 2016 - art. 54
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R*300-7 (VT)
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. R*300-9 (VD)
-
-
 ###### Article R*300-9
 
 Lorsque le concédant est une collectivité territoriale ou un groupement de collectivités territoriales, l'organe délibérant
 désigne en son sein à la représentation proportionnelle à la plus forte moyenne les membres composant la commission chargée
-d'émettre un avis sur les propositions reçues, préalablement à l'engagement des discussions mentionnées à l'article R. *
-300-8. Il désigne la personne habilitée à engager ces discussions et à signer la convention. Cette personne peut recueillir
-l'avis de la commission à tout moment de la procédure.
+d'émettre un avis sur les propositions reçues, préalablement à l'engagement de la négociation prévue à l'article 46 de
+l'ordonnance n° 2016-65 du 29 janvier 2016 relative aux contrats de concession. Il désigne la personne habilitée à engager
+ces discussions et à signer la convention. Cette personne peut recueillir l'avis de la commission à tout moment de la
+procédure.
 
 L'organe délibérant choisit le concessionnaire, sur proposition de la personne habilitée à mener les discussions et à signer
 la convention et au vu de l'avis ou des avis émis par la commission.
@@ -48628,7 +48557,7 @@ la convention et au vu de l'avis ou des avis émis par la commission.
 
 	**Modifié par**:
 
-	  - Décret n°2009-889 du 22 juillet 2009 - art. 2
+	  - Décret n°2016-86 du 1er février 2016 - art. 51
 
 	**Cité par**:
 
@@ -48637,141 +48566,25 @@ la convention et au vu de l'avis ou des avis émis par la commission.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R*300-8 (V)
+	  - Code de l'urbanisme - art. R*300-8 (VT)
 
 	**Anciens textes**:
 
 	  - Code de l'urbanisme - art. R*300-8 (VT)
 
 
-###### Article R*300-10
-
-Dans un délai de trente jours à compter du choix du concessionnaire, le concédant adresse pour publication un avis
-d'attribution, conforme au modèle fixé par les autorités européennes, à l'Office des publications de l'Union européenne et
-aux organes de publication qui ont publié l'avis mentionné à l'article R. * 300-5.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-889 du 22 juillet 2009 - art. 2
-
-	**Cité par**:
-
-	  - Décret n°2016-86 du 1er février 2016 - art. 54
-
-	**Abrogé par**:
-
-	  - Décret n°2016-86 du 1er février 2016 - art. 54
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R*300-5
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R*300-9 (VT)
-
-
-###### Article R*300-11
-
-Les dispositions des articles R. * 300-7 et R. * 300-9 ne sont pas applicables lorsque la participation financière
-prévisionnelle cumulée du concédant et d'autres personnes publiques, prévue aux II et III de l'article L. 300-5, est
-inférieure à 135 000 euros hors taxes et à condition que les terrains susceptibles, le cas échéant, d'être expropriés ou
-acquis par voie de préemption ou les terrains appartenant au concédant destinés à être cédés au concessionnaire représentent
-moins de 10 % des terrains inclus dans le périmètre de l'opération. 
-
-Les avis prévus aux articles R. * 300-5 et R. * 300-6 mentionnent ces conditions et le recours à la procédure simplifiée de
-choix des candidats.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-889 du 22 juillet 2009 - art. 2
-
-	**Cité par**:
-
-	  - Décret n°2016-86 du 1er février 2016 - art. 54
-
-	**Abrogé par**:
-
-	  - Décret n°2016-86 du 1er février 2016 - art. 54
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L300-5
-	  - Code de l'urbanisme - art. R*300-5
-	  - Code de l'urbanisme - art. R*300-7
-	  - Code de l'urbanisme - art. R*300-9
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R*300-10 (VT)
-
-
-###### Article R300-9-1
-
-1° Lorsque le montant total des produits de l'opération d'aménagement qui fait l'objet de la concession est égal ou supérieur
-au seuil mentionné pour les marchés de travaux par le 5° du II de l'article 26 du code des marchés publics, la personne
-publique, dès qu'elle a fait son choix pour une candidature ou une offre, notifie à tous les autres candidats le rejet de
-leur candidature ou de leur offre, en leur indiquant les motifs de ce rejet. 
-
-Cette notification précise le nom de l'attributaire et les motifs qui ont conduit au choix de son offre aux candidats ayant
-soumis une offre et à ceux n'ayant pas encore reçu communication du rejet de leur candidature. 
-
-Un délai d'au moins seize jours est respecté entre la date d'envoi de la notification prévue aux alinéas précédents et la
-date de conclusion de la concession d'aménagement. Ce délai est réduit à au moins onze jours en cas de transmission
-électronique de la notification à l'ensemble des candidats intéressés. 
-
-La notification de l'attribution du contrat comporte l'indication de la durée du délai de suspension que le pouvoir
-adjudicateur s'impose, eu égard notamment au mode de transmission retenu. 
-
-2° Le respect des délais mentionnés au 1° n'est pas exigé lorsque le marché est attribué au seul candidat ayant présenté une
-offre répondant aux exigences indiquées dans l'avis mentionné à l'article R. 300-5 ou dans les documents de la consultation. 
-
-3° Dans le cas où le montant total des produits de l'opération n'atteint pas le seuil défini au 1°, pour rendre applicables
-les dispositions du premier alinéa de l'article L. 551-15 du code de justice administrative, la personne publique publie un
-avis, conforme au modèle fixé par le règlement précité de la Commission européenne, relatif à son intention de conclure la
-concession d'aménagement. Elle doit alors respecter un délai d'au moins onze jours entre la date de publication de cet avis
-et la date de conclusion de la concession d'aménagement.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2011-1000 du 25 août 2011 - art. 50
-
-	**Cité par**:
-
-	  - Décret n°2016-86 du 1er février 2016 - art. 54
-
-	**Abrogé par**:
-
-	  - Décret n°2016-86 du 1er février 2016 - art. 54
-
-	**Cite**:
-
-	  - Code des marchés publics - art. 26
-	  - Code de justice administrative - art. L551-15
-	  - Code de l'urbanisme - art. R*300-5
-
-
-#### Sous-section 2 : Procédure relative aux concessions d'aménagement soumises au droit communautaire des marchés
-
+#### Sous-section 2 : Procédure relative aux concessions d'aménagement ne transférant pas un risque économique
 
 ###### Article R*300-11-1
 
-Les dispositions de la présente sous-section sont applicables aux concessions d'aménagement lorsque le montant total des
-produits de l'opération d'aménagement faisant l'objet du contrat est égal ou supérieur au seuil mentionné pour les marchés de
-travaux au 5° du II de l'article 26 du code des marchés publics, sans présenter les autres caractéristiques mentionnées à
-l'article R. * 300-4.
+Les dispositions de la présente sous-section sont applicables aux concessions d'aménagement qui ne présentent pas les
+caractéristiques mentionnées à l'article R. * 300-4.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-1000 du 25 août 2011 - art. 50
+	  - Décret n°2016-360 du 25 mars 2016 - art. 182
 
 	**Cite**:
 
@@ -48786,29 +48599,42 @@ l'article R. * 300-4.
 
 ###### Article R*300-11-2
 
-I.-L'aménageur est désigné en appliquant les procédures prévues : 
+I.-Lorsque le montant total des produits de l'opération d'aménagement faisant l'objet du contrat est égal ou supérieur au
+seuil européen applicable aux marchés publics de travaux publié au Journal officiel de la République française, la concession
+d'aménagement est passée en application des règles prévues : 
 
-a) Pour l'Etat et ses établissements publics, par les articles 5 à 7 de l'ordonnance n° 2004-559 du 17 juin 2004 relative aux
-contrats de partenariat et les articles 1er à 5 du décret n° 2009-243 du 2 mars 2009 relatif à la procédure de passation et à
-certaines modalités d'exécution des contrats de partenariat passés par l'Etat et ses établissements publics ainsi que par les
-personnes mentionnées aux articles 19 et 25 de l'ordonnance n° 2004-559 du 17 juin 2004 ; 
+1° Pour l'Etat et ses établissements publics, par l'ordonnance n° 2015-899 du 23 juillet 2015 relative aux marchés publics et
+le décret n° 2016-360 du 25 mars 2016 relatif aux marchés publics ; 
 
-b) Pour les collectivités territoriales et leurs établissements publics, par les articles L. 1414-5 à L. 1414-8 et les
-articles D. 1414-1 à D. 1414-5 du code général des collectivités territoriales. 
+2° Pour les collectivités territoriales, leurs établissements publics et leurs groupements, par les articles L. 1414-1 à L.
+1414-4 du code général des collectivités territoriales. 
 
-II.-Pour l'application du I : 
+II.-Toutefois : 
 
-1° Le délai prévu au premier alinéa de l'article 6 de l'ordonnance du 17 juin 2004 et au premier alinéa de l'article L.
-1414-6 du code général des collectivités territoriales peut être réduit de sept jours lorsque l'avis de publicité est envoyé
-par voie électronique ; 
+1° Les dispositions de l'article 32 de l'ordonnance du 23 juillet 2015 mentionnée ci-dessus ne sont pas applicables aux
+contrats passés en application de la présente sous-section ; 
 
-2° La commission mentionnée au second alinéa de l'article L. 1414-6 du code général des collectivités territoriales est
-composée dans les conditions prévues à l'article R. 300-9 du présent code ; 
+2° Les articles 59 à 64 de ladite ordonnance ne sont pas applicables ; 
 
-3° Le programme fonctionnel mentionné à l'article 7 de l'ordonnance du 17 juin 2004 et à l'article L. 1414-7 du code général
-des collectivités territoriales indique au minimum les caractéristiques essentielles de la concession d'aménagement et le
-programme global prévisionnel des équipements et des constructions projetés ainsi que les conditions de mise en œuvre de
-l'opération.
+3° Par dérogation à l'article 33 et au II de l'article 34 du décret n° 2016-360 du 25 mars 2016 mentionné ci-dessus, l'avis
+d'appel à la concurrence fait l'objet d'une publication supplémentaire dans une publication spécialisée dans les domaines de
+l'urbanisme, des travaux publics ou de l'immobilier ; 
+
+4° Le programme fonctionnel mentionné à l'article 75 du décret n° 2016-360 du 25 mars 2016 mentionné ci-dessus indique au
+minimum les caractéristiques essentielles de la concession d'aménagement, le programme global prévisionnel des équipements et
+des constructions projetés ainsi que les conditions de mise en œuvre de l'opération ; 
+
+5° Les critères d'attribution sont définis et appréciés de manière : 
+
+a) A tenir compte du coût global de l'opération au regard de son bilan prévisionnel intégrant la totalité des recettes et des
+dépenses ; 
+
+b) A prendre en considération le respect des exigences de développement durable exprimées par la personne publique, notamment
+en matière de qualité architecturale, de performance environnementale, de mixité sociale et de diversité des fonctions
+urbaines ; 
+
+6° La commission d'appel d'offres mentionnée à l'article L. 1414-2 du code général des collectivités territoriales est
+composée conformément aux dispositions de l'article R. * 300-9 du présent code.
 
 **Liens relatifs à cet article**
 
@@ -48818,200 +48644,36 @@ l'opération.
 	  - Ordonnance n°2004-559 du 17 juin 2004 - art. 5
 	  - Ordonnance n°2004-559 du 17 juin 2004 - art. 6
 	  - Ordonnance n°2004-559 du 17 juin 2004 - art. 7
-	  - Décret n°2009-243 du 2 mars 2009 - art. 1 (V)
-	  - Code général des collectivités territoriales - art. D1414-1
-	  - Code général des collectivités territoriales - art. L1414-5 (V)
-	  - Code général des collectivités territoriales - art. L1414-6 (V)
+	  - Décret n°2009-243 du 2 mars 2009 - art. 1 (VT)
+	  - Code général des collectivités territoriales - art. D1414-1 (VT)
+	  - Code général des collectivités territoriales - art. L1414-5
+	  - Code général des collectivités territoriales - art. L1414-6
 	  - Code général des collectivités territoriales - art. L1414-7
-	  - Code de l'urbanisme - art. R*300-9 (V)
+	  - Code de l'urbanisme - art. R*300-9
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-889 du 22 juillet 2009 - art. 3
+	  - Décret n°2016-360 du 25 mars 2016 - art. 182
 
 
 ###### Article R*300-11-3
 
-La procédure retenue a pour objet de sélectionner l'offre économiquement la plus avantageuse, le cas échéant après un
-dialogue permettant de définir et d'identifier les moyens propres à satisfaire au mieux les besoins de la personne publique
-en ce qui concerne la réalisation de l'opération d'aménagement dont elle définit les caractéristiques. 
-
-Les critères d'attribution sont pondérés. Si la personne publique démontre qu'une telle pondération est objectivement
-impossible, ils sont hiérarchisés. Les critères de choix des offres sont définis et appréciés de manière : 
-
-a) A tenir compte du coût global de l'opération au regard de son bilan prévisionnel, intégrant la totalité des recettes et
-des dépenses ; 
-
-b) A prendre en considération le respect des exigences du développement durable exprimées par la personne publique, notamment
-en matière de qualité architecturale, de performance environnementale, de mixité sociale et de diversité des fonctions
-urbaines.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-889 du 22 juillet 2009 - art. 3
-
-
-###### Article R*300-11-4
-
-Lorsque le marché est infructueux en raison de l'absence de dépôt d'offre, de l'irrégularité des offres déposées ou de leur
-caractère inacceptable, il peut être recouru, pour autant que les conditions initiales du contrat ne soient pas
-substantiellement modifiées, à une procédure négociée avec publication d'un avis de publicité. La personne publique peut
-s'abstenir de publier cet avis si elle inclut dans la procédure négociée le ou les candidats, et eux seuls, qui, lors de la
-procédure antérieure, ont soumis des offres conformes aux exigences formelles de la procédure de passation.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-889 du 22 juillet 2009 - art. 3
-
-	**Abrogé par**:
-
-	  - Décret n°2016-360 du 25 mars 2016 - art. 182
-
-
-###### Article R*300-11-5
-
-Préalablement à la passation du contrat, la personne publique adresse pour publication un avis, conforme au modèle fixé par
-les autorités européennes, à l'Office des publications de l'Union européenne, à un organe de publication habilité à recevoir
-des annonces légales et à un organe de publication spécialisé dans les domaines de l'urbanisme, des travaux publics ou de
-l'immobilier.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-889 du 22 juillet 2009 - art. 3
-
-	**Abrogé par**:
-
-	  - Décret n°2016-360 du 25 mars 2016 - art. 182
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*300-11-6 (VT)
-	  - Code de l'urbanisme - art. R300-11-5-1 (VT)
-
-
-###### Article R*300-11-6
-
-Dans un délai de trente jours à compter de la notification du contrat, la personne publique adresse pour publication un avis
-d'attribution, conforme au modèle fixé par les autorités européennes, à l'Office des publications de l'Union européenne et
-aux organes de publication qui ont publié l'avis mentionné à l'article R. 300-11-5.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-889 du 22 juillet 2009 - art. 3
-
-	**Abrogé par**:
-
-	  - Décret n°2016-360 du 25 mars 2016 - art. 182
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R*300-11-5 (VT)
-
-
-###### Article R300-11-5-1
-
-1° Lorsque le montant total des produits de l'opération d'aménagement qui fait l'objet de la concession est égal ou supérieur
-au seuil mentionné pour les marchés de travaux par le 5° du II de l'article 26 du code des marchés publics, la personne
-publique, dès qu'elle a fait son choix pour une candidature ou une offre, notifie à tous les autres candidats le rejet de
-leur candidature ou de leur offre, en leur indiquant les motifs de ce rejet. 
-
-Cette notification précise le nom de l'attributaire et les motifs qui ont conduit au choix de son offre aux candidats ayant
-soumis une offre et à ceux n'ayant pas encore reçu communication du rejet de leur candidature. 
-
-Un délai d'au moins seize jours est respecté entre la date d'envoi de la notification prévue aux alinéas précédents et la
-date de conclusion du marché. Ce délai est réduit à au moins onze jours en cas de transmission électronique de la
-notification à l'ensemble des candidats intéressés. 
-
-La notification de l'attribution du contrat comporte l'indication de la durée du délai de suspension que le pouvoir
-adjudicateur s'impose, eu égard notamment au mode de transmission retenu. 
-
-2° Le respect des délais mentionnés au 1° n'est pas exigé lorsque le contrat est attribué au seul candidat ayant présenté une
-offre répondant aux exigences indiquées dans l'avis mentionné à l'article R. 300-11-5 ou dans les documents de la
-consultation. 
-
-3° Dans le cas des contrats autres que ceux mentionnés au 1°, pour rendre applicables les dispositions du premier alinéa de
-l'article L. 551-15 du code de justice administrative, la personne publique publie un avis, conforme au modèle fixé par le
-règlement mentionné plus haut de la Commission européenne, relatif à son intention de conclure la concession d'aménagement.
-Elle doit alors respecter un délai d'au moins onze jours entre la date de publication de cet avis et la date de conclusion de
-la concession d'aménagement.
+Lorsque le montant total des produits de l'opération d'aménagement faisant l'objet du contrat est inférieur au seuil européen
+mentionné au I de l'article R. * 300-11-2, la concession d'aménagement fait l'objet, préalablement à son attribution, d'une
+publicité et d'une procédure adaptée dont les modalités sont fixées par le concédant en fonction de la nature et des
+caractéristiques du besoin à satisfaire, du nombre ou de la localisation des opérateurs économiques susceptibles d'y répondre
+ainsi que des circonstances du lancement de la procédure.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-1000 du 25 août 2011 - art. 50
-
-	**Abrogé par**:
-
 	  - Décret n°2016-360 du 25 mars 2016 - art. 182
-
-	**Cite**:
-
-	  - Code des marchés publics - art. 26
-	  - Code de justice administrative - art. L551-15
-	  - Code de l'urbanisme - art. R*300-11-5
-
-
-#### Sous-section 3 : Procédure relative aux autres concessions d'aménagement 
-
-
-###### Article R*300-11-7
-
-Les concessions d'aménagement dans lesquelles le montant total des produits de l'opération d'aménagement envisagée est
-inférieur au seuil mentionné aux articles R. * 300-4 et R. * 300-11-1 font l'objet, préalablement à leur attribution, d'une
-publicité et d'une procédure adaptée, dont les modalités sont fixées par le concédant en fonction de la nature et des
-caractéristiques de l'opération envisagée.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-889 du 22 juillet 2009 - art. 4
-
-	**Abrogé par**:
-
-	  - Décret n°2016-86 du 1er février 2016 - art. 51
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R*300-11-1 (V)
-	  - Code de l'urbanisme - art. R*300-4 (V)
-
-
-###### Article R300-11-8
-
-Lorsque le montant total des produits de l'opération qui fait l'objet de la concession est inférieur au seuil mentionné aux
-articles R. 300-4 et R. 300-11-1, pour rendre applicables les dispositions du premier alinéa de l'article R. 551-7 du code de
-justice administrative, la personne publique publie au Journal officiel de l'Union européenne un avis d'attribution, conforme
-au modèle fixé par le règlement précité de la Commission européenne, informant de la conclusion de la concession
-d'aménagement.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-1456 du 27 novembre 2009 - art. 27
-
-	**Abrogé par**:
-
-	  - Décret n°2016-86 du 1er février 2016 - art. 51
-
-	**Cite**:
-
-	  - Code de justice administrative - art. R551-7
-	  - Code de l'urbanisme - art. R*300-11-1
-	  - Code de l'urbanisme - art. R*300-4
 
 
 #### Sous-section 4 : Concessions d'aménagement accordées par l'Etat
+
+#### Sous-section 3 : Concessions d'aménagement accordées par l'Etat
 
 ###### Article R*300-11-9
 
@@ -49030,16 +48692,10 @@ territoriales intéressées.
 
 ###### Article R*300-12
 
-Lorsque le concessionnaire n'est pas un pouvoir adjudicateur au sens de l'article 3 de l'ordonnance n° 2005-649 du 6 juin
-2005 relative aux marchés passés par certaines personnes publiques ou privées non soumises au code des marchés publics, les
-contrats d'études, de maîtrise d'oeuvre et de travaux qu'il passe pour l'exécution de la concession sont conclus dans les
-conditions définies par le titre III du décret n° 2005-1742 du 30 décembre 2005 pris pour l'application de cette ordonnance. 
-
-Toutefois, lorsque la participation financière prévisionnelle cumulée du concédant et d'autres personnes publiques, prévue au
-II et au III de l'article L. 300-5, est inférieure ou égale à 135 000 euros hors taxes et lorsque les terrains susceptibles,
-le cas échéant, d'être expropriés ou acquis par voie de préemption ou les terrains appartenant au concédant destinés à être
-cédés au concessionnaire représentent moins de 10 % des terrains inclus dans le périmètre de l'opération, les contrats
-d'études, de maîtrise d'oeuvre ou de travaux ne sont pas soumis à ces règles.
+Quelle que soit la valeur estimée du besoin, les contrats d'études, de maîtrise d'œuvre ou de travaux que le concessionnaire
+mentionné à l'article L. 300-5-1 passe pour l'exécution de la concession sont conclus selon une procédure dont il détermine
+librement les modalités en fonction de la nature et des caractéristiques du besoin à satisfaire, du nombre ou de la
+localisation des opérateurs économiques susceptibles d'y répondre ainsi que des circonstances de l'achat.
 
 **Liens relatifs à cet article**
 
@@ -49047,44 +48703,15 @@ d'études, de maîtrise d'oeuvre ou de travaux ne sont pas soumis à ces règles
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 3 (V)
-	  - Décret n°2005-1742 du 30 décembre 2005 -  TITRE III : PASSATION DES MARCHÉS (V)
-	  - Code de l'urbanisme - art. L300-5 (V)
-
-	**Créé par**:
-
-	  - Décret n°2006-959 du 31 juillet 2006 - art. 2 () JORF 2 août 2006
+	  - Décret n°2016-86 du 1er février 2016 - art. 51
 
 
 ###### Article R*300-13
 
-Lorsqu'un contrat d'études, de maîtrise d'oeuvre ou de travaux n'est pas soumis aux dispositions du titre III du décret n°
-2005-1742 du 30 décembre 2005 pris pour l'application de l'ordonnance n° 2005-649 du 6 juin 2005, il est passé selon des
-modalités de publicité et de mise en concurrence déterminées librement par le concessionnaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Cite**:
-
-	  - Ordonnance n°2005-649 du 6 juin 2005 (V)
-	  - Décret n°2005-1742 du 30 décembre 2005 -  TITRE III : PASSATION DES MARCHÉS (V)
-
-	**Créé par**:
-
-	  - Décret n°2006-959 du 31 juillet 2006 - art. 2 () JORF 2 août 2006
-
-
-###### Article R*300-14
-
 Le concessionnaire informe le concédant, dans un délai de trente jours à compter de la conclusion des contrats conclus dans
-les conditions définies par le titre III du décret n° 2005-1742 du 30 décembre 2005 pris pour l'application de l'ordonnance
-n° 2005-649 du 6 juin 2005, du nom du titulaire ainsi que du montant du contrat.
+les conditions de l'article R.* 300-12, du nom du titulaire ainsi que du montant du contrat.
 
 **Liens relatifs à cet article**
 
@@ -49097,17 +48724,9 @@ n° 2005-649 du 6 juin 2005, du nom du titulaire ainsi que du montant du contrat
 	  - Ordonnance n°2005-649 du 6 juin 2005
 	  - Décret n°2005-1742 du 30 décembre 2005
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-959 du 31 juillet 2006 - art. 2 () JORF 2 août 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2016-86 du 1er février 2016 - art. 54
-
-	**Cité par**:
-
-	  - Décret n°2016-86 du 1er février 2016 - art. 54
+	  - Décret n°2016-86 du 1er février 2016 - art. 51
 
 
 ###  Section 4 : Procédure intégrée pour le logement
@@ -69605,6 +69224,8 @@ euros.
 
 ### Titre IV : Départements d'outre-mer
 
+### Titre IV : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique, La Réunion et Mayotte
+
 ###### Article A340-1
 
 La subvention de l'Etat prévue à la dernière phrase du dernier alinéa de l'article R. 340-5 est destinée à compenser, pour
@@ -69629,32 +69250,32 @@ prévisionnel de l'opération d'aménagement et le prix de cession des terrains 
 
 ###### Article A340-2
 
-Pour chaque opération, cette subvention est fixée par arrêté du représentant de l'Etat dans le département. Il évalue à cet
-effet la compensation financière nécessaire en fonction du différentiel entre le montant de la charge foncière d'équilibre de
-l'opération et le montant de la charge foncière pratiquée pour les logements sociaux. Ce différentiel détermine le montant de
-la subvention qui ne pourra dépasser 15 000 € par logement aidé. Ce plafond pourra être porté à 20 000 € si l'opération se
-situe en quartiers existants et a pour objet de densifier le tissu urbain afin de réaliser des quartiers à mixité sociale et
-urbaine.
+Pour chaque opération, cette subvention est fixée par arrêté du représentant de l'Etat. Il évalue à cet effet la compensation
+financière nécessaire en fonction du différentiel entre le montant de la charge foncière d'équilibre de l'opération et le
+montant de la charge foncière pratiquée pour les logements sociaux. Ce différentiel détermine le montant de la subvention qui
+ne pourra dépasser 15 000 € par logement aidé en Guadeloupe, en Guyane, en Martinique et à La Réunion et 20 000 € par
+logement aidé à Mayotte. Ce plafond pourra être porté à 20 000 € en Guadeloupe, en Guyane, en Martinique et à La Réunion et
+25 000 € à Mayotte si l'opération se situe en quartiers existants et a pour objet de densifier le tissu urbain afin de
+réaliser des quartiers à mixité sociale et urbaine.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 16 septembre 2009 - art. 1
+	  - Arrêté du 22 mars 2016 - art. 1
 
 
 ###### Article A340-3
 
 La subvention de l'Etat prévue à l'article A. 340-1 du présent arrêté, ainsi que celle établie en vertu du d de l'article R.
 340-5 du présent code ne seront mobilisées que pour les opérations comportant au moins 20 % de logements aidés, à moins qu'un
-arrêté du représentant de l'Etat dans le département ne fixe, en fonction des circonstances locales, une proportion
-supérieure à ce seuil.
+arrêté du représentant de l'Etat ne fixe, en fonction des circonstances locales, une proportion supérieure à ce seuil.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 16 septembre 2009 - art. 1
+	  - Arrêté du 22 mars 2016 - art. 1
 
 	**Cite**:
 
@@ -69664,47 +69285,14 @@ supérieure à ce seuil.
 
 ###### Article A340-4
 
-Le préfet peut par arrêté préciser les modalités d'application du présent arrêté dans le département au vu des circonstances
-locales et notamment les logements aidés pris en compte.
+Le préfet peut par arrêté préciser les modalités d'application du présent arrêté au vu des circonstances locales et notamment
+les logements aidés pris en compte.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 16 septembre 2009 - art. 1
-
-
-### Titre V : Collectivités d'outre-mer
-
-###### Article A350-1
-
-Les articles A. 340-1 à A. 340-4 sont applicables à Mayotte et à Saint-Martin, sous réserve des adaptations prévues ci-
-après : 
-
-I. ― Les mots : " le représentant de l'Etat dans le département ” ou " le préfet ” sont remplacés suivant les cas par les
-mots : " le représentant de l'Etat à Mayotte ” ou " le représentant de l'Etat à Saint-Martin ”. 
-
-II. ― A Mayotte, les mots : " logements aidés ” sont remplacés par les mots : " logements prévus à l'article 3 de
-l'ordonnance n° 98-520 du 24 juin 1998 relative à l'action foncière, aux offices d'intervention économique dans le secteur de
-l'agriculture et de la pêche et à l'aide au logement dans la collectivité territoriale de Mayotte, ainsi que les logements
-faisant l'objet d'un prêt en faveur du logement locatif conformément à l'article 55 de la loi modifiée n° 96-609 du 5 juillet
-1996 ”.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°96-609 du 5 juillet 1996 - art. 55
-	  - Ordonnance n°98-520 du 24 juin 1998 - art. 3
-	  - Code de l'urbanisme - art. A340-1
-
-	**Créé par**:
-
-	  - Arrêté du 16 septembre 2009 - art. 1
-
-	**Abrogé par**:
-
-	  - Arrêté du 22 mars 2016 - art. 2
+	  - Arrêté du 22 mars 2016 - art. 1
 
 
 ## Livre  IV : Régime applicable aux constructions, aménagements et démolitions
