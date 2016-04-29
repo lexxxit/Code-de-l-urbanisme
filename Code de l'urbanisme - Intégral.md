@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2016-04-01
+Version Consolidée au 2016-04-30
 
 # Partie législative
 
@@ -34442,27 +34442,32 @@ Il peut se référer aux renseignements relatifs à l'environnement figurant dan
 L'autorité administrative de l'Etat compétente en matière d'environnement définie à l'article R. 104-21 est consultée, en
 tant que de besoin, sur le degré de précision des informations que doit contenir le rapport de présentation.
 
+Lorsque l'autorité administrative de l'Etat compétente en matière d'environnement est la mission régionale d'autorité
+environnementale du Conseil général de l'environnement et du développement durable : 
+
+- la demande est adressée au service régional de l'environnement (appui à la mission régionale d'autorité environnementale)
+qui prépare et met en forme toutes les informations nécessaires pour que la mission régionale puisse rendre son avis ; 
+
+- l'avis est transmis pour information au préfet de région lorsque le périmètre du document d'urbanisme est régional ou aux
+préfets des départements concernés dans les autres cas.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2015-1783 du 28 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
+	  - Décret n°2016-519 du 28 avril 2016 - art. 2
 
 	**Cité par**:
 
 	  - Code de l'environnement - art. R122-25 (V)
 
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R*121-18, alinéas 11 et 13 (Ab)
-
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R104-21 (V)
+	  - Code de l'urbanisme - art. R104-21
 
 
 ###### Article R104-20
@@ -34491,20 +34496,28 @@ changements apportés.
 
 ###### Article R104-21
 
-L'autorité administrative de l'Etat compétente en matière d'environnement est :
+L'autorité administrative de l'Etat compétente en matière d'environnement est : 
 
 1° La formation d'autorité environnementale du Conseil général de l'environnement et du développement durable pour les
 directives territoriales d'aménagement et de développement durables, le schéma directeur de la région d'Ile-de-France, les
 schémas d'aménagement régionaux des régions d'outre-mer, les prescriptions particulières de massif et les schémas
-d'aménagement de plage ;
+d'aménagement des plages ; 
 
-2° Le préfet de Corse pour le plan d'aménagement et de développement durable de Corse ;
+2° La mission régionale d'autorité environnementale du Conseil général de l'environnement et du développement durable pour le
+plan d'aménagement et de développement durable de la Corse, les schémas de cohérence territoriale, les plans locaux
+d'urbanisme et les cartes communales. 
 
-3° Le préfet de département pour les schémas de cohérence territoriale et les plans locaux d'urbanisme ;
-
-4° Le préfet de région pour les cartes communales.
+La formation d'autorité environnementale peut, de sa propre initiative et par décision motivée au regard de la complexité et
+des enjeux environnementaux du dossier, exercer les compétences dévolues à la mission régionale d'autorité environnementale.
+Dans ce cas, la mission régionale d'autorité environnementale transmet sans délai le dossier à la formation d'autorité
+environnementale. Les délais prévus aux articles R. 104-25 et R. 104-31 courent à compter de la date de saisine de la mission
+régionale d'autorité environnementale.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art.
 
 	**Cité par**:
 
@@ -34515,34 +34528,25 @@ d'aménagement de plage ;
 	  - Code de l'urbanisme - art. R104-22 (V)
 	  - Code de l'urbanisme - art. R104-28 (M)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
+	  - Décret n°2016-519 du 28 avril 2016 - art. 2
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R*121-15, alinéas 1 à 5 (Ab)
+	  - Code de l'urbanisme - art. R104-25 (V)
+	  - Code de l'urbanisme - art. R104-31 (V)
 
 
 ###### Article R104-22
 
 L'autorité administrative de l'Etat compétente en matière d'environnement prévue à l'article R. 104-21 est également
-compétente pour les procédures d'évolution affectant les documents mentionnés au même article. 
+compétente pour les procédures d'évolution affectant les documents mentionnés au même article.
 
 Toutefois, lorsqu'une déclaration de projet adoptée par l'Etat procède, dans le cadre de la mise en compatibilité d'un plan
 local d'urbanisme ou d'un schéma de cohérence territoriale, aux adaptations nécessaires d'un règlement ou d'une servitude
 mentionnés au deuxième alinéa de l'article L. 300-6, l'autorité administrative de l'Etat compétente en matière
-d'environnement est celle qui est consultée sur l'évaluation environnementale de ce règlement ou de cette servitude. 
-
-Dans les cas où, en application de l'alinéa précédent, l'autorité administrative de l'Etat compétente en matière
-d'environnement est également l'autorité compétente pour l'adoption de la déclaration de projet concernée, l'autorité
-administrative de l'Etat compétente en matière d'environnement est le préfet de région si le préfet de département est
-l'auteur de la déclaration de projet ou la formation d'autorité environnementale du Conseil général de l'environnement et du
-développement durable si le préfet de région est l'auteur de la déclaration de projet.
+d'environnement est celle qui est consultée sur l'évaluation environnementale de ce règlement ou de cette servitude.
 
 **Liens relatifs à cet article**
 
@@ -34550,17 +34554,13 @@ développement durable si le préfet de région est l'auteur de la déclaration 
 
 	  - Décret n°2015-1783 du 28 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R*121-15, alinéas 6 et 7 (Ab)
+	  - Décret n°2016-519 du 28 avril 2016 - art. 2
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R104-21 (V)
+	  - Code de l'urbanisme - art. R104-21
 
 
 ###### Article R104-23
@@ -34569,36 +34569,43 @@ L'autorité administrative de l'Etat compétente en matière d'environnement est
 Elle est consultée sur l'évaluation environnementale et sur la prise en compte de l'environnement par le projet de document
 d'urbanisme.
 
+Lorsque la mission régionale d'autorité environnementale du Conseil général de l'environnement et du développement durable
+est compétente, la personne publique responsable de l'élaboration ou de l'évolution du document d'urbanisme saisit le service
+régional chargé de l'environnement (appui à la mission régionale d'autorité environnementale) qui prépare et met en forme
+toutes les informations nécessaires pour que la mission régionale puisse rendre son avis. Le service régional chargé de
+l'environnement (appui à la mission régionale d'autorité environnementale) informe sans délai la mission régionale de
+l'autorité environnementale des demandes reçues.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2015-1783 du 28 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R*121-15, alinéa 8, phrases 1 et 3 (Ab)
+	  - Décret n°2016-519 du 28 avril 2016 - art. 2
 
 
 ###### Article R104-24
 
-Dès réception des documents qui lui sont soumis, l'autorité administrative de l'Etat compétente en matière d'environnement
-consulte :
+Dès réception des documents qui lui sont soumis, la formation d'autorité environnementale du Conseil général de
+l'environnement et du développement durable ou, lorsque la mission régionale d'autorité environnementale du Conseil général
+de l'environnement et du développement durable est compétente, le service régional chargé de l'environnement (appui à la
+mission régionale d'autorité environnementale) consulte :
 
 1° Le ministre chargé de la santé pour les directives territoriales d'aménagement et de développement durables, le schéma
 directeur de la région d'Ile-de-France et les schémas d'aménagement régionaux des régions d'outre-mer ;
 
 2° Le directeur général de l'agence régionale de santé pour les autres documents. Cette consultation est réputée réalisée en
 l'absence de réponse du directeur général de cette agence dans le délai d'un mois à compter de la réception par l'agence de
-la demande de l'autorité administrative de l'Etat compétente en matière d'environnement. En cas d'urgence, cette autorité
-peut réduire ce délai sans que celui-ci puisse être inférieur à dix jours ouvrés.
+la demande de la formation d'autorité environnementale du Conseil général de l'environnement et du développement durable ou,
+lorsque la mission régionale d'autorité environnementale du Conseil général de l'environnement et du développement durable
+est compétente, du service régional chargé de l'environnement (appui à la mission régionale d'autorité environnementale). En
+cas d'urgence, cette autorité peut réduire ce délai sans que celui-ci puisse être inférieur à dix jours ouvrés.
 
-Pour l'évaluation environnementale du plan d'aménagement et de développement durable de Corse, le préfet de Corse consulte le
-Conseil des sites de Corse avant de rendre son avis.
+Pour l'évaluation environnementale du plan d'aménagement et de développement durable de Corse, le conseil des sites de Corse
+est également consulté.
 
 **Liens relatifs à cet article**
 
@@ -34606,17 +34613,13 @@ Conseil des sites de Corse avant de rendre son avis.
 
 	  - Décret n°2015-1783 du 28 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R*121-15, alinéas 9 et 10 (Ab)
+	  - Décret n°2016-519 du 28 avril 2016 - art. 2
 
 	**Cité par**:
 
-	  - Code de l'urbanisme - art. R104-31 (M)
+	  - Code de l'urbanisme - art. R104-31 (V)
 
 
 ###### Article R104-25
@@ -34624,8 +34627,10 @@ Conseil des sites de Corse avant de rendre son avis.
 L'autorité administrative de l'Etat compétente en matière d'environnement formule un avis sur l'évaluation environnementale
 et le projet de document dans les trois mois suivant la date de sa saisine.
 
-L'avis est, dès sa signature, mis en ligne sur son site internet et transmis à la personne publique responsable. Il est, s'il
-y a lieu, joint au dossier d'enquête publique ou mis à la disposition du public.
+L'avis est, dès son adoption, mis en ligne et transmis à la personne publique responsable. Lorsqu'il est rendu par la mission
+régionale d'autorité environnementale du Conseil général de l'environnement et du développement durable, il est transmis pour
+information au préfet de région lorsque le périmètre du document d'urbanisme est régional ou aux préfets de départements
+concernés dans les autres cas. Il est, s'il y a lieu, joint au dossier d'enquête publique ou mis à la disposition du public.
 
 A défaut de s'être prononcée dans le délai indiqué au premier alinéa, l'autorité administrative de l'Etat compétente en
 matière d'environnement est réputée n'avoir aucune observation à formuler. Une information sur cette absence d'avis figure
@@ -34637,13 +34642,9 @@ sur son site internet.
 
 	  - Décret n°2015-1783 du 28 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R*121-15, alinéas 11 et 12 (Ab)
+	  - Décret n°2016-519 du 28 avril 2016 - art. 2
 
 	**Cité par**:
 
@@ -34718,12 +34719,17 @@ Il en informe le ministre des affaires étrangères.
 
 L'autorité administrative de l'Etat compétente en matière d'environnement mentionnée à l'article R. 104-21 décide de
 soumettre ou non à une évaluation environnementale l'élaboration ou la procédure d'évolution affectant un plan local
-d'urbanisme ou une carte communale relevant de la procédure d'examen au cas par cas, au regard : 
+d'urbanisme ou une carte communale relevant de la procédure d'examen au cas par cas, au regard :
 
-1° Des informations fournies par la personne publique responsable mentionnées à l'article R. 104-30 ; 
+1° Des informations fournies par la personne publique responsable mentionnées à l'article R. 104-30 ;
 
 2° Des critères de l'annexe II de la directive 2001/42/CE du Parlement européen et du Conseil du 27 juin 2001 relative à
 l'évaluation des incidences de certains plans et programmes sur l'environnement.
+
+Lorsque l'autorité administrative de l'Etat compétente en matière d'environnement est la mission régionale d'autorité
+environnementale du Conseil général de l'environnement et du développement durable, le service régional chargé de
+l'environnement (appui à la mission régionale d'autorité environnementale) instruit le dossier et transmet son avis à la
+mission régionale qui prend alors sa décision.
 
 **Liens relatifs à cet article**
 
@@ -34731,24 +34737,22 @@ l'évaluation des incidences de certains plans et programmes sur l'environnement
 
 	  - Décret n°2015-1783 du 28 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R*121-14-1, alinéa 1 (Ab)
-	  - Code de l'urbanisme - art. R*121-15, alinéa 8, phrase 2 (Ab)
+	  - Décret n°2016-519 du 28 avril 2016 - art. 2
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R104-21 (V)
-	  - Code de l'urbanisme - art. R104-30 (V)
+	  - Code de l'urbanisme - art. R104-21 (M)
+	  - Code de l'urbanisme - art. R104-30
 
 
 ###### Article R104-29
 
-L'autorité administrative de l'Etat compétente en matière d'environnement est saisie :
+La formation d'autorité environnementale du Conseil général de l'environnement et du développement durable ou, lorsque la
+mission régionale d'autorité environnementale du Conseil général de l'environnement et du développement durable est
+compétente, le service régional chargé de l'environnement (appui à la mission régionale d'autorité environnementale), est
+saisi :
 
 1° Après le débat relatif aux orientations du projet d'aménagement et de développement durables pour l'élaboration ou pour la
 révision d'un plan local d'urbanisme portant atteinte aux orientations du projet d'aménagement et de développement durables ;
@@ -34763,19 +34767,17 @@ révision d'un plan local d'urbanisme portant atteinte aux orientations du proje
 
 	  - Décret n°2015-1783 du 28 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R*121-14-1, alinéas 2 à 5 (Ab)
+	  - Décret n°2016-519 du 28 avril 2016 - art. 2
 
 
 ###### Article R104-30
 
-La personne publique responsable transmet à l'autorité administrative de l'Etat compétente en matière d'environnement les
-informations suivantes :
+La personne publique responsable transmet à la formation d'autorité environnementale du Conseil général de l'environnement et
+du développement durable ou, lorsque la mission régionale d'autorité environnementale du Conseil général de l'environnement
+et du développement durable est compétente, au service régional chargé de l'environnement (appui à la mission régionale
+d'autorité environnementale), les informations suivantes :
 
 1° Une description des caractéristiques principales du document ;
 
@@ -34790,13 +34792,9 @@ touchée par la mise en œuvre du document ;
 
 	  - Décret n°2015-1783 du 28 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R*121-14-1, alinéas 6 à 9 (Ab)
+	  - Décret n°2016-519 du 28 avril 2016 - art. 2
 
 	**Cité par**:
 
@@ -34806,14 +34804,24 @@ touchée par la mise en œuvre du document ;
 
 ###### Article R104-31
 
-Dès réception de ces informations, l'autorité administrative de l'Etat compétente en matière d'environnement en accuse
-réception, en indiquant la date à laquelle est susceptible de naître la décision implicite mentionnée à l'article R. 104-32
-et consulte sans délai les autorités mentionnées à l'article R. 104-24. 
+Dès réception de ces informations, la formation d'autorité environnementale du Conseil général de l'environnement et du
+développement durable ou, lorsque la mission régionale d'autorité environnementale du Conseil général de l'environnement et
+du développement durable est compétente, le service régional chargé de l'environnement (appui à la mission régionale
+d'autorité environnementale), en accuse réception, en indiquant la date à laquelle est susceptible de naître la décision
+implicite mentionnée à l'article R. 104-32 et consulte sans délai les autorités mentionnées à l'article R. 104-24. Le service
+régional chargé de l'environnement (appui à la mission régionale d'autorité environnementale) informe sans délai la mission
+régionale d'autorité environnementale du Conseil général de l'environnement et du développement durable des demandes qui lui
+sont présentées. 
 
-Cette consultation est réputée réalisée en l'absence de réponse de l'autorité consultée dans un délai d'un mois à compter de
-sa saisine par l'autorité administrative de l'Etat compétente en matière d'environnement. En cas d'urgence, l'autorité
-administrative de l'Etat compétente en matière d'environnement peut réduire ce délai sans que celui-ci puisse être inférieur
-à dix jours ouvrés.
+La consultation des autorités mentionnées à l'article R. 104-24 est réputée réalisée en l'absence de réponse de l'autorité
+consultée dans un délai d'un mois à compter de sa saisine par la formation d'autorité environnementale du Conseil général de
+l'environnement et du développement durable ou, lorsque la mission régionale d'autorité environnementale du Conseil général
+de l'environnement et du développement durable est compétente, le service régional chargé de l'environnement (appui à la
+mission régionale d'autorité environnementale). En cas d'urgence, le délai peut être réduit par la formation d'autorité
+environnementale du Conseil général de l'environnement et du développement durable ou, lorsque la mission régionale
+d'autorité environnementale du Conseil général de l'environnement et du développement durable est compétente, par le service
+régional chargé de l'environnement (appui à la mission régionale d'autorité environnementale), sans pouvoir être inférieur à
+dix jours ouvrés.
 
 **Liens relatifs à cet article**
 
@@ -34821,13 +34829,9 @@ administrative de l'Etat compétente en matière d'environnement peut réduire c
 
 	  - Décret n°2015-1783 du 28 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R*121-14-1, alinéa 10 (Ab)
+	  - Décret n°2016-519 du 28 avril 2016 - art. 2
 
 	**Cité par**:
 
@@ -34836,7 +34840,7 @@ administrative de l'Etat compétente en matière d'environnement peut réduire c
 	**Cite**:
 
 	  - Code de l'urbanisme - art. R104-24 (V)
-	  - Code de l'urbanisme - art. R104-32 (V)
+	  - Code de l'urbanisme - art. R104-32
 
 
 ###### Article R104-32
@@ -34875,8 +34879,13 @@ L'absence de décision au terme de ce délai vaut obligation de réaliser une é
 
 ###### Article R104-33
 
-La décision de l'autorité administrative de l'Etat compétente en matière d'environnement est publiée sur son site internet.
-Elle est jointe, le cas échéant, au dossier d'enquête publique.
+La décision de l'autorité administrative de l'Etat compétente en matière d'environnement est mise en ligne. Elle est jointe,
+le cas échéant, au dossier d'enquête publique.
+
+Lorsque la mission régionale d'autorité environnementale du Conseil général de l'environnement et du développement durable
+est compétente, le service régional chargé de l'environnement (appui à la mission régionale d'autorité environnementale)
+effectue pour son compte la mise en ligne sur internet et transmet pour information la décision au préfet de région lorsque
+le périmètre du document d'urbanisme est régional ou aux préfets des départements concernés dans les autres cas.
 
 **Liens relatifs à cet article**
 
@@ -34884,13 +34893,9 @@ Elle est jointe, le cas échéant, au dossier d'enquête publique.
 
 	  - Décret n°2015-1783 du 28 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R*121-14-1, alinéa 12 (Ab)
+	  - Décret n°2016-519 du 28 avril 2016 - art. 2
 
 
 ### Titre Ier : Règles applicables sur l'ensemble du territoire 
@@ -48670,8 +48675,6 @@ ainsi que des circonstances du lancement de la procédure.
 
 	  - Décret n°2016-360 du 25 mars 2016 - art. 182
 
-
-#### Sous-section 4 : Concessions d'aménagement accordées par l'Etat
 
 #### Sous-section 3 : Concessions d'aménagement accordées par l'Etat
 
@@ -69221,8 +69224,6 @@ euros.
 	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
 	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
-
-### Titre IV : Départements d'outre-mer
 
 ### Titre IV : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique, La Réunion et Mayotte
 
