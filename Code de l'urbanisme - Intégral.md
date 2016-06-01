@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2016-04-30
+Version Consolidée au 2016-06-02
 
 # Partie législative
 
@@ -48739,8 +48739,8 @@ les conditions de l'article R.* 300-12, du nom du titulaire ainsi que du montant
 ###### Article R300-15
 
 Sous réserve des dispositions particulières prévues aux sous-sections 2 à 5 de la présente section, la procédure de mise en
-compatibilité du ou des documents mentionnés au I de l'article L. 300-6-1 mise en œuvre dans le cadre de la procédure
-intégrée pour le logement est menée :
+compatibilité du ou des documents mentionnés au I et au I bis  de l'article L. 300-6-1 mise en œuvre dans le cadre de la
+procédure intégrée pour le logement ou de la procédure intégrée pour l'immobilier d'entreprise  est menée :
 
 - par le préfet lorsqu'elle est engagée par l'Etat ;
 
@@ -48756,7 +48756,7 @@ collectivités territoriales ;
 
 	**Modifié par**:
 
-	  - Décret n°2015-218 du 25 février 2015 - art. 1
+	  - Décret n°2016-718 du 31 mai 2016 - art. 1
 
 	**Cite**:
 
@@ -48764,7 +48764,7 @@ collectivités territoriales ;
 
 	**Cité par**:
 
-	  - Code de l'urbanisme - art. R300-16 (M)
+	  - Code de l'urbanisme - art. R300-16 (V)
 	  - Code de l'urbanisme - art. R300-17 (V)
 	  - Code de l'urbanisme - art. R300-20 (VD)
 	  - Code de l'urbanisme - art. R300-22 (V)
@@ -48782,10 +48782,10 @@ collectivités territoriales ;
 ###### Article R300-16
 
 Pour l'application du VI de l'article L. 300-6-1, l'autorité mentionnée à l'article R. 300-15 transmet à l'autorité
-compétente mentionnée à l'article L. 422-1, dès la décision d'engagement de la procédure intégrée pour le logement, les
-informations et les pièces mentionnées à l'article R. 431-4 pour les projets soumis à permis de construire ou aux articles R.
-441-1 à R. 441-8-1 et R. 442-3 à R. 442-8 pour les projets soumis à permis d'aménager, dans les conditions prévues à
-l'article R. * 423-2. 
+compétente mentionnée à l'article L. 422-1, dès la décision d'engagement de la procédure intégrée pour le logement ou de la
+procédure intégrée pour l'immobilier d'entreprise, les informations et les pièces mentionnées à l'article R. 431-4 pour les
+projets soumis à permis de construire ou aux articles R. 441-1 à R. 441-8-1 et R. 442-3 à R. 442-8 pour les projets soumis à
+permis d'aménager, dans les conditions prévues à l'article R. * 423-2. 
 
 Dans le cas où l'autorité compétente mentionnée à l'article L. 422-1 n'est pas le maire, les informations et pièces
 mentionnées à l'alinéa précédent sont également transmises au maire en vue de l'enregistrement de la demande de permis, de
@@ -48802,19 +48802,19 @@ dans les conditions prévues par le présent code.
 
 	**Modifié par**:
 
-	  - Décret n°2015-218 du 25 février 2015 - art. 1
+	  - Décret n°2016-718 du 31 mai 2016 - art. 1
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. *R442-3 (V)
-	  - Code de l'urbanisme - art. L300-6-1 (V)
-	  - Code de l'urbanisme - art. L422-1 (V)
-	  - Code de l'urbanisme - art. R*423-2 (V)
-	  - Code de l'urbanisme - art. R*423-3 (V)
-	  - Code de l'urbanisme - art. R*423-50 (V)
-	  - Code de l'urbanisme - art. R*423-7 (V)
-	  - Code de l'urbanisme - art. R*441-1 (V)
+	  - Code de l'urbanisme - art. L300-6-1
+	  - Code de l'urbanisme - art. L422-1
+	  - Code de l'urbanisme - art. R*423-2
+	  - Code de l'urbanisme - art. R*423-3
+	  - Code de l'urbanisme - art. R*423-50
+	  - Code de l'urbanisme - art. R*423-7
+	  - Code de l'urbanisme - art. R*441-1
 	  - Code de l'urbanisme - art. R300-15 (V)
+	  - Code de l'urbanisme - art. R442-3
 
 	**Cité par**:
 
@@ -48827,25 +48827,25 @@ dans les conditions prévues par le présent code.
 
 ###### Article R300-17
 
-I.-La procédure intégrée pour le logement donne lieu à la consultation de l'autorité administrative de l'Etat compétente en
-matière d'environnement définie à l'article R. 122-6 du code de l'environnement, qui se prononce sur l'étude d'impact du
-projet, sur l'analyse des incidences environnementales des dispositions de mise en compatibilité du ou des documents
-mentionnés au I de l'article L. 300-6-1 et, le cas échéant, sur l'analyse des incidences environnementales des dispositions
-d'adaptation mentionnées au IV du même article. 
+I.-La procédure intégrée pour le logement et la procédure intégrée pour l'immobilier d'entreprise donnent lieu  à la
+consultation de l'autorité administrative de l'Etat compétente en matière d'environnement définie à l'article R. 122-6 du
+code de l'environnement, qui se prononce sur l'étude d'impact du projet, sur l'analyse des incidences environnementales des
+dispositions de mise en compatibilité du ou des documents mentionnés au I et au I bis  de l'article L. 300-6-1 et, le cas
+échéant, sur l'analyse des incidences environnementales des dispositions d'adaptation mentionnées au IV du même article. 
 
 II.-L'autorité mentionnée à l'article R. 300-15 transmet pour avis à l'autorité administrative de l'Etat compétente en
 matière d'environnement un dossier comprenant :
 
 - le dossier de demande d'autorisation ainsi que l'étude d'impact du projet ;
 
-- le dossier de mise en compatibilité des documents mentionnés au I de l'article L. 300-6-1 et, le cas échéant, le dossier
-d'adaptation des documents mentionnés au IV du même article ;
+- le dossier de mise en compatibilité des documents mentionnés au I et au I bis  de l'article L. 300-6-1 et, le cas échéant,
+le dossier d'adaptation des documents mentionnés au IV du même article ;
 
 - si elle n'est pas incluse dans l'étude d'impact, l'analyse des incidences environnementales des dispositions de mise en
-compatibilité des documents mentionnés au I de l'article L. 300-6-1 et, s'il y a lieu, des dispositions d'adaptation des
-documents mentionnés au IV du même article. Cette analyse comprend les éléments mentionnés, selon le cas, aux articles R.
-122-2, R. 123-2-1 ou R. 141-1 du présent code ou aux articles R. 4433-1 ou R. 4424-6-1 du code général des collectivités
-territoriales et, s'il y a lieu, les éléments mentionnés à l'article R. 122-20 du code de l'environnement. 
+compatibilité des documents mentionnés au I et au I bis  de l'article L. 300-6-1 et, s'il y a lieu, des dispositions
+d'adaptation des documents mentionnés au IV du même article. Cette analyse comprend les éléments mentionnés, selon le cas,
+aux articles R. 122-2, R. 123-2-1 ou R. 141-1 du présent code ou aux articles R. 4433-1 ou R. 4424-6-1 du code général des
+collectivités territoriales et, s'il y a lieu, les éléments mentionnés à l'article R. 122-20 du code de l'environnement. 
 
 III.-L'autorité administrative de l'Etat compétente en matière d'environnement émet un avis sur le dossier qui lui est
 transmis dans les trois mois suivant la date de sa saisine. Cet avis, ou à défaut l'information relative à l'absence
@@ -48855,40 +48855,40 @@ l'information relative à l'absence d'observation, est adressé à l'autorité m
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-218 du 25 février 2015 - art. 1
+	  - Décret n°2016-718 du 31 mai 2016 - art. 1
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. R4424-6-1 (V)
-	  - Code général des collectivités territoriales - art. R4433-1 (V)
-	  - Code de l'urbanisme - art. L300-6-1 (V)
-	  - Code de l'urbanisme - art. R*122-2 (V)
-	  - Code de l'urbanisme - art. R*123-2-1 (V)
-	  - Code de l'urbanisme - art. R*141-1 (V)
-	  - Code de l'urbanisme - art. R300-15 (V)
-	  - Code de l'environnement - art. R122-20 (V)
-	  - Code de l'environnement - art. R122-6 (V)
+	  - Code général des collectivités territoriales - art. R4424-6-1
+	  - Code général des collectivités territoriales - art. R4433-1
+	  - Code de l'urbanisme - art. L300-6-1
+	  - Code de l'urbanisme - art. R*122-2
+	  - Code de l'urbanisme - art. R*123-2-1
+	  - Code de l'urbanisme - art. R*141-1
+	  - Code de l'urbanisme - art. R300-15
+	  - Code de l'environnement - art. R122-20
+	  - Code de l'environnement - art. R122-6
 
 
 ###### Article R300-18
 
 A l'issue de l'enquête publique, le projet pour lequel a été engagée la procédure intégrée, le dossier de mise en
-compatibilité du ou des documents mentionnés au I de l'article L. 300-6-1 et, le cas échéant, le dossier des adaptations du
-ou des documents mentionnés au IV du même article peuvent être modifiés pour tenir compte du procès-verbal d'examen conjoint,
-des avis joints au dossier d'enquête publique, des observations du public et des résultats de l'enquête, du rapport et des
-conclusions du commissaire-enquêteur ou de la commission d'enquête.
+compatibilité du ou des documents mentionnés au I et au I bis  de l'article L. 300-6-1 et, le cas échéant, le dossier des
+adaptations du ou des documents mentionnés au IV du même article peuvent être modifiés pour tenir compte du procès-verbal
+d'examen conjoint, des avis joints au dossier d'enquête publique, des observations du public et des résultats de l'enquête,
+du rapport et des conclusions du commissaire-enquêteur ou de la commission d'enquête.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-218 du 25 février 2015 - art. 1
+	  - Décret n°2016-718 du 31 mai 2016 - art. 1
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L300-6-1 (V)
+	  - Code de l'urbanisme - art. L300-6-1
 
 
 ###### Article R300-19
@@ -48933,17 +48933,17 @@ L. 300-6-1, le projet de mise en compatibilité du schéma est soumis à enquêt
 chapitre III du titre II du livre Ier du code de l'environnement :
 
 - par le président de l'établissement public mentionné à l'article L. 143-16, lorsque la procédure intégrée pour le logement
-est engagée par cet établissement ;
+ou la procédure intégrée pour l'immobilier d'entreprise est engagée par cet établissement ;
 
-- par le préfet, lorsque la procédure intégrée pour le logement est engagée par l'Etat, un établissement public de l'Etat,
-une collectivité territoriale ou un groupement de collectivités autre que celui compétent pour élaborer le schéma de
-cohérence territoriale.
+- par le préfet, lorsque la procédure intégrée pour le logement ou la procédure intégrée pour l'immobilier d'entreprise est
+engagée par l'Etat, un établissement public de l'Etat, une collectivité territoriale ou un groupement de collectivités autre
+que celui compétent pour élaborer le schéma de cohérence territoriale.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2015-1783 du 28 décembre 2015 - art. 5
+	  - Décret n°2016-718 du 31 mai 2016 - art. 1
 
 	**Cite**:
 
@@ -48976,21 +48976,23 @@ L. 300-6-1, le projet de mise en compatibilité du plan est soumis à enquête p
 III du titre II du livre Ier du code de l'environnement :
 
 - par le président de l'établissement compétent en matière de plan local d'urbanisme ou par le maire, lorsque la procédure
-intégrée pour le logement est engagée respectivement par cet établissement ou par la commune ;
+intégrée pour le logement ou la procédure intégrée pour l'immobilier d'entreprise est engagée respectivement par cet
+établissement ou par la commune ;
 
-- par le préfet, lorsque la procédure intégrée pour le logement est engagée par l'Etat, un établissement public de l'Etat,
-une collectivité territoriale ou un groupement de collectivités autres que la collectivité ou l'établissement public de
-coopération intercommunale compétent pour élaborer le plan local d'urbanisme.
+- par le préfet, lorsque la procédure intégrée pour le logement ou la procédure intégrée pour l'immobilier d'entreprise est
+engagée par l'Etat, un établissement public de l'Etat, une collectivité territoriale ou un groupement de collectivités autres
+que la collectivité ou l'établissement public de coopération intercommunale compétent pour élaborer le plan local
+d'urbanisme.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-218 du 25 février 2015 - art. 1
+	  - Décret n°2016-718 du 31 mai 2016 - art. 1
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L300-6-1 (V)
+	  - Code de l'urbanisme - art. L300-6-1
 
 
 #### Sous-section 4 : Dispositions applicables à la mise en compatibilité du schéma directeur de la région d'Ile-de-France
@@ -49030,35 +49032,37 @@ III du titre II du livre Ier du code de l'environnement par le président du con
 
 ###### Article R300-26
 
-I.-Lorsque la procédure intégrée pour le logement est engagée par la région d'Ile-de-France, le président du conseil régional
-transmet le dossier de mise en compatibilité au préfet, qui dispose d'un délai de deux mois pour approuver la mise en
-compatibilité du schéma directeur. 
+I.-Lorsque la    procédure intégrée pour le logement ou la procédure intégrée pour l'immobilier d'entreprise  est engagée par
+la région d'Ile-de-France, le président du conseil régional transmet le dossier de mise en compatibilité au préfet, qui
+dispose d'un délai de deux mois pour approuver la mise en compatibilité du schéma directeur. 
 
-II.-Lorsque la procédure intégrée pour le logement est engagée par un établissement public de l'Etat, une collectivité
-territoriale autre que la région d'Ile-de-France ou un groupement de collectivités, l'autorité mentionnée à l'article R.
-300-15 soumet pour avis le projet de mise en compatibilité du schéma directeur à l'organe délibérant du conseil régional. Cet
-avis est réputé favorable s'il n'est pas rendu dans un délai de deux mois après sa transmission. 
+II.-Lorsque la    procédure intégrée pour le logement ou la procédure intégrée pour l'immobilier d'entreprise  est engagée
+par un établissement public de l'Etat, une collectivité territoriale autre que la région d'Ile-de-France ou un groupement de
+collectivités, l'autorité mentionnée à l'article R. 300-15 soumet pour avis le projet de mise en compatibilité du schéma
+directeur à l'organe délibérant du conseil régional. Cet avis est réputé favorable s'il n'est pas rendu dans un délai de deux
+mois après sa transmission. 
 
 L'autorité mentionnée à l'article R. 300-15 transmet le dossier de mise en compatibilité, assorti de l'avis prévu à l'alinéa
 précédent, au préfet. La mise en compatibilité du schéma directeur est approuvée par le préfet dans les deux mois ou, en cas
 d'avis défavorable de l'organe délibérant du conseil régional, par décret en Conseil d'Etat. 
 
-III.-Lorsque la procédure intégrée pour le logement est engagée par l'Etat, le préfet soumet pour avis le projet de mise en
-compatibilité du schéma directeur à l'organe délibérant du conseil régional. Cet avis est réputé favorable s'il n'est pas
-rendu dans un délai de deux mois après la transmission du projet de mise en compatibilité par le préfet. 
+III.-Lorsque la    procédure intégrée pour le logement ou la procédure intégrée pour l'immobilier d'entreprise  est engagée
+par l'Etat, le préfet soumet pour avis le projet de mise en compatibilité du schéma directeur à l'organe délibérant du
+conseil régional. Cet avis est réputé favorable s'il n'est pas rendu dans un délai de deux mois après la transmission du
+projet de mise en compatibilité par le préfet. 
 
 La mise en compatibilité du schéma directeur est approuvée par arrêté du préfet ou, en cas d'avis défavorable de l'organe
 délibérant du conseil régional, par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-218 du 25 février 2015 - art. 1
+	  - Décret n°2016-718 du 31 mai 2016 - art. 1
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R300-15 (V)
+	  - Code de l'urbanisme - art. R300-15
 
 
 #### Sous-section 5 : Dispositions applicables à la mise en compatibilité de plus d'un document
@@ -49066,25 +49070,37 @@ délibérant du conseil régional, par décret en Conseil d'Etat.
 ###### Article R300-27
 
 Sauf dans le cas où la procédure intégrée inclut l'adaptation d'un ou plusieurs documents mentionnés au IV de l'article L.
-300-6-1, lorsque la mise en compatibilité à réaliser dans le cadre d'une procédure intégrée pour le logement concerne
-plusieurs des documents mentionnés au I de l'article L. 300-6-1, il est procédé à une enquête publique unique dès lors que,
-conformément aux dispositions de l'article L. 123-6 du code de l'environnement, les autorités compétentes ont désigné d'un
-commun accord celle d'entre elles qui sera chargée d'ouvrir et d'organiser cette enquête. Cet accord est affiché pendant un
-mois au siège des autorités compétentes et lorsqu'il s'agit d'un établissement public de coopération intercommunale ou d'un
-syndicat mixte, dans chacune des mairies des communes membres concernées. Mention de cet affichage est insérée en caractères
-apparents dans un journal diffusé dans le département.
+300-6-1, lorsque la mise en compatibilité à réaliser dans le cadre d'une procédure intégrée pour le logement ou d'une
+procédure intégrée pour l'immobilier d'entreprise  concerne plusieurs des documents mentionnés au I et au I bis  de l'article
+L. 300-6-1, il est procédé à une enquête publique unique dès lors que, conformément aux dispositions de l'article L. 123-6 du
+code de l'environnement, les autorités compétentes ont désigné d'un commun accord celle d'entre elles qui sera chargée
+d'ouvrir et d'organiser cette enquête. Cet accord est affiché pendant un mois au siège des autorités compétentes et lorsqu'il
+s'agit d'un établissement public de coopération intercommunale ou d'un syndicat mixte, dans chacune des mairies des communes
+membres concernées. Mention de cet affichage est insérée en caractères apparents dans un journal diffusé dans le département.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-218 du 25 février 2015 - art. 1
+	  - Décret n°2016-718 du 31 mai 2016 - art. 1
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L300-6-1 (V)
-	  - Code de l'environnement - art. L123-6 (V)
+	  - Code de l'urbanisme - art. L300-6-1
+	  - Code de l'environnement - art. L123-6
 
+
+### Section 4 : Procédures intégrées
+
+#### Sous-section 1 : Dispositions communes 
+
+#### Sous-section 2 : Dispositions applicables à la mise en compatibilité d'un schéma de cohérence territoriale
+
+#### Sous-section 3 : Dispositions applicables à la mise en compatibilité d'un plan local d'urbanisme
+
+#### Sous-section 4 : Dispositions applicables à la mise en compatibilité du schéma directeur de la région d'Ile-de-France
+
+#### Sous-section 5 : Dispositions applicables à la mise en compatibilité de plus d'un document
 
 ###  Section 5 : Réhabilitation des ensembles commerciaux dans les zones urbaines sensibles
 
@@ -58607,27 +58623,27 @@ conditions prévues par les articles R. 423-38 et R. 423-41.
 
 Par dérogation aux dispositions de l'article R. 423-19, lorsque l'autorité mentionnée à l'article L. 422-1 est saisie dans
 les conditions prévues à l'article R. 300-16, le délai d'instruction de la demande de permis de construire ou de permis
-d'aménager court à compter de la date à laquelle la décision de mise en compatibilité de l'un des documents mentionnés au I
-de l'article L. 300-6-1 est exécutoire ou, si plusieurs de ces documents doivent être mis en compatibilité, de la date à
-laquelle la dernière décision de mise en compatibilité est exécutoire..
+d'aménager court à compter de la date à laquelle la décision de mise en compatibilité de l'un des documents  mentionnés au I
+et au I bis  de l'article L. 300-6-1 est exécutoire ou, si plusieurs de ces documents doivent être mis en compatibilité, de
+la date à laquelle la dernière décision de mise en compatibilité est exécutoire..
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2015-218 du 25 février 2015 - art. 1
+	  - Décret n°2016-718 du 31 mai 2016 - art. 1
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L300-6-1 (V)
-	  - Code de l'urbanisme - art. L422-1 (V)
-	  - Code de l'urbanisme - art. R*423-19 (V)
-	  - Code de l'urbanisme - art. R300-16 (V)
+	  - Code de l'urbanisme - art. L300-6-1
+	  - Code de l'urbanisme - art. L422-1
+	  - Code de l'urbanisme - art. R*300-16
+	  - Code de l'urbanisme - art. R*423-19
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*740-6 (Ab)
-	  - Code de l'urbanisme - art. R423-32-1 (M)
+	  - Code de l'urbanisme - art. R423-32-1 (V)
 
 	**Codifié par**:
 
@@ -58982,19 +58998,19 @@ alinéa du 1° du I de l'article L. 123-2 du code de l'environnement.
 ###### Article R423-32-1
 
 Dans le cas prévu à l'article R. 423-21, le délai d'instruction de la demande de permis de construire ou de permis d'aménager
-est d'un mois à compter de la date à laquelle la décision de mise en compatibilité de l'un des documents mentionnés au I de
-l'article L. 300-6-1 est exécutoire ou, si plusieurs de ces documents doivent être mis en compatibilité, de la date à
-laquelle la dernière décision de mise en compatibilité est exécutoire.
+est d'un mois à compter de la date à laquelle la décision de mise en compatibilité de l'un des documents  mentionnés au I et
+au I bis  de l'article L. 300-6-1 est exécutoire ou, si plusieurs de ces documents doivent être mis en compatibilité, de la
+date à laquelle la dernière décision de mise en compatibilité est exécutoire.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-218 du 25 février 2015 - art. 1
+	  - Décret n°2016-718 du 31 mai 2016 - art. 1
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L300-6-1 (V)
+	  - Code de l'urbanisme - art. L300-6-1
 	  - Code de l'urbanisme - art. R423-21 (V)
 
 
@@ -60432,21 +60448,22 @@ prévues par l'article R. 414-25 du code de l'environnement.
 ###### Article R423-71-2
 
 L'autorité mentionnée à l'article R. 300-15 informe l'autorité compétente mentionnée à l'article L. 422-1 et le maître
-d'ouvrage de la date à laquelle la décision de mise en compatibilité de l'un des documents mentionnés au I de l'article L.
-300-6-1 est exécutoire ou, si plusieurs de ces documents doivent être mis en compatibilité, de la date à laquelle la dernière
-décision de mise en compatibilité est exécutoire, dans le délai de huit jours à compter de la date de la décision.
+d'ouvrage de la date à laquelle la décision de mise en compatibilité de l'un des documents  mentionnés au I et au I bis  de
+l'article L. 300-6-1 est exécutoire ou, si plusieurs de ces documents doivent être mis en compatibilité, de la date à
+laquelle la dernière décision de mise en compatibilité est exécutoire, dans le délai de huit jours à compter de la date de la
+décision.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-218 du 25 février 2015 - art. 1
+	  - Décret n°2016-718 du 31 mai 2016 - art. 1
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L300-6-1 (V)
-	  - Code de l'urbanisme - art. L422-1 (V)
-	  - Code de l'urbanisme - art. R300-15 (V)
+	  - Code de l'urbanisme - art. L300-6-1
+	  - Code de l'urbanisme - art. L422-1
+	  - Code de l'urbanisme - art. R*300-15
 
 
 #####  Section 7 : Dispositions particulières aux demandes et aux déclarations lorsque la décision est de la compétence de l'Etat
