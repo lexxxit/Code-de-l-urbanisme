@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2016-06-02
+Version Consolidée au 2016-06-18
 
 # Partie législative
 
@@ -44025,6 +44025,94 @@ fixées en application de l'article R. 111-17.
 	  - Code de l'urbanisme - art. R*431-31-2 (V)
 
 
+###### Article R152-5
+
+Les dérogations prévues aux 1° et 2° de l'article L. 152-5 sont applicables aux constructions achevées depuis plus de deux
+ans à la date de dépôt de la demande de dérogation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-802 du 15 juin 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L152-5
+
+
+###### Article R152-6
+
+La mise en œuvre d'une isolation en saillie des façades ou d'un dispositif de protection contre le rayonnement solaire, en
+application des 1° et 3° de l'article L. 152-5, est autorisée sur les façades dans la limite d'un dépassement de 30
+centimètres par rapport aux règles d'implantation des constructions autorisées par le règlement du plan local d'urbanisme en
+vigueur. 
+
+L'emprise au sol de la construction résultant d'un dépassement par rapport aux règles d'implantation des constructions
+effectué dans les conditions du précédent alinéa pourra être supérieure à l'emprise au sol autorisée par le règlement du plan
+local d'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-802 du 15 juin 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L152-5
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R152-8 (V)
+
+
+###### Article R152-7
+
+La mise en œuvre d'une isolation par surélévation des toitures des constructions existantes, en application du 2° de
+l'article L. 152-5, est autorisée dans la limite d'un dépassement de 30 centimètres au-dessus de la hauteur maximale
+autorisée par le règlement du plan local d'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-802 du 15 juin 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L152-5
+
+
+###### Article R152-8
+
+La mise en œuvre cumulée des dérogations prévues aux articles R. 152-6 et R. 152-7 ne peut aboutir à un dépassement de plus
+de 30 centimètres des règles de hauteur ou d'implantation fixées par le plan local d'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-802 du 15 juin 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R152-6
+
+
+###### Article R152-9
+
+La surépaisseur ou la surélévation doit être adaptée au mode constructif  et aux caractéristiques techniques et
+architecturales de la façade ou  de la toiture et ne doit pas porter atteinte à la qualité architecturale  du bâtiment et à
+son insertion dans le cadre bâti environnant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-802 du 15 juin 2016 - art. 1
+
+
 #### Chapitre III : Procédure d'élaboration, d'évaluation et d'évolution du plan local d'urbanisme
 
 ##### Section 1 : Autorité chargée de la procédure
@@ -48732,7 +48820,7 @@ les conditions de l'article R.* 300-12, du nom du titulaire ainsi que du montant
 	  - Décret n°2016-86 du 1er février 2016 - art. 51
 
 
-###  Section 4 : Procédure intégrée pour le logement
+### Section 4 : Procédures intégrées
 
 #### Sous-section 1 : Dispositions communes 
 
@@ -49089,18 +49177,6 @@ membres concernées. Mention de cet affichage est insérée en caractères appar
 	  - Code de l'urbanisme - art. L300-6-1
 	  - Code de l'environnement - art. L123-6
 
-
-### Section 4 : Procédures intégrées
-
-#### Sous-section 1 : Dispositions communes 
-
-#### Sous-section 2 : Dispositions applicables à la mise en compatibilité d'un schéma de cohérence territoriale
-
-#### Sous-section 3 : Dispositions applicables à la mise en compatibilité d'un plan local d'urbanisme
-
-#### Sous-section 4 : Dispositions applicables à la mise en compatibilité du schéma directeur de la région d'Ile-de-France
-
-#### Sous-section 5 : Dispositions applicables à la mise en compatibilité de plus d'un document
 
 ###  Section 5 : Réhabilitation des ensembles commerciaux dans les zones urbaines sensibles
 
@@ -63215,15 +63291,21 @@ dérogation et à son instruction sont définies à l'article R. 111-1-2 du code
 
 ###### Article R*431-31-2
 
-Lorsque le projet nécessite une ou plusieurs dérogations au titre de l'article L. 152-6, la demande de dérogation est jointe
-à la demande de permis de construire. Elle est accompagnée d'une note précisant la nature de la ou des dérogations demandées
-et justifiant du respect des objectifs et des conditions fixées à cet article pour chacune des dérogations demandées.
+Lorsque le projet nécessite une ou plusieurs dérogations au titre de l'article L. 152-5 ou de l'article L. 152-6, la demande
+de dérogation est jointe à la demande de permis de construire. Elle est accompagnée d'une note précisant la nature de la ou
+des dérogations demandées et justifiant pour chacune d'entre elles du respect des objectifs et des conditions fixés à ces
+articles et aux articles R. 152-4 à R. 152-9 pour chacune des dérogations demandées.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2015-1783 du 28 décembre 2015 - art. 6
+	  - Décret n°2016-802 du 15 juin 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L152-5
+	  - Code de l'urbanisme - art. R152-4
 
 
 ###### Article R*431-32
