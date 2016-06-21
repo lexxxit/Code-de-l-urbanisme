@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2016-06-18
+Version Consolidée au 2016-06-22
 
 # Partie législative
 
@@ -4091,10 +4091,7 @@ L. 121-13 relatives à l'extension limitée de l'urbanisation.
 ###### Article L121-15
 
 Les dispositions de l'article L. 121-13 s'appliquent aux rives des estuaires les plus importants, dont la liste est fixée par
-décret en Conseil d'Etat. 
-
-Elles ne s'appliquent pas aux rives des étiers et des rus, en amont d'une limite située à l'embouchure et fixée par
-l'autorité administrative compétente de l'Etat dans des conditions définies par un décret en Conseil d'Etat.
+décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -4102,17 +4099,13 @@ l'autorité administrative compétente de l'Etat dans des conditions définies p
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Loi n°2016-816 du 20 juin 2016 - art. 93
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L121-13 (VD)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L146-4, alinéas 12 et 13, ecqc les EPR (VT)
+	  - Code de l'urbanisme - art. L121-13
 
 	**Cité par**:
 
@@ -4255,10 +4248,7 @@ mètres, lorsque des motifs liés à la sensibilité des milieux ou à l'érosio
 ###### Article L121-20
 
 Les dispositions des articles L. 121-16 à L. 121-19 s'appliquent aux rives des estuaires les plus importants, dont la liste
-est fixée par décret en Conseil d'Etat. 
-
-Elles ne s'appliquent pas aux rives des étiers et des rus, en amont d'une limite située à l'embouchure et fixée par
-l'autorité administrative compétente de l'Etat dans des conditions définies par décret en Conseil d'Etat.
+est fixée par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -4266,17 +4256,13 @@ l'autorité administrative compétente de l'Etat dans des conditions définies p
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Loi n°2016-816 du 20 juin 2016 - art. 93
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L121-16 (VD)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L146-4, alinéas 12 et 13, ecqc la bande littorale (VT)
+	  - Code de l'urbanisme - art. L121-16
 
 	**Cité par**:
 
@@ -4291,7 +4277,9 @@ l'autorité administrative compétente de l'Etat dans des conditions définies p
 
 Pour déterminer la capacité d'accueil des espaces urbanisés ou à urbaniser, les documents d'urbanisme doivent tenir compte : 
 
-1° De la préservation des espaces et milieux mentionnés à l'article L. 121-23 ; 
+1° De la préservation des espaces et milieux mentionnés à l'article L. 121-23 ;
+
+1° bis De l'existence de risques littoraux, notamment ceux liés à la submersion marine ;
 
 2° De la protection des espaces nécessaires au maintien ou au développement des activités agricoles, pastorales, forestières
 et maritimes ; 
@@ -4308,17 +4296,13 @@ existantes.
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Loi n°2016-816 du 20 juin 2016 - art. 92
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L121-23 (VD)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L146-2, alinéas 1 à 5 (VT)
+	  - Code de l'urbanisme - art. L121-23
 
 
 ##### Paragraphe 2 : Préservation des coupures d'urbanisation
@@ -31682,7 +31666,11 @@ l'utilisation des sols ;
 
 b) Les espaces terrestres et marins, sites et paysages remarquables ou caractéristiques du patrimoine naturel et culturel du
 littoral et les milieux nécessaires au maintien des équilibres biologiques mentionnés à l'article L. 146-6, lorsqu'ils ont
-été identifiés et délimités par des documents réglementaires relatifs à l'occupation et à l'utilisation des sols ; 
+été identifiés et délimités par des documents réglementaires relatifs à l'occupation et à l'utilisation des sols, sauf s'il
+s'agit d'une construction en bois antérieure au 1er janvier 2010, d'une superficie inférieure à mille mètres carrés, destinée
+à une exploitation d'agriculture biologique satisfaisant aux exigences ou conditions mentionnées à l'article L. 641-13 du
+code rural et de la pêche maritime et bénéficiant d'une appellation d'origine protégée définie à l'article L. 641-10 du même
+code ; 
 
 c) La bande de trois cents mètres des parties naturelles des rives des plans d'eau naturels ou artificiels d'une superficie
 inférieure à mille hectares mentionnée à l'article L. 145-5 ; 
@@ -31743,6 +31731,7 @@ engagement national pour le logement, la prescription antérieure continue à co
 	**Cite**:
 
 	  - Loi n°2006-872 du 13 juillet 2006
+	  - Code rural - art. L641-13
 	  - Code de l'urbanisme - art. L123-1-5
 	  - Code de l'urbanisme - art. L145-3
 	  - Code de l'urbanisme - art. L145-5
@@ -31754,7 +31743,6 @@ engagement national pour le logement, la prescription antérieure continue à co
 	  - Code de l'environnement - art. L341-1
 	  - Code de l'environnement - art. L414-1
 	  - Code de l'environnement - art. L515-12
-	  - Code de l'environnement - art. L515-16
 	  - Code de l'environnement - art. L515-8
 	  - Code de l'environnement - art. L562-1
 	  - Code du patrimoine - art. L621-30
@@ -31763,7 +31751,7 @@ engagement national pour le logement, la prescription antérieure continue à co
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1324 du 22 octobre 2015 - art. 5
+	  - Loi n°2016-816 du 20 juin 2016 - art. 94
 
 	**Cité par**:
 
