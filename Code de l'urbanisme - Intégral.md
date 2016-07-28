@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2016-07-09
+Version Consolidée au 2016-07-29
 
 # Partie législative
 
@@ -19615,21 +19615,22 @@ territoriale et, en l'absence de schéma de cohérence territoriale, du plan loc
 
 Lorsque la déclaration de projet est adoptée par l'Etat, elle peut procéder aux adaptations nécessaires du schéma directeur
 de la région d'Ile-de-France, d'un schéma d'aménagement régional des régions d'outre-mer, du plan d'aménagement et de
-développement durables de Corse, d'une charte de parc naturel régional ou de parc national, du schéma directeur d'aménagement
-et de gestion des eaux, du schéma d'aménagement et de gestion des eaux, de la zone de protection du patrimoine architectural,
-urbain et paysager, du schéma régional de cohérence écologique ou du plan climat-air-énergie territorial. Ces adaptations
-sont effectuées dans le respect des dispositions législatives et réglementaires applicables au contenu de ces règlements ou
-de ces servitudes. 
+développement durables de Corse schéma régional d'aménagement, de développement durable et d'égalité des territoires,  d'une
+charte de parc naturel régional ou de parc national, du schéma directeur d'aménagement et de gestion des eaux, du schéma
+d'aménagement et de gestion des eaux, de la zone de protection du patrimoine architectural, urbain et paysager, du schéma
+régional de cohérence écologique ou du plan climat-air-énergie territorial. Ces adaptations sont effectuées dans le respect
+des dispositions législatives et réglementaires applicables au contenu de ces règlements ou de ces servitudes. 
 
 Les adaptations proposées sont présentées dans le cadre des procédures prévues par les articles L. 143-44 à L. 143-50 et L.
 153-54 à L. 153-59, auxquelles les autorités ou services compétents pour élaborer les documents mentionnés à l'alinéa
 précédent sont invités à participer. 
 
-Lorsque les adaptations proposées portent sur le schéma directeur de la région d'Ile-de-France, un schéma d'aménagement
-régional des régions d'outre-mer ou le plan d'aménagement et de développement durables de Corse, elles sont soumises pour
-avis, avant l'enquête publique, au conseil régional ou à l'Assemblée de Corse. Leur avis est réputé favorable s'il n'est pas
-émis dans le délai de trois mois. Cet avis est joint au dossier soumis à enquête publique. En cas d'avis défavorable, la
-déclaration de projet ne peut être prise que par décret en Conseil d'Etat. 
+Lorsque les adaptations proposées portent sur le schéma directeur de la région d'Ile-de-France, un schéma régional
+d'aménagement, de développement durable et d'égalité des territoires, un schéma d'aménagement régional des régions d'outre-
+mer ou le plan d'aménagement et de développement durables de Corse, elles sont soumises pour avis, avant l'enquête publique,
+au conseil régional ou à l'Assemblée de Corse. Leur avis est réputé favorable s'il n'est pas émis dans le délai de trois
+mois. Cet avis est joint au dossier soumis à enquête publique. En cas d'avis défavorable, la déclaration de projet ne peut
+être prise que par décret en Conseil d'Etat. 
 
 Une déclaration de projet peut être prise par décision conjointe d'une collectivité territoriale ou d'un groupement de
 collectivités territoriales et de l'Etat. 
@@ -19673,17 +19674,18 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 5
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+	  - Ordonnance n°2016-1028 du 27 juillet 2016 - art. 32
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L143-44 (VD)
-	  - Code de l'urbanisme - art. L153-54 (VD)
+	  - Code de l'urbanisme - art. L143-44
+	  - Code de l'urbanisme - art. L153-54
 
 
 ###### Article L300-6-1
 
-I. ― Lorsque la réalisation dans une unité urbaine d'une opération d'aménagement ou d'une construction comportant
+I.-Lorsque la réalisation dans une unité urbaine d'une opération d'aménagement ou d'une construction comportant
 principalement des logements et présentant un caractère d'intérêt général nécessite la mise en compatibilité du schéma
 directeur de la région d'Ile-de-France, du plan d'aménagement et de développement durable de Corse, d'un schéma d'aménagement
 régional, d'un schéma de cohérence territoriale, d'un plan local d'urbanisme ou d'un document en tenant lieu, cette mise en
@@ -19705,15 +19707,15 @@ L'intérêt économique majeur d'un projet s'apprécie compte tenu du caractère
 ajoutée qu'il produit, de la création ou de la préservation d'emplois qu'il permet ou du développement du territoire qu'il
 rend possible. 
 
-II. ― L'engagement de la procédure intégrée pour le logement ou de la procédure intégrée pour l'immobilier d'entreprise peut
+II.-L'engagement de la procédure intégrée pour le logement ou de la procédure intégrée pour l'immobilier d'entreprise peut
 être décidé soit par l'Etat ou ses établissements publics, soit par les collectivités territoriales ou leurs groupements
 compétents pour élaborer les documents d'urbanisme à mettre en compatibilité ou compétents pour autoriser ou réaliser
 l'opération d'aménagement ou de construction. 
 
-III. ― Lorsque la mise en compatibilité porte sur un schéma de cohérence territoriale, un plan local d'urbanisme ou un
-document en tenant lieu ou sur le schéma directeur de la région d'Ile-de-France, les dispositions des articles L. 123-22, L.
-123-23, L. 143-44 à L. 143-50 et L. 153-54 à L. 153-59 sont respectivement applicables sous réserve des dispositions du
-présent article. 
+III.-Lorsque la mise en compatibilité porte sur un schéma de cohérence territoriale, un plan local d'urbanisme ou un document
+en tenant lieu ou sur le schéma directeur de la région d'Ile-de-France, les dispositions des articles L. 123-22, L. 123-23,
+L. 143-44 à L. 143-50 et L. 153-54 à L. 153-59 sont respectivement applicables sous réserve des dispositions du présent
+article. 
 
 Lorsque la mise en compatibilité concerne le plan d'aménagement et de développement durable de Corse ou un schéma
 d'aménagement régional, les dispositions des articles L. 4424-15-1 et L. 4433-10-1 du code général des collectivités
@@ -19731,38 +19733,40 @@ dispositions du document d'urbanisme dont la mise en compatibilité est requise 
 d'une révision entre l'ouverture de l'enquête publique organisée dans le cadre de la procédure intégrée et la décision
 procédant à la mise en compatibilité. 
 
-IV. ― Lorsque la mise en compatibilité des documents mentionnés au I et au I bis impose l'adaptation : 
+IV.-Lorsque la mise en compatibilité des documents mentionnés au I et au I bis impose l'adaptation :
 
-― d'une directive territoriale d'aménagement ; 
+- d'une directive territoriale d'aménagement ;
 
-― du schéma directeur d'aménagement et de gestion des eaux ; 
+- d'un schéma régional d'aménagement, de développement durable et d'égalité des territoires ;
 
-― du schéma d'aménagement et de gestion des eaux ; 
+- du schéma directeur d'aménagement et de gestion des eaux ;
 
-― du règlement de la zone de protection du patrimoine architectural, urbain et paysager ; 
+- du schéma d'aménagement et de gestion des eaux ;
 
-― du règlement d'une aire de mise en valeur de l'architecture et du patrimoine ; 
+- du règlement de la zone de protection du patrimoine architectural, urbain et paysager ;
 
-— d'un plan de valorisation de l'architecture et du patrimoine mentionné à l'article L. 631-4 du code du patrimoine ; 
+- du règlement d'une aire de mise en valeur de l'architecture et du patrimoine ;
 
-― d'un plan de prévention des risques naturels prévisibles, relatifs aux risques d'inondation à cinétique lente dans les
+- d'un plan de valorisation de l'architecture et du patrimoine mentionné à l'article L. 631-4 du code du patrimoine ;
+
+- d'un plan de prévention des risques naturels prévisibles, relatifs aux risques d'inondation à cinétique lente dans les
 zones urbaines d'un plan local d'urbanisme mentionné à l'article L. 562-1 du code de l'environnement, hors champs d'expansion
-des crues ; 
+des crues ;
 
-― d'un plan de prévention des risques naturels prévisibles, mentionné à l'article L. 562-1 du code de l'environnement,
+- d'un plan de prévention des risques naturels prévisibles, mentionné à l'article L. 562-1 du code de l'environnement,
 relatif aux risques liés aux cavités souterraines et aux marnières dans l'hypothèse d'un comblement de la cavité ou de la
-marnière ; 
+marnière ;
 
-― d'un plan de prévention des risques miniers mentionné à l'article L. 174-5 du nouveau code minier dans l'hypothèse d'un
-comblement des cavités minières ou d'une étude du sous-sol démontrant l'absence de telles cavités ; 
+- d'un plan de prévention des risques miniers mentionné à l'article L. 174-5 du nouveau code minier dans l'hypothèse d'un
+comblement des cavités minières ou d'une étude du sous-sol démontrant l'absence de telles cavités ;
 
-― d'un schéma régional de cohérence écologique ; 
+- d'un schéma régional de cohérence écologique ;
 
-― d'un plan climat-air-énergie territorial ; 
+- d'un plan climat-air-énergie territorial ;
 
-― d'un plan de déplacements urbains ; 
+- d'un plan de déplacements urbains ;
 
-― d'un programme local de l'habitat, 
+- d'un programme local de l'habitat, 
 
 l'Etat procède aux adaptations nécessaires dans les conditions prévues au présent IV. 
 
@@ -19800,11 +19804,11 @@ dispositions dont l'adaptation est requise dans le cadre de la procédure intég
 intégrée pour l'immobilier d'entreprise entre l'ouverture de l'enquête publique organisée dans le cadre de la procédure
 intégrée et la décision procédant à l'adaptation des documents. 
 
-V. ― Les dispositions de mise en compatibilité et d'adaptation des documents mentionnés au présent article font l'objet d'une
+V.-Les dispositions de mise en compatibilité et d'adaptation des documents mentionnés au présent article font l'objet d'une
 évaluation environnementale préalablement à la réalisation de l'examen conjoint si l'étude d'impact du projet n'a pas inclus
 l'analyse de l'incidence de ces dispositions sur l'environnement. 
 
-VI. ― Lorsque le projet d'opération d'aménagement ou de construction est suffisamment précis à la date de la décision
+VI.-Lorsque le projet d'opération d'aménagement ou de construction est suffisamment précis à la date de la décision
 d'engagement de la procédure intégrée pour le logement ou de la procédure intégrée pour l'immobilier d'entreprise, les pièces
 nécessaires à la délivrance des autorisations requises pour sa réalisation peuvent être transmises dès cette date par
 l'autorité ayant décidé l'engagement de la procédure pour instruction aux autorités compétentes pour délivrer ces
@@ -19824,7 +19828,7 @@ disposent pour se prononcer sur le projet.
 	  - Code de l'environnement - art. L212-2 (VT)
 	  - Code de l'environnement - art. L212-7 (VD)
 	  - Code de l'environnement - art. L229-26 (V)
-	  - Code de l'environnement - art. L371-3 (VD)
+	  - Code de l'environnement - art. L371-3 (V)
 	  - Code de l'environnement - art. L562-4-1 (VD)
 	  - Code de l'urbanisme - art. L122-16-1 (VT)
 	  - Code de l'urbanisme - art. L123-14-2 (VT)
@@ -19863,7 +19867,6 @@ disposent pour se prononcer sur le projet.
 	  - Code de la construction et de l'habitation. - art. L302-4 (V)
 	  - Code des transports - art. L1214-23-1 (VD)
 	  - Code des transports - art. L1214-24 (VD)
-	  - Code du patrimoine - art. L642-4 (Ab)
 	  - Code du patrimoine. - art. L642-8 (VD)
 	  - Code général des collectivités territoriales - art. L4424-15-1 (VD)
 	  - Code général des collectivités territoriales - art. L4433-10-1 (VD)
@@ -19872,18 +19875,18 @@ disposent pour se prononcer sur le projet.
 
 	**Modifié par**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 105
+	  - Ordonnance n°2016-1028 du 27 juillet 2016 - art. 32
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L5210-1-1 (V)
-	  - Code de l'urbanisme - art. L101-2 (V)
+	  - Code général des collectivités territoriales - art. L5210-1-1
+	  - Code de l'urbanisme - art. L101-2
 	  - Code de l'urbanisme - art. L123-22 (V)
 	  - Code de l'urbanisme - art. L143-44 (V)
-	  - Code de l'environnement - art. L123-6 (VT)
+	  - Code de l'environnement - art. L123-6
 	  - Code de l'environnement - art. L562-1 (V)
 	  - Code du patrimoine - art. L631-4 (V)
-	  - Code minier (nouveau) - art. L174-5 (V)
+	  - Code minier (nouveau) - art. L174-5
 
 
 ###### Article L300-7
@@ -20242,7 +20245,151 @@ Un décret en Conseil d'Etat détermine, en tant que de besoin, les modalités d
 	  - Loi n°2000-1208 du 13 décembre 2000 - art. 7
 
 
-#### Chapitre III : Restauration immobilière et secteurs sauvegardés
+#### Chapitre III : Plan de sauvegarde et de mise en valeur et restauration immobilière
+
+##### Section 1 : Plan de sauvegarde et de mise en valeur
+
+###### Article L313-1
+
+I.-Un plan de sauvegarde et de mise en valeur peut être établi sur tout ou partie du site patrimonial remarquable créé en
+application du titre III du livre VI du code du patrimoine. Sur le périmètre qu'il recouvre, il tient lieu de plan local
+d'urbanisme. 
+
+Lorsque l'élaboration du plan de sauvegarde et de mise en valeur relève de la compétence d'un établissement public de
+coopération intercommunale, la commune membre de cet établissement dont le territoire est intégralement ou partiellement
+couvert par le périmètre d'un site patrimonial remarquable peut demander à ce qu'il soit couvert par un plan de sauvegarde et
+de mise en valeur. Elle peut également conduire les études préalables à l'élaboration du plan de sauvegarde et de mise en
+valeur, avec l'assistance technique et financière de l'Etat si elle la sollicite. Après un débat au sein de l'organe
+délibérant de l'établissement public de coopération intercommunale, celui-ci délibère sur l'opportunité d'élaborer le plan de
+sauvegarde et de mise en valeur. 
+
+En cas de refus de l'organe délibérant, et lorsque la Commission nationale du patrimoine et de l'architecture a recommandé,
+en application de l'article L. 631-3 du même code, l'élaboration d'un plan de sauvegarde et de mise en valeur sur tout ou
+partie du périmètre classé au titre des sites patrimoniaux remarquables, l'autorité administrative peut demander à
+l'établissement public de coopération intercommunale d'engager la procédure d'élaboration d'un plan de sauvegarde et de mise
+en valeur sur ce périmètre dans les conditions prévues au II du présent article. 
+
+II.-L'acte décidant la mise à l'étude du plan de sauvegarde et de mise en valeur met en révision le plan local d'urbanisme,
+lorsqu'il existe. Jusqu'à l'approbation du plan de sauvegarde et de mise en valeur, le plan local d'urbanisme mis en révision
+peut être modifié dans les conditions prévues aux articles L. 153-37, L. 153-40, L. 153-42 et L. 153-43 du présent code ou
+faire l'objet de révisions dans les conditions définies à l'article L. 153-34. 
+
+Le plan de sauvegarde et de mise en valeur est élaboré conjointement par l'Etat et l'autorité compétente en matière de plan
+local d'urbanisme ou de document en tenant lieu. L'Etat peut toutefois confier l'élaboration d'un plan de sauvegarde et de
+mise en valeur à l'autorité compétente en matière de plan local d'urbanisme ou de document en tenant lieu qui en fait la
+demande, et lui apporte si nécessaire son assistance technique et financière. Le projet de plan de sauvegarde et de mise en
+valeur est soumis pour avis à la commission locale du site patrimonial remarquable et, le cas échéant, à l'avis de la commune
+concernée. Après avis de l'organe délibérant de l'autorité compétente en matière de plan local d'urbanisme ou de document en
+tenant lieu et de la Commission nationale du patrimoine et de l'architecture, le projet de plan de sauvegarde et de mise en
+valeur est soumis à enquête publique par l'autorité administrative dans les formes prévues au chapitre III du titre II du
+livre Ier du code de l'environnement. Il est approuvé par l'autorité administrative si l'avis de l'organe délibérant de
+l'autorité compétente en matière de plan local d'urbanisme ou de document en tenant lieu est favorable, par décret en Conseil
+d'Etat dans le cas contraire. 
+
+La révision du plan de sauvegarde et de mise en valeur a lieu dans les mêmes formes que celles prévues pour son élaboration. 
+
+III.-Le plan de sauvegarde et de mise en valeur peut comporter l'indication des immeubles ou des parties intérieures ou
+extérieures d'immeubles : 
+
+1° Dont la démolition, l'enlèvement ou l'altération sont interdits et dont la modification est soumise à des conditions
+spéciales ; 
+
+2° Dont la démolition ou la modification peut être imposée à l'occasion d'opérations d'aménagement publiques ou privées. 
+
+IV.-Le plan de sauvegarde et de mise en valeur peut protéger les éléments d'architecture et de décoration, les immeubles par
+nature ou les effets mobiliers attachés à perpétuelle demeure, au sens des articles 524 et 525 du code civil, situés à
+l'extérieur ou à l'intérieur d'un immeuble. Le propriétaire et l'affectataire domanial peuvent proposer à l'architecte des
+Bâtiments de France le recensement de nouveaux éléments dans le plan de sauvegarde et de mise en valeur. L'architecte des
+Bâtiments de France saisit l'autorité administrative qui modifie le plan de sauvegarde et de mise en valeur, après accord de
+l'organe délibérant mentionné au VI du présent article. 
+
+V.-Le plan de sauvegarde et de mise en valeur doit être compatible avec le projet d'aménagement et de développement durables
+du plan local d'urbanisme, lorsqu'il existe. Lorsque le projet de plan de sauvegarde et de mise en valeur comporte des
+dispositions qui ne sont pas compatibles avec le projet d'aménagement et de développement durables du plan local d'urbanisme,
+il ne peut être approuvé que si l'enquête publique a porté à la fois sur le projet de plan de sauvegarde et de mise en valeur
+et sur la révision du plan local d'urbanisme. L'approbation du plan de sauvegarde et de mise en valeur emporte alors révision
+du plan local d'urbanisme. 
+
+VI.-Sous réserve que la modification envisagée ne porte pas atteinte à son économie générale ou ne réduise pas un espace
+boisé classé, le plan de sauvegarde et de mise en valeur peut être modifié par l'autorité administrative, à la demande ou
+après consultation de l'organe délibérant de l'autorité compétente en matière de plan local d'urbanisme ou de document en
+tenant lieu, après consultation de l'architecte des Bâtiments de France, après avis de la commission locale du site
+patrimonial remarquable et après enquête publique réalisée dans les formes prévues au chapitre III du titre II du livre Ier
+du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°85-453 du 23 avril 1985 - art. 2 (M)
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 26-1 (V)
+	  - Arrêté du 2 septembre 2008 - art. 3 (V)
+	  - Décret n°2015-986 du 31 juillet 2015 - art. 1 (V)
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 114 (V)
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 74
+	  - Code de l'environnement - art. R*242-13 (Ab)
+	  - Code de l'environnement - art. R122-17 (VD)
+	  - Code de l'environnement - art. R123-2 (V)
+	  - Code de l'environnement - art. R332-13 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L24-1 (VT)
+	  - Code de l'urbanisme - art. *R111-1 (VT)
+	  - Code de l'urbanisme - art. L211-1 (V)
+	  - Code de l'urbanisme - art. L322-2 (V)
+	  - Code de l'urbanisme - art. L340-1 (V)
+	  - Code de l'urbanisme - art. L430-3 (M)
+	  - Code de l'urbanisme - art. L480-13 (M)
+	  - Code de l'urbanisme - art. R*111-42 (VT)
+	  - Code de l'urbanisme - art. R*123-13 (VT)
+	  - Code de l'urbanisme - art. R*123-14 (Ab)
+	  - Code de l'urbanisme - art. R*123-19 (M)
+	  - Code de l'urbanisme - art. R*211-1 (V)
+	  - Code de l'urbanisme - art. R*421-15 (Ab)
+	  - Code de l'urbanisme - art. R*421-28 (M)
+	  - Code de l'urbanisme - art. R*433-1 (VD)
+	  - Code de l'urbanisme - art. R111-1 (M)
+	  - Code de l'urbanisme - art. R111-33 (M)
+	  - Code de l'urbanisme - art. R151-52 (V)
+	  - Code de l'urbanisme - art. R313-1 (M)
+	  - Code de l'urbanisme - art. R313-11 (V)
+	  - Code de l'urbanisme - art. R313-14 (V)
+	  - Code de l'urbanisme - art. R313-16 (M)
+	  - Code de l'urbanisme - art. R313-19 (Ab)
+	  - Code de l'urbanisme - art. R313-2 (M)
+	  - Code de l'urbanisme - art. R313-33 (V)
+	  - Code de l'urbanisme - art. R313-37 (V)
+	  - Code de l'urbanisme - art. R313-4 (M)
+	  - Code de l'urbanisme - art. R313-5 (V)
+	  - Code de l'urbanisme - art. R313-7 (V)
+	  - Code de l'urbanisme - art. R462-7 (M)
+	  - Code de la construction et de l'habitation. - art. D511-13-2 (Ab)
+	  - Code de la construction et de l'habitation. - art. R*111-18-10 (M)
+	  - Code de la construction et de l'habitation. - art. R111-19-10 (M)
+	  - Code de la construction et de l'habitation. - art. R511-2-1 (Ab)
+	  - Code du patrimoine - art. L611-1 (VD)
+	  - Code du patrimoine - art. L642-5 (Ab)
+	  - Code du patrimoine. - art. L641-1 (VD)
+	  - Code général des impôts, CGI. - art. 156 (VT)
+	  - Code général des impôts, CGI. - art. 199 tervicies (V)
+	  - Code général des impôts, CGI. - art. 31 (VT)
+
+	**Modifié par**:
+
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 105
+
+	**Cite**:
+
+	  - Code civil - art. 524 (V)
+	  - Code de l'urbanisme - art. L153-34 (V)
+	  - Code de l'urbanisme - art. L153-37 (V)
+	  - Code de l'urbanisme - art. L153-40 (V)
+	  - Code de l'urbanisme - art. L153-42 (V)
+	  - Code du patrimoine - art. L631-3 (V)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code du patrimoine - art. L641-1 (VD)
+
 
 #####  Section 2 : Restauration immobilière
 
@@ -20685,156 +20832,6 @@ articles L. 313-3 et L. 313-4.
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
-
-#### Chapitre III : Plan de sauvegarde et de mise en valeur et restauration immobilière
-
-##### Section 1 : Plan de sauvegarde et de mise en valeur
-
-###### Article L313-1
-
-I.-Un plan de sauvegarde et de mise en valeur peut être établi sur tout ou partie du site patrimonial remarquable créé en
-application du titre III du livre VI du code du patrimoine. Sur le périmètre qu'il recouvre, il tient lieu de plan local
-d'urbanisme. 
-
-Lorsque l'élaboration du plan de sauvegarde et de mise en valeur relève de la compétence d'un établissement public de
-coopération intercommunale, la commune membre de cet établissement dont le territoire est intégralement ou partiellement
-couvert par le périmètre d'un site patrimonial remarquable peut demander à ce qu'il soit couvert par un plan de sauvegarde et
-de mise en valeur. Elle peut également conduire les études préalables à l'élaboration du plan de sauvegarde et de mise en
-valeur, avec l'assistance technique et financière de l'Etat si elle la sollicite. Après un débat au sein de l'organe
-délibérant de l'établissement public de coopération intercommunale, celui-ci délibère sur l'opportunité d'élaborer le plan de
-sauvegarde et de mise en valeur. 
-
-En cas de refus de l'organe délibérant, et lorsque la Commission nationale du patrimoine et de l'architecture a recommandé,
-en application de l'article L. 631-3 du même code, l'élaboration d'un plan de sauvegarde et de mise en valeur sur tout ou
-partie du périmètre classé au titre des sites patrimoniaux remarquables, l'autorité administrative peut demander à
-l'établissement public de coopération intercommunale d'engager la procédure d'élaboration d'un plan de sauvegarde et de mise
-en valeur sur ce périmètre dans les conditions prévues au II du présent article. 
-
-II.-L'acte décidant la mise à l'étude du plan de sauvegarde et de mise en valeur met en révision le plan local d'urbanisme,
-lorsqu'il existe. Jusqu'à l'approbation du plan de sauvegarde et de mise en valeur, le plan local d'urbanisme mis en révision
-peut être modifié dans les conditions prévues aux articles L. 153-37, L. 153-40, L. 153-42 et L. 153-43 du présent code ou
-faire l'objet de révisions dans les conditions définies à l'article L. 153-34. 
-
-Le plan de sauvegarde et de mise en valeur est élaboré conjointement par l'Etat et l'autorité compétente en matière de plan
-local d'urbanisme ou de document en tenant lieu. L'Etat peut toutefois confier l'élaboration d'un plan de sauvegarde et de
-mise en valeur à l'autorité compétente en matière de plan local d'urbanisme ou de document en tenant lieu qui en fait la
-demande, et lui apporte si nécessaire son assistance technique et financière. Le projet de plan de sauvegarde et de mise en
-valeur est soumis pour avis à la commission locale du site patrimonial remarquable et, le cas échéant, à l'avis de la commune
-concernée. Après avis de l'organe délibérant de l'autorité compétente en matière de plan local d'urbanisme ou de document en
-tenant lieu et de la Commission nationale du patrimoine et de l'architecture, le projet de plan de sauvegarde et de mise en
-valeur est soumis à enquête publique par l'autorité administrative dans les formes prévues au chapitre III du titre II du
-livre Ier du code de l'environnement. Il est approuvé par l'autorité administrative si l'avis de l'organe délibérant de
-l'autorité compétente en matière de plan local d'urbanisme ou de document en tenant lieu est favorable, par décret en Conseil
-d'Etat dans le cas contraire. 
-
-La révision du plan de sauvegarde et de mise en valeur a lieu dans les mêmes formes que celles prévues pour son élaboration. 
-
-III.-Le plan de sauvegarde et de mise en valeur peut comporter l'indication des immeubles ou des parties intérieures ou
-extérieures d'immeubles : 
-
-1° Dont la démolition, l'enlèvement ou l'altération sont interdits et dont la modification est soumise à des conditions
-spéciales ; 
-
-2° Dont la démolition ou la modification peut être imposée à l'occasion d'opérations d'aménagement publiques ou privées. 
-
-IV.-Le plan de sauvegarde et de mise en valeur peut protéger les éléments d'architecture et de décoration, les immeubles par
-nature ou les effets mobiliers attachés à perpétuelle demeure, au sens des articles 524 et 525 du code civil, situés à
-l'extérieur ou à l'intérieur d'un immeuble. Le propriétaire et l'affectataire domanial peuvent proposer à l'architecte des
-Bâtiments de France le recensement de nouveaux éléments dans le plan de sauvegarde et de mise en valeur. L'architecte des
-Bâtiments de France saisit l'autorité administrative qui modifie le plan de sauvegarde et de mise en valeur, après accord de
-l'organe délibérant mentionné au VI du présent article. 
-
-V.-Le plan de sauvegarde et de mise en valeur doit être compatible avec le projet d'aménagement et de développement durables
-du plan local d'urbanisme, lorsqu'il existe. Lorsque le projet de plan de sauvegarde et de mise en valeur comporte des
-dispositions qui ne sont pas compatibles avec le projet d'aménagement et de développement durables du plan local d'urbanisme,
-il ne peut être approuvé que si l'enquête publique a porté à la fois sur le projet de plan de sauvegarde et de mise en valeur
-et sur la révision du plan local d'urbanisme. L'approbation du plan de sauvegarde et de mise en valeur emporte alors révision
-du plan local d'urbanisme. 
-
-VI.-Sous réserve que la modification envisagée ne porte pas atteinte à son économie générale ou ne réduise pas un espace
-boisé classé, le plan de sauvegarde et de mise en valeur peut être modifié par l'autorité administrative, à la demande ou
-après consultation de l'organe délibérant de l'autorité compétente en matière de plan local d'urbanisme ou de document en
-tenant lieu, après consultation de l'architecte des Bâtiments de France, après avis de la commission locale du site
-patrimonial remarquable et après enquête publique réalisée dans les formes prévues au chapitre III du titre II du livre Ier
-du code de l'environnement.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°85-453 du 23 avril 1985 - art. 2 (M)
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 26-1 (V)
-	  - Arrêté du 2 septembre 2008 - art. 3 (V)
-	  - Décret n°2015-986 du 31 juillet 2015 - art. 1 (V)
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 114 (V)
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 74
-	  - Code de l'environnement - art. R*242-13 (Ab)
-	  - Code de l'environnement - art. R122-17 (VD)
-	  - Code de l'environnement - art. R123-2 (V)
-	  - Code de l'environnement - art. R332-13 (V)
-	  - Code de l'expropriation pour cause d'utilité pu... - art. L24-1 (VT)
-	  - Code de l'urbanisme - art. *R111-1 (VT)
-	  - Code de l'urbanisme - art. L211-1 (V)
-	  - Code de l'urbanisme - art. L322-2 (V)
-	  - Code de l'urbanisme - art. L340-1 (V)
-	  - Code de l'urbanisme - art. L430-3 (M)
-	  - Code de l'urbanisme - art. L480-13 (M)
-	  - Code de l'urbanisme - art. R*111-42 (VT)
-	  - Code de l'urbanisme - art. R*123-13 (VT)
-	  - Code de l'urbanisme - art. R*123-14 (Ab)
-	  - Code de l'urbanisme - art. R*123-19 (M)
-	  - Code de l'urbanisme - art. R*211-1 (V)
-	  - Code de l'urbanisme - art. R*421-15 (Ab)
-	  - Code de l'urbanisme - art. R*421-28 (M)
-	  - Code de l'urbanisme - art. R*433-1 (VD)
-	  - Code de l'urbanisme - art. R111-1 (M)
-	  - Code de l'urbanisme - art. R111-33 (M)
-	  - Code de l'urbanisme - art. R151-52 (V)
-	  - Code de l'urbanisme - art. R313-1 (M)
-	  - Code de l'urbanisme - art. R313-11 (V)
-	  - Code de l'urbanisme - art. R313-14 (V)
-	  - Code de l'urbanisme - art. R313-16 (M)
-	  - Code de l'urbanisme - art. R313-19 (Ab)
-	  - Code de l'urbanisme - art. R313-2 (M)
-	  - Code de l'urbanisme - art. R313-33 (V)
-	  - Code de l'urbanisme - art. R313-37 (V)
-	  - Code de l'urbanisme - art. R313-4 (M)
-	  - Code de l'urbanisme - art. R313-5 (V)
-	  - Code de l'urbanisme - art. R313-7 (V)
-	  - Code de l'urbanisme - art. R462-7 (M)
-	  - Code de la construction et de l'habitation. - art. D511-13-2 (Ab)
-	  - Code de la construction et de l'habitation. - art. R*111-18-10 (M)
-	  - Code de la construction et de l'habitation. - art. R111-19-10 (M)
-	  - Code de la construction et de l'habitation. - art. R511-2-1 (Ab)
-	  - Code du patrimoine - art. L611-1 (VD)
-	  - Code du patrimoine - art. L642-5 (Ab)
-	  - Code du patrimoine. - art. L641-1 (VD)
-	  - Code général des impôts, CGI. - art. 156 (VT)
-	  - Code général des impôts, CGI. - art. 199 tervicies (V)
-	  - Code général des impôts, CGI. - art. 31 (VT)
-
-	**Modifié par**:
-
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 105
-
-	**Cite**:
-
-	  - Code civil - art. 524 (V)
-	  - Code de l'urbanisme - art. L153-34 (V)
-	  - Code de l'urbanisme - art. L153-37 (V)
-	  - Code de l'urbanisme - art. L153-40 (V)
-	  - Code de l'urbanisme - art. L153-42 (V)
-	  - Code du patrimoine - art. L631-3 (V)
-
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code du patrimoine - art. L641-1 (VD)
-
-
-#####  Section 2 : Restauration immobilière
-
-#####  Section 3 : Dispositions communes
 
 #### Chapitre IV : Protection des occupants
 
