@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2016-07-29
+Version Consolidée au 2016-08-06
 
 # Partie législative
 
@@ -977,16 +977,11 @@ géographique ou de procédures d'évaluation environnementale prévues à un st
 ###### Article L104-6
 
 La personne publique qui élabore un des documents d'urbanisme mentionnés aux articles L. 104-1 et L. 104-2 transmet pour avis
-à l'autorité administrative de l'Etat compétente en matière d'environnement le projet de document et son rapport de
-présentation.
+à l'autorité environnementale le projet de document et son rapport de présentation.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
-
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
-
-	**Créé par**:
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
@@ -1004,13 +999,13 @@ présentation.
 	  - Code de l'environnement - art. R123-8 (V)
 	  - Code de l'urbanisme - art. L143-28 (VD)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1058 du 3 août 2016 - art. 2 (V)
+
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L104-1 (VD)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L121-12, alinéa 1 (VT)
+	  - Code de l'urbanisme - art. L104-1
 
 
 ##### Sous-section 2 : Consultations transfrontalières
@@ -1020,11 +1015,11 @@ présentation.
 Les documents d'urbanisme mentionnés aux articles L. 104-1 et L. 104-2 dont la mise en œuvre est susceptible de produire des
 effets notables sur l'environnement d'un autre Etat membre de l'Union européenne sont transmis aux autorités de cet Etat, à
 la demande de celles-ci ou à l'initiative des autorités françaises. L'autorité compétente pour approuver un des documents
-d'urbanisme mentionnés aux articles L. 104-1 et L. 104-2 en informe le public, l'autorité administrative de l'Etat compétente
-en matière d'environnement et, le cas échéant, les autorités des autres Etats membres de l'Union européenne consultés, et met
-à leur disposition le rapport de présentation établi en application des articles L. 104-4 et L. 104-5, qui comporte notamment
-des indications relatives à la manière dont il a été tenu compte des consultations auxquelles il a été procédé ainsi que les
-motifs qui ont fondé les choix opérés par le plan ou le document, compte tenu des diverses solutions envisagées. 
+d'urbanisme mentionnés aux articles L. 104-1 et L. 104-2 en informe le public, l'autorité environnementale et, le cas
+échéant, les autorités des autres Etats membres de l'Union européenne consultés, et met à leur disposition le rapport de
+présentation établi en application des articles L. 104-4 et L. 104-5, qui comporte notamment des indications relatives à la
+manière dont il a été tenu compte des consultations auxquelles il a été procédé ainsi que les motifs qui ont fondé les choix
+opérés par le plan ou le document, compte tenu des diverses solutions envisagées. 
 
 L'Etat intéressé est invité à donner son avis dans un délai fixé par décret en Conseil d'Etat.
 
@@ -1034,19 +1029,14 @@ L'Etat intéressé est invité à donner son avis dans un délai fixé par décr
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Ordonnance n°2016-1058 du 3 août 2016 - art. 2 (V)
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L104-1 (VD)
-	  - Code de l'urbanisme - art. L104-4 (VD)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L121-13, alinéa 1 (VT)
-	  - Code de l'urbanisme - art. L121-14 (VT)
+	  - Code de l'urbanisme - art. L104-1
+	  - Code de l'urbanisme - art. L104-4
 
 
 ###### Article L104-8
@@ -6327,9 +6317,13 @@ Le conseil régional arrête le projet de schéma et le soumet pour avis :
 2° Aux organes délibérants des collectivités territoriales, établissements publics et organismes énumérés aux 1° à 5° de
 l'article L. 123-7 ; 
 
-3° A l'autorité administrative de l'Etat compétente en matière d'environnement ; 
+3° A l'autorité environnementale ; 
 
 4° A la conférence territoriale de l'action publique.
+
+**Nota:**
+
+Se reporter à l'article 6 de l'ordonnance n° 2016-1058 du 3 août 2016 pour les conditions d'application de ses dispositions.
 
 **Liens relatifs à cet article**
 
@@ -6337,17 +6331,13 @@ l'article L. 123-7 ;
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Ordonnance n°2016-1058 du 3 août 2016 - art. 2 (V)
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L123-7 (VD)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L141-1-1, alinéas 11 à 15 (VT)
+	  - Code de l'urbanisme - art. L123-7
 
 	**Cité par**:
 
@@ -8844,9 +8834,13 @@ des circonstances locales, imposer préalablement à toute ouverture à l'urbani
 
 1° L'utilisation de terrains situés en zone urbanisée et desservis par les équipements mentionnés à l'article L. 111-11 ; 
 
-2° La réalisation d'une étude d'impact prévue par l'article L. 122-1 du code de l'environnement ; 
+2° La réalisation d'une   évaluation environnementale  prévue par l'article L. 122-1 du code de l'environnement ; 
 
 3° La réalisation d'une étude de densification des zones déjà urbanisées.
+
+**Nota:**
+
+Se reporter à l'article 6 de l'ordonnance n° 2016-1058 du 3 août 2016 pour les conditions d'application de ses dispositions.
 
 **Liens relatifs à cet article**
 
@@ -8854,19 +8848,15 @@ des circonstances locales, imposer préalablement à toute ouverture à l'urbani
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Ordonnance n°2016-1058 du 3 août 2016 - art. 2 (V)
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L111-11 (VD)
-	  - Code de l'urbanisme - art. L141-5 (VD)
-	  - Code de l'environnement - art. L122-1 (M)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L122-1-5, alinéas 9 à 12 (VT)
+	  - Code de l'urbanisme - art. L111-11
+	  - Code de l'urbanisme - art. L141-5
+	  - Code de l'environnement - art. L122-1
 
 
 ##### Sous-section 2 : Protection d'espaces agricoles, naturels et urbains
@@ -19203,11 +19193,15 @@ mettre en valeur le patrimoine bâti ou non bâti et les espaces naturels.
 L'aménagement, au sens du présent livre, désigne l'ensemble des actes des collectivités locales ou des établissements publics
 de coopération intercommunale qui visent, dans le cadre de leurs compétences, d'une part, à conduire ou à autoriser des
 actions ou des opérations définies dans l'alinéa précédent et, d'autre part, à assurer l'harmonisation de ces actions ou de
-ces opérations.
+ces opérations. 
 
-Toute action ou opération d'aménagement faisant l'objet d'une étude d'impact doit faire l'objet d'une étude de faisabilité
-sur le potentiel de développement en énergies renouvelables de la zone, en particulier sur l'opportunité de la création ou du
-raccordement à un réseau de chaleur ou de froid ayant recours aux énergies renouvelables et de récupération.
+Toute action ou opération d'aménagement faisant l'objet d'une   évaluation environnementale  doit faire l'objet d'une étude
+de faisabilité sur le potentiel de développement en énergies renouvelables de la zone, en particulier sur l'opportunité de la
+création ou du raccordement à un réseau de chaleur ou de froid ayant recours aux énergies renouvelables et de récupération.
+
+**Nota:**
+
+Se reporter à l'article 6 de l'ordonnance n° 2016-1058 du 3 août 2016 pour les conditions d'application de ses dispositions.
 
 **Liens relatifs à cet article**
 
@@ -19287,7 +19281,7 @@ raccordement à un réseau de chaleur ou de froid ayant recours aux énergies re
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 5
+	  - Ordonnance n°2016-1058 du 3 août 2016 - art. 2 (V)
 
 
 ###### Article L300-2
@@ -19308,8 +19302,8 @@ L'autorité compétente met ce dossier à la disposition du public dans des cond
 et de formuler des observations ou propositions. Celles-ci sont enregistrées et conservées. Le bilan de la concertation est
 joint à la demande de permis. 
 
-Pour les projets devant faire l'objet d'une étude d'impact et pour lesquels la concertation préalable est réalisée, il n'y a
-pas lieu d'organiser l'enquête publique mentionnée à l'article L. 123-1 du code de l'environnement. 
+Pour les projets devant faire l'objet d'une évaluation environnementale et pour lesquels la concertation préalable est
+réalisée, il n'y a pas lieu d'organiser l'enquête publique mentionnée à l'article L. 123-1 du code de l'environnement. 
 
 La demande de permis de construire ou de permis d'aménager, l'étude d'impact et le bilan de la concertation font l'objet
 d'une mise à disposition du public selon les modalités prévues au II de l'article L. 120-1-1 du code de l'environnement. 
@@ -19318,6 +19312,10 @@ L'autorité mentionnée aux 1° ou 2° de l'article L. 103-3 peut prendre une d�
 projets de travaux ou d'aménagements mentionnés au présent article, ceux qui, compte tenu de leur importance, de leur impact
 potentiel sur l'aménagement de la commune ou de la sensibilité du lieu où ils seront implantés, sont soumis à cette
 concertation.
+
+**Nota:**
+
+Se reporter à l'article 6 de l'ordonnance n° 2016-1058 du 3 août 2016 pour les conditions d'application de ses dispositions.
 
 **Liens relatifs à cet article**
 
@@ -19359,7 +19357,7 @@ concertation.
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 5
+	  - Ordonnance n°2016-1058 du 3 août 2016 - art. 2 (V)
 
 	**Cite**:
 
@@ -19367,10 +19365,6 @@ concertation.
 	  - Code de l'urbanisme - art. L103-3 (VD)
 	  - Code de l'environnement - art. L120-1-1
 	  - Code de l'environnement - art. L123-1
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L300-3
@@ -28519,26 +28513,27 @@ adaptation mineure aux règles d'urbanisme applicables.
 
 ###### Article L424-4
 
-Lorsque la décision autorise un projet soumis à étude d'impact, elle est accompagnée d'un document comportant les
-informations prévues à l'article L. 122-1 du code de l'environnement.
+Lorsque la décision autorise un projet soumis à évaluation environnementale, elle comprend en annexe un document comportant
+les éléments mentionnés au I de l'article L. 122-1-1 du code de l'environnement.
 
 **Nota:**
 
-
+Se reporter à l'article 6 de l'ordonnance n° 2016-1058 du 3 août 2016 pour les conditions d'application de ses dispositions.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L122-1 (V)
 
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1058 du 3 août 2016 - art. 2 (V)
+	  - Ordonnance n°2016-1058 du 3 août 2016 - art. 5
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L122-1-1
 
 
 ###### Article L424-5
@@ -55510,8 +55505,10 @@ d'intervention définies contractuellement entre les contributeurs, le comité d
 
 - détermine les orientations générales du fonds. Il s'appuie pour ce faire, d'une part, sur les objectifs des schémas
 d'aménagement régionaux prévus aux articles L. 4433-7 et suivants du code général des collectivités territoriales, des
-contrats mentionnés aux articles R. 4251-1 et suivants du même code et des contrats établis dans le cadre de la programmation
-des aides européennes et, d'autre part, sur les programmes départementaux et locaux de l'habitat lorsqu'ils existent ;
+contrats        établis par le décret n° 83-32 du 21 janvier 1983 relatif aux contrats de plan entre l'Etat et les
+collectivités territoriales ou des personnes morales autres que les entreprises publiques et privées et des contrats établis
+dans le cadre de la programmation des aides européennes et, d'autre part, sur les programmes départementaux et locaux de
+l'habitat lorsqu'ils existent ;
 
 - arrête une programmation financière et physique prévisionnelle pour trois ans des projets éligibles aux aides accordées par
 le fonds régional d'aménagement foncier et urbain ;
@@ -55541,7 +55538,7 @@ d'intervention du fonds.
 
 	**Modifié par**:
 
-	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
+	  - Décret n°2016-1071 du 3 août 2016 - art. 4
 
 	**Cite**:
 
