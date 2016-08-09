@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2016-08-06
+Version Consolidée au 2016-08-10
 
 # Partie législative
 
@@ -2753,6 +2753,8 @@ livre ;
 
 2° Les dispositions particulières aux zones de bruit des aérodromes prévues à l'article L. 112-3 ; 
 
+2° bis Le schéma régional de cohérence écologique prévu à l'article L. 371-3 du code de l'environnement ; 
+
 3° Les schémas de cohérence territoriale ; 
 
 4° Les chartes intercommunales de développement et d'aménagement ; 
@@ -2765,18 +2767,15 @@ livre ;
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Loi n°2016-1087 du 8 août 2016 - art. 57
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L112-3 (VD)
-	  - Code de l'urbanisme - art. L113-8 (VD)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L142-1, alinéa 2 (VT)
+	  - Code de l'urbanisme - art. L112-3
+	  - Code de l'urbanisme - art. L113-8
+	  - Code de l'environnement - art. L371-3 (VT)
 
 
 ##### Sous-section 3 : Mise en œuvre
@@ -3109,9 +3108,10 @@ délimitée par un plan local d'urbanisme, ni dans un secteur constructible dél
 ###### Article L113-21
 
 Le département ou l'établissement public mentionné à l'article L. 143-16 élabore, en accord avec la ou les communes ou
-établissements publics de coopération intercommunale compétents, un programme d'action qui précise les aménagements et les
-orientations de gestion destinés à favoriser l'exploitation agricole, la gestion forestière, la préservation et la
-valorisation des espaces naturels et des paysages au sein du périmètre d'intervention. 
+établissements publics de coopération intercommunale compétents et après avoir recueilli l'avis de l'agence des espaces verts
+de la région d'Ile-de-France, un programme d'action qui précise les aménagements et les orientations de gestion destinés à
+favoriser l'exploitation agricole, la gestion forestière, la préservation et la valorisation des espaces naturels et des
+paysages au sein du périmètre d'intervention. 
 
 Le projet de programme est également adressé à la chambre départementale d'agriculture ainsi qu'à l'Office national des
 forêts si le périmètre comprend des parcelles soumises au régime forestier.
@@ -3122,9 +3122,9 @@ forêts si le périmètre comprend des parcelles soumises au régime forestier.
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Loi n°2016-1087 du 8 août 2016 - art. 67
 
 	**Cité par**:
 
@@ -3133,12 +3133,7 @@ forêts si le périmètre comprend des parcelles soumises au régime forestier.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L143-16 (VD)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L143-2, alinéa unique, phrase 1 (VT)
-	  - Code de l'urbanisme - art. R143-5, alinéa 2, phrase 1 en partie (VT)
+	  - Code de l'urbanisme - art. L143-16
 
 
 ###### Article L113-22
@@ -3298,7 +3293,9 @@ après information des communes et des établissements publics de coopération i
 ###### Article L113-27
 
 Les biens acquis sont intégrés dans le domaine privé de la collectivité territoriale ou de l'établissement public qui les a
-acquis. Ils ne peuvent être utilisés qu'en vue de la réalisation des objectifs définis par le programme d'action.
+acquis ou dans le domaine propre du Conservatoire de l'espace littoral et des rivages lacustres lorsque celui-ci les a acquis
+en application des articles L. 215-2, L. 215-5 ou L. 215-8. Ils ne peuvent être utilisés qu'en vue de la réalisation des
+objectifs définis par le programme d'action.
 
 **Liens relatifs à cet article**
 
@@ -3306,13 +3303,15 @@ acquis. Ils ne peuvent être utilisés qu'en vue de la réalisation des objectif
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Loi n°2016-1087 du 8 août 2016 - art. 110
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code de l'urbanisme - art. L143-3, alinéa 6, phrases 1 et 2 (VT)
+	  - Code de l'urbanisme - art. L215-2 (V)
+	  - Code de l'urbanisme - art. L215-5 (V)
+	  - Code de l'urbanisme - art. L215-8 (V)
 
 
 ###### Article L113-28
@@ -3339,6 +3338,52 @@ temporaires sont consenties et résolues en cas d'inexécution des obligations d
 
 	  - Code de l'urbanisme - art. L143-3, alinéa 6, phrase 3 (VT)
 	  - Code de l'urbanisme - art. L143-6 (VT)
+
+
+#####  Section 4 : Espaces de continuités écologiques 
+
+##### Sous-section 1 : Classement 
+
+
+###### Article L113-29
+
+Les plans locaux d'urbanisme peuvent classer en espaces de continuités écologiques des éléments des trames verte et bleue,
+définies aux II et III de l'article L. 371-1 du code de l'environnement, qui sont nécessaires à la préservation ou à la
+remise en bon état des continuités écologiques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1087 du 8 août 2016 - art. 85
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L371-1 (V)
+
+
+##### Sous-section 2 : Mise en œuvre 
+
+
+
+###### Article L113-30
+
+La protection des espaces de continuités écologiques est assurée par les dispositions prévues au présent chapitre ou à la
+section 4 du chapitre Ier du titre V du présent livre, notamment aux articles L. 151-22, L. 151-23 ou L. 151-41, ou par des
+orientations d'aménagement et de programmation en application de l'article L. 151-7, en tenant compte des activités humaines,
+notamment agricoles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1087 du 8 août 2016 - art. 85
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L151-22 (V)
+	  - Code de l'urbanisme - art. L151-41 (V)
+	  - Code de l'urbanisme - art. L151-7 (V)
 
 
 #### Chapitre IV : Etude de sécurité publique
@@ -12015,7 +12060,8 @@ patrimoine et à l'insertion des constructions dans le milieu environnant.
 Le règlement peut identifier et localiser les éléments de paysage et identifier, localiser et délimiter les quartiers, îlots,
 immeubles bâtis ou non bâtis, espaces publics, monuments, sites et secteurs à protéger, à conserver, à mettre en valeur ou à
 requalifier pour des motifs d'ordre culturel, historique ou architectural et définir, le cas échéant, les prescriptions de
-nature à assurer leur préservation, leur conservation ou leur restauration.
+nature à assurer leur préservation leur conservation ou leur restauration. Lorsqu'il s'agit d'espaces boisés, il est fait
+application du régime d'exception prévu à l'article L. 421-4 pour les coupes et abattages d'arbres.
 
 **Liens relatifs à cet article**
 
@@ -12051,7 +12097,7 @@ nature à assurer leur préservation, leur conservation ou leur restauration.
 
 	**Modifié par**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 105
+	  - Loi n°2016-1087 du 8 août 2016 - art. 81
 
 
 ###### Article L151-20
@@ -12131,8 +12177,8 @@ fonction de leur nature, afin de contribuer au maintien de la biodiversité et d
 
 Le règlement peut identifier et localiser les éléments de paysage et délimiter les sites et secteurs à protéger pour des
 motifs d'ordre écologique, notamment pour la préservation, le maintien ou la remise en état des continuités écologiques et
-définir, le cas échéant, les prescriptions de nature à assurer leur préservation. Lorsqu'il s'agit d'espaces boisés, ces
-prescriptions sont celles prévues aux articles L. 113-2 et L. 421-4. 
+définir, le cas échéant, les prescriptions de nature à assurer leur préservation. Lorsqu'il s'agit d'espaces boisés, il est
+fait application du régime d'exception prévu à l'article L. 421-4 pour les coupes et abattages d'arbres. 
 
 Il peut localiser, dans les zones urbaines, les terrains cultivés et les espaces non bâtis nécessaires au maintien des
 continuités écologiques à protéger et inconstructibles quels que soient les équipements qui, le cas échéant, les desservent.
@@ -12143,9 +12189,9 @@ continuités écologiques à protéger et inconstructibles quels que soient les 
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Loi n°2016-1087 du 8 août 2016 - art. 81
 
 	**Cité par**:
 
@@ -12155,14 +12201,6 @@ continuités écologiques à protéger et inconstructibles quels que soient les 
 	  - Code de l'urbanisme - art. R*421-17-1 (V)
 	  - Code de l'urbanisme - art. R*421-28 (V)
 	  - Code de l'urbanisme - art. R151-43 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L113-2 (VD)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L123-1-5, alinéa 18 en partie, et alinéa 21 (VT)
 
 
 ###### Article L151-24
@@ -12761,15 +12799,19 @@ constructions ou installations d'une superficie supérieure à un seuil défini 
 avoir pour effet d'interdire les travaux ayant pour objet l'adaptation, le changement de destination, la réfection ou
 l'extension limitée des constructions existantes.
 
+En outre, dans les zones urbaines et à urbaniser, le règlement peut instituer des servitudes consistant à indiquer la
+localisation prévue et les caractéristiques des voies et ouvrages publics, ainsi que les installations d'intérêt général et
+les espaces verts à créer ou à modifier, en délimitant les terrains qui peuvent être concernés par ces équipements.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Loi n°2016-1087 du 8 août 2016 - art. 156
 
 	**Cité par**:
 
@@ -12786,11 +12828,6 @@ l'extension limitée des constructions existantes.
 	  - Code de l'urbanisme - art. R313-3 (V)
 	  - Code de la construction et de l'habitation. - art. L302-1 (V)
 	  - Code des transports - art. R1241-32 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L123-1-5, alinéa 27 (VT)
-	  - Code de l'urbanisme - art. L123-2 (VT)
 
 
 ###### Article L151-42
@@ -14355,15 +14392,19 @@ Le plan local d'urbanisme est révisé lorsque l'établissement public de coopé
 3° Soit de réduire une protection édictée en raison des risques de nuisance, de la qualité des sites, des paysages ou des
 milieux naturels, ou d'une évolution de nature à induire de graves risques de nuisance.
 
+4° Soit d'ouvrir à l'urbanisation une zone à urbaniser qui, dans les neuf ans suivant sa création, n'a pas été ouverte à
+l'urbanisation ou n'a pas fait l'objet d'acquisitions foncières significatives de la part de la commune ou de l'établissement
+public de coopération intercommunale compétent, directement ou par l'intermédiaire d'un opérateur foncier.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Loi n°2016-1087 du 8 août 2016 - art. 156
 
 	**Cité par**:
 
@@ -14377,10 +14418,6 @@ milieux naturels, ou d'une évolution de nature à induire de graves risques de 
 	  - Code de l'urbanisme - art. R151-15 (V)
 	  - Code de l'urbanisme - art. R151-5 (V)
 	  - Code du patrimoine - art. R621-93 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L123-13, alinéas 1 à 4  (VT)
 
 
 ###### Article L153-32
@@ -18113,18 +18150,28 @@ intercommunale compétent.
 Le périmètre est délimité par l'autorité administrative compétente de l'Etat. En cas d'avis défavorable de la commune ou de
 l'établissement public de coopération intercommunale compétent, il ne peut être délimité que par décret en Conseil d'Etat. 
 
+Par dérogation, dans les espaces, sites et paysages définis à l'article L. 121-23 et identifiés par une directive
+territoriale d'aménagement mentionnée à l'article L. 172-1, une directive territoriale d'aménagement et de développement
+durables mentionnée à l'article L. 102-4 du présent code ou un schéma d'aménagement régional mentionné à l'article L. 4433-7
+du code général des collectivités territoriales, les zones de préemption prévues au premier alinéa du présent article sont
+délimitées par l'autorité administrative compétente de l'Etat. 
+
 A l'intérieur des périmètres ainsi délimités, le conservatoire exerce les compétences attribuées au département par le
 présent chapitre.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 4
+	  - Loi n°2016-1087 du 8 août 2016 - art. 110
 
-	**Liens**:
+	**Cite**:
 
-	  - RECTIFICATION: Ordonnance n°2015-1174 du 23 septembre 2015 - art., v. init.
+	  - Code général des collectivités territoriales - art. L4433-7 (V)
+	  - Code de l'urbanisme - art. L102-4 (V)
+	  - Code de l'urbanisme - art. L121-23 (V)
+	  - Code de l'urbanisme - art. L172-1 (V)
+	  - Code de l'urbanisme - art. L215-1
 
 	**Cité par**:
 
@@ -18132,10 +18179,6 @@ présent chapitre.
 	  - Code de l'urbanisme - art. L113-27 (V)
 	  - Code de l'urbanisme - art. L215-13 (VD)
 	  - Code de l'urbanisme - art. R215-3 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L215-1 (VD)
 
 
 ###### Article L215-3
@@ -18560,7 +18603,9 @@ préemption délimitées en application des articles L. 215-1 et L. 215-2.
 
 Les terrains acquis en application des dispositions du présent chapitre sont aménagés pour être ouverts au public, sauf
 exception justifiée par la fragilité du milieu naturel. Cet aménagement est compatible avec la sauvegarde des sites, des
-paysages et des milieux naturels. 
+paysages et des milieux naturels. A l'exception des terrains relevant du régime forestier, tout ou partie d'un terrain acquis
+et conservé pour mettre en œuvre la politique prévue à l'article L. 113-8 peut être incorporé dans le domaine public de la
+personne publique propriétaire par décision de son organe délibérant. 
 
 La personne publique propriétaire est responsable de la gestion des terrains acquis. Elle s'engage à les préserver, à les
 aménager et à les entretenir dans l'intérêt du public. Elle peut éventuellement confier la gestion des espaces aménagés à une
@@ -18569,13 +18614,16 @@ personne publique ou privée y ayant vocation.
 Seuls des équipements légers d'accueil du public ou nécessaires à la gestion courante des terrains ou à leur mise en valeur à
 des fins culturelles ou scientifiques peuvent être admis sur les terrains acquis en application des dispositions du présent
 chapitre, à l'exclusion de tout mode d'occupation du sol de nature à compromettre la conservation ou la protection de ces
-terrains en tant qu'espaces naturels.
+terrains en tant qu'espaces naturels. 
+
+Les terrains acquis en application du présent chapitre font l'objet d'un plan de gestion.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 4
+	  - Loi n°2016-1087 du 8 août 2016 - art. 58
+	  - Loi n°2016-1087 du 8 août 2016 - art. 59
 
 	**Cité par**:
 
@@ -27691,8 +27739,8 @@ Ce décret précise les cas où les clôtures sont également soumises à décla
 
 Ce décret arrête également la liste des cas dans lesquels il est fait exception à l'obligation de déclaration préalable à
 laquelle sont soumises les coupes et abattages d'arbres dans les bois, forêts ou parcs situés sur le territoire de communes
-où l'établissement d'un plan local d'urbanisme a été prescrit ainsi que dans tout espace boisé classé en application de
-l'article L. 113-1.
+où l'établissement d'un plan local d'urbanisme a été prescrit ainsi que dans tout espace boisé identifié en application des
+articles L. 113-1, L. 151-19 ou L. 151-23 ou classé en application de l'article L. 113-1.
 
 **Liens relatifs à cet article**
 
@@ -27737,11 +27785,11 @@ l'article L. 113-1.
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 6
+	  - Loi n°2016-1087 du 8 août 2016 - art. 81
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L113-1 (VD)
+	  - Code de l'urbanisme - art. L113-1
 
 	**Codifié par**:
 
