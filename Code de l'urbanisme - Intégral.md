@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2016-08-15
+Version Consolidée au 2016-09-15
 
 # Partie législative
 
@@ -54638,6 +54638,414 @@ public de gestion sont soumis aux procédures fixées au I de l'article R. 328-1
 	  - Code de l'urbanisme - art. *R328-11 (V)
 
 
+#### Chapitre IX : Organisme de foncier solidaire
+
+##### Section 1 : Création de l'organisme de foncier solidaire
+
+###### Article R329-1
+
+Pour se voir reconnaître le statut d'organisme de foncier solidaire dans les conditions prévues à la section 2 du présent
+chapitre, une personne morale de droit public ou de droit privé ayant cet objet doit être en mesure de garantir la pérennité
+des baux accordés dans le cadre de l'exercice de cette activité. 
+
+Un organisme de foncier solidaire exerce à titre principal les missions définies à l'article L. 329-1. Il peut également
+avoir pour objet l'accompagnement des bénéficiaires des baux réels solidaires qu'il consent et le montage d'opérations
+immobilières, hors du cadre de ce type de baux.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1215 du 12 septembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L329-1
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R329-5 (V)
+
+
+###### Article R329-2
+
+L'organisme de foncier solidaire peut recevoir des apports, en nature ou en numéraire, de toute personne publique ou privée.
+Lorsque ces apports proviennent d'un organisme mentionné à l'article 140 de la loi n° 2008-776 du 4 août 2008 de
+modernisation de l'économie, l'ensemble des dispositions de cet article sont applicables à ces apports.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 140
+
+	**Créé par**:
+
+	  - Décret n°2016-1215 du 12 septembre 2016 - art. 1
+
+
+###### Article R329-3
+
+L'organisme de foncier solidaire doit respecter les conditions suivantes :
+
+1° Son objet est autre que le partage des bénéfices ;
+
+2° Sa gouvernance est définie et organisée par les statuts dans ce but ;
+
+3° Sa gestion est conforme aux principes suivants :
+
+a) Les bénéfices réalisés sont entièrement affectés au maintien ou au développement de l'activité de l'organisme ;
+
+b) Les réserves financières obligatoires constituées ne peuvent pas être distribuées. Elles sont consacrées exclusivement à
+l'activité de gestion des baux réels solidaires signés par l'organisme ou au développement de cette activité. Les recettes
+générées par cette activité y sont entièrement affectées, y compris les produits de cessions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1215 du 12 septembre 2016 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R329-16 (V)
+
+
+###### Article R329-4
+
+Les statuts de l'organisme de foncier solidaire se réfèrent expressément aux dispositions de l'article L. 329-1. Ils
+déterminent notamment : 
+
+1° Le périmètre géographique d'intervention de l'organisme. Dans le cas où celui-ci dépasse les limites administratives de la
+région du siège social de l'organisme, les statuts doivent le mentionner expressément ; 
+
+2° La part des bénéfices issus des activités autres que celles liées au bail réel solidaire qui sont affectée aux réserves
+obligatoires ; 
+
+3° Les conditions dans lesquelles les décisions de gestion relatives aux baux réels solidaires consentis par l'organisme de
+foncier solidaire sont prises en cas de suspension ou de retrait de l'agrément de cette activité et les modalités de
+dévolution des biens de l'organisme liés à son activité de gestion de baux réels solidaires dans le délai d'un an suivant le
+retrait de cet agrément.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1215 du 12 septembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L329-1
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R329-17 (V)
+
+
+###### Article R329-5
+
+L'organisme de foncier solidaire peut décider de confier à un tiers la réalisation des missions définies à l'article R. 329-1
+qui ne sont pas réservées par l'article L. 329-1 à un organisme de foncier solidaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1215 du 12 septembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L329-1
+	  - Code de l'urbanisme - art. R329-1
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R329-11 (V)
+
+
+##### Section 2 : Agrément de l'organisme de foncier solidaire
+
+###### Article R329-6
+
+L'agrément de l'activité d'organisme de foncier solidaire prévu à l'article L. 329-1 est délivré par le préfet de région. Il
+ne comporte pas de limitation de durée. 
+
+Lorsque l'organisme de foncier solidaire exerce son activité dans plusieurs régions, un agrément doit être délivré par le
+préfet de chacune des régions concernées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1215 du 12 septembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L329-1
+
+
+###### Article R329-7
+
+A l'appui de sa demande d'agrément, l'organisme de foncier solidaire fournit les pièces et renseignements suivants :
+
+1° Ses statuts ;
+
+2° La composition de son organe de décision et la description de l'activité professionnelle de chacune des personnes
+physiques membres de cet organe ;
+
+3° L'organigramme de l'organisme, la description de la qualification des personnels salariés et de la part des activités
+confiées à des bénévoles ;
+
+4° Le commissaire aux comptes désigné par l'organisme ;
+
+5° Le budget de l'année en cours, les comptes financiers des deux exercices clos, sauf si l'organisme a été créé plus
+récemment et le budget prévisionnel de l'exercice à venir ;
+
+6° Le programme des actions de l'organisme concernées par l'agrément ;
+
+7° Un descriptif des moyens humains et matériels dont dispose l'organisme pour la réalisation de son objet statutaire,
+notamment sa capacité technique et financière à assurer ses missions ;
+
+8° Un descriptif des missions que l'organisme envisage de confier à des tiers et les partenariats qu'il envisage de nouer
+afin de remplir ces missions ;
+
+9° La description des modalités d'information des preneurs de baux réels solidaires et de contrôle de l'affectation des biens
+objets de tels baux ;
+
+10° Le cas échéant, les agréments prévus aux articles L. 365-2, L. 365-3 et L. 365-4 du code de la construction et de
+l'habitation ou l'information selon laquelle les instances dirigeantes envisagent d'en solliciter l'obtention.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1215 du 12 septembre 2016 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R329-8 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L365-2
+	  - Code de la construction et de l'habitation. - art. L365-3
+	  - Code de la construction et de l'habitation. - art. L365-4
+
+
+###### Article R329-8
+
+La demande d'agrément accompagnée des pièces prévues à l'article R. 329-7 est adressée par le représentant légal de
+l'organisme au préfet de région par lettre recommandée avec demande d'avis de réception, ou par voie électronique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1215 du 12 septembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R329-7
+
+
+###### Article R329-9
+
+L'agrément est délivré en tenant compte des moyens financiers et humains dont l'organisme dispose pour l'exercice de ses
+missions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1215 du 12 septembre 2016 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2017-1037 du 10 mai 2017 - art. 6
+
+
+###### Article R329-10
+
+Le préfet de région dispose d'un délai de trois mois à compter de la réception du dossier complet pour se prononcer sur la
+demande.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1215 du 12 septembre 2016 - art. 1
+
+
+##### Section 3 : Contrôle de l'activité de l'organisme de foncier solidaire
+
+
+###### Article R329-11
+
+L'organisme de foncier solidaire établit chaque année un rapport d'activité, qui est soumis à l'approbation de son organe de
+décision. Il est adressé au préfet qui a délivré l'agrément dans un délai de six mois à compter de la clôture de l'exercice. 
+
+Ce rapport contient les éléments suivants : 
+
+1° Un compte rendu de l'activité de l'organisme de foncier solidaire, qui porte tant sur son fonctionnement interne que sur
+ses rapports avec les tiers, notamment ceux mentionnés à l'article R. 329-5 ; 
+
+2° Les comptes financiers, certifiés par le commissaire aux comptes ; 
+
+3° La liste des bénéficiaires d'un bail réel solidaire signé avec l'organisme et les conditions de cession des droits réels
+au cours de l'exercice ; 
+
+4° Un bilan de l'activité de suivi des bénéficiaires d'un bail réel solidaire ; 
+
+5° La description des modalités d'information des preneurs de nouveaux baux réels solidaires ; 
+
+6° Si l'organisme de foncier solidaire fait appel à la générosité publique, le compte d'emploi des ressources collectées
+auprès du public prévu à l'article 4 de la loi n° 91-772 du 7 août 1991, qui précise notamment l'affectation des dons par
+type de dépenses et qui mentionne les informations relatives à son élaboration ; 
+
+7° La liste des libéralités reçues. 
+
+Lorsque le rapport d'activité n'a pas été notifié dans le délai mentionné au premier alinéa, ou lorsque le rapport est
+incomplet, l'autorité administrative peut mettre en demeure l'organisme de foncier solidaire de se conformer à ses
+obligations dans un délai d'un mois.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°91-772 du 7 août 1991 - art. 4
+	  - Code de l'urbanisme - art. R329-5
+
+	**Créé par**:
+
+	  - Décret n°2016-1215 du 12 septembre 2016 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R329-16 (V)
+
+
+###### Article R329-12
+
+Le préfet qui a délivré l'agrément peut à tout moment contrôler les conditions d'exercice de l'activité de l'organisme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1215 du 12 septembre 2016 - art. 1
+
+
+###### Article R329-13
+
+Toute modification statutaire est notifiée sans délai au préfet qui a délivré l'agrément.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1215 du 12 septembre 2016 - art. 1
+
+
+##### Section 4 : Suspension ou retrait de l'agrément
+
+
+###### Article R329-14
+
+Le préfet de région peut à tout moment suspendre ou retirer l'agrément si l'organisme ne satisfait plus aux conditions de
+délivrance de cet agrément ou s'il constate un manquement grave à ses obligations. L'arrêté prononçant la suspension précise
+sa durée.
+
+En cas de suspension de l'agrément, l'organisme de foncier solidaire transmet sans délai au préfet de région copie de tous
+les actes relatifs aux baux réels solidaires qu'il a consentis. L'organisme ne peut conclure de nouveau bail réel solidaire
+pendant la durée de la suspension.
+
+En cas de retrait de l'agrément, l'organisme de foncier solidaire dispose d'un délai d'un an pour procéder à la cession de
+ses actifs affectés à un bail réel solidaire à un autre organisme de foncier solidaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1215 du 12 septembre 2016 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R329-15 (V)
+
+
+###### Article R329-15
+
+Les décisions mentionnées à l'article R. 329-14 sont prises à l'issue d'une procédure contradictoire au cours de laquelle les
+responsables de l'organisme sont mis à même d'être entendus et de faire part de leurs observations. Ils peuvent se faire
+représenter ou assister lors de cette procédure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1215 du 12 septembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R329-14
+
+
+###### Article R329-16
+
+Constituent notamment des manquements graves de l'organisme de foncier solidaire à ses obligations : 
+
+1° La violation des règles de gestion financière prévues aux articles R. 329-3 et R. 329-4 ; 
+
+2° La violation des dispositions du VI de l'article 140 de la loi n° 2008-776 du 4 août 2008 relatives à l'établissement et à
+la publicité des comptes annuels et à la mission du commissaire aux comptes ; 
+
+3° Le fait pour l'organisme de foncier solidaire de disposer ou de consommer tout ou partie de la dotation en capital ou des
+fonds affectés dont il bénéficie dans le cas où les statuts n'autorisent pas à les consommer, et, dans le cas où les statuts
+prévoient cette possibilité, le fait d'en disposer ou d'en consommer tout ou partie en violation des conditions fixées par
+les clauses statutaires ou pour une cause étrangère à la réalisation des objets ou des missions d'intérêt général
+poursuivis ; 
+
+4° Le fait pour l'organisme de foncier solidaire de ne pas avoir adressé les rapports d'activité à l'autorité administrative
+ou d'avoir adressé des rapports d'activité incomplets, durant deux exercices consécutifs, malgré la mise en demeure qui lui a
+été faite en application de l'article R. 329-11 ; 
+
+5° Le fait pour l'organisme de foncier solidaire de conclure un bail réel solidaire avec des preneurs ne respectant pas les
+conditions de ressources, de loyers ou de cession de prix prévues aux articles L. 255-2 et L. 255-4 ou de donner son agrément
+à la cession de ces droits sans respecter les conditions prévues aux articles L. 255-10 et suivants.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 140
+	  - Code de l'urbanisme - art. R329-11
+	  - Code de l'urbanisme - art. R329-3
+	  - Code de la construction et de l'habitation. - art. L255-10
+	  - Code de la construction et de l'habitation. - art. L255-2
+
+	**Créé par**:
+
+	  - Décret n°2016-1215 du 12 septembre 2016 - art. 1
+
+
+###### Article R329-17
+
+En cas de dissolution de l'organisme foncier solidaire, l'ensemble des droits et obligations de l'organisme, notamment les
+baux réels solidaires signés par lui et les biens immobiliers objets de tels baux, ainsi que les réserves affectées
+mentionnées à l'article R. 329-4, sont dévolus à un autre organisme foncier solidaire. A défaut de décision de l'organisme
+avant sa dissolution, la dévolution est prononcée par le préfet de région.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1215 du 12 septembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R329-4
+
+
 ### Titre III : Dispositions financières
 
 #### Chapitre Ier : Fiscalité de l'aménagement
@@ -55826,6 +56234,19 @@ de plan Etat-région.
 	**Créé par**:
 
 	  - Décret n°2002-666 du 29 avril 2002 - art. 1 () JORF 2 mai 2002
+
+
+###### Article R340-7
+
+Pour  l'application des dispositions du chapitre IX du titre II du présent  livre en Guyane, en Martinique et à Mayotte, la
+référence à la région  est remplacée respectivement par la référence à la collectivité  territoriale de Guyane, la
+collectivité territoriale de Martinique ou au  Département de Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1215 du 12 septembre 2016 - art. 2
 
 
 ## Livre IV : Régime applicable aux constructions, aménagements et démolitions
