@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2016-09-15
+Version Consolidée au 2016-10-28
 
 # Partie législative
 
@@ -33603,29 +33603,28 @@ défini par le décret n° 2009-1359 du 5 novembre 2009 ;
 le décret n° 2011-1649 du 25 novembre 2011 ; 
 
 16° A l'opération de requalification de copropriétés dégradées d'intérêt national du quartier dit du Bas-Clichy à Clichy-
-sous-Bois, dans le périmètre défini par le décret n° 2015-99 du 28 janvier 2015.
+sous-Bois, dans le périmètre défini par le décret n° 2015-99 du 28 janvier 2015 ; 
+
+18° A l'opération de requalification de copropriétés dégradées d'intérêt national du quartier dit " Grigny 2 " à Grigny, dans
+le périmètre défini par le décret n° 2016-1439 du 26 octobre 2016.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°2007-783 du 10 mai 2007 (V)
-	  - Décret n°2008-229  du 7 mars 2008 (V)
-	  - Décret n°2009-248  du 3 mars 2009 (V)
-	  - Décret n°2009-1359  du 5 novembre 2009 (V)
-	  - Décret n°2010-744 du 2 juillet 2010 (V)
-	  - Décret n°2011-414  du 18 avril 2011 (V)
-	  - Décret n°2011-1649  du 25 novembre 2011 (V)
-	  - Décret n°2015-99 du 28 janvier 2015 (V)
-	  - Code général des collectivités territoriales - art. L5311-1 (VT)
-	  - Code de l'urbanisme - art. L102-12 (V)
-	  - Code des transports - art. L6323-6 (V)
+	  - Décret n°2007-783 du 10 mai 2007
+	  - Décret n°2008-229 du 7 mars 2008
+	  - Décret n°2009-248 du 3 mars 2009
+	  - Décret n°2009-1359 du 5 novembre 2009
+	  - Décret n°2010-744 du 2 juillet 2010
+	  - Décret n°2011-414 du 18 avril 2011
+	  - Décret n°2011-1649 du 25 novembre 2011
+	  - Décret n°2015-99 du 28 janvier 2015
+	  - Code général des collectivités territoriales - art. L5311-1
+	  - Code de l'urbanisme - art. L102-12
+	  - Code des transports - art. L6323-6
 
 	**Codifié par**:
-
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
-
-	**Créé par**:
 
 	  - Décret n°2015-1783 du 28 décembre 2015 - art.
 
@@ -33642,9 +33641,9 @@ sous-Bois, dans le périmètre défini par le décret n° 2015-99 du 28 janvier 
 	  - Code de l'urbanisme - art. L328-3 (VD)
 	  - Code de l'urbanisme - art. L328-4 (VD)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de l'urbanisme - art. R*121-4-1 (Ab)
+	  - Décret n°2016-1439 du 26 octobre 2016 - art. 1 (V)
 
 
 #### Chapitre III : Participation du public
