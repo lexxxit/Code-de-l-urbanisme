@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2016-10-28
+Version Consolidée au 2016-11-05
 
 # Partie législative
 
@@ -33605,6 +33605,8 @@ le décret n° 2011-1649 du 25 novembre 2011 ;
 16° A l'opération de requalification de copropriétés dégradées d'intérêt national du quartier dit du Bas-Clichy à Clichy-
 sous-Bois, dans le périmètre défini par le décret n° 2015-99 du 28 janvier 2015 ; 
 
+17° A l'opération d'aménagement de Grigny, dans le périmètre défini par le décret n° 2016-1484 du 2 novembre 2016 ; 
+
 18° A l'opération de requalification de copropriétés dégradées d'intérêt national du quartier dit " Grigny 2 " à Grigny, dans
 le périmètre défini par le décret n° 2016-1439 du 26 octobre 2016.
 
@@ -33643,7 +33645,7 @@ le périmètre défini par le décret n° 2016-1439 du 26 octobre 2016.
 
 	**Modifié par**:
 
-	  - Décret n°2016-1439 du 26 octobre 2016 - art. 1 (V)
+	  - Décret n°2016-1484 du 2 novembre 2016 - art. 1
 
 
 #### Chapitre III : Participation du public
