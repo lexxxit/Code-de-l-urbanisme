@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2016-11-05
+Version Consolidée au 2016-11-11
 
 # Partie législative
 
@@ -43809,7 +43809,9 @@ L. 332-9 dans sa rédaction antérieure au 31 décembre 2010 ;
 13° Les périmètres fixés par les conventions de projet urbain partenarial mentionnées à l'article L. 332-11-3 ; 
 
 14° Les périmètres à l'intérieur desquels l'autorité compétente peut surseoir à statuer sur les demandes d'autorisation en
-application de l'article L. 424-1.
+application de l'article L. 424-1 ;
+
+15° Les périmètres de projet prévus à l'article L. 322-13.
 
 **Liens relatifs à cet article**
 
@@ -43817,29 +43819,24 @@ application de l'article L. 424-1.
 
 	  - Décret n°2015-1783 du 28 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
+	  - Décret n°2016-1514 du 8 novembre 2016 - art. 7
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L111-16 (V)
-	  - Code de l'urbanisme - art. L112-6 (V)
-	  - Code de l'urbanisme - art. L113-16 (V)
-	  - Code de l'urbanisme - art. L115-3 (V)
-	  - Code de l'urbanisme - art. L121-28 (V)
-	  - Code de l'urbanisme - art. L122-12 (V)
-	  - Code de l'urbanisme - art. L313-1 (V)
-	  - Code de l'urbanisme - art. L331-14 (V)
-	  - Code de l'urbanisme - art. L331-36 (V)
-	  - Code de l'urbanisme - art. L332-11-3 (V)
-	  - Code de l'urbanisme - art. L332-9 (Ab)
-	  - Code de l'urbanisme - art. L424-1 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R*123-13, alinéas 1 à 3, 5, 11 à 13, 16, 18 à 21  (Ab)
-	  - Code de l'urbanisme - art. R*123-14, alinéas 1, 5 et10 (Ab)
+	  - Code de l'urbanisme - art. L111-16
+	  - Code de l'urbanisme - art. L112-6
+	  - Code de l'urbanisme - art. L113-16
+	  - Code de l'urbanisme - art. L115-3
+	  - Code de l'urbanisme - art. L121-28
+	  - Code de l'urbanisme - art. L122-12
+	  - Code de l'urbanisme - art. L313-1
+	  - Code de l'urbanisme - art. L331-14
+	  - Code de l'urbanisme - art. L331-36
+	  - Code de l'urbanisme - art. L332-11-3
+	  - Code de l'urbanisme - art. L332-9
+	  - Code de l'urbanisme - art. L424-1
 
 	**Cité par**:
 
@@ -52535,46 +52532,47 @@ publiés au fichier immobilier dans les conditions et délais prévus par les d�
 
 ###### Article R*322-3
 
-L'engagement souscrit par une personne publique ou privée d'acquérir les immeubles ou, en cas d'immeubles en copropriété, les
-fractions d'immeubles qui auront fait l'objet d'un délaissement doit être joint au projet d'acte d'association soumis à
-l'enquête prévue à l'article 12 de l'ordonnance n° 2004-632 du 1er juillet 2004, à moins que celui-ci ne prévoie que
-l'association y sera engagée. 
+I. - L'engagement souscrit par une personne publique ou privée d'acquérir les immeubles ou, en cas d'immeubles en
+copropriété, les fractions d'immeubles qui auront fait l'objet d'un délaissement doit être joint au projet d'acte
+d'association soumis à l'enquête prévue à l'article 12 de l'ordonnance n° 2004-632 du 1er juillet 2004, à moins que celui-ci
+ne prévoie que l'association y sera engagée. 
 
-Le préfet du département saisi d'un projet d'acte d'association l'adresse sans délai au maire afin de recueillir l'accord ou
-l'avis, selon les cas prévus à l'article L. 322-3-2, du conseil municipal. Cette formalité n'est pas obligatoire si la
-délibération du conseil municipal est jointe au projet. Lorsque l'accord du conseil municipal n'est pas exigé, son avis est
-réputé favorable s'il n'est pas émis dans le délai de deux mois à compter de la réception par le maire du projet d'acte
-d'association. 
+II. - Le représentant de l'Etat dans le département saisi d'un projet d'acte d'association l'adresse, dans le délai d'un
+mois, au maire afin de recueillir l'accord ou l'avis, selon les cas prévus à l'article L. 322-3-2, du conseil municipal.
+Cette formalité n'est pas obligatoire si la délibération du conseil municipal est jointe au projet. L'accord est réputé
+acquis ou, le cas échéant, l'avis est réputé favorable au terme d'un délai de deux mois à compter de la réception du projet
+d'acte d'association.
 
-Dans le délai de trois mois à compter de la date de l'accord ou de l'avis du conseil municipal, le préfet du département
-prend un arrêté prescrivant l'enquête administrative et convoquant les propriétaires en assemblée générale ou, à défaut,
-notifie au demandeur les raisons pour lesquelles il estime que le dossier n'est pas susceptible d'être instruit. 
+Dans le délai de deux mois à compter de l'accord ou de l'avis ou, lorsque cet accord ou cet avis est joint au projet
+d'association, à compter de la réception de ce projet, le représentant de l'Etat dans le département prend un arrêté ouvrant
+l'enquête publique et convoquant les propriétaires en assemblée générale ou, à défaut, notifie au demandeur les raisons pour
+lesquelles il estime que le dossier n'est pas susceptible d'être instruit. 
 
-Lorsqu'un des immeubles compris dans le périmètre envisagé est régi par la loi n° 65-557 du 10 juillet 1965 fixant le statut
-de la copropriété des immeubles bâtis, la notification prévue à l'article 9 du décret n° 2006-504 du 3 mai 2006 est faite à
-chacun des copropriétaires. 
+III. - Lorsqu'un des immeubles compris dans le périmètre envisagé est régi par la loi n° 65-557 du 10 juillet 1965 fixant le
+statut de la copropriété des immeubles bâtis, la notification prévue à l'article 9 du décret n° 2006-504 du 3 mai 2006 est
+faite à chacun des copropriétaires. 
 
 Lorsqu'un immeuble compris dans le périmètre envisagé est en indivision, l'ensemble des indivisaires est compté pour un seul
 propriétaire. 
 
-L'autorisation prévue à l'article 14 de l'ordonnance n° 2004-632 du 1er juillet 2004 est subordonnée aux conditions de
+IV. - L'autorisation prévue à l'article 14 de l'ordonnance n° 2004-632 du 1er juillet 2004 est subordonnée aux conditions de
 majorité prescrites, selon le cas, aux articles L. 322-3 et L. 322-3-1. Elle intervient dans le délai de deux mois à compter
 de l'assemblée générale des propriétaires. 
 
-L'acte constitutif de l'association est publié au fichier immobilier dans les conditions et délais prévus par les décrets n°
-55-22 du 4 janvier 1955 et 55-1350 du 14 octobre 1955.
+V. - L'acte constitutif de l'association est publié au fichier immobilier dans les conditions et délais prévus par les
+décrets n° 55-22 du 4 janvier 1955 et 55-1350 du 14 octobre 1955.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L322-3 (V)
-	  - Code de l'urbanisme - art. L322-3-1 (V)
-	  - Code de l'urbanisme - art. L322-3-2 (V)
-	  - Loi n°65-557 du 10 juillet 1965 (V)
-	  - Ordonnance n°2004-632 du 1 juillet 2004 - art. 12 (V)
-	  - Ordonnance n°2004-632 du 1 juillet 2004 - art. 14 (V)
-	  - Décret n°2006-504 du 3 mai 2006 - art. 9 (V)
+	  - Code de l'urbanisme - art. L322-3
+	  - Code de l'urbanisme - art. L322-3-1
+	  - Code de l'urbanisme - art. L322-3-2
+	  - Loi n°65-557 du 10 juillet 1965
+	  - Ordonnance n°2004-632 du 1 juillet 2004 - art. 12
+	  - Ordonnance n°2004-632 du 1 juillet 2004 - art. 14
+	  - Décret n°2006-504 du 3 mai 2006 - art. 9
 
 	**Cité par**:
 
@@ -52585,13 +52583,9 @@ L'acte constitutif de l'association est publié au fichier immobilier dans les c
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Anciens textes**:
-
-	  - Décret n°74-203 1974-02-26 ART. 3
-
 	**Modifié par**:
 
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
+	  - Décret n°2016-1514 du 8 novembre 2016 - art. 1
 
 
 ###### Article R*322-5
@@ -52623,14 +52617,32 @@ administrative gérant l'association.
 	  - Code de l'urbanisme - art. L322-10 (V)
 
 
+###### Article R322-4
+
+Les périmètres de projet prévus à l'article L. 322-13 sont délimités par délibération du conseil municipal ou de l'organe
+délibérant de l'établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme ou, s'ils
+sont situés à l'intérieur du périmètre d'une opération d'intérêt national, par arrêté du représentant de l'Etat dans le
+département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°2016-1514 du 8 novembre 2016 - art. 6
+
+
 #####  Section 2 : Dispositions concernant les associations foncières urbaines de remembrement
 
 ##### Paragraphe 1 : Constitution de l'association autorisée
 
 ###### Article R*322-6
 
-Au projet d'acte d'association soumis à l'enquête prévue à l'article 12 de l'ordonnance n° 2004-632 du 1er juillet 2004,
-doivent être joints : 
+Le dossier soumis à l'enquête publique prévue à l'article 12 de l'ordonnance n° 2004-632 du 1er juillet 2004 inclut un projet
+d'acte d'association ainsi que : 
 
 Un plan parcellaire indiquant le tracé du ou des périmètres intéressés, accompagné de l'état des propriétaires de chaque
 parcelle avant remembrement ; 
@@ -52640,7 +52652,8 @@ notamment aux prescriptions d'urbanisme ;
 
 Une estimation du coût des études déjà réalisées et à prévoir. 
 
-Le cas échéant, le programme des travaux d'aménagement à exécuter par l'association et leur estimation sommaire.
+Le cas échéant, le projet d'aménagement à exécuter par l'association et son estimation sommaire ainsi qu'une étude d'impact,
+lorsque celle-ci est requise en application de l'article R. 122-2 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -52648,17 +52661,39 @@ Le cas échéant, le programme des travaux d'aménagement à exécuter par l'ass
 
 	  - Décret n°73-1023 1973-11-08
 
-	**Anciens textes**:
-
-	  - Décret n°74-203 1974-02-26 art. 6
-
 	**Cite**:
 
-	  - Ordonnance n°2004-632 du 1 juillet 2004 - art. 12 (V)
+	  - Ordonnance n°2004-632 du 1 juillet 2004 - art. 12
 
 	**Modifié par**:
 
-	  - Décret n°2006-504 du 3 mai 2006 - art. 83 () JORF 5 mai 2006
+	  - Décret n°2016-1514 du 8 novembre 2016 - art. 2
+
+
+###### Article R322-6-1
+
+Dans le cas d'une association foncière urbaine de projet, le dossier comporte également un projet d'aménagement,
+comprenant : 
+
+1° Ce projet d'aménagement présenté sous forme de plans, schémas ou coupes ; 
+
+2° Un rapport de présentation, qui expose l'objet et la justification de l'opération, comporte une description de l'état du
+site et de son environnement, indique le programme global des constructions à édifier dans la zone et, le cas échéant, son
+échéancier prévisionnel ; il énonce également les raisons pour lesquelles le projet a été retenu, au regard des règles
+d'urbanisme en vigueur sur le territoire de la commune ou de l'établissement public de coopération intercommunale compétent
+en matière de plan local d'urbanisme, des orientations du plan local de l'habitat, lorsqu'il existe, et de l'insertion dans
+l'environnement naturel ou urbain ; 
+
+3° Le cas échéant, un programme prévisionnel des équipements publics à réaliser pour répondre aux besoins des futurs
+habitants ou usagers des constructions à édifier dans la zone ; 
+
+4° Un bilan financier prévisionnel, comportant, le cas échéant, les modalités de participation aux équipements publics.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1514 du 8 novembre 2016 - art. 8
 
 
 ##### Paragraphe 2 : Redistribution parcellaire et fixation de l'état nouveau
@@ -52705,16 +52740,24 @@ de remembrement.
 Le projet de remembrement est établi dans l'intérêt commun eu égard aux possibilités d'utilisation du sol à l'intérieur du
 périmètre de remembrement. 
 
-Le projet de remembrement est transmis au préfet du département qui saisit sans délai le maire en vue de recueillir l'accord
-ou l'avis, selon les cas prévus à l'article L. 322-6-1, du conseil municipal. Lorsque l'accord de celui-ci n'est pa exigé,
-son avis est réputé favorable s'il n'est pas émis dans le délai de deux mois à compter de la réception du dossier par le
-maire.
+Le projet de remembrement est transmis au représentant de l'Etat dans le département qui saisit, dans un délai de quinze
+jours, le maire en vue de recueillir l'accord ou l'avis, selon les cas prévus à l'article L. 322-6-1, du conseil municipal.
+L'accord est réputé acquis ou, le cas échéant, l'avis est réputé favorable au terme d'un délai de deux mois à compter de la
+réception du projet de remembrement. Cette formalité n'est pas obligatoire si l'accord ou l'avis est joint au projet. 
+
+Si le projet de remembrement est compatible avec les règles d'urbanisme applicables, l'enquête publique prévue à l'article L.
+322-6 est ouverte dans le délai de trois mois à compter de l'accord ou de l'avis ou, si l'accord ou l'avis est joint au
+projet, à compter de la transmission du projet au représentant de l'Etat.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2016-1514 du 8 novembre 2016 - art. 3
+
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L322-6-1 (V)
+	  - Code de l'urbanisme - art. L322-6-1
 
 	**Cité par**:
 
@@ -52723,15 +52766,6 @@ maire.
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Anciens textes**:
-
-	  - Décret n°74-203 1974-02-26 ART. 8
-
-	**Modifié par**:
-
-	  - Décret n°86-517 du 14 mars 1986 - art. 31 () JORF 16 mars 1986 en vigueur le 1er avril 1986
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 
 ###### Article R*322-8-1
@@ -52828,32 +52862,36 @@ affecter après remembrement à ces mêmes usages ;
 ou ouvrages dont la destruction est indispensable au remembrement et les propositions d'indemnisation en ce qui concerne les
 droits réels et personnels éteints en application de l'article L. 322-6 ;
 
-12° Les prescriptions propre à l'opération, en complément de la réglementation d'urbanisme applicable.
+12° Les prescriptions propres à l'opération, en complément de la réglementation d'urbanisme applicable. Ces prescriptions
+deviennent caduques au terme de dix années à compter de l'arrêté mentionné à l'article R. 322-17 approuvant le plan de
+remembrement, si à cette date, le périmètre de l'association est couvert par un plan local d'urbanisme ou un document
+d'urbanisme en tenant lieu.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°55-22 du 4 janvier 1955 - art. 7 (V)
-	  - Code de l'urbanisme - art. L322-6
-	  - Code de l'urbanisme - art. R*322-9
-
-	**Modifié par**:
-
-	  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*322-14 (V)
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
+	**Cite**:
+
+	  - Décret n°55-22 du 4 janvier 1955 - art. 7
+	  - Code de l'urbanisme - art. L322-6
+	  - Code de l'urbanisme - art. R*322-9
+
+	**Modifié par**:
+
+	  - Décret n°2016-1514 du 8 novembre 2016 - art. 4
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*322-14 (V)
+
 
 ###### Article R*322-11
 
-A l'issue de l'enquête, le préfet renvoie le dossier au président de l'association et porte à sa connaissance les
+A l'issue de l'enquête, dans un délai de quinze jours à compter de la réception du rapport du commissaire-enquêteur, le
+représentant de l'Etat dans le département renvoie le dossier au président de l'association et porte à sa connaissance les
 observations présentées. 
 
 Si le conseil des syndics ne peut donner satisfaction aux intéressés, le président transmet l'ensemble du dossier avec ses
@@ -52869,27 +52907,18 @@ intéressés par lettre recommandée avec demande d'avis de réception.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°74-203 1974-02-26 ART. 11
-
 	**Modifié par**:
 
-	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°2016-1514 du 8 novembre 2016 - art. 5
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L322-6 (V)
+	  - Code de l'urbanisme - art. L322-6
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*322-14 (V)
 	  - Code de l'urbanisme - art. R*322-28-2 (V)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme R322-26
 
 	**Codifié par**:
 
@@ -53200,7 +53229,72 @@ L'association foncière urbaine ne peut être dissoute avant :
 	  - Décret n°86-517 du 14 mars 1986 - art. 28 () JORF 16 mars 1986 en vigueur le 1er avril 1986
 
 
+###### Article R322-10-1
+
+Dans le cas d'une association foncière urbaine de projet, le dossier comporte également :
+
+1° La composition et l'organisation du projet, la prise en compte des constructions ou paysages avoisinants, le traitement
+minéral et végétal des voies et espaces publics et collectifs et les solutions retenues pour le stationnement des véhicules ;
+
+2° L'organisation et l'aménagement des accès au projet ;
+
+3° Le traitement des parties du terrain situées en limite du projet ;
+
+4° Les équipements à usage collectif et notamment ceux liés à la collecte des déchets ;
+
+5° Un plan de l'état actuel du terrain remembré à aménager et de ses abords faisant apparaître les constructions et les
+plantations existantes, les équipements publics qui desservent le terrain ;
+
+6° Un plan coté dans les trois dimensions faisant apparaître la composition d'ensemble du projet et les plantations à
+conserver ou à créer.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1514 du 8 novembre 2016 - art. 9
+
+
+##### Paragraphe 3 : Conditions particulières de distraction d'un terrain aménagé inclus dans le périmètre d'une association foncière urbaine de projet
+
+###### Article R322-19-1
+
+Un membre de l'association souhaitant vendre tout ou partie de ses terrains aménagés à un acquéreur qui ne veut pas être
+inclus dans le périmètre de l'association foncière urbaine de projet peut adresser une demande de distraction dans les
+conditions prévues par les statuts de l'association. 
+
+La proposition de distraction est soumise à l'assemblée générale des propriétaires. L'assemblée générale des propriétaires se
+prononce dans les conditions de majorité qualifiée prévues au deuxième alinéa de l'article L. 322-16. 
+
+Toutefois, si la proposition de distraction porte sur une surface représentant moins du dixième de la surface incluse dans le
+périmètre de l'association, la décision de distraction est prise à la majorité des propriétaires membres de l'association.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1514 du 8 novembre 2016 - art. 10
+
+
+###### Article R322-19-2
+
+La délibération de l'assemblée des propriétaires est transmise à l'autorité administrative qui modifie en conséquence le
+périmètre par acte publié et notifié dans les conditions prévues à l'article 13 du décret n° 2006-504 du 3 mai 2006.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2006-504 du 3 mai 2006 - art. 13
+
+	**Créé par**:
+
+	  - Décret n°2016-1514 du 8 novembre 2016 - art. 10
+
+
 ##### Paragraphe 3 : Mesures de publicité foncière
+
+##### Paragraphe 4 : Mesures de publicité foncière
 
 ###### Article R*322-20
 
@@ -53335,6 +53429,8 @@ parties remembrées aux communes à cadastre rénové dès la publication de l'a
 
 
 ##### Paragraphe 4 : Dispositions concernant les associations foncières urbaines de remembrement constituées d'office
+
+##### Paragraphe 5 : Dispositions concernant les associations foncières urbaines de remembrement constituées d'office
 
 ###### Article R*322-23
 
