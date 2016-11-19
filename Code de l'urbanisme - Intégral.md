@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2016-11-11
+Version Consolidée au 2016-11-20
 
 # Partie législative
 
@@ -31132,9 +31132,9 @@ En cas de méconnaissance des obligations imposées par l'article L. 451-3, le t
 destruction de la plaque commémorative au cours des travaux, à la charge du maître d'ouvrage, la gravure et l'installation
 d'une nouvelle plaque apposée dans les conditions du deuxième alinéa dudit article. 
 
-Toute association telle que définie à l'article 2-4 du code de procédure pénale peut exercer les droits reconnus à la partie
-civile en ce qui concerne les faits constituant une infraction à l'article L. 451-3 et portant un préjudice direct ou
-indirect aux intérêts collectifs qu'elle a pour objet de défendre. 
+Toute association ou fondation reconnue d'utilité publique telle que définie à l'article 2-4 du code de procédure pénale peut
+exercer les droits reconnus à la partie civile en ce qui concerne les faits constituant une infraction à l'article L. 451-3
+et portant un préjudice direct ou indirect aux intérêts collectifs qu'elle a pour objet de défendre. 
 
 Les dispositions du présent article ne sont pas applicables aux infractions relatives à l'affichage des permis ou des
 déclarations préalables.
@@ -31181,28 +31181,18 @@ déclarations préalables.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
-	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 17 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 43
 
 	**Cite**:
 
 	  - Code de procédure pénale - art. 2-4 (V)
-	  - Code de l'urbanisme - art. L421-1 (V)
-	  - Code de l'urbanisme - art. L430-2 (Ab)
-	  - Code de l'urbanisme - art. L451-3 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme 103
+	  - Code de l'urbanisme - art. L421-1
+	  - Code de l'urbanisme - art. L430-2
+	  - Code de l'urbanisme - art. L451-3
 
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
-
-	**Liens**:
-
-	  - TXT_SOURCE: Règlement CE 1103 97 1997-06-17
-	  - TXT_SOURCE: Règlement CE 974 98 1998-05-03
 
 
 ###### Article L480-4-1
@@ -53292,8 +53282,6 @@ périmètre par acte publié et notifié dans les conditions prévues à l'artic
 	  - Décret n°2016-1514 du 8 novembre 2016 - art. 10
 
 
-##### Paragraphe 3 : Mesures de publicité foncière
-
 ##### Paragraphe 4 : Mesures de publicité foncière
 
 ###### Article R*322-20
@@ -53427,8 +53415,6 @@ parties remembrées aux communes à cadastre rénové dès la publication de l'a
 
 	  - Code de l'urbanisme - art. R*322-24 (V)
 
-
-##### Paragraphe 4 : Dispositions concernant les associations foncières urbaines de remembrement constituées d'office
 
 ##### Paragraphe 5 : Dispositions concernant les associations foncières urbaines de remembrement constituées d'office
 
