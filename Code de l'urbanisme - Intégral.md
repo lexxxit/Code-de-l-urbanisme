@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2016-12-17
+Version Consolidée au 2016-12-30
 
 # Partie législative
 
@@ -291,28 +291,31 @@ un ou plusieurs de ces domaines.
 
 Pendant un délai de douze ans suivant la publication de la directive territoriale d'aménagement et de développement durables,
 l'autorité administrative peut, en application de l'article L. 102-2, qualifier de projet d'intérêt général, après avis des
-collectivités territoriales concernées et de leurs groupements, dans les conditions définies par décret en Conseil d‘Etat,
+collectivités territoriales concernées et de leurs groupements, dans les conditions définies par décret en Conseil d ‘ Etat,
 les projets de protection des espaces naturels, agricoles et forestiers ou des espaces soumis à des risques, les
 constructions, les travaux, les installations et les aménagements nécessaires à la mise en œuvre de cette directive
-territoriale d'aménagement et de développement durables.
+territoriale d'aménagement et de développement durables. Lorsque la directive territoriale d'aménagement et de développement
+durables concerne tout ou partie d'un ou plusieurs massifs tels que définis par la loi n° 85-30 du 9 janvier 1985 relative au
+développement et à la protection de la montagne, les comités de massif concernés sont saisis pour avis, au même titre que les
+collectivités territoriales concernées et leurs groupements.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°85-30 du 9 janvier 1985 (V)
 
 	**Codifié par**:
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 11
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. L102-2 (VD)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L113-4 (VT)
 
 
 ##### Sous-section 3 : Procédure d'élaboration, de révision et de modification de la directive territoriale d'aménagement et de développement durables
@@ -322,9 +325,14 @@ territoriale d'aménagement et de développement durables.
 Le projet de directive territoriale d'aménagement et de développement durables est élaboré par l'Etat, en association avec la
 région, le département, les métropoles, les communautés urbaines, les communautés d'agglomération, les communautés de
 communes compétentes en matière de schéma de cohérence territoriale et les communes non membres d'une de ces communautés qui
-sont situées dans le périmètre du projet ainsi que les établissements publics mentionnés à l'article L. 143-16.
+sont situées dans le périmètre du projet ainsi que les établissements publics mentionnés à l'article L. 143-16 et les comités
+de massifs concernés par le périmètre du projet.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
 	**Cité par**:
 
@@ -334,21 +342,13 @@ sont situées dans le périmètre du projet ainsi que les établissements public
 	  - Code de l'urbanisme - art. L102-7 (VD)
 	  - Code de l'urbanisme - art. L102-8 (VD)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
-
-	**Créé par**:
-
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L113-2, alinéa 1 (Ab)
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 11
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L143-16 (VD)
+	  - Code de l'urbanisme - art. L143-16
 
 
 ###### Article L102-7
@@ -5384,8 +5384,8 @@ ou de massifs forestiers ou par des considérations de défense nationale ou de 
 
 L'urbanisation est réalisée en continuité avec les bourgs, villages, hameaux, groupes de constructions traditionnelles ou
 d'habitations existants, sous réserve de l'adaptation, du changement de destination, de la réfection ou de l'extension
-limitée des constructions existantes et de la réalisation d'installations ou d'équipements publics incompatibles avec le
-voisinage des zones habitées.
+limitée des constructions existantes, ainsi que de la construction d'annexes, de taille limitée, à ces constructions,  et de
+la réalisation d'installations ou d'équipements publics incompatibles avec le voisinage des zones habitées.
 
 **Liens relatifs à cet article**
 
@@ -5393,9 +5393,9 @@ voisinage des zones habitées.
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 73
 
 	**Cité par**:
 
@@ -5403,23 +5403,35 @@ voisinage des zones habitées.
 	  - Code de l'urbanisme - art. L121-2 (VD)
 	  - Code de l'urbanisme - art. L122-17 (VD)
 	  - Code de l'urbanisme - art. L122-19 (VD)
+	  - Code de l'urbanisme - art. L122-26 (VD)
 	  - Code de l'urbanisme - art. L122-7 (VD)
 
-	**Anciens textes**:
 
-	  - Code de l'urbanisme - art. L145-3, alinéa 4 (VT)
+###### Article L122-5-1
+
+Le principe de  continuité s'apprécie au regard des caractéristiques locales de  l'habitat traditionnel, des constructions
+implantées et de l'existence  de voies et réseaux.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 74
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L122-6 (V)
 
 
 ###### Article L122-6
 
-Lorsque la commune est dotée d'un plan local d'urbanisme ou d'une carte communale, ce document peut délimiter les hameaux et
-groupes de constructions traditionnelles ou d'habitations existants en continuité desquels il prévoit une extension de
-l'urbanisation, en prenant en compte les caractéristiques traditionnelles de l'habitat, les constructions implantées et
-l'existence de voies et réseaux.
+Les critères mentionnés à l'article L. 122-5-1 sont pris en compte : 
 
-Lorsque la commune n'est pas dotée d'un plan local d'urbanisme ou d'une carte communale, les notions de hameaux et de groupes
-de constructions traditionnelles ou d'habitations existants doivent être interprétées en prenant en compte les critères
-mentionnés au premier alinéa.
+a) Pour la délimitation des hameaux et groupes de constructions traditionnelles ou d'habitations existants en continuité
+desquels le plan local d'urbanisme ou la carte communale prévoit une extension de l'urbanisation ; 
+
+b) Pour l'interprétation des notions de hameaux et de groupes de constructions traditionnelles ou d'habitations existants,
+lorsque la commune n'est pas dotée d'un plan local d'urbanisme ou d'une carte communale.
 
 **Liens relatifs à cet article**
 
@@ -5427,13 +5439,13 @@ mentionnés au premier alinéa.
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 74
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code de l'urbanisme - art. L145-3, alinéas 5 et 6 (VT)
+	  - Code de l'urbanisme - art. L122-5-1 (V)
 
 
 ##### Paragraphe 2 : Exceptions au principe d'extension de l'urbanisation en continuité de l'urbanisation existante
@@ -5551,10 +5563,10 @@ paysages et milieux caractéristiques du patrimoine naturel et culturel montagna
 
 ###### Article L122-10
 
-Les terres nécessaires au maintien et au développement des activités agricoles, pastorales et forestières sont préservées. La
-nécessité de préserver ces terres s'apprécie au regard de leur rôle et de leur place dans les systèmes d'exploitation locaux.
-Sont également pris en compte leur situation par rapport au siège de l'exploitation, leur relief, leur pente et leur
-exposition.
+Les terres nécessaires au maintien et au développement des activités agricoles, pastorales et forestières, en particulier les
+terres qui se situent dans les fonds de vallée,  sont préservées. La nécessité de préserver ces terres s'apprécie au regard
+de leur rôle et de leur place dans les systèmes d'exploitation locaux. Sont également pris en compte leur situation par
+rapport au siège de l'exploitation, leur relief, leur pente et leur exposition.
 
 **Liens relatifs à cet article**
 
@@ -5562,41 +5574,37 @@ exposition.
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 75
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. L122-11 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L145-3, alinéa 1, phrases 1 à 3 (VT)
 
 
 ###### Article L122-11
 
 Peuvent être autorisés dans les espaces définis à l'article L. 122-10 : 
 
-1° Les constructions nécessaires aux activités agricoles, pastorales et forestières ; 
+1° Les constructions nécessaires aux activités agricoles, pastorales et forestières ;
 
-2° Les équipements sportifs liés notamment à la pratique du ski et de la randonnée ; 
+2° Les équipements sportifs liés notamment à la pratique du ski et de la randonnée ;
 
 3° La restauration ou la reconstruction d'anciens chalets d'alpage ou de bâtiments d'estive, ainsi que les extensions
 limitées de chalets d'alpage ou de bâtiments d'estive existants dans un objectif de protection et de mise en valeur du
 patrimoine montagnard et lorsque la destination est liée à une activité professionnelle saisonnière. L'autorisation est
 délivrée par l'autorité administrative compétente de l'Etat après avis de la commission départementale de la préservation des
-espaces naturels, agricoles et forestiers et de la commission départementale de la nature, des paysages et des sites. 
+espaces naturels, agricoles et forestiers et de la commission départementale de la nature, des paysages et des sites.
 
-Lorsque des chalets d'alpage ou des bâtiments d'estive, existants ou anciens, ne sont pas desservis par les voies et réseaux,
-ou lorsqu'ils sont desservis par des voies qui ne sont pas utilisables en période hivernale, l'autorité compétente peut
-subordonner la réalisation des travaux faisant l'objet d'un permis de construire ou d'une déclaration préalable à
-l'institution d'une servitude administrative, publiée au fichier immobilier, interdisant l'utilisation du bâtiment en période
-hivernale ou limitant son usage pour tenir compte de l'absence de réseaux. Cette servitude précise que la commune est libérée
-de l'obligation d'assurer la desserte du bâtiment par les réseaux et équipements publics. Lorsque le terrain n'est pas
-desservi par une voie carrossable, la servitude rappelle l'interdiction de circulation des véhicules à moteur édictée par
-l'article L. 362-1 du code de l'environnement.
+Lorsque les chalets d'alpage ou bâtiments d'estive, existants ou  anciens, ne sont pas desservis par les voies et réseaux, ou
+lorsqu'ils  sont desservis par des voies qui ne sont pas utilisables en période  hivernale, l'autorisation, qui ne peut être
+qu'expresse, est subordonnée  à l'institution, par l'autorité compétente pour délivrer le permis de  construire ou prendre la
+décision sur la déclaration préalable, d'une servitude administrative, publiée au fichier immobilier, interdisant
+l'utilisation du bâtiment en période hivernale ou limitant son usage pour tenir compte de l'absence de réseaux. Cette
+servitude précise que la commune est libérée de l'obligation d'assurer la desserte du bâtiment par les réseaux et équipements
+publics. Lorsque le terrain n'est pas desservi par une voie carrossable, la servitude rappelle l'interdiction de circulation
+des véhicules à moteur édictée par l'article L. 362-1 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -5604,22 +5612,19 @@ l'article L. 362-1 du code de l'environnement.
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 76
 
 	**Cité par**:
 
 	  - Code de l'environnement - art. L341-16 (VD)
+	  - Code de l'urbanisme - art. L122-26 (VD)
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L122-10 (VD)
-	  - Code de l'environnement - art. L362-1 (M)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L145-3, alinéa 1, phrases 4 et 5, alinéa 2 (VT)
+	  - Code de l'urbanisme - art. L122-10
+	  - Code de l'environnement - art. L362-1
 
 
 ##### Paragraphe 3 : Préservation des parties naturelles des rives des plans d'eau naturels ou artificiels d'une superficie inférieure à mille hectares
@@ -5860,6 +5865,8 @@ modification du schéma.
 
 
 ##### Paragraphe 2 : Création d'une unité touristique nouvelle dans une commune non couverte par un schéma de cohérence territoriale
+
+##### Paragraphe 2 : Régime d'implantation des unités touristiques nouvelles
 
 ###### Article L122-19
 
@@ -7174,19 +7181,21 @@ dispositions de ces plans définies en application des 1° et 3° du même artic
 
 ###### Article L131-2
 
-Les schémas de cohérence territoriale prennent en compte :
+Les schémas de cohérence territoriale prennent en compte : 
 
 1° Les objectifs du schéma régional d'aménagement, de développement durable et d'égalité des territoires prévu à l'article L.
-4251-3 du code général des collectivités territoriales ;
+4251-3 du code général des collectivités territoriales ; 
 
-2° Les schémas régionaux de cohérence écologique prévus à l'article L. 371-3 du code de l'environnement ;
+2° Les schémas régionaux de cohérence écologique prévus à l'article L. 371-3 du code de l'environnement ; 
 
 3° Les schémas régionaux de développement de l'aquaculture marine prévus à l'article L. 923-1-1 du code rural et de la pêche
-maritime ;
+maritime ; 
 
-4° Les programmes d'équipement de l'Etat, des collectivités territoriales et des établissements et services publics ;
+4° Les programmes d'équipement de l'Etat, des collectivités territoriales et des établissements et services publics ; 
 
-5° Les schémas régionaux des carrières prévus à l'article L. 515-3 du code de l'environnement.
+5° Les schémas régionaux des carrières prévus à l'article L. 515-3 du code de l'environnement ; 
+
+6° Les schémas départementaux d'accès à la ressource forestière.
 
 **Liens relatifs à cet article**
 
@@ -7194,15 +7203,15 @@ maritime ;
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 72
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L4251-3 (Ab)
-	  - Code rural et de la pêche maritime - art. L923-1-1 (V)
-	  - Code de l'environnement - art. L515-3 (M)
+	  - Code général des collectivités territoriales - art. L4251-3
+	  - Code rural - art. L923-1-1
+	  - Code de l'environnement - art. L515-3 (VT)
 
 	**Cité par**:
 
@@ -7210,11 +7219,7 @@ maritime ;
 	  - Code de l'urbanisme - art. L131-3 (VD)
 	  - Code de l'urbanisme - art. L131-7 (VD)
 	  - Code de l'urbanisme - art. L141-1 (V)
-	  - Code de l'urbanisme - art. L141-3 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L111-1-1, alinéas 12 à 17 (VT)
+	  - Code de l'urbanisme - art. L141-3 (VD)
 
 
 ###### Article L131-3
@@ -7297,7 +7302,7 @@ Les plans locaux d'urbanisme et les documents en tenant lieu ainsi que les carte
 ###### Article L131-5
 
 Les plans locaux d'urbanisme et les documents en tenant lieu prennent en compte le plan climat-air-énergie territorial prévu
-à l'article L. 229-26 du code de l'environnement.
+à l'article L. 229-26 du code de l'environnement et les schémas départementaux d'accès à la ressource forestière.
 
 **Liens relatifs à cet article**
 
@@ -7305,17 +7310,13 @@ Les plans locaux d'urbanisme et les documents en tenant lieu prennent en compte 
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L123-1-9, alinéa 2, phrase 3 (VT)
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 72
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L229-26 (M)
+	  - Code de l'environnement - art. L229-26
 
 
 ###### Article L131-6
@@ -8971,7 +8972,9 @@ Il précise :
 1° Les objectifs d'offre de nouveaux logements, répartis, le cas échéant, entre les établissements publics de coopération
 intercommunale ou par commune ;
 
-2° Les objectifs de la politique d'amélioration et de la réhabilitation du parc de logements existant public ou privé.
+2° Les objectifs de la politique d'amélioration et de la réhabilitation du parc de logements existant public ou privé ;
+
+3° En zone de montagne, les objectifs de la politique de réhabilitation de l'immobilier de loisir.
 
 **Liens relatifs à cet article**
 
@@ -8979,13 +8982,9 @@ intercommunale ou par commune ;
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L122-1-7 (VT)
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 79
 
 	**Cité par**:
 
@@ -21385,8 +21384,8 @@ Un décret en Conseil d'Etat détermine, en tant que de besoin, les modalités d
 Les opérations de réhabilitation de l'immobilier de loisir ont pour objet l'amélioration du parc immobilier touristique et
 l'amélioration des espaces publics, du stationnement, des équipements d'infrastructures et du traitement de l'environnement.
 
-Elles tendent à améliorer l'offre qualitative des logements locatifs à destination de la clientèle touristique et du
-personnel saisonnier ainsi qu'à maintenir ou à développer l'offre de services de proximité.
+Elles tendent à améliorer le niveau d'occupation du parc immobilier, l'offre qualitative des logements locatifs à destination
+de la clientèle touristique et du personnel saisonnier ainsi qu'à maintenir ou à développer l'offre de services de proximité.
 
 Elles sont créées par délibération du conseil municipal ou de l'organe délibérant de l'établissement public de coopération
 intercommunale compétent.
@@ -21402,20 +21401,24 @@ territoriales ou leurs groupements ;
 
 - les actions d'accompagnement et d'amélioration du cadre de vie prévues.
 
-La même délibération précise en outre les bénéficiaires des aides, qui sont :
+La même délibération précise en outre les bénéficiaires des aides, qui peuvent être :
 
-- les propriétaires bailleurs engagés contractuellement pour une durée équivalente ou supérieure à neuf ans dans une mise en
-marché locatif auprès d'un professionnel ou d'un organisme local de tourisme agréé ;
+- les propriétaires, dès lors qu'ils respectent les obligations d'occupation et de location de logements définies par la
+délibération ;
 
-- les personnes physiques ou morales ayant la charge des travaux de réhabilitation et la mise en marché locatif durable ;
+- les personnes physiques ou morales ayant la charge des travaux de réhabilitation ou de la mise en marché locatif durable ;
 
-- la copropriété ayant la charge des travaux relatifs aux parties communes.
+- les personnes physiques ou morales qui s'engagent à acquérir des lots de copropriétés et à réaliser des travaux de
+restructuration et de réhabilitation dans le but de réunir des lots contigus, dès lors qu'ils respectent les obligations
+d'occupation et de location des logements définies par la délibération ;
+
+- le syndicat des copropriétaires ayant la charge des travaux relatifs aux parties communes.
+
+Cette délibération précise, en outre, les engagements souscrits par les bénéficiaires, en contrepartie des aides qui leur
+sont accordées par les collectivités et leurs groupements en matière de travaux, d'occupation et de mise en location des
+logements, ainsi que les modalités de remboursement de ces aides en cas de non-respect de ces engagements.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 186 () JORF 14 décembre 2000
 
 	**Cité par**:
 
@@ -21427,9 +21430,9 @@ marché locatif auprès d'un professionnel ou d'un organisme local de tourisme a
 	  - Code général des impôts, CGI. - art. 199 decies F (V)
 	  - Code général des impôts, CGI. - art. 261 D (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de l'urbanisme 151-I
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 80
 
 	**Liens**:
 
@@ -21438,6 +21441,42 @@ marché locatif auprès d'un professionnel ou d'un organisme local de tourisme a
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+
+###### Article L318-6
+
+En cas de vente d'un lot de copropriété d'un immeuble situé dans le périmètre d'une opération de réhabilitation de
+l'immobilier de loisir et soumis aux dispositions de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété
+des immeubles bâtis, le propriétaire vendeur notifie, avant toute publicité, son intention de vendre au syndic de la
+copropriété, en indiquant le prix souhaité et les conditions de la vente projetée. Cette information est notifiée dans un
+délai de dix jours ouvrés par le syndic à chaque copropriétaire par tout moyen permettant d'en accuser réception, aux frais
+du syndic. Lors de sa notification aux copropriétaires, le syndic précise que cette information est donnée par le vendeur à
+titre indicatif et ne constitue pas une offre de vente. 
+
+Cette obligation d'information s'applique également aux cessions d'usufruit ou de nue-propriété, pour lesquelles sont
+notamment précisées la consistance et la valeur des biens concernés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
+	**Cite**:
+
+	  - Loi n°65-557 du 10 juillet 1965 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 81
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. L318-5 (Ab)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L318-7 (Ab)
 
 
 #####  Section 3 : Dispositions particulières aux commerçants et artisans
@@ -31611,8 +31650,8 @@ règles d'urbanisme ou des servitudes d'utilité publique que si, préalablement
 par la juridiction administrative et si la construction est située dans l'une des zones suivantes : 
 
 a) Les espaces, paysages et milieux caractéristiques du patrimoine naturel et culturel montagnard mentionnés à l'article L.
-122-9, lorsqu'ils ont été identifiés et délimités par des documents réglementaires relatifs à l'occupation et à l'utilisation
-des sols ; 
+122-9 et au 2° de l'article L. 122-26, lorsqu'ils ont été identifiés et délimités par des documents réglementaires relatifs à
+l'occupation et à l'utilisation des sols ; 
 
 b) Les espaces terrestres et marins, sites et paysages remarquables ou caractéristiques du patrimoine naturel et culturel du
 littoral et les milieux nécessaires au maintien des équilibres biologiques mentionnés à l'article L. 146-6, lorsqu'ils ont
@@ -31677,10 +31716,12 @@ engagement national pour le logement, la prescription antérieure continue à co
 	**Cite**:
 
 	  - Loi n°2006-872 du 13 juillet 2006
-	  - Code rural - art. L641-10 (V)
+	  - Code rural - art. L641-10
 	  - Code rural - art. L641-13
-	  - Code de l'urbanisme - art. L121-16 (V)
-	  - Code de l'urbanisme - art. L122-12 (V)
+	  - Code de l'urbanisme - art. L121-16
+	  - Code de l'urbanisme - art. L122-12
+	  - Code de l'urbanisme - art. L122-26 (VD)
+	  - Code de l'urbanisme - art. L122-9 (V)
 	  - Code de l'urbanisme - art. L123-1-5
 	  - Code de l'environnement - art. L331-2
 	  - Code de l'environnement - art. L332-1
@@ -31690,13 +31731,13 @@ engagement national pour le logement, la prescription antérieure continue à co
 	  - Code de l'environnement - art. L515-12
 	  - Code de l'environnement - art. L515-8
 	  - Code de l'environnement - art. L562-1
-	  - Code du patrimoine - art. L621-30 (V)
-	  - Code du patrimoine - art. L631-1 (V)
+	  - Code du patrimoine - art. L621-30
+	  - Code du patrimoine - art. L631-1
 	  - Code minier (nouveau) - art. L174-5
 
 	**Modifié par**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 105
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 78
 
 	**Cité par**:
 
