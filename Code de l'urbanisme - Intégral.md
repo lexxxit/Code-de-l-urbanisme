@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2017-01-01
+Version Consolidée au 2017-01-29
 
 # Partie législative
 
@@ -572,8 +572,8 @@ vigueur, la réalisation de l'opération d'aménagement n'a pas été engagée.
 
 Lorsque des décisions des autorités publiques ayant une incidence sur l'environnement relevant du présent code
 n'appartiennent pas à une catégorie de décisions pour lesquelles des dispositions législatives particulières ont prévu les
-cas et conditions dans lesquelles elles doivent être soumises à participation du public, les dispositions des articles L.
-120-1 à L. 120-2 du code de l'environnement leur sont applicables.
+cas et conditions dans lesquelles elles doivent être soumises à participation du public, les dispositions des articles
+L. 123-19-1 à L. 123-19-6 du code de l'environnement leur sont applicables.
 
 **Liens relatifs à cet article**
 
@@ -581,17 +581,13 @@ cas et conditions dans lesquelles elles doivent être soumises à participation 
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 144
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. L600-11 (VD)
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L120-1 (V)
 
 
 ##### Section 2 : Concertation
@@ -2496,17 +2492,21 @@ s'appliquer également à des arbres isolés, des haies ou réseaux de haies ou 
 ###### Article L113-2
 
 Le classement interdit tout changement d'affectation ou tout mode d'occupation du sol de nature à compromettre la
-conservation, la protection ou la création des boisements.
+conservation, la protection ou la création des boisements. 
 
 Nonobstant toutes dispositions contraires, il entraîne le rejet de plein droit de la demande d'autorisation de défrichement
-prévue au chapitre Ier du titre IV du livre III du code forestier.
+prévue au chapitre Ier du titre IV du livre III du code forestier. 
 
 Il est fait exception à ces interdictions pour l'exploitation des produits minéraux importants pour l'économie nationale ou
 régionale, et dont les gisements ont fait l'objet d'une reconnaissance par un plan d'occupation des sols rendu public ou
 approuvé avant le 10 juillet 1973 ou par le document d'urbanisme en tenant lieu approuvé avant la même date. Dans ce cas,
 l'autorisation ne peut être accordée que si le pétitionnaire s'engage préalablement à réaménager le site exploité et si les
 conséquences de l'exploitation, au vu de l'étude d'impact, ne sont pas dommageables pour l'environnement. Un décret en
-Conseil d'Etat détermine les conditions d'application du présent alinéa.
+Conseil d'Etat détermine les conditions d'application du présent alinéa. 
+
+La délibération prescrivant l'élaboration d'un plan local d'urbanisme peut soumettre à déclaration préalable, sur tout ou
+partie du territoire couvert par ce plan, les coupes ou abattages d'arbres isolés, de haies ou réseaux de haies et de
+plantations d'alignement.
 
 **Liens relatifs à cet article**
 
@@ -2514,21 +2514,17 @@ Conseil d'Etat détermine les conditions d'application du présent alinéa.
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
-
-	**Cite**:
-
-	  - Code forestier -  Chapitre Ier : Dispositions générales. (Ab)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L130-1, alinéas 2 à 4 (VT)
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 117 (V)
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. L151-23 (VD)
+
+	**Cite**:
+
+	  - Code forestier (nouveau) -  Chapitre Ier : Régime d'autorisation préalable (V)
 
 
 ##### Sous-section 2 : Mesures de compensation du classement
@@ -6291,19 +6287,21 @@ Les orientations stratégiques du schéma font l'objet d'un débat, préalable �
 
 ###### Article L123-7
 
-Sont associés à l'élaboration du projet de schéma : 
+Sont associés à l'élaboration du projet de schéma :
 
-1° L'autorité administrative compétente de l'Etat ; 
+1° L'autorité administrative compétente de l'Etat ;
 
 2° Les conseils départementaux des départements intéressés ; 
 
-3° Les établissements publics mentionnés à l'article L. 143-16 ; 
+3° Les établissements publics mentionnés à l'article L. 143-16 ;
 
 4° Les établissements publics de coopération intercommunale à fiscalité propre intéressés qui ne sont pas situés dans le
-périmètre d'un établissement public mentionné à l'article L. 143-16 ; 
+périmètre d'un établissement public mentionné à l'article L. 143-16 ;
 
 5° Le conseil économique, social et environnemental régional ainsi que les chambres d'agriculture, les chambres de commerce
-et d'industrie et les chambres de métiers et de l'artisanat. 
+et d'industrie et les chambres de métiers et de l'artisanat ;
+
+6° La population. Le conseil régional initie et organise la concertation publique. 
 
 Le conseil régional peut consulter tout autre organisme ou personne en vue de l'élaboration du projet de schéma.
 
@@ -6313,21 +6311,17 @@ Le conseil régional peut consulter tout autre organisme ou personne en vue de l
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 59
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. L123-9 (V)
 
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L141-1-1, alinéas 3 à 9 (VT)
-
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L143-16 (VD)
+	  - Code de l'urbanisme - art. L143-16
 
 
 ###### Article L123-8
@@ -6416,8 +6410,9 @@ chapitre III du titre II du livre Ier du code de l'environnement.
 
 ###### Article L123-11
 
-A l'issue de l'enquête publique, le schéma, éventuellement modifié pour tenir compte des avis recueillis, des observations du
-public et des conclusions de la commission d'enquête, est adopté par délibération du conseil régional.
+A l'issue de la concertation publique et de l'enquête publique, le schéma, éventuellement modifié pour tenir compte des avis
+recueillis, des observations de la population et des conclusions de la commission d'enquête, est adopté par délibération du
+conseil régional.
 
 Le schéma directeur de la région d'Ile-de-France est transmis à l'autorité administrative compétente de l'Etat en vue de son
 approbation par décret en Conseil d'Etat.
@@ -6430,13 +6425,9 @@ Le schéma directeur de la région d'Ile-de-France est approuvé par décret en 
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L141-1-1, alinéas 18 à 20 (VT)
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 58
 
 
 ##### Paragraphe 4 : Evaluation
@@ -7430,8 +7421,14 @@ ce dernier est, si nécessaire, rendu compatible dans un délai de trois ans.
 
 ###### Article L131-9
 
-Les documents d'urbanisme applicables aux territoires frontaliers prennent en compte l'occupation des sols dans les
-territoires des Etats limitrophes.
+Les dispositions du plan local d'urbanisme tenant lieu de programme local de l'habitat prennent en compte toute nouvelle
+obligation applicable aux communes du territoire intercommunal en application des articles L. 302-5 et suivants du code de la
+construction et de l'habitation, dans un délai de deux ans, ou de trois ans si cette mise en compatibilité implique une
+révision du plan local d'urbanisme. Lorsque, dans ces délais, l'établissement public de coopération intercommunale n'a pas
+modifié ou révisé le plan local d'urbanisme tenant lieu de programme local de l'habitat, ou lorsqu'il a explicitement notifié
+au représentant de l'Etat sa volonté de ne pas procéder à cette modification ou révision, il est fait application du dernier
+alinéa du II de l'article L. 302-4 du même code, pour les prélèvements opérés sur les communes du territoire intercommunal en
+application de l'article L. 302-7 dudit code.
 
 **Liens relatifs à cet article**
 
@@ -7439,25 +7436,36 @@ territoires des Etats limitrophes.
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2017-86 du 27 janvier 2017 - art. 97 (V)
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 97 (V)
 
 	**Cité par**:
+
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 97 (V)
+	  - Code de l'urbanisme - art. L153-41 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L302-4
+	  - Code de la construction et de l'habitation. - art. L302-5
+	  - Code de la construction et de l'habitation. - art. L302-7
+
+
+###### Article L131-10
+
+Les documents d'urbanisme applicables aux territoires frontaliers prennent en compte l'occupation des sols dans les
+territoires des Etats limitrophes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
 
 	  - Loi n°2017-86 du 27 janvier 2017 - art. 97 (V)
 
 	**Anciens textes**:
 
-	  - Code de l'urbanisme - art. L121-4-1, alinéa 1 (VT)
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. L131-10 (V)
+	  - Code de l'urbanisme - art. L131-9 (T)
 
 
 #### Chapitre II : Elaboration des documents d'urbanisme
@@ -8123,7 +8131,7 @@ conformément aux dispositions de l'article L. 132-2.
 ###### Article L133-4
 
 La numérisation des documents d'urbanisme et des servitudes d'utilité publique en vue des transmissions prévues aux articles
-L. 132-2 et L. 133-3 s'effectue dans un format défini par décret en Conseil d'Etat.
+L. 133-2 et L. 133-3 s'effectue dans un format défini par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -8131,18 +8139,13 @@ L. 132-2 et L. 133-3 s'effectue dans un format défini par décret en Conseil d'
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L129-2, alinéa 5 première partie (VT)
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 117 (V)
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L132-2 (VD)
-	  - Code de l'urbanisme - art. L133-3 (VD)
+	  - Code de l'urbanisme - art. L133-3
 
 	**Cité par**:
 
@@ -9918,158 +9921,82 @@ d'aménagement, de protection et de mise en valeur du littoral.
 	  - Code de l'urbanisme - art. R143-6 (V)
 
 
-##### Sous-section 2 : Modification du périmètre
+##### Sous-section 2 : Extension du périmètre de l'établissement public porteur de schéma de cohérence territoriale
 
 ###### Article L143-10
 
-Lorsque le périmètre de l'établissement public prévu aux 1° et 2° de l'article L. 143-16 est étendu, dans les conditions
-définies par le code général des collectivités territoriales, à une ou plusieurs communes ou à un ou plusieurs établissements
-publics de coopération intercommunale, la décision d'extension emporte extension du périmètre du schéma de cohérence
-territoriale. 
-
-L'établissement public mentionné aux mêmes 1° et 2° engage l'élaboration, la révision ou la modification du schéma en vigueur
-pour adopter un schéma couvrant l'intégralité de son périmètre, au plus tard lors de la délibération qui suit l'analyse des
-résultats de l'application du schéma en vigueur prévue à l'article L. 143-28.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
-
-	**Créé par**:
-
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales (V)
-	  - Code de l'urbanisme - art. L143-16 (VD)
-	  - Code de l'urbanisme - art. L143-28 (VD)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L122-5, alinéas 1 et 2 (VT)
-
-
-###### Article L143-11
-
-Lorsqu'une commune ou un établissement public de coopération intercommunale se retire de l'établissement public prévu aux 1°
-et 2° de l'article L. 143-16 dans les conditions définies par le code général des collectivités territoriales, la décision de
-retrait emporte réduction du périmètre du schéma de cohérence territoriale et abrogation des dispositions du schéma sur la
-commune ou l'établissement public de coopération intercommunale retiré. Pendant un délai de six ans à compter du retrait,
-l'article L. 142-4 ne s'applique pas aux communes et établissements publics de coopération intercommunale se retirant d'un
-périmètre de schéma de cohérence territoriale applicable et n'intégrant pas un nouveau périmètre de schéma de cohérence
-territoriale. 
-
-Toutefois, par dérogation aux dispositions des articles L. 5214-21, L. 5215-22 et L. 5216-7 du code général des collectivités
-territoriales, lorsque le périmètre d'une communauté urbaine, d'une métropole, d'une communauté d'agglomération ou d'une
-communauté de communes compétente en matière de schéma de cohérence territoriale est entièrement compris dans celui d'un
-schéma de cohérence territoriale, la communauté ou la métropole est substituée de plein droit à ses communes membres ou à
-l'établissement public de coopération intercommunale dont elle est issue dans l'établissement public prévu à l'article L.
-143-16. Ni les attributions de l'établissement public ni le périmètre dans lequel il exerce ses compétences ne sont modifiés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
-
-	**Créé par**:
-
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L5214-21 (M)
-	  - Code général des collectivités territoriales - art. L5215-22 (M)
-	  - Code général des collectivités territoriales - art. L5216-7 (Ab)
-	  - Code de l'urbanisme - art. L142-4 (VD)
-	  - Code de l'urbanisme - art. L143-16 (VD)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L122-5, alinéas 3 et 4 (VT)
-
-
-###### Article L143-12
-
-Lorsque le périmètre d'une communauté urbaine, d'une métropole, d'une communauté d'agglomération ou d'une communauté de
-communes compétente en matière de schéma de cohérence territoriale n'est pas entièrement compris dans celui d'un schéma de
-cohérence territoriale, la communauté ou la métropole devient, au terme d'un délai de six mois, membre de plein droit de
-l'établissement public prévu aux 1° et 2° de l'article L. 143-16 et le périmètre du schéma est étendu en conséquence, sauf
-lorsque l'organe délibérant de la communauté ou de la métropole s'est prononcé, dans ce délai, contre son appartenance à cet
-établissement public ou si, dans ce même délai, l'établissement public chargé de l'élaboration du schéma s'oppose à
-l'extension. Dans l'un ou l'autre de ces cas, la délibération de la communauté ou de la métropole ou l'opposition de
-l'établissement public emporte réduction du périmètre du schéma de cohérence territoriale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
-
-	**Créé par**:
-
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L122-5, alinéa 5 (VT)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L143-16 (VD)
-
-
-###### Article L143-13
-
-Lorsque le périmètre d'une communauté urbaine, d'une métropole, d'une communauté d'agglomération ou d'une communauté de
-communes compétente en matière de schéma de cohérence territoriale comprend des communes appartenant à plusieurs schémas de
-cohérence territoriale, la communauté ou la métropole devient, au terme d'un délai de six mois, membre de plein droit de
-l'établissement public prévu aux 1° et 2° de l'article L. 143-16 sur le territoire duquel est comprise la majorité de sa
-population, sauf lorsque l'organe délibérant de la communauté ou de la métropole s'est prononcé dans ce délai contre son
-appartenance à cet établissement public ou pour son appartenance à l'établissement public d'un des autres schémas. Les
-communes appartenant à la communauté ou à la métropole sont retirées des établissements publics prévus aux 1° et 2° de
-l'article L. 143-16 dont la communauté ou la métropole n'est pas devenue membre. Ce retrait emporte réduction du périmètre
-des schémas de cohérence territoriale correspondants.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
-
-	**Créé par**:
-
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L122-5, alinéa 6 (VT)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L143-16 (VD)
-
-
-###### Article L143-14
+I.-Lorsque le périmètre de l'établissement public prévu aux 1° et 2° de l'article L. 143-16 est étendu, dans les conditions
+définies par le code général des collectivités territoriales, aux articles 35 et 40 de la loi n° 2015-991 du 7 août 2015
+portant nouvelle organisation territoriale de la République ou aux articles L. 143-12 ou L. 143-13 du présent code, à une ou
+plusieurs communes ou à un ou plusieurs établissements publics de coopération intercommunale, la décision d'extension emporte
+extension du périmètre du schéma de cohérence territoriale. 
 
 Dans le cas prévu au 3° de l'article L. 143-16, lorsqu'une commune ou un établissement public de coopération intercommunale
 compétent en matière de schéma de cohérence territoriale adhère, dans les conditions définies par le code général des
 collectivités territoriales, au syndicat mixte pour la compétence d'élaboration, de suivi et de révision du schéma de
-cohérence territoriale, la décision d'adhésion emporte extension du périmètre du schéma de cohérence territoriale. Le
-syndicat mixte engage l'élaboration, la révision ou la modification du schéma en vigueur pour adopter un schéma couvrant
-l'intégralité de son périmètre, au plus tard lors de la délibération qui suit l'analyse des résultats de l'application du
-schéma en vigueur prévue à l'article L. 143-28. 
+cohérence territoriale, la décision d'adhésion emporte extension du périmètre du schéma de cohérence territoriale. Il en va
+de même lorsque le périmètre du syndicat mixte est étendu en application des articles L. 143-12 ou L. 143-13. 
 
-Lorsqu'une commune ou un établissement public de coopération intercommunale compétent en matière de schéma de cohérence
-territoriale se retire du syndicat mixte pour la compétence d'élaboration, de suivi et de révision du schéma de cohérence
-territoriale, la décision de retrait emporte réduction du périmètre du schéma de cohérence territoriale et abrogation des
-dispositions du schéma sur la commune ou l'établissement public de coopération intercommunale compétent en matière de schéma
-de cohérence territoriale retiré. Pendant un délai de six ans à compter du retrait, l'article L. 142-4 ne s'applique pas aux
-communes et établissements publics de coopération intercommunale se retirant d'un périmètre de schéma de cohérence
-territoriale applicable et n'intégrant pas un nouveau périmètre de schéma de cohérence territoriale
+II.-Dans les cas mentionnés au I du présent article, l'établissement public peut : 
+
+1° Achever les procédures d'élaboration et d'évolution en cours sur le ou les périmètres antérieurs à l'extension, lorsque le
+débat prévu à l'article L. 143-18, s'il est requis, a eu lieu avant l'extension du périmètre ; 
+
+2° Engager les procédures de modification ou de mise en compatibilité des schémas approuvés, dont il assure le suivi. 
+
+L'établissement public prescrit, au plus tard lors de la délibération qui suit l'analyse des résultats de l'application du
+schéma en vigueur prévue à l'article L. 143-28, l'élaboration d'un schéma ou la révision, ou la modification de l'un des
+schémas en vigueur, pour couvrir l'intégralité du périmètre étendu de schéma de cohérence territoriale.
+
+**Nota:**
+
+Conformément au XVII de l'article 117 de la loi n° 2017-86 du 27 janvier 2017, les dispositions du présent article, dans leur
+rédaction résultant du 1° du IV du même article de la même loi, sont applicables aux établissements publics de coopération
+intercommunale à fiscalité propre créés à compter du 1er janvier 2017, en application des I et III de l'article 35 de la loi
+n° 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République, ou dont le périmètre a évolué à
+compter de cette même date en application du II du même article 35.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 35 (V)
+	  - Loi n°2015-991 du 7 août 2015 - art. 40 (V)
+	  - Code de l'urbanisme - art. L143-28 (VT)
+
+	**Codifié par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+
+	**Modifié par**:
+
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 117 (V)
+
+
+##### Sous-section 3 : Réduction de périmètre de l'établissement public porteur de schéma de cohérence territoriale
+
+###### Article L143-11
+
+Lorsqu'une commune ou un établissement public de coopération intercommunale se retire de l'établissement public prévu à
+l'article L. 143-16 dans les conditions définies par le code général des collectivités territoriales, aux articles 35 et 40
+de la loi n° 2015-991 du 7 août 2015 portant  nouvelle organisation territoriale de la République ou aux articles L.  143-12
+ou L. 143-13 du présent code, la décision de retrait emporte réduction du périmètre du schéma de cohérence territoriale et
+abrogation des dispositions du schéma sur la commune ou l'établissement public de coopération intercommunale retiré. 
+
+Toutefois, par dérogation aux dispositions des articles L. 5215-22, L. 5216-7 et L. 5217-7 du code général des collectivités
+territoriales, lorsque le périmètre d'un établissement public de coopération intercommunale à fiscalité propre est
+entièrement compris dans celui d'un schéma de cohérence territoriale, cet établissement public de coopération intercommunale
+à fiscalité propre est substitué de plein droit à ses communes membres ou à l'établissement dont il est issu dans
+l'établissement public prévu à l'article L. 143-16. Ni les attributions de l'établissement public ni le périmètre dans lequel
+il exerce ses compétences ne sont modifiés.
+
+**Nota:**
+
+Conformément au XVII de l’article 117 de la loi n° 2017-86 du 27 janvier 2017, les dispositions du présent article, dans leur
+rédaction résultant du 2° du IV du même article de la même loi, sont applicables aux établissements publics de coopération
+intercommunale à fiscalité propre créés à compter du 1er janvier 2017, en application des I et III de l'article 35 de la loi
+n° 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République, ou dont le périmètre a évolué à
+compter de cette même date en application du II du même article 35.
 
 **Liens relatifs à cet article**
 
@@ -10077,21 +10004,134 @@ territoriale applicable et n'intégrant pas un nouveau périmètre de schéma de
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 117 (V)
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales (V)
-	  - Code de l'urbanisme - art. L142-4 (VD)
-	  - Code de l'urbanisme - art. L143-16 (VD)
-	  - Code de l'urbanisme - art. L143-28 (VD)
+	  - Code général des collectivités territoriales - art. L5214-21
+	  - Code général des collectivités territoriales - art. L5215-22
+	  - Code général des collectivités territoriales - art. L5216-7
+	  - Code de l'urbanisme - art. L142-4
+	  - Code de l'urbanisme - art. L143-16
 
-	**Anciens textes**:
 
-	  - Code de l'urbanisme - art. L122-5, alinéas 7 et 8 (VT)
+##### Sous-section 4 : Couverture partielle d'un établissement public de coopération intercommunale à fiscalité propre par le périmètre d'un seul schéma de cohérence territoriale
 
+###### Article L143-12
+
+Lorsque le périmètre d'un établissement public de coopération intercommunale à fiscalité propre n'est pas entièrement compris
+dans celui d'un schéma de cohérence territoriale, celui-ci devient, au terme d'un délai de trois mois, membre de plein droit
+de l'établissement public prévu à l'article L. 143-16 et le périmètre du schéma est étendu en conséquence, sauf lorsque
+l'organe délibérant de l'établissement public de coopération intercommunale à fiscalité propre s'est prononcé, dans ce délai,
+contre son appartenance à cet établissement public. Dans ce cas, la délibération de l'établissement public de coopération
+intercommunale à fiscalité propre emporte réduction du périmètre du schéma de cohérence territoriale. 
+
+L'établissement public de coopération intercommunale à fiscalité propre peut se prononcer pour son appartenance à
+l'établissement public prévu à l'article L. 143-16 avant le terme du délai de trois mois. Dans ce cas, la délibération de
+l'établissement public de coopération intercommunale à fiscalité propre emporte extension du périmètre du schéma de cohérence
+territoriale.
+
+**Nota:**
+
+Conformément au XVII de l'article 117 de la loi n° 2017-86 du 27 janvier 2017, les dispositions du présent article, dans leur
+rédaction résultant du 4° du IV du même article de la même loi, sont applicables aux établissements publics de coopération
+intercommunale à fiscalité propre créés à compter du 1er janvier 2017, en application des I et III de l'article 35 de la loi
+n° 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République, ou dont le périmètre a évolué à
+compter de cette même date en application du II du même article 35.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+
+	**Modifié par**:
+
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 117 (V)
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 131 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L143-16
+
+
+##### Sous-section 5 : Etablissement public de coopération intercommunale à fiscalité propre comprenant des communes appartenant à plusieurs schémas de cohérence territoriale
+
+###### Article L143-13
+
+Lorsque le périmètre d'un établissement public de coopération intercommunale à fiscalité propre comprend des communes
+appartenant à plusieurs périmètres de schémas de cohérence territoriale, cet établissement devient, au terme d'un délai de
+trois mois, membre de plein droit de l'établissement public prévu à l'article L. 143-16 sur le territoire duquel est comprise
+la majeure partie de sa population, sauf lorsque son organe délibérant s'est prononcé dans ce délai contre son appartenance à
+cet établissement public ou pour son appartenance à l'établissement public d'un des autres schémas. Les communes appartenant
+à l'établissement public de coopération intercommunale à fiscalité propre sont retirées des établissements publics prévus au
+même article L. 143-16 dont celui-ci n'est pas devenu membre. Ce retrait emporte réduction du périmètre des schémas de
+cohérence territoriale correspondants. 
+
+L'établissement public de coopération intercommunale à fiscalité propre peut se prononcer pour son appartenance à
+l'établissement public prévu à l'article L. 143-16 sur le territoire duquel est comprise la majeure partie de sa population
+avant le terme du délai de trois mois. Dans ce cas, sa délibération emporte extension du périmètre du schéma de cohérence
+territoriale.
+
+**Nota:**
+
+Conformément au XVII de l'article 117 de la loi n° 2017-86 du 27 janvier  2017, les dispositions du présent article, dans
+leur rédaction  résultant du 5° du IV du même article de la même loi, sont applicables  aux établissements publics de
+coopération intercommunale à fiscalité  propre créés à compter du 1er janvier 2017, en application des I et III  de l'article
+35 de la loi n° 2015-991 du 7 août 2015 portant nouvelle  organisation territoriale de la République, ou dont le périmètre a
+évolué à compter de cette même date en application du II du même article  35.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+
+	**Modifié par**:
+
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 117 (V)
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 131 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L143-16
+
+
+##### Sous-section 6 : Fusion d'établissements publics dont au moins un est porteur de schéma de cohérence territoriale
+
+###### Article L143-14
+
+En cas de fusion d'établissements publics prévus aux 1° et 2° de  l'article L. 143-16, l'établissement public issu de la
+fusion est  compétent dans les conditions définies par le code général des  collectivités territoriales et son nouveau
+périmètre devient le  périmètre de schéma de cohérence territoriale. Le nouvel établissement  public assure le suivi du ou
+des schémas antérieurement existants. Dans  ce cas, il peut achever les procédures d'élaboration et d'évolution en  cours,
+lorsque le débat prévu à l'article L. 143-18, s'il est requis, a  eu lieu avant la fusion. Il peut engager les procédures de
+modification  ou de mise en compatibilité des schémas approuvés. Il prescrit, au plus  tard lors de la délibération qui suit
+l'analyse des résultats de  l'application du premier schéma en vigueur, prévue à l'article L.  143-28, l'élaboration d'un
+schéma couvrant l'intégralité de son  périmètre.
+
+**Nota:**
+
+Conformément au XVII de l'article 117 de la loi n° 2017-86 du 27 janvier   2017, les dispositions du présent article, dans
+leur rédaction   résultant du 6° du IV du même article de la même loi, sont applicables   aux établissements publics de
+coopération intercommunale à fiscalité   propre créés à compter du 1er janvier 2017, en application des I et III   de
+l'article 35 de la loi n° 2015-991 du 7 août 2015 portant nouvelle   organisation territoriale de la République, ou dont le
+périmètre a   évolué à compter de cette même date en application du II du même article   35.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+
+	**Modifié par**:
+
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 117 (V)
+
+
+##### Sous-section 7 : Retrait en cours de procédure 
 
 ###### Article L143-15
 
@@ -10117,53 +10157,54 @@ est une communauté urbaine, une métropole, une communauté d'agglomérations o
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - DEPLACE: Loi n°2017-86 du 27 janvier 2017 - art. 117 (V)
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales (V)
-	  - Code de l'urbanisme - art. L143-16 (VD)
-	  - Code de l'urbanisme - art. L143-21 (VD)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L122-12 (VT)
+	  - Code général des collectivités territoriales
+	  - Code de l'urbanisme - art. L143-16
+	  - Code de l'urbanisme - art. L143-21
 
 
 ##### Section 2 : Autorité chargée de la procédure
 
 ###### Article L143-16
 
-Le schéma de cohérence territoriale est élaboré par : 
+Le schéma de cohérence territoriale est élaboré par :
 
 1° Un établissement public de coopération intercommunale ; 
 
-2° Un syndicat mixte constitué exclusivement des communes et établissements publics de coopération intercommunale compétents
-compris dans le périmètre du schéma ; 
+2° Un syndicat mixte ou un pôle d'équilibre territorial et rural constitué exclusivement des communes et établissements
+publics de coopération intercommunale compétents compris dans le périmètre du schéma ; 
 
 3° Un syndicat mixte si les communes et les établissements publics de coopération intercommunale compétents compris dans le
 périmètre du schéma de cohérence territoriale ont tous adhéré à ce syndicat mixte et lui ont transféré la compétence en
 matière de schéma de cohérence territoriale. Dans ce cas, seuls les communes et les établissements publics de coopération
 intercommunale compris dans le périmètre du schéma de cohérence territoriale prennent part aux délibérations concernant le
-schéma. 
+schéma.
 
-L'établissement public mentionné aux 1°, 2° et 3° est également chargé de l'approbation, du suivi et de la révision du schéma
-de cohérence territoriale. 
+L'établissement public mentionné aux 1°, 2° et 3° est également chargé de l'approbation, du suivi et de l'évolution du schéma
+ou des schémas de cohérence territoriale.
 
-La dissolution de l'établissement public emporte l'abrogation du schéma, sauf si un autre établissement public en assure le
-suivi. Si un autre établissement public assure le suivi du schéma, ce dernier élabore, révise ou modifie le schéma pour
-adopter un schéma couvrant l'intégralité du périmètre du schéma de cohérence territoriale au plus tard à la suite de
-l'analyse des résultats de l'application du schéma prévue à l'article L. 143-28.
+La dissolution de l'établissement public, le retrait ou le transfert de sa compétence emportent l'abrogation du ou des
+schémas, sauf si un autre établissement public en assure le suivi.
+
+Lorsque le périmètre d'un établissement public est étendu et intègre un ou plusieurs schémas de cohérence territoriale, cet
+établissement public en assure le suivi.
+
+**Nota:**
+
+Conformément au XVII de l'article 117 de la loi n° 2017-86 du 27 janvier    2017, les dispositions du présent article, dans
+leur rédaction    résultant du 7° du IV du même article de la même loi, sont applicables    aux établissements publics de
+coopération intercommunale à fiscalité    propre créés à compter du 1er janvier 2017, en application des I et III    de
+l'article 35 de la loi n° 2015-991 du 7 août 2015 portant nouvelle    organisation territoriale de la République, ou dont le
+périmètre a    évolué à compter de cette même date en application du II du même article    35.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
-
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
-
-	**Créé par**:
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
@@ -10218,7 +10259,7 @@ l'analyse des résultats de l'application du schéma prévue à l'article L. 143
 	  - Code de l'urbanisme - art. R143-12 (V)
 	  - Code de l'urbanisme - art. R143-13 (V)
 	  - Code de l'urbanisme - art. R143-2 (V)
-	  - Code de la construction et de l'habitation. - art. L302-2 (VD)
+	  - Code de la construction et de l'habitation. - art. L302-2 (V)
 	  - Code des transports - art. L1213-3-2 (V)
 	  - Code des transports - art. L1213-3-4 (T)
 	  - Code des transports - art. L1214-14 (VD)
@@ -10231,9 +10272,9 @@ l'analyse des résultats de l'application du schéma prévue à l'article L. 143
 	  - Code rural - art. L143-2-1 (V)
 	  - Livre des procédures fiscales - art. L135 B (VD)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de l'urbanisme - art. L122-4 (VT)
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 117 (V)
 
 
 ##### Section 3 : Elaboration du schéma de cohérence territoriale
@@ -11408,46 +11449,6 @@ Le périmètre du schéma de cohérence territoriale est délimité dans les con
 	  - Code de l'urbanisme - art. L141-2 (VD)
 	  - Code de l'urbanisme - art. L143-1 (VD)
 	  - Code de l'urbanisme - art. L143-17 (VD)
-
-
-###### Article L144-2
-
-Lorsque le plan local d'urbanisme est élaboré par un établissement public de coopération intercommunale et n'est pas situé
-dans le périmètre d'un schéma de cohérence territoriale, il peut, après accord de l'autorité administrative compétente de
-l'Etat, comprendre celles des dispositions d'urbanisme qui ressortissent à la seule compétence des schémas de cohérence
-territoriale. 
-
-L'accord de l'autorité administrative compétente de l'Etat porte sur le fait que le périmètre du plan local d'urbanisme
-permet d'atteindre les objectifs visés à l'article L. 143-6. 
-
-Le plan local d'urbanisme a alors les effets du schéma de cohérence territoriale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
-
-	**Créé par**:
-
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
-
-	**Abrogé par**:
-
-	  - Loi n°2017-86 du 27 janvier 2017 - art. 131 (V)
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. R122-17 (VD)
-	  - Code de l'urbanisme - art. R104-13 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L123-1-7 (VT)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L143-6
 
 
 ### Titre V : Plan local d'urbanisme 
@@ -12891,12 +12892,15 @@ figurant sur une liste dressée par décret en Conseil d'Etat.
 
 ###### Article L151-44
 
-Lorsqu'il est élaboré par un établissement public de coopération intercommunale, le plan local d'urbanisme peut tenir lieu de
-programme local de l'habitat.
+Lorsqu'il est élaboré par un établissement public de coopération intercommunale compétent en matière d'habitat, le plan local
+d'urbanisme peut tenir lieu de programme local de l'habitat.
 
 Lorsqu'il est élaboré par un établissement public de coopération intercommunale compétent qui est autorité organisatrice au
 sens de l'article L. 1231-1 du code des transports, le plan local d'urbanisme peut tenir lieu de plan de déplacements
 urbains.
+
+Le plan local d'urbanisme infracommunautaire établi en application du  chapitre IV du présent titre ne peut tenir lieu de
+programme local de  l'habitat ou de plan de déplacements urbains.
 
 **Liens relatifs à cet article**
 
@@ -12904,13 +12908,9 @@ urbains.
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L123-1-4, alinéa 7, première partie (VT)
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 117 (V)
 
 	**Cité par**:
 
@@ -12919,7 +12919,7 @@ urbains.
 
 	**Cite**:
 
-	  - Code des transports - art. L1231-1 (M)
+	  - Code des transports - art. L1231-1
 
 
 ###### Article L151-45
@@ -13245,9 +13245,9 @@ d) Aux immeubles protégés en application de l'article L. 151-19 du présent co
 
 Dans les communes appartenant à une zone d'urbanisation continue de plus de 50 000 habitants figurant sur la liste prévue à
 l'article 232 du code général des impôts et dans les communes de plus de 15 000 habitants en forte croissance démographique
-figurant sur la liste prévue au septième alinéa de l'article L. 302-5 du code de la construction et de l'habitation, il peut
-être autorisé des dérogations au règlement du plan local d'urbanisme ou du document en tenant lieu, dans les conditions et
-selon les modalités définies au présent article. 
+figurant sur la liste prévue au dernier alinéa du II de l'article L. 302-5 du code de la construction et de l'habitation, il
+peut être autorisé des dérogations au règlement du plan local d'urbanisme ou du document en tenant lieu, dans les conditions
+et selon les modalités définies au présent article. 
 
 En tenant compte de la nature du projet et de la zone d'implantation dans un objectif de mixité sociale, l'autorité
 compétente pour délivrer le permis de construire peut, par décision motivée : 
@@ -13289,10 +13289,6 @@ supplémentaire, dans la limite de 5 %.
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Modifié par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 105
-
 	**Cité par**:
 
 	  - Loi n°2016-925 du 7 juillet 2016 - art. 74
@@ -13305,10 +13301,14 @@ supplémentaire, dans la limite de 5 %.
 	  - Code de la construction et de l'habitation. - art. L111-4-1 (VD)
 	  - Code du patrimoine - art. L611-2 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 97 (V)
+
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 232 (V)
-	  - Code de la construction et de l'habitation. - art. L302-5 (V)
+	  - Code général des impôts, CGI. - art. 232
+	  - Code de la construction et de l'habitation. - art. L302-5
 
 
 ##### Section 3 : Opposabilité des servitudes d'utilité publique
@@ -13439,7 +13439,7 @@ approuvé.
 
 L'établissement public de coopération intercommunale compétent engage une procédure d'élaboration ou de révision d'un plan
 local d'urbanisme couvrant l'intégralité de son territoire lorsqu'il le décide et, au plus tard, lorsqu'il révise un des
-plans locaux d'urbanisme applicables dans son périmètre.
+plans locaux d'urbanisme applicables dans son périmètre en application du 1° de l'article L. 153-31.
 
 **Liens relatifs à cet article**
 
@@ -13447,23 +13447,19 @@ plans locaux d'urbanisme applicables dans son périmètre.
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L123-1, alinéa 3, phrase 2  (VT)
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 130
 
 
 ###### Article L153-3
 
-Par dérogation à l'article L. 153-1, lorsqu'un schéma de cohérence territoriale identifie les secteurs d'aménagement et de
-développement touristique d'intérêt intercommunal, un plan local d'urbanisme partiel couvrant ces secteurs peut être élaboré
-par un établissement public de coopération intercommunale, sous réserve que chaque commune concernée couvre sans délai le
-reste de son territoire par un plan local d'urbanisme et recueille l'avis de l'établissement public de coopération
-intercommunale compétent sur la compatibilité de son projet d'aménagement et de développement durables avec celui de
-l'établissement public.
+Par dérogation aux articles L. 153-1 et L. 153-2 et pendant une période  de cinq ans à compter de sa création, une communauté
+de communes ou  d'agglomération issue d'une fusion entre un ou plusieurs établissements  publics de coopération
+intercommunale compétents en matière de plan  local d'urbanisme, document en tenant lieu et carte communale et un ou
+plusieurs établissements publics de coopération intercommunale ne  détenant pas cette compétence peut prescrire la révision
+d'un plan local  d'urbanisme existant sans être obligée d'engager l'élaboration d'un  plan local d'urbanisme couvrant
+l'ensemble de son périmètre.
 
 **Liens relatifs à cet article**
 
@@ -13471,17 +13467,9 @@ l'établissement public.
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L123-1, alinéa 14  (VT)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L153-1 (VD)
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 117 (V)
 
 
 ##### Sous-section 2 : Modification affectant le périmètre des communes
@@ -13496,7 +13484,7 @@ restent applicables.
 Elles peuvent être modifiées ou mises en compatibilité avec une opération d'utilité publique ou d'intérêt général jusqu'à
 l'approbation ou la révision d'un plan local d'urbanisme couvrant l'intégralité du territoire de la commune nouvelle. La
 procédure d'élaboration ou de révision de ce dernier plan est engagée au plus tard lorsqu'un des plans locaux d'urbanisme
-applicables sur le territoire de la commune nouvelle doit être révisé.
+applicables sur le territoire de la commune nouvelle doit être révisé en application du 1° de l'article L. 153-31.
 
 **Liens relatifs à cet article**
 
@@ -13504,13 +13492,9 @@ applicables sur le territoire de la commune nouvelle doit être révisé.
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L123-1-1, alinéa 5  (VT)
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 130
 
 
 ##### Paragraphe 2 : Modification de la limite territoriale des communes
@@ -13551,17 +13535,42 @@ commune d'origine.
 
 ###### Article L153-6
 
-En cas de création d'un établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme, y
-compris lorsqu'il est issu d'une fusion, ou de modification du périmètre d'un établissement public de coopération
-intercommunale compétent ou de transfert de cette compétence à un tel établissement public, les dispositions des plans locaux
-d'urbanisme applicables aux territoires concernés restent applicables.
+I. - En cas de création d'un établissement public de coopération intercommunale compétent en matière de plan local
+d'urbanisme, y compris lorsqu'il est issu d'une fusion, ou de modification du périmètre d'un établissement public de
+coopération intercommunale compétent ou de transfert de cette compétence à un tel établissement public, les dispositions des
+plans locaux d'urbanisme applicables aux territoires concernés restent applicables.
 
-Elles peuvent faire l'objet d'une procédure de modification ou de mise en compatibilité, jusqu'à l'approbation ou la révision
-d'un plan local d'urbanisme couvrant l'intégralité du territoire de l'établissement public de coopération intercommunale
-concerné.
+Elles peuvent faire l'objet d'une procédure de révision, en application de l'article L. 153-34, de modification ou de mise en
+compatibilité, jusqu'à l'approbation ou la révision d'un plan local d'urbanisme couvrant l'intégralité du territoire de
+l'établissement public de coopération intercommunale concerné.
 
 Celui-ci engage la procédure d'élaboration ou de révision de ce plan lorsqu'il le décide et au plus tard lorsqu'il doit
 réviser un des plans locaux d'urbanisme applicables dans son périmètre.
+
+II. - Dans les cas mentionnés au I du présent article, si le plan local  d'urbanisme tient lieu de programme local de
+l'habitat, l'établissement  public de coopération intercommunale est considéré, pendant une durée  maximale de trois ans,
+comme étant doté d'un programme local de  l'habitat exécutoire. Si, à l'issue de ce délai de trois ans,  l'établissement
+public de coopération intercommunale ne s'est pas doté  d'un plan local d'urbanisme exécutoire tenant lieu de programme local
+de  l'habitat ou d'un programme local de l'habitat exécutoire couvrant  l'ensemble de son périmètre, il est fait application
+du III de l'article  L. 302-4-2 du code de la construction et de l'habitation. 
+
+Le présent II est également applicable aux plans locaux d'urbanisme  tenant lieu de programme local de l'habitat arrêtés
+avant la création de  l'établissement public et devenus exécutoires dans le délai d'un an  suivant cette création. 
+
+III. - Dans les cas  mentionnés au I du présent article, le plan local d'urbanisme tenant  lieu de plan de déplacements
+urbains continue de produire ses effets sur  son périmètre antérieur pendant une durée maximale de trois ans  conformément à
+l'article L. 1214-21 du code des transports. 
+
+Le présent III est également applicable aux plans locaux d'urbanisme  tenant lieu de plan de déplacements urbains arrêtés
+avant la création de  l'établissement public et devenus exécutoires dans le délai d'un an  suivant cette création.
+
+**Nota:**
+
+Conformément au XVII de l'article 117 de la loi n° 2017-86 du 27 janvier 2017, les dispositions du présent article, dans leur
+rédaction résultant du 3° du V du même article de la même loi, sont applicables aux établissements publics de coopération
+intercommunale à fiscalité propre créés à compter du 1er janvier 2017, en application des I et III de l'article 35 de la loi
+n° 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République, ou dont le périmètre a évolué à
+compter de cette même date en application du II du même article 35.
 
 **Liens relatifs à cet article**
 
@@ -13569,17 +13578,13 @@ réviser un des plans locaux d'urbanisme applicables dans son périmètre.
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 117 (V)
 
 	**Cité par**:
 
 	  - Loi n°2017-86 du 27 janvier 2017 - art. 117 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L123-1-1, alinéa 3  (VT)
 
 
 ##### Sous-section 4 : Conséquences de l'annulation contentieuse ou de la déclaration d'illégalité du plan local d'urbanisme
@@ -13651,11 +13656,40 @@ l'établissement public de coopération intercommunale à fiscalité propre dont
 
 ###### Article L153-9
 
-L'établissement public de coopération intercommunale mentionné au 1° de l'article L. 153-8 peut décider, après accord de la
-commune concernée, d'achever toute procédure d'élaboration ou d'évolution d'un plan local d'urbanisme ou d'un document en
-tenant lieu, engagée avant la date de sa création, y compris lorsqu'elle est issue d'une fusion ou du transfert de cette
-compétence. Il se substitue de plein droit à la commune dans tous les actes et délibérations afférents à la procédure engagée
-avant la date de sa création, de sa fusion, de la modification de son périmètre ou du transfert de la compétence.
+I. - L'établissement public de coopération intercommunale mentionné au 1° de l'article L. 153-8 peut achever toute procédure
+d'élaboration ou d'évolution d'un plan local d'urbanisme ou d'un document en tenant lieu, engagée avant la date de sa
+création, y compris lorsqu'elle est issue d'une fusion ou du transfert de cette compétence. Lorsque la procédure a été
+engagée par une commune, l'accord de celle-ci est requis. L'établissement public de coopération intercommunale se substitue
+de plein droit à la commune ou à l'ancien établissement public de coopération intercommunale  dans tous les actes et
+délibérations afférents à la procédure engagée avant la date de sa création, de sa fusion, de la modification de son
+périmètre ou du transfert de la compétence.
+
+II. - L'établissement public de coopération intercommunale mentionné au I  de l'article L. 153-6 peut également délibérer
+pour étendre à la  totalité de son territoire une procédure d'élaboration ou de révision,  en application du 1° de l'article
+L. 153-31, d'un plan local d'urbanisme  intercommunal engagée avant la date du transfert de cette compétence,  de la
+modification de son périmètre ou de sa création, y compris lorsque  celle-ci résulte d'une fusion. Cette possibilité est
+ouverte si le  projet de plan local d'urbanisme intercommunal n'a pas été arrêté. Cette  délibération précise, s'il y a lieu,
+les modifications apportées aux  objectifs définis dans la délibération initiale et expose les modalités  de concertation
+complémentaires prévues. Cette délibération est notifiée  aux personnes publiques associées mentionnées aux articles L. 132-7
+et  L. 132-9. Un débat sur les orientations du projet d'aménagement et de  développement durables est organisé au sein du
+nouvel établissement  public de coopération intercommunale à fiscalité propre compétent, dans  les conditions prévues à
+l'article L. 153-12, avant l'arrêt du projet de  plan local d'urbanisme intercommunal étendu à l'ensemble de son
+territoire. 
+
+L'établissement public de coopération  intercommunale peut, dans les mêmes conditions qu'au premier alinéa du  présent II,
+fusionner deux ou plusieurs procédures d'élaboration ou de  révision de plans locaux d'urbanisme intercommunaux. 
+
+Les plan locaux d'urbanisme et les documents en tenant lieu  préexistants continuent le cas échéant à bénéficier des reports
+de  délais mentionnés aux articles L. 174-5 et L. 175-1 jusqu'à  l'approbation du plan local d'urbanisme intercommunal, et au
+plus tard  jusqu'au 31 décembre 2019.
+
+**Nota:**
+
+Conformément au XVII de l'article 117 de la loi n° 2017-86 du 27 janvier  2017, les dispositions du présent article, dans
+leur rédaction  résultant du 4° du V du même article de la même loi, sont applicables  aux établissements publics de
+coopération intercommunale à fiscalité  propre créés à compter du 1er janvier 2017, en application des I et III  de l'article
+35 de la loi n° 2015-991 du 7 août 2015 portant nouvelle  organisation territoriale de la République, ou dont le périmètre a
+évolué à compter de cette même date en application du II du même article  35.
 
 **Liens relatifs à cet article**
 
@@ -13663,21 +13697,17 @@ avant la date de sa création, de sa fusion, de la modification de son périmèt
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 117 (V)
 
 	**Cité par**:
 
 	  - Loi n°2017-86 du 27 janvier 2017 - art. 117 (V)
 
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L123-1, alinéas 9 et 10  (VT)
-
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L153-8 (VD)
+	  - Code de l'urbanisme - art. L153-8
 
 
 ###### Article L153-10
@@ -13715,10 +13745,10 @@ objectifs poursuivis et les modalités de concertation, conformément à l'artic
 La délibération prise en application de l'alinéa précédent est notifiée aux personnes publiques associées mentionnées aux
 articles L. 132-7 et L. 132-9. 
 
-A compter de la publication de la délibération prescrivant l'élaboration d'un plan local d'urbanisme, l'autorité compétente
-peut décider de surseoir à statuer, dans les conditions et délai prévus à l'article L. 424-1, sur les demandes d'autorisation
-concernant des constructions, installations ou opérations qui seraient de nature à compromettre ou à rendre plus onéreuse
-l'exécution du futur plan.
+L'autorité compétente peut décider de surseoir à statuer, dans les conditions et délai prévus à l'article L. 424-1, sur les
+demandes d'autorisation concernant des constructions, installations ou opérations qui seraient de nature à compromettre ou à
+rendre plus onéreuse l'exécution du futur plan dès lors qu'a eu lieu le débat sur les orientations générales du projet
+d'aménagement et de développement durable.
 
 **Liens relatifs à cet article**
 
@@ -13726,20 +13756,16 @@ l'exécution du futur plan.
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 109
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L103-3 (VD)
-	  - Code de l'urbanisme - art. L132-7 (VD)
-	  - Code de l'urbanisme - art. L132-9 (V)
-	  - Code de l'urbanisme - art. L153-8 (VD)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L123-6, alinéas 3 et 4  (VT)
+	  - Code de l'urbanisme - art. L103-3
+	  - Code de l'urbanisme - art. L132-7
+	  - Code de l'urbanisme - art. L132-9
+	  - Code de l'urbanisme - art. L153-8
 
 	**Cité par**:
 
@@ -14685,14 +14711,16 @@ Le projet est également notifié aux maires des communes concernées par la mod
 
 Le projet de modification est soumis à enquête publique réalisée conformément au chapitre III du titre II du livre Ier du
 code de l'environnement par le président de l'établissement public de coopération intercommunale ou le maire lorsqu'il a pour
-effet :
+effet : 
 
 1° Soit de majorer de plus de 20 % les possibilités de construction résultant, dans une zone, de l'application de l'ensemble
-des règles du plan ;
+des règles du plan ; 
 
-2° Soit de diminuer ces possibilités de construire ;
+2° Soit de diminuer ces possibilités de construire ; 
 
-3° Soit de réduire la surface d'une zone urbaine ou à urbaniser.
+3° Soit de réduire la surface d'une zone urbaine ou à urbaniser ; 
+
+4° Soit d'appliquer l'article L. 131-9 du présent code.
 
 **Liens relatifs à cet article**
 
@@ -14700,18 +14728,18 @@ des règles du plan ;
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 97 (V)
 
 	**Cité par**:
 
 	  - Code de l'environnement - art. L121-17-1 (V)
 	  - Code de l'urbanisme - art. L153-45 (VD)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code de l'urbanisme - art. L123-13-2, alinéas 1 à 5 et 6, phrase 1  (VT)
+	  - Code de l'urbanisme - art. L131-9 (V)
 
 
 ###### Article L153-42
@@ -15322,6 +15350,104 @@ mois, l'autorité administrative compétente de l'Etat y procède d'office.
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L151-43 (VD)
+
+
+#### Chapitre IV :  Dispositions particulières aux établissements publics de coopération intercommunale à fiscalité propre de grande taille 
+
+###### Article L154-1
+
+Par dérogation à l'article L. 153-1, un établissement public de  coopération intercommunale à fiscalité propre compétent peut
+être  autorisé, dans les conditions définies au présent chapitre, à élaborer  plusieurs plans locaux d'urbanisme
+infracommunautaires, regroupant  chacun plusieurs communes ou une commune nouvelle, dont l'ensemble  couvre l'intégralité de
+son territoire. 
+
+Cette  dérogation est ouverte aux établissements publics de coopération  intercommunale à fiscalité propre compétents en
+matière de plan local  d'urbanisme, de document d'urbanisme en tenant lieu et de carte  communale sur l'ensemble de leur
+territoire et regroupant au moins cent  communes. 
+
+Cette dérogation n'est pas applicable dans les métropoles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 117 (V)
+
+
+###### Article L154-2
+
+La délibération par laquelle l'organe délibérant de l'établissement  public de coopération intercommunale à fiscalité propre
+décide de faire  usage de la dérogation prévue à l'article L. 154-1 précise : 
+
+1° Le périmètre de chaque plan local d'urbanisme infracommunautaire ; 
+
+2° Le calendrier prévisionnel des différentes procédures ; 
+
+3° Le calendrier prévisionnel d'élaboration du schéma de cohérence  territoriale dans le périmètre duquel est inscrit
+l'établissement public  de coopération intercommunale à fiscalité propre, s'il n'est pas déjà  couvert par un schéma de
+cohérence territoriale opposable. 
+
+Cette délibération est notifiée au représentant de l'Etat dans le  département qui dispose d'un délai de deux mois pour
+donner son accord,  dans le respect des critères mentionnés à l'article L. 154-1. 
+
+La dérogation ne peut être accordée par le représentant de l'Etat dans  le département que si ses conditions de mise en
+œuvre, précisées dans la  délibération, permettent le respect des principes et projets mentionnés  à l'article L. 132-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 117 (V)
+
+
+###### Article L154-3
+
+L'établissement public de coopération intercommunale à fiscalité propre  qui bénéficie de la dérogation mentionnée à
+l'article L. 154-1 élabore  les plans locaux d'urbanisme infracommunautaires dans les conditions  prévues aux articles L.
+153-11 à L. 153-26 et selon le calendrier et la  sectorisation prévus dans la délibération prise en application de  l'article
+L. 154-2. 
+
+Les dispositions des plans  locaux d'urbanisme applicables avant la mise en œuvre de la dérogation  demeurent en vigueur.
+L'organe délibérant de l'établissement public de  coopération intercommunale à fiscalité propre peut les modifier ou les
+mettre en compatibilité jusqu'à l'approbation d'un plan local  d'urbanisme infracommunautaire couvrant les secteurs
+concernés. Il peut  les réviser sans engager l'élaboration d'un plan local d'urbanisme  couvrant l'intégralité d'un secteur
+prédéfini lorsque cette révision  s'impose pour l'application des articles L. 131-6 et L. 131-7 ou qu'elle  relève de
+l'article L. 153-34. 
+
+Par dérogation à  l'article L. 153-2, les plans locaux d'urbanisme infracommunautaires  approuvés peuvent être révisés sans
+entraîner l'engagement d'une  procédure d'élaboration d'un plan local d'urbanisme couvrant  l'intégralité du territoire de
+l'établissement public de coopération  intercommunale à fiscalité propre. 
+
+L'organe  délibérant de l'établissement public de coopération intercommunale à  fiscalité propre peut également, à tout
+moment, engager l'élaboration  d'un plan local d'urbanisme intercommunal couvrant l'intégralité de son  territoire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 117 (V)
+
+
+###### Article L154-4
+
+La dérogation prévue à l'article L. 154-1 cesse de s'appliquer si le  territoire de l'établissement public de coopération
+intercommunale à  fiscalité propre n'est pas couvert par un schéma de cohérence  territoriale approuvé dans un délai de six
+ans à compter de l'octroi de  la dérogation. 
+
+Lorsque la dérogation cesse de  s'appliquer en application du premier alinéa du présent article ou du  dernier alinéa de
+l'article L. 154-3, les dispositions des plans locaux  d'urbanisme applicables dans le périmètre de l'établissement public de
+coopération intercommunale à fiscalité propre demeurent en vigueur. Ces  documents peuvent faire l'objet d'une procédure de
+modification, de mise  en compatibilité et de révision prévue à l'article L. 153-34, jusqu'à  l'approbation d'un plan local
+d'urbanisme élaboré dans les conditions  prévues à l'article L. 153-2. 
+
+L'établissement  public de coopération intercommunale à fiscalité propre peut achever  toute procédure d'évolution d'un plan
+local d'urbanisme engagée avant  que la dérogation cesse de s'appliquer.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 117 (V)
 
 
 ### Titre VI : Carte communale 
@@ -16271,38 +16397,32 @@ classées, seules sont opposables à l'ouverture des carrières les dispositions
 ###### Article L174-5
 
 Lorsqu'un établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme ou de document
-d'urbanisme en tenant lieu a engagé une procédure d'élaboration d'un plan local d'urbanisme intercommunal après le 24 mars
-2014 et avant le 31 décembre 2015, les dates et délais prévus aux premier et troisième alinéas de l'article L. 174-1 ne
-s'appliquent pas aux plans d'occupation des sols applicables sur son territoire, à condition que le débat sur les
-orientations générales du projet d'aménagement et de développement durables du territoire ait lieu au sein de l'organe
-délibérant de l'établissement public de coopération intercommunale avant le 27 mars 2017 et que ce plan local d'urbanisme
-intercommunal soit approuvé au plus tard le 31 décembre 2019. 
+d'urbanisme en tenant lieu a engagé une procédure d'élaboration d'un plan local d'urbanisme intercommunal avant le 31
+décembre 2015, les dates et délais prévus aux premier et dernier alinéas de l'article L. 174-1 ne s'appliquent pas aux plans
+d'occupation des sols applicables sur son territoire, à condition que ce plan local d'urbanisme intercommunal soit approuvé,
+au plus tard, le 31 décembre 2019.
 
-Ces dispositions cessent de s'appliquer : 
+Ces dispositions cessent de s'appliquer à compter du 1er janvier 2020 si le plan local d'urbanisme intercommunal n'a pas été
+approuvé.
 
-1° A compter du 27 mars 2017 si le débat sur les orientations générales du projet d'aménagement et de développement durables
-du territoire n'a pas eu lieu ; 
-
-2° A compter du 1er janvier 2020 si le débat sur les orientations générales du projet d'aménagement et de développement
-durables du territoire a eu lieu, mais que le plan local d'urbanisme intercommunal n'a pas été approuvé.
+Le premier alinéa du présent article est également applicable sur le territoire des anciennes communautés qui ont engagé une
+procédure de révision ou d'élaboration d'un plan local d'urbanisme intercommunal avant le 31 décembre 2015 et dont l'ensemble
+des communes ont fusionné après l'engagement de ce plan local d'urbanisme intercommunal. Dans ce cas, ce plan local
+d'urbanisme, devenu communal, doit être approuvé au plus tard le 31 décembre 2019.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2014-1545 du 20 décembre 2014 - art. 13 (VT)
 
 	**Codifié par**:
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 131 (V)
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L174-1 (VD)
+	  - Code de l'urbanisme - art. L174-1
 
 	**Cité par**:
 
@@ -16341,6 +16461,43 @@ l'article L. 153-34.
 	  - Code de l'urbanisme - art. L600-12 (VD)
 
 
+#### Chapitre V : Plan local d'urbanisme
+
+
+###### Article L175-1
+
+I.  -  Lorsqu'une procédure de révision ou d'élaboration d'un plan local d'urbanisme intercommunal a été engagée avant le 31
+décembre 2015, les dates et délais prévus aux articles L. 131-6 et L. 131-7 ne s'appliquent pas aux plans locaux d'urbanisme
+ou aux documents en tenant lieu applicables sur son territoire, à condition que ce plan local d'urbanisme intercommunal soit
+approuvé au plus tard le 31 décembre 2019.
+
+Le présent I cesse de s'appliquer à compter du 1er janvier 2020 si le plan local d'urbanisme intercommunal n'a pas été
+approuvé.
+
+Le présent I est également applicable sur le territoire des anciennes communautés qui ont engagé une procédure de révision ou
+d'élaboration d'un plan local d'urbanisme intercommunal avant le 31 décembre 2015 et dont l'ensemble des communes ont
+fusionné après l'engagement de ce plan local d'urbanisme intercommunal. Dans ce cas, ce plan local d'urbanisme, devenu
+communal, doit être approuvé, au plus tard, le 31 décembre 2019.
+
+II.  -  Le I est applicable à la métropole de Lyon.
+
+**Nota:**
+
+Conformément au II de l'article 131 de la loi n° 2017-86 du 27 janvier 2017, les plans locaux d'urbanisme tenant lieu de
+schéma de cohérence territoriale approuvés avant la date de publication de ladite loi continuent à avoir les effets d'un
+schéma de cohérence territoriale. Ils sont régis par les dispositions applicables aux plans locaux d'urbanisme. 
+
+Les procédures tenant à l'élaboration d'un plan local d'urbanisme tenant lieu de schéma de cohérence territoriale pour lequel
+l'accord de l'autorité administrative compétente de l'Etat prévu à l'article L. 144-2 du code de l'urbanisme, dans sa
+rédaction antérieure à ladite loi, a été notifié restent régies par les dispositions antérieures à ladite loi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 131 (V)
+
+
 ## Livre II : Préemption et réserves foncières
 
 ###  Titre Ier : Droits de préemption
@@ -16357,13 +16514,16 @@ construction et de l'habitation, le droit de préemption est exercé par le repr
 l'aliénation porte sur un des biens ou droits énumérés aux 1° à 4° de l'article L. 213-1 du présent code, affecté au logement
 ou destiné à être affecté à une opération ayant fait l'objet de la convention prévue à l'article L. 302-9-1 précité. Le
 représentant de l'Etat peut déléguer ce droit à un établissement public de coopération intercommunale à fiscalité propre
-ayant conclu une convention mentionnée au deuxième alinéa de l'article L. 301-5-1 du même code, à un établissement public
-foncier créé en application des articles L. 321-1 ou L. 324-1 du présent code, à une société d'économie mixte, à un des
-organismes d'habitations à loyer modéré prévus par l'article L. 411-2 du code de la construction et de l'habitation ou à un
-des organismes agréés mentionnés à l'article L. 365-2 du même code. Les biens acquis par exercice du droit de préemption en
-application du présent alinéa doivent être utilisés en vue de la réalisation d'opérations d'aménagement ou de construction
-permettant la réalisation des objectifs fixés dans le programme local de l'habitat ou déterminés en application du premier
-alinéa de l'article L. 302-8 du même code.
+ayant conclu une convention mentionnée au deuxième alinéa de l'article L. 301-5-1 du même code, au II de l'article L. 5217-2,
+au II de l'article L. 5218-2 ou au VI de l'article L. 5219-1 du code général des collectivités territoriales, à la métropole
+de Lyon ayant conclu une convention mentionnée à l'article L. 3641-5 du même code, à un établissement public foncier créé en
+application des articles L. 321-1 ou L. 324-1 du présent code, à l'office foncier de la Corse mentionné à l'article L.
+4424-26-1 du code général des collectivités territoriales, à une société d'économie mixte, à un des organismes d'habitations
+à loyer modéré prévus par l'article L. 411-2 du code de la construction et de l'habitation ou à un des organismes agréés
+mentionnés à l'article L. 365-2 du même code. Les biens acquis par exercice du droit de préemption en application du présent
+alinéa doivent être utilisés en vue de la réalisation d'opérations d'aménagement ou de construction permettant la réalisation
+des objectifs fixés dans le programme local de l'habitat ou déterminés en application du premier alinéa de l'article L. 302-8
+du même code. 
 
 Toute décision de préemption doit mentionner l'objet pour lequel ce droit est exercé. Toutefois, lorsque le droit de
 préemption est exercé à des fins de réserves foncières dans la cadre d'une zone d'aménagement différé, la décision peut se
@@ -16378,10 +16538,6 @@ dans lesquels elle décide d'intervenir pour les aménager et améliorer leur qu
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Loi n°2014-366 du 24 mars 2014 - art. 149
-
 	**Cité par**:
 
 	  - Décret n°2016-730 du 2 juin 2016 (V)
@@ -16389,16 +16545,26 @@ dans lesquels elle décide d'intervenir pour les aménager et améliorer leur qu
 	  - Code de l'urbanisme - art. L211-4 (V)
 	  - Code de l'urbanisme - art. L212-2-2 (V)
 	  - Code de l'urbanisme - art. L213-11 (V)
+	  - Code de l'urbanisme - art. L213-2 (V)
 	  - Code de l'urbanisme - art. L324-1 (V)
 	  - Code de l'urbanisme - art. L720-1 (VT)
 	  - Code de l'urbanisme - art. L720-2 (VT)
 	  - Code de l'urbanisme - art. R212-1-1 (Ab)
 	  - Code du domaine de l'Etat - art. L66-1 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 98 (V)
+
 	**Cite**:
 
+	  - Code général des collectivités territoriales - art. L4424-26-1
+	  - Code général des collectivités territoriales - art. L5217-2
+	  - Code général des collectivités territoriales - art. L5218-2
+	  - Code général des collectivités territoriales - art. L5219-1
+	  - Code de l'urbanisme - art. L213-1
 	  - Code de l'urbanisme - art. L300-1
-	  - Code de l'urbanisme - art. L321-1
+	  - Code de l'urbanisme - art. L321-1 (V)
 	  - Code de la construction et de l'habitation. - art. L301-5-1
 	  - Code de la construction et de l'habitation. - art. L302-8
 	  - Code de la construction et de l'habitation. - art. L302-9-1
@@ -16507,9 +16673,15 @@ de cinq ans à compter du jour où la délibération est exécutoire.
 Lorsque la commune fait partie d'un établissement public de coopération intercommunale y ayant vocation, elle peut, en accord
 avec cet établissement, lui déléguer tout ou partie des compétences qui lui sont attribuées par le présent chapitre. 
 
-Toutefois, la compétence d'un établissement public de coopération intercommunale à fiscalité propre, ainsi que celle de la
+Toutefois, la compétence d'un établissement public de coopération intercommunale à fiscalité propre d'un établissement public
+territorial créé en application de l'article L. 5219-2 du code général des collectivités territoriales, ainsi que celle de la
 métropole de Lyon en matière de plan local d'urbanisme, emporte leur compétence de plein droit en matière de droit de
-préemption urbain. 
+préemption urbain. La métropole du Grand Paris est compétente de plein droit en matière de droit de préemption urbain, dans
+les périmètres fixés par le conseil de la métropole, pour la mise en œuvre des opérations d'aménagement d'intérêt
+métropolitain mentionnées à l'article L. 5219-1 du même code. Dans les périmètres ainsi identifiés, les aliénations
+nécessaires à la réalisation des opérations d'aménagement d'intérêt métropolitain mentionnées au même article L. 5219-1 ne
+sont plus soumises aux droits de préemption urbains de la commune de Paris et des établissements publics territoriaux créés
+en application de l'article L. 5219-2 du même code.
 
 Le titulaire du droit de préemption urbain peut déléguer son droit à une société d'économie mixte agréée mentionnée à
 l'article L. 481-1 du code de la construction et de l'habitation, à l'un des organismes d'habitations à loyer modéré prévus à
@@ -16522,10 +16694,6 @@ local de l'habitat ou déterminés en application du premier alinéa de l'articl
 l'habitation.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2015-990 du 6 août 2015 - art. 87
 
 	**Cité par**:
 
@@ -16547,16 +16715,20 @@ l'habitation.
 	  - Code de l'urbanisme - art. R*214-2 (Ab)
 	  - Code de l'urbanisme - art. R211-5 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 102 (V)
+
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L211-2 (M)
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L213-11 (V)
+	  - Code de l'urbanisme - art. L213-11
 	  - Code de la construction et de l'habitation. - art. L302-8
-	  - Code de la construction et de l'habitation. - art. L365-2 (V)
-	  - Code de la construction et de l'habitation. - art. L411-2 (V)
+	  - Code de la construction et de l'habitation. - art. L365-2
+	  - Code de la construction et de l'habitation. - art. L411-2
 	  - Code de la construction et de l'habitation. - art. L481-1
 
 	**Codifié par**:
@@ -17209,11 +17381,25 @@ dans le délai de deux mois prévu au troisième alinéa du présent article, ad
 communication des documents permettant d'apprécier la consistance et l'état de l'immeuble, ainsi que, le cas échéant, la
 situation sociale, financière et patrimoniale de la société civile immobilière. La liste des documents susceptibles d'être
 demandés est fixée limitativement par décret en Conseil d'Etat. La déclaration d'intention d'aliéner peut être
-dématérialisée. Le cas échéant, cette déclaration comporte également les informations dues au titre de l'article L. 741-1 du
-code de la construction et de l'habitation. 
+dématérialisée. Le cas échéant, cette déclaration comporte également les informations dues au titre des articles L. 304-1 et
+L. 741-1 du code de la construction et de l'habitation. 
 
 Lorsque la contrepartie de l'aliénation fait l'objet d'un paiement en nature, la déclaration doit mentionner le prix
 d'estimation de cette contrepartie. 
+
+Lorsque le droit de préemption est exercé par le représentant de l'Etat dans le département dans les conditions prévues au
+deuxième alinéa de l'article L. 210-1, la déclaration est transmise à ce dernier par le maire, dans un délai de sept jours
+ouvrés à compter de la date de sa réception. A défaut, le représentant de l'Etat dans le département peut informer le maire
+de son intention d'en faire dresser procès-verbal, par lettre recommandée avec demande d'avis de réception. Le maire dispose
+d'un délai de sept jours à compter de la réception de la lettre du représentant de l'Etat dans le département pour faire part
+de ses observations. A l'issue de ce délai et au vu des observations du maire, le représentant de l'Etat dans le département
+peut décider de constater l'absence de transmission de la déclaration par procès-verbal. Il est alors procédé au recouvrement
+d'une amende forfaitaire de 1 000 €. Cette amende est redevable par la commune, par voie de titre de perception émis par le
+représentant de l'Etat dans le département, au profit du Fonds national des aides à la pierre mentionné à l'article L. 435-1
+du code de la construction et de l'habitation, lorsque la commune se situe en métropole, ou au profit du fonds régional
+d'aménagement foncier et urbain mentionné à l'article L. 340-2 du présent code, lorsque la commune se situe dans un
+département d'outre-mer. L'avis de mise en recouvrement du titre de perception de l'amende forfaitaire reçu par le maire peut
+faire l'objet d'un recours de pleine juridiction. 
 
 Le silence du titulaire du droit de préemption pendant deux mois à compter de la réception de la déclaration mentionnée au
 premier alinéa vaut renonciation à l'exercice du droit de préemption. 
@@ -17255,7 +17441,7 @@ de propriété.
 	  - Code de l'urbanisme - art. L213-1-1 (V)
 	  - Code de l'urbanisme - art. L213-11 (V)
 	  - Code de l'urbanisme - art. L213-11-1 (V)
-	  - Code de l'urbanisme - art. L213-17 (M)
+	  - Code de l'urbanisme - art. L213-17 (V)
 	  - Code de l'urbanisme - art. L213-3 (M)
 	  - Code de l'urbanisme - art. L213-4 (M)
 	  - Code de l'urbanisme - art. L213-8 (V)
@@ -17268,12 +17454,16 @@ de propriété.
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 149
-	  - Loi n°2014-366 du 24 mars 2014 - art. 65
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 103
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 98 (V)
 
 	**Cite**:
 
+	  - Code de l'urbanisme - art. L210-1 (V)
 	  - Code de l'urbanisme - art. L213-1
+	  - Code de l'urbanisme - art. L340-2
+	  - Code de la construction et de l'habitation. - art. L304-1
+	  - Code de la construction et de l'habitation. - art. L435-1
 	  - Code de l'environnement - art. L514-20
 
 
@@ -17904,23 +18094,14 @@ Les dispositions de l'article L. 221-2 sont applicables aux biens acquis par exe
 ###### Article L213-17
 
 Si un périmètre de zone d'aménagement différé ou un périmètre provisoire de zone d'aménagement différé est créé avant
-l'expiration du délai de deux mois prévu au troisième alinéa de l'article L. 213-2, la déclaration d'intention d'aliéner doit
-être transmise par le maire au représentant de l'Etat dans le département qui l'instruit conformément aux dispositions des
-articles L. 212-1 et suivants. 
+l'expiration du délai de deux mois prévu au  quatrième alinéa de l'article L. 213-2, la déclaration d'intention d'aliéner
+doit être transmise par le maire au représentant de l'Etat dans le département qui l'instruit conformément aux dispositions
+des articles L. 212-1 et suivants. 
 
 Dans ce cas, le délai visé au premier alinéa du présent article court à compter de la date de publication de l'acte créant la
 zone d'aménagement différé ou le périmètre provisoire de zone d'aménagement différé.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L212-1 (V)
-	  - Code de l'urbanisme - art. L213-2 (V)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. L213-17-1 (Ab)
 
 	**Codifié par**:
 
@@ -17928,8 +18109,16 @@ zone d'aménagement différé ou le périmètre provisoire de zone d'aménagemen
 
 	**Modifié par**:
 
-	  - Loi - art. 34 () JORF 19 juillet 1991
-	  - Loi - art. 35 () JORF 19 juillet 1991
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 98 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L212-1
+	  - Code de l'urbanisme - art. L213-2 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L213-17-1 (Ab)
 
 
 ###### Article L213-18
@@ -18742,15 +18931,16 @@ pêche maritime ”.
 ###### Article L221-1
 
 L'Etat, les collectivités locales, ou leurs groupements y ayant vocation, les syndicats mixtes, les établissements publics
-mentionnés aux articles L. 321-1 et L. 324-1 et les grands ports maritimes sont habilités à acquérir des immeubles, au besoin
-par voie d'expropriation, pour constituer des réserves foncières en vue de permettre la réalisation d'une action ou d'une
-opération d'aménagement répondant aux objets définis à l'article L. 300-1.
+mentionnés aux articles L. 321-1 et L. 324-1 , les bénéficiaires des concessions d'aménagement mentionnées à l'article L.
+300-4, les sociétés publiques définies à l'article L. 327-1 et les grands ports maritimes sont habilités à acquérir des
+immeubles, au besoin par voie d'expropriation, pour constituer des réserves foncières en vue de permettre la réalisation
+d'une action ou d'une opération d'aménagement répondant aux objets définis à l'article L. 300-1.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2008-660 du 4 juillet 2008 - art. 4
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 102 (V)
 
 	**Cité par**:
 
@@ -18762,7 +18952,7 @@ opération d'aménagement répondant aux objets définis à l'article L. 300-1.
 	  - Code de l'urbanisme - art. L212-1 (M)
 	  - Code de l'urbanisme - art. L221-3 (V)
 	  - Code de l'urbanisme - art. L230-1 (T)
-	  - Code de l'urbanisme - art. L324-1 (VD)
+	  - Code de l'urbanisme - art. L324-1 (V)
 	  - Code de l'urbanisme - art. L327-1 (V)
 	  - Code de l'urbanisme - art. L720-1 (VT)
 	  - Code du domaine de l'Etat - art. A1 (V)
@@ -21574,6 +21764,10 @@ Ils sont compétents pour constituer des réserves foncières.
 
 Les biens acquis par les établissements publics fonciers ont vocation à être cédés ou à faire l'objet d'un bail. 
 
+Les établissements publics fonciers peuvent appuyer les collectivités territoriales et leurs groupements en matière
+d'observation foncière, notamment dans le cadre du dispositif d'observation foncière mentionné à l'article L. 302-1 du code
+de la construction et de l'habitation. 
+
 L'action des établissements publics fonciers pour le compte de l'Etat, des collectivités territoriales et de leurs
 groupements ou d'un autre établissement public s'inscrit dans le cadre de conventions.
 
@@ -21624,7 +21818,7 @@ groupements ou d'un autre établissement public s'inscrit dans le cadre de conve
 	  - Code de commerce - art. R823-17 (VD)
 	  - Code de l'urbanisme - art. L113-25 (VD)
 	  - Code de l'urbanisme - art. L143-3 (VT)
-	  - Code de l'urbanisme - art. L210-1 (M)
+	  - Code de l'urbanisme - art. L210-1 (V)
 	  - Code de l'urbanisme - art. L211-2 (M)
 	  - Code de l'urbanisme - art. L211-7 (M)
 	  - Code de l'urbanisme - art. L212-2 (M)
@@ -21686,12 +21880,7 @@ groupements ou d'un autre établissement public s'inscrit dans le cadre de conve
 
 	**Modifié par**:
 
-	  - Loi n°2014-58 du 27 janvier 2014 - art. 17 (V)
-	  - Loi n°2014-366 du 24 mars 2014 - art. 144
-
-	**Liens**:
-
-	  - RECTIFICATION: Loi du 24 mars 2014, v. init.
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 102 (V)
 
 	**Cite**:
 
@@ -21742,11 +21931,14 @@ Sous réserve de l'accord prévu au premier alinéa de l'article L. 321-1, les �
 créés par décret en Conseil d'Etat après avis des conseils régionaux, des conseils départementaux, des organes délibérants
 des établissements publics de coopération intercommunale à fiscalité propre compétents en matière de plan local d'urbanisme
 ainsi que des conseils municipaux des communes de 20 000 habitants et plus non membres de ces établissements, situés dans
-leur périmètre de compétence. L'avis est réputé favorable s'il n'est pas émis dans un délai de trois mois.
+leur périmètre de compétence, et des comités régionaux de l'habitat et de l'hébergement compétents. L'avis est réputé
+favorable s'il n'est pas émis dans un délai de trois mois.
 
 **Nota:**
 
-
+Conformément au XIII de l'article 102 de la loi n° 2017-86 du 27 janvier 2017, un décret en Conseil d'Etat détermine les
+conditions d'application des dispositions de l'article L. 321-2 dans sa rédaction résultant du IX dudit article de ladite
+loi.
 
 **Liens relatifs à cet article**
 
@@ -21758,12 +21950,11 @@ leur périmètre de compétence. L'avis est réputé favorable s'il n'est pas é
 
 	**Modifié par**:
 
-	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
-	  - Loi n°2014-366 du 24 mars 2014 - art. 144
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 102 (V)
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L321-1 (V)
+	  - Code de l'urbanisme - art. L321-1
 
 	**Codifié par**:
 
@@ -21900,6 +22091,15 @@ Cette approbation et cette révision interviennent dans les conditions prévues 
 En cas de modification des orientations stratégiques de l'Etat, le programme pluriannuel d'intervention est, si nécessaire,
 révisé et approuvé dans un délai fixé par le décret prévu à l'article L. 321-13.
 
+Le bilan annuel des actions de l'établissement, de ses modalités d'intervention et des moyens mis en œuvre, tels que définis
+dans le programme pluriannuel d'intervention, est transmis, chaque année, avant le 1er juillet, au comité régional de
+l'habitat et de l'hébergement compétent pour la région dans laquelle l'établissement exerce son activité.
+
+**Nota:**
+
+Conformément au XIII de l'article 102 de la loi n° 2017-86 du 27 janvier 2017, un décret en Conseil d'Etat détermine les
+conditions d'application des dispositions de l'article L. 321-6 dans sa rédaction résultant du X dudit article de ladite loi.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -21912,7 +22112,7 @@ révisé et approuvé dans un délai fixé par le décret prévu à l'article L.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 102 (V)
 
 	**Cite**:
 
@@ -23921,6 +24121,10 @@ dans les cas et conditions qu'il prévoit et agir par voie d'expropriation. Ils 
 réservés prévus à l'article L. 151-41. Ils gèrent les procédures de délaissement prévues aux articles L. 230-1 à L. 230-6 à
 la demande de leurs collectivités. 
 
+Les établissements publics fonciers locaux peuvent appuyer les collectivités territoriales et leurs groupements en matière
+d'observation foncière, notamment dans le cadre du dispositif d'observation foncière mentionné à l'article L. 302-1 du code
+de la construction et de l'habitation. 
+
 Sauf convention prévue au sixième alinéa du présent article, aucune opération de l'établissement public ne peut être réalisée
 sans l'avis favorable de la commune sur le territoire de laquelle l'opération est prévue. Cet avis est réputé donné dans un
 délai de deux mois à compter de la saisine de la commune.
@@ -23940,10 +24144,9 @@ délai de deux mois à compter de la saisine de la commune.
 	  - Code de l'urbanisme - art. L113-25 (VD)
 	  - Code de l'urbanisme - art. L142-3 (VT)
 	  - Code de l'urbanisme - art. L143-3 (M)
-	  - Code de l'urbanisme - art. L210-1 (M)
+	  - Code de l'urbanisme - art. L210-1 (V)
 	  - Code de l'urbanisme - art. L213-1 (VD)
 	  - Code de l'urbanisme - art. L215-8 (VD)
-	  - Code de l'urbanisme - art. L221-1 (V)
 	  - Code de l'urbanisme - art. L332-21 (Ab)
 	  - Code de l'urbanisme - art. L730-1 (VT)
 	  - Code de l'urbanisme - art. R324-4 (V)
@@ -23965,15 +24168,17 @@ délai de deux mois à compter de la saisine de la commune.
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 5
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 102 (V)
 
 	**Cite**:
 
 	  - Code rural - art. L143-2
-	  - Code de l'urbanisme - art. L113-16 (VD)
-	  - Code de l'urbanisme - art. L151-41 (VD)
-	  - Code de l'urbanisme - art. L215-1 (VD)
-	  - Code de l'urbanisme - art. L230-1 (VD)
+	  - Code de l'urbanisme - art. L113-16
+	  - Code de l'urbanisme - art. L151-41
+	  - Code de l'urbanisme - art. L215-1
+	  - Code de l'urbanisme - art. L221-1 (V)
+	  - Code de l'urbanisme - art. L230-1
+	  - Code de la construction et de l'habitation. - art. L302-1 (V)
 
 	**Nouveaux textes**:
 
@@ -23982,17 +24187,18 @@ délai de deux mois à compter de la saisine de la commune.
 
 ###### Article L324-2
 
-L'établissement public foncier est créé par le représentant de l'Etat dans la région  au vu des délibérations concordantes
-des organes délibérants d'établissements publics de coopération intercommunale, dotés de la compétence en matière  de
-programme local de l'habitat, ainsi que, le cas échéant, de conseils municipaux de communes non membres de l'un de ces
-établissements. Lorsque les établissements publics de coopération intercommunale et les communes appartiennent à plusieurs
-régions, la décision est prise par arrêté conjoint des représentants de l'Etat  concernés. Chacune de ces régions et chacun
-de leurs départements  peuvent participer à la création de l'établissement public ou y adhérer. Le représentant de l'Etat
-dans la région dispose d'un délai de trois mois à compter de la transmission des délibérations pour donner son accord ou
-motiver son refus. Cette motivation est fondée sur les données locales relatives aux périmètres existants ou proposés
-d'établissements publics fonciers ou de schémas de cohérence territoriale et à l'évaluation des besoins fonciers
-correspondant aux enjeux territoriaux en matière d'urbanisme, d'habitat, de développement économique, de déplacements et
-d'environnement. 
+L'établissement public foncier est créé par le représentant de l'Etat dans la région au vu des délibérations concordantes des
+organes délibérants d'établissements publics de coopération intercommunale, dotés de la compétence en matière de programme
+local de l'habitat, ainsi que, le cas échéant, de conseils municipaux de communes non membres de l'un de ces établissements.
+Lorsque les établissements publics de coopération intercommunale et les communes appartiennent à plusieurs régions, la
+décision est prise par arrêté conjoint des représentants de l'Etat concernés. Chacune de ces régions et chacun de leurs
+départements peuvent participer à la création de l'établissement public ou y adhérer. Le représentant de l'Etat dans la
+région dispose d'un délai de trois mois à compter de la transmission des délibérations pour donner son accord ou motiver son
+refus après avoir recueilli l'avis du comité régional de l'habitat et de l'hébergement compétent. Cette motivation est fondée
+sur les données locales relatives aux périmètres existants ou proposés d'établissements publics fonciers ou de schémas de
+cohérence territoriale et à l'évaluation des besoins fonciers correspondant aux enjeux territoriaux en matière d'urbanisme,
+d'habitat, de développement économique, de déplacements et d'environnement ainsi que sur l'avis du comité régional de
+l'habitat et de l'hébergement. 
 
 Les délibérations fixent la liste des membres de l'établissement, les modalités de fonctionnement, la durée, le siège et la
 composition de l'assemblée générale ou, dans le cas prévu au deuxième alinéa de l'article L. 324-3, du conseil
@@ -24001,15 +24207,13 @@ d'administration de l'établissement public foncier, en tenant compte de l'impor
 
 La décision de création comporte les éléments mentionnés à l'alinéa précédent.
 
+**Nota:**
+
+Conformément au XIII de l'article 102 de la loi n° 2017-86 du 27 janvier 2017, un décret en Conseil d'Etat détermine les
+conditions d'application des dispositions de l'article L. 324-2 dans sa rédaction résultant du XI dudit article de ladite
+loi.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-	**Modifié par**:
-
-	  - Loi n°2014-366 du 24 mars 2014 - art. 146
 
 	**Cite**:
 
@@ -24019,6 +24223,14 @@ La décision de création comporte les éléments mentionnés à l'alinéa préc
 
 	  - Code de l'urbanisme - art. R324-1 (V)
 	  - Code de l'urbanisme - art. R324-13 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+	**Modifié par**:
+
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 102 (V)
 
 
 ###### Article L324-2-1
@@ -24033,9 +24245,107 @@ des deux tiers des délégués des membres de l'établissement, présents ou rep
 	  - Loi n°2009-323 du 25 mars 2009 - art. 107
 
 
+###### Article L324-2-1 A
+
+L'extension du périmètre d'un établissement public foncier local à un établissement public de coopération intercommunale doté
+de la compétence en matière de programme local de l'habitat ou, le cas échéant, à une commune non membre d'un tel
+établissement est arrêtée par le représentant de l'Etat dans la région au vu des délibérations, d'une part, de l'organe
+délibérant de cet établissement public de coopération intercommunale ou du conseil municipal de cette commune et, d'autre
+part, de l'établissement public foncier local. 
+
+L'extension est soumise à l'accord du représentant de l'Etat dans la région selon les conditions prévues au premier alinéa de
+l'article L. 324-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 102 (V)
+
+
+###### Article L324-2-1 B
+
+En cas de fusion des établissements publics de coopération intercommunale membres de l'établissement public foncier local en
+un seul établissement public de coopération intercommunale, l'établissement public foncier local est maintenu, sous réserve
+que l'établissement public de coopération intercommunale résultant de la fusion soit doté de la compétence en matière de
+programme local de l'habitat. 
+
+En cas de fusion d'établissements publics de coopération intercommunale compétents en matière de programme local de l'habitat
+ou de fusion de communes, qui sont déjà membres d'un établissement public foncier local, l'établissement public de
+coopération intercommunale ou la commune issu de la fusion est membre de plein droit de l'établissement public foncier local.
+
+**Nota:**
+
+Loi n° 2017-86 du 27 janvier 2017, article 102-XIV : Ces dispositions sont applicables : 
+
+1° Aux établissements publics de coopération intercommunale à fiscalité propre créés à compter du 1er janvier 2017, en
+application des I et III de l'article 35 de la loi n° 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de
+la République, ou dont le périmètre a évolué à compter de cette même date en application du II du même article 35 ; 
+
+2° Aux communes nouvelles créées à compter du 1er janvier 2017, en application de l'article L. 2113-2 du code général des
+collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 102 (V)
+
+
+###### Article L324-2-1 C
+
+En cas de fusion d'établissements publics de coopération intercommunale à fiscalité propre dont au moins un est membre d'un
+établissement public foncier local, l'établissement public de coopération intercommunale issu de la fusion est membre de
+plein droit de cet établissement du public foncier local, à titre transitoire, sous réserve qu'il soit compétent en matière
+de programme local de l'habitat, pour la partie de son territoire correspondant à l'établissement ou aux établissements
+publics de coopération intercommunale qui en étaient membres. 
+
+En cas de création d'une commune nouvelle dont au moins une des anciennes communes qui la constituent est membre d'un
+établissement public foncier local, la commune nouvelle est membre de plein droit de cet établissement, à titre transitoire,
+pour la partie de son territoire correspondant à la ou aux anciennes communes qui en étaient membres. 
+
+En cas d'adhésion d'une commune membre d'un établissement public foncier local à un établissement public de coopération
+intercommunale à fiscalité propre compétent en matière de programme local de l'habitat, ou si l'établissement public de
+coopération intercommunale à fiscalité propre auquel une commune appartient devient compétent en matière de programme local
+de l'habitat, l'établissement public de coopération intercommunale devient membre de l'établissement public foncier local, à
+titre transitoire, pour la partie de son territoire correspondant à la commune concernée, en lieu et place de cette
+dernière. 
+
+Dans les cas mentionnés aux trois premiers alinéas, l'organe délibérant de l'établissement public de coopération
+intercommunale ou le conseil municipal de la commune se prononce, dans un délai de six mois, sur son adhésion à
+l'établissement public foncier local. 
+
+Le représentant de l'Etat dans la région arrête le nouveau périmètre de l'établissement public foncier local au vu de ces
+délibérations. L'assemblée générale et, le cas échéant, le conseil d'administration de l'établissement public foncier local
+demeurent en fonction jusqu'à la première réunion de l'assemblée générale constituée dans les conditions prévues par l'arrêté
+du représentant de l'Etat dans la région. 
+
+Par dérogation au cinquième alinéa de l'article L. 324-1, en cas de délibération défavorable de l'organe délibérant de
+l'établissement public de coopération intercommunale ou du conseil municipal de la commune, l'établissement public foncier
+local demeure compétent sur les seuls territoires des communes ou établissements publics de coopération intercommunale qui en
+étaient membres antérieurement, jusqu'à la fin du deuxième exercice budgétaire plein qui suit cette délibération.
+
+**Nota:**
+
+Loi n° 2017-86 du 27 janvier 2017, article 102-XIV : Ces dispositions sont applicables : 
+
+1° Aux établissements publics de coopération intercommunale à fiscalité propre créés à compter du 1er janvier 2017, en
+application des I et III de l'article 35 de la loi n° 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de
+la République, ou dont le périmètre a évolué à compter de cette même date en application du II du même article 35 ; 
+
+2° Aux communes nouvelles créées à compter du 1er janvier 2017, en application de l'article L. 2113-2 du code général des
+collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 102 (V)
+
+
 ###### Article L324-2-2
 
-I. ― L'établissement public foncier élabore un programme pluriannuel d'intervention qui :
+I. ― L'établissement public foncier élabore un programme pluriannuel d'intervention qui : 
 
 1° Définit ses actions, leurs modalités et les moyens mis en œuvre ;
 
@@ -24044,25 +24354,54 @@ I. ― L'établissement public foncier élabore un programme pluriannuel d'inter
 II. ― Le programme pluriannuel d'intervention tient compte des priorités énoncées dans les documents d'urbanisme ainsi que
 des objectifs de réalisation de logements précisés par les programmes locaux de l'habitat.
 
-Ce programme est transmis au préfet de région.
+Ce programme est transmis au préfet de région. 
+
+Le bilan annuel des actions de l'établissement, de ses modalités d'intervention et des moyens mis en œuvre, définis dans le
+programme pluriannuel d'intervention, est transmis, chaque année, avant le 1er juillet, au comité régional de l'habitat et de
+l'hébergement compétent pour la région dans laquelle l'établissement exerce son activité.
+
+**Nota:**
+
+Conformément au XIII de l'article 102 de la loi n° 2017-86 du 27 janvier 2017, un décret en Conseil d'Etat détermine les
+conditions d'application des dispositions de l'article L. 324-2-2 dans sa rédaction résultant du XII dudit article de ladite
+loi.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 146
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 102 (V)
 
 
 ###### Article L324-3
 
 Chaque membre de l'établissement public foncier est représenté dans une assemblée générale qui élit en son sein un conseil
 d'administration. Le mandat des délégués et de leurs suppléants éventuels au sein de l'établissement suit, quant à sa durée,
-le sort des organes délibérants qui les ont désignés.
+le sort des organes délibérants qui les ont désignés. Par dérogation, dans les cas mentionnés à l'article L. 324-2-1 C, les
+mandats des délégués et de leurs suppléants éventuels au sein de l'établissement sont maintenus jusqu'à la désignation, par
+l'organe délibérant de l'établissement public de coopération intercommunale ou de la commune issu de la fusion, de leurs
+représentants au sein de l'établissement public foncier.
 
 Lorsque tous les membres de l'établissement sont représentés au conseil d'administration, celui-ci exerce les attributions
 dévolues à l'assemblée générale.
 
+**Nota:**
+
+Loi n° 2017-86 du 27 janvier 2017, article 102-XIV : Ces dispositions sont applicables : 
+
+1° Aux établissements publics de coopération intercommunale à fiscalité propre créés à compter du 1er janvier 2017, en
+application des I et III de l'article 35 de la loi n° 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de
+la République, ou dont le périmètre a évolué à compter de cette même date en application du II du même article 35 ; 
+
+2° Aux communes nouvelles créées à compter du 1er janvier 2017, en application de l'article L. 2113-2 du code général des
+collectivités territoriales.
+
 **Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L324-2 (V)
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 102 (V)
 
 	**Codifié par**:
 
@@ -24070,12 +24409,7 @@ dévolues à l'assemblée générale.
 
 	**Modifié par**:
 
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 28 () JORF 14 décembre 2000
-
-	**Cité par**:
-
 	  - Loi n°2017-86 du 27 janvier 2017 - art. 102 (V)
-	  - Code de l'urbanisme - art. L324-2 (V)
 
 
 ###### Article L324-4
@@ -24529,7 +24863,8 @@ locale d'aménagement détient au moins la majorité des droits de vote.
 
 Ces sociétés sont compétentes pour réaliser toute opération d'aménagement au sens du présent code. Elles sont également
 compétentes pour réaliser les opérations de requalification de copropriétés dégradées prévues à l'article L. 741-1 du code de
-la construction et de l'habitation, réaliser des études préalables, procéder à toute acquisition et cession d'immeubles en
+la construction et de l'habitation réaliser les opérations de requalification des quartiers anciens dégradés prévues à
+l'article L. 304-1 du même code, réaliser des études préalables, procéder à toute acquisition et cession d'immeubles en
 application des articles L. 221-1 et L. 221-2, procéder à toute opération de construction ou de réhabilitation immobilière en
 vue de la réalisation des objectifs énoncés à l'article L. 300-1, ou procéder à toute acquisition et cession de baux
 commerciaux, de fonds de commerce ou de fonds artisanaux dans les conditions prévues au chapitre IV du titre Ier du livre II
@@ -24560,7 +24895,7 @@ général des collectivités territoriales.
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1127 du 10 septembre 2015 - art. 2
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 103
 
 	**Cite**:
 
@@ -24897,7 +25232,10 @@ des mises à disposition mentionnées aux articles L. 328-3 et L. 328-4.
 Les organismes de foncier solidaire sont des organismes sans but lucratif agréés par le représentant de l'Etat dans la
 région, qui, pour tout ou partie de leur activité, ont pour objet d'acquérir et de gérer des terrains, bâtis ou non, en vue
 de réaliser des logements et des équipements collectifs conformément aux objectifs de l'article L. 301-1 du code de la
-construction et de l'habitation. 
+construction et de l'habitation.
+
+Le représentant de l'Etat dans la région peut agréer un organisme existant et exerçant par ailleurs d'autres missions que
+celles définies au présent article. 
 
 L'organisme de foncier solidaire reste propriétaire des terrains et consent au preneur, dans le cadre d'un bail de longue
 durée, s'il y a lieu avec obligation de construire ou de réhabiliter des constructions existantes, des droits réels en vue de
@@ -24911,10 +25249,6 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Loi n°2014-366 du 24 mars 2014 - art. 164
-
 	**Cité par**:
 
 	  - Loi n°2015-990 du 6 août 2015 - art. 94 (V)
@@ -24927,10 +25261,14 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 	  - Code de la construction et de l'habitation. - art. L255-1 (V)
 	  - Code de la construction et de l'habitation. - art. L421-4 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 139
+
 	**Cite**:
 
-	  - Code général de la propriété des personnes publ... - art. L3211-7 (V)
-	  - Code de la construction et de l'habitation. - art. L301-1 (V)
+	  - Code général de la propriété des personnes publiques. - art. L3211-7
+	  - Code de la construction et de l'habitation. - art. L301-1
 
 
 #### Chapitre X : Société d'économie mixte d'aménagement à opération unique
@@ -28109,15 +28447,23 @@ c) Les travaux, constructions et installations réalisés à l'intérieur des p�
 mentionnées à l'article L. 132-1 ; 
 
 d) Les opérations de logement situées dans les secteurs arrêtés par le préfet en application du deuxième alinéa de l'article
-L. 302-9-1 du code de la construction et de l'habitation ; 
+L. 302-9-1 du code de la construction et de l'habitation et appartenant aux catégories de constructions ou d'aménagements
+listées  dans l'arrêté pris en application du même article L. 302-9-1, et les  opérations ayant fait l'objet, pendant la
+durée d'application de cet  arrêté, d'une convention prise sur le fondement du sixième alinéa dudit  article L. 302-9-1 ; 
 
-e) Les logements construits par des sociétés de construction dans lesquelles l'Etat détient la majorité du capital ; 
+e) Les logements, locaux d'hébergement et résidences hôtelières à vocation sociale construits ou exploités  par des sociétés
+de construction dans lesquelles l'Etat détient  au moins un tiers du capital ; 
 
 f) Les ouvrages, constructions ou installations mentionnés à l'article L. 2124-18 du code général de la propriété des
 personnes publiques. 
 
 Lorsque la décision est prise par le préfet, celui-ci recueille l'avis du maire ou du président de l'établissement public de
 coopération intercommunale compétent.
+
+**Nota:**
+
+Conformément au IV de l'article 98 de la loi n° 2017-86 du 27 janvier 2017,  ces dispositions s'appliquent aux demandes
+d'autorisation d'urbanisme déposées à compter de la publication de ladite loi.
 
 **Liens relatifs à cet article**
 
@@ -28159,13 +28505,13 @@ coopération intercommunale compétent.
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 6
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 98 (V)
 
 	**Cite**:
 
 	  - Code général de la propriété des personnes publiques. - art. L2124-18
-	  - Code de l'urbanisme - art. L132-1 (VD)
-	  - Code de l'urbanisme - art. L422-1 (V)
+	  - Code de l'urbanisme - art. L132-1
+	  - Code de l'urbanisme - art. L422-1
 	  - Code de la construction et de l'habitation. - art. L302-9-1
 
 
@@ -31649,8 +31995,7 @@ l) Les sites patrimoniaux remarquables créés en application des articles L. 63
 
 m) Les abords des monuments historiques prévus aux articles L. 621-30 et L. 621-31 du même code ; 
 
-n) Les secteurs délimités par le plan local d'urbanisme en application des 2° et 5° du III de l'article L. 123-1-5 du présent
-code. 
+n) Les secteurs délimités par le plan local d'urbanisme en application des articles L. 151-19 et L. 151-23 du présent code. 
 
 L'action en démolition doit être engagée dans le délai de deux ans qui suit la décision devenue définitive de la juridiction
 administrative ; 
@@ -31675,8 +32020,6 @@ engagement national pour le logement, la prescription antérieure continue à co
 	  - Code rural - art. L641-13
 	  - Code de l'urbanisme - art. L121-16
 	  - Code de l'urbanisme - art. L122-12
-	  - Code de l'urbanisme - art. L122-26 (VD)
-	  - Code de l'urbanisme - art. L122-9 (V)
 	  - Code de l'urbanisme - art. L123-1-5
 	  - Code de l'environnement - art. L331-2
 	  - Code de l'environnement - art. L332-1
@@ -31689,10 +32032,6 @@ engagement national pour le logement, la prescription antérieure continue à co
 	  - Code du patrimoine - art. L621-30
 	  - Code du patrimoine - art. L631-1
 	  - Code minier (nouveau) - art. L174-5
-
-	**Modifié par**:
-
-	  - Loi n°2016-1888 du 28 décembre 2016 - art. 78
 
 	**Cité par**:
 
@@ -31710,6 +32049,10 @@ engagement national pour le logement, la prescription antérieure continue à co
 	  - Code de l'urbanisme - art. L600-6 (M)
 	  - Code de l'urbanisme - art. R*421-32 (Ab)
 	  - Code de l'urbanisme - art. R*424-19 (VD)
+
+	**Modifié par**:
+
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 117 (V)
 
 	**Codifié par**:
 
@@ -33351,6 +33694,22 @@ le plan local d'urbanisme, le document d'urbanisme en tenant lieu ou la carte co
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. L174-6 (VD)
+
+
+###### Article L600-13
+
+La requête introductive d'instance est caduque lorsque, sans motif légitime, le demandeur ne produit pas les pièces
+nécessaires au jugement de l'affaire dans un délai de trois mois à compter du dépôt de la requête ou dans le délai qui lui a
+été imparti par le juge. 
+
+La déclaration de caducité peut être rapportée si le demandeur fait connaître au greffe, dans un délai de quinze jours, le
+motif légitime qu'il n'a pas été en mesure d'invoquer en temps utile.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 111
 
 
 ### Titre Ier : Infractions et sanctions
