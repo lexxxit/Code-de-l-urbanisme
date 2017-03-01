@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2017-03-01
+Version Consolidée au 2017-03-02
 
 # Partie législative
 
@@ -8222,19 +8222,22 @@ l'établissement public compétent et dans les mairies des communes concernées.
 ###### Article L134-1
 
 Le projet d'aménagement et de développement durables du schéma de cohérence territoriale tient lieu de projet métropolitain,
-au sens de l'article L. 5219-1 du code général des collectivités territoriales.
+au sens de l'article L. 5219-1 du code général des collectivités territoriales. 
 
 Il comporte un diagnostic général, social, économique et environnemental du territoire métropolitain, des orientations
-stratégiques pour le développement de la métropole ainsi que des domaines d'intervention prioritaires.
+stratégiques pour le développement de la métropole ainsi que des domaines d'intervention prioritaires. 
 
 Le schéma de cohérence territoriale de la métropole du Grand Paris comprend un cahier de recommandations pour l'élaboration
 des plans locaux d'urbanisme intercommunaux portant sur la présentation du règlement, l'identification des catégories de
-zonage, les règles d'urbanisme et les documents graphiques.
+zonage, les règles d'urbanisme et les documents graphiques. 
 
 Le schéma de cohérence territoriale est compatible avec le schéma directeur de la région d'Ile-de-France et prend en compte
-le schéma régional de l'habitat et de l'hébergement en Ile-de-France.
+le schéma régional de l'habitat et de l'hébergement en Ile-de-France. 
 
-Le plan métropolitain de l'habitat et de l'hébergement est compatible avec le schéma de cohérence territoriale.
+Le plan métropolitain de l'habitat et de l'hébergement est compatible avec le schéma de cohérence territoriale. 
+
+Les établissements publics territoriaux sont associés, dans les conditions prévues aux articles L. 132-7 et L. 132-8 du
+présent code, à l'élaboration du schéma de cohérence territoriale de la métropole du Grand Paris.
 
 **Liens relatifs à cet article**
 
@@ -8242,17 +8245,14 @@ Le plan métropolitain de l'habitat et de l'hébergement est compatible avec le 
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Loi n°2017-257 du 28 février 2017 - art. 39
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L5219-1 (M)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L141-9 (VT)
+	  - Code général des collectivités territoriales - art. L5219-1
+	  - Code de l'urbanisme - art. L132-7 (V)
 
 	**Cité par**:
 
@@ -16343,28 +16343,24 @@ Ils sont soumis aux dispositions de l'article L. 174-5.
 
 Lorsqu'une procédure de révision du plan d'occupation des sols a été engagée avant le 31 décembre 2015, cette procédure peut
 être menée à terme en application des articles L. 123-1 et suivants, dans leur rédaction issue de la loi n° 2014-366 du 24
-mars 2014 pour l'accès au logement et un urbanisme rénové, sous réserve d'être achevée au plus tard le 26 mars 2017. Les
-dispositions du plan d'occupation des sols restent en vigueur jusqu'à l'approbation du plan local d'urbanisme et au plus tard
-jusqu'à cette dernière date.
+mars 2014 pour l'accès au logement et un urbanisme rénové, sous réserve d'être achevée au plus tard le 26 mars 2017 ou, dans
+les communes d'outre-mer, le 26 septembre 2018. Les dispositions du plan d'occupation des sols restent en vigueur jusqu'à
+l'approbation du plan local d'urbanisme et au plus tard jusqu'à cette dernière date.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°2014-366  du 24 mars 2014 (V)
-	  - Code de l'urbanisme - art. L123-1 (VD)
+	  - Loi n°2014-366 du 24 mars 2014
+	  - Code de l'urbanisme - art. L123-1
 
 	**Codifié par**:
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L123-19, alinéa 11  (VT)
+	  - Loi n°2017-256 du 28 février 2017 - art. 101
 
 	**Cité par**:
 
@@ -16698,19 +16694,30 @@ les périmètres fixés par le conseil de la métropole, pour la mise en œuvre 
 métropolitain mentionnées à l'article L. 5219-1 du même code. Dans les périmètres ainsi identifiés, les aliénations
 nécessaires à la réalisation des opérations d'aménagement d'intérêt métropolitain mentionnées au même article L. 5219-1 ne
 sont plus soumises aux droits de préemption urbains de la commune de Paris et des établissements publics territoriaux créés
-en application de l'article L. 5219-2 du même code.
+en application de l'article L. 5219-2 du même code. 
 
-Le titulaire du droit de préemption urbain peut déléguer son droit à une société d'économie mixte agréée mentionnée à
-l'article L. 481-1 du code de la construction et de l'habitation, à l'un des organismes d'habitations à loyer modéré prévus à
-l'article L. 411-2 du même code ou à l'un des organismes agréés mentionnés à l'article L. 365-2 dudit code lorsque
-l'aliénation porte sur un des biens ou des droits affectés au logement. Leur organe délibérant peut déléguer l'exercice de ce
-droit, dans des conditions définies par décret en Conseil d'Etat. Par dérogation à l'article L. 213-11 du présent code, les
-biens acquis par exercice du droit de préemption en application du présent alinéa ne peuvent être utilisés qu'en vue de la
-réalisation d'opérations d'aménagement ou de construction permettant la réalisation des objectifs fixés dans le programme
-local de l'habitat ou déterminés en application du premier alinéa de l'article L. 302-8 du code de la construction et de
-l'habitation.
+Le titulaire du droit de préemption urbain peut déléguer son droit à la société mentionnée au deuxième alinéa du I de
+l'article 141 de la loi n° 2006-1771 du 30 décembre 2006 de finances rectificative pour 2006, à une société d'économie mixte
+agréée mentionnée à l'article L. 481-1 du code de la construction et de l'habitation, à l'un des organismes d'habitations à
+loyer modéré prévus à l'article L. 411-2 du même code ou à l'un des organismes agréés mentionnés à l'article L. 365-2 dudit
+code lorsque l'aliénation porte sur un des biens ou des droits affectés au logement. Leur organe délibérant peut déléguer
+l'exercice de ce droit, dans des conditions définies par décret en Conseil d'Etat. Par dérogation à l'article L. 213-11 du
+présent code, les biens acquis par exercice du droit de préemption en application du présent alinéa ne peuvent être utilisés
+qu'en vue de la réalisation d'opérations d'aménagement ou de construction permettant la réalisation des objectifs fixés dans
+le programme local de l'habitat ou déterminés en application du premier alinéa de l'article L. 302-8 du code de la
+construction et de l'habitation.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 141 (V)
+	  - Code général des collectivités territoriales - art. L5219-2 (V)
+	  - Code de l'urbanisme - art. L213-11
+	  - Code de la construction et de l'habitation. - art. L302-8
+	  - Code de la construction et de l'habitation. - art. L365-2
+	  - Code de la construction et de l'habitation. - art. L411-2
+	  - Code de la construction et de l'habitation. - art. L481-1
 
 	**Cité par**:
 
@@ -16734,19 +16741,11 @@ l'habitation.
 
 	**Modifié par**:
 
-	  - Loi n°2017-86 du 27 janvier 2017 - art. 102 (V)
+	  - Loi n°2017-257 du 28 février 2017 - art. 50
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de l'urbanisme - art. L211-2 (M)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L213-11
-	  - Code de la construction et de l'habitation. - art. L302-8
-	  - Code de la construction et de l'habitation. - art. L365-2
-	  - Code de la construction et de l'habitation. - art. L411-2
-	  - Code de la construction et de l'habitation. - art. L481-1
 
 	**Codifié par**:
 
@@ -17701,17 +17700,25 @@ soumise au droit de préemption.
 
 Lorsqu'un bien soumis au droit de préemption fait l'objet d'une expropriation pour cause d'utilité publique, la date de
 référence prévue à l'article L. 322-2 du code de l'expropriation pour cause d'utilité publique est celle prévue au a de
-l'article L. 213-4.
+l'article L. 213-4. 
+
+Lorsqu'un bien fait l'objet d'une expropriation pour cause d'utilité publique sur le fondement d'une déclaration d'utilité
+publique intervenue à une date à laquelle le bien était soumis, en application de l'article L. 212-2, au droit de préemption
+applicable dans le périmètre d'une zone d'aménagement différé, la date de référence prévue à l'article L. 322-2 du code de
+l'expropriation pour cause d'utilité publique est celle prévue au a de l'article L. 213-4 du présent code. En cas de
+prorogation de la déclaration d'utilité publique, cette date est déterminée en application de l'article L. 322-2 du code de
+l'expropriation pour cause d'utilité publique
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 5
+	  - Loi n°2017-257 du 28 février 2017 - art. 40
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L213-4 (VD)
+	  - Code de l'urbanisme - art. L212-2 (V)
+	  - Code de l'urbanisme - art. L213-4
 	  - Code de l'expropriation pour cause d'utilité publique - art. L322-2
 
 	**Codifié par**:
@@ -21980,9 +21987,12 @@ loi.
 
 ###### Article L321-3
 
-Les établissements publics fonciers de l'Etat sont habilités à créer des filiales et à acquérir des participations dans des
-sociétés, groupements ou organismes dont l'objet concourt à la réalisation de leurs missions dans les conditions déterminées
-par le décret prévu à l'article L. 321-13.
+Les établissements publics fonciers de l'Etat sont habilités à créer des filiales et à acquérir ou céder des participations
+dans des sociétés, groupements ou organismes dont l'objet concourt à la réalisation de leurs missions dans les conditions
+déterminées par le décret prévu à l'article L. 321-13.
+
+Les délibérations du conseil d'administration et du bureau, relatives à la création de filiales et aux acquisitions ou
+cessions de participations, sont soumises à la seule approbation du préfet.
 
 **Liens relatifs à cet article**
 
@@ -22008,7 +22018,7 @@ par le décret prévu à l'article L. 321-13.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+	  - Loi n°2017-257 du 28 février 2017 - art. 42
 
 	**Cite**:
 
@@ -22451,9 +22461,12 @@ leur périmètre de compétence. L'avis est réputé favorable s'il n'est pas é
 
 ###### Article L321-16
 
-Les établissements publics d'aménagement sont habilités à créer des filiales et à acquérir des participations dans des
-sociétés, groupements ou organismes dont l'objet concourt à la réalisation de leurs missions dans les conditions déterminées
-par le décret prévu à l'article L. 321-28.
+Les établissements publics d'aménagement sont habilités à créer des filiales et à acquérir ou céder des participations dans
+des sociétés, groupements ou organismes dont l'objet concourt à la réalisation de leurs missions dans les conditions
+déterminées par le décret prévu à l'article L. 321-28.
+
+Les délibérations du conseil d'administration et du bureau, relatives à ces créations de filiales et à ces acquisitions ou
+cessions de participations, sont soumises à la seule approbation du préfet.
 
 **Liens relatifs à cet article**
 
@@ -22468,9 +22481,9 @@ par le décret prévu à l'article L. 321-28.
 	  - Décret n°2012-327  du 6 mars 2012 - art. 4 (V)
 	  - Code de l'urbanisme - art. L327-3 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-1068 du 8 septembre 2011 - art. 1
+	  - Loi n°2017-257 du 28 février 2017 - art. 42
 
 	**Cite**:
 
@@ -22718,6 +22731,8 @@ Un décret en Conseil d'Etat détermine les conditions d'application de la prés
 
 ##### Sous-section 1 : Agence foncière et technique de la région parisienne
 
+##### Sous-section 1 : Grand Paris Aménagement
+
 ###### Article L321-29
 
 Grand Paris Aménagement est un établissement public de l'Etat qui a pour mission principale de conduire toute action de
@@ -22778,8 +22793,11 @@ entrant dans le cadre de ses compétences.
 
 ###### Article L321-30
 
-Grand Paris Aménagement est habilité à créer des filiales et à acquérir des participations dans des sociétés, groupements ou
-organismes dont l'objet concourt à la réalisation de ses missions.
+Grand Paris Aménagement est habilité à créer des filiales et à acquérir ou céder des participations dans des sociétés,
+groupements ou organismes dont l'objet concourt à la réalisation de ses missions.
+
+Les délibérations du conseil d'administration, relatives à ces créations de filiales et à ces acquisitions ou cessions de
+participations, sont soumises à la seule approbation du préfet.
 
 **Liens relatifs à cet article**
 
@@ -22790,9 +22808,9 @@ organismes dont l'objet concourt à la réalisation de ses missions.
 	  - Décret n°2017-341 du 15 mars 2017 - art. 4 (VD)
 	  - Code de l'urbanisme - art. L327-3 (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Loi n°2015-1268 du 14 octobre 2015 - art. 18
+	  - Loi n°2017-257 du 28 février 2017 - art. 42
 
 
 ###### Article L321-31
@@ -22834,13 +22852,43 @@ en œuvre par Grand Paris Aménagement dans le cadre d'un contrat d'objectifs si
 
 ###### Article L321-33
 
-Le conseil d'administration du       Grand Paris Aménagement est composé, en nombre égal : 
+I. – Le conseil d'administration de Grand Paris Aménagement est composé : 
 
-1° De représentants de la région d'Ile-de-France et des départements d'Ile-de-France ; 
+1° De représentants de collectivités territoriales et d'établissements publics de coopération intercommunale à fiscalité
+propre de la région d'Ile-de-France ; 
 
 2° De représentants de l'Etat. 
 
-Il peut être complété par des personnalités qualifiées.
+En cas de mutualisation, mise en œuvre au titre de l'article L. 321-41, le président du conseil d'administration de
+l'établissement mutualisé avec Grand Paris Aménagement est membre de droit du conseil d'administration. 
+
+Le conseil d'administration peut être complété par des personnalités qualifiées. 
+
+Le nombre de représentants désignés au titre du 2° est égal au moins au nombre total des représentants désignés au titre du
+1° et des quatrième et avant-dernier alinéas du présent I. 
+
+II. – Les établissements publics de coopération intercommunale à fiscalité propre sont représentés au conseil
+d'administration directement ou indirectement. Les modalités de désignation de leurs représentants indirects sont fixées aux
+deuxième à dernier alinéas du présent II. 
+
+Les représentants des établissements publics de coopération intercommunale à fiscalité propre au conseil d'administration
+sont désignés dans les conditions fixées par le décret mentionné à l'article L. 321-36 par une assemblée composée des
+présidents de ces établissements. 
+
+Les présidents de ces établissements peuvent se faire représenter au sein de cette assemblée par un autre membre de leur
+organe délibérant désigné par celui-ci. 
+
+Cette assemblée est réunie par l'autorité administrative compétente de l'Etat qui en fixe le règlement. Si l'assemblée ne
+désigne pas ses représentants au conseil d'administration de l'établissement, cette désignation peut être opérée par cette
+autorité à l'expiration d'un délai de deux mois à compter de la réunion de l'assemblée.
+
+**Nota:**
+
+Conformément au II de l'article 48 de la loi n° 2017-257 du 28 février 2017, Le conseil d'administration de l'établissement
+public Grand Paris Aménagement en fonction à la date de promulgation de la présente loi demeure en fonction jusqu'à la
+première réunion du conseil d'administration constitué dans les conditions prévues à l'article L. 321-33 du code de
+l'urbanisme dans sa rédaction résultant du 2° du I du présent article. Cette réunion a lieu au plus tard dans un délai de
+huit mois à compter de la publication de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -22849,14 +22897,26 @@ Il peut être complété par des personnalités qualifiées.
 	  - Décret n°2015-980 du 31 juillet 2015 - art. 4 (VT)
 	  - Loi n°2017-257 du 28 février 2017 - art. 48 (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Loi n°2015-1268 du 14 octobre 2015 - art. 18
+	  - Loi n°2017-257 du 28 février 2017 - art. 48 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L321-36 (V)
+	  - Code de l'urbanisme - art. L321-41 (V)
 
 
 ###### Article L321-34
 
-Le président du conseil d'administration exerce les fonctions de directeur général.
+Le directeur général est chargé de l'administration de l'établissement.
+
+**Nota:**
+
+Conformément au III de l'article 48 de la loi n° 2017-257 du 28 février 2017, le présent article, dans sa rédaction issue du
+3° du I du même article de la même loi, entre en vigueur à compter de la première réunion du conseil  d'administration
+constitué dans les conditions prévues à l'article L.  321-33 du présent code dans sa rédaction résultant du 2° dudit article
+de ladite loi.
 
 **Liens relatifs à cet article**
 
@@ -22864,9 +22924,9 @@ Le président du conseil d'administration exerce les fonctions de directeur gén
 
 	  - Décret n°2015-980 du 31 juillet 2015 - art. 6 (VD)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Loi n°2015-1268 du 14 octobre 2015 - art. 18
+	  - Loi n°2017-257 du 28 février 2017 - art. 48 (V)
 
 
 ###### Article L321-35
@@ -23056,6 +23116,34 @@ l'établissement.
 	  - Loi n°2015-1268 du 14 octobre 2015 - art. 18
 
 
+###### Article L321-36-6-1
+
+L'Etat peut transférer, à titre gratuit, des terrains lui appartenant à l'établissement public foncier et d'aménagement de
+Mayotte en vue de la réalisation d'opérations de construction de bâtiments scolaires, de logements sociaux et
+d'infrastructures publiques de première nécessité.
+
+Au plus tard le 31 décembre 2020, le représentant de l'Etat à Mayotte arrête la liste des parcelles faisant l'objet du
+transfert. La publication de l'arrêté du représentant de l'Etat emporte transfert de propriété, l'établissement public étant
+chargé des autres formalités prévues par les lois et règlements.
+
+Un premier transfert est réalisé dans les douze mois suivant la promulgation de la loi n° 2017-256 du 28 février 2017 de
+programmation relative à l'égalité réelle outre-mer et portant autres dispositions en matière sociale et économique.
+
+Ces transferts ne donnent lieu au paiement d'aucun droit, taxe ou impôt de quelque nature que ce soit. Ils ne donnent pas non
+plus lieu au paiement de la contribution prévue à l'article 879 du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2017-256 du 28 février 2017
+	  - Code général des impôts, CGI. - art. 879
+
+	**Créé par**:
+
+	  - Loi n°2017-256 du 28 février 2017 - art. 114 (V)
+
+
 ###### Article L321-36-7
 
 Un décret en Conseil d'Etat détermine les conditions d'application de la présente sous-section.
@@ -23203,6 +23291,46 @@ date, l'Etablissement public de Paris-Saclay devient l'Etablissement public d'am
 	**Créé par**:
 
 	  - Loi n°2014-58 du 27 janvier 2014 - art. 25 (V)
+
+
+##### Section 5 : Dispositions particulières à la mutualisation des moyens entre établissements publics 
+
+
+###### Article L321-41
+
+Les statuts d'un établissement public mentionné au présent chapitre peuvent prévoir qu'il recourt, pour l'exercice de tout ou
+partie de ses compétences, aux moyens d'un autre établissement public mentionné au présent chapitre. Une convention,
+approuvée par les conseils d'administration respectifs des établissements concernés, détermine les modalités et les
+conditions financières du recours à ces moyens. L'établissement qui fournit ces moyens les facture aux coûts complets. 
+
+Les statuts de ces établissements peuvent également prévoir que les établissements concernés ont le même directeur général ou
+que le directeur général adjoint ou délégué de l'établissement qui fournit les moyens mentionnés dans la convention est
+également directeur général de l'établissement qui a recours à ces moyens. 
+
+Lorsque la mise en œuvre de ces dispositions par des établissements publics déjà existants implique un transfert préalable
+obligatoire de moyens, les conditions du transfert de tout ou partie du personnel, des biens immobiliers et mobiliers, des
+contrats, des créances et des droits et obligations d'un établissement au profit d'un autre qui lui fournit ensuite ces
+moyens selon les modalités prévues au premier alinéa sont déterminés par décret en Conseil d'Etat pris après avis des
+conseils d'administration des établissements concernés. Ce transfert s'effectue à titre gratuit et ne donne lieu ni au
+versement de la contribution prévue au I de l'article 879 du code général des impôts ni à la perception d'impôts, de droits
+ou de taxes de quelque nature que ce soit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2017-257 du 28 février 2017 - art. 43
+
+	**Cité par**:
+
+	  - Décret n°2017-777 du 5 mai 2017 (V)
+	  - Décret n°2017-777 du 5 mai 2017 - art. 3
+	  - Code de l'urbanisme - art. L321-33 (V)
+	  - Code de l'urbanisme - art. R*321-18 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 879 (M)
 
 
 #### Chapitre II : Associations foncières urbaines
@@ -24868,34 +24996,35 @@ juridictions financières.
 	  - Code général des collectivités territoriales - art. L1617-5 (V)
 
 
-#### Chapitre VII : Sociétés publiques locales d'aménagement
+#### Chapitre VII : Sociétés publiques locales d'aménagement et sociétés publiques locales d'aménagement d'intérêt national
+
+##### Section 1 : Dispositions communes
 
 ###### Article L327-1
 
-Les collectivités territoriales et leurs groupements peuvent, créer, dans le cadre des compétences qui leur sont attribuées
-par la loi, des sociétés publiques locales d'aménagement dont ils détiennent la totalité du capital.
+Les sociétés publiques locales d'aménagement et les sociétés publiques locales d'aménagement d'intérêt national revêtent la
+forme de sociétés anonymes régies par le livre II du code de commerce. 
 
-Une des collectivités territoriales ou un des groupements de collectivités territoriales participant à une société publique
-locale d'aménagement détient au moins la majorité des droits de vote. 
-
-Ces sociétés sont compétentes pour réaliser toute opération d'aménagement au sens du présent code. Elles sont également
-compétentes pour réaliser les opérations de requalification de copropriétés dégradées prévues à l'article L. 741-1 du code de
-la construction et de l'habitation réaliser les opérations de requalification des quartiers anciens dégradés prévues à
-l'article L. 304-1 du même code, réaliser des études préalables, procéder à toute acquisition et cession d'immeubles en
-application des articles L. 221-1 et L. 221-2, procéder à toute opération de construction ou de réhabilitation immobilière en
-vue de la réalisation des objectifs énoncés à l'article L. 300-1, ou procéder à toute acquisition et cession de baux
-commerciaux, de fonds de commerce ou de fonds artisanaux dans les conditions prévues au chapitre IV du titre Ier du livre II
-du présent code. Elles peuvent exercer, par délégation de leurs titulaires, les droits de préemption et de priorité définis
-par le présent code et agir par voie d'expropriation dans les conditions fixées par des conventions conclues avec l'un de
-leurs membres. 
+Sous réserve du présent chapitre, elles sont soumises au titre II du livre V de la première partie du code général des
+collectivités territoriales. 
 
 Ces sociétés exercent leurs activités exclusivement pour le compte de leurs actionnaires et sur le territoire des
 collectivités territoriales et des groupements de collectivités territoriales qui en sont membres. 
 
-Ces sociétés revêtent la forme de société anonyme régie par le livre II du code de commerce. 
+Les sociétés publiques locales d'aménagement peuvent également exercer leurs activités pour le compte d'une société publique
+locale d'aménagement d'intérêt national sur laquelle au moins un de leurs membres exerce un contrôle analogue à celui qu'il
+exerce sur ses propres services. 
 
-Sous réserve des dispositions du présent article, elles sont soumises au titre II du livre V de la première partie du code
-général des collectivités territoriales.
+Les sociétés publiques locales d'aménagement et les sociétés publiques locales d'aménagement d'intérêt national sont
+compétentes pour réaliser, outre toute opération d'aménagement prévue au dernier alinéa de l'article L. 327-2 ou à l'avant-
+dernier alinéa de l'article L. 327-3 du présent code, les opérations de requalification de copropriétés dégradées prévues à
+l'article L. 741-1 du code de la construction et de l'habitation, réaliser des études préalables, procéder à toute
+acquisition et cession d'immeubles en application des articles L. 221-1 et L. 221-2 du présent code, procéder à toute
+opération de construction ou de réhabilitation immobilière en vue de la réalisation des objectifs énoncés à l'article L.
+300-1, ou procéder à toute acquisition et cession de baux commerciaux, de fonds de commerce ou de fonds artisanaux dans les
+conditions prévues au chapitre IV du titre Ier du livre II. Elles peuvent exercer, par délégation de leurs titulaires, les
+droits de préemption et de priorité définis par le présent code et agir par voie d'expropriation dans les conditions fixées
+par des conventions conclues avec l'un de leurs membres.
 
 **Liens relatifs à cet article**
 
@@ -24912,14 +25041,82 @@ général des collectivités territoriales.
 
 	**Modifié par**:
 
-	  - Loi n°2017-86 du 27 janvier 2017 - art. 103
+	  - Loi n°2017-257 du 28 février 2017 - art. 47
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L221-1
-	  - Code de l'urbanisme - art. L221-2
-	  - Code de l'urbanisme - art. L300-1
-	  - Code de la construction et de l'habitation. - art. L741-1
+	  - Code de l'urbanisme - art. L221-1 (V)
+	  - Code de l'urbanisme - art. L300-1 (V)
+	  - Code de l'urbanisme - art. L327-2 (V)
+	  - Code de l'urbanisme - art. L327-3 (V)
+	  - Code de la construction et de l'habitation. - art. L741-1 (V)
+
+
+##### Section 2 : Règles applicables aux sociétés publiques locales d'aménagement 
+
+###### Article L327-2
+
+Les collectivités territoriales et leurs groupements peuvent créer, dans  le cadre des compétences qui leur sont attribuées
+par la loi, des  sociétés publiques locales d'aménagement dont ils détiennent la totalité  du capital. 
+
+Une des collectivités territoriales  ou un des groupements de collectivités territoriales participant à une  société publique
+locale d'aménagement détient au moins la majorité des  droits de vote. 
+
+Ces sociétés sont compétentes pour réaliser toute opération ou action d'aménagement au sens du présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2017-257 du 28 février 2017 - art. 47
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L327-1 (V)
+	  - Code de l'urbanisme - art. L350-6 (V)
+	  - Code général des impôts, CGI. - art. 1042 (V)
+
+
+##### Section 3 : Règles applicables aux sociétés publiques locales d'aménagement d'intérêt national
+
+###### Article L327-3
+
+L'Etat ou l'un de ses établissements publics mentionnés aux sections 2 et 3 du chapitre Ier du présent titre peut créer, avec
+au moins une collectivité territoriale ou un groupement de collectivités territoriales, une société publique locale
+d'aménagement d'intérêt national dont ils détiennent la totalité du capital. 
+
+La création d'une société publique locale d'aménagement d'intérêt national, l'acquisition ou la cession des participations
+dans une telle société par les établissements publics mentionnés aux mêmes sections 2 et 3 interviennent dans les conditions
+prévues aux articles L. 321-16 ou L. 321-30. 
+
+Une des collectivités territoriales ou un des groupements de collectivités territoriales participant à une société publique
+locale d'aménagement d'intérêt national détient au moins 35 % du capital et des droits de vote de la société. 
+
+Cette société est compétente pour organiser, réaliser ou contrôler toute opération ou action d'aménagement au sens du présent
+code relevant de la compétence de l'Etat ou de l'un de ses établissements publics mentionnés au premier alinéa du présent
+article ou de la compétence d'une collectivité territoriale ou d'un groupement de collectivités territoriales actionnaire. 
+
+L'article L. 1541-3 du code général des collectivités territoriales s'applique aux collectivités territoriales ou au
+groupement de collectivités territoriales compétent actionnaires de la société publique locale d'aménagement d'intérêt
+national.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2017-257 du 28 février 2017 - art. 47
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1541-3 (V)
+	  - Code de l'urbanisme - art. L321-16 (V)
+	  - Code de l'urbanisme - art. L321-30 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L327-1 (V)
+	  - Code de l'urbanisme - art. L350-6 (V)
+	  - Code général des impôts, CGI. - art. 1042 (V)
 
 
 #### Chapitre VIII : Etablissement public de gestion du quartier d'affaires de La Défense
@@ -27647,14 +27844,14 @@ et, le cas échéant, de projets d'infrastructure.
 La région et les départements territorialement intéressés peuvent également, à leur demande, être signataires du contrat.
 
 A la demande de l'une des personnes publiques mentionnées aux deux premiers alinéas, les contrats peuvent être signés par
-tout établissement public de l'Etat et toute société publique locale susceptible de prendre part à la réalisation du projet
-d'intérêt majeur.
+tout établissement public de l'Etat et toute société publique locale ou société publique locale d'aménagement d'intérêt
+national susceptible de prendre part à la réalisation du projet d'intérêt majeur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 168
+	  - Loi n°2017-257 du 28 février 2017 - art. 47
 
 	**Cité par**:
 
@@ -27794,22 +27991,24 @@ Lorsque le contrat mentionné au présent titre le prévoit, un établissement p
 réaliser certaines actions ou opérations d'aménagement ou certains projets d'infrastructure prévus au contrat en application
 du 4° de l'article L. 350-3. 
 
-Lorsque le contrat mentionné au présent titre le prévoit, une société publique locale mentionnée aux articles L. 327-1 du
-présent code ou L. 1531-1 du code général des collectivités territoriales, signataire du contrat, peut réaliser certaines
-actions ou opérations d'aménagement ou certains projets d'infrastructure prévus au contrat, en application du 4° de l'article
-L. 350-3 du présent code. Elle agit dans les strictes conditions définies par les dispositions qui la régissent.
+Lorsque le contrat mentionné au présent titre le prévoit, une société publique locale mentionnée à l'article L. 327-2 du
+présent code ou L. 1531-1 du code général des collectivités territoriales, ou une société publique locale d'aménagement
+d'intérêt national mentionnée à l'article L. 327-3 du présent code, signataire du contrat, peut réaliser certaines actions ou
+opérations d'aménagement ou certains projets d'infrastructure prévus au contrat, en application du 4° de l'article L. 350-3.
+Elle agit dans les conditions définies par les dispositions qui la régissent.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 168
+	  - Loi n°2017-257 du 28 février 2017 - art. 47
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L1531-1
-	  - Code de l'urbanisme - art. L327-1
-	  - Code de l'urbanisme - art. L350-3
+	  - Code général des collectivités territoriales - art. L1531-1 (V)
+	  - Code de l'urbanisme - art. L327-2 (V)
+	  - Code de l'urbanisme - art. L327-3 (V)
+	  - Code de l'urbanisme - art. L350-3 (V)
 
 
 ###### Article L350-7
