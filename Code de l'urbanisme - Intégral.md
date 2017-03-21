@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2017-03-02
+Version Consolidée au 2017-03-22
 
 # Partie législative
 
@@ -19015,16 +19015,23 @@ Des décrets en Conseil d'Etat fixent les modalités d'application du présent a
 
 ###### Article L221-2
 
-La personne publique qui s'est rendue acquéreur d'une réserve foncière doit en assurer la gestion raisonnablement. 
+La personne publique qui s'est rendue acquéreur d'une réserve foncière doit en assurer la gestion raisonnablement.
 
 Avant leur utilisation définitive, les immeubles acquis pour la constitution de réserves foncières ne peuvent faire l'objet
 d'aucune cession en pleine propriété en dehors des cessions que les personnes publiques pourraient se consentir entre elles
 et celles faites en vue de la réalisation d'opérations pour lesquelles la réserve a été constituée. Ces immeubles ne peuvent
 faire l'objet que de concessions temporaires qui ne confèrent au preneur aucun droit de renouvellement et aucun droit à se
-maintenir dans les lieux lorsque l'immeuble est repris en vue de son utilisation définitive. 
+maintenir dans les lieux lorsque l'immeuble est repris en vue de son utilisation définitive.
 
-Toutefois, lorsque les terres concédées sont à usage agricole, il ne peut être mis fin à ces concessions que moyennant
-préavis d'un an au moins. 
+Toutefois, lorsque les terres concédées sont à usage agricole, il ne peut être mis fin à ces concessions que moyennant un
+préavis :
+
+1° Soit d'un an au moins, dès lors qu'une indemnisation à l'exploitant est prévue au contrat de concession en cas de
+destruction de la culture avant la récolte ;
+
+2° Soit de trois mois avant la levée de récolte ;
+
+3° Soit de trois mois avant la fin de l'année culturale.
 
 Les personnes publiques mentionnées au présent article bénéficient des dispositions de l'article 50 de la loi n° 86-1290 du
 23 décembre 1986 tendant à favoriser l'investissement locatif, l'accession à la propriété de logements sociaux et le
@@ -19034,11 +19041,11 @@ developpement de l'offre foncière.
 
 	**Cite**:
 
-	  - Loi n°86-1290 du 23 décembre 1986 - art. 50 (Ab)
+	  - Loi n°86-1290 du 23 décembre 1986 - art. 50
 
 	**Modifié par**:
 
-	  - Loi n°2014-873 du 4 août 2014 - art. 26
+	  - Loi n°2017-348 du 20 mars 2017 - art. 7
 
 	**Cité par**:
 
@@ -22728,8 +22735,6 @@ Un décret en Conseil d'Etat détermine les conditions d'application de la prés
 
 
 ##### Section 3 : Etablissements publics fonciers et d'aménagement de l'Etat
-
-##### Sous-section 1 : Agence foncière et technique de la région parisienne
 
 ##### Sous-section 1 : Grand Paris Aménagement
 
