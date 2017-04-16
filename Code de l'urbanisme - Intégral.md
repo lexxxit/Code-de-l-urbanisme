@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2017-04-01
+Version Consolidée au 2017-04-17
 
 # Partie législative
 
@@ -34182,7 +34182,10 @@ sous-Bois, dans le périmètre défini par le décret n° 2015-99 du 28 janvier 
 le périmètre défini par le décret n° 2016-1439 du 26 octobre 2016 ; 
 
 19° A l'aménagement des principaux pôles urbains de Guyane, dans les périmètres définis par le décret n° 2016-1736 du 14
-décembre 2016.
+décembre 2016 ; 
+
+20° A l'opération d'aménagement dite de la Porte Sud du Grand Paris, sur les communes de Bondoufle, Courcouronnes, Corbeil-
+Essonnes, Evry, Fleury-Mérogis et Ris-Orangis, dans le périmètre défini par le décret n° 2017-560 du 14 avril 2017.
 
 **Liens relatifs à cet article**
 
@@ -34219,11 +34222,7 @@ décembre 2016.
 
 	**Modifié par**:
 
-	  - Décret n°2016-1736 du 14 décembre 2016 - art. 1
-
-	**Liens**:
-
-	  - RECTIFICATION: Décret n°2016-1736 du 14 décembre 2016, v. init.
+	  - Décret n°2017-560 du 14 avril 2017 - art. 1
 
 
 #### Chapitre III : Participation du public
@@ -50345,368 +50344,6 @@ La décision qui supprime la zone ou qui modifie son acte de création fait l'ob
 	  - Décret n°73-1023 1973-11-08
 
 
-#### Chapitre III : Restauration immobilière et secteurs sauvegardés
-
-#####  Section 2 : Restauration immobilière
-
-###### Article R*313-23
-
-L'enquête préalable à la déclaration d'utilité publique d'une opération de restauration immobilière est organisée par le
-préfet dans les formes prévues pour les enquêtes préalables à une déclaration d'utilité publique régies par le titre Ier du
-livre Ier du code de l'expropriation pour cause d'utilité publique.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
-
-	**Cite**:
-
-	  - Code de l'expropriation pour cause d'utilité publique - art. **R11-14
-	  - Code de l'expropriation pour cause d'utilité publique - art. R11-4
-	  - Code de l'expropriation pour cause d'utilité publique - art. R11-5
-	  - Code de l'expropriation pour cause d'utilité publique - art. R11-6-1
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R*313-24
-
-Le dossier soumis à enquête comprend :
-
-1° Un plan permettant de connaître la situation du ou des bâtiments concernés et de leur terrain d'assiette à l'intérieur de
-la commune ;
-
-2° La désignation du ou des immeubles concernés ;
-
-3° L'indication du caractère vacant ou occupé du ou des immeubles ;
-
-4° Une notice explicative qui :
-
-a) Indique l'objet de l'opération ;
-
-b) Présente, au regard notamment des objectifs de transformation des conditions d'habitabilité et de mise en valeur du
-patrimoine, le programme global des travaux par bâtiment, y compris, s'il y a lieu, les démolitions rendues nécessaires par
-le projet de restauration ; lorsque l'opération s'inscrit dans un projet plus vaste prévoyant d'autres opérations de
-restauration immobilière, la notice présente ce projet d'ensemble ;
-
-c) Comporte des indications sur la situation de droit ou de fait de l'occupation du ou des bâtiments ;
-
-5° Une estimation de la valeur des immeubles avant restauration faite par le directeur départemental ou, le cas échéant,
-régional des finances publiques  et l'estimation sommaire du coût des restaurations.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L313-4
-	  - Code de l'expropriation pour cause d'utilité publique
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°2014-551 du 27 mai 2014 - art. 31
-
-
-###### Article R313-25
-
-Les travaux exécutés sur des immeubles dont la restauration a été déclarée d'utilité publique ne peuvent faire l'objet d'un
-permis de construire, d'aménager ou de démolir ou d'une décision de non-opposition à une déclaration préalable que s'ils sont
-compatibles avec la déclaration d'utilité publique.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°64-1156 1964-11-17 ART. 2
-
-	**Modifié par**:
-
-	  - Décret n°2007-817 du 11 mai 2007 - art. 1 () JORF 12 mai 2007 en vigueur le 1er octobre 2007
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*322-32 (V)
-	  - Code de l'urbanisme - art. R*322-33 (V)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-19-2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R313-26
-
-L'enquête parcellaire est organisée par le préfet dans les formes prévues par le titre III du livre Ier du code de
-l'expropriation pour cause d'utilité publique.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
-
-	**Cite**:
-
-	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-26 (VT)
-	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-30 (VT)
-	  - Code de l'expropriation pour cause d'utilité publique - art. **R11-19
-	  - Code de l'expropriation pour cause d'utilité publique - art. **R11-28
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R313-27
-
-L'autorité expropriante qui a pris l'initiative de la déclaration d'utilité publique de l'opération notifie à chaque
-propriétaire, ou copropriétaire, le programme détaillé des travaux à réaliser sur le bâtiment et son terrain d'assiette. 
-
-La notification prévue à l'alinéa précédent est effectuée à l'occasion de la notification individuelle du dépôt en mairie du
-dossier de l'enquête parcellaire prévue par l'article R. 131-6 du code de l'expropriation pour cause d'utilité publique. Elle
-comporte l'indication du délai dans lequel doivent être réalisés les travaux.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*322-32 (V)
-	  - Code de l'urbanisme - art. R*322-33 (V)
-
-	**Cite**:
-
-	  - Code de l'expropriation pour cause d'utilité pu... - art. R131-6 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R313-28
-
-Pour bénéficier des dispositions du second alinéa de l'article L. 313-4-2, les propriétaires qui décident de réaliser ou de
-faire réaliser les travaux dont le détail leur a été notifié doivent produire à l'autorité expropriante : 
-
-a) Une note précisant un échéancier prévisionnel et le délai maximal d'exécution des travaux, qui ne peut être supérieur à
-celui fixé par l'autorité expropriante ; 
-
-b) La date d'échéance des baux et, s'il y a lieu, les offres faites aux locataires de reporter leur bail sur un local
-équivalent, dans les conditions prévues à l'article L. 313-7.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°64-1156 1964-11-17 ART. 5
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°2007-817 du 11 mai 2007 - art. 1 () JORF 12 mai 2007 en vigueur le 1er octobre 2007
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L313-4-2 (V)
-	  - Code de l'urbanisme - art. L313-7 (V)
-
-
-###### Article R313-29
-
-Lorsque l'opération est située dans le périmètre d'un site patrimonial remarquable classé en application de l'article L.
-631-1 du code du patrimoine, l'architecte des bâtiments de France accompagne, s'il y a lieu, pour l'application du 3° du I de
-l'article 156 du code général des impôts ou de l'article 199 tervicies du même code, son accord sur les travaux projetés
-d'une attestation certifiant que ces travaux constituent la restauration complète de l'immeuble concerné.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 14
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 156
-	  - Code général des impôts, CGI. - art. 199 tervicies
-	  - Code du patrimoine - art. L631-1 (V)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*322-32 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-#####  Section 3 : Visite des bâtiments par des hommes de l'art
-
-###### Article R313-33
-
-Les immeubles situés dans le périmètre d'un site patrimonial remarquable ou concernés par une opération de restauration
-immobilière peuvent être visités par des hommes de l'art spécialement habilités à cet effet par arrêté du maire sur
-proposition du préfet.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 14
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L313-1
-	  - Code de l'urbanisme - art. L313-14
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R313-34 (V)
-	  - Code de l'urbanisme - art. R313-35 (V)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R313-34
-
-Les hommes de l'art pouvant être habilités dans les conditions prévues à l'article R. 313-33 sont choisis parmi : 
-
-Les fonctionnaires en activité ou en retraite des services techniques du ministère des affaires culturelles et du ministère
-chargé de l'urbanisme ainsi que parmi les architectes et ingénieurs non fonctionnaires de ces services ou des collectivités
-locales ; 
-
-Les membres de l'ordre des architectes et de l'ordre des géomètres experts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R313-33 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°64-1085 1964-10-21 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R313-35
-
-Les hommes de l'art habilités, conformément aux dispositions de l'article R. 313-33, sont astreints aux règles concernant le
-secret professionnel et prêtent serment dans les conditions fixées par la section IV du présent chapitre. Ils doivent être
-munis, lors de chaque visite, d'un ordre de mission les habilitant à exercer leurs fonctions ainsi que d'une carte d'identité
-revêtue de leur photographie.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R313-33 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°64-1085 1964-12-21 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R313-36
-
-L'homme de l'art informe de l'objet, du jour et de l'heure de la visite des lieux, par lettre recommandée avec demande d'avis
-de réception, le propriétaire et le locataire ou occupant ou gardien du local. Elle doit être fixée entre huit heures et dix-
-neuf heures et en dehors des dimanches et jours fériés. Un délai minimum de vingt jours doit être observé entre la date
-d'envoi de la lettre recommandée et la date prévue pour la visite.
-
-Le propriétaire, le locataire, l'occupant ou le gardien du local est tenu de laisser visiter les lieux sur présentation de
-l'ordre de mission. Le propriétaire ou son représentant peut toujours assister à la visite s'il le désire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°64-1085 1964-10-21 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-###### Article R313-37
-
-Les propriétaires, locataires ou occupants ou gardiens d'immeubles visés par les articles L. 313-1 à L. 313-14 et
-généralement toutes personnes qui s'opposeront à la visite des lieux par les hommes de l'art dans les conditions prévues à la
-présente section seront punis de l'amende prévue pour les contravention de la 4e classe. En cas de récidive, l'amende pourra
-être portée à celle prévue pour les contraventions de la 5e classe.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L313-1 (VT)
-	  - Code de l'urbanisme - art. L313-14 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°64-1085 1964-10-21 ART. 5
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
-#####  Section 4 : Prestation de serment des hommes de l'art
-
-###### Article R313-38
-
-En application de l'article L. 313-12, les fonctionnaires et agents commissionnés par le ministre chargé des monuments et des
-sites prêtent le serment prévu à l'article R. 610-1. Les articles R. 610-2 et R. 610-3 leur sont applicables.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2016-1613 du 25 novembre 2016 - art. 2
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L313-12
-	  - Code de l'urbanisme - art. R610-1 (V)
-	  - Code de l'urbanisme - art. R610-2 (V)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R313-40 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-
 #### Chapitre III : Plan de sauvegarde et de mise en valeur et restauration immobilière
 
 ##### Section 1 : Plan de sauvegarde et de mise en valeur
@@ -51299,9 +50936,363 @@ livre Ier.
 
 #####  Section 2 : Restauration immobilière
 
+###### Article R*313-23
+
+L'enquête préalable à la déclaration d'utilité publique d'une opération de restauration immobilière est organisée par le
+préfet dans les formes prévues pour les enquêtes préalables à une déclaration d'utilité publique régies par le titre Ier du
+livre Ier du code de l'expropriation pour cause d'utilité publique.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
+
+	**Cite**:
+
+	  - Code de l'expropriation pour cause d'utilité publique - art. **R11-14
+	  - Code de l'expropriation pour cause d'utilité publique - art. R11-4
+	  - Code de l'expropriation pour cause d'utilité publique - art. R11-5
+	  - Code de l'expropriation pour cause d'utilité publique - art. R11-6-1
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R*313-24
+
+Le dossier soumis à enquête comprend :
+
+1° Un plan permettant de connaître la situation du ou des bâtiments concernés et de leur terrain d'assiette à l'intérieur de
+la commune ;
+
+2° La désignation du ou des immeubles concernés ;
+
+3° L'indication du caractère vacant ou occupé du ou des immeubles ;
+
+4° Une notice explicative qui :
+
+a) Indique l'objet de l'opération ;
+
+b) Présente, au regard notamment des objectifs de transformation des conditions d'habitabilité et de mise en valeur du
+patrimoine, le programme global des travaux par bâtiment, y compris, s'il y a lieu, les démolitions rendues nécessaires par
+le projet de restauration ; lorsque l'opération s'inscrit dans un projet plus vaste prévoyant d'autres opérations de
+restauration immobilière, la notice présente ce projet d'ensemble ;
+
+c) Comporte des indications sur la situation de droit ou de fait de l'occupation du ou des bâtiments ;
+
+5° Une estimation de la valeur des immeubles avant restauration faite par le directeur départemental ou, le cas échéant,
+régional des finances publiques  et l'estimation sommaire du coût des restaurations.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L313-4
+	  - Code de l'expropriation pour cause d'utilité publique
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°2014-551 du 27 mai 2014 - art. 31
+
+
+###### Article R313-25
+
+Les travaux exécutés sur des immeubles dont la restauration a été déclarée d'utilité publique ne peuvent faire l'objet d'un
+permis de construire, d'aménager ou de démolir ou d'une décision de non-opposition à une déclaration préalable que s'ils sont
+compatibles avec la déclaration d'utilité publique.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°64-1156 1964-11-17 ART. 2
+
+	**Modifié par**:
+
+	  - Décret n°2007-817 du 11 mai 2007 - art. 1 () JORF 12 mai 2007 en vigueur le 1er octobre 2007
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*322-32 (V)
+	  - Code de l'urbanisme - art. R*322-33 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de l'urbanisme - art. R313-19-2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R313-26
+
+L'enquête parcellaire est organisée par le préfet dans les formes prévues par le titre III du livre Ier du code de
+l'expropriation pour cause d'utilité publique.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
+
+	**Cite**:
+
+	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-26 (VT)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-30 (VT)
+	  - Code de l'expropriation pour cause d'utilité publique - art. **R11-19
+	  - Code de l'expropriation pour cause d'utilité publique - art. **R11-28
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R313-27
+
+L'autorité expropriante qui a pris l'initiative de la déclaration d'utilité publique de l'opération notifie à chaque
+propriétaire, ou copropriétaire, le programme détaillé des travaux à réaliser sur le bâtiment et son terrain d'assiette. 
+
+La notification prévue à l'alinéa précédent est effectuée à l'occasion de la notification individuelle du dépôt en mairie du
+dossier de l'enquête parcellaire prévue par l'article R. 131-6 du code de l'expropriation pour cause d'utilité publique. Elle
+comporte l'indication du délai dans lequel doivent être réalisés les travaux.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*322-32 (V)
+	  - Code de l'urbanisme - art. R*322-33 (V)
+
+	**Cite**:
+
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R131-6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R313-28
+
+Pour bénéficier des dispositions du second alinéa de l'article L. 313-4-2, les propriétaires qui décident de réaliser ou de
+faire réaliser les travaux dont le détail leur a été notifié doivent produire à l'autorité expropriante : 
+
+a) Une note précisant un échéancier prévisionnel et le délai maximal d'exécution des travaux, qui ne peut être supérieur à
+celui fixé par l'autorité expropriante ; 
+
+b) La date d'échéance des baux et, s'il y a lieu, les offres faites aux locataires de reporter leur bail sur un local
+équivalent, dans les conditions prévues à l'article L. 313-7.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°64-1156 1964-11-17 ART. 5
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+	**Modifié par**:
+
+	  - Décret n°2007-817 du 11 mai 2007 - art. 1 () JORF 12 mai 2007 en vigueur le 1er octobre 2007
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L313-4-2 (V)
+	  - Code de l'urbanisme - art. L313-7 (V)
+
+
+###### Article R313-29
+
+Lorsque l'opération est située dans le périmètre d'un site patrimonial remarquable classé en application de l'article L.
+631-1 du code du patrimoine, l'architecte des bâtiments de France accompagne, s'il y a lieu, pour l'application du 3° du I de
+l'article 156 du code général des impôts ou de l'article 199 tervicies du même code, son accord sur les travaux projetés
+d'une attestation certifiant que ces travaux constituent la restauration complète de l'immeuble concerné.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 14
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 156
+	  - Code général des impôts, CGI. - art. 199 tervicies
+	  - Code du patrimoine - art. L631-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*322-32 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 #####  Section 3 : Visite des bâtiments par des hommes de l'art
 
+###### Article R313-33
+
+Les immeubles situés dans le périmètre d'un site patrimonial remarquable ou concernés par une opération de restauration
+immobilière peuvent être visités par des hommes de l'art spécialement habilités à cet effet par arrêté du maire sur
+proposition du préfet.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 14
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L313-1
+	  - Code de l'urbanisme - art. L313-14
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R313-34 (V)
+	  - Code de l'urbanisme - art. R313-35 (V)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R313-34
+
+Les hommes de l'art pouvant être habilités dans les conditions prévues à l'article R. 313-33 sont choisis parmi : 
+
+Les fonctionnaires en activité ou en retraite des services techniques du ministère des affaires culturelles et du ministère
+chargé de l'urbanisme ainsi que parmi les architectes et ingénieurs non fonctionnaires de ces services ou des collectivités
+locales ; 
+
+Les membres de l'ordre des architectes et de l'ordre des géomètres experts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R313-33 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°64-1085 1964-10-21 art. 2
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R313-35
+
+Les hommes de l'art habilités, conformément aux dispositions de l'article R. 313-33, sont astreints aux règles concernant le
+secret professionnel et prêtent serment dans les conditions fixées par la section IV du présent chapitre. Ils doivent être
+munis, lors de chaque visite, d'un ordre de mission les habilitant à exercer leurs fonctions ainsi que d'une carte d'identité
+revêtue de leur photographie.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R313-33 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°64-1085 1964-12-21 art. 3
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R313-36
+
+L'homme de l'art informe de l'objet, du jour et de l'heure de la visite des lieux, par lettre recommandée avec demande d'avis
+de réception, le propriétaire et le locataire ou occupant ou gardien du local. Elle doit être fixée entre huit heures et dix-
+neuf heures et en dehors des dimanches et jours fériés. Un délai minimum de vingt jours doit être observé entre la date
+d'envoi de la lettre recommandée et la date prévue pour la visite.
+
+Le propriétaire, le locataire, l'occupant ou le gardien du local est tenu de laisser visiter les lieux sur présentation de
+l'ordre de mission. Le propriétaire ou son représentant peut toujours assister à la visite s'il le désire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°64-1085 1964-10-21 art. 4
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
+###### Article R313-37
+
+Les propriétaires, locataires ou occupants ou gardiens d'immeubles visés par les articles L. 313-1 à L. 313-14 et
+généralement toutes personnes qui s'opposeront à la visite des lieux par les hommes de l'art dans les conditions prévues à la
+présente section seront punis de l'amende prévue pour les contravention de la 4e classe. En cas de récidive, l'amende pourra
+être portée à celle prévue pour les contraventions de la 5e classe.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L313-1 (VT)
+	  - Code de l'urbanisme - art. L313-14 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°64-1085 1964-10-21 ART. 5
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
+
 #####  Section 4 : Prestation de serment des hommes de l'art
+
+###### Article R313-38
+
+En application de l'article L. 313-12, les fonctionnaires et agents commissionnés par le ministre chargé des monuments et des
+sites prêtent le serment prévu à l'article R. 610-1. Les articles R. 610-2 et R. 610-3 leur sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2016-1613 du 25 novembre 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L313-12
+	  - Code de l'urbanisme - art. R610-1 (V)
+	  - Code de l'urbanisme - art. R610-2 (V)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R313-40 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
+
 
 #### Chapitre VIII : Dispositions relatives à certaines opérations
 
