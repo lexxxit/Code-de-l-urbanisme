@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2017-04-17
+Version Consolidée au 2017-04-24
 
 # Partie législative
 
@@ -57575,8 +57575,11 @@ n'excédant pas trois mois.
 
 Toutefois, cette durée est portée à :
 
-a) Un an en ce qui concerne les constructions nécessaires au relogement d'urgence des personnes victimes d'un sinistre ou
-d'une catastrophe naturelle ou technologique ;
+a) Un an en ce qui concerne les constructions nécessaires :
+
+- au relogement d'urgence des personnes victimes d'un sinistre ou d'une catastrophe naturelle ou technologique ;
+
+- à l'hébergement d'urgence des personnes migrantes en vue de leur demande d'asile.
 
 b) Une année scolaire en ce qui concerne les classes démontables installées dans les établissements scolaires ou
 universitaires pour pallier les insuffisances temporaires de capacités d'accueil ;
@@ -57593,20 +57596,19 @@ A l'issue de cette durée, le constructeur est tenu de remettre les lieux dans l
 
 **Liens relatifs à cet article**
 
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. *R421-6 (V)
+	  - Code de l'urbanisme - art. R*421-7 (V)
+	  - Code de l'urbanisme - art. R*422-3 (M)
+
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
 
 	**Modifié par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 8 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 9 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. *R421-6 (V)
-	  - Code de l'urbanisme - art. R*421-7 (V)
-	  - Code de l'urbanisme - art. R*422-3 (M)
+	  - Décret n°2017-608 du 21 avril 2017 - art. 1
 
 
 ###### Article *R421-6
