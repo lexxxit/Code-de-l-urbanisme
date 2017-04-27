@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2017-04-24
+Version Consolidée au 2017-04-28
 
 # Partie législative
 
@@ -35538,6 +35538,35 @@ disposition du public est publié après le premier jour du mois suivant la publ
 	  - Décret n°2016-1110 du 11 août 2016 - art. 4
 
 
+##### Sous-Section 4 : Procédures communes et coordonnées
+
+###### Article R104-34
+
+Les documents soumis à évaluation environnementale en application de l'article L. 104-1 peuvent faire l'objet des procédures
+communes et coordonnées prévues aux articles R. 122-25 et R. 122-27 du code de l'environnement.
+
+Pour l'application de la procédure commune prévue à l'article R. 122-27 du code de l'environnement, l'étude d'impact du
+projet comprend l'ensemble des éléments constitutifs du rapport de présentation au titre de l'évaluation environnementale ou
+du rapport environnemental prévu à l'article R. 104-18 lorsque le document ne comporte pas de rapport de présentation.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-626 du 25 avril 2017 - art. 3
+
+	**Créé par**:
+
+	  - Décret n°2017-626 du 25 avril 2017 - art. 12
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L104-1 (VT)
+	  - Code de l'urbanisme - art. R104-18 (V)
+	  - Code de l'environnement - art. R122-25 (T)
+	  - Code de l'environnement - art. R122-27 (T)
+
+
 ### Titre Ier : Règles applicables sur l'ensemble du territoire 
 
 #### Chapitre Ier : Règlement national d'urbanisme
@@ -41028,7 +41057,7 @@ arrêté par délibération du conseil d'administration de l'Etablissement publi
 ###### Article R123-9
 
 L'enquête publique sur le projet de délimitation de la zone de protection naturelle, agricole et forestière est ouverte et
-organisée dans les formes prévues par les articles R. 123-6 à R. 123-23 du code de l'environnement, par le préfet désigné par
+organisée dans les formes prévues par les articles R. 123-7 à R. 123-23 du code de l'environnement, par le préfet désigné par
 le préfet de la région d'Ile-de-France.
 
 **Liens relatifs à cet article**
@@ -41037,22 +41066,14 @@ le préfet de la région d'Ile-de-France.
 
 	  - Décret n°2015-1783 du 28 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
+	  - Décret n°2017-626 du 25 avril 2017 - art. 12
 
 	**Cité par**:
 
 	  - Décret n°2017-920 du 9 mai 2017 - art. 1
 	  - Code de la construction et de l'habitation. - art. R631-26-1 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R141-10, alinéa 1 (Ab)
-
-	**Cite**:
-
-	  - Code de l'environnement - art. R123-6 (V)
 
 
 ###### Article R123-10
@@ -41657,47 +41678,80 @@ Le secrétariat de la commission est assuré par le service de l'Etat dans le d�
 
 ###### Article R132-16
 
+En application de l'article L. 132-14, la commission peut être saisie du projet de document d'urbanisme arrêté ou du document
+d'urbanisme approuvé, par :
+
+1° Les personnes publiques associées mentionnées aux articles L. 132-7, L. 132-8 et L. 132-9 ;
+
+2° Les associations locales d'usagers agréées dans des conditions définies par décret en Conseil d'Etat ;
+
+3° Les associations de protection de l'environnement agréées mentionnées à l'article L. 141-1 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-626 du 25 avril 2017 - art. 12
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L141-1
+
+
+###### Article R132-17
+
+La commission entend, à leur demande, les parties intéressées ainsi que les représentants des associations locales d'usagers
+agréées dans des conditions définies par décret en Conseil d'Etat et des associations de protection de l'environnement
+agréées mentionnées à l'article L. 141-1 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-626 du 25 avril 2017 - art. 12
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L141-1
+
+
+###### Article R132-18
+
 Lorsque la commission de conciliation est saisie, l'objet de la saisine, la date et le lieu de la première séance consacrée à
 cet objet sont affichés à la préfecture et à la mairie de la commune ou des communes intéressées ou au siège de
 l'établissement public compétent et, dans ce cas, aux mairies des communes membres concernées.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R*121-12 (Ab)
+	  - Décret n°2017-626 du 25 avril 2017 - art. 12
 
 
-###### Article R132-17
+###### Article R132-19
 
-Les propositions de la commission sont notifiées, à la diligence de son président, à la personne publique chargée de
-l'élaboration du document d'urbanisme faisant l'objet de la procédure de conciliation, ainsi qu'à la personne publique qui a
-saisi la commission.
+Les propositions de la commission, formulées dans le délai de deux mois à compter de sa saisine, sont notifiées, à la
+diligence de son président, à la personne publique chargée de l'élaboration du document d'urbanisme faisant l'objet de la
+procédure de conciliation, ainsi qu'à la personne publique qui a saisi la commission.
 
 Elles sont affichées et tenues à la disposition du public à la préfecture, à la ou aux mairies ou au siège de l'établissement
 public chargé de l'élaboration du document et, dans ce cas, aux mairies des communes membres concernées.
 
+Ces propositions sont également jointes au document d'urbanisme soumis à l'enquête publique.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
 
 	**Créé par**:
 
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R*121-13 (Ab)
+	  - Décret n°2017-626 du 25 avril 2017 - art. 12
 
 
 #### Chapitre III : Accès à l'information en matière d'urbanisme
@@ -50104,21 +50158,21 @@ pris en compte dans l'étude.
 ###### Article R*311-7
 
 La personne publique qui a pris l'initiative de la création de la zone constitue un dossier de réalisation approuvé, sauf
-lorsqu'il s'agit de l'Etat, par son organe délibérant. Le dossier de réalisation comprend : 
+lorsqu'il s'agit de l'Etat, par son organe délibérant. Le dossier de réalisation comprend :
 
 a) Le projet de programme des équipements publics à réaliser dans la zone ; lorsque celui-ci comporte des équipements dont la
 maîtrise d'ouvrage et le financement incombent normalement à d'autres collectivités ou établissements publics, le dossier
 doit comprendre les pièces faisant état de l'accord de ces personnes publiques sur le principe de la réalisation de ces
 équipements, les modalités de leur incorporation dans leur patrimoine et, le cas échéant, sur leur participation au
-financement ; 
+financement ;
 
-b) Le projet de programme global des constructions à réaliser dans la zone ; 
+b) Le projet de programme global des constructions à réaliser dans la zone ;
 
-c) Les modalités prévisionnelles de financement de l'opération d'aménagement, échelonnées dans le temps. 
+c) Les modalités prévisionnelles de financement de l'opération d'aménagement, échelonnées dans le temps.
 
 Le dossier de réalisation complète en tant que de besoin le contenu de l'étude d'impact mentionnée à l'article R. 311-2,
-conformément au III de l'article L. 121-1-1 du code de l'environnement notamment en ce qui concerne les éléments qui ne
-pouvaient être connus au moment de la constitution du dossier de création. 
+conformément au III de l'article L. 122-1-1 du code de l'environnement notamment en ce qui concerne les éléments qui ne
+pouvaient être connus au moment de la constitution du dossier de création.
 
 L'étude d'impact mentionnée à l'article R. 311-2 ainsi que les compléments éventuels prévus à l'alinéa précédent sont joints
 au dossier de toute enquête publique ou de toute mise à disposition du public concernant l'opération d'aménagement réalisée
@@ -50144,12 +50198,11 @@ disposition du public est publié après le premier jour du mois suivant la publ
 
 	**Modifié par**:
 
-	  - Décret n°2016-1110 du 11 août 2016 - art. 9
+	  - Décret n°2017-626 du 25 avril 2017 - art. 12
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. R*311-2
-	  - Code de l'environnement - art. L121-1-1
 
 	**Cité par**:
 
@@ -59891,21 +59944,24 @@ c) Trois mois pour les autres demandes de permis de construire et pour les deman
 
 ###### Article R*423-25
 
-Le délai d'instruction prévu par le b et le c de l'article R*423-23 est majoré de deux mois : 
+Le délai d'instruction prévu par le b et le c de l'article R*423-23 est majoré de deux mois :
 
-a) Lorsqu'il y a lieu de consulter une commission départementale ou régionale ; 
+a) Lorsqu'il y a lieu de consulter une commission départementale ou régionale ;
 
 b) Lorsqu'il y a lieu de consulter le ministre chargé de l'agriculture en application de l'article L. 643-4 du code rural et
-de la pêche maritime ; 
+de la pêche maritime ;
 
 c) Lorsqu'il y a lieu d'instruire une dérogation en application du quatrième alinéa de l'article L. 111-3 du code rural et de
-la pêche maritime ; 
+la pêche maritime ;
 
 d) Lorsque le demandeur a joint à sa demande de permis de construire une demande de dérogation prévue à l'article L. 111-4-1
 du code de la construction et de l'habitation ;
 
 e) Lorsque le permis porte sur un projet soumis à autorisation d'exploitation commerciale au sens de l'article L. 752-1 du
-code de commerce. 
+code de commerce ;
+
+f) Lorsque le projet est soumis à participation du public par voie électronique en application de l'article L. 123-19 du code
+de l'environnement.
 
 Ces majorations de délai ne sont pas cumulables avec celle prévue par l'article R*423-24.
 
@@ -59913,14 +59969,14 @@ Ces majorations de délai ne sont pas cumulables avec celle prévue par l'articl
 
 	**Modifié par**:
 
-	  - Décret n°2015-165 du 12 février 2015 - art. 2
+	  - Décret n°2017-626 du 25 avril 2017 - art. 12
 
 	**Cite**:
 
 	  - Code rural - art. L111-3
 	  - Code rural - art. L643-4
 	  - Code de l'urbanisme - art. R*423-23
-	  - Code de l'urbanisme - art. R423-24
+	  - Code de l'urbanisme - art. R423-24 (V)
 	  - Code de la construction et de l'habitation. - art. L111-4-1
 
 	**Cité par**:
@@ -60163,11 +60219,8 @@ historiques ;
 d) Lorsque le projet doit être soumis à l'avis de la commission départementale de la préservation des espaces naturels,
 agricoles et forestiers prévu par l'article L. 112-1-1 du code rural et de la pêche maritime ;
 
-e) Lorsque le projet fait l'objet d'une mise à disposition du public en application de l'article L. 300-2 ou du quatrième
-alinéa du 1° du I de l'article L. 123-2 du code de l'environnement ;
-
-f) Lorsque le projet fait l'objet d'une participation du public par voie électronique prévue par l'article L. 123-19 du code
-de l'environnement.
+e) Lorsque le projet est soumis à participation du public hors procédures particulières en application de l'article L.
+123-19-2 du code de l'environnement.
 
 **Nota:**
 
@@ -60190,7 +60243,7 @@ disposition du public est publié après le premier jour du mois suivant la publ
 	**Cité par**:
 
 	  - Décret n°2014-1299 du 23 octobre 2014 - art. (V)
-	  - Code de l'urbanisme - art. R*423-25 (M)
+	  - Code de l'urbanisme - art. R*423-25 (V)
 	  - Code de l'urbanisme - art. R*423-33 (V)
 	  - Code de l'urbanisme - art. R*423-42 (V)
 	  - Code de l'urbanisme - art. R*423-43 (V)
@@ -60199,7 +60252,7 @@ disposition du public est publié après le premier jour du mois suivant la publ
 
 	**Modifié par**:
 
-	  - Décret n°2017-456 du 29 mars 2017 - art. 16
+	  - Décret n°2017-626 du 25 avril 2017 - art. 12
 
 	**Cite**:
 
@@ -60397,6 +60450,19 @@ l'autorité compétente.
 	**Cite**:
 
 	  - Code de l'environnement - art. R414-25 (V)
+
+
+###### Article R423-37-2
+
+Lorsque l'autorité compétente pour autoriser le projet impose au maître d'ouvrage l'organisation d'une concertation préalable
+en application du II de l'article L. 121-17, le délai d'instruction est suspendu jusqu'à la date de publication du bilan de
+cette concertation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-626 du 25 avril 2017 - art. 12
 
 
 #####  Section 5 : Notifications de la liste des pièces manquantes et des modifications de délai
@@ -61106,30 +61172,28 @@ d'entrée en vigueur.
 
 Sous réserve des dispositions prévues aux quatrième et cinquième alinéas de l'article L. 300-2 et au 1° du I de l'article L.
 123-2 du code de l'environnement, lorsque le projet est soumis à enquête publique en application de l'article R. 123-1 du
-code de l'environnement, ou lorsque le projet est soumis à participation du public par voie électronique au titre de l'
-article L. 123-19 du code de l'environnement
-, celle-ci est organisée par le maire ou le président de l'établissement public de coopération intercommunale lorsque le
-permis est délivré au nom de la commune ou de l'établissement public et par le préfet lorsque le permis est délivré au nom de
-l'Etat.
+code de l'environnement, ou lorsque le projet est soumis à participation du public par voie électronique au titre de
+l'article L. 123-19 du code de l'environnement, celle-ci est organisée par le maire ou le président de l'établissement public
+de coopération intercommunale lorsque le permis est délivré au nom de la commune ou de l'établissement public et par le
+préfet lorsque le permis est délivré au nom de l'Etat.
 
 Lorsque la réalisation du projet est soumise à la réalisation de plusieurs enquêtes publiques il est procédé à une enquête
-publique unique. Cette enquête publique unique est ouverte et organisée par le représentant de l'Etat compétent. 
+publique unique. Cette enquête publique unique est ouverte et organisée par le représentant de l'Etat compétent.
 
 A la demande du pétitionnaire, le représentant de l'Etat dans le département compétent peut accorder une dérogation à
-l'application de l'alinéa précédent, lorsque celle-ci est de nature à favoriser la bonne réalisation du projet. 
+l'application de l'alinéa précédent, lorsque celle-ci est de nature à favoriser la bonne réalisation du projet.
 
 Le commissaire enquêteur ou la commission d'enquête doivent rendre leur avis dans le délai d'un mois à compter de la clôture
-de l'enquête. 
+de l'enquête.
 
 Dans un délai de huit jours, l'autorité compétente informe le demandeur de la date de réception du rapport et de la substance
 des conclusions du commissaire enquêteur ou de la commission d'enquête.
 
 Lorsque le projet relève de l'article L. 123-19 du code de l'environnement, l'autorité compétente rend sa décision dans un
-délai permettant la prise en considération des observations, propositions et contre-propositions du public. Ce délai ne peut
-être inférieur à quatre jours. 
+délai permettant la prise en considération des observations et propositions du public. Ce délai ne peut être inférieur à
+quatre jours à compter de la clôture de la procédure de participation du public.
 
-A la fin de ce délai, l'autorité compétente informe le demandeur de la synthèse des observations, propositions et contre-
-propositions du public.
+L'autorité compétente informe le demandeur de la synthèse des observations et propositions du public.
 
 **Nota:**
 
@@ -61151,7 +61215,7 @@ disposition du public est publié après le premier jour du mois suivant la publ
 
 	**Modifié par**:
 
-	  - Décret n°2016-1110 du 11 août 2016 - art. 9
+	  - Décret n°2017-626 du 25 avril 2017 - art. 12
 
 	**Cité par**:
 
