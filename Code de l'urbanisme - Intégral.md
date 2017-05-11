@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2017-05-11
+Version Consolidée au 2017-05-12
 
 # Partie législative
 
@@ -34718,29 +34718,24 @@ Les plans locaux d'urbanisme de Mayotte font l'objet d'une évaluation environne
 
 Les plans locaux d'urbanisme situés dans les zones de montagne définies à l'article 3 de la loi n° 85-30 du 9 janvier 1985
 relative au développement et à la protection de la montagne font l'objet d'une évaluation environnementale à l'occasion de
-leur élaboration, de leur révision, de leur modification et de leur mise en compatibilité dans le cadre d'une déclaration
-d'utilité publique ou d'une déclaration de projet, lorsque ces procédures portent sur la réalisation d'une unité touristique
-nouvelle soumise à autorisation en application de l'article L. 122-19.
+leur élaboration, de leur révision et de leur mise en compatibilité dans le cadre d'une déclaration d'utilité publique ou
+d'une déclaration de projet, lorsque ces procédures ont pour objet de prévoir la création ou l'extension d'une unité
+touristique nouvelle.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°85-30 du 9 janvier 1985 - art. 3 (M)
-	  - Code de l'urbanisme - art. L122-19 (V)
+	  - Loi n°85-30 du 9 janvier 1985 - art. 3
+	  - Code de l'urbanisme - art. L122-19
 
 	**Codifié par**:
 
 	  - Décret n°2015-1783 du 28 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R*121-14, Alinéa 14 (Ab)
-	  - Code de l'urbanisme - art. R*121-16, Alinéa 9 (Ab)
+	  - Décret n°2017-1039 du 10 mai 2017 - art. 2
 
 
 ##### Paragraphe 5 : Plans locaux d'urbanisme tenant lieu de schéma de cohérence territoriale
@@ -46703,17 +46698,17 @@ considération pour l'affichage en mairie est celle du premier jour où il est e
 ###### Article R211-3
 
 Le maire ou, le cas échéant, le président de l'établissement public de coopération intercommunale compétent adresse sans
-délai au directeur départemental ou, le cas échéant, régional des finances publiques, au Conseil supérieur du notariat, à la
-chambre départementale des notaires, aux barreaux constitués près les tribunaux de grande instance dans le ressort desquels
-est institué le droit de préemption urbain et au greffe des mêmes tribunaux copie des actes ayant pour effet d'instituer ou
-de supprimer le droit de préemption urbain ou d'en modifier le champ d'application. Cette copie est accompagnée, s'il y a
-lieu, d'un plan précisant le champ d'application du droit de préemption urbain.
+délai au directeur départemental ou, le cas échéant, régional des finances publiques, à la chambre départementale des
+notaires, aux barreaux constitués près les tribunaux de grande instance dans le ressort desquels est institué le droit de
+préemption urbain et au greffe des mêmes tribunaux copie des actes ayant pour effet d'instituer ou de supprimer le droit de
+préemption urbain ou d'en modifier le champ d'application. Cette copie est accompagnée, s'il y a lieu, d'un plan précisant le
+champ d'application du droit de préemption urbain.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2014-551 du 27 mai 2014 - art. 31
+	  - Décret n°2017-933 du 10 mai 2017 - art. 4
 
 	**Cité par**:
 
@@ -46933,19 +46928,15 @@ publication au Journal officiel et, dans les autres cas, l'exécution de l'ensem
 ci-dessus. Pour l'application du présent alinéa, la date à prendre en considération pour l'affichage en mairie est celle du
 premier jour où il est effectué.
 
-Copie de la décision créant la zone est en outre adressée au conseil supérieur du notariat, à la chambre départementale des
-notaires, aux barreaux constitués près les tribunaux de grande instance dans le ressort desquels est créée la zone
-d'aménagement différé et au greffe des mêmes tribunaux.
+Copie de la décision créant la zone est en outre adressée à la chambre départementale des notaires, aux barreaux constitués
+près les tribunaux de grande instance dans le ressort desquels est créée la zone d'aménagement différé et au greffe des mêmes
+tribunaux.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
 	**Modifié par**:
 
-	  - Décret n°92-967 du 10 septembre 1992 - art. 2 () JORF 11 septembre 1992
+	  - Décret n°2017-933 du 10 mai 2017 - art. 4
 
 	**Liens**:
 
@@ -46955,6 +46946,10 @@ d'aménagement différé et au greffe des mêmes tribunaux.
 
 	  - Code de l'urbanisme - art. R*214-5 (Ab)
 	  - Code de l'urbanisme - art. R*700-2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°73-1023 1973-11-08
 
 
 ###### Article R212-2-1
@@ -46970,9 +46965,9 @@ des formalités de publicité mentionnées ci-dessus.
 Une copie de la décision créant le périmètre provisoire et un plan sont déposés à la mairie de chacune des communes
 concernées.
 
-Une copie de la décision créant le périmètre provisoire est en outre adressée au Conseil supérieur du notariat, à la chambre
-départementale des notaires, aux barreaux constitués près les tribunaux de grande instance dans le ressort desquels est
-délimité le périmètre provisoire et au greffe des mêmes tribunaux.
+Une copie de la décision créant le périmètre provisoire est en outre adressée à la chambre départementale des notaires, aux
+barreaux constitués près les tribunaux de grande instance dans le ressort desquels est délimité le périmètre provisoire et au
+greffe des mêmes tribunaux.
 
 **Liens relatifs à cet article**
 
@@ -46982,7 +46977,7 @@ délimité le périmètre provisoire et au greffe des mêmes tribunaux.
 
 	**Modifié par**:
 
-	  - Décret n°92-967 du 10 septembre 1992 - art. 2 () JORF 11 septembre 1992
+	  - Décret n°2017-933 du 10 mai 2017 - art. 4
 
 
 ###### Article R212-4
@@ -47890,22 +47885,6 @@ Le titulaire du droit de préemption notifie sans délai au maire de la commune 
 
 #####  Section 4 : Dispositions diverses
 
-###### Article R*213-26-1
-
-Un arrêté du ministre chargé de l'urbanisme fixe les conditions dans lesquelles sont effectuées les transmissions par voie
-électronique prévues au présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2012-489 du 13 avril 2012 - art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2017-932 du 10 mai 2017 - art. 3
-
-
 ###### Article R213-21
 
 Le titulaire du droit de préemption doit recueillir l'avis du service des domaines sur le prix de l'immeuble dont il envisage
@@ -48460,22 +48439,6 @@ par voie de préemption.
 	  - Code de l'urbanisme - art. *R214-8 (V)
 
 
-###### Article R*214-10-1
-
-Un arrêté du ministre chargé de l'urbanisme fixe les conditions dans lesquelles sont effectuées les transmissions par voie
-électronique prévues au présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2012-489 du 13 avril 2012 - art. 3
-
-	**Abrogé par**:
-
-	  - Décret n°2017-932 du 10 mai 2017 - art. 3
-
-
 #####  Section 3 : Rétrocession
 
 ###### Article *R214-11
@@ -48682,39 +48645,35 @@ l'établissement public a reçu communication du projet.
 ###### Article R215-2
 
 La délibération du conseil départemental créant, en application de l'article L. 215-1, une zone de préemption, est
-accompagnée d'un plan de situation et d'un plan de délimitation. 
+accompagnée d'un plan de situation et d'un plan de délimitation.
 
 Cette délibération fait l'objet d'une publication au recueil officiel des actes du département et d'une mention dans deux
-journaux régionaux ou locaux diffusés dans le département. 
+journaux régionaux ou locaux diffusés dans le département.
 
 Les effets juridiques attachés à la création de la zone ont pour point de départ l'exécution de l'ensemble des mesures de
-publicité mentionnées ci-dessus. 
+publicité mentionnées ci-dessus.
 
 En outre, une copie de la délibération accompagnée des plans mentionnés au premier alinéa est tenue à la disposition du
 public à la mairie de la ou des communes concernées et à l'hôtel du département. Avis de ce dépôt est donné par affichage
-pendant une période d'au moins un mois à la mairie de la ou des communes intéressées. 
+pendant une période d'au moins un mois à la mairie de la ou des communes intéressées.
 
-Copie de la délibération créant la zone de préemption accompagnée des plans mentionnés au premier alinéa est adressée au
-conseil supérieur du notariat, à la chambre départementale des notaires et aux barreaux constitués près les tribunaux de
-grande instance dans le ressort desquels est créée la zone de préemption.
+Copie de la délibération créant la zone de préemption accompagnée des plans mentionnés au premier alinéa est adressée à la
+chambre départementale des notaires et aux barreaux constitués près les tribunaux de grande instance dans le ressort desquels
+est créée la zone de préemption.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-933 du 10 mai 2017 - art. 4
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L215-1
 
 	**Codifié par**:
 
 	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°2015-1783 du 28 décembre 2015 - art. 4
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L215-1 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R142-5 (Ab)
 
 
 ###### Article R215-3
@@ -49187,28 +49146,6 @@ application de l'article L. 215-22.
 	**Anciens textes**:
 
 	  - Code de l'urbanisme - art. R142-17 (Ab)
-
-
-##### Section 6 : Dispositions diverses
-
-###### Article R215-20
-
-Un arrêté du ministre chargé de l'urbanisme fixe les conditions dans lesquelles sont effectuées les transmissions par voie
-électronique prévues au présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2015-1783 du 28 décembre 2015 - art. 4
-
-	**Abrogé par**:
-
-	  - Décret n°2017-932 du 10 mai 2017 - art. 3
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R*142-19-1 (Ab)
 
 
 ## Livre III : Aménagement foncier
@@ -55200,21 +55137,23 @@ public de gestion sont soumis aux procédures fixées au I de l'article R. 328-1
 
 ##### Section 1 : Création de l'organisme de foncier solidaire
 
+##### Section 1 : Régime de l'organisme de foncier solidaire
+
 ###### Article R329-1
 
 Pour se voir reconnaître le statut d'organisme de foncier solidaire dans les conditions prévues à la section 2 du présent
 chapitre, une personne morale de droit public ou de droit privé ayant cet objet doit être en mesure de garantir la pérennité
-des baux accordés dans le cadre de l'exercice de cette activité. 
+des baux accordés dans le cadre de l'exercice de cette activité.
 
-Un organisme de foncier solidaire exerce à titre principal les missions définies à l'article L. 329-1. Il peut également
-avoir pour objet l'accompagnement des bénéficiaires des baux réels solidaires qu'il consent et le montage d'opérations
-immobilières, hors du cadre de ce type de baux.
+Un organisme de foncier solidaire exerce les missions définies à l'article L. 329-1. Il peut en outre avoir pour objet
+l'accompagnement des bénéficiaires des baux réels solidaires qu'il consent et le montage d'opérations immobilières, hors du
+cadre de ce type de baux.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-1215 du 12 septembre 2016 - art. 1
+	  - Décret n°2017-1037 du 10 mai 2017 - art. 2
 
 	**Cite**:
 
@@ -55248,21 +55187,24 @@ L'organisme de foncier solidaire doit respecter les conditions suivantes :
 
 1° Son objet est autre que le partage des bénéfices ;
 
-2° Sa gouvernance est définie et organisée par les statuts dans ce but ;
+2° Sa gouvernance est définie et organisée par les statuts ou documents constitutifs dans ce but ;
 
 3° Sa gestion est conforme aux principes suivants :
 
 a) Les bénéfices réalisés sont entièrement affectés au maintien ou au développement de l'activité de l'organisme ;
 
-b) Les réserves financières obligatoires constituées ne peuvent pas être distribuées. Elles sont consacrées exclusivement à
-l'activité de gestion des baux réels solidaires signés par l'organisme ou au développement de cette activité. Les recettes
-générées par cette activité y sont entièrement affectées, y compris les produits de cessions.
+b) Les réserves financières obligatoires constituées au titre de l'activité liée au bail réel solidaire sont consacrées
+exclusivement à l'activité de gestion des baux réels solidaires signés par l'organisme ou au développement de cette activité.
+Les recettes générées par cette activité y sont entièrement affectées, y compris les produits de cessions.
+
+c) Dans le cas où l'organisme de foncier solidaire exerce une autre activité, sa comptabilité interne permet de distinguer le
+résultat relevant de l'activité d'organisme de foncier solidaire et celui des autres activités qu'il exerce.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-1215 du 12 septembre 2016 - art. 1
+	  - Décret n°2017-1037 du 10 mai 2017 - art. 3
 
 	**Cité par**:
 
@@ -55271,14 +55213,14 @@ générées par cette activité y sont entièrement affectées, y compris les pr
 
 ###### Article R329-4
 
-Les statuts de l'organisme de foncier solidaire se réfèrent expressément aux dispositions de l'article L. 329-1. Ils
-déterminent notamment : 
+Les statuts ou documents constitutifs de l'organisme se réfèrent expressément aux dispositions de l'article L. 329-1. Ils
+déterminent notamment :
 
 1° Le périmètre géographique d'intervention de l'organisme. Dans le cas où celui-ci dépasse les limites administratives de la
-région du siège social de l'organisme, les statuts doivent le mentionner expressément ; 
+région du siège social de l'organisme, les statuts ou documents constitutifs doivent le mentionner expressément ;
 
-2° La part des bénéfices issus des activités autres que celles liées au bail réel solidaire qui sont affectée aux réserves
-obligatoires ; 
+2° La part des bénéfices issus des activités autres que celles liées au bail réel solidaire qui sont, le cas échéant,
+affectées aux réserves obligatoires mentionnées au b du 3° de l'article R. 329-3 ;
 
 3° Les conditions dans lesquelles les décisions de gestion relatives aux baux réels solidaires consentis par l'organisme de
 foncier solidaire sont prises en cas de suspension ou de retrait de l'agrément de cette activité et les modalités de
@@ -55287,9 +55229,9 @@ retrait de cet agrément.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-1215 du 12 septembre 2016 - art. 1
+	  - Décret n°2017-1037 du 10 mai 2017 - art. 4
 
 	**Cite**:
 
@@ -55344,9 +55286,9 @@ préfet de chacune des régions concernées.
 
 ###### Article R329-7
 
-A l'appui de sa demande d'agrément, l'organisme de foncier solidaire fournit les pièces et renseignements suivants :
+A l'appui de sa demande d'agrément, l'organisme fournit les pièces et renseignements suivants :
 
-1° Ses statuts ;
+1° Ses statuts ou documents constitutifs ;
 
 2° La composition de son organe de décision et la description de l'activité professionnelle de chacune des personnes
 physiques membres de cet organe ;
@@ -55367,17 +55309,17 @@ notamment sa capacité technique et financière à assurer ses missions ;
 8° Un descriptif des missions que l'organisme envisage de confier à des tiers et les partenariats qu'il envisage de nouer
 afin de remplir ces missions ;
 
-9° La description des modalités d'information des preneurs de baux réels solidaires et de contrôle de l'affectation des biens
-objets de tels baux ;
+9° La description des conditions d'attribution et de contrôle de l'affectation des biens objets d'un bail réel solidaire,
+ainsi que les modalités d'information des preneurs de ces baux ;
 
 10° Le cas échéant, les agréments prévus aux articles L. 365-2, L. 365-3 et L. 365-4 du code de la construction et de
 l'habitation ou l'information selon laquelle les instances dirigeantes envisagent d'en solliciter l'obtention.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-1215 du 12 septembre 2016 - art. 1
+	  - Décret n°2017-1037 du 10 mai 2017 - art. 5
 
 	**Cité par**:
 
@@ -55404,22 +55346,6 @@ l'organisme au préfet de région par lettre recommandée avec demande d'avis de
 	**Cite**:
 
 	  - Code de l'urbanisme - art. R329-7
-
-
-###### Article R329-9
-
-L'agrément est délivré en tenant compte des moyens financiers et humains dont l'organisme dispose pour l'exercice de ses
-missions.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2016-1215 du 12 septembre 2016 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2017-1037 du 10 mai 2017 - art. 6
 
 
 ###### Article R329-10
@@ -55550,22 +55476,22 @@ représenter ou assister lors de cette procédure.
 
 ###### Article R329-16
 
-Constituent notamment des manquements graves de l'organisme de foncier solidaire à ses obligations : 
+Constituent notamment des manquements graves de l'organisme de foncier solidaire à ses obligations :
 
-1° La violation des règles de gestion financière prévues aux articles R. 329-3 et R. 329-4 ; 
+1° La violation des règles de gestion financière prévues aux articles R. 329-3 et R. 329-4 ;
 
 2° La violation des dispositions du VI de l'article 140 de la loi n° 2008-776 du 4 août 2008 relatives à l'établissement et à
-la publicité des comptes annuels et à la mission du commissaire aux comptes ; 
+la publicité des comptes annuels et à la mission du commissaire aux comptes ;
 
 3° Le fait pour l'organisme de foncier solidaire de disposer ou de consommer tout ou partie de la dotation en capital ou des
-fonds affectés dont il bénéficie dans le cas où les statuts n'autorisent pas à les consommer, et, dans le cas où les statuts
-prévoient cette possibilité, le fait d'en disposer ou d'en consommer tout ou partie en violation des conditions fixées par
-les clauses statutaires ou pour une cause étrangère à la réalisation des objets ou des missions d'intérêt général
-poursuivis ; 
+fonds affectés dont il bénéficie dans le cas où les statuts ou documents constitutifs n'autorisent pas à les consommer, et,
+dans le cas où les statuts ou documents constitutifs prévoient cette possibilité, le fait d'en disposer ou d'en consommer
+tout ou partie en violation des conditions fixées par les clauses statutaires ou pour une cause étrangère à la réalisation
+des objets ou des missions d'intérêt général poursuivis ;
 
 4° Le fait pour l'organisme de foncier solidaire de ne pas avoir adressé les rapports d'activité à l'autorité administrative
 ou d'avoir adressé des rapports d'activité incomplets, durant deux exercices consécutifs, malgré la mise en demeure qui lui a
-été faite en application de l'article R. 329-11 ; 
+été faite en application de l'article R. 329-11 ;
 
 5° Le fait pour l'organisme de foncier solidaire de conclure un bail réel solidaire avec des preneurs ne respectant pas les
 conditions de ressources, de loyers ou de cession de prix prévues aux articles L. 255-2 et L. 255-4 ou de donner son agrément
@@ -55581,9 +55507,9 @@ conditions de ressources, de loyers ou de cession de prix prévues aux articles 
 	  - Code de la construction et de l'habitation. - art. L255-10
 	  - Code de la construction et de l'habitation. - art. L255-2
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-1215 du 12 septembre 2016 - art. 1
+	  - Décret n°2017-1037 du 10 mai 2017 - art. 7
 
 
 ###### Article R329-17
@@ -57609,8 +57535,8 @@ a) Un an en ce qui concerne les constructions nécessaires :
 
 - à l'hébergement d'urgence des personnes migrantes en vue de leur demande d'asile.
 
-b) Une année scolaire en ce qui concerne les classes démontables installées dans les établissements scolaires ou
-universitaires pour pallier les insuffisances temporaires de capacités d'accueil ;
+b) Une année scolaire ou la durée du chantier de travaux en ce qui concerne les classes démontables installées dans les
+établissements scolaires ou universitaires pour pallier les insuffisances temporaires de capacités d'accueil ;
 
 c) La durée du chantier, en ce qui concerne les constructions temporaires directement nécessaires à la conduite des travaux
 ainsi que les installations liées à la commercialisation d'un bâtiment en cours de construction et pour une durée d'un an en
@@ -57624,19 +57550,15 @@ A l'issue de cette durée, le constructeur est tenu de remettre les lieux dans l
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2017-933 du 10 mai 2017 - art. 4
+
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. *R421-6 (V)
 	  - Code de l'urbanisme - art. R*421-7 (V)
 	  - Code de l'urbanisme - art. R*422-3 (M)
-
-	**Codifié par**:
-
-	  - Décret n°73-1023 1973-11-08
-
-	**Modifié par**:
-
-	  - Décret n°2017-608 du 21 avril 2017 - art. 1
 
 
 ###### Article *R421-6
@@ -64738,25 +64660,33 @@ nouvel usage du terrain projeté ont été prises en compte dans la conception d
 o) Lorsque le projet est situé dans un secteur d'information sur les sols et dans les cas et conditions prévus par l'article
 L. 556-2 du code de l'environnement, une attestation établie par un bureau d'études certifié dans le domaine des sites et
 sols pollués, ou équivalent, garantissant la réalisation d'une étude de sols et sa prise en compte dans la conception du
-projet de construction.
+projet de construction. 
+
+p) Lorsque le projet a fait l'objet d'une demande de dérogation, à titre expérimental, aux règles de la construction, prévue
+au I de l'article 88 de la loi n° 2016-925 du 7 juillet 2016 relative à la liberté de la création, à l'architecture et au
+patrimoine, la décision prise sur cette demande, selon les modalités fixées par le décret n° 2017-1044 du 10 mai 2017 portant
+expérimentation en matière de construction.
 
 **Nota:**
 
-Le décret n° 2015-1782 du 28 décembre 2015, article 5, 2°, a inséré un second paragraphe l à la suite du k.
-
-Le décret n° 2016-1110 a été pris pour l’application de l’ordonnance n° 2016-1058 dont l’article 6 prévoit que « Les
-dispositions de la présente ordonnance s'appliquent : 
+Le décret n° 2016-1110 a été pris pour l’application de l’ordonnance n° 2016-1058 dont l’article 6 prévoit que : Les
+dispositions de la présente ordonnance s'appliquent :
 
 - aux projets relevant d'un examen au cas par cas pour lesquels la demande d'examen au cas par cas est déposée à compter du
-1er janvier 2017 ; 
+1er janvier 2017 ;
 
 - aux projets faisant l'objet d'une évaluation environnementale systématique pour lesquels la première demande d'autorisation
 est déposée à compter du 16 mai 2017. Pour les projets pour lesquels l'autorité compétente est le maître d'ouvrage, ces
 dispositions s'appliquent aux projets dont l'enquête publique est ouverte à compter du premier jour du sixième mois suivant
-la publication de la présente ordonnance ; 
+la publication de la présente ordonnance ;
 
 - aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à
-disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance. »
+disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance.
+
+Conformément aux dispositions de l'article 10 du décret n° 2017-1044 du 10 mai 2017, les dispositions dudit décret sont
+applicables aux projets de constructions pour lesquels il est statué sur la demande d'autorisation d'urbanisme, à compter de
+sa date d'entrée en vigueur et jusqu'au terme de la durée de sept ans mentionnée au I de l'article 88 de la loi n° 2016-925
+du 7 juillet 2016.
 
 **Liens relatifs à cet article**
 
@@ -64772,32 +64702,34 @@ disposition du public est publié après le premier jour du mois suivant la publ
 	  - Code de la construction et de l'habitation. - art. R111-20-1 (V)
 	  - Code de la construction et de l'habitation. - art. R111-20-2 (V)
 
-	**Modifié par**:
-
-	  - Décret n°2016-1613 du 25 novembre 2016 - art. 3
-
 	**Cite**:
 
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 88
+	  - Décret n°2017-1044 du 10 mai 2017
 	  - Code général des collectivités territoriales - art. L2224-8
-	  - Code de l'urbanisme - art. L300-2 (V)
+	  - Code de l'urbanisme - art. L300-2
 	  - Code de l'urbanisme - art. L510-1
-	  - Code de l'urbanisme - art. R114-1 (V)
-	  - Code de l'urbanisme - art. R121-5 (V)
-	  - Code de l'urbanisme - art. R300-1 (V)
-	  - Code de la construction et de l'habitation. - art. L111-23 (V)
-	  - Code de la construction et de l'habitation. - art. L111-9 (V)
+	  - Code de l'urbanisme - art. R114-1
+	  - Code de l'urbanisme - art. R121-5
+	  - Code de l'urbanisme - art. R300-1
+	  - Code de la construction et de l'habitation. - art. L111-23
+	  - Code de la construction et de l'habitation. - art. L111-9
 	  - Code de l'environnement - art. L122-1-1
-	  - Code de l'environnement - art. L414-4 (V)
+	  - Code de l'environnement - art. L414-4
 	  - Code de l'environnement - art. L556-1
 	  - Code de l'environnement - art. L556-2
 	  - Code de l'environnement - art. L562-2
 	  - Code de l'environnement - art. L563-1
 	  - Code de l'environnement - art. R122-2
-	  - Code de l'environnement - art. R414-22 (V)
+	  - Code de l'environnement - art. R414-22
 	  - Code de l'environnement - art. R414-23
 	  - Code de l'environnement - art. R555-30
 	  - Code de l'environnement - art. R555-31
 	  - Code de la sécurité intérieure - art. R613-28
+
+	**Modifié par**:
+
+	  - Décret n°2017-1044 du 10 mai 2017 - art. 6
 
 
 ###### Article R431-16-2
