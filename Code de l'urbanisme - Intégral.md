@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2017-05-12
+Version Consolidée au 2017-08-01
 
 # Partie législative
 
@@ -40153,8 +40153,9 @@ conditions mentionnées aux articles L. 121-51 et R. 121-42.
 ###### Article R122-1
 
 L'étude prévue au premier alinéa de l'article L. 122-7 est soumise, avant l'arrêt du projet de schéma de cohérence
-territoriale ou de plan local d'urbanisme, à la commission départementale de la nature, des paysages et des sites dont l'avis
-est joint au dossier de l'enquête publique.
+territoriale ou de plan local d'urbanisme ou avant l'examen conjoint dans le cas d'une mise en compatibilité de ces
+documents, à la commission départementale de la nature, des paysages et des sites dont l'avis est joint au dossier de
+l'enquête publique.
 
 **Liens relatifs à cet article**
 
@@ -40162,17 +40163,13 @@ est joint au dossier de l'enquête publique.
 
 	  - Décret n°2015-1783 du 28 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
+	  - Décret n°2017-1039 du 10 mai 2017 - art. 3
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L122-7 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L145-3, alinéa 8 première partie (Ab)
+	  - Code de l'urbanisme - art. L122-7
 
 
 ###### Article R122-2
@@ -40232,12 +40229,23 @@ Il est annexé, le cas échéant, au plan local d'urbanisme, et tenu à disposit
 
 ##### Sous-section 3 : Unités touristiques nouvelles
 
-##### Paragraphe 1 : Création d'une unité touristique nouvelle dans une commune couverte par un schéma de cohérence territoriale
+##### Paragraphe 1 : Dispositions communes aux unités touristiques nouvelles structurantes et locales
 
 ###### Article R122-4
 
-L'autorité compétente pour demander la modification du schéma de cohérence territoriale en application de l'article L. 122-18
-est le préfet de département.
+Pour l'application de la présente sous-section :
+
+1° Une piste de ski alpin est un parcours sur neige réglementé, délimité, balisé, contrôlé et protégé des dangers présentant
+un caractère anormal ou excessif, éventuellement aménagé et préparé, réservé à la pratique du ski alpin et des activités de
+glisse autorisées ;
+
+2° Un domaine skiable est une piste de ski alpin ou un ensemble de pistes qui ont le même point de départ ou qui communiquent
+entre elles ou qui communiquent par le seul intermédiaire d'une ou de plusieurs remontées mécaniques. La surface du domaine
+skiable prise en compte est la somme des surfaces des pistes de ski alpin.
+
+Un domaine skiable peut s'étendre sur le territoire de plusieurs communes.
+
+Une commune peut comporter plusieurs domaines skiables.
 
 **Liens relatifs à cet article**
 
@@ -40245,26 +40253,24 @@ est le préfet de département.
 
 	  - Décret n°2015-1783 du 28 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
+	  - Décret n°2017-1039 du 10 mai 2017 - art. 4
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L122-18 (V)
+	  - Code de l'urbanisme - art. L122-18
 
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L145-12, en partie (Ab)
-
-
-##### Paragraphe 2 : Création d'une unité touristique nouvelle dans une commune non couverte par un schéma de cohérence territoriale
 
 ###### Article R122-5
 
-Dans les communes qui ne sont pas couvertes par un schéma de cohérence territoriale, la création et l'extension des unités
-touristiques nouvelles mentionnées aux 1° et 2° de l'article L. 122-19 sont soumises à autorisation dans les conditions
-fixées par les articles R. 122-6 et R. 122-7.
+Le chapitre II du titre II du livre Ier du présent code et le chapitre II du titre IV du livre III du code du tourisme sont
+applicables à toutes les créations d'unités touristiques nouvelles ainsi qu'aux extensions égales ou supérieures aux seuils
+de création de ces unités.
+
+Les extensions inférieures à ces seuils sont, en vertu des dispositions des articles L. 122-16 et L. 122-19, soumises aux
+dispositions de l'article L. 122-5 et, à ce titre, réputées constituer des extensions limitées des constructions existantes
+au sens de ce dernier article.
 
 **Liens relatifs à cet article**
 
@@ -40272,70 +40278,24 @@ fixées par les articles R. 122-6 et R. 122-7.
 
 	  - Décret n°2015-1783 du 28 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2017-1039 du 10 mai 2017 - art. 5
+	  - Décret n°2017-1039 du 10 mai 2017 - art. 4
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L122-19 (V)
-	  - Code de l'urbanisme - art. R122-6 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. R122-10 (VD)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R145-1 (Ab)
+	  - Code de l'urbanisme - art. L122-19
+	  - Code de l'urbanisme - art. R122-6
 
 
 ###### Article R122-6
 
-Sont soumises à autorisation du préfet coordonnateur de massif, après avis de la commission spécialisée du comité de massif,
-les unités touristiques nouvelles ayant pour objet :
+Les seuils et surfaces à retenir pour l'application des articles R. 122-8 et R. 122-9 sont ceux :
 
-1° La création, l'extension ou le remplacement de remontées mécaniques, lorsque ces travaux ont pour effet :
+1° Du programme général de l'opération, en cas de réalisation fractionnée d'une unité touristique nouvelle ;
 
-a) La création d'un nouveau domaine skiable alpin ;
-
-b) L'augmentation de la superficie totale d'un domaine skiable alpin existant, dès lors que cette augmentation est supérieure
-ou égale à 100 hectares ;
-
-2° Des opérations de construction ou d'extension d'hébergements et d'équipements touristiques d'une surface de plancher
-totale supérieure à 12 000 mètres carrés, à l'exclusion des logements à destination des personnels saisonniers ou permanents
-des équipements et hébergements touristiques ;
-
-3° Lorsqu'ils sont soumis à évaluation environnementale en application de l'article L. 122-1 du code de l'environnement :
-
-a) L'aménagement, la création et l'extension de terrains de golf ;
-
-b) L'aménagement de terrains de camping ;
-
-c) L'aménagement de terrains pour la pratique de sports ou de loisirs motorisés ;
-
-d) Les travaux d'aménagement de pistes pour la pratique des sports d'hiver alpins, situés en site vierge au sens du tableau
-annexé à l'article R. 122-2 du code de l'environnement d'une superficie supérieure à 4 hectares.
-
-**Nota:**
-
-Le décret n° 2016-1110 a été pris pour l’application de l’ordonnance n° 2016-1058 dont l’article 6 prévoit que « Les
-dispositions de la présente ordonnance s'appliquent : 
-
-- aux projets relevant d'un examen au cas par cas pour lesquels la demande d'examen au cas par cas est déposée à compter du
-1er janvier 2017 ; 
-
-- aux projets faisant l'objet d'une évaluation environnementale systématique pour lesquels la première demande d'autorisation
-est déposée à compter du 16 mai 2017. Pour les projets pour lesquels l'autorité compétente est le maître d'ouvrage, ces
-dispositions s'appliquent aux projets dont l'enquête publique est ouverte à compter du premier jour du sixième mois suivant
-la publication de la présente ordonnance ; 
-
-- aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à
-disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance. »
+2° Correspondant à l'augmentation de la surface de plancher en cas d'opération de reconstruction d'hébergements et
+d'équipements touristiques ou de refuges de montagne consécutive à une démolition.
 
 **Liens relatifs à cet article**
 
@@ -40353,7 +40313,7 @@ disposition du public est publié après le premier jour du mois suivant la publ
 
 	**Modifié par**:
 
-	  - Décret n°2016-1110 du 11 août 2016 - art. 4
+	  - Décret n°2017-1039 du 10 mai 2017 - art. 4
 
 	**Cite**:
 
@@ -40363,26 +40323,19 @@ disposition du public est publié après le premier jour du mois suivant la publ
 
 ###### Article R122-7
 
-Sont soumises à autorisation du préfet de département, après avis d'une formation spécialisée de la commission départementale
-de la nature, des paysages et des sites, les unités touristiques nouvelles ayant pour objet :
+Le document d'orientation et d'objectifs du schéma de cohérence territoriale peut, en application du 2° de l'article L.
+122-17, définir comme unités touristiques nouvelles structurantes pour son territoire :
 
-1° La création, l'extension ou le remplacement de remontées mécaniques, lorsqu'ils ont pour effet :
+1° Des unités touristiques nouvelles prévues par l'article R. 122-8 en abaissant les seuils pour lesquels elles y figurent ;
 
-a) L'augmentation de plus de 10 hectares et de moins de 100 hectares d'un domaine skiable alpin existant ;
+2° Des opérations de développement touristique effectuées en zone de montagne et contribuant aux performances socio-
+économiques de l'espace montagnard qui ne figurent pas sur la liste de l'article R. 122-8.
 
-b) La création d'une remontée mécanique, n'ayant pas pour objet principal de desservir un domaine skiable, pouvant
-transporter plus de dix mille voyageurs par jour sur un dénivelé supérieur à 300 mètres ;
-
-2° Les opérations suivantes, lorsqu'elles ne sont pas situées dans un secteur urbanisé ou dans un secteur constructible situé
-en continuité de l'urbanisation :
-
-a) La création ou l'extension, sur une surface de plancher totale supérieure à 300 mètres carrés, d'hébergements touristiques
-ou d'équipements touristiques ;
-
-b) L'aménagement de terrains de camping comprenant plus de 20 emplacements ;
-
-c) La création de refuges de montagne mentionnés à l'article L. 326-1 du code du tourisme, ou leur extension sur une surface
-de plancher totale supérieure à 100 mètres carrés.
+Les orientations d'aménagement et de programmation du plan local d'urbanisme peuvent, en application du 2° de l'article L.
+122-18, définir comme unités touristiques nouvelles locales des opérations de développement touristique effectuées en zone de
+montagne et contribuant aux performances socio-économiques de l'espace montagnard qui ne sont pas identifiées par la liste de
+l'article R. 122-9, sous réserve qu'elles ne puissent être considérées comme structurantes en application de l'article R.
+122-8 ou du document d'orientation et d'objectifs du schéma de cohérence territoriale.
 
 **Liens relatifs à cet article**
 
@@ -40390,42 +40343,51 @@ de plancher totale supérieure à 100 mètres carrés.
 
 	  - Décret n°2015-1783 du 28 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
+	  - Décret n°2017-1039 du 10 mai 2017 - art. 4
 
 	**Cite**:
 
-	  - Code du tourisme. - art. L326-1 (V)
+	  - Code du tourisme. - art. L326-1
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R122-10 (VD)
 	  - Code de l'urbanisme - art. R122-14 (VD)
 
-	**Anciens textes**:
 
-	  - Code de l'urbanisme - art. R145-3 (Ab)
-
+##### Paragraphe 2 : Unités touristiques nouvelles structurantes et unités touristiques nouvelles locales
 
 ###### Article R122-8
 
-Pour l'application de la présente section :
+Constituent des unités touristiques nouvelles structurantes pour l'application du 1° de l'article L. 122-17 les opérations
+suivantes :
 
-1° Une piste de ski alpin est un parcours sur neige réglementé, délimité, balisé, contrôlé et protégé des dangers présentant
-un caractère anormal ou excessif, éventuellement aménagé et préparé, réservé à la pratique du ski alpin et des activités de
-glisse autorisées ;
+1° La création, l'extension ou le remplacement de remontées mécaniques, lorsque ces travaux ont pour effet :
 
-2° Un domaine skiable est une piste de ski alpin ou un ensemble de pistes qui ont le même point de départ ou qui communiquent
-entre elles ou qui communiquent par le seul intermédiaire d'une ou de plusieurs remontées mécaniques. La surface du domaine
-skiable prise en compte est la somme des surfaces des pistes de ski alpin.
+a) La création d'un nouveau domaine skiable alpin ;
 
-Un domaine skiable peut s'étendre sur le territoire de plusieurs communes.
+b) L'augmentation de la superficie totale d'un domaine skiable alpin existant, dès lors que cette augmentation est supérieure
+ou égale à 100 hectares ;
 
-Une commune peut comporter plusieurs domaines skiables.
+2° Les liaisons entre domaines skiables alpins existants ;
 
-En cas de réalisation fractionnée de l'aménagement, la surface ou les seuils à retenir sont ceux du programme général de
-l'opération.
+3° Les opérations de construction ou d'extension d'hébergements et d'équipements touristiques d'une surface de plancher
+totale supérieure à 12 000 mètres carrés, à l'exclusion des logements à destination des personnels saisonniers ou permanents
+des équipements et hébergements touristiques ;
+
+4° L'aménagement, la création et l'extension de terrains de golf d'une superficie supérieure à 15 hectares ;
+
+5° L'aménagement de terrains de camping d'une superficie supérieure à 5 hectares ;
+
+6° L'aménagement de terrains pour la pratique de sports ou de loisirs motorisés d'une superficie supérieure à 4 hectares :
+
+7° Les travaux d'aménagement de pistes pour la pratique des sports d'hiver alpins, situés en site vierge au sens du tableau
+annexé à l'article R. 122-2 du code de l'environnement d'une superficie supérieure à 4 hectares ;
+
+8° La création d'une remontée mécanique n'ayant pas pour objet principal de desservir un domaine skiable, pouvant transporter
+plus de dix mille voyageurs par jour sur un dénivelé supérieur à 300 mètres.
 
 **Liens relatifs à cet article**
 
@@ -40433,22 +40395,34 @@ l'opération.
 
 	  - Décret n°2015-1783 du 28 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
+	  - Décret n°2017-1039 du 10 mai 2017 - art. 4
 
 	**Cité par**:
 
 	  - Code de l'environnement - art. R362-1-1 (V)
 
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R145-4, alinéas 1 à 6 (Ab)
-
 
 ###### Article R122-9
 
-La demande d'autorisation de créer une unité touristique peut porter simultanément sur plusieurs opérations.
+Constituent des unités touristiques nouvelles locales, pour l'application du 1° de l'article L. 122-18 :
+
+1° La création, l'extension ou le remplacement de remontées mécaniques, lorsqu'ils ont pour effet l'augmentation de plus de
+10 hectares et de moins de 100 hectares d'un domaine skiable alpin existant ;
+
+2° L'aménagement, la création et l'extension de terrains de golf d'une superficie inférieure ou égale à 15 hectares ;
+
+3° Les opérations suivantes, lorsqu'elles ne sont pas situées dans un secteur urbanisé ou dans un secteur constructible situé
+en continuité de l'urbanisation :
+
+a) La création ou l'extension, sur une surface de plancher totale supérieure à 500 mètres carrés, d'hébergements touristiques
+ou d'équipements touristiques ;
+
+b) L'aménagement de terrains de camping d'une superficie comprise entre 1 et 5 hectares ;
+
+c) La création de refuges de montagne mentionnés à l'article L. 326-1 du code du tourisme, ainsi que leur extension pour une
+surface de plancher totale supérieure à 200 mètres carrés.
 
 **Liens relatifs à cet article**
 
@@ -40456,32 +40430,80 @@ La demande d'autorisation de créer une unité touristique peut porter simultan�
 
 	  - Décret n°2015-1783 du 28 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2017-1039 du 10 mai 2017 - art. 5
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. R122-12 (VD)
+	  - Décret n°2017-1039 du 10 mai 2017 - art. 4
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R122-13 (VD)
 
-	**Anciens textes**:
 
-	  - Code de l'urbanisme - art. R145-4, alinéa 7 (Ab)
-
+##### Paragraphe 3 : Création d'unités touristiques nouvelles dans les communes non couvertes par un schéma de cohérence territoriale ou par un plan local d'urbanisme
 
 ###### Article R122-10
 
-La demande d'autorisation de créer une unité touristique nouvelle, qu'elle relève de l'article R. 122-6 ou de l'article R.
-122-7, est présentée au préfet du département par la ou les communes ou l'établissement public de coopération intercommunale
-compétent en matière de plan local d'urbanisme sur le territoire desquels s'étend l'emprise du projet. 
+Dans les communes qui ne sont pas couvertes par un schéma de cohérence territoriale, la création et l'extension des unités
+touristiques nouvelles structurantes mentionnées à l'article R. 122-8 sont soumises à autorisation du préfet coordonnateur de
+massif dans les conditions fixées aux articles R. 122-12 à R. 122-18.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-1039 du 10 mai 2017 - art. 5
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. R122-5 (VT)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R122-6
+	  - Code de l'urbanisme - art. R122-7
+
+
+###### Article R122-11
+
+Dans les communes qui ne sont pas couvertes par un plan local d'urbanisme, la création et l'extension des unités touristiques
+nouvelles locales mentionnées à l'article R. 122-9 sont soumises à autorisation du préfet de département dans les conditions
+fixées par les articles R. 122-12 à R. 122-18.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-1039 du 10 mai 2017 - art. 5
+
+
+###### Article R122-12
+
+La demande d'autorisation de créer une unité touristique peut porter simultanément sur plusieurs opérations.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-1039 du 10 mai 2017 - art. 5
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R122-6
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. R122-9 (VT)
+
+
+###### Article R122-13
+
+La demande d'autorisation de créer une unité touristique nouvelle, qu'elle relève de l'article R. 122-8 ou de l'article R.
+122-9, est présentée au préfet du département par la ou les communes ou l'établissement public de coopération intercommunale
+compétent en matière de plan local d'urbanisme sur le territoire desquels s'étend l'emprise du projet.
 
 La demande à laquelle sont jointes les délibérations des organes délibérants de la ou des communes ou de l'établissement
 public pétitionnaires est adressée par lettre recommandée avec demande d'avis de réception postal ou déposée contre décharge
@@ -40489,37 +40511,18 @@ public pétitionnaires est adressée par lettre recommandée avec demande d'avis
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2017-1039 du 10 mai 2017 - art. 5
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. R122-13 (VD)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R122-15 (VD)
-
 	**Cite**:
 
-	  - Code de l'urbanisme - art. R122-6
-	  - Code de l'urbanisme - art. R122-7
+	  - Code de l'urbanisme - art. L122-19
+	  - Code de l'urbanisme - art. R122-12 (VT)
+	  - Code de l'urbanisme - art. R122-9
 
 	**Anciens textes**:
 
-	  - Code de l'urbanisme - art. R145-5 (Ab)
+	  - Code de l'urbanisme - art. R122-10 (VT)
 
 
-###### Article R122-11
+###### Article R122-14
 
 La demande est accompagnée d'un dossier comportant un rapport et des documents graphiques précisant :
 
@@ -40535,172 +40538,20 @@ mécaniques, les caractéristiques du domaine skiable, faisant apparaître les p
 
 4° Les effets prévisibles du projet sur le trafic et la circulation locale, l'économie agricole, les peuplements forestiers,
 les terres agricoles, pastorales et forestières, les milieux naturels, les paysages et l'environnement, notamment la
-ressource en eau et la qualité des eaux, ainsi que les mesures de suppression, compensation et réhabilitation à prévoir, et
-l'estimation de leur coût ;
+ressource en eau et la qualité des eaux, ainsi que les mesures pour éviter, réduire et en dernier lieu compenser les
+incidences négatives notables sur l'environnement qui n'auront pu être ni évitées ni réduites, et l'estimation de leur coût ;
 
 5° Les conditions générales de l'équilibre économique et financier du projet.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2017-1039 du 10 mai 2017 - art. 5
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. R122-14 (VD)
+	  - Décret n°2017-1039 du 10 mai 2017 - art. 5
 
 	**Anciens textes**:
 
-	  - Code de l'urbanisme - art. R145-6 (Ab)
-
-
-###### Article R122-12
-
-Lorsque le dossier est complet, le préfet du département l'adresse sans délai au préfet coordonnateur de massif si la demande
-relève de l'article R. 122-6. Il notifie aux collectivités ou établissements pétitionnaires, dans les quinze jours de la
-réception de la demande ou des pièces complémentaires, par lettre recommandée avec demande d'avis de réception postal, la
-date à laquelle la demande sera examinée, selon le cas, par la commission spécialisée du comité de massif territorialement
-compétent ou par la formation spécialisée des unités touristiques nouvelles de la commission départementale de la nature, des
-paysages et des sites. 
-
-Dans le même délai, il transmet la demande et le dossier à la commission compétente. 
-
-La commission compétente examine la demande à sa première réunion, lorsque celle-ci se tient plus de trois mois après la date
-de notification prévue au premier alinéa, et dans un délai de trois mois à compter de cette réunion dans le cas contraire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2017-1039 du 10 mai 2017 - art. 5
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R122-13 (VD)
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. R122-15 (VD)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R122-6
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R145-7 (Ab)
-
-
-###### Article R122-13
-
-Dès la notification prévue à l'article R. 122-12, le préfet coordinateur de massif, ou, pour les projets relevant du 2° de
-l'article L. 122-19, le préfet de département, prescrit par arrêté la mise à la disposition du public du dossier de demande
-d'autorisation de créer une unité touristique nouvelle prévue aux articles R. 122-9 et R. 122-10. 
-
-Cet arrêté précise les modalités de cette mise à disposition, et en particulier : 
-
-1° La date à compter de laquelle le dossier est tenu à la disposition du public et la durée d'un mois pendant laquelle il
-peut être consulté ; 
-
-2° Les heures et lieux où le public peut prendre connaissance du dossier et formuler ses observations sur un ou plusieurs
-registres ouverts à cet effet. 
-
-Mention de l'arrêté ainsi que de la date à laquelle la commission spécialisée du comité de massif ou la formation spécialisée
-des unités touristiques nouvelles de la commission départementale de la nature, des paysages et des sites examinera la
-demande est insérée au moins huit jours avant le début de la consultation du public dans un journal diffusé dans le
-département et affichée dans les mairies des communes intéressées et, le cas échéant, au siège de l'établissement public de
-coopération intercommunale compétent en matière de plan local d'urbanisme. 
-
-A l'issue de la mise à disposition du public, l'autorité mentionnée au premier alinéa en établit le bilan et l'adresse au
-président et aux membres de la commission compétente quinze jours au moins avant la date fixée pour l'examen de la demande.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. R122-16 (VD)
-
-	**Codifié par**:
-
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2017-1039 du 10 mai 2017 - art. 5
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L122-19
-	  - Code de l'urbanisme - art. R122-12 (VT)
-	  - Code de l'urbanisme - art. R122-9
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. R145-8 (Ab)
-
-
-###### Article R122-14
-
-La décision est prise : 
-
-1° Par arrêté du préfet coordonnateur de massif dans le cas prévu à l'article R. 122-6 ; 
-
-2° Par arrêté du préfet du département dans le cas prévu à l'article R. 122-7. 
-
-Une autorisation n'est pas illégale du seul fait qu'elle a été délivrée par le préfet coordonnateur de massif, alors qu'elle
-porte sur un projet d'unité touristique nouvelle d'une taille inférieure au seuil fixé à l'article R. 122-6. 
-
-La décision est notifiée aux demandeurs dans le délai d'un mois à compter de la date de la réunion de la commission
-compétente. 
-
-En cas de rejet de la demande ou si l'autorisation est assortie de prescriptions, la décision est motivée. 
-
-Le préfet de département procède à la publication de la décision au recueil des actes administratifs de l'Etat dans le
-département. Il en fait, en outre, inscrire mention dans un journal diffusé dans le département.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2017-1039 du 10 mai 2017 - art. 5
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L145-11, alinéa 6 (Ab)
-	  - Code de l'urbanisme - art. R145-9 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. R122-17 (VD)
+	  - Code de l'urbanisme - art. R122-11 (VT)
 
 	**Cite**:
 
@@ -40710,58 +40561,61 @@ département. Il en fait, en outre, inscrire mention dans un journal diffusé da
 
 ###### Article R122-15
 
-Lorsqu'une ou plusieurs communes, ou un établissement public de coopération intercommunale compétent en matière de plan local
-d'urbanisme sur le territoire duquel s'étend l'emprise du projet, envisagent de créer une unité touristique nouvelle, ils
-peuvent, préalablement au dépôt de la demande prévue à l'article R. 122-10, demander au préfet que les orientations générales
-de leur projet soient examinées par la commission compétente.
+Lorsque le dossier est complet, le préfet du département l'adresse sans délai au préfet coordonnateur de massif si la demande
+relève de l'article R. 122-8. Il notifie aux collectivités ou établissements pétitionnaires, dans les quinze jours de la
+réception de la demande ou des pièces complémentaires, par lettre recommandée avec demande d'avis de réception postal, la
+date à laquelle la demande sera examinée, selon le cas, par la commission spécialisée du comité de massif territorialement
+compétent ou par la formation spécialisée des unités touristiques nouvelles de la commission départementale de la nature, des
+paysages et des sites.
+
+Dans le même délai, il transmet la demande et le dossier à la commission compétente.
+
+La commission compétente examine la demande à sa première réunion, lorsque celle-ci se tient plus de trois mois après la date
+de notification prévue au premier alinéa, et dans un délai de trois mois à compter de cette réunion dans le cas contraire.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2017-1039 du 10 mai 2017 - art. 5
+	  - Décret n°2017-1039 du 10 mai 2017 - art. 5
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. R122-10 (VT)
 
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. R122-18 (VD)
-
 	**Anciens textes**:
 
-	  - Code de l'urbanisme - art. R145-10 (Ab)
+	  - Code de l'urbanisme - art. R122-12 (VT)
 
-
-##### Section 2 : Prescriptions particulières de massif et recommandations particulières à certaines zones sensibles
 
 ###### Article R122-16
 
-Le projet de prescriptions particulières de massif mentionnées à l'article L. 122-24 est soumis à enquête publique dans les
-formes prévues aux articles R. 123-7 à R. 123-23 du code de l'environnement.
+Dès la notification prévue à l'article R. 122-15, le préfet coordinateur de massif, ou, pour les projets soumis à
+autorisation en application de l'article L. 122-21, le préfet de département, prescrit par arrêté la mise à la disposition du
+public du dossier de demande d'autorisation de créer une unité touristique nouvelle prévue aux articles R. 122-8 et R. 122-9.
+
+Cet arrêté précise les modalités de cette mise à disposition, et en particulier :
+
+1° La date à compter de laquelle le dossier est tenu à la disposition du public et la durée d'un mois pendant laquelle il
+peut être consulté ;
+
+2° Les heures et lieux où le public peut prendre connaissance du dossier et formuler ses observations sur un ou plusieurs
+registres ouverts à cet effet.
+
+Mention de l'arrêté ainsi que de la date à laquelle la commission spécialisée du comité de massif ou la formation spécialisée
+des unités touristiques nouvelles de la commission départementale de la nature, des paysages et des sites examinera la
+demande est insérée au moins huit jours avant le début de la consultation du public dans un journal diffusé dans le
+département et affichée dans les mairies des communes intéressées et, le cas échéant, au siège de l'établissement public de
+coopération intercommunale compétent en matière de plan local d'urbanisme.
+
+A l'issue de la mise à disposition du public, l'autorité mentionnée au premier alinéa en établit le bilan et l'adresse au
+président et aux membres de la commission compétente quinze jours au moins avant la date fixée pour l'examen de la demande.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
-
-	**Créé par**:
-
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2017-1039 du 10 mai 2017 - art. 6
+	  - Décret n°2017-1039 du 10 mai 2017 - art. 5
 
 	**Cite**:
 
@@ -40770,14 +40624,76 @@ formes prévues aux articles R. 123-7 à R. 123-23 du code de l'environnement.
 
 	**Anciens textes**:
 
-	  - Code de l'urbanisme - art. R*111-27 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. R122-19 (VD)
+	  - Code de l'urbanisme - art. R122-13 (VT)
 
 
 ###### Article R122-17
+
+La décision est prise :
+
+1° Par arrêté du préfet coordonnateur de massif dans le cas prévu à l'article R. 122-8 ;
+
+2° Par arrêté du préfet du département dans le cas prévu à l'article R. 122-9.
+
+Une autorisation n'est pas illégale du seul fait qu'elle a été délivrée par le préfet coordonnateur de massif, alors qu'elle
+porte sur un projet d'unité touristique nouvelle d'une taille inférieure au seuil fixé à l'article R. 122-8.
+
+La décision est notifiée aux demandeurs dans le délai d'un mois à compter de la date de la réunion de la commission
+compétente.
+
+En cas de rejet de la demande ou si l'autorisation est assortie de prescriptions, la décision est motivée.
+
+Le préfet de département procède à la publication de la décision au recueil des actes administratifs de l'Etat dans le
+département. Il en fait, en outre, inscrire mention dans un journal diffusé dans le département.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-1039 du 10 mai 2017 - art. 5
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. R122-14 (VT)
+
+
+###### Article R122-18
+
+Lorsqu'une ou plusieurs communes, ou un établissement public de coopération intercommunale compétent en matière de plan local
+d'urbanisme sur le territoire duquel s'étend l'emprise du projet, envisagent de créer une unité touristique nouvelle, ils
+peuvent, préalablement au dépôt de la demande prévue à l'article R. 122-13, demander au préfet que les orientations générales
+de leur projet soient examinées par la commission compétente.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-1039 du 10 mai 2017 - art. 5
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. R122-15 (VT)
+
+
+##### Section 2 : Prescriptions particulières de massif et recommandations particulières à certaines zones sensibles
+
+###### Article R122-19
+
+Le projet de prescriptions particulières de massif mentionnées à l'article L. 122-24 est soumis à enquête publique dans les
+formes prévues aux articles R. 123-7 à R. 123-23 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-1039 du 10 mai 2017 - art. 6
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme - art. R122-16 (VT)
+
+
+###### Article R122-20
 
 Les comités de massif peuvent également élaborer des recommandations particulières à certaines zones sensibles et, notamment,
 aux secteurs de haute montagne. Dans ce cadre, ils peuvent recourir, en tant que de besoin, aux services techniques de l'Etat
@@ -40785,25 +40701,13 @@ ainsi qu'aux conseils d'architecture, d'urbanisme et de l'environnement.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
-
 	**Créé par**:
 
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2017-1039 du 10 mai 2017 - art. 6
+	  - Décret n°2017-1039 du 10 mai 2017 - art. 6
 
 	**Anciens textes**:
 
-	  - Code de l'urbanisme - art. L145-7, alinéas 5 er 6 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de l'urbanisme - art. R122-20 (VD)
+	  - Code de l'urbanisme - art. R122-17 (VT)
 
 
 #### Chapitre III : Dispositions particulières à l'Ile-de-France
@@ -43522,9 +43426,8 @@ aménagements prévus par les articles L. 151-11, L. 151-12 et L. 151-13, dans l
 
 ###### Article R151-26
 
-L'avis de la commission départementale de la préservation des espaces naturels, agricoles et forestiers prévu à l'article L.
-151-13 sur la délimitation des secteurs dans les zones naturelles, agricoles ou forestières est réputé favorable s'il n'est
-pas intervenu dans un délai de trois mois à compter de la saisine.
+L'avis de la commission départementale de la préservation des espaces naturels, agricoles et forestiers prévu aux articles L.
+151-12 et L. 151-13 est réputé favorable s'il n'est pas intervenu dans un délai de trois mois à compter de la saisine.
 
 **Liens relatifs à cet article**
 
@@ -43532,13 +43435,13 @@ pas intervenu dans un délai de trois mois à compter de la saisine.
 
 	  - Décret n°2015-1783 du 28 décembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1783 du 28 décembre 2015 - art.
+	  - Décret n°2017-1039 du 10 mai 2017 - art. 7
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L151-13 (V)
+	  - Code de l'urbanisme - art. L151-13
 
 
 ##### Sous-section 3 : Destination des constructions, usages des sols et natures d'activité
@@ -55134,8 +55037,6 @@ public de gestion sont soumis aux procédures fixées au I de l'article R. 328-1
 
 
 #### Chapitre IX : Organisme de foncier solidaire
-
-##### Section 1 : Création de l'organisme de foncier solidaire
 
 ##### Section 1 : Régime de l'organisme de foncier solidaire
 
