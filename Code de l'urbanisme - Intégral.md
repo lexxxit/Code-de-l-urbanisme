@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2017-08-01
+Version Consolidée au 2017-12-29
 
 # Partie législative
 
@@ -767,9 +767,9 @@ de l'environnement, le bilan de la concertation est joint au dossier de l'enquê
 
 ###### Article L104-1
 
-Font l'objet d'une évaluation environnementale, dans les conditions prévues par la directive 2001/42/CE du Parlement européen
-et du Conseil, du 27 juin 2001, relative à l'évaluation des incidences de certains plans et programmes sur l'environnement,
-ainsi que ses annexes et par le présent chapitre : 
+Font l'objet d'une évaluation environnementale, dans les conditions prévues par la directive 2001/42/ CE du Parlement
+européen et du Conseil, du 27 juin 2001, relative à l'évaluation des incidences de certains plans et programmes sur
+l'environnement, ainsi que ses annexes et par le présent chapitre : 
 
 1° Les directives territoriales d'aménagement et de développement durables ; 
 
@@ -777,7 +777,7 @@ ainsi que ses annexes et par le présent chapitre :
 
 3° Les schémas de cohérence territoriale ; 
 
-4° Les prescriptions particulières de massif prévues à l'article L. 122-24 ; 
+4° Les prescriptions particulières de massif prévues à l'article L. 122-26 ; 
 
 5° Les schémas d'aménagement régionaux des régions d'outre-mer prévus à l'article L. 4433-7 du code général des collectivités
 territoriales ; 
@@ -788,10 +788,6 @@ territoriales.
 **Liens relatifs à cet article**
 
 	**Codifié par**:
-
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
-
-	**Créé par**:
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
@@ -813,15 +809,15 @@ territoriales.
 	  - Code rural - art. L181-12 (VD)
 	  - Code rural et de la pêche maritime - art. L181-3 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 71 (V)
+
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L4424-9 (VT)
-	  - Code général des collectivités territoriales - art. L4433-7 (VT)
-	  - Code de l'urbanisme - art. L122-24 (VD)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L121-10, alinéas 1 à 5 (VT)
+	  - Code général des collectivités territoriales - art. L4424-9
+	  - Code général des collectivités territoriales - art. L4433-7
+	  - Code de l'urbanisme - art. L122-26 (VD)
 
 
 ###### Article L104-2
@@ -4070,35 +4066,30 @@ l'Etat après avis de la commission départementale de la nature, des paysages e
 l'urbanisation sur la nature. Le plan local d'urbanisme respecte les dispositions de cet accord. 
 
 Dans les communes riveraines des plans d'eau d'une superficie supérieure à 1 000 hectares et incluses dans le champ
-d'application de la loi n° 85-30 du 9 janvier 1985, l'autorisation prévue à l'article L. 122-19 vaut accord de l'autorité
-administrative compétente de l'Etat au titre du troisième alinéa du présent article.
+d'application de la loi n° 85-30 du 9 janvier 1985, les autorisations prévues aux articles L. 122-20 et L. 122-21 valent
+accord de l'autorité administrative compétente de l'Etat au titre du troisième alinéa du présent article.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°85-30 du 9 janvier 1985 (V)
-	  - Code de l'urbanisme - art. L122-19 (VD)
-	  - Code de l'environnement - art. L321-2 (M)
+	  - Loi n°85-30 du 9 janvier 1985
+	  - Code de l'urbanisme - art. L122-20 (VT)
+	  - Code de l'environnement - art. L321-2
 
 	**Codifié par**:
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 71 (V)
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. L121-14 (VD)
 	  - Code de l'urbanisme - art. L121-15 (V)
 	  - Code de l'urbanisme - art. R121-2 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L146-4, alinéas 4 à 6 (VT)
-	  - Code de l'urbanisme - art. L146-9, alinéa 1 (VT)
 
 
 ###### Article L121-14
@@ -5759,10 +5750,11 @@ chaque permis de construire est soumis pour avis à la commission départemental
 
 ###### Article L122-15
 
-Le développement touristique et, en particulier, la création d'une unité touristique nouvelle doivent prendre en compte les
-communautés d'intérêt des collectivités territoriales concernées et contribuer à l'équilibre des activités économiques et de
-loisirs, notamment en favorisant l'utilisation rationnelle du patrimoine bâti existant et des formules de gestion locative
-pour les constructions nouvelles.
+Le développement touristique et, en particulier, la création ou  l'extension des unités touristiques nouvelles prennent en
+compte les  communautés d'intérêt des collectivités territoriales concernées et la  vulnérabilité de l'espace montagnard au
+changement climatique. Ils  contribuent à l'équilibre des activités économiques et de loisirs,  notamment en favorisant la
+diversification des activités touristiques  ainsi que l'utilisation rationnelle du patrimoine bâti existant et des  formules
+de gestion locative des constructions nouvelles.
 
 La localisation, la conception et la réalisation d'une unité touristique nouvelle doivent respecter la qualité des sites et
 les grands équilibres naturels.
@@ -5773,31 +5765,24 @@ les grands équilibres naturels.
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L145-3, alinéas 12 et 13 (VT)
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 71 (V)
 
 	**Cité par**:
 
 	  - Code du tourisme. - art. L342-6 (VD)
 
 
+##### Paragraphe 1 : Définition des unités touristiques nouvelles
+
 ###### Article L122-16
 
-Est considérée comme unité touristique nouvelle toute opération de développement touristique, en zone de montagne, ayant pour
-objet ou pour effet, en une ou plusieurs tranches :
+Toute opération de développement touristique effectuée en zone de  montagne et contribuant aux performances socio-économiques
+de l'espace  montagnard constitue une “ unité touristique nouvelle ”, au sens de la  présente sous-section. 
 
-1° Soit de construire des surfaces destinées à l'hébergement touristique ou de créer un équipement touristique comprenant des
-surfaces de plancher ;
-
-2° Soit de créer des remontées mécaniques ;
-
-3° Soit de réaliser des aménagements touristiques ne comprenant pas de surfaces de plancher dont la liste est fixée par
-décret en Conseil d'Etat.
+Les extensions limitées  inférieures aux seuils des créations d'unités touristiques nouvelles  fixés par décret en Conseil
+d'Etat ne sont pas soumises à la présente  sous-section.
 
 **Liens relatifs à cet article**
 
@@ -5805,19 +5790,23 @@ décret en Conseil d'Etat.
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 71 (V)
 
-	**Anciens textes**:
+	**Cité par**:
 
-	  - Code de l'urbanisme - art. L145-9 (VT)
+	  - Code de l'urbanisme - art. L153-27 (VD)
 
 
 ###### Article L122-17
 
-A l'exception des articles L. 122-5 à L. 122-7, les dispositions du présent chapitre et les dispositions du chapitre II du
-titre IV du livre III du code du tourisme sont applicables aux unités touristiques nouvelles.
+Constituent des unités touristiques nouvelles structurantes : 
+
+1° Celles dont la liste est fixée par décret en Conseil d'Etat ; 
+
+2° Le cas échéant, celles définies comme structurantes pour son territoire par le document d'orientation et d'objectifs du
+schéma de cohérence territoriale, dans les conditions prévues à l'article L. 141-23.
 
 **Liens relatifs à cet article**
 
@@ -5825,32 +5814,22 @@ titre IV du livre III du code du tourisme sont applicables aux unités touristiq
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 71 (V)
 
 	**Cite**:
 
-	  - Code du tourisme. -  Chapitre II : Montagne. (V)
-	  - Code de l'urbanisme - art. L122-5 (VD)
+	  - Code de l'urbanisme - art. L141-23
 
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L145-10 (VT)
-
-
-##### Paragraphe 1 : Création d'une unité touristique nouvelle dans une commune couverte par un schéma de cohérence territoriale
 
 ###### Article L122-18
 
-La création et l'extension d'unités touristiques nouvelles doivent être prévues par un schéma de cohérence territoriale qui
-en définit les caractéristiques conformément à l'article L. 141-23 et qui est exécutoire dans les conditions fixées par
-l'article L. 143-26. 
+Constituent des unités touristiques nouvelles locales : 
 
-Lorsqu'un projet d'unité touristique nouvelle concerne un territoire couvert par un schéma de cohérence territoriale approuvé
-et que ce schéma n'en prévoit pas la création, l'autorité administrative compétente de l'Etat peut, à la demande de la
-commune ou du groupement de communes concerné et après avis de la commission spécialisée du comité de massif, demander la
-modification du schéma.
+1° Celles dont la liste est fixée par décret en Conseil d'Etat ; 
+
+2° Le cas échéant, celles définies par le plan local d'urbanisme, dans les conditions prévues au II de l'article L. 151-7.
 
 **Liens relatifs à cet article**
 
@@ -5858,9 +5837,9 @@ modification du schéma.
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 71 (V)
 
 	**Cité par**:
 
@@ -5869,37 +5848,15 @@ modification du schéma.
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L141-23 (VD)
-	  - Code de l'urbanisme - art. L143-26 (VD)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L145-12 (VT)
+	  - Code de l'urbanisme - art. L151-7
 
 
 ##### Paragraphe 2 : Régime d'implantation des unités touristiques nouvelles
 
 ###### Article L122-19
 
-La création ou l'extension d'une unité touristique nouvelle est soumise à autorisation lorsqu'elle est située dans une
-commune qui n'est pas couverte par un schéma de cohérence territoriale.
-
-Cette autorisation est requise pour :
-
-1° Les remontées mécaniques qui ont pour effet la création d'un nouveau domaine skiable ou l'extension du domaine skiable
-existant au-delà d'un seuil fixé par décret en Conseil d'Etat, ou sur une opération qui présente un intérêt régional ou
-interrégional en raison de sa surface ou de sa capacité d'accueil ;
-
-2° Une remontée mécanique ayant pour effet l'extension d'un domaine skiable existant au-delà d'un seuil fixé par décret en
-Conseil d'Etat, ou sur une opération qui présente un intérêt local en raison de sa situation, de sa surface ou de sa capacité
-d'accueil.
-
-L'autorisation est délivrée par l'autorité administrative compétente de l'Etat après avis de la commission spécialisée du
-comité de massif dans les cas prévus au 1° et après avis d'une formation spécialisée de la commission départementale de la
-nature, des paysages et des sites dans les cas prévus au 2°.
-
-La création ou l'extension d'unités touristiques nouvelles autres que celles mentionnées aux 1° et 2° n'est pas soumise à
-autorisation.
+A l'exception des articles L. 122-5 à L. 122-7, le présent chapitre et le chapitre II du titre IV du livre III du code du
+tourisme sont applicables aux unités touristiques nouvelles.
 
 **Liens relatifs à cet article**
 
@@ -5907,9 +5864,9 @@ autorisation.
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 71 (V)
 
 	**Cité par**:
 
@@ -5926,24 +5883,21 @@ autorisation.
 	  - Code de l'urbanisme - art. R122-13 (VD)
 	  - Code de l'urbanisme - art. R122-5 (VD)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code de l'urbanisme - art. L145-11, alinéas 1, 4, 5 et 7 (VT)
+	  - Code de l'urbanisme - art. L122-5
+	  - Code de l'urbanisme - art. L122-7
 
 
 ###### Article L122-20
 
-Le projet de création d'unités touristiques nouvelles soumis à autorisation est préalablement mis à la disposition du public
-pendant un mois, dans des conditions lui permettant de formuler ses observations.
+La création et l'extension d'unités touristiques nouvelles structurantes sont prévues par le schéma de cohérence territoriale
+qui en définit les caractéristiques conformément à l'article L. 141-23. 
 
-Ces observations sont enregistrées et conservées.
-
-La nature des documents communiqués au public et les modalités de leur mise à disposition sont précisées par l'autorité
-administrative compétente pour statuer et portées à la connaissance du public au moins huit jours avant le début de cette
-mise à disposition.
-
-A l'issue de la mise à disposition et avant de prendre sa décision, l'autorité administrative compétente de l'Etat en établit
-le bilan.
+La création ou l'extension d'une unité touristique nouvelle structurante est soumise, après avis de la commission spécialisée
+du comité de massif, à l'autorisation de l'autorité administrative, selon des modalités définies par décret en Conseil
+d'Etat, lorsque cette unité est située dans une commune qui n'est pas couverte par un schéma de cohérence territoriale. Dans
+ce cas, l'unité touristique nouvelle n'est pas soumise à l'article L. 142-4.
 
 **Liens relatifs à cet article**
 
@@ -5951,9 +5905,9 @@ le bilan.
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 71 (V)
 
 	**Cité par**:
 
@@ -5961,16 +5915,24 @@ le bilan.
 	  - Code de l'urbanisme - art. L121-13 (VD)
 	  - Code de l'urbanisme - art. L122-22 (VD)
 	  - Code de l'urbanisme - art. L122-23 (VD)
+	  - Code de l'urbanisme - art. L122-24 (VD)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code de l'urbanisme - art. L145-11, alinéas 2 et 3 (VT)
+	  - Code de l'urbanisme - art. L141-23
+	  - Code de l'urbanisme - art. L142-4
 
 
 ###### Article L122-21
 
-L'autorisation peut imposer la réalisation de logements destinés aux salariés de la station, notamment aux travailleurs
-saisonniers, et prévoir des dispositions pour l'accueil et l'accès aux pistes des skieurs non résidents.
+La création et l'extension d'unités touristiques nouvelles locales sont prévues par le plan local d'urbanisme qui en définit
+les caractéristiques conformément aux articles L. 151-6 et L. 151-7. 
+
+La création ou l'extension d'une unité touristique nouvelle locale est soumise à l'autorisation de l'autorité administrative,
+selon des modalités définies par décret en Conseil d'Etat, lorsque cette unité est située dans une commune qui n'est pas
+couverte par un plan local d'urbanisme. Cette autorisation est délivrée par l'autorité administrative, après avis d'une
+formation spécialisée de la commission départementale de la nature, des paysages et des sites. Dans ce cas, l'unité
+touristique nouvelle n'est pas soumise à l'article L. 142-4.
 
 **Liens relatifs à cet article**
 
@@ -5978,9 +5940,9 @@ saisonniers, et prévoir des dispositions pour l'accueil et l'accès aux pistes 
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 71 (V)
 
 	**Cité par**:
 
@@ -5988,23 +5950,27 @@ saisonniers, et prévoir des dispositions pour l'accueil et l'accès aux pistes 
 	  - Code de l'environnement - art. L563-2 (VD)
 	  - Code de l'urbanisme - art. L122-22 (VD)
 	  - Code de l'urbanisme - art. L122-23 (VD)
+	  - Code de l'urbanisme - art. L122-24 (VD)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code de l'urbanisme - art. L145-11, alinéa 8 (VT)
+	  - Code de l'urbanisme - art. L142-4
+	  - Code de l'urbanisme - art. L151-6
+	  - Code de l'urbanisme - art. L151-7
 
 
 ###### Article L122-22
 
-L'autorisation devient caduque :
+Le projet de création d'unités touristiques nouvelles soumis à autorisation en application des articles L. 122-20 ou L.
+122-21 est préalablement mis à la disposition du public pendant un mois, dans des conditions lui permettant de formuler ses
+observations. 
 
-1° Si, dans un délai de quatre ans à compter de la notification au bénéficiaire, les équipements et les constructions
-autorisés n'ont pas été entrepris. En cas de recours, le délai de caducité est suspendu pendant la durée des instances ;
+Ces observations sont enregistrées et conservées. 
 
-2° A l'égard des équipements et constructions qui n'ont pas été engagés, lorsque les travaux d'aménagement ou de construction
-ont été interrompus pendant un délai supérieur à quatre ans. Ce délai peut être prorogé de quatre ans renouvelables, par
-délibération du conseil municipal. Ce délai s'applique également aux opérations autorisées antérieurement à la date du 25
-février 2005.
+La nature des documents communiqués au public et les modalités de leur mise à disposition sont précisées par l'autorité
+administrative et portées à la connaissance du public au moins huit jours avant le début de cette mise à disposition. 
+
+A l'issue de la mise à disposition et avant de prendre sa décision, l'autorité administrative en établit le bilan.
 
 **Liens relatifs à cet article**
 
@@ -6012,23 +5978,21 @@ février 2005.
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 71 (V)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code de l'urbanisme - art. L145-11, alinéas 9 et 10 (VT)
+	  - Code de l'urbanisme - art. L122-20
+	  - Code de l'urbanisme - art. L122-21
 
 
 ###### Article L122-23
 
-Les autorisations d'occupation du sol nécessaires à la réalisation de l'une des unités touristiques nouvelles prévues au 1°
-de l'article L. 122-19 ne peuvent être délivrées que dans les communes dotées d'un plan local d'urbanisme. 
-
-Les autorisations d'occupation du sol nécessaires à la réalisation de l'une des unités touristiques nouvelles prévues au 2°
-de l'article L. 122-19 ne peuvent être délivrées que dans les communes dotées d'une carte communale ou d'un plan local
-d'urbanisme.
+Les autorisations prévues aux articles L. 122-20 ou L. 122-21 prennent en compte les besoins de logements destinés aux
+salariés de la station, notamment les travailleurs saisonniers, et peuvent, le cas échéant, en imposer la réalisation. Elles
+peuvent prévoir des dispositions pour l'accueil et l'accès aux pistes des skieurs non-résidents.
 
 **Liens relatifs à cet article**
 
@@ -6036,58 +6000,36 @@ d'urbanisme.
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 71 (V)
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L122-19 (VD)
+	  - Code de l'urbanisme - art. L122-20
+	  - Code de l'urbanisme - art. L122-21
 
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L145-11, alinéas 11 et 12 (VT)
-
-
-##### Section 2 : Prescriptions particulières de massif
 
 ###### Article L122-24
 
-Lorsque les directives territoriales d'aménagement n'y ont pas déjà pourvu, des décrets en Conseil d'Etat pris après enquête
-publique réalisée conformément au chapitre III du titre II du livre Ier du code de l'environnement, sur proposition des
-comités de massif prévus à l'article 7 de la loi n° 85-30 du 9 janvier 1985, peuvent définir des prescriptions particulières
-sur tout ou partie des massifs définis à l'article 5 de la loi n° 85-30 du 9 janvier 1985, pour : 
+Les autorisations de création ou d'extension d'une unité touristique nouvelle prévues aux articles L. 122-20 ou L. 122-21
+deviennent caduques si, dans un délai de cinq ans à compter de leur notification au bénéficiaire, les équipements et les
+constructions autorisés n'ont pas été engagés. En cas de recours, le délai de caducité est suspendu pendant la durée des
+instances. 
 
-1° Adapter en fonction de la sensibilité des milieux concernés les seuils et critères des études d'impact spécifiques aux
-zones de montagne fixés en application des articles L. 122-1 à L. 122-3 du code de l'environnement, ainsi que les seuils et
-critères d'enquête publique spécifiques aux zones de montagne fixés en application du chapitre III du titre II du livre Ier
-du même code ; 
-
-2° Désigner les espaces, paysages et milieux les plus remarquables du patrimoine naturel et culturel montagnard, notamment
-les gorges, grottes, glaciers, lacs, tourbières, marais, lieux de pratique de l'alpinisme, de l'escalade et du canoë-kayak,
-cours d'eau de première catégorie au sens du 10° de l'article L. 436-5 du code de l'environnement et leurs abords, et définir
-les modalités de leur préservation ; 
-
-3° Préciser, en fonction des particularités de tout ou partie de chaque massif, les modalités d'application des articles L.
-122-5 à L. 122-11.
+Lorsque les travaux d'aménagement ou de construction ont été interrompus pendant une durée supérieure à cinq ans, cette
+caducité ne s'applique qu'à l'égard des équipements et constructions qui n'ont pas été engagés. L'autorisation peut être
+prorogée une seule fois, pour une durée de cinq ans, par arrêté de l'autorité administrative ayant délivré l'autorisation.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°85-30 du 9 janvier 1985 - art. 5 (M)
-	  - Loi n°85-30 du 9 janvier 1985 - art. 7 (M)
-	  - Code de l'environnement - art. L122-1 (V)
-	  - Code de l'environnement - art. L122-5 (V)
-	  - Code de l'environnement - art. L436-5 (M)
 
 	**Codifié par**:
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 71 (V)
 
 	**Cité par**:
 
@@ -6099,16 +6041,21 @@ les modalités de leur préservation ;
 	  - Code de l'urbanisme - art. L153-25 (VD)
 	  - Code de l'urbanisme - art. R122-16 (VD)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code de l'urbanisme - art. L145-7, alinéas 1 à 4 (VT)
+	  - Code de l'urbanisme - art. L122-20 (VD)
+	  - Code de l'urbanisme - art. L122-21 (VD)
 
 
 ###### Article L122-25
 
-Pour l'élaboration des propositions des prescriptions particulières de massif, les comités de massif peuvent recourir
-gratuitement, en tant que de besoin, aux services techniques de l'Etat ainsi qu'aux conseils d'architecture, d'urbanisme et
-de l'environnement.
+Dans les communes non couvertes par un schéma de cohérence territoriale : 
+
+1° Les autorisations d'occupation du sol nécessaires à la réalisation  des unités touristiques nouvelles structurantes ne
+peuvent être  délivrées que dans les communes dotées d'un plan local d'urbanisme ; 
+
+2° Les autorisations d'occupation du sol nécessaires à la réalisation  des unités touristiques nouvelles locales ne peuvent
+être délivrées que  dans les communes dotées d'une carte communale ou d'un plan local  d'urbanisme.
 
 **Liens relatifs à cet article**
 
@@ -6116,17 +6063,72 @@ de l'environnement.
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L145-7, alinéa 6 (VT)
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 71 (V)
 
 	**Cité par**:
 
 	  - Code du tourisme. - art. L342-6 (VD)
+
+
+##### Section 2 : Prescriptions particulières de massif
+
+###### Article L122-26
+
+Lorsque les directives territoriales d'aménagement n'y ont pas déjà pourvu, des décrets en Conseil d'Etat pris après
+l'organisation d'une enquête publique réalisée conformément au chapitre III du titre II du livre Ier du code de
+l'environnement, sur proposition des comités de massif prévus à l'article 7 de la loi n° 85-30 du 9 janvier 1985 relative au
+développement et à la protection de la montagne, peuvent définir des prescriptions particulières sur tout ou partie des
+massifs définis à l'article 5 de la même loi, pour : 
+
+1° Adapter en fonction de la sensibilité des milieux concernés les seuils et critères des études d'impact spécifiques aux
+zones de montagne fixés en application des articles L. 122-1 à L. 122-3 du code de l'environnement, ainsi que les seuils et
+critères d'enquête publique spécifiques aux zones de montagne fixés en application du chapitre III du titre II du livre Ier
+du même code ; 
+
+2° Désigner les espaces, paysages et milieux les plus remarquables du patrimoine naturel et culturel montagnard, notamment
+les gorges, grottes, glaciers, lacs, tourbières, marais, lieux de pratique de l'alpinisme, de l'escalade et du canoë-kayak
+ainsi que les cours d'eau de première catégorie, au sens du 10° de l'article L. 436-5 dudit code, et leurs abords, et définir
+les modalités de leur préservation ; 
+
+3° Préciser, en fonction des particularités de tout ou partie de chaque massif, les modalités d'application des articles L.
+122-5 à L. 122-11 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°85-30 du 9 janvier 1985 - art. 7
+	  - Code de l'urbanisme - art. L122-11 (V)
+	  - Code de l'urbanisme - art. L122-5 (V)
+	  - Code de l'environnement - art. L122-1
+	  - Code de l'environnement - art. L122-3
+
+	**Créé par**:
+
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 71 (V)
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L333-2 (VD)
+	  - Code de l'urbanisme - art. L104-1 (VD)
+	  - Code de l'urbanisme - art. L143-25 (VD)
+	  - Code de l'urbanisme - art. L153-25 (VD)
+	  - Code de l'urbanisme - art. L480-13 (M)
+
+
+###### Article L122-27
+
+Pour l'élaboration des propositions de prescriptions particulières de  massif, les comités de massif peuvent recourir
+gratuitement, en tant que  de besoin, aux services techniques de l'Etat ainsi qu'aux conseils  d'architecture, d'urbanisme et
+de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 71 (V)
 
 
 #### Chapitre III : Dispositions particulières à l'Ile-de-France
@@ -8701,6 +8703,12 @@ démographiques, notamment au regard du vieillissement de la population et des b
 économique, d'aménagement de l'espace, d'environnement, notamment en matière de biodiversité, d'agriculture, de préservation
 du potentiel agronomique, d'équilibre social de l'habitat, de transports, d'équipements et de services. 
 
+En zone de montagne, ce diagnostic est établi également au regard des besoins en matière de réhabilitation de l'immobilier de
+loisir et d'unités touristiques nouvelles structurantes. Il prend en compte la localisation des structures et équipements
+touristiques existants, les besoins globaux en matière d'immobilier de loisir, la maîtrise des flux de personnes, les
+objectifs de consommation économe de l'espace et de préservation de l'environnement, des paysages et du patrimoine
+architectural ainsi que les objectifs de protection contre les risques naturels. 
+
 Il identifie, en prenant en compte la qualité des paysages et du patrimoine architectural, les espaces dans lesquels les
 plans locaux d'urbanisme doivent analyser les capacités de densification et de mutation en application de l'article L.
 151-4. 
@@ -8718,23 +8726,15 @@ compatible ou qu'il prend en compte.
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
-
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
-
 	**Modifié par**:
 
-	  - Loi n°2015-1776 du 28 décembre 2015 - art. 19
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L122-1-2 (M)
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 71 (V)
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L131-1 (VD)
+	  - Code de l'urbanisme - art. L131-1
 	  - Code de l'urbanisme - art. L131-2 (V)
-	  - Code de l'urbanisme - art. L151-4 (VD)
+	  - Code de l'urbanisme - art. L151-4
 
 	**Cité par**:
 
@@ -9286,12 +9286,9 @@ performances environnementales et énergétiques renforcées.
 
 ###### Article L141-23
 
-En zone de montagne, le document d'orientation et d'objectifs définit : 
-
-1° La localisation, la consistance et la capacité globale d'accueil et d'équipement des unités touristiques nouvelles
-mentionnées au 1° de l'article L. 122-19 ; 
-
-2° Les principes d'implantation et la nature des unités touristiques nouvelles mentionnées au 2° de l'article L. 122-19.
+En zone de montagne, le document d'orientation et d'objectifs définit la  localisation, la nature et la capacité globale
+d'accueil et  d'équipement, notamment en matière de logement des salariés, y compris  les travailleurs saisonniers, des
+unités touristiques nouvelles  structurantes.
 
 **Liens relatifs à cet article**
 
@@ -9299,23 +9296,15 @@ mentionnées au 1° de l'article L. 122-19 ;
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L122-1-10 (VT)
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 71 (V)
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. L122-17 (VD)
 	  - Code de l'urbanisme - art. L122-18 (VD)
 	  - Code de l'urbanisme - art. L122-20 (VD)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L122-19 (VD)
 
 
 ##### Sous-section 11 : Dispositions valant schéma de mise en valeur de la mer
@@ -10411,13 +10400,8 @@ limitrophes ;
 4° A la commission prévue à l'article L. 112-1-1 du code rural et de la pêche maritime, lorsqu'il a pour conséquence une
 réduction des surfaces des espaces agricoles, naturels ou forestiers ; 
 
-5° Lorsqu'il prévoit la création d'une ou plusieurs unités touristiques nouvelles : 
-
-a) A la commission spécialisée du comité de massif, lorsqu'une au moins des unités touristiques nouvelles envisagées répond
-aux conditions prévues par le 1° de l'article L. 122-19 ; 
-
-b) A la commission départementale de la nature, des paysages et des sites lorsque les unités touristiques nouvelles prévues
-répondent aux conditions prévues par le 2° du même article ; 
+5° Au comité de massif lorsqu'il est totalement ou partiellement situé en zone de montagne ainsi que, lorsqu'il prévoit la
+création d'une ou plusieurs unités touristiques nouvelles structurantes, à la commission spécialisée compétente du comité ; 
 
 6° A sa demande, au représentant de l'ensemble des organismes mentionnés à l'article L. 411-2 du code de la construction et
 de l'habitation propriétaires ou gestionnaires de logements situés sur le territoire de l'établissement public de coopération
@@ -10425,31 +10409,27 @@ intercommunale compétent ou la commune, si ces organismes en ont désigné un.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+
 	**Cité par**:
 
 	  - Loi n°85-30 du 9 janvier 1985 - art. 7 (V)
 	  - Code de l'urbanisme - art. L143-33 (VD)
 	  - Code de l'urbanisme - art. R143-4 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
-
-	**Créé par**:
-
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 71 (V)
 
 	**Cite**:
 
-	  - Code rural et de la pêche maritime - art. L112-1-1 (M)
-	  - Code de l'urbanisme - art. L122-19 (VD)
-	  - Code de l'urbanisme - art. L132-7 (VD)
-	  - Code de l'urbanisme - art. L143-16 (VD)
-	  - Code de la construction et de l'habitation. - art. L411-2 (M)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L122-8, alinéas 1 à 9 (VT)
+	  - Code rural - art. L112-1-1
+	  - Code de l'urbanisme - art. L132-7
+	  - Code de l'urbanisme - art. L132-8 (V)
+	  - Code de l'urbanisme - art. L143-16
+	  - Code de la construction et de l'habitation. - art. L411-2
 
 
 ###### Article L143-21
@@ -10593,7 +10573,7 @@ l'établissement public prévu à l'article L. 143-16 les modifications qu'il es
 dispositions de celui-ci : 
 
 1° Ne sont pas compatibles avec les directives territoriales d'aménagement maintenues en vigueur après la date du 13 juillet
-2010 ou avec les prescriptions particulières prévues à l'article L. 122-24 et, en l'absence de celles-ci, avec les
+2010 ou avec les prescriptions particulières prévues à l'article L. 122-26 et, en l'absence de celles-ci, avec les
 dispositions particulières aux zones de montagne et au littoral mentionnées à l'article L. 131-1 ; 
 
 2° Compromettent gravement les principes énoncés à l'article L. 101-2, sont contraires à un projet d'intérêt général,
@@ -10610,62 +10590,16 @@ administrative compétente de l'Etat des modifications demandées.
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
-
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L101-2 (VD)
-	  - Code de l'urbanisme - art. L122-24 (VD)
-	  - Code de l'urbanisme - art. L131-1 (VD)
-	  - Code de l'urbanisme - art. L143-16 (VD)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L122-11-1, alinéas 2 à 5 (VT)
-
-
-###### Article L143-26
-
-Lorsqu'un projet de schéma de cohérence territoriale comporte des dispositions relatives à la création d'une ou plusieurs
-unités touristiques nouvelles, il est exécutoire trois mois après sa transmission à l'autorité administrative compétente de
-l'Etat. 
-
-Dans les cas visés au 1° de l'article L. 122-19, l'autorité administrative compétente de l'Etat transmet sans délai les
-dispositions du schéma qui prévoient la création d'une unité touristique nouvelle à l'autorité administrative compétente de
-l'Etat. Si ce dernier estime nécessaire d'apporter des modifications à ces dispositions lorsqu'elles ne sont pas compatibles
-avec les prescriptions particulières de massif prévues à l'article L. 122-24 ou compromettent gravement la mise en œuvre de
-projets d'intérêt général, ces modifications et celles qui en résultent pour d'autres dispositions du schéma de cohérence
-territoriale sont notifiées par l'autorité administrative compétente de l'Etat à l'établissement public chargé de
-l'élaboration du schéma dans le délai de trois mois visé au premier alinéa.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-30 du 9 janvier 1985 - art. 74 (VT)
-
-	**Codifié par**:
-
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
-
-	**Créé par**:
-
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Loi n°2016-1888 du 28 décembre 2016 - art. 71 (V)
 
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. L122-18 (VD)
-
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L122-19
-	  - Code de l'urbanisme - art. L122-24
+	  - Code de l'urbanisme - art. L101-2
+	  - Code de l'urbanisme - art. L122-26
+	  - Code de l'urbanisme - art. L131-1
+	  - Code de l'urbanisme - art. L143-16
 
 
 ###### Article L143-27
@@ -10700,8 +10634,9 @@ d'urbanisme et aux communes compris dans son périmètre.
 Six ans au plus après la délibération portant approbation du schéma de cohérence territoriale, la dernière délibération
 portant révision complète de ce schéma, ou la délibération ayant décidé son maintien en vigueur en application du présent
 article, l'établissement public prévu à l'article L. 143-16 procède à une analyse des résultats de l'application du schéma,
-notamment en matière d'environnement, de transports et de déplacements, de maîtrise de la consommation de l'espace et
-d'implantations commerciales et délibère sur son maintien en vigueur ou sur sa révision partielle ou complète. 
+notamment en matière d'environnement, de transports et de déplacements, de maîtrise de la consommation de l'espace,
+d'implantations commerciales et, en zone de montagne, de  réhabilitation de l'immobilier de loisir et d'unités touristiques
+nouvelles structurantes,  et délibère sur son maintien en vigueur ou sur sa révision partielle ou complète. 
 
 Cette analyse est communiquée au public et à l'autorité administrative compétente en matière d'environnement, mentionnée à
 l'article L. 104-6. 
@@ -10714,18 +10649,14 @@ A défaut d'une telle délibération, le schéma de cohérence territoriale est 
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 71 (V)
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L104-6 (VD)
-	  - Code de l'urbanisme - art. L143-16 (VD)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L122-13 (VT)
+	  - Code de l'urbanisme - art. L104-6
+	  - Code de l'urbanisme - art. L143-16
 
 	**Cité par**:
 
@@ -11571,6 +11502,9 @@ matière de développement économique, de surfaces et de développement agricol
 l'espace, d'environnement, notamment en matière de biodiversité, d'équilibre social de l'habitat, de transports, de commerce,
 d'équipements et de services.
 
+En zone de montagne, ce diagnostic est établi également au regard des besoins en matière de réhabilitation de l'immobilier de
+loisir et d'unités touristiques nouvelles.
+
 Il analyse la consommation d'espaces naturels, agricoles et forestiers au cours des dix années précédant l'approbation du
 plan ou depuis la dernière révision du document d'urbanisme et la capacité de densification et de mutation de l'ensemble des
 espaces bâtis, en tenant compte des formes urbaines et architecturales. Il expose les dispositions qui favorisent la
@@ -11588,13 +11522,9 @@ vélos des parcs ouverts au public et des possibilités de mutualisation de ces 
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L123-1-2 (VT)
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 71 (V)
 
 	**Cité par**:
 
@@ -11648,7 +11578,8 @@ environnementales, lorsqu'il existe une ou plusieurs communes nouvelles.
 ###### Article L151-6
 
 Les orientations d'aménagement et de programmation comprennent, en cohérence avec le projet d'aménagement et de développement
-durables, des dispositions portant sur l'aménagement, l'habitat, les transports et les déplacements. 
+durables, des dispositions portant sur l'aménagement, l'habitat, les transports, les déplacements et, en zone de montagne,
+sur les unités touristiques nouvelles.  
 
 En l'absence de schéma de cohérence territoriale, les orientations d'aménagement et de programmation d'un plan local
 d'urbanisme élaboré par un établissement public de coopération intercommunale comprennent les dispositions relatives à
@@ -11660,9 +11591,9 @@ l'équipement commercial et artisanal mentionnées aux articles L. 141-16 et L. 
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 71 (V)
 
 	**Cité par**:
 
@@ -11670,18 +11601,14 @@ l'équipement commercial et artisanal mentionnées aux articles L. 141-16 et L. 
 	  - Code de l'urbanisme - art. L122-21 (VD)
 	  - Code de l'urbanisme - art. R151-2 (V)
 
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L123-1-4, alinéas 1 et 9 (VT)
-
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L141-16 (VD)
+	  - Code de l'urbanisme - art. L141-16
 
 
 ###### Article L151-7
 
-Les orientations d'aménagement et de programmation peuvent notamment : 
+I. - Les orientations d'aménagement et de programmation peuvent notamment : 
 
 1° Définir les actions et opérations nécessaires pour mettre en valeur l'environnement, notamment les continuités
 écologiques, les paysages, les entrées de villes et le patrimoine, lutter contre l'insalubrité, permettre le renouvellement
@@ -11700,35 +11627,31 @@ réhabilitation un pourcentage de ces opérations est destiné à la réalisatio
 6° Adapter la délimitation des périmètres, en fonction de la qualité de la desserte, où s'applique le plafonnement à
 proximité des transports prévu aux articles L. 151-35 et L. 151-36.
 
+II. - En zone de montagne, ces orientations définissent la localisation, la nature et la capacité globale d'accueil et
+d'équipement des unités touristiques nouvelles locales.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
-
-	**Liens**:
-
-	  - RECTIFICATION: Ordonnance n°2015-1174 du 23 septembre 2015 - art., v. init.
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 71 (V)
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. L113-30 (V)
 	  - Code de l'urbanisme - art. L122-18 (VD)
 	  - Code de l'urbanisme - art. L122-21 (VD)
+	  - Code de l'urbanisme - art. L153-16 (VD)
 	  - Code de l'urbanisme - art. R313-4 (V)
 	  - Code de l'urbanisme - art. R313-5 (M)
 
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L123-1-4, alinéas 2 à 6 (VT)
-
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L151-35 (VD)
+	  - Code de l'urbanisme - art. L151-35
 
 
 ##### Section 4 : Le règlement
@@ -13922,7 +13845,11 @@ Le projet de plan arrêté est soumis pour avis :
 approuvé et a pour conséquence une réduction des surfaces des espaces naturels, agricoles et forestiers ; 
 
 3° Au comité régional de l'habitat et de l'hébergement prévu à l'article L. 364-1 du code de la construction et de
-l'habitation lorsque le projet de plan local d'urbanisme tient lieu de programme local de l'habitat.
+l'habitation lorsque le projet de plan local d'urbanisme tient lieu de programme local de l'habitat ; 
+
+4° A la formation spécialisée de la commission départementale de la nature, des paysages et des sites, lorsque le projet de
+plan local d'urbanisme prévoit la réalisation d'une ou plusieurs unités touristiques nouvelles locales dans les conditions
+prévues au II de l'article L. 151-7 du présent code. L'avis porte uniquement sur les unités touristiques locales.
 
 **Liens relatifs à cet article**
 
@@ -13930,21 +13857,17 @@ l'habitation lorsque le projet de plan local d'urbanisme tient lieu de programme
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 71 (V)
 
 	**Cite**:
 
-	  - Code rural et de la pêche maritime - art. L112-1-1 (M)
-	  - Code de l'urbanisme - art. L132-7 (VD)
-	  - Code de la construction et de l'habitation. - art. L364-1 (M)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L123-18, alinéa 1, ecqc L. 153-19  (VT)
-	  - Code de l'urbanisme - art. L123-6, alinéa 1, phrase 3  (VT)
-	  - Code de l'urbanisme - art. L123-9, alinéa 2, phrase 2 (en partie) et phrase 3 (VT)
+	  - Code rural - art. L112-1-1
+	  - Code de l'urbanisme - art. L132-7
+	  - Code de l'urbanisme - art. L132-9 (V)
+	  - Code de l'urbanisme - art. L151-7 (VD)
+	  - Code de la construction et de l'habitation. - art. L364-1
 
 	**Cité par**:
 
@@ -14190,7 +14113,7 @@ lettre motivée à l'établissement public de coopération intercommunale ou à 
 nécessaire d'apporter au plan lorsque les dispositions de celui-ci : 
 
 1° Ne sont pas compatibles avec les directives territoriales d'aménagement maintenues en vigueur après la date du 13 juillet
-2010 ou avec les prescriptions particulières de massif prévues à l'article L. 122-24 et, en l'absence de celles-ci, avec les
+2010 ou avec les prescriptions particulières de massif prévues à l'article L. 122-26 et, en l'absence de celles-ci, avec les
 dispositions particulières aux zones de montagne et au littoral mentionnées à l'article L. 131-1 ; 
 
 2° Compromettent gravement les principes énoncés à l'article L. 101-2, sont contraires à un projet d'intérêt général,
@@ -14221,21 +14144,17 @@ administrative compétente de l'Etat des modifications demandées.
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 71 (V)
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L101-2 (VD)
-	  - Code de l'urbanisme - art. L122-24 (VD)
-	  - Code de l'urbanisme - art. L123-25 (VD)
-	  - Code de l'urbanisme - art. L131-1 (VD)
-	  - Code de l'urbanisme - art. L153-24 (VD)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L123-12, alinéas 3 à 5 et 7 à 12  (VT)
+	  - Code de l'urbanisme - art. L101-2
+	  - Code de l'urbanisme - art. L122-26
+	  - Code de l'urbanisme - art. L123-25
+	  - Code de l'urbanisme - art. L131-1
+	  - Code de l'urbanisme - art. L153-24
 
 	**Cité par**:
 
@@ -14289,6 +14208,9 @@ l'organe délibérant de l'établissement public de coopération intercommunale 
 résultats de l'application du plan, au regard des objectifs visés à l'article L. 101-2 et, le cas échéant, aux articles L.
 1214-1 et L. 1214-2 du code des transports. 
 
+L'analyse des résultats porte également, le cas échéant, sur les unités touristiques nouvelles mentionnées à l'article L.
+122-16 du présent code. 
+
 L'analyse des résultats donne lieu à une délibération de ce même organe délibérant ou du conseil municipal sur l'opportunité
 de réviser ce plan.
 
@@ -14298,19 +14220,16 @@ de réviser ce plan.
 
 	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art.
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 71 (V)
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L101-2 (VD)
-	  - Code des transports - art. L1214-1 (M)
-	  - Code des transports - art. L1214-2 (M)
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L123-12-1, alinéa 1 phrase 1 et alinéa 2  (VT)
+	  - Code de l'urbanisme - art. L101-2
+	  - Code de l'urbanisme - art. L122-16 (VD)
+	  - Code des transports - art. L1214-1
+	  - Code des transports - art. L1214-2
 
 	**Cité par**:
 
@@ -31275,11 +31194,19 @@ Elle est délivrée après avis conforme du représentant de l'Etat dans le dép
 et des aménagements de remontée. Le représentant de l'Etat dans le département arrête les réserves et les prescriptions
 auxquelles peut être subordonnée l'autorisation d'exécution des travaux.
 
+L'autorisation d'exécution des travaux est assortie d'une obligation de  démontage des remontées mécaniques et de leurs
+constructions annexes,  ainsi que de remise en état des sites. Ce démontage et cette remise en  état doivent intervenir dans
+un délai de trois ans à compter de la mise à  l'arrêt définitive de ces remontées mécaniques.
+
 **Nota:**
 
 
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 71 (V)
 
 	**Cité par**:
 
@@ -31288,10 +31215,6 @@ auxquelles peut être subordonnée l'autorisation d'exécution des travaux.
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973)
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
 
 
 ###### Article L472-3
@@ -31322,15 +31245,14 @@ La mise en exploitation des remontées mécaniques est autorisée par l'autorit�
 après avis conforme du représentant de l'Etat dans le département au titre de la sécurité des installations et des
 aménagements de remontée.
 
+Lorsque des remontées mécaniques n'ont pas été exploitées durant cinq  années consécutives, le représentant de l'Etat dans le
+département met  en demeure l'exploitant de procéder à leur mise à l'arrêt définitive.
+
 **Nota:**
 
 
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
 
 	**Cité par**:
 
@@ -31341,6 +31263,10 @@ aménagements de remontée.
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973)
+
+	**Modifié par**:
+
+	  - Loi n°2016-1888 du 28 décembre 2016 - art. 71 (V)
 
 
 ###### Article L472-5
