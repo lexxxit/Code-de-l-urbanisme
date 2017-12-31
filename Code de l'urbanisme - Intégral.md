@@ -1,5 +1,5 @@
 # Code de l'urbanisme  
-Version Consolidée au 2017-12-29
+Version Consolidée au 2018-01-01
 
 # Partie législative
 
@@ -25043,18 +25043,13 @@ national.
 	  - Code général des impôts, CGI. - art. 1042 (V)
 
 
-#### Chapitre VIII : Etablissement public de gestion du quartier d'affaires de La Défense
+#### Chapitre VIII : Etablissement public Paris La Défense
 
 ###### Article L328-1
 
-Il est créé un établissement public local à caractère industriel et commercial, dénommé Etablissement public de gestion du
-quartier d'affaires de La Défense.
+“ Paris La Défense ” est un établissement public local à caractère industriel et commercial.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2007-254 du 27 février 2007 - art. 2 () JORF 28 février 2007
 
 	**Cité par**:
 
@@ -25066,6 +25061,10 @@ quartier d'affaires de La Défense.
 	  - Code général des collectivités territoriales - art. L5219-11 (V)
 	  - Code général des collectivités territoriales - art. L5219-5 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2017-717 du 3 mai 2017 - art. 1
+
 	**Codifié par**:
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
@@ -25073,42 +25072,46 @@ quartier d'affaires de La Défense.
 
 ###### Article L328-2
 
-Dans le respect des compétences dévolues à l'Etablissement public d'aménagement de La Défense Seine Arche, l'Etablissement
-public de gestion du quartier d'affaires de La Défense est compétent pour gérer les ouvrages et espaces publics ainsi que les
-services d'intérêt général situés dans le périmètre de l'opération d'intérêt national mentionnée à l'article L. 123-24.
+Dans la limite du territoire couvert par les opérations d'intérêt national mentionnées aux 2° et 6° de l'article R. 102-3,
+Paris La Défense a pour mission principale de conduire toute action de nature à favoriser l'aménagement, le renouvellement et
+le développement urbains et durables dans un périmètre couvrant une partie des communes de Courbevoie, La Garenne-Colombes,
+Nanterre et Puteaux et délimité par décret en Conseil d'Etat pris après avis de ces communes. 
 
-Cette gestion comprend l'exploitation, l'entretien et la maintenance des ouvrages, espaces publics et services d'intérêt
-général ainsi que l'animation du site.
+A cet effet, il est compétent pour y réaliser : 
 
-Les ouvrages et espaces publics ainsi que les services d'intérêt général mentionnés au premier alinéa sont ceux :
+1° Toutes opérations foncières ou immobilières nécessaires à ses opérations ; 
 
-– lui appartenant ;
+2° Toutes actions ou opérations d'aménagement au sens du présent code, pour son compte ou pour celui de collectivités
+territoriales, d'établissements publics ou de personnes publiques ou privées ; 
 
-– appartenant à l'Etablissement public d'aménagement de La Défense Seine Arche sauf décision contraire de ce dernier ;
+3° Tous ouvrages de bâtiment ou d'infrastructure, en qualité de mandataire au sens de l'article 3 de la loi du 12 juillet
+1985 relative à la maîtrise d'ouvrage publique et ses rapports avec la maîtrise d'œuvre privée. 
 
-– appartenant aux communes de Courbevoie et de Puteaux ou à l'Etat, dès lors qu'ils en font la demande.
-
-L'établissement public exerce ses compétences de gestion dans le respect du pouvoir de police des maires des communes
-concernées.
+A titre accessoire et sous réserve des compétences dévolues à d'autres personnes publiques, il peut enfin poursuivre, pour
+son compte, ou par voie de convention passée avec eux, pour celui de l'Etat, des collectivités territoriales ou de leurs
+groupements, des missions présentant un caractère complémentaire et un intérêt directement utile à sa mission principale
+d'aménagement, de renouvellement et de développement urbains en vue de favoriser le développement durable du territoire
+mentionné au premier alinéa.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 5
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L123-24 (VD)
+	  - Ordonnance n°2017-717 du 3 mai 2017 - art. 1
 
 	**Cité par**:
 
+	  - Code de l'urbanisme - art. L328-16 (VD)
 	  - Code de l'urbanisme - art. L328-3 (V)
 	  - Code de l'urbanisme - art. L328-4 (VD)
 	  - Code de l'urbanisme - art. L328-5 (VD)
 	  - Code de l'urbanisme - art. L328-6 (V)
 	  - Code de l'urbanisme - art. L328-8 (VD)
 	  - Code de l'urbanisme - art. R328-7 (VD)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. R102-3
 
 	**Codifié par**:
 
@@ -25117,42 +25120,46 @@ concernées.
 
 ###### Article L328-3
 
-Pour l'exercice des missions mentionnées à l'article L. 328-2, les ouvrages, espaces publics et services d'intérêt général
-visés audit article sont mis à disposition de l'établissement public par l'Etablissement public d'aménagement de La Défense
-Seine Arche, par les communes concernées ou par l'Etat.
+Dans la limite du territoire couvert par l'opération d'intérêt national mentionnée au 2° de l'article R. 102-3, Paris La
+Défense a également pour mission principale de gérer les ouvrages et espaces publics ainsi que les services d'intérêt général
+sur un périmètre couvrant une partie des communes de Courbevoie et Puteaux, et délimité par décret en Conseil d'Etat pris
+après avis de ces communes. 
 
-Ces mises à disposition ont lieu à titre gratuit et ne donnent lieu à aucun versement ou honoraires, ni à aucune indemnité ou
-perception de droit ou taxe. 
+Cette gestion comprend l'exploitation, l'entretien et la maintenance, y compris leur remise en état ou leur renouvellement,
+des ouvrages, espaces publics et services d'intérêt général. La gestion comprend également l'animation et la promotion du
+site dont le périmètre est mentionné au premier alinéa, en vue notamment de favoriser son rayonnement international auprès
+des acteurs économiques. 
 
-La liste, la consistance et la situation juridique des ouvrages, espaces publics et services d'intérêt général mis à
-disposition de l'établissement public sont fixées par arrêté conjoint des ministres chargés du budget, de l'urbanisme et des
-collectivités territoriales, après avis de l'Etablissement public d'aménagement de La Défense Seine Arche et de
-l'Etablissement public de gestion du quartier d'affaires de La Défense qui se prononcent dans un délai de trois mois à
-compter de la notification de la liste. A défaut d'un avis dans ce délai, l'avis est réputé donné.  
+Paris La Défense est habilité à gérer les ouvrages, espaces publics et services d'intérêt général mentionnés au premier
+alinéa lui appartenant ou, dans le cadre de conventions passées avec eux, ceux appartenant à l'Etat ou aux collectivités
+territoriales et à leurs groupements mentionnés au premier alinéa du I de l'article L. 328-8. 
 
-L'établissement public bénéficiaire de la mise à disposition assume l'ensemble des obligations du propriétaire et possède les
-pouvoirs de gestion définis à l'article L. 1321-2 du code général des collectivités territoriales. Il ne peut ni changer
-l'affectation des biens qui sont mis à sa disposition pour l'exercice de sa mission, ni les aliéner.
+Les ouvrages, espaces publics et services d'intérêt général qui sont confiés par l'Etat ou par les collectivités
+territoriales et leurs groupements à Paris La Défense sont mis à sa disposition. Paris La Défense assume à leur égard
+l'ensemble des obligations du propriétaire et possède les pouvoirs de gestion définis aux articles L. 1321-2 et L. 1321-3 du
+code général des collectivités territoriales. 
 
-Lorsque sa durée d'occupation excède cinq ans, un titre d'occupation constitutif de droits réels sur les biens appartenant à
-l'Etablissement public d'aménagement de la Défense Seine Arche ne peut être délivré par l'Etablissement public de gestion du
-quartier d'affaires de La Défense qu'avec l'accord de l'Etablissement public d'aménagement de La Défense Seine Arche, en vue
-d'une utilisation compatible avec les missions confiées aux deux établissements.
+A titre accessoire et sous réserve des compétences dévolues à d'autres personnes publiques, Paris La Défense peut poursuivre,
+pour son compte ou par voie de convention passée avec eux, pour celui de l'Etat, des collectivités territoriales ou de leurs
+groupements, des missions présentant un caractère complémentaire et un intérêt directement utile à sa mission de gestion.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2014-58 du 27 janvier 2014 - art. 22
+	  - Ordonnance n°2017-717 du 3 mai 2017 - art. 1
 
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. L1321-2
-	  - Code de l'urbanisme - art. L328-2
+	  - Code général des collectivités territoriales - art. L1321-3
+	  - Code de l'urbanisme - art. L328-8
+	  - Code de l'urbanisme - art. R102-3
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. L328-10 (VD)
+	  - Code de l'urbanisme - art. L328-16 (VD)
 	  - Code de l'urbanisme - art. L328-4 (VD)
 	  - Code de l'urbanisme - art. L328-5 (VD)
 
@@ -25163,10 +25170,78 @@ d'une utilisation compatible avec les missions confiées aux deux établissement
 
 ###### Article L328-4
 
-Pour l'exercice de ses missions, l'Etablissement public d'aménagement de La Défense Seine Arche peut demander à tout moment
-la fin de la mise à disposition de tout ouvrage ou espace public mentionné à l'article L. 328-2 qui a été mis à la
-disposition de l'Etablissement public de gestion du quartier d'affaires de La Défense. Une compensation financière est
-instituée lorsque cette opération affecte les ressources de l'établissement public de gestion.
+Dans la limite du territoire couvert par l'opération d'intérêt national mentionnée au 2° de l'article R. 102-3, Paris La
+Défense exerce les missions prévues aux articles L. 328-2 et L. 328-3 à titre exclusif sur un périmètre couvrant une partie
+des communes de Courbevoie et Puteaux, et délimité par décret en Conseil d'Etat pris après avis de ces communes.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 24 (V)
+	  - Code de l'urbanisme - art. L328-10 (V)
+	  - Code de l'urbanisme - art. L328-16 (VD)
+	  - Code de l'urbanisme - art. R328-11 (VD)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2017-717 du 3 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L328-2
+	  - Code de l'urbanisme - art. L328-3
+	  - Code de l'urbanisme - art. R102-3
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L328-5
+
+Paris La Défense peut exercer les missions définies aux articles L. 328-2 et L. 328-3 en dehors des périmètres mentionnés à
+ces articles, sous réserve qu'il s'agisse d'interventions en continuité avec des opérations en cours dans ces périmètres.
+
+Ces interventions sont soumises à autorisation du ministre chargé de l'urbanisme, après avis conforme de l'établissement
+public territorial et du conseil municipal de la ou des communes concernées par cette intervention hors périmètre.
+
+Lorsque Paris La Défense intervient dans les conditions prévues au premier alinéa, un représentant de l'établissement public
+territorial et un représentant de chaque commune concernée non membre de Paris La Défense assistent au conseil
+d'administration avec voix consultative à chaque fois que des décisions relatives à cette intervention lui sont soumises.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2017-717 du 3 mai 2017 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L328-16 (VD)
+	  - Code de l'urbanisme - art. R328-9 (VD)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L328-2
+	  - Code de l'urbanisme - art. L328-3
+
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
+
+
+###### Article L328-6
+
+Paris La Défense est habilité à acquérir des participations dans des sociétés publiques locales d'aménagement telles que
+définies par l'article L. 327-1 dont l'objet concourt directement à la réalisation de ses missions.
+
+Lorsqu'une telle société exerce son activité sur le territoire d'une seule commune, l'un au moins des représentants de cette
+commune au conseil d'administration de Paris La Défense est membre du conseil d'administration ou de surveillance de cette
+société.
+
+Paris La Défense est assimilé à un groupement de collectivités territoriales au sens et pour l'application des dispositions
+régissant les sociétés mentionnées au premier alinéa.
 
 **Liens relatifs à cet article**
 
@@ -25176,115 +25251,23 @@ instituée lorsque cette opération affecte les ressources de l'établissement p
 
 	**Modifié par**:
 
-	  - Loi n°2014-58 du 27 janvier 2014 - art. 22
-
-	**Cité par**:
-
-	  - Loi n°2014-58 du 27 janvier 2014 - art. 24 (V)
-	  - Code de l'urbanisme - art. L328-10 (V)
-	  - Code de l'urbanisme - art. R328-11 (VD)
+	  - Ordonnance n°2017-717 du 3 mai 2017 - art. 1
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L328-2
-
-
-###### Article L328-5
-
-L'établissement public est administré par un conseil d'administration composé des représentants des communes de Courbevoie et
-de Puteaux et du département des Hauts-de-Seine. 
-
-Le département dispose de la majorité des sièges. Les autres sièges sont répartis à parts égales entre les deux communes. En
-cas de création d'un établissement public de coopération intercommunale à fiscalité propre comprenant les communes de
-Courbevoie et de Puteaux, compétent en matière " d'aménagement de l'espace communautaire ", cet établissement peut être
-autorisé, par délibérations concordantes du conseil communautaire et des conseils municipaux des deux communes, à siéger en
-lieu et place de celles-ci au sein du conseil d'administration de l'établissement public créé par l'article L. 328-1. 
-
-Le conseil d'administration élit son président en son sein. 
-
-Le conseil d'administration règle par ses délibérations les affaires de l'établissement. A cet effet, notamment :
-
-- il détermine l'orientation de la politique à suivre ;
-
-- il vote l'état prévisionnel des dépenses et des recettes, autorise les emprunts, approuve les comptes et se prononce sur
-l'affectation du résultat ;
-
-- il nomme le directeur sur proposition du président et met fin à ses fonctions dans les mêmes conditions. 
-
-Les statuts de l'établissement sont fixés et modifiés par décret en Conseil d'Etat après avis du département des Hauts-de-
-Seine et des communes de Courbevoie et de Puteaux. Cet avis est réputé donné, à défaut de réponse, dans un délai de deux mois
-à compter de la saisine. Ces statuts prévoient les conditions dans lesquelles un comité consultatif représentant les
-personnes physiques et morales utilisatrices régulières des équipements et espaces publics gérés par l'établissement est
-consulté, à un rythme fixé par le conseil d'administration et au moins annuel, sur les orientations retenues par
-l'établissement public pour l'exercice de ses compétences.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L328-1 (V)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R328-9 (VD)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
-	**Créé par**:
-
-	  - Loi n°2007-254 du 27 février 2007 - art. 2 () JORF 28 février 2007
-
-
-###### Article L328-6
-
-Les charges résultant pour les collectivités publiques de l'exercice des compétences mentionnées à l'article L. 328-2 sont
-réparties entre les membres de l'établissement public dans les conditions fixées par ses statuts. Ces contributions ont un
-caractère obligatoire. 
-
-Une majorité qualifiée des deux tiers des administrateurs présents ou représentés est requise pour modifier la répartition de
-ces contributions entre les membres.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2007-254 du 27 février 2007 - art. 2 () JORF 28 février 2007
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L328-2 (V)
+	  - Code de l'urbanisme - art. L327-1
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R328-7 (VD)
 
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
-
 
 ###### Article L328-7
 
-L'établissement public a pour ressources :
+Paris La Défense peut agir par voie d'expropriation et exercer les droits de préemption et de priorité définis dans le
+présent code dans les cas et conditions prévus par le même code.
 
-1° Les concours financiers des collectivités territoriales qui en sont membres ;
-
-2° Les produits du domaine dont il assure la gestion ou qu'il a reçu en propriété ;
-
-3° Les sommes perçues en contrepartie de services rendus ;
-
-4° Le produit des dons et legs ;
-
-5° Les versements au titre du Fonds de compensation pour la taxe sur la valeur ajoutée ;
-
-6° Les subventions de l'Union européenne, de l'Etat, d'établissements publics, des collectivités territoriales et de leurs
-groupements ;
-
-7° Le produit des emprunts qu'il est autorisé à contracter ;
-
-8° Les produits de cession du domaine dont il est propriétaire.
+L'établissement peut constituer des réserves foncières au sens du présent code et dans les conditions que ce dernier prévoit.
 
 **Liens relatifs à cet article**
 
@@ -25292,28 +25275,66 @@ groupements ;
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-254 du 27 février 2007 - art. 2 () JORF 28 février 2007
+	  - Ordonnance n°2017-717 du 3 mai 2017 - art. 1
 
 
 ###### Article L328-8
 
-Le directeur de l'établissement public est ordonnateur des dépenses et des recettes. Il représente l'établissement en justice
-et dans tous les actes de la vie civile. Il passe des contrats et signe tous les actes pris au nom de l'établissement. Il
-prépare et exécute les décisions du conseil d'administration. Il recrute le personnel et a autorité sur lui. Il peut déléguer
-sa signature.
+I. – Paris La Défense est administré par un conseil d'administration composé majoritairement de représentants du département
+des Hauts-de-Seine. En outre, sont représentées les communes de Courbevoie, Nanterre, Paris et Puteaux, ainsi que la région
+d'Ile-de-France et la métropole du Grand Paris.
+
+Le conseil d'administration comprend également des personnalités qualifiées en raison de leurs compétences en matière
+d'aménagement et de développement économique nommées par l'Etat.
+
+Si dans le cadre de ses missions mentionnées à l'article L. 328-2, Paris La Défense intervient sur le territoire de la
+commune de La Garenne-Colombes, un représentant de la commune assiste au conseil d'administration avec voix consultative à
+chaque fois que des décisions relatives à cette intervention lui sont soumises.
+
+II. – Tous les représentants au conseil d'administration des collectivités territoriales et leurs groupements, mentionnés au
+premier alinéa du I, dont la collectivité ou le groupement est signataire de la convention mentionnée à l'article L. 328-10,
+disposent d'au moins un droit de vote. A défaut, ils disposent d'une voix consultative.
+
+Les droits de vote attribués aux représentants des collectivités territoriales et leurs groupements, mentionnés au premier
+alinéa du I, dont la collectivité ou le groupement est signataire de la convention mentionnée à l'article L. 328-10, sont
+majorés, aux termes de cette convention ou, à défaut, dans des conditions déterminées par décret en Conseil d'Etat, en
+considération de la part que la contribution de ces collectivités et leurs groupements représente dans l'ensemble des
+contributions mentionnées au même article.
+
+Toutefois, la majoration prévue à l'alinéa précédent ne peut conduire à remettre en cause la majorité des droits de vote dont
+disposent les représentants du département des Hauts-de-Seine sous réserve que ce dernier apporte au moins la moitié des
+contributions prévues par la convention mentionnée à l'article L. 328-10.
+
+En l'absence de notification de cette convention au ministre chargé de l'urbanisme, tous les représentants au conseil
+d'administration des collectivités territoriales et leurs groupements, mentionnés au premier alinéa du I disposent d'un droit
+de vote sans aucune majoration possible en application du deuxième alinéa du présent II.
+
+III. – Le conseil d'administration élit son président en son sein parmi les représentants mentionnés au premier alinéa du I.
+
+Il règle par ses délibérations les affaires de l'établissement. A cet effet, notamment, il approuve le document d'engagement
+mentionné à l'article L. 328-12. Il nomme le directeur général dans les conditions précisées à l'article L. 328-13 et met fin
+à ses fonctions dans les mêmes conditions.
+
+IV. – Le préfet de la région d'Ile-de-France assiste de droit aux séances du conseil d'administration. Les procès-verbaux et
+délibérations lui sont adressés. Le préfet des Hauts-de-Seine le supplée en tant que de besoin.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-254 du 27 février 2007 - art. 2 () JORF 28 février 2007
+	  - Ordonnance n°2017-717 du 3 mai 2017 - art. 1
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. L328-10 (VD)
+	  - Code de l'urbanisme - art. L328-11 (VD)
 	  - Code de l'urbanisme - art. L328-3 (VD)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L328-2
 
 	**Codifié par**:
 
@@ -25322,10 +25343,9 @@ sa signature.
 
 ###### Article L328-9
 
-Le contrôle de légalité et le contrôle budgétaire des actes et délibérations de l'établissement public sont exercés par le
-préfet des Hauts-de-Seine dans les conditions prévues par le code général des collectivités territoriales.
-
-Le comptable de l'établissement public est un comptable public nommé par le préfet des Hauts-de-Seine.
+Un conseil de développement représentant les personnes physiques et morales utilisatrices régulières des équipements et
+espaces publics gérés par l'établissement est consulté à un rythme fixé par le conseil d'administration et au moins annuel,
+sur les orientations retenues par l'établissement public pour l'exercice de ses compétences.
 
 **Liens relatifs à cet article**
 
@@ -25333,21 +25353,39 @@ Le comptable de l'établissement public est un comptable public nommé par le pr
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-254 du 27 février 2007 - art. 2 () JORF 28 février 2007
+	  - Ordonnance n°2017-717 du 3 mai 2017 - art. 1
 
 
 ###### Article L328-10
 
-Un décret en Conseil d'Etat précise les conditions d'application du présent chapitre. Il fixe, en particulier, les modalités
-des mises à disposition mentionnées aux articles L. 328-3 et L. 328-4.
+I. – Les collectivités territoriales et leurs groupements mentionnés au premier alinéa du I de l'article L. 328-8 peuvent
+contribuer aux charges et dépenses d'investissement afférentes aux missions mentionnées à l'article L. 328-3.
+
+Ces contributions, qui présentent alors un caractère obligatoire, sont établies par une convention conclue pour une durée de
+dix ans entre les collectivités territoriales et leurs groupements et notifiée au ministre chargé de l'urbanisme.
+
+Les engagements pris dans le cadre de cette convention garantissent le financement du document d'engagement et du programme
+pluriannuel d'investissement prévus à l'article L. 328-11. Ils peuvent être révisés à cet effet.
+
+La convention peut définir la majoration des droits de vote prévue au II de l'article L. 328-8.
+
+II. – En l'absence de notification de la convention au ministre chargé de l'urbanisme, les charges et dépenses
+d'investissement résultant pour les collectivités territoriales et leurs groupements de l'exercice des compétences
+mentionnées à l'article L. 328-3 sont réparties entre le département des Hauts-de-Seine et les communes de Courbevoie et
+Puteaux dans des conditions fixées par décret en Conseil d'Etat. Ces contributions présentent un caractère obligatoire.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2017-717 du 3 mai 2017 - art. 1
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. L328-11 (VD)
+	  - Code de l'urbanisme - art. L328-15 (VD)
 	  - Code de l'urbanisme - art. L328-8 (VD)
 
 	**Cite**:
@@ -25358,9 +25396,156 @@ des mises à disposition mentionnées aux articles L. 328-3 et L. 328-4.
 
 	  - Décret n°73-1022 1973-11-08 JORF 13 novembre 1973
 
-	**Modifié par**:
 
-	  - Loi n°2014-58 du 27 janvier 2014 - art. 22
+###### Article L328-11
+
+Paris La Défense élabore et approuve un document d'engagement qui définit les engagements à dix ans de l'établissement
+public, notamment au titre des investissements de mise aux normes nécessaires, ainsi que les objectifs, la stratégie et les
+moyens qui seront mis en œuvre par l'établissement, les collectivités territoriales et leurs groupements, pour les atteindre.
+
+Ce document est élaboré en considération des charges et contributions définies à l'article L. 328-10. Il tient compte des
+priorités énoncées dans les documents d'urbanisme ainsi que des objectifs de réalisation de logements précisés par le
+programme local de l'habitat.
+
+Sur la base d'un programme pluriannuel d'investissements, il fixe la trajectoire financière pluriannuelle et rappelle les
+contributions des collectivités territoriales et de leurs groupements mentionnés au premier alinéa du I de l'article L.
+328-8, destinées à assurer l'équilibre des opérations de gestion des ouvrages.
+
+Le document d'engagement fixe également la trajectoire financière pluriannuelle des opérations d'aménagement en précisant
+leur conditions d'équilibre et, le cas échéant, les contributions des collectivités et de leurs groupements. Il annexe les
+prévisions à fin d'affaires des opérations d'aménagement prévues.
+
+Le document d'engagement prévoit un bilan à cinq ans du fonctionnement et de la réalisation des opérations d'investissements.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-717 du 3 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L328-10
+	  - Code de l'urbanisme - art. L328-8 (VD)
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L328-12 (VD)
+
+
+###### Article L328-12
+
+Le préfet de la région d'Ile-de-France veille à l'application du document d'engagement prévu à l'article L. 328-11.
+
+Il peut suspendre le caractère exécutoire des décisions du conseil d'administration de Paris La Défense et demander une
+seconde délibération dans un délai de quinze jours à compter de leur réception lorsque celles-ci portent manifestement
+atteinte aux intérêts nationaux, et en particulier aux intérêts patrimoniaux de l'Etat, ou au bon fonctionnement des services
+publics.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-717 du 3 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L328-11
+
+
+###### Article L328-13
+
+Le directeur général est chargé de l'administration de l'établissement. Il prépare et exécute les décisions du conseil
+d'administration dans des conditions fixées par décret en Conseil d'Etat.
+
+Le directeur général est nommé sur proposition du président par le conseil d'administration et après avis motivé du préfet de
+région, pour un mandat de cinq ans renouvelable et révocable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-717 du 3 mai 2017 - art. 1
+
+
+###### Article L328-14
+
+Le contrôle de légalité et le contrôle budgétaire des actes et délibérations de l'établissement public sont exercés par le
+préfet de la région d'Ile-de-France dans les conditions prévues par le code général des collectivités territoriales.
+
+Le comptable de l'établissement public est un comptable public nommé par le préfet de la région d'Ile-de-France, après avis
+du directeur régional des finances publiques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-717 du 3 mai 2017 - art. 1
+
+
+###### Article L328-15
+
+Les ressources de l'établissement comprennent :
+
+1° Les contributions de ses membres, prévues à l'article L. 328-10 ;
+
+2° Les dotations, subventions, avances, fonds de concours ou participations susceptibles d'être apportées par l'Etat, l'Union
+européenne, les établissements publics, les collectivités territoriales ou leurs groupements ;
+
+3° Le produit des emprunts ;
+
+4° La rémunération des prestations de services ;
+
+5° Le produit de la gestion des biens entrés dans son patrimoine ;
+
+6° Le produit de cession des biens et droits mobiliers et immobiliers ;
+
+7° Le revenu des biens et droits mobiliers et immobiliers ;
+
+8° Les dons et legs ;
+
+9° Toutes autres ressources autorisées par les lois et règlements.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-717 du 3 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L328-10 (VD)
+
+
+###### Article L328-16
+
+Pour l'application des premiers alinéas des articles L. 328-2 et L. 328-3, de l'article L. 328-4 et du deuxième alinéa de
+l'article L. 328-5, l'avis des collectivités territoriales ou de leurs groupements consultés est réputé favorable s'il n'est
+pas émis dans un délai de trois mois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-717 du 3 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L328-2 (VD)
+	  - Code de l'urbanisme - art. L328-3 (VD)
+	  - Code de l'urbanisme - art. L328-4 (VD)
+	  - Code de l'urbanisme - art. L328-5 (VD)
+
+
+###### Article L328-17
+
+Un décret en Conseil d'Etat détermine les conditions d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-717 du 3 mai 2017 - art. 1
 
 
 #### Chapitre IX
@@ -25479,22 +25664,26 @@ unique.
 ###### Article L331-1
 
 En vue de financer les actions et opérations contribuant à la réalisation des objectifs définis à l'article L. 101-2, les
-communes ou établissements publics de coopération intercommunale, la métropole de Lyon, les départements et la région d'Ile-
-de-France perçoivent une taxe d'aménagement. 
+communes ou établissements publics de coopération intercommunale, la métropole de Lyon, les départements, la collectivité de
+Corse et la région d'Ile-de-France perçoivent une taxe d'aménagement. 
 
 La taxe d'aménagement constitue un élément du prix de revient de l'ensemble immobilier au sens de l'article 302 septies B du
 code général des impôts.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
+
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 5
+	  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 5
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 302 septies B
-	  - Code de l'urbanisme - art. L101-2 (VD)
+	  - Code de l'urbanisme - art. L101-2
 
 	**Cité par**:
 
@@ -25508,10 +25697,6 @@ code général des impôts.
 	  - Code de la construction et de l'habitation. - art. R31-10-8 (V)
 	  - Code général des collectivités territoriales - art. L2331-5 (V)
 	  - Livre des procédures fiscales - art. L255 A (VD)
-
-	**Codifié par**:
-
-	  - Décret n°73-1022 1973-11-08 JORF 13 NOVEMBRE 1973
 
 
 ###### Article L331-2
@@ -25549,7 +25734,7 @@ Les délibérations par lesquelles le conseil municipal, le conseil de la métro
 l'établissement public de coopération intercommunale institue la taxe, renonce à la percevoir ou la supprime sont valables
 pour une durée minimale de trois ans à compter de leur entrée en vigueur. 
 
-Nonobstant leur durée initialement prévue, les délibérations mentionnées au neuvième alinéa renonçant à percevoir la taxe, ou
+Nonobstant leur durée initialement prévue, les délibérations mentionnées au dixième alinéa renonçant à percevoir la taxe, ou
 la supprimant, prises par les conseils municipaux ou, le cas échéant, par l'organe délibérant de l'établissement public de
 coopération intercommunale participant à la création d'une commune nouvelle, demeurent applicables uniquement la première
 année suivant celle au cours de laquelle l'arrêté portant création de la commune nouvelle a été pris.
@@ -25566,7 +25751,7 @@ taxe est affecté en section d'investissement du budget principal de la métropo
 
 	**Modifié par**:
 
-	  - Loi n°2016-1917 du 29 décembre 2016 - art. 100
+	  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 5
 
 	**Cite**:
 
@@ -25591,8 +25776,8 @@ taxe est affecté en section d'investissement du budget principal de la métropo
 
 ###### Article L331-3
 
-La part départementale de la taxe d'aménagement est instituée par délibération du conseil départemental dans les conditions
-fixées au huitième alinéa de l'article L. 331-2 en vue de financer : 
+La part départementale de la taxe d'aménagement est instituée par délibération du conseil départemental ou de l'Assemblée de
+Corse dans les conditions fixées au dixième alinéa de l'article L. 331-2 en vue de financer : 
 
 1° La politique de protection des espaces naturels sensibles prévue à l'article L. 113-8 ainsi que les dépenses : 
 
@@ -25655,16 +25840,16 @@ reviennent à la métropole de Lyon, en sus de ceux qui lui échoient en vertu d
 
 	**Cite**:
 
-	  - Loi n°77-2 du 3 janvier 1977 - art. 8 (V)
-	  - Code du sport. - art. L311-3 (VT)
-	  - Code de l'urbanisme - art. L113-6 (VD)
-	  - Code de l'urbanisme - art. L113-8 (VD)
-	  - Code de l'urbanisme - art. L121-45 (VD)
-	  - Code de l'urbanisme - art. L215-21 (VD)
-	  - Code de l'urbanisme - art. L215-4 (VD)
-	  - Code de l'environnement - art. L332-1 (V)
-	  - Code de l'environnement - art. L371-3 (VT)
-	  - Code de l'environnement - art. L414-1 (V)
+	  - Loi n°77-2 du 3 janvier 1977 - art. 8
+	  - Code du sport. - art. L311-3
+	  - Code de l'urbanisme - art. L113-6
+	  - Code de l'urbanisme - art. L113-8
+	  - Code de l'urbanisme - art. L121-45
+	  - Code de l'urbanisme - art. L215-21
+	  - Code de l'urbanisme - art. L215-4
+	  - Code de l'environnement - art. L332-1
+	  - Code de l'environnement - art. L371-3
+	  - Code de l'environnement - art. L414-1
 
 	**Cité par**:
 
@@ -25679,7 +25864,7 @@ reviennent à la métropole de Lyon, en sus de ceux qui lui échoient en vertu d
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 5
+	  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 5
 
 	**Codifié par**:
 
@@ -25907,30 +26092,29 @@ compter des impositions dues au titre de 2015.
 
 Par délibération prise dans les conditions prévues au premier alinéa de l'article L. 331-14, les organes délibérants des
 communes ou des établissements publics de coopération intercommunale, le conseil de la métropole de Lyon, les conseils
-départementaux et le conseil régional de la région d'Ile-de-France peuvent exonérer de la taxe d'aménagement, en tout ou
-partie, chacune des catégories de construction ou aménagement suivantes : 
+départementaux, l'Assemblée de Corse et le conseil régional de la région d'Ile-de-France peuvent exonérer de la taxe
+d'aménagement, en tout ou partie, chacune des catégories de construction ou aménagement suivantes :
 
 1° Les locaux d'habitation et d'hébergement mentionnés au 1° de l'article L. 331-12 qui ne bénéficient pas de l'exonération
-prévue au 2° de l'article L. 331-7 ; 
+prévue au 2° de l'article L. 331-7 ;
 
 2° Dans la limite de 50 % de leur surface, les surfaces des locaux à usage d'habitation principale qui ne bénéficient pas de
 l'abattement mentionné au 2° de l'article L. 331-12 et qui sont financés à l'aide du prêt ne portant pas intérêt prévu à
-l'article L. 31-10-1 du code de la construction et de l'habitation ; 
+l'article L. 31-10-1 du code de la construction et de l'habitation ;
 
-3° Les locaux à usage industriel et artisanal mentionnés au 3° de l'article L. 331-12 du présent code ; 
+3° Les locaux à usage industriel et artisanal mentionnés au 3° de l'article L. 331-12 du présent code ;
 
-4° Les commerces de détail d'une surface de vente inférieure à 400 mètres carrés ; 
+4° Les commerces de détail d'une surface de vente inférieure à 400 mètres carrés ;
 
-5° Les immeubles classés parmi les monuments historiques ou inscrits à l'inventaire supplémentaire des monuments
-historiques ; 
+5° Les immeubles classés ou inscrits au titre des monuments historiques ;
 
-6° Les surfaces annexes à usage de stationnement des locaux mentionnés au 1° et ne bénéficiant pas de l'exonération totale ; 
+6° Les surfaces annexes à usage de stationnement des locaux mentionnés au 1° et ne bénéficiant pas de l'exonération totale ;
 
-7° Les surfaces des locaux annexes à usage de stationnement des immeubles autres que d'habitations individuelles ; 
+7° Les surfaces des locaux annexes à usage de stationnement des immeubles autres que d'habitations individuelles ;
 
-8° Les abris de jardin, les pigeonniers et colombiers soumis à déclaration préalable ; 
+8° Les abris de jardin, les pigeonniers et colombiers soumis à déclaration préalable ;
 
-9° Les maisons de santé mentionnées à l'article L. 6323-3 du code de la santé publique, pour les communes maîtres d'ouvrage. 
+9° Les maisons de santé mentionnées à l'article L. 6323-3 du code de la santé publique, pour les communes maîtres d'ouvrage.
 
 Pour les autorisations d'urbanisme délivrées à compter du 1er janvier 2017, les exonérations adoptées par la métropole de
 Lyon sur le fondement du présent article s'appliquent simultanément à la part de taxe d'aménagement perçue en vertu du 3° de
@@ -25940,14 +26124,14 @@ l'article L. 331-2 et à celle qui lui revient en application de l'article L. 33
 
 	**Modifié par**:
 
-	  - Loi n°2015-1785 du 29 décembre 2015 - art. 104
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 19
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L6323-3 (V)
+	  - Code de la santé publique - art. L6323-3
 	  - Code de l'urbanisme - art. L331-12
 	  - Code de l'urbanisme - art. L331-14
-	  - Code de l'urbanisme - art. L331-2 (V)
+	  - Code de l'urbanisme - art. L331-2
 	  - Code de l'urbanisme - art. L331-7
 	  - Code de la construction et de l'habitation. - art. L31-10-1
 
@@ -26230,18 +26414,18 @@ compter des impositions dues au titre de 2015.
 
 ###### Article L331-17
 
-Par délibération adoptée avant le 30 novembre, les conseils départementaux fixent le taux de la part départementale de la
-taxe d'aménagement applicable à compter du 1er janvier de l'année suivante. 
+Par délibération adoptée avant le 30 novembre, les conseils départementaux et l'Assemblée de Corse fixent le taux de la part
+départementale de la taxe d'aménagement applicable à compter du 1er janvier de l'année suivante. 
 
-Les conseils départementaux fixent dans cette délibération ou, au plus  tard, lors de l'établissement de leur budget annuel
-les taux de  répartition de la part départementale de la taxe d'aménagement entre la  politique de protection des espaces
-naturels sensibles et les conseils  d'architecture, d'urbanisme et de l'environnement.
+Les conseils départementaux fixent dans cette délibération ou, au  plus  tard, lors de l'établissement de leur budget annuel
+les taux de   répartition de la part départementale de la taxe d'aménagement entre la   politique de protection des espaces
+naturels sensibles et les conseils   d'architecture, d'urbanisme et de l'environnement.
 
 Le taux de la part départementale de la taxe ne peut excéder 2,5 %. 
 
-Les délibérations prévues aux premier et deuxième alinéas sont valables  pour une période d'un an. Elles sont reconduites de
-plein droit pour  l'année suivante si une nouvelle délibération n'a pas été adoptée dans  les délais prévus aux mêmes premier
-et deuxième alinéas.
+Les délibérations prévues aux premier et deuxième alinéas sont  valables  pour une période d'un an. Elles sont reconduites de
+plein  droit pour  l'année suivante si une nouvelle délibération n'a pas été  adoptée dans  les délais prévus aux mêmes
+premier et deuxième alinéas.
 
 Les dispositions du présent article s'appliquent, à compter du 1er janvier 2016, à la métropole de Lyon pour la part de taxe
 d'aménagement prévue à l'article L. 331-3.
@@ -26250,11 +26434,11 @@ d'aménagement prévue à l'article L. 331-3.
 
 	**Modifié par**:
 
-	  - Loi n°2016-1917 du 29 décembre 2016 - art. 101
+	  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 5
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L331-3
+	  - Code de l'urbanisme - art. L331-3 (VD)
 
 
 ###### Article L331-18
@@ -29329,20 +29513,22 @@ pour délivrer le permis de construire.
 
 ###### Article L425-5
 
-Lorsque le projet porte sur un immeuble classé au titre des monuments historiques, l'autorisation prévue au premier alinéa de
-l'article L. 621-9 du code du patrimoine dispense de permis de construire, de permis d'aménager, de permis de démolir ou de
-déclaration préalable dès lors que la décision a fait l'objet d'un accord de l'autorité compétente pour statuer sur les
-demandes de permis de construire.
+Lorsque le projet porte sur un immeuble classé ou inscrit au titre des monuments historiques, l'autorisation prévue au
+premier alinéa de l'article L. 621-9 du code du patrimoine dispense de permis de construire, de permis d'aménager, de permis
+de démolir ou de déclaration préalable dès lors que la décision a fait l'objet d'un accord de l'autorité compétente pour
+statuer sur les demandes de permis de construire.
 
 **Nota:**
 
-
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 15 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 19
 
 	**Cité par**:
 
@@ -29350,7 +29536,7 @@ demandes de permis de construire.
 
 	**Cite**:
 
-	  - Code du patrimoine. - art. L621-9 (V)
+	  - Code du patrimoine - art. L621-9
 
 	**Codifié par**:
 
@@ -54568,146 +54754,190 @@ entreprises publiques nationales et certains organismes ayant un objet d'ordre �
 
 #### Chapitre VIII : Etablissement public de gestion du quartier d'affaires de La Défense
 
-###### Article *R328-1
+###### Article R328-1
 
-L'Etablissement public de gestion du quartier d'affaires de La Défense, créé par l'article L. 328-1, est administré par un
-conseil d'administration de treize membres composé de : 
+L'établissement public Paris La Défense, régi par les articles L. 328-1 et suivants, est administré par un conseil de dix-
+sept membres dotés chacun d'un suppléant. Il est composé comme suit :
 
-1° Sept représentants du département des Hauts-de-Seine, désignés par le conseil départemental parmi ses membres ; 
+1° Quinze membres représentant les collectivités territoriales et leurs groupements mentionnés au premier alinéa du I de
+l'article L. 328-8 désignés en leur sein par leur organe délibérant :
 
-2° Trois représentants de la commune de Courbevoie, désignés par le conseil municipal parmi ses membres ; 
+- neuf représentants du département des Hauts-de-Seine ;
 
-3° Trois représentants de la commune de Puteaux, désignés par le conseil municipal parmi ses membres.
+- un représentant de la région d'Ile-de-France ;
+
+- un représentant de la métropole du Grand Paris ;
+
+- un représentant de la commune de Paris ;
+
+- un représentant des communes de Courbevoie, Nanterre et Puteaux.
+
+Le représentant de chaque collectivité territoriale ou leurs groupements signataire de la convention prévue à l'article L.
+328-10 dispose d'un droit de vote majoré en considération de la part que cette collectivité territoriale ou ce groupement
+représente dans l'ensemble des contributions prévues au même article, sans que la somme des droits de vote ainsi majorés
+n'excède une valeur égale à vingt-cinq, et dans la limite et les conditions prévues au II de l'article L. 328-8.
+
+Cette majoration procède de l'attribution proportionnelle d'un ensemble de dix droits de vote supplémentaires auxquels
+s'ajoutent, le cas échéant, ceux des personnes publiques mentionnées au premier alinéa du I l'article L. 328-8 qui n'ont pas
+signé ladite convention.
+
+Lorsque cette convention n'a pas défini la majoration des droits de vote en application du I de l'article L. 328-10, les
+droits de vote sont attribués proportionnellement à la plus forte moyenne.
+
+Le ministre chargé de l'urbanisme arrête, au vu de la convention qui lui a été notifiée en application du même article et
+pour chacune des personnes publiques concernées, la valeur ainsi majorée des droits de vote de leurs représentants.
+
+2° Une personnalité qualifiée nommée, en raison de ses compétences en matière d'aménagement, par le ministre chargé de
+l'urbanisme et une personnalité qualifiée nommée, en raison de ses compétences en matière de développement économique, par le
+ministre chargé de l'économie. Chacune de ces personnalités qualifiées dispose d'un droit de vote.
+
+Deux représentants du personnel de l'établissement peuvent assister au conseil d'administration avec voix consultative.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 2 du décret n° 2017-1040 du 10 mai 2017, ces dispositions entrent en vigueur
+à la date de création de l'établissement public Paris La Défense prévue l'article 2 de l'ordonnance n° 2017-717 du 3 mai
+2017.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. *R328-9 (V)
+	  - Décret n°2017-1040 du 10 mai 2017 - art. 1
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L328-1
 
+	**Cité par**:
 
-###### Article *R328-2
-
-Les membres du conseil d'administration sont désignés pour six ans. 
-
-Leurs fonctions cessent avec le mandat électif dont ils sont investis. 
-
-En cas de vacance pour quelque cause que ce soit, il est procédé dans les trois mois au remplacement des membres qui ont
-cessé de faire partie du conseil par de nouveaux membres désignés selon les mêmes modalités que ceux qu'ils remplacent. Le
-mandat du nouveau membre expire à la date à laquelle aurait normalement pris fin celui de son prédécesseur. 
-
-Le mandat de membre du conseil d'administration est renouvelable. 
-
-Les membres du conseil d'administration ne peuvent prendre ou conserver aucun intérêt, occuper aucune fonction dans les
-entreprises traitant avec l'établissement pour des marchés de travaux, de fournitures ou de services ou assurer des
-prestations pour ces entreprises. Ils ne peuvent en aucun cas prêter leur concours à titre onéreux à l'établissement.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2007-1684 du 29 novembre 2007 - art. 1
+	  - Code de l'urbanisme - art. R328-9 (VD)
 
 
-###### Article *R328-3
+###### Article R328-2
 
-Le conseil d'administration élit, en son sein et pour une durée de six ans, un président. 
+Les membres du conseil d'administration mentionnés au 1° de l'article R. 328-1 sont désignés pour la durée du mandat électif
+dont ils sont investis, sans préjudice de l'application des articles 
+L. 2121-33
+, 
+L. 3121-23
+et 
+L. 4132-22
+du code général des collectivités territoriales. Leur fonction cesse avec celui-ci. Leur mandat est renouvelable.
 
-Il élit également, dans les mêmes conditions, un premier et un second vice-présidents. 
+Les personnalités qualifiées sont désignées pour une durée de six ans. Leur mandat est renouvelable.
 
-Les vice-présidents suppléent le président en cas d'absence ou d'empêchement.
+En cas de vacance d'un siège pour quelque cause que ce soit, il est procédé dans les deux mois au remplacement du membre qui
+a cessé de faire partie du conseil par un nouveau membre désigné, pour la durée du mandat restant à courir s'il s'agit d'un
+membre mentionné au premier alinéa ou pour une durée de six ans dans les autres cas, selon les mêmes modalités que celles
+ayant présidé à la désignation de celui qu'il remplace.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-	**Créé par**:
-
-	  - Décret n°2007-1684 du 29 novembre 2007 - art. 1
-
-
-###### Article *R328-4
-
-Le conseil d'administration se réunit au moins trois fois par an. 
-
-Le conseil d'administration est convoqué par son président qui fixe l'ordre du jour et dirige les débats. 
-
-Sa convocation est de droit lorsqu'elle est demandée par la moitié au moins des membres du conseil d'administration, par tous
-les représentants de l'une des collectivités membres du conseil d'administration ou par le préfet des Hauts-de-Seine. La
-demande écrite est adressée au président, qui convoque le conseil d'administration dans un délai qui ne peut être inférieur à
-quinze jours.
-
-L'ordre du jour des séances doit être porté à la connaissance des membres du conseil au moins dix jours avant la date de la
-réunion du conseil d'administration. 
-
-Le conseil d'administration délibère valablement lorsque la majorité de ses membres participent à la séance. Quand, après une
-première convocation régulière, le conseil d'administration ne s'est pas réuni en nombre suffisant, la délibération est prise
-valablement sans condition de quorum après seconde convocation. 
-
-Les décisions sont prises à la majorité absolue des suffrages exprimés. En cas de partage égal des voix, la voix du président
-est prépondérante. 
-
-Un membre du conseil d'administration absent peut se faire représenter par un autre membre. Chaque membre du conseil
-d'administration ne peut représenter qu'un seul de ses collègues. 
-
-Le directeur de l'Etablissement public de gestion et le directeur de l'établissement public pour l'aménagement de la région
-dite de " La Défense " assistent au conseil d'administration. 
-
-Le conseil d'administration peut inviter toute personne dont l'audition lui paraît utile. Il demandera le cas échéant et au
-moins une fois par an au comité consultatif prévu à l'article R. 328-8 de désigner un représentant qui assiste au conseil
-d'administration.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2007-1684 du 29 novembre 2007 - art. 1
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. *R328-8 (V)
-
-
-###### Article *R328-5
-
-Le conseil d'administration règle par ses délibérations les affaires de l'établissement. A cet effet, notamment : 
-
-1° Il détermine l'orientation de la politique à suivre ; 
-
-2° Il approuve        le budget ; 
-
-3° Il autorise les emprunts ; 
-
-4° Il approuve les comptes et se prononce sur l'affectation des résultats ; 
-
-5° Il approuve les conventions passées avec l'Etat, l'établissement public pour l'aménagement de la région dite de " La
-Défense ", les collectivités territoriales et leurs établissements publics ; 
-
-6° Il nomme le directeur sur proposition du président et met fin à ses fonctions dans les mêmes conditions ; 
-
-7° Il détermine les conditions de recrutement du personnel placé sous l'autorité du directeur ; 
-
-8° Il approuve les transactions ou autorise le directeur à transiger dans les conditions qu'il détermine ; il approuve le
-recours à l'arbitrage pour l'application de l'article R. 328-11 ; 
-
-9° Il adopte le règlement intérieur ; 
-
-10° Il fixe les modalités de consultation du comité consultatif prévu à l'article R. 328-8 sur les orientations retenues par
-l'établissement public pour l'exercice de ses compétences ; 
-
-11° Il fixe la domiciliation du siège.
+Conformément aux dispositions du I de l'article 2 du décret n° 2017-1040 du 10 mai 2017, ces dispositions entrent en vigueur
+à la date de création de l'établissement public Paris La Défense prévue l'article 2 de l'ordonnance n° 2017-717 du 3 mai
+2017.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
+	  - Décret n°2017-1040 du 10 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2121-33
+	  - Code général des collectivités territoriales - art. L3121-23
+	  - Code général des collectivités territoriales - art. L4132-22
+
+
+###### Article R328-3
+
+Les membres du conseil d'administration ne peuvent prendre ou conserver aucun intérêt directement lié à l'activité de
+l'établissement, occuper aucune fonction dans les entreprises traitant avec l'établissement pour des marchés de services, de
+travaux ou de fournitures ou assurer des prestations pour ces entreprises. Ils ne peuvent en aucun cas prêter leur concours à
+titre onéreux à l'établissement.
+
+Ils adressent au préfet de la région d'Ile-de-France, dans les quinze jours suivant leur nomination ou désignation, une
+déclaration mentionnant :
+
+- les fonctions exercées par eux-mêmes et leurs conjoints non séparés de corps ou les personnes avec lesquelles ils sont liés
+par un pacte civil de solidarité, dans les organismes ou les sociétés, ainsi que les sociétés qu'elles contrôlent ou qui les
+contrôlent au sens de l'article L. 233-3 du code de commerce, susceptibles, du fait de leur secteur d'activité, de conclure
+des conventions avec l'établissement public ;
+
+- la liste et le nombre des actions et droits sociaux représentant au moins un vingtième du capital ou des droits de vote,
+possédés par eux-mêmes, leurs conjoints et enfants mineurs non émancipés dans les mêmes sociétés ou organismes.
+
+Le préfet de la région d'Ile-de-France invite l'administrateur qui n'a pas adressé cette déclaration dans le délai prescrit
+au premier alinéa à la produire dans un délai qu'il fixe. Cet administrateur ne peut siéger au conseil d'administration avant
+de s'être acquitté de cette obligation, à moins qu'il ait justifié être dans l'impossibilité temporaire de le faire.
+
+Chaque année, le préfet de la région d'Ile-de-France demande aux membres du conseil d'administration de lui signaler les
+modifications intervenues dans les éléments figurant dans sa déclaration.
+
+Les informations ainsi fournies ont un caractère confidentiel.
+
+Les membres du conseil d'administration ne peuvent prendre part aux délibérations ayant pour objet une affaire à laquelle ils
+ont un intérêt personnel.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 2 du décret n° 2017-1040 du 10 mai 2017, ces dispositions entrent en vigueur
+à la date de création de l'établissement public Paris La Défense prévue l'article 2 de l'ordonnance n° 2017-717 du 3 mai
+2017.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-1040 du 10 mai 2017 - art. 1
+
+
+###### Article R328-4
+
+Le conseil d'administration élit en son sein un président et au moins deux vice-présidents. Le premier vice-président ou, à
+défaut, dans l'ordre d'élection, l'un des autres vice-présidents, supplée le président en cas d'absence ou d'empêchement.
+
+En cas de vacance de la présidence du conseil d'administration, pour quelque cause que ce soit, le premier vice-président ou,
+à défaut, dans l'ordre d'élection, l'un des autres vice-présidents, convoque un conseil d'administration, dont l'ordre du
+jour comporte l'élection d'un nouveau président et, le cas échéant, du ou des vice-présidents à remplacer.
+
+Sous réserve de l'application des dispositions du premier alinéa de l'article R. 328-2, le président et les vice-présidents
+sont élus pour une durée de quatre ans. Ils sont rééligibles.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 2 du décret n° 2017-1040 du 10 mai 2017, ces dispositions entrent en vigueur
+à la date de création de l'établissement public Paris La Défense prévue l'article 2 de l'ordonnance n° 2017-717 du 3 mai
+2017.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-1040 du 10 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. *R328-8
+
+
+###### Article R328-5
+
+Les membres du conseil d'administration exercent leur mandat à titre gratuit.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 2 du décret n° 2017-1040 du 10 mai 2017, ces dispositions entrent en vigueur
+à la date de création de l'établissement public Paris La Défense prévue l'article 2 de l'ordonnance n° 2017-717 du 3 mai
+2017.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-1040 du 10 mai 2017 - art. 1
 
 	**Cite**:
 
@@ -54715,48 +54945,101 @@ l'établissement public pour l'exercice de ses compétences ;
 	  - Code de l'urbanisme - art. R328-11
 
 
-###### Article *R328-6
+###### Article R328-6
 
-Les fonctions de directeur sont incompatibles avec celles de membre du conseil d'administration ou de membre des assemblées
-délibérantes des collectivités territoriales représentées au conseil d'administration. 
+Le conseil d'administration se réunit au moins trois fois par an. Il est convoqué par son président qui fixe l'ordre du jour
+et dirige les débats. La convocation du conseil d'administration est de droit si la moitié des membres au moins en adressent
+la demande écrite à son président.
 
-Le directeur est chargé de l'instruction préalable des affaires qui sont de la compétence de l'Etablissement public de
-gestion. Il prépare et exécute les décisions du conseil d'administration. En particulier, il prépare        le budget. Il
-gère l'établissement, le représente dans les actes de la vie civile, passe les contrats et signe tous les actes pris au nom
-de l'établissement, este en justice, prépare et conclut les transactions dans les conditions fixées par le conseil
-d'administration. Il est ordonnateur des recettes et des dépenses. Il recrute le personnel et a autorité sur lui. Il peut
-déléguer sa signature.
+L'ordre du jour des séances est porté à la connaissance des membres du conseil, ainsi que du préfet de la région d'Ile-de-
+France, au moins dix jours à l'avance.
+
+Le conseil d'administration délibère valablement lorsque la moitié au moins de ses membres sont présents ou suppléés. Si le
+quorum n'est pas atteint, le conseil d'administration est à nouveau convoqué dans un délai de dix jours. Il délibère alors
+valablement quel que soit le nombre des membres présents ou suppléés.
+
+Les membres du conseil d'administration peuvent participer à une séance du conseil d'administration par des moyens de
+visioconférence permettant leur identification et leur participation effective à une délibération collégiale, dans des
+conditions précisées par le règlement intérieur. En pareil cas, le nombre de membres physiquement présents à la séance ne
+peut être inférieur au quart de l'effectif total du conseil.
+
+Les décisions sont prises à la majorité des droits de vote détenus par les membres présents ou suppléés. En cas de partage
+égal des droits, les droits du président sont prépondérants.
+
+Le recours à une procédure de consultation écrite du conseil d'administration peut être décidé à titre exceptionnel par le
+président, lorsque l'urgence nécessite une décision du conseil dans des délais trop brefs pour que cette décision puisse
+intervenir en séance ordinaire. Cette consultation peut porter sur toute compétence du conseil d'administration à l'exception
+de celles prévues aux 1°, 4°, 5°, 6°, 10°, 11° et 12° du I de l'article R. 328-7.
+
+Dans ce cas, les membres du conseil d'administration sont consultés individuellement par voie écrite, le cas échéant par
+courrier électronique, à l'initiative du président. Leur avis et leur vote doivent également être exprimés par écrit dans les
+mêmes conditions, dans un délai fixé par le président et qui ne peut être inférieur à trois jours ouvrés. Les conditions de
+quorum normalement en vigueur sont applicables à cette procédure et leur respect s'apprécie au moment du décompte des votes,
+qui intervient au terme de ce délai.
+
+La question qui fait l'objet de la consultation accélérée est inscrite de plein droit à l'ordre du jour de la plus prochaine
+réunion du conseil, pour compte rendu du président et indication des avis recueillis et du résultat du vote.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 2 du décret n° 2017-1040 du 10 mai 2017, ces dispositions entrent en vigueur
+à la date de création de l'établissement public Paris La Défense prévue l'article 2 de l'ordonnance n° 2017-717 du 3 mai
+2017.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
+	  - Décret n°2017-1040 du 10 mai 2017 - art. 1
 
 
-###### Article *R328-7
+###### Article R328-7
 
-En application de l'article L. 328-6, les charges résultant pour les collectivités territoriales de l'exercice des
-compétences mentionnées à l'article L. 328-2 sont réparties entre les membres de l'Etablissement public de gestion selon les
-proportions suivantes : 
+I.-Le conseil d'administration règle par ses délibérations les affaires de l'établissement. A ce titre, notamment :
 
-7/13 pour le département des Hauts-de-Seine ; 
+1° Il vote le budget et le cas échéant les budgets annexes ;
 
-3/13 pour la commune de Courbevoie ; 
+2° Il autorise les emprunts ;
 
-3/13 pour la commune de Puteaux. 
+3° Il autorise la conclusion des conventions passées avec l'Etat, les collectivités territoriales et les établissements
+public, et des conventions d'assistance à maîtrise d'ouvrage passées avec les pouvoirs adjudicateurs d'opérations
+immobilières ayant pour objet le développement du quartier d'affaires ;
 
-Une majorité qualifiée des deux tiers des membres du conseil d'administration est requise pour modifier la répartition
-précitée des contributions entre les collectivités territoriales membres de l'établissement public. 
+4° Il arrête le compte financier ;
 
-La délibération susmentionnée doit être prise avant le 1er novembre de l'année en cours pour être applicable à compter du 1er
-janvier de l'exercice suivant.
+5° Il décide des créations de filiales et des prises, extensions et cessions de participation financière ;
+
+6° Il fixe les orientations générales de l'établissement public et approuve le document d'engagement mentionné à l'article L.
+328-12 ainsi que la liste des opérations à entreprendre et leurs modalités de financement ;
+
+7° Il détermine les conditions générales de recrutement du personnel placé sous l'autorité du directeur général ;
+
+8° Il fixe, en tant que de besoin, les conditions dans lesquelles il peut être esté en justice pour le compte de
+l'établissement public ;
+
+9° Il approuve les transactions ;
+
+10° Il approuve le recours à l'arbitrage ;
+
+11° Il adopte son règlement intérieur, qui définit, le cas échéant, les conditions de fonctionnement du conseil
+d'exploitation appelé à rendre des avis sur l'élaboration et l'approbation des budgets annexes ;
+
+12° Il fixe le siège de l'établissement public ;
+
+II.-Le conseil d'administration peut déléguer au directeur général, dans les conditions qu'il détermine, ses pouvoirs de
+décision, à l'exception de ceux prévus aux 1°, 2°, 4°, 5°, 6°, 8°, 10°, 11° et 12°.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 2 du décret n° 2017-1040 du 10 mai 2017, ces dispositions entrent en vigueur
+à la date de création de l'établissement public Paris La Défense prévue l'article 2 de l'ordonnance n° 2017-717 du 3 mai
+2017.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1684 du 29 novembre 2007 - art. 1
+	  - Décret n°2017-1040 du 10 mai 2017 - art. 1
 
 	**Cite**:
 
@@ -54764,10 +55047,11 @@ janvier de l'exercice suivant.
 	  - Code de l'urbanisme - art. L328-6
 
 
-###### Article *R328-8
+###### Article R328-8
 
-I.-Le comité consultatif, représentant les personnes physiques et morales utilisatrices régulières des équipements et espaces
-publics gérés par l'Etablissement public de gestion, est composé de quinze membres ainsi répartis : 
+I.-Le conseil de développement, institué à l'article L. 328-9 et représentant les personnes physiques et morales
+utilisatrices régulières des équipements et espaces publics gérés par l'Etablissement public, est composé de treize membres
+ainsi répartis :
 
 - quatre représentants de l'Association des utilisateurs de La Défense (AUDE) ;
 
@@ -54790,41 +55074,46 @@ Seine, après consultation de ces associations ;
 
 - un propriétaire d'autres catégories d'immeubles de La Défense, désigné par le préfet des Hauts-de-Seine ;
 
-- deux représentants de l'établissement public d'aménagement de région dite de " La Défense ", désignés par son conseil
-d'administration. 
+Le préfet de la région d'Ile-de-France constate, par arrêté publié au recueil des actes administratifs de la préfecture, la
+liste nominative des membres du conseil de développement.
 
-Le préfet des Hauts-de-Seine constate, par arrêté publié au recueil des actes administratifs de la préfecture, la liste
-nominative des membres du comité consultatif. 
+Les membres du conseil de développement sont nommés pour six ans.
 
-Les membres du comité consultatif sont nommés pour six ans. 
+II.-Le conseil de développement élit en son sein, et pour une durée de six ans, un président.
 
-II.-Le comité consultatif élit en son sein, et pour une durée de six ans, un président. 
+Le conseil de développement adopte un règlement intérieur qui est approuvé par le préfet de la région d'Ile-de-France.
 
-Le comité consultatif adopte un règlement intérieur qui est approuvé par le préfet des Hauts-de-Seine. 
+Le président et le directeur général de l'établissement public assistent aux réunions du conseil et y sont entendus à chaque
+fois qu'ils le demandent.
 
-Le président et le directeur de l'Etablissement public de gestion assistent aux réunions du comité et y sont entendus à
-chaque fois qu'ils le demandent. 
+III.-Le conseil de développement émet un avis, selon les modalités fixées par le conseil d'administration de l'Etablissement
+public et au minimum une fois par an, sur les orientations retenues par l'établissement public et notamment sur :
 
-III.-Le comité consultatif émet un avis, selon les modalités fixées par le conseil d'administration de l'Etablissement public
-de gestion, et au minimum une fois par an, sur les orientations retenues par l'établissement public et notamment sur :
+- le budget et le cas échéant les budgets annexes ;
 
-- le budget ;
+- le document d'engagement ;
 
-- les actions et animations concernant le quartier d'affaires de La Défense. 
+- les actions et animations concernant le quartier d'affaires de La Défense.
 
-Cet avis est rendu à la majorité des suffrages exprimés. 
+Cet avis est rendu à la majorité absolue des suffrages exprimés.
 
-Le conseil d'administration de l'Etablissement public de gestion peut soumettre au comité consultatif toute question dont
-l'examen lui paraît utile dans l'exercice de ses compétences. 
+Le conseil d'administration de l'établissement public peut soumettre au conseil de développement toute question dont l'examen
+lui paraît utile dans l'exercice de ses compétences.
 
-Le président du comité consultatif peut saisir le président du conseil d'administration de l'Etablissement public de gestion
-de toute question dont l'importance le justifie.
+Le président du conseil de développement peut saisir le président du conseil d'administration de l'établissement public de
+toute question dont l'importance le justifie.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 2 du décret n° 2017-1040 du 10 mai 2017, ces dispositions entrent en vigueur
+à la date de création de l'établissement public Paris La Défense prévue l'article 2 de l'ordonnance n° 2017-717 du 3 mai
+2017.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
+	  - Décret n°2017-1040 du 10 mai 2017 - art. 1
 
 	**Cité par**:
 
@@ -54832,20 +55121,48 @@ de toute question dont l'importance le justifie.
 	  - Code de l'urbanisme - art. R328-5 (VD)
 
 
-###### Article *R328-9
+###### Article R328-9
 
-I.-Sous réserve des dispositions prévues par les articles L. 328-1 et suivants et R. 328-1 et suivants, l'Etablissement
-public de gestion du quartier d'affaires de La Défense est régi par les règles de fonctionnement prévues par les articles L.
-2221-10 et R. 2221-18 à R. 2221-52 du code général des collectivités territoriales. 
+I.-Le directeur général de l'établissement est ordonnateur des dépenses et des recettes. Il est chargé de l'instruction
+préalable des affaires qui sont de la compétence de l'établissement. Il prépare et exécute les décisions du conseil
+d'administration. Il prépare et présente le budget. Il recrute le personnel et a autorité sur lui. Il peut déléguer sa
+signature.
 
-II.-        Le budget mentionné à l'article L. 328-5constitue le budget de l'établissement public défini à l'article R.
-2221-43 du code général des collectivités territoriales.
+Il est notamment compétent pour :
+
+1° Préparer et passer les contrats, les marchés, les actes d'acquisition, d'aliénation, d'échange et de location ;
+
+2° Préparer et conclure les transactions ;
+
+3° Représenter l'établissement dans les actes de la vie civile et commerciale et ester en justice ;
+
+4° Ouvrir et organiser celles des enquêtes publiques prévues aux articles L. 123-1 et L. 123-2 du code de l'environnement qui
+sont requises pour les décisions ressortant de la compétence de l'établissement.
+
+En cas de vacance du poste ou d'empêchement du directeur général, un directeur général par intérim peut être nommé par le
+conseil d'administration convoqué à cet effet.
+
+Les fonctions de directeur général sont incompatibles avec celles de membre du conseil d'administration ou de membres des
+assemblées délibérantes des collectivités publiques représentées au conseil d'administration.
+
+II.-Le directeur général assiste de droit aux réunions du conseil d'administration. Il prépare et présente le document
+d'engagement et le bilan annuel.
+
+III.-Le directeur général, dans les limites des compétences qui lui ont été déléguées, peut, par délégation du conseil
+d'administration, être chargé d'exercer au nom de l'établissement les droits de préemption dont l'établissement est titulaire
+ou délégataire et le droit de priorité dont l'établissement est délégataire.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 2 du décret n° 2017-1040 du 10 mai 2017, ces dispositions entrent en vigueur
+à la date de création de l'établissement public Paris La Défense prévue l'article 2 de l'ordonnance n° 2017-717 du 3 mai
+2017.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
+	  - Décret n°2017-1040 du 10 mai 2017 - art. 1
 
 	**Cite**:
 
@@ -54853,113 +55170,132 @@ II.-        Le budget mentionné à l'article L. 328-5constitue le budget de l'�
 	  - Code général des collectivités territoriales - art. R2221-18
 	  - Code général des collectivités territoriales - art. R2221-43
 	  - Code général des collectivités territoriales - art. R2221-52
-	  - Code de l'urbanisme - art. *R328-1
 	  - Code de l'urbanisme - art. L328-1
 	  - Code de l'urbanisme - art. L328-5
+	  - Code de l'urbanisme - art. R328-1 (VD)
 
 
-###### Article *R328-10
+###### Article R328-10
 
-L'ensemble des ouvrages publics, espaces publics et services d'intérêt général de l'établissement public pour l'aménagement
-de la région dite de " La Défense " ont vocation à être mis à disposition de l'Etablissement public de gestion ou à lui être
-transférés en pleine propriété ; les marchés et contrats passés par l'établissement public d'aménagement pour leur gestion et
-pour leur entretien, ainsi que les biens matériels et immatériels qui leur sont dédiés, lui sont transférés simultanément
-sous réserve des droits des tiers. Toutefois, l'établissement public d'aménagement pourra conserver en gestion ou en
-propriété ceux nécessaires aux opérations d'aménagement qu'il mène ou projette. 
+En l'absence de notification de la convention mentionnée à l'article L. 328-10 :
 
-L'établissement public d'aménagement transfère à l'Etablissement public de gestion les archives, les bases de données
-topographiques et tout document nécessaires à la gestion de ces ouvrages, espaces et services d'intérêt général.
+1° Le montant prévu au II de l'article L. 328-10 est réparti comme suit :
 
-**Liens relatifs à cet article**
+- 9/11 pour le département des Hauts-de-Seine ;
 
-	**Créé par**:
+- 1/11 pour la commune de Courbevoie ;
 
-	  - Décret n°2007-1684 du 29 novembre 2007 - art. 1
+- 1/11 pour la commune de Puteaux ;
 
+2° Les quinze représentants des collectivités territoriales et leurs groupements au conseil d'administration mentionnés au 1°
+de l'article R. 328-1 disposent chacun d'un droit de vote. Aucune majoration n'est appliquée.
 
-###### Article *R328-11
+**Nota:**
 
-I. - Les mises à disposition ou transferts en pleine propriété à l'Etablissement public de gestion par l'établissement public
-pour l'aménagement de la région dite de " La Défense " sont soumises à l'accord des établissements constaté par un procès-
-verbal établi contradictoirement et précisant :
-
-- la consistance, la situation juridique et, le cas échéant, l'évaluation et les modalités de la remise en état des biens ;
-
-- les produits et charges afférents. 
-
-Pour l'établissement de ce procès-verbal, si les établissements décident de recourir aux conseils d'experts, la rémunération
-est supportée à parts égales par les deux établissements. 
-
-II. - A défaut d'accord dans le délai de deux mois suivant la notification de la demande de mise à disposition, les
-établissements recourent à un arbitrage, sous réserve que leurs statuts les y autorisent. 
-
-Sous réserve des délais ci-dessus, et sauf accord des établissements, la mise à disposition prend effet au 1er janvier de
-l'exercice suivant. 
-
-III. - La remise à disposition partielle ou totale du bien ou service est opérée à simple demande de l'établissement public
-d'aménagement dans le délai maximum de trois mois suivant la demande ; elle est réalisée conformément aux dispositions de
-l'article L. 328-4. 
-
-Dans cette hypothèse, l'établissement public d'aménagement supporte le coût de gestion et l'amortissement du bien ou service
-remis à disposition partiellement ou totalement. 
-
-Si la remise à disposition à l'établissement public d'aménagement affecte les ressources financières de l'Etablissement
-public de gestion, la perte de ses ressources est compensée par une dotation versée par le premier établissement. Celle-ci
-est équivalente au solde positif de l'ensemble des produits d'exploitation moins les charges directes, amortissements directs
-compris.
+Conformément aux dispositions du I de l'article 2 du décret n° 2017-1040 du 10 mai 2017, ces dispositions entrent en vigueur
+à la date de création de l'établissement public Paris La Défense prévue l'article 2 de l'ordonnance n° 2017-717 du 3 mai
+2017.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1684 du 29 novembre 2007 - art. 1
+	  - Décret n°2017-1040 du 10 mai 2017 - art. 1
+
+
+###### Article R328-11
+
+Lorsqu'il estime qu'une décision du conseil d'administration porte manifestement atteinte aux intérêts nationaux, et en
+particulier aux intérêts patrimoniaux de l'Etat, ou au bon fonctionnement des services publics, le préfet de la région d'Ile-
+de-France, dans un délai de quinze jours suivant la transmission de cette délibération, suspend le caractère exécutoire de
+cette décision. Il en informe le conseil d'administration. La délibération mentionnée n'est pas exécutée. Elle est inscrite à
+l'ordre du jour du prochain conseil d'administration.
+
+Au cours de celui-ci, le préfet de la région d'Ile de France communique aux administrateurs les éléments démontrant que la
+délibération porte une atteinte excessive aux intérêts nationaux et en particulier aux intérêts patrimoniaux de l'Etat ou au
+bon fonctionnement des services publics.
+
+Une nouvelle délibération est prise à la majorité des deux tiers des suffrages exprimés.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 2 du décret n° 2017-1040 du 10 mai 2017, ces dispositions entrent en vigueur
+à la date de création de l'établissement public Paris La Défense prévue l'article 2 de l'ordonnance n° 2017-717 du 3 mai
+2017.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-1040 du 10 mai 2017 - art. 1
 
 	**Cité par**:
 
-	  - Code de l'urbanisme - art. *R328-12 (V)
 	  - Code de l'urbanisme - art. *R328-13 (V)
+	  - Code de l'urbanisme - art. R328-12 (VD)
 	  - Code de l'urbanisme - art. R328-5 (VD)
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L328-4 (V)
+	  - Code de l'urbanisme - art. L328-4
 
 
-###### Article *R328-12
+###### Article R328-12
 
-Lorsque les deux établissements mentionnés à l'article R. 328-11 conviennent qu'un équipement, espace ou service relevant de
-la gestion de l'un d'entre eux doit être géré par l'autre établissement, les coûts de gestion intégrant les charges qui sont
-supportées par le premier établissement, y compris les dotations aux amortissements et la rémunération du gestionnaire, sont
-remboursés par le deuxième établissement. 
+Paris La Défense est autorisé à transiger et à compromettre.
 
-Une comptabilité analytique sera tenue, permettant de vérifier les coûts imputés devant être remboursés ; l'établissement
-concerné acceptera tout contrôle ou audit sur ses comptes.
+Les actes à caractère réglementaire pris par délibération du conseil d'administration de Paris La Défense ou par le directeur
+général par délégation du conseil d'administration ou en vertu de ses compétences propres en application des lois et
+règlements sont publiés dans un recueil tenu par l'établissement dans les conditions fixées par le règlement intérieur.
 
-**Liens relatifs à cet article**
+Les décisions relatives à l'exercice du droit de préemption ou de priorité font, en plus de la publication prévue à l'alinéa
+précédent, l'objet d'un affichage dans les mairies concernées par celles-ci pendant une durée de deux mois.
 
-	**Créé par**:
+**Nota:**
 
-	  - Décret n°2007-1684 du 29 novembre 2007 - art. 1
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. *R328-11 (V)
-
-
-###### Article *R328-13
-
-Les mises à disposition ou transferts de propriété de l'Etat et des communes de Courbevoie et de Puteaux à l'Etablissement
-public de gestion sont soumis aux procédures fixées au I de l'article R. 328-11.
+Conformément aux dispositions du I de l'article 2 du décret n° 2017-1040 du 10 mai 2017, ces dispositions entrent en vigueur
+à la date de création de l'établissement public Paris La Défense prévue l'article 2 de l'ordonnance n° 2017-717 du 3 mai
+2017.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1684 du 29 novembre 2007 - art. 1
+	  - Décret n°2017-1040 du 10 mai 2017 - art. 1
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. *R328-11 (V)
+	  - Code de l'urbanisme - art. R328-11 (VD)
+
+
+###### Article R328-13
+
+Paris La Défense est soumis aux 
+dispositions du titre Ier du décret n° 2012-1246 du 7 novembre 2012
+relatif à la gestion budgétaire et comptable publique ainsi qu'à celles prévues aux articles R. 2221-35 à R. 2221-52 du code
+général des collectivités territoriales.
+
+Il peut être institué au sein de l'établissement public des régies de recettes et des régies d'avances dans les conditions
+prévues par le 
+décret n° 92-681 du 20 juillet 1992
+relatif aux régies de recettes et aux régies d'avances des organismes publics.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 2 du décret n° 2017-1040 du 10 mai 2017, ces dispositions entrent en vigueur
+à la date de création de l'établissement public Paris La Défense prévue l'article 2 de l'ordonnance n° 2017-717 du 3 mai
+2017.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°92-681 du 20 juillet 1992
+	  - Décret n°2012-1246 du 7 novembre 2012
+
+	**Modifié par**:
+
+	  - Décret n°2017-1040 du 10 mai 2017 - art. 1
 
 
 #### Chapitre IX : Organisme de foncier solidaire
